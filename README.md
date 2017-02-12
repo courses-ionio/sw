@@ -12,8 +12,6 @@
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
 
-**Ηλεκτρονικά φροντιστήρια / Απορίες:** Αν η απορία που έχετε δεν έχει ήδη απαντηθεί στα issues του github (πάνω αριστερά το κουμπάκι issues με το θαυμαστικό), τότε μπορείτε να δημιουργήσετε ένα νέο issue στο οποίο θα θέτετε το ερώτημά σας. Αν η ερώτησή σας αφορά την εργασία θα πρέπει να κάνετε issue στην αντίστοιχη εργασία, ενώ αν αφορά την διαδικασία παράδοσης θα κάνετε issue στο αποθετήριο [projects](https://github.com/courses-ionio/projects). Ερωτήσεις που απαντώνται ήδη στο Github θα αγνοούνται. Σε κάθε περίπτωση, ο καλύτερος χώρος για να πάρετε σαφή απάντηση σε ερώτημά σας είναι μέσα στην τάξη.
-
 **Βοηθοί μαθήματος:** Διογένης Αλεξανδράκης (e-learning): c15alex@ionio.gr, Βαρβάρα Γαρνέλη: c13garn@ionio.gr, Αλεξανδρος Μερκούρης (e-learning): c14merk@ionio.gr
 
 **Βιβλίο μαθήματος:** 1) Ανάγνωση κώδικα, 2) Πρακτικός προγραμματιστής, 3) [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ.4 Εργαλεία και Τεχνικές
@@ -29,10 +27,6 @@
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
 [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
-
-[Teaching Real-World Programming](http://cacm.acm.org/magazines/2013/8/166303-teaching-programming-the-way-it-works-outside-the-classroom/abstract)
-
-[Teaching Programming To A Highly Motivated Beginner](http://cacm.acm.org/blogs/blog-cacm/156836-teaching-programming-to-a-highly-motivated-beginner/fulltext)
 
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
