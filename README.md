@@ -12,8 +12,6 @@
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
 
-**Βοηθοί μαθήματος:** Διογένης Αλεξανδράκης (e-learning): c15alex@ionio.gr, Βαρβάρα Γαρνέλη: c13garn@ionio.gr, Αλεξανδρος Μερκούρης (e-learning): c14merk@ionio.gr
-
 **Βιβλίο μαθήματος:** 1) Ανάγνωση κώδικα, 2) Πρακτικός προγραμματιστής, 3) [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ.4 Εργαλεία και Τεχνικές
 
 **Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
