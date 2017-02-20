@@ -1,1 +1,5 @@
-This is a cool readme made by, P2014170 Alexandros Kalavitis !!!
+Author: P2014170 Alexandros Kalavitis
+Course : SW
+Project: Sentiment Analysis on Twitter
+
+Link https://github.com/KALALEX/twitter-stream-globe
