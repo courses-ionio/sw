@@ -26,3 +26,6 @@ https://github.com/kostasartKKM/SW-AugmentedReality-Project
 Τα καινούργια μοντέλα τα πήρα απο αυτό το website:
 http://www.cadnav.com/3d-models/human/fantasy/
 
+Το link απο το repository:
+https://github.com/kostasartKKM/SW-AugmentedReality-Project
+
