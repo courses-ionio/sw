@@ -12,4 +12,7 @@ Fork του app: https://github.com/ConstantineXipol/twitter-stream-globe
 
 https://github.com/ConstantineXipol/twitter-stream-globe
 
-Το app τρεχει στον δικο του χωρο στο https://colorglobe.herokuapp.com/ και εχει γινει η αλλαγη στην διαβαθμιση των χρωματων ενδειξης "sentiment" που περιγραφηκε παραπανω σε 4 χρωματα.
+1. Το app τρεχει στον δικο του χωρο στο https://colorglobe.herokuapp.com/ και εχει γινει η αλλαγη στην διαβαθμιση των χρωματων ενδειξης "sentiment" που περιγραφηκε παραπανω σε 4 χρωματα.
+  Εχω παει για διαβαθμιση απο -1 εως 1 αφου αυτο δειχνει στο "Sentiment meter" στο app. 
+
+2. Εχει γινει pull request στο repo του κωδικα του twitter app απο branch που εχει μονο τις προσθηκες στις μεταφρασεις, και εχουν μεταφραστει πανω απο 30 λεξεις (περιπου 40). Θέσεις 2212 και κατω σε σειρα.
