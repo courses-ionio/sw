@@ -8,3 +8,5 @@
 Παραδοτέο 2
 Προσθήκη score στο pacman
 https://p09kont.github.io/pacman/
+
+
