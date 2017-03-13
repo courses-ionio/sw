@@ -19,7 +19,7 @@
   * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κέρματα (coins), όπως κάνει και στο αυθεντικό παιχνίδι του Mario.
   ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/coin1.png "Coins")
   * Δημιούργησα μια νέα πίστα με βάση την πίστα που υπήρχε στον φάκελο assets.
-  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/%CF%80%CE%B9%CF%83%CF%84%CE%B11.PNG "Level1")
+  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/pacman-map1.png "Level1")
 
 ### Αποτέλεσματα:
- ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/%CE%9A%CE%B1%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE.PNG "Screenshot")
+ ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/Screenshot.png "Screenshot")
