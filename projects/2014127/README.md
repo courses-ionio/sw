@@ -32,3 +32,5 @@ gia na allaksw ta xrwmata toy metrith toy mesoy oroy prosthesa mia function poy 
 epeita gia na allaksw ta xrwmata ekana tis aparaithtes allages(dld prosthikh xrwmatwn )st scss kai st css arxeio
 
 telos prosthesa sto txt arxeio metafrash se oles tis lekseis poy ksekinoyn apo V oi opoies ksepernoyn tis 30 kathws to eponymo m ksekina apo V(Varvouzou).
+
+to link tou arxeioy einai to ekshs https://tweetappsw.herokuapp.com/
