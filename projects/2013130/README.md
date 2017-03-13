@@ -14,6 +14,8 @@
 ![alt tag](http://icons.iconarchive.com/icons/ph03nyx/super-mario/64/Question-Coin-icon.png)
 
 Όσον αφορά τη διαφορετική πίστα που δημιουργήθηκε μέσω του **Tiled**, χρησιμοποιήθηκε το tileset που είχε δοθεί αρχικά και 
-απλά υπήρξε μια αναδιαμόρφωση των στοιχείων του στο χώρο της πίστας.
+απλά υπήρξε μια αναδιαμόρφωση των στοιχείων του στο χώρο της πίστας. 
 
 ![bytiled](https://cloud.githubusercontent.com/assets/17690864/23873127/a090cee4-0839-11e7-91eb-8c07102cd54f.jpg)
+
+Μπορείτε να παίξετε στη νέα αυτή πίστα πατώντας [εδώ](https://psbiliri.github.io/pacman/).
