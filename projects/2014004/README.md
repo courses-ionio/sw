@@ -10,6 +10,8 @@
   
   Η εργασία στο προσωπικό μου αποθετήριο: https://github.com/PsarrasK/pacman
   
+  Link για για το παιχνίδι: https://psarrask.github.io/pacman/pacman.html
+  
   **Στοιχεία Φοιτητή**
   
   Ονοματεπώνυμο: Ψαρράς Κωνσταντίνος
