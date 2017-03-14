@@ -20,8 +20,8 @@
 Το παιχνίδι μπορείτε να το βρείτε εδώ
 https://dionisis1234.github.io/pacman/pacman.html
 
-##"Βιβλιογραφία"
-#Programs used
+#"Βιβλιογραφία"
+##Programs used
   https://draeton.github.io/stitches/ (stitches)
   http://www.mapeditor.org/   (tiled)
   https://ezgif.com/split
@@ -29,7 +29,7 @@ https://dionisis1234.github.io/pacman/pacman.html
   http://youtubetop.download
   http://imagesplitter.net/
   
-#Resources
+##Resources
   http://www.deviantart.com/art/SSB4-Megaman-run-animation-test-482452601
   http://orig07.deviantart.net/2a95/f/2014/258/f/6/ssb4_megaman_run_animation_test_by_gregarlink10-d7z8mt5.gif
   https://www.youtube.com/watch?v=HFnXxTG_9-c
