@@ -13,3 +13,7 @@
 + Αλλαγή πρωταγωνιστή: Έγινε αλλαγή πρωταγωνιστή απο **pacman** σε **super mario bros** του 1985.
 + Αλλαγή αντικειμένου: Έγινε αλλαγή απο τα dots του pacman σε coins του super mario bros.
 + Δημιουργία νέας πίστας: Έγινε αλλαγή πίστας για το παιχνίδι χρησιμοποιώστας το Tiled.
+
+Το προσωπικό μου αποθετήριο: https://github.com/eiriniklt/pacman
+
+Το παιχνίδι: https://eiriniklt.github.io/pacman/pacman.html
