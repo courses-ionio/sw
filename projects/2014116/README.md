@@ -10,7 +10,7 @@ Fork του app: https://github.com/ConstantineXipol/twitter-stream-globe
 
 #Παραδοτεο 2: 
 
-https://github.com/ConstantineXipol/twitter-stream-globe
+https://github.com/ConstantineXipol/twitter-stream-globe/blob/new/public/javascripts/TweetBeacon.js
 
 1. Το app τρεχει στον δικο του χωρο στο https://colorglobe.herokuapp.com/ και εχει γινει η αλλαγη στην διαβαθμιση των χρωματων ενδειξης "sentiment" που περιγραφηκε παραπανω σε 4 χρωματα.
   Εχω παει για διαβαθμιση απο -1 εως 1 αφου αυτο δειχνει στο "Sentiment meter" στο app. 
