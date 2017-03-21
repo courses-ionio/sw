@@ -14,6 +14,7 @@ Sentiment Analysis on Twitter
 το λινκ της εφαρμογης είναι το εξής : https://tweetappsw.herokuapp.com/
 
 Στον πηγαίο κώδικα άλλαξα τα εξής :στο αρχείο TweetBeacon.js άλλαξα το seantiment score line 20 έπειτα προκειμένου να δημιουργήσω 4 διαβαθμίσεις συναισθημάτων :
+link: https://github.com/magVarv/twitter-stream-globe/blob/magVarv/public/javascripts/TweetBeacon.js
 
 κίτρινο χρώμα :-2,5>πολύ αρνητικό συναίσθημα>=-5 
 
@@ -36,6 +37,8 @@ Sentiment Analysis on Twitter
 έπειτα για να αλλάξω τα χρώματα έκανα τις απαρίτητες αλλαγές(δηλαδή προσθήκη χρωμάτων )στο scss και στο css αρχείο
 
 τέλος στο txt άλλαξα τις παρακάτω λέξεις που αρχίζουν απο V σύμφωνα με το επώνυμο μου:
+
+link: https://github.com/magVarv/twitter-stream-globe/blob/magdaV/AFINN-translateToGreek165.txt
 
 1 victim	-3
 Θύμα -3
