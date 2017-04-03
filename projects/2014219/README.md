@@ -65,5 +65,9 @@
 
 * Επίσης προστέθηκαν score,bonus και ζωές. Στο **score** για κάθε dot προστίθενται και 10 πόντοι ενώ για τα κέρματα 10. Στα **bonus** προστίθενται για κάθε φράουλα 100 πόντοι. Στις **ζωές** έχουν προστεθεί τρείς ζωές οι οποίες δεν έχουν ακόμα κάποια λειτουργικότητα καθώς δεν υπάρχουν φαντάσματα για να χαθεί κάποια ζωή.
 
-![Screenshot](score.png)   ![Screenshot](lives.png)  ![Screenshot](bonus.png)
+![Screenshot](score.PNG)  
+
+![Screenshot](lives.PNG)  
+
+![Screenshot](bonus.PNG)
 
