@@ -7,6 +7,8 @@
 -----------
  Πραγματοποιήθηκε αλλαγή του pacman στον χαρακτήρα bird και του αντικειμένου dot σε fish.
  Δημιουργία νέας πίστας.
+ 
+ Αποθετήριο κώδικα : https://github.com/ThanosRestas/pacman 
  Σελίδα για την εκτέλεση της νέας μορφής του παιχνιδιού : https://thanosrestas.github.io/pacman/
   
     
