@@ -4,8 +4,8 @@
 *  Αριθμός Μητρώου: **Π2014219**
 *  Θέμα εργασίας **"Δημιουργία Pacman"**
 *  Προσωπικό αποθετήριο του κώδικα: [Link Αποθετηρίου του κώδικα](https://github.com/nikosdaskalos/pacman)
-*  Link για το εκτελέσιμο: **https://nikosdaskalos.github.io/pacman/pacman.html**
-*  Link για το πρώτο bonus(1 μονάδα): **https://nikosdaskalos.github.io/sw/projects/2014219/** 
+*  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://nikosdaskalos.github.io/pacman/pacman.html)
+*  Link για το πρώτο bonus(1 μονάδα): [Link Bonus GitHub Pages](https://nikosdaskalos.github.io/sw/projects/2014219/)
 
 ### Αρχικός σχεδιασμός εφαρμογής(20%)-13 Μαρτίου
 #### Εισαγωγή:
