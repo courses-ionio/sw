@@ -3,8 +3,8 @@
 *  Ονοματεπώνυμο: **Νικόλαος Δάσκαλος**
 *  Αριθμός Μητρώου: **Π2014219**
 *  Θέμα εργασίας **"Δημιουργία Pacman"**
-*  Προσωπικό αποθετήριο του κώδικα: **https://github.com/nikosdaskalos/pacman"**
-*  Link για το εκτελέσιμο: **https://nikosdaskalos.github.io/pacman/pacman.html"**
+*  Προσωπικό αποθετήριο του κώδικα: **https://github.com/nikosdaskalos/pacman**
+*  Link για το εκτελέσιμο: **https://nikosdaskalos.github.io/pacman/pacman.html**
 *  Link για το πρώτο bonus(1 μονάδα): **https://nikosdaskalos.github.io/sw/projects/2014219/** 
 
 ### Αρχικός σχεδιασμός εφαρμογής(20%)-13 Μαρτίου
