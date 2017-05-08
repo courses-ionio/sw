@@ -2,13 +2,16 @@
 
 Θέμα εργασίας: Twitter Sentiment Analysis (Τεχν. Λογισμικού)
 
-Fork του app: https://github.com/ConstantineXipol/twitter-stream-globe
+App: https://colorglobe.herokuapp.com/
 
+Forked repo του app: https://github.com/ConstantineXipol/twitter-stream-globe
+
+# Παραδοτεο 1
 Χρώματα: Μια παλετα 5 χρωματων για τις διαφορες διαβαθμισεις, απο το κόκκινο (ισχυρά αρνητικά), κίτρινο (αρνητικά), πράσινο (θετικά) και τελικα σε κυανο (πολυ θετικά).
 
 Επίσης, Θα διαλεξω τις λεξεις απο την γραμμη 2212 εως και 2257 (45 λεξεις).
 
-#Παραδοτεο 2: 
+# Παραδοτεο 2: 
 
 https://github.com/ConstantineXipol/twitter-stream-globe/blob/new/public/javascripts/TweetBeacon.js
 
@@ -61,7 +64,7 @@ To pull req. των λεξεων: https://github.com/ioniodi/twitter-stream-glob
 παραβλέπεται -2
 
 
-#Παραδοτεο 3: 
+# Παραδοτεο 3: 
 
 Εχουν γινει αλλαγες στην οπτικοποιηση της υδρογειου, δηλαδη αλλαγή texture (υφης) της υδρογειου, αλλαγη της ταχυτητας περιστροφής της (πιο αργά), και περιοριστηκε η γεωγραφικη προελευση των tweets μονο στην περιοχη Νεας Υόρκης - Βοστόνης.
 
