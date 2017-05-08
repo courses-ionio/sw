@@ -1,4 +1,4 @@
-Author: P2014170 Alexandros Kalavitis
+# Author: P2014170 Alexandros Kalavitis
 
 
 Course : SW
@@ -12,6 +12,8 @@ GitHub Repo Link: https://github.com/KALALEX/twitter-stream-globe
 
 App Link: https://testappglobething.herokuapp.com/
 
+
+## Paradoteo 1 & 2
 
 
 Changes:
@@ -151,3 +153,23 @@ Changes:
     * γελώς
     * γελών
     * γελάω
+
+
+## Paradoteo 3
+
+
+* Changed Globe Texture to /images/world.jpg
+  * [file](https://github.com/KALALEX/twitter-stream-globe/blob/report/public/javascripts/TwitterStreamGlobe.js)
+  * line: 61
+* Changed Globe Rotation Speed to 0.314 from 0.005
+  * [file](https://github.com/KALALEX/twitter-stream-globe/blob/report/public/javascripts/TwitterStreamGlobe.js)
+  * line: 174
+* Restricted Beacon Tweets to Australia
+  * [file](https://github.com/KALALEX/twitter-stream-globe/blob/report/public/javascripts/TwitterStreamGlobe.js)
+  * line: 129
+
+
+
+## Paradoteo 4
+
+
