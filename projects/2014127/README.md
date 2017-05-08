@@ -137,7 +137,7 @@ link: https://github.com/magVarv/twitter-stream-globe/blob/magdaV/AFINN-translat
 Άλλαξα την υφή της σφαίρας στο αρχείο twitterstreamglobe.js στη σειρά 61 (line 61) και έβαλα την εικόνα world.jpg 
 link : https://github.com/magVarv/twitter-stream-globe/blob/paradoteo3/public/javascripts/TwitterStreamGlobe.js
 
-Άλλαξα την ταχύτητα περιστροφής της σφαίρας στο αρχείο twitterstreamglobe.js σειρά 166 (line 166) και απο 0,005 μετέτρεψα την τιμή σε 0,001
+Άλλαξα την ταχύτητα περιστροφής της σφαίρας στο αρχείο twitterstreamglobe.js σειρά 128 (line 128) και απο 0,005 μετέτρεψα την τιμή σε 0,001
 link:  https://github.com/magVarv/twitter-stream-globe/blob/paradoteo3/public/javascripts/TwitterStreamGlobe.js
 
 Περιόρισα τα tweets που εμφανίζονται στο χάρτη ώστε να βγαίνουν beacons μόνο για τα tweets που βρίσκονται μέσα στις εξής συντεταγμένες 
