@@ -3,6 +3,10 @@
 
 ΟΝΟΜΑΤΕΠΩΝΥΜΟ  : Παραβαΐτσης Θωμάς
 
+Το link αποθετηρίου είναι https://github.com/p14para/twitter-stream-globe/tree/2014183
+
+Το link της εφαρμογής είναι 	https://afternoon-harbor-82311.herokuapp.com/
+
 ΑΜ : π2014183
 
 ΘΕΜΑ ΕΡΓΑΣΙΑΣ : Twitter Sentiment Analysis
@@ -231,4 +235,19 @@ champion	2
 Πρωταθλητής	2
 
 //2014183 Παραβαΐτσης Θωμάς sw
+
+
+ΠΑΡΑΔΟΤΕΟ 3ο
+
+Στο 3ο παραδοτέο έγινε αλλαγη της υφής του χάρτη,αυξηθηκε η ταχύτητα περιστροφής της γης και απομονώθηκαν οι συντεταγμές όπου λαμβανότανε τα tweets στο χάρτη
+
+το link του αποθετηρίου είναι https://github.com/p14para/twitter-stream-globe/tree/2014183
+
+Το link της εφαρμογής είναι https://afternoon-harbor-82311.herokuapp.com/
+
+Όσο αφορά τις αλλαγές αρχικά αλλάχθηκε η υφη σε αυτή https://github.com/p14para/twitter-stream-globe/blob/2014183/public/images/world-dark.jpg
+
+Η περιστροφή της γής επίσης αλλάχθηκε κάνοντας την να γυρίζει γρηγορότερα απο 0.005 σε 0.010 . Το link της αλλαγής είναι https://github.com/p14para/twitter-stream-globe/blob/2014183/public/javascripts/TwitterStreamGlobe.js
+
+Τέλος αλλάχθηκαν οι συντεταγμένες των tweet απο όλη τη γή στις συντεταγμένες '15,-15,100,30' . Το link της αλλαγής είναι https://github.com/p14para/twitter-stream-globe/blob/2014183/tweet-publisher/index.js
 
