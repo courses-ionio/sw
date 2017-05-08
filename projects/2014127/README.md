@@ -1,11 +1,8 @@
-Magdalini Varvouzou 
-
+Magdalini Varvouzou
 
 P2014127
 
-
 SW
-
 
 Sentiment Analysis on Twitter
 
@@ -223,3 +220,19 @@ link: https://github.com/magVarv/twitter-stream-globe/blob/magdaV/AFINN-translat
 47 vulnerable	-2
 ευάλωτα -2
 // 2014127 Magdalini Varvouzou
+
+
+
+Παραδοτέο 3
+
+το link του αποθετηρίου μου για το παραδοτέο 3 είναι το εξής : https://github.com/magVarv/twitter-stream-globe/tree/paradoteo3
+
+Άλλαξα την υφή της σφαίρας στο αρχείο twitterstreamglobe.js στη σειρά 61 (line 61) και έβαλα την εικόνα world.jpg 
+link : https://github.com/magVarv/twitter-stream-globe/blob/paradoteo3/public/javascripts/TwitterStreamGlobe.js
+
+Άλλαξα την ταχύτητα περιστροφής της σφαίρας στο αρχείο twitterstreamglobe.js σειρά 128 (line 128) και απο 0,005 μετέτρεψα την τιμή σε 0,001
+link:  https://github.com/magVarv/twitter-stream-globe/blob/paradoteo3/public/javascripts/TwitterStreamGlobe.js
+
+Περιόρισα τα tweets που εμφανίζονται στο χάρτη ώστε να βγαίνουν beacons μόνο για τα tweets που βρίσκονται μέσα στις εξής συντεταγμένες 
+30<= latitude<=70 και -10<= longtitude <= 30 δηλαδή τα περιόρισα περίπου στην Ευρώπη. (line 128)
+link :  https://github.com/magVarv/twitter-stream-globe/blob/paradoteo3/public/javascripts/TwitterStreamGlobe.js 
