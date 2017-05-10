@@ -3,8 +3,9 @@
 **Παραδοτέο 1**
 1. Ονοματεπώνυμο:Παύλος Κωτσόπουλος
 2. Αριθμός Μητρώου:Π2014222
-3. [Link Εκτελέσιμου](https://paulosflorina.github.io/pacman/pacman.html)
-4. [Link Αποθετηρίου](https://github.com/Paulosflorina/pacman)
+3. Θέμα Εργασίας: PacMan
+4. [Link Εκτελέσιμου](https://paulosflorina.github.io/pacman/pacman.html)
+5. [Link Αποθετηρίου](https://github.com/Paulosflorina/pacman)
 
 **Παραδοτέο 2**
 Για το δεύτερο παραδοτέο:
