@@ -121,7 +121,12 @@
 *  [Βασικό HTML](https://github.com/nikosdaskalos/pacman/blob/master/pacman.html) για αλλαγές στον κώδικα.
 *  [Βασικό pacman-map.json](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-map.json) για την επεξεργασία της πίστας.
 *  [Βασικό png εικόνων](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-tiles.png) για εισαγωγή νέων αντικειμένων στην πίστα.
-*  [Νέο pacman](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman.png)
-*  [Νέο dot](https://github.com/nikosdaskalos/pacman/blob/master/assets/dot.jpg)
-*  [Εισαγωγή Φράουλας](https://github.com/nikosdaskalos/pacman/blob/master/assets/str.png)
-*  [Εισαγωγή Κέρματος](https://github.com/nikosdaskalos/pacman/blob/master/assets/coin.jpg)
+*  [Νέο pacman](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman.png) αντικαθιστά το παλιό.
+*  [Νέο dot](https://github.com/nikosdaskalos/pacman/blob/master/assets/dot.jpg) αντικαθιστά τα αρχικά dots.
+*  [Εισαγωγή Φράουλας](https://github.com/nikosdaskalos/pacman/blob/master/assets/str.png) ως νέο αντικείμενο.
+*  [Εισαγωγή Κέρματος](https://github.com/nikosdaskalos/pacman/blob/master/assets/coin.jpg) ως νέο αντικείμενο.
+*  [Logo Pacman](https://github.com/nikosdaskalos/pacman/blob/master/assets/Pac-man-50b7b12e49245.png) πάνω αριστερά.
+*  [Logo Phaser](https://github.com/nikosdaskalos/pacman/blob/master/assets/2af2c4f1310cde76dc1008d8fa60350e.jpg) πάνω αριστερά.
+*  [Ήχος στο υπόβαθρο](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_beginning.wav) κατά το παίξιμο.
+*  [Ήχος κατά το φάγωμα](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_chomp.wav) των dots.
+*  [Ήχος κατά το φάγωμα](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_eatfruit.wav) των νέων αντικειμένων.
