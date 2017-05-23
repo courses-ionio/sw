@@ -41,7 +41,7 @@
 
 ![Screenshot](new.png)
 
-Επίσης εκτός από αυτές τις αλλαγές προστέθηκε  ένα logo του PacMan πάνω αριστερά, εκτός αυτού προστέθηκε και ήχος κατά την διάρκεια του παιχνιδιού καθώς και ήχος όποτε το αυτοκίνητο «τρώει» βενζίνη. Στο δεύτερο κομμάτι του ήχου, εμφανίζεται ένα πρόβλημα, τα dots είναι πολύ κοντά το ένα στο άλλο και ο ήχος τείνει να είναι συνεχόμενος όταν τα τρώει το αυτοκίνητο.  Το πρόβλημα αυτό μπορεί να αντιμετωπιστεί με πιο αραιή χρήση των dots στην πίστα ή με την χρήση «πιο κοφτού ήχου» ή με κάποια συνάρτηση. Τα logo πάρθηκαν απο απλές αναζητήσεις στο Google. [Πηγή PacMan logo.](https://www.google.gr/search?q=petrol+cartoon&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjYgbut9oXUAhWH8RQKHdsBAEAQsAQIJA&biw=1920&bih=974#tbm=isch&q=pacman+logo&imgrc=YA_IYhOHPi2ExM:) [Πηγή Phaser Logo.](https://www.google.gr/search?q=phaser+logo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwilt5T89oXUAhWHSBQKHY3bD3sQsAQILA&biw=1920&bih=974#imgrc=40FJuXYcYF69uM:)
+Επίσης εκτός από αυτές τις αλλαγές προστέθηκε  ένα logo του PacMan πάνω αριστερά, εκτός αυτού προστέθηκε και ήχος κατά την διάρκεια του παιχνιδιού καθώς και ήχος όποτε το αυτοκίνητο «τρώει» βενζίνη. Στο δεύτερο κομμάτι του ήχου, εμφανίζεται ένα πρόβλημα, τα dots είναι πολύ κοντά το ένα στο άλλο και ο ήχος τείνει να είναι συνεχόμενος όταν τα τρώει το αυτοκίνητο.  Το πρόβλημα αυτό μπορεί να αντιμετωπιστεί με πιο αραιή χρήση των dots στην πίστα ή με την χρήση «πιο κοφτού ήχου» ή με κάποια συνάρτηση. Τα logo πάρθηκαν απο απλές αναζητήσεις στο Google. [Πηγή PacMan Logo.](https://www.google.gr/search?q=petrol+cartoon&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjYgbut9oXUAhWH8RQKHdsBAEAQsAQIJA&biw=1920&bih=974#tbm=isch&q=pacman+logo&imgrc=YA_IYhOHPi2ExM:) [Πηγή Phaser Logo.](https://www.google.gr/search?q=phaser+logo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwilt5T89oXUAhWHSBQKHY3bD3sQsAQILA&biw=1920&bih=974#imgrc=40FJuXYcYF69uM:)
 
 #### Συμπεράσματα:
 
@@ -69,7 +69,7 @@
 
 ![Screenshot](coin.jpg)          ![Screenshot](str.png)
 
-* Επίσης προστέθηκαν score,bonus και ζωές. Στο **score** για κάθε dot προστίθενται  10 πόντοι ενώ για τα κέρματα και τις φράουλες 20. Στα **bonus** προστίθενται για κάθε αντικείμενο που εμφανίζεται και εξαφανίζεται 100 πόντοι(έχει γραφτεί ο κώδικας για το bonus αλλά δεν λειτουργεί). Στις **ζωές** έχουν προστεθεί τρείς ζωές οι οποίες δεν έχουν ακόμα κάποια λειτουργικότητα καθώς δεν υπάρχουν φαντάσματα για να χαθεί κάποια ζωή. Στην συνέχεια φαίνονται τα αντίστοιχα screenshots.[Πηγή κώδικα](https://phaser.io/tutorials/making-your-first-phaser-game/part8).
+* Επίσης προστέθηκαν score,bonus και ζωές. Στο **score** για κάθε dot προστίθενται  10 πόντοι ενώ για τα κέρματα και τις φράουλες 20. Στα **bonus** προστίθενται για κάθε αντικείμενο που εμφανίζεται και εξαφανίζεται 100 πόντοι(έχει γραφτεί ο κώδικας για το bonus αλλά δεν λειτουργεί). Στις **ζωές** έχουν προστεθεί τρείς ζωές οι οποίες δεν έχουν ακόμα κάποια λειτουργικότητα καθώς δεν υπάρχουν φαντάσματα για να χαθεί κάποια ζωή. Στην συνέχεια φαίνονται τα αντίστοιχα screenshots.[Πηγή Score-Bonus.](https://phaser.io/tutorials/making-your-first-phaser-game/part8). [Πηγή Ζωών.](https://phaser.io/examples/v2/games/invaders)
 
 ![Screenshot](score.PNG)  
 
