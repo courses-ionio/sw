@@ -1,8 +1,11 @@
 Δήλωση και δέσμευση Θέματος στο μάθημα Τεχνολογία Λογισμικού 
 
-Ονοματεπώυμο: Βασίλειος Κουρτίδης <br>
-ΑΜ: Π2012081 <br>
-Θέμα εργασίας: Pacman
+Ονοματεπώυμο: **Βασίλειος Κουρτίδης** <br>
+ΑΜ:** Π2012081** <br>
+Θέμα εργασίας:**Επεξεργασία Pacman**
+Προσωπικό Repository: [Repository Link](https://github.com/billkelso/pacman)
+Link παιχνιδιού: [Pacman Link](https://billkelso.github.io/pacman/)
+Link GitHub Pages bonus: [Bonus Link](https://billkelso.github.io/sw/projects/2012081/)
 
 Για το δεύτερο παραδοτέο αλλάχθηκε ο χαρακτήρας του pacman με τον Popeye. Οι τελείες αντικαταστάθηκαν από κονσέρβες με σπανάκι, ωστόσο
 λόγω μικρού μεγέθους είναι δυσδιάκριτες.
@@ -11,4 +14,5 @@
 
 Για το τρίτο παραδοτέο προστέθηκε ήχος στο παιχνίδι καθώς και το logo του Pacman.
 
-Link παιχνιδιού: https://billkelso.github.io/pacman/
+
+
