@@ -130,3 +130,6 @@
 *  [Ήχος στο υπόβαθρο](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_beginning.wav) κατά το παίξιμο.
 *  [Ήχος κατά το φάγωμα](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_chomp.wav) των dots.
 *  [Ήχος κατά το φάγωμα](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman_eatfruit.wav) των νέων αντικειμένων.
+*  To [maze.json](https://github.com/nikosdaskalos/pacman/blob/master/assets/maze.json) δεν πειράχθηκε καθόλου.
+
+Επίσης υπάρχουν και κάποια ακόμα αρχεία στον φάκελο assets τα οποίο βέβαια δεν χρησιμοποιήθηκαν στον παιχνίδι καθόλου οπότε και δεν αναφέρονται παραπάνω.
