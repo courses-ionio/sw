@@ -118,6 +118,10 @@
 
 Αναφορές σχετικά με τις  πηγές των αντικειμένων, των ήχων, του κώδικα και ότι άλλου χρειάστηκε για την υλοποίηση του παιχνιδιού υπάρχουν αναλυτικά μέσα στα αναλυτικά παραδοτέα παραπάνω με απευθείας link στην πηγή. Σε αυτό το κεφάλαιο δίνονται τα link απο τα αρχεία που έχουν αλλαχθεί στο προσωπικό αποθετήριο του κώδικα. Έχουν αλλαχθεί και προστεθεί τα:
 
-[Βασικό HTML](https://github.com/nikosdaskalos/pacman/blob/master/pacman.html) για αλλαγές στον κώδικα.
-[Βασικό pacman-map.json](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-map.json) για την επεξεργασία της πίστας.
-[Βασικό png εικόνων](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-tiles.png) για εισαγωγή νέων αντικειμένων στην πίστα.
+*  [Βασικό HTML](https://github.com/nikosdaskalos/pacman/blob/master/pacman.html) για αλλαγές στον κώδικα.
+*  [Βασικό pacman-map.json](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-map.json) για την επεξεργασία της πίστας.
+*  [Βασικό png εικόνων](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman-tiles.png) για εισαγωγή νέων αντικειμένων στην πίστα.
+*  [Νέο pacman](https://github.com/nikosdaskalos/pacman/blob/master/assets/pacman.png)
+*  [Νέο dot](https://github.com/nikosdaskalos/pacman/blob/master/assets/dot.jpg)
+*  [Εισαγωγή Φράουλας](https://github.com/nikosdaskalos/pacman/blob/master/assets/str.png)
+*  [Εισαγωγή Κέρματος](https://github.com/nikosdaskalos/pacman/blob/master/assets/coin.jpg)
