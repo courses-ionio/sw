@@ -29,7 +29,7 @@
 
 Παρακάτω αναφέρονται οι αλλαγές που έχουν γίνει ακολουθώντας τα παραπάνω δεδομένα:
 
-*  O χαρακτήρας του PacMan έχει αλλαχθεί με έναν νέο χαρακτήρα αυτοκινήτου ο οποίος πάρθηκε από το phaser coding tips(έχει γίνει fork στο προσωπικό μου repository).Παρακάτω φαίνεται ο νέος χαρακτήρας.[Πηγή χαρακτήρα](https://github.com/nikosdaskalos/phaser-coding-tips/tree/master/issue-005).
+*  O χαρακτήρας του PacMan έχει αλλαχθεί με έναν νέο χαρακτήρα αυτοκινήτου ο οποίος πάρθηκε από το phaser coding tips(έχει γίνει fork στο προσωπικό μου repository).Παρακάτω φαίνεται ο νέος χαρακτήρας.[Πηγή χαρακτήρα](https://github.com/nikosdaskalos/phaser-coding-tips/blob/master/issue-005/assets/car.png).
 
 ![Screenshot](pacman.png)
 
