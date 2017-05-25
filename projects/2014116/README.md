@@ -11,11 +11,12 @@
 
 [Προσωπικό αποθετήριο του twitter app κώδικα](https://github.com/ConstantineXipol/twitter-stream-globe)
 
-*Bonus 1 βαθμός* - [Σελίδα github pages της τελικής αναφοράς](https://constantinexipol.github.io/sw/projects/2014116/)
+*Bonus **1,5** Βαθμός* - [Συμμετοχή στην εφαρμογή PeersOnMap](http://i.imgur.com/6AesOtx.png) με ανέβασμα 10 μονοπάτιων (9 km), διόρθωση 10, και κατάταξη στους πρώτους 3 χρήστες (δεύτερος) με ~900 πόντους, όνομα: Halcyon44 και την [εύρεση ενός bug στην λειτουργεία του προγράμματος](http://i.imgur.com/kMDGtiQ.png) αν μετράει για τίποτα αυτό.
 
-*Bonus 1 ή 1,5 Βαθμός* - [Συμμετοχή στην εφαρμογή PeersOnMap](http://i.imgur.com/6AesOtx.png) με ανέβασμα 10 μονοπάτιων (9 km), διόρθωση 10, και κατάταξη στους πρώτους 3 χρήστες με 800 πόντους, όνομα: Halcyon44 και την [εύρεση ενός bug στην λειτουργεία του προγράμματος](http://i.imgur.com/kMDGtiQ.png)
+*ΟΧΙ για το bonus* [Σελίδα github pages της τελικής αναφοράς](https://constantinexipol.github.io/sw/projects/2014116/)
 
-## Αναφορά
+
+## Τελική Αναφορά
 
 Το παρόν github page αποτελεί την *τελική αναφορά* της εργασίας εξαμήνου Τεχνολογίας Λογισμικού με θέμα Twitter Sentiment Analysis. Εκπόνηση από τον Κωνσταντίνο Ξυπολιτόπουλο με αριθμό μητρώου Π2014116 για το εαρινό εξάμηνο του ακαδημαικού έτους 2016-2017.
 
