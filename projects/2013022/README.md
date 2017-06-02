@@ -143,13 +143,11 @@ oπού τους κατέβασα και απλά τους πέρασα μέσα
 
 *  [Κωδικάς](https://github.com/p13koka/pacman/blob/master/index.html) για αλλαγές στον κώδικα.
 *  [Βασικό pacman-map.json](https://github.com/p13koka/pacman/blob/master/assets/pacman-map.json) για την επεξεργασία της πίστας.
-
-
 *  [Νέο pacman](https://github.com/p13koka/pacman/blob/master/assets/pacman.png) αντικαθιστά το παλιό.
 *  [Νέο dot](https://github.com/p13koka/pacman/blob/master/assets/dot.png) αντικαθιστά το παλιό.
 *  [Εισαγωγή Φωτιας](https://github.com/p13koka/pacman/blob/master/assets/cherry.png) ως νέο αντικείμενο.
 *  [Εισαγωγή Bonus](https://github.com/p13koka/pacman/blob/master/assets/serdot.png) ως νέο αντικείμενο.
 *  [Ήχος στο υπόβαθρο](https://github.com/p13koka/pacman/blob/master/assets/sony.mp3) κατά το παίξιμο.
-*  [Ήχος κατά το φάγωμα]https://github.com/p13koka/pacman/blob/master/assets/ring.mp3) των dots.
+*  [Ήχος κατά το φάγωμα](https://github.com/p13koka/pacman/blob/master/assets/ring.mp3) των dots.
 *  [Ήχος κατά το φάγωμα](https://github.com/p13koka/pacman/blob/master/assets/bonus.mp3) των νέων αντικειμένων.
 
