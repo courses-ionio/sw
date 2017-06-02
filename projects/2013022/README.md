@@ -1,4 +1,4 @@
-# Tίτλος Εργασίας-Δημιουργία PacMan
+# Δημιουργία PacMan
 ## Σύνοψη
 
 Το συγκεκριμένο έγγραφο  αποτελεί την τελική αναφορά της εξαμηνιαίας εργασίας του Κοκαβέση Σέρτζο(ΑΜ Π2013022) στα πλαίσια
@@ -91,7 +91,7 @@ Toυς ηχούς του βρήκα στα :
 [Πηγή ήχου](https://downloads.khinsider.com/game-soundtracks/album/sonic-the-hedgehog-2-original-soundtrack/05-emerald-hill-zone-2-player-.mp3)
 oπού τους κατέβασα και απλά τους πέρασα μέσα στον κωδικά μου αφού τους ειχά ανεβάσει πρώτα.
 
-*Προστέθηκαν το Score, το Bonus με κάποιες αλλαγές όπως το  να προσθεθεί  νέo coin που είναι μια κοκκινη μπίλια η οποία  θα έχει
+* Προστέθηκαν το Score, το Bonus με κάποιες αλλαγές όπως το  να προσθεθεί  νέo coin που είναι μια κοκκινη μπίλια η οποία  θα έχει
 αξία με 15 αντί με 10 όπως τα υπόλοιπα dots και θα είναι το bonus. 
 Επίσης προσθέσα και ένα εικονίδιο dots φωτιάς η οποία εμφανίζεται σε συγκεκριμμένο σημείο
 της πίστας και μέτα απο συγκεκριμμένο χρόνο εξαφανίζεται.Η φωτιά θα χρησιμοποιηθεί σε 
@@ -143,13 +143,11 @@ oπού τους κατέβασα και απλά τους πέρασα μέσα
 
 *  [Κωδικάς](https://github.com/p13koka/pacman/blob/master/index.html) για αλλαγές στον κώδικα.
 *  [Βασικό pacman-map.json](https://github.com/p13koka/pacman/blob/master/assets/pacman-map.json) για την επεξεργασία της πίστας.
-
-
 *  [Νέο pacman](https://github.com/p13koka/pacman/blob/master/assets/pacman.png) αντικαθιστά το παλιό.
 *  [Νέο dot](https://github.com/p13koka/pacman/blob/master/assets/dot.png) αντικαθιστά το παλιό.
 *  [Εισαγωγή Φωτιας](https://github.com/p13koka/pacman/blob/master/assets/cherry.png) ως νέο αντικείμενο.
 *  [Εισαγωγή Bonus](https://github.com/p13koka/pacman/blob/master/assets/serdot.png) ως νέο αντικείμενο.
 *  [Ήχος στο υπόβαθρο](https://github.com/p13koka/pacman/blob/master/assets/sony.mp3) κατά το παίξιμο.
-*  [Ήχος κατά το φάγωμα]https://github.com/p13koka/pacman/blob/master/assets/ring.mp3) των dots.
+*  [Ήχος κατά το φάγωμα](https://github.com/p13koka/pacman/blob/master/assets/ring.mp3) των dots.
 *  [Ήχος κατά το φάγωμα](https://github.com/p13koka/pacman/blob/master/assets/bonus.mp3) των νέων αντικειμένων.
 
