@@ -22,18 +22,11 @@
 
 **Βαθμολογία:** 60% [project](https://github.com/courses-ionio/projects/), 40% Τελική εξέταση με κλειστά βιβλία
 
-**Σχετικές σελίδες για την διδακτική και την ανάπτυξη έργων λογισμικού:**
-
-[GitHub Guides](https://guides.github.com)
-
-[How to Use Git and GitHub](https://www.udacity.com/course/ud775)
-
-[Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
-
-[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
-
-[Code Academy](https://www.codecademy.com/)
+**Σχεδίαση λογισμικού:**
 
 [Software Studies](http://lab.softwarestudies.com/)
 
+[Software Design](http://www.alexandercowan.com/software-design-class/)
+
 [Situated Software](http://www.shirky.com/writings/situated_software.html)
+
