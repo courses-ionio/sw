@@ -38,7 +38,7 @@ http://imgur.com/pAeMdIT
 Επίσης για την εμφάνιση του score έγινε με τον παρακάτω τρόπο :
  game.debug.text('Lifes: ' + scorelife , 10, 10);
 •	Προσθήκη  χρόνου :
-Η προσθήκη χρόνο είναι σχετικά απλή καθώς χρειάζεται μία πρόσθεση στο update function του Pacman όπως φαίνεται παρακάτω : 
+Η προσθήκη χρόνου είναι σχετικά απλή καθώς χρειάζεται μία πρόσθεση στο update function του Pacman όπως φαίνεται παρακάτω : 
  game.debug.text('Elapsed seconds: ' + this.game.time.totalElapsedSeconds(), 125, 495);
  
 •	Προσθήκη ήχου :
