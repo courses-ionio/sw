@@ -17,7 +17,7 @@
  
 Η νέα πίστα δημιουργήθηκε όπως αναφέρθηκε πιο πάνω με το Tiled χρησιμοποιώντας τα ίδια tiles με ονομασία pacman-tiles.png που προϋπήρχαν στο φάκελο Pacman. H νέα πίστα ονομάστηκε pacman-map1.json και ανέβηκε στον φάκελο assets του Pacman . 
 Οι παραπάνω αλλαγές έγιναν στο  preload: function ()  του Pacman:
- this.load.image('dot', 'assets/smh.png');
+ this.load.image('dot', 'assets/smh.png');\n
  this.load.image('power', 'assets/smh.png');
  this.load.tilemap('map', 'assets/pacman-map1.json', null, Phaser.Tilemap.TILED_JSON);
 
