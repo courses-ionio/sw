@@ -1,16 +1,32 @@
 Παραδοτέο 1
 -----------
-
-Θέμα: Pacman
+* Ονοματεπώνυμο: Αθανάσιος Ρέστας
+* ΑΜ: Π2012050
+* Θέμα: Pacman
+* Αποθετήριο κώδικα: https://github.com/ThanosRestas/pacman
+* Εκτελέσιμο : https://thanosrestas.github.io/pacman/
 
 Παραδοτέο 2
 -----------
- Πραγματοποιήθηκε αλλαγή του pacman στον χαρακτήρα bird και του αντικειμένου dot σε fish.
- Δημιουργία νέας πίστας.
+ * Πραγματοποιήθηκε αλλαγή του pacman στον χαρακτήρα bird και του αντικειμένου dot σε fish.
  
- Αποθετήριο κώδικα: https://github.com/ThanosRestas/pacman   
- Κλαδί Παραδοτέου2: https://github.com/ThanosRestas/pacman/tree/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F-2   
- Σελίδα για την εκτέλεση της νέας μορφής του παιχνιδιού: https://thanosrestas.github.io/pacman/   
+ * Δημιουργία νέας πίστας. 
+ 
+ * Κλαδί Παραδοτέου2: https://github.com/ThanosRestas/pacman/tree/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F-2   
+
+ 
+Παραδοτέο 3
+------------
+
+ * Προστέθηκε πίνακας score για τη συλλογή πόντων
+ 
+ * Προστέθηκαν αντικείμενα starfish τα οποία μόλις συλλεχθούν από τον παίκτη προσφέρουν bonus x1-x5 στο score
+ 
+ * Πίνακας παρουσίασης διαθέσιμων πόντων ζωής
+ 
+ * Ενσωμάτωση ήχων παιχνιδιού για τη συλλογή των αντικείμενων στην πίστα οπως επίσης και των αντικειμένων bonus
+ 
+ *  Κλαδί Παραδοτέου3: https://github.com/ThanosRestas/pacman/tree/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F-3
   
     
     
