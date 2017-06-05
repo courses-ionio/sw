@@ -117,4 +117,4 @@ Mega-pac-man
   http://orig07.deviantart.net/2a95/f/2014/258/f/6/ssb4_megaman_run_animation_test_by_gregarlink10-d7z8mt5.gif
   https://www.youtube.com/watch?v=HFnXxTG_9-c
   http://cuddlesnam.deviantart.com/art/Kirby-Food-Sprites-on-RPG-Maker-XP-665410499
-  http://orig07.deviantart.net/6944/f/2017/054/0/5/kirby_food_sprites_on_rpg_maker_xp_by_cuddlesnam-db0620z.png
+  http://orig07.deviantart.net/6944/f/2017/054/0/5/kirby_food_sprites_on_rpg_maker_xp_by_cuddlesnam-db0620z.png 
