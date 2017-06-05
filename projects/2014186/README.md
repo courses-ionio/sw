@@ -53,9 +53,12 @@ https://p12kall.github.io/pacman/pacman.html
 --------------------------------------------------------------------------------------------------------------------------------------
 
 **[LINK](https://github.com/p12kall/pacman) προσωπικού αποθετηρίου.**
+
 **[LINK](https://github.com/p12kall/pacman/blob/master/firstIndex.html) κώδικα πρώτης σελίδας.**
+
 **[LINK](https://github.com/p12kall/pacman/blob/master/pacman.html) κώδικα παιχνιδιού.**
-**[LINK](https://p12kall.github.io/pacman/firstIndex.html) εκτελέσιμου παιχνιδιού.**
+
+**[LINK](https://p12kall.github.io/pacman/firstIndex.html) εκτελέσιμου κώδικα.**
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
