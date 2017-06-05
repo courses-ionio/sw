@@ -56,12 +56,19 @@ Mega-pac-man
 
 # Επιλογή εργαλείων
  https://ezgif.com/split  - για το 'σπάσιμο gif αρχείων σε png
+ 
  https://draeton.github.io/stitches/ (stitches) - για την ένωση των sprites
+ 
  http://imagesplitter.net/ - για πιο γρήγορο κοψίμο png αρχείων για να κρατήσω τα sprites που θέλω
+ 
  http://www.mapeditor.org/ (tiled) - για τη δημιουργία της πίστας και των layers
+ 
  https://www.gimp.org/ (gimp 2) - Για την επεξεργασία των εικόνων που χρησιμοποιήθηκαν
+ 
  https://notepad-plus-plus.org/ (Notepad++) - για την επεξεργασία του κώδικα
+ 
  http://www.audacityteam.org/ (Audacity) - για την επεξεργασία των ηχητικών εφέ που χρησιμοποιήθηκαν.
+ 
  https://www.apachefriends.org/index.html (XAMPP) - για τοπική εκτέλεση
  
 
