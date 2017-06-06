@@ -1,3 +1,6 @@
+# Bonus Github Page Τελικής Αναφοράς Παιχνιδιού
+ Ως bonus για την εργασία έγινε δημιουργία σελίδας στο github [Github Page του παιχνιδιού](https://nicktangas.github.io/) . Σκοπός αυτής, η φιλοξενία της τελικής αναφοράς για το project.
+
 # 1ο Παραδοτέο
  Επιλογή του Pacman ως εργασία.
 
@@ -30,8 +33,7 @@ this.load.baseURL = 'https://nicktangas.github.io/pacman/';
   <img src="https://raw.githubusercontent.com/NickTangas/pacman/master/assets/Diamond.png">
 </p>
 
-# Bonus Github Page Τελικής Αναφοράς Παιχνιδιού
- Ως bonus για την εργασία έγινε δημιουργία σελίδας στο github [Github Page του παιχνιδιού](https://nicktangas.github.io/) . Σκοπός αυτής, η φιλοξενία της τελικής αναφοράς για το project.
+
  
 # Ενδεικτική Εικόνα Παιχνιδιού
 
