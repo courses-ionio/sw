@@ -2,7 +2,7 @@
 
 * Ονοματεπώυμο: **Βασίλειος Κουρτίδης** <br>
 * ΑΜ: **Π2012081** <br>
-* Θέμα εργασίας:**Επεξεργασία Pacman**
+* Θέμα εργασίας: **Επεξεργασία Pacman**
 * Προσωπικό Repository: [Repository Link](https://github.com/billkelso/pacman)
 * Link παιχνιδιού: [Pacman Link](https://billkelso.github.io/pacman/)
 * Link GitHub Pages bonus: [Bonus Link](https://billkelso.github.io/sw/projects/2012081/)
