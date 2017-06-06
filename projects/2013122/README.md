@@ -2,7 +2,8 @@
 
 ### Δήλωση Θέματος: Δημιουργία Pacman
 
-### GitHub Page εκτελέσιμου: https://angelovanelly.github.io/
+### GitHub Page εκτελέσιμου: 
+https://angelovanelly.github.io/
 
 ### Προσωπικό Αποθετήριο δοκιμών και αλλαγών: 
 https://github.com/AngelovaNelly/AngelovaNelly.github.io
@@ -21,7 +22,7 @@ https://github.com/AngelovaNelly/AngelovaNelly.github.io/blob/master/index.html
 Αλλαγή concept (angry birds) και assets, προσθήκη background ήχου, αλλαγή φόντων και ταχύτητας.
 
 
-### Παραδοτέο 3:
+## Παραδοτέο 3:
 Αλλαγή πίστας με τη βοήθεια του εργαλείου Tiled.
 Προσθήκη score και bonus με τη συλλογή pigs ή star.
 
