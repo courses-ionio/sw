@@ -24,4 +24,5 @@
 
 ## ΣΤΙΓΜΥΟΤΥΠΑ
 
-![ScreenShot1](gameover.png)
+![ScreenShot1](win.png)
+![ScreenShot2](gameover.png)
