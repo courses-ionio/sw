@@ -30,5 +30,5 @@
 
 ## ΣΤΙΓΜΥΟΤΥΠΑ
 
-![ScreenShot1](win.png)
-![ScreenShot2](gameover.png)
+![ScreenShot1](https://raw.githubusercontent.com/eiriniklt/pacman/gh-pages/assets/win.png)
+![ScreenShot2](https://raw.githubusercontent.com/eiriniklt/pacman/gh-pages/assets/gameover.png)
