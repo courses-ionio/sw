@@ -33,7 +33,8 @@ this.load.baseURL = 'https://nicktangas.github.io/pacman/';
   <img src="https://raw.githubusercontent.com/NickTangas/pacman/master/assets/Diamond.png">
 </p>
 
-
+# 4ο Παραδοτέο 
+ Προσθήκη εχθρού. Το παιχνίδι επεκτάθηκε ακόμη περισσότερο με την προσθήκη του Dr. Ivo Eggman, του κακού ήρωα από το σύμπαν του Sonic the Hedgehog. Ο εχθρός περιφέρεται στην πίστα, απειλόντας την ζωή του Sonic. Μέσω μαθηματικής συνάρτησης περιστρέφεται και κινείται τυχαία στην πίστα, ενώ όταν βρίσκει στους τοίχους του παιχνιδιού, στρίβει και αλλάζει κατεύθυνση.
  
 # Ενδεικτική Εικόνα Παιχνιδιού
 
@@ -42,4 +43,8 @@ this.load.baseURL = 'https://nicktangas.github.io/pacman/';
   <img src="https://raw.githubusercontent.com/NickTangas/pacman/master/assets/gameplay.PNG">
 </p>
 
+2.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NickTangas/pacman/master/assets/map-enemy.PNG">
+</p>
 
