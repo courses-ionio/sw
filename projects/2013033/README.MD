@@ -4,7 +4,7 @@
 Ον/μο Φοιτήτριας: Κολτσανίδου Ειρήνη
 ΑΜ: Π2013033
 
-[Παιχνίδι](eiriniklt.github.io/pacman/index.html)
+[Παιχνίδι](https://eiriniklt.github.io/pacman/index.html)
 
  ## ΕΙΣΑΓΩΓΗ
  
