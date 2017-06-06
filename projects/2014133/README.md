@@ -1,13 +1,16 @@
 
 # Pac-Man: Pokemon Version
 
+
 **Ονοματεπώνυμο: Χρήστος Παπαγεωργίου**
 
 **Αριθμός Μητρώου: Π2014133**
 
 [Προσωπικό Αποθετηρίο](https://github.com/ChrisPap261/pacman)   
 
-[Εκτελέσιμο](https://chrispap261.github.io/pacman/index.html)
+[Εκτελέσιμο](https://chrispap261.github.io/pacman/pacman.html)
+
+[Github Page του αποθετηρίου](https://chrispap261.github.io/pacman/)
 
 ## Εισαγωγή
 Το παρόν project αποτελεί μια παραλλαγή του παιχνιδιού Pac-Man στα πλαίσια της εργασίας για το μάθημα "Τεχνολογία Λογισμικού" του ΣΤ' εξαμήνου στο τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου.
@@ -16,7 +19,7 @@
 ## Σύνοψη
 Ο στόχος του παιχνιδιού είναι ο παίχτης να συλλέξει όλες τις PokeBalls (x1 πόντο) και τις GreatBalls (x10 πόντους) χωρίς να συγκρουστεί με τις RocketBalls οι οποίες του αφαιρούν ζωές, όσο το δυνατόν σε σε λιγότερο χρονικό διάστημα. Παρακάτω θα δούμε αναλυτικά την διαδικασία της ανάπτυξης του παιχνιδιού καθώς και τα εργαλεία που χρησιμοποιήθηκαν για την εκπόνηση του.
 
-## **Επιλογή εργαλείων**
+## Επιλογή εργαλείων
  * XAMPP Apache για την τοπική εκτέλεση του κώδικα,
  * Notepad++ για την επεξεργασία του κώδικα,
  * GIMP για την επεξεργασία των εικόνων που χρησιμοποιήθηκα
@@ -40,7 +43,7 @@
  ![alt text](https://github.com/ChrisPap261/pacman/blob/master/Screenshots/you-win.png "Oθόνη Νίκης")
  ![alt text](https://github.com/ChrisPap261/pacman/blob/master/Screenshots/you-lose.png "Oθόνη Ήττας")
 
-## **Πηγές:**
+## Πηγές:
  * [pacman.png](http://stuffpoint.com/pokemon/image/13395-pokemon-pikachu-running.gif)
  * [sprites](https://www.spriters-resource.com/game_boy_advance/pokemonemerald/)
  * [dot.png](http://retr8bit.com/wp-content/uploads/2014/12/poeballs.png)	
