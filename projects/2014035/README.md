@@ -73,7 +73,7 @@ _________________________
 * Αντικατάσταση της εικόνας [pacman.png](https://github.com/Mikepag/pacman/blob/master/assets/pacman.png) από νέα. Η καινούρια εικόνα επεξεργάστηκε στο paint ώστε να χωριστεί σε 3 στιγμιότυπα (για το animation) και μέσω του photoshop έγινε το resize στις επιθυμητές διαστάσεις και αποθηκεύτηκε σε format PNG.
 * Αντικατάσταση της εικόνας [dot.png](https://github.com/Mikepag/pacman/blob/master/assets/dot.png). Στη νέα εικόνα έγινε resize στις επιθυμητές διαστάσεις καθώς και αποθήκευση σε format PNG μέσω του Photoshop.
 * Δημιουργία νέας πίστας με το Tiled, κάνοντας χρήση της υπάρχουσας πίστας [pacman-map.json](https://github.com/Mikepag/pacman/blob/master/assets/pacman-map.json) καθώς και των πλακιδίων [pacman-tiles.png](https://github.com/Mikepag/pacman/blob/master/assets/pacman-tiles.png), στα οποία όμως πρώτα έγινε αλλαγή του χρώματος.
-*Προσθήκη [κώδικα](https://github.com/Mikepag/pacman/blob/master/pacman.html) για την προβολή Score. Το score αρχικά είναι μηδέν (0) και κάθε φορά που ο Pacman "τρώει" ένα dot το score αυξάνεται κατά πέντε (5) μονάδες.
+* Προσθήκη [κώδικα](https://github.com/Mikepag/pacman/blob/master/pacman.html) για την προβολή Score. Το score αρχικά είναι μηδέν (0) και κάθε φορά που ο Pacman "τρώει" ένα dot το score αυξάνεται κατά πέντε (5) μονάδες.
 * Προσθήκη [κώδικα](https://github.com/Mikepag/pacman/blob/master/pacman.html) για την προβολή Lives. Αρχικά οι ζωές είναι τρείς (3). (Δεν αναπτύχθηκε λειτουργία που να αυξάνει ή να μειώνει αυτή τη μεταβλητή).
 * Προσθήκη Bonus:
 	1. Τροποποίηση εικόνας [pacman-tiles.png](https://github.com/Mikepag/pacman/blob/master/assets/pacman-tiles.png) για να προστεθεί καινούριο πλακίδιο (Burger).
