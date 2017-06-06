@@ -20,5 +20,11 @@
 
 Οι μόνες αλλαγές που πραγματοποιήθηκαν στα πλαίσια του τρίτου παραδοτέου ήταν η προσθήκη ήχου στο παιχνίδι καθώς και το logo του Pacman.
 
+### Πηγές
 
+Εδώ παρατίθενται οι ιστοσελίδες από τις οποίες δανείστηκα τις φωτογραφίες που χρησιμοποιήθηκαν. 
+
+* Link για το logo: [Pacman logo](https://dyscovr.wordpress.com/2014/09/19/history-and-background-of-pac-man/)
+* Link για τον Popeye [Popeye's face](http://www.dragoart.com/tuts/15557/1/1/how-to-draw-popeye-easy.htm)
+* Link για το σπανάκι [Spinach](http://9drawings.com/drawings/spinach-popeyes-drawings.html)
 
