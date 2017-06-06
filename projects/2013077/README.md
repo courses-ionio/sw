@@ -31,7 +31,7 @@ this.load.baseURL = 'https://nicktangas.github.io/pacman/';
 </p>
 
 # Bonus Github Page Τελικής Αναφοράς Παιχνιδιού
- Ως bonus για την εργασία έγινε δημιουργία σελίδας στο github [Github Page του παιχνιδιού](https://nicktangas.github.io/) που είναι η παρούσα. Σκοπός αυτής, η φιλοξενία της τελικής αναφοράς για το project.
+ Ως bonus για την εργασία έγινε δημιουργία σελίδας στο github [Github Page του παιχνιδιού](https://nicktangas.github.io/) . Σκοπός αυτής, η φιλοξενία της τελικής αναφοράς για το project.
  
 # Ενδεικτική Εικόνα Παιχνιδιού
 
