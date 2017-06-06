@@ -25,7 +25,7 @@ developers να ποσοτικοποιήσουν και να οπτικοποι�
 repository, έτσι ώστε να είναι δυνατή η χρήση text editor όπως ο sublime text 3.
 
 Τα local και remote branches:
-![alt text](http://imgur.com/a/M8X6O)
+![alt text](https://i.imgur.com/GsaLSks.png)
 
 Η σύνδεση του τοπικού και του απομακρυσμένου repo απαιτεί ασφαλή συνδεση, κάτι το οποίο επιτυγχάνεται με την δημιούργια
 ssh κλειδιών, τα οποία καταχωρούνται στον λογαριασμό του github. (εικόνες δεν περιλαμβάνονται για ευνόητους λόγους)
@@ -35,7 +35,7 @@ ssh κλειδιών, τα οποία καταχωρούνται στον λογ
 πρόβλημα με access rights για push σε άλλα remote branches και γι αυτό γινόντουσαν μόνο στο jdevel.
 
 Το πρόβλημα φένεται εδω:
-![alt text](http://imgur.com/a/UhGaM)
+![alt text](https://i.imgur.com/pzMwJIH.png)
 
 Οι αλλαγές που έγιναν ήταν οι εξής:
 
