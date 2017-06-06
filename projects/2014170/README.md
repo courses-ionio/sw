@@ -173,3 +173,23 @@ Changes:
 ## Paradoteo 4
 
 
+* Changed 3D earth to 2D earth map
+  * [heroku link](https://testappglobething.herokuapp.com/)
+  * [file](https://github.com/KALALEX/twitter-stream-globe/blob/report/public/javascripts/TwitterStreamGlobe.js)
+  * line to : var sphereGeometry = new THREE.PlaneGeometry(1500, 1500, 32);
+* Saving to a database [php script](https://github.com/KALALEX/twitter-stream-globe/blob/report/public/php/insert_to_db.php). Because github does not support backend (php etc...) in order to save something you need to run this on a server (apache... etc) in combination with a database. You can also do it with javascript client side to server but you need connection configuration on the client which is unsafe for you database. For this example I used MySQL-Apache calling making an ajax request with post to the php script passing lat and lot. In order for this to work you need a database named:db_tweets, a root user with no password based on this configuration and a table tweets with rows:
+  * id(int, pk, AI)
+  * lon (float), lat(float)
+Also you need to call the following code from the point you want to insert the data to the database.
+
+```javascript
+var request;
+$request = $.ajax({
+        type: 'POST',
+        data: {
+        lat: $lat,
+        lon: $lon
+        },
+        url: 'insert_to_db.php'
+        });
+```
