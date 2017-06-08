@@ -6,6 +6,7 @@
 *	**Θέμα εργασίας:** "Δημιουργία Pacman"
 *	**[Προσωπικό αποθετήριο κώδικα](https://github.com/irospyrou/pacman "Iro's Repository")**
 *	**[Εκτελέσιμο](https://irospyrou.github.io/pacman/ "Iro's Pacman")**
+* **[Github Page](https://irospyrou.github.io/Pacman_Anafora_2017/ "Iro's Final Report")**
 
 ## 2)	Aρχικός σχεδιασμός εφαρμογής
 ### Ζητούμενα:
@@ -41,3 +42,30 @@
 
 ### Αποτελέσματα:
  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/Screenshot2.png "Screenshot")
+ 
+## 4) Τελική αναφορά και έργο
+### Προτεινόμενες αλλαγές:
+  * Προσθήκη εχθρών.
+  * Αντιμετώπιση εχθρών με την συλλογή του κατάλληλου αντικειμένου.
+  * Δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας.
+
+### Υλοποίηση:
+  * Πρόσθεσα εχθρούς, συγκεκριμένα τα Goomba που είναι και οι εχθροί του Mario στο αυθεντικό παιχνίδι.
+ ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/goomba.png "Goomba")
+  
+  * Πλέον, με την συλλογή των μανιταριών ο Mario αποκτά την δυνατότητα να αντιμετωπίσει τους εχθρούς του.
+  * Πρόσθεσα σημεία στα οποία ο χαρακτήρας μας θα κάνει teleport προς την θέση εκκίνησης του χαρακτήρα, τα σημεία αυτά συμβολίζονται με μία πόρτα, όπως στο αυθεντικό παιχνίδι του Mario.
+ ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/door.png "Door")
+  
+  * Επιπλέον, πρόσθεσα χρόνο στο παιχνίδι.
+  * Τέλος πρόσθεσα και μία εικόνα background.
+  
+ ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/bg.png "Background")
+
+### Αποτελέσματα:
+ ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/Screenshot3.png "Screenshot")
+ 
+### Τελική αναφορά:
+Η τελική αναφορά έγινε σε Github Pages, με Bonus 1 μονάδα.
+
+**[Github Page](https://irospyrou.github.io/Pacman_Anafora_2017/ "Iro's Final Report")**
