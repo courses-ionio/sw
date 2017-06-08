@@ -6,6 +6,7 @@
 *	**Θέμα εργασίας:** "Δημιουργία Pacman"
 *	**[Προσωπικό αποθετήριο κώδικα](https://github.com/ArisKarras/pacman "Aris's Repository")**
 *	**[Εκτελέσιμο](https://ariskarras.github.io/pacman/pacman.html "Aris's Pacman")**
+* **[Github Page - Bonus / Τελική Αναφορά](https://ariskarras.github.io/Pacman_Report_2017/ "Github Page")**
 
 ## 2)	Aρχικός σχεδιασμός εφαρμογής
 ### Ζητούμενα:
@@ -44,11 +45,47 @@
   * Πρόσθεσα επίσης 3 ζωές, οι οποίες θα αποκτήσουν λειτουργικότητα με το επόμενο παραδοτέο.
 ![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/lifes2.png "Hearts")
   * Τέλος, όσον αφορά τους ήχους, έχω επιλέξει 3 διαφορετικούς.
-    1. Επέλεξα το κλασσικό theme song του**Star Wars** να παίζει σε όλη την διάρκεια του παιχνιδιού.
+    1. Επέλεξα το κλασσικό theme song του **Star Wars** να παίζει σε όλη την διάρκεια του παιχνιδιού.
     2. Επέλεξα, όταν συλλέγεται ένας κρύσταλλος, να αναπαράγεται ένας κλασσικός ήχος από **lightsabers**.
     3. Και τέλος, και όταν γίνεται συλλογή του **Bonus**, να αναπαράγεται ένας κλασσικός ήχος από **Blasters**(τύπος όπλου) βασισμένα στην ταινία.  
   * Επίσης, πρόσθεσα φωτογραφία στο background του παιχνιδιού που μοιάζει με διάστημα.
  
 ### Αποτέλεσματα:
   
-![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/Screenshot2.png "Screenshot")
+<p align="left">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26609133/291348fe-45a8-11e7-8a34-c6cd271086ba.png">
+</p>
+
+## 4) Τελικό Έργο 
+### Ζητούμενα:
+  * Προσθήκη εχθρών.
+  * Αντιμετώπιση εχθρών με την συλλογή του κατάλληλου αντικειμένου.
+  * Δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας.
+### Υλοποίηση: 
+  * Βασισμένος στις ταινίες Star Wars, επέλεξα να εισάγω για εχθρό τον **Darth Vader** που στην πραγματικότητα αποτελεί έναν από τους κακούς χαρακτήρες των ταινιών. Συγκεκριμένα, επέλεξα 5 φορές να εμφανίζεται ο **Darth Vader** στο παιχνίδι.
+ <p align="left">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26828915/1a55a216-4acc-11e7-9e2c-be37494a8c60.png">
+</p>
+
+  * Ο χαρακτήρας με την συλλογή του Bonus, γίνεται ανίκητος για 10 δευτερόλεπτα και μπορεί να εξουδετερώσει τους εχθρούς του παιχνιδιού.
+  
+  * Παρέχεται δυνατότητα **teleport** για τον πρωταγωνιστή του παιχνιδιού, όταν έρθει σε επαφή με το παρακάτω πράσινο εικονίδιο:
+   <p align="left">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26829001/7aa029a2-4acc-11e7-93e5-c4fd07dcdb8a.png">
+</p>
+
+  * Τέλος πρόσθεσα το χρονόμετρο στο παιχνίδι και άλλαξα την θέση του Score, του Bonus και των ζωών, μεταφέροντας τα σε μια πιο responsive θέση.
+  
+### Τελικά Αποτελέσματα:
+
+<p align="left">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26828970/57d212fa-4acc-11e7-83a2-fa6639b96c07.png">
+</p>
+
+<p align="left">
+      <img src="https://user-images.githubusercontent.com/17282953/26849264-29f5d714-4b0c-11e7-93dd-dd49ddfe6cc3.png">
+</p>
+
+## Τελική Αναφορά 
+   * **Η τελική αναφορά της εργασίας μου βρίσκεται εδώ:**
+[Github Page - Bonus / Τελική Αναφορά](https://ariskarras.github.io/Pacman_Report_2017/ "Github Page")
