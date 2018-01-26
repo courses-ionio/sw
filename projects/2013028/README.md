@@ -67,7 +67,6 @@
 ·       
 https://camdencc.deviantart.com/art/Ms-Pacman-349055490 : 
 
-
       
 Αρχικα, από εδώ πήρα το sprite
 για τον χαρακτήρα μου 
@@ -187,8 +186,7 @@ https://www140.lunapic.com/ :
 
 
 Τέλος , ένα site το οποίο χρησιμοποιήθηκε για να
-αντιστρέψω το sprite μου μέσω της επιλογής Adjust
-> Mirror.
+αντιστρέψω το sprite μου μέσω της επιλογής Adjust -> Mirror.
 
 
 
@@ -198,8 +196,7 @@ https://www140.lunapic.com/ :
  
 
 
-               Διαδικασία ανάπτυξης
-της εργασίας
+               Διαδικασία ανάπτυξης της εργασίας
 
 
  
@@ -244,11 +241,9 @@ tiles
 μου τρώει dot.
 
 
-Screenshot
-του παιχνιδιού
+Screenshot του παιχνιδιού : 
 
-
- 
+ https://github.com/katerinamalakoudh/pacman/blob/master/assets/Screenshot_3.png
 
 
  
@@ -272,7 +267,4 @@ Screenshot
  
 
 
-·       Το εκτελέσιμο παιχνίδι μου : 
-
-
-https://katerinamalakoudh.github.io/pacman/
+·       Το εκτελέσιμο παιχνίδι μου :  https://katerinamalakoudh.github.io/pacman/
