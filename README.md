@@ -30,3 +30,4 @@
 
 [Situated Software](http://www.shirky.com/writings/situated_software.html)
 
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
