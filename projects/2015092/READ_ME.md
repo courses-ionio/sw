@@ -17,7 +17,7 @@ https://github.com/neilhawkins/d3-uk-political-donations
 *  Αριθμός Μητρώου: **Π2015902**
 *  Θέμα εργασίας **"Οπτικοποίηση δεδομένων χορηγιών (UK)"**
 *  Προσωπικό αποθετήριο του κώδικα: [Link Αποθετηρίου του κώδικα](https://github.com/TasoulasTheofanis/D3js-uk-political-donations)
-*  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://tasoulastheofanis.github.io/D3js-uk-political-donations/main)
+*  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://tasoulastheofanis.github.io/D3js-uk-political-donations/)
 *  Link για το αποθετήριο του κώδικα του 1ου Παραδοτέου: [Link Αποθετηρίου του 1ου Παραδοτέου](https://github.com/TasoulasTheofanis/D3js-uk-political-donations/tree/Παραδοτέο-1)
 
 ## Αρχικός σχεδιασμός εφαρμογής(25%) (18 Φλεβάρη)
