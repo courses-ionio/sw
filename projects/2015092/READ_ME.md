@@ -1,7 +1,7 @@
 # Οπτικοποίηση δεδομένων χορηγιών (UK)
 ## Τασούλας Θεοφάνης - Π2015092
 #### Link στο προσωπικό αποθετήριο του κώδικα: https://github.com/TasoulasTheofanis/D3js-uk-political-donations
-#### Link στο εκτελέσιμο του κώδικα:           https://tasoulastheofanis.github.io/D3js-uk-political-donations/main
+#### Link στο εκτελέσιμο του κώδικα:           https://tasoulastheofanis.github.io/D3js-uk-political-donations/
 
    Η παρούσα εργασία είναι μια παραλλαγή του πηγαίου κώδικα με το παρακάτω λινκ
 https://github.com/neilhawkins/d3-uk-political-donations
