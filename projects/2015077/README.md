@@ -1,4 +1,4 @@
-# Μάθημα: Τεχνολογίες Διαδικτύου
+# Μάθημα: Τεχνολογίες Λογισμικού
 
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
@@ -45,9 +45,8 @@ demo link of responsivevoice: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 ![split-by-amount-of-donor](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
-
 ## Παραδοτέο 2
----
+----
 
 ## Τελική αναφορά
----
+----
