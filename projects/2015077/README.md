@@ -41,7 +41,7 @@ Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/26476
 
 demo link of responsivevoice: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
-* Ομαδοποίησης των δεδομένων: Split by amount of donation.
+* Νέο κουμπί για νέα ομαδοποίηση δεδομένων: Split by amount of donation.
 
 ![split-by-amount-of-donor](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
