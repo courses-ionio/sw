@@ -39,7 +39,7 @@ Xρήση ήχου από το: https://freesound.org/
 
 * Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή.
 
-![Watch the video](https://www.youtube.com/watch?v=Bh-taMEUhN8 'demo of responsive voice')
+![Watch the video](https://www.youtube.com/watch?v=Bh-taMEUhN8)
 
 * Ομαδοποίησης των δεδομένων: Split by amount of donation.
 
