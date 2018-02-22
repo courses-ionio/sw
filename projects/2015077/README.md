@@ -9,7 +9,7 @@
 #### Demo: https://dimitristria.github.io/D3js-uk-political-donations/
 #### Αποθετήριο κώδικα: https://github.com/DimitrisTria/D3js-uk-political-donations
 
-## ** Παραδοτέο 1 **
+## Παραδοτέο 1
 
 #### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF1
 
@@ -45,8 +45,8 @@ demo link of responsivevoice: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 ![split-by-amount-of-donor](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
-## ** Παραδοτέο 2 **
+## Παραδοτέο 2
 ----
 
-## ** Τελική αναφορά **
+## Τελική αναφορά
 ----
