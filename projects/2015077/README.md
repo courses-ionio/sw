@@ -3,7 +3,7 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
-## Επιλογή εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK)
+## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
 ### Links με τις πιο πρόσφατες αλλαγές
 #### Demo: https://dimitristria.github.io/D3js-uk-political-donations/
@@ -39,11 +39,11 @@ Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/26476
 
 * Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή.
 
-demo link of responsivevoice: https://www.youtube.com/watch?v=Bh-taMEUhN8
+demo link: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 * Νέο κουμπί για νέα ομαδοποίηση δεδομένων: Split by amount of donation.
 
-![split-by-amount-of-donor](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
+![split-by-amount-of-donation](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
 ## Παραδοτέο 2
 ----
