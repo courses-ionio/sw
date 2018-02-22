@@ -47,3 +47,7 @@ demo link of responsivevoice: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 
 ## Παραδοτέο 2
+---
+
+## Τελική αναφορά
+---
