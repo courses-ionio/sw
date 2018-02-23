@@ -5,15 +5,14 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-### Links με τις πιο πρόσφατες αλλαγές
-#### Demo: https://dimitristria.github.io/D3js-uk-political-donations/
-#### Αποθετήριο κώδικα: https://github.com/DimitrisTria/D3js-uk-political-donations
+#### Demo με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/D3js-uk-political-donations/
+#### Αποθετήριο κώδικα με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/D3js-uk-political-donations
 
 ## Παραδοτέο 1
 
 #### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF1
 
-### Ζητούμενα
+### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
 * Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
 
