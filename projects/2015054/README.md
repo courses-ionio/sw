@@ -21,11 +21,24 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 ![fullviz2](https://user-images.githubusercontent.com/22655733/36723307-8dd50c64-1bb8-11e8-81be-2b093a111543.JPG)
 
-σε "index.html" (αποθετήριο: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages):
+σε "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)):
 
 ![fullviz1](https://user-images.githubusercontent.com/22655733/36723280-7ea7b0fc-1bb8-11e8-9414-16dc95f95774.JPG)
 
 Με αυτό τον τρόπο, το url άλλαξε από: https://nefelinikiforou.github.io/D3js-uk-political-donations/full-viz.html
 σε: https://nefelinikiforou.github.io/D3js-uk-political-donations/.
 
+#### Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα
+Για να έχω διαφορετικά χρώματα στις μπάλες με τα δεδομένα, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), στο εξής σημείο του κώδικα:
 
+##### Αρχικά:
+
+![chart-js-code-colorballs-1](https://user-images.githubusercontent.com/22655733/36741172-1a9c1938-1bed-11e8-9526-4df6701d8d4e.JPG)
+
+![colorballs1](https://user-images.githubusercontent.com/22655733/36741378-99a373f2-1bed-11e8-8171-3681b75f99b2.JPG)
+
+##### Μετά την αλλαγή:
+
+![chart-js-code-colorballs-2](https://user-images.githubusercontent.com/22655733/36741327-78a919f4-1bed-11e8-9f2f-c8c84a9d3dbf.JPG)
+
+![colorballs2](https://user-images.githubusercontent.com/22655733/36741492-ef804f0c-1bed-11e8-9fa9-08f6e26dc549.JPG)
