@@ -4,6 +4,8 @@
 #### Link στο εκτελέσιμο του κώδικα: https://p15zach1.github.io/D3js-uk-political-donations/
 
 # Παραδοτέο 1
+#### [Link στο branch του παραδοτέου](https://github.com/p15zach1/D3js-uk-political-donations/tree/%CE%A02015082/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
+
 * Προσθήκη συνδέσμου της σελίδας
 * Αλλαγή έτσι ώστε το url να μην καταλήγει σε "full-viz.html"
 * Αλλαγή χρωμάτων στις μπάλες δεδομένων και στα πεδία ομαδοποίησης Split by party
