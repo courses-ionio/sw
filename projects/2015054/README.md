@@ -49,10 +49,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 ![style-css-partycolor](https://user-images.githubusercontent.com/22655733/36935875-e8e46b86-1f05-11e8-9eb3-d2e91447b430.JPG)
 
-##### Αρχικά:
+##### Αρχικά (αριστερά) και μετά την αλλαγή (δεξιά):
 
 ![colorparty1](https://user-images.githubusercontent.com/22655733/36935907-79041ec8-1f06-11e8-8e61-451003c04f8f.JPG)
-
-##### Μετά την αλλαγή:
-
 ![colorparty2](https://user-images.githubusercontent.com/22655733/36935922-bcb6dbe2-1f06-11e8-9c1f-cbc67d4577f1.JPG)
