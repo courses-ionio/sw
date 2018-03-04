@@ -62,4 +62,14 @@
 <img src="https://imgur.com/xKL9qc2.png"/>
 
 
+9) Στο κεντρικό αποθετήριο της εργασίας στον φάκελο [participants](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants), δημιούργησα ένα .csv αρχείο με τίτλο "2013127.csv" στο οποίο περιέχει τα στοιχεία μου.
+
+10) Επίσης στον φάκελο [photos](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/photos), τοποθέτησα 5 εικόνες δωρητών με το λογότυπο της κάθε εταιρίας (αν πρόκειται για εταιρία) και με το πρόσωπο του κάθε δωρητή (αν πρόκειται για φυσικό πρόσωπο). Οι φωτογραφίες με τα logo που ανέβασα είναι αρχεία τύπου .ico με διαστάσεις 42x42. Οι δωρητές τους οποίους διάλεξα είναι οι εξής:
+* Magna Carta Club 
+* Bristol Labour Group 
+* David Rowland
+* Neil Goulden
+* Bestway
+
+
 ### Παραδοτέο 2: Tελικό έργο και Τελική Αναφορά - 25% (9 Μαϊου)
