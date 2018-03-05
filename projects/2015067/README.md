@@ -5,8 +5,7 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-#### Demo με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/D3js-uk-political-donations/
-#### Αποθετήριο κώδικα με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/D3js-uk-political-donations
+#### link demo κώδικα : 
 
 ## Παραδοτέο 1
 
