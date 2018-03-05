@@ -24,7 +24,7 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 
 * Το κλικ σε κάποια μπάλα ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή.
 
-![google-search](https://user-images.githubusercontent.com/22676085/36545535-cc9fdf20-17f1-11e8-8146-69ee8dbb3ecc.gif)
+![googlesearch](https://user-images.githubusercontent.com/22703561/36980536-3c575d08-2093-11e8-8d9a-5ac0b87a8b5a.gif)
 
 * Μεγένθυση όταν ο δείκτης βρίσκεται πάνω από τις λέξεις του κειμένου.
 
