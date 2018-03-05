@@ -1,7 +1,7 @@
 # Μάθημα: Τεχνολογίες Λογισμικού
 
-### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
-### Αριθμός Μητρώου: Π2015077
+### Ονοματεπώνυμο:Τουλάκης Αλέξανδρος
+### Αριθμός Μητρώου: Π2015067
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
@@ -18,15 +18,11 @@
 
 1. Αλλαγή χρωμμάτων των κύκλων (πριν και μετά).
 
-![circle-colors](https://user-images.githubusercontent.com/22676085/36543380-4b4c302c-17ec-11e8-9ec7-4a9ebfe6dea5.png)
-
-2. Αλλαγή χρωμμάτων για τα 3 πεδία της ομαδοποίησης Split by party (πριν και μετά).
-
-![split-by-party-colors](https://user-images.githubusercontent.com/22676085/36543619-ee86c9a0-17ec-11e8-9843-47ea6a3ccc15.png)
+![default](https://user-images.githubusercontent.com/22703561/36978016-d0188d94-208b-11e8-8781-5d541fa0ae46.PNG)
 
 * Ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ομαδοποίησης των δεδομένων.
 
-Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/264763/
+Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 
 * Το κλικ σε κάποια μπάλα ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή.
 
@@ -44,6 +40,8 @@ demo link: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 ![split-by-amount-of-donation](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
+* Πολυμεσικό περιεχόμενο
+http://soundbible.com/893-Button-Click.html
 ## Παραδοτέο 2
 ----
 
