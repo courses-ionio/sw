@@ -37,7 +37,8 @@ demo link: https://www.youtube.com/watch?v=Bh-taMEUhN8
 
 * Νέο κουμπί για νέα ομαδοποίηση δεδομένων: Split by amount of donation.
 
-![split-by-amount-of-donation](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
+![komadopoisi](https://user-images.githubusercontent.com/22703561/36981125-fb68eb0c-2094-11e8-80bb-5632dd4a9ab5.PNG)
+
 
 * Πολυμεσικό περιεχόμενο
 http://soundbible.com/893-Button-Click.html
