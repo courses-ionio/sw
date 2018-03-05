@@ -28,7 +28,8 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 
 * Μεγένθυση όταν ο δείκτης βρίσκεται πάνω από τις λέξεις του κειμένου.
 
-![zooming](https://user-images.githubusercontent.com/22676085/36545107-d9c56b80-17f0-11e8-9ba8-e6b023ca151e.gif)
+![zoom](https://user-images.githubusercontent.com/22703561/36979657-d5f234e0-2090-11e8-81f9-345f08321da7.gif)
+
 
 * Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή.
 
