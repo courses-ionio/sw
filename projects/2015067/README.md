@@ -31,9 +31,8 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 ![zoom](https://user-images.githubusercontent.com/22703561/36979657-d5f234e0-2090-11e8-81f9-345f08321da7.gif)
 
 
-* Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή.
-
-demo link: https://www.youtube.com/watch?v=Bh-taMEUhN8
+* Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή. Η λειτουργία αυτή 
+έγινε με χρήση της βιβλιοθήκης rensponsive voice της javascript(https://responsivevoice.org/).
 
 * Νέο κουμπί για νέα ομαδοποίηση δεδομένων: Split by amount of donation.
 
