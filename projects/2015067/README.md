@@ -40,10 +40,10 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 ## Εκπλήρωση Ζητούμενων στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
 
 * Ανέλαβα να βρώ πέντε εικόνες για τους εξείς δωρητές:
-1) Watford Business Club \
-2) BECTU \
-3)BFAWU \
-4)Ethical Medicines Industry Group \
+1) Watford Business Club\
+2) BECTU\
+3)BFAWU\
+4)Ethical Medicines Industry Group\
 
 * Δημιούργησα επίσης το κατάλληλο csv με ονομα τον αριθμό μητρώου μου και προσθήκη μέσα των απαραίτητων πεδίων 
 
