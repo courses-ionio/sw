@@ -38,7 +38,7 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 ![komadopoisi](https://user-images.githubusercontent.com/22703561/36981125-fb68eb0c-2094-11e8-80bb-5632dd4a9ab5.PNG)
 
 
-* Πολυμεσικό περιεχόμενο
+*Πολυμεσικό περιεχόμενο
 http://soundbible.com/893-Button-Click.html
 ## Παραδοτέο 2
 ----
