@@ -5,8 +5,7 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-#### link αποθετηριού κώδικα: 
-#### link προς εκτελέσιμο παράδειγμα:
+#### Εκτελέσιμο link :https://p15githubstudent.github.io/D3js-uk-political-donations/
 
 ## Παραδοτέο 1
 
