@@ -11,7 +11,7 @@
 
 #### Αποθετήριο κώδικα παραδοτέου 1:https://github.com/P15GitHubStudent/D3js-uk-political-donations/tree/Paradoteo1
 
-### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+### Εκπλήρωση ζητούμενων πρώτου παραδοτέου στο προσωπικό αποθετήριο του κωδικά μας
 
 * Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
 
@@ -37,6 +37,15 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 
 ![komadopoisi](https://user-images.githubusercontent.com/22703561/36981125-fb68eb0c-2094-11e8-80bb-5632dd4a9ab5.PNG)
 
+## Εκπλήρωση Ζητούμενων στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
+
+* Ανέλαβα να βρώ πέντε εικόνες για τους εξείς δωρητές:
+1) Watford Business Club 
+2) BECTU
+3)BFAWU
+4)Ethical Medicines Industry Group
+
+* Δημιούργησα επίσης το κατάλληλο csv με ονομα τον αριθμό μητρώου μου και προσθήκη μέσα των απαραίτητων πεδίων 
 
 ## Πολυμεσικό περιεχόμενο
 http://soundbible.com/893-Button-Click.html
