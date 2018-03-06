@@ -40,12 +40,13 @@ Xρήση ήχου από το: http://soundbible.com/893-Button-Click.html
 ## Εκπλήρωση Ζητούμενων στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
 
 * Ανέλαβα να βρώ πέντε εικόνες για τους εξείς δωρητές:
-1) Watford Business Club\
-2) BECTU\
-3)BFAWU\
-4)Ethical Medicines Industry Group\
+1) Watford Business Club<br/>2) BECTU<br/>
+3)BFAWU<br/>
+4)Ethical Medicines Industry Group<br/>
 
 * Δημιούργησα επίσης το κατάλληλο csv με ονομα τον αριθμό μητρώου μου και προσθήκη μέσα των απαραίτητων πεδίων 
+
+link πρός το pull request για την προσθήκη των εικόνων και του csv που έγινε δεκτό: https://github.com/ioniodi/D3js-uk-political-donations/pull/40
 
 ## Πολυμεσικό περιεχόμενο
 http://soundbible.com/893-Button-Click.html
