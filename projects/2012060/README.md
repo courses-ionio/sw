@@ -8,12 +8,13 @@ e-mail: p12skaf@ionio.gr
 
 Link προσωπικού αποθετήριου κώδικα: https://github.com/mskafi28/D3js-uk-political-donations
 
-Link εκτελέσιμου κώδικα:
+Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-political-donations/
 
 
 ΖΗΤΟΥΜΕΝΑ ΠΡΩΤΟΥ ΠΑΡΑΔΟΤΕΟΥ:
 
-1)
+1) Ο σύνδεσμος της σελίδας με την εφαρμογή είναι ο παρακάτω: https://mskafi28.github.io/D3js-uk-political-donations/
+
 2) Έκανα μετονομασία του αρχείου full-viz.html σε index.html, για να μη χρειάζεται να καταλήγει το url της εφαρμογής μου σε "full-viz.html".
 
 3) Έγινε αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα σε όλα τα πεδία ομαδοποίησης, με αλλαγή του color scale στο αρχείο chart.js.
