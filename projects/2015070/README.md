@@ -27,4 +27,18 @@
 
 ### Παρακάτω παρουσιάζονται ορισμένα στάδια εξέλιξης του παραδοτέου
 
+Αλλαγές στα χρώματα 
+
 <a href="http://tinypic.com?ref=2vuwzkl" target="_blank"><img src="http://i66.tinypic.com/2vuwzkl.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Νέος διαχωρισμός
+
+<a href="http://tinypic.com?ref=23wl1jb" target="_blank"><img src="http://i67.tinypic.com/23wl1jb.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Γενικά το αποθετήριο 
+
+<a href="http://tinypic.com?ref=20a4c52" target="_blank"><img src="http://i64.tinypic.com/20a4c52.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+##Συμπεράσματα για το 1ο παραδοτέο
+
+
