@@ -1,0 +1,25 @@
+**Παραδοτέο 1**
+----------
+
+Ο σύνδεσμος της εφαρμογής με pretty format **https://sakis475.github.io/D3js-uk-political-donations** 
+Πραγματοποιήθηκε με το config gh-pages αρχείο [_config.yml](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/_config.yml)
+
+Τα χρώματα των κύκλων καθώς και τα επιμέρους 3 πεδία της ομαδοποίησης Split by party έχουν αλλάξει σε κόκκινο, πράσινο, μπλε.
+Στο αρχείο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/chart.js) *line- 28* για τους κύκλους και [style.css](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/style.css) *line-166-179* για τα πεδία ομαδοποίησης.
+
+Για να ακούγετε ήχος όταν πατιέτε ένα κουμπί, πρόσθεσα το *soundButton.mp3* 
+και το event onclick [index.html](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/index.html) *line-40-60*
+
+Για να ανοίγει google search, τον donator, σε νέο παράθυρο όταν πατιέτε ένας κύκλος. Στο αρχείο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/chart.js) προσθέθηκε νέα function με όνομα *mouseClick* *(line-448)* και γίνεται trigger όταν κάνουμε click σε κάποιο κύκλο *(line-116)*
+
+Για να γίνετε μεγένθυνση σε κείμενο πρόσθεσα css ιδιότητες για κάθε element του html, [style.css](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/style.css) *(line-8-115)*
+
+Όταν ο χρήστης έχει το ποντίκι πάνω από ένα κύκλο για πάνω από 0,3 δεύτερα ακούγετε το όνομα του donator και το ποσό της δωρεάς του. Για αυτή τη λειτουργηκότητα χρησιμοποίησα μια δωρεάν βιβλιοθήκη: http://www.masswerk.at/mespeak/ 
+Και προσθέθηκε ο κώδικας στο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/chart.js) *(line-421-424 & line-441-444)*
+
+Τέλος προσθέθηκε ένα επιπλέον view, το Split by amount, όπου χωρίζω τις δωρεές σε 5 τάξης μεγέθους και δίπλα αναφέρω το ποσοστό του αθροίσματος των δωρεών σε σχέση με το συνολικό ποσό της εκάστοτε τάξης μεγέθους που ανήκει σε ένα κόμμα. Για λόγους απλότητας υπολόγισα μια φορά τα στοιχεία με sql και τα έβαλα hard-typed στο html αρχείο, έτσι και αλλιώς τα δεδομένα δεν αλλάζουν οπότε δεν χρειάζετε να υπολογίζονται κάθε φορά που φορτώνετε η σελίδα.
+
+To csv αρχείο [2015038.csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015038.csv)
+
+Το pull request στο κοινό αποθετήριο του κώδικα: 
+https://github.com/ioniodi/D3js-uk-political-donations/pull/32
