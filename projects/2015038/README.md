@@ -1,3 +1,4 @@
+
 **Παραδοτέο 1**
 ----------
 
@@ -13,13 +14,16 @@
 Για να ανοίγει google search, τον donator, σε νέο παράθυρο όταν πατιέτε ένας κύκλος. Στο αρχείο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/chart.js) προσθέθηκε νέα function με όνομα *mouseClick* *(line-448)* και γίνεται trigger όταν κάνουμε click σε κάποιο κύκλο *(line-116)*
 
 Για να γίνετε μεγένθυνση σε κείμενο πρόσθεσα css ιδιότητες για κάθε element του html, [style.css](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/style.css) *(line-8-115)*
+![enter image description here](https://github.com/sakis475/sw/blob/paradoteo1/projects/2015038/zoomtext.png?raw=true)
 
 Όταν ο χρήστης έχει το ποντίκι πάνω από ένα κύκλο για πάνω από 0,3 δεύτερα ακούγετε το όνομα του donator και το ποσό της δωρεάς του. Για αυτή τη λειτουργηκότητα χρησιμοποίησα μια δωρεάν βιβλιοθήκη: http://www.masswerk.at/mespeak/ 
 Και προσθέθηκε ο κώδικας στο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo1/chart.js) *(line-421-424 & line-441-444)*
 
 Τέλος προσθέθηκε ένα επιπλέον view, το Split by amount, όπου χωρίζω τις δωρεές σε 5 τάξης μεγέθους και δίπλα αναφέρω το ποσοστό του αθροίσματος των δωρεών σε σχέση με το συνολικό ποσό της εκάστοτε τάξης μεγέθους που ανήκει σε ένα κόμμα. Για λόγους απλότητας υπολόγισα μια φορά τα στοιχεία με sql και τα έβαλα hard-typed στο html αρχείο, έτσι και αλλιώς τα δεδομένα δεν αλλάζουν οπότε δεν χρειάζετε να υπολογίζονται κάθε φορά που φορτώνετε η σελίδα.
+![](https://github.com/sakis475/sw/blob/paradoteo1/projects/2015038/splitbyamount.png?raw=true)
 
 To csv αρχείο [2015038.csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015038.csv)
 
 Το pull request στο κοινό αποθετήριο του κώδικα: 
 https://github.com/ioniodi/D3js-uk-political-donations/pull/32
+
