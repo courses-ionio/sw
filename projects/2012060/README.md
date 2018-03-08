@@ -11,6 +11,7 @@ Link προσωπικού αποθετήριου κώδικα: https://github.co
 Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-political-donations/
 
 
+
 ΖΗΤΟΥΜΕΝΑ ΠΡΩΤΟΥ ΠΑΡΑΔΟΤΕΟΥ:
 
 1) Ο σύνδεσμος της σελίδας με την εφαρμογή είναι ο παρακάτω: https://mskafi28.github.io/D3js-uk-political-donations/
