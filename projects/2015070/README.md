@@ -27,4 +27,4 @@
 
 ### Παρακάτω παρουσιάζονται ορισμένα στάδια εξέλιξης του παραδοτέου
 
-http://i66.tinypic.com/2vuwzkl.png
+<a href="http://tinypic.com?ref=2vuwzkl" target="_blank"><img src="http://i66.tinypic.com/2vuwzkl.png" border="0" alt="Image and video hosting by TinyPic"></a>
