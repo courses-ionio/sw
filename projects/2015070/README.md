@@ -43,4 +43,31 @@
 
 Το παρόν παραδοτέο βοηθάει σε έναν βαθμό τον φοιτητή να εξοικειωθεί με τις γλώσσες HTML, CSS και JavaScript και να μπορεί να αναζητήσει στο διαδίκτυο για οποιαδήποτε απαραίτητη πληροφορία για την υλοποίηση της εργασίας εφόσων δεν έχει διδαχθεί σε προίγούμενα εξάμηνα ότι κρίνεται απαραίτητο για να μπορέσει να ολοκληρώσει την εν λόγω εργασία. Ως θέμα που έχει επιλεχθεί είναι κάτι το ενδιαφέρον και έχει καλή διεπαφή με τον χρήστη.
 
+## Σύνδεσμοι 
+
+Αναζήτηση για τη δωρεά που αναγράφει η σφαίρα
+https://www.youtube.com/watch?v=DYJQ9Rng8Xc
+
+Κουμπιά με ήχο
+https://www.youtube.com/watch?v=VlwSz2dXK_8&t=350s
+
+Αλλαγές στα χρώματα
+https://www.w3schools.com/html/html_colors.asp
+
+Οτιδήποτε αφορά τις HTML, CSS και JavaScript
+https://www.w3schools.com/
+
+Τροποποίηση των εικόνων σε .ico
+https://image.online-convert.com/convert-to-ico
+
+responsive voice
+https://responsivevoice.org/
+
+screenshot to URL
+http://tinypic.com/
+
+
+
+
+
 
