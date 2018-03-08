@@ -27,5 +27,4 @@
 
 ### Παρακάτω παρουσιάζονται ορισμένα στάδια εξέλιξης του παραδοτέου
 
-
-file:///home/petros/Pictures/screenshot01.png
+http://i66.tinypic.com/2vuwzkl.png
