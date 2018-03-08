@@ -22,7 +22,7 @@ Link εκτελέσιμου κώδικα:
 
 5) Στη συνάρτηση start() του αρχείου chart.js προστέθηκε η εντολή .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});, έτσι ώστε όταν ένας χρήστης κάνει κλικ σε κάποια μπάλα ανοίγει μία καινούρια καρτέλα στο browser με τα αποτελέσματα της αναζήτησης στο google για το δωρητή στον οποίο αντιστοιχεί η μπάλα που πατήθηκε.
 
-6)
+6) Στο αρχείο full-viz.html πρόσθεσα σε όλες τις κεφαλίδες των κειμένων το class=zoom, ώστε κάθε φορά που το ποντίκι μεταφέρεται πάνω σε λέξεις του κειμένου, να λειτουργεί και ως μεγεθυντικός φακός. 
 
 7) Στο αρχείο chart.js προστέθηκαν οι εντολές:
     var voice = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
