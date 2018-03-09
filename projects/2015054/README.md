@@ -101,9 +101,18 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
       
    ![zoom2-index-html](https://user-images.githubusercontent.com/22655733/37149171-bb396df2-22d5-11e8-928f-17b447482836.JPG)
 
-#### Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε μπάλα δωρητή)
+#### Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε κύκλο δωρητή)
 Ορισμένοι από τους αναγνώστες της εφαρμογής ενδεχομένως να είναι άτομα με περιορισμένη όραση. Για να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς του όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή, έκανα τις παρακάτω ενέργειες:
 1. Στο τέλος του αρχείου "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), δήλωσα την εξωτερική βιβλιοθήκη [responsiveVoice](https://responsivevoice.org/api/) ως εξής:
 
-   ![voice-link-index-html](https://user-images.githubusercontent.com/22655733/37178085-187875ae-232a-11e8-88a2-8000a7c792c9.JPG)
-2. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages))
+   ![voice-link-index-html](https://user-images.githubusercontent.com/22655733/37205214-97be952e-239c-11e8-9633-cfa2e5dd4edf.JPG)
+2. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), πρόσθεσα στη συνάρτηση mouseover(d, i) την εντολή:
+
+   ![voice1-chart-js](https://user-images.githubusercontent.com/22655733/37206273-a843df7c-23a0-11e8-85dc-39ef3c7caf9a.JPG)
+   
+   Με την εντολή αυτή, ακούγονται οι πληροφορίες του δωρητή για όσο το ποντίκι βρίσκεται εντός του κύκλου του.
+3. Στο ίδιο αρχείο ("chart.js"), πρόσθεσα στη συνάρτηση mouseout() την εντολή:
+
+   ![voice2-chart-js](https://user-images.githubusercontent.com/22655733/37206301-c329bf64-23a0-11e8-8324-0d1bcd12df36.JPG)
+
+   ώστε να σταματούν να ακούγονται οι πληροφορίες του δωρητή όταν το ποντίκι δε θα βρίσκεται πλέον μέσα στον κύκλο.
