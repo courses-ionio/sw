@@ -151,7 +151,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 #### Ζητούμενα που απαιτούν pull request
 1. Δημιούργησα το [αρχείο .csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015054.csv) με τα στοιχεία μου.
-2. Πρόσθεσα τις εξής 5 εικόνες δωρητών στον φάκελο [photos](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/photos): 
+2. Πρόσθεσα τις εξής 5 εικόνες δωρητών στο φάκελο [photos](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/photos): 
   * Bell Pottinger Group (685)
   * Betterworld (785)
   * HCA International (713)
