@@ -33,3 +33,6 @@ https://p15poly.github.io/D3js-uk-political-donations/
 * Δημιουργία νέας επιλογής ομαδοποίησης των δεδομένων: Split by the amount of the donation
 
 Στο αρχείο index.html  πρώτα δημιούργησα το νέο κουμπί (Split by the amount of the donation) στην περιοχή που υπήρχαν και τα υπόλοιπα κουμπιά και στη συνέχεια πρόσθεσα το <div id="view-donation-amount"> .
+ 
+ ![screenshot_5](https://user-images.githubusercontent.com/22655118/37256404-e6213e02-2562-11e8-9d79-dfdb862bfb1d.png)
+
