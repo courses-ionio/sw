@@ -8,4 +8,5 @@
 * Link στην ιστοσελίδα μου : https://dimitrioueugenia.github.io/D3js-uk-political-donations/
 
  Οι αλλαγές που εφάρμοσα έτσι ώστε να μην καταλήγει το url σε full-viz.html είναι η αλλαγή του ονόματος του αρχείου από full-viz.html σε index.html
+ 
  Οι αλλαγές για το χρώμα στις μπάλες βρίσκονται στο αρχείο chart.js, όπου υπάρχει ανάλογο σχόλιο και για τα 3 πεδία της ομαδοποίησης Split by party στο αρχείο style.css, επίσης με σχόλιο.
