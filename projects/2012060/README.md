@@ -26,7 +26,7 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 6) Στο αρχείο index.html πρόσθεσα σε όλες τις κεφαλίδες των κειμένων το class=zoom, ώστε κάθε φορά που το ποντίκι μεταφέρεται πάνω σε λέξεις του κειμένου, να λειτουργεί και ως μεγεθυντικός φακός. 
 
 7) Στο αρχείο chart.js προστέθηκαν οι εντολές:
-    var voice = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
+    var donatorsname = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
  και 
 	  window.speechSynthesis.speak(voice);
     
