@@ -213,7 +213,7 @@
   Φτιάχνουμε ένα κανούργιο &lt;div id="view-donation-amount"&gt; με αντιπροσωπευτικό id και το εισάγουμε κάτω από τα υπόλοιπα             &lt;div&gt; ομαδοποίησης.  
   ```
           <div id="view-donation-amount">
-            <h3> Split by amount of donation </h3>
+            <h2 id = "amount-title"> Split by amount of donation </h3>
                 <div id="amounts-scale">
                       <div id="first">
                             <p><strong>Donations over &#163;1m </strong></p>
@@ -306,10 +306,16 @@ function moveToAmounts(alpha) {
 }
 
 ```
- Απομένει να αλλάξουμε τη θέση των 6 ετικετών με τους τίτλους των ποσών στο αρχείο style.css:
+ Απομένει να αλλάξουμε τη θέση του τίτλου ομαδοποίησης και των 6 ετικετών με τους τίτλους των ποσών στο αρχείο style.css:
 
 ```
 /*Amounts*/
+#amount-title {
+    position: absolute; 
+    top:25%;
+    left: 35%;
+}
+
 #first {
     font-weight: bold;
     position: absolute;
@@ -322,7 +328,7 @@ function moveToAmounts(alpha) {
     font-weight: bold;
     position: absolute;
     top: 200px;
-    left: 344px;
+    left: 354px;
     width: 93px;
 }
 
@@ -330,7 +336,7 @@ function moveToAmounts(alpha) {
     font-weight: bold;
     position: absolute;
     top: 200px;
-    left: 465px;
+    left: 475px;
     width: 93px;
 }
 
@@ -354,7 +360,7 @@ function moveToAmounts(alpha) {
     font-weight: bold;
     position: absolute;
     top: 200px;
-    left: 815px;
+    left: 825px;
     width: 93px;
 }
 ```
