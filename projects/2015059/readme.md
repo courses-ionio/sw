@@ -10,7 +10,9 @@
 
 [Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
 
-### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+## Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+
+### Μέρος 1ο
 
 * Αλλαγή του link
 
@@ -46,4 +48,18 @@
 
 ![split-by](https://user-images.githubusercontent.com/18286552/37308299-41c90abc-2646-11e8-9ca9-2c868188f77b.gif)
 
+### Μέρος 2ο
+[Link προς το κλαδί](https://github.com/AsteriosP/D3js-uk-political-donations/tree/Paradoteo1-Meros2o)
+[Link προς το merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/39)
 
+* Εικόνες στους:
+
+Scottish Parliament (71)
+House of Commons (72)
+House of Lords (78)
+Australian Labor Party (89)
+Sir Arthur Rowbotham (95)
+
+* Και το αρχείο:
+
+2015059
