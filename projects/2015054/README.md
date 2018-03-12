@@ -21,7 +21,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 ![fullviz2](https://user-images.githubusercontent.com/22655733/36723307-8dd50c64-1bb8-11e8-81be-2b093a111543.JPG)
 
-σε "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)):
+σε "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)):
 
 ![fullviz1](https://user-images.githubusercontent.com/22655733/36723280-7ea7b0fc-1bb8-11e8-9414-16dc95f95774.JPG)
 
@@ -29,7 +29,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 σε: https://nefelinikiforou.github.io/D3js-uk-political-donations/.
 
 #### Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα
-Για να έχω διαφορετικά χρώματα στις μπάλες με τα δεδομένα, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), στο εξής σημείο του κώδικα:
+Για να έχω διαφορετικά χρώματα στις μπάλες με τα δεδομένα, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "chart.js" ([Βλ. και αποθετήριο]https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)), στο εξής σημείο του κώδικα:
 
 ##### Αρχικά:
 
@@ -44,7 +44,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ![colorballs2](https://user-images.githubusercontent.com/22655733/36741492-ef804f0c-1bed-11e8-9fa9-08f6e26dc549.JPG)
 
 #### Αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης *Split by party*
-Για να έχω διαφορετικά χρώματα στα 3 πεδία της ομαδοποίησης *Split by party*, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), στο εξής σημείο του κώδικα:
+Για να έχω διαφορετικά χρώματα στα 3 πεδία της ομαδοποίησης *Split by party*, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), στο εξής σημείο του κώδικα:
 
 ![style-css-partycolor](https://user-images.githubusercontent.com/22655733/36935875-e8e46b86-1f05-11e8-9eb3-d2e91447b430.JPG)
 
@@ -56,7 +56,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 #### Ήχος στις επιλογές/κουμπιά ομαδοποίησης των δεδομένων (ενεργοποίηση με κλικ)
 Για να ακούγεται ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ομαδοποίησης των δεδομένων, έκανα τις παρακάτω ενέργειες:
 1. Βρήκα ([εδώ](http://soundbible.com/)) και ανέβασα στο αποθετήριο της εφαρμογής μου ένα [mp3 αρχείο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/Stapler-SoundBible.com-374581609.mp3).
-2. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), έβαλα το script tag:
+2. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), έβαλα το script tag:
 
       ![sound1](https://user-images.githubusercontent.com/22655733/36936649-aeacefaa-1f10-11e8-9238-f31781456b76.JPG)
 3. Στο ίδιο αρχείο έβαλα και την ακόλουθη εντολή:
@@ -68,7 +68,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
       ![sound3](https://user-images.githubusercontent.com/22655733/36936799-73156c0e-1f12-11e8-95e5-7b5429fdd520.JPG)
 
 ####  Άνοιγμα νέου παραθύρου με αποτελέσματα αναζήτησης (google) για δωρητή (ενεργοποίηση με κλικ σε μπάλα)
-Προκειμένου το κλικ σε κάθε μπάλα να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή, έκανα τις παρακάτω ενέργειες στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)):
+Προκειμένου το κλικ σε κάθε μπάλα να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή, έκανα τις παρακάτω ενέργειες στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
 1. Δημιούργησα τη συνάρτηση googleSearch(d), που έχει σαν όρισμα τα δεδομένα της εκάστοτε μπάλας (όνομα δωρητή) και με την εντολή window.open() ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης google για τον αντίστοιχο δωρητή:
    
    ![char-js-gsearch-funct](https://user-images.githubusercontent.com/22655733/37045497-c0958956-216e-11e8-9eed-ae070741eb7c.JPG)
@@ -89,10 +89,10 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 #### Λειτουργία ποντικιού ως μεγεθυντικός φακός του κειμένου
 Ορισμένοι από τους αναγνώστες της εφαρμογής ενδεχομένως να είναι άτομα με περιορισμένη όραση. Προκειμένου το ποντίκι να λειτουργεί και ως μεγεθυντικός φακός όταν μεταφέρεται επάνω από τις λέξεις του κειμένου (αύξηση μεγέθους γραμματοσειράς), έκανα τις παρακάτω ενέργειες:
-1. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), έφτιαξα μια νέα κλάση zoom, η οποία αλλάζει το μέγεθος της γραμματοσειράς (font-size) σε *large* όταν το ποντίκι βρίσκεται πάνω από κείμενο (hover):
+1. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), έφτιαξα μια νέα κλάση zoom, η οποία αλλάζει το μέγεθος της γραμματοσειράς (font-size) σε *large* όταν το ποντίκι βρίσκεται πάνω από κείμενο (hover):
 
    ![zoom-style-css](https://user-images.githubusercontent.com/22655733/37148163-1c413cdc-22d2-11e8-8218-d85951c06dbc.JPG)
-2. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), έβαλα το εξής <script>:
+2. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), έβαλα το εξής <script>:
 
    ![zoom-index-html](https://user-images.githubusercontent.com/22655733/37148864-97e63566-22d4-11e8-95d8-fedcfcad942c.JPG)
 
@@ -103,10 +103,10 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 #### Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε κύκλο δωρητή)
 Ορισμένοι από τους αναγνώστες της εφαρμογής ενδεχομένως να είναι άτομα με περιορισμένη όραση. Για να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς του όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή, έκανα τις παρακάτω ενέργειες:
-1. Στο τέλος του αρχείου "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), δήλωσα την εξωτερική βιβλιοθήκη [responsiveVoice](https://responsivevoice.org/api/) ως εξής:
+1. Στο τέλος του αρχείου "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), δήλωσα την εξωτερική βιβλιοθήκη [responsiveVoice](https://responsivevoice.org/api/) ως εξής:
 
    ![voice-link-index-html](https://user-images.githubusercontent.com/22655733/37205214-97be952e-239c-11e8-9633-cfa2e5dd4edf.JPG)
-2. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)), πρόσθεσα στη συνάρτηση mouseover(d, i) την εντολή:
+2. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)), πρόσθεσα στη συνάρτηση mouseover(d, i) την εντολή:
 
    ![voice1-chart-js](https://user-images.githubusercontent.com/22655733/37206273-a843df7c-23a0-11e8-85dc-39ef3c7caf9a.JPG)
    
@@ -119,7 +119,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 #### Δημιουργία και προσθήκη νέας επιλογής ομαδοποίησης των δεδομένων (Split by the amount of the donation)
 Προκειμένου να δημιουργήσω και να προσθέσω μία ακόμα επιλογή ομαδοποίησης των δεδομένων (διαχωρισμός ανάλογα με το ποσό της δωρεάς), έκανα τις παρακάτω ενέργειες:
-1. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)): 
+1. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)): 
   * Δημιούργησα το νέο κουμπί (Split by the amount of the donation) κάτω από τα προηγούμενα κουμπιά της λίστας:
       ```
       <li><a href="#" onclick="sound.play()" role="button" class="pure-button switch" id="group-by-donation-amount">Split by the amount of the donation</a></li>
@@ -127,7 +127,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
   * Πρόσθεσα το &lt;div id="view-donation-amount"&gt; κάτω από τα υπόλοιπα &lt;div&gt; ομαδοποίησης:
 
       ![new-div-index-html](https://user-images.githubusercontent.com/22655733/37247732-86326b82-24c8-11e8-957b-01a014dc99ba.JPG)
-2. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)):
+2. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
   * Πρόσθεσα στη συνάρτηση transition() μία επιπλέον μετάβαση, η οποία (ενεργοποίηση με κλικ στο κουμπί "Split by the amount of the donation"), φέρνει στο προσκήνιο (fadeIn) το #view-donation-amount (Βλ. και "index.html"), "κρύβει" (fadeOut) όλα τα υπόλοιπα # και επιστρέφει τη συνάρτηση amountsGroup():
 
       ![new-transition-chart-js](https://user-images.githubusercontent.com/22655733/37259189-d7ed4ee2-258b-11e8-8d62-d007e0942d97.JPG)
@@ -144,7 +144,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
   * Δημιούργησα τη συνάρτηση moveToAmounts(alpha), προκειμένου να μετακινηθούν οι κόμβοι στις κατάλληλες θέσεις. Ουσιαστικά, επιλέγεται ένα σταθερό κέντρο για τη θέση Y των κόμβων και, με βάση το value του κάθε κόμβου (το ποσό της δωρεάς), ορίζεται το X σε μία τιμή που αντιστοιχεί στις 6 επιλεγμένες τιμές (Donations over £1m, Donations over £500k, Donations over £100k, Donations over £50k, Donations over £25k, Donations under £25k):
 
       ![func-movetoamounts-chart-js](https://user-images.githubusercontent.com/22655733/37288197-4f23312e-260f-11e8-84b4-2850a0c94d0e.JPG)
-3. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages)):
+3. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)):
   * Επέλεξα να μην εμφανίζονται αρχικά στη σελίδα τα στοιχεία της ```#view-donation-amount```:
   
       ![disappear-view-style-css](https://user-images.githubusercontent.com/22655733/37288507-26379da8-2610-11e8-8430-66c8deea4d6a.JPG)
