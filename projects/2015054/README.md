@@ -10,8 +10,9 @@
 
 #### Σύνδεσμοι
 ##### Link ιστοσελίδας της εφαρμογής μου: https://nefelinikiforou.github.io/D3js-uk-political-donations/
-##### Αποθετήριο του κώδικα της εφαρμογής: https://github.com/nefelinikiforou/D3js-uk-political-donations
-*Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
+##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations
+##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
+***\*** **Σημείωση\:** Παραδοτέο 1: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
 
 ### Πίνακας Περιεχομένων
   * [Παραδοτέο 1](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
@@ -112,7 +113,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
    ![zoom-index-html](https://user-images.githubusercontent.com/22655733/37148864-97e63566-22d4-11e8-95d8-fedcfcad942c.JPG)
 
    Οι εντολές αυτές εντοπίζουν όλες τις ετικέτες (p, h4, h5, nav) στις οποίες θέλουμε να γίνεται η μεγέθυνση κειμένου και προσθέτουν σε αυτές την κλάση zoom. Η μεγέθυνση γίνεται ταυτόχρονα σε όλα τα κουμπιά, ανεξάρτητα από το πάνω σε ποιο ακριβώς από αυτά βρίσκεται το ποντίκι, καθώς θεώρησα ότι ο χρήστης θα θέλει να βλέπει καθαρά το σύνολο των δυνατών επιλογών (κουμπιά) που έχει, ώστε να βρίσκει άμεσα αυτό που θέλει. Επέλεξα να μη γίνεται zoom στις ετικέτες h1, h2 και h3, καθώς το κείμενό τους έχει ήδη αρκετά μεγάλο μέγεθος γραμματοσειράς και είναι bold (Βλ. και σχόλια).   
-3. Στο ίδιο αρχείο ("index.html"), πρόσθεσα ετικέτες < p > στα 25k, 50k, 100k, 500k, 1m (value scale), ώστε να μεγενθύνονται, καθώς έχουν αρκετά μικρό μέγεθος γραμματοσειράς και αχνό χρώμα:
+3. Στο ίδιο αρχείο ("index.html"), πρόσθεσα ετικέτες < p > στα 25k, 50k, 100k, 500k, 1m (value scale), ώστε να μεγεθύνονται, καθώς έχουν αρκετά μικρό μέγεθος γραμματοσειράς και αχνό χρώμα:
       
    ![zoom2-index-html](https://user-images.githubusercontent.com/22655733/37149171-bb396df2-22d5-11e8-928f-17b447482836.JPG)
 
