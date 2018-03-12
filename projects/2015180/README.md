@@ -19,7 +19,7 @@
 * Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα τροποποιούμε τον κώδικα στο chart.js
 
   ```
-  var fill = d3.scale.ordinal().range(["#ABD91F", "#FF1FAB", "#991337"]);
+  var fill = d3.scale.ordinal().range(["#F88379", "#002E62", "#8C92AC"]);
   ```
   Για την αλλαγή των χρωμάτων στα τρία πεδία ομαδοποίησης *Split by party* τροποποιούμε τον κώδικα στο style.css
   
@@ -27,15 +27,15 @@
   /*  Party view */
   #conservative, #labour, #libdem { padding: 10px; }
   #conservative {
-      background: rgba(255, 31, 171, 0.2);
+      background: rgba(0, 46, 98, 0.2);
       top: 110px;
   }
   #labour {
-      background: rgba(171, 217, 31, 0.2);
+      background: rgba(248, 131, 121, 0.2);
       top: 330px;
   }
   #libdem {
-      background: rgba(153,19,55, 0.2);
+      background: rgba(140, 146, 172, 0.2);
       top: 550px;
   }
   ```
@@ -50,7 +50,7 @@
   ```
   <script>		
     
-    var button_sound = new Audio("Click2.mp3");
+    var button_sound = new Audio("coin-drop-4.mp3");
         
     
   </script>
