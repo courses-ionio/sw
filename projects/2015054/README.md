@@ -44,7 +44,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 σε: https://nefelinikiforou.github.io/D3js-uk-political-donations/.
 
 #### Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα
-Για να έχω διαφορετικά χρώματα στις μπάλες με τα δεδομένα, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "chart.js" ([Βλ. και αποθετήριο]https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)), στο εξής σημείο του κώδικα:
+Για να έχω διαφορετικά χρώματα στις μπάλες με τα δεδομένα, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)), στο εξής σημείο του κώδικα:
 
 ##### Αρχικά:
 
