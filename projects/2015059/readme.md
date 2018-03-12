@@ -5,6 +5,10 @@
 
 #### Αριθμός Μητρώου: Π2015059
 
+## Links
+[Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
+[Αποθετίριο του κωδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
+
 ## Σύνοψη (100 λέξεις)
 
 ## Σύντομη εισαγωγή (200 λέξεις)
