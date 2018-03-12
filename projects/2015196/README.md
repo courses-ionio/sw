@@ -9,3 +9,12 @@
 **Link στο παραδοτέο 1:**  https://github.com/ntzora/D3js-uk-political-donations
 
 **Link στον εκτελέσιμο κώδικα:** https://ntzora.github.io/D3js-uk-political-donations/
+
+## Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
+
+* Μετονομασία σε index.html του full-viz.html</li>
+* Αλλαγη χρωμάτων του γραφήματος</li>
+
+  ## Υλοποίηση αποθεμάτων στο κοινό αποθετήριο
+
+* Προσθήκη αρχείου csv με τα στοιχεία μου 
