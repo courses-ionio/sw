@@ -213,7 +213,7 @@
   Φτιάχνουμε ένα κανούργιο &lt;div id="view-donation-amount"&gt; με αντιπροσωπευτικό id και το εισάγουμε κάτω από τα υπόλοιπα             &lt;div&gt; ομαδοποίησης.  
   ```
           <div id="view-donation-amount">
-            <h2 id = "amount-title"> Split by amount of donation </h3>
+            <h2 id = "amount-title"> Split by amount of donation </h2>
                 <div id="amounts-scale">
                       <div id="first">
                             <p><strong>Donations over &#163;1m </strong></p>
