@@ -1,5 +1,5 @@
-## Τεχνολογία Λογισμικού
-### Οπτικοποίηση δεδομένων χορηγιών (UK)
+# Τεχνολογία Λογισμικού
+## Οπτικοποίηση δεδομένων χορηγιών (UK)
 
 #### Στοιχεία φοιτητή
 ##### Ονοματεπώνυμο: Μαρία-Νεφέλη Νικηφόρου
@@ -11,7 +11,20 @@
 ##### Link ιστοσελίδας της εφαρμογής μου: https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ##### Αποθετήριο του κώδικα της εφαρμογής: https://github.com/nefelinikiforou/D3js-uk-political-donations
 
-### Παραδοτέο 1
+### Πίνακας Περιεχομένων
+  * [Παραδοτέο 1](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
+    * [Σύνδεσμος σελίδας μου με την εφαρμογή](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A3%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%BC%CE%BF%CF%82-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1%CF%82-%CE%BC%CE%BF%CF%85-%CE%BC%CE%B5-%CF%84%CE%B7%CE%BD-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE)
+    * [Αλλαγή κατάληξης url](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CE%BE%CE%B7%CF%82-url)
+    * [Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%87%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD-%CF%83%CF%84%CE%B9%CF%82-%CE%BC%CF%80%CE%AC%CE%BB%CE%B5%CF%82-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CE%B1)
+    * [Αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%87%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD-%CF%83%CF%84%CE%B1-3-%CF%80%CE%B5%CE%B4%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BF%CE%BC%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82-split-by-party)
+    * [Ήχος στις επιλογές/κουμπιά ομαδοποίησης των δεδομένων](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%89%CF%87%CE%BF%CF%82-%CF%83%CF%84%CE%B9%CF%82-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AD%CF%82%CE%BA%CE%BF%CF%85%CE%BC%CF%80%CE%B9%CE%AC-%CE%BF%CE%BC%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82-%CF%84%CF%89%CE%BD-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%BC%CE%B5-%CE%BA%CE%BB%CE%B9%CE%BA)
+    * [Άνοιγμα νέου παραθύρου με αποτελέσματα αναζήτησης για δωρητή](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%86%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BD%CE%AD%CE%BF%CF%85-%CF%80%CE%B1%CF%81%CE%B1%CE%B8%CF%8D%CF%81%CE%BF%CF%85-%CE%BC%CE%B5-%CE%B1%CF%80%CE%BF%CF%84%CE%B5%CE%BB%CE%AD%CF%83%CE%BC%CE%B1%CF%84%CE%B1-%CE%B1%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7%CF%82-google-%CE%B3%CE%B9%CE%B1-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%BC%CE%B5-%CE%BA%CE%BB%CE%B9%CE%BA-%CF%83%CE%B5-%CE%BC%CF%80%CE%AC%CE%BB%CE%B1)
+    * [Λειτουργία ποντικιού ως μεγεθυντικός φακός του κειμένου](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%9B%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%B9%CE%BF%CF%8D-%CF%89%CF%82-%CE%BC%CE%B5%CE%B3%CE%B5%CE%B8%CF%85%CE%BD%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%86%CE%B1%CE%BA%CF%8C%CF%82-%CF%84%CE%BF%CF%85-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85)
+    * [Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%89%CF%87%CE%BF%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BF%CE%BD%CE%BF%CE%BC%CE%B1%CF%83%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%84%CE%BF-%CF%80%CE%BF%CF%83%CF%8C-%CF%84%CE%B7%CF%82-%CE%B4%CF%89%CF%81%CE%B5%CE%AC%CF%82-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%8C%CF%84%CE%B1%CE%BD-%CF%84%CE%BF-%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9-%CE%BC%CE%AD%CF%83%CE%B1-%CF%83%CE%B5-%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE)
+    * [Δημιουργία και προσθήκη νέας επιλογής ομαδοποίησης των δεδομένων](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%94%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%BD%CE%AD%CE%B1%CF%82-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-%CE%BF%CE%BC%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82-%CF%84%CF%89%CE%BD-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-split-by-the-amount-of-the-donation)
+    * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request)
+
+## Παραδοτέο 1
 
 #### Σύνδεσμος σελίδας μου με την εφαρμογή
 https://nefelinikiforou.github.io/D3js-uk-political-donations/
@@ -156,7 +169,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
 Για την εύρεση των κατάλληλων pixel, χρησιμοποίησα την επέκταση του Google Chrome, *Page Ruler*:
 
-++++++++++++++
+![pageruler](https://user-images.githubusercontent.com/22655733/37301526-77e6b776-2631-11e8-9680-2884296f53d8.JPG)
 
 #### Ζητούμενα που απαιτούν pull request
 1. Δημιούργησα το [αρχείο .csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015054.csv) με τα στοιχεία μου.
