@@ -15,7 +15,7 @@
 https://p15poly.github.io/D3js-uk-political-donations/
 
 * Αλλαγή χρωμάτων στις μπάλες και στα 3 πεδία της ομαδοποίησης Split by party.
-#### πριν
+### πριν
 ![screenshot_1](https://user-images.githubusercontent.com/22655118/37254304-b53b797e-2544-11e8-99d5-9c1c649d0f3b.png)
 ### μετά
 ![screenshot_3](https://user-images.githubusercontent.com/22655118/37254439-8af0a11a-2546-11e8-8005-8c202cd7f0ab.png)
@@ -40,11 +40,36 @@ https://p15poly.github.io/D3js-uk-political-donations/
 Πρόσθεσα επίσης στο αρχείο index.html (στο τέλος) κάποιο script έτσι ώστε να γίνεται μεγένθυση στις ετικέτες που πρέπει.Οι αντίστοιχες αλλαγές φαίνονται-->( https://github.com/p15poly/D3js-uk-political-donations/blob/gh-pages/index.html )
 (δεν κατάφερα βέβαια να το κάνω να λειτουργήσει)
 
+* Ενεργοποίηση ήχου για την ονομασία του δωρητή και το ποσό της δωρεάς 
+
+Αρχικά στο αρχείο index.html πρόσθεσα βιβλιοθήκη responsiveVoice όπως αυτή φαίνεται --> ( https://github.com/p15poly/D3js-uk-political-donations/blob/gh-pages/index.html )
+
+Στη συνέχεια πρόσθεσα στο αρχείο chart.js την αντίστοιχη εντολή έτσι ώστε να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς του, όπως φαίνεται --> ( https://github.com/p15poly/D3js-uk-political-donations/blob/gh-pages/chart.js )
+
+Όταν το βελάκι πηγαίνει πλέον πάνω από κάποια μπάλα ακούγουνται και οι αντίστοιχες πληροφορίες
+
 * Δημιουργία νέας επιλογής ομαδοποίησης των δεδομένων: Split by the amount of the donation
 
 Στο αρχείο index.html  πρώτα δημιούργησα το νέο κουμπί (Split by the amount of the donation) στην περιοχή που υπήρχαν και τα υπόλοιπα κουμπιά και στη συνέχεια πρόσθεσα το &lt;div id="view-donation-amount"&gt;. Oι αντίστοιχες αλλαγές φαίνονται--> ( https://github.com/p15poly/D3js-uk-political-donations/blob/gh-pages/index.html )
+
+Στο αρχείο chart.js πρόσθεσα ένα επιπλέον transition για το group by donation amount, δημιούργησα τη συνάρτηση amountsGroup() κάτω από τις υπόλοιπες και τη συνάρτηση amounts() με τον ίδιο τρόπο. Τέλος, δημιούργησα τη συνάρτηση moveToAmounts(alpha) για να μπουν στη σωστή θέση οι κόμβοι. Oι αντίστοιχες αλλαγές φαίνονται--> ( https://github.com/p15poly/D3js-uk-political-donations/blob/gh-pages/chart.js )
  
 ![screenshot_3](https://user-images.githubusercontent.com/22655118/37287566-c2f33cae-260d-11e8-9576-392e5745cf1b.png)
 ![screenshot_4](https://user-images.githubusercontent.com/22655118/37287851-6de9a878-260e-11e8-8876-bd52f53ed9ab.png)
  
+
+##### Ζητούμενα τα οποία απαιτούν pull request
+
+  * Δημιούργησα το αρχείο .csv με τα στοιχεία μου.
+  * Πρόσθεσα τις 4 από τις 5 εικόνες δωρητών στο φάκελο photos:
+   
+       1.Conservative Draws          (15)	
+   
+       2.Focus on Scotland 	         (16)
+   
+       3.The Spring Lunch 	          (17)-- Δεν βρήκα εικόνα για το συγκεκριμένο
+  
+       4.United and Cecil Club       (18)
+   
+       5.Somerset Conservative Group (26)
 
