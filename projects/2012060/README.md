@@ -28,6 +28,7 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 7) Στο αρχείο chart.js προστέθηκαν οι εντολές:
 
     var donatorsname = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
+    
  και 
  
 	  window.speechSynthesis.speak(donatorsname);
