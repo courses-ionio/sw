@@ -6,7 +6,7 @@
 #### ΑΜ: Π2015185
 #### e-mail: p15tsiv@ionio.gr
 
-#### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo1
+#### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15tsiv/D3js-uk-political-donations/
 #### Link εκτελέσιμου κώδικα: https://p15tsiv.github.io/D3js-uk-political-donations
 
 ## Σύνοψη:
@@ -16,6 +16,7 @@
 
 ## Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 14 Μαρτίου (25%)
 
+* Link Παραδοτέου 1: https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo1
 * Αντικατάσταση της κατάληξης full-viz.html από το URL https://github.com/p15tsiv/D3js-uk-political-donations/full-viz.html με το index.html, έτσι ώστε να εμφανίζεται το URL https://github.com/p15tsiv/D3js-uk-political-donations.
 * Τροποποίηση των κωδικών rgba και των HEX, για αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
 * Προσθήκη ήχου στα κουμπιά ομαδοποίησης δεδομένων.
