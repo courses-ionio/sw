@@ -25,8 +25,7 @@
 σε index.html ώστε να ανοίγει το αρχείο χώρις την κατάληξη full-viz.html, επιπλέον φαίνεται το όνομα χρήστη στο URL και όχι το αρχικό όνομα. Μετά ξεκίνησα να κάνω τις απαραίτητες αλλαγές στα αρχεία index.html, style.css και chart.js. Έγιναν οι απαραίτητες αλλαγές ώστε να αλλάξουν τα χρώματα στις μπάλες αλλά και στα τρία πλαίσια στο Split by Party. Επιτυχής ήταν και η προσθήκη ενός ήχου κάθε φορά που κάνουμε κλικ σε κουμπιά διαχωρισμού. Επιπλέον προστέθηκε μια λειτουργία ώστε όταν κάνουμε κλικ σε μία μπάλα και ο χρήστης να οδηγείται στην αναζήτηση Google όπου ανοίγει η πληροφορία της συγκεκριμένης μπάλας. Ακόμη έγιναν τροποποιήσεις ώστε να μεγενθύνονται τα κειμενάκια και να ακούγεται ομιλία για τα στοιχεία της κάθε μπάλας όταν ο κέρσορας βρίσκεται πάνω σε αυτή.
 Τέλος, δημιουργήθηκε κουμπάκι διαχωρισμού Split by The Amount of Donation.
 Το επόμενο στάδιο ήταν να δημιουργηθεί ένα αρχείο .csv με τα στοιχεία μου, καθώς και να προσθέσω 5 φωτογραφίες δωρητών 42x42 px σε .ico ώστε να προστεθούν στα κατάλληλα σημεία.
-
-##Οι εικόνες είναι : 122. John Frieda
+Οι εικόνες είναι :   122. John Frieda
                      166. Andrew Scott
                      450. Lord Edward Haughey
                      455. Amanda Shaw
@@ -37,11 +36,24 @@
 ### Σχετικές Εικόνες:
   Αλλαγές στα  χρώματα
   
+ ![default](https://raw.githubusercontent.com/konstantinadeliveri/sw/2015020/projects/2015020/1.jpg)
+  
+  ![default](https://raw.githubusercontent.com/konstantinadeliveri/sw/2015020/projects/2015020/2.jpg)
+  
   
   Νέος Διαχωρισμός
   
   
+  ![default](https://raw.githubusercontent.com/konstantinadeliveri/sw/2015020/projects/2015020/3.jpg)
+  
 
-                     
+  Γενικά
+  
+  
+  ![default](https://raw.githubusercontent.com/konstantinadeliveri/sw/2015020/projects/2015020/4.jpg)
+  
+  
+  ![default](https://raw.githubusercontent.com/konstantinadeliveri/sw/2015020/projects/2015020/5.jpg)
+  
                      
                    
