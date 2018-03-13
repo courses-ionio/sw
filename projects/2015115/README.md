@@ -11,7 +11,7 @@
 
 #### [Εκτελέσιμο link](https://p15avgo.github.io/D3js-uk-political-donations/)
 #### [Αποθετήριο κώδικα](https://github.com/p15avgo/D3js-uk-political-donations/tree/Αρχικό-έργο-και-ενδιάμεση-αναφορά-προόδου)
-#### [Github Pages κώδικα](https://github.com/p15avgo/D3js-uk-political-donations/tree/gh-pages)
+#### [Αποθετήριο Github Pages κώδικα](https://github.com/p15avgo/D3js-uk-political-donations/tree/gh-pages)
 
 
 ## Αρχικό έργο και ενδιάμεση αναφορά προόδου
@@ -34,18 +34,23 @@
 
 * Δημιουργήθηκε η δυνατότητα όπου ο χρήστης να κλικ σε κάποια μπάλα έτσι ώστε να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή
 
+![google](google.gif)
+
 * Έγινε προσθήκη της μεγένθυση όταν ο δείκτης βρίσκεται πάνω από τις λέξεις του κειμένου
 
+![zoom](zoom.gif)
+
 * Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή
+
 
 * Δημιουργία νέας ομαδοποίηση δεδομένων: Split by amount of donations
 
 ![splitbyamount](SplitByAmountOfTheDonation.png)
 
 ### 2ο Μέρος
-[Link προς το κλαδί](https://github.com/p15avgo/D3js-uk-political-donations/tree/Participants)
+[Αποθετήριο Participants](https://github.com/p15avgo/D3js-uk-political-donations/tree/Participants)
 
-[Link προς το merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/25)
+[Merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/25)
 
 ## Εικόνες
 
