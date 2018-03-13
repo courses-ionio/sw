@@ -7,6 +7,9 @@
 * Link στο αποθετήριο του κώδικα της ιστοσελίδας μου: https://github.com/DimitriouEugenia/D3js-uk-political-donations/tree/gh-pages
 * Link στην ιστοσελίδα μου : https://dimitrioueugenia.github.io/D3js-uk-political-donations/
 
+
+ Για τα ζητούμενα στα οποία απαιτούνται αλλαγές στο κοινό αποθετήριο του κώδικα ανέβασα τις 5 φωτογραφίες για τους δωρητές που επέλεξα, οι οποίες είναι .ico και 42x42 pexels.
+
  Οι αλλαγές που εφάρμοσα έτσι ώστε να μην καταλήγει το url σε full-viz.html είναι η αλλαγή του ονόματος του αρχείου από full-viz.html σε index.html
  
  Οι αλλαγές για το χρώμα στις μπάλες βρίσκονται στο αρχείο chart.js, όπου υπάρχει ανάλογο σχόλιο και για τα 3 πεδία της ομαδοποίησης Split by party στο αρχείο style.css, επίσης με σχόλιο.
