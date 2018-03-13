@@ -21,4 +21,5 @@
 ενώ για το Strangers Gallery δεν ήταν ξεκάθαρα τα αποτελέσματα της αναζήτησης, και άρα δεν έγινε παράθεση εικόνων.
 
 ![ScreenShot](Screen Shot 2018-03-13 at 22.40.20.png)
+
 ![ScreenShot](Screen Shot 2018-03-13 at 22.40.44.png)
