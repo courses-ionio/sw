@@ -36,20 +36,20 @@
 ### Σχετικές Εικόνες:
   Αλλαγές στα  χρώματα
   
-  ![ScreenShot]( 	Στιγμιότυπο οθόνης (3).png)
+  ![ScreenShot](1.jpg)
   
-  ![ScreenShot]( 	Στιγμιότυπο οθόνης (5).png)
+  ![ScreenShot](2.jpg)
   
   
   Νέος Διαχωρισμός
   
-  ![ScreenShot]( 	Στιγμιότυπο οθόνης (8).png)
+  ![ScreenShot](3.jpg)
   
   Γενικά
   
-![ScreenShot]( 	Στιγμιότυπο οθόνης (4).png)
+![ScreenShot](4.jpg)
 
-![ScreenShot]( 	Στιγμιότυπο οθόνης (7).png)
+![ScreenShot](5.jpg)
   
   
 
