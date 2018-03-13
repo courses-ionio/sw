@@ -19,5 +19,6 @@
 4.  Marcus Evans, 
 
 ενώ για το Strangers Gallery δεν ήταν ξεκάθαρα τα αποτελέσματα της αναζήτησης, και άρα δεν έγινε παράθεση εικόνων.
-![Uploading Screen Shot 2018-03-13 at 22.40.20.png…]()
+
+<img width="1667" alt="screen shot 2018-03-13 at 22 40 20" src="https://user-images.githubusercontent.com/22647410/37371050-c43a55c0-2716-11e8-8564-59dbd44c780b.png">
 
