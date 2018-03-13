@@ -21,7 +21,7 @@
 ### 2ο Μέρος
 [Link προς το κλαδί](https://github.com/p15avgo/D3js-uk-political-donations/tree/Participants)
 
-[Link προς το merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/16)
+[Link προς το merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/25)
 
 ## Εικόνες
 
