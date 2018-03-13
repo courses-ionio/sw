@@ -17,3 +17,23 @@
 ## Αρχικό έργο και ενδιάμεση αναφορά προόδου
 
 ### 1ο Μέρος
+
+### 2ο Μέρος
+[Link προς το κλαδί](https://github.com/p15avgo/D3js-uk-political-donations/tree/Participants)
+
+[Link προς το merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/16)
+
+## Εικόνες
+
+May Makhzoumi (100)
+
+Lord Fink (101)
+
+Peter Cruddas (102)
+
+Michael Davis (103)
+
+James R Lupton (104)
+
+## Αρχείο CSV
+2015115
