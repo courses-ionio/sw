@@ -17,4 +17,5 @@
 2.  MC2 Manchester 
 3.  Huawei Technologies Co 
 4.  Marcus Evans 
+
 Ενώ για το Strangers Gallery δεν ήταν ξεκάθαρα τα αποτελέσματα της αναζήτησης, και άρα δεν έγινε παράθεση εικόνων.
