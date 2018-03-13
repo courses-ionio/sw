@@ -6,7 +6,7 @@
 #### ΑΜ: Π2015185
 #### e-mail: p15tsiv@ionio.gr
 
-#### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15tsiv/D3js-uk-political-donations
+#### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15tsiv/D3js-uk-political-donations/tree/gh-pages
 #### Link εκτελέσιμου κώδικα: https://p15tsiv.github.io/D3js-uk-political-donations
 
 ## Σύνοψη:
