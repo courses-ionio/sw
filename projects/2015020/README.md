@@ -8,7 +8,7 @@
  Στόχος της εργασίας είναι η εξοικείωση με τις γλώσσες HTML, CSS και JavaScript σε ένα ήδη υπάρχον περιβάλλον το οποίο καλούμαστε να τροποποιήσουμε.
  
  ### Link στο εκτελέσιμο του κώδικα: https://konstantinadeliveri.github.io/D3js-uk-political-donations/
- ### Link στο προσωπικό αποθετήριο του κώδικα: https://github.com/konstantinadeliveri/D3js-uk-political-donations
+ ### Link στο προσωπικό αποθετήριο του κώδικα: https://github.com/konstantinadeliveri/D3js-uk-political-donations/tree/2015020
  ### Link (gh-pages) για το 1ο παραδοτέο: https://github.com/konstantinadeliveri/D3js-uk-political-donations/tree/gh-pages
  
  ### Δήλωση και δέσμευση θέματος εργασίας στο μάθημα Τεχνολογία Λογισμικού
