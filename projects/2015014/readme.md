@@ -6,7 +6,7 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-#### πρόσφατες αλλαγές: https://doreziagim.github.io/D3js-uk-political-donations/
+#### Aλλαγές: https://doreziagim.github.io/D3js-uk-political-donations/
 #### Αποθετήριο κώδικα : https://github.com/doreziagim/D3js-uk-political-donations/tree/gh-pages
 
 ## Παραδοτέο 1
