@@ -34,7 +34,7 @@ https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js. 
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 ```javascript
-" .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
+.on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
 ```
 
 Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
