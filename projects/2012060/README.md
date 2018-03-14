@@ -23,10 +23,10 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 3) Έγινε αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα σε όλα τα πεδία ομαδοποίησης, με αλλαγή του color scale στο αρχείο chart.js. Επιπλέον, στην κατηγορία Split by party άλλαξα τα χρώματα στα πεδία Conservative Party, Labour Party και Liberal Democrats μέσα από το αρχείο style.css.
 
 
-![Screenshot](1.jpg)
+![Screenshot](1.png)
 
 
-![Screenshot](1.jpg)
+![Screenshot](2.png)
 
 
 4) Στο αρχείο index.html πρόσθεσα την εντολή onmousedown="bs.play()", ώστε να ακούγεται ήχος κάθε φορά που ο χρήστης κάνει κλικ σε κάποιο από τα πεδία ομαδοποίησης των δεδομένων.
@@ -37,7 +37,7 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 ![Screenshot](3.png)
 
 
-![Screenshot](4.jpg)
+![Screenshot](4.png)
 
 
 6) Στο αρχείο index.html πρόσθεσα σε όλες τις κεφαλίδες των κειμένων το class=zoom, ώστε κάθε φορά που το ποντίκι μεταφέρεται πάνω σε λέξεις του κειμένου, να λειτουργεί και ως μεγεθυντικός φακός. 
