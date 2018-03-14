@@ -11,7 +11,7 @@ link εκτελέσιμου : https://p13kosm.github.io/D3js-uk-political-donati
 https://github.com/p13kosm/D3js-uk-political-donations/blob/gh-pages/style.css
 
 Προσθήκη ήχου κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ομαδοποίησης των δεδομένων.
-https://github.com/p13kosm/D3js-uk-political-donations/blob/gh-pages/full-viz.html
+https://github.com/p13kosm/D3js-uk-political-donations/blob/gh-pages/index.html
 
 Τροποποίηση κώδικα, έτσι ώστε όταν γίνετε κλικ σε κάθε μπάλα να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή.
 https://github.com/p13kosm/D3js-uk-political-donations/blob/gh-pages/chart.js
