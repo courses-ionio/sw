@@ -28,11 +28,11 @@
 # ΠΑΡΑΔΟΤΕΟ 1
 
 **-Αλλαγή κατάληξης URL του προσωπικού μου αποθετηρίου**
-Για να μην καταλήγει το url της εφαρμογής μου σε "full-viz.html" μετονόμασα το αρχείο "full-viz.html" σε "index.html" διαγράφοντας έτσι την κατάληξη https://github.com/sempekou/D3js-uk-political-donations/full-viz.html -->https://github.com/sempekou/D3js-uk-political-donations .
-
+Για να μην καταλήγει το url της εφαρμογής μου σε "full-viz.html" μετονόμασα το αρχείο "full-viz.html" σε "index.html" διαγράφοντας έτσι την κατάληξη https://github.com/sempekou/D3js-uk-political-donations/full-viz.html -->https://github.com/sempekou/D3js-uk-political-donations . 
+![Screenshot](Screenshot_5.jpg)
 **-Αλλαγή χρωμάτων στις μπάλες**
 Με την χρήση των rgba και hex κώδικα άλλαξα τους κωδικους των χρωμάτων που είχαν οι μπάλες στο αρχείο "chart.js".
-! {ScreenShot}(Screenshot_1.png) 
+
 **-Αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party**
 Για να έχω διαφορετικά χρώματα στα 3 πεδία της ομαδοποίησης Split by party, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "style.css".
 
