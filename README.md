@@ -1,35 +1,49 @@
-# Τεχνολογία Λογισμικού 
+Οπτικοποίηση Δεδομένων Χορηγιών (UK)
+Τριανταφυλλίδης Βασίλης Π2013135
+Μάθημα "Τεχνολογία Λογισμικού"
+Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization
 
-Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό SW δίπλα στον τίτλο τους
+Εξάμηνο Φοίτησης    :    Επί Πτυχίω
+E-mail              :    p13tria@ionio.gr
 
-[Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
+Aποθετήριο του κώδικα (p13tria)       :       https://github.com/p13tria/D3js-uk-political-donations
+Link εκτελέσιμου                      :       https://p13tria.github.io/D3js-uk-political-donations
+Link 1ου Παραδοτέου                   :       https://github.com/p13tria/D3js-uk-political-donations/tree/gh-pages
 
-[Ανακοινώσεις και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/help/issues/2)
+Παραδοτέο 1
 
-## Syllabus
+Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα προχώρησα σε τροποποίηση του κώδικα του chart.js
+" var fill = d3.scale.ordinal().range(["#b30000", "#2e5cb8", "#33ff33"]); "
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 
-**Περιγραφή:** Βασικές αρχές τεχνολογίας λογισμικού, η ανάπτυξη λογισμικού ως συνεργατική διαδικασία. Σχεδιασμός συστήματος: αρχιτεκτονικός σχεδιασμός, σχεδιασμός με επαναχρησιμοποίηση, σχεδιασμός διεπαφής χρήστη. Eλεγχος συστήματος. Διαδικασία παράδοσης, τεκμηρίωσης, και συντήρησης συστημάτων λογισμικού.
+Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
+"  <script>
+    var button_sound = new Audio();
+    button_sound.src = "ButtonSound.mp3";
+    </script>  "
 
-**Προαπαιτούμενα:** Εισαγωγή στον προγραμματισμό, δομές δεδομένων, βάσεις δεδομένων, δίκτυα, αντικειμενοστραφής προγραμματισμός.
+και 
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη λογισμικού. Η θεωρία και το project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, ο κινητός υπολογισμός, οι ψηφιακές (εκπαιδευτικές, πολιτισμικές) συλλογές και οι ψυχαγωγικές εφαρμογές.
+" <ul>
+            <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="all-donations">All money</a>
+            </li>
+            <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-money-source">The public's purse</a>
+            </li>
+            <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-party">Split by party</a>
+            </li>
+            <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-donor-type">Split by type of donor</a>
+            </li>
+        </ul>  " 
+        
+Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js. 
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
+" .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);}); "
 
-**Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
-
-**Συντονιστής συστημάτων τηλε-εκπαίδευσης:** [Μανούσος Καμηλάκης](https://github.com/mkamgit)
-
-**Βιβλίο μαθήματος:** 1) Ανάγνωση κώδικα, 2) Πρακτικός προγραμματιστής, 3) [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ.4 Εργαλεία και Τεχνικές
-
-**Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
-
-**Βαθμολογία:** 60% [project](https://github.com/courses-ionio/projects/), 40% Τελική εξέταση με κλειστά βιβλία
-
-**Σχεδίαση λογισμικού:**
-
-[Software Studies](http://lab.softwarestudies.com/)
-
-[Software Design](http://www.alexandercowan.com/software-design-class/)
-
-[Situated Software](http://www.shirky.com/writings/situated_software.html)
-
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
+Δημιουργήθηκε αρχείο 2013135.csv στο φάκελο participants με κάποια απαραίητα στοιχεία που ζητήθηκαν.
+Τοποθετήθηκαν 5 εικόνες για τους εξής δωρητές:  Cellcrypt
+                                                Folkes Holdings
+                                                Gerald Andrews
+                                                Southwark Labour Group
+                                                Tangent Communications
