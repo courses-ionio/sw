@@ -19,7 +19,7 @@ Link 1ου Παραδοτέου                   :       https://github.com/p13
 
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 
-Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)</br>
+Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μετονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)</br>
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 
 ```javascript
