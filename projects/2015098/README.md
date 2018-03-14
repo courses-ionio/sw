@@ -106,6 +106,10 @@ function search(d) { //search function
  <h1 class=zoom>Who's funding the big three?</h1>
 ```
 
+  ![picture](pic3.png)
+
+
+
 
 Με την χρήση της συνάρτησης 
 
@@ -119,7 +123,7 @@ responsiveVoice.speak(donor + " " + amount + "£","UK English Male",{volume: 1})
 Σύμφωνα με τις ομαδοποιήσεις που υπήρχαν συμπλήρωσα τον κώδικα κατάληλα τον κώδικα στο chart.js αρχείο έτσι ώστε να δημιουργησω δική μου ομαδοποίηση. Αλλαγές έγιναν και στα αρχεία index.html και style.css.
 
 
-![picture](pic3.png)
+![picture](pic4.png)
 
 
 Τέλος ,  δημιούργησα αρχείο 2015098.csv στο φάκελο participants και 
