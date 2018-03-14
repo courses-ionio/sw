@@ -7,8 +7,8 @@
 
 ## 1ο Παραδοτέο
 
-<br>Forked Repository (SW): 
-<br>Forked Repository (D3js-uk-political-donations):
+<br>Forked Repository (SW): https://github.com/p15diak/sw
+<br>Forked Repository (D3js-uk-political-donations):https://github.com/p15diak/D3js-uk-political-donations/tree/gh-pages
 
 ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
 
@@ -32,12 +32,17 @@
 ### Εικόνες:
 
 ### Αλλαγη χρωματων
-![Αλλαγη Χρωματων](screenshots/main_screen.png)
+![Αλλαγη Χρωματων](xrwmata.bmp)
 
 
 ### Zoom
-![zoom](screenshots/zoom.png)
+![zoom](zoom.bmp)
 
 
 ### Google Search
-![GoogleSearch](screenshots/googlesear
+![GoogleSearch](googlese.bmp)
+
+### split by amount
+![split by amoun](split.bmp)
+
+
