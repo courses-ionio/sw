@@ -5,7 +5,7 @@
 1ο παραδοτέο
 forked (sw) : https://github.com/p13kosm/sw/tree/2013117
 forked (D3js-uk-political-donations) : https://github.com/p13kosm/D3js-uk-political-donations/tree/gh-pages
-link εκτελέσιμου : https://p13kosm.github.io/D3js-uk-political-donations/full-viz.html
+link εκτελέσιμου : https://p13kosm.github.io/D3js-uk-political-donations/
 
 Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
 https://github.com/p13kosm/D3js-uk-political-donations/blob/gh-pages/style.css
