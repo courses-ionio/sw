@@ -1,10 +1,15 @@
 Μάθημα: Τεχνολογίες Λογισμικού
+
 Τίτλος Εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK)
+
 ΑΜ: Π2015178
+
 Γκουντενούδη Βασιλική-Ολυμπία
 
 e-mail: p15gkou@ionio.gr
+
 Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15gkou/D3js-uk-political-donations/tree/2015090
+
 Link εκτελέσιμου κώδικα: https://p15gkou.github.io/D3js-uk-political-donations/
 Σύνοψη:
 
