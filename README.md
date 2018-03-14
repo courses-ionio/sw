@@ -16,9 +16,10 @@ Link 1ου Παραδοτέου                   :       https://github.com/p13
 Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα προχώρησα σε τροποποίηση του κώδικα του chart.js
 
 ![Chart1](https://github.com/p13tria/sw/blob/2013135/projects/2013135/Chart1.png)
+
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 
-Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)
+Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)</br>
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 
 ```javascript
@@ -31,7 +32,7 @@ https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 
 ![Index2](https://github.com/p13tria/sw/blob/2013135/projects/2013135/Index2.png)
 
-Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js. 
+Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js.</br>
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 ```javascript
 .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
