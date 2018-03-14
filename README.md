@@ -38,7 +38,8 @@ https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
             <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-party">Split by party</a>
             </li>
             <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-donor-type">Split by type of donor</a>
-</ul>  
+            </li>
+        </ul>  
 ```        
 Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js. 
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
