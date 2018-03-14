@@ -27,8 +27,8 @@
           	var sound = document.getElementById("sound");
          	sound.play();}
    </script>
-Και πρόσθεσα: onclick = "playSound()" πριν το τίτλο των κουμπιών
-π.χ. onclick = "playSound()">All money</a></li>
+    Και πρόσθεσα: onclick = "playSound()" πριν το τίτλο των κουμπιών
+    π.χ. onclick = "playSound()">All money</a></li>
 
 * Στην συνέχεια για να να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή πρόσθεσα στο αρχείο chart.js μέσα στην συνάρτηση start() το:
  .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
