@@ -29,20 +29,30 @@
 
 **-Αλλαγή κατάληξης URL του προσωπικού μου αποθετηρίου**
 Για να μην καταλήγει το url της εφαρμογής μου σε "full-viz.html" μετονόμασα το αρχείο "full-viz.html" σε "index.html" διαγράφοντας έτσι την κατάληξη https://github.com/sempekou/D3js-uk-political-donations/full-viz.html -->https://github.com/sempekou/D3js-uk-political-donations . 
+
 ![Screenshot](Screenshot_5.jpg)
+
 **-Αλλαγή χρωμάτων στις μπάλες**
 Με την χρήση των rgba και hex κώδικα άλλαξα τους κωδικους των χρωμάτων που είχαν οι μπάλες στο αρχείο "chart.js".
+## ΠΡΙΝ
+![Screenshot](Screenshot_2.jpg)
+
+## ΜΕΤΑ
+![Screenshot](Screenshot_1.jpg)
 
 **-Αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party**
 Για να έχω διαφορετικά χρώματα στα 3 πεδία της ομαδοποίησης Split by party, χρειάστηκε να αλλάξω τους κωδικούς των χρωμάτων στο αρχείο "style.css".
+## ΠΡΙΝ
+![Screenshot](Screenshot_4.jpg)
+
+## ΜΕΤΑ
+![Screenshot](Screenshot_3.jpg)
 
 **-Προσθήκη ήχου όταν κάνει κάποιος click στα κουμπιά**
 Βρήκα online και ανεβασα ένα mp3 αρχείο στο αποθετήριο της εφαρμογης μου.
 Έπειτα στο αρχείο index.html έβαλα το script tag:
-     <script>
-        var bs = new Audio();
-        bs.src = "buttonclick.mp3";
-    </script>
+     
+![Screenshot](Screenshot_6.jpg)
     
 Στο ίδιο αρχείο πρόσθεσα και την εντολή:
 onmousedown="bs.play()" μέσω της οποίας ακούγεται ο ήχος όταν κάνει κάποιος click στα κουμπιά.
@@ -53,6 +63,8 @@ onmousedown="bs.play()" μέσω της οποίας ακούγεται ο ήχ�
 
 **-Μεγέθυνση κειμένου**
 Στο αρχείο index.html πρόσθεσα το class=zoom μέσα στις κεφαλίδες των texts.
+
+![Screenshot](Screenshot_7.jpg)
 
 **-Δημιουργία νέας επιλογής ομαδοποίησης των δεδομένων**
  
