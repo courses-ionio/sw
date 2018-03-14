@@ -4,6 +4,10 @@
 **Όνομα: Αλέξανδρος Βόβολης**  
 **ΑΜ: Π2014008**  
 **email: p14vovo@ionio.gr**  
+
+**Link προσωπικόυ αποθετήριου κώδικα: https://github.com/alexvov13/D3js-uk-political-donations**
+**Link εκτελέσιμου κώδικα: https://alexvov13.github.io/D3js-uk-political-donations/**
+
 ## Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 14 Μαρτίου (25%)
 
 
