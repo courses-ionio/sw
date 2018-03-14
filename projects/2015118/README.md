@@ -37,3 +37,13 @@
 
 ### Εικόνες:
 
+### Αλλαγη χρωματων
+![Αλλαγη Χρωματων](screenshots/main_screen.png)
+
+
+### Zoom
+![zoom](screenshots/zoom.png)
+
+
+### Google Search
+![GoogleSearch](screenshots/googlesearch.png)
