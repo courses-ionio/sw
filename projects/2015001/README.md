@@ -17,7 +17,7 @@
 
 ![picture](pic3.jpg)
 
-![picture](pic3.jpg)
+![picture](pic4.jpg)
 
 ## Παραδοτέο 2
 ----
