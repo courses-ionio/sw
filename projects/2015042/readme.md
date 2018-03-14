@@ -36,6 +36,6 @@
 
 ### Εικόνες:
 
-![picture](photos/1ο.jpg)
-![picture](photos/2ο.jpg)
+![picture](1ο.jpg)
+![picture](2ο.jpg)
 
