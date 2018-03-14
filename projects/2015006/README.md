@@ -26,7 +26,7 @@ https://github.com/GIANNIS-AGGELIS/D3js-uk-political-donations/blob/gh-pages/but
 
 5.Προσθήκη φωνής όταν το ποντίκι του χριστή βρίσκετε πάνω από μια μπάλα 
 
-6.Προσθήκη νέου κουμπιού Split by amount.
+6.Split by amount.
 ![splint by amount](https://user-images.githubusercontent.com/22667836/37417296-911903f6-27b8-11e8-8fcd-39da25c86b5b.png)
 
 
