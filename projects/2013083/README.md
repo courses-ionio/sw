@@ -3,6 +3,7 @@
 Ειρήνη Φωκά - Π2013083
 
 Link στο προσωπικό αποθετήριο του κώδικα:https://github.com/riniw/D3js-uk-political-donations
+
 Link στο εκτελέσιμο του κώδικα: https://riniw.github.io/D3js-uk-political-donations/
 
 Ζητούμενα πρώτου παραδοτέου:
