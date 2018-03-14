@@ -65,7 +65,7 @@
     
     1) Δωρεές μέχρι 25.000 βρετανικές λίρες.
     
-    2) Δωρρές μέχρι 250.000 βρετανικές λίρες.
+    2) Δωρεές μέχρι 250.000 βρετανικές λίρες.
     
     3) Κάτω από 10.000.000 βρετανικές λίρες.
     
@@ -96,4 +96,16 @@
   
   ## Ενδεικτικές εικόνες πρώτου παραδοτέου
   
+  ![Image of the landing page](https://github.com/DimosPagakis/sw-1/blob/1o-paradoteo/projects/2015053/landing.png)
   
+  ![Image of mouseover](https://github.com/DimosPagakis/sw-1/blob/1o-paradoteo/projects/2015053/mousover.png)
+  
+  ![Image of split by party](https://github.com/DimosPagakis/sw-1/blob/1o-paradoteo/projects/2015053/splitbyparty.png)
+  
+  ![Image of split by amount](https://github.com/DimosPagakis/sw-1/blob/1o-paradoteo/projects/2015053/splitbyamount.png)
+  
+  Για οπτικοακουστικές αλλαγές παρακαλώ ακολουθήστε το εξής link:
+  
+  https://dimospagakis.github.io/D3js-uk-political-donations/
+  
+  ### Τέλος πρώτου παραδοτέου
