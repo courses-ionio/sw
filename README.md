@@ -1,24 +1,22 @@
-Οπτικοποίηση Δεδομένων Χορηγιών (UK)
+Οπτικοποίηση Δεδομένων Χορηγιών (UK)</br>
+Τριανταφυλλίδης Βασίλης Π2013135</br>
+Μάθημα "Τεχνολογία Λογισμικού"</br>
 
-Τριανταφυλλίδης Βασίλης Π2013135
+Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization</br>
 
-Μάθημα "Τεχνολογία Λογισμικού"
-
-Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization
-
-Εξάμηνο Φοίτησης    :    Επί Πτυχίω
+Εξάμηνο Φοίτησης    :    Επί Πτυχίω</br>
 E-mail              :    p13tria@ionio.gr
 
-Aποθετήριο του κώδικα (p13tria)       :       https://github.com/p13tria/D3js-uk-political-donations
-Link εκτελέσιμου                      :       https://p13tria.github.io/D3js-uk-political-donations
-Link 1ου Παραδοτέου                   :       https://github.com/p13tria/D3js-uk-political-donations/tree/gh-pages
+Aποθετήριο του κώδικα (p13tria)       :       https://github.com/p13tria/D3js-uk-political-donations</br>
+Link εκτελέσιμου                      :       https://p13tria.github.io/D3js-uk-political-donations</br>
+Link 1ου Παραδοτέου                   :       https://github.com/p13tria/D3js-uk-political-donations/tree/gh-pages</br>
 
 Παραδοτέο 1
 
 Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα προχώρησα σε τροποποίηση του κώδικα του chart.js
 " var fill = d3.scale.ordinal().range(["#b30000", "#2e5cb8", "#33ff33"]); "
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
-
+</p>
 Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)
 https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 "  <script>
