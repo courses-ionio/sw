@@ -8,12 +8,12 @@
 ## 1ο Παραδοτέο
 
 <br>Forked Repository (SW): https://github.com/Raby97/sw
-<br>Forked Repository (D3js-uk-political-donations): 
+<br>Forked Repository (D3js-uk-political-donations):https://raby97.github.io/D3js-uk-political-donations/
 
 ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
 
 <or>
-  <li>Σύνδεσμος Εργασίας : </li>
+  <li>Σύνδεσμος Εργασίας :https://github.com/Raby97/D3js-uk-political-donations/tree/gh-pages </li>
   <li>Αλλαξα το όνομα του .html αρχείου σε <b>index.html</b> για να λειτουργεί το site χωρίς την κατάληξη σε full-viz.html</li>
   <li>Άλλαξα τα χρώματα </li>
   <li>Πρόσθεσα ήχο για καθε κουμπι</li>
