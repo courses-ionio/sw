@@ -6,7 +6,10 @@
 
 e-mail: p12skaf@ionio.gr
 
-Link προσωπικού αποθετήριου κώδικα: https://github.com/mskafi28/D3js-uk-political-donations
+
+Link αποθετήριου κώδικα: https://github.com/ioniodi/D3js-uk-political-donations
+
+Link προσωπικού αποθετήριου κώδικα: https://github.com/mskafi28/D3js-uk-political-donations/tree/gh-pages
 
 Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-political-donations/
 
@@ -27,7 +30,7 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 
 7) Στο αρχείο chart.js προστέθηκαν οι εντολές:
 
-    var donatorsname = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
+         var donatorsname = new SpeechSynthesisUtterance("Donator's name is " + donor + " and the donation amount is " + amount + " pounds");
     
  και 
  
