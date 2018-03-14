@@ -1,35 +1,47 @@
-# Τεχνολογία Λογισμικού 
+Οπτικοποίηση Δεδομένων Χορηγιών (UK)</br>
+Τριανταφυλλίδης Βασίλης Π2013135</br>
+Μάθημα "Τεχνολογία Λογισμικού"</br>
 
-Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό SW δίπλα στον τίτλο τους
+Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization</br>
 
-[Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
+Εξάμηνο Φοίτησης    :    Επί Πτυχίω</br>
+E-mail              :    p13tria@ionio.gr
 
-[Ανακοινώσεις και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/help/issues/2)
+Aποθετήριο του κώδικα (p13tria)       :       https://github.com/p13tria/D3js-uk-political-donations</br>
+Link εκτελέσιμου                      :       https://p13tria.github.io/D3js-uk-political-donations</br>
+Link 1ου Παραδοτέου                   :       https://github.com/p13tria/D3js-uk-political-donations/tree/gh-pages</br>
 
-## Syllabus
+Παραδοτέο 1
 
-**Περιγραφή:** Βασικές αρχές τεχνολογίας λογισμικού, η ανάπτυξη λογισμικού ως συνεργατική διαδικασία. Σχεδιασμός συστήματος: αρχιτεκτονικός σχεδιασμός, σχεδιασμός με επαναχρησιμοποίηση, σχεδιασμός διεπαφής χρήστη. Eλεγχος συστήματος. Διαδικασία παράδοσης, τεκμηρίωσης, και συντήρησης συστημάτων λογισμικού.
+Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα προχώρησα σε τροποποίηση του κώδικα του chart.js
 
-**Προαπαιτούμενα:** Εισαγωγή στον προγραμματισμό, δομές δεδομένων, βάσεις δεδομένων, δίκτυα, αντικειμενοστραφής προγραμματισμός.
+![Chart1](https://github.com/p13tria/sw/blob/2013135/projects/2013135/Chart1.png)
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη λογισμικού. Η θεωρία και το project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, ο κινητός υπολογισμός, οι ψηφιακές (εκπαιδευτικές, πολιτισμικές) συλλογές και οι ψυχαγωγικές εφαρμογές.
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 
-**Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
+Για την αλλαγή στον ήχο κάθε φορά που γίνεται κλικ προχώρησα σε τροποίηση του κώδικα του index.html (αφού πρώτα το μεταονόμασα όπως ζητήθηκε στο παραδοτέο απο full-viz.html σε index.html)</br>
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/index.html
 
-**Συντονιστής συστημάτων τηλε-εκπαίδευσης:** [Μανούσος Καμηλάκης](https://github.com/mkamgit)
+```javascript
+<script>
+    var button_sound = new Audio();
+    button_sound.src = "ButtonSound.mp3";
+    </script>
+```
+και 
 
-**Βιβλίο μαθήματος:** 1) Ανάγνωση κώδικα, 2) Πρακτικός προγραμματιστής, 3) [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ.4 Εργαλεία και Τεχνικές
+![Index2](https://github.com/p13tria/sw/blob/2013135/projects/2013135/Index2.png)
 
-**Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
+Για άνοιγμα νέου παράθυρου με κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της κλικαρισμένης μπάλας, προχώρησα σε τροποποίηση στο chart.js.</br>
+https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
+```javascript
+.on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
+```
 
-**Βαθμολογία:** 60% [project](https://github.com/courses-ionio/projects/), 40% Τελική εξέταση με κλειστά βιβλία
-
-**Σχεδίαση λογισμικού:**
-
-[Software Studies](http://lab.softwarestudies.com/)
-
-[Software Design](http://www.alexandercowan.com/software-design-class/)
-
-[Situated Software](http://www.shirky.com/writings/situated_software.html)
-
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα</br>
+Δημιουργήθηκε αρχείο 2013135.csv στο φάκελο participants με κάποια απαραίητα στοιχεία που ζητήθηκαν.</br>
+Τοποθετήθηκαν 5 εικόνες για τους εξής δωρητές:</br>  Cellcrypt</br>
+                                                Folkes Holdings</br>
+                                                Gerald Andrews</br>
+                                                Southwark Labour Group</br>
+                                                Tangent Communications
