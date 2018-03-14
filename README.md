@@ -38,10 +38,10 @@ https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
 .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
 ```
 
-Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
-Δημιουργήθηκε αρχείο 2013135.csv στο φάκελο participants με κάποια απαραίητα στοιχεία που ζητήθηκαν.
-Τοποθετήθηκαν 5 εικόνες για τους εξής δωρητές:  Cellcrypt
-                                                Folkes Holdings
-                                                Gerald Andrews
-                                                Southwark Labour Group
+Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα</br>
+Δημιουργήθηκε αρχείο 2013135.csv στο φάκελο participants με κάποια απαραίητα στοιχεία που ζητήθηκαν.</br>
+Τοποθετήθηκαν 5 εικόνες για τους εξής δωρητές:  Cellcrypt</br>
+                                                Folkes Holdings</br>
+                                                Gerald Andrews</br>
+                                                Southwark Labour Group</br>
                                                 Tangent Communications
