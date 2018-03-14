@@ -4,6 +4,8 @@
 
 Link στο προσωπικό αποθετήριο του κώδικα:https://github.com/riniw/D3js-uk-political-donations
 
+Link στο κλαδί του κώδικα που αντιστοιχεί στο 1o παραδοτέο: https://github.com/riniw/D3js-uk-political-donations/tree/gh-pages
+
 Link στο εκτελέσιμο του κώδικα: https://riniw.github.io/D3js-uk-political-donations/
 
 Ζητούμενα πρώτου παραδοτέου:
