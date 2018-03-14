@@ -21,7 +21,14 @@
 ενώ για το Strangers Gallery δεν ήταν ξεκάθαρα τα αποτελέσματα της αναζήτησης, και άρα δεν έγινε παράθεση εικόνων.
 
 *Ενδεικτικές εικόνες εκτελέσιμου κώδικα:*
+
 <img width="1348" alt="screen shot 2018-03-14 at 02 43 21" src="https://user-images.githubusercontent.com/22647410/37377271-8b2504b8-2731-11e8-9dd0-047b17bbf3b2.png">
 
 
 <img width="1331" alt="screen shot 2018-03-14 at 02 43 30" src="https://user-images.githubusercontent.com/22647410/37377386-44fed8d2-2732-11e8-8613-34d27aa02fba.png">
+
+
+<img width="1290" alt="screen shot 2018-03-14 at 02 43 08" src="https://user-images.githubusercontent.com/22647410/37377448-a3208af0-2732-11e8-92d1-8db7f7e68289.png">
+
+
+<img width="1367" alt="screen shot 2018-03-14 at 02 58 39" src="https://user-images.githubusercontent.com/22647410/37377618-a0d42ba2-2733-11e8-8b9e-27c4a5e3ef60.png">
