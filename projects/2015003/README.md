@@ -7,7 +7,7 @@
 ΑΜ: Π2015003
 
 e-mail: p13mark1@ionio.gr
-Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p13mark1/D3js-uk-political-donations
+Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p13mark1/D3js-uk-political-donations/tree/2015003
 Link εκτελέσιμου κώδικα: https://p13mark1.github.io/D3js-uk-political-donations/
 Σύνοψη:
 Η παρούσα εργασίας αποτελεί τροποποίηση της εργασίας https://ioniodi.github.io/D3js-uk-political-donations/full-viz., στην οποία μέσω των HTML, CSS και Javascript γίνεται οπτικοποίηση δεδομένων. Έτσι, κάνοντας fork το αποθετήριο του ioniodi, το τροποποιούμε στο προσωπικό μας αποθετήριο, σύμφωνα με τις οδηγίες των παραδοτέων.
