@@ -32,7 +32,7 @@
   - __Προσθηκη ήχου καθε φορα που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές__
    
   - __Αναζήτηση δωρητών στο Google με κλικ στις μπάλες των δεδομένων__
-   ![google1](images/google1.png)   ![google2](images/google2.png)
+   ![google1](images/googles1.png)   ![google2](images/googles2.png)
    ```
    search
    ```
