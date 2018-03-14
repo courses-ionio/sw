@@ -27,9 +27,10 @@
 Το επόμενο στάδιο ήταν να δημιουργηθεί ένα αρχείο .csv με τα στοιχεία μου, καθώς και να προσθέσω 5 φωτογραφίες δωρητών 42x42 px σε .ico ώστε να προστεθούν στα κατάλληλα σημεία.
 Οι εικόνες είναι :   122. John Frieda
                      166. Andrew Scott
+                     204. Timothy Jones
                      450. Lord Edward Haughey
                      455. Amanda Shaw
-                     623. Gloucester Research
+                     
                      
 
 
