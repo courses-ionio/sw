@@ -11,6 +11,7 @@ Aποθετήριο του κώδικα (p13tria)       :       https://github.c
 Link εκτελέσιμου                      :       https://p13tria.github.io/D3js-uk-political-donations</br>
 Link 1ου Παραδοτέου                   :       https://github.com/p13tria/D3js-uk-political-donations/tree/gh-pages</br>
 
+
 Παραδοτέο 1
 
 Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα προχώρησα σε τροποποίηση του κώδικα του chart.js
