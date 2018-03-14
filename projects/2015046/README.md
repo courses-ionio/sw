@@ -22,11 +22,11 @@
    ```
    
    - __Αλλαγή χρωμάτων:__    
-      * Στις μπάλες με τα δεδομένα
-   ![Tiled](colorsData.png)
+      * Στις μπάλες με τα δεδομένα<br>
+   ![](images/colorsData.png)
    
-      * Στα πεδία ομαδοποίησης Split by party
-   ![Tiled](splitPartyColors.png)
+      * Στα πεδία ομαδοποίησης Split by party<br>
+   ![](images/splitPartyColors.png)
    
    
   - __Προσθηκη ήχου καθε φορα που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές__
@@ -38,7 +38,7 @@
    ```
    
    - __Προσθήκη επιλογής μεγένθησης όταν ο χρήστης περνάει με το ποντίκι πάνω απο ένα κείμενο__
-   ![zoom1](images/zoom1.png)   ![zoom2](images/zoom1.png)
+   ![zoom1](images/zoom1.png)   ![zoom2](images/zoom2.png)
    ```
    Zoom
    ```
@@ -47,15 +47,15 @@
   
   - __Δημιουργία νέας επιλογής Split by amount:__  
     * Ομαδοποίηση των δεδομένων με βάση το ποσό των δωρεών
-     ![button](button.png)
+     ![button](images/button.png)
      ```
      button
      ```
-     ![splitByAmount](splitByAmount.png)
+     ![splitByAmount](images/splitByAmount.png)
      ```
      Split
      ```
-     ![zoomamount](zoomamount.png)
+     ![zoomamount](images/zoomamount.png)
      ```
      zoom
      ```
