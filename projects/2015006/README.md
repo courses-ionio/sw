@@ -24,7 +24,7 @@
 https://github.com/GIANNIS-AGGELIS/D3js-uk-political-donations/blob/gh-pages/button-3.wav
 4. Αναζήτηση στο όταν ο χρήστης πατάει σε μια μπλα.
 
-5.Προσθήκη φωνής όταν το ποντίκι του χριστή βρίσκετε πάνω από μια μπάλα 
+5.Προσθήκη φωνής όταν το ποντίκι του χριστή βρίσκετε πάνω από μια μπάλα και μεγέθυνση των κειμένων στη σελίδα.
 
 6.Split by amount.
 ![splint by amount](https://user-images.githubusercontent.com/22667836/37417296-911903f6-27b8-11e8-8fcd-39da25c86b5b.png)
