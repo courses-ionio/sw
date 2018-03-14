@@ -19,6 +19,7 @@ email: p15argy@ionio.gr**
   
   Το αποτέλεσμα φαίνεται στην φωτογραφία:
   
+  ![picture](pic1.png)
 
   
   
@@ -42,6 +43,8 @@ email: p15argy@ionio.gr**
 }
 
 ```
+
+![picture](pic2.png)
 
 
 Στην συνέχεια έκανα upload στο repository μου ένα αρχείο ήχου .wan και στο αρχείο index.html πρόσθεσα την συνάρτηση playSound 
@@ -115,6 +118,8 @@ responsiveVoice.speak(donor + " " + amount + "£","UK English Male",{volume: 1})
 
 Σύμφωνα με τις ομαδοποιήσεις που υπήρχαν συμπλήρωσα τον κώδικα κατάληλα τον κώδικα στο chart.js αρχείο έτσι ώστε να δημιουργησω δική μου ομαδοποίηση. Αλλαγές έγιναν και στα αρχεία index.html και style.css.
 
+
+![picture](pic3.png)
 
 
 Τέλος ,  δημιούργησα αρχείο 2015098.csv στο φάκελο participants και 
