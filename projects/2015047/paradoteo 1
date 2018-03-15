@@ -1,0 +1,21 @@
+Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 25% (4 Μαρτίου)
+•	Ονοματεπώνυμο Φοιτητή: Νικόλαος Μπακαλέξης
+•	Αριθμός Μητρώου: Π2015047
+•	Εξάμηνο Φοίτησης: Στ
+•	E-mail: p15baka1@ionio.gr
+•	Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization
+•	Προσωπικό αποθετήριο του κώδικα: https://github.com/p15baka1/D3js-uk-political-donations/tree/2015047
+•	 Link για το εκτελέσιμο:  https://p15baka1.github.io/D3js-uk-political-donations/
+           Οι δωρητές τους οποίους διάλεξα είναι οι εξής:
+1.McDowell's Development Company(671)
+2.Stuart Mitchell(304)
+3.First Belgravia Properties(717)
+4.Francis Brooke(399)
+5.Hilda R Worth(296)
+
+![ScreenShot](1.png)
+![ScreenShot](2.png)
+![ScreenShot](3.png)
+![ScreenShot](4.png)
+![ScreenShot](5.png)
+
