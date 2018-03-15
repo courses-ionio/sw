@@ -10,7 +10,7 @@
 
 •	Θέμα Εργασίας: Οπτικοποίηση Δεδομένων Χορηγιών (UK) - Data Visualization
 
-•	Προσωπικό αποθετήριο του κώδικα: https://github.com/mariosconsta/sw/tree/2015002
+•	Προσωπικό αποθετήριο του κώδικα: https://github.com/mariosconsta/D3js-uk-political-donations/tree/gh-pages
 
 •	 Link για το εκτελέσιμο:  https://mariosconsta.github.io/D3js-uk-political-donations/
 
