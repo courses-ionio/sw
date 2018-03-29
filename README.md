@@ -26,7 +26,7 @@
 
 **Σχεδίαση λογισμικού:**
 
-[Software Studies](http://lab.softwarestudies.com/)
+[Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
 
 [Software Design](http://www.alexandercowan.com/software-design-class/)
 
