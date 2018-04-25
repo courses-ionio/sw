@@ -182,3 +182,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
   * HCA International (713)
   * Independent Print (808)
   * Seamark (705)
+  
+## Παραδοτέο 2
+
+#### Ζητούμενα που απαιτούν pull request
