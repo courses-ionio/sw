@@ -26,6 +26,9 @@
     * [Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%89%CF%87%CE%BF%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BF%CE%BD%CE%BF%CE%BC%CE%B1%CF%83%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%84%CE%BF-%CF%80%CE%BF%CF%83%CF%8C-%CF%84%CE%B7%CF%82-%CE%B4%CF%89%CF%81%CE%B5%CE%AC%CF%82-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%8C%CF%84%CE%B1%CE%BD-%CF%84%CE%BF-%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9-%CE%BC%CE%AD%CF%83%CE%B1-%CF%83%CE%B5-%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE)
     * [Δημιουργία και προσθήκη νέας επιλογής ομαδοποίησης των δεδομένων](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%94%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%BD%CE%AD%CE%B1%CF%82-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-%CE%BF%CE%BC%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82-%CF%84%CF%89%CE%BD-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-split-by-the-amount-of-the-donation)
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request)
+    
+  * [Παραδοτέο 2](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
+    * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request-1)
 
 ## Παραδοτέο 1
 
