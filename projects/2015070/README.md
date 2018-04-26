@@ -66,7 +66,15 @@ https://responsivevoice.org/
 screenshot to URL
 http://tinypic.com/
 
+# Συνέχεια στο 2ο παραδοτέο της εργασίας
 
+## Επίλυση του πρώτου ζητήματος από τα pull request με ενδεικτικές εικόνες
+
+Πρώτη εικόνα
+<a href="http://tinypic.com?ref=fnv30x" target="_blank"><img src="http://i68.tinypic.com/fnv30x.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Δεύτερη εικόνα
+<a href="http://tinypic.com?ref=2uynb7s" target="_blank"><img src="http://i67.tinypic.com/2uynb7s.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 
