@@ -24,8 +24,8 @@
 
 * Προσθήκη αρχείου csv με τα στοιχεία μου 
 * 5 λογότυπα δωρητών :
-** DLA Piper
-** Cellcrypt
-** LFIG
-** Noble Foods
-** B&S Properties
+ ** DLA Piper
+ ** Cellcrypt
+ ** LFIG
+ ** Noble Foods
+ ** B&S Properties
