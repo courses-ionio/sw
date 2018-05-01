@@ -6,6 +6,7 @@
 
 **Link στο προσωπικό αποθετήριο του κώδικα:** https://github.com/ntzora/sw
 
+## Παραδοτέο 1
 **Link στο παραδοτέο 1:**  https://github.com/ntzora/D3js-uk-political-donations
 
 **Link στον εκτελέσιμο κώδικα:** https://ntzora.github.io/D3js-uk-political-donations/
@@ -24,8 +25,10 @@
 
 * Προσθήκη αρχείου csv με τα στοιχεία μου 
 * 5 λογότυπα δωρητών :
- ** DLA Piper
- ** Cellcrypt
- ** LFIG
- ** Noble Foods
- ** B&S Properties
+** DLA Piper
+** Cellcrypt
+** LFIG
+** Noble Foods
+** B&S Properties
+
+# Παραδοτέο 2
