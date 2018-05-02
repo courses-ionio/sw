@@ -111,18 +111,28 @@ https://github.com/neilhawkins/d3-uk-political-donations
 
    Ιστότοποι δημοσίων στατιστικών αρχών
 https://www.stats.govt.nz/tools/csv-files-for-download
+
 https://catalog.data.gov/dataset?res_format=CSV
+
 https://www.bis.org/statistics/full_data_sets.htm
+
 http://statweb.stanford.edu/~sabatti/data.html
+
 http://ec.europa.eu/eurostat/
+
 http://www.statistics.gr/
 
    Ιστότοποι  για τα υπόλοιπα ζητούμενα
 https://github.com/d3/d3/wiki/Gallery
+
 https://d3js.org/
+
 https://pages.github.com/
+
 https://developer.github.com/v3/repos/statistics/
+
 https://stackoverflow.com/
+
 https://www.w3schools.com/
 
 
