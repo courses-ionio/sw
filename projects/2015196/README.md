@@ -43,7 +43,10 @@
 
 **Link στο παραδοτέο 2:**  https://github.com/ntzora/D3js-uk-political-donations
 
-**Link στον εκτελέσιμο κώδικα:** https://ntzora.github.io/D3js-uk-political-donations/barCharts.html
+**Link στον εκτελέσιμο κώδικα του 2ου ερωτήματος:** https://ntzora.github.io/D3js-uk-political-donations/barCharts.html
+
+**Link στον εκτελέσιμο κώδικα του 2ου ερωτήματος:** https://ntzora.github.io/D3js-uk-political-donations/fuel.html
+
 
 ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
 
