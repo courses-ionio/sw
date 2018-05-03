@@ -45,7 +45,7 @@
 
 **Link στον εκτελέσιμο κώδικα του 2ου ερωτήματος:** https://ntzora.github.io/D3js-uk-political-donations/barCharts.html
 
-**Link στον εκτελέσιμο κώδικα του 2ου ερωτήματος:** https://ntzora.github.io/D3js-uk-political-donations/fuel.html
+**Link στον εκτελέσιμο κώδικα του 3ου ερωτήματος:** https://ntzora.github.io/D3js-uk-political-donations/fuel.html
 
 
 ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
