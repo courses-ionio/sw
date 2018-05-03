@@ -151,7 +151,8 @@ http://ec.europa.eu/eurostat/
 
 http://www.statistics.gr/
 
-   Ιστότοποι  για τα υπόλοιπα ζητούμενα
+  
+   Ιστότοποι για τα υπόλοιπα ζητούμενα
    
 https://github.com/d3/d3/wiki/Gallery
 
@@ -164,6 +165,10 @@ https://developer.github.com/v3/repos/statistics/
 https://stackoverflow.com/
 
 https://www.w3schools.com/
+
+http://tobiasahlin.com/moving-letters/#   
+
+https://codepen.io/internette/pen/dGaBoJ
 
 
 
