@@ -189,3 +189,28 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ## Παραδοτέο 2
 
 #### Ζητούμενα που απαιτούν pull request
+Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
+
+1. Δήλωσα στο [Issue του Παραδοτέου 2](https://github.com/ioniodi/D3js-uk-political-donations/issues/17) τη δέσμευση της θέσης "Position #014" στον [κώδικα](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) της ιστοσελίδας:
+
+   ![issue](https://user-images.githubusercontent.com/22655733/39665515-5093f156-509e-11e8-9f47-85944c20c592.JPG)
+
+2. Στο [API του Github](https://api.github.com/users/nefelinikiforou) βρήκα όλες τις πληροφορίες μου σαν χρήστης του Github και, συγκεκριμένα, το url για το avatar μου:
+
+   ![avatar](https://user-images.githubusercontent.com/22655733/39664939-77eeff5c-5094-11e8-8454-dd4436301b35.JPG)
+
+   ![avatar_img](https://user-images.githubusercontent.com/22655733/39664956-c8123bac-5094-11e8-9b5c-7f3486862909.JPG)
+
+3. Στο φάκελο [participants](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants) μετέτρεψα το αρχείο [index.html](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) στη θέση που είχα δεσμεύσει (Position #014), xρησιμοποιώντας μια [βιβλιοθήκη](https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js) και open source [κώδικα](http://tobiasahlin.com/moving-letters/#7), ως εξής:
+
+   ![avatar_index_hml_1](https://user-images.githubusercontent.com/22655733/39665012-641b37d8-5095-11e8-8d0e-de162231f886.JPG)
+
+   ![avatar_index_html_2](https://user-images.githubusercontent.com/22655733/39665018-821f5606-5095-11e8-84b0-1143e6fb022e.JPG)
+
+   ![avatar_index_html_3](https://user-images.githubusercontent.com/22655733/39665022-911b8d3c-5095-11e8-93ab-ef605e574eca.JPG)
+
+   
+   Με αποτέλεσμα:
+
+   ![anim-pict](https://user-images.githubusercontent.com/22655733/39665455-45b08e1c-509d-11e8-9620-18162508a4c8.JPG)
+(Βλ. και [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
