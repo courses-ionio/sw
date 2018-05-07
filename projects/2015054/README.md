@@ -201,10 +201,14 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
    ![img_sidebar_css](https://user-images.githubusercontent.com/22655733/39702982-4a2baba2-520f-11e8-8c0f-621786d98512.JPG)
    
-   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue```) ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά. Με τη βοήθεια της επέκτασης Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
+   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Με τη βοήθεια της επέκτασης Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
    
    ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39703382-91a11cb4-5210-11e8-8fed-6dc64c392d36.JPG)
-
+   
+   Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue;```), ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά:
+   
+   ![sidebar_1st_attempt](https://user-images.githubusercontent.com/22655733/39704595-7f9b754c-5214-11e8-8584-680ed1c992f6.JPG)
+   
 3. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
   * Πρόσθεσα στη συνάρτηση mouseover():
   
