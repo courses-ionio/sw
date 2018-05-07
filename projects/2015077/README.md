@@ -10,7 +10,7 @@
 
 ## Παραδοτέο 1
 
-#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF1
+#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
