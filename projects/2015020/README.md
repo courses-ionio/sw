@@ -8,7 +8,7 @@
  Στόχος της εργασίας είναι η εξοικείωση με τις γλώσσες HTML, CSS και JavaScript σε ένα ήδη υπάρχον περιβάλλον το οποίο καλούμαστε να τροποποιήσουμε.
  
  ### Link στο εκτελέσιμο του κώδικα: https://konstantinadeliveri.github.io/D3js-uk-political-donations/
- ### Link στο προσωπικό αποθετήριο του κώδικα: https://github.com/konstantinadeliveri/D3js-uk-political-donations
+ ### Link στο προσωπικό αποθετήριο του κώδικα:https://github.com/konstantinadeliveri/D3js-uk-political-donations/tree/2015020
  ### Link (gh-pages) για το 1ο παραδοτέο: https://github.com/konstantinadeliveri/D3js-uk-political-donations/tree/gh-pages
  
  ### Δήλωση και δέσμευση θέματος εργασίας στο μάθημα Τεχνολογία Λογισμικού
@@ -26,22 +26,36 @@
 Τέλος, δημιουργήθηκε κουμπάκι διαχωρισμού Split by The Amount of Donation.
 Το επόμενο στάδιο ήταν να δημιουργηθεί ένα αρχείο .csv με τα στοιχεία μου, καθώς και να προσθέσω 5 φωτογραφίες δωρητών 42x42 px σε .ico ώστε να προστεθούν στα κατάλληλα σημεία.
 
-##Οι εικόνες είναι : 122. John Frieda
+Οι εικόνες είναι :   122. John Frieda
                      166. Andrew Scott
+                     204. Timothy Jones
                      450. Lord Edward Haughey
                      455. Amanda Shaw
-                     623. Gloucester Research
+                     
                      
 
 
 ### Σχετικές Εικόνες:
+
   Αλλαγές στα  χρώματα
-  
+
+![ScreenShot](1.jpg)
+
+
+![ScreenShot](2.jpg)
+
+
   
   Νέος Διαχωρισμός
+
   
+ ![ScreenShot](3.jpg)
   
 
-                     
-                     
+  Γενικά                   
+              
+![ScreenShot](4.jpg)              
+              
+              
+                   
                    
