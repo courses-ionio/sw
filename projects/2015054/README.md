@@ -196,22 +196,35 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 1. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), πρόσθεσα ένα νέο &lt;div&gt; tag για τη δημιουργία μιας περιοχής για τις εικόνες των δωρητών, πάνω από τους κύκλους των οποίων έχει περάσει ο δείκτης του ποντικιού του χρήστη:
 
    ![img_sidebar_html](https://user-images.githubusercontent.com/22655733/39702847-c625c900-520e-11e8-8de7-1d0c9c5b3cd7.JPG)
-
 2. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), πρόσθεσα το εξής πλαίσιο:
 
    ![img_sidebar_css](https://user-images.githubusercontent.com/22655733/39702982-4a2baba2-520f-11e8-8c0f-621786d98512.JPG)
    
-   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Με τη βοήθεια της επέκτασης Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
+   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Με τη βοήθεια της επέκτασης του Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
    
    ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39703382-91a11cb4-5210-11e8-8fed-6dc64c392d36.JPG)
    
    Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue;```), ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά:
    
    ![sidebar_1st_attempt](https://user-images.githubusercontent.com/22655733/39704595-7f9b754c-5214-11e8-8584-680ed1c992f6.JPG)
-   
 3. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
-  * Πρόσθεσα στη συνάρτηση mouseover():
+  * Όρισα μία νέα global μεταβλητή (κενό array) για να μετράω πόσες φορές έχει προσπελαστεί και εμφανιστεί η εικόνα κάθε δωρητή στο πλαίσιο, έτσι ώστε να αποφύγω την πολλαπλή εμφάνιση των ίδιων εικόνων (όταν το ποντίκι ξαναπερνάει πάνω από τον ίδιο κύκλο δωρητή):
   
+      ![img_sidebar_js1](https://user-images.githubusercontent.com/22655733/39716346-c7901d84-5238-11e8-8728-79b07cc61c29.JPG)
+  * Πρόσθεσα στη συνάρτηση mouseover(d,i) το εξής:
+
+      ![img_sidebar_js2](https://user-images.githubusercontent.com/22655733/39721439-4318e882-5248-11e8-8a2c-64f460b39af2.JPG)
+      
+    Με τον έλεγχο της επιστρεφόμενης τιμής της συνάρτησης dlist.indexOf(donor) να μην είναι μεγαλύτερη από -1, εξασφαλίζεται ότι θα εμφανιστούν στο πλαίσιο μόνο οι εικόνες των δωρητών που δεν έχουν ξαναεμφανιστεί. Επιπλέον, θέτω τις διαστάσεις όλων των εικόνων στα 42x42 pixels (```element.setAttribute("height", "42"); element.setAttribute("width", "42");```), προκειμένου να εμφανίζονται ομοιόμορφες. Με κάθε νέα εικόνα δωρητή, η σειρά των εικόνων επεκτείνεται δυναμικά (```document.getElementById("images-sidebar").appendChild(element); dlist.push(donor);```)
+    
+4. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), αφαιρώ το περιττό background color του πλαισίου:
+
+   ![img_sidebar_css2](https://user-images.githubusercontent.com/22655733/39724828-820cd030-5252-11e8-94e0-e13b67d8af81.JPG)
+   
+##### Τελικό αποτέλεσμα:
+
+![final](https://user-images.githubusercontent.com/22655733/39725388-394f6518-5254-11e8-8f84-55051b1ffa20.JPG)
+      
 #### Ζητούμενα που απαιτούν pull request
 Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
 
