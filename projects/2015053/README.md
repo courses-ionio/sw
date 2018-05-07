@@ -136,3 +136,18 @@
 Για την πραγματοποίηση αυτού του ζητήματος ακολούθησα textbook workflow με το XMLHttpRequest για τη javascript. Επικοινωνόντας με το API του GitHub μπορούμε να αντλούμε διάφορα δεδομένα για αποθετήρια, χρήστες, contributions κ.ά. Κάνοντας parse το json response του API αποθηκεύω σε array τα δεδομένα των χρηστών ομαδοποιημένα (Object like). Για κάθε ένα στοιχείο του array καλώ μια συνάρτηση που δημιουργεί htm elements ανάλογα με τις τιμές των δεδομένων. Τέτοια δεδομένα είναι το GitHub username, η φωτογραφία προφίλ και τα contributions. Για την παρουσίαση σους σε html προτίμησα τα cards του Bootstrap.
 
 ## Ενδεικτικές εικόνες
+
+![Split By Source](splitbysource.png)
+
+![Split By Party](splitbyparty.png)
+
+![Split By Public](splitbypublic.png)
+
+![Split By Amount](splitbyamount.png)
+
+![Credits](credits.png)
+
+![Participants](API.png)
+## Sidenote : Shoutout to the beautiful people in the first row
+ 
+ 
