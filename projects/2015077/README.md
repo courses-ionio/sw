@@ -43,4 +43,5 @@ Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/26476
 ![split-by-amount-of-donation](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
 ## Παραδοτέο 2 - Τελική αναφορά
-----
+  Η αναφορά για το δεύτερο παραδοτέο βρίσκεται στο ακόλουθο σύνδεσμο μαζί με την τελική αναφορά
+  link: https://dimitristria.github.io/SW-Final-Report/
