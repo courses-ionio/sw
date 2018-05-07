@@ -28,9 +28,9 @@
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request)
     
   * [Παραδοτέο 2](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
-    * Εμφάνιση και επέκταση σειράς εικόνων δωρητών
+    * [Εμφάνιση και επέκταση σειράς εικόνων δωρητών](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%95%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%80%CE%AD%CE%BA%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CE%B5%CE%B9%CF%81%CE%AC%CF%82-%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CF%89%CE%BD-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CF%8E%CE%BD-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%8C%CF%84%CE%B1%CE%BD-%CF%84%CE%BF-%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9-%CE%BC%CE%AD%CF%83%CE%B1-%CF%83%CE%B5-%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE)
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request-1)
-  * Τελική Αναφορά
+  * [Τελική Αναφορά](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
 
 ## Παραδοτέο 1
 
@@ -193,6 +193,21 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 #### Εμφάνιση και επέκταση σειράς εικόνων δωρητών (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε κύκλο δωρητή)
 Προκειμένου όταν το ποντίκι εισέρχεται σε έναν από τους κύκλους του γραφήματος να εμφανίζεται (και να επεκτείνεται δυναμικά) σε μια ορισμένη περιοχή της ιστοσελίδας του γραφήματος η σειρά των εικόνων με τους δωρητές πάνω από τους οποίους έχει περάσει ο δείκτης του ποντικιού του χρήστη, τροποποίησα τον κώδικα της εφαρμογής μου ως εξής:
 
+1. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), πρόσθεσα ένα νέο &lt;div&gt; tag για τη δημιουργία μιας περιοχής για τις εικόνες των δωρητών, πάνω από τους κύκλους των οποίων έχει περάσει ο δείκτης του ποντικιού του χρήστη:
+
+   ![img_sidebar_html](https://user-images.githubusercontent.com/22655733/39702847-c625c900-520e-11e8-8de7-1d0c9c5b3cd7.JPG)
+
+2. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), πρόσθεσα το εξής πλαίσιο:
+
+   ![img_sidebar_css](https://user-images.githubusercontent.com/22655733/39702982-4a2baba2-520f-11e8-8c0f-621786d98512.JPG)
+   
+   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue```) ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά. Με τη βοήθεια της επέκτασης Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
+   
+   ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39703382-91a11cb4-5210-11e8-8fed-6dc64c392d36.JPG)
+
+3. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
+  * Πρόσθεσα στη συνάρτηση mouseover():
+  
 #### Ζητούμενα που απαιτούν pull request
 Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
 
