@@ -11,8 +11,8 @@
 #### Σύνδεσμοι
 ##### Link ιστοσελίδας της εφαρμογής μου: https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations
-##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
-***\*** **Σημείωση\:** Παραδοτέο 1: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
+##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 και στο Παραδοτέο 2 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
+***\*** **Σημείωση\:** Παραδοτέο 1 και Παραδοτέο 2: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
 
 ### Πίνακας Περιεχομένων
   * [Παραδοτέο 1](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
@@ -28,7 +28,9 @@
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request)
     
   * [Παραδοτέο 2](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
+    * Εμφάνιση και επέκταση σειράς εικόνων δωρητών
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request-1)
+  * Τελική Αναφορά
 
 ## Παραδοτέο 1
 
@@ -189,7 +191,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ## Παραδοτέο 2
 
 #### Εμφάνιση και επέκταση σειράς εικόνων δωρητών (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε κύκλο δωρητή)
-Όταν το ποντίκι εισέρχεται σε έναν από τους κύκλους του γραφήματος, εμφανίζονται οι πληροφορίες του αντίστοιχου δωρητή. Τροποποιήστε κατάλληλα τον κώδικα της εφαρμογής σας, έτσι ώστε σε μια περιοχή της ιστοσελίδας του γραφήματος που θα ορίσετε, να εμφανίζεται (και να επεκτείνεται δυναμικά) η σειρά των εικόνων με τους δωρητές πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού σας στο γράφημα.
+Προκειμένου όταν το ποντίκι εισέρχεται σε έναν από τους κύκλους του γραφήματος να εμφανίζεται (και να επεκτείνεται δυναμικά) σε μια ορισμένη περιοχή της ιστοσελίδας του γραφήματος η σειρά των εικόνων με τους δωρητές πάνω από τους οποίους έχει περάσει ο δείκτης του ποντικιού του χρήστη, τροποποίησα τον κώδικα της εφαρμογής μου ως εξής:
 
 #### Ζητούμενα που απαιτούν pull request
 Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
@@ -217,3 +219,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 
    ![anim-pict](https://user-images.githubusercontent.com/22655733/39665455-45b08e1c-509d-11e8-9620-18162508a4c8.JPG)
 (Βλ. και [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
+
+Επιπλέον, ενημέρωσα το [αρχείο .csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015054.csv) με τα στοιχεία μου προσθέτοντας το δεύτερο παραδοτέο.
+
+## Τελική Αναφορά
