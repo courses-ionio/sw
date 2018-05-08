@@ -11,8 +11,10 @@
 #### Σύνδεσμοι
 ##### Link ιστοσελίδας της εφαρμογής μου: https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations
-##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
-***\*** **Σημείωση\:** Παραδοτέο 1: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
+##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 και στο Παραδοτέο 2 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
+##### Link ιστοσελίδας της Τελικής Αναφοράς μου: https://nefelinikiforou.github.io/SW-Final-Report/
+##### Αποθετήριο της Τελικής Αναφοράς μου: https://github.com/nefelinikiforou/SW-Final-Report
+***\*** **Σημείωση\:** Παραδοτέο 1 και Παραδοτέο 2: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
 
 ### Πίνακας Περιεχομένων
   * [Παραδοτέο 1](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
@@ -26,6 +28,11 @@
     * [Ήχος για την ονομασία του δωρητή και το ποσό της δωρεάς](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%89%CF%87%CE%BF%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BF%CE%BD%CE%BF%CE%BC%CE%B1%CF%83%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%84%CE%BF-%CF%80%CE%BF%CF%83%CF%8C-%CF%84%CE%B7%CF%82-%CE%B4%CF%89%CF%81%CE%B5%CE%AC%CF%82-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%8C%CF%84%CE%B1%CE%BD-%CF%84%CE%BF-%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9-%CE%BC%CE%AD%CF%83%CE%B1-%CF%83%CE%B5-%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE)
     * [Δημιουργία και προσθήκη νέας επιλογής ομαδοποίησης των δεδομένων](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%94%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%BD%CE%AD%CE%B1%CF%82-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-%CE%BF%CE%BC%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82-%CF%84%CF%89%CE%BD-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-split-by-the-amount-of-the-donation)
     * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request)
+    
+  * [Παραδοτέο 2](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
+    * [Εμφάνιση και επέκταση σειράς εικόνων δωρητών](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%95%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%80%CE%AD%CE%BA%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CE%B5%CE%B9%CF%81%CE%AC%CF%82-%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CF%89%CE%BD-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CF%8E%CE%BD-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%8C%CF%84%CE%B1%CE%BD-%CF%84%CE%BF-%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9-%CE%BC%CE%AD%CF%83%CE%B1-%CF%83%CE%B5-%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF-%CE%B4%CF%89%CF%81%CE%B7%CF%84%CE%AE)
+    * [Ζητούμενα που απαιτούν pull request](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%96%CE%B7%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CF%80%CE%BF%CF%85-%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BD-pull-request-1)
+  * [Τελική Αναφορά](https://github.com/nefelinikiforou/sw/blob/2015054/projects/2015054/README.md#%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
 
 ## Παραδοτέο 1
 
@@ -182,3 +189,74 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
   * HCA International (713)
   * Independent Print (808)
   * Seamark (705)
+  
+## Παραδοτέο 2
+
+#### Εμφάνιση και επέκταση σειράς εικόνων δωρητών (ενεργοποίηση όταν το ποντίκι βρίσκεται μέσα σε κύκλο δωρητή)
+Προκειμένου όταν το ποντίκι εισέρχεται σε έναν από τους κύκλους του γραφήματος να εμφανίζεται (και να επεκτείνεται δυναμικά) σε μια ορισμένη περιοχή της ιστοσελίδας του γραφήματος η σειρά των εικόνων με τους δωρητές πάνω από τους οποίους έχει περάσει ο δείκτης του ποντικιού του χρήστη, τροποποίησα τον κώδικα της εφαρμογής μου ως εξής:
+
+1. Στο αρχείο "index.html" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/index.html)), πρόσθεσα ένα νέο &lt;div&gt; tag για τη δημιουργία μιας περιοχής για τις εικόνες των δωρητών, πάνω από τους κύκλους των οποίων έχει περάσει ο δείκτης του ποντικιού του χρήστη:
+
+   ![img_sidebar_html](https://user-images.githubusercontent.com/22655733/39702847-c625c900-520e-11e8-8de7-1d0c9c5b3cd7.JPG)
+2. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), πρόσθεσα το εξής πλαίσιο:
+
+   ![img_sidebar_css](https://user-images.githubusercontent.com/22655733/39702982-4a2baba2-520f-11e8-8c0f-621786d98512.JPG)
+   
+   για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Με τη βοήθεια της επέκτασης του Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
+   
+   ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39742854-b438c1ae-52a7-11e8-90b0-5778f4cd379e.JPG)
+   
+   Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue;```), ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά:
+   
+   ![sidebar_1st_attempt](https://user-images.githubusercontent.com/22655733/39743105-9027a1da-52a8-11e8-8f98-ebd1602496bd.JPG)
+3. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
+  * Όρισα μία νέα global μεταβλητή (κενό array) για να μετράω πόσες φορές έχει προσπελαστεί και εμφανιστεί η εικόνα κάθε δωρητή στο πλαίσιο, έτσι ώστε να αποφύγω την πολλαπλή εμφάνιση των ίδιων εικόνων (όταν το ποντίκι ξαναπερνάει πάνω από τον ίδιο κύκλο δωρητή):
+  
+      ![img_sidebar_js1](https://user-images.githubusercontent.com/22655733/39716346-c7901d84-5238-11e8-8728-79b07cc61c29.JPG)
+  * Πρόσθεσα στη συνάρτηση mouseover(d,i) το εξής:
+
+      ![img_sidebar_js2](https://user-images.githubusercontent.com/22655733/39721439-4318e882-5248-11e8-8a2c-64f460b39af2.JPG)
+      
+    Με τον έλεγχο της επιστρεφόμενης τιμής της συνάρτησης dlist.indexOf(donor) να μην είναι μεγαλύτερη από -1, εξασφαλίζεται ότι θα εμφανιστούν στο πλαίσιο μόνο οι εικόνες των δωρητών που δεν έχουν ξαναεμφανιστεί. Επιπλέον, θέτω τις διαστάσεις όλων των εικόνων στα 42x42 pixels (```element.setAttribute("height", "42"); element.setAttribute("width", "42");```), προκειμένου να εμφανίζονται ομοιόμορφες. Με κάθε νέα εικόνα δωρητή, η σειρά των εικόνων επεκτείνεται δυναμικά (```document.getElementById("images-sidebar").appendChild(element); dlist.push(donor);```)
+    
+4. Στο αρχείο "style.css" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/style.css)), αφαιρώ το περιττό background color του πλαισίου:
+
+   ![img_sidebar_css2](https://user-images.githubusercontent.com/22655733/39724828-820cd030-5252-11e8-94e0-e13b67d8af81.JPG)
+   
+##### Τελικό αποτέλεσμα:
+
+![final](https://user-images.githubusercontent.com/22655733/39743172-c33be73e-52a8-11e8-8273-f9c5c51c0976.JPG)
+
+(Βλ. και [ιστοσελίδα](https://nefelinikiforou.github.io/D3js-uk-political-donations/))
+      
+#### Ζητούμενα που απαιτούν pull request
+Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
+
+1. Δήλωσα στο [Issue του Παραδοτέου 2](https://github.com/ioniodi/D3js-uk-political-donations/issues/17) τη δέσμευση της θέσης "Position #014" στον [κώδικα](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) της ιστοσελίδας:
+
+   ![issue](https://user-images.githubusercontent.com/22655733/39665515-5093f156-509e-11e8-9f47-85944c20c592.JPG)
+
+2. Στο [API του Github](https://api.github.com/users/nefelinikiforou) βρήκα όλες τις πληροφορίες μου σαν χρήστης του Github και, συγκεκριμένα, το url για το avatar μου, το οποίο χρειάζεται ώστε να εμφανίζεται η εικόνα προφίλ μου:
+
+   ![avatar](https://user-images.githubusercontent.com/22655733/39664939-77eeff5c-5094-11e8-8454-dd4436301b35.JPG)
+
+   ![avatar_img](https://user-images.githubusercontent.com/22655733/39664956-c8123bac-5094-11e8-9b5c-7f3486862909.JPG)
+
+3. Στο φάκελο [participants](https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants) μετέτρεψα το αρχείο [index.html](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) στη θέση που είχα δεσμεύσει (Position #014), αρχικά ορίζοντας το url για το avatar μου και το username μου και, έπειτα, xρησιμοποιώντας τη [βιβλιοθήκη](https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js) (την οποία εμπεριείχε ήδη το αρχείο) και μετατρέποντας κατάλληλα τον open source [κώδικα](http://tobiasahlin.com/moving-letters/#7) για text animation που βρήκα, ως εξής:
+
+   ![avatar_index_hml_1](https://user-images.githubusercontent.com/22655733/39665012-641b37d8-5095-11e8-8d0e-de162231f886.JPG)
+
+   ![avatar_index_html_2](https://user-images.githubusercontent.com/22655733/39665018-821f5606-5095-11e8-84b0-1143e6fb022e.JPG)
+
+   ![avatar_index_html_3](https://user-images.githubusercontent.com/22655733/39665022-911b8d3c-5095-11e8-93ab-ef605e574eca.JPG)
+
+   
+   Με αποτέλεσμα:
+
+   ![anim-pict](https://user-images.githubusercontent.com/22655733/39665455-45b08e1c-509d-11e8-9620-18162508a4c8.JPG)
+(Βλ. και [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
+
+Επιπλέον, ενημέρωσα το [αρχείο .csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015054.csv) με τα στοιχεία μου προσθέτοντας το δεύτερο παραδοτέο.
+
+## Τελική Αναφορά
+Για την Τελική Αναφορά δημιούργησα ξεχωριστό [αποθετήριο](https://github.com/nefelinikiforou/SW-Final-Report) και την έφτιαξα σε μορφή github-pages με ξεχωριστό [link](https://nefelinikiforou.github.io/SW-Final-Report/).
