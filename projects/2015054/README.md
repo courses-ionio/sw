@@ -226,6 +226,8 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ##### Τελικό αποτέλεσμα:
 
 ![final](https://user-images.githubusercontent.com/22655733/39743172-c33be73e-52a8-11e8-8273-f9c5c51c0976.JPG)
+
+(Βλ. και [ιστοσελίδα](https://nefelinikiforou.github.io/D3js-uk-political-donations/))
       
 #### Ζητούμενα που απαιτούν pull request
 Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
