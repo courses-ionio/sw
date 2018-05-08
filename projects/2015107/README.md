@@ -4,6 +4,16 @@
 
 ΑΜ: Π2015107
 
+- [Αποθετήριο τελικής αναφοράς](https://github.com/randomperson19/SW_Report)
+
+- [Ιστοσελίδα github-pages για την τελική αναφορά](https://randomperson19.github.io/SW_Report/)
+
+- [Branch του τελικού κώδικα που συμπεριλαμβάνει όλα τα υλοποιημένα ζητούμενα από τα παραδοτέα 1 και 2](https://github.com/randomperson19/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2)
+
+
+
+
+
 Link στο αποθετήριο του κώδικα: https://github.com/randomperson19/D3js-uk-political-donations/tree/master
 
 Link στο εκτέλεσιμο: https://randomperson19.github.io/D3js-uk-political-donations/#
