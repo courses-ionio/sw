@@ -9,7 +9,7 @@
 
 ## Παραδοτέο 1
 
-### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/GIANNIS-AGGELIS/D3js-uk-political-donations/tree/paradoteo1
+### Αποθετήριο κώδικα παραδοτέου 1:[link](https://github.com/GIANNIS-AGGELIS/D3js-uk-political-donations/tree/paradoteo1)
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -32,8 +32,23 @@
 
 
 7.Προσθήκη εικόνων :https://github.com/ioniodi/D3js-uk-political-donations/pull/30
+
 ## Παραδοτέο 2
-----
+
+### Αποθετήριο κώδικα παραδοτέου 2:[link](https://github.com/GIANNIS-AGGELIS/D3js-uk-political-donations/tree/paradoteo2)
+
+### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου.
+
+8.Προσθήκη κατάλληλου κώδικα javascript για να εμφανίζεται αριστερά το ιστορικό και να ανανεώνεται κάθε φόρα που ο κέρσορας πηγενει πάνω άπο ένα object.
+![image](https://user-images.githubusercontent.com/22667836/39727239-999b3112-525a-11e8-96a9-bfaceca8caed.png)
+
+9.Προσθήκη D3 γραφήματος για την οπτικοποίησης των ίδιων δεδομένων.Το γράφημα το οποιο επέλεξα να υλοποιήσω ηταν το [Donut Chart](https://bl.ocks.org/mbostock/3887193) γιατί είχε αρκετό εύκολο κώδικα και αρκετά βιντεάκια στο [YouTube](https://www.youtube.com/watch?v=kK5kKA-0PUQ&t=600s).Ωστόσο η υλοποίηση πολυ πιο δύσκολη από ότι φανταζόμουν.
+![image](https://user-images.githubusercontent.com/22667836/39727491-8ec5fe10-525b-11e8-869e-b9d6b5a78cd7.png)
+
+10.Έγινε το αντίστοιχο pull request για τον φακελο /participants/index.html στο κεντρικό αποθετήριο.Το animation δημιουργήθηκε με την χρηση CSC στην περιοχή στην οποία δέσμευσα.
+[link pull request](https://github.com/ioniodi/D3js-uk-political-donations/pull/269),[link page](https://ioniodi.github.io/D3js-uk-political-donations/participants/index.html)
+
+11.Έγινε η χρήση του API του github και η οπτικοποίηση των δεδομένων που επέστρεψε .[Participants](https://giannis-aggelis.github.io/D3js-uk-political-donations/API/index.html)
 
 ## Τελική αναφορά
 ----
