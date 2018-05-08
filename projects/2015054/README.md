@@ -12,6 +12,8 @@
 ##### Link ιστοσελίδας της εφαρμογής μου: https://nefelinikiforou.github.io/D3js-uk-political-donations/
 ##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations
 ##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1 και στο Παραδοτέο 2 (gh-pages branch) \*: https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages
+##### Link ιστοσελίδας της Τελικής Αναφοράς μου: https://nefelinikiforou.github.io/SW-Final-Report/
+##### Αποθετήριο της Τελικής Αναφοράς μου: https://github.com/nefelinikiforou/SW-Final-Report
 ***\*** **Σημείωση\:** Παραδοτέο 1 και Παραδοτέο 2: Οι αλλαγές στον κώδικα φαίνονται στο branch [gh-pages](https://github.com/nefelinikiforou/D3js-uk-political-donations/tree/gh-pages) του παραπάνω αποθετηρίου. Το master branch χρησιμοποιήθηκε αποκλειστικά για τα ζητούμενα που απαιτούσαν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα.*
 
 ### Πίνακας Περιεχομένων
@@ -202,11 +204,11 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
    
    για να ορίσω το μέγεθος (ύψος: 42 pixels, καθώς οι εικόνες των δωρητών έχουν διαστάσεις 42x42) της περιοχής για τις εικόνες των δωρητών που έχουν προσπελαστεί, καθώς και την τοποθεσία της στην ιστοσελίδα. Με τη βοήθεια της επέκτασης του Google Chrome, *Page Ruler*, εντόπισα τα pixel για τη θέση του πλαισίου στην ιστοσελίδα:
    
-   ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39703382-91a11cb4-5210-11e8-8fed-6dc64c392d36.JPG)
+   ![pixels_sidebar](https://user-images.githubusercontent.com/22655733/39742854-b438c1ae-52a7-11e8-90b0-5778f4cd379e.JPG)
    
    Χρωμάτισα το πλαίσιο προσωρινά (```background-color: light-blue;```), ώστε να ελέγχω ότι οι εικόνες τοποθετούνται σωστά:
    
-   ![sidebar_1st_attempt](https://user-images.githubusercontent.com/22655733/39704595-7f9b754c-5214-11e8-8584-680ed1c992f6.JPG)
+   ![sidebar_1st_attempt](https://user-images.githubusercontent.com/22655733/39743105-9027a1da-52a8-11e8-8f98-ebd1602496bd.JPG)
 3. Στο αρχείο "chart.js" ([Βλ. και αποθετήριο](https://github.com/nefelinikiforou/D3js-uk-political-donations/blob/gh-pages/chart.js)):
   * Όρισα μία νέα global μεταβλητή (κενό array) για να μετράω πόσες φορές έχει προσπελαστεί και εμφανιστεί η εικόνα κάθε δωρητή στο πλαίσιο, έτσι ώστε να αποφύγω την πολλαπλή εμφάνιση των ίδιων εικόνων (όταν το ποντίκι ξαναπερνάει πάνω από τον ίδιο κύκλο δωρητή):
   
@@ -223,7 +225,7 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
    
 ##### Τελικό αποτέλεσμα:
 
-![final](https://user-images.githubusercontent.com/22655733/39725388-394f6518-5254-11e8-8f84-55051b1ffa20.JPG)
+![final](https://user-images.githubusercontent.com/22655733/39743172-c33be73e-52a8-11e8-8273-f9c5c51c0976.JPG)
       
 #### Ζητούμενα που απαιτούν pull request
 Προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, έκανα τις παρακάτω ενέργειες:
@@ -255,3 +257,4 @@ https://nefelinikiforou.github.io/D3js-uk-political-donations/
 Επιπλέον, ενημέρωσα το [αρχείο .csv](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/2015054.csv) με τα στοιχεία μου προσθέτοντας το δεύτερο παραδοτέο.
 
 ## Τελική Αναφορά
+Για την Τελική Αναφορά δημιούργησα ξεχωριστό [αποθετήριο](https://github.com/nefelinikiforou/SW-Final-Report) και την έφτιαξα σε μορφή github-pages με ξεχωριστό [link](https://nefelinikiforou.github.io/SW-Final-Report/).
