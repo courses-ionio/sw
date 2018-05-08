@@ -6,9 +6,15 @@
 #### ΑΜ: Π2015178
 #### e-mail: p15syme@ionio.gr
 
-#### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15syme/D3js-uk-political-donations
-#### Link εκτελέσιμου κώδικα: https://p15syme.github.io/D3js-uk-political-donations/
-#### Link branch Παραδοτέου 1: https://github.com/p15syme/D3js-uk-political-donations/tree/%CE%A02015178---%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1
+#### [Link προσωπικόυ αποθετήριου κώδικα](https://github.com/p15syme/D3js-uk-political-donations)
+
+#### [Link εκτελέσιμου κώδικα](https://p15syme.github.io/D3js-uk-political-donations/)
+
+#### [Link Παραδοτέου 1](https://github.com/p15syme/D3js-uk-political-donations/tree/%CE%A02015178---%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
+
+#### [Link Παραδοτέου 2](https://github.com/p15syme/D3js-uk-political-donations/tree/2015178---%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
+
+#### [Link Τελικής Αναφοράς](https://p15syme.github.io/Final-Report-2018-ST/)
 
 ## Σύνοψη:
 
@@ -35,3 +41,70 @@
 ![ss2](https://user-images.githubusercontent.com/22681573/36947455-9d7662c4-1fd4-11e8-9b3d-8409cda8c857.png)
 
 ## Παραδοτέο 2: 
+
+  Για το Παραδοτέο 2 έγιναν οι εξής αλλαγές:
+  
+* Τροποποιήθηκε ο κώδικας του αρχείου *chart.js*, προσθέτωντας το παρακάτω block κώδικα, με αποτέλεσμα την εμφάνιση της εικόνας του δωρητή, όταν ο χρήστης κάνει hove over από το bubble που τον αντιπροσωπεύει:
+```Javascript
+var infoPic = document.createElement("img");
+    infoPic.setAttribute("src","http://www.bizreport.com/2011/02/03/android-logo-200x200.jpg");
+    infoPic.setAttribute("height","42");
+    infoPic.setAttribute("width","42");
+    infoPic.setAttribute("onerror",'this.src=\"https://github.com/favicon.ico\";');
+    document.getElementById("cssPic").insertBefore(infoPic,document.getElementById("cssPic").firstChild);
+    infoPic.src = imageFile;
+```
+###### Παραδοτέο 2 - Εμφάνιση του ιστορικού
+
+* Στο φάκελο *participants* τροποποίησα το αρχείο *index.html*, στην θέση *position #015*, χρησιμοποιώντας το ακόλουθο block κώδικα, με σκοπό την εμφάνιση των στοιχείων μου(github username & picture):
+
+```
+<div style="border: 2px solid; border-radius: 5px; background-color: #4267B2; width: fit-content; float: left; margin: 10px 10px 10px 10px;">
+      <h4>
+        <span>&nbsp;</span>
+        <img src="https://avatars2.githubusercontent.com/u/22681573?s=400&v=4" height="42" width="42">
+        <span class="ml1"><span class="letters">&nbsp;p15syme&nbsp;</span></span>
+      </h4>
+  </div>
+  
+  <script>
+  // Wrap every letter in a span
+  $('.ml1 .letters').each(function(){
+    $(this).html($(this).text().replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>"));
+  });
+   
+   anime.timeline({loop: true}) 
+    .add({
+    targets: '.ml1 .letters',
+    scale: [0,1],
+    opacity: [0,1],
+    easing: "easeOutElastic",
+    duration: 2000,
+    delay: function(el, i, l) {
+      return 750 * (i+2);
+    }
+  }).add({
+    targets: '.ml1',
+    opacity: 0,
+    duration: 1000,
+    easing: "easeInOutQuint",
+    delay: 1000
+  });    
+  </script>
+```
+###### Παραδοτέο 2 - Εμφάνιση του ονόματος και του avatar στο αρχείο index.html
+* Στο τελευταίο ζητούμενο που έκανα για το Παραδοτέο 2, ζητούσε να δημιουργήσουμε μία σελίδα, όπου θα αντλούσε στοιχεία δυναμικά από το κεντρικό αποθετήριο του ioniodi, μέσω της σελίδας Insights. Έτσι, δημιούργησα το αρχείο 2015178.html. Η άντληση των δεδομένων έγινε μέσω XML HTTP Request.
+
+#### Ενδεικτικά Στιγμιότυπα Παραδοτέου 2:
+
+![ss3](https://user-images.githubusercontent.com/22681573/39723986-236abab2-5250-11e8-9964-7880b1afc77f.png)
+###### Παραδοτέο 2 - Εμφάνιση του ιστορικού.
+
+![ss4](https://user-images.githubusercontent.com/22681573/39724154-a397d4d6-5250-11e8-9a30-4076c76eed12.png)
+###### Παραδοτέο 2 - Η σελίδα στην οποία φαίνονται τα contributions από τους χρήστες του κεντρικού απεθετηρίου.
+
+![ss5](https://user-images.githubusercontent.com/22681573/39724156-a3c569b4-5250-11e8-8990-3f3b4229c207.png)
+###### Παραδοτέο 2 - Εμφάνιση του ιστορικού.
+
+
+
