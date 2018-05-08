@@ -2,6 +2,7 @@
 ## Παγκάκης Δημοσθένης - Π2015053
 #### Link στο προσωπικό αποθετήριο του κώδικα: https://github.com/DimosPagakis/D3js-uk-political-donations
 #### Link στο εκτελέσιμο του κώδικα:           https://dimospagakis.github.io/D3js-uk-political-donations/
+#### Link στο δεύτερο παραδοτέο:               https://dimospagakis.github.io/FinalReportSw/
 
  Η παρούσα αναφορά είναι για εργασία στα πλαίσια του μαθήματος της Τεχνολογίας Λογισμικού του Ιονίου Πανεπιστημίου.
  Με τη χρήση της D3, βιβλιοθήκη της javascript, οπτικοποιούμε δεδομένα σχετικά με τις δωρεές για τα πολιτικά κόμματα του Ηνωμένου Βασιλείου.
