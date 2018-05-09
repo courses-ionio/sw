@@ -75,7 +75,7 @@
 * Bestway
 
 
-### Παραδοτέο 2: Tελικό έργο και Τελική Αναφορά - 25% (9 Μαϊου)
+### Παραδοτέο 2: Tελικό έργο και [Τελική Αναφορά](https://p13chat.github.io/final) - 25% (9 Μαϊου)
 
 Για το δεύτερο παραδοτέο, πραγματοποίησα 3 από τα 5 ζητούμενα της εργασίας.
 
@@ -108,4 +108,11 @@
 
 *Σχετική εικόνα για τον τρίτο διαχωρισμό (2.3)*
 
-3) Τέλος, το τελευταίο ζητούμενο που υλοποίησα ήταν αυτό με τα [credits](https://ioniodi.github.io/D3js-uk-political-donations/participants/), για το οποίο έπρεπε στον φάκελο [participants] (https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants) να γράψω τον κατάλληλο κώδικα στο [index](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) αρχειο, προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση. Πραγματοποιήθηκαν οι κατάλληλες αλλαγές στον κώδικα και ολοκληρώθηκε το ζητούμενο.
+3) Τέλος, το τελευταίο ζητούμενο που υλοποίησα ήταν αυτό με τα [credits](https://ioniodi.github.io/D3js-uk-political-donations/participants/), για το οποίο έπρεπε στον φάκελο [participants] (https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants) να γράψω τον κατάλληλο κώδικα στο [index](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) αρχειο, προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση. Δεύσμευσα την περιοχη "position #001" και πραγματοποιήθηκαν οι κατάλληλες αλλαγές στον κώδικα ώστε να πραγματοποιηθεί το ζητούμενο.
+
+*Σχετική οθόνη για τα credit (3)*
+
+<img src="https://media.giphy.com/media/2dmXIquWqBPpEAwBF8/giphy.gif"/>
+
+
+## Η τελική αναφορά της εργασίας βρίσκεται [εδώ](https://p13chat.github.io/final) 
