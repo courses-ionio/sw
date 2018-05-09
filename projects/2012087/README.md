@@ -73,7 +73,8 @@
   *Darren Baker Fine Arts(652)*
   
   *Scottish Power UK(721)*
-  **Παραδοτέο 2ο: Τελικό έργο και τελική αναφορά (25%), 9 Μαΐου**
+  
+**Παραδοτέο 2ο: Τελικό έργο και τελική αναφορά (25%), 9 Μαΐου**
 --------------
 **Link αποθετηρίου Παραδοτέου 2**:https://github.com/p12tzia/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2
 **Link τελικής αναφοράς**:https://p12tzia.github.io/Final-report/
