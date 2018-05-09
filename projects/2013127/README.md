@@ -12,6 +12,8 @@
 * Προσωπικό αποθετήριο του κώδικα: [Link Αποθετηρίου του κώδικα](https://github.com/p13chat/D3js-uk-political-donations)
 * Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://p13chat.github.io/D3js-uk-political-donations/)
 * Link για το αποθετήριο του κώδικα του 1ου Παραδοτέου: [Link 1ου Παραδοτέου](https://github.com/p13chat/D3js-uk-political-donations/tree/Paradoteo-1)
+* Link για το αποθετήριο του κώδικα του 2ου Παραδοτέου: [Link 2ου Παραδοτέου](https://github.com/p13chat/D3js-uk-political-donations/tree/Paradoteo-2)
+* Link για την Τελική Αναφορά: [Τελική Αναφορά](https://p13chat.github.io/final)
 
 ### Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 25% (4 Μαρτίου)
 
