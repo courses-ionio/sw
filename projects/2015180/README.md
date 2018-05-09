@@ -7,6 +7,8 @@
 
 *Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/*
 
+*Link στην ιστοσελίδα της ΤΕΛΙΚΗΣ ΑΝΑΦΟΡΑΣ:  https://andreanastil.github.io/sw-report/*
+
 # Παραδοτέο 1
 ## Ζητούμενα στα οποία απαιτούνται αλλαγές στο προσωπικό μας αποθετήριο
 
@@ -393,3 +395,101 @@ function moveToAmounts(alpha) {
      οι οποίες πληρούν τις προδιαγραφές: 42x42px, format .ico και οι ονομασίες τους είναι οι επωνυμίες των δωρητών, όπως εμφανίζονται στο     αρχείο με τους δωρητές.
   
     Η δέσμευση των δωρητών έγινε, όπως ζητήθηκε, σε αντίστοιχο σχόλιο του issue του Παραδοτέου 1 και το pull request έγινε δεκτό στο         κεντρικό αποθετήριο.
+    
+# Παραδοτέο 2
+
+* Για να εμφανίζονται εικόνες δωρητών εντός της ιστοσελίδας, ορίζουμε μία περιοχή στο html αρχείο σε ετικέτα div.
+  ```
+  <div id="sidebar">
+  </div>   
+  ```
+  Στο αρχείο chart.js, μέσα στη συνάρτηση mouseover() δημιουργούμε τη μεταβλητή http με τη βοήθεια της οποίας προσπαθούμε να               προσπελάσουμε το αρχείο εικόνας   (imagefile) του κάθε δωρητή. Στέλνουμε και ελέγχουμε http αίτημα με τη διεύθυνση της εικόνας έτσι     ώστε εάν αυτή δε βρεθεί να μην         εμφανιστεί καμία εικόνα. Ύστερα ελέγχουμε έαν η εικόνα έχει ήδη προσπελαστεί, έτσι ώστε να       αποφύγουμε διπλότυπες εμφανίσεις. Αυτό το     πετυχαίνουμε διατηρώντας τα ονόματα των δωρητών σε μία λίστα (names[]).Πραγματοποιώντας   τους παραπάνω ελέγχους, δημιουργούμε ένα html   element εικόνας με την εικόνα του δωρητή και διαστάσεις 42x42 και ύστερα το             τοποθετούμε στο div με το id = "sidebar".
+
+  ```
+  var http = new XMLHttpRequest();
+  http.open('HEAD', imageFile, false);
+  http.send();
+  if (http.status != 404){
+	  if ((names.indexOf(donor) > -1)==false) {
+
+	  var elem = document.createElement("img");	
+	  elem.src = imageFile;
+	  elem.setAttribute("height", "42");
+	  elem.setAttribute("width", "42");
+	  document.getElementById("sidebar").appendChild(elem);
+	  names.push(donor);	
+	  }
+  }	
+  ```
+  Τέλος, προσαρμόζουμε το μέγεθος και τη θέση του sidebar στο style.css:
+
+  ```
+  #sidebar {
+      position: absolute;
+      left: 1100px;
+      width: 336px;
+  }
+  ```
+  ![screen](https://user-images.githubusercontent.com/22656813/39389148-943f1fcc-4a8e-11e8-8c5b-71cfd7fc8322.PNG)
+  
+* Για την δημιουργία καινούργιου γραφήματος οπτικοποίησης των ίδιων δεδομένων, εργάστηκα κυρίως στον υπολογιστή μου μέσω local hosting.
+Για αρχή, δημιουργήθηκε καινόυργιο αρχείο html στο αποθετήριο με όνομα [new-D3.html](https://github.com/andreanastil/D3js-uk-political-donations/blob/gh-pages/new-D3.html), καινούργιο αρχείο [pie.js](https://github.com/andreanastil/D3js-uk-political-donations/blob/gh-pages/pie.js) με τον κώδικα των διαγραμμάτων καθώς και το [style2.css](https://github.com/andreanastil/D3js-uk-political-donations/blob/gh-pages/style2.css) το οποίο ουσιαστικά ακολουθεί την ίδια λογική styling με το style.css. Το αρχείο new-D3.html περιέχει τη βασική δομή της ιστοσελίδας, αξιοποιώντας τα χαρακτηριστικά της ήδη υπάρχουσας, όπως είναι τα κουμπιά που εναλλάσσουν ανάμεσα στις επιλογές ομαδοποίησης και το κείμενο. 
+Γενικότερα, όλα τα διαγράμματα υλοποιήθηκαν εκ' νέου και για τον σκοπό αυτόν μελετήθηκαν και δοκιμάστηκαν πολλά παραδείγματα γραφημμάτων πίτας που βρήκα online. Όλος ο κώδικας είναι διαθέσιμος στο αρχείο pie.js, αξίζει όμως να σχολιαστεί ο τρόπος με τον οποίο κατασκευάστηκαν οι διαφορετικές επιλογές ομαδοποίησης.
+Με το πάτημα του κουμπιού κάθε διαφορετικής επιλογής, καλείται αντίστοιχη συνάρτηση και τα δεδομένα, φορτώνονται από το αρχείο 7500up.csv και μεταβαίνουν στην μεταβλητή data, ενώ πρώτα εφαρμοστεί το κατάλληλο nesting. Παρακάτω φαίνεται πώς γίνεται το nesting για την επιλογή partydisplay(). To key που χρησιμοποιείται είναι το partyname και για το key αυτο αθροίζονται όλα τα ποσοστά δωρεών για τα οποία το key είναι ίδιο. Κατά αυτόν τον τρόπο ύστερα, οπτικοποιόυνται τα γραφήματα των δωρεών ύπο τη μορφή πίτας. Στο τέλος του nesting των δεδομένων καλείται η συνάρτηση myPie η οποία είναι λειτουργεί με τον ίδιο τρόπο για όλα τα γραφήματα. 
+
+```
+function partydisplay () {
+        d3.csv("data/7500up.csv", function( data) {
+        var data = d3.nest()
+        .key(function(d) {
+          return d.partyname;
+        })
+        .rollup(function(d) {
+          return d3.sum(d, function(g) {
+            return g.amount;
+          });
+        }).entries(data);
+
+        tots = d3.sum(data, function(d) { 
+            return d.values; 
+            });
+
+          data.forEach(function(d) {
+                d.percentage = d.values  / tots;
+            });
+
+        return myPie(data);
+        });
+    }
+```
+  Ενδεικτικές εικόνες των γραφημάτων της πίτας φαίνονται παρακάτω:
+  
+![byentity](https://user-images.githubusercontent.com/22656813/39834189-d94a4b7e-53d4-11e8-94a3-d3b1bef97090.PNG)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by source)*
+
+![party](https://user-images.githubusercontent.com/22656813/39834105-9fc82f38-53d4-11e8-99b1-9dc5661618c3.PNG)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by party)*
+
+![private](https://user-images.githubusercontent.com/22656813/39834282-1e64c2c0-53d5-11e8-830c-e4f5cf6dbcd6.PNG)
+
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση private/public)*
+
+![amount](https://user-images.githubusercontent.com/22656813/39834280-1e357b3c-53d5-11e8-848e-9f546fae21d8.PNG)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by amount)*
+  
+  
+  
+  ## Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
+  
+  Οι αλλαγές πραγματοποιήθηκαν στο κλαδί master.
+    
+* Έπειτα από δέσμευση του position 13 συμπληρώθηκε το αντίστοιχο κομμάτι κώδικα στο αρχείο index του φακέλου participants. Ο κώδικας       εμφανίζει τα στοιχεία του github account μου (όνομα και εικόνα) και προσθέτει κίνηση στο όνομα. Παρακάτω φαίνεται η εμφάνιση του username και την εικόνας μου στην ιστοσελίδα:
+
+![credits](https://user-images.githubusercontent.com/22656813/39836687-dd4df560-53dc-11e8-8e65-7048f81f6b4b.PNG)
+
+* Έγινε δημιουργία ενός αρχείου [2015180.html](https://github.com/andreanastil/D3js-uk-political-donations/blob/master/participants/2015180.html) στο οποίο χρησιμοποιώντας το API του Github έγινε οπτικοποίηση των contributions που έγιναν από του χρήστες στο κεντρικό αποθετήριο της εργασίας. Παρακάτω φαίνεται η τελική μορφή της ιστοσελίδας:
+
+![insights](https://user-images.githubusercontent.com/22656813/39835753-dc7927d4-53d9-11e8-8028-37c2295ec28e.PNG)
+ 
+    
+  Τα pull requests των αλλαγών αυτών, έγιναν δεκτά στο κεντρικό αποθετήριο.
