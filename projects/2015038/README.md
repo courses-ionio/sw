@@ -27,3 +27,22 @@ To csv αρχείο [2015038.csv](https://github.com/ioniodi/D3js-uk-political-d
 Το pull request στο κοινό αποθετήριο του κώδικα: 
 https://github.com/ioniodi/D3js-uk-political-donations/pull/32
 
+**Παραδοτέο 2**
+----------
+Υλοποιήθηκε η δυναμική επέκταση των δωρητών (Lastly Visited). Σε κάθε mouseOver κύκλου επεκτείνεται δυναμικά μια κάθετη λίστα από τον πιο πρόσφατο μέχρι τον παλαιότερο δωρητή. Η λίστα κρατάει μάξιμουμ 12 δωρητές και μεταθέτει το δωρητή στην κορυφή σε περίπτωση που υπάρχει ήδη στη λίστα.
+
+![enter image description here](https://github.com/sakis475/sw/blob/paradoteo2/projects/2015038/dynPic.png?raw=true)
+
+Στο αρχείο [chart.js](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo2/chart.js) στη γραμμή 416-447 προστέθηκε κώδικας για αναγνώριση έγκυρου url και προσθήκης εικονιδίου στη λίστα.
+Έπειτα στη γραμμή 517 γίνεται το "render" της Lastly Visited λίστας.
+
+Διαπιστώθηκε πρόβλημα με το Chrome όσο αφορά τη meSpeak(φωνητική λειτουργία), κάποιες φορές δεν παίζει ο ήχος επειδή δεν το επιτρέπει το chrome. Αλλά με το Firefox δουλεύει μια χαρά.
+
+Τέλος φτιάχτηκε το text animation του profil μου όπως φαίνεται εδώ στη θέση 31
+https://sakis475.github.io/D3js-uk-political-donations/participants/
+
+![enter image description here](https://raw.githubusercontent.com/sakis475/sw/paradoteo2/projects/2015038/logotipo.png)
+
+στο index αρχείο έχω χρησιμοποιήσει τη θέση 31, 
+ο κώδικας στο προσωπικό μου αποθετήριο:
+[https://github.com/sakis475/.../participants/index.html](https://github.com/sakis475/D3js-uk-political-donations/blob/paratodeo2_profileAnimation/participants/index.html)
