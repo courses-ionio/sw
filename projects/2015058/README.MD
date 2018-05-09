@@ -6,7 +6,7 @@
 * Link στο αποθετήριο του μαθήματος: https://github.com/DimitriouEugenia/sw
 * Link στο αποθετήριο του κώδικα της ιστοσελίδας μου: https://github.com/DimitriouEugenia/D3js-uk-political-donations/tree/gh-pages
 * Link στην ιστοσελίδα μου : https://dimitrioueugenia.github.io/D3js-uk-political-donations/
-
+* Link για την τελική αναφορά : https://github.com/DimitriouEugenia/sw-report/blob/master/README.md
 
  Για τα ζητούμενα στα οποία απαιτούνται αλλαγές στο κοινό αποθετήριο του κώδικα ανέβασα τις 5 φωτογραφίες για τους δωρητές που επέλεξα, οι οποίες είναι .ico και 42x42 pexels. Οι δωρητές είναι οι: Adam Fleming(173), Hani Farsi(133), Michael Bishop(110), Peter Hambro(690), William Winters(305).
 
