@@ -59,6 +59,10 @@ http://soundbible.com/893-Button-Click.html
 CirclePack έχει ιδια λειτουργικότητα με αυτό του Bubble Chart
 ![circlepack](https://user-images.githubusercontent.com/22703561/39803548-f9410e5a-5379-11e8-9f02-c43ec48052a9.gif)
 
+# Δημιουργία Bar Chart
+ εμφανίζει τις συχνότητες εμφάνισης των αποτελεσμάτων για κάθε  περιοχή της ομαδοποίησης η πληροφορία δεν παρέχεται από κανένα άλλο Chart που δημιουργήθηκε και θεωρήθηκε χρήσιμή η προσθήκη του.
+ ![barchart](https://user-images.githubusercontent.com/22703561/39803551-f9a9c008-5379-11e8-8f5d-4347d5ff8997.gif)
+
 
 
 ## Τελική αναφορά
