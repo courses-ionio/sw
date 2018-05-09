@@ -43,5 +43,5 @@
 ![Google Search on Click](pics/Screenshot_3.png)
 
 
-2ο Παραδοτέο - ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+## 2ο Παραδοτέο - ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
 https://p15theo2.github.io/final-report-sw/
