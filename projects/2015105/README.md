@@ -34,4 +34,4 @@
 Έκανα την τελική αναφορά μου σε ξεχωριστό αποθετήριο, με GitHub Pages.
 ### Links
 * [Αποθετήριο τελικής αναφοράς.](https://github.com/danielyor/sw-datavis-report)
-* [Τε΄λική αναφορά σε GitHub Pages.](https://danielyor.github.io/sw-datavis-report)
+* [Τελική αναφορά σε GitHub Pages.](https://danielyor.github.io/sw-datavis-report)
