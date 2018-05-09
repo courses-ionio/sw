@@ -20,3 +20,6 @@
 ![ScreenShot](html2pdf2.png) 
 ![ScreenShot](html2pdf3.png) 
 
+# Παραδοτέο 2 - Τελική Αναφορά
+
+[Link Αναφοράς (GitHub Page)] ( https://diyamyam.github.io/SWFinal/ )
