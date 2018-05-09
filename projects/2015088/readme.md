@@ -45,4 +45,17 @@
 ### split by amount
 ![split by amoun](split.bmp)
 
+#### 2ο Παραδοτέο
+<ul>
+  <li>Προσθήκη είκονας donor στο ίστορικο οταν το ποντίκι περνάει απο πάνω</li>
+  <li>Προσθήκη στοιχείων στα credits </li>
+  </ul>
+  
+  
+### Ιστορικό
+![Ιστορικό](history.bmp)
+
+
+### Credits
+![credits](credits.bmp)
 
