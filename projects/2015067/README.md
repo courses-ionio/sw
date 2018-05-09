@@ -46,8 +46,6 @@
 
 link πρός το pull request για την προσθήκη των εικόνων και του csv που έγινε δεκτό: https://github.com/ioniodi/D3js-uk-political-donations/pull/40
 
-## Πολυμεσικό περιεχόμενο
-http://soundbible.com/893-Button-Click.html
 ## Παραδοτέο 2
 
 # Ιστορικό
@@ -79,12 +77,23 @@ CirclePack έχει ιδια λειτουργικότητα με αυτό του
 Στον φάκελο participants τροποποίησα κατάλληλα το αρχείο index.html προκειμένου να εμφανίζονται τα στοιχεία μου. Αφού πρώτα δέσμευσα την δεύτερη θέση
 ![animtext](https://user-images.githubusercontent.com/22703561/39804854-e104a71c-537d-11e8-9a13-5d96da3f890a.gif)
 
+### Συνεισφορές Χρηστών
+
+Στην συνέχεια δημιούργησα ιστοσελίδα με τίτλο και όνομα κατάληξης html τον αριθμό  Μητρώου μου  η οποία χρησιμοποιεί το api του github προκειμένου να παίρνει δυναμικά στοιχεία των ονομάτων τις συνεισφορές. Επίσης σε περίπτωση που ο χρήστης πατήσει πάνω στην περιόχη ένος 
+ατόμου τότε θα ανοίξει link πρός τον λογαριασμό του στο github
+
+![repostats](https://user-images.githubusercontent.com/22703561/39805226-eb5b9d50-537e-11e8-8aeb-a2a0f773ea88.gif)
 
 
 
-links προς το pull request που έγινε αποδεκτό και περιλαμβάνει ολες τις αλλαγές που απαιτούνται ( κινολυμενο κίμενο + participants + αλλαγή 2015067.csv με την αλλαγή τιμής απο Deliverable2 σε True
+links προς το pull request που έγινε αποδεκτό και περιλαμβάνει ολες τις αλλαγές που απαιτούνται ( κινούμενο  κίμενο + participants + αλλαγή 2015067.csv με την αλλαγή τιμής απο Deliverable2 σε True
 https://github.com/ioniodi/D3js-uk-political-donations/pull/271
 
 
+
+## Πολυμεσικό περιεχόμενο
+http://soundbible.com/893-Button-Click.html
+
+
 ## Τελική αναφορά
-----
+link προς την τελική αναφορά : 
