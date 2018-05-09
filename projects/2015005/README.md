@@ -7,9 +7,12 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
+### Αποθετήριο του κώδικα: _[Link](https://github.com/p15chri2/D3js-uk-political-donations/tree/gh-pages)_
+### Εκτελέσιμος κώδικας: _[Link](https://p15chri2.github.io/D3js-uk-political-donations/)_
+
+## Ιστοσελίδα τελικής αναφοράς - Παραδοτέο 2: _[Link](https://p15chri2.github.io/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/)_
+
 ## Παραδοτέο 1
-### Link για το αποθετήριο του κώδικα: https://github.com/p15chri2/D3js-uk-political-donations/tree/gh-pages
-### Link για το εκτελέσιμο του κώδικα: https://p15chri2.github.io/D3js-uk-political-donations/
 
 ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
 <or>
