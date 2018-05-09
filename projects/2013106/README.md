@@ -8,6 +8,7 @@
 *  Θέμα εργασίας **"Οπτικοποίηση δεδομένων χορηγιών (UK)"**
 *  Προσωπικό αποθετήριο του κώδικα: https://github.com/marcoumarcos/D3js-uk-political-donations
 *  Link για την σελίδα του 1ου & 2ου παραδοτέου: https://marcoumarcos.github.io/D3js-uk-political-donations/
+*  Link για την τελική αναφορά σε github pages: https://marcoumarcos.github.io/sw_final_report/
 
 ### Παραδοτέο 1
 
