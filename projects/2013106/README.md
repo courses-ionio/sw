@@ -7,7 +7,7 @@
 *  e-mail: p13mark@ionio.gr
 *  Θέμα εργασίας **"Οπτικοποίηση δεδομένων χορηγιών (UK)"**
 *  Προσωπικό αποθετήριο του κώδικα: https://github.com/marcoumarcos/D3js-uk-political-donations
-*  Link για την σελίδα του 1ου παραδοτέου: https://marcoumarcos.github.io/D3js-uk-political-donations/
+*  Link για την σελίδα του 1ου & 2ου παραδοτέου: https://marcoumarcos.github.io/D3js-uk-political-donations/
 
 ### Παραδοτέο 1
 
