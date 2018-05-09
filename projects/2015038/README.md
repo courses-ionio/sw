@@ -46,3 +46,9 @@ https://sakis475.github.io/D3js-uk-political-donations/participants/
 στο index αρχείο έχω χρησιμοποιήσει τη θέση 31, 
 ο κώδικας στο προσωπικό μου αποθετήριο:
 [https://github.com/sakis475/.../participants/index.html](https://github.com/sakis475/D3js-uk-political-donations/blob/paratodeo2_profileAnimation/participants/index.html)
+
+**Τελική αναφορά**
+-------------
+
+Η τελική αναφορά υπάρχει σε αυτό το link:
+https://sakis475.github.io/2015038/
