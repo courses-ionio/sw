@@ -12,6 +12,7 @@
 #### [Εκτελέσιμο](https://p15avgo.github.io/D3js-uk-political-donations/)
 #### [Αποθετήριο κώδικα](https://github.com/p15avgo/D3js-uk-political-donations/tree/Αρχικό-έργο-και-ενδιάμεση-αναφορά-προόδου)
 #### [Αποθετήριο Github Pages κώδικα](https://github.com/p15avgo/D3js-uk-political-donations/tree/gh-pages)
+#### [Τελική Αναφορά](https://p15avgo.github.io/Sw-FinalReport/)
 
 
 ## Αρχικό έργο και ενδιάμεση αναφορά προόδου
