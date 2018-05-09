@@ -12,6 +12,8 @@
 * Προσωπικό αποθετήριο του κώδικα: [Link Αποθετηρίου του κώδικα](https://github.com/p13chat/D3js-uk-political-donations)
 * Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://p13chat.github.io/D3js-uk-political-donations/)
 * Link για το αποθετήριο του κώδικα του 1ου Παραδοτέου: [Link 1ου Παραδοτέου](https://github.com/p13chat/D3js-uk-political-donations/tree/Paradoteo-1)
+* Link για το αποθετήριο του κώδικα του 2ου Παραδοτέου: [Link 2ου Παραδοτέου](https://github.com/p13chat/D3js-uk-political-donations/tree/Paradoteo-2)
+* Link για την Τελική Αναφορά: [Τελική Αναφορά](https://p13chat.github.io/final)
 
 ### Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 25% (4 Μαρτίου)
 
@@ -73,4 +75,44 @@
 * Bestway
 
 
-### Παραδοτέο 2: Tελικό έργο και Τελική Αναφορά - 25% (9 Μαϊου)
+### Παραδοτέο 2: Tελικό έργο και [Τελική Αναφορά](https://p13chat.github.io/final) - 25% (9 Μαϊου)
+
+Για το δεύτερο παραδοτέο, πραγματοποίησα 3 από τα 5 ζητούμενα της εργασίας.
+
+1) Αρχικά ζητήθηκε να εμφανίζεται (και να επεκτείνεται δυναμικά) η σειρά των εικόνων με τους δωρητές πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού στο γράφημα.Ουσιαστικά πρόκειται για ένα ιστορικό σχετικά με το από ποιους δωρητές έκανε mouseover ο χρήστης.
+
+*Σχετική Εικόνα (1)*
+
+<img src="https://imgur.com/1LCDVLW.png"/>
+
+
+2) Έπειτα ζητήθηκε η Δημιουργία του ίδιου D3 γραφήματος οπτικοποίησης με νέα ανοικτά δεδομένα από επίσημη Στατιστική Αρχή. Στο συγκεκριμένο ερώτημα τα [νέα δεδομένα](http://www.sharecsv.com/s/41ac20b6c978af0ce092ac5247af66db/WATER_ABSTRACT.csv), αφορούν την κατανάλωση νερού (για υδατοκαλλιεργειες και δημοσια χρηση) κατά τα έτη 2014-2015-2016 σε χώρες της ΕΕ. Τα στοιχεία τα άντλησα από τον [Organisation for Economic Co-operation and Development (OCED](https://data.oecd.org/water/water-withdrawals.htm). 
+Για την υλοποίηση με το ίδιο d3 διάγραμμα, έγιναν οι κατάλληλες τροποποιήσεις στα αρχεία [newdata.html](https://github.com/p13chat/D3js-uk-political-donations/blob/gh-pages/newdata.html) , [chart3.js](https://github.com/p13chat/D3js-uk-political-donations/blob/gh-pages/chart3.js) και [new_style.css](https://github.com/p13chat/D3js-uk-political-donations/blob/gh-pages/new_style.css). Επίσης, δημιουργήθηκε και ένα νέο button στο αρχείο [index.html](https://github.com/p13chat/D3js-uk-political-donations/blob/gh-pages/index.html) (του 1ου παραδοτέου) το οποίο μας οδηγεί στο [Παραδοτέο 2](https://p13chat.github.io/D3js-uk-political-donations/newdata.html) με τα νέα δεδομένα.
+
+*Σχετική Εικόνα αρχικής σελίδας των νέων δεδομένων (2)*
+
+<img src="https://imgur.com/Zg8ub8g.png"/>
+
+Ο διαχωρισμός (split) που έγινε για τα νέα δεδομένα είναι:
+- Συνολικά
+- Κατά ετός (2014-2015-2016)
+- Κατά τύπο (Δημόσια χρήση - Υδατοκαλλιέργειες)
+
+*Σχετική εικόνα για τον πρώτο διαχωρισμό (2.1)*
+
+<img src="https://imgur.com/Zg8ub8g.png"/>
+
+*Σχετική εικόνα για τον δεύτερο διαχωρισμό (2.2)*
+
+<img src="https://imgur.com/TLxpN5N.png"/>
+
+*Σχετική εικόνα για τον τρίτο διαχωρισμό (2.3)*
+
+3) Τέλος, το τελευταίο ζητούμενο που υλοποίησα ήταν αυτό με τα [credits](https://ioniodi.github.io/D3js-uk-political-donations/participants/), για το οποίο έπρεπε στον φάκελο [participants] (https://github.com/ioniodi/D3js-uk-political-donations/tree/master/participants) να γράψω τον κατάλληλο κώδικα στο [index](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) αρχειο, προκειμένου να εμφανίζονται τα στοιχεία μου (github username & picture) με κάποια κίνηση. Δεύσμευσα την περιοχη "position #001" και πραγματοποιήθηκαν οι κατάλληλες αλλαγές στον κώδικα ώστε να πραγματοποιηθεί το ζητούμενο.
+
+*Σχετική οθόνη για τα credit (3)*
+
+<img src="https://media.giphy.com/media/2dmXIquWqBPpEAwBF8/giphy.gif"/>
+
+
+## Η τελική αναφορά της εργασίας βρίσκεται [εδώ](https://p13chat.github.io/final) 
