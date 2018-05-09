@@ -5,7 +5,8 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-#### Εκτελέσιμο link :https://p15githubstudent.github.io/D3js-uk-political-donations/
+#### [Εκτελέσιμο link](https://p15githubstudent.github.io/D3js-uk-political-donations/ '[Εκτελέσιμο link')
+#### [Προφίλ στο github](https://p15githubstudent.github.io/D3js-uk-political-donations/ 'Προφίλ στο github')
 
 ## Παραδοτέο 1
 
