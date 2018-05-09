@@ -28,3 +28,6 @@
 * Αποστολή 5 φωτογραφιών διαθέσιμων δωρητών, a) The Harrodian School, b) Kerry London, c) CTF Partners, d) Allam Marine, e) Echo Reasearch
 
 ## Παραδοτέο 2: 
+
+* Link Παραδοτέου 2: https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo2
+* Eμφανιση και δυναμική επάκταση της σειράς των εικόνων με τους δωρητές πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού στο γράφημα.
