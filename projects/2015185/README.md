@@ -8,13 +8,16 @@
 
 #### Link προσωπικόυ αποθετήριου κώδικα: https://github.com/p15tsiv/D3js-uk-political-donations/
 #### Link εκτελέσιμου κώδικα: https://p15tsiv.github.io/D3js-uk-political-donations
+#### Αποθετήριο της Τελικής Αναφοράς μου: https://github.com/p15tsiv/FinalReportSW
+#### Link ιστοσελίδας της Τελικής Αναφοράς μου: https://p15tsiv.github.io/FinalReportSW/
+
 
 ## Σύνοψη:
 
 Κάνοντας fork τον κώδικα του αποθετηρίου ioniodi, https://ioniodi.github.io/D3js-uk-political-donations, στο προσωπικό μας αποθετήριο, πραγματοποιούμε αλλαγές χρησιμοποιώντας γνώσεις HTML, JavaScript και CSS, έτσι ώστε να προκύψουν οι αντίστοιχες αλλαγές στην σελίδα οπτικοποίησης δεδομένων.
 
 
-## Παραδοτέο 1: Αρχικό έργο και ενδιάμεση αναφορά προόδου - 14 Μαρτίου (25%)
+## Παραδοτέο 1:
 
 * Link Παραδοτέου 1: https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo1
 * Αντικατάσταση της κατάληξης full-viz.html από το URL https://github.com/p15tsiv/D3js-uk-political-donations/full-viz.html με το index.html, έτσι ώστε να εμφανίζεται το URL https://github.com/p15tsiv/D3js-uk-political-donations.
@@ -31,3 +34,10 @@
 
 * Link Παραδοτέου 2: https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo2
 * Eμφανιση και δυναμική επάκταση της σειράς των εικόνων με τους δωρητές πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού στο γράφημα.
+* Mετατρoπή του αρχείου index.html από το φάκελο participants στη δεσμευμένη μου θέση (Position #021), προσθέτοντας το username μου και το url για το avatar μου και, έπειτα, xρησιμοποιώντας τη ήδη υπάρχουσα βιβλιοθήκη και τον open source κώδικα για text animation που βρήκα.
+
+## Τελική Αναφορά:
+
+* Για την Τελική Αναφορά υπάρχει ξεχωριστό αποθετήριο σε μορφή github-pages: 
+#### Αποθετήριο της Τελικής Αναφοράς μου: https://github.com/p15tsiv/FinalReportSW
+#### Link ιστοσελίδας της Τελικής Αναφοράς μου: https://p15tsiv.github.io/FinalReportSW/
