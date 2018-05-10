@@ -10,7 +10,7 @@
 
 ## Παραδοτέο 1
 
-#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF1
+#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -36,16 +36,13 @@ Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/26476
 
 ![zooming](https://user-images.githubusercontent.com/22676085/36545107-d9c56b80-17f0-11e8-9ba8-e6b023ca151e.gif)
 
-* Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή.
-
-demo link: https://www.youtube.com/watch?v=Bh-taMEUhN8
+* Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή ακούγεται η ονομασία και το ποσό της δωρεάς του δωρητή, με τη χρήση της βιβλιοθήκης responsivevoice στη javscipt.
 
 * Νέο κουμπί για νέα ομαδοποίηση δεδομένων: Split by amount of donation.
 
 ![split-by-amount-of-donation](https://user-images.githubusercontent.com/22676085/36545828-7e91eed0-17f2-11e8-9ad4-85ce54efb298.png)
 
-## Παραδοτέο 2
-----
-
-## Τελική αναφορά
-----
+## Παραδοτέο 2 - Τελική αναφορά
+  Η αναφορά για το δεύτερο παραδοτέο βρίσκεται στο ακόλουθο σύνδεσμο μαζί με την τελική αναφορά
+  
+  Σύνδεσμος (Παραδοτέο 2 - Τελική αναφορά) : https://dimitristria.github.io/SW-Final-Report/

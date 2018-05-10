@@ -1,15 +1,17 @@
-
 ## Τριαντάφυλλος Μάντσιος
 
 ## Α.Μ.: Π2013079
 
 ## Εργασία: DATA VISUALIZATION - Οπτικοποίηση δεδομένων χορηγιών (UK)
 
+
 e-mail: p13mant@ionio.gr
 
 Link αποθετήριου κώδικα https://github.com/p13mant2/D3js-uk-political-donations
 
+
 ## ΖΗΤΟΥΜΕΝΑ ΠΡΩΤΟΥ ΠΑΡΑΔΟΤΕΟΥ:
+
 
 1.Ο σύνδεσμος της σελίδας με την εφαρμογή είναι ο παρακάτω https://p13mant2.github.io/D3js-uk-political-donations
 
@@ -41,3 +43,4 @@ Link αποθετήριου κώδικα https://github.com/p13mant2/D3js-uk-pol
 
 ## Τελική Αναφορά
 Link για την τελική αναφορά της εργασίας:https://github.com/p13mant2/FinalReportSW
+
