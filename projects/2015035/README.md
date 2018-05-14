@@ -41,3 +41,7 @@
 ![Αλλαγή Χρωμάτων](pics/Screenshot_1.png)
 ![Zoom on Hover - Split by UK acerage salary](pics/Screenshot_2.png)
 ![Google Search on Click](pics/Screenshot_3.png)
+
+
+## 2ο Παραδοτέο - ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+https://p15theo2.github.io/final-report-sw/
