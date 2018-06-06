@@ -7,7 +7,7 @@
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
 **Προσωπικό αποθετήριο: https://github.com/giorgostzaf/D3js-uk-political-donations**
-- **Link εκτελέσιμου:** https://giorgostzaf.github.io/D3js-uk-political-donations/
+**Link εκτελέσιμου:** https://giorgostzaf.github.io/D3js-uk-political-donations/
 
 
 ## Τελική Αναφορά
