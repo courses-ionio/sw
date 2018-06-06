@@ -67,8 +67,7 @@ Sourcetree. Μετά το fork του repo το έκανα clone μέσω ssh γ
 
 
 - Πρόσθεσα κατάλληλο κώδικα javascript για να εμφανίζεται πάνω δεξιά το ιστορικό και να ανανεώνεται κάθε φόρα που ο κέρσορας πηγαίνει πάνω άπο ένα object. 
-
--Εκανα pull request τις αλλαγες για τον φακελο /participants/index.html
+- Εκανα pull request τις αλλαγες για τον φακελο /participants/index.html
 
 ## Ενδεικτικές φωτογραφίες ##
 
