@@ -8,9 +8,27 @@
 
 **Προσωπικό αποθετήριο: https://github.com/giorgostzaf/D3js-uk-political-donations**
 - **Link εκτελέσιμου:** https://giorgostzaf.github.io/D3js-uk-political-donations/
+
+
+## Τελική Αναφορά
+
+**_Εισαγωγή_**
+
+
+
+Το τοπικό μου περιβάλλον εργασίας αποτελείτε απο το Atom και το
+Sourcetree. Μετά το fork του repo το έκανα clone μέσω ssh για να
+δουλέψω τοπικά. Η επεξεργασία του κώδικα γινόταν απο το Atom και η
+αλληλεπιδραση με το Git γινόταν μέσω του Sourcetree.Κάθε αλλαγή που
+απαιτούνταν γινόταν με feature branch και στη συνέχεια όταν η αλλαγή
+ολοκληρωνόταν γινόταν merge στο develop. Οταν ολοκληρώθηκαν όλες
+οι αλλαγές περάστηκαν απο το develop στο master.
+
+
+
 **_Παραδοτέο 1_**
 
-- **Link εκτελέσιμου:** https://giorgostzaf.github.io/D3js-uk-political-donations/
+
 - Αλλαξή του url απο full-viz.html
 - Αλλαγή χρώματος στις μπάλες με τα δεδομένα καθώς και στα
     αντίστοιχα 3 πεδία της ομαδοποίησης _Split by party_
