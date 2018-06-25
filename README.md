@@ -22,7 +22,7 @@
 * Ανάγνωση κώδικα, 
 * Πρακτικός προγραμματιστής, 
 * [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 59362198, κεφ.4 Εργαλεία και Τεχνικές
-* [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/]
+* [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
 * [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
 * [Software Design](http://www.alexandercowan.com/software-design-class/)
 * [Situated Software](http://www.shirky.com/writings/situated_software.html)
