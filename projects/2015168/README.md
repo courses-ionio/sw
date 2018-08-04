@@ -1,6 +1,6 @@
 # Data visualization
 
-## Κορίνα Αλβανού Π2015168
+## Αικατερίνη-Γεωργία Αλβάνου Π2015168
 
 * *Link στο αποθετήριο του μαθήματος:* https://github.com/korinaal/sw
 * *Link στο αποθετήριο της εφαρμογής:* https://github.com/korinaal/D3js-uk-political-donations
