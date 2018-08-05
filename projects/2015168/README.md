@@ -19,6 +19,18 @@
 
 ![img1](https://user-images.githubusercontent.com/22644422/43684080-26da5cf0-98a2-11e8-8484-5f21830194f6.png)
 
+* Προστέθηκε ήχος σε κάθε πάτημα επιλογής ομαδοποίησης. Αρχικά κατέβασα ένα [mp3 αρχείο](https://github.com/korinaal/D3js-uk-political-donations/blob/gh-pages/click.mp3) από την ιστοσελίδα: http://soundbible.com
+
+![im2](https://user-images.githubusercontent.com/22644422/43686172-282df904-98ca-11e8-8c85-be488f7de11d.png)
+
+και έγινε επεξεργασία του αρχείου με τη βοήθεια σχετικού [online εργαλείου](https://audiotrimmer.com/):
+
+![img3](https://user-images.githubusercontent.com/22644422/43686173-2d293cf2-98ca-11e8-9306-55c73f294f60.png)
+
+Στη συνέχεια ο ήχος ανέβηκε στο αποθετήριο και μέσα στον κώδικα του αρχείου html προστέθηκε javascript συνάρτηση που αναπαράγει τον ήχο κατά το πάτημα των κουμπιών.
+
+
+
 
  Ο κώδικας σε όλα τα αρχεία είναι κατάλληλα σχολιασμένος στα σημεία όπου πραγματοποιήθηκαν οι αλλαγές.
 
