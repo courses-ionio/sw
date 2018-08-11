@@ -30,6 +30,6 @@
 
 **Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 
-**Βαθμολογία:** 60% [project](https://github.com/courses-ionio/projects/), 40% Τελική εξέταση με κλειστά βιβλία
+**Βαθμολογία:** 50% [project](https://courses-ionio.github.io/projects/), 30% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
