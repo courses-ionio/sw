@@ -3,7 +3,9 @@
 ## Τίτλος Εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK)
 **Όνομα: Αλέξανδρος Βόβολης**  
 **ΑΜ: Π2014008**  
+**Εξάμηνο φοίτησης: ΣΤ**
 **email: p14vovo@ionio.gr**  
+**Github username: alexvov13**
 
 **Link προσωπικόυ αποθετήριου κώδικα: https://github.com/alexvov13/D3js-uk-political-donations**
 
