@@ -66,10 +66,30 @@ var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
     ```
 * Στην συνέχεια για να να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή πρόσθεσα στο αρχείο chart.js μέσα στην συνάρτηση start() τον κώδικα:
 ```
- .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
+ .on("click", function(d)
+ { window.open("http://www.google.com/search?q=" + d.donor);});	
 ```
-* Για να λειτουργεί το ποντίκι και σαν μεγενθυτικός φακός χρησιμοποίησα ένα κομμάτι κώδικα το οποίο βρίσκεται στο index.html του αποθετηρίου μου και πρόσθεσα το class=zoom μπροστά απο κάθε κείμενο.
+* Για να λειτουργεί το ποντίκι και σαν μεγενθυτικός φακός χρησιμοποίησα το παρακάτω κομμάτι κώδικα το οποίο βρίσκεται στο index.html του αποθετηρίου μου και πρόσθεσα το class=zoom μπροστά απο κάθε κείμενο.
+```
+.zoom {
+    
+    transition: transform .2s;    
+}
+.zoom:hover {
+    transform: scale(1.5);
+}
+```
+π.χ.
 
+```
+<header role="banner" id="title">
+       <h1 class=zoom>Who's funding the big three?</h1>
+    </header>
+```
+Στιγμιότυπο:
+![picture](photo3.png)
+
+    
 
 
 
