@@ -62,3 +62,6 @@ stomp.wav. Οταν ο Mario πεθαίνει ακούγετε το death.mp3 (�
 
 Εικόνα του παιχνιδιού
 ![](game.png)
+
+Συνολική άποψη της πίστας απο το tiled
+![](mariotiled.png)
