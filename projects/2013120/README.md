@@ -41,4 +41,8 @@ var button_sound = new Audio("Sound.mp3");
 ![ScreenShot](two.jpg)
 
 
+![ScreenShot](three.jpg)
+
+
+![ScreenShot](one.jpg)
 
