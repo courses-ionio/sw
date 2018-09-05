@@ -20,7 +20,12 @@
 
 * Για να αλλάξει το url της  μετονόμασα το αρχείο full_viz.html σε index.html ώστε να μη χρειάζεται να καταλήγει σε "full-viz.html"
 
-* Στην συνέχεια για να αλλάξω το χρώμα στις μπάλες τροποποίησα στο chart.js την συγκεκριμένη γραμμή: var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
+* Στην συνέχεια για να αλλάξω το χρώμα στις μπάλες τροποποίησα στο chart.js την συγκεκριμένη γραμμή: 
+
+```
+var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
+```
+Στιγμηότυπο:
 
 * Για να ακούγεται ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ανέβασα ένα αρχείο .wav στο προσωπικό μου αποθετήριο και χρησιμοποίησα την συνάρτηση playSound:audio id="sound" src="Button.wav"></audio><a onclick = "playSound();"></a><script>function playSound() {var sound = document.getElementById("sound");sound.play();}</script>
     
