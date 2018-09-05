@@ -29,11 +29,15 @@ var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
 ![picture](photo1.png)
 
 
-* Για να ακούγεται ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ανέβασα ένα αρχείο .wav στο προσωπικό μου αποθετήριο και χρησιμοποίησα την συνάρτηση playSound:audio id="sound" src="Button.wav"></audio><a onclick = "playSound();"></a><script>function playSound() {var sound = document.getElementById("sound");sound.play();}</script>
-    
-    Και πρόσθεσα: onclick = "playSound()" πριν το τίτλο των κουμπιών
+* Για να ακούγεται ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ανέβασα ένα αρχείο .wav στο προσωπικό μου αποθετήριο και χρησιμοποίησα την συνάρτηση playSound:
+```
+audio id="sound" src="Button.wav"></audio><a onclick = "playSound();"></a><script>function playSound() {var sound =             document.getElementById("sound");sound.play();}</script>
+ ``` 
+Και πρόσθεσα: 
+    ```
+    onclick = "playSound()" πριν το τίτλο των κουμπιών
     π.χ. onclick = "playSound()">All money</a></li>
-
+    ````
 * Στην συνέχεια για να να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή πρόσθεσα στο αρχείο chart.js μέσα στην συνάρτηση start() το:
  .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
 
