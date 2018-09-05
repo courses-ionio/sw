@@ -35,5 +35,10 @@ var button_sound = new Audio("Sound.mp3");
 •	Τέλος προστέθηκε ακόμα μια επιλογή ομαδοποίησης των δεδομένων (Split by amount of donation) με τις κατάλληλες αλλαγές στα index.html, chart.js και style.css.
 
 
+Στιγμιότυπα:
+
+
+![ScreenShot](Screenshouuut 2018-09-05 02.14.14.png)
+
 
 
