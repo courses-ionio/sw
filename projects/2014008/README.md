@@ -25,7 +25,7 @@
 ```
 var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
 ```
-Στιγμιότυπο:
+## Στιγμιότυπο:
 ![picture](photo1.png)
 
 Επιπλέον για την αλλαγή των χρωμάτων στα αντίστοιχα 3 πεδία της ομαδοποίησης split by party αρκεί να αλλάξουμε στο style.css το παρακάτω κώδικα:
@@ -43,7 +43,7 @@ var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
     top: 550px;
 }
 ```
-Στιγμιότυπο: 
+## Στιγμιότυπο: 
 ![picture](photo2.png)
 
 * Για να ακούγεται ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ανέβασα ένα αρχείο .wav στο προσωπικό μου αποθετήριο και χρησιμοποίησα την συνάρτηση playSound:
@@ -85,18 +85,30 @@ var fill = d3.scale.ordinal().range(["#ff9000", "#00fff6", "#7b00ff"]);
 <h2 class=zoom>Political donations and funding accepted by the Conservatives, Labour and Liberal Democrats between the 2010 general election and August 2013, when this data was collected.</h2>
 
 ```
-Στιγμιότυπο:
+## Στιγμιότυπο:
 ![picture](photo3.png)
+
+Με την χρήση της συνάρτησης
+```
+responsiveVoice.speak(donor + " " + amount + "£","UK English Male",{volume: 1});
+```
+κάθε φορά που ο κέρσορας περνάει πάνω από μία μπάλα ακούγεται το ονομα του δωρητη καθώς και το ποσό που δώρησε.
+
+* Όσον αφορά την δική μου ομαδοποίηση δημιούργησα μόνο την κατηγορία και δεν κατάφερα να την αναπτύξω.
+
 
     
 
 
 
 ## Ζητούμενα στα οποία απαιτούνται αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα
-* Δημιούργησα ένα αρχείο .csv στον φάκελο participants του αποθετηρίου του κώδικα με τα στοιχεία μου και τίτλο τον Α.Μ. μου. 
+* Δημιούργησα ένα αρχείο 2014008.csv στον φάκελο participants του αποθετηρίου του κώδικα με τα στοιχεία μου και τίτλο τον Α.Μ. μου. 
 
-* Στον φάκελο photos αποθετηρίου, πρόσθεσα 5 εικόνες δωρητών με τα ζητούμενα χαρακτηριστικά αφού πρώτα τους επέλεξα έτσι να μην τους έχει και κάποιος άλλος.
+* Στον φάκελο photos αποθετηρίου, πρόσθεσα 5 εικόνες δωρητών με τα ζητούμενα χαρακτηριστικά(42x42px, format .ico) αφού πρώτα τους δέσμευσα στο issue του παραδοτέου 1 όπως ζητήθηκε.
 
-## Στιγμιότυπα:
- ![picture](Untitled.jpg)
- ![picture](Untitleds.jpg)
+Carrousel Capital 
+Edward Eisler 
+Huawei Technologies Co 
+Independent News and Media
+Tele City Group 
+
