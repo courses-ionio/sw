@@ -107,8 +107,13 @@ responsiveVoice.speak(donor + " " + amount + "£","UK English Male",{volume: 1})
 * Στον φάκελο photos αποθετηρίου, πρόσθεσα 5 εικόνες δωρητών με τα ζητούμενα χαρακτηριστικά(42x42px, format .ico) αφού πρώτα τους δέσμευσα στο issue του παραδοτέου 1 όπως ζητήθηκε.
 
 Carrousel Capital 
+
 Edward Eisler 
+
 Huawei Technologies Co 
+
 Independent News and Media
+
 Tele City Group 
+
 
