@@ -38,7 +38,7 @@ var button_sound = new Audio("Sound.mp3");
 Στιγμιότυπα:
 
 
-![ScreenShot](Screenshouuut 2018-09-05 02.14.14.png)
+![ScreenShot](two.jpg)
 
 
 
