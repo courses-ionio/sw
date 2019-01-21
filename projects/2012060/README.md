@@ -24,7 +24,7 @@ Link εκτελέσιμου κώδικα: https://mskafi28.github.io/D3js-uk-pol
 
 3) Έγινε αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα σε όλα τα πεδία ομαδοποίησης, με αλλαγή του color scale στο αρχείο chart.js. Επιπλέον, στην κατηγορία Split by party άλλαξα τα χρώματα στα πεδία Conservative Party, Labour Party και Liberal Democrats μέσα από το αρχείο style.css.
 
-![ScreenShot](1.jpg)
+![ScreenShot](1.JPG)
 
 ![ScreenShot](2.jpg)
 
