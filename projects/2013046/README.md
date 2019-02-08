@@ -1,2 +1,0 @@
-Κωνσταντίνος Καρβούνης
-DATA VISUALIZATION
