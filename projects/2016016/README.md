@@ -8,5 +8,5 @@
 #### Α Μέρος :
 * Επιλογή θέματος jekyll 
 * Συμπλήρωση στοιχείων βιογραφικού. 
-##### [Link βιογραφικού](https://lefterisikaria.github.io/resume-cv/)
-##### [Link αποθετηρίου](https://github.com/LefterisIkaria/resume-cv)
+##### [βιογραφικό](https://lefterisikaria.github.io/resume-cv/)
+##### [αποθετήριο](https://github.com/LefterisIkaria/resume-cv)
