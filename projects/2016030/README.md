@@ -15,10 +15,8 @@
 
 Αρχικό,
 <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/initial.png" width="300"/>
-
 Τελικό,
 <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/final.png" width="300"/> 
-
 το footer,
 <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/footer.png" width="300"/>
 
