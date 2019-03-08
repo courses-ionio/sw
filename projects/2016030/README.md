@@ -1,13 +1,11 @@
 # ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
-# Καθηγτής : ΧΩΡΙΑΝΟΠΟΥΛΟΣ
-
 ## ΕΡΓΑΣΙΑ : BONUS
 
-## ΦΟΙΤΗΤΡΙΑ : ΠΑΠΑΠΟΣΤΟΛΟΥ ΜΥΡΤΩ
-## Α.Μ. : Π2016030
+### Καθηγητής : ΧΩΡΙΑΝΟΠΟΥΛΟΣ
+### ΦΟΙΤΗΤΡΙΑ : ΠΑΠΑΠΟΣΤΟΛΟΥ ΜΥΡΤΩ
+### Α.Μ. : Π2016030
 
 ### Α ΠΑΡΑΔΟΤΕΟ 
-
 Σε αυτό το μπόνους ζητήται να η δημιουργία ιστοσελίδας του προσωπικού βιογραφικού 
 των φοιτητών με την χρήση αρχείου δεδομένων μορφής YAML. 
 Αρχικά, έγινε fork του πρώτου παραδείγματος από τον χρήστη "sharu725" και η ονομασία του αποθετηρίου είναι "online-cv".
@@ -15,8 +13,14 @@
 Το χρώμα το έβαλα να είναι berry, την στήλη με την φωτογραφία και τα στοιχεία επικοινωνίας την τοποθέτησα αριστερά,
 τις υπόλοιπες πληροφορίες της έβαλα να εμφανίζονται στο κέντρο της σελίδας, πρόσθεσα σκιά και τέλος άλλαξα το footer. 
 
-Αρχικό, <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/initial.png" width="300"/>
-Τελικό, <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/final.png" width="300"/> | <img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/footer.png" width="300"/>
+Αρχικό,
+<img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/initial.png" width="300"/>
+
+Τελικό,
+<img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/final.png" width="300"/> 
+
+το footer,
+<img src="https://github.com/MyrtoP/online-cv/blob/master/assets/images/footer.png" width="300"/>
 
 
 
