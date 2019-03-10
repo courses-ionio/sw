@@ -14,7 +14,7 @@ link : https://johnmous1.github.io/online-cv/
 Έγινε αφαίρεση τού about.html μέσω του sidebar.html και προστέθηκε καινούργιο εικονίδιο στο head.html καθως και αλλαγές στο footer.
 
 
-<img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/old.png" width="300"/> 
+<img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/old.png"> 
                             ||
                             \/
 <img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/new.png" width="300"/> 
