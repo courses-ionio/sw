@@ -19,6 +19,5 @@ link : https://johnmous1.github.io/online-cv/
 <img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/new.png" width="300"/> 
 
 <img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/oldhead.png" width="300"/> 
-                            ||
-                            \/
+                          
 <img src="https://github.com/johnmous1/online-cv/tree/master/assets/images/myhead.png" width="300"/> 
