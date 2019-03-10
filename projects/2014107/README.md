@@ -6,4 +6,5 @@
 
 **Α.Μ. : Π2014107**
 
-link : https://aMimikyu.github.io/online-cv/ 
+Βιογραφικό : https://aMimikyu.github.io/online-cv/ 
+Αποθετήριο : https://github.com/aMimikyu/online-cv
