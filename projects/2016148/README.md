@@ -8,7 +8,9 @@ My resume: https://lazlo54.github.io/online-cv/
 
 My github: https://github.com/lazlo54
 
-repository: https://github.com/lazlo54/sw
+SW repository: https://github.com/lazlo54/sw
+
+online-cv repository: https://github.com/lazlo54/online-cv
 
 1ο Παραδοτέο
 
