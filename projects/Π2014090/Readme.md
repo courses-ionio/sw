@@ -6,7 +6,7 @@
 Εργασία Μπόνους 
 Α παραδοτέο
 
-Link για το αποθετηριο μου :  https://github.com/PatrykWajs/my-resume
+Link για το αποθετηριο μου :  https://github.com/PatrykWajs/patrykwajs.github.io
 
 
 
