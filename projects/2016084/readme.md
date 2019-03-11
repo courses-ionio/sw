@@ -1,2 +1,2 @@
-[x]Repository: https://github.com/Chrisovalantis/online-cv
-[x]resume-cv: https://chrisovalantis.github.io/online-cv/
+Repository: https://github.com/Chrisovalantis/online-cv  
+resume-cv: https://chrisovalantis.github.io/online-cv/
