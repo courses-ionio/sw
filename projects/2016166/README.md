@@ -1,4 +1,4 @@
-Αποθετήριο: https://github.com/dimitrisg9/resume-cv
+Αποθετήριο: https://github.com/dimitrisg9/resume-cv <br>
 Βιογραφικό/CV: https://dimitrisg9.github.io/resume-cv/
 
 ### 1ο Παραδοτέο
