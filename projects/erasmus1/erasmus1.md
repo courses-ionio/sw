@@ -5,4 +5,4 @@
   <p>Erasmus Studend</p>
 </b>
 
-<p><b>Link</b> -> <a href="https://github.com/Sdacm?tab=repositories">Repository</a></p>
+<p><b>Repository</b> -> <a href="https://github.com/Sdacm?tab=repositories">Link</a></p>
