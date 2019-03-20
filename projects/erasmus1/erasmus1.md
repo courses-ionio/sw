@@ -8,6 +8,7 @@
 <p><b>Repository -></b><a href="https://github.com/Sdacm?tab=repositories">Link</a></p>
 <p><b>Game -></b><a href="https://sdacm.github.io/Shooter/">Link</a></p>
 
+<h3>Tasks:</h3>
 - [X] Initial settings (όπως περιγράφονται στο README.md του repository)
 - [X] Link του παιχνιδιού στην αναφορά
 - [ ] Πρόσθεσε ήχους (shooting, explosions, κτλ.) και μουσική.
