@@ -8,7 +8,7 @@
 <p><b>Repository</b> -> <a href="https://github.com/tiagojlf">Link</a></p>
 <p><b>Game</b> -> <a href="https://tiagojlf.github.io/Shooter/">Link</a></p>
 
-<h3>Tasks:</h3>
+<h3> Tasks: </h3>
 <p>
 - [X] Initial settings (όπως περιγράφονται στο README.md του repository)
 - [X] Link του παιχνιδιού στην αναφορά
