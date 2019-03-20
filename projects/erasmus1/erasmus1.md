@@ -2,7 +2,7 @@
 
 <b>
   <p>Salvador Meira</p>
-  <p>Erasmus Studend</p>
+  <p>Erasmus Student</p>
 </b>
 
 <p><b>Repository -></b><a href="https://github.com/Sdacm?tab=repositories">Link</a></p>
