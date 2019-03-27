@@ -13,18 +13,18 @@
 ### Σύνοψη Εργασίας
 &nbsp;&nbsp;&nbsp;&nbsp;Σκοπός της εργασίας αυτής ήταν να προσθέσουμε συγκεκριμένη λειτουργικότητα στην ιστοσελίδα του τμήματος, ακολουθώντας το αρχικό road-map. 
 
-#### Εισαγωγή
+### Εισαγωγή
 
 ## Παραδοτέα
 ### Παραδοτέο 1ο
-## Εύκολα
+#### Εύκολα
 - [ ] Προσθήκη χάρτη και σύνδεση με την εφαρμογή πλοήγησης στο κινητό του χρήστη
 - [ ] Δοκιμή-Αξιολόγηση: https://github.com/juusaw/amp-jekyll [AMP+minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/issues/584)
 - [x] Δοκιμή-Αξιολόγηση: https://github.com/lavas-project/jekyll-pwa
 - [ ] Metadata provided for Add to Home screen (Web App Manifest)
 - [ ] Site appropriately informs the user when they're offline (Network Information API)
 
-## Δύσκολα
+#### Δύσκολα
 - [ ] Ενημέρωση προδιαγραφών ανάλογα με την έκβαση των αρχικών δοκιμών με έτοιμα συστήματα?
 - [x] All (or some? which ones?) app URLs load while offline (Service Worker)
 - [x] Site uses cache-first networking (Service Worker)
@@ -32,10 +32,14 @@
 - [ ] CI for non-white-listed plug-ins  
 
 ### Παραδοτέο 2ο
-## Μέθοδος Ανάπτυξης 
-## Στιγμιότυπα οθόνης για την εφαρμογή 
+#### todo
 
+## Μέθοδος Ανάπτυξης 
+### todo
+## Στιγμιότυπα οθόνης για την εφαρμογή
+### todo
 ## Συμπεράσματα  
+### todo
 
 ## Σελίδα Τελικής Αναφοράς  
-### https://geocfu.github.io/mm-report/
+### todo
