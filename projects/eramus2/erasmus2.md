@@ -3,6 +3,7 @@
 <b>
   <p>Tiago Ferreira</p>
   <p>Erasmus Student</p>
+  <p>Shooter Game</p>
 </b>
 
 <p><b>Repository</b> -> <a href="https://github.com/tiagojlf">Link</a></p>
