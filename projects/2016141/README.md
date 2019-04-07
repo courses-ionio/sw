@@ -26,5 +26,5 @@ Repository : https://github.com/dhmhtrhsd/resume-cv
 
 
 
-Το pdf βρίσκεται: https://github.com/dhmhtrhsd/resume-cv/blob/master/pdf/cv.pdf
+Το pdf βρίσκεται: https://github.com/dhmhtrhsd/resume-cv/blob/master/pdf
 
