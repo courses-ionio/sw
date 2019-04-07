@@ -18,4 +18,4 @@
 * Μέσο της γραμμής εντολών και με την χρήση των εργαλείων [Pandoc](https://pandoc.org/) και [LaTeX](https://www.latex-project.org/), μέσα από το ίδιο αρχείο που χρησιμοποιείται για την δομή και τα δεδομένα της σελίδας (\_config.yml) παίρνει τα δεδομένα και το "resume.pdf" έτσι ώστε να υπάρχει ένα μοναδικό workflow και για τα δύο.
 * Με την χρήση του [Travis-CI](https://travis-ci.com/) δημιουργείται το pdf του βιογραφικού στο αποθετήριο και ελέγχονται οι αλλαγές. Κάθε φορά που θα γίνονται αλλαγές πλέον στο αρχείο των δεδομένων μέσω του travis θα αλλάζει αυτόματα και το "resume.pdf".
 
-! [travis_run](https://github.com/csakou/dw)
+! [travis_run](https://github.com/csakou/sw/blob/P2016089/projects/2016089/bonus.gif)
