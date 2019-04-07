@@ -3,6 +3,7 @@
 ### Α.Μ.: Π2016156
 
 # BONUS CV
+# Τελική αναφορά
 
 Link: https://kwnstant1na.github.io/online-cv/
 Repository: Repository: https://github.com/Kwnstant1na/online-cv
@@ -13,3 +14,8 @@ Repository: Repository: https://github.com/Kwnstant1na/online-cv
 η οποία βρίσκεται στον φάκελο assets. Επίσης, πρόσθεσα στο αρχείο contact.html το κουμπί για το instagram και άλλαξα το χρώμα σε green.
 Τέλος, πρόσθεσα ένα navigation bar για να φαίνεται πιο ωραία η ιστοσελίδα για τον χρήστη. Για τη μπάρα δημιούργησα ένα αρχείο html και 
 το πρόσθεσα στο φάκελο css. 
+
+## Παραδοτέο Β
+Για το 2ο παραδοτέο της εργασίας δημιουργήθηκε το pdf με τη βοήθεια του pandoc, latex και τη δημιουργία ενός template.tex αρχείου.
+Το αρχείο τρέχει τοπικά στον υπολογιστή με την ενολή pandoc data.yml -o cv.pdf --template=template.tex --pdf-engine=xelatex στο τερματικό.
+Με αυτόν τον τρόπο δημιουργείται το cv.pdf. 
