@@ -22,9 +22,23 @@
 - [Αποθετήριο του κώδικα](https://github.com/ThomasVasileiadis/study-guide)
 
 
-Δημιουργήθηκαν [8 αρχεία](https://github.com/ThomasVasileiadis/study-guide/tree/master/undergraduate-studies1718) που τακτοποιούν τα 8 εξάμηνα με τα μαθήματα που περιέχονται σε αυτά και τις πληροφορίες αυτών (ECTS για κάθε μάθημα, Ώρες, Εργαστήρια-Φροντιστήρια, Κατευθύνσεις), καθώς επίσης δημιούργησα πινακάκια για στοίχιση των δεδομένων για εύκολη ανάγνωση. Τα δεδομένα από τα αρχεία πάρθηκαν, όπως αναφέρθηκε στην εκφώνηση, από την [τρέχουσα έκδοση οδηγού σπουδών](https://github.com/ioniodi/study-guide/blob/master/legacy/odt1718/SG1718.md), και πριν αυτό, έγινε έλεγχος για να μην επιλεχθούν τα ίδια αρχεία με αυτά που έχουν ήδη επιλεχτεί σε [ανοιχτά](https://github.com/ioniodi/study-guide/pulls) και [κλειστά](https://github.com/ioniodi/study-guide/pulls?q=is%3Apr+is%3Aclosed) αιτήματα.
+Αρχικό έργο και ενδιάμεση αναφορά προόδου (40%) - 24 Μαρτίου
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Αρχικά, δημιουργήθηκαν [8 αρχεία](https://github.com/ThomasVasileiadis/study-guide/tree/master/undergraduate-studies1718) στα οποία τακτοποιούνται τα 8 εξάμηνα με τα μαθήματα που περιέχονται σε αυτά και τις πληροφορίες αυτών (ECTS για κάθε μάθημα, Ώρες, Εργαστήρια-Φροντιστήρια, Κατευθύνσεις), καθώς επίσης δημιουργήθηκαν πινακάκια για στοίχιση των δεδομένων για εύκολη ανάγνωση. Τα δεδομένα από τα αρχεία πάρθηκαν, όπως αναφέρθηκε στην εκφώνηση, από την [τρέχουσα έκδοση οδηγού σπουδών](https://github.com/ioniodi/study-guide/blob/master/legacy/odt1718/SG1718.md), και πριν αυτό, έγινε έλεγχος για να μην επιλεχθούν τα ίδια αρχεία με αυτά που έχουν ήδη επιλεχτεί σε [ανοιχτά](https://github.com/ioniodi/study-guide/pulls) και [κλειστά](https://github.com/ioniodi/study-guide/pulls?q=is%3Apr+is%3Aclosed) αιτήματα.
 
 Στην συνέχεια, έγινε τροποποίηση στο αρχείο [style.css](https://github.com/ThomasVasileiadis/study-guide/blob/master/legacy/odt1718/style.css) και άλλαξα χρώματα στο background, στα headers και στα γράμματα της σελίδας.
 
 Ακόμη, για τη σελίδα χωρίς εικόνες, τακτοποίησα και διόρθωσα όλη τη σελίδα και την ανέβασα στο [forked-repository](https://github.com/ThomasVasileiadis/study-guide/tree/master/legacy/odt1718) με όνομα [html2markdown.md](https://github.com/ThomasVasileiadis/study-guide/blob/master/legacy/odt1718/html2markdown.md) (δημιούργησα το html αρχείο, το επεξεργάστηκα και μετά το μετέτρεψα σε markdown μέσω του pandoc).
 
+Συνεχίζοντας, εφαρμόστηκε continuous intergration στο project με την χρήση του [Travis-CI](https://travis-ci.org). Για αυτό το λόγο δημιουργήθηκε ένα αρχείο [.travis.yml](https://github.com/ThomasVasileiadis/study-guide/blob/develop/Screenshot_1.png) το οποίο περιέχει όλα τα configurations και όλες τις εντολές που χρειάζεται να τρέξει το Travis για να παράγει το .html αρχείο και έπειτα από το .html να παράγει το .pdf αρχείο το οποίο περιέχει την σελίδα της σχολής.
+
+Το .travis.yml αρχείο φαίνεται παρακάτω:
+
+![configuration file](https://github.com/ThomasVasileiadis/study-guide/blob/develop/Screenshot_1.png)
+
+Με αυτό τον τρόπο, κάθε φορά που γίνεται μια αλλαγή στο project, το Travis-CI θα αναγνωρίσει την αλλαγή και θα ξανακάνει build, και έτσι όλη η προαναφερθείσα διαδικασία θα πραγματοποιείται αυτόματα.
+
+Τελικό έργο και τελική αναφορά (40%) - 12 Μαϊου
+----------------------------------------------------------------------------------------------------------------------------------------
