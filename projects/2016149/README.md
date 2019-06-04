@@ -6,6 +6,8 @@
 *  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://geocfu.github.io/site-gr)
 *  Αποθετήριο κώδικα Μπόνους Εργασίας: [Link αποθετηρίου του κώδικα της σελίδας βιογραφικού](https://github.com/geocfu/cv)
 *  Link για το εκτελέσιμο μπόνους: [Link Bonus Σελίδας Βιογραφικού](https://geocfu.github.io/cv)  
+
+
 ## Επιλογή Εργασίας Bonus
 ### Δημιουργία βιογραφικού με το σύστημα Github Pages  
 
@@ -83,4 +85,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Τέλος, μπορώ να δηλώσω με σιγουριά ότι η συγκεκριμένη εργασία μου έμαθε πως να χρησιμοποιώ το περιβάλλον github pages προκειμένου να παράγω μια ιστοσελίδα και πώς να χρησιμοποιώ ενα gem plugin για να προσθέσω επιπλέον λειτουργικότητα σε αυτήν. 
 
 ## Σελίδα Τελικής Αναφοράς  
-### [https://georgemantellos.xyz/sw-report/](https://georgemantellos.xyz/sw-report/)
+### [https://geocfu.github.io/sw-report/](https://geocfu.github.io/sw-report/)
