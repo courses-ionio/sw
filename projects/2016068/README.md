@@ -7,6 +7,6 @@
 *  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://ioniodi.github.io/site-gr)
 
 
-* Σύνοψη εργασίας  
+ Σύνοψη εργασίας  
 * Σκοπός της εργασίας ήταν να προστεθούν οι ανακοινώσεις που εμφανίζονται στη σελίδα του τμήματος, από το 2017 και μετά. 
 * https://raw.githubusercontent.com/jlavdos/sw/2016068/projects/2016068/Screenshot_2019-06-05%20%CE%91%CE%BD%CE%B1%CE%BA%CE%BF%CE%B9%CE%BD%CF%8E%CF%83%CE%B5%CE%B9%CF%82.png
