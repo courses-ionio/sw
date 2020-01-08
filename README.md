@@ -14,7 +14,11 @@
 
 **Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη λογισμικού. Η θεωρία και το project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, ο κινητός υπολογισμός, οι ψηφιακές (εκπαιδευτικές, πολιτισμικές) συλλογές και οι ψυχαγωγικές εφαρμογές.
 
-**Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
+**Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
+
+**Βαθμολογία:** 40% Τελική εξέταση* 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md) + 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey) ή 40% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md)
+
+*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
 **Συντονιστής συστημάτων τηλε-εκπαίδευσης:** [Διογένης Αλεξανδράκης](https://github.com/diogenisAl)
 
@@ -27,9 +31,7 @@
 * [Software Design](http://www.alexandercowan.com/software-design-class/)
 * [Situated Software](http://www.shirky.com/writings/situated_software.html)
 
-
 **Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 
-**Βαθμολογία:** [project](https://courses-ionio.github.io/projects/), Τελική εξέταση
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
