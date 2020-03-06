@@ -14,7 +14,7 @@
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
-##### 
+##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
 
 
 
