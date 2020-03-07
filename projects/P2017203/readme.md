@@ -15,6 +15,9 @@
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
 ##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
+##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 10,100,1000,10000,100000 αντίστοιχα.
+###### python rand.py 10 && python rand.py 100 && python rand.py 1000 && python rand.py 10000 && python rand.py 100000
+##### ε) Δημιουργία python script το οποίο θα διαβάζει ένα txt αρχείο με τυχαίους αριθμούς, και θα κάνει ταξινόμηση 
 
 
 
