@@ -81,6 +81,7 @@
 ##### Επίσης, μπορούμε να βλέπουμε σε αληθινό χρόνο το χρόνο που απαιτεί το κάθε functions του python script μου.
 ###### py-spy top -- python bubblesort.py 10000
 ##### Τέλος, μπορούμε να δούμε το τρέχον call stack για το κάθε python thread μας.
+###### py-spy dump --pid PID
 #
 #### 3ος Τρόπος: Χρήση του λογισμικού bench
 ##### α) Install bench
