@@ -14,9 +14,9 @@
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
-##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
-##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 10,100,1000,10000,100000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
-###### python rand.py 10 && python rand.py 100 && python rand.py 1000 && python rand.py 10000 && python rand.py 100000
+##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται με παράμετρο κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
+##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 100 και 10000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
+###### python rand.py 100 && python rand.py 10000
 ##### ε) Δημιουργία 3 python scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
 ##### στ) Εγκατάσταση asciinema, και δημιουργία λογαριασμού σε αυτό.
 ###### sudo apt-get install asciinema
@@ -27,15 +27,36 @@
 ###### source .bashrc //execute this command so as to reload new .bashrc
 #
 ##### Εκτέλεση Άσκησης
-##### α) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών 
-###### hyperfine 'python heapsort.py 1000'
-##### β) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών, αφού προηγουμένως κάνουμε warmup, ώστε τα δεδομένα να είναι φορτωμένα στην cashe memory πριν ξεκινήσει το test, και έτσι να μην επιρρεαστεί το αποτέλεσμα απο την ταχύτητα I/O του μέσου ανάγνωσης.
-###### hyperfine --warmup 3 'python heapsort.py 1000'
-##### γ) Εκτέλεση του benchmark με αρχείο 1000 αριθμών, 3 φορές, μία για κάθε αλγόριθμο, ώστε να συγκρίνουμε την απόδοση των 3 διαφορετικών αλγορίθμων. Θα κάνουμε και εδώ χρήση του warmup.
-###### hyperfine --warmup 3 'python heapsort.py 1000' 'python mergesort.py 1000' 'python bubblesort.py 1000'
-##### δ) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών, αφού προηγουμένως κάνουμε prepare, ώστε να καθαρίσουμε την  cashe memory πριν ξεκινήσει το test, και έτσι τα αποτελέσματα του test να συμπεριλαμβάνουν και την ταχύτητα I/O του μέσου ανάγνωσης.
-###### 
-
+##### α) Εκτέλεση του benchmark με 1 εντολή, αρχείο 100 αριθμών. 
+###### hyperfine 'python heapsort.py 100'
+##### β) Εκτέλεση του benchmark με 1 εντολή, αρχείο 100 αριθμών, αφού προηγουμένως κάνουμε warmup, ώστε τα δεδομένα να είναι φορτωμένα στην cashe memory πριν ξεκινήσει το test, και έτσι να μην επιρρεαστεί το αποτέλεσμα απο την ταχύτητα I/O του μέσου ανάγνωσης.
+###### hyperfine --warmup 3 'python heapsort.py 100'
+##### γ) Η προκαθορισμένη ρύθμιση του Hyperfine είναι να εκτελέσει την κάθε εντολή τουλάχιστον 10 φορές. Αν επιθυμούμε να το αλλάξουμε αυτό, πχ να έχουμε το αποτέλεσμα τουλάχιστον 8 εκτελέσεων αντί για 10, η εντολή που θα εκτελέσουμε είναι:
+###### hyperfine -m 8 'python heapsort.py 100'
+##### δ) Αντίστοιχα, για να εκτελεστεί η εντολή ακριβώς τις φορές που επιθυμούμε, η παράμετρος είναι "-r", και για να εκτελέστεί η εντολή το πολύ έναν αριθμό, η παράμετρος είναι "-R".
+###### hyperfine -r 8 'python heapsort.py 100'
+###### hyperfine -M 8 'python heapsort.py 100'
+##### ε) Μπορούμε να κάνουμε export σε αρχείο τα αποτελέσματα, με την παράμετρο "--export-markdown FILENAME". Το αρχείο μπορούμε να το ανοίξουμε με έναν editor, πχ "more".
+###### hyperfine --export-markdown export_file 'python heapsort.py 100'
+###### more export_file
+##### στ) Το export απο το βήμα 'ε' μπορεί να γίνει και σε .csv μορφή με την παράμετρο "--export-csv FILENAME". To αρχείο μπορούμε να το διαβάσουμε με την εντολή "column -s, -t < export_file_csv | less -#2 -N -S".
+###### hyperfine --export-csv export_file_csv 'python heapsort.py 100'
+###### column -s, -t < export_file_csv | less -#2 -N -S
+##### ζ) Επίσης μπορεί να γίνει export σε αρχείο .json. To άνοιγμα του .json αρχείου μπορεί να γίνει με χρήση του προγράμματος "jq" για καλύτερη ανάγνωση.
+###### hyperfine --export-json export_file_json 'python heapsort.py 100'
+###### cat export_file_json | jq '.' | less
+##### η) Τυχόν μηνύματα σφάλματος, μπορούν να μην εκτυπωθούν με την παράμετρο "-i".
+###### hyperfine -i 'python heapsort.py 100'
+##### θ) Εκτέλεση του benchmark με αρχείο 100 αριθμών, 3 φορές, μία για κάθε αλγόριθμο, ώστε να συγκρίνουμε την απόδοση των 3 διαφορετικών αλγορίθμων. Θα κάνουμε και εδώ χρήση του warmup.
+###### hyperfine --warmup 3 'python heapsort.py 100' 'python mergesort.py 100' 'python bubblesort.py 100'
+##### ι) Εκτελούμε ξανά το βήμα ¨γ¨, αυτή την φορά χρησιμοποιώντας αρχεία 10.000 αριθμών.
+###### hyperfine --warmup 3 'python heapsort.py 10000' 'python mergesort.py 10000' 'python bubblesort.py 10000'
+##### κ) Σε περίπτωση που θέλουμε να δούμε αναλυτικά τα βήματα της εκτέλεσης, προσθέτουμε την παράμετρο --show-output. Αυτό είναι ιδιαίτερα χρήσιμο για την ανίχνευση σφαλμάτων.
+###### hyperfine --show-output --warmup 3 'python heapsort.py 10000' 'python mergesort.py 10000' 'python bubblesort.py 10000'
+#
+#### Συμπεράσματα: 
+##### Απο την εκτέλεση των βημάτων 'θ' και 'ι' διαπιστώνουμε οτι 
+#
 
 
 
