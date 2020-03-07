@@ -15,8 +15,8 @@
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
 ##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται με παράμετρο κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
-##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 100 και 10000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
-###### python rand.py 100 && python rand.py 10000
+##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 100 και 1000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
+###### python rand.py 100 && python rand.py 1000
 ##### ε) Δημιουργία 3 python scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
 ##### στ) Εγκατάσταση asciinema, και δημιουργία λογαριασμού σε αυτό.
 ###### sudo apt-get install asciinema
@@ -49,14 +49,31 @@
 ###### hyperfine -i 'python heapsort.py 100'
 ##### θ) Εκτέλεση του benchmark με αρχείο 100 αριθμών, 3 φορές, μία για κάθε αλγόριθμο, ώστε να συγκρίνουμε την απόδοση των 3 διαφορετικών αλγορίθμων. Θα κάνουμε και εδώ χρήση του warmup.
 ###### hyperfine --warmup 3 'python heapsort.py 100' 'python mergesort.py 100' 'python bubblesort.py 100'
-##### ι) Εκτελούμε ξανά το βήμα ¨γ¨, αυτή την φορά χρησιμοποιώντας αρχεία 10.000 αριθμών.
-###### hyperfine --warmup 3 'python heapsort.py 10000' 'python mergesort.py 10000' 'python bubblesort.py 10000'
+##### ι) Εκτελούμε ξανά το βήμα 'γ', αυτή την φορά χρησιμοποιώντας αρχεία 10.000 αριθμών.
+###### hyperfine --warmup 3 'python heapsort.py 1000' 'python mergesort.py 1000' 'python bubblesort.py 1000'
 ##### κ) Σε περίπτωση που θέλουμε να δούμε αναλυτικά τα βήματα της εκτέλεσης, προσθέτουμε την παράμετρο --show-output. Αυτό είναι ιδιαίτερα χρήσιμο για την ανίχνευση σφαλμάτων.
-###### hyperfine --show-output --warmup 3 'python heapsort.py 10000' 'python mergesort.py 10000' 'python bubblesort.py 10000'
+###### hyperfine --show-output --warmup 3 'python heapsort.py 1000' 'python mergesort.py 1000' 'python bubblesort.py 1000'
 #
 #### Συμπεράσματα: 
-##### Απο την εκτέλεση των βημάτων 'θ' και 'ι' διαπιστώνουμε οτι 
+##### Απο την εκτέλεση των βημάτων 'θ' και 'ι' διαπιστώνουμε οτι:
+##### i) για μικρό πλήθος αριθμών (100), η ταξινόμηση με χρήση των αλγορίθμων mergesort και heapsort ήταν περίπου η ίδια (1.01 φορές πιο γρήγορος ο mergesort), ενώ η ταξινόμηση με τον αλγόριθμο bubblesort ήταν αρκετά πιο αργή (1.30 φορές πιο αργή απο τον mergesort).
+##### ii) για μεγάλο πλήθος τυχαίων αριθμών (1000), ο mergesort ήταν και πάλι ο πιο γρήγορος αλγόριθμος, καθώς ολοκλήρωσε την ταξινόμηση 1.10 φορές πιο γρήγορα απο τον heapsort και 28.30 φορές πιο γρήγορα απο το bubblesort. Απο το τελευταίο μπορούμε να συμπεράνουμε οτι καθώς αυξάνετεται το πλήθος των αριθμών, η αποτελεσματικότητα του αλγορίθμου κατάταξης bubblesort μειώνεται κατά πολύ
+###### Summary 
+###### 'python mergesort.py 100' ran
+###### 1.01 ± 0.01 times faster than 'python heapsort.py 100'
+###### 1.30 ± 0.02 times faster than 'python bubblesort.py 100'
+###### Summary
+###### 'python mergesort.py 1000' ran
+###### 1.10 ± 0.02 times faster than 'python heapsort.py 1000'
+###### 28.30 ± 0.43 times faster than 'python bubblesort.py 1000'
+##### Tests με μεγαλύτερο πλήθος δεν πραγματοποιήθηκε, καθώς ο χρόνος εκτέλεσης του bubblesort ξεπερνά τα διαθέσιμα χρονικά περιθώρια.
 #
+
+
+
+
+
+
 
 
 
