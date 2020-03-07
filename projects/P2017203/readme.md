@@ -17,7 +17,8 @@
 ##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
 ##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 10,100,1000,10000,100000 αντίστοιχα.
 ###### python rand.py 10 && python rand.py 100 && python rand.py 1000 && python rand.py 10000 && python rand.py 100000
-##### ε) Δημιουργία python script το οποίο θα διαβάζει ένα txt αρχείο με τυχαίους αριθμούς, και θα κάνει ταξινόμηση 
+##### ε) Δημιουργία python 3 scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
+
 
 
 
