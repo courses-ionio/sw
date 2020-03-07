@@ -15,10 +15,26 @@
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
 ##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
-##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 10,100,1000,10000,100000 αντίστοιχα.
+##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 10,100,1000,10000,100000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
 ###### python rand.py 10 && python rand.py 100 && python rand.py 1000 && python rand.py 10000 && python rand.py 100000
-##### ε) Δημιουργία python 3 scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
-
+##### ε) Δημιουργία 3 python scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
+##### στ) Εγκατάσταση asciinema, και δημιουργία λογαριασμού σε αυτό.
+###### sudo apt-get install asciinema
+##### ζ) Τροποποίηση του .bashrc έτσι ώστε το shell prompt να δείχνει τον Α.Μ. μας.
+###### cd ~
+###### vi .bashrc
+###### export PS1='Π2017203:\w$ ' //add this line in the end of file
+###### source .bashrc //execute this command so as to reload new .bashrc
+#
+##### Εκτέλεση Άσκησης
+##### α) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών 
+###### hyperfine 'python heapsort.py 1000'
+##### β) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών, αφού προηγουμένως κάνουμε warmup, ώστε τα δεδομένα να είναι φορτωμένα στην cashe memory πριν ξεκινήσει το test, και έτσι να μην επιρρεαστεί το αποτέλεσμα απο την ταχύτητα I/O του μέσου ανάγνωσης.
+###### hyperfine --warmup 3 'python heapsort.py 1000'
+##### γ) Εκτέλεση του benchmark με αρχείο 1000 αριθμών, 3 φορές, μία για κάθε αλγόριθμο, ώστε να συγκρίνουμε την απόδοση των 3 διαφορετικών αλγορίθμων. Θα κάνουμε και εδώ χρήση του warmup.
+###### hyperfine --warmup 3 'python heapsort.py 1000' 'python mergesort.py 1000' 'python bubblesort.py 1000'
+##### δ) Εκτέλεση του benchmark με 1 εντολή, αρχείο 1000 αριθμών, αφού προηγουμένως κάνουμε prepare, ώστε να καθαρίσουμε την  cashe memory πριν ξεκινήσει το test, και έτσι τα αποτελέσματα του test να συμπεριλαμβάνουν και την ταχύτητα I/O του μέσου ανάγνωσης.
+###### 
 
 
 
