@@ -4,21 +4,20 @@
 
 ## 1η Άσκηση : 
 
- Markup : * Assignment : send notifications to your desktop-mobile.
+* Assignment : send notifications to your desktop-mobile.
 
- Markup : * Deliverables : send a notifcation when a big task completes, eg download, compiling, etc.  
+* Deliverables : send a notifcation when a big task completes, eg download, compiling, etc.  
 
- Markup : * Σύνδεσμος των εντολών στο Asciinema : 
+* Σύνδεσμος των εντολών στο Asciinema : 
 
- Markup : * Εργαλεία που χρησιμοποίησα :
+* Εργαλεία που χρησιμοποίησα :
+ * notify(ntfy) : https://github.com/dschep/ntfy
 
-             * notify(ntfy) : https://github.com/dschep/ntfy
+* Εφαρμογη για το κινητο : 
 
- Markup : * Εφαρμογη για το κινητο : 
+ *Pushbullet : https://www.pushbullet.com
 
-            *Pushbullet : https://www.pushbullet.com
-
- Markup : * Περιγραφή : Αρχικά κατέβασα το ntfy με την εντολή ```$sudo pip3 install ntfy ```
+* Περιγραφή : Αρχικά κατέβασα το ntfy με την εντολή ```$sudo pip3 install ntfy ```
 και πρόσθεσα ως extra dependencies το pid και το pushbullet με τις εντολές ```$pip3 install ntfy[pid]``` ```$pip3 install ntfy[pushbullet]```Στην συνέχεια κατεβασα το app για το smartphone pushbullet και εκανα εγραφη και σύνδεση , έπειτα πήγα -> settings -> account και μετα πατησα να μου δωσει ενα access token.Στο termina δημιουργησα ενα αρχειο με την εντολη 
 ```$sudo nano ~/.ntfy.yml```και μέσα έγραψα : 
 ```
