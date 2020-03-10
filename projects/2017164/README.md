@@ -18,10 +18,9 @@ notify(ntfy) : https://github.com/dschep/ntfy
 
 Pushbullet : https://www.pushbullet.com
 
-Περιγραφή : Αρχικά κατέβασα το ntfy με την εντολή
-$sudo pip3 install ntfy 
+Περιγραφή : Αρχικά κατέβασα το ntfy με την εντολή ```$sudo pip3 install ntfy ```
 και πρόσθεσα ως extra dependencies το pid και το pushbullet με τις εντολές 
-$pip3 install ntfy[pid] 
+$pip3 install ntfy[pid]
 $pip3 install ntfy[pushbullet].
 Στην συνέχεια κατεβασα το app για το smartphone pushbullet και εκανα εγραφη και σύνδεση , έπειτα πήγα -> settings -> account και μετα πατησα να μου δωσει ενα access token.Στο termina δημιουργησα ενα αρχειο με την εντολη 
 $sudo nano ~/.ntfy.yml
