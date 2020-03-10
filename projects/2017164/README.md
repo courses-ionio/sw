@@ -11,7 +11,7 @@
 * Σύνδεσμος των εντολών στο Asciinema : 
 
 * Εργαλεία που χρησιμοποίησα :
-    * [notify(ntfy)](https://github.com/dschep/ntfy/ "notify(ntfy")
+    * [notify(ntfy)](https://github.com/dschep/ntfy/ "ntfy")
 
 * Εφαρμογη για το κινητο : 
 
