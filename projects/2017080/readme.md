@@ -6,7 +6,11 @@
 #### Επώνυμο: Μπαΐλης
 #
 ##### Προαπαιτούμενα: 
-##### α) Αλλαγή του .bashrc ώστε το Terminal να εμφανίζει το ΑΜ
+##### α) Εγκατάσταση Ubuntu σε Virtual Machine
+##### β)Εγκατάσταση Python
+###### sudo apt-get update
+###### sudo apt install python
+##### γ) Αλλαγή του .bashrc ώστε το Terminal να εμφανίζει το ΑΜ
 ###### cd ~
 ###### nano .bashrc
 ###### Πρόσθεση της εντολής  export PS1='P2017080:\w$ ' στο τέλος και CTRL+O για αποθήκευση
