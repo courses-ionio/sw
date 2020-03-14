@@ -86,6 +86,7 @@
 ###### py-spy dump --pid PID
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310236) το link
+#
 ### Άσκηση 2
 ##### Τίτλος: try different terminals and shells
 ##### Ζητούμενα: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
