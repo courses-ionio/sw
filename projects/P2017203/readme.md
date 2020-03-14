@@ -26,7 +26,7 @@
 ###### export PS1='Π2017203:\w$ ' //add this line in the end of file
 ###### source .bashrc //execute this command so as to reload new .bashrc
 #
-##### Εκτέλεση Άσκησης
+##### Εκτέλεση Άσκησης:
 ##### α) Εκτέλεση του benchmark με 1 εντολή, αρχείο 100 αριθμών. 
 ###### hyperfine 'python heapsort.py 100'
 ##### β) Εκτέλεση του benchmark με 1 εντολή, αρχείο 100 αριθμών, αφού προηγουμένως κάνουμε warmup, ώστε τα δεδομένα να είναι φορτωμένα στην cashe memory πριν ξεκινήσει το test, και έτσι να μην επιρρεαστεί το αποτέλεσμα απο την ταχύτητα I/O του μέσου ανάγνωσης.
