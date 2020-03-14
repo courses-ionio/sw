@@ -14,7 +14,7 @@
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 ##### β) Εγκατάσταση hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
-##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται με παράμετρο κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz)
+##### γ) Δημιουργία python script το οποίο δημιουργεί αρχεία .txt με πλήθος αριθμών το οποίο και καθορίζεται με παράμετρο κατά την εκτέλεση του script. Το script είναι διαθέσιμο [εδώ](https://github.com/p17kagk/myfiles/blob/master/rand.py.tar.gz) (εκτέλεση με εντολή "python rand.py NUMBER_OF_FILES")
 ##### δ) Εκτέλεση του python script, ώστε να δημιουργήσουμε αρχεία με τυχαίους αριθμούς, πλήθους 100 και 1000 αντίστοιχα. Θα χρειαστούν στην συνέχεια για την εξαγωγή συμπερασμάτων.
 ###### python rand.py 100 && python rand.py 1000
 ##### ε) Δημιουργία 3 python scripts τα οποία θα διαβάζουν ένα .txt αρχείο με τυχαίους αριθμούς, και θα κάνουν ταξινόμηση με χρήση αλγορίθμου i)bubblesort ii)heapsort iii)mergesort. Τα 3 scripts είναι διαθέσιμα [εδώ](https://github.com/p17kagk/myfiles/blob/master/sorting_scripts.tar.gz)
