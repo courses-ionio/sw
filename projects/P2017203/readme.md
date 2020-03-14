@@ -83,10 +83,7 @@
 ##### Τέλος, μπορούμε να δούμε το τρέχον call stack για το κάθε python thread μας.
 ###### py-spy dump --pid PID
 #
-#### 3ος Τρόπος: Χρήση του λογισμικού bench
-##### α) Install bench
-###### brew install bench
-##### 
+
 
 
 
