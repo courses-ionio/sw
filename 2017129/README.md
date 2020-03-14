@@ -15,5 +15,6 @@ references:
 
 [python scripts](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
 
+[asciinema](https://asciinema.org/a/JvpO6wWi3Dt9YaQ8d7Qs3iYis)
 
 # Συμμετοχικό περιεχόμενο
