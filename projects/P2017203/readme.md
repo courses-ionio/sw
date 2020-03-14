@@ -86,6 +86,128 @@
 ###### py-spy dump --pid PID
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310236) το link
+### Άσκηση 2
+##### Τίτλος: try different terminals and shells
+##### Ζητούμενα: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+# 
+##### 2.1: Προαπαιτούμενα: Εγκατάσταση st
+###### git clone https://github.com/LukeSmithxyz/st
+###### cd st
+###### sudo make install
+#
+##### Εκτέλεση:
+##### from bash shell execute "st"
+###### st
+##### start asciinema reconding
+###### asciinema rec -i=0.5
+##### Εκτέλεση των παρακάτω εντολών:
+###### pwd
+###### ll
+###### cd
+###### lspci //display H/W
+###### lshw //display S/W
+###### cat config.h
+###### /* from now on we'll demostrate some capabilities of this terminal */
+###### scrollback with alt-↑/↓
+###### scroll up/down in history with alt-k and alt-j
+###### zoom/change font size shift + alt-j/k
+###### copy text with alt-c, paste is alt-v
+###### edit Xdefaults // change the following-xrdb FILE to make changes
+###### st.font: Console-11;
+###### *.background: #282828
+###### *.foreground: white
+###### *.cursorColor: white
+#
+##### 2.2: Προαπαιτούμενα: Εγκατάσταση zsh
+###### sudo apt install zsh
+##### Εκτέλεση:
+##### Verify Installation 
+###### zsh --version
+##### Εκτέλεση των παρακάτω εντολών:
+###### pwd
+###### ll
+###### cd
+###### lspci //display H/W
+###### lshw //display S/W
+##### Demostrate special capabilities
+###### Automatic cd: Just type the name of the directory
+###### Recursive path expansion: For example “/u/lo/b” expands to “/usr/local/bin”
+###### echo Hello >a.txt >&1         # print Hello to both a.txt and stdout
+###### echo Hello >a.txt >/dev/fd/0  # same
+###### echo hello | tee a.txt        # same thing in bash
+###### echo Hello >a.txt >b.txt      # print Hello to both a.txt and b.txt
+##### change configuration
+###### .zshrc
+#
+##### 2.3: Προαπαιτούμενα: Εγκατάσταση fish shell
+###### sudo apt-add-repository ppa:fish-shell/release-3
+###### sudo apt-get update
+###### sudo apt-get install fish
+##### Εκτέλεση:
+###### pwd
+###### ll
+###### cd
+###### lspci //display H/W
+###### lshw //display S/W
+##### Demostrate special capabilities
+###### for i in foo bar baz; echo $i; end
+###### math 5 +5 
+###### random
+###### begin
+######    echo $xml_header
+######    echo $html_header
+######    if test -e $file
+###### end
+###### end > out.html
+###### dirh
+###### echo 'Fish Configuration is Web-based, So cannot be desplayed :('
+#
+##### 2.4: Προαπαιτούμενα: Εγκατάσταση csh
+###### sudo apt-get install csh
+##### Εκτέλεση:
+###### pwd
+###### ll
+###### cd
+###### lspci //display H/W
+###### lshw //display S/W
+##### Demostrate special capabilities
+###### rm a\ b
+###### echo 'Hello!'
+##### set variables
+###### set myvariable = word
+###### set myvariable = "a string"
+##### while command
+###### while (1)
+###### lpq
+###### sleep 10
+###### end
+##### Parenthesis in the C shell
+###### set i = ( a b c d e f g )
+###### foreach i ( a b c d e f g )
+###### echo $i
+###### end
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
 
 
 
