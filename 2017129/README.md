@@ -11,4 +11,9 @@ deliverables: monitor the performance of your python scripts and visualize them 
 
 references:
 
+[hyperfine](https://github.com/sharkdp/hyperfine)
+
+[python scripts](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+
+
 # Συμμετοχικό περιεχόμενο
