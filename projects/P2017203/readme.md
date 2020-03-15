@@ -91,7 +91,7 @@
 ##### Τίτλος: try different terminals and shells
 ##### Ζητούμενα: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 # 
-##### 2.1: Προαπαιτούμενα: Εγκατάσταση st
+##### 2.1 (st shell): Προαπαιτούμενα: Εγκατάσταση st
 ###### git clone https://github.com/LukeSmithxyz/st
 ###### cd st
 ###### sudo make install
@@ -117,7 +117,7 @@
 ###### *.foreground: white
 ###### *.cursorColor: white
 #
-##### 2.2: Προαπαιτούμενα: Εγκατάσταση zsh
+##### 2.2 (zshell): Προαπαιτούμενα: Εγκατάσταση zsh
 ###### sudo apt install zsh
 ##### Εκτέλεση:
 ##### Verify Installation 
@@ -138,7 +138,7 @@
 ##### change configuration
 ###### .zshrc
 #
-##### 2.3: Προαπαιτούμενα: Εγκατάσταση fish shell
+##### 2.3 (fish shell): Προαπαιτούμενα: Εγκατάσταση fish shell
 ###### sudo apt-add-repository ppa:fish-shell/release-3
 ###### sudo apt-get update
 ###### sudo apt-get install fish
@@ -161,7 +161,7 @@
 ###### dirh
 ###### echo 'Fish Configuration is Web-based, So cannot be desplayed :('
 #
-##### 2.4: Προαπαιτούμενα: Εγκατάσταση csh
+##### 2.4 (cshell): Προαπαιτούμενα: Εγκατάσταση csh
 ###### sudo apt-get install csh
 ##### Εκτέλεση:
 ###### pwd
@@ -186,7 +186,91 @@
 ###### echo $i
 ###### end
 #
-##### Όλα τα βήματα της παραπάνω άσκησης φαίνονται αναλυτικά [εδώ](https://asciinema.org/a/310376)
+##### Όλα τα βήματα της παραπάνω άσκησης φαίνονται αναλυτικά [εδώ](https://asciinema.org/a/310376).
+#
+### Άσκηση 3
+##### Τίτλος: set-up cloud services
+##### Ζητούμενα: ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+##### Προαπαιτούμενα: Tα εργαλεία ssh,sftp,telnet είναι προεγκατεστημένα στις διανομές Ubuntu.
+###### sudo apt install putty
+###### sudo apt-get install openssh-server //on remote host
+###### sudo apt-get install vsftpd //on remote host
+##### Σε κάθε περίπτωση, το τερματικό στο οποίο θα συνδεόμαστε έχει την IP 192.168.2.51. Θα εκτελέσουμε εντολές editing, file explorer, file execution.
+##### Εκτέλεση 3.1(ssh):
+##### ssh andreas@192.168.2.51
+##### Παράμετροι
+###### ssh -E sshlog.txt andreas@192.168.2.51
+###### ssh -4 andreas@192.168.2.51 //Force IPv4
+###### ssh -6 andreas@192.168.2.51 //Force IPv6
+###### ssh -C andreas@192.168.2.51 //Requests compression of all data
+###### ssh -c aes128-cbc andreas@192.168.2.51 //Selects the cipher specification for encrypting the session
+###### ssh -T andreas@192.168.2.51 //Disable pseudo-terminal allocation. 
+###### ssh -V andreas@192.168.2.51 //Display the version number and exit. 
+###### ssh -v andreas@192.168.2.51 //Verbose mode.
+##### special commands
+###### ~# //List forwarded connections.
+##### Εκτέλεση εντολών:
+###### cd Desktop
+###### mkdir temp
+###### cd temp
+###### vi temp.txt
+###### cat temp.txt
+##### Εκτέλεση των python scripts της άσκησης 1
+###### cat sshlog.txt
+#
+##### Εκτέλεση 3.2 (ftp/sftp)
+###### ftp 192.168.2.51
+###### passive
+##### enable 'hash on' and get a file
+###### get filename
+##### Demonstrate FTP Server configuration
+###### sudo ufw allow 20/tcp //open TCP ports
+###### sudo ufw allow 21/tcp
+###### sudo ufw status
+###### sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
+###### sudo vi /etc/vsftpd.conf
+##### Demonstrate other FTP commands
+###### ?
+##### Εκτέλεση των παραπάνω βημάτων με sftp
+###### sftp andreas@192.168.2.51
+##### Παράμετροι
+###### sftp -Β 16000 andreas@192.168.2.51 //change buffer size
+###### sftp -l 1600 andreas@192.168.2.51 //Limits the used bandwidth, specified in Kbit/s.
+##### Demonstrate other FTP commands
+###### ?
+##### put/get a file
+###### put
+###### get
+##### File Management
+###### mkdir
+###### vi
+###### rm file
+#
+##### Εκτέλεση 3.3 (telnet)
+###### telnet 192.168.2.51
+##### Άλλος τρόπος
+###### telnet
+###### o 192.168.2.51
+##### Εκτέλεση εντολών:
+###### cd Desktop
+###### mkdir temp
+###### cd temp
+###### vi temp.txt
+###### cat temp.txt
+##### Εκτέλεση των python scripts της άσκησης 1
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
