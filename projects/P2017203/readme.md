@@ -99,8 +99,6 @@
 ##### Εκτέλεση:
 ##### from bash shell execute "st"
 ###### st
-##### start asciinema reconding
-###### asciinema rec -i=0.5
 ##### Εκτέλεση των παρακάτω εντολών:
 ###### pwd
 ###### ll
