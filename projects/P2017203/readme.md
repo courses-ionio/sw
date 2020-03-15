@@ -258,6 +258,7 @@
 ###### vi temp.txt
 ###### cat temp.txt
 ##### Εκτέλεση των python scripts της άσκησης 1
+#
 
 
 
