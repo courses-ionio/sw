@@ -272,6 +272,15 @@
 ##### Σύνδεση με ftp, get της καταγραφής, αναπαραγωγή καταγραφής
 #
 ##### Όλα τα παραπάνω βήματα φαίνονται αναλυτικά [εδώ](https://asciinema.org/a/IxPeySxM8DbbITMf4BeOJPN8g)
+#
+### Άσκηση 4
+##### Τίτλος: send notifications to your desktop-mobile
+##### Ζητούμενα: send a notifcation when a big task completes, eg download, compiling, etc
+##### Προαπαιτούμενα:
+##### Εγκατάσταση ntfy
+###### sudo pip install ntfy
+##### Εκτέλεση:
+
 
 
 
