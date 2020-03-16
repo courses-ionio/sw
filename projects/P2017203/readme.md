@@ -106,12 +106,12 @@
 ###### lspci //display H/W
 ###### lshw //display S/W
 ###### cat config.h
-###### /* from now on we'll demostrate some capabilities of this terminal */
+##### /* from now on we'll demostrate some capabilities of this terminal */
 ###### scrollback with alt-↑/↓
 ###### scroll up/down in history with alt-k and alt-j
 ###### zoom/change font size shift + alt-j/k
 ###### copy text with alt-c, paste is alt-v
-###### edit Xdefaults // change the following-xrdb FILE to make changes
+##### edit Xdefaults // change the following-xrdb FILE to make changes
 ###### st.font: Console-11;
 ###### *.background: #282828
 ###### *.foreground: white
@@ -259,6 +259,18 @@
 ###### cat temp.txt
 ##### Εκτέλεση των python scripts της άσκησης 1
 #
+##### Εκτέλεση 3.4 (putty)
+###### putty 192.168.2.51
+##### Έναρξη καταγραφής asciinema στο νέο παράθυρο
+##### Εκτέλεση εντολών:
+###### cd Desktop
+###### mkdir temp
+###### cd temp
+###### vi temp.txt
+###### cat temp.txt
+##### Εκτέλεση των python scripts της άσκησης 1
+##### Σύνδεση με ftp, get της καταγραφής, αναπαραγωγή καταγραφής
+
 
 
 
