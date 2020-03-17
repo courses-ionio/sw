@@ -36,4 +36,5 @@
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
 ###### pip install howdoi
+#### Εκτέλεση 
 #### Link για Asciinema
