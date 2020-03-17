@@ -32,3 +32,7 @@
 ###### cd dummy
 ###### cat > sample.txt
 #### Link για Asciinema 
+#
+### Άσκηση 2(Choose Your Stack)
+#### Εγκατάσταση howdoi
+###### pip install howdoi
