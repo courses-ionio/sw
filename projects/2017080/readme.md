@@ -27,3 +27,4 @@
 ###### sudo apt-get install openssh-server 
 #### Σύνδεση με τον Remote Host
 ###### ssh sleft@192.168.1.81
+#### Link για Asciinema 
