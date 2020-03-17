@@ -280,6 +280,52 @@
 ##### Εγκατάσταση ntfy
 ###### sudo pip install ntfy
 ##### Εκτέλεση:
+### Άσκηση 4
+##### Τίτλος: choose your stack
+##### Ζητούμενα: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+##### Προαπαιτούμενα:
+##### Εγκατάσταση howdoi
+###### pip install howdoi
+##### Εγκατάσταση How2
+###### npm install -g how-2
+##### Εκτέλεση με howdoi:
+###### printf '%(%Y-%m-%d)T\n' -1
+###### howdoi print stack trace python
+###### howdoi convert mp4 to animated gif
+###### howdoi create tar archive
+###### howdoi -h
+###### howdoi find a file
+###### sudo find / -name "rand.py.tar"
+###### howdoi -a find a file
+###### howdoi -l find a file
+###### howdoi -c find a file
+###### howdoi -C
+###### howdoi -v
+###### howdoi -e google find a file
+###### howdoi -e bing find a file
+###### howdoi -c make persistent usb
+###### howdoi -c change time zone
+###### howdoi -c delete a folder
+###### howdoi -c delete a folder ubuntu
+###### howdoi -c python create random numbers
+##### Εναλλακτικό λογισμικό how2:
+###### how2 unzip.gz 
+###### how2 find a file 
+###### how2 make a persistent usb ubuntu
+###### how2 python random number
+###### how2 -l python random number
+###### how2 -l Cpp declare array 
+###### how2 pull request github 
+###### lynx https://unix.stackexchange.com/questions/16743/github-adding-a-repository-as-a-fork-from-an-existing-clone/16765#16765
+#
+
+
+
+
+
+
+
+
 
 
 
