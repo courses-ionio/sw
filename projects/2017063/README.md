@@ -11,7 +11,7 @@ AM: Π2017063
 ### ***Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος***
 
    
-   ### ***Άσκηση 1 "Send notifications to your desktop-mobiler"***
+   ### ***Άσκηση 1 "Send notifications to your desktop-mobile"***
    
    #### [Link για την άσκηση](https://asciinema.org/a/wZhReoAb7YDQq6O8ZlLZVWfbw)
    
