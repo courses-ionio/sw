@@ -37,4 +37,6 @@
 #### Εγκατάσταση howdoi
 ###### pip install howdoi
 #### Εκτέλεση 
+###### howdoi declare list in python
+###### howdoi -a create random numbers java //-a για πλήρη προβολή του κειμένου
 #### Link για Asciinema
