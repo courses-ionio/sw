@@ -85,7 +85,7 @@
 ##### ε) Τέλος, μπορούμε να δούμε το τρέχον call stack για το κάθε python thread μας.
 ###### py-spy dump --pid PID
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310236) το link
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310236) το link.
 #
 ### Άσκηση 2
 ##### Τίτλος: try different terminals and shells
@@ -186,7 +186,7 @@
 ###### echo $i
 ###### end
 #
-##### Όλα τα βήματα της παραπάνω άσκησης φαίνονται αναλυτικά [εδώ](https://asciinema.org/a/310376).
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
 ### Άσκηση 3
 ##### Τίτλος: set-up cloud services
@@ -271,7 +271,7 @@
 ##### Εκτέλεση των python scripts της άσκησης 1
 ##### Σύνδεση με ftp, get της καταγραφής, αναπαραγωγή καταγραφής
 #
-##### Όλα τα παραπάνω βήματα φαίνονται αναλυτικά [εδώ](https://asciinema.org/a/IxPeySxM8DbbITMf4BeOJPN8g)
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
 ### Άσκηση 4
 ##### Τίτλος: send notifications to your desktop-mobile
@@ -318,7 +318,8 @@
 ###### how2 pull request github 
 ###### lynx https://unix.stackexchange.com/questions/16743/github-adding-a-repository-as-a-fork-from-an-existing-clone/16765#16765
 #
-
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+#
 
 
 
