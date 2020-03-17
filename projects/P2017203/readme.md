@@ -320,6 +320,34 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
+### Άσκηση 5
+##### Τίτλος: set-up a system for python development
+##### Ζητούμενα: install and configure in a user folder a python project that is not available through the package manager
+##### Προαπαιτούμενα:
+##### python3 installed
+##### pip installed
+##### Εκτέλεση:
+###### pip install --user pipenv
+###### cd pipenv
+###### pipenv install requests
+###### vi main.py
+###### pipenv run python main.py //run this script using pipenv run
+###### pip install virtualenv
+###### virtualenv --version //Test your installation
+###### virtualenv venv //Create a virtual environment for a project
+###### virtualenv -p /usr/bin/python2.7 venv //use the Python interpreter of your choice
+###### export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python2.7 //change the interpreter globally with an env variable in ~/.bashrc
+###### source venv/bin/activate //To begin using the virtual environment, it needs to be activated
+###### pip install requests //Install packages using the pip command
+###### deactivate //deactivate the virtual environment
+###### pip freeze > requirements.txt //"freeze” the current state of the environment packages
+###### pip install -r requirements.txt //install the same packages using the same versions
+#
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+#
+
+
+
 
 
 
