@@ -39,4 +39,6 @@
 #### Εκτέλεση 
 ###### howdoi declare list in python
 ###### howdoi -a create random numbers java //-a για πλήρη προβολή του κειμένου
+###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
+###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
 #### Link για Asciinema
