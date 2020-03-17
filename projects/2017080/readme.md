@@ -19,3 +19,9 @@
 #
 ##### δ) Δημιουργία λογαριασμού στο Asciinema και εγκατάσταση του εργαλείου με την εντολή:
 ###### sudo apt-get install asciinema
+#
+### Άσκηση 1(Set-up cloud services)
+#### Local Host Προαπαιτούμενα
+###### Το εργαλείο SSH είναι ήδη εγκατεστημένο στα Kali Linux
+#### Remote Host Προαπαιτούμενα
+###### sudo apt-get install openssh-server 
