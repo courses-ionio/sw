@@ -209,34 +209,33 @@
 ###### ssh -v andreas@192.168.2.51 //Verbose mode.
 ##### special commands
 ###### ~# //List forwarded connections.
-##### Εκτέλεση εντολών:
+##### Εκτέλεση βασικών εντολών:
 ###### cd Desktop
 ###### mkdir temp
 ###### cd temp
 ###### vi temp.txt
 ###### cat temp.txt
 ##### Εκτέλεση των python scripts της άσκησης 1
-###### cat sshlog.txt
 #
 ##### Εκτέλεση 3.2 (ftp/sftp)
 ###### ftp 192.168.2.51
 ###### passive
 ##### enable 'hash on' and get a file
 ###### get filename
-##### Demonstrate FTP Server configuration
+##### Παραμετροποίηση FTP Server
 ###### sudo ufw allow 20/tcp //open TCP ports
 ###### sudo ufw allow 21/tcp
 ###### sudo ufw status
 ###### sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
 ###### sudo vi /etc/vsftpd.conf
-##### Demonstrate other FTP commands
+##### Ειδικές FTP εντολές
 ###### ?
-##### Εκτέλεση των παραπάνω βημάτων με sftp
+##### Εκτέλεση των παραπάνω βημάτων με sftp:
 ###### sftp andreas@192.168.2.51
-##### Παράμετροι
+##### Παράμετροι σύνδεσης
 ###### sftp -Β 16000 andreas@192.168.2.51 //change buffer size
 ###### sftp -l 1600 andreas@192.168.2.51 //Limits the used bandwidth, specified in Kbit/s.
-##### Demonstrate other FTP commands
+##### Ειδικές SFTP εντολές
 ###### ?
 ##### put/get a file
 ###### put
@@ -251,7 +250,7 @@
 ##### Άλλος τρόπος
 ###### telnet
 ###### o 192.168.2.51
-##### Εκτέλεση εντολών:
+##### Εκτέλεση βασικών εντολών:
 ###### cd Desktop
 ###### mkdir temp
 ###### cd temp
