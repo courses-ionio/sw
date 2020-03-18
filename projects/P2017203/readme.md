@@ -198,7 +198,7 @@
 ##### Σε κάθε περίπτωση, το τερματικό στο οποίο θα συνδεόμαστε έχει την IP 192.168.2.51. Θα εκτελέσουμε εντολές editing, file explorer, file execution.
 ##### Εκτέλεση 3.1(ssh):
 ###### ssh andreas@192.168.2.51
-##### Παράμετροι
+##### Παράμετροι σύνδεσης
 ###### ssh -E sshlog.txt andreas@192.168.2.51 //-E log_file Append debug logs to log_file instead of standard error.
 ###### ssh -4 andreas@192.168.2.51 //Force IPv4
 ###### ssh -6 andreas@192.168.2.51 //Force IPv6
