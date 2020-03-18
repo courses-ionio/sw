@@ -287,7 +287,7 @@
 ###### pip install howdoi
 ##### Εγκατάσταση How2
 ###### npm install -g how-2
-##### Εκτέλεση με howdoi:
+##### Εκτέλεση με howdoi (παραδείγματα εντολών)
 ###### printf '%(%Y-%m-%d)T\n' -1
 ###### howdoi print stack trace python
 ###### howdoi convert mp4 to animated gif
@@ -307,7 +307,7 @@
 ###### howdoi -c delete a folder
 ###### howdoi -c delete a folder ubuntu
 ###### howdoi -c python create random numbers
-##### Εναλλακτικό λογισμικό how2:
+##### Εναλλακτικό λογισμικό how2 (παραδείγματα εντολών)
 ###### how2 unzip.gz 
 ###### how2 find a file 
 ###### how2 make a persistent usb ubuntu
@@ -330,17 +330,27 @@
 ###### cd pipenv
 ###### pipenv install requests
 ###### vi main.py
-###### pipenv run python main.py //run this script using pipenv run
+##### run this script using pipenv run
+###### pipenv run python main.py 
 ###### pip install virtualenv
-###### virtualenv --version //Test your installation
-###### virtualenv venv //Create a virtual environment for a project
-###### virtualenv -p /usr/bin/python2.7 venv //use the Python interpreter of your choice
-###### export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python2.7 //change the interpreter globally with an env variable in ~/.bashrc
-###### source venv/bin/activate //To begin using the virtual environment, it needs to be activated
-###### pip install requests //Install packages using the pip command
-###### deactivate //deactivate the virtual environment
-###### pip freeze > requirements.txt //"freeze” the current state of the environment packages
-###### pip install -r requirements.txt //install the same packages using the same versions
+##### Test your installation
+###### virtualenv --version 
+##### Create a virtual environment for a project
+###### virtualenv venv 
+##### use the Python interpreter of your choice
+###### virtualenv -p /usr/bin/python2.7 venv 
+##### change the interpreter globally with an env variable in ~/.bashrc
+###### export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python2.7 
+##### To begin using the virtual environment, it needs to be activated
+###### source venv/bin/activate 
+##### Install packages using the pip command
+###### pip install requests 
+##### deactivate the virtual environment
+###### deactivate 
+##### "freeze” the current state of the environment packages
+###### pip freeze > requirements.txt 
+##### install the same packages using the same versions
+###### pip install -r requirements.txt 
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
