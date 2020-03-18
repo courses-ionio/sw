@@ -99,19 +99,19 @@
 ##### Εκτέλεση:
 ##### from bash shell execute "st"
 ###### st
-##### Εκτέλεση των παρακάτω εντολών:
+##### Εκτέλεση μερικών βασικών εντολών:
 ###### pwd
 ###### ll
 ###### cd
 ###### lspci //display H/W
 ###### lshw //display S/W
 ###### cat config.h
-##### /* from now on we'll demostrate some capabilities of this terminal */
+##### /* Εκτέλεση ειδικών εντολών του shell */
 ###### scrollback with alt-↑/↓
 ###### scroll up/down in history with alt-k and alt-j
 ###### zoom/change font size shift + alt-j/k
 ###### copy text with alt-c, paste is alt-v
-##### edit Xdefaults // change the following-xrdb FILE to make changes
+##### edit Xdefaults // Παραμετροποίηση του shell
 ###### st.font: Console-11;
 ###### *.background: #282828
 ###### *.foreground: white
@@ -122,33 +122,33 @@
 ##### Εκτέλεση:
 ##### Verify Installation 
 ###### zsh --version
-##### Εκτέλεση των παρακάτω εντολών:
+##### Εκτέλεση μερικών βασικών εντολών:
 ###### pwd
 ###### ll
 ###### cd
 ###### lspci //display H/W
 ###### lshw //display S/W
-##### Demostrate special capabilities
+##### Ειδικές λειτουργίες του shell
 ###### Automatic cd: Just type the name of the directory
 ###### Recursive path expansion: For example “/u/lo/b” expands to “/usr/local/bin”
 ###### echo Hello >a.txt >&1         # print Hello to both a.txt and stdout
 ###### echo Hello >a.txt >/dev/fd/0  # same
 ###### echo hello | tee a.txt        # same thing in bash
 ###### echo Hello >a.txt >b.txt      # print Hello to both a.txt and b.txt
-##### change configuration
+##### Παραμετροποίηση του shell
 ###### .zshrc
 #
 ##### 2.3 (fish shell): Προαπαιτούμενα: Εγκατάσταση fish shell
 ###### sudo apt-add-repository ppa:fish-shell/release-3
 ###### sudo apt-get update
 ###### sudo apt-get install fish
-##### Εκτέλεση:
+##### Εκτέλεση μερικών βασικών εντολών:
 ###### pwd
 ###### ll
 ###### cd
 ###### lspci //display H/W
 ###### lshw //display S/W
-##### Demostrate special capabilities
+##### Ειδικές λειτουργίες του shell
 ###### for i in foo bar baz; echo $i; end
 ###### math 5 +5 
 ###### random
@@ -163,13 +163,13 @@
 #
 ##### 2.4 (cshell): Προαπαιτούμενα: Εγκατάσταση csh
 ###### sudo apt-get install csh
-##### Εκτέλεση:
+##### Εκτέλεση μερικών βασικών εντολών:
 ###### pwd
 ###### ll
 ###### cd
 ###### lspci //display H/W
 ###### lshw //display S/W
-##### Demostrate special capabilities
+##### Ειδικές λειτουργίες του shell
 ###### rm a\ b
 ###### echo 'Hello!'
 ##### set variables
