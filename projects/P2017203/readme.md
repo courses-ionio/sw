@@ -354,6 +354,25 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
+### Άσκηση 6
+##### Τίτλος: use the terminal as an IDE
+##### Ζητούμενα:  	edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+##### Προαπαιτούμενα: εγκατάσταση vim, emacs, vimtex, spacevim
+###### sudo apt install vim
+###### curl -sLf https://spacevim.org/install.sh | bash
+###### sudo apt install emacs25
+##### Εκτέλεση (vim)
+###### vim -h
+###### vim filename
+###### :!%
+bookmark1
+bookmark2
+# vimtex
+
+
+
+
+###### 
 
 
 
