@@ -6,7 +6,7 @@
 #### Επώνυμο: Μπαΐλης
 #
 ### Προαπαιτούμενα: 
-##### α) Εγκατάσταση Kali Linux σε Virtual Machine
+##### α) Εγκατάσταση Ubuntu σε Virtual Machine
 #
 ##### β)Εγκατάσταση Python
 ###### sudo apt-get update
@@ -22,7 +22,7 @@
 #
 ### Άσκηση 1(Set-up cloud services)
 #### Local Host Προαπαιτούμενα
-###### Το εργαλείο SSH είναι ήδη εγκατεστημένο στα Kali Linux
+###### Το εργαλείο SSH είναι ήδη εγκατεστημένο στα Ubuntu 
 #### Remote Host Προαπαιτούμενα
 ###### sudo apt-get install openssh-server 
 #### Σύνδεση με τον Remote Host
@@ -49,7 +49,10 @@
 ###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
 #### Link για Asciinema
 #
-### Άσκηση 3(send notifications to your desktop-mobile)
-#### Εγκατάσταση ntfy
-###### sudo pip install ntfy
+### Άσκηση 3(performance monitoring)
+#### Κατέβασμα Hyperfine
+###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+sudo dpkg -i hyperfine_1.9.0_amd64.deb
+#### Εγκατάσταση Hyperfine
+###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
 #### Εκτέλεση
