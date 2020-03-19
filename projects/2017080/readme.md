@@ -31,6 +31,10 @@
 ###### mkdir dummy
 ###### cd dummy
 ###### cat > sample.txt
+#### Παράμετροι στην σύνδεση
+###### ssh -4 sleft@192.168.1.81 //Use IPv4 addresses only.
+###### ssh -C sleft@192.168.1.81 //Use data compression.
+###### ssh -c aes256-ctr sleft@192.168.1.81 //Cryptography Cipher
 #### Link για Asciinema 
 #
 ### Άσκηση 2(Choose Your Stack)
@@ -41,6 +45,7 @@
 ###### howdoi -a create random numbers java //-a για πλήρη προβολή του κειμένου
 ###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
 ###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
+###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
 #### Link για Asciinema
 #
 ### Άσκηση 3(send notifications to your desktop-mobile)
