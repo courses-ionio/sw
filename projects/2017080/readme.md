@@ -36,7 +36,7 @@
 ###### ssh -6 sleft@192.168.1.81 //Use IPv6 addresses only.
 ###### ssh -C sleft@192.168.1.81 //Use data compression.
 ###### ssh -c aes256-ctr sleft@192.168.1.81 //Cryptography Cipher.
-#### Link για Asciinema 
+#### [Link για Asciinema](https://asciinema.org/)
 #
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
@@ -47,7 +47,7 @@
 ###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
 ###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
 ###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
-#### Link για Asciinema
+#### [Link για Asciinema](https://asciinema.org/)
 #
 ### Άσκηση 3(performance monitoring)
 #### Κατέβασμα Hyperfine
@@ -57,3 +57,8 @@
 ##### Τα scripts που θα χρησιμοποιηθούν για σύγκριση είναι τα [script1](https://www.codesdope.com/blog/article/sorting-a-list-using-bubble-sort-in-python/) και [script2](https://www.geeksforgeeks.org/python-program-for-selection-sort/) τα οποία τροποποιήκαν για να ταξινομούν την ίδια λίστα.
 #### Εκτέλεση
 ###### hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py'
+#### Παράμετροι
+###### hyperfine -m 8 'python3 bubblesort.py' 'python3 selectionsort.py' //-m παράμετρος για εκτέλεση συγκεκριμένων επαναλήψεων του κώδικα
+###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
+#### Αποτελέσματα
+##### Να γράψω την έγινε μετά την εκτέλεση
