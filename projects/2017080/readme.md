@@ -60,8 +60,31 @@
 #### Παράμετροι
 ###### hyperfine -m 8 'python3 bubblesort.py' 'python3 selectionsort.py' //-m παράμετρος για εκτέλεση συγκεκριμένων επαναλήψεων του κώδικα
 ###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
+###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
 #### Αποτελέσματα
 ##### Να γράψω την έγινε μετά την εκτέλεση
 #### [Link3 για Asciinema](https://asciinema.org/)
 #
-### Άσκηση 4()
+### Άσκηση 4(try different terminals and shells)
+##### a) Guake
+##### b) Terminator
+#### Εγκατάσταση
+###### sudo apt-get install guake
+###### sudo apt-get install terminator
+#### Guake
+##### Customisation 
+###### guake --bgcolor=#BA55D3
+##### Το Terminal Guake..
+#### [Link4 για Asciinema](https://asciinema.org/)
+#### Terminator
+##### Customisation
+###### terminator -m //Maximized
+###### terminator -b//Bordless
+##### Το Terminal Terminator...
+#### [Link5 για Asciinema](https://asciinema.org/)
+
+
+
+
+
+ 
