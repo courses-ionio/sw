@@ -6,3 +6,4 @@
 ### Ασκήσεις
 
 ### 1η άσκηση
+asciinema: set-up a system for python development.
