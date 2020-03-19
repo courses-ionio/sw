@@ -6,7 +6,7 @@
 #### Επώνυμο: Μπαΐλης
 #
 ### Προαπαιτούμενα: 
-##### α) Εγκατάσταση Ubuntu σε Virtual Machine
+##### α) Εγκατάσταση Kali Linux σε Virtual Machine
 #
 ##### β)Εγκατάσταση Python
 ###### sudo apt-get update
