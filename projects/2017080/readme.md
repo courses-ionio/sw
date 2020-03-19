@@ -33,6 +33,7 @@
 ###### cat > sample.txt
 #### Παράμετροι στην σύνδεση
 ###### ssh -4 sleft@192.168.1.81 //Use IPv4 addresses only.
+###### ssh -6 sleft@192.168.1.81 //Use IPv6 addresses only.
 ###### ssh -C sleft@192.168.1.81 //Use data compression.
 ###### ssh -c aes256-ctr sleft@192.168.1.81 //Cryptography Cipher
 #### Link για Asciinema 
