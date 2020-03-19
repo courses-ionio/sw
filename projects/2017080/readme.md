@@ -83,6 +83,8 @@
 ###### terminator -b//Bordless
 ##### Το Terminal Terminator...
 #### [Link5 για Asciinema](https://asciinema.org/)
+#
+#### Άσκηση 5()
 
 
 
