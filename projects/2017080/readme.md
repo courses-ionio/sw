@@ -71,14 +71,12 @@
 #### Εγκατάσταση
 ###### sudo apt-get install guake
 ###### sudo apt-get install terminator
-#### Guake
-##### Customisation 
+#### Guake Customisation
 ###### guake --bgcolor=#BA55D3
 ##### Το Terminal Guake..
 #### [Link4 για Asciinema](https://asciinema.org/)
 #
-#### Terminator
-##### Customisation
+#### Terminator Customisation
 ###### terminator -m //Maximized
 ###### terminator -b//Bordless
 ##### Το Terminal Terminator...
