@@ -76,6 +76,7 @@
 ###### guake --bgcolor=#BA55D3
 ##### Το Terminal Guake..
 #### [Link4 για Asciinema](https://asciinema.org/)
+#
 #### Terminator
 ##### Customisation
 ###### terminator -m //Maximized
