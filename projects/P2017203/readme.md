@@ -273,13 +273,6 @@
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
 #
 ### Άσκηση 4
-##### Τίτλος: send notifications to your desktop-mobile
-##### Ζητούμενα: send a notifcation when a big task completes, eg download, compiling, etc
-##### Προαπαιτούμενα:
-##### Εγκατάσταση ntfy
-###### sudo pip install ntfy
-##### Εκτέλεση:
-### Άσκηση 4
 ##### Τίτλος: choose your stack
 ##### Ζητούμενα: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 ##### Προαπαιτούμενα:
@@ -361,18 +354,27 @@
 ###### sudo apt install vim
 ###### curl -sLf https://spacevim.org/install.sh | bash
 ###### sudo apt install emacs25
-##### Εκτέλεση (vim)
+##### Εκτέλεση 6.1 (vim)
 ###### vim -h
 ###### vim filename
+##### Εκτέλεση script μέσα απο τον vim
 ###### :!%
-bookmark1
-bookmark2
-# vimtex
-
-
-
-
-###### 
+##### Εκτέλεση βασικών εντολών:
+###### x - σβήσιμο χαρακτήρα
+###### i- εισαγωγή χαρακτήρα
+###### re - αντικατάτασταση χαρακτήρα
+###### shortcuts: G,gg,GG
+###### / - αναζήτηση χαρακτήρα
+##### Άλλες ειδικές εντολές:
+###### ciw, ci", ci(, cc
+##### split 
+###### split, vsplit
+##### Εκτέλεση 6.2 (spacevim)
+##### Ρύθμιση του spacevim για default IDE
+###### /.SpaceVim.d/init.toml
+##### Εκτέλεση βαικών λειτουργιών με spacevim
+##### Εκτέλεση 6.3 ()
+ 
 
 
 
