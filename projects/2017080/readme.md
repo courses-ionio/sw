@@ -36,7 +36,7 @@
 ###### ssh -6 sleft@192.168.1.81 //Use IPv6 addresses only.
 ###### ssh -C sleft@192.168.1.81 //Use data compression.
 ###### ssh -c aes256-ctr sleft@192.168.1.81 //Cryptography Cipher.
-#### [Link για Asciinema](https://asciinema.org/)
+#### [Link1 για Asciinema](https://asciinema.org/)
 #
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
@@ -47,7 +47,7 @@
 ###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
 ###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
 ###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
-#### [Link για Asciinema](https://asciinema.org/)
+#### [Link2 για Asciinema](https://asciinema.org/)
 #
 ### Άσκηση 3(performance monitoring)
 #### Κατέβασμα Hyperfine
@@ -62,3 +62,5 @@
 ###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
 #### Αποτελέσματα
 ##### Να γράψω την έγινε μετά την εκτέλεση
+#### [Link3 για Asciinema](https://asciinema.org/)
+#
