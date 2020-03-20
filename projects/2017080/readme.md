@@ -26,17 +26,17 @@
 #### Remote Host Προαπαιτούμενα
 ###### sudo apt-get install openssh-server 
 #### Σύνδεση με τον Remote Host
-###### ssh sleft@192.168.1.81
+###### ssh sleft@192.168.150.129
 ###### cd ~
 ###### mkdir dummy
 ###### cd dummy
 ###### cat > sample.txt
 #### Παράμετροι στην σύνδεση
-###### ssh -4 sleft@192.168.1.81 //Use IPv4 addresses only.
-###### ssh -6 sleft@192.168.1.81 //Use IPv6 addresses only.
-###### ssh -C sleft@192.168.1.81 //Use data compression.
-###### ssh -c aes256-ctr sleft@192.168.1.81 //Cryptography Cipher.
-#### [Link1 για Asciinema](https://asciinema.org/)
+###### ssh -4 sleft@192.168.150.129 //Use IPv4 addresses only.
+###### ssh -6 sleft@192.168.150.129 //Use IPv6 addresses only.
+###### ssh -C sleft@192.168.150.129 //Use data compression.
+###### ssh -c sleft@192.168.150.129 //Cryptography Cipher.
+#### [Link1 για Asciinema](https://asciinema.org/a/oUqjLOw3qDuK7vFNf7mZnEnqb)
 #
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
