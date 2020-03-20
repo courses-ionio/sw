@@ -63,8 +63,7 @@
 ###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
 #### Αποτελέσματα
 ##### Να γράψω την έγινε μετά την εκτέλεση
-#### [Link3 για Asciinema](https://asciinema.org/a/ucFUf2xxYqrONhwl5WzIdFuuP
-)
+#### [Link3 για Asciinema](https://asciinema.org/a/ucFUf2xxYqrONhwl5WzIdFuuP)
 #
 ### Άσκηση 4(try different terminals and shells)
 ##### a) Guake
