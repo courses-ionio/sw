@@ -168,5 +168,51 @@
 
 ---
 
+### Άσκηση 5:
 
+### Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
+
+```
+
+1) $ sudo apt-get update
+
+2) $ sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+    
+3) $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+4) $ sudo apt-key fingerprint 0EBFCD88
+
+5) $ sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   
+6) $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+### Δημιουργία image Apache σε php με το Docker:
+ Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
+ 
+```
+ 
+ $ docker run -d -p 80:80 --name my-apache-php-app -v "$PWD":/var/www/html php:7.2-apache
+ 
+```
+
+### Asciinema URL: [asciinema](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+
+### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
+
+![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
+
+### References
+
+[docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+[dockerhub](https://hub.docker.com/_/php)
+
+---
 
