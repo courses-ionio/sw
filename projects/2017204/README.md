@@ -62,3 +62,33 @@
 [fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
 [terminals](https://linuxhint.com/best_terminal_aternatives_ubuntu/)
 
+---
+
+### Άσκηση 2:
+Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
+
+```
+ 1) $ wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+ 
+ 2) $ sudo dpkg -i hyperfine_1.9.0_amd64.deb
+```
+
+Για την εκπόνηση της εργασίας αυτής χρησιμοποιήθηκαν δύο python scripts, ώστε να γίνει παρακολούθηση των αρχείων αυτών κατά την εκτέλεσή τους. Πιο συγκεκριμένα, χρησιμοποιήθηκαν τα αρχεία example1.py και example2.py, όπου με την χρήση της παρακάτω εντολής βγήκαν κάποια αποτλέσμαατα όσον αφορά τον χρόνο εκτέλεσής τους (ελάχιστο, μέγιστο, μέσο χρόνο και μαζί με την τυπική απόκλιση).
+
+```
+ $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
+```
+
+### Asciinema URL: [asciinema](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
+
+Ακόμη, υπάρχει η δυνατότητα τα αποτελέσματα να εξαχθούν σε εξωτερικό αρχείο, για παράδειγμα σε αρχείο output.csv και αυτό επιτεύχθηκε με την παρακάτω εντολή:
+
+```
+ $ hyperfine --export-csv output 'pyhton3 example1.py' 'python3 example2.py'
+```
+### Τα αποτελέσματα στο αρχείο output.csv
+![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
+
+### References
+
+[Hyperfine](https://github.com/sharkdp/hyperfine)
