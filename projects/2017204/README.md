@@ -3,6 +3,8 @@
 ### Α.Μ.: Π2017204
 
 ### Άσκηση 1:
+Assignment: try different terminals and shells.
+
 Για να γίνει η διεκπεραίωση της εργασίας αυτής έκανα τη χρήση 5 διαφορετικών τέρμιναλς (guake, konsole, tilda, yuakake και terminology) και έγινε η εγκατάσταση αυτών με τις παρακάτω εντολες:
 
 ```
@@ -65,6 +67,8 @@
 ---
 
 ### Άσκηση 2:
+Assignment: performance monitoring.
+
 Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
 
 ```
@@ -95,6 +99,7 @@
 
 ---
 ### Άσκηση 3:
+Assignment: set-up cloud services.
 
 ### Για να γίνει η εγκατάσταση του OpenSSH έγραψα αρχικά την παρακάτω εντολή:
 ```
@@ -142,6 +147,7 @@
 ---
 
 ### Άσκηση 4:
+Assignment: send notifications to your desktop-mobile.
 
 ### Για να γίνει η εγκατάσταση του Ntfy έγραψα την παρακάτω εντολή:
 
@@ -169,6 +175,7 @@
 ---
 
 ### Άσκηση 5:
+Assignment: create a docker image for your development stack.
 
 ### Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
 
