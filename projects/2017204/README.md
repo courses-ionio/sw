@@ -79,7 +79,7 @@
  $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
 ```
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
+### Asciinema URL: [hyperfine](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
 
 Ακόμη, υπάρχει η δυνατότητα τα αποτελέσματα να εξαχθούν σε εξωτερικό αρχείο, για παράδειγμα σε αρχείο output.csv και αυτό επιτεύχθηκε με την παρακάτω εντολή:
 
@@ -129,7 +129,7 @@
 ```
 Αφού λοιπόν έγινε η σύνδεση των δύο συστημάτων, από το τέρμιναλ του λειτουργικού συστήματος Ubuntu εκτέλεσα το αρχείο cv με nano cv, το οποίο ήταν αποθηκευμένο στο Raspberry pi 4. Όλη η διαδικασία περιγράφεται παρακάτω στο βίντεο:
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/WjQ1cvKtJcGpUtuwJ34ZUYIes)
+### Asciinema URL: [openSSH](https://asciinema.org/a/WjQ1cvKtJcGpUtuwJ34ZUYIes)
 
 ### Το αρχείο cv κατά την εκτελέση του απο το απομακρυσμένο σύστημα Ubuntu.
 
@@ -157,7 +157,7 @@
 
 ![ntfy3](https://user-images.githubusercontent.com/44117722/76169046-5ef2d400-617d-11ea-95f7-e25dab899b56.png)
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
+### Asciinema URL: [ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
 
 ### Όταν κατέβηκε το αρχείο βίντεο εμφανίστηκε το μήνυμα πάνω από το τέρμιναλ.
 ![Screenshot from 2020-03-08 19-50-25](https://user-images.githubusercontent.com/44117722/76168422-6c598f80-6178-11ea-92da-c9378161fe24.png)
@@ -203,7 +203,7 @@
  
 ```
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+### Asciinema URL: [docker](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
 
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
