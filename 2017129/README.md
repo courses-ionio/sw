@@ -22,7 +22,10 @@ references:
 
 deliverables: 
 
-references: [netlify](https://www.netlify.com/)
+references: github,[netlify](https://www.netlify.com/)
+
+[github-asciinema](https://asciinema.org/a/TNefNv850tRrTi00tcoYwJ0Xb)
+https://chrikri.github.io/CV/
 
 [my netlify](https://app.netlify.com/sites/chrikri/overview)
 
