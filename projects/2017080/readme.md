@@ -89,6 +89,8 @@
 ###### ntfy send test
 ###### ntfy -t 'ntfy' send "Here's a custom notification title!" //Custom Tittles
 ###### ntfy done hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py' // Ειδοποίηση αφού ολοκληρωθεί το Benchmarks
+###### ntfy done git clone https://github.com/dschep/ntfy.git
+
 
 
 
