@@ -17,4 +17,16 @@ references:
 
 [asciinema](https://asciinema.org/a/JvpO6wWi3Dt9YaQ8d7Qs3iYis)
 
+
+* ## ΑΣΚΗΣΗ 2
+
+deliverables: 
+
+references: [netlify](https://www.netlify.com/)
+
+[my netlify](https://app.netlify.com/sites/chrikri/overview)
+
+[site using netlify](https://chrikri.netlify.com/)
+
+
 # Συμμετοχικό περιεχόμενο
