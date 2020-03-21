@@ -82,7 +82,14 @@
 ##### Το Terminal Terminator...
 #### [Link5 για Asciinema](https://asciinema.org/)
 #
-#### Άσκηση 5()
+#### Άσκηση 5(send notifications to your desktop-mobile)
+#### Εγκατάσταση ntfy
+###### sudo pip install ntfy
+#### Εκτέλεση
+###### ntfy send test
+###### ntfy -t 'ntfy' send "Here's a custom notification title!" //Custom Tittles
+###### 
+
 
 
 
