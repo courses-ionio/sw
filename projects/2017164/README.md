@@ -8,7 +8,7 @@
 
 * Deliverables : send a notifcation when a big task completes, eg download, compiling, etc.  
 
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/ "asciinema") 
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312457 "asciinema") 
 
 * Εργαλεία που χρησιμοποίησα :
     * [notify(ntfy)](https://github.com/dschep/ntfy/ "ntfy")
