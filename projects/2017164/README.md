@@ -10,6 +10,8 @@
 
 * Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312457 "asciinema") 
 
+* Screenshot απο το κινητό για την εμφάνηση της ειδοποίησης ![Smartphone Screenshot](https://snipboard.io/lnI2uj.jpg)
+
 * Εργαλεία που χρησιμοποίησα :
     * [notify(ntfy)](https://github.com/dschep/ntfy/ "ntfy")
 
