@@ -69,16 +69,16 @@ pushbullet:
     
  ## 4η Άσκηση : 
 
-* Assignment : 
+* Assignment : create an agent for news
 
-* Deliverables :   
+* Deliverables : the demo should display the new content added on a news web site 
 
 * Περιγραφή : 
 
 * Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
 
 * Εργαλεία που χρησιμοποίησα :
-    * []("")
+    * [Huginn](https://github.com/huginn/huginn "huginn")
     
   ## 5η Άσκηση : 
 
