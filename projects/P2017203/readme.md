@@ -186,7 +186,7 @@
 ###### echo $i
 ###### end
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310376) το link.
 #
 ### Άσκηση 3
 ##### Τίτλος: set-up cloud services
@@ -270,7 +270,7 @@
 ##### Εκτέλεση των python scripts της άσκησης 1
 ##### Σύνδεση με ftp, get της καταγραφής, αναπαραγωγή καταγραφής
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310637) το link.
 #
 ### Άσκηση 4
 ##### Τίτλος: choose your stack
@@ -310,7 +310,7 @@
 ###### how2 pull request github 
 ###### lynx https://unix.stackexchange.com/questions/16743/github-adding-a-repository-as-a-fork-from-an-existing-clone/16765#16765
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/311128) το link.
 #
 ### Άσκηση 5
 ##### Τίτλος: set-up a system for python development
@@ -345,7 +345,7 @@
 ##### install the same packages using the same versions
 ###### pip install -r requirements.txt 
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/311158) το link.
 #
 ### Άσκηση 6
 ##### Τίτλος: use the terminal as an IDE
@@ -374,7 +374,7 @@
 ###### emacs -nw 
 ##### Εκτέλεση 6.4 (spacemacs)
 ###### emacs -nw
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό]() το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/312511) το link.
 
  
 
