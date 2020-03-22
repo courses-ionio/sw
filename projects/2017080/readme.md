@@ -50,7 +50,7 @@
 #### [Link2 για Asciinema](https://asciinema.org/a/sBU6lllryDmjIBGjke4IK8Up3)
 #
 ### Άσκηση 3(performance monitoring)
-#### Κατέβασμα Hyperfine
+#### 3.1 Κατέβασμα Hyperfine
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 #### Εγκατάσταση Hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
@@ -64,6 +64,12 @@
 #### Αποτελέσματα
 ##### Μετά την εκτέλεση των Benchmarks με το Hyperfine είναι φανερός πως ο αλγόριθμος ταξινόμησης Selection Sort πρόκειται για ένα πιο γρήγορο αλγόριθμο καθώς σύμφωνα με το εργαλείο εκτελείται περίπου 2 φορες πιο γρήγορα από τον Bubble Sort. Αυτό φαίνεται και στην πολυπλοκότητα των αλγορίθμων αφού ο Selection Sort έχει Complexity O(n) ενώ ο Bubble Sort O(n2).
 #### [Link3 για Asciinema](https://asciinema.org/a/ucFUf2xxYqrONhwl5WzIdFuuP)
+#### 3.2 Κατέβασμα py-spy
+###### sudo pip install py-spy
+#### Τρέξιμο
+###### py-spy record -o results.svg -- python selectionsort.py //Γραφική αναπαράσταση του προγράμματος και αποθήκευση του Output στον φάκελο results.svg
+###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
+###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
 #
 ### Άσκηση 4(try different terminals and shells)
 ##### a) Guake
