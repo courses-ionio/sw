@@ -48,18 +48,7 @@ pushbullet:
 * Εργαλεία που χρησιμοποίησα :
     * [Hyperfine](https://github.com/sharkdp/hyperfine "Hyperfine")
     
-## 3η Άσκηση : 
 
-* Assignment : 
-
-* Deliverables :   
-
-* Περιγραφή : 
-
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
-
-* Εργαλεία που χρησιμοποίησα :
-    * []("")
 ## 3η Άσκηση : 
 
 * Assignment : 
