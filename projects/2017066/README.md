@@ -15,6 +15,16 @@
 
 ## Δεύτερη Εργασία
 
+* title: create your own static site and blog generator
+* deliverables: the generator should consider posts, pages, and templates
+* tools used: hugo 
+* prequisites: brew
+* asciinema: https://asciinema.org/a/312446
+* description: 
+  * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα.
+
+## Τρίτη Εργασία
+
 * title:
 * deliverables: 
 * tools used: 
