@@ -77,7 +77,7 @@
 #### Εγκατάσταση
 ###### sudo apt-get install fish
 #### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
-#### [Link4 για Asciinema](https://asciinema.org/)
+#### [Link4 για Asciinema](https://asciinema.org/a/oBwd7tj8zFRbFWiKysY2vwIxV)
 #
 #### Terminator Customisation
 ###### terminator -m //Maximized
