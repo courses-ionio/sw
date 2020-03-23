@@ -37,7 +37,7 @@ AM: Π2017063
    
    #### [Link για την άσκηση](https://asciinema.org/a/oTJZq0Fe6blPNT40QYy13irV8)
    
-   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [the simple (suckless) terminal](https://github.com/LukeSmithxyz/st) και [Mosh: the mobile shell](https://github.com/mobile-shell/mosh). 
+   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [the simple (suckless) terminal](https://github.com/LukeSmithxyz/st) και [Z shell](https://en.wikipedia.org/wiki/Z_shell). 
    
    Με την χρήση του συγκεκριμένου κελιού και τερματικού αλλά και με την χρήση του το [imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/), εργαλείο το οποίο χρησιμοποίησα για την επεξεργασία εικόνων, υλοποίησα μία από τις προηγούμενες εργασίες και συγκεκριμένα την εργασία "batch image conversion (convert your image files to different sizes and formats)" από τα Πολυμέσα αλλάζοντας το format των φωτογραφιών και απο .jpg σε .jpeg. Με τη χρήση της εντολής `convert *jpg *jpeg` δημιουργήθηκαν στον φάκελο  τέσσερις νέες φωτογραφίες αντίγραφα των προηγούμενων αλλά και σε .jpeg (στον φάκελο υπάρχουν και οι εικόνες σε .jpg).
 
