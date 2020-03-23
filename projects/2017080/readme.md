@@ -72,14 +72,11 @@
 ###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
 #
 ### Άσκηση 4(try different terminals and shells)
-##### a) Guake
+##### a) Fish
 ##### b) Terminator
 #### Εγκατάσταση
-###### sudo apt-get install guake
-###### sudo apt-get install terminator
-#### Guake Customisation
-###### guake --bgcolor=#BA55D3
-##### Το Terminal Guake..
+###### sudo apt-get install fish
+#### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ ένα πρόγραμμα με Python που εκτυπώνει 10 φορές το "Hello World".
 #### [Link4 για Asciinema](https://asciinema.org/)
 #
 #### Terminator Customisation
