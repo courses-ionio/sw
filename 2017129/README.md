@@ -24,7 +24,7 @@ deliverables: build and deploy your static site and your cv dynamically every ti
 
 references: github,[netlify](https://www.netlify.com/)
 
-*α´ τρόπος
+* α´ τρόπος
 
 [asciinema (github-site)](https://asciinema.org/a/TNefNv850tRrTi00tcoYwJ0Xb)
 
@@ -37,7 +37,11 @@ references: github,[netlify](https://www.netlify.com/)
 
 [my netlify](https://app.netlify.com/sites/chrikri/overview)
 
-[site using netlify](https://chrikri.netlify.com/)
+[site using netlify](https://chrikri.netlify.com/3
+
+
+* ## ΑΣΚΗΣΗ 3
+
 
 
 # Συμμετοχικό περιεχόμενο
