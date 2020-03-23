@@ -83,7 +83,7 @@
 ###### terminator -m //Maximized
 ###### terminator -b//Bordless
 ##### Το Terminal Terminator...
-#### [Link5 για Asciinema](https://asciinema.org/)
+#### [Link5 για Asciinema](https://asciinema.org/a/aVVsEsfTuUu1binp9VtIb6yYw)
 #
 #### Άσκηση 5(send notifications to your desktop-mobile)
 #### Εγκατάσταση ntfy
