@@ -223,6 +223,32 @@ Assignment: create a docker image for your development stack.
 
 ![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
 
+Κάποιες χρήσιμες εντολές είναι οι παρακάτω:
+
+Container που τρέχει.
+```
+ $ docker ps
+```
+Containers που τρέχουν ή είναι ανενεργά.
+```
+ $ docker ps -a
+```
+Τερματίζω ένα conatainer.
+```
+ $ docker stop "id"
+```
+Σβήνω ένα container αφού πρώτα το σταματήσω με την παραπάνω εντολή.
+```
+ $ docker rm "id"
+```
+Βλέπω όλα τα "images"
+```
+ $ docker images
+```
+Σβήνω ένα "image".
+```
+ $ docker rmi "id"
+```
 ### References
 
 [docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
