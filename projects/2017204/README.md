@@ -24,7 +24,7 @@ Assignment: try different terminals and shells.
 
 ![guake](https://user-images.githubusercontent.com/44117722/77182803-02c17580-6ad6-11ea-91d3-7c7b98f7de32.png)
 
-### konsole
+### konsole: είναι ένα τέρμιναλ, το οποίο οποίο έχει ενσωματωμένο μενού, το οποίο βοηθάει τον χρήστη για τις ανάγκες που το  χρησιμοποιεί. Τέλος, μπορεί να χρησιμοποιηθεί σε λειτουργία πλήρους οθόνης πατώντας το πλήκτρο F11.
 
 ### Asciinema URL: [konsole](https://asciinema.org/a/pXYzb2EAjgaVDGJlWKxVMTSlM)
 
