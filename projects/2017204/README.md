@@ -223,7 +223,7 @@ Assignment: create a docker image for your development stack.
 
 ![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
 
-Κάποιες χρήσιμες εντολές είναι οι παρακάτω:
+### Κάποιες χρήσιμες εντολές είναι οι παρακάτω:
 
 Container που τρέχει.
 ```
