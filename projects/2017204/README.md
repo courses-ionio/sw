@@ -61,6 +61,13 @@ Assignment: try different terminals and shells.
 ```
 ### Asciinema URL: [fish](https://asciinema.org/a/nlhsWjVWQEb320ttdMNeLMPv3)
 
+Για να χρησιμοποίησει ο χρήστης το shell fish πρέπει να πατήσει την εντολή fish. Έπειτα μπορεί να βρεί αρκετές πληροφορίες όσον αφορά τις εντολές χρήσης πατώντας την ακόλουθη εντολή:
+
+```
+man set
+```
+
+
 ### References
 
 [fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
