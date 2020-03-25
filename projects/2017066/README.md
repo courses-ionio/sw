@@ -24,9 +24,9 @@
   * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα.
   
   **images**
-  *step1:* ![step1](/images/hugo1.png)
-  *step2:* ![step2](/images/hugo2.png)
-  *step3:* ![step3](/images/hugo3.png)
+  *step1:* ![step1](images/hugo1.png)
+  *step2:* ![step2](images/hugo2.png)
+  *step3:* ![step3](images/hugo3.png)
 
 ## Τρίτη Εργασία
 
