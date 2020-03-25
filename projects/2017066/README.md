@@ -40,9 +40,14 @@
   Εικόνα_1 ![ntfy11](images/ntfy11.png)
   Εικόνα_2 ![ntfy22](images/ntfy22.png)
   Εικόνα_3 ![ntfy33](images/ntfy33.png)
-  Εικόνα_4 ![ntfygif](images/ntfygif.gif)
+  
+  Εικόνα_4 
+  ![ntfygif](images/ntfygif.gif)
+  
   Εικόνα_5 ![ntfy44](images/ntfy44.png)
+  
   Εικόνα_6 ![ntfy55](images/ntfy55.png)
+  
   Εικόνα_7 ![ntfy44](images/ntfyfrompoco.jpg)
   
 ## Τέταρτη Εργασία
@@ -59,7 +64,7 @@
 
 * title:performance monitoring
 * deliverables: monitor the performance of your python scripts and visualize them with colors and/or spark lines
-* tools used: hyperfine
+* tools used: [hyperfine](https://github.com/sharkdp/hyperfine)
 * prequisites: python 
 * asciinema: https://asciinema.org/a/312831 (3:40-6:40 εκτέλεση του bubblesort, μπορείτε να κάνετε skip)
 * description:
@@ -69,8 +74,8 @@
 
 * title: set-up a system for python development
 * deliverables: install and configure in a user folder a python project that is not available through the package manager
-* tools used: pipenv, virtualenv
+* tools used: [pipenv, virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 * prequisites: pip,pip3,python,python3
 * asciinema: https://asciinema.org/a/312840
 * description:
-  * Για την τελευταία εργασία, πρώτα έγινε η εγκατάσταση μέσω pip του pipenv, μετά έγινε ένας φάκελος με όνομα pyproj, ο οποίος θα περιέχει αργότερα ένα python project. Αφού μπούμε μέσα στον φάκελο pyproj, εγκαθιστούμε τα πακέτα τα οποία απαιτούνται για το project. Αυτό επιτυγχάνεται με την εντολή [pipenv install requests]. Έπειτα, δημιουργούμε ένα απλό python αρχείο με όνομα main.py και το επεξεργαζόμαστε με τέτοιο τρόπο έτσι ώστε να μας επιστρέφει την ip μας. Με το pipenv εκτελούμε το main.py επιτυχώς. Tέλος, εγκαθιστούμε το virtualenv το οποίο είναι ένα εργαλείο που μπορεί να δημιουργήσει Python environments. Στην ουσία δημιουργεί ένα φάκελο που περιέχει όλα τα απαραίτητα εκτελέσιμα αρχεία που χρησιμοποιούν τα πακέτα που θα χρειαστεί ένα python project. Στο asciinema γίνεται ένα demo για την δημιουργία φακέλου με τα εκτελέσιμα, την ενεργοποίηση και απενεργοποίηση του virtual environment.
+  * Για την τελευταία εργασία, πρώτα έγινε η εγκατάσταση μέσω pip του pipenv, μετά έγινε ένας φάκελος με όνομα pyproj, ο οποίος θα περιέχει αργότερα ένα python project. Αφού μπούμε μέσα στον φάκελο pyproj, εγκαθιστούμε τα πακέτα τα οποία απαιτούνται για το project. Αυτό επιτυγχάνεται με την εντολή `pipenv install requests`. Έπειτα, δημιουργούμε ένα απλό python αρχείο με όνομα main.py και το επεξεργαζόμαστε με τέτοιο τρόπο έτσι ώστε να μας επιστρέφει την ip μας. Με το pipenv εκτελούμε το main.py επιτυχώς. Tέλος, εγκαθιστούμε το virtualenv το οποίο είναι ένα εργαλείο που μπορεί να δημιουργήσει Python environments. Στην ουσία δημιουργεί ένα φάκελο που περιέχει όλα τα απαραίτητα εκτελέσιμα αρχεία που χρησιμοποιούν τα πακέτα που θα χρειαστεί ένα python project. Στο asciinema γίνεται ένα demo για την δημιουργία φακέλου με τα εκτελέσιμα, την ενεργοποίηση και απενεργοποίηση του virtual environment.
