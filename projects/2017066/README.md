@@ -56,7 +56,7 @@
 * deliverables: try different wm and configure one to fit your needs
 * tools used: i3,playerctl,feh
 * prequisites: brew
-* asciinema: 1)https://asciinema.org/a/312462, 2)https://asciinema.org/a/312474
+* asciinema: [link1](https://asciinema.org/a/312462], [link2](https://asciinema.org/a/312474)
 * description:
   * Επέλεξα να χρησιμοποιήσω τον window manager i3 καθώς είναι από τους πιο δημοφιλείς tilling window managers. Το πρώτο βήμα ήταν η εγκατάστασή του, και μετά από logout της τρέχουσας σύνδεσης άνοιξα τον i3. Έπειτα, επέλεξα το mod key καθώς και ο i3 δημιούργησε, με την έγκρισή μου, το config file. Η πρώτη αλλαγή που έκανα στον i3 είναι το key binding mod+shift+x για το κλείδωμα του i3. Έπειτα, μετά από αναζήτηση σε forums, κατάφερα να βρω την ενεργοποίηση των κουμπιών volume, ενεργοποίησης/απενεργοποίησης touchpad (για το λάπτοπ) και άλλων multimedia keys(πηγή: https://faq.i3wm.org/question/3747/enabling-multimedia-keys/?answer=3759#post-id-3759). Έγινε και install του playerctl για τα κουμπιά play, stop, next, previous. Μετά, άλλαξα το wallpaper του συστήματος ώστε να μένει ανοιχτό πάντα (χρήση του πακέτου feh). Τέλος, δημιούργησα 2 workspaces, ένα για firefox και ένα για terminals. Στο workspace terminal ανοίγει το terminal ενώ στο firefox ανοίγει αυτόματα το firefox. Στο πρώτο record φαίνεται στο asciinema τo installation του i3, ενώ στο 2ο φαίνεται το configuration μέσα από τον i3.
 
@@ -66,7 +66,7 @@
 * deliverables: monitor the performance of your python scripts and visualize them with colors and/or spark lines
 * tools used: [hyperfine](https://github.com/sharkdp/hyperfine)
 * prequisites: python 
-* asciinema: https://asciinema.org/a/312831 (3:40-6:40 εκτέλεση του bubblesort, μπορείτε να κάνετε skip)
+* asciinema: [link](https://asciinema.org/a/312831) (3:40-6:40 εκτέλεση του bubblesort, μπορείτε να κάνετε skip)
 * description:
   * Για την σύγκριση των python scripts (απλοί sorting αλγόριθμοι, οι οποίοι βρέθηκαν στο geeksforgeeks.org) δημιούργησα ένα python script το οποίο δημιουργεί ένα .txt αρχείο με 10000 τυχαίους αριθμούς. Μετά την εκτέλεσή του, δημιουργείται το .txt αρχείο που θέλουμε. Έπειτα επεξεργάζομαι τα αρχεία με τους sorting αλγόριθμους έτσι ώστε να "τραβάνε" τα δεδομένα του .txt αρχείου. Θεώρησα ότι για την δικαιότερη σύγκριση θα έπρεπε και οι δύο αλγόριθμοι να παίρνουν τα ίδια δεδομένα. Με την εκτέλεση του hyperfine, με 3 warmups για να είναι πιο ακριβή τα νούμερα, μας εμφανίζει στην οθόνη την σύγκριση, σε χρόνο εκτέλεσης των 2 script.
   
@@ -76,6 +76,6 @@
 * deliverables: install and configure in a user folder a python project that is not available through the package manager
 * tools used: [pipenv, virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 * prequisites: pip,pip3,python,python3
-* asciinema: https://asciinema.org/a/312840
+* asciinema: [link](https://asciinema.org/a/312840)
 * description:
   * Για την τελευταία εργασία, πρώτα έγινε η εγκατάσταση μέσω pip του pipenv, μετά έγινε ένας φάκελος με όνομα pyproj, ο οποίος θα περιέχει αργότερα ένα python project. Αφού μπούμε μέσα στον φάκελο pyproj, εγκαθιστούμε τα πακέτα τα οποία απαιτούνται για το project. Αυτό επιτυγχάνεται με την εντολή `pipenv install requests`. Έπειτα, δημιουργούμε ένα απλό python αρχείο με όνομα main.py και το επεξεργαζόμαστε με τέτοιο τρόπο έτσι ώστε να μας επιστρέφει την ip μας. Με το pipenv εκτελούμε το main.py επιτυχώς. Tέλος, εγκαθιστούμε το virtualenv το οποίο είναι ένα εργαλείο που μπορεί να δημιουργήσει Python environments. Στην ουσία δημιουργεί ένα φάκελο που περιέχει όλα τα απαραίτητα εκτελέσιμα αρχεία που χρησιμοποιούν τα πακέτα που θα χρειαστεί ένα python project. Στο asciinema γίνεται ένα demo για την δημιουργία φακέλου με τα εκτελέσιμα, την ενεργοποίηση και απενεργοποίηση του virtual environment.
