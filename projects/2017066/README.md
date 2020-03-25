@@ -7,7 +7,7 @@
 
 * title: try different terminals and shells
 * deliverables: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
-* tools used: fish shell, oh-my-fish
+* tools used: [fish shell](https://fishshell.com/), [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 * prequisites: curl,git,jq
 * asciinema: https://asciinema.org/a/312395
 * description:
@@ -22,6 +22,9 @@
 * asciinema: https://asciinema.org/a/312446
 * description: 
   * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα.
+  1.
+  1.
+  1.
 
 ## Τρίτη Εργασία
 
