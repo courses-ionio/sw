@@ -9,7 +9,6 @@ Assignment: try different terminals and shells.
 
 ```
  $ sudo apt-get -f install guake
- $ sudo apt-get -f install konsole
  $ sudo apt-get -f install tilda
  $ sudo apt-get -f install yakuake
  $ sudo apt-get -f install terminology
@@ -23,14 +22,6 @@ Assignment: try different terminals and shells.
 ### Εικόνα του τέρμιναλ "guake".
 
 ![guake](https://user-images.githubusercontent.com/44117722/77182803-02c17580-6ad6-11ea-91d3-7c7b98f7de32.png)
-
-### konsole: είναι ένα τέρμιναλ, το οποίο οποίο έχει ενσωματωμένο μενού, το οποίο βοηθάει τον χρήστη για τις ανάγκες που το  χρησιμοποιεί. Τέλος, μπορεί να χρησιμοποιηθεί σε λειτουργία πλήρους οθόνης πατώντας το πλήκτρο F11.
-
-### Asciinema URL: [konsole](https://asciinema.org/a/pXYzb2EAjgaVDGJlWKxVMTSlM)
-
-### Εικόνα του τέρμιναλ "konsole".
-
-![konsole](https://user-images.githubusercontent.com/44117722/77183180-9abf5f00-6ad6-11ea-81ae-f49038457c1e.png)
 
 ### tilda: είναι ένα τέρμιναλ, που δεν καταλαμβάνει ολόκληρη την οθόνη, αλλά έχει το χαρακτηριστικό να μετακινείς το τέρμιναλ στο πάνω ή στο κάτω μέρος της οθόνης, χρησιμοποιώντας το F1 πλήκτρο. Επίσης, υπάρχει το χαρακτηριστικό ότι ο χρήστης μπορεί να αλλάξει την εμφάνισή του, αλλάζοντας τον φόντο του τέρμιναλ. Τέλος, υπάρχει η δυνατότητα αλλαγής πλήκτρων με βάση τις ανάγκες μας.
 
