@@ -45,13 +45,13 @@
 
 ## Πέμπτη Εργασία
 
-* title:
-* deliverables: 
-* tools used: 
-* prequisites:
-* asciinema: 
+* title:performance monitoring
+* deliverables: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+* tools used: hyperfine
+* prequisites: python 
+* asciinema: https://asciinema.org/a/312831 (3:40-6:40 εκτέλεση του bubblesort, μπορείτε να κάνετε skip)
 * description:
-  * 
+  * Για την σύγκριση των python scripts (απλοί sorting αλγόριθμοι, οι οποίοι βρέθηκαν στο geeksforgeeks.org) δημιούργησα ένα python script το οποίο δημιουργεί ένα .txt αρχείο με 10000 τυχαίους αριθμούς. Μετά την εκτέλεσή του, δημιουργείται το .txt αρχείο που θέλουμε. Έπειτα επεξεργάζομαι τα αρχεία με τους sorting αλγόριθμους έτσι ώστε να "τραβάνε" τα δεδομένα του .txt αρχείου. Θεώρησα ότι για την δικαιότερη σύγκριση θα έπρεπε και οι δύο αλγόριθμοι να παίρνουν τα ίδια δεδομένα. Με την εκτέλεση του hyperfine, με 3 warmups για να είναι πιο ακριβή τα νούμερα, μας εμφανίζει στην οθόνη την σύγκριση, σε χρόνο εκτέλεσης των 2 script.
   
 ## Έκτη Εργασία
 
