@@ -9,7 +9,7 @@
 * deliverables: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 * tools used: [fish shell](https://fishshell.com/), [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 * prequisites: curl,git,jq
-* asciinema: https://asciinema.org/a/312395
+* asciinema: [link](https://asciinema.org/a/312395)
 * description:
   * Για την διεκπεραίωση της εργασίας επέλεξα να χρησιμοποιήσω το **fish shell**, το οποίο προορίζεται για αρχάριους χρήστες του unix. Μετά από την εγκατάσταση του fish, δοκίμασα να κάνω μερικές απλές εργασίες από άλλα μαθήματα (check the weather + batch image conversion) και όπως παρατηρούμε οι εργασίες στο fish shell πραγματοποιούνται περίπου το ίδιο με το bash shell που έρχεται προεγκατεστημένο. Για την τροποποίηση του fish shell εγκατέστησα το **oh-my-fish**, το οποίο μας επιτρέπει να εγκαθιστούμε πακέτα και να τροποποιούμε την εμφάνιση του fish shell μας. Με το oh my fish άλλαξα το θέμα του shell και έπειτα εγκατέστησα το πακέτο weather το οποίο μας επιτρέπει να τσεκάρουμε τον καιρό. Συνεπώς, παρατηρούμε ότι με αυτό το πακέτο γίνεται η ίδια άσκηση με πριν με απλούστερο τρόπο μέσω του fish shell. Τέλος, δημιούργησα συναρτήσεις στον φάκελο `/.config/fish/functions/` που μπορούν να φανούν (σε εμένα προσωπικά) χρήσιμες. Πιο συγκεκριμένα, η συνάρτηση am αλλάζει το fish prompt με τον αριθμό μητρώου μου, ο οποίος χρειάζεται σε κάθε καταγραφή στο asciinema. Η συνάρτηση ip_addr εμφανίζει την τρέχουσα διεύθυνση ip, η συνάρτηση backup δημιουργεί ένα  αρχείο .bak για το backup ενός αρχείου (παίρνοντας ως είσοδο ένα αρχείο), η συνάρτηση dim χαμηλώνει την φωτεινότητα του υπολογιστή, ενώ η light την αυξάνει. Προφανώς υπάρχουν άπειροι τρόποι να τροποποιήσουμε τον fish shell για να αυξήσουμε την παραγωγικότητα μας και να φτάσουμε τις δυνατότητες του shell σε κορυφαίο επίπεδο. Οι εντολές που χρησιμοποίησα φαίνονται αναλυτικότερα στο asciinema record.
 
@@ -17,9 +17,9 @@
 
 * title: create your own static site and blog generator
 * deliverables: the generator should consider posts, pages, and templates
-* tools used: hugo 
-* prequisites: brew
-* asciinema: https://asciinema.org/a/312446
+* tools used: [hugo](https://gohugo.io/) 
+* prequisites: [brew](https://brew.sh/index_el)
+* asciinema: [link](https://asciinema.org/a/312446)
 * description: 
   * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα.
   
@@ -32,11 +32,18 @@
 
 * title: send notifications to your desktop-mobile 
 * deliverables: 	send a notifcation when a big task completes, eg download, compiling, etc
-* tools used: ntfy, speedtest-cli
-* prequisites:pip,telegram account and app(android+ubuntu)
-* asciinema: https://asciinema.org/a/312524
+* tools used: [ntfy](https://github.com/dschep/ntfy), [speedtest-cli](https://www.speedtest.net/apps/cli)
+* prequisites:pip,[telegram](https://telegram.org/) account and app(android+ubuntu)
+* asciinema: [link](https://asciinema.org/a/312524)
 * description:
-  * Για την τρίτη εργασία χρησιμοποίησα το προτεινόμενο εργαλείο ntfy για την αποστολή ειδοποιήσεων στο desktop και mobile. To πρώτο βήμα ήταν η εγκατάστασή του μέσω pip. Aμέσως μετά δοκίμασα ότι λειτουργεί όντως στέλνοντας ένα μήνυμα hello σαν ειδοποίηση στο desktop. Έπειτα δημιούργησα ένα αρχείο, update.sh, το οποίο στην ουσία (με την εκτέλεσή του από το terminal) κάνει το update του συστήματος και μόλις τελειώσει το update ενημερώνει τον χρήστη. Για την περαιτέρω εξοικείωση με το ntfy, κατέβασα το εργαλείο speedtest-cli που μας δείχνει πληροφορίες για το δίκτυό μας. Με την εκτέλεση αυτού του εργαλείου, αφού γίνει pipe η έξοδός του στο ntfy, το ntfy μας ενημερώνει για τα αποτελέσματα του speedtest μέσω ειδοποίησης. Αφού το ntfy μας δίνει την δυνατότητα να στέλνουμε ειδοποιήσεις και στο κινητό, αποφάσισα να στείλω μια ειδοποίηση στο κινητό μέσω της εφαρμογής telegram που υπάρχει για ubuntu και android. Αφού γίνεται το install του ntfy[telegram], πρέπει να γίνει αποστολή ενός μηνύματοος στον BotFather στο telegram έτσι ώστε να δημιουργήσουμε ένα δικό μας bot στο telegram και να μας δώσει το token του. Αφού γίνει αυτή η διαδικασία, μπορούμε να στείλουμε μέσω cli την ειδοποίηση που επιθυμούμε στο κινητό μας. Τέλος, έγινε και shell integration του ntfy και κάθε φορά που μια εντολή περνάει τα 10s (default) εκτέλεσης εμφανίζεται σαν ειδοποίηση η επιτυχής/ανεπιτυχής εκτέλεση.
+  * Για την τρίτη εργασία χρησιμοποίησα το προτεινόμενο εργαλείο **ntfy** για την αποστολή ειδοποιήσεων στο desktop και mobile. To πρώτο βήμα ήταν η εγκατάστασή του μέσω pip. Aμέσως μετά δοκίμασα ότι λειτουργεί όντως στέλνοντας ένα μήνυμα hello σαν ειδοποίηση στο desktop **(Εικόνα_1)**. Έπειτα δημιούργησα ένα αρχείο, `update.sh`, το οποίο στην ουσία (με την εκτέλεσή του από το terminal) κάνει το update του συστήματος και μόλις τελειώσει το update ενημερώνει τον χρήστη **(Εικόνα_2)**. Για την περαιτέρω εξοικείωση με το ntfy, κατέβασα το εργαλείο **speedtest-cli** που μας δείχνει πληροφορίες για το δίκτυό μας . Με την εκτέλεση αυτού του εργαλείου, αφού γίνει pipe η έξοδός του στο ntfy, το ntfy μας ενημερώνει για τα αποτελέσματα του speedtest μέσω ειδοποίησης **(Εικόνα_3)**. Αφού το ntfy μας δίνει την δυνατότητα να στέλνουμε ειδοποιήσεις και στο κινητό, αποφάσισα να στείλω μια ειδοποίηση στο κινητό μέσω της εφαρμογής telegram που υπάρχει για ubuntu και android. Αφού γίνει το install του ntfy[telegram], πρέπει να γίνει αποστολή ενός μηνύματοος στον BotFather στο telegram έτσι ώστε να δημιουργήσουμε ένα δικό μας bot στο telegram και να μας δώσει το token του. **(Εικόνα_4)** Αφού γίνει αυτή η διαδικασία, μπορούμε να στείλουμε μέσω cli την ειδοποίηση που επιθυμούμε στο κινητό μας **(Eικόνα_5 Εικόνα_6)**. Τέλος, έγινε και shell integration του ntfy και κάθε φορά που μια εντολή περνάει τα 10s (default) εκτέλεσης εμφανίζεται σαν ειδοποίηση η επιτυχής/ανεπιτυχής εκτέλεση. 
+  Εικόνα_1 [ntfy11](images/ntfy11.png)
+  Εικόνα_2 [ntfy22](images/ntfy22.png)
+  Εικόνα_3 [ntfy33](images/ntfy33.png)
+  Εικόνα_4 [ntfygif](images/ntfygif.gif)
+  Εικόνα_5 [ntfy44](images/ntfy44.png)
+  Εικόνα_6 [ntfy55](images/ntfy55.png)
+  Εικόνα_7 [ntfy44](images/ntfyfrompoco.jpg)
   
 ## Τέταρτη Εργασία
 
