@@ -88,6 +88,8 @@
 ###### Split terminals vertically: Ctrl + Shift + E.
 ###### Close current Panel: Ctrl + Shift + W.
 ###### Open new tab: Ctrl + Shift + T.
+![image](https://github.com/p17bail/sw/blob/2017080/projects/2017080/Screenshot_1.png)
+
 #
 #### Άσκηση 5(send notifications to your desktop-mobile)
 #### Εγκατάσταση ntfy
