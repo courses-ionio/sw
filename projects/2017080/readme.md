@@ -89,7 +89,6 @@
 ###### Close current Panel: Ctrl + Shift + W.
 ###### Open new tab: Ctrl + Shift + T.
 ![image](https://github.com/p17bail/sw/blob/2017080/projects/2017080/Screenshot_1.png)
-
 #
 #### Άσκηση 5(send notifications to your desktop-mobile)
 #### Εγκατάσταση ntfy
@@ -100,6 +99,7 @@
 ###### ntfy done hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py' // Ειδοποίηση αφού ολοκληρωθεί το Benchmarks
 ###### ntfy done git clone https://github.com/dschep/ntfy.git
 ##### Μπορεί να χρησιμοποιηθεί επίσης η παράμετρος --pid όπου η ειδοποίηση εμφανίζεται αφού τερματιστεί η διαδικασία με το αντίστοιχο Process ID e.g.(ntfy done --pid 4829)
+![image](https://github.com/p17bail/sw/blob/2017080/projects/2017080/Screenshot_2.png)
 #### [Link5 για Asciinema](https://asciinema.org/a/cfi9jJYi112CNX42cXvGFuNWi)
 
 
