@@ -84,8 +84,10 @@
 #### Terminator Customisation
 ###### terminator -m //Maximized
 ###### terminator -b//Bordless
-##### Το Terminal Terminator...
-#### [Link5 για Asciinema](https://asciinema.org/a/aVVsEsfTuUu1binp9VtIb6yYw)
+###### Split terminals horizontally: Ctrl + Shift + O.
+###### Split terminals vertically: Ctrl + Shift + E.
+###### Close current Panel: Ctrl + Shift + W.
+###### Open new tab: Ctrl + Shift + T.
 #
 #### Άσκηση 5(send notifications to your desktop-mobile)
 #### Εγκατάσταση ntfy
