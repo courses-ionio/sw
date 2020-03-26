@@ -74,11 +74,13 @@
 ### Άσκηση 4(try different terminals and shells)
 ##### a) Fish
 ##### b) Terminator
-#### Εγκατάσταση
+#### Εγκατάσταση fish
 ###### sudo apt-get install fish
 #### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
 #### [Link4 για Asciinema](https://asciinema.org/a/oBwd7tj8zFRbFWiKysY2vwIxV)
 #
+#### Εγκατάσταση Terminator
+###### sudo apt-get install terminator
 #### Terminator Customisation
 ###### terminator -m //Maximized
 ###### terminator -b//Bordless
