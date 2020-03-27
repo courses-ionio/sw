@@ -67,7 +67,47 @@ Assignment: try different terminals and shells.
 ---
 
 ### Άσκηση 2:
-Assignment: performance monitoring.
+Assignment: use the terminal as the IDE.
+
+Αρχικά, έκανα εγκατάσταση του vim με την παρακάτω εντολή:
+
+```
+sudo apt-get install vim
+```
+Το επόμενο βήμα ήταν να γράψω την παρακάτω εντολή, ώστε να μπορώ να κάνω plugin μέσα στο vim:
+
+```
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim 
+```
+
+Αμέσως μέτα έκανα εγκατάσταση στον vim του Python-mode μέσω vim-plugin. Πιο συγκεκριμένα, η διαδικασία που ακολούθησα ήταν να δημιουρήσω ένα αρχείο .vimrc και μέσα σε αυτό να γράψω το εξής:
+
+```
+set number
+syntax on
+call plug#begin()
+Plug 'Klen/Python-mode'
+call plug#end()
+```
+Αφού γράψω τα παραπάνω πάω στο vim και εκτελώ τις εντολές PlugInstall και PlugUpdate. Τέλος, έκανα εγκατάσταση του Pylint για να βλέπω αν υπάρχουν σφάλματα και ειδοποιήσεις στον κώδικα που έγραψα. Η εγκατάσταση πραγματοποιήθηκε με την παρακάτω εντολή:
+
+```
+sudo apt-get install pylint
+```
+Για να πραγματοποήσω την εργασία δημιούργησα ένα αρχείο test.py όπου έγραψα "hello world!", όπως φαίνεται αναλύτικα η διαδικασία στο παρακάτω βίντεο.
+
+Asciinema URL: [vim-pymode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
+
+## References
+
+[vim-plug](https://github.com/junegunn/vim-plug)
+[python-mode](https://github.com/python-mode/python-mode)
+
+---
+
+
+
 
 Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
 
