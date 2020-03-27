@@ -82,9 +82,9 @@ pushbullet:
     
   ## 5η Άσκηση : 
 
-* Assignment : 
+* Assignment : use the terminal as an IDE
 
-* Deliverables :   
+* Deliverables : edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 
 * Περιγραφή : 'Εφερα' τον vim στα μέτρα και στις ανάγκες μου ώστε να τρέχει σαν IDE της python. Πιο συγκεκριμένα , κατεβασα τον vundler ο οποίος είναι vim plug-in manager  και στην συνέχεια κατέβασα διάφορα plugs-in , δηλαδή έκανα τον vim να προβάλει το αποτέλεσμα του κώδικα και μερικά απο τα errors του με το input στο πληκτρολογιο :  ``` \r ``` , επίσης έβαλα χρώματα , έκανα τον φόντο σαν του [sublime-text editor](https://www.sublimetext.com/) και το βήμα που με δυσκόλεψε τέρμα ήταν να βάλω autocomplete κάθε φορά που έγραφα κάτι που είχα ήδη γράψει ή καποία εντολή της python έβγαινε ένα drop-down menu που μπορώ με το ```TAB``` να διαλέξω την εντολή της επιλογής μου.
 
@@ -93,19 +93,21 @@ pushbullet:
 * Εργαλεία που χρησιμοποίησα :
     * [vim](https://www.vim.org/ "vim")
 
-* independencies plug-in που χρησιμοποίησα :
-    * [Vundler](https://github.com/VundleVim/Vundle.vim )
-    * [python-mode](https://github.com/python-mode/python-mode)
+* Independencies που χρησιμοποίησα :
+    * Το vim θα πρέπει να είναι πάνω απο την έκδοση 7.3 και να υποστηρίζει +python.
     * [pylint](https://www.pylint.org/)
     * [cmake](https://cmake.org/)
     * [mono-complete](https://www.mono-project.com/docs/getting-started/install/linux/)
     * [go](https://golang.org/doc/install)
     * [node.js](https://nodejs.org/en/download/package-manager/)
-    * Το vim θα πρέπει να είναι πάνω απο την έκδοση 7.3 και να υποστηρίζει +python.
-*Plug-in που χρησιμοποίησα : 
     
-    * []()
-    * []()
+* Plug-in που χρησιμοποίησα :
+    * [Vundler](https://github.com/VundleVim/Vundle.vim )
+    * [python-mode](https://github.com/python-mode/python-mode)
+    * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+    * [color scheme](https://github.com/jnurmine/Zenburn)
+    * [flake8](https://github.com/nvie/vim-flake8)
+    * [syntastic](https://github.com/vim-syntastic/syntastic)
 
 
 
