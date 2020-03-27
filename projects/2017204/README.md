@@ -99,9 +99,9 @@ sudo apt-get install pylint
 
 Για να πραγματοποήσω την εργασία δημιούργησα ένα αρχείο test.py όπου έγραψα "hello world!", όπως φαίνεται αναλύτικα η διαδικασία στο παρακάτω βίντεο.
 
-## Asciinema URL: [vim-pymode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
+### Asciinema URL: [vim-pymode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
 
-## References
+### References
 
 [vim-plug](https://github.com/junegunn/vim-plug)
 [python-mode](https://github.com/python-mode/python-mode)
@@ -133,11 +133,11 @@ Deliverables: build and deploy your static site and your cv dynamically every ti
 ```
 Η διαδικασία που ακολούθησα περιγράφεται αναλυτικά παρακάτω στο βίντεο:
 
-## asciinema URL: [Mysite](https://asciinema.org/a/SjSHKU6FzCrbk3xICiP1y7SGj)
+### asciinema URL: [Mysite](https://asciinema.org/a/SjSHKU6FzCrbk3xICiP1y7SGj)
 
 Το λίνκ του σαιτ είναι το παρακάτω:
 
-## URL: [Mysite](https://chris4dim.github.io/mysite/)
+### URL: [Mysite](https://chris4dim.github.io/mysite/)
 
 ---
 
