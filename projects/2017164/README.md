@@ -2,7 +2,9 @@
 
 ## AM : Π2017164
 
-## 1η Άσκηση : 
+## Ασκήσεις Terminal : 
+
+### 1η Άσκηση : 
 
 * Assignment : send notifications to your desktop-mobile.
 
@@ -33,7 +35,7 @@ pushbullet:
 
 * Σχόλια : Δυστυχώς η ανακοίνωση που μου ήρθε στο κινητό ήταν για το πότε τελείωσε η πρώτη εντολή που στην περιπτωσή μας ήταν η ```$asciinema rec ``` αλλά αν έτρεχα κάποια έντολη χώρις να προηγείτε η rec θα μου την εμφάνιζε κανονικά στο κινητό.
 ___
-## 2η Άσκηση : 
+### 2η Άσκηση : 
 
 * Assignment : performance monitoring
 
@@ -50,7 +52,7 @@ ___
     * [Hyperfine](https://github.com/sharkdp/hyperfine "Hyperfine")
 ___
 
-## 3η Άσκηση : 
+### 3η Άσκηση : 
 
 * Assignment : try different terminals and shells
 
@@ -75,7 +77,7 @@ ___
     * [thefuck](https://github.com/nvbn/thefuck "thefuck")
  ___
     
- ## 4η Άσκηση : 
+ ### 4η Άσκηση : 
 
 * Assignment : create an agent for news
 
@@ -89,7 +91,7 @@ ___
     * [Huginn](https://github.com/huginn/huginn "huginn")
 ___
     
-  ## 5η Άσκηση : 
+  ### 5η Άσκηση : 
 
 * Assignment : use the terminal as an IDE
 
@@ -118,7 +120,15 @@ ___
     * [flake8](https://github.com/nvie/vim-flake8)
     * [syntastic](https://github.com/vim-syntastic/syntastic)
 
-
+  ## Συμμετοχικό εκπαιδευτικό υλικό : 
+  
+  # A) 
+  
+  * Ζητουμενα : δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apple mouse, οι νέες εικόνες μπορούν να είναι παρόμοιες με υπάρχουσχες αρκεί να συνοδεύονται από τα κατάλληλα πνευματικά δικαιώματα. Εκτός από το αρχείο .md θα πρέπει να γίνει προσθήκη των αντίστοιχων εικόνων (μικρή εικόνα πλάτους 160πίξελ, και μια κανονική) στον φάκελο images, π.χ., προηγούμενη σωστή προσθήκη εικόνας από φοιτήτρια
+  
+  * link του αποθετήριου βιβλίου :
+  * link του βιβλίου 
+  * Αρχεία που άλλαξα : [_config.yml](https://github.com/geosideras/gr/blob/master/_config.yml) [3D-printer.md](https://github.com/geosideras/gr/blob/master/_gallery/3D-printer.md) [exoskeleton-glove.md](https://github.com/geosideras/gr/blob/master/_gallery/exoskeleton-glove.md) [3D-printer-thumb.png](https://github.com/geosideras/gr/blob/master/images/3D-printer-thumb.png) [3D-printer.png](https://github.com/geosideras/gr/blob/master/images/3D-printer.png) [exoskeleton-glove-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove-thumb.jpg) [exoskeleton-glove.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove.jpg)
 
 
 
