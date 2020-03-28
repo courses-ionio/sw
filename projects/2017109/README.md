@@ -19,7 +19,7 @@
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
 
-[Link της σελίδας του βιβλίου](https://chriskotrotsios.github.io/gr/)
+[Link της σελίδας του βιβλίου](https://chriskotrotsios.github.io/gr/)</br>
 [Link προσωπικού αποθετηρίου του βιβλίου](https://github.com/chriskotrotsios/gr)
 
 ### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
