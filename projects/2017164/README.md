@@ -48,7 +48,7 @@ ___
 
 * Εργαλεία που χρησιμοποίησα :
     * [Hyperfine](https://github.com/sharkdp/hyperfine "Hyperfine")
-    
+___
 
 ## 3η Άσκηση : 
 
@@ -73,6 +73,7 @@ ___
     * [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme "agnoster")
     * [z - jump around](https://github.com/rupa/z "Z")
     * [thefuck](https://github.com/nvbn/thefuck "thefuck")
+ ___
     
  ## 4η Άσκηση : 
 
@@ -86,6 +87,7 @@ ___
 
 * Εργαλεία που χρησιμοποίησα :
     * [Huginn](https://github.com/huginn/huginn "huginn")
+___
     
   ## 5η Άσκηση : 
 
