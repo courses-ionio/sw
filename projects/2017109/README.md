@@ -2,6 +2,8 @@
 
 ## ΑΜ:Π2017109
 
+## Paradotea
+
 ### 1ο Παραδοτέο
 
 * Assignment : performance monitoring
@@ -12,3 +14,7 @@
 
 * Εργαλία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
+
+
+
+##Symmetoxiko ekpaideutiko yliko
