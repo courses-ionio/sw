@@ -24,18 +24,16 @@
 
 * Deliverables : repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-* Σύνδεσμος στο [Asciinema]()
-
 * Εργαλία που χρησιμοποίησα: [mosh](https://mosh.org/)
 
 Sto parakatw video deixnw thn xrhsh tou mosh apo kinhto kai xrhsimopoiw to youtube-dl gia na katevasw tragoudi.
 
 **Video**<br/>
-[video](videos/moshdemo.mp4)
+![video](videos/moshdemo.mp4)
 
 Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto kinhto
 **Fwtografia**<br/>
-[fwtografia](images/sw_assignment_02.png)
+![fwtografia](images/sw_assignment_02.png)
 
 
 ### 3ο Παραδοτέο
