@@ -230,7 +230,7 @@ Assignment: send notifications to your desktop-mobile.
 
 ---
 
-### Συμμετοχικό Υλικό.
+### Συμμετοχικό Εκπαιδευτικό Υλικό.
 
 ### mibook URL: [mibook](https://chris4dim.netlify.com/)
 
