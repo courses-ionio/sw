@@ -28,8 +28,7 @@
 
 Sto parakatw video deixnw thn xrhsh tou mosh apo kinhto kai xrhsimopoiw to youtube-dl gia na katevasw tragoudi.
 
-**Video**<br/>
-![video](videos/moshdemo.mp4)
+Link gia to [video](https://vimeo.com/401915913#)
 
 Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto kinhto<br/>
 ![fwtografia](images/sw_assignment_02.png)
