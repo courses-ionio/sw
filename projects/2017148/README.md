@@ -2,7 +2,7 @@
 ### Αντρέας Παππούτας
 ### Α.Μ.: Π2017148
 
-### Παραδοτέο 1:
+## Παραδοτέο 1:
 try different terminals and shells - repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
 #### Για να γίνει αυτή η εργασία έκανα χρήση των τερμιναλ guake, konsole, Tilda, Terminology, fish και zsh
@@ -100,7 +100,7 @@ try different terminals and shells - repeat some of the previous exercises with 
 
 
 
-### Παραδοτέο 2
+## Παραδοτέο 2
 create a docker image for your development stack - demonstrate the custom image for CI of your cv and site
 
 #### Για αυτό το παραδοτέο έκανα χρήση του Nginx και Alpine.
@@ -142,7 +142,7 @@ sudo docker run -d -p 80:80 html-server-image:v1
 
 
 
-### Παραδοτέο 3
+## Παραδοτέο 3
 
 set-up cloud services - ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
 
@@ -175,7 +175,7 @@ nano kodikas.py
 
 
 
-### Παραδοτέο 4
+## Παραδοτέο 4
 send notifications to your desktop-mobile - send a notifcation when a big task completes, eg download, compiling, etc
 
 #### Για τη εργασία αυτή χρησιμοποίησα το ntfy.
@@ -215,7 +215,7 @@ ffplay sound.mp3
 
 
 
-### Παραδοτέο 5
+## Παραδοτέο 5
 performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 #### Αρχικά έκανα εγκατάσταση το hyperfine
