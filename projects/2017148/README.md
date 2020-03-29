@@ -5,7 +5,7 @@
 ### Παραδοτέο 1:
 try different terminals and shells - repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-Για να γίνει αυτή η εργασία έκανα χρήση των τερμιναλ guake, konsole, Tilda, Terminology, fish και zsh
+#### Για να γίνει αυτή η εργασία έκανα χρήση των τερμιναλ guake, konsole, Tilda, Terminology, fish και zsh
 
 ```
  sudo apt-get -f install guake
@@ -24,11 +24,11 @@ try different terminals and shells - repeat some of the previous exercises with 
 
  sudo apt-get install zsh
 ```
-Στο κάθε τερμιναλ έφτιαξα ένα αρχείο και το τροποποίησα έτσι ώστε να φανούν οι διαφορές μεταξύ τους.
+#### Στο κάθε τερμιναλ έφτιαξα ένα αρχείο και το τροποποίησα έτσι ώστε να φανούν οι διαφορές μεταξύ τους.
 
 ### GUAKE
 
-guake: Το guake είναι ένα drop-down τερμιναλ που για να το ανοίξει ο χρήστης πατάει το f12
+#### guake: Το guake είναι ένα drop-down τερμιναλ που για να το ανοίξει ο χρήστης πατάει το f12
 
 ### Asciinema : [guake](https://asciinema.org/a/313444)
 
@@ -39,7 +39,7 @@ guake: Το guake είναι ένα drop-down τερμιναλ που για ν�
 
 ### Konsole
 
-Konsole: Το konsole είναι ένα τερμιναλ το οποίο είναι ενσωματωμένο σε πολλές άλλες εφαρμογές κάνοντας το αρκετά χρήσιμο 
+#### Konsole: Το konsole είναι ένα τερμιναλ το οποίο είναι ενσωματωμένο σε πολλές άλλες εφαρμογές κάνοντας το αρκετά χρήσιμο 
 
 ### Asciinema : [Konsole](https://asciinema.org/a/313450)
 
@@ -49,7 +49,7 @@ Konsole: Το konsole είναι ένα τερμιναλ το οποίο είν�
 
 ### TILDA
 
-tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκολα να ρυθμιστή από το χρήστη έτσι ώστε να έχει hotkeys για όπια λειτουργία χρειάζεται(π.χ να αλλάζει τοποθεσία το τερμιναλ)
+#### tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκολα να ρυθμιστή από το χρήστη έτσι ώστε να έχει hotkeys για όπια λειτουργία χρειάζεται(π.χ να αλλάζει τοποθεσία το τερμιναλ)
 
 ### Asciinema : [tilda](https://asciinema.org/a/313451)
 
@@ -59,7 +59,7 @@ tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκ�
 
 ### TERMINOLOGY
 
-terminology: Το terminology είναι ένα εύκολα διαμορφούμενο τερμιναλ το οποίο κατανοεί πλήρεις διαδρομές αρχείων, συνδέσεις URL και εμαιλ. Επιπλέον έχει progress bar για τις λήψης αρχείων
+#### terminology: Το terminology είναι ένα εύκολα διαμορφούμενο τερμιναλ το οποίο κατανοεί πλήρεις διαδρομές αρχείων, συνδέσεις URL και εμαιλ. Επιπλέον έχει progress bar για τις λήψης αρχείων
 
 ### Asciinema : [terminology](https://asciinema.org/a/313454)
 ### Screenshot.
@@ -69,7 +69,7 @@ terminology: Το terminology είναι ένα εύκολα διαμορφού�
 ### YAKUAKE
 
 
-yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπορεί να είναι στο πάνω ή κάτω μέρος της οθόνης.
+#### yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπορεί να είναι στο πάνω ή κάτω μέρος της οθόνης.
 
 ### Asciinema : [yakuake](https://asciinema.org/a/314663)
 ### Εικόνα του τέρμιναλ "yakuake".
@@ -79,7 +79,7 @@ yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπο
 
 ### FISH
 
-fish shell: Το fish είναι ένα γρήγορο τερμιναλ με πολλές λειτουργίες.
+#### fish shell: Το fish είναι ένα γρήγορο τερμιναλ με πολλές λειτουργίες.
 
 ### Asciinema : [fish](https://asciinema.org/a/313460)
 ### Screenshot.
@@ -88,37 +88,42 @@ fish shell: Το fish είναι ένα γρήγορο τερμιναλ με π�
 
 ### ZSH
 
-zsh: Το zsh είναι ένα τερμιναλ με με χιλιάδες χρήσιμες λειτουργίες, βοηθούς και plugins
+#### zsh: Το zsh είναι ένα τερμιναλ με με χιλιάδες χρήσιμες λειτουργίες, βοηθούς και plugins
 
 ### Asciinema : [zsh](https://asciinema.org/a/313467)
 ### Screenshot.
 ![zsh](https://user-images.githubusercontent.com/44147982/77859313-4f612b00-7211-11ea-89a9-e4f93f064c55.gif)
 
 
+
+
+
+
+
 ### Παραδοτέο 2
 create a docker image for your development stack - demonstrate the custom image for CI of your cv and site
 
-Για αυτό το παραδοτέο έκανα χρήση του Nginx και Alpine.
+#### Για αυτό το παραδοτέο έκανα χρήση του Nginx και Alpine.
 
-Αρχικά δημιούργησα και τροποποίησα το Dockerfile. Έκανα copy όλα τα αρχεία από το directory μου στο server του Nginx
+#### Αρχικά δημιούργησα και τροποποίησα το Dockerfile. Έκανα copy όλα τα αρχεία από το directory μου στο server του Nginx
 
 ```
 FROM nginx:alpine                                                               
 COPY index.html /usr/share/nginx/html
 ```
 
-Ακολούθως δημιούργησα το docker image με το html server
+#### Ακολούθως δημιούργησα το docker image με το html server
 
 ```
 sudo docker build -t html-server-image:v1 .
 ```
 
-Για να ελέγξω αν φτιάχτηκαν τα images του alpine και nginx γραφω τη εντολη
+#### Για να ελέγξω αν φτιάχτηκαν τα images του alpine και nginx γραφω τη εντολη
 ```
 sudo docker images
 ```
 
-Μέτα τρέχω τη εικόνα που έχω φτιάξει σε port 80 για να ενφανιστη στο locahost
+#### Μέτα τρέχω τη εικόνα που έχω φτιάξει σε port 80 για να ενφανιστη στο locahost
 ```
 sudo docker run -d -p 80:80 html-server-image:v1
 ```
@@ -133,18 +138,21 @@ sudo docker run -d -p 80:80 html-server-image:v1
 ### Asciinema : [Nginx-Alpine](https://asciinema.org/a/H3L72UoF2iJ7S4kGdpzoJtkiy)
 
 
+
+
+
+
 ### Παραδοτέο 3
 
 set-up cloud services - ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
 
-Χρησημοποιησα το openSSH για αυτο το παραδοτέο
+#### Χρησημοποιησα το openSSH για αυτο το παραδοτέο
 ```
 sudo apt-get install openssh-server
 ```
 
-Μετα συνδεθικα με το raspberry pi το οποιο έχει ετοιμο το ssh και απλα γινετε enable
-screenshot
-Τέλος, για την σύνδεση δύο συστημάτων και επεξεργασία κώδικα χρησιμοποίησα την παρακάτω εντολή:
+#### Μετα συνδεθικα με το raspberry pi το οποιο έχει ετοιμο το ssh και απλα γινετε enable
+#### Τέλος, για την σύνδεση δύο συστημάτων και επεξεργασία κώδικα χρησιμοποίησα την παρακάτω εντολή:
 ```
 ssh pi@ip_address
 nano kodikas.py
@@ -161,28 +169,33 @@ nano kodikas.py
 ### Asciinema : [SSH](https://asciinema.org/a/313829)
 
 
-### Παραδοτέο 4
+
+
+
+
+
+
 ### Παραδοτέο 4
 send notifications to your desktop-mobile - send a notifcation when a big task completes, eg download, compiling, etc
 
-Για τη εργασία αυτή χρησιμοποίησα το ntfy.
-Με το ntfy μπορείς να σου έρχονται ειδοποιήσεις στο υπολογιστή σου όταν τελείωση μια διαδικασία μέσα στο τερμιναλ. Επίσης μπορείς να αλλάξεις αρκετές λειτουργίες του μέσο επεξεργασίας του config
+#### Για τη εργασία αυτή χρησιμοποίησα το ntfy.
+#### Με το ntfy μπορείς να σου έρχονται ειδοποιήσεις στο υπολογιστή σου όταν τελείωση μια διαδικασία μέσα στο τερμιναλ. Επίσης μπορείς να αλλάξεις αρκετές λειτουργίες του μέσο επεξεργασίας του config
 
 ```
 sudo pip install ntfy
 ```
-Στη συνέχεια έκανα επεξεργασία το αρχείο .bashrc και έβαλα στο τέλος τη παρακάτω εντολή έτσι ώστε να έρχονται ειδοποίησης για οτιδήποτε γίνετε
+#### Στη συνέχεια έκανα επεξεργασία το αρχείο .bashrc και έβαλα στο τέλος τη παρακάτω εντολή έτσι ώστε να έρχονται ειδοποίησης για οτιδήποτε γίνετε
 
 ```
 eval "$(ntfy shell-integration)"
 ```
-Μπορείς να στείλεις μια ειδοποίηση μέσο
+#### Μπορείς να στείλεις μια ειδοποίηση μέσο
 
 ```
 ntfy send "notification"
 ```
 
-Ακολούθως επέλεξα ένα αρχείο mp3 και στο τέλος μου ήρθε notification
+#### Ακολούθως επέλεξα ένα αρχείο mp3 και στο τέλος μου ήρθε notification
 
 ```
 ffplay sound.mp3
@@ -196,5 +209,41 @@ ffplay sound.mp3
 
 ### Asciinema : [ntfy](https://asciinema.org/a/313515)
 
+
+
+
+
+
+
+### Παραδοτέο 5
+performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+#### Αρχικά έκανα εγκατάσταση το hyperfine
+
+```
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+sudo dpkg -i hyperfine_1.9.0_amd64.deb
+```
+
+#### Με το hyperfine μπόρεσα να ελέγξω το χρόνο εκτέλεσης 2 προγραμμάτων python. Επιπλέον έβαλα warmup και πόσες φόρες να τρέξουν τα προγράμματα.
+
+```
+hyperfine 'python3 file1.py' 'python3 file2.py' --warmup 40 --min-runs 40
+
+```
+
+
+#### Επίσης με το πρόγραμμα έκανα export πληροφορίες σε μορφή json αρχείου.
+
+```
+hyperfine --export-json output 'python3 file1.py' 'python3 file2.py' 
+--warmup 40  
+```
+
+### JSON:
+![json results](https://user-images.githubusercontent.com/44147982/77860133-1c6d6600-7216-11ea-961f-fec20de52155.png)
+
+
+### Asciinema : [hyperfine](https://asciinema.org/a/313484)
 
 
