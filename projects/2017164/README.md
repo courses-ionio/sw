@@ -74,19 +74,22 @@ ___
     * [z - jump around](https://github.com/rupa/z "Z")
     * [thefuck](https://github.com/nvbn/thefuck "thefuck")
  ___
-    
+
  ### 4η Άσκηση : 
 
-* Assignment : create an agent for news
+* Assignment : set-up a system for python development
 
-* Deliverables : the demo should display the new content added on a news web site 
+* Deliverables : install and configure in a user folder a python project that is not available through the package manager
 
-* Περιγραφή : 
+* Περιγραφή : Αφού εγκατέστησα το pipenv , άνοιξα ένα καινούργιο dir μέσα στο οποίο άρχησα να φτιάχνω το virtual environment κάνωντας install διάφορα modules της python. Στην συνέχεια έδειξα τα περιεχόμενα του ```Pipefile``` και του ```Pipefile.lock``` τα οποία περιέχουν ότι έχω εγκαταστήσει , και τις εκδόσεις τους. 'Επειτα , αφού έτρεξα το shell μου με τις αλλαγές με την ετνολή ```$pipenv shell ``` άνοιξα ενα python3 shell και προσπάθησα να κάνω import ενα module το οποίο δεν υπήρχε και έβγαλε σφάλμα για να δείξω πως λειτουργεί. Βέβαια, στην συνέχεια αφού το εγκατέστησα και έτρεξα python3 shell έκανα κανονικά το import.
 
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/314613 "asciinema") 
 
 * Εργαλεία που χρησιμοποίησα :
-    * [Huginn](https://github.com/huginn/huginn "huginn")
+    * [pipenv](https://github.com/pypa/pipenv "pipenv")
+   
+* Prerequisites : pip , python3.
+    
 ___
     
   ### 5η Άσκηση : 
@@ -119,6 +122,20 @@ ___
     * [syntastic](https://github.com/vim-syntastic/syntastic)
     
     ___
+    
+### 6η Άσκηση : 
+
+* Assignment : create an agent for news
+
+* Deliverables : the demo should display the new content added on a news web site 
+
+* Περιγραφή :  
+
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
+
+* Εργαλεία που χρησιμοποίησα :
+    * [Huginn](https://github.com/huginn/huginn "huginn")
+___
 
   ## Συμμετοχικό εκπαιδευτικό υλικό : 
   
