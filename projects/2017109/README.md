@@ -31,7 +31,7 @@ Sto parakatw video deixnw thn xrhsh tou mosh apo kinhto kai xrhsimopoiw to youtu
 Link gia to [video](https://vimeo.com/401915913#)
 
 Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto kinhto<br/>
-![fwtografia](images/sw_assignment_02.png)
+![mosh](images/sw_assignment_02.png)
 
 
 ### 3ο Παραδοτέο
@@ -44,6 +44,11 @@ Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto ki
 * Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314576)
 
 * Εργαλία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
+
+Den mporesa na kanw to ntfy na stelnei eidopoihsh otan teleiwnei mia ergasia oso kanw record me to asciinema. Erxetai eidopoihsh otan teleiwnei to record alla oxi gia ergasies pou ginontai mesa sto record.
+
+Fwtografia pou deixnei to mhnuma pou erxetai sto kinhto otan teleiwnei mia ergasia<br/>
+![pushbullet](images/ntfypush.png)
 
 
 
