@@ -30,6 +30,19 @@
 
 
 
+### 3ο Παραδοτέο
+
+
+* Assignment : send notifications to your desktop-mobile
+
+* Deliverables : send a notifcation when a big task completes, eg download, compiling, etc
+
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314576)
+
+* Εργαλία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
+
+
+
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
 
 [Link της σελίδας του βιβλίου](https://chriskotrotsios.netlify.com)</br>
