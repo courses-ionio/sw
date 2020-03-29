@@ -144,7 +144,7 @@ ___
   * Ζητουμενα : δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση , οι νέες εικόνες μπορούν να είναι παρόμοιες με υπάρχουσχες αρκεί να συνοδεύονται από τα κατάλληλα πνευματικά δικαιώματα. Εκτός από το αρχείο .md θα πρέπει να γίνει προσθήκη των αντίστοιχων εικόνων (μικρή εικόνα πλάτους 160πίξελ, και μια κανονική) στον φάκελο images.
   
   * [link](https://github.com/geosideras/gr) του αποθετήριου βιβλίου.
-  * [link](https://geosideras.github.io/gr/) του βιβλίου. 
+  * [link](https://geosideras.netlify.com) του βιβλίου. 
   * Αρχεία που άλλαξα : [_config.yml](https://github.com/geosideras/gr/blob/master/_config.yml), [3D-printer.md](https://github.com/geosideras/gr/blob/master/_gallery/3D-printer.md), [exoskeleton-glove.md](https://github.com/geosideras/gr/blob/master/_gallery/exoskeleton-glove.md), [3D-printer-thumb.png](https://github.com/geosideras/gr/blob/master/images/3D-printer-thumb.png), [3D-printer.png](https://github.com/geosideras/gr/blob/master/images/3D-printer.png), [exoskeleton-glove-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove-thumb.jpg), [exoskeleton-glove.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove.jpg).
 
 
