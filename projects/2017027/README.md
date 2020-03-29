@@ -11,3 +11,11 @@
    -Πριν το rotation  ![Πριν](screenshots/before-rotation.png)
     <br>
    -Μετά το rotation  ![Μετα](screenshots/after-rotation.png)
+   
+   
+### Δεύτερη εργασία
+#### Assignment: Use the terminal as an IDE
+#### Deliverables: Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+#### [Asciinema link](https://asciinema.org/a/314599)
+#### Περιγραφή: 
+ * Σε αυτό το assignment αρχικά εγκαταστήσαμε το [neovim](https://github.com/neovim/neovim) και διάφορα plug-ins του τα οποία μας επιτρέπουν να το χρησιμοποιούμε σαν **IDE**. Πιο συγκεκριμένα, αποφασίσαμε να ασχοληθούμε με την **python**, για αυτό και εγκαταστήσαμε τα αντίστοιχα plug-ins, το [python-mode](https://github.com/python-mode/python-mode) και το [python-syntax](https://github.com/vim-python/python-syntax). Πέρα από αυτά, υπήρχαν κάποια που εγκαταστάθηκαν για δοκιμές πάνω στο neovim και άλλα που χρηιμοποιήθηκαν για οπτικές παραμετροποιήσεις του. Κάποια από αυτά είναι τα [lightline.vim](https://github.com/itchyny/lightline.vim) και [vim-rainbow](https://github.com/frazrepo/vim-rainbow). Στην [καταγραφή](https://asciinema.org/a/314599) του assignment λοιπόν, αρχικά δημιουργούμε ένα νέο .py αρχείο στο οποίο και εισάγουμε μια πολύ απλή **print** εντολή με σκοπό να δούμε αρχικά αν λειτουργεί το IDE μας αλλά και να περιγράψουμε μέσω αυτής της print τι παρουσιάζουμε. Αφού λοιπόν ελέγξουμε την λειτουργικότητα του ανοίγουμε το **init.vim** αρχείο που βρίσκεται μέσα στο **.config** directory και παρατηρούμε τα προαναφερόμενα **Plugs**. Τέλος, επιστρέφουμε στο αρχείο που δημιουργήσαμε και τροποποιούμε λίγο την print μας ώστε να αναφέρουμε πως εκτελέσαμε το προηγούμενο βήμα.
