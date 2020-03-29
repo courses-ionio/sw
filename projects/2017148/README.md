@@ -135,7 +135,7 @@ sudo docker run -d -p 80:80 html-server-image:v1
 
 ![localhost](https://user-images.githubusercontent.com/44147982/77859623-1a55d800-7213-11ea-9830-6937af4649b9.png)
 
-### Asciinema : [Nginx-Alpine](https://asciinema.org/a/H3L72UoF2iJ7S4kGdpzoJtkiy)
+### Asciinema : [Nginx-Alpine](https://asciinema.org/a/313808)
 
 
 
