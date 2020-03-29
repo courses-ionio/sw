@@ -7,7 +7,15 @@
 ### Φοίβος Αργυρίδης
 ### ΑΜ: Π2013041
 
-## Άσκηση 1. Try different terminals and shells. Ρepeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+## Συμμετοχικό περιεχόμενο
+### url αποθετηρίου: https://github.com/fivosf/gr
+### url σελιδας: https://fivos-gr.netlify.com/
+### Παραδοτέο 1.Α
+#### Eικόνα 1: Raspberry pi https://fivos-gr.netlify.com/gallery/f-raspberry-pi/
+#### Εικόνα 2: Playstation https://fivos-gr.netlify.com/gallery/playstation/
+
+
+### Άσκηση 1. Try different terminals and shells. Ρepeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 #### asciinema: https://asciinema.org/a/e4dounmZh2PBkr2GbrtOIzn5u
 Χρησιμοποίησα το zsh
 
@@ -24,7 +32,7 @@ nano .zshrc
 #### Πηγές
 https://www.youtube.com/watch?v=eLEo4OQ-cuQ
 
-## Άσκηση 2. Set-up a system for python development. Install and configure in a user folder a python project that is not available through the package manager.
+### Άσκηση 2. Set-up a system for python development. Install and configure in a user folder a python project that is not available through the package manager.
 #### asciinema: https://asciinema.org/a/QolaktK9DbVgTEk2B9oZ38KGH
 Για την άσκηση αυτή χρησιμοποίησα ένα δικό μου project το οποίο κάνει print τίτλους ειδήσεων απο www.euro2day.gr μέσω rss. Το μοναδικό dependency στο project είναι το feedparser.
 
