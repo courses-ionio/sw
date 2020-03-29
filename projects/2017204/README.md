@@ -234,5 +234,10 @@ Assignment: send notifications to your desktop-mobile.
 
 ### mibook URL: [mibook](https://chris4dim.netlify.com/)
 
+### Αποθετήριο mibook: [link](https://github.com/chris4dim/gr)
+
+Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του raspberripi 3b όπως φαίνεται παρακάτω:
+### [raspberrypi 3b](https://chris4dim.netlify.com//gallery/raspberry-pi3b-new/)
+
 
 
