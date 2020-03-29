@@ -96,7 +96,7 @@ try different terminals and shells - repeat some of the previous exercises with 
 
 
 
-
+---
 
 
 
@@ -138,7 +138,7 @@ sudo docker run -d -p 80:80 html-server-image:v1
 ### Asciinema : [Nginx-Alpine](https://asciinema.org/a/313808)
 
 
-
+---
 
 
 
@@ -171,7 +171,7 @@ nano kodikas.py
 
 
 
-
+---
 
 
 
@@ -211,7 +211,7 @@ ffplay sound.mp3
 
 
 
-
+---
 
 
 
@@ -247,3 +247,21 @@ hyperfine --export-json output 'python3 file1.py' 'python3 file2.py'
 ### Asciinema : [hyperfine](https://asciinema.org/a/313484)
 
 
+
+---
+
+
+### Συμμετοχικό Εκπαιδευτικό Υλικό.
+
+### mibook : [mibook](https://andreaspappoutas.netlify.com)
+
+### Αποθετήριο mibook: [link](https://github.com/andreaspappoutas/gr)
+### A.
+
+Η πρώτη είκονα που ανέβασα είναι του iPad.
+
+### [iPad](https://andreaspappoutas.netlify.com/gallery/ipad/)
+
+H δεύτερη εικόνα είναι του Arduino Nano.
+
+### [Arduino Nano](https://andreaspappoutas.netlify.com/gallery/arduino-nano/)
