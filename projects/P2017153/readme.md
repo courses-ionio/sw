@@ -13,7 +13,7 @@
     <h5>deliverables:"repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs"</h5>
     <h5>references used:"fish,zsh,st mosh"</h5>
     <h5>prequisites:"For installing and using shells and terminals none"</h5>
-    <h5>asciinema links:<a href="https://asciinema.org/a/313837">link_fish<a href="https://asciinema.org/a/313836">link_zsh</a></a></h5>
+    <h5>asciinema links:<a href="https://asciinema.org/a/313837">link_fish,<a href="https://asciinema.org/a/313836">link_zsh</a></a></h5>
     <p><bold></bold></p>
     <h5>ΑΣΚΗΣΗ 2</h5>
     <h5>title:"set up a system for python development"</h5>
