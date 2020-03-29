@@ -93,3 +93,41 @@ zsh: Το zsh είναι ένα τερμιναλ με με χιλιάδες χρ
 ### Asciinema : [zsh](https://asciinema.org/a/313467)
 ### Screenshot.
 ![zsh](https://user-images.githubusercontent.com/44147982/77859313-4f612b00-7211-11ea-89a9-e4f93f064c55.gif)
+
+
+### Παραδοτέο 2
+create a docker image for your development stack - demonstrate the custom image for CI of your cv and site
+
+Για αυτό το παραδοτέο έκανα χρήση του Nginx και Alpine.
+
+Αρχικά δημιούργησα και τροποποίησα το Dockerfile. Έκανα copy όλα τα αρχεία από το directory μου στο server του Nginx
+
+```
+FROM nginx:alpine                                                               
+COPY index.html /usr/share/nginx/html
+```
+
+Ακολούθως δημιούργησα το docker image με το html server
+
+```
+sudo docker build -t html-server-image:v1 .
+```
+
+Για να ελέγξω αν φτιάχτηκαν τα images του alpine και nginx γραφω τη εντολη
+```
+sudo docker images
+```
+
+Μέτα τρέχω τη εικόνα που έχω φτιάξει σε port 80 για να ενφανιστη στο locahost
+```
+sudo docker run -d -p 80:80 html-server-image:v1
+```
+
+
+
+### Ιστοσελίδα:
+
+
+![localhost](https://user-images.githubusercontent.com/44147982/77859623-1a55d800-7213-11ea-9830-6937af4649b9.png)
+
+### Asciinema : [Nginx-Alpine](https://asciinema.org/a/H3L72UoF2iJ7S4kGdpzoJtkiy)
