@@ -237,7 +237,10 @@ Assignment: send notifications to your desktop-mobile.
 ### Αποθετήριο mibook: [link](https://github.com/chris4dim/gr)
 
 Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του raspberripi 3b όπως φαίνεται παρακάτω:
+
 ### [raspberrypi 3b](https://chris4dim.netlify.com//gallery/raspberry-pi3b-new/)
 
+H δεύτερη εικόνα που ανέβασα είναι ένα apple mouse όπως φαίνεται και παρακάτω:
 
+### [apple mouse](https://chris4dim.netlify.com//gallery/apple-mouse-new/)
 
