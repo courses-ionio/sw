@@ -8,10 +8,10 @@ Assignment: try different terminals and shells.
 Για να γίνει η διεκπεραίωση της εργασίας αυτής έκανα τη χρήση 5 διαφορετικών τέρμιναλς (guake, konsole, tilda, yuakake και terminology) και έγινε η εγκατάσταση αυτών με τις παρακάτω εντολες:
 
 ```
- $ sudo apt-get -f install guake
- $ sudo apt-get -f install tilda
- $ sudo apt-get -f install yakuake
- $ sudo apt-get -f install terminology
+ $ sudo apt-get install guake
+ $ sudo apt-get install tilda
+ $ sudo apt-get install yakuake
+ $ sudo apt-get install terminology
 ```
 Για την επίδειξη του κάθε τέρμιναλ χρησιμοποίησα απλές εντολές, οποίες περιγράφονται στο αντίστοιχο βίντεο του aasciinema, δημιουργώντας κάθε φορά ένα φάκελο με το όνομα του κάθε τέρμιναλ και μέσα σε αυτόν ένα αρχείο python με όνομα hello.py και με έξοδο κατα την εκτέλεσή του "hello world!!!". Κατά την καταγραφή της διαδικασίας του εκάστοτε τέρμιναλ χρησιμοποίηθηκε το asciinema και ένα αντίστοιχο στιγμιότυπο "screenshot" για την επίδειξη του αποτελέσματος, καθώς στα βίντεο δεν καταγράφονται τα χρώματα και άλλα χαρακτηριστικά του κάθε τέρμιναλ.
 
@@ -57,7 +57,7 @@ Assignment: try different terminals and shells.
 ```
 ~> man set
 ```
-
+Ένα χαρακτηριστικό του συγκεκριμένου shell είναι ότι εχει ιστορικό εντολών και δεν χρειάζεται κάθε φορά να γράφεις ολόκληρες τις εντολές. Ένα άλλο χαρακτηριστικό είναι η εντολή "echo", που μπορεί κανείς να τυπώνει μηνύματα στο τέρμιναλ, καθώς επίσης μέσω αυτής μπορεί ο χρήστης να κάνει αριθμητικές πράξεις. 
 
 ### References
 
