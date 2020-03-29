@@ -31,9 +31,8 @@ Sto parakatw video deixnw thn xrhsh tou mosh apo kinhto kai xrhsimopoiw to youtu
 **Video**<br/>
 ![video](videos/moshdemo.mp4)
 
-Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto kinhto
-**Fwtografia**<br/>
-![](images/sw_assignment_02.png)
+Fwtografia pou deixnei sta linux to history twn entolwn pou xrhsimopoihsa sto kinhto<br/>
+![fwtografia](images/sw_assignment_02.png)
 
 
 ### 3ο Παραδοτέο
