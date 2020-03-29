@@ -14,7 +14,7 @@
 
 * Εργαλεία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
-* Διαδικασία πρίν το benchmark: Αρχικά χρησιμοποίησα ενα python script (randgenerator.py) για την δημιουργία ενός συνόλου αριθμών με είσοδο που γίνεται απο τον χρήστη και στην συνέχεια τους αποθήκευσα σε ένα Random.txt. Έπειτα μέσω των heap.py και selection.py τα οποία είναι sorting python scripts έκανα ταξινόμιση το πλήθος των αριθμών του Random.txt. Τα scripts αυτα βρίσκονται στο [apothethrio](https://github.com/chriskotrotsios/python-sorting-scripts)
+* Διαδικασία πρίν το benchmark: Αρχικά χρησιμοποίησα ενα python script (randgenerator.py) για την δημιουργία ενός συνόλου αριθμών με είσοδο που γίνεται απο τον χρήστη και στην συνέχεια τους αποθήκευσα σε ένα Random.txt. Έπειτα μέσω των heap.py και selection.py τα οποία είναι sorting python scripts έκανα ταξινόμιση το πλήθος των αριθμών του Random.txt. Τα scripts αυτα βρίσκονται στο [αποθετήριο](https://github.com/chriskotrotsios/python-sorting-scripts)
 
 
 ### 2ο Παραδοτέο
