@@ -19,7 +19,9 @@
 EO Personal Communicator | https://github.com/p17griv/gr/blob/master/_gallery/eo-personal-communicator.md
 PaperID | https://github.com/p17griv/gr/blob/master/_gallery/paperid.md
 
+
 ____________________________________________________________________________________________________
+
 
 ### Εργασία: "6 Ασκήσεις"
 
@@ -84,7 +86,7 @@ Python Scripts:
 
 ###### rand_ints.py
 
-```
+```python
 import random
 import sys
 
@@ -103,7 +105,7 @@ print("done")
 
 ###### bubble.py
 
-```
+```python
 import sys
 
 def bubble_sort(arr):
@@ -138,7 +140,7 @@ bubble_sort(int_list)
 
 ###### merge.py
 
-```
+```python
 import sys
 
 def merge_sort(arr):
