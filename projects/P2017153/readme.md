@@ -23,6 +23,6 @@
     <h5>title:"set up a system for python development"</h5>
     <h5>deliverables:"install and configure in a user folder a python project that is not available through the package manager"</h5>
     <h5>references used:"python virtual enviroments"</h5>
-    <h5>asciinema link:<a href="https://asciinema.org/a/314131" target="blank">link</a></h5>
+    <h5>asciinema link:<a href="https://asciinema.org/a/314131" target="_blank">link</a></h5>
     </body> 
 </html    
