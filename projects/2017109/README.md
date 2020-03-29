@@ -65,6 +65,18 @@ Sto parakatw video pou vrisketai sto asciinema xrhsimopoiw to nvim gia na grapsw
 Arxika katevasa to nvim text editor kai sthn synexeia tou evala ta pluggins 1) 2) gia na mporei na kanei compile kwdika se python kai epeita prosthesa ta 3) 4) gia custom configuration tou nvim.
 
 
+### 5ο Παραδοτέο
+
+* Assignment : set-up a system for python development
+
+* Deliverables : install and configure in a user folder a python project that is not available through the package manager
+
+Perigrafh: Arxika eftia3a ena directory mesa sto opoio ekana install diafora tools ths python mesw tou virtualenv kai sthn synexeia egkatesthsa to library "requessts" kai etre3a ena main.py pou xrhisimopoiei to library auto
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314715)
+
+* Εργαλία που χρησιμοποίησα: [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
+
+
 
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
