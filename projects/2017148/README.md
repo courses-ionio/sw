@@ -159,3 +159,42 @@ nano kodikas.py
 
 
 ### Asciinema : [SSH](https://asciinema.org/a/313829)
+
+
+### Παραδοτέο 4
+### Παραδοτέο 4
+send notifications to your desktop-mobile - send a notifcation when a big task completes, eg download, compiling, etc
+
+Για τη εργασία αυτή χρησιμοποίησα το ntfy.
+Με το ntfy μπορείς να σου έρχονται ειδοποιήσεις στο υπολογιστή σου όταν τελείωση μια διαδικασία μέσα στο τερμιναλ. Επίσης μπορείς να αλλάξεις αρκετές λειτουργίες του μέσο επεξεργασίας του config
+
+```
+sudo pip install ntfy
+```
+Στη συνέχεια έκανα επεξεργασία το αρχείο .bashrc και έβαλα στο τέλος τη παρακάτω εντολή έτσι ώστε να έρχονται ειδοποίησης για οτιδήποτε γίνετε
+
+```
+eval "$(ntfy shell-integration)"
+```
+Μπορείς να στείλεις μια ειδοποίηση μέσο
+
+```
+ntfy send "notification"
+```
+
+Ακολούθως επέλεξα ένα αρχείο mp3 και στο τέλος μου ήρθε notification
+
+```
+ffplay sound.mp3
+```
+
+
+
+![notification4](https://user-images.githubusercontent.com/44147982/77860015-66a21780-7215-11ea-959a-4c3a9d6831a0.gif)
+
+
+
+### Asciinema : [ntfy](https://asciinema.org/a/313515)
+
+
+
