@@ -131,3 +131,31 @@ sudo docker run -d -p 80:80 html-server-image:v1
 ![localhost](https://user-images.githubusercontent.com/44147982/77859623-1a55d800-7213-11ea-9830-6937af4649b9.png)
 
 ### Asciinema : [Nginx-Alpine](https://asciinema.org/a/H3L72UoF2iJ7S4kGdpzoJtkiy)
+
+
+### Παραδοτέο 3
+
+set-up cloud services - ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+Χρησημοποιησα το openSSH για αυτο το παραδοτέο
+```
+sudo apt-get install openssh-server
+```
+
+Μετα συνδεθικα με το raspberry pi το οποιο έχει ετοιμο το ssh και απλα γινετε enable
+screenshot
+Τέλος, για την σύνδεση δύο συστημάτων και επεξεργασία κώδικα χρησιμοποίησα την παρακάτω εντολή:
+```
+ssh pi@ip_address
+nano kodikas.py
+```
+
+### Screenshots
+![shh1](https://user-images.githubusercontent.com/44147982/77859749-cc8d9f80-7213-11ea-8c30-bbbff5cf8e56.png)
+![ssh2](https://user-images.githubusercontent.com/44147982/77859751-ceeff980-7213-11ea-9b32-0c00db6f7a15.png)
+![ssh3](https://user-images.githubusercontent.com/44147982/77859753-d0212680-7213-11ea-9d92-606b6e3a6841.png)
+
+
+
+
+### Asciinema : [SSH](https://asciinema.org/a/313829)
