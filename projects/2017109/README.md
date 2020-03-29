@@ -12,9 +12,9 @@
 
 * Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314571)
 
-* Εργαλία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
+* Εργαλεία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
-* Diadikasia prin to benchmark: Arxika xrhsimopoihsa ena python script (randgenerator.py) gia thn dhmiourgia enws sunolou arithmwn me eisodo pou ginetai apo ton xrhsth kai sthn synexeia tous apothikefsa se ena Random.txt. Sthn synexeia mesw twn heap.py kai selection.py ta opoia einai sorting python scripts ekana taksinomish to plh8os twn arithmwn tou Random.txt. Ta arxeia auta vriskontai sto [apothethrio](https://github.com/chriskotrotsios/python-sorting-scripts)
+* Διαδικασία πρίν το benchmark: Αρχικά χρησιμοποίησα ενα python script (randgenerator.py) για την δημιουργία ενός συνόλου αριθμών με είσοδο που γίνεται απο τον χρήστη και στην συνέχεια τους αποθήκευσα σε ένα Random.txt. Έπειτα μέσω των heap.py και selection.py τα οποία είναι sorting python scripts έκανα ταξινόμιση το πλήθος των αριθμών του Random.txt. Τα scripts αυτα βρίσκονται στο [apothethrio](https://github.com/chriskotrotsios/python-sorting-scripts)
 
 
 ### 2ο Παραδοτέο
@@ -24,7 +24,7 @@
 
 * Deliverables : repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-* Εργαλία που χρησιμοποίησα: [mosh](https://mosh.org/)
+* Εργαλεία που χρησιμοποίησα: [mosh](https://mosh.org/)
 
 Sto parakatw video deixnw thn xrhsh tou mosh apo kinhto kai xrhsimopoiw to youtube-dl gia na katevasw tragoudi.
 
@@ -43,7 +43,7 @@ Link gia to [video](https://vimeo.com/401915913#)
 
 * Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314576)
 
-* Εργαλία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
+* Εργαλεία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
 
 Den mporesa na kanw to ntfy na stelnei eidopoihsh otan teleiwnei mia ergasia oso kanw record me to asciinema. Erxetai eidopoihsh otan teleiwnei to record alla oxi gia ergasies pou ginontai mesa sto record.
 
@@ -60,7 +60,7 @@ Den mporesa na kanw to ntfy na stelnei eidopoihsh otan teleiwnei mia ergasia oso
 Sto parakatw video pou vrisketai sto asciinema xrhsimopoiw to nvim gia na grapsw se python ena random number generator script pou to plh8os twn ari8mwn ka8orizetai apo to input tou xrhsth.
 * Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314626)
 
-* Εργαλία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
+* Εργαλεία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
 
 Arxika katevasa to nvim text editor kai sthn synexeia tou evala ta pluggins 1) 2) gia na mporei na kanei compile kwdika se python kai epeita prosthesa ta 3) 4) gia custom configuration tou nvim.
 
@@ -74,7 +74,7 @@ Arxika katevasa to nvim text editor kai sthn synexeia tou evala ta pluggins 1) 2
 Perigrafh: Arxika eftia3a ena directory mesa sto opoio ekana install diafora tools ths python mesw tou virtualenv kai sthn synexeia egkatesthsa to library "requessts" kai etre3a ena main.py pou xrhisimopoiei to library auto
 * Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314715)
 
-* Εργαλία που χρησιμοποίησα: [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
+* Εργαλεία που χρησιμοποίησα: [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 
 
 
