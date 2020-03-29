@@ -51,6 +51,18 @@ Den mporesa na kanw to ntfy na stelnei eidopoihsh otan teleiwnei mia ergasia oso
 ![pushbullet](images/ntfypush.png)
 
 
+### 4ο Παραδοτέο
+
+* Assignment : use the terminal as an IDE
+
+* Deliverables : edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+* Σύνδεσμος στο [Asciinema]()
+
+* Εργαλία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
+
+
+
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
 
