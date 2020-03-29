@@ -14,6 +14,19 @@
 
 * Εργαλία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
+* Diadikasia prin to benchmark: Arxika xrhsimopoihsa ena python script (randgenerator.py) gia thn dhmiourgia enws sunolou arithmwn me eisodo pou ginetai apo ton xrhsth kai sthn synexeia tous apothikefsa se ena Random.txt. Sthn synexeia mesw twn heap.py kai selection.py ta opoia einai sorting python scripts ekana taksinomish to plh8os twn arithmwn tou Random.txt. Ta arxeia auta vriskontai sto [apothethrio](https://github.com/chriskotrotsios/python-sorting-scripts)
+
+
+### 2ο Παραδοτέο
+
+
+* Assignment : try different terminals and shells
+
+* Deliverables : repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+
+* Σύνδεσμος στο [Asciinema]()
+
+* Εργαλία που χρησιμοποίησα: [mosh](https://mosh.org/)
 
 
 
