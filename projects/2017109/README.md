@@ -57,9 +57,12 @@ Den mporesa na kanw to ntfy na stelnei eidopoihsh otan teleiwnei mia ergasia oso
 
 * Deliverables : edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 
-* Σύνδεσμος στο [Asciinema]()
+Sto parakatw video pou vrisketai sto asciinema xrhsimopoiw to nvim gia na grapsw se python ena random number generator script pou to plh8os twn ari8mwn ka8orizetai apo to input tou xrhsth.
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314626)
 
 * Εργαλία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
+
+Arxika katevasa to nvim text editor kai sthn synexeia tou evala ta pluggins 1) 2) gia na mporei na kanei compile kwdika se python kai epeita prosthesa ta 3) 4) gia custom configuration tou nvim.
 
 
 
