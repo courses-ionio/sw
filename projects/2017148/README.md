@@ -26,6 +26,8 @@ try different terminals and shells - repeat some of the previous exercises with 
 ```
 Στο κάθε τερμιναλ έφτιαξα ένα αρχείο και το τροποποίησα έτσι ώστε να φανούν οι διαφορές μεταξύ τους.
 
+### GUAKE
+
 guake: Το guake είναι ένα drop-down τερμιναλ που για να το ανοίξει ο χρήστης πατάει το f12
 
 ### Asciinema : [guake](https://asciinema.org/a/313444)
@@ -35,6 +37,8 @@ guake: Το guake είναι ένα drop-down τερμιναλ που για ν�
 ![guake](https://user-images.githubusercontent.com/44147982/77859351-87686e00-7211-11ea-99d9-954180297a15.gif)
 
 
+### Konsole
+
 Konsole: Το konsole είναι ένα τερμιναλ το οποίο είναι ενσωματωμένο σε πολλές άλλες εφαρμογές κάνοντας το αρκετά χρήσιμο 
 
 ### Asciinema : [Konsole](https://asciinema.org/a/313450)
@@ -43,6 +47,7 @@ Konsole: Το konsole είναι ένα τερμιναλ το οποίο είν�
 
 ![konsole](https://user-images.githubusercontent.com/44147982/77859287-25a80400-7211-11ea-9ff8-a29307276670.gif)
 
+### TILDA
 
 tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκολα να ρυθμιστή από το χρήστη έτσι ώστε να έχει hotkeys για όπια λειτουργία χρειάζεται(π.χ να αλλάζει τοποθεσία το τερμιναλ)
 
@@ -52,11 +57,16 @@ tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκ�
 ![tilda](https://user-images.githubusercontent.com/44147982/77859310-4b350d80-7211-11ea-9798-0464bab09b89.gif)
 
 
+### TERMINOLOGY
+
 terminology: Το terminology είναι ένα εύκολα διαμορφούμενο τερμιναλ το οποίο κατανοεί πλήρεις διαδρομές αρχείων, συνδέσεις URL και εμαιλ. Επιπλέον έχει progress bar για τις λήψης αρχείων
 
 ### Asciinema : [terminology](https://asciinema.org/a/313454)
 ### Screenshot.
 ![teminology2](https://user-images.githubusercontent.com/44147982/77859372-a36c0f80-7211-11ea-8da6-9fbd61383782.gif)
+
+
+### YAKUAKE
 
 
 yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπορεί να είναι στο πάνω ή κάτω μέρος της οθόνης.
@@ -67,12 +77,16 @@ yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπο
 
 
 
+### FISH
+
 fish shell: Το fish είναι ένα γρήγορο τερμιναλ με πολλές λειτουργίες.
 
 ### Asciinema : [fish](https://asciinema.org/a/313460)
 ### Screenshot.
 ![fish](https://user-images.githubusercontent.com/44147982/77859385-b67edf80-7211-11ea-91d6-1553c48ed94d.gif)
 
+
+### ZSH
 
 zsh: Το zsh είναι ένα τερμιναλ με με χιλιάδες χρήσιμες λειτουργίες, βοηθούς και plugins
 
