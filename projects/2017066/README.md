@@ -19,16 +19,17 @@
 * deliverables: the generator should consider posts, pages, and templates / build and deploy your static site and your cv dynamically every time you make a small change in the source files
 * tools used: [hugo](https://gohugo.io/),netlify cli
 * prequisites: [brew](https://brew.sh/index_el), netlify cli installed
-* asciinema: [link1](https://asciinema.org/a/312446), [link2 deployment](https://asciinema.org/a/314951)
+* asciinema: [link1](https://asciinema.org/a/312446), [link2 deployment](https://asciinema.org/a/314951), [link3 check if cont.deployment works(https://asciinema.org/a/314959)
 * deployed site link : [link](https://fastsite.netlify.com)
 * description: 
-  * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα. Μετά από την δημιουργία του static site έγινε deploy μέσω netlify cli. Αναλυτικά οι εντολές στο asciinema.
+  * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα. Μετά από την δημιουργία του static site έγινε deploy μέσω netlify cli. Αναλυτικά οι εντολές στο asciinema. (Βεβαίως, το local repository πρέπει να γίνει connect στο github κάτι που δεν έχω δείξει, όπως και η σύνδεση github και netlify(login και δημ. λογαριασμού)). Τέλος, αλλάζω στον local φάκελο τον τίτλο του site απο fastest σε slowest για να ελέγξω ότι όντως δουλεύει το continuous deployment του netlify από το github(φαίνονται στο link3).
   
   **images**<br/>
   *step1: Δημιουργία site* ![step1](images/hugo1.png)
   *step2: Δημιουργία post* ![step2](images/hugo2.png)
   *step3: Δημιουργία σελίδας about* ![step3](images/hugo3.png)
   *step4: Deployed site στο netlify* ![step4](images/hugo4.png)
+  *step5: Changed title* ![step5](images/hugo5.png)
 
 ## Τρίτη Εργασία
 
