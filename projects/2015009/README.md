@@ -66,6 +66,9 @@
  
           exit
           
+          
+ #### Το video με όλη τη διαδικασία βρήσκεται εδω :  https://asciinema.org/a/oPPX1aQ36j3pEsLnOT1JXGHqa?fbclid=IwAR3VHhn6qJHsImuOMIoAbWyXpT8JQ4oTNmSEsK1EONXBkSeGRXsGELcyBCI
+          
 ## 3. Send notifications to your desktop-mobile  
 * ### Send a notifcation when a big task completes, eg download, compiling, etc 
 
@@ -77,7 +80,8 @@
 - Για να εμφανιστεί ειδοποίηση στο desktop χρησιμοποιήθηκε η εντολή :
            
            ntfy -b linux send "I am Timos"
-            
+           
+           
 #### 2. Για την αποστολή ειδοποίησης στο _smartphone_  χρησιμοποιήθηκε το εργαλείο Telegram        
  - Για την εγκατάσταση των πακέτων του _telegram_ χρησιμοποιήθηκε η εντολή :
  
@@ -92,5 +96,5 @@
         telegram-send "hello'
 
 
-
+#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/96jpfyGakRX5wbQxjsQ7BEyOq?fbclid=IwAR3uerWb08FwXa3bIzoaY0nr3g9B0nt19Qhcq6AerzoE7HgMeCly4GuDXGY
 
