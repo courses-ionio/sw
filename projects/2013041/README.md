@@ -66,7 +66,7 @@ ntfy -t 'System' send "Upgrade Completed"
 #### Πηγές
 https://www.youtube.com/watch?v=bbdQXfReuG0
 
-### Άσκηση 3. Try different operating systems in the emulator. Load at least two operating systems without a GUI (only CLI) and create a virtual local network.
+### Άσκηση 4. Try different operating systems in the emulator. Load at least two operating systems without a GUI (only CLI) and create a virtual local network.
 #### asciinema: https://asciinema.org/a/7oCqxmiZQ21ATjk9DZzQ1WN8K
 χρησιμοποίησα το ArchLinux και το FreeBsd με το virtual box σαν emulator. Για να δημιουργήσω το virtual local network απο τις ρυθμίσεις του virtual box δημιουργησα καινούργιο δίκτυο όπως φαίνεται στην παρακάτω εικόνα
 
@@ -101,6 +101,34 @@ ping 192.168.100.5
 
 #### Πηγές
 https://www.youtube.com/watch?v=vReAkOq-59I
+
+### Άσκηση 5. Configure a custom window manager. Try different wm and configure one to fit your needs.
+#### asciinema: https://asciinema.org/a/lef0LuS69LYPOe9VtJFitF7Nm
+Έκανα εγκατάσταση το dwm
+
+```
+sudo apt-get install dwm suckless-tools xdm dmenu xorg
+echo dwm > .xsession
+```
+Εκανα reboot to συστημά μου και οταν εκανα login ημουν πια στο dwm.
+
+![dwm](kdm.jpg)
+
+Απο εδω αρχίζει να γράφει το acsiinema. Στόχος μου ηταν να ενσωματώσω ένα status bar που θα τρέχει αυτόματα κάθε φορά που θα κάνω login στο σύστημα. Μετά απο αναζήτηση βρήκα το status monitor το οποίο υπάρχει στο github και το εκανα clone και install, όπως περιγράφουν οι οδηγίες (url στις πηγές) χρειάστηκε να εγκαταστήσω το libx11-dev για να ολοκληρωθεί η εγκατάσταση καθώς μου εβγαζε error. 
+
+```
+sudo apt install libx11-dev
+```
+
+Μετά την εγκατάσταση το αποτέλεσμα ηταν όπως στην παρακάτω εικόνα.
+
+![status bar](kdm_after.jpg)
+
+#### Πηγές
+
+dwm installation https://medium.com/hacker-toolbelt/dwm-windows-manager-in-ubuntu-14958224a782
+
+status bar https://dwm.suckless.org/status_monitor/
 
 
 
