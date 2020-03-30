@@ -14,6 +14,14 @@
 
 * [Εικόνα ubuntu terminal στο βιβλίο](https://thodoros.netlify.com/gallery/ubuntu-terminal/)
 
+* [Εικόνα raspberry pi zero στο αποθετήριό μου](https://github.com/Thodoros/gr/blob/master/_gallery/raspberry-pi-zero.md)
+
+* [Εικόνα raspberry pi zero στο βιβλίο](https://thodoros.netlify.com/gallery/raspberry-pi-zero/)
+
+* [Διαδραστικό παράδειγμα στο αποθετήριό μου](https://github.com/Thodoros/gr/blob/master/_remix/apple-keyboard.md)
+
+* [Διαδραστικό παράδειγμα στο βιβλίο](https://thodoros.netlify.com/remix/apple-keyboard/)
+
  
 
 
