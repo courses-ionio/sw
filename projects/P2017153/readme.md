@@ -26,11 +26,11 @@
 Το virtualenv venv θα δημιουργήσει ένα φάκελο στον τρέχοντα κατάλογο ο οποίος θα περιέχει τα εκτελέσιμα αρχεία Python και ένα αντίγραφο της βιβλιοθήκης pip που μπορουμε να χρησιμοποιήσουμε για την εγκατάσταση άλλων πακέτων. Το όνομα του εικονικού περιβάλλοντος (στην περίπτωση αυτή, ήταν venv) μπορεί να είναι οτιδήποτε. η παράλειψη του ονόματος θα τοποθετήσει τα αρχεία στον τρέχοντα κατάλογο.Για να χρησιμοποιησουμε το virtual enviroment τo κανουμε activate  source venv/bin/activate.Kανουμε install τα packages me pip install requests και οταν τελιωσουμε τη δουλεια μας στο virtual enviroment το κανουμε deactivate με την εντολη deactivate.Υπαρχουν και αλλα πραγματα που δειχνω στο demo αλλα για να μην μεγαλωσει πολυ η αναφορα θα τα παραληψω.</bold></p>
     <h5>ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΥΛΙΚΟ -Α ΜΕΡΟΣ<h5><br/>
       <p><bold>Για το πρωτο μερος του συμμετοχικου εκπαιδευτικου υλικου προσθεσα 2 φωτογραφιες που πιστευω εχουν σχεση με το πνευμα της ιστοσελιδας του μαθηματος στο προσωπικο αποθετηριο της ιστοσελιδας του μαθηματος που εφτιαξα.Η πρωτη ειναι το λειτουργικο συστημα openbsd ενω η δευτερη ειναι το κελυφος bourne<bold><p><br/><br/>
-      link Αποθετηριο ιστοσελιδας μαθηματος:<a href="https://github.com/mibook/gr">link1</a>
-      link Ιστοσελιδα μαθηματος:<a href="https://www.mibook.org/">link2</a>
-      link Προσωπικο αποθετηριο ιστοσελιδας μαθηματος:<a href="https://github.com/p17leka/gr">link3</a>
-      link Προσωπικη ιστοσελιδα μαθηματος:<a href="https://p17leka.github.io/gr/">link4</a>
-      link εικονας openbsd:<a href="https://p17leka.github.io/gr/gallery/openbsd/">link_openbsd</a>
-      link εικονας bourne-shell:<a href="https://p17leka.github.io/gr/gallery/bourne-shell/">link_bourne-shell</a>
+      link Αποθετηριο ιστοσελιδας μαθηματος:<a href="https://github.com/mibook/gr">link1</a><br/>
+      link Ιστοσελιδα μαθηματος:<a href="https://www.mibook.org/">link2</a><br/>
+      link Προσωπικο αποθετηριο ιστοσελιδας μαθηματος:<a href="https://github.com/p17leka/gr">link3</a></br>
+        link Προσωπικη ιστοσελιδα μαθηματος:<a href="https://p17leka.github.io/gr/">link4</a></br>
+      link εικονας openbsd:<a href="https://p17leka.github.io/gr/gallery/openbsd/">link_openbsd</a></br>
+      link εικονας bourne-shell:<a href="https://p17leka.github.io/gr/gallery/bourne-shell/">link_bourne-shell</a></br>
     </body> 
 </html    
