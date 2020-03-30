@@ -26,11 +26,11 @@
 
 ### Πρώτη εργασία
 
-**Title**: Try different terminals and shells
+* **Title**: Try different terminals and shells
 
-**Deliverables**: Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+* **Deliverables**: Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-[Asciinema link](https://asciinema.org/a/314665)
+* [Asciinema link](https://asciinema.org/a/314665)
 
 
 
