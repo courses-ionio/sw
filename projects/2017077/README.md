@@ -1,3 +1,6 @@
+# Μάθημα: Τεχνολογία λογισμικού
+## Ονοματεπώνυμο: Χριστόδουλος Καλογιάννης 
+## ΑΜ: Π2017077
 ## Assignments 
 ### First assignment
 #### Assignment: Performance monitoring
