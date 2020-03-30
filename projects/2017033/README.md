@@ -5,4 +5,6 @@
 
 ## Εργασία Ανάπτυξης
 # Εργασία 1
+# Try different terminals and shells
+
 # Fish Asciinema Link: https://asciinema.org/a/314547
