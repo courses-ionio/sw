@@ -12,5 +12,5 @@
 
 Για το πρώτο παραδοτέο της εργασίας του συμμετοχικού υλικού πρόσθεσα δύο εικόνες στο αντιγραφο του αποθετηρίου του βιβλίου μου και, κατά επέκταση στην σελίδα μου. Οι εικόνες είναι οι εξής:
 
-- [Πρώτη Εικόνα Robologix](https://p17smyr.github.io/gr/gallery/robologix/)
-- [Δεύτερη Εικόνα MatLab](https://p17smyr.github.io/gr/gallery/matlab/)
+### - [Πρώτη Εικόνα Robologix](https://p17smyr.github.io/gr/gallery/robologix/)
+### - [Δεύτερη Εικόνα MatLab](https://p17smyr.github.io/gr/gallery/matlab/)
