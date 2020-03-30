@@ -7,8 +7,11 @@
 
 ## Συμμετοχικό περιεχόμενο
 
-[mibook link]( )
+[mibook link](https://p17styl.netlify.com/)
 
+[1st image](https://p17styl.netlify.com//gallery/amazon-alexa/)
+
+[2nd image](https://p17styl.netlify.com//gallery/unity/)
 
 ## Terminal
 ## Πρώτο Παραδοτέο : 
