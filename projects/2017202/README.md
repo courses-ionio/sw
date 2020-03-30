@@ -21,4 +21,16 @@ AM: Π2017202
    
    [Asciinema Link Using ntfy](https://asciinema.org/a/X85kKZL7I0TGkHBEnsKLmGkQT)
    
+ ## Συμμετοχικό Υλικό
+
+  [Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
+
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
+
+   Μέρος της εργασίας στην Τεχνολογία Λογισμικού είναι η προσθήκη 2 εικόνων με έλευθερα πνευματικά δικαιώματα στο ["O Προγραμματισμός της Διάδρασης"](https://mibook.org/gr/)
+   
+  
+   [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
+   [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/Latex/)
+   
    
