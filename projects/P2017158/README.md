@@ -21,4 +21,7 @@
 * deliverables:send a notifcation when a big task completes, eg download, compiling, etc
 
 
-![example image]
+![example image](ntfy.png)
+
+
+Για την εργασία χρησιμοποίησα το **ntfy**, στην εικόνα φαίνεται η εντολή που έδωσα (στην πρώτη γραμμή ntfy done sleep 5) για να μου έρθει η ειδοποίηση που φαίνεται μέσω του pop-up window.
