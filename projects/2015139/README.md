@@ -221,7 +221,9 @@ ntfy -b linux send 'this is a test'
 
 **Στο παρακάτω asciicast βλέπουμε τις εντολές στο shell ενώ σε [αυτό](https://github.com/gmargaritis/sw/blob/2015139/projects/2015139/20200330_133733.gif) το gif μπορούμε να δούμε σε πραγματικό χρόνο τα μυνήματα να φτάνουν στην android συσκευή ως ειδοποιήσεις.**
 
-### **Asciinema:** [ntfy](https://asciinema.org/a/c4DWt0TurQHdpAbujxOxAErkI)
+**Όπως αναφέρθηκε και πριν στο διπλανό gif βλέπουμε ότι έρχονται τα notifications για την ολοκλήρωση διάφορων tasks όπως το asciinema και το hyperfine**
+
+### **Asciinema:** [ntfy](https://asciinema.org/a/c4DWt0TurQHdpAbujxOxAErkI), **Gif:** [Slack for Android](https://github.com/gmargaritis/sw/blob/2015139/projects/2015139/slack.gif)
 
 ---
 
