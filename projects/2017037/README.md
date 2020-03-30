@@ -26,7 +26,7 @@ Link για το [video](#)
 
 * Deliverables : monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-* Σύνδεσμος στο [Asciinema]()
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/9TcbaFQcZHnEK855VtqcsmwBd)
 
 * Εργαλεία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
