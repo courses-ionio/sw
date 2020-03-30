@@ -42,3 +42,21 @@ pip install feedparser
 
 Για να στήσω το virtual enviroment ακολούθησα τον οδηγό https://docs.python-guide.org/dev/virtualenvs/. Ο κώδικας του project είναι στο github. https://github.com/fivosf/mynews.
 
+### Άσκηση 3. Send notifications to your desktop-mobile. Send a notifcation when a big task completes, eg download, compiling, etc
+#### asciinema: https://asciinema.org/a/PorL9zTrycaOBRuGGDQ8JVXQt
+Χρησιμοποίησα το ntfy
+
+```
+sudo pip install ntfy
+```
+Εφτιαξα ενα bash script (update.sh) το οποίο τρέχει update kai upgrade και στο τέλος στέλνει το notification στον χρήστη.
+
+```
+#!/bin/bash
+
+sudo apt update
+sudo apt upgrade -y
+
+ntfy -t 'System' send "Upgrade Completed"
+```
+
