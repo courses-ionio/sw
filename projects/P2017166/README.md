@@ -29,7 +29,9 @@ Assignment: Send notifications to your desktop-mobile
 
 Screenshot:
 
+
 ![example](Screenshot from 2020-03-28 07-59-39.png)
+
 
 ## Δεύτερη εργασία
 
