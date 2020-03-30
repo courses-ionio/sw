@@ -121,9 +121,30 @@ ___
     * [flake8](https://github.com/nvie/vim-flake8)
     * [syntastic](https://github.com/vim-syntastic/syntastic)
     
-    ___
+        ___
     
 ### 6η Άσκηση : 
+
+* Assignment : create an agent for news
+
+* Deliverables : the demo should display the new content added on a news web site 
+
+* Περιγραφή :
+```
+key "Alt+Ctrl+t"            x-terminal-emulator -e sudo -i 
+key "Alt+Ctrl+g"            xdg-open https://github.com/geosideras
+   
+
+```
+
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
+
+* Εργαλεία που χρησιμοποίησα :
+    * [Huginn](https://github.com/huginn/huginn "huginn")
+    
+    ___
+    
+### 7η Άσκηση : 
 
 * Assignment : create an agent for news
 
