@@ -4,6 +4,9 @@
 
 # DOKEY ΕΡΓΑΣΙΕΣ
 
+# 1η Εργασία
+
+
 * assignments: try different terminals and shells
 
 * deliverables:repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
@@ -13,7 +16,7 @@
 Για την εργασία χρησιμοποίησα το **zsh-shell**, στο βίντεο αρχικά φαίνεται η πρώτη σελίδα που σου δείχνει το πρόγραμμα αφού το εγκαταστήσουμε. Έχει μέσα τρόπους για να εξατομικεύσουμαι το shell μας.Έπειτα, χρησιμοποίησα εντολές όπως το  (cd, echo $SHELL) για να δω πως δουλεύει.
 
 
-
+# 2η Εργασία
 
 * assignments: send notifications to your desktop-mobile
 
