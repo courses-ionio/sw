@@ -70,3 +70,9 @@ AM: Π2017063
 * [Link δεύτερης εικόνας/Imagemagick](https://fsofronia.github.io/gr/gallery/imagmagick/)
   
 
+### ***Άσκηση 3 "set-up a system for python development"***
+   #### ***install and configure in a user folder a python project that is not available through the package manager***
+   
+   #### [Link για την άσκηση](https://asciinema.org/a/Zv6sOUewENlvlqYaX7BMIArQm)
+   
+  Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/), με την χρήση του οποίου δημιούργησα ένα εικονικό περιβάλλον της python σε ένα directory και μέσα σε αυτό "έτρεξα" ένα πρόγραμμα της python. Στο σύνδεσμο που οδηγεί στην άσκηση φαίνεται τόσο η εγκατάσταση όσο και η εκτέλεση του προγράμματος.
