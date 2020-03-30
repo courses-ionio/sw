@@ -21,7 +21,27 @@
   
 ~ screenshots στο κινητό μου με τον bot father και τις ειδοποιήσεις που στέλνονται στο bot μου όταν ολοκληρώνονται εντολές απο το terminal
   ![screenshots στο κινητό μου](Images/mobilentfy.png)
-  
- 
+ <br/>
+ <br/>
  ~ screenshot στο desktop μου στο οποίο φαίνεται η ειδοποίηση μετά απο την ολοκλήρωση μιας εντολής στο terminal
   ![screenshots στο Desktop μου](Images/desktopntfy.png)
+
+## Συμμετοχικό εκπαιδευτικό υλικό
+#### [Προσωπικό link βιβλίου](https://chriskalo.netlify.com/)
+#### [Προσωπικό αποθετήριο](https://github.com/chriskalo/gr)
+  * Για την εργασία συμμετοχικού εκπαιδευτικού υλικού επέλεξα να ασχοληθώ με τα **παραδοτέα Α και Β**. Ειδικότερα, σε ότι έχει να κάνει με το **Α** παραδοτέο βρήκα δύο εικόνες με ελεύθερα πνευματικά δικαιώματα μέσω του [wikimedia](https://commons.wikimedia.org/wiki/Main_Page). Η πρώτη εικόνα αφορά το [VirtualBox](https://www.virtualbox.org/) της oracle και η δεύτερη την πλατφόρμα [SourceForge](https://sourceforge.net/). Παρακάτω δίνονται τα link των δύο εικόνων που οδηγούν στο αποθετηριό μου καθώς αντίστοιχα και μέσα στην ιστοσελίδα του βιβλίου :
+  
+ **VirtualBox**
+  * https://github.com/chriskalo/gr/blob/master/_gallery/virtualbox.md
+  * https://chriskalo.netlify.com/gallery/virtualbox/
+ 
+ **SourceForge**
+  * https://github.com/chriskalo/gr/blob/master/_gallery/sourceforge.md
+  * https://chriskalo.netlify.com/gallery/sourceforge/
+ 
+ Σε ότι έχει να κάνει με το **Β** παραδοτέο βρήκα ένα διαδραστικό παράδειγμα απο την σελίδα του [codepen](https://codepen.io/) το οποίο παρέχει στον χρήστη ένα terminal σε γλώσσα προγραμματισμού python το οποίο δίνει την δυνατότητα να δώσεις κάποιες εντολές έχοντας με αυτόν τον τρόπο μία μικρή ιδέα για το πώς είναι να εργάζεσαι με ένα τερματικό. Παρακάτω δίνεται τα link του διαδραστικού παραδείγματος που οδηγούν στο αποθετήριο μου καθώς αντίστοιχα και μέσα στην ιστοσελίδα του βιβλίου:
+ 
+ **HTML5 Web Terminal**
+  * https://github.com/chriskalo/gr/blob/master/_remix/web-terminal.md
+  * https://chriskalo.netlify.com/remix/web-terminal/
+ 
