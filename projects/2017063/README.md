@@ -75,4 +75,17 @@ AM: Π2017063
    
    #### [Link για την άσκηση](https://asciinema.org/a/Zv6sOUewENlvlqYaX7BMIArQm)
    
-  Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/), με την χρήση του οποίου δημιούργησα ένα εικονικό περιβάλλον της python σε ένα directory και μέσα σε αυτό "έτρεξα" ένα πρόγραμμα της python. Στο σύνδεσμο που οδηγεί στην άσκηση φαίνεται τόσο η εγκατάσταση όσο και η εκτέλεση του προγράμματος.
+  Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/), με την χρήση του οποίου δημιούργησα ένα εικονικό περιβάλλον της python σε ένα directory και μέσα σε αυτό "έτρεξα" ένα πρόγραμμα της python. Στο σύνδεσμο που οδηγεί στην άσκηση φαίνεται τόσο η εγκατάσταση όσο και η εκτέλεση του προγράμματος.\
+  
+  
+  ### ***Άσκηση 4 "use the terminal as an IDE"***
+   #### ***edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in***
+   
+   #### [Link για την άσκηση](https://asciinema.org/a/zLviqngSyDGLd3y7HwJHSxrrs)
+   
+  Για την υλοποίηση της τέταρτης εργασίας χρησιμοποίησα το [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), πάνω στο οποίο "πρόσθεσα" για να κάνω ελέγχους και να τρέξω τον κώδικα μου τα εξής:
+  
+  * [pylint](https://www.pylint.org/)
+  * [python-mode](https://github.com/python-mode/python-mode)
+  * [vim-flake8](https://github.com/nvie/vim-flake8)
+  * [vim-syntastic](https://github.com/vim-syntastic/syntastic)
