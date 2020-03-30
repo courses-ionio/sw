@@ -40,7 +40,7 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 * Deliverables : send a notifcation when a big task completes, eg download, compiling, etc
 
-* Σύνδεσμος στο [Asciinema]()
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/EKCSx7UjeCXxRdcCjQcxwL2hz)
 
 * Εργαλεία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
 
