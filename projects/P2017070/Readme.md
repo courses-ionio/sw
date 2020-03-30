@@ -37,7 +37,7 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 
 ## ΑΣΚΗΣΕΙΣ ΣΕ COMMAND-LINE(30 ΜΑΡΤΙΟΥ)
 
-###Dependencies
+### Dependencies
 * virtual box (kali linux)
 * command line
 * python
@@ -45,7 +45,7 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 
 
 
-###First Assignment-SW (try different terminals and shells)
+### First Assignment-SW (try different terminals and shells)
 
 Για την πρώτη εργασία στο μάθημα "Τεχνολογιες Λογισμικου" του ΣΤ' εξαμήνου χρησιμοποιήθηκαν τα παραπάνω εργαλεία για να ανοίξω τουλάχιστον δύο shells και να δοκιμάσω διάφορα plugins.
 
