@@ -1,5 +1,5 @@
-## Εργασίες 
-### Πρώτη εργασία
+## Assignments 
+### First assignment
 #### Assignment: Performance monitoring
 #### Deliverables: Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 #### [Link to Asciinema](https://asciinema.org/a/312500)
