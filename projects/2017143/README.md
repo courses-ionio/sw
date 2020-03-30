@@ -26,5 +26,17 @@
 Από terminals χρησιμοποίησα τα:
 - kosnole
 - sakura
-- terminator
-![konsole]()
+- terminator  
+![konsole](konsole.png)
+![sakura](sakura.png)
+![terminator](terminator.png)
+
+#### Άσκηση 2 (configure a custom window manager)
+[![asciicast](https://asciinema.org/a/314577.svg)](https://asciinema.org/a/314577)
+Χρησιμοποίησα τα εξής Window Managers:
+- Plasma
+- Fluxbox
+- Cannenon
+![Plasma]()
+![Fluxbox]()
+![]()
