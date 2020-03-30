@@ -18,7 +18,7 @@
 Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbedc09d#)
 
 **Φωτογραφία που δείχνει στα linux το history των εντολών που χρησιμοποίησα στο κινητό**<br/>
-![mosh](images/sw_assignment_02.png)
+![mosh](images/uploadphoto.png)
 
 ### 2ο Παραδοτέο
 
