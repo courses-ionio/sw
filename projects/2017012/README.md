@@ -50,9 +50,9 @@
 
 * **Deliverables:** Send a notifcation when a big task completes, eg download, compiling, etc
 
-* [Asciinema link](https://asciinema.org/a/314601)
+* [Asciinema link](https://asciinema.org/a/314820)
 
-* 
+* Σε αυτή την άσκηση, εγκατέστησα πρώτα το [ntfy](https://github.com/dschep/ntfy) το οποίο είναι ένα εργαλείο που στέλνει ειδοποιήσεις στο desktop αλλά και στο κινητό. Έπειτα τοποθέτησα την εντολή **eval "$(ntfy shell-integration)"** στο **~/.bashrc** ώστε να στέλνονται κανονικά οι ειδοποιήσεις για διαδικασίες οι οποίες ξεπερνάνε ένα συγκεκριμένο χρονικό όριο. Αρχικά, έτρεξα την εντολή **ntfy done sleep 10** όπου στέλνει μία desktop ειδοποίηση μετά από 10 seconds όπως φαίνεται παρακάτω στο screenshot_1. Έπειτα,για να μπορώ να έχω τα notifications και στο κινητό μου, κατέβασα την εφαρμοφή [Telegram](https://telegram.org) και δημιούργησα ένα bot μέσω του BotFather το οποίο το σύνδεσα με το terminal μου μέσω ενός token το οποίο μου στάλθηκε. Για να μου σταλθεί ειδοποίηση για κάποια διαδικασία που έχει τερματίσει στο κινητό μου το μόνο που αρκεί είναι να βάλω στο τέλος της εντολής **; tg** όταν την τρέξω,όπως έκανα και στην εντολή **sudo apt update** που φαίνεται στο screenshot_2.
 
 
 
