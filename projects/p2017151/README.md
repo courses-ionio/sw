@@ -172,6 +172,22 @@ sudo docker run -d -p 80:80 html-server-image:v1
 ![chrome_YQ55BJb0m8](https://user-images.githubusercontent.com/44111276/77861079-889e9880-721b-11ea-89c7-c93511bd253d.png)
 
 
+### Συμμετοχικό Εκπαιδευτικό Υλικό.
+
+### mibook URL: [mibook](https://p17theo3.netlify.com/)
+
+### Αποθετήριο mibook: [link](https://github.com/p17theo3/gr)
+### A.
+
+Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του faceboonew όπως φαίνεται παρακάτω:
+
+### [Facebooknew](https://p17theo3.netlify.com/gallery/facebooknew/)
+
+H δεύτερη εικόνα που ανέβασα είναι ένα applesmartwatch όπως φαίνεται και παρακάτω:
+
+### [applesmartwatch](https://p17theo3.netlify.com/gallery/applesmartwatch/)
+
+
 
 
 
