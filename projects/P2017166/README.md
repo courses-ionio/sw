@@ -43,6 +43,6 @@ Assignment: Try different terminals and shells
 
 Screenshots:
 ![example](terminator.png)
-![example]()
+![example](tilda.png)
 
  
