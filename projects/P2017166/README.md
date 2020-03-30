@@ -25,11 +25,11 @@ Assignment: Send notifications to your desktop-mobile
 Περιγραφή: Με την χρήση της εντολής ntfy λαμβάνουμε μήνυμα για την ολοκλήρωση μιας μακρόχρωνης
 διαδικασίας.
 
-[example](https://asciinema.org/a/qqzt0c1OOOxADeeDiq2kp8g1G)
+![example](https://asciinema.org/a/qqzt0c1OOOxADeeDiq2kp8g1G)
 
 Screenshot:
 
-![example](Screenshot from 2020-03-28 07-59-39.png)
+[example](Screenshot from 2020-03-28 07-59-39.png)
 
 ## Δεύτερη εργασία
 
@@ -42,7 +42,9 @@ Assignment: Try different terminals and shells
 [example](https://asciinema.org/a/YTnGNw8aMqKQ1Bm5Cb71a7yjb)
 
 Screenshots:
+
 ![example](terminator.png)
+
 ![example](tilda.png)
 
  
