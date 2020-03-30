@@ -32,7 +32,9 @@ AM: Π2017202
    
    St:
    >git clone https://github.com/LukeSmithxyz/st
+   
    >cd st
+   
    >sudo make install
    
   
@@ -67,6 +69,7 @@ AM: Π2017202
    
    Στη συνέχεια δημιουργούμε έναν φάκελο που θα είναι το εικονικό μας project
    >mkdir git_p17poli
+   
    >cd git_p17poli
    
    Εγκαθιστούμε τα απαραίτητα πακέτα για το project
@@ -74,9 +77,10 @@ AM: Π2017202
    
    Δημιουργούμε και τρέχουμε ένα αρχείο python
    >cat > p17poli.py
+   
    >pipenv run python p17poli.py
    
-   [Asciinema Link Pythong Virtual Enviroment](https://asciinema.org/a/43Pp4bALd9zgYy3MvzaVseyIS)
+   [Asciinema Link Python Virtual Enviroment](https://asciinema.org/a/43Pp4bALd9zgYy3MvzaVseyIS)
    
  ## Συμμετοχικό Υλικό
 
@@ -88,6 +92,7 @@ AM: Π2017202
    
   
    [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
+   
    [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/Latex/)
    
    
