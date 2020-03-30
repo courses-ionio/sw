@@ -15,18 +15,19 @@
 
 ## Δεύτερη Εργασία
 
-* title: create your own static site and blog generator
-* deliverables: the generator should consider posts, pages, and templates
-* tools used: [hugo](https://gohugo.io/) 
-* prequisites: [brew](https://brew.sh/index_el)
-* asciinema: [link](https://asciinema.org/a/312446)
+* title: create your own static site and blog generator / set-up continuous integration
+* deliverables: the generator should consider posts, pages, and templates / build and deploy your static site and your cv dynamically every time you make a small change in the source files
+* tools used: [hugo](https://gohugo.io/),netlify cli
+* prequisites: [brew](https://brew.sh/index_el), netlify cli installed
+* asciinema: [link1](https://asciinema.org/a/312446), [link2 deployment](https://asciinema.org/a/314951)
 * description: 
-  * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα.
+  * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα. Μετά από την δημιουργία του static site έγινε deploy μέσω netlify cli. Αναλυτικά οι εντολές στο asciinema.
   
   **images**<br/>
   *step1: Δημιουργία site* ![step1](images/hugo1.png)
   *step2: Δημιουργία post* ![step2](images/hugo2.png)
   *step3: Δημιουργία σελίδας about* ![step3](images/hugo3.png)
+  *step4: Deployed site στο netlify* ![step4](images/hugo4.png)
 
 ## Τρίτη Εργασία
 
