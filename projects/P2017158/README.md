@@ -13,3 +13,12 @@
 Για την εργασία χρησιμοποίησα το **zsh-shell**, στο βίντεο αρχικά φαίνεται η πρώτη σελίδα που σου δείχνει το πρόγραμμα αφού το εγκαταστήσουμε. Έχει μέσα τρόπους για να εξατομικεύσουμαι το shell μας.Έπειτα, χρησιμοποίησα εντολές όπως το  (cd, echo $SHELL) για να δω πως δουλεύει.
 
 
+
+
+* assignments: send notifications to your desktop-mobile
+
+
+* deliverables:send a notifcation when a big task completes, eg download, compiling, etc
+
+
+![example image]
