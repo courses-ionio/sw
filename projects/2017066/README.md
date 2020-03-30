@@ -78,7 +78,18 @@
 * prequisites: pip,pip3,python,python3
 * asciinema: [link](https://asciinema.org/a/312840)
 * description:
-  * Για την τελευταία εργασία, πρώτα έγινε η εγκατάσταση μέσω pip του pipenv, μετά έγινε ένας φάκελος με όνομα pyproj, ο οποίος θα περιέχει αργότερα ένα python project. Αφού μπούμε μέσα στον φάκελο pyproj, εγκαθιστούμε τα πακέτα τα οποία απαιτούνται για το project. Αυτό επιτυγχάνεται με την εντολή `pipenv install requests`. Έπειτα, δημιουργούμε ένα απλό python αρχείο με όνομα main.py και το επεξεργαζόμαστε με τέτοιο τρόπο έτσι ώστε να μας επιστρέφει την ip μας. Με το pipenv (και τα εγκατεστημένα πακέτα) εκτελούμε το main.py επιτυχώς. Tέλος, εγκαθιστούμε το virtualenv το οποίο είναι ένα εργαλείο που μπορεί να δημιουργήσει Python environments. Στην ουσία δημιουργεί ένα φάκελο που περιέχει όλα τα απαραίτητα εκτελέσιμα αρχεία που χρησιμοποιούν τα πακέτα που θα χρειαστεί ένα python project. Στο asciinema γίνεται ένα demo για την δημιουργία φακέλου με τα εκτελέσιμα, την ενεργοποίηση και απενεργοποίηση του virtual environment.
+  * Για αυτήν την εργασία, πρώτα έγινε η εγκατάσταση μέσω pip του pipenv, μετά έγινε ένας φάκελος με όνομα pyproj, ο οποίος θα περιέχει αργότερα ένα python project. Αφού μπούμε μέσα στον φάκελο pyproj, εγκαθιστούμε τα πακέτα τα οποία απαιτούνται για το project. Αυτό επιτυγχάνεται με την εντολή `pipenv install requests`. Έπειτα, δημιουργούμε ένα απλό python αρχείο με όνομα main.py και το επεξεργαζόμαστε με τέτοιο τρόπο έτσι ώστε να μας επιστρέφει την ip μας. Με το pipenv (και τα εγκατεστημένα πακέτα) εκτελούμε το main.py επιτυχώς. Tέλος, εγκαθιστούμε το virtualenv το οποίο είναι ένα εργαλείο που μπορεί να δημιουργήσει Python environments. Στην ουσία δημιουργεί ένα φάκελο που περιέχει όλα τα απαραίτητα εκτελέσιμα αρχεία που χρησιμοποιούν τα πακέτα που θα χρειαστεί ένα python project. Στο asciinema γίνεται ένα demo για την δημιουργία φακέλου με τα εκτελέσιμα, την ενεργοποίηση και απενεργοποίηση του virtual environment.
+  
+## Έβδομη Εργασία
+
+* title: use the terminal as an IDE
+* deliverables: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+* tools used (plugins): [python-mode](https://vimawesome.com/plugin/python-mode),[pyflakes.vim](https://vimawesome.com/plugin/pyflakes-vim), [python.vim](https://vimawesome.com/plugin/python-vim-red), [indent/python.vim](https://vimawesome.com/plugin/indent-python-vim-sparks-fly)
+* prequisites: pip,pip3,python,python3,[vimplug](https://github.com/junegunn/vim-plug), pylint
+* asciinema: [link](https://asciinema.org/a/314800)
+* description:
+  * Για την τελευταία εργασία, επεξεργάστηκα το αρχείο vimrc του vim editor για να ταιριάζει στις ανάγκες μου σχετικά με το python development. Πρώτα όμως εγκατέστησα το vimplug και το pylint. Έπειτα στο vimrc αρχείο έβαλα διάφορα plugins του vim από το [vimawesome](https://vimawesome.com/). Τα plugins που έβαλα είναι για στοίχηση, basic error-checking, syntax highlighting και compile κώδικα. Τέλος, επεξεργάστηκα ένα τυχαίο αρχείο python και το έτρεξα με το /r.
+
 
 # Συμμετοχικό Υλικό
 [εκτελέσιμο link σελίδας βιβλίου](https://dmisa.github.io/gr/)<br/>
