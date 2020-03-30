@@ -4,7 +4,7 @@
 
 ## Συμμετοχικό εκπαιδευτικό υλικό
 
-## Προσωπικό link βιβλίου
+## Προσωπικό link βιβλίου [link](https://p17elev.netlify.com/)
 
 ## Προσωπικό αποθετήριο
 
@@ -16,26 +16,30 @@
 
 [link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/trci.md)
 
-Εργασίες SW
+## Εργασίες SW
 
-Πρώτη εργασία
+## Πρώτη εργασία
 
 Assignment: Send notifications to your desktop-mobile 
 
 Περιγραφή: Με την χρήση της εντολής ntfy λαμβάνουμε μήνυμα για την ολοκλήρωση μιας μακρόχρωνης
 διαδικασίας.
 
+[example](https://asciinema.org/a/qqzt0c1OOOxADeeDiq2kp8g1G)
+
 Screenshot:
 
 ![example]()
 
+## Δεύτερη εργασία
+
 Assignment: Try different terminals and shells
 
-Περιγραφή: Δύο φωτογραφίες από διαφορετικά Terminator Tilda και δύο φωτογραφίες από εντολές που δεν εκτελούνται στο προεπιλεγμένο  αλλά εκτελούνται στο αντίστοιχα
+Περιγραφή: Δύο φωτογραφίες από διαφορετικά terminal Terminator Tilda και δύο φωτογραφίες από εντολές που δεν εκτελούνται στο προεπιλεγμένο shell αλλά εκτελούνται στα ksh, csh αντίστοιχα
 
 Screenshots:
 ![example]()
 ![example]()
-![example]()
-![example]()
+[example](https://asciinema.org/a/2QW2xYB31R7OEmdha8AdoEfDw)
+[example](https://asciinema.org/a/YTnGNw8aMqKQ1Bm5Cb71a7yjb)
  
