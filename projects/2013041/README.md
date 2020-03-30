@@ -60,3 +60,9 @@ sudo apt upgrade -y
 ntfy -t 'System' send "Upgrade Completed"
 ```
 
+Παρακάτω φαίνεται το notification
+![The notification](upgrade.jpg)
+
+#### Πηγές
+https://www.youtube.com/watch?v=bbdQXfReuG0
+
