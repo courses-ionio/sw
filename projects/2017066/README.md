@@ -20,6 +20,7 @@
 * tools used: [hugo](https://gohugo.io/),netlify cli
 * prequisites: [brew](https://brew.sh/index_el), netlify cli installed
 * asciinema: [link1](https://asciinema.org/a/312446), [link2 deployment](https://asciinema.org/a/314951)
+* deployed site link : [link](https://fastsite.netlify.com)
 * description: 
   * Για την δεύτερη εργασία, επέλεξα να χρησιμοποιήσω το εργαλείο hugo, έναν από τους γρηγορότερους και πιο δημοφιλείς static site generators (και opensource). Μετά την εγκατάστασή του μέσω του homebrew, δημιούργησα το site μου, διάλεξα ένα από τα templates που προσφέρει το hugo, δημιούργησα κάποια posts καθώς και μια σελίδα about. Δεν εμπλούτισα καθόλου τα posts ούτε έφτιαξα ένα χρήσιμο site για να μην τραβήξει πολύ το βιντεάκι στο asciinema. Με το εργαλείο hugo, μπορούν να δημιουργηθούν sites σε μερικά λεπτά! Οι εντολές φαίνονται στο asciinema αναλυτικα. Μετά από την δημιουργία του static site έγινε deploy μέσω netlify cli. Αναλυτικά οι εντολές στο asciinema.
   
