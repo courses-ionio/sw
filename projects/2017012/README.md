@@ -54,15 +54,16 @@
 
 * Σε αυτή την άσκηση, εγκατέστησα πρώτα το [ntfy](https://github.com/dschep/ntfy) το οποίο είναι ένα εργαλείο που στέλνει ειδοποιήσεις στο desktop αλλά και στο κινητό. Έπειτα τοποθέτησα την εντολή **eval "$(ntfy shell-integration)"** στο **~/.bashrc** ώστε να στέλνονται κανονικά οι ειδοποιήσεις για διαδικασίες οι οποίες ξεπερνάνε ένα συγκεκριμένο χρονικό όριο. Αρχικά, έτρεξα την εντολή **ntfy done sleep 10** όπου στέλνει μία desktop ειδοποίηση μετά από 10 seconds όπως φαίνεται παρακάτω στο **screenshot_1**. Έπειτα,για να μπορώ να έχω τα notifications και στο κινητό μου, κατέβασα την εφαρμοφή [Telegram](https://telegram.org) και δημιούργησα ένα bot μέσω του BotFather το οποίο το σύνδεσα με το terminal μου μέσω ενός token το οποίο μου στάλθηκε. Για να μου σταλθεί ειδοποίηση για κάποια διαδικασία που έχει τερματίσει στο κινητό μου το μόνο που αρκεί είναι να βάλω στο τέλος της εντολής **; tg** όταν την τρέξω,όπως έκανα και στην εντολή **sudo apt update** που φαίνεται στο **screenshot_2**.
 
-![Screenshot_1](projects/2017012/screenshots/screenshot_1.png)
+![Screenshot_1](screenshots/screenshot_1.png)
 
+![Screenshot_2](screenshots/screenshot_2.png)
 
+### Τέταρτη άσκηση
 
+* **Title:** Performance monitoring
 
+* **Deliverables:** Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
+* [Ascoonema link](https://asciinema.org/a/312503)
 
- 
-
-
-
-
+* Σε αυτή την άσκηση, εγκατέστησα το [hyperfine](https://github.com/sharkdp/hyperfine) το οποίο το χρησιμοποίησα για να συγκρίνω την ταχύτητα δύο αλγορίθμων ταξινόμησης, του **bubble** και του **heapsort** τους οποίους τους έχω σε python scripts και τους βρήκα μέσα από ένα απλό **Google Search**. Έπειτα τοποθέτησα κάποιες εντολές στον κώδικα και των δύο scripts ώστε να αντλούν τους αριθμούς που θα χρησιμοποιήσουν για την ταξινόμηση από ένα νέο txt αρχείο. Το txt αρχείο αυτό, δημιουργείται από το script **rand** το οποίο το έβαλα να μου δώσει 10.000 τυχαίους αριθμούς. Τέλος,με την εντολή **hyperfine** και τις απαραίτητες παραμέτρους τρέχω τα δύο scripts και προβάλλονται τα αποτελέσματα σχετικά με το χρόνο εκτέλεσης του κάθε αλγορίθμου.
