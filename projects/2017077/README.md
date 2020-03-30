@@ -21,3 +21,6 @@
   
 ~ screenshots στο κινητό μου με τον bot father και τις ειδοποιήσεις που στέλνονται στο bot μου όταν ολοκληρώνονται εντολές απο το terminal
   ![screenshots στο κινητό μου](Images/mobilentfy.png)
+  
+ ~ screenshot στο desktop μου στο οποίο φαίνεται η ειδοποίηση μετά απο την ολοκλήρωση μιας εντολής στο terminal
+  ![screenshots στο Desktop μου](Images/desktopntfy.png)
