@@ -52,17 +52,19 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 ### 4ο Παραδοτέο
 
-* Assignment : use the terminal as an IDE
+* Assignment : set-up a system for python development
 
-* Deliverables : edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+* Deliverables : install and configure in a user folder a python project that is not available through the package manager
 
-Στο παρακάτω video που βρίσκεται στο asciinema, χρησιμοποιώ το nvim για να γράψω σε python ένα random number generator script που το πλήθος των αριθμών καθορίζεται απο το input του χρήστη.
-* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314626)
+* Περιγραφή : Πρώτα εγκατέστησα το pipenv , δημιούρησα έναν καινούργιο φακελο μέσα στο οποίο ξεκίνησα με το virtual environment κάνωντας install διάφορα modules της python.Εδειξα τα Pipfile και Pipfile.lock,αλλα στο τέλος έτρεξα και την εντολή pipenv graph το οποίο δείχνει ενα δέντρο με τα dependencies που έχω εγκατεστημένα.
 
-* Εργαλεία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
+* Βίντεο στο [Asciinema](https://asciinema.org/a/jpmkb4biALfR7kjU7bJZrnnD3) 
 
-Αρχικά κατέβασα το nvim text editor και στην συνέχεια του έβαλα τα pluggins 1)klen/python-mode 2)vim-python/python-syntax για να μπορεί να κάνει compile κώδικα σε python και έπειτα πρόσθεσα τα 3)itchyny/lightline.vim 4)neoclide/coc.nvim για custom configuration toy nvim.
-
+* Εργαλεία που χρησιμοποίησα :
+    * [pipenv](https://github.com/pypa/pipenv "pipenv")
+   
+* Prerequisites : pip , python3.
+    
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
 
