@@ -82,6 +82,9 @@
            ntfy -b linux send "I am Timos"
            
            
+           
+  ![smartphone desktop](https://github.com/p15avge/sw/blob/2015009/projects/2015009/91521402_2589657554605073_3860983493806784512_n.png) 
+    
 #### 2. Για την αποστολή ειδοποίησης στο _smartphone_  χρησιμοποιήθηκε το εργαλείο Telegram        
  - Για την εγκατάσταση των πακέτων του _telegram_ χρησιμοποιήθηκε η εντολή :
  
@@ -94,6 +97,9 @@
 - Αποστολή της ειδοποίησης με την εντολή 
     
         telegram-send "hello'
+
+
+![smartphone screenshot](https://github.com/p15avge/sw/blob/2015009/projects/2015009/91907340_240904060399225_4735137358632976384_n.jpg)
 
 
 #### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/96jpfyGakRX5wbQxjsQ7BEyOq?fbclid=IwAR3uerWb08FwXa3bIzoaY0nr3g9B0nt19Qhcq6AerzoE7HgMeCly4GuDXGY
