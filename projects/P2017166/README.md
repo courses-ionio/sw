@@ -37,9 +37,12 @@ Assignment: Try different terminals and shells
 
 Περιγραφή: Δύο φωτογραφίες από διαφορετικά terminal Terminator Tilda και δύο φωτογραφίες από εντολές που δεν εκτελούνται στο προεπιλεγμένο shell αλλά εκτελούνται στα ksh, csh αντίστοιχα
 
+[example](https://asciinema.org/a/2QW2xYB31R7OEmdha8AdoEfDw)
+
+[example](https://asciinema.org/a/YTnGNw8aMqKQ1Bm5Cb71a7yjb)
+
 Screenshots:
 ![example]()
 ![example]()
-[example](https://asciinema.org/a/2QW2xYB31R7OEmdha8AdoEfDw)
-[example](https://asciinema.org/a/YTnGNw8aMqKQ1Bm5Cb71a7yjb)
+
  
