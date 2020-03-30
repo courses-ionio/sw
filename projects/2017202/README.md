@@ -17,9 +17,66 @@ AM: Π2017202
    Στην συνέχεια στείλαμε μια ειδοποίηση με την εντολή:
    >ntfy send "Hello World, Kalispera!"
    
-   ![Pop up](https://imgur.com/m7ejtjm)
+   ![Pop up](https://imgur.com/m7ejtjm.png)
    
    [Asciinema Link Using ntfy](https://asciinema.org/a/X85kKZL7I0TGkHBEnsKLmGkQT)
+   
+   ## Άσκηση 2 Software
+   ## Terminals
+   ### Installing & Using different terminals
+   
+   Για την εργασία αυτή χρησιμοποιήθηκαν τα terminals [b]st[/b] και [b]zsh[/b] . Η εγκατάση έγινε με τις εντολές:
+   
+   Zsh:
+   >apt install zsh
+   
+   St:
+   >git clone https://github.com/LukeSmithxyz/st
+   >cd st
+   >sudo make install
+   
+  
+   ![St terminal](https://imgur.com/RinEULZ.png)
+   
+   [Asciinema Link Using terminals](https://asciinema.org/a/2591J10vY1jiMJaAd4Ij05lFW)
+   
+   ## Άσκηση 3 Software
+   ## How Do I
+   ### Helping to code and more
+   
+   Το How Do I βοηθάει τον χρήστη να βρεί τις εντολές που του χρειάζονται. Το μόνο που έχει να κάνει είναι να πληκτρολογήσει στο terminal την αναζητησή του και η βοήθεια θα του εμφανιστεί. Για παράδειγμα:
+   
+   >howdoi convert mp4 to mov
+   
+   H εγκατάσταση του Howdoi έγινε ως εξής:
+   >pip install howdoi
+   
+   [Asciinema Link HowDoI](https://asciinema.org/a/8eq7TIHolsV4CTNwtDwTHglwM)
+   
+   ## Άσκηση 4 Software
+   ## Python Virtual Enviroment
+   ### Creating and setting up a virtual enviroment
+   
+   Στόχος της εργασίας είναι η δημιουργία εικονικού περιβάλλοντος ώστε να δημιουργήσουμε και να τρέξουμε Python scripts. 
+   
+   Εγκατάσταση του Pipenv:
+   >pip install --user pipenv
+   
+   Επειδή η εγκατάσταση γίνεται στο --user ώστε να μην δημιουργηθούν προβλήματα στο γενικό σύνολο των πακέτων θα πρέπει να προστεθεί το κατάλληλο PATH στο αρχείο user base:
+   >export PATH="$PATH:/root/.local/bin"
+   
+   Στη συνέχεια δημιουργούμε έναν φάκελο που θα είναι το εικονικό μας project
+   >mkdir git_p17poli
+   >cd git_p17poli
+   
+   Εγκαθιστούμε τα απαραίτητα πακέτα για το project
+   >pipenv install requests
+   
+   Δημιουργούμε και τρέχουμε ένα αρχείο python
+   >cat > p17poli.py
+   >pipenv run python p17poli.py
+   
+   [Asciinema Link Pythong Virtual Enviroment](https://asciinema.org/a/43Pp4bALd9zgYy3MvzaVseyIS)
    
  ## Συμμετοχικό Υλικό
 
