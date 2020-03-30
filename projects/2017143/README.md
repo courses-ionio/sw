@@ -22,7 +22,7 @@
 - ksh
 - zsh
 - dash  
-Με το ksh κατέβασα 1 mp3 από την περσινή εργασία στα πολυμέσα.
+Με το ksh κατέβασα 1 mp3 από την περσινή εργασία στα πολυμέσα.  
 Από terminals χρησιμοποίησα τα:
 - kosnole
 - sakura
@@ -36,7 +36,7 @@
 Χρησιμοποίησα τα εξής Window Managers:
 - Plasma
 - Fluxbox
-- Cannenon
-![Plasma]()
-![Fluxbox]()
-![]()
+- Cinnamon
+![Plasma](plasma.png)
+![Fluxbox](fluxbox.png)
+![Cinnamon](cinnamon.png)
