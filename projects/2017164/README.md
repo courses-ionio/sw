@@ -125,22 +125,17 @@ ___
     
 ### 6η Άσκηση : 
 
-* Assignment : create an agent for news
+* Assignment : configure a custom window manager
 
-* Deliverables : the demo should display the new content added on a news web site 
+* Deliverables : try different wm and configure one to fit your needs
 
-* Περιγραφή :
-```
-key "Alt+Ctrl+t"            x-terminal-emulator -e sudo -i 
-key "Alt+Ctrl+g"            xdg-open https://github.com/geosideras
-   
+* Περιγραφή : Κατέβασα και εγκατέστησα τον icewm γιατι μου θύμιζε λίγο τα windows xp . Έπειτα επεξεργάστηκα κάποια key shortcuts οπως <kbd>ALT+CTRL+T</kbd> για να μου ανοίγει ο terminal και να τρέχει αυτόματα την ετνολή ```sudo -i``` ώστε να είμαι root και        
+ <kbd>ALT+CTRL+G</kbd> για να ανοιγει το browser και να με πηγαίνει στην σελίδα : https://github.com/geosideras. Στην συνέχεια έβαλα στο menu έναν φάκελο με το όνομα sid όπου περιέχει όλα τα προγράμματα που έχω κατεβάσει.
 
-```
-
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/WAOoEm3QAD5m4kuA67WH6thsy "asciinema") 
 
 * Εργαλεία που χρησιμοποίησα :
-    * [Huginn](https://github.com/huginn/huginn "huginn")
+    * [IceWM](https://ice-wm.org/ "icewm")
     
     ___
     
