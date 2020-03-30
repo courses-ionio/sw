@@ -99,6 +99,10 @@ sudo pip install asciinema
 ping 192.168.100.5
 ```
 
+#### Πηγές
+https://www.youtube.com/watch?v=vReAkOq-59I
+
+
 
 
 
