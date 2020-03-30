@@ -26,7 +26,7 @@ Link για το [video](#)
 
 * Deliverables : monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314571)
+* Σύνδεσμος στο [Asciinema]()
 
 * Εργαλεία που χρησιμοποίησα: [hyperfine](https://github.com/sharkdp/hyperfine)
 
@@ -40,7 +40,7 @@ Link για το [video](#)
 
 * Deliverables : send a notifcation when a big task completes, eg download, compiling, etc
 
-* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314576)
+* Σύνδεσμος στο [Asciinema]()
 
 * Εργαλεία που χρησιμοποίησα: [ntfy](https://github.com/dschep/ntfy/)
 
@@ -61,20 +61,6 @@ Link για το [video](#)
 * Εργαλεία που χρησιμοποίησα: [Neovim](https://github.com/neovim/neovim)
 
 Αρχικά κατέβασα το nvim text editor και στην συνέχεια του έβαλα τα pluggins 1)klen/python-mode 2)vim-python/python-syntax για να μπορεί να κάνει compile κώδικα σε python και έπειτα πρόσθεσα τα 3)itchyny/lightline.vim 4)neoclide/coc.nvim για custom configuration toy nvim.
-
-
-### 5ο Παραδοτέο
-
-* Assignment : set-up a system for python development
-
-* Deliverables : install and configure in a user folder a python project that is not available through the package manager
-
-Περιγραφή: Αρχικά εγκατέστησα το pipenv,στη συνέχεια δημιούργησα εναν καινούργιο φάκελο μέσα στον οποίο έκανα εγκατάσταση την βιβλιοθήκη "requests",έκανα ενα main.py αρχείο που χρησιμοποιέι την βιβλιοθήκη requests και το ετρεξα.
-* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/314715)
-
-* Εργαλεία που χρησιμοποίησα: [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
-
-
 
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
