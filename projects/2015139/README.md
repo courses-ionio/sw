@@ -35,7 +35,7 @@ sudo apt-get install asciinema
 
 ***Στο τέλος της κάθε άσκησης βρίσκεται το link για το αντίστοιχο asciicast***
 
-## Άσκηση 2
+## Άσκηση 1
 
 **Τίτλος:** Try different terminals and shells
 
@@ -109,7 +109,7 @@ echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 
 ---
 
-## Άσκηση 3
+## Άσκηση 2
 
 **Τίτλος:** Use the terminal as an IDE
 
@@ -161,7 +161,7 @@ xelatex resume.tex
 
 ---
 
-## Άσκηση 4
+## Άσκηση 3
 
 **Τίτλος:** Send notifications to your desktop-mobile
 
@@ -227,7 +227,7 @@ ntfy -b linux send 'this is a test'
 
 ---
 
-## Άσκηση 5
+## Άσκηση 4
 
 **Τίτλος:** Performance monitoring
 
