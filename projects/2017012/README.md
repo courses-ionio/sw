@@ -2,7 +2,7 @@
 
 ## Πλιάφας Θεόδωρος ΑΜ:2017012
 
-### Συμμετοχικό εκπαιδευτικό υλικό
+## Συμμετοχικό εκπαιδευτικό υλικό
 
 [Προσωπικό αποθετήριο](https://github.com/Thodoros/gr)
 
@@ -21,6 +21,17 @@
 * [Διαδραστικό παράδειγμα στο αποθετήριό μου](https://github.com/Thodoros/gr/blob/master/_remix/apple-keyboard.md)
 
 * [Διαδραστικό παράδειγμα στο βιβλίο](https://thodoros.netlify.com/remix/apple-keyboard/)
+
+## Εργασίες Τεχνολογία Λογισμικού
+
+### Πρώτη εργασία
+
+**Title**: Try different terminals and shells
+**Deliverables**: Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+
+
+
+
 
  
 
