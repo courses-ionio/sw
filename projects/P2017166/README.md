@@ -42,7 +42,7 @@ Assignment: Try different terminals and shells
 [example](https://asciinema.org/a/YTnGNw8aMqKQ1Bm5Cb71a7yjb)
 
 Screenshots:
-![example]()
+![example](terminator.png)
 ![example]()
 
  
