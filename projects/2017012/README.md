@@ -26,13 +26,23 @@
 
 ### Πρώτη εργασία
 
-* **Title**: Try different terminals and shells
+* **Title:** Try different terminals and shells
 
-* **Deliverables**: Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+* **Deliverables:** Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
 * [Asciinema link](https://asciinema.org/a/314665)
 
 * Σε αυτή την άσκηση εγκατέστησα το [Z shell](http://www.zsh.org) μαζί με ένα framework του,το [ohmhzsh](https://github.com/ohmyzsh/ohmyzsh), με το οποίο άλλαξα το theme μέσω του **~/.zshrc**. Επίσης, πρόσθεσα κάποια plug-ins, το [autojump](https://github.com/wting/autojump) με το οποίο μπορώ να μετακινούμαι σε directories απευθείας τα οποία έχω ήδη επισκεφθεί προηγουμένως με μεγαλύτερη ευκολία και ταχύτητα και το [thefuck](https://github.com/nvbn/thefuck) το οποίο διορθώνει errors σε εντολές που έχεις γράψει λανθασμένα, προτείνοντας τις πιο κοντινές εκδοχές σε αυτό που ήθελες. Για να δείξω οπτικά τις αλλαγές του καινούργιου theme που επέλεξα δείχνω τον καιρό σε δύο πόλεις μέσω του [wttr](https://github.com/chubin/wttr.in) καθώς και τα τελευταία νέα σχετικά με τον κορονοϊό μέσω του getnews.
+
+### Δεύτερη εργασία
+
+* **Tittle:** Use the terminal as an IDE
+
+* **Deliverables:** Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+* [Asciinema link]|(https://asciinema.org/a/314619)
+
+* Σε αυτή την άσκηση εγκατέστησα το [neovim](https://github.com/neovim/neovim) και το τροποποίησα ώστε να μπορώ να το χρησιμοποιώ ως **Python IDE**. Πρόσθεσα δύο plug-ins, το [python-mode](https://github.com/python-mode/python-mode) το οποίο είναι αυτό που μετατρέπει το vim σε **Python IDE**, το [python-syntax](https://github.com/vim-python/python-syntax) το οποίο χρησιμοποιείται για highlighting και έπειτα έτρεξα ένα μικρό παράδειγμα. Δημιούργησα ένα αρχείο average.py στο οποίο γράφω ένα μικρό script ώστε να βρεθεί και να εκτυπωθεί ο μέσος όρος.Για να εκτελεστεί το script χρησιμοποιώ το **\r**.
 
 
 
