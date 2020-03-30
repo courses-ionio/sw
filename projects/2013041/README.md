@@ -66,3 +66,39 @@ ntfy -t 'System' send "Upgrade Completed"
 #### Πηγές
 https://www.youtube.com/watch?v=bbdQXfReuG0
 
+### Άσκηση 3. Try different operating systems in the emulator. Load at least two operating systems without a GUI (only CLI) and create a virtual local network.
+#### asciinema: https://asciinema.org/a/7oCqxmiZQ21ATjk9DZzQ1WN8K
+χρησιμοποίησα το ArchLinux και το FreeBsd με το virtual box σαν emulator. Για να δημιουργήσω το virtual local network απο τις ρυθμίσεις του virtual box δημιουργησα καινούργιο δίκτυο όπως φαίνεται στην παρακάτω εικόνα
+
+![network creation](netcreate.jpg)
+
+Στη συνέχεια απο τις ρυθμίσεις του κάθε συστήματος τα ένταξα στο καινούργιο δίκτυο που δημιουργησα
+
+![assigning to network](netcreate2.jpg)
+
+Στην παρακάτω εικόνα φαίνονται οι ip adresses των δύο συστημάτων
+
+![ipaddress](ipaddress.jpg)
+
+Για να δω την ip στο ArchLinux και στο FreeBsd χρησιμοποίησα τις εντολές αντίστοιχα
+
+```
+ip addr
+ifconfig
+```
+
+Το asciinema εγκαταστάθηκε στο ArchLinux και το recording εγινε απο εκει.
+
+```
+sudo pip install asciinema
+```
+
+Για να τεκμηριώσω ότι υπάρχει επικοινωνία μεταξύ των δύο συστημάτων εκανα ping to freeBsd απο το ArchLinux
+
+```
+ping 192.168.100.5
+```
+
+
+
+
