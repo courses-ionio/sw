@@ -17,16 +17,12 @@
 
 * Mozilla Firefox
 
-  * https://github.com/p17troc/gr/blob/master/_gallery/-thump.jpg.md
-  * https://github.com/p17troc/gr/blob/master/_gallery/mozilla2.md
+  * https://p17troc.github.io/gr/gallery/mozilla-firefox/
   
 
-* Tor
+* Tor-browser
 
-  * https://github.com/p17troc/gr/blob/master/_gallery/-thump.png.md
-  * https://github.com/p17troc/gr/blob/master/_gallery/tor2.md
+ * https://p17troc.github.io/gr/gallery/tor-browser/
 
 
-Τέλος συζήτησης
-Γράψτε ένα μήνυμα...
 
