@@ -22,7 +22,7 @@
 
 * Tor-browser
 
- * https://p17troc.github.io/gr/gallery/tor-browser/
+  * https://p17troc.github.io/gr/gallery/tor-browser/
 
 
 
