@@ -18,11 +18,8 @@
 ### Try different terminals and shells
 #### Terminals
 
-[quake asciinema link](https://asciinema.org/a/311068)
+screenshots(quake/konsole/tilda)
 
-[konsole asciinema link](https://asciinema.org/a/311071)
-
-[tilda asciinema link](https://asciinema.org/a/311) ///// na ftiaksw to link tou tilda //////
 ```
 sudo apt-get -f install guake 
 sudo apt-get -f install konsole
