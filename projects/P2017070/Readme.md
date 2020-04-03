@@ -112,9 +112,13 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 #### SOURCES
 
 -https://github.com/ohmyzsh/ohmyzsh/wiki
+
 -https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
 -https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+
 -https://github.com/oh-my-fish/plugin-weather
+
 -https://github.com/oh-my-fish/oh-my-fish
 
 
