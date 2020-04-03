@@ -142,16 +142,23 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 - Αρχικά εγκατέστησα τον i3 windows manager μέσω της εντολής **sudo apt-get install i3**
 
-*Τα βασικά keyboard shortcuts των οποίων οι συνδυασμοί προυπήρχαν στο config file και μου ήταν απαραίτητα για την αρχική μου πλοήγηση ήταν τα εξής:* 
+*Τα βασικά keyboard shortcuts των οποίων οι συνδυασμοί προυπήρχαν στο config file και μου ήταν απαραίτητα για την αρχική μου πλοήγηση είναι συνοπτικά τα εξής:* 
 
 | KEYBOARD SHORTCUTS | ΛΕΙΤΟΥΡΓΙΕΣ |
 | -- | -- |
-| ALT+ENTER | Ανοιγμα terminal |
-| MOD+ARROWS | Για μετακίνηση στα terminals |
-| MOD+2 | Ανοιγμα 2ου workspace |
-| MOD+SHIFT+NUM | Μετακίνηση παραθύρων στα workspaces |
-| MOD+D | Ανοιγμα του menu |
-| MOD+SHIFT+E | Eξοδος απο το i3wm |
-| MOD+SHIFT+Q | Εξοδο από μια εφαρμογή |
+| ALT+ENTER | Open new terminal |
+| MOD+SHIFT+J,K,L,; | Move window |
+| MOD+0-9 | Switch to another workspace |
+| MOD+SHIFT+0-9 | Move a window to another workspace |
+| MOD+D | Open application launcher-dmenu |
+| MOD+SHIFT+E | Exit i3 |
+| MOD+SHIFT+Q | Kill a window |
+| MOD+SHIFT+C | Reload the configuration file |
+| MOD+SHIFT+R | Restart i3 in place |
+| MOD+F | Toggle fullscreen |
+| MOD+V | Split a window vertically |
+| MOD+H | Split a window horizontally |
+| MOD+H | Resize mode |
+
         
 
