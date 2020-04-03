@@ -109,6 +109,21 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 - Επιπλέον, η εντολη **cat /etc/shells/** δίνει τα paths από κάποια shells τα οποία είναι ήδη διαθέσιμα, όπως είναι το dash.
 
+#### SOURCES
+
+-https://github.com/ohmyzsh/ohmyzsh/wiki
+-https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+-https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+-https://github.com/oh-my-fish/plugin-weather
+-https://github.com/oh-my-fish/oh-my-fish
 
 
+### Second Assignment-SW (Configure a custom window manager)
+
+Εργαλεία:
+
+        i3 Windows Manager
+        
+        Qtile Windows Manager
+        
 
