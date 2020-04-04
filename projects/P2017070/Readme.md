@@ -125,6 +125,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 
+
 ### Second Assignment-SW (Configure a custom window manager)
 
 [second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
@@ -172,6 +173,18 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 | MOD+V | Split a window vertically |
 | MOD+H | Split a window horizontally |
 | MOD+H | Resize mode |
+
+Στη συνέχεια, οι εντολές που ακολούθησα ήταν οι εξής:
+
+- font:Sans 13 για τη αλλαγή γραμματοσειράς
+
+- | set $terminals "1:terminals" | bindsym $mod+1 workspace $terminals | bindsym $mod+shift+1 move container to workspace $terminals |
+
+- Αντίστοιχα και για τα επόμενα δύο workspaces τα οποία μετονομάστηκαν σε "web" και "documents"
+
+- workspace_auto_back_and_forth yes το οποίο δίνει τη δυνατότητα να επιστρέψεις στο προηγούμενο orkspace με το ίδιο πλήκτρο.
+
+- assign [class]
 
         
 
