@@ -127,6 +127,8 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 ### Second Assignment-SW (Configure a custom window manager)
 
+[second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
+
 Εργαλεία:
 
         i3 Windows Manager
