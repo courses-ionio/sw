@@ -129,7 +129,11 @@ ___
 
 * Deliverables : try different wm and configure one to fit your needs
 
-* Περιγραφή : Κατέβασα και εγκατέστησα τον icewm γιατι μου θύμιζε λίγο τα windows xp . Έπειτα επεξεργάστηκα κάποια key shortcuts οπως <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd> για να μου ανοίγει ο terminal και να τρέχει αυτόματα την ετνολή ```sudo -i``` ώστε να είμαι root και <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>G</kbd> για να ανοιγει το browser και να με πηγαίνει στην σελίδα : https://github.com/geosideras. Στην συνέχεια έβαλα στο menu έναν φάκελο με το όνομα sid όπου περιέχει όλα τα προγράμματα που έχω κατεβάσει.
+* Περιγραφή : Κατέβασα και εγκατέστησα τον icewm γιατι μου θύμιζε λίγο τα windows xp . Έπειτα , έκανα καποιες αλλαγές στα config files του. Πιο συγκεκριμένα , με startup του ειπα να κανει restart τον nitrogen ώστε να έχω το επιλεγόμενο background κάθε φορά που τρέχω το WM , επίσης επεξεργάστηκα κάποια key shortcuts οπως <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd> για να μου ανοίγει ο terminal και να τρέχει αυτόματα την ετνολή ```sudo -i``` ώστε να είμαι root και <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>G</kbd> για να ανοιγει το browser και να με πηγαίνει στην σελίδα : https://github.com/geosideras. Στην συνέχεια έβαλα στο menu έναν φάκελο με το όνομα sid όπου περιέχει όλα τα προγράμματα που έχω κατεβάσει. Άλλαξα την default επιλογή που είχε 4 working spaces και άφησα μόνο 2 , και έβαλα στο taskbar να έχει 3 προγράμματα που θέλω να έχω εύκολη πρόσβαση. Τέλος, άλλαξα το theme το ρολογιού κάτω δεξιά ώστε να είναι  μορφής lcd.
+
+* Ένα demo του iceWM μετά τις αλλαγές : 
+
+   ![iceWM](https://media.giphy.com/media/U56Ym6Oyb5e47bEFvH/giphy.gif)
 
 * Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/WAOoEm3QAD5m4kuA67WH6thsy "asciinema") 
 
