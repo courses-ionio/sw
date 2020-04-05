@@ -67,3 +67,4 @@ references: [pipenv](https://pipenv.pypa.io/en/latest/)
 
 [upload first image](https://github.com/chrikri/gr/commit/48f7c166f9b615e109eaf13ff7a83c6098f0746c)
 
+https://github.com/chrikri/gr/blob/gh-pages/_gallery/smartwatch-sw.md
