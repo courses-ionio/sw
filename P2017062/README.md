@@ -41,6 +41,7 @@
 * https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
 * https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins-Overview
 * https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+* https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
 
     
