@@ -181,7 +181,7 @@ Assignment: set-up cloud services.
  $ ip a
 ```
 
-### Στη συγκεκριμένη εργασία χρησιμοποίησα ένα λάπτοπ με λειτουργικό Ubuntu 16.04 και ένα Raspberry pi 4 με λειτουργικό Raspbian. Αφού πρώτα έκανα όλη την παραπάνω διαδικασία σχετικά με την εγκατάσταση χρησιμοποίησα το username του Raspberry pi 4 και την διευθυνση ip, όπως φαίνεται παρακάτω.
+### Στη συγκεκριμένη εργασία χρησιμοποίησα ένα λάπτοπ με λειτουργικό Ubuntu 16.04 και ένα Raspberry pi 4 με λειτουργικό Raspbian. Αφού πρώτα έκανα όλη την παραπάνω διαδικασία σχετικά με την εγκατάσταση, αμέσως μετά ενεργοποίησα το ssh στο raspberry pi 4 με την εντολή raspi.config και επέλεξα ενεργοποίηση του ssh. Τέλος, χρησιμοποίησα το username του raspberry pi 4 και την διευθυνση ip, όπως φαίνεται παρακάτω στην εικόνα.
 
 
 ![myscreen](https://user-images.githubusercontent.com/44117722/76658074-f2f8dd00-657b-11ea-9328-5248f4648c49.png)
@@ -229,7 +229,7 @@ Assignment: send notifications to your desktop-mobile.
 [ntfy](https://github.com/dschep/ntfy)
 
 ---
-### Άσκηση 6
+### Άσκηση 6:
 Assignment: performance monitoring.
 
 Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
@@ -261,7 +261,7 @@ Assignment: performance monitoring.
 [Hyperfine](https://github.com/sharkdp/hyperfine)
 
 ---
-### Άσκηση 7
+### Άσκηση 7:
 Assignment: create a docker image for your development stack.
 
 Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
