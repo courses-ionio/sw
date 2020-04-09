@@ -114,7 +114,7 @@ press \+r = run the code in Python-mode
 
 Για να πραγματοποήσω την εργασία δημιούργησα ένα αρχείο test.py όπου έγραψα "hello world!", όπως φαίνεται αναλύτικα η διαδικασία στο παρακάτω βίντεο.
 
-### Asciinema URL: [vim-pymode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
+### Asciinema URL: [vim-python-mode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
 
 ### References
 
@@ -198,7 +198,7 @@ Assignment: set-up cloud services.
 
 ### References
 
-[openSSh](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
+[ssh](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
 
 ---
 
