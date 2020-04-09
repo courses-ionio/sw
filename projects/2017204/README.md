@@ -246,7 +246,7 @@ Assignment: performance monitoring.
  $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
 ```
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
+### Asciinema URL: [hyperfine](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
 
 Ακόμη, υπάρχει η δυνατότητα τα αποτελέσματα να εξαχθούν σε εξωτερικό αρχείο, για παράδειγμα σε αρχείο output.csv και αυτό επιτεύχθηκε με την παρακάτω εντολή:
 
@@ -298,7 +298,7 @@ Assignment: create a docker image for your development stack.
  
 ```
 
-### Asciinema URL: [asciinema](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+### Asciinema URL: [docker](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
 
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
@@ -360,5 +360,5 @@ H δεύτερη εικόνα που ανέβασα είναι ένα apple mous
 ### [terminal](https://chris4dim.netlify.com/remix/raspbian-terminal/)
 
 
-
+---
 
