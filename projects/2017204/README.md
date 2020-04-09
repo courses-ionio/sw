@@ -229,6 +229,114 @@ Assignment: send notifications to your desktop-mobile.
 [ntfy](https://github.com/dschep/ntfy)
 
 ---
+### Άσκηση 6
+Assignment: performance monitoring.
+
+Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
+
+```
+ 1) $ wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+ 
+ 2) $ sudo dpkg -i hyperfine_1.9.0_amd64.deb
+```
+
+Για την εκπόνηση της εργασίας αυτής χρησιμοποιήθηκαν δύο python scripts, ώστε να γίνει παρακολούθηση των αρχείων αυτών κατά την εκτέλεσή τους. Πιο συγκεκριμένα, χρησιμοποιήθηκαν τα αρχεία example1.py και example2.py, όπου με την χρήση της παρακάτω εντολής βγήκαν κάποια αποτλέσμαατα όσον αφορά τον χρόνο εκτέλεσής τους (ελάχιστο, μέγιστο, μέσο χρόνο και μαζί με την τυπική απόκλιση).
+
+```
+ $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
+```
+
+### Asciinema URL: [asciinema](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
+
+Ακόμη, υπάρχει η δυνατότητα τα αποτελέσματα να εξαχθούν σε εξωτερικό αρχείο, για παράδειγμα σε αρχείο output.csv και αυτό επιτεύχθηκε με την παρακάτω εντολή:
+
+```
+ $ hyperfine --export-csv output 'pyhton3 example1.py' 'python3 example2.py'
+```
+### Τα αποτελέσματα στο αρχείο output.csv
+![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
+
+### References
+
+[Hyperfine](https://github.com/sharkdp/hyperfine)
+
+---
+### Άσκηση 7
+Assignment: create a docker image for your development stack.
+
+Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
+
+```
+
+1) $ sudo apt-get update
+
+2) $ sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+    
+3) $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+4) $ sudo apt-key fingerprint 0EBFCD88
+
+5) $ sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   
+6) $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+
+### Δημιουργία image Apache σε php με το Docker:
+ Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
+ 
+```
+ 
+ $ docker run -d -p 80:80 --name my-apache-php-app -v "$PWD":/var/www/html php:7.2-apache
+ 
+```
+
+### Asciinema URL: [asciinema](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+
+### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
+
+![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
+
+### Κάποιες χρήσιμες εντολές είναι οι παρακάτω:
+
+Container που τρέχει.
+```
+ $ docker ps
+```
+Containers που τρέχουν ή είναι ανενεργά.
+```
+ $ docker ps -a
+```
+Τερματίζω ένα conatainer.
+```
+ $ docker stop "id"
+```
+Σβήνω ένα container αφού πρώτα το σταματήσω με την παραπάνω εντολή.
+```
+ $ docker rm "id"
+```
+Βλέπω όλα τα "images"
+```
+ $ docker images
+```
+Σβήνω ένα "image".
+```
+ $ docker rmi "id"
+```
+
+### References
+
+[docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+[dockerhub](https://hub.docker.com/_/php)
+
+---
 
 ### Συμμετοχικό Εκπαιδευτικό Υλικό.
 
