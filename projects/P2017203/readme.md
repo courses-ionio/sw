@@ -91,7 +91,7 @@
 ##### Τίτλος: try different terminals and shells
 ##### Ζητούμενα: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 # 
-##### 2.1 (st shell): Προαπαιτούμενα: Εγκατάσταση st
+##### 2.1 (st terminal): Προαπαιτούμενα: Εγκατάσταση st
 ###### git clone https://github.com/LukeSmithxyz/st
 ###### cd st
 ###### sudo make install
@@ -106,16 +106,17 @@
 ###### lspci //display H/W
 ###### lshw //display S/W
 ###### cat config.h
-##### /* Εκτέλεση ειδικών εντολών του shell */
+##### /* Εκτέλεση ειδικών εντολών του st */
 ###### scrollback with alt-↑/↓
 ###### scroll up/down in history with alt-k and alt-j
 ###### zoom/change font size shift + alt-j/k
 ###### copy text with alt-c, paste is alt-v
-##### edit Xdefaults // Παραμετροποίηση του shell
+##### edit Xdefaults // Παραμετροποίηση του terminal
 ###### st.font: Console-11;
 ###### *.background: #282828
 ###### *.foreground: white
 ###### *.cursorColor: white
+##### Σύνοψη: Εύκολη παραμετροποίηση μέσω αρχείων, ευκολία σε scroll up/down με βελάκια, ευκολία σε zoom in/out, μεγάλο πλεονέκτημα η δυνατότητα ctrl -C, Ctrl-V.
 #
 ##### 2.2 (zshell): Προαπαιτούμενα: Εγκατάσταση zsh
 ###### sudo apt install zsh
@@ -137,6 +138,7 @@
 ###### echo Hello >a.txt >b.txt      # print Hello to both a.txt and b.txt
 ##### Παραμετροποίηση του shell
 ###### .zshrc
+##### Σύνοψη: Μεγάλα πλεονεκτήματα του shell τα "automatic CD", "Recursive path expansion", κάνουν τον zshell πολύ φιλικό στον χρήστη. Εύκολη παραμετροποίηση
 #
 ##### 2.3 (fish shell): Προαπαιτούμενα: Εγκατάσταση fish shell
 ###### sudo apt-add-repository ppa:fish-shell/release-3
@@ -160,6 +162,7 @@
 ###### end > out.html
 ###### dirh
 ###### echo 'Hello World'
+##### Σύνοψη: H δυνατότητα του shell να γράφεις κώδικα, αλλά και μαθηματικές πράξεις, τον καθιστά ιδανικό σε ειδικές απαιτήσεις (προγραμματισμο)
 #
 ##### 2.4 (cshell): Προαπαιτούμενα: Εγκατάσταση csh
 ###### sudo apt-get install csh
@@ -185,6 +188,7 @@
 ###### foreach i ( a b c d e f g )
 ###### echo $i
 ###### end
+##### Σύνοψη: Δύσκολο στην χρήση, δεν περιέχει πολλές λειτουργίες που παρέχουν άλλα shells (last commands, auto complete etc). To μεγάλο του πλεονέκτημα είναι οτι λόγω της "απλότητάς" του, τα scripts που είναι γραμμένα σε csh, παίζουν σχεδόν πάντα σε όλα τα UNIX περιβάλλοντα.
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310376) το link.
 #
