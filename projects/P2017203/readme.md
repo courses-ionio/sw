@@ -383,7 +383,7 @@
 ##### To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/p17kagk/gr).
 ##### H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://p17kagk.github.io/gr/).
 #
-##### Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17kagk.github.io/gr/gallery/) την [εικόνα 1](https://p17kagk.github.io/gr/gallery/MACOS/) και την [εικόνα 2](https://p17kagk.github.io/gr/gallery/Ubuntu/).
+##### Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17kagk.github.io/gr/gallery/) την [εικόνα 1](https://p17kagk.github.io/gr/gallery/MACOS/) και την [εικόνα 2](https://p17kagk.github.io/gr/gallery/Cacao-Linux/).
 
  
 
