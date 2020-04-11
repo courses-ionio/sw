@@ -362,6 +362,5 @@ H δεύτερη εικόνα που ανέβασα είναι ένα apple mous
 ### [terminal](https://chris4dim.netlify.com/remix/raspbian-terminal/)
 ### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_remix/raspbian-terminal.md)
 
-
 ---
 
