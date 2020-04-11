@@ -348,17 +348,19 @@ Containers που τρέχουν ή είναι ανενεργά.
 Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του raspberripi 3b όπως φαίνεται παρακάτω:
 
 ### [raspberrypi 3b](https://chris4dim.netlify.com//gallery/raspberry-pi3b-new/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/raspberry-pi3b-new.md)
 
 H δεύτερη εικόνα που ανέβασα είναι ένα apple mouse όπως φαίνεται και παρακάτω:
 
 ### [apple mouse](https://chris4dim.netlify.com//gallery/apple-mouse-new/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/apple-mouse-new.md)
 
 ### B.
 
 Στα πλαίσια του Β συμμετοχικού ανέβασα ένα διαδραστικό παράδειγμα που αφορά ένα τέρμιναλ raspberry pi, όπου ο χρήστης προσθέτει εντολές μαζί με τη λειτουργία της κάθε μία στην html και έπειτα μπορεί να κάνει εξάσκηση πάνω σε αυτές τις εντολές, όπως φαίνεται παρακάτω:
 
 ### [terminal](https://chris4dim.netlify.com/remix/raspbian-terminal/)
-
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_remix/raspbian-terminal.md)
 
 
 ---
