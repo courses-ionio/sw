@@ -10,15 +10,31 @@
 
 Σύνδεσμος Αποθετηρίου: https://github.com/p17griv/gr
 
+Εκτελέσιμο: https://p17griv-mi-book.netlify.com/
+
 ###### Στόχος Α: 
 
 Προσθέστε δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apple mouse, οι νέες εικόνες μπορούν να είναι παρόμοιες με υπάρχουσχες αρκεί να συνοδεύονται από τα κατάλληλα πνευματικά δικαιώματα.
 
-Τίτλος | Σύνδεσμος
------- | ---------
-EO Personal Communicator | https://github.com/p17griv/gr/blob/master/_gallery/eo-personal-communicator.md
-PaperID | https://github.com/p17griv/gr/blob/master/_gallery/paperid.md
+Τίτλος | Σύνδεσμος | Αρχείο
+------ | --------- | --------
+~~EO Personal Communicator~~ | https://p17griv-mi-book.netlify.com//gallery/eo-personal-communicator/ | https://github.com/p17griv/gr/blob/master/_gallery/eo-personal-communicator.md
+~~PaperID~~ | https://p17griv-mi-book.netlify.com//gallery/paperid/ | https://github.com/p17griv/gr/blob/master/_gallery/paperid.md
 
+Μετά από οδηγίες οι οποίες δόθηκαν στο μάθημα θεώρησα σκόπιμο να **αντικαταστήσω** τις δύο παραπάνω εικόνες προκειμένου το περιεχόμενο να βρίσκεται στα πλαίσια του μαθήματος "Τεχνολογίες Λογισμικού".
+
+Τίτλος | Σύνδεσμος | Αρχείο
+------ | --------- | --------
+Atom Teletype | https://p17griv-mi-book.netlify.com//gallery/atom-teletype/ | https://github.com/p17griv/gr/blob/master/_gallery/atom-teletype.md
+Turbo Pascal | https://p17griv-mi-book.netlify.com//gallery/turbo-pascal/ | https://github.com/p17griv/gr/blob/master/_gallery/turbo-pascal.md
+
+###### Στόχος Β: 
+
+Προσθέστε ένα νέο διαδραστικό παράδειγμα, το οποία θα πρέπει να συνδέεται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπει σε κάποιον 2ο χρήστη να το αλλάξει ή/και να το προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπο.
+
+Τίτλος | Σύνδεσμος | Αρχείο
+------ | --------- | --------
+My Terminal | https://p17griv-mi-book.netlify.com/remix/my-terminal/ | https://github.com/p17griv/gr/blob/master/_remix/my-terminal.md
 
 ____________________________________________________________________________________________________
 
