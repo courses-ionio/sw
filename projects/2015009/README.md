@@ -67,8 +67,7 @@
           exit
           
           
- #### Το video με όλη τη διαδικασία βρήσκεται εδω :  https://asciinema.org/a/oPPX1aQ36j3pEsLnOT1JXGHqa?fbclid=IwAR3VHhn6qJHsImuOMIoAbWyXpT8JQ4oTNmSEsK1EONXBkSeGRXsGELcyBCI
-          
+ #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/qFsHddaKVARM3iqbvdtRC9OfW
 ## 3. Send notifications to your desktop-mobile  
 * ### Send a notifcation when a big task completes, eg download, compiling, etc 
 
