@@ -37,7 +37,7 @@
          vim resume.tex
 #### 6. Αποθήκευση των αλλαγών και δημιουργία αρχείου _resume.pdf_ 
          xelatex resume.tex
-#### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/fN3dqOUU2MoT2YfZ2aP22sUUJ?fbclid=IwAR0VM971qZkqm-LtFESlG7oMfFT_Sgciqg8N845fWYM7oDFpWjol1ru7xEM  
+#### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/G4Y4RcQYfQ1fXkC6bIy50PpBf
 
 ## 2. Τry different terminals and shells
 * ### Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
