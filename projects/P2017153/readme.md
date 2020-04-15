@@ -33,7 +33,7 @@
       <h5><li>deliverables:send a notifcation when a big task completes, eg download, compiling, etc</li></h5>
       <h5><li>references used:ntfy</li></h5>
       <h5><li>prerequisites:pip</li></h5> 
-      <h5><li><a href="https://asciinema.org/a/312866">ntfy</a></li></h5>
+      <h5><li>asciinema link:<a href="https://asciinema.org/a/312866">ntfy</a></li></h5>
     </ul> 
     <p><bold>Σιγουρευομαστε πως εχουμε κανει install το pip και επειτα κανυμε install το ntfy με την εντολη pip install ntfy.Μπανουμε στο αρχειο .ntfy.yml και κανουμε config το ntfy με το κινητο μας.Το backend που χρησιμοποιησα ηταν το pushover το οποιο και εγκατεστησα στο κινητο μου μεσω appstore.Παιρνουμε το user key απο το pushover στο κινητο μας και το προσθετουμε στο ιδιο αρχειο του ntfy που αναφερθηκε πριν.Επειτα εκανα enable το shell integration στο .bashrc file του shell μου και εκτελεσα καποιες πολυ απλεσ εντολες που αναφερονται και στη σελιδα του ntfy στο github.Τελος εφτιαξα ενα απλο script που κανει update  και upgrade το package-manager και χρησιμοποιησα το ntfy ωστε οταν ο package-manager γινει updated να σταλει μηνυμα στο κινητο μου</bold></p><hr/>
     <hr/><h5>ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΥΛΙΚΟ Α ΜΕΡΟΣ</h5>
