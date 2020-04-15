@@ -78,7 +78,7 @@
             
 - Για να εμφανιστεί ειδοποίηση στο desktop χρησιμοποιήθηκε η εντολή :
            
-           ntfy -b linux send "I am Timos"
+           ntfy -t 'ntfy' send "I am Timos"
            
            
            
@@ -87,7 +87,7 @@
 #### 2. Για την αποστολή ειδοποίησης στο _smartphone_  χρησιμοποιήθηκε το εργαλείο Telegram        
  - Για την εγκατάσταση των πακέτων του _telegram_ χρησιμοποιήθηκε η εντολή :
  
-            sudo pip install ntfy[telegram]
+             pip install ntfy[telegram]
  
 - Εγκατάσταση της εφαρμογης _Telegram_ στο smartphone και μέσο αυτης δημιουργίθηκε ενα bot με όνομα Samsung2 
 
@@ -95,11 +95,11 @@
 
 - Αποστολή της ειδοποίησης με την εντολή 
     
-        telegram-send "hello'
+            ntfy -b telegram send "hello"
 
 
 ![smartphone screenshot](https://github.com/p15avge/sw/blob/2015009/projects/2015009/91907340_240904060399225_4735137358632976384_n.jpg)
 
 
-#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/96jpfyGakRX5wbQxjsQ7BEyOq?fbclid=IwAR3uerWb08FwXa3bIzoaY0nr3g9B0nt19Qhcq6AerzoE7HgMeCly4GuDXGY
+#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/PT14IIIVa37bZbqUpgGFpwtm1
 
