@@ -66,7 +66,9 @@ brew install fish
 
 ## Τρίτο Παραδοτέο :
 ### send notifications to your desktop-mobile
-[Asciinema Link 3]()
+[Asciinema Link 3](https://asciinema.org/a/320655)
+
+![ntfy](ntfySend.png)
 
 
 ## Τέταρτο Παραδοτέο :
