@@ -353,7 +353,7 @@ Containers που τρέχουν ή είναι ανενεργά.
 H δεύτερη εικόνα που ανέβασα είναι το λειτουργικό σύστημα της apple το macOS X El Capitan όπως φαίνεται και παρακάτω:
 
 ### [macOS](https://chris4dim.netlify.app/gallery/macos/)
-### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/macOs.md)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/macOS.md)
 
 ### B.
 
