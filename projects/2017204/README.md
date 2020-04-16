@@ -362,5 +362,12 @@ H δεύτερη εικόνα που ανέβασα είναι το λειτου
 ### [terminal](https://chris4dim.netlify.com/remix/raspbian-terminal/)
 ### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_remix/raspbian-terminal.md)
 
+### Γ.
+
+Μελέτη περίπτωσης: raspberry pi 4b
+
+### [raspberrypi4](https://chris4dim.netlify.app//case-study/rasppi4/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_case-study/rasppi4.md)
+
 ---
 
