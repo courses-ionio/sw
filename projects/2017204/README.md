@@ -350,10 +350,10 @@ Containers που τρέχουν ή είναι ανενεργά.
 ### [raspberrypi 3b](https://chris4dim.netlify.com//gallery/raspberry-pi3b-new/)
 ### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/raspberry-pi3b-new.md)
 
-H δεύτερη εικόνα που ανέβασα είναι ένα apple mouse όπως φαίνεται και παρακάτω:
+H δεύτερη εικόνα που ανέβασα είναι το λειτουργικό σύστημα της apple το macOS όπως φαίνεται και παρακάτω:
 
-### [apple mouse](https://chris4dim.netlify.com//gallery/apple-mouse-new/)
-### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/apple-mouse-new.md)
+### [macOs](https://chris4dim.netlify.app/gallery/macos/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/macOs.md)
 
 ### B.
 
