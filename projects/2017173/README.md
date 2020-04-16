@@ -65,7 +65,7 @@ brew install fish
 
 
 ## Τρίτο Παραδοτέο :
-### 
+### send notifications to your desktop-mobile
 [Asciinema Link 3]()
 
 
