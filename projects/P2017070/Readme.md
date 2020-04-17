@@ -224,15 +224,76 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  - Αρχικά, εγκατέστησα την εφαρμογή **Pushover** στο κινητό μου και δημιούργησα ενα API με όνομα *terminal*. Η εφαρμογή αυτομάτως μου έδωσε δύο κλειδιά, το **user key** και το **token**. Για να σταλθεί το μήνυμα όταν μία εντολή με μεγάλη διαρκεια ολοκληρωθεί, χρησιμοποίησα μια **function push** στο **.bashrc** η οποία χρησιμοποιεί τα παραπάνω κλειδιά και είναι η εξής:
  
  function push {
+ 
     curl -s -F "token=a5rxb98us2c39ommwqz68bcnm4c7i6" \
     -F "user=urzf1vkjtj9h8m8pxjyqoidndvc6gx" \
     -F "title=terminal" \
     -F "message=$1" https://api.pushover.net/1/messages.json
+    
 }
 
 Για την δοκιμή αυτής, χρησιμοποίησα τις παρακάτω δύο εντολές: 
+
         - sleep 3; push "It Worked\!"
+        
         - sudo apt-get upadate && push "command finished successfully!" || push "something failed"
+        
+
+Εφόσον αυτές ολοκληρώθηκαν, στάλθηκε κατευθείαν μήνυμα στην εφαρμογη στο κινητό μου όπως φαίνεται παρακάτω:
+
+
+
+
+- Στη συνέχεια εγκατέστησα για να έρχονται μηνύματα αυτόματα στο desktop μου, εγκαταστάθηκαν και υλοποιήθηκαν τα εξής:
+
+        - sudo pip install ntfy
+        
+        - sudo apt-get install notify-osd pulseaudio-utils libnotify-bin
+        
+        - git clone https://github.com/kaustubhhiware/NotiFyre.git
+        
+        - cd NotiFyre
+        
+        - cp notifyre.sh bash-preexec.sh ~
+        
+        - source ~/notifyre.sh
+          
+        - source ~/bash-preexec.sh
+        
+        - vim ~/notifyre.sh (στο οποίο μπορούν να γίνουν αλλαγές για ποιες εντολές θα έρχονται ειδοποιήσεις, π.χ για εντολές που εκτελούνται πανω απο 10 δευτερολεπτα, επισης μπορούν να γίνουν αλλαγές στον ήχο της ειδοποίησης κ.λ.π)
+        
+    
+  - Ένα δεύτερο εργαλείο είναι το **Undistract-me** για το οποίο χρησιμοποιήθηκαν οι εξής εντολές:
+  
+        - sudo apt-get install undistract-me
+        
+        - echo 'source /etc/profile.d/undistract-me.sh >> ~/.bashrc
+        
+       
+  Με τον παραπάνω τρόπο θα σταλθούν παλι ειδοποιήσεις για τις εντολες οι οποίες ολοκληρώθηκαν.
+  
+  
+  - Ένας τρίτος τρόπος είναι με το εργαλείο **Notify** και τις παρακάτω εντολές:
+  
+        -sudo pip install ntfy
+        
+        - echo 'eval "$(ntfy shell-integration)"' >> ~/.bashrc
+        
+  
+  - Τέλος, εκτέλεσα κάποιες απλές εντολές του **Notify**
+  
+        - notify-send "important!!" - u critical (το critical δείχνει στο μήνυμα ότι είναι urgent! αντίστοιχα υπάρχουν το low και normal)
+        
+        - notify-send "call admin!" -u critical -i face-wink (το -i εισάγει το αντίστοιχο emoji που φαίνεται δίπλα)
+        
+        - notify-send "this message will be displayed for 3 sec" -t 3000 ( το -t 3000 δείχνει για πόσο χρόνο θα παραμείνει το μήνυμα στο desktop)
+        
+        - notify-send Date "'date'" (το συγκεκριμενο μήνυμα θα εμφανίσει την ημερομηνία)
+        
+        - notify -t "Eftihia" send "tets" (θα εμφανίσει στο μήνυμα τον αποστολέα "Eftihia" και το μήνυμα που στέλνει "test"
+        
+ 
+
         
         
 
