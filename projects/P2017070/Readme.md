@@ -177,15 +177,42 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 Στη συνέχεια, οι εντολές που ακολούθησα ήταν οι εξής:
 
-- font:Sans 13 για τη αλλαγή γραμματοσειράς
+        - font:Sans 13 για τη αλλαγή γραμματοσειράς
+        - set $terminals "1:terminals"
+           bindsym $mod+1 workspace $terminals
+           bindsym $mod+shift+1 move container to workspace $terminals
+        - Αντίστοιχα και για τα επόμενα δύο workspaces για να μετονομαστούν σε "web" και "documents"
+        - workspace_auto_back_and_forth yes το οποίο δίνει τη δυνατότητα να επιστρέψεις στο προηγούμενο orkspace με το ίδιο πλήκτρο.
+        - assign [class="firefox" instance="Navigator"]-> $Web (Η εντολή αυτή δίνει την δυνατότητα να ανοίγει ο "firefox" κάθε φορά που ανοίγουμε το workspace2->Web)
+        - sudo apt-get install feh  (το πρόγραμμα για να μπορέσω να ορίσω φωτογραφία στον i3wm)
+        - feh --bg-scale wall.png (η εντολή για να ορίσω το wallpaper, το bg scale το όρισα με την βοήθεια του man page feh)
+        - exec_always feh --bg-scale /root/Pictures/wall.png (η εντολή αυτή δίνει την δυνατότητα να εμφανίζεται πάντα η φωτογραφία αυτή ως wallpaper στον i3wm)
+        - sudo apt-get install i3lock (εντολή για να κατεβάσω το i3lock για κλείδωμα οθόνης)
+        - set $i3lockwall i3lock -i /root/Pictures/wall.png -t (με την εντολή αυτή κάθε φορά που κλειδώνω την οθόνη θα εμφανίζεται η φωτογραφία που όρισα)
+        - bindsym $mod+Ctrl+Shift+l exec --no-startup-id $i3lockwall (δίνει το keyboard shortcut για να κάνω τα παραπάνω)
+        - set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Ctrl+s) shutdown
 
-- | set $terminals "1:terminals" | bindsym $mod+1 workspace $terminals | bindsym $mod+shift+1 move container to workspace $terminals |
+                mode "$mode_system" {
+                bindsym l exec --no-startup-id $i3lockwall, mode "default"
+                bindsym e exec --no-startup-id i3-msg exit, mode "default"
+                bindsym s exec --no-startup-id $i3lockwall && systemctl suspend, mode "default"
+                bindsym h exec --no-startup-id $i3lockwall && systemctl hibernate, mode "default"
+                bindsym r exec --no-startup-id systemctl reboot, mode "default"
+                bindsym Ctrl+s exec --no-startup-id systemctl poweroff -i, mode "default"
 
-- Αντίστοιχα και για τα επόμενα δύο workspaces τα οποία μετονομάστηκαν σε "web" και "documents"
-
-- workspace_auto_back_and_forth yes το οποίο δίνει τη δυνατότητα να επιστρέψεις στο προηγούμενο orkspace με το ίδιο πλήκτρο.
-
-- assign [class]
+                # back to normal: Enter or Escape
+                bindsym Return mode "default"
+                bindsym Escape mode "default"
+                }
+         - bindsym $mod+BackSpace mode "$mode_system"
+         - Οι δύο παραπάνω εντολές δημιουργούν ένα menu στο οποίο ο χρήστης έχει την δυνατότητα, μέσω μιας συντομευσης keyboard, να επιλέξει αν θέλει να κλειδώσει την οθόνη (l), να κάνει logout (e), να κάνει reboot (r) κ.α. όπως φαίνεται και στην εικόνα παρακάτω.
+         
+  ![image](screenshot2.PNG)
+  
+  
+  
+  ![image](screenshot3.PNG)
+         
 
 
 
