@@ -212,26 +212,19 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
   
   
   ![image](screenshot3.PNG)
+  
+  
+  ### SOURCES 
+  
+  https://i3wm.org/docs/userguide.html
+  
+  https://i3wm.org/screenshots/
+  
+  https://github.com/Phantas0s/.dotfiles/blob/master/i3/config
+  
+  https://opensource.com/article/18/8/getting-started-i3-window-manager
+  
          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Third Assignment-SW (Send notifications to your desktop-mobile)
