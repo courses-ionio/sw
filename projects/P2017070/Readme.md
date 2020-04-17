@@ -242,7 +242,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 Εφόσον αυτές ολοκληρώθηκαν, στάλθηκε κατευθείαν μήνυμα στην εφαρμογη στο κινητό μου όπως φαίνεται παρακάτω:
 
-![image](https://github.com/eftichiafarmaki/sw/blob/P2017070/projects/2017070/screenshot1.jpg)
+![image](screenshot1.jpg)
 
 
 
