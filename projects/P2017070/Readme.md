@@ -186,5 +186,61 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 - assign [class]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Third Assignment-SW (Send notifications to your desktop-mobile)
+
+[third-assignment-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
+
+Εργαλεία:
+
+        notify
+        
+        NotiFyre
+        
+        Pushover
+        
+        
+ **Τα βήματα που ακολούθησα για την συγκεκριμενη εργασία, με την σειρά που φαίνονται στο βίντεο είναι τα εξής:**
+ 
+ - Αρχικά, εγκατέστησα την εφαρμογή **Pushover** στο κινητό μου και δημιούργησα ενα API με όνομα *terminal*. Η εφαρμογή αυτομάτως μου έδωσε δύο κλειδιά, το **user key** και το **token**. Για να σταλθεί το μήνυμα όταν μία εντολή με μεγάλη διαρκεια ολοκληρωθεί, χρησιμοποίησα μια **function push** στο **.bashrc** η οποία χρησιμοποιεί τα παραπάνω κλειδιά και είναι η εξής:
+ 
+ function push {
+    curl -s -F "token=a5rxb98us2c39ommwqz68bcnm4c7i6" \
+    -F "user=urzf1vkjtj9h8m8pxjyqoidndvc6gx" \
+    -F "title=terminal" \
+    -F "message=$1" https://api.pushover.net/1/messages.json
+}
+
+Για την δοκιμή αυτής, χρησιμοποίησα τις παρακάτω δύο εντολές: 
+        - sleep 3; push "It Worked\!"
+        - sudo apt-get upadate && push "command finished successfully!" || push "something failed"
+        
+        
+
+
+
+
+
+
+
         
 
