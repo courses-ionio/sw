@@ -128,6 +128,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 ### Second Assignment-SW (Configure a custom window manager)
 
+
 [second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
 
 Εργαλεία:
@@ -207,6 +208,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 ### Third Assignment-SW (Send notifications to your desktop-mobile)
+
 
 [third-assignment-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
 
@@ -301,6 +303,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  
  https://askubuntu.com/questions/187022/how-can-i-send-a-custom-desktop-notification
  
+ https://github.com/dschep/ntfy
  
         
  
