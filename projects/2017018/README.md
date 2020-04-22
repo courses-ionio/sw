@@ -28,3 +28,19 @@
 ## Άσκηση 2:
 <b>Τίτλος:</b> Send notifications to you desktop-mobile<br>
 <b>Περιγραφή:</b> Send a notifcation when a big task completes, eg download, compiling, etc
+
+## Άσκηση 3:
+<b>Τίτλος:</b> Create an agent for news<br>
+<b>Περιγραφή:</b> The demo should display the new content added on a news web site
+
+## Άσκηση 4:
+<b>Τίτλος:</b> Create your own static site and blog generator<br>
+<b>Περιγραφή:</b> Monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+## Άσκηση 5:
+<b>Τίτλος:</b> Performance monitoring<br>
+<b>Περιγραφή:</b> Send a notifcation when a big task completes, eg download, compiling, etc
+
+## Άσκηση 6:
+
+
