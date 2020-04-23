@@ -362,6 +362,19 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
         - hugo server -D 
 
 
+### SOURCES 
+
+https://gohugo.io/
+
+https://github.com/giraffeacademy/ga-hugo-theme
+
+https://www.howtoforge.com/how-to-install-hugo-site-generator-on-ubuntu/
+
+https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
+
+
+
+
 
 
 
