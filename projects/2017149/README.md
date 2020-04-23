@@ -10,5 +10,18 @@
 ## Eργασία 1:
 send notifications to your desktop-mobile
 
+ntfy
+
 ![ntfy](ntfy.png)
 
+## Eργασία 2:
+Try different terminals and shells
+
+konsole
+
+![konsole](konsole.jpg)
+
+Guake
+
+![guak](guake.jpg)
+ 	
