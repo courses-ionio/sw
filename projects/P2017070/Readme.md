@@ -328,11 +328,39 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  
  https://github.com/dschep/ntfy
  
-        
  
+ 
+ ### Fourth Assignment-SW (Create your own static site and blog generator)
+ 
+ [fourth-assignment-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
+ 
+ Εργαλεία: 
+       
+       -Hugo
+       
+ **Τα βήματα που ακολούθησα για την συγκεκριμενη εργασία, με την σειρά που φαίνονται στο βίντεο είναι τα εξής:**
+ 
+        - sudo apt-get install hugo (για εγκατάσταση του HUGO)
+        - hugo new site github (για δημιουργία του site μου)
+        - cp /root/Downloads/mytheme.zip /root/github/themes/ (για να αντιγράψω το .zip αρχείο που κατέβασα απο το github, στο φάκελο με τα themes του site github)
+        - unzip mytheme.zip (unzip του αρχείου μέσα στο φάκελο με τα themes)
+        - vim config.toml
+        - theme = "ga-hugo-theme-master" (για να γίνει η προσθήκη του θέματος στην σελίδα)
+        - hugo new DataStructures/a.d (δημιούργησα το πρώτο post a.md μέσα στο φάκελο DataStructures)
+        - vim a.md
+        - {{< youtube pjp1Wl3XwDU >}} (με την εντολή αυτή πρόσθεσα στο post μου ένα βίντεο που είχα δημιουργήσει στο youtube στο πλαίσιο του μαθήματος "Δομες Δεδομενων"
+        - author: "Eftihia" (για να φαίνεται ο author στο post μου)
+        - hugo new Linux/b.md (δημιουργία φακέλου b.md στο φάκελο Linux)
+        - vim b.md
+        - {{< tweet 1216335386621939712 >}} (πρόσθεσα ένα tweet από το μάθημα Multimedia που αφορά το Linux)
+        - tags ["Terminal", "Shells"]
+        - moods: ["TerminalsAreSexy"]
+        - vim config.toml
+        - [taxonomies]
+                tag = "tags"
+                mood = "moods"
+        - hugo server -D 
 
-        
-        
 
 
 
