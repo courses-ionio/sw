@@ -8,6 +8,7 @@
 
 
 ## Eργασία 1:
-# send notifications to your desktop-mobile
+send notifications to your desktop-mobile
 
+![ntfy](ntfy.png)
 
