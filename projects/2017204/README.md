@@ -97,6 +97,12 @@ call plug#end()
 ```
 sudo apt-get install pylint
 ```
+
+Για να πραγματοποήσω την εργασία δημιούργησα ένα αρχείο test.py όπου έγραψα "hello world!", όπως φαίνεται αναλύτικα η διαδικασία στο παρακάτω βίντεο.
+
+### Asciinema URL: [vim-python-mode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
+
+
 Για τον χειρισμό του vim υπάρχουν παρακάτω κάποιες εντολές:
 
 ```
@@ -110,11 +116,6 @@ press :wq = save the file and quit
 press \+r = run the code in Python-mode
 
 ```
-
-
-Για να πραγματοποήσω την εργασία δημιούργησα ένα αρχείο test.py όπου έγραψα "hello world!", όπως φαίνεται αναλύτικα η διαδικασία στο παρακάτω βίντεο.
-
-### Asciinema URL: [vim-python-mode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
 
 ### References
 
