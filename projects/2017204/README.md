@@ -179,7 +179,7 @@ Assignment: set-up cloud services.
 ### Στη συγκεκριμένη εργασία χρησιμοποίησα ένα λάπτοπ με λειτουργικό Ubuntu 16.04 και ένα Raspberry pi 4b με λειτουργικό Raspbian. Αφού  ενεργοποίησα το ssh στο raspberry pi 4b με την εντολή sudo raspi-config, χρησιμοποίησα το username του raspberry pi 4b και την διευθυνση ip, όπως φαίνεται παρακάτω στην εικόνα.
 
 
-![myscreen](https://user-images.githubusercontent.com/44117722/76658074-f2f8dd00-657b-11ea-9328-5248f4648c49.png)
+![raspberrypi](https://user-images.githubusercontent.com/44117722/80250364-58acae80-867c-11ea-89e6-abded3812622.png)
 
 Στη συνέχεια φαίνεται η εντολή με τα στοιχεία του raspberry pi 4b, που χρησιμοποίησα για τη σύνδεση των δύο συστημάτων:
 ```
