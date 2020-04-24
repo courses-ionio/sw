@@ -254,7 +254,7 @@ Assignment: performance monitoring.
  $ hyperfine --export-csv output 'pyhton3 example1.py' 'python3 example2.py'
 ```
 ### Τα αποτελέσματα στο αρχείο output.csv
-![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
+![hyperfine](https://user-images.githubusercontent.com/44117722/80254763-6a924f80-8684-11ea-8047-17bb4a235ac8.png)
 
 ### References
 
