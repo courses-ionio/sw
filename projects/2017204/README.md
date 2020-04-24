@@ -246,7 +246,7 @@ Assignment: performance monitoring.
  $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
 ```
 
-### Asciinema URL: [hyperfine](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
+### Asciinema URL: [hyperfine](https://asciinema.org/a/t3f3iOJkpGHz6ndgB68eXXf4L)
 
 Ακόμη, υπάρχει η δυνατότητα τα αποτελέσματα να εξαχθούν σε εξωτερικό αρχείο, για παράδειγμα σε αρχείο output.csv και αυτό επιτεύχθηκε με την παρακάτω εντολή:
 
