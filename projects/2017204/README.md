@@ -299,7 +299,7 @@ Assignment: create a docker image for your development stack.
  
 ```
 
-### Asciinema URL: [docker](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+### Asciinema URL: [docker](https://asciinema.org/a/x04L5lGYnvX9QZI0Jby6ACBl0)
 
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
