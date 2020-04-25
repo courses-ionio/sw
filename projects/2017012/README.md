@@ -50,7 +50,7 @@
 
 * **Deliverables:** Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 
-* [Asciinema link]|(https://asciinema.org/a/314619)
+* [Asciinema link](https://asciinema.org/a/314619)
 
 * Σε αυτή την άσκηση εγκατέστησα το [neovim](https://github.com/neovim/neovim) και το τροποποίησα ώστε να μπορώ να το χρησιμοποιώ ως **Python IDE**. Πρόσθεσα δύο plug-ins, το [python-mode](https://github.com/python-mode/python-mode) το οποίο είναι αυτό που μετατρέπει το vim σε **Python IDE**, το [python-syntax](https://github.com/vim-python/python-syntax) το οποίο χρησιμοποιείται για highlighting και έπειτα έτρεξα ένα μικρό παράδειγμα. Δημιούργησα ένα αρχείο average.py στο οποίο γράφω ένα μικρό script ώστε να βρεθεί και να εκτυπωθεί ο μέσος όρος.Για να εκτελεστεί το script χρησιμοποιώ το **\r**.
 
