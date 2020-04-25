@@ -24,6 +24,14 @@
 
 * Μετά από την παρακολούθηση μαθημάτων και ιδεών και οδηγιών που δώθηκαν αποφάσισα να αντικαταστήσω την εικόνα του Raspberry pi zero και το διαδραστικό παράδειγμα με το apple keyboard ώστε το περιεχόμενο να ταιριάζει καλύτερα στα πλαίσια του μαθήματος.
 
+* [Εικόνα Gimp στο αποθετήριό μου] (https://github.com/Thodoros/gr/blob/master/_gallery/gimp.md)
+
+* [Εικόνα Gimp στο βιβλίο](https://thodoros.netlify.app/gallery/gimp/)
+
+* [Διαδραστικό παράδειγμα στο αποθετήριό μου] (https://github.com/Thodoros/gr/blob/master/_remix/terminal.md)
+
+* [Διαδραστικό παράδειγμα στο βιβλίο] (https://thodoros.netlify.app/remix/terminal/)
+
 ## Εργασίες Τεχνολογία Λογισμικού
 
 ### Πρώτη εργασία
