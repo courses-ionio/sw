@@ -14,13 +14,15 @@
 
 * [Εικόνα ubuntu terminal στο βιβλίο](https://thodoros.netlify.com/gallery/ubuntu-terminal/)
 
-* [Εικόνα raspberry pi zero στο αποθετήριό μου](https://github.com/Thodoros/gr/blob/master/_gallery/raspberry-pi-zero.md)
+* ~~[Εικόνα raspberry pi zero στο αποθετήριό μου]~~(https://github.com/Thodoros/gr/blob/master/_gallery/raspberry-pi-zero.md)
 
-* [Εικόνα raspberry pi zero στο βιβλίο](https://thodoros.netlify.com/gallery/raspberry-pi-zero/)
+* ~~[Εικόνα raspberry pi zero στο βιβλίο]~~ (https://thodoros.netlify.com/gallery/raspberry-pi-zero/)
 
-* [Διαδραστικό παράδειγμα στο αποθετήριό μου](https://github.com/Thodoros/gr/blob/master/_remix/apple-keyboard.md)
+* ~~[Διαδραστικό παράδειγμα στο αποθετήριό μου]~~ (https://github.com/Thodoros/gr/blob/master/_remix/apple-keyboard.md)
 
-* [Διαδραστικό παράδειγμα στο βιβλίο](https://thodoros.netlify.com/remix/apple-keyboard/)
+* ~~[Διαδραστικό παράδειγμα στο βιβλίο]~~ (https://thodoros.netlify.com/remix/apple-keyboard/)
+
+* Μετά από την παρακολούθηση μαθημάτων και ιδεών και οδηγιών που δώθηκαν αποφάσισα να αντικαταστήσω την εικόνα του Raspberry pi zero και το διαδραστικό παράδειγμα με το apple keyboard ώστε το περιεχόμενο να ταιριάζει καλύτερα στα πλαίσια του μαθήματος.
 
 ## Εργασίες Τεχνολογία Λογισμικού
 
