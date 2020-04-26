@@ -101,6 +101,15 @@
 ##### Μπορεί να χρησιμοποιηθεί επίσης η παράμετρος --pid όπου η ειδοποίηση εμφανίζεται αφού τερματιστεί η διαδικασία με το αντίστοιχο Process ID e.g.(ntfy done --pid 4829)
 ![image](https://github.com/p17bail/sw/blob/2017080/projects/2017080/Screenshot_2.png)
 #### [Link5 για Asciinema](https://asciinema.org/a/cfi9jJYi112CNX42cXvGFuNWi)
+#
+#
+### Συμμετοχικό εκπαιδευτικό υλικό - 1
+##### Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr).
+##### Η ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://www.mibook.org/).
+##### To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/p17bail/gr).
+##### H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://p17bail.github.io/gr/).
+#
+##### Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17bail.github.io/gr/gallery/) την [εικόνα 1](https://p17bail.github.io/gr/gallery/bigbucket/) και την [εικόνα 2](https://p17bail.github.io/gr/gallery/google-glass/).
 
 
 
