@@ -36,7 +36,7 @@
 ###### ssh -6 sleft@192.168.150.129 //Use IPv6 addresses only.
 ###### ssh -C sleft@192.168.150.129 //Use data compression.
 ###### ssh -c sleft@192.168.150.129 //Cryptography Cipher.
-#### [Link1 για Asciinema](https://asciinema.org/a/oUqjLOw3qDuK7vFNf7mZnEnqb)
+#### [Link1 για Asciinema](https://asciinema.org/a/9lycrgQpRpacCPUckP9KbIAtJ)
 #
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
