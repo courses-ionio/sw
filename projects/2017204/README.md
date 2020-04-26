@@ -149,7 +149,7 @@ Deliverables: build and deploy your static site and your cv dynamically every ti
 ```
 Η διαδικασία που ακολούθησα περιγράφεται αναλυτικά παρακάτω στο βίντεο:
 
-### asciinema URL: [Mysite](https://asciinema.org/a/SjSHKU6FzCrbk3xICiP1y7SGj)
+### asciinema URL: [Mysite](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
 
 Το λίνκ του σαιτ είναι το παρακάτω:
 
