@@ -47,7 +47,7 @@
 ###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
 ###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
 ###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
-#### [Link2 για Asciinema](https://asciinema.org/a/sBU6lllryDmjIBGjke4IK8Up3)
+#### [Link2 για Asciinema](https://asciinema.org/a/M3DYI3QxYpgKLLQVkOrKSPB1k)
 #
 ### Άσκηση 3(performance monitoring)
 #### 3.1 Κατέβασμα Hyperfine
