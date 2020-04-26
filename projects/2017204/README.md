@@ -4,6 +4,7 @@
 
 ### Άσκηση 1:
 Assignment: try different terminals and shells.
+
 Deliverables: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs.
 
 Για να γίνει η διεκπεραίωση της εργασίας αυτής έκανα χρήση 4 διαφορετικών τέρμιναλς (guake, tilda, yuakake και terminology) και έγινε η εγκατάσταση αυτών με τις παρακάτω εντολες:
@@ -70,6 +71,7 @@ terminology: είναι ένα τέρμιναλ, το οποίο δεν κατα
 
 ### Άσκηση 2:
 Assignment: use the terminal as the IDE.
+
 Deliverables: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in.
 
 Αρχικά, έκανα εγκατάσταση του vim με την παρακάτω εντολή:
@@ -128,6 +130,7 @@ press \+r = run the code in Python-mode
 
 ### Άσκηση 3:
 Assignment: set-up continuous integration.
+
 Deliverables: build and deploy your static site and your cv dynamically every time you make a small change in the source files.
 
 Για να πραγματοποιήσω την συγκεκριμένη άσκηση χρησιμοποίησα το Github. Πιο συγκεκριμένα, δημιούργησα ένα καινούργιο repository με όνομα "Mysite", όπου στο αρχείο README.md έγραψα το βιογραφικό μου. Η διαδικασία ήταν αρχικά να κάνω "clone" το repository "Mysite" στον υπολογιστή μου με την παρακάτω εντολή, όπου στη συνέχεια με αυτό τον τρόπο μπορώ να ενημερώνω δυναμικά το σάιτ μου μέσω του τέρμιναλ:
@@ -161,6 +164,7 @@ Deliverables: build and deploy your static site and your cv dynamically every ti
 
 ### Άσκηση 4:
 Assignment: set-up cloud services.
+
 Deliverables: ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc).
 
 Για να γίνει η εγκατάσταση του SSH έγραψα αρχικά την παρακάτω εντολή:
@@ -207,6 +211,7 @@ Deliverables: ssh to a remote machine and demonstrate your remote cli user land 
 
 ### Άσκηση 5:
 Assignment: send notifications to your desktop-mobile.
+
 Deliverables: send a notifcation when a big task completes, eg download, compiling, etc.
 
 Για να γίνει η εγκατάσταση του Ntfy έγραψα την παρακάτω εντολή:
@@ -236,6 +241,7 @@ Deliverables: send a notifcation when a big task completes, eg download, compili
 ---
 ### Άσκηση 6:
 Assignment: performance monitoring.
+
 Deliverables: monitor the performance of your python scripts and visualize them with colors and/or spark lines.
 
 Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
@@ -269,6 +275,7 @@ Deliverables: monitor the performance of your python scripts and visualize them 
 ---
 ### Άσκηση 7:
 Assignment: create a docker image for your development stack.
+
 Deliverables: demonstrate the custom image for CI of your cv and site.
 
 Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
