@@ -63,7 +63,7 @@
 ###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
 #### Αποτελέσματα
 ##### Μετά την εκτέλεση των Benchmarks με το Hyperfine είναι φανερός πως ο αλγόριθμος ταξινόμησης Selection Sort πρόκειται για ένα πιο γρήγορο αλγόριθμο καθώς σύμφωνα με το εργαλείο εκτελείται περίπου 2 φορες πιο γρήγορα από τον Bubble Sort. Αυτό φαίνεται και στην πολυπλοκότητα των αλγορίθμων αφού ο Selection Sort έχει Complexity O(n) ενώ ο Bubble Sort O(n2).
-#### [Link3 για Asciinema](https://asciinema.org/a/ucFUf2xxYqrONhwl5WzIdFuuP)
+#### [Link3 για Asciinema](https://asciinema.org/a/od6UXlRsxN0nBkLW45eosXi4T)
 #### 3.2 Κατέβασμα py-spy
 ###### sudo pip install py-spy
 #### Τρέξιμο
