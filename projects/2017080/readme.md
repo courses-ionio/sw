@@ -77,7 +77,7 @@
 #### Εγκατάσταση fish
 ###### sudo apt-get install fish
 #### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
-#### [Link4 για Asciinema](https://asciinema.org/a/oBwd7tj8zFRbFWiKysY2vwIxV)
+#### [Link4 για Asciinema](https://asciinema.org/a/ICJgGg5FQKwrMKchCqjSfyKdP)
 #
 #### Εγκατάσταση Terminator
 ###### sudo apt-get install terminator
@@ -100,7 +100,7 @@
 ###### ntfy done git clone https://github.com/dschep/ntfy.git
 ##### Μπορεί να χρησιμοποιηθεί επίσης η παράμετρος --pid όπου η ειδοποίηση εμφανίζεται αφού τερματιστεί η διαδικασία με το αντίστοιχο Process ID e.g.(ntfy done --pid 4829)
 ![image](https://github.com/p17bail/sw/blob/2017080/projects/2017080/Screenshot_2.png)
-#### [Link5 για Asciinema](https://asciinema.org/a/cfi9jJYi112CNX42cXvGFuNWi)
+#### [Link5 για Asciinema](https://asciinema.org/a/3eHneAicimaloldHCVdTEQpGm)
 #
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό - 1
