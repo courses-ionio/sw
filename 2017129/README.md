@@ -65,8 +65,12 @@ references: [pipenv](https://pipenv.pypa.io/en/latest/)
 
 # Συμμετοχικό περιεχόμενο
 
-[upload first image](https://github.com/chrikri/gr/commit/48f7c166f9b615e109eaf13ff7a83c6098f0746c)
 
-https://github.com/chrikri/gr/commits/gh-pages
+## A
+
+- [upload first image](https://github.com/chrikri/gr/blob/gh-pages/_gallery/logo-language.md)
 
 
+- [upload second image](https://github.com/chrikri/gr/blob/gh-pages/_gallery/smartwatch-sw.md)
+
+## B
