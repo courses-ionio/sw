@@ -144,7 +144,7 @@ Deliverables: build and deploy your static site and your cv dynamically every ti
  $ git config --global user.name "username"
  $ git config --global user.email "user@hotmail.com"
 ```
-Αφού, δημιούργησα το README.md και έγραψα το βιογραφικό μου μέσα σε αυτό χρησιμοποίησα τις εξής εντολές για να ανεβάσω το νέο αρχείο στο Github:
+Αφού, δημιούργησα το README.md και έγραψα το βιογραφικό μου μέσα σε αυτό χρησιμοποίησα τις παρακάτω εντολές για να ανεβάσω το αρχείο αυτό και να το ενημερώνω όταν χρειάζεται:
 
 ```
  $ git add README.md
