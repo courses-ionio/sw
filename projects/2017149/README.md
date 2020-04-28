@@ -39,7 +39,11 @@ konsole
 Guake
 
 ![guak](guake.jpg)
- 	
+ 
+## Eργασία 3:
+ 
 ## Hyperfine 
 
 https://asciinema.org/a/GWMc5M69HSJlXEXbBAEHtxXcf
+
+Το Hyperfine είναι ένα πρόγραμμα που σου επιτρέπει να συγκρίνεις προγράμματα με τον χρόνο που τρέχουν. Το warm up είναι πόσες φορές θέλουμε να τρέξουν τα προγράμματα πριν αρχίσει να τα συγκρίνει.
