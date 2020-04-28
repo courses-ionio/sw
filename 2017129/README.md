@@ -65,6 +65,11 @@ references: [pipenv](https://pipenv.pypa.io/en/latest/)
 
 # Συμμετοχικό περιεχόμενο
 
+(with netlify)
+
+* https://pedantic-poincare-6da650.netlify.app/
+
+* https://app.netlify.com/sites/pedantic-poincare-6da650/overview
 
 ## A
 
