@@ -65,11 +65,18 @@
 #### [Link to Asciinema](https://asciinema.org/a/324875)
 #### Description:
  * Στην συγκεκριμένη εργασία, στόχος μου ήταν η δημιουργία μέσα σε ένα user folder ενός project το οποίο θα αξιοποιεί μία απο τις διαθέσιμες βιβλιοθήκες της python γράφοντας ένα script το οποίο δεν θα μπορεί να εκτελεστεί αν βρίσκεται σε διαφορετικό user folder λόγο της έλειψης των απαραίτητων dependencies αφού αυτές θα έχουν εγκατασταθεί μόνο στον αρχικό user folder(isolation). Για να πετύχω τα παραπάνω έκανα χρήση των εξής εργαλείων:
+ 
   * [pipenv](https://docs.python-guide.org/dev/virtualenvs/)(A dependency manager for Python projects)
   * [virtualenv](https://docs.python-guide.org/dev/virtualenvs/)(A tool to create isolated Python environments)
   * [psutil](https://pypi.org/project/psutil/)(a cross-platform library for retrieving information on running processes and system utilization)
   
- Ειδικότετρα, αφού δημιούργησα τον φάκελο μέσα στον οποίο θα δημιουργηθεί το project εγκατέστησα το module psutil με την εντολή ```pipenv install psutil```. Αφού εγκαταστάθηκε το psutil, έκανα χρήση της εντολής pipenv shell έτσι ώστε να ενεργοποιηθεί το virtualenv του συγκεκριμένου project.
+ Ειδικότετρα, αφού δημιούργησα τον φάκελο με όνομα **firstfolder** μέσα στον οποίο θα υπάρχει το project εγκατέστησα το module [psutil](https://pypi.org/project/psutil/) με την εντολή ```pipenv install psutil```. Αφού εγκαταστάθηκε το psutil, έκανα χρήση της εντολής pipenv shell έτσι ώστε να ενεργοποιηθεί το virtualenv του συγκεκριμένου project. Στην συνέχεια δημιούργησα ένα .py αρχείο, μέσα στο οποίο έγγραψα κώδικα ο οποίος αξιοποιεί τις συναρτήσεις που προσφέλει το module psutil. Συγκεκριμένα έκανα χρήση δύο συναρτήσεων. Η πρώτη, αφορά την κατηγορία **MEMORY FUNCTIONS** και επιστρέφει στατιστικά που σχετίζονται με την χρησιμότητα της μνήμης. Η δεύτερη αφορά την κατηγορία **SYSTEM INFORMATION FUNCTIONS** και επιστρέφει τους χρήστες που είναι συνδεδεμένοι εκείνη την στιγμή στο μηχάνημα:
+ 
+  1. ```psutil.virtual_memory()```
+  2. ```psutil.users()```
+  
+ Αφού ολοκληρώθηκε η υλοποίηση του προγράμματος με όνομα pyscript, δοκίμασα να το εκτελέσω με χρήση της εντολής  ```python3 pyscript.py``` **εντός του αρχικού project**. Όπως φαίνεται και στο [Asciinema]((https://asciinema.org/a/324875)asciinema, το πρόγραμμα εκτελέστηκε κανονικά τυπώνοντας τα επιθυμητά αποτελέσματα στο termilal. Στην συνέχεια, με την εντολή ```exit``` αποχώρησα απο το project και κάνοντας χρήση του ```cd ..``` πήγα στο directory που βρίσκεται ο **firstfolder**. Εκεί, δημιούργησα ένα νέο φάκελο με όνομα **secondfolder** μέσα στον οποίο κάνοντας χρήση της εντολής ```cp ../firstfolder/*.py ./``` αντιγράφηκε σε αυτόν το pyscript.py απο τον **firstfolder**. Τέλος, δοκίμασα να τρέξω εκεί το pyscript.py αλλά όπως φαίνεται και στο βίντεο έβγαλε error σύμφωνα με το οποίο δεν αναγνωρίζεται το [psutil](https://pypi.org/project/psutil/) καθώς αυτό έχει εγκατασταθεί μόνο στο πρώτο μας prject εντός του φακέλου **firstfolder**. Με αυτό τον τρόπο πετύχαμε τον επιθυμητό μας στόχο ο οποίος ήταν το isolation.
+ 
  
 
 
