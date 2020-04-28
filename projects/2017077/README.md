@@ -56,6 +56,18 @@
   * [python-syntax](https://github.com/vim-python/python-syntax)
   
   Για να εγκαταστηθούν τα συγκεκριμένα plugins έπρεπε να μπώ στο αρχείο ```init.vim``` και να προσθέσω: ```Plug 'klen/python-mode'``` και ```Plug 'vim-python/python-syntax'``` εκτελόντας στην συνέχεια την εντολή ```InstallPlug```. Σε ότι αφορά το βίντεο στο [Asciinema](https://asciinema.org/a/314620) έδειξα την εκτέσεση ενός προγράμματος σε python γράφοντας την πρώτη φορά σωστά τον κώδικα και μια κάνοντας ένα συντακτικό λάθος δείχνοντας έτσι αντίστοιχα το σωστό αποτέλεσμα και στην συνέχεια το error βλέποντας έτσι την λειτουργία του terminal ως **IDE**.
+  
+
+
+### Fifth assignment
+#### Assignment: Set-up a system for python development
+#### Deliverables: Install and configure in a user folder a python project that is not available through the package manager
+#### [Link to Asciinema](https://asciinema.org/a/324875)
+#### Description:
+
+
+
+
 
 ## Συμμετοχικό εκπαιδευτικό υλικό
 #### [Προσωπικό link βιβλίου](https://chriskalo.netlify.com/)
