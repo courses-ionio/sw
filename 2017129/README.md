@@ -26,7 +26,7 @@ references: [git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Reposi
 
 * α´ τρόπος
 
-[asciinema (github-site)](https://asciinema.org/a/TNefNv850tRrTi00tcoYwJ0Xb)
+[asciinema (github-site)](https://asciinema.org/a/ProG5WQxS9StxaYug4sA9RkVt)
 
 [site using github](https://chrikri.github.io/CV/)
 
