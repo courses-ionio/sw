@@ -5,7 +5,7 @@
 ## ΕΡΓΑΣΙΕΣ ΚΑΙ ΕΠΙΠΛΕΟΝ ΣΤΟΙΧΕΙΑ:
 
 ### ΕΡΓΑΣΙΑ 1Η: [set-up continuous integration](https://github.com/p17mari/mycv.github.io/edit/master/README.md)
-### ΕΡΓΑΣΙΑ 2Η:
+### ΕΡΓΑΣΙΑ 2Η: [set-up a system for python development](https://asciinema.org/a/325932)
 ### ΕΡΓΑΣΙΑ 3Η:
 ### ΕΡΓΑΣΙΑ 4Η:
 ### ΕΡΓΑΣΙΑ 5Η:
