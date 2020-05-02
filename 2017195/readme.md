@@ -5,8 +5,9 @@
 
 ### Ασκήσεις
 asciinema: set-up a system for python development.
-### 2η άσκηση
+### 1η άσκηση: https://asciinema.org/a/oGpMc3SFB6xToywbSBBwVasH5
 
+### 2η άσκηση
 
 https://asciinema.org/a/0UfFvNEuN98ADiBbgYum7kj4B
 
