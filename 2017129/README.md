@@ -59,7 +59,8 @@ references: [st](https://github.com/LukeSmithxyz/st), [zsh](https://linuxconfig.
 
 deliverables: install and configure in a user folder a python project that is not available through the package manager
 
-references: [pipenv](https://pipenv.pypa.io/en/latest/)
+references: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/), [pipenv](https://pipenv.pypa.io/en/latest/), [psutil](https://github.com/giampaolo/psutil)
+
 
 
 
