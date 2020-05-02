@@ -30,7 +30,7 @@ references: [git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Reposi
 
 [site using github](https://chrikri.github.io/CV/)
 
-Αξιοποιήθηκε άσκηση εργαστηρίου παλαιότερου μαθήματος (hci), που έιχε δημιουργηθεί αποθετήριο καi ιστοσελίδα με gh-pages για ένα πρώτο βιογραφικό ([CV](https://github.com/chrikri/CV)). Στη συνέχεια, κατέβασα την σελίδα τοπικά στον υπολογιστή μεσω του [git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) (git clone https://github.com/chrikri/CV.git) και τελικά έχω την δυνατότητα να ενημερώνω το βιογραφικό μου από το terminal.
+Αξιοποιήθηκε άσκηση παλαιότερου μαθήματος (hci), που έιχε δημιουργηθεί αποθετήριο καi ιστοσελίδα με gh-pages για ένα πρώτο βιογραφικό ([CV](https://github.com/chrikri/CV)). Στη συνέχεια, κατέβασα την σελίδα τοπικά στον υπολογιστή μεσω του [git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) (git clone https://github.com/chrikri/CV.git) και τελικά έχω την δυνατότητα να ενημερώνω το βιογραφικό μου από το terminal.
 
 
 * β´ τρόπος
@@ -61,8 +61,9 @@ deliverables: install and configure in a user folder a python project that is no
 
 references: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/), [pipenv](https://pipenv.pypa.io/en/latest/), [psutil](https://github.com/giampaolo/psutil)
 
+[asciinema](https://asciinema.org/a/ZawuuBYV6FaNVC8MlFMmz5Yl4)
 
-
+Aνάπτυξη ανεξάρτητων python projects. Δημιουργία ενός environment και εγκατάσταση εντός αυτού psutil module, και συγγραφή κώδικα που το χρησιμοποιεί στο αρχείο 'psl.py'. Μετα έγινε αντιγραφή του κώδικα σε άλλο φάκελο και φαίνεται πως ο κώδικας δεν μπορεί να εκτελεστεί γιατι δεν έχει το απαιτούμενο module, παρά το γεγονός πως στον πρώτο φάκελο υπήρχε.
 
 # Συμμετοχικό περιεχόμενο
 
