@@ -15,10 +15,12 @@
 <b>Τίτλος:</b> Use the terminal as an IDE<br>
 <b>Περιγραφή:</b> Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 
-Για την άσκηση αυτή χρησιμοποίησα το [SpaceVim](https://spacevim.org/), μια επέκταση του text editor Vim που προσφέρει ειδικά εργαλία για την ανάπτυξη κώδικα σε διάφορες γλώσσες προγραμματισμού και πολλά άλλα. Στην άσκησή μου, πρόσθεσα νέα configurations ώστε να μετατρέψω το SpaceVim σε ένα Python IDE το οποίο επίσης κάνει compile and run κώδικα σε Python.
+Χρησιμοποίησα το [SpaceVim](https://spacevim.org/), μια επέκταση του text editor Vim η οποία διαθέτει εργαλεία για την ανάπτυξη κώδικα σε διάφορες γλώσσες προγραμματισμού και πολλά άλλα.
+Στην άσκησή μου, πρόσθεσα νέα configurations ώστε να μετατρέψω το SpaceVim σε ένα Python IDE το οποίο επίσης κάνει compile and run.
+
 ![1](SC1.png)
 
-Μετά την εγκατάσταση του SpaceVim, αλλάζω και προσθέτω νέες παραμέτρους στο config file του προγράμματος, ώστε να υποστηρίζει τη γλώσσα Python, και από σκοπιά compile του κώδικα και από σκοπιά auto-complete καθώς γράφω τον κώδικά μου.
+Μετά την εγκατάσταση του SpaceVim, αλλάζω και προσθέτω νέες παραμέτρους στο config file του προγράμματος, ώστε να υποστηρίζει τη γλώσσα Python. Οι παράμετροι αυτοί 
 ![2](SC2.png)
 
 Γράφω ένα μικρό πρόγραμμα το οποίο μετά κάνω compile and run.
@@ -28,6 +30,14 @@
 ## Άσκηση 2:
 <b>Τίτλος:</b> Send notifications to you desktop-mobile<br>
 <b>Περιγραφή:</b> Send a notifcation when a big task completes, eg download, compiling, etc
+
+Χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy), μια python-based εφαρμογή η οποία στέλνει notifications στο περιβάλλον του υπολογιστή μου.
+![1](SC5.png)
+
+Σε περιβάλλοντα Linux, όπως το xUbuntu, απαιτείται η εντολή `eval "$(ntfy shell-integration)"` στο config file του bash για να στέλνεται ειδοποίηση κάθε φορά που τερματίζεται μια διεργασία.
+
+Παρακάτω ένα παράδειγμα ειδοποίησης.
+![2](S13.png)
 
 ## Άσκηση 3:
 <b>Τίτλος:</b> Create an agent for news<br>
@@ -40,6 +50,10 @@
 ## Άσκηση 5:
 <b>Τίτλος:</b> Performance monitoring<br>
 <b>Περιγραφή:</b> Send a notifcation when a big task completes, eg download, compiling, etc
+
+Asciinema link: https://asciinema.org/a/dZMJ2XSyOhdkNAAn8ZWo69ZjS
+
+
 
 ## Άσκηση 6:
 
