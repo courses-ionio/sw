@@ -27,7 +27,7 @@ Links πρώτης φωτογραφίας:
 
 https://github.com/Spyrivasi/gr/blob/gh-pages/_gallery/Ypologisths%20Xerox.md
 
-https://github.com/Spyrivasi/gr/blob/gh-pages/images/Ypologisths_Xerox.jpg
+https://github.com/Spyrivasi/gr/blob/gh-pages/images/Ypologisths_Xerox.jpgζ
 
  Links δεύτερης φωτογραφίας:
  
@@ -37,5 +37,10 @@ https://github.com/Spyrivasi/gr/blob/gh-pages/images/Ypologisths_Xerox.jpg
  
  
  ### 2η Άσκηση:
+ 
+ 
+ https://github.com/Spyrivasi/gr/blob/gh-pages/_biography/Alan-Turing.md
+ 
+ 
 
 Προσθήκη βιογραφίας και πιο συγκεκριμένα, της βιογραφίας του μαθηματικού, καθηγητή της λογικής, κρυπτογράφου και θεωρητικού βιολόγου, Alan Turing, καθώς και προσθήκη εικόνας του, στο images.
