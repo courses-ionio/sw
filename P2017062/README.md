@@ -48,9 +48,10 @@
 * https://www.vultr.com/docs/installing-fish-shell-on-ubuntu
 * https://github.com/oh-my-fish/oh-my-fish
 
-Ένα βοηθητικό βίντεο στο YouTube για τις ίδιες ενέργειες:
+Βοηθητικά βίντεο στο YouTube για τις ίδιες ενέργειες:
 
 * https://www.youtube.com/watch?v=utNQHmoH9E8&list=PLoq6SapG-dw5L3V8-74nsJQiRt4VzJS9m&index=30&t=0s
+* https://www.youtube.com/watch?v=76aEqJJVRZY
 
 Link για fish plugins:
 
