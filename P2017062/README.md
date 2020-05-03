@@ -43,5 +43,14 @@
 * https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 * https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
+#### Για την εγκατάσταση του fish και του framework του oh-my-fish ακολούθησα τις οδηγίες που περιέχονται στα παρακάτω site:
+
+* https://www.vultr.com/docs/installing-fish-shell-on-ubuntu
+* https://github.com/oh-my-fish/oh-my-fish
+
+Ένα βοηθητικό βίντεο στο YouTube για τις ίδιες ενέργειες:
+
+* https://www.youtube.com/watch?v=utNQHmoH9E8&list=PLoq6SapG-dw5L3V8-74nsJQiRt4VzJS9m&index=30&t=0s
+
 
     
