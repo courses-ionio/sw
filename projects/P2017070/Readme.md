@@ -126,7 +126,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 
-### Second Assignment-SW (Configure a custom window manager)
+## Second Assignment-SW (Configure a custom window manager):
 
 
 [second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
@@ -138,7 +138,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
         Qtile Windows Manager
         
         
- #### I3 WINDOWS MANAGER
+ #### I3 WINDOWS MANAGER:
  
 Σε πρώτη φάση, επέλεξα τον i3 windows manager. Eίναι ένας ελεύθερος, ανοιχτού κώδικα και πλήρως διαμορφωμένος διαχειριστής παραθύρων και διαθέτει tree data structure που επιτρέπει πιο ευέλικτα layouts από τις εναλλακτικές λύσεις. 
 
@@ -227,7 +227,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
          
 
 
-### Third Assignment-SW (Send notifications to your desktop-mobile)
+## Third Assignment-SW (Send notifications to your desktop-mobile):
 
 
 [third-assignment-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
@@ -330,7 +330,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  
  
  
- ### Fourth Assignment-SW (Create your own static site and blog generator)
+ ## Fourth Assignment-SW (Create your own static site and blog generator):
  
  [fourth-assignment-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
  
