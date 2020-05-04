@@ -16,3 +16,4 @@ https://p17dimo.netlify.com//gallery/vr/
 ### Πρώτο παραδοτέο
 #### Send notifications to your desktop-mobile
 Έχω χρησιμοποιήσει το ntfy
+![ntfy](ntfy.png)
