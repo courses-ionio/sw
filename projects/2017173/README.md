@@ -73,13 +73,22 @@ brew install fish
 
 ## Τέταρτο Παραδοτέο :
 ### choose your stack
+
 [howdoi](https://asciinema.org/a/320671)
 
 [fuck](https://asciinema.org/a/320674)
 
 ## Πέμπτο Παραδοτέο :
-### 
-[Asciinema Link 5]()
+### use the terminal as the IDE
+#### Using VIM
+
+[Asciinema Link 5](https://asciinema.org/a/326676)
+
+```
+i = insert
+Esc = exit insert
+:wq = save and quit
+```
 
 ## Έκτο Παραδοτέο :
 ### 
