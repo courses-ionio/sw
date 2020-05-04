@@ -20,4 +20,4 @@ https://p17dimo.netlify.com//gallery/vr/
 
 ### Δεύτερο παραδοτέο
 ### Try different terminals and shells
-![terminator.png](terminator.png)
+![terminator](terminator.png)
