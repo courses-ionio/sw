@@ -78,6 +78,19 @@ Link για το [video](https://vimeo.com/401915913#)
 * Εργαλεία που χρησιμοποίησα: [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 
 
+### 6ο Παραδοτέο
+
+* Assignment : set-up cloud services
+
+* Deliverables : ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+Περιγραφή: Αρχικά χρησιμοποίησα Ubuntu Linux που εγκατέστησα σε Virtual Machine για να κάνω remote σύνδεση σε φυσικό υπολογιστή που χρησιμοποιεί για λειτουργικό σύστημα και αυτός τα Ubuntu Linux. Αυτό έγινε χρησιμοποιώντας την εντολή ssh στο cli δίνοντας το όνομα του υπολογιστή και την IP του. Αφού τελικά πραγματοποίησα την σύνδεση στον φυσικό υπολογιστή χρησιμοποίησα δοκιμαστικά μερικές εντολές (mkdir,nvim κλπ.) και πριν τερματίσω την σύνδεση χρησιμοποίησα την εντολή neofetch για να βεβαιωθώ πως όντως είχα συνδεθεί σε αυτόν.
+
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/326823)
+
+* Εργαλεία που χρησιμοποίησα: [SSH](https://www.ssh.com/ssh/)
+
+
 
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
