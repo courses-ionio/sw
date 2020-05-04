@@ -20,3 +20,5 @@ https://p17dimo.netlify.com//gallery/vr/
 
 ### Δεύτερο παραδοτέο
 ### Try different terminals and shells
+![terminator](terminator.png)
+![xterm](xterm.png)
