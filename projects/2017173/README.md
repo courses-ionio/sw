@@ -80,7 +80,7 @@ brew install fish
 
 ## Πέμπτο Παραδοτέο :
 ### use the terminal as the IDE
-#### Using VIM
+#### using VIM
 
 [Asciinema Link 5](https://asciinema.org/a/326676)
 
@@ -91,6 +91,17 @@ Esc = exit insert
 ```
 
 ## Έκτο Παραδοτέο :
-### 
-[Asciinema Link 6]()
+### set-up a system for python development
+#### using pipenv
+[Asciinema Link 6](https://asciinema.org/a/326724)
 
+```
+sudo apt-get install python3-pip
+sudo apt-get install python3-venv
+sudo pip3 install pipenv 
+pipenv install psutil
+pipenv shell
+vi test2.py
+python3 test2.py
+exit
+```
