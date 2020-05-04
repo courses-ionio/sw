@@ -102,6 +102,7 @@ sudo pip3 install pipenv
 pipenv install psutil
 pipenv shell
 vi test2.py
+:wq
 python3 test2.py
 exit
 ```
