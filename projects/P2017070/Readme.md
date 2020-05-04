@@ -18,7 +18,7 @@
 [λινκ του προφιλ](https://github.com/eftichiafarmaki)
 
 ### A' ΠΑΡΑΔΟΤΕΟ (Εισαγωγή δύο νέων εικόνων με λεζάντα)
-
+#
 #### Σύνδεσμοι εικόνων
 
 Για το συμμετοχικό υλικό προστέθηκαν δύο εικόνες απο τα παρακάτω λογισμικά:
@@ -37,7 +37,7 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 Ωστόσο, ξαναέκανα fork το mibook/gr και ξαναέκανα από την αρχή τις απαραίτητες αλλαγές.**
 
 ## ΑΣΚΗΣΕΙΣ ΣΕ COMMAND-LINE(30 ΜΑΡΤΙΟΥ)
-
+#
 ### Dependencies
 * virtual box (kali linux)
 * command line
@@ -46,8 +46,8 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 
 
 
-## First Assignment-SW (try different terminals and shells):
-
+## First Assignment-SW (try different terminals and shells)
+#
 [first-assignment-link](https://asciinema.org/a/qku8uIjywVdh5wGRGzUir9pNB)
 
 Για την πρώτη εργασία στο μάθημα "Τεχνολογιες Λογισμικου" του ΣΤ' εξαμήνου χρησιμοποιήθηκαν τα παραπάνω εργαλεία για να ανοίξω τουλάχιστον δύο shells και να δοκιμάσω διάφορα plugins.
@@ -109,7 +109,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 - Για έξοδο-> exit
 
 - Επιπλέον, η εντολη **cat /etc/shells/** δίνει τα paths από κάποια shells τα οποία είναι ήδη διαθέσιμα, όπως είναι το dash.
-
+#
 #### SOURCES
 
 -https://github.com/ohmyzsh/ohmyzsh/wiki
@@ -126,9 +126,8 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 
-## Second Assignment-SW (Configure a custom window manager):
-
-
+## Second Assignment-SW (Configure a custom window manager)
+#
 [second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
 
 Εργαλεία:
@@ -139,7 +138,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
         
         
  #### I3 WINDOWS MANAGER:
- 
+ #
 Σε πρώτη φάση, επέλεξα τον i3 windows manager. Eίναι ένας ελεύθερος, ανοιχτού κώδικα και πλήρως διαμορφωμένος διαχειριστής παραθύρων και διαθέτει tree data structure που επιτρέπει πιο ευέλικτα layouts από τις εναλλακτικές λύσεις. 
 
 **Γιατί να επιλέξει κανείς τον i3-wm?**
@@ -215,7 +214,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
   
   
   ### SOURCES 
-  
+ # 
   https://i3wm.org/docs/userguide.html
   
   https://i3wm.org/screenshots/
@@ -228,8 +227,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 ## Third Assignment-SW (Send notifications to your desktop-mobile):
-
-
+#
 [third-assignment-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
 
 Εργαλεία:
@@ -311,7 +309,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
         
         
  ### SOURCES 
- 
+ #
  https://pushover.net/
  
  https://mikebuss.com/2014/01/03/push-notifications-cli/
@@ -331,7 +329,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  
  
  ## Fourth Assignment-SW (Create your own static site and blog generator):
- 
+ #
  [fourth-assignment-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
  
  Εργαλεία: 
@@ -363,7 +361,7 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
 
 ### SOURCES 
-
+#
 https://gohugo.io/
 
 https://github.com/giraffeacademy/ga-hugo-theme
@@ -371,6 +369,8 @@ https://github.com/giraffeacademy/ga-hugo-theme
 https://www.howtoforge.com/how-to-install-hugo-site-generator-on-ubuntu/
 
 https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
+
+
 
 
 
