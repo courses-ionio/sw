@@ -19,6 +19,9 @@ https://p17dimo.netlify.com//gallery/vr/
 ![ntfy](ntfy.png)
 
 ### Δεύτερο παραδοτέο
-### Try different terminals and shells
+#### Try different terminals and shells
 ![terminator](terminator.png)
 ![xterm](xterm.png)
+
+### Τρίτο Παραδοτέο
+#### Performance Monitoring
