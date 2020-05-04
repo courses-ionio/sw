@@ -27,6 +27,8 @@ send notifications to your desktop-mobile
 
 ntfy
 
+https://asciinema.org/a/326647
+
 ![ntfy](ntfy.png)
 
 ## Eργασία 2:
@@ -44,6 +46,6 @@ Guake
  
 ## Hyperfine 
 
-https://asciinema.org/a/GWMc5M69HSJlXEXbBAEHtxXcf
+https://asciinema.org/a/324450
 
 Το Hyperfine είναι ένα πρόγραμμα που σου επιτρέπει να συγκρίνεις προγράμματα-κώδικες με τον χρόνο που τρέχουν. Το warm up είναι πόσες φορές θέλουμε να τρέξουν τα προγράμματα πριν αρχίσει να τα συγκρίνει.
