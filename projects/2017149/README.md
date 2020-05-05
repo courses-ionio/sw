@@ -59,3 +59,12 @@ https://asciinema.org/a/326901
 
 Με το insert προσθέτεις κώδικα μέσα στο αρχείο, με το Esc βγαίνεις από την εντολή insert, και με το :wq βγαίνεις από το αρχείο και να πας πίσω στο terminal.
 
+## Eργασία 5:
+
+set-up a system for python development
+
+https://asciinema.org/a/326905
+
+
+
+
