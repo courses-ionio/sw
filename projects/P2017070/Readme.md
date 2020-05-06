@@ -46,9 +46,12 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 
 
 
-## First Assignment-SW (try different terminals and shells)
-#
-[first-assignment-link](https://asciinema.org/a/qku8uIjywVdh5wGRGzUir9pNB)
+## First Assignment-SW (try different terminals and shells
+# 
+**Links:**
+
+[first-link](https://asciinema.org/a/qku8uIjywVdh5wGRGzUir9pNB)
+
 
 Για την πρώτη εργασία στο μάθημα "Τεχνολογιες Λογισμικου" του ΣΤ' εξαμήνου χρησιμοποιήθηκαν τα παραπάνω εργαλεία για να ανοίξω τουλάχιστον δύο shells και να δοκιμάσω διάφορα plugins.
 
@@ -112,15 +115,20 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 #
 #### SOURCES
 
--https://github.com/ohmyzsh/ohmyzsh/wiki
+https://github.com/ohmyzsh/ohmyzsh/wiki
 
--https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
--https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
--https://github.com/oh-my-fish/plugin-weather
+https://github.com/oh-my-fish/plugin-weather
 
--https://github.com/oh-my-fish/oh-my-fish
+https://github.com/oh-my-fish/oh-my-fish
+
+http://linuxscoop.com/video/install-cool-retro-term-linux-mint-17-qiana
+
+https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
+
 
 
 
@@ -134,7 +142,6 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 
         i3 Windows Manager
         
-        Qtile Windows Manager
         
         
  #### I3 WINDOWS MANAGER:
@@ -243,14 +250,12 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
  
  - Αρχικά, εγκατέστησα την εφαρμογή **Pushover** στο κινητό μου και δημιούργησα ενα API με όνομα *terminal*. Η εφαρμογή αυτομάτως μου έδωσε δύο κλειδιά, το **user key** και το **token**. Για να σταλθεί το μήνυμα όταν μία εντολή με μεγάλη διαρκεια ολοκληρωθεί, χρησιμοποίησα μια **function push** στο **.bashrc** η οποία χρησιμοποιεί τα παραπάνω κλειδιά και είναι η εξής:
  
- function push {
- 
+ **function push {
     curl -s -F "token=a5rxb98us2c39ommwqz68bcnm4c7i6" \
     -F "user=urzf1vkjtj9h8m8pxjyqoidndvc6gx" \
     -F "title=terminal" \
     -F "message=$1" https://api.pushover.net/1/messages.json
-    
-}
+}**
 
 Για την δοκιμή αυτής, χρησιμοποίησα τις παρακάτω δύο εντολές: 
 
