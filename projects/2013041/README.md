@@ -9,7 +9,7 @@
 
 ## Συμμετοχικό περιεχόμενο
 ### url αποθετηρίου: https://github.com/fivosf/gr
-### url σελιδας: https://fivos-gr.netlify.com/
+### url σελιδας: https://fivos-gr.netlify.app/
 ### Παραδοτέο 1.Α
 #### Eικόνα 1: Raspberry pi https://fivos-gr.netlify.com/gallery/f-raspberry-pi/
 #### Εικόνα 2: Playstation https://fivos-gr.netlify.com/gallery/playstation/
