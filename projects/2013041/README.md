@@ -130,6 +130,13 @@ dwm installation https://medium.com/hacker-toolbelt/dwm-windows-manager-in-ubunt
 
 status bar https://dwm.suckless.org/status_monitor/
 
+### Άσκηση 6. Set-up continuous integration. Build and deploy your static site and your cv dynamically every time you make a small change in the source files
+#### asciinema: https://asciinema.org/a/7RKbseRiPaKSdK6UVTuciA3ws
+#### url αποθετηρίου https://github.com/fivosf/sw_site
+#### url σελίδας https://sw-assignment-6.netlify.app/
+
+Η άσκηση αυτή έγινε τοπικά στον υπολογιστή μου και εγιναν push τα source files στο github repo. Το asciinema καταγράφει μία αλλαγή στο css και γινεται git commit και git push.
+
 
 
 
