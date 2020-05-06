@@ -14,6 +14,9 @@
 #### Eικόνα 1: Raspberry pi https://fivos-gr.netlify.com/gallery/f-raspberry-pi/
 #### Εικόνα 2: Playstation https://fivos-gr.netlify.com/gallery/playstation/
 
+### Παραδοτέο 1.Γ.1
+#### David Canfield Smith https://fivos-gr.netlify.app/biography/smith/
+
 
 ### Άσκηση 1. Try different terminals and shells. Ρepeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 #### asciinema: https://asciinema.org/a/e4dounmZh2PBkr2GbrtOIzn5u
