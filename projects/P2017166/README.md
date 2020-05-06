@@ -49,4 +49,5 @@ Screenshots:
 
 ![example](tilda.png)
 
- 
+ TRITI
+ https://asciinema.org/a/O6DWhRyztfaPRq1tmeaKEZN1t
