@@ -67,7 +67,7 @@ nfiguration that fits your needs
           exit
           
           
- #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/qFsHddaKVARM3iqbvdtRC9OfW
+ #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/327717
 ## 3. Send notifications to your desktop-mobile  
 * ### Send a notifcation when a big task completes, eg download, compiling, etc 
 
