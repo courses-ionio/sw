@@ -47,6 +47,11 @@
 <b>Τίτλος:</b> Create your own static site and blog generator<br>
 <b>Περιγραφή:</b> Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
+Χρησιμοποίησα το [Hugo](https://gohugo.io/). 
+
+Αφού εγκατέστησα την εφαρμογή, άλλαξα το θέμα της ιστοσελίδας μου στο [Notepadium](https://themes.gohugo.io/hugo-notepadium/) και μετά έγραψα ένα νέο post, όπως φαίνεται παρακάτω.
+![1](SC11.png)
+
 ## Άσκηση 5:
 <b>Τίτλος:</b> Performance monitoring<br>
 <b>Περιγραφή:</b> Send a notifcation when a big task completes, eg download, compiling, etc
