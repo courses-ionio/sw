@@ -63,7 +63,7 @@ Link για fish plugins:
 
 * https://github.com/chubin/wttr.in
 
-
+[Try Different Shells and Terminals Zsh-Fish](https://asciinema.org/a/2X3bd1Mhcw7o53eTyP2fLtaGl)
 
 
 
