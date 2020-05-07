@@ -303,6 +303,7 @@ Deliverables: demonstrate the custom image for CI of your cv and site.
 6) $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
+### Πρώτος τρόπος: χωρίς τη δημιουργία dockerfile.
 ### Δημιουργία image Apache σε php με το Docker:
  Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
  
@@ -317,6 +318,26 @@ Deliverables: demonstrate the custom image for CI of your cv and site.
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
 ![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
+
+### Δεύτερος τρόπος: με τη δημιουργία dockerfile.
+
+Αρχικά δημιούργησα έναν φάκελο με όνομα Docker, μέσα στον οποίο δημιούργησα το Dockerfile, που περιείχε τα εξής:
+
+```
+FROM php:7.2-apache
+COPY index.php /var/www/html/
+```
+Το επόμενο βήμα ήταν να δημιουργήσω ένα αρχειο index.php, που περιείχε το βιογραφικό μου ακριβώς ίδιο με τον πρώτο τρόπο. Αμέσως μετά εκτέλεσα τις παρακάτω εντολές:
+
+```
+$ sudo docker build -t project1 .
+
+$ sudo docker run -d -p 8010:10 project1
+```
+
+Με τον τρόπο αυτόν δημιούργησα "εικόνα" Apache στο docker σε php, όπως με τον πρώτο τρόπο αλλά με την μόνη διαφορά η "εικόνα" αυτή τρέχει στο port 8010:80, δηλαδή εμφανίζεται στο localhost:8010 και είναι ακριβώς το ίδιο screenshot με το παραπάνω. Η διαδικασία περιγράφεται στο παρκάτω demo:
+
+### Asciinema URL: [docker2](https://asciinema.org/a/U72NflH9e2nJIgLfpgPXKM3VI)
 
 ### Κάποιες χρήσιμες εντολές είναι οι παρακάτω:
 
