@@ -332,7 +332,7 @@ COPY index.php /var/www/html/
 ```
 $ sudo docker build -t project1 .
 
-$ sudo docker run -d -p 8010:10 project1
+$ sudo docker run -d -p 8010:80 project1
 ```
 
 Με τον τρόπο αυτόν δημιούργησα "εικόνα" Apache στο docker σε php, όπως με τον πρώτο τρόπο αλλά με την μόνη διαφορά η "εικόνα" αυτή τρέχει στο port 8010:80, δηλαδή εμφανίζεται στο localhost:8010 και είναι ακριβώς το ίδιο screenshot με το παραπάνω. Η διαδικασία περιγράφεται στο παρκάτω demo:
