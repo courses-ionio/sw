@@ -66,10 +66,8 @@ Link για fish plugins:
 #### Asciinema link:
 
 [Try Different Shells and Terminals Zsh-Fish](https://asciinema.org/a/2X3bd1Mhcw7o53eTyP2fLtaGl)
-[Try Different Shells and Terminals Suckless Terminal (st)](https://asciinema.org/a/AwJCVfolOHH5tbqbSq42cJUIS)
 
-
-
+[Try Different Shells and Terminals Suckless Terminal (st)](https://asciinema.org/a/AwJCVfolOHH5tbqbSq42c
 
 
     
