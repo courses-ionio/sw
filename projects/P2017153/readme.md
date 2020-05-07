@@ -99,6 +99,8 @@
       Eικονα openbsd:<a href="https://p17leka.github.io/gr/gallery/openbsd/">openbsd</a><br/>
       Eικονα bourne-shell:<a href="https://p17leka.github.io/gr/gallery/bourne-shell/">bourne-shell</a><br/>
     <hr/><h5>ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΥΛΙΚΟ-Β ΜΕΡΟΣ</h5>
-    <p><bold>Για το δευτερο μερος του συμμετοχικου εκπαιδευτικου υλικου προσθεσα 1 βιογραφια που πιστευω εχει σχεση με το πνευμα της ιστοσελιδας του μαθηματος στο προσωπικο αποθετηριο της ιστοσελιδας του μαθηματος που εφτιαξα.Η βιογραφια προκειται για τον Ivan Sutherland.</p></bold><hr/>
+    <p><bold>Για το δευτερο μερος του συμμετοχικου εκπαιδευτικου υλικου προσθεσα 1 βιογραφια που πιστευω εχει σχεση με το πνευμα της ιστοσελιδας του μαθηματος στο προσωπικο αποθετηριο της ιστοσελιδας του μαθηματος που εφτιαξα.Η βιογραφια προκειται για τον Ivan Sutherland.</p></bold><br/>
+    Βιογραφια Ivan Sutherland:<a href="https://p17leka.github.io/gr/biography/ivan-sutherland/">Ivan-Sutherland</a><br/>
+    <hr/></hr></hr>
   </body> 
 </html    
