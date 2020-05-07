@@ -69,7 +69,7 @@ Link για fish plugins:
 
 [Try Different Shells and Terminals Suckless Terminal (st)](https://asciinema.org/a/AwJCVfolOHH5tbqbSq42cJUIS)
 
-https://github.com/p17laso/sw/blob/2017062/P2017062/Screenshot%20from%202020-05-08%2001-32-17.png
+[st-screenshot](https://github.com/p17laso/sw/blob/2017062/P2017062/firstimage.png)
 
 
     
