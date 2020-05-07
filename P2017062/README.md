@@ -53,7 +53,7 @@
 * https://www.youtube.com/watch?v=utNQHmoH9E8&list=PLoq6SapG-dw5L3V8-74nsJQiRt4VzJS9m&index=30&t=0s
 * https://www.youtube.com/watch?v=76aEqJJVRZY
 
-Link για fish plugins:
+#### Link για fish plugins:
 
 * https://github.com/oh-my-fish
 
@@ -62,6 +62,8 @@ Link για fish plugins:
 Αναλυτικές οδηγίες για τη χρήση του wttr.in:
 
 * https://github.com/chubin/wttr.in
+
+#### Asciinema link:
 
 [Try Different Shells and Terminals Zsh-Fish](https://asciinema.org/a/2X3bd1Mhcw7o53eTyP2fLtaGl)
 
