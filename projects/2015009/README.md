@@ -101,5 +101,5 @@ nfiguration that fits your needs
 ![smartphone screenshot](https://github.com/p15avge/sw/blob/2015009/projects/2015009/91907340_240904060399225_4735137358632976384_n.jpg)
 
 
-#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/PT14IIIVa37bZbqUpgGFpwtm1
+#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/327926 
 
