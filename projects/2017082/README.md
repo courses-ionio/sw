@@ -135,4 +135,12 @@ https://1drv.ms/u/s!AjvQeUOiBAW4haghRO15Ahylevrgyw?e=GiSqfg
 
 Asciinema cast: 
 
-[![asciicast](https://asciinema.org/a/fQvbcxj5gB5eNTlDQgn7Z9WA7.svg)](https://asciinema.org/a/fQvbcxj5gB5eNTlDQgn7Z9WA7)
+[![asciicast](https://asciinema.org/a/HzWNUgq3M0rLnYCsjcWYH5fMR.svg)](https://asciinema.org/a/HzWNUgq3M0rLnYCsjcWYH5fMR)
+
+##### Τίτλος: "Set-up cloud services"
+
+###### Στόχος: Ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+Asciinema cast: 
+
+[![asciicast](https://asciinema.org/a/3JbJLDej0vbUCq6R63HYi5olb.svg)](https://asciinema.org/a/3JbJLDej0vbUCq6R63HYi5olb)
