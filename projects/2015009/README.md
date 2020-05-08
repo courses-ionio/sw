@@ -103,3 +103,8 @@ nfiguration that fits your needs
 
 #### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/327926 
 
+
+## 4. Performance monitoring
+* ### Monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+
