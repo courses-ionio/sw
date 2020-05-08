@@ -8,6 +8,6 @@
 ### ΕΡΓΑΣΙΑ 2Η: [set-up a system for python development](https://asciinema.org/a/325932)
 ### ΕΡΓΑΣΙΑ 3Η: [send notifications to your desktop-mobile](https://asciinema.org/a/325966)
 ### ΕΡΓΑΣΙΑ 4Η:  use the terminal as an IDE ([part one](https://asciinema.org/a/327120),[part two](https://asciinema.org/a/327337))
-### ΕΡΓΑΣΙΑ 5Η:
+### ΕΡΓΑΣΙΑ 5Η:  configure a custom window manager ([part one](https://asciinema.org/a/328072),[part two](https://asciinema.org/a/328075),[part three](https://asciinema.org/a/328078))
 ### ΕΡΓΑΣΙΑ 6Η:
 ### ΕΡΓΑΣΙΑ 7Η:
