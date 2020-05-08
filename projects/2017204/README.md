@@ -154,7 +154,7 @@ Deliverables: build and deploy your static site and your cv dynamically every ti
 ```
 Η διαδικασία που ακολούθησα περιγράφεται αναλυτικά παρακάτω στο βίντεο:
 
-### asciinema URL: [Mysite](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
+### Asciinema URL: [Mysite](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
 
 Το λίνκ του σαιτ είναι το παρακάτω:
 
@@ -303,8 +303,10 @@ Deliverables: demonstrate the custom image for CI of your cv and site.
 6) $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
-### Πρώτος τρόπος: χωρίς τη δημιουργία dockerfile.
 ### Δημιουργία image Apache σε php με το Docker:
+
+### Πρώτος τρόπος: χωρίς τη δημιουργία dockerfile.
+
  Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
  
 ```
