@@ -74,6 +74,8 @@ Asciinema cast:
 
 [![asciicast](https://asciinema.org/a/iCoIp9QTar6d0fEuDCIhcyzqi.svg)](https://asciinema.org/a/iCoIp9QTar6d0fEuDCIhcyzqi)
 
+###### Σημείωση: Η ιδέα για την δημιουργία και την εκτέλεση ενός shell script το οποίο πραγματοποιεί update είναι δική μου και δεν είναι μέρος της περιγραφής της άσκησης!
+
 Αποτελέσματα:
 
 ![GIF of Desktop Notifications](https://github.com/p17griv/sw/blob/2017082/projects/2017082/notifications.gif)
@@ -121,91 +123,16 @@ print("done")
 
 ###### bubble.py
 
-```python
-import sys
-
-def bubble_sort(arr):
-    def swap(i, j):
-        arr[i], arr[j] = arr[j], arr[i]
-
-    n = len(arr)
-    swapped = True
-    x = -1
-    while swapped:
-        swapped = False
-        x = x + 1
-        for i in range(1, n-x):
-            if arr[i - 1] > arr[i]:
-                swap(i - 1, i)
-                swapped = True
-    return arr
-
-def read_ints(n):
-    int_list=[]
-    with open(n+".txt") as f:
-        for line in f:
-            ints =  line.split()
-            for i in ints:
-                int_list.append(int(i))
-    return int_list
-
-n = sys.argv[1]
-int_list = read_ints(n)
-bubble_sort(int_list)
-```
+https://1drv.ms/u/s!AjvQeUOiBAW4haggpFHp8HOSFXsZJA?e=VEp3Bh
 
 ###### merge.py
 
-```python
-import sys
+https://1drv.ms/u/s!AjvQeUOiBAW4haghRO15Ahylevrgyw?e=GiSqfg
 
-def merge_sort(arr):
-    # The last array split
-    if len(arr) <= 1:
-        return arr
-    mid = len(arr) // 2
-    # Perform merge_sort recursively on both halves
-    left, right = merge_sort(arr[:mid]), merge_sort(arr[mid:])
+##### Τίτλος: "Set-up a system for python development"
 
-    # Merge each side together
-    return merge(left, right, arr.copy())
+###### Στόχος: Install and configure in a user folder a python project that is not available through the package manager
 
+Asciinema cast: 
 
-def merge(left, right, merged):
-
-    left_cursor, right_cursor = 0, 0
-    while left_cursor < len(left) and right_cursor < len(right):
-      
-        # Sort each one and place into the result
-        if left[left_cursor] <= right[right_cursor]:
-            merged[left_cursor+right_cursor]=left[left_cursor]
-            left_cursor += 1
-        else:
-            merged[left_cursor + right_cursor] = right[right_cursor]
-            right_cursor += 1
-            
-    for left_cursor in range(left_cursor, len(left)):
-        merged[left_cursor + right_cursor] = left[left_cursor]
-        
-    for right_cursor in range(right_cursor, len(right)):
-        merged[left_cursor + right_cursor] = right[right_cursor]
-
-    return merged
-
-
-
-def read_ints(n):
-    int_list=[]
-    with open(n+".txt") as f:
-        for line in f:
-            ints =  line.split()
-            for i in ints:
-                int_list.append(int(i))
-    return int_list
-
-
-n = sys.argv[1]
-
-int_list = read_ints(n)
-merge_sort(int_list)
-```
+[![asciicast](https://asciinema.org/a/fQvbcxj5gB5eNTlDQgn7Z9WA7.svg)](https://asciinema.org/a/fQvbcxj5gB5eNTlDQgn7Z9WA7)
