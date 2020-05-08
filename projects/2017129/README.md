@@ -77,11 +77,11 @@ Aνάπτυξη ανεξάρτητων python projects. Δημιουργία ε�
 
 - [upload first image](https://github.com/chrikri/gr/blob/gh-pages/_gallery/logo-language.md)
 
-![alt text](https://github.com/chrikri/sw/blob/2017129/2017129/logo-result.png)
+![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/logo-result.png)
 
 
 - [upload second image](https://github.com/chrikri/gr/blob/gh-pages/_gallery/smartwatch-sw.md)
 
-![alt text](https://github.com/chrikri/sw/blob/2017129/2017129/smartwatch-result.png)
+![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/smartwatch-result.png)
 
 ## B
