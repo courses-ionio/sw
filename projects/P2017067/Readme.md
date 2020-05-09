@@ -1,5 +1,6 @@
 # ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ ΙΟΝΙΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ
-## ΜΑΘΗΜΑ:TEΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+
+                                         ## ΜΑΘΗΜΑ : TEΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 
 ### Ονοματεπώνυμο: Καπετάνιου Ανθή
 ### Αριθμός Μητρώου: Π2017067
@@ -34,7 +35,7 @@
   * https://anthikape.github.io/gr/gallery/clipper/
   
   
-   ### 'ΑΣΚΗΣΗ 1':*** "Send notifications to your desktop-mobile"***
+   ### 'ΑΣΚΗΣΗ 1': "Send notifications to your desktop-mobile"
     
      #### [Σύνδεσμος της 1ης άσκησης](https://asciinema.org/a/Cj792CQoekVWyhCdwyNZdiYrD)
 
@@ -51,7 +52,7 @@
     2.Άλλαγη τίτλου και αποστολή ειδοποίησης.
   
   
-   ### 'ΑΣΚΗΣΗ 2': ***"Set-up a system for python development"***
+   ### 'ΑΣΚΗΣΗ 2': "Set-up a system for python development"
   
      #### [Σύνδεσμος της 2ης άσκησης](https://asciinema.org/a/v2rOMID0kDVUaxTz7KlyWulZL)
      
