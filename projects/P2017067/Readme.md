@@ -26,3 +26,40 @@
 * Clipper
 
   * https://anthikape.github.io/gr/gallery/clipper/
+  
+  
+  
+  
+  
+  ### ΑΣΚΗΣΗ 1: send notifications to your desktop-mobile- ntfy
+
+### [Σύνδεσμος της άσκησης](https://asciinema.org/a/7wCgc3Zy20ygc7IYEvbGa39X9)
+
+    Για την άσκηση αυτή χρησιμοποιήθηκε το εργαλείο ntfy.
+    Το ntfy φέρνει ειδοποίηση στο κέλυφος. Μπορεί να παρέχει αυτόματα ειδοποιήσεις για το desktop 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
