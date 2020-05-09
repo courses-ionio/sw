@@ -34,7 +34,7 @@
 
   * https://anthikape.github.io/gr/gallery/clipper/
   
-  
+  ## 'ΑΣΚΗΣΕΙΣ'
    ### 'ΑΣΚΗΣΗ 1': "Send notifications to your desktop-mobile"
     
      #### [Σύνδεσμος της 1ης άσκησης](https://asciinema.org/a/Cj792CQoekVWyhCdwyNZdiYrD)
