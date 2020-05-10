@@ -114,4 +114,32 @@ AM: Π2017202
    
    [Asciinema Link py-spy](https://asciinema.org/a/qfZGPa57oXUSgV6Z3z8AvYxFS)
    
+   ## Άσκηση 6 Software
+   ## Twilio
+   ### Call forwarding
    
+   Το Twilio δίνει την επιλογή στον χρήστη μέσω τoυ API να διαχειρστεί ένα σύστημα τηλεφωνικών εντολών. Αποστολή και λήψη μηνυμάτων, εκτροπή και απόρριψη κλήσων μέσω του λογαριασμού του χρήστη στο Twilio είναι μερικές απο τις επιλογές που έχει.
+   Αρχικά ο χρήστης πρέπει να κάνει έναν λογαριασμο, είτε επι πληρωμή είτε για εκπαιδευτικούς σκοπούς με 14 ημέρες trial μέσω του επίσημου site https://www.twilio.com/
+   Στη συνέχεια κάνουμε εγκατάσταση στα linux μέσω terminal
+   
+   >pip install twilio
+   
+   Δημιουργούμε στην συνέχεια ενα αρχείο python με όνομα send_sms.py στο οποίο μέσα πρέπει να έχουμε τα credentials(acount_sid και auth_token) που μας δίνονται στην Console του Twilio account καθώς και το κινητό που θα έρθει το δοκιμαστικό μήνυμα.
+   
+     from twilio.rest import Client
+     # Your Account SID from twilio.com/console
+     account_sid = "xxxxxxxxxxxx"
+    # Your Auth Token from twilio.com/console
+    auth_token  = "xxxxxxxxxxxxxxxxxxxxxx"
+    client = Client(account_sid, auth_token)
+     message = client.messages.create(
+     to="+30698xxxxxx", 
+    from_="+13602268931",
+    body="Hello from Python!")
+    print(message.sid)
+   
+  Τρέχουμε την εντολή μέσα απο τον φάκελο ως εξής:
+  
+  >python send_sms.py
+
+  
