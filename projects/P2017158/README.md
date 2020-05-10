@@ -28,3 +28,55 @@
 
 
 Για την εργασία χρησιμοποίησα το **ntfy**, στην εικόνα φαίνεται η εντολή που έδωσα (στην πρώτη γραμμή ntfy done sleep 5) για να μου έρθει η ειδοποίηση που φαίνεται μέσω του pop-up window.
+
+
+# 3η Εργασία
+
+* assignments: choose your stack
+
+
+* deliverables: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+
+* asciinema: [link](https://asciinema.org/a/328914)
+
+
+Για την εργασία χρησιμοποίησα το **howdoi**, στο βίντεο φαίνονται οι εντολές που έδωσα και απαντήσεις που πήρα από το πρόγραμμα.
+
+# 4η Εργασία
+
+* assignments: performance monitoring
+
+
+* deliverables: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+* asciinema: [link](https://asciinema.org/a/328920)
+
+
+Για την εργασία χρησιμοποίησα το **hyperfine**, χρησιμοποίησα δύο Python scripts και τέσταρα να δώ ποιο θα γίνει γρηγορότερα από τα δύο και τα δύο είχαν το ίδιο δείγμα.Στο βίντεο φαίνεται πίο από τα δύο scripts είναι γρηγορότερο
+
+# 5η Εργασία
+
+* assignments: use the terminal as an IDE
+
+
+* deliverables: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+* asciinema: [link](https://asciinema.org/a/328978)
+
+
+Για την εργασία χρησιμοποίησα το **vim**, στο βίντεο φαίνονται οι εντολές που έδωσα για να δημιουργήσω ένα python αρχείο.
+
+# 6η Εργασία
+
+* assignments: set-up a system for python development
+
+
+* deliverables: install and configure in a user folder a python project that is not available through the package manager
+
+* asciinema: [link](https://asciinema.org/a/329016)
+
+
+Για την εργασία χρησιμοποίησα το **pipenv**, στο βίντεο φαίνονται οι εντολές που έδωσα για να επεξεργαστώ ένα python αρχείο.
+
+
+
