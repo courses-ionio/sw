@@ -276,12 +276,12 @@ sudo apt-get install neovim
 
 # Συμμετοχικό Εκπαιδευτικό Υλικό.
 
-## A
+
 ### mibook URL: [mibook](https://p17theo3.netlify.com/)
 
 ### Αποθετήριο mibook: [link](https://github.com/p17theo3/gr)
-### A.
 
+## A
 Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του faceboonew όπως φαίνεται παρακάτω:
 
 ### [Facebooknew](https://p17theo3.netlify.com/gallery/facebooknew/)
