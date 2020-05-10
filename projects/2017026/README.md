@@ -16,7 +16,7 @@
 
 ![image](brew_install_git.png)
 
-![image](pushovertestphone.jpg) ![image](installgitphone.jpg)
+![image](Pushovertestphone.jpg) ![image](installgitphone.jpg)
 
 ### ΕΡΓΑΣΙΑ 7Η: create your own static site and blog generator ([part one](https://asciinema.org/a/hvlXDChOgxOS9Etx6RYAanPw8))
 ### ΕΡΓΑΣΙΑ 8Η: create an agent for news ([part one](https://asciinema.org/a/JNXI9FCIzb6fZFb10Go3YNPwD))
