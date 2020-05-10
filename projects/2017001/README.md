@@ -4,7 +4,7 @@
   <b>references</b>: zsh
   <b>deliverables</b>: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
   <b>asciinema</b>: https://asciinema.org/a/065fjbB3i1db626tEvdAXTFao
-  <b>asciinema file in repo: 
+  <b>asciinema file in repo:</b> 
   
   Εγκατέστησα το zsh shell με την εντολή:
   <code>
@@ -23,7 +23,7 @@
   <b>references</b>: https://www.latex-project.org/
   <b>deliverables</b>: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
   <b>asciinema</b>: https://asciinema.org/a/78XDzjhIhf45pyneG0MSHhwNu
-  <b>b>asciinema file in repo: 
+  <b>b>asciinema file in repo</b>: 
    
    Άνοιξα ένα tex αρχείο στο texstudio και το επεξεργάστηκα
    <code>texstudio sampletex.tex</code>
@@ -37,7 +37,7 @@
   <b>references</b>: https://docs.python-guide.org/dev/virtualenvs/
   <b>deliverables</b>: install and configure in a user folder a python project that is not available through the package manager
   <b>asciinema</b>: https://asciinema.org/a/Bj9GPwnTby4ETNjsmFa8vDiz7
-  <b>asciinema file in repo: 
+  <b>asciinema file in repo</b>: 
     
   
 </p>
@@ -47,7 +47,7 @@
   <b>references</b>: 
   <b>deliverables</b>: 
   <b>asciinema</b>: 
-  <b>asciinema file in repo: 
+  <b>asciinema file in repo:</b> 
     
   Εγκατέστησα τον dependency magager <i>Pipenv</i>
   <code>pip install --user pipenv</code>
