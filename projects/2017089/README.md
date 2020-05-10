@@ -5,9 +5,9 @@
 ## ΕΡΓΑΣΙΕΣ ΚΑΙ ΕΠΙΠΛΕΟΝ ΣΤΟΙΧΕΙΑ:
 
 ### ΕΡΓΑΣΙΑ 1Η: [set-up continuous integration](https://github.com/p17mari/mycv.github.io/edit/master/README.md)
-### ΕΡΓΑΣΙΑ 2Η: [set-up a system for python development](https://asciinema.org/a/325932)
-### ΕΡΓΑΣΙΑ 3Η: [send notifications to your desktop-mobile](https://asciinema.org/a/325966)
+### ΕΡΓΑΣΙΑ 2Η: try different terminals and shells ([part one](https://asciinema.org/a/328538),[part two](https://asciinema.org/a/328540))
+### ΕΡΓΑΣΙΑ 3Η:configure a custom window manager ([part one](https://asciinema.org/a/328072),[part two](https://asciinema.org/a/328075),[part three](https://asciinema.org/a/328078))
 ### ΕΡΓΑΣΙΑ 4Η:  use the terminal as an IDE ([part one](https://asciinema.org/a/327120),[part two](https://asciinema.org/a/327337))
-### ΕΡΓΑΣΙΑ 5Η:  configure a custom window manager ([part one](https://asciinema.org/a/328072),[part two](https://asciinema.org/a/328075),[part three](https://asciinema.org/a/328078))
-### ΕΡΓΑΣΙΑ 6Η:
-### ΕΡΓΑΣΙΑ 7Η:
+### ΕΡΓΑΣΙΑ 5Η:[set-up a system for python development](https://asciinema.org/a/325932)
+### ΕΡΓΑΣΙΑ 6Η: [send notifications to your desktop-mobile](https://asciinema.org/a/325966)
+### ΕΡΓΑΣΙΑ 7Η: 
