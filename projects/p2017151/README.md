@@ -276,6 +276,7 @@ sudo apt-get install neovim
 
 # Συμμετοχικό Εκπαιδευτικό Υλικό.
 
+## A
 ### mibook URL: [mibook](https://p17theo3.netlify.com/)
 
 ### Αποθετήριο mibook: [link](https://github.com/p17theo3/gr)
@@ -288,6 +289,13 @@ sudo apt-get install neovim
 H δεύτερη εικόνα που ανέβασα είναι ένα applesmartwatch όπως φαίνεται και παρακάτω:
 
 ### [applesmartwatch](https://p17theo3.netlify.com/gallery/applesmartwatch/)
+
+
+## B 
+
+### Στο Β έβαλα ενα διαδραστικό παράδειγμα του facebook log in page  του mini opera  απο το codepen. Είναι ένα παράδειγμα όπου ο χρήστης μπόρει να κάνει login η εγγραφή στο facebook
+
+### [Facebook1](https://p17theo3.netlify.app/remix/facebook1/)
 
 
 
