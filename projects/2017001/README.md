@@ -62,14 +62,27 @@
 </p>
 
 
-<h3></h3>
+<h3>send notifications to your desktop-mobile</h3>
 <p>
-  <b>references</b>: 
-  <b>deliverables</b>: 
-  <b>asciinema</b>: 
-  <b>asciinema file in repo:</b> 
+  <b>references</b>: https://github.com/dschep/ntfy
+  <b>deliverables</b>: send a notifcation when a big task completes, eg download, compiling, etc
+  <b>asciinema</b>: https://asciinema.org/a/cvWbiDjfU7li6zEwclzwAzDUC
+  <b>asciinema file in repo</b>: 
+  
+  Στάλθηκε μια ειδοποίηση όταν κατέβηκε ένα αρχείο:
+  <code>ntfy -t "Download Complete" done youtube-dl --extract-audi
+o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
   
 </p>
-  
 
+<h3>performance monitoring</h3>
+<p>
+  <b>references</b>: https://github.com/benfred/py-spy
+  <b>deliverables</b>: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+  <b>asciinema</b>: https://asciinema.org/a/9px3H6oS7VGnhimN2sM0Ki4cJ
+  <b>asciinema file in repo</b>:  
+
+  Δημιουργία flamegraph του python αρχείου <i>samplepy.py</i>
+  <code>py-spy record -o pyflamegraph.svg -- python3 samplepy.py</code>
+  
 </pre>
