@@ -93,9 +93,9 @@ references: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/vi
 
 * ## ΑΣΚΗΣΗ 5
 
-*send notifications to your desktop-mobile*
+**send notifications to your desktop-mobile**
 
-send a notifcation when a big task completes, eg download, compiling, etc
+deliverables: send a notifcation when a big task completes, eg download, compiling, etc
 
 references: [ntfy](https://github.com/dschep/ntfy#linux-desktop-notifications---linux)
 
