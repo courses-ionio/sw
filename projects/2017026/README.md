@@ -6,7 +6,7 @@
 
 ### ΕΡΓΑΣΙΑ 1Η: [set-up continuous integration]()
 ### ΕΡΓΑΣΙΑ 2Η: [configure a custom window manager](https://asciinema.org/a/Rde5lMIEsPptM14bcbGRpFAM6) 
-### ΕΡΓΑΣΙΑ 3Η: [try different terminals and shells](https://asciinema.org/a/Rde5lMIEsPptM14bcbGRpFAM6)
+### ΕΡΓΑΣΙΑ 3Η: try different terminals and shells([part one] (https://asciinema.org/a/PFjzUNhe4sQysRepYbd5O4YHK) [part two] (https://asciinema.org/a/W4IhC9BSYcrFRIS1McXc1y5pr))
 ### ΕΡΓΑΣΙΑ 4Η: [use the terminal as an IDE](https://asciinema.org/a/ibe3ymRrxEs7qFNx4rj23GTbb)
 ### ΕΡΓΑΣΙΑ 5Η: [set-up a system for python development](https://asciinema.org/a/TNfyMaOxs6BIWOgGIC61XJS5C)
 ### ΕΡΓΑΣΙΑ 6Η: [send notifications to your desktop-mobile](https://asciinema.org/a/sVgGLPoH47cnPCgCjNFMjGemj)
