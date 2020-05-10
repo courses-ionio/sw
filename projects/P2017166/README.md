@@ -12,9 +12,11 @@
 δύο εικόνες με λεζάντα και ελεύθερα πνευματικά δικαιώματα στους κατάλληλους 
 φακέλους του δικού μας αποθετηρίου
 
-[link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/netlify.md)
+[1st image link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/netlify.md)
 
-[link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/trci.md)
+[2nd image link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/trci.md)
+
+[interactive image link](https://github.com/eleftherioseleftheriadis/gr/blob/master/_remix/shell.md)
 
 ## Εργασίες SW
 
