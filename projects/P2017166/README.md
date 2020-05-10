@@ -49,24 +49,27 @@ Screenshots:
 
 ![example](tilda.png)
 
- TRITI
+## Τρίτη εργασία
  hyperfine
  
  https://asciinema.org/a/O6DWhRyztfaPRq1tmeaKEZN1t
 
-Tetarti
+## Τέταρτη εργασία
+
 choose your stack
 
 fuck
 
 https://asciinema.org/a/68yNmiha0Fzx8f4ReAapVRISK
 
-pempti
+## Πέμπτη εργασία
+
 
 set-up a system for python development
 https://asciinema.org/a/1xEl6TCtZFUdYtfjHOveTo4Xo
 
-ekti
+## Έκτη εργασία
+
 
 use the terminal as the IDE
 https://asciinema.org/a/4t6dEiUumRrFJ4XXrPNnqu4ri
