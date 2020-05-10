@@ -44,6 +44,7 @@
 ##### Αποστολή ειδοποιήσεων στον υπολογιστή
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/g5pNxjI9YuOWiUtQYcscMczum)
 #
+![image](https://github.com/p17smyr/sw/blob/P2017130/projects/2017130/95665332_280415906458359_3036562446870380544_n.jpg)
 
 
 
