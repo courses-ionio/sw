@@ -58,7 +58,7 @@ cellphone:
 Τέλος, για την καταγραφή του βίντεο στο Asciinema επέλεξα να κάνω install το git μέσω του brew το όποιο ήξερα πως το χρειαζόμουν για κάποιες από τις άλλες εργασίες. Παρακάτω φαίνονται screeshots απο τις ειδοποιήσεις στο desktop και mobile phone μου καθώς δεν ήταν δυνατή η καταγραφή τους μέσω του asciinema.
 ![image](sleep10.png)  ![image](brew_install_git.png)
 
-![image](Pushovertestphone.jpg)  ![image](installgitphone.jpg)
+![image](Pushovertestphone.jpg)  ![image](installgitphone.jpg) ![image](ntfyhistory.jpg)
 
 
 ### ΕΡΓΑΣΙΑ 7Η: create your own static site and blog generator ([part one](https://asciinema.org/a/hvlXDChOgxOS9Etx6RYAanPw8))
