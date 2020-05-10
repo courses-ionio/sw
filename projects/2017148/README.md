@@ -247,6 +247,116 @@ hyperfine --export-json output 'python3 file1.py' 'python3 file2.py'
 ### Asciinema : [hyperfine](https://asciinema.org/a/313484)
 
 
+---
+
+
+## Παραδοτέο 6:
+
+set-up continuous integration - build and deploy your static site and your cv dynamically every time you make a small change in the source files
+
+### Για αυτό το παραδοτέο έκανα χρήση του github μαζί με το travis ci. Αρχικά έφτιαξα ένα νέο repository με το CV μου και το έκανα publish μέσο του github pages. Στη συνέχεια έκανα εγγραφή στο travis ci μέσο του github και το έκανα install στο repository του CV. Μετά έφτιαξα το .travis.yml αρχείο έτσι ώστε με οποιαδήποτε αλλαγή να γίνετε build και deploy η ιστοσελίδα. Μέσα στο .travis.yml έπρεπε να βάλω ένα νέο GITHUB_TOKEN το οποίο δημιούργησα με public repo δικαιώματα και ενώθηκε εφόσον το έβαλα και στο travis ci settings. Μέσα στο asciinema κάνω μια αλλαγή μέσο του git και μόλις κάνω push η σελίδα γίνετε αυτόματα build.
+
+### Πρώτα έκανα clone του repository και config το git.
+```
+git clone https://github.com/andreaspappoutas/mycv
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@email.com"
+```
+
+### Ακολούθως έγινε χρήση των παρακάτω εντολών για να τροποποιήσω το αρχείο.
+```
+cd mycv
+ls
+nano index.html
+```
+
+### Τέλος έκανα commit και push ολα τα αρχεία που άλλαξα μαζί με μήνυμα Autobuild.
+```
+git commit -a -m AutoBuild 
+git push
+```
+
+![autobuild Travis](https://user-images.githubusercontent.com/44147982/81502779-a8c87980-92e8-11ea-98a6-550b98cb26e8.png)
+
+
+### Asciinema : [Travis Ci](https://asciinema.org/a/328391)
+
+---
+
+## Παραδοτέο 7:
+
+set-up a system for python development - install and configure in a user folder a python project that is not available through the package manager
+
+### Για αυτή τη εργασία έκανα χρήση του pipenv και virtualenv.
+```
+pip install --user pipenv
+pip install virtualenv
+```
+
+### Έφτιαξα ένα νέο φάκελο μέσα στο οποίο δημιούργησα ένα νέο enviroment.
+```
+mkdir MyProject
+cd MyProject
+virtualenv Enviroment
+```
+
+### Στη συνέχεια ενεργοποίησα το enviroment αυτό και έδειξα ότι δεν ήτανε ίδιο με το κανονικό που υπήρχε ήδη στο ubuntu εφόσον δεν υπάρχουν βιβλιοθήκες εγκατεστημένες σε αυτό.
+```
+source Enviroment/bin/activate
+which python
+which pip
+```
+
+### Ακόλουθος έκανα εγκατάσταση της νέας βιβλιοθήκης math μέσο του pipenv και δημιούργησα ένα νέο πρόγραμμα που τη χρησιμοποιούσε αυτή.
+```
+pipenv install math
+touch program.py
+nano program.py
+from math import exp
+print(exp(6))
+```
+
+### Τέλος έτρεξα το νέο μου πρόγραμμά και εφόσον δεν έβγαλε πρόβλημα τότε το virtual enviroment λειτουργεί κανονικά.
+```
+pipenv run python main.py
+```
+
+### Απενεργοποίηση του virtual enviroment.
+```
+deactivate
+```
+
+
+### Asciinema : [Python Virtual Enviroment](https://asciinema.org/a/328394)
+
+---
+
+
+## Παραδοτέο 8:
+use the terminal as an IDE - edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+### Για αυτή τη εργασία έκανα εγκατάσταση το SpaceVim και το Neovim.
+```
+curl -sLf https://spacevim.org/install.sh | bash
+sudo apt-get install neovim
+```
+
+### Το spacevim ενώνεται μαζί με το neovim και όταν τρέξεις για πρώτη φορά το Neovim τα plugins από το SpaceVim γίνονται αυτόματα εγκατάσταση.
+### Αρχικά όταν ξεκίνησα το NeoVim δημιούργησα ένα νέο αρχείο με το keybind "e". Έγραψα μέσα ένα απλό κωδικά της python για να φανεί το plugin αυτό , το έκανα αποθήκευση και έκλεισα το NeoVim.
+```
+:save
+:exit
+```
+
+### Μπορείς να αλλάξεις το config μέσο αλλαγής του αρχείου "init.toml." μέσα στο SpaceVim ή για το NeoVim ":help vimrc"
+
+#### Documentation του Neovim:
+https://neovim.io/doc/user/
+
+
+
+### Asciinema : [Spacevim-Noevim](https://asciinema.org/a/328490)
+
 
 ---
 
