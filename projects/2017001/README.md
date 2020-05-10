@@ -4,7 +4,7 @@
   <b>references</b>: zsh
   <b>deliverables</b>: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
   <b>asciinema</b>: https://asciinema.org/a/065fjbB3i1db626tEvdAXTFao
-  <b>asciinema file in repo:</b> 
+  <b>asciinema file in repo</b>:  
   
   Εγκατέστησα το zsh shell με την εντολή:
   <code>
@@ -39,16 +39,6 @@
   <b>asciinema</b>: https://asciinema.org/a/Bj9GPwnTby4ETNjsmFa8vDiz7
   <b>asciinema file in repo</b>: 
     
-  
-</p>
-
-<h3></h3>
-<p>
-  <b>references</b>: 
-  <b>deliverables</b>: 
-  <b>asciinema</b>: 
-  <b>asciinema file in repo:</b> 
-    
   Εγκατέστησα τον dependency magager <i>Pipenv</i>
   <code>pip install --user pipenv</code>
   
@@ -69,6 +59,16 @@
   
   Και απενεργοποιήθηκε αναλόγα:
   <code>deactivate</code>
+</p>
+
+
+<h3></h3>
+<p>
+  <b>references</b>: 
+  <b>deliverables</b>: 
+  <b>asciinema</b>: 
+  <b>asciinema file in repo:</b> 
+  
 </p>
   
 
