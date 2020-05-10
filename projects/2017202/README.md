@@ -95,4 +95,23 @@ AM: Π2017202
    
    [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/Latex/)
    
+   ## Άσκηση 5 Software
+   ## Py-Spy
+   ### Performance monitoring
+   
+   Το py-spy δίνει την δυνατότητα να γίνει καταγραφη της αποδοσης καθώς τρέχει ενα python script. Με την εκτέλεση του αρχείου μέσω του command py-spy καταγράφετε η διεργασια PID του αρχειου python και εμφανίζεται σε μορφή εικόνας .svg 
+   Στο παράδειγμά μας τρέχουμε ένα αρχείο python που στέλνει sms στο κινητό μας μέσω του twilio:
+   
+   >py-spy record -o profile.svg -- python send_sms.py
+   
+   το αποτέλεσμα εμφανίζεται στην εικόνα με κατάληξη .svg
+   
+   ![py-spy](https://imgur.com/ZI8HYTV.png)
+   
+   H εγκατάσταση του Py-spy έγινε ως εξής:
+   >pip install py-spy
+
+   
+   [Asciinema Link py-spy](https://asciinema.org/a/qfZGPa57oXUSgV6Z3z8AvYxFS)
+   
    
