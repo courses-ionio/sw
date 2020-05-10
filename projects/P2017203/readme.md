@@ -386,6 +386,53 @@
 ###### emacs -nw
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/312511) το link.
 #
+### Άσκηση 7
+##### Τίτλος: create a docker image for your development stack
+##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει ένα εμπλουτισμένο ubuntu
+##### Η όλη διαδικασία έγινε απο usb persisten, οπότε υπήρχαν κάποιες αλλαγές στην διαδικασία για να ξεπεραστούν τα προβλήματα με τα layers. Όλα φαίνονται αναλυτικά στην καταγραφή του asciinema
+##### κατέβασμα και εγκατάσταση ενός ubuntu image.
+##### demo οτι δεν έχει τίποτα μέσα. Επίσης size=73.8MB.
+###### apt-get update
+##### εγκατάσταση πακέτων 
+###### apt-get install net-tools
+###### apt-get install iputils-ping
+###### apt install vnstat
+###### apt install nload
+##### Στην συνέχεια εγκαταστήσαμε kernel
+###### apt-get -y install --no-install-recommends \ 
+###### linux-image-5.4.0-28-generic
+##### install an init deamon
+###### apt-get -y install --no-install-recommends \
+###### systemd-sysv
+##### κάνω nεο image
+##### Το νέο image έχει όνομα myubuntu και μεγεθος 202ΜΒ.
+##### export image file
+###### docker export -o P2017203linux.tar ${CID} 
+##### Φτιάχνω image file και βάζω το αρχείο μου μέσα
+###### IMG_SIZE=$(expr 1024 \* 1024 \* 10240
+###### dd if=/dev/zero of=/home/lubuntu/P2017203linux.img bs=${IMG_SIZE} count=1 
+##### make partition
+######  sfdisk /home/lubuntu/linux.img << EOF                                                                                           ######> label: dos                                                                                                                               ######> device: new.img                                                                                                                          ######> unit: sectors                                                                                                                            ######> linux.img1 : start=2048, size=2095104, type=83, bootable                                                                                 ######> EOF   
+##### now, Mount this image, format it using ext3 filesystem and copy content of the tar archive to it
+###### sudo losetup -o ${OFFSET} /dev/loop2 /home/lubuntu/P2017203linux.img  
+###### sudo mkfs.ext3 /dev/loop2
+###### sudo tar -xvf /home/lubuntu/P2017203linux.tar -C /home/lubuntu/mnt2        
+##### add bootloader
+###### apt-get install -y extlinux
+###### extlinux --install /home/lubuntu/mnt2/boot
+#####  make config file
+###### cat > /home/lubuntu/mnt2/boot/syslinux.cfg <<EOF
+###### > DEFAULT linux                                                                                                                            ###### > SAY Now booting the kernel from P2017203linux                                                                                      ###### > LABEL linux                                                                                                                              ###### > KERNEL /p2017203                                                                                                                        ###### > APPEND ro root=/dev/sda1 initrd=/initrd.img                                                                                          ###### > EOF
+##### make final image
+###### sudo dd if=/usr/lib/syslinux/mbr/mbr.bin of=/home/lubuntu/linux.img bs=440 count=1 conv=notrunc 
+#
+##### Η εγκατάσταση δουλεύει σε σύστημα 64-bit μονο
+#
+##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/327953)
+#
+##### Το αρχείο .img μπορεί να γίνει downloaded απο αυτό το [link](https://www.dropbox.com/s/64uk2yq5dgy8o5t/P2017203linux.img?dl=0)
+
+#
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό:
 ##### Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr).
