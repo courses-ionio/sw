@@ -13,8 +13,8 @@
 ### ΕΡΓΑΣΙΑ 5Η: [set-up a system for python development](https://asciinema.org/a/TNfyMaOxs6BIWOgGIC61XJS5C)
 ### ΕΡΓΑΣΙΑ 6Η: [send notifications to your desktop-mobile](https://asciinema.org/a/sVgGLPoH47cnPCgCjNFMjGemj)
 ![image](sleep10.png)
-Notification when big task completes
-![image](brew_install_git)
+
+![image](brew_install_git.png)
 
 ### ΕΡΓΑΣΙΑ 7Η: create your own static site and blog generator ([part one](https://asciinema.org/a/hvlXDChOgxOS9Etx6RYAanPw8))
 ### ΕΡΓΑΣΙΑ 8Η: create an agent for news ([part one](https://asciinema.org/a/JNXI9FCIzb6fZFb10Go3YNPwD))
