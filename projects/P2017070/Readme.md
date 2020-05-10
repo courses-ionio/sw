@@ -386,6 +386,11 @@ https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
  [fifth-assignment-link](https://asciinema.org/a/4bWUpuUSsL7DOXk3wJDIwLJI3)
  
  
+ ### Sixth Assignment-Programmable Voice
+ 
+ [sixth-assignment-link](https://asciinema.org/a/OF03CmNLNQ5ry5wAX5QDMQvWZ)
+ 
+ 
 
 
 
