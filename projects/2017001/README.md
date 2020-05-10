@@ -98,6 +98,7 @@ o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
   <b>deliverables</b>: build and deploy your static site and your cv dynamically every time you make a small change in the source files
   <b>asciinema</b>: https://asciinema.org/a/EWpIHo3XjgG0SzTkJuVHQ66li
   <b>asciinema file in repo</b>: 
+  
 </p>  
 
 </pre>
