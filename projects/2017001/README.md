@@ -1,4 +1,4 @@
-<h3>ntfy</h3>
+<h3>try different terminals and shells</h3>
 <p>
-hello
+  <b>references</b>: 
 </p>
