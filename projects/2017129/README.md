@@ -57,9 +57,25 @@ references: [terminator](https://gnometerminator.blogspot.com/p/introduction.htm
 [asciinema](https://asciinema.org/a/p9J6UyQ1ikmnm9PuLBOsWctbS)
 
   Εγκατέστησα το terminator και το zshell ως διαφορετικά terminal-shell από αυτά που είχα ήδη. Το terminator σου δίνει την δυνατότητα να χωρίζεις το τερματικό σου σε παράθυρα (μέσω asciinema δεν κατάφερα να το δείξω),είτε οριζόντια είτε κατακόρυφα (αυτό το χαρακτηριστοκό με βολεύει πολύ) αλλά και σε καρτέλες αν θες.
+  
    ![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/Screenshot%20from%202020-05-10%2001-42-23.png)
+   
+   
   Επίσης έχει χρήσιμα shortcuts, κάποια από αυτά που χρησιμοποιώ είναι τα παρακάτω: 
+  
+ <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> : Split terminals Vertically.
+  
+ <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> : Close the current terminal.
+  
+ <kbd>Alt<kbd> + <kbd>Up/Down/Left/Right</kbd> : Move to the terminal above/below/left of/rightof the current one.
+  
+ <kbd>Alt</kbd> + <kbd>A</kbd> : Broadcast to All terminals.
+  
+ <kbd>Alt</kbd> + <kbd>O</kbd> : Broadcast Off.
+ 
    Στην καταγραφή με το asciinema δεν κατάφερα να εμφάνίζεται το τερματικό με το οποίο δούλευα, παρά το γεγονός ότι πριν την καταγράφη η εντολή [ps -p$PPID](https://unix.stackexchange.com/questions/93376/which-terminal-type-am-i-using) που χρησημοποίησα το εμφάνιζε.
+   ![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/Screenshot%20from%202020-05-10%2002-08-45.png)
+   
   Το zsh  με το tab προσφέρει auto completion και σου δείχνει όλες τις δυνατές επιλογές που έχεις, αν το επιθυμείς. Ακόμη ένα χαρακτηριστικό που μου άρεσε είναι πως όταν αρχίζεις και μπάινεις σε καταλόγους, στο path που δείχει στο commnand prompt που ακριβώς είσαι, σε όλους τους φακέλουν πριν από τον τρέχοντα εμφανίζει μόνο το αρχικό γράμμα. 
   Στο asciinema έκανα 2 παλαιότερες ασκήσεις από το μάθημα cscw (Κινητά και κοινωνικά μέσα), search the web from the terminal με το εργαλείο ddgr (DuckDuckGo) και browse popular web sites through the terminal με το εργαλείο w3m.
 
