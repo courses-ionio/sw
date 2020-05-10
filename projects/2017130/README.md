@@ -39,6 +39,14 @@
 ##### Εκτέλεση μερικών βασικών εντολών
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/lsMx83REj0ftLg6SvrPOAcVJl)
 #
+### Άσκηση 5: send notifications to your desktop-mobile
+##### Εγκατάσταση του ntfy
+##### Αποστολή ειδοποιήσεων στον υπολογιστή
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/g5pNxjI9YuOWiUtQYcscMczum)
+#
+
+
+
 
 # Όνομα εργασίας: Συμμετοχικό υλικό - Α παραδοτέο
 
