@@ -50,26 +50,30 @@ Screenshots:
 ![example](tilda.png)
 
 ## Τρίτη εργασία
- hyperfine
- 
+Assignment: Performance monitoring
+
+Hyperfine
+
  https://asciinema.org/a/O6DWhRyztfaPRq1tmeaKEZN1t
 
 ## Τέταρτη εργασία
 
-choose your stack
-
-fuck
+Assignment: Choose your stack
+Περιγραφή: Χρήση της εντολής για να διωρθόσει την τελευταία εντολή που γράψαμε βρίσκοντας το τυπογραφικό λάθος.
+thefuck
 
 https://asciinema.org/a/68yNmiha0Fzx8f4ReAapVRISK
 
 ## Πέμπτη εργασία
 
 
-set-up a system for python development
+Assignment: Set-up a system for python development
+
 https://asciinema.org/a/1xEl6TCtZFUdYtfjHOveTo4Xo
 
 ## Έκτη εργασία
 
 
-use the terminal as the IDE
+Assignment: Use the terminal as the IDE
+
 https://asciinema.org/a/4t6dEiUumRrFJ4XXrPNnqu4ri
