@@ -107,6 +107,10 @@ nfiguration that fits your needs
 ## 4. Performance monitoring
 * ### Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-#### 1.Για την εργασια 
+#### 1.Για την εργασια χρηαστηκε να δημιουργησουμε 3 αρχια .txt με 100 , 1000 και 10000 τυχεους αριθμους 
+- Για την διμηουργια αυτων τον αρχιων χρησιμοποιηθηκε κωδικας απο το εργαστηριο [rand_ints.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/rand_ints.py) 
+- Τα τρία αρχεία .txt με τους τυχεους αριθμους που δημιουργιθηκαν ειναι τα εξής [100.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/100.txt) ,[1000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/1000.txt) και [10000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/10000.txt)
+
+
 
 
