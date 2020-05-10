@@ -37,7 +37,7 @@
          vim resume.tex
 #### 6. Αποθήκευση των αλλαγών και δημιουργία αρχείου _resume.pdf_ 
          xelatex resume.tex
-#### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/327709
+* #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/327709
 
 ## 2. Τry different terminals and shells
 nfiguration that fits your needs
@@ -67,7 +67,7 @@ nfiguration that fits your needs
           exit
           
           
- #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/327717
+* #### Το video με όλη τη διαδικασία βρήσκεται εδω : https://asciinema.org/a/327717
 ## 3. Send notifications to your desktop-mobile  
 * ### Send a notifcation when a big task completes, eg download, compiling, etc 
 
@@ -101,7 +101,7 @@ nfiguration that fits your needs
 ![smartphone screenshot](https://github.com/p15avge/sw/blob/2015009/projects/2015009/91907340_240904060399225_4735137358632976384_n.jpg)
 
 
-#### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/327926 
+* #### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/327926 
 
 
 ## 4. Performance Monitoring
@@ -164,7 +164,7 @@ py-spy record -o filename.svg -- python filename.py 1000
 **Heap sort (10000)**
 ![heap_sort](./heap.svg)
 
-#### Το video στο Asciinema για το _py-spy_ βρίσκεται στο link : https://asciinema.org/a/328356
+* #### Το video στο Asciinema για το _py-spy_ βρίσκεται στο link : https://asciinema.org/a/328356
 
 ## 5.Choose Your Stack 
 * ### Set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
@@ -190,7 +190,7 @@ howdoi create tar archive
 
 howdoi format date bash
 ```
-#### Το video στο Asciinema όπου φένεται να εκτελούνται οι παραπάνω εντολές βρίσκετε στο link : https://asciinema.org/a/328833
+* #### Το video στο Asciinema όπου φένεται να εκτελούνται οι παραπάνω εντολές βρίσκετε στο link : https://asciinema.org/a/328833
 
 
 ## 6.Set-up Cloud Services
@@ -224,7 +224,7 @@ ssh -C ubuntu@192.168.1.34
 exit
 ```
 
-#### Το video στο Asciinema βρίσκεται στο link : https://asciinema.org/a/328865
+* #### Το video στο Asciinema βρίσκεται στο link : https://asciinema.org/a/328865
 
 
 
