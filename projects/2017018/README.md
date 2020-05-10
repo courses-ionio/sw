@@ -50,22 +50,34 @@ auto-completion-tab-key-behavior = "cycle"
 
 ## Άσκηση 3:
 **Τίτλος:** Create an agent for news<br>
-**Περιγραφή:** The demo should display the new content added on a news web site
+**Περιγραφή:** The demo should display the new content added on a news web site<br>
+**Asciinema link:** https://asciinema.org/a/yuiKvg8udLPi7SibET3t9Xh7X
+  *Σημείωση: Το παραπάνω asciicast έχει μακριά διάρκεια, αλλά απεικονίζει το παρασκήνιο της διαδικασίας ανοίγματος σύνδεσης, δημιουργίας νέων agents και τρεξίματως των agents αυτών.*
+
+![1](SC14.png)
+
+Χρησιμοποίησα το [Huginn](https://github.com/huginn/huginn). Επιτρέπει τη δημιουργία custom agents για την παρακολούθηση ιστοσελίδων με ειδήσεις, μεταφορά ειδοποιήσεων από μέσα κοινωνικής δικτύωσης (Twitter, Tumblr, Weibo, etc.) σε πραγματικό χρόνο και άλλα.
 
 ## Άσκηση 4:
 **Τίτλος:** Create your own static site and blog generator<br>
 **Περιγραφή:** The generator should consider posts, pages, and templates
+**Asciinema link:** https://asciinema.org/a/vNKkRansbyBQIjO2fJEzBgNE4
 
 Χρησιμοποίησα το [Hugo](https://gohugo.io/). 
 
-Μετά την εγκατάσταση του Hugo, εγκατέστησα το θέμα της ιστοσελίδας στο οποίο θέλω να αλλάξω τη σελίδα μου, το [Notepadium](https://themes.gohugo.io/hugo-notepadium/). και μετά έγραψα ένα νέο post, όπως φαίνεται παρακάτω.
-![1](SC11.png)
+Μετά την εγκατάσταση του Hugo, εγκατέστησα το θέμα της ιστοσελίδας στο οποίο θέλω να αλλάξω τη σελίδα μου, το [Fuji](https://themes.gohugo.io/hugo-theme-fuji/).
 
 ## Άσκηση 5:
 **Τίτλος:** Performance monitoring<br>
-**Περιγραφή:** Monitor the performance of your python scripts and visualize them with colors and/or spark lines
+**Περιγραφή:** Monitor the performance of your python scripts and visualize them with colors and/or spark lines<br>
 **Asciinema link:** https://asciinema.org/a/dZMJ2XSyOhdkNAAn8ZWo69ZjS
 
 ## Άσκηση 6:
-
+**Τίτλος:** Set-up cloud services<br>
+**Περιγραφή:** SSH to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)<br>
 **Asciinema link:** https://asciinema.org/a/9zIhVI2nlGBIstHsjKex9ZQTj
+
+## Άσκηση 7:
+**Τίτλος:** Create a docker image for your development stack<br>
+**Περιγραφή:** Demonstrate the custom image for CI of your cv and site<br>
+**Asciinema link:** https://asciinema.org/a/u2MZZEgTFMO9ZCTW3DhZJt6bf
