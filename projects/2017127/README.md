@@ -9,10 +9,5 @@ Send notifications to your desktop-mobile
 # Description:
 Για την εκτέλεση της εργασίας κατέβασα το εργαλείο ntfy στο terminal μου με την εντολή sudo pip install ntfy. Έπειτα κατέβασα την εφαρμογή Pushover στο κινητό μου και μετά έστειλα notifications στο κινητό μου τρέχοντας τής ακόλουθες εντολές στο terminal μου
 
-x-special/nautilus-clipboard
-copy
-file:///home/andreea/Downloads/96859084_639244196660043_889515777433010176_n.jpg
 
-96859084_639244196660043_889515777433010176_n.jpg
-
-
+https://github.com/P17rant/sw/blob/P2017127/projects/96859084_639244196660043_889515777433010176_n.jpg
