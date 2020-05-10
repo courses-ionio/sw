@@ -153,8 +153,18 @@ sudo pip install py-spy
 py-spy record -o filename.svg -- python filename.py 1000
 ```
 -Εικόνες (flame graph) με τα αποτελέσματα απο το _py-spy_
+
+
 **Bubble sort (10000)**
 ![bubble_sort](./bubble.svg)
+
+**Merge sort (10000)**
+![merge_sort](./merge.svg)
+
+**Heap sort (10000)**
+![heap_sort](./heap.svg)
+
+#### Το video στο Asciinema για το _py-spy_ βρίσκεται στο link : https://asciinema.org/a/328356
 
 
 
