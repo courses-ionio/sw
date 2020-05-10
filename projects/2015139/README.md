@@ -221,7 +221,7 @@ ntfy -b linux send 'this is a test'
 
 **Στο παρακάτω asciicast βλέπουμε τις εντολές στο shell ενώ σε [αυτό](https://github.com/gmargaritis/sw/blob/2015139/projects/2015139/20200330_133733.gif) το gif μπορούμε να δούμε σε πραγματικό χρόνο τα μυνήματα να φτάνουν στην android συσκευή ως ειδοποιήσεις.**
 
-**Όπως αναφέρθηκε και πριν στο διπλανό gif βλέπουμε ότι έρχονται τα notifications για την ολοκλήρωση διάφορων tasks όπως το asciinema και το hyperfine**
+**Όπως φαίνεται και στο παρακάτω gif βλέπουμε ότι έρχονται τα notifications για την ολοκλήρωση διάφορων big tasks όπως το asciinema και το hyperfine**
 
 ### **Asciinema:** [ntfy](https://asciinema.org/a/c4DWt0TurQHdpAbujxOxAErkI), **Gif:** [Slack for Android](https://github.com/gmargaritis/sw/blob/2015139/projects/2015139/slack.gif)
 
@@ -339,3 +339,90 @@ py-spy top -- python filename.py 10000
 ![insertion_sort](./images/insertion_sort.svg)
 
 ### **Asciinema:** [py-spy](https://asciinema.org/a/xfsnaCULl4wGUS1IGNTRhXCfb)
+
+---
+
+## Άσκηση 5
+
+**Τίτλος:** Choose your stack
+
+**Περιγραφή:** Set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+
+### Howdoi
+
+Το howdoi αποτελεί ένα command-line εργαλείο που δίνει τη δυνατότητα στο χρήστη να βρίσκει απαντήσεις για διάφορα ερωτήματα κάνοντας scrape το StackOverflow. Η εγκατάσταση πραγματοποιήθηκε μέσω του ```pip```.
+
+```
+pip install howdoi
+```
+
+Εκτελέστηκαν οι παρακάτω εντολές για την παρουσίαση του εργαλείου.
+
+```
+howdoi -v
+howdoi -h
+howdoi for loop in python
+howdoi -a change directory bash
+howdoi -c fizzbuzz python
+howdoi -l isntall wine
+howdoi -e bing write to file in c
+howdoi -n2 convert mp4 to animated gif
+```
+
+Πιο συγκεκριμένα με το flag ```-v``` βλέπουμε το version που έχουμε εγκαταστήσει, με το ```-h``` εμφανίζεται το εγχειρίδιο χρήσης, με το ```-a``` μπορούμε να δούμε ολόκληρη την απάντηση, με το ```-c``` η απάντηση είναι χρωματισμένη, με το ```-e``` αλλάζουμε τη μηχανή αναζήτησης (στη συγκεκριμένη περίπτωση το bing), με το ```-l``` επιστρέφεται μόνο το link της απάντησης και τέλος με τη χρήση του flag ```-n2``` επιστρέφονται 2 ή όσες απαντήσεις έχουμε υποδείξει.
+
+### **Asciinema:** [howdoi](https://asciinema.org/a/jRdNjZv3TDawCr8qVMGZvi6gt)
+
+---
+
+## Άσκηση 6
+
+**Τίτλος:** Set-up cloud services
+
+**Περιγραφή:** ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc).
+
+**Local Host**
+
+Το ```ssh``` είναι προεγκατεστημένο στα περισσότερα Linux distributions όποτε δε χρειάστηκε κάποια εγκατάσταση.
+
+**Remote Host**
+
+```
+sudo apt-get install openssh-server
+```
+
+Εκτελέστηκαν οι παρακάτω εντολές:
+
+```
+ssh -V
+```
+Με την παραπάνω εντολή βλέπουμε την έκδοση την οποία έχουμε.
+
+```
+ssh -6 george@192.168.1.106
+ssh -4 george@192.168.1.106
+```
+
+Χρησιμοποιώντας τα ```-4```, ```-6``` μπορούμε να κάνουμε force την IP, IPv4 και IPv6 αντίστοιχα. Στην πρώτη εντολή βλέπουμε ότι δεν μπορεί να γίνει η σύνδεση αφού δεν έχουμε δώσει την έγκυρη έκδοση IP.
+
+```
+ssh -c aes256-ctr george@192.168.1.106
+```
+
+Με το ```-c cipher_spec``` έχουμε τη δυνατότητα να καθορίσουμε τον αλγόριθμο κρυπτογράφησης του session μας. Στη συγκεκριμένη περίπτωση επιλέχτηκε ο AES-256.
+
+
+```
+ls
+
+vi dfa.py
+python dfa.
+
+vi resume.tex
+
+neofetch
+```
+
+Πραγματοποιήθηκαν και οι παραπάνω εντολές ώστε να εκπληρώσουν το description της άσκησης.
+
+### **Asciinema:** [ssh](https://asciinema.org/a/qM24sUb1u5baGF8lBDzVpQJft)
