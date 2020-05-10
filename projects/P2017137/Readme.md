@@ -48,3 +48,9 @@ https://asciinema.org/a/nT2MTT0BvPZnpBwHqXIPLSbsO
 ### Πεμπτη Ασκηση- configure a custom window manager
 
 https://asciinema.org/a/Zxxw6Ykn9LtAOzyd1HfyPJ8Yq
+
+### Eκτη Ασκηση- howdoi
+
+https://asciinema.org/a/5p8iUUIDSfQcMAahZhGzYlaR3
+
+
