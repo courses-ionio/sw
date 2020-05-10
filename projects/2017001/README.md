@@ -90,5 +90,14 @@ o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
 
   Δημιουργία flamegraph του python αρχείου <i>samplepy.py</i>
   <code>py-spy record -o pyflamegraph.svg -- python3 samplepy.py</code>
-  
+</p>
+
+<h3>set-up continuous integration</h3>
+<p>
+  <b>references</b>: github
+  <b>deliverables</b>: build and deploy your static site and your cv dynamically every time you make a small change in the source files
+  <b>asciinema</b>: https://asciinema.org/a/EWpIHo3XjgG0SzTkJuVHQ66li
+  <b>asciinema file in repo</b>: 
+</p>  
+
 </pre>
