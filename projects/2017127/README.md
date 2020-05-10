@@ -25,3 +25,69 @@ monitor the performance of your python scripts and visualize them with colors an
 https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
 # Description:
 Για αυτήν την εργασία χρησιμοποίησα προφίλ εγγραφής py-spy σε ένα αρχείο χρησιμοποιώντας την εντολή εγγραφής. Δημιούργησα ένα flame graph  της διαδικασίας python με record command.
+
+
+# Third assignment:
+set-up continuous integration
+# Deliverables:
+build and deploy your static site and your cv dynamically every time you make a small change in the source files
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+
+
+
+# Fourth assignment:
+try different terminals and shells
+# Deliverables:
+repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+
+
+# Fifth assignment:
+configure a custom window manager
+# Deliverables:
+try different wm and configure one to fit your needs
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+
+
+
+
+
+# Sixth assignment:
+use the terminal as an IDE
+# Deliverables:
+edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+# Seven assignment:
+set-up a system for python development
+# Deliverables:
+install and configure in a user folder a python project that is not available through the package manager
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+
+
+# Eigth assignment:
+create notifications on your sever
+# Deliverables:
+send notifications on important server events
+# Link to Asciinema:
+https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK
+# Description:
+
+
+
+
+
