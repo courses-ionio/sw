@@ -21,7 +21,7 @@
 
 Μετά την εγκατάσταση του SpaceVim, αλλάζω και προσθέτω νέες παραμέτρους στο config file του προγράμματος, ώστε να υποστηρίζει error checking, autocompletion και compiling της γλώσσας Python.<br>
 ![2](SC2.png)
-Το κομμάτι κώδικα που προσέθεσα είναι το παρακάτω:<br>
+Το κομμάτι κώδικα που πρόσθεσα είναι το παρακάτω:<br>
 ```
 [[layers]]
 name = 'lang#python
@@ -29,7 +29,7 @@ auto-completion-return-key-behavior = "complete"
 auto-completion-tab-key-behavior = "cycle"
 ```
 
-Ύστερα, μπορώ να γράψω ένα πρόγραμμα, το οποίο μετά το SpaceVim εκτελέι μέσα από το δικό του shell.
+Ύστερα, μπορώ να γράψω ένα πρόγραμμα, το οποίο μετά το SpaceVim εκτελεί μέσα από το δικό του shell.
 ![2](SC4.png)
 
 ## Άσκηση 2:
@@ -51,8 +51,8 @@ auto-completion-tab-key-behavior = "cycle"
 ## Άσκηση 3:
 **Τίτλος:** Create an agent for news<br>
 **Περιγραφή:** The demo should display the new content added on a news web site<br>
-**Asciinema link:** https://asciinema.org/a/yuiKvg8udLPi7SibET3t9Xh7X
-  *Σημείωση: Το παραπάνω asciicast έχει μακριά διάρκεια, αλλά απεικονίζει το παρασκήνιο της διαδικασίας ανοίγματος σύνδεσης, δημιουργίας νέων agents και τρεξίματως των agents αυτών.*
+**Asciinema link:** https://asciinema.org/a/yuiKvg8udLPi7SibET3t9Xh7X<br>
+  *Σημείωση: Το παραπάνω asciicast έχει μακριά διάρκεια, αλλά απεικονίζει το παρασκήνιο της διαδικασίας ανοίγματος σύνδεσης, δημιουργίας νέων agents και τρεξίματος των agents αυτών.*
 
 ![1](SC14.png)
 
@@ -60,7 +60,7 @@ auto-completion-tab-key-behavior = "cycle"
 
 ## Άσκηση 4:
 **Τίτλος:** Create your own static site and blog generator<br>
-**Περιγραφή:** The generator should consider posts, pages, and templates
+**Περιγραφή:** The generator should consider posts, pages, and templates<br>
 **Asciinema link:** https://asciinema.org/a/vNKkRansbyBQIjO2fJEzBgNE4
 
 Χρησιμοποίησα το [Hugo](https://gohugo.io/). 
