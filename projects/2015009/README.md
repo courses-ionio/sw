@@ -168,8 +168,29 @@ py-spy record -o filename.svg -- python filename.py 1000
 
 ## 5.Choose Your Stack 
 * ### Set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+#### 1.Για την εκτέλεση της άσκησης έγινε χρη΄ση του εργαλείου _howdoi_
+- Για την εγκατάσταση του _howdoi_ χρησιμοποιήθηκε η εντολή 
+```bash 
+pip install howdoi
+```
+#### 3.Εκτέλεση εντολών στο _howdoi_
+- Εκτελέστηκαν οι παρακάτω εντολές :
+```bash 
+howdoi -h  //help
 
+howdoi -v //version
 
+howdoi find a file 
+
+howdoi -C  //clear cache
+
+howdoi -c delete a folder
+
+howdoi create tar archive 
+
+howdoi format date bash
+```
+#### Το video στο Asciinema όπου φένεται να εκτελούνται οι παραπάνω εντολές βρίσκετε στο link : https://asciinema.org/a/328833
 
 
 ## 6.Set-up Cloud Services
