@@ -108,9 +108,16 @@ nfiguration that fits your needs
 * ### Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 #### 1.Για την εργασια χρηαστηκε να δημιουργησουμε 3 αρχια .txt με 100 , 1000 και 10000 τυχεους αριθμους 
-- Για την διμηουργια αυτων τον αρχιων χρησιμοποιηθηκε κωδικας απο το εργαστηριο [rand_ints.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/rand_ints.py) 
-- Τα τρία αρχεία .txt με τους τυχεους αριθμους που δημιουργιθηκαν ειναι τα εξής [100.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/100.txt) ,[1000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/1000.txt) και [10000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/10000.txt)
+- Για την δημιουργία αυτών των αρχείων χρησιμοποιήθηκε κώδικας από το εργαστήριο [rand_ints.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/rand_ints.py) 
+- Τα τρία αρχεία .txt με τους τυχαίους αριθμούς που δημιουργήθηκαν είναι τα εξής [100.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/100.txt) ,[1000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/1000.txt) και [10000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/10000.txt)
 
+#### 2.Επίσης χρησιμοποιήθηκαν οι τρείς αλγόριθμοι bubble sort , merge sort και heap sort 
+-Οι κώδικες βρησκονται στα link [bubble_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/bubble_sort.py) , [merge_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/merge_sort.py) και [heap_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/heap_sort.py)
+
+#### 3.Για την σύγκριση των τριών αλγορίθμων ταξηνόμισης χρησιμοποιήθικε το _Hyperfine_
+-Για την εγκατάσταση :
+          wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+sudo dpkg -i hyperfine_1.9.0_amd64.deb
 
 
 
