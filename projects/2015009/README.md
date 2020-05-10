@@ -116,8 +116,30 @@ nfiguration that fits your needs
 
 #### 3.Για την σύγκριση των τριών αλγορίθμων ταξηνόμισης χρησιμοποιήθικε το _Hyperfine_
 -Για την εγκατάσταση :
-          wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+ ```bash
+     wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 sudo dpkg -i hyperfine_1.9.0_amd64.deb
+```
+-Για την μέτρηση της απόδοσης ενως αρχείου χρησιμοποιείται η εντολή :
+```bash
+hyperfine 'python filename.py 100'
+```
+-Για την σύγκριση πολλών αρχείων χρησιμοποιείται η εντολή :
+```bash
+hyperfine -w 10 'python bubble_sort.py 100' 'python selecttion_sort.py 100' 'python insertion_sort.py 100'
+```
+-Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή :
+```bash 
+hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertion_sort.py 1000' 'python insertion_sort.py 1000'
+```
+- Το περιεχόμενο του αρχείου results.md βρίσκεται παρακάτω 
+| Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
+|:---|---:|---:|---:|---:|
+| python merge_sort.py 1000 | 23.5 ± 2.0 | 18.6 | 27.4 | 1.00 |
+| python heap_sort.py 1000 | 25.3 ± 1.7 | 20.5 | 28.1 | 1.07 ± 0.12 |
+| python bubble_sort.py 1000 | 120.3 ± 7.3 | 110.1 | 139.2 | 5.11 ± 0.54 |
+ 
+
 
 
 
