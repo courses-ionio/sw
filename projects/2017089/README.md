@@ -14,5 +14,5 @@
 ### ΕΡΓΑΣΙΑ 8Η: try different operating systems in the emulator ([part one](https://asciinema.org/a/328543))
 ### ΕΡΓΑΣΙΑ 9Η: create an agent for news
 ### ΕΡΓΑΣΙΑ 10Η: [performance monitoring](https://asciinema.org/a/328546)
-[image](profile.svg)
+[image](profile.png)
 ### ΕΡΓΑΣΙΑ 11Η: create a docker image for your development stack
