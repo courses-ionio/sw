@@ -59,6 +59,7 @@ cellphone:
 ![image](sleep10.png)  ![image](brew_install_git.png)
 
 ![image](pushovertest.jpg)  ![image](installgitphone.jpg) 
+
 ![image](ntfyhistory.jpg)
 
 
