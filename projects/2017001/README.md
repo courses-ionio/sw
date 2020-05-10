@@ -1,4 +1,4 @@
-##try different terminals and shells</h3>
+##try different terminals and shells
 <p>
   <b>references</b>: 
 </p>
