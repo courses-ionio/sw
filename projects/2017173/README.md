@@ -75,8 +75,27 @@ brew install fish
 
 ## Τέταρτο Παραδοτέο :
 ### choose your stack
+Το howdoi σε βοήθα όταν έχεις ξεχάσει κάποια εντολή στο terminal. 
+
+Για παράδειγμα :
+
+```
+howdoi create a folder
+howdoi install
+howdoi update 
+```
 
 [howdoi](https://asciinema.org/a/320671)
+
+Το fuck σε βοήθα όταν έχεις πληκτρολόγησης μια εντολή στο terminal και την έχεις γράψει λάθος ή ξέχασες πως γράφεται ακριβώς.Όταν κάνεις μια εντολή λάθος πληκτρολογείς την εντολή fuck και σου βγάζει τις προτεινόμενες λύσεις.
+
+ Για παράδειγμα : 
+ 
+```
+echho hello
+fuck
+echo hello
+```
 
 [fuck](https://asciinema.org/a/320674)
 
