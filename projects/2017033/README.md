@@ -33,7 +33,7 @@ sudo apt-get -f install tilda
 ## Εργασία 2
 ### Send notifications to your desktop-mobile
 ### Asciinema Link: https://asciinema.org/a/327936
- ![Screenshot](Screenshot from 2020-05-08 16-23-52.png)
+![Screenshot](Screenshot from 2020-05-08 16-23-52.png)
 
 ## Εργασία 3
 ### Choose your stack
