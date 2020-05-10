@@ -172,7 +172,109 @@ sudo docker run -d -p 80:80 html-server-image:v1
 ![chrome_YQ55BJb0m8](https://user-images.githubusercontent.com/44111276/77861079-889e9880-721b-11ea-89c7-c93511bd253d.png)
 
 
-### Συμμετοχικό Εκπαιδευτικό Υλικό.
+
+## Πέμπτη άσκηση ασκηση:
+
+set-up a system for python development - install and configure in a user folder a python project that is not available through the package manager
+
+
+### Για την πραγματοποίηση της εργασίας αυτής έχω χρησιμοποιήσει  τα  pipenv και το virtualenv.
+```
+pip install --user pipenv
+pip install virtualenv
+```
+
+### Μέσα σε ένα καινούργιο φάκελο που δημιούργησα έχω κάνει κάνει ένα νέο environment
+```
+
+virtualenv Envi
+```
+ 
+### Με το ότι δεν υπήρχαν βιβλιοθήκες εγκατεστημένες σε αυτό έχω δείξει πως δεν ήτανε το ίδιο Εnvironment με το αρχικό
+
+```
+source Envi/bin/activate
+which python
+```
+ 
+### Στη συνέχεια έχω πραγματοποιήσει την εγκατάσταση την νέας βιβλιοθήκης time  από το pipenv και στη συνέχεια έχω δημιουργήσει ένα πρόγραμμα για να μπορώ να την χρησιμοποιήσω 
+```
+pipenv install time 
+touch time.py
+nano time.py
+from time import time
+print(time())
+```
+ 
+### Τέλος έτρεξα τον κώδικα και απενεργοποίησα το enviroment
+```
+pipenv run python time.py
+deactivate
+```
+
+### Asciinema URL: [Envi](https://asciinema.org/a/328411)
+
+
+
+## Έκτη άσκηση:
+ 
+set-up continuous integration - build and deploy your static site and your cv dynamically every time you make a small change in the source files
+ 
+### Για την πραγματοποίηση του παραδοτέου αυτού έχω κάνει σύνδεση του Github με το travis ci. Πρώτα δημιούργησα ένα νέο repository οπού έβαλα to index.html το οποίο είναι το Cv μου. Εφόσον έκανα install το travis τότε έχω δημιουργήσει το .travis.yml στο οποίο έχω βάλει ένα καινούργιο GITHUB_TOKEN. Τέλος μέσο του travis config η κάθε αλλαγή στη σελίδα γίνεται αυτόματος build.
+ 
+### Πρώτα έκανα clone του repository και config το git
+```
+git clone https://github.com/p17theo3/Cv
+git config --global user.name "FIRST_NAME"
+git config --global user.email "NAME@gmail.com"
+```
+ 
+### Στη συνέχεια με την χρήση τον πιο κάτω εντολών έχω τροποποιήσει τα αρχεία 
+```
+cd Cv
+ls
+nano index.html
+```
+ 
+### Τέλος έκανα push to index.html
+```
+git commit -a -m AutoBuild
+git push
+```
+
+
+
+### Asciinema URL: [Travis](https://asciinema.org/a/328393)
+
+### Scrennshot 
+![padadoteo2](https://user-images.githubusercontent.com/44111276/81503582-0fe82d00-92ed-11ea-9c7d-37b1de80dcd5.png)
+ 
+
+
+
+## Έβδομη άσκηση :
+use the terminal as an IDE - edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+ 
+## Για την πραγματοποίηση την εργασίας αυτής έγινε χρήση του Neovim και του Spacevim
+```
+curl -sLf https://spacevim.org/install.sh | bash
+sudo apt-get install neovim
+```
+ 
+### Με την εγκατάσταση του Spacevim όταν εκκινήσεις  το Neovim γίνεται αυτόματος η εγκατάσταση των plugins για το Neovim
+### Όταν μπέικα στο Neovim έφτιαξα ένα νέο αρχείο στο οποίο έβαλα τον κώδικα py και τον έκανα save
+```
+:save
+:exit
+```
+ 
+### Για την αλλαγη του config πρεπει να τροποποιησεις το αρχειο init.toml από το spacevim ενώ για την αλλαγη του από το Νeovim το αρχειο :help vimrc
+
+### Asciinema URL: [Spacevim Neovim ](https://asciinema.org/a/328491)
+ 
+
+
+# Συμμετοχικό Εκπαιδευτικό Υλικό.
 
 ### mibook URL: [mibook](https://p17theo3.netlify.com/)
 
