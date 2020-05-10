@@ -375,3 +375,13 @@ https://neovim.io/doc/user/
 H δεύτερη εικόνα είναι του Arduino Nano.
 
 ### [Arduino Nano](https://andreaspappoutas.netlify.com/gallery/arduino-nano/)
+
+
+### B.
+
+Στο Β έβαλα ενα διαδραστικό παράδειγμα του MKR1000 dashboard του arduino από το codepen. Είναι ένα παράδειγμα όπου ο χρήστης μπόρει να αλλάξει τις τιμές μέσα στο κώδικα του codepen και να προσέξει πως λειτουργά ενα dashboard του arduino.
+
+### [Arduino Example](https://andreaspappoutas.netlify.app/remix/arduino-example/)
+### [Αποθετήριο](https://github.com/andreaspappoutas/gr/blob/master/_remix/arduino-example.md)
+
+
