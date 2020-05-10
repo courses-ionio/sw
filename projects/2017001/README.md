@@ -1,3 +1,4 @@
+<pre>
 <h3>try different terminals and shells</h3>
 <p>
   <b>references</b>: zsh
@@ -15,3 +16,4 @@
   
   Τέλος, δοκίμασα να ανοίξω διάφορα shells και να τρέξω κάποια εντολή σε ένα από αυτά. 
 </p>
+</pre>
