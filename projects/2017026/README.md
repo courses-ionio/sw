@@ -4,9 +4,11 @@
 
 ## ΕΡΓΑΣΙΕΣ ΚΑΙ ΕΠΙΠΛΕΟΝ ΣΤΟΙΧΕΙΑ:
 
-### ΕΡΓΑΣΙΑ 1Η: [set-up continuous integration]()
+### ΕΡΓΑΣΙΑ 1Η: [set-up continuous integration](https://giottachou.github.io/resume-cv/)
 #### Assignment: set-up continuous integration
 #### Deliverables: build and deploy your static site and your cv dynamically every time you make a small change in the source files
+
+Eφτιαξά το βιογραφικό μου μέσα από το github και έπειτα το υλοποίησα με το github pages
 
 ### ΕΡΓΑΣΙΑ 2Η: [configure a custom window manager](https://asciinema.org/a/Rde5lMIEsPptM14bcbGRpFAM6) 
 #### Assignment: configure a custom window manager
