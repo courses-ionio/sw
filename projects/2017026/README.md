@@ -12,6 +12,10 @@
 ### ΕΡΓΑΣΙΑ 4Η: [use the terminal as an IDE](https://asciinema.org/a/ibe3ymRrxEs7qFNx4rj23GTbb)
 ### ΕΡΓΑΣΙΑ 5Η: [set-up a system for python development](https://asciinema.org/a/TNfyMaOxs6BIWOgGIC61XJS5C)
 ### ΕΡΓΑΣΙΑ 6Η: [send notifications to your desktop-mobile](https://asciinema.org/a/sVgGLPoH47cnPCgCjNFMjGemj)
+![](sleep10.png)
+
+![](brew_install_git)
+
 ### ΕΡΓΑΣΙΑ 7Η: create your own static site and blog generator ([part one](https://asciinema.org/a/hvlXDChOgxOS9Etx6RYAanPw8))
 ### ΕΡΓΑΣΙΑ 8Η: create an agent for news ([part one](https://asciinema.org/a/JNXI9FCIzb6fZFb10Go3YNPwD))
 ### ΕΡΓΑΣΙΑ 9Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
