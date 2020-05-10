@@ -133,6 +133,8 @@ hyperfine -w 10 'python bubble_sort.py 100' 'python selecttion_sort.py 100' 'pyt
 hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertion_sort.py 1000' 'python insertion_sort.py 1000'
 ```
 - Το περιεχόμενο του αρχείου results.md βρίσκεται παρακάτω 
+
+
 | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
 |:---|---:|---:|---:|---:|
 | python merge_sort.py 1000 | 23.5 ± 2.0 | 18.6 | 27.4 | 1.00 |
