@@ -8,8 +8,8 @@
 ### Try different terminals and shells
 
 ### Terminals
-### Konsole Aciinema Link: https://asciinema.org/a/314863
-### Tilda Aciinema Link: https://asciinema.org/a/314864
+### Konsole Asciinema Link: https://asciinema.org/a/314863
+### Tilda Asciinema Link: https://asciinema.org/a/314864
 
 ### Shell
 ### Fish Asciinema Link: https://asciinema.org/a/314547
@@ -31,4 +31,17 @@ sudo apt-get -f install konsole
 sudo apt-get -f install tilda
 
 ## Εργασία 2
-### 
+### Send notifications to your desktop-mobile
+### Asciinema Link: https://asciinema.org/a/327936
+
+## Εργασία 3
+### Choose your stack
+### Asciinema Link: https://asciinema.org/a/327941
+
+## Εργασία 4
+### Use the terminal as an IDE
+### Asciinema Link: https://asciinema.org/a/327944
+
+## Εργασία 5
+### Set-up a system for python development
+### Asciinema Link: https://asciinema.org/a/327955
