@@ -104,7 +104,7 @@ nfiguration that fits your needs
 #### Το video με όλη τη διαδικασία βρήσκεται εδω :https://asciinema.org/a/327926 
 
 
-## 4. Performance monitoring
+## 4. Performance Monitoring
 * ### Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 #### 1.Για την εργασία χρειάστηκε να δημιουργήσουμε 3 αρχια .txt με 100 , 1000 και 10000 τυχαίους αριθμούς 
@@ -115,20 +115,20 @@ nfiguration that fits your needs
 -Οι κώδικες βρησκονται στα link [bubble_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/bubble_sort.py) , [merge_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/merge_sort.py) και [heap_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/heap_sort.py)
 
 #### 3.Για την σύγκριση των τριών αλγορίθμων ταξηνόμισης χρησιμοποιήθηκε το _Hyperfine_
--Για την εγκατάσταση :
+- Για την εγκατάσταση :
  ```bash
      wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 sudo dpkg -i hyperfine_1.9.0_amd64.deb
 ```
--Για την μέτρηση της απόδοσης ενως αρχείου χρησιμοποιείται η εντολή :
+- Για την μέτρηση της απόδοσης ενως αρχείου χρησιμοποιείται η εντολή :
 ```bash
 hyperfine 'python filename.py 100'
 ```
--Για την σύγκριση πολλών αρχείων χρησιμοποιείται η εντολή :
+- Για την σύγκριση πολλών αρχείων χρησιμοποιείται η εντολή :
 ```bash
 hyperfine -w 10 'python bubble_sort.py 100' 'python selecttion_sort.py 100' 'python insertion_sort.py 100'
 ```
--Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή :
+- Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή :
 ```bash 
 hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertion_sort.py 1000' 'python insertion_sort.py 1000'
 ```
@@ -144,15 +144,15 @@ hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertio
 #### Το video στο Asciinema για το _Hyperfine_ βρίσκεται στο link : https://asciinema.org/a/328313
 
 #### 4.Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο _py-spy_
--Για την εγκατάσταση χρησιμοποιήθηκε η εντολή:
+- Για την εγκατάσταση χρησιμοποιήθηκε η εντολή:
 ```bash
 sudo pip install py-spy
 ```
--Για την καταγραφή και την μετατροπή των δεδομέννων σε flame graph χρησιμοποιήθηκε η εντολή:
+- Για την καταγραφή και την μετατροπή των δεδομέννων σε flame graph χρησιμοποιήθηκε η εντολή:
 ```bash
 py-spy record -o filename.svg -- python filename.py 1000
 ```
--Εικόνες (flame graph) με τα αποτελέσματα απο το _py-spy_
+- Εικόνες (flame graph) με τα αποτελέσματα απο το _py-spy_
 
 
 **Bubble sort (10000)**
@@ -165,6 +165,46 @@ py-spy record -o filename.svg -- python filename.py 1000
 ![heap_sort](./heap.svg)
 
 #### Το video στο Asciinema για το _py-spy_ βρίσκεται στο link : https://asciinema.org/a/328356
+
+## 5.Choose Your Stack 
+* ### Set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+
+
+
+
+## 6.Set-up Cloud Services
+* ### ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+#### 1.Χρήση του _SSH_
+- Εγκατάσταση ή ενεργοποίηση του _ssh_
+```bash
+sudo apt-get install openssh-server 
+```
+#### 2.Ευρεση του _IP_ 
+- Έυρεση του  IP με την εντολή 
+```bash 
+ip a
+```
+#### 3.Εκτελέστηκαν οι εντολές :
+```bash
+ssh -V
+
+ssh -a ubuntu@192.168.1.34
+
+ssh -4 ubuntu@192.168.1.34
+
+ssh -v ubuntu@192.168.1.34
+
+ssh -c ubuntu@192.168.1.34
+
+ssh -C ubuntu@192.168.1.34
+```
+- Για την έξοδο εκτελέστηκε η εντολή :
+```bash
+exit
+```
+
+#### Το video στο Asciinema βρίσκεται στο link : https://asciinema.org/a/328865
+
 
 
 
