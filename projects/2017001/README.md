@@ -99,6 +99,15 @@ o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
   <b>asciinema</b>: https://asciinema.org/a/EWpIHo3XjgG0SzTkJuVHQ66li
   <b>asciinema file in repo</b>: 
   
+  Κατέβασα/Κλωνοποίησα το repository της σελίδας του βιογραφικού
+  <code>git clone https://github.com/lextale/cv</code>
+  
+  Τροποπίησα το READΜΕ.md αρχείο όπου βρίσκεται το βιογραφικό. Στη συνέχεια, πρόσθεσα το τροποποιημένο αρχείο, το έκανα commit και push 
+  στο repository
+  <code>git add README.md</code>
+  <code>git commit -m README.md</code>
+  <code>git push</code>
+  
 </p>  
 
 </pre>
