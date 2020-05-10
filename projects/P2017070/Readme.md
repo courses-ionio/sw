@@ -390,6 +390,10 @@ https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
  
  [sixth-assignment-link](https://asciinema.org/a/OF03CmNLNQ5ry5wAX5QDMQvWZ)
  
+ ### Seventh Assignment-Choose your stack
+ 
+ [seventh-assignment-link](https://asciinema.org/a/9yCFSD8uSBpyXC9ByhhQxOVYS)
+ 
  
 
 
