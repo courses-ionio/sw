@@ -50,4 +50,23 @@ Screenshots:
 ![example](tilda.png)
 
  TRITI
+ hyperfine
+ 
  https://asciinema.org/a/O6DWhRyztfaPRq1tmeaKEZN1t
+
+Tetarti
+choose your stack
+
+fuck
+
+https://asciinema.org/a/68yNmiha0Fzx8f4ReAapVRISK
+
+pempti
+
+set-up a system for python development
+https://asciinema.org/a/1xEl6TCtZFUdYtfjHOveTo4Xo
+
+ekti
+
+use the terminal as the IDE
+https://asciinema.org/a/4t6dEiUumRrFJ4XXrPNnqu4ri
