@@ -20,14 +20,17 @@
 #####
 ##### Βλέπουμε οτι αυξάνεται το πλήθος των αριθμών, η αποτελεσματικότητα του αλγορίθμου κατάταξης bubblesort μειώνεται κατά πολύ. Οι άλλοι 2 αλγόριθμοι έχουν παρόμοια συμπεριφορά.
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/wA8fyU87rIdWW9otlXXMaF5qL)
-#####
 #
-### Άσκηση 2: Τry different terminals and shells
-##### Εγκατάσταση και δοκιμή του zsh
-##### sudo apt install zsh
-##### zsh --version
-##### Εκτέλεση κάποια βήματα απο άσκηση 1
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/cLFAkeiXqKClDEayC8J0FnxeS)
+### Άσκηση 2: send notifications to your desktop-mobile
+##### Εγκατάσταση του ntfy
+##### Αποστολή ειδοποιήσεων στον υπολογιστή
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/g5pNxjI9YuOWiUtQYcscMczum)
+#
+![image](https://github.com/p17smyr/sw/blob/P2017130/projects/2017130/97149487_923521804786800_5204253233098260480_n.jpg)
+
+![image](https://github.com/p17smyr/sw/blob/P2017130/projects/2017130/95665332_280415906458359_3036562446870380544_n.jpg)
+#
+#####
 #
 ### Άσκηση 3: choose your stack
 ##### Εγκατάσταση με pip install howdoi
@@ -39,19 +42,16 @@
 ##### Εκτέλεση μερικών βασικών εντολών
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/lsMx83REj0ftLg6SvrPOAcVJl)
 #
-### Άσκηση 5: send notifications to your desktop-mobile
-##### Εγκατάσταση του ntfy
-##### Αποστολή ειδοποιήσεων στον υπολογιστή
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/g5pNxjI9YuOWiUtQYcscMczum)
-#
-![image](https://github.com/p17smyr/sw/blob/P2017130/projects/2017130/97149487_923521804786800_5204253233098260480_n.jpg)
-
-![image](https://github.com/p17smyr/sw/blob/P2017130/projects/2017130/95665332_280415906458359_3036562446870380544_n.jpg)
+### Άσκηση 5: Τry different terminals and shells
+##### Εγκατάσταση και δοκιμή του zsh
+##### sudo apt install zsh
+##### zsh --version
+##### Εκτέλεση κάποια βήματα απο άσκηση 1
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/cLFAkeiXqKClDEayC8J0FnxeS)
 
 
 
-
-# Όνομα εργασίας: Συμμετοχικό υλικό - Α παραδοτέο
+# Συμμετοχικό υλικό - Α παραδοτέο
 
 ### [Link του βιβλίου](https://www.mibook.org)
 
