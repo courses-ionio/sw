@@ -35,11 +35,11 @@
   * https://anthikape.github.io/gr/gallery/clipper/
   
   ## 'ΑΣΚΗΣΕΙΣ'
-   ### 'ΑΣΚΗΣΗ 1': "Send notifications to your desktop-mobile"
+                          'ΑΣΚΗΣΗ 1': "Send notifications to your desktop-mobile"
     
-     #### [Σύνδεσμος της 1ης άσκησης](https://asciinema.org/a/Cj792CQoekVWyhCdwyNZdiYrD)
+     #### [Σύνδεσμος asciinema της 1ης άσκησης](https://asciinema.org/a/Cj792CQoekVWyhCdwyNZdiYrD)
 
-     -Για την συγκεκριμένη εργασία χρησιμοποιήθηκε το εργαλείο [ntfy](https://github.com/dschep/ntfy),
+     *Για την συγκεκριμένη εργασία χρησιμοποιήθηκε το εργαλείο [ntfy](https://github.com/dschep/ntfy),
      μέσω του τερματικού με γραμμή εντολών.Έτσι διεκπεραιώθηκε το ζητούμενο της άσκησης το οποίο ήταν 
      να στέλνονται ειδοποιήσεις στην επιφάνεια εργασίας του υπολογιστή μου.
      
@@ -52,31 +52,33 @@
     2.Άλλαγη τίτλου και αποστολή ειδοποίησης.
   
   
-   ### 'ΑΣΚΗΣΗ 2': "Set-up a system for python development"
+                           'ΑΣΚΗΣΗ 2': "Set-up a system for python development"
   
      #### [Σύνδεσμος asciinema της 2ης άσκησης](https://asciinema.org/a/v2rOMID0kDVUaxTz7KlyWulZL)
      
-     -Για την υλοποίηση της εργασίας αυτής χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/).
+     *Για την υλοποίηση της εργασίας αυτής χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/).
      Εγκατέστησα το pipenv και στη συνέχεια δημιούργησα έναν φάκελο μέσα στον οποίο βρισκόταν ένα 
      εικονικό περιβάλλον της python όπου και έτρεξα ένα πρόγραμμα της python.
   
   
-  ### 'ΑΣΚΗΣΗ 3': "Create your own static site and blog generator"
+                      'ΑΣΚΗΣΗ 3': "Create your own static site and blog generator"
   
     #### [Σύνδεσμος asciinema της 3ης άσκησης](https://asciinema.org/a/Mct9XDVDmp63kP6bEAvZn31vf)
     
-    -Για την εργασία αυτή χρησιμοποίησα το εργαλείο [hugo](https://gohugo.io/).Αρχικά εγκατέστησα
+    *Για την εργασία αυτή χρησιμοποίησα το εργαλείο [hugo](https://gohugo.io/).Αρχικά εγκατέστησα
     το hugo και στην συνέχεια δημιούργησα το δικό μου site.Κατέβασα ένα theme απο το github σε μορφή 
     αρχείου zip,το έκανα unzip μέσα στο φάκελο με τα themes και πρόσθεσα το θέμα μου στην σελίδα.
     Τέλος δημιούργησα το πρώτο post μου στον φακελο Mypost.
   
   
-  ### 'ΑΣΚΗΣΗ 4': "choose your stack"
+                                    'ΑΣΚΗΣΗ 4': "choose your stack"
   
    #### [Σύνδεσμος asciinema της 4ης άσκησης](https://asciinema.org/a/DMS1D7lxBxLREyweA1Skbbkun)
    
-   -Για την εκτέλεση της τέταρτης άσκησης χρησιμοποίησα το [howdoi](https://github.com/gleitz/howdoi).
-   Πρώτα εγκατέστησα το εργαλείο howdoi, το οποίο βοηθάει τον χρήστη με μια απλή αναζήτηση που θα πληκτρολογήσει σε ενα τερματικο,  σε μια γραμμη εντολών,να του εμφανιστεί η βοήθεια που θα χρειαστεί.Με άλλα λόγια οι εντολές που θα πρέπει να εκτελέσει. 
+   *Για την εκτέλεση της τέταρτης άσκησης χρησιμοποίησα το [howdoi](https://github.com/gleitz/howdoi).
+   Πρώτα εγκατέστησα το εργαλείο howdoi, το οποίο βοηθάει τον χρήστη με μια απλή αναζήτηση που θα 
+   πληκτρολογήσει σε ενα τερματικο,  σε μια γραμμη εντολών,να του εμφανιστεί η βοήθεια που θα χρειαστεί.
+   Με άλλα λόγια οι εντολές που θα πρέπει να εκτελέσει. 
   
   
   
