@@ -141,6 +141,7 @@ hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertio
 | python heap_sort.py 1000 | 25.3 ± 1.7 | 20.5 | 28.1 | 1.07 ± 0.12 |
 | python bubble_sort.py 1000 | 120.3 ± 7.3 | 110.1 | 139.2 | 5.11 ± 0.54 |
  
+#### Το video στο Asciinema για το _Hyperfine_ βρίσκεται στο link : https://asciinema.org/a/328313
 
 
 
