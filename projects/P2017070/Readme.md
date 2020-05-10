@@ -379,6 +379,13 @@ https://www.howtoforge.com/how-to-install-hugo-site-generator-on-ubuntu/
 https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
 
 
+### Fifth Assignment- Performance Monitoring
+
+Η εργασία αυτή υλοποιήθηκε με το εργαλείο hyperfine
+
+ [fifth-assignment-link](https://asciinema.org/a/4bWUpuUSsL7DOXk3wJDIwLJI3)
+ 
+ 
 
 
 
