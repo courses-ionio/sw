@@ -20,6 +20,8 @@
 
 ### ΕΡΓΑΣΙΑ 7Η: create your own static site and blog generator ([part one](https://asciinema.org/a/hvlXDChOgxOS9Etx6RYAanPw8))
 ### ΕΡΓΑΣΙΑ 8Η: create an agent for news ([part one](https://asciinema.org/a/JNXI9FCIzb6fZFb10Go3YNPwD))
-### ΕΡΓΑΣΙΑ 9Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
-
+### ΕΡΓΑΣΙΑ 9Η: [programmable voice]
+### [part one](https://asciinema.org/a/BRF9uuL5oiSZs7tQLKwCP3Vx2)
+### [part two](https://asciinema.org/a/5qJEwEkpyxuMIissJoNTds6Z3)
+### ΕΡΓΑΣΙΑ 10Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
 
