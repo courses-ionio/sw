@@ -1,8 +1,8 @@
-### ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
-### Ονοματεπώνυμο: Χρήστος Δήμας
-### Α.Μ.: Π2017204
-### ΠΡΟΣΩΠΙΚΟ ΑΠΟΘΕΤΗΡΙΟ: [link](https://github.com/chris4dim/sw/tree/2017204/projects/2017204)
-### [ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ](https://chris4dim.github.io/sw-Final_Report/)
+# ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+# Ονοματεπώνυμο: Χρήστος Δήμας
+# Α.Μ.: Π2017204
+# ΠΡΟΣΩΠΙΚΟ ΑΠΟΘΕΤΗΡΙΟ: [link](https://github.com/chris4dim/sw/tree/2017204/projects/2017204)
+# [ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ](https://chris4dim.github.io/sw-Final_Report/)
 
 
 ### Άσκηση 1:
