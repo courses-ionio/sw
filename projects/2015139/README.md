@@ -41,7 +41,7 @@ sudo apt-get install asciinema
 
 **Περιγραφή:** Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-simple (suckless) terminal (st) αλλά και το z shell (zsh)
+Χρησιμοποιήθηκαν το simple (suckless) terminal (st) αλλά και το z shell (zsh).
 
 ### Simple Terminal (st)
 
@@ -416,7 +416,7 @@ ssh -c aes256-ctr george@192.168.1.106
 ls
 
 vi dfa.py
-python dfa.
+python dfa.py
 
 vi resume.tex
 
