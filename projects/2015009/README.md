@@ -107,14 +107,14 @@ nfiguration that fits your needs
 ## 4. Performance monitoring
 * ### Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-#### 1.Για την εργασια χρηαστηκε να δημιουργησουμε 3 αρχια .txt με 100 , 1000 και 10000 τυχεους αριθμους 
+#### 1.Για την εργασία χρειάστηκε να δημιουργήσουμε 3 αρχια .txt με 100 , 1000 και 10000 τυχαίους αριθμούς 
 - Για την δημιουργία αυτών των αρχείων χρησιμοποιήθηκε κώδικας από το εργαστήριο [rand_ints.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/rand_ints.py) 
 - Τα τρία αρχεία .txt με τους τυχαίους αριθμούς που δημιουργήθηκαν είναι τα εξής [100.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/100.txt) ,[1000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/1000.txt) και [10000.txt](https://github.com/p15avge/sw/blob/2015009/projects/2015009/10000.txt)
 
 #### 2.Επίσης χρησιμοποιήθηκαν οι τρείς αλγόριθμοι bubble sort , merge sort και heap sort 
 -Οι κώδικες βρησκονται στα link [bubble_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/bubble_sort.py) , [merge_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/merge_sort.py) και [heap_sort.py](https://github.com/p15avge/sw/blob/2015009/projects/2015009/heap_sort.py)
 
-#### 3.Για την σύγκριση των τριών αλγορίθμων ταξηνόμισης χρησιμοποιήθικε το _Hyperfine_
+#### 3.Για την σύγκριση των τριών αλγορίθμων ταξηνόμισης χρησιμοποιήθηκε το _Hyperfine_
 -Για την εγκατάσταση :
  ```bash
      wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
@@ -142,6 +142,19 @@ hyperfine --export-mardown results 'python bubble_sort.py 1000' 'python insertio
 | python bubble_sort.py 1000 | 120.3 ± 7.3 | 110.1 | 139.2 | 5.11 ± 0.54 |
  
 #### Το video στο Asciinema για το _Hyperfine_ βρίσκεται στο link : https://asciinema.org/a/328313
+
+#### 4.Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο _py-spy_
+-Για την εγκατάσταση χρησιμοποιήθηκε η εντολή:
+```bash
+sudo pip install py-spy
+```
+-Για την καταγραφή και την μετατροπή των δεδομέννων σε flame graph χρησιμοποιήθηκε η εντολή:
+```bash
+py-spy record -o filename.svg -- python filename.py 1000
+```
+-Εικόνες (flame graph) με τα αποτελέσματα απο το _py-spy_
+**Bubble sort (10000)**
+![bubble_sort](./bubble.svg)
 
 
 
