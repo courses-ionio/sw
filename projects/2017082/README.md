@@ -35,6 +35,7 @@ Turbo Pascal | https://p17griv-mi-book.netlify.com//gallery/turbo-pascal/ | http
 Τίτλος | Σύνδεσμος | Αρχείο
 ------ | --------- | --------
 My Terminal | https://p17griv-mi-book.netlify.com/remix/my-terminal/ | https://github.com/p17griv/gr/blob/master/_remix/my-terminal.md
+Micro Code Editor | https://p17griv-mi-book.netlify.app/remix/micro-code-editor/ | https://github.com/p17griv/gr/blob/master/_remix/my-terminal.md
 
 ____________________________________________________________________________________________________
 
