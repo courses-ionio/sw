@@ -46,3 +46,10 @@ sudo apt-get -f install tilda
 ## Εργασία 5
 ### Set-up a system for python development
 ### Asciinema Link: https://asciinema.org/a/327955
+
+
+## Συμμετοχικού περιεχομένου
+### Link προσωπικού αποθετηρίου: https://github.com/p17kara/gr
+### Link Netlify: https://p17kara.netlify.com/
+## 1η εικόνα: https://p17kara.netlify.com//gallery/open-source-sw/
+## 2η εικόνα: https://p17kara.netlify.app//gallery/ecommerce/
