@@ -12,15 +12,22 @@
 #### Assignment: configure a custom window manager
 #### Deliverables: try different wm and configure one to fit your needs
 
+Σε αυτή την εργασία είχαμε να κάνουμε configure ένα custom window manager. Επέλεξα το sowm.  
+
 ### ΕΡΓΑΣΙΑ 3Η: try different terminals and shells 
 #### Assignment: try different terminals and shells
 #### Deliverables: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 ### [part one] (https://asciinema.org/a/PFjzUNhe4sQysRepYbd5O4YHK) 
 ### [part two] (https://asciinema.org/a/W4IhC9BSYcrFRIS1McXc1y5pr)
 
+Για αυτή την εργασία αποφάσισα να χρησιμοποιήσω το fish shell. Το έκανα install μαζι με τα packages που χρειαζόταν για να λειτουργήσει.
+Τέλος, για το asciinema έτρεξά μερικές εντολές και το py-spy.
+
 ### ΕΡΓΑΣΙΑ 4Η: [use the terminal as an IDE](https://asciinema.org/a/ibe3ymRrxEs7qFNx4rj23GTbb)
 #### Assignment: use the terminal as an IDE
 #### Deliverables: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+Για να χρησιμοποιήσω το terminal σαν IDE έκανα install το spacevim. 'Aνοιξα με αυτό ένα python αρχείο που έκανα για τεστ και είχε λάθη. Το διόρθωσά στο spacevim, ώστε να μπορεί να τρέξει κανονικά. Τέλος, το έτρεξά στο terminal για να φανούν οι αλλαγές.
 
 ### ΕΡΓΑΣΙΑ 5Η: [set-up a system for python development](https://asciinema.org/a/TNfyMaOxs6BIWOgGIC61XJS5C)
 #### Assignment: set-up a system for python development
