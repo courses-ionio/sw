@@ -90,6 +90,23 @@ references: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/vi
 
   Aνάπτυξη ανεξάρτητων python projects. Δημιουργία ενός environment και εγκατάσταση εντός αυτού psutil module, και συγγραφή κώδικα που το χρησιμοποιεί στο αρχείο 'psl.py'. Μετα έγινε αντιγραφή του κώδικα σε άλλο φάκελο και φαίνεται πως ο κώδικας δεν μπορεί να εκτελεστεί γιατι δεν έχει το απαιτούμενο module, παρά το γεγονός πως στον πρώτο φάκελο υπήρχε.
 
+
+* ## ΑΣΚΗΣΗ 5
+
+*send notifications to your desktop-mobile*
+
+send a notifcation when a big task completes, eg download, compiling, etc
+
+references: [ntfy](https://github.com/dschep/ntfy#linux-desktop-notifications---linux)
+
+[asciinema](https://asciinema.org/a/oCETrINwco0ioAf9B9IdKmstc)
+
+![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/ntfylinux.png)
+
+![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/ntfymobiles.jpg)![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/ntfymobile2s.jpg)
+
+
+
 # Συμμετοχικό περιεχόμενο
 
 (with netlify)
