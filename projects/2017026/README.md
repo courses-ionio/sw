@@ -63,7 +63,11 @@ cellphone:
 ### [part one](https://asciinema.org/a/BRF9uuL5oiSZs7tQLKwCP3Vx2)
 ### [part two](https://asciinema.org/a/5qJEwEkpyxuMIissJoNTds6Z3)
 
-### ΕΡΓΑΣΙΑ 10Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
+### ΕΡΓΑΣΙΑ 10Η: [choose your stack]()
+#### Assignment: choose your stack
+#### Deliverables: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+
+### ΕΡΓΑΣΙΑ 11Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
 #### Assignment: Performance monitoring
 #### Deliverables: Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
