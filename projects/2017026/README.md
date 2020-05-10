@@ -77,7 +77,6 @@ cellphone:
 bundle exec rake db:create
 bundle exec rake db:migrate
 bundle exec rake db:seed
-
 ```
 
 Mόλις τελιώσα όλα αυτά μπορούσα πλέον να συνδεθώ στο huginn.
@@ -90,11 +89,11 @@ Mόλις τελιώσα όλα αυτά μπορούσα πλέον να συν
 
 Για αυτή την εργασία χρειάστηκε το twilio. Με το twilio κατάφερα να βάλω τον υπολογιστή μου με τη χρήση python scripts να κάνει κλήση στο κινητό μου με ένα αυτοματοποιημένο μυνημα, οπώς και να στείλω SMS κάτι που ήθελα. Μέσω της πλατφόρμας του twilio έκανα function που το ονόμασα blacklist με το οποίο θα έιχε blacklist όσα κινητά έχω προσθέσει.
 
-### ΕΡΓΑΣΙΑ 10Η: [choose your stack]()
+### ΕΡΓΑΣΙΑ 10Η: [choose your stack](https://asciinema.org/a/odnSkFjN10BeDLqrFfOpw1Us5)
 #### Assignment: choose your stack
 #### Deliverables: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 
-Χρήση του howdoi για να βάλω ένα set από cli tools.
+Χρήση του howdoi για να βάλω ένα set από cli tools. Μου προτίνει πως μπορώ να τα κάτεβάσω και να τα χρησιμοποιήσω.
 
 ### ΕΡΓΑΣΙΑ 11Η: [performance monitoring](https://asciinema.org/a/oCQAXIPzVcCtvYq1fQIhNJoIR)
 #### Assignment: Performance monitoring
