@@ -431,7 +431,10 @@
 ##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/327953)
 #
 ##### Το αρχείο .img μπορεί να γίνει downloaded απο αυτό το [link](https://www.dropbox.com/s/64uk2yq5dgy8o5t/P2017203linux.img?dl=0)
-
+#
+### Άσκηση 8
+##### create a minimal linux system for a particular purpose
+##### Η εργασία αυτή πήρε αρκετό χρόνο για να ολοκληρωθεί. Ξεκινήσαμε ακολουθώντας αυτό εδώ το [link](http://www.linuxfromscratch.org). Κάναμε ένα ένα όλα τα βήματα. Η διαδικασία διήρκησε περίπου 60 ώρες. Το αρχείο καταγραφής asciinema έχει μέγεθος πάνω απο 100ΜΒs, οπότε είναι ανεβασμένο σε αυτό εδώ το [link](https://www.dropbox.com/s/xumsjupy0b4wjrz/tmp1qvizig3-ascii-1.cast?dl=0). To αρχείο image που δημιουργήσαμε είναι ανεβασμένο σε αυτό εδώ το [link](https://www.dropbox.com/s/64uk2yq5dgy8o5t/P2017203linux.img?dl=0).
 #
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό:
