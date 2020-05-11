@@ -25,4 +25,9 @@
   * https://p17troc.github.io/gr/gallery/tor-browser/
 
 
+### AΣΚΗΣΕΙΣ
+
+### ΑΣΚΗΣΗ 1 HOWDOI
+
+https://asciinema.org/a/HYxaRXwtflIvfa9AJ36fj0wfX
 
