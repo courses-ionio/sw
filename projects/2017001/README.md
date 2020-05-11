@@ -36,6 +36,8 @@
    
    Το έκανα compile σε μορφή pdf με την εντολή:
    <code>pdftex sampletex.tex</code>   
+   
+   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif">
 </p>
 
 <h3>set-up a system for python development</h3>
@@ -43,7 +45,7 @@
   <b>references</b>: https://docs.python-guide.org/dev/virtualenvs/
   <b>deliverables</b>: install and configure in a user folder a python project that is not available through the package manager
   <b>asciinema</b>: https://asciinema.org/a/Bj9GPwnTby4ETNjsmFa8vDiz7
-  <b>asciinema file in repo</b>: 
+  <b>asciinema file in repo</b>: https://github.com/lextale/sw/blob/2017001/projects/2017001/Python-Visual-Enviroments/python-visual-env.cast
     
   Εγκατέστησα τον dependency magager <i>Pipenv</i>
   <code>pip install --user pipenv</code>
@@ -73,12 +75,12 @@
   <b>references</b>: https://github.com/dschep/ntfy
   <b>deliverables</b>: send a notifcation when a big task completes, eg download, compiling, etc
   <b>asciinema</b>: https://asciinema.org/a/cvWbiDjfU7li6zEwclzwAzDUC
-  <b>asciinema file in repo</b>: 
+  <b>asciinema file in repo</b>: https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.cast
   
   Στάλθηκε μια ειδοποίηση όταν κατέβηκε ένα αρχείο:
   <code>ntfy -t "Download Complete" done youtube-dl --extract-audi
 o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
-  
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.gif">
 </p>
 
 <h3>performance monitoring</h3>
@@ -90,6 +92,8 @@ o --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc</code>
 
   Δημιουργία flamegraph του python αρχείου <i>samplepy.py</i>
   <code>py-spy record -o pyflamegraph.svg -- python3 samplepy.py</code>
+  
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg">
 </p>
 
 <h3>set-up continuous integration</h3>
