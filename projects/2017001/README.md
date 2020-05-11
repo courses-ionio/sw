@@ -10,7 +10,7 @@
   <b>references</b>: zsh
   <b>deliverables</b>: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
   <b>asciinema</b>: https://asciinema.org/a/065fjbB3i1db626tEvdAXTFao
-  <b>asciinema file in repo</b>:  
+  <b>asciinema file in repo</b>: https://github.com/lextale/sw/blob/2017001/projects/2017001/zsh/zsh.cast
   
   Εγκατέστησα το zsh shell με την εντολή:
   <code>
@@ -29,10 +29,12 @@
   <b>references</b>: https://www.latex-project.org/
   <b>deliverables</b>: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
   <b>asciinema</b>: https://asciinema.org/a/78XDzjhIhf45pyneG0MSHhwNu
-  <b>b>asciinema file in repo</b>: 
+  <b>b>asciinema file in repo</b>: https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.cast
    
    Άνοιξα ένα tex αρχείο στο texstudio και το επεξεργάστηκα
    <code>texstudio sampletex.tex</code>
+   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif">
+   
    
    Το έκανα compile σε μορφή pdf με την εντολή:
    <code>pdftex sampletex.tex</code>   
