@@ -85,7 +85,7 @@ howdoi install
 howdoi update 
 ```
 
-[howdoi](https://asciinema.org/a/320671)
+[howdoi asciinema link](https://asciinema.org/a/320671)
 
 Το fuck σε βοήθα όταν έχεις πληκτρολόγησης μια εντολή στο terminal και την έχεις γράψει λάθος ή ξέχασες πως γράφεται ακριβώς.Όταν κάνεις μια εντολή λάθος πληκτρολογείς την εντολή fuck και σου βγάζει τις προτεινόμενες λύσεις.
 
@@ -97,7 +97,7 @@ fuck
 echo hello
 ```
 
-[fuck](https://asciinema.org/a/320674)
+[fuck asciinema link](https://asciinema.org/a/320674)
 
 ## Πέμπτο Παραδοτέο :
 ### use the terminal as the IDE
