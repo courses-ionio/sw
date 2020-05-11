@@ -31,3 +31,9 @@
 
 https://asciinema.org/a/HYxaRXwtflIvfa9AJ36fj0wfX
 
+### AΣΚΗΣΗ 2 System setup for python development
+
+https://asciinema.org/a/DbRM6ibhRAzbDoXCL3LqJpmRe
+
+
+
