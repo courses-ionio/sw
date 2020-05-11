@@ -35,7 +35,7 @@
 ### Άσκηση 3: choose your stack
 ##### Εγκατάσταση με pip install howdoi
 ##### Εκτέλεση διάφορων ερωτήσεων ώστε να δούμε τα αποτελέσματα που επιστρέφει.
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/RsGZVNRIpvTCSKwcnvBFiQ1Tj)
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/329278)
 #
 ### Άσκηση 4: choose your terminal as an IDE
 ##### Εγκατάσταση του vim
