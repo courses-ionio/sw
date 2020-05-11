@@ -17,6 +17,9 @@
 ### Παραδοτέο 1.Γ.1
 #### David Canfield Smith https://fivos-gr.netlify.app/biography/smith/
 
+### extra παραδοτέο
+#### Νέα μελέτη περίπτωσης apple https://fivos-gr.netlify.app/case-study/apple/
+
 
 ### Άσκηση 1. Try different terminals and shells. Ρepeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 #### asciinema: https://asciinema.org/a/e4dounmZh2PBkr2GbrtOIzn5u
@@ -139,6 +142,8 @@ status bar https://dwm.suckless.org/status_monitor/
 #### url σελίδας https://sw-assignment-6.netlify.app/
 
 Η άσκηση αυτή έγινε τοπικά στον υπολογιστή μου και εγιναν push τα source files στο github repo. Το asciinema καταγράφει μία αλλαγή στο css και γινεται git commit και git push.
+
+
 
 
 
