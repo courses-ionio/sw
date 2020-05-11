@@ -37,3 +37,6 @@ https://asciinema.org/a/326688
 ### Πέμπτο Παραδοτέο
 #### Use the terminal as the IDE
 #### asciinema : https://asciinema.org/a/329116
+
+### Έκτο Παραδοτέο
+#### Set-up a system for python development
