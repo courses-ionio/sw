@@ -22,6 +22,9 @@ ERROR 2: https://i.gyazo.com/9dbd83e64807bb8123e791be5427930a.png
 
 Εικόνα 2: https://i.gyazo.com/dd9065d61fec67985b01926bcebf9835.png
 
+
+Διαδραστικό Παράδειγμα: https://github.com/p17papa5/gr/blob/master/_remix/termninal.md
+
 ## Eργασία 1:
 send notifications to your desktop-mobile
 
