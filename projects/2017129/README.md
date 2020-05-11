@@ -106,6 +106,16 @@ references: [ntfy](https://github.com/dschep/ntfy#linux-desktop-notifications---
 ![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/ntfymobiles.jpg)![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/ntfymobile2s.jpg)
 
 
+* ## ΑΣΚΗΣΗ 6
+
+**create your own static site and blog generator**
+
+deliverables: the generator should consider posts, pages, and templates
+
+references: [hugo](https://gohugo.io/)
+
+
+
 
 # Συμμετοχικό περιεχόμενο
 
