@@ -2,30 +2,21 @@
 # AM:2017127
 ## Assignments:
 
+
 ## First assignment:
 Send notifications to your desktop-mobile
-
 ### Deliverables:
 send a notifcation when a big task completes, eg download, compiling, etc
-
-
-
-[asciinema](https://asciinema.org/a/F6zLAmAcIhabfKyGGsPUkW9kk)
 
 ### Description:
 Για την εκτέλεση της εργασίας κατέβασα το εργαλείο ntfy στο terminal μου με την εντολή sudo pip install ntfy. Έπειτα κατέβασα την εφαρμογή Pushover στο κινητό μου και μετά έστειλα notifications στο κινητό μου τρέχοντας τής ακόλουθες εντολές στο terminal μου:
 
-htfy  -b pushover-o user_key(+key που έλαβα όταν κατέβασα την εφαρμογή Pushover στο κινητό μου) done sudo apt-get install gimp 
+htfy  -b pushover-o user_key(+key που έλαβα όταν κατέβασα την εφαρμογή Pushover στο κινητό μου) done sudo apt-get install gimp   -Όταν τελείωσε η εκτέλεση της εντολής στο terminal έλαβα μια εντόπιση στο κινητό για την επιτυχία της εντολής και ο χρόνος που χρειάστηκε να εκτέλεση την συγκεκριμένη εντολή.
 
-htfy  -b pushover-o user_key(+key Pushover)  send test
+htfy  -b pushover-o user_key(+key Pushover)  send test  --Όταν τελείωσε η εκτέλεση της εντολής στο terminal έλαβα μια εντόπιση στο κινητό με το text που περιλαμβανόταν στην εντολή 
 
-htfy  -b pushover-o user_key(+key Pushover) done sleep 5 
-
-
-
-
-
-
+htfy  -b pushover-o user_key(+key Pushover) done sleep 5  --Όταν τελείωσαν τα 5 δευτερόλεπτα που περιλαμβανόταν στην εντολή έλαβα μια εντόπιση στο κινητό για την επιτυχία της εντολής
+[asciinema](https://asciinema.org/a/F6zLAmAcIhabfKyGGsPUkW9kk)
 ![Screenshot](96859084_639244196660043_889515777433010176_n.jpg)
 
 
@@ -36,7 +27,7 @@ performance monitoring
 ### Deliverables:
 monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-[asciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
+[asciinema](https://asciinema.org/a/B7rse1qw9F5Zr9yKWCk9EHjZU)
 ### Description:
 Για αυτήν την εργασία χρησιμοποίησα προφίλ εγγραφής py-spy σε ένα αρχείο χρησιμοποιώντας την εντολή εγγραφής. Δημιούργησα ένα flame graph  της διαδικασίας python με record command.
 
@@ -91,6 +82,7 @@ install and configure in a user folder a python project that is not available th
 [asciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
 ### Description:
 
+Για αυτήν την εργασία
 
 
 ## Eigth assignment:
