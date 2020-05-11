@@ -47,13 +47,13 @@
 ##### sudo apt install zsh
 ##### zsh --version
 ##### Εκτέλεση κάποια βήματα απο άσκηση 1
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/cLFAkeiXqKClDEayC8J0FnxeS)
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/ZZcjTrMWxXQQgdVoC2jMLZaO6)
 #
 ### Άσκηση 6: set-up a system for python development
 ##### Εγκατάσταση Pipenv
 ##### Δημιουργία εικονικού περιβάλλοντος python
 ##### Εκτέλεση python σε νέο directory
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/Wvvm5tNhy2wcpXw41qMBXPdrK)
+##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/m0zVNyqeGE3eCW7lxY29htHZQ)
 #
 
 # Συμμετοχικό υλικό - Α παραδοτέο
