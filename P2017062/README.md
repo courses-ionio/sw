@@ -74,20 +74,21 @@ Link για fish plugins:
 ## ΑΣΚΗΣΗ 2
 ### Τίτλος: Create your own static site and blog generator
 #
-Για τη δημιουργία στατικού site επέλεξα να χρησιμοποιήσω το Static Site Generator Hugo. Για την επίλυση συτής της άσκησης μια επίσης καλή επιλογή είναι η χρήση του Jekyll ωστόσο το Hugo μου φάνηκε γρηγορότερο και ευκολότερο στη χρήση.
+Για τη δημιουργία στατικού site επέλεξα να χρησιμοποιήσω το Static Site Generator [Ηugo](https://gohugo.io/getting-started/quick-start/). Για την επίλυση συτής της άσκησης μια επίσης καλή επιλογή είναι η χρήση του Jekyll ωστόσο το Hugo μου φάνηκε γρηγορότερο και ευκολότερο στη χρήση.
 
 Για να χρησιμοποιήσουμε το Hugo θα πρέπει να εγκαταστήσουμε το Homebrew package manager. Για την εγκατάσταση του:
-1. Αντιγράφουμε στο τερματικό την εξής εντολή:
 
-    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    
+1. Αντιγράφουμε στο τερματικό την εξής εντολή:
+```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+``` 
 2. Μόλις ολοκληρωθεί η εγκατάσταση πληκτρολογούμε τις εξής εντολές αφού πρώτα τις έχουμε διαμορφώσει για τα ταιριάζουν στο λειτουργικό σύστημα που χρησιμοποιούμε. Στη δική μου περίπτωση δουλεύω με Ubuntu οπότε οι εντολές γίνονται:
 
-    - test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)
-    - test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-    - test -r ~/.profile && echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
-    - echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
-
-
-
+```
+    test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)
+    test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+    test -r ~/.profile && echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
+    echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
+```
+Με τη χρήση του Ηugo δημιούργησα μια στατική σελίδα στην οποία πρόσθεσα δημοσιεύσεις και θέμα της αρεσκείας μου.   
     
