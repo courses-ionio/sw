@@ -29,29 +29,29 @@ monitor the performance of your python scripts and visualize them with colors an
 ![Screenshot](Annotation.png)
 
 
-## Αssignment 3:
+### Αssignment 3:
 programmable voice
-### Deliverables:
+#### Deliverables:
 deploy an application that forwards a call depending on a white- and black- list of phone numbers
-### Description:  [Αsciinema](https://asciinema.org/a/22YYFW21dBUjQbiIm6lP4jlnI)
+#### Description:  [Αsciinema](https://asciinema.org/a/22YYFW21dBUjQbiIm6lP4jlnI)
 Για αυτή την εργασία πρώτα δημιούργησα ένα account στο Twilio ώστε να αποκτήσω το account sid και το auth token και ένα subaccount να μπορώ να χρησιμοποιήσω ένα αριθμό τηλεφώνου που δεν είναι προσωπικό μου αριθμό. Στην συνέχεια μέσα από το terminal κατέβασα το εργαλείο twilio χρησιμοποιώντας την εντολή pip install twilio και brew tap twilio/brew && brew install twilio. Δημιούργησα αρχεία σε γλώσσα python για authentication, make a call χρησιμοποιώντας τα δικά μου account sid και auth token και send sms και τα έτρεξα στο terminal .
  
 ![Screenshot](https://github.com/P17rant/sw/blob/P2017127/projects/2017127/twilio%20.png)
 
 ![Screenshot](https://github.com/P17rant/sw/blob/P2017127/projects/2017127/twilio1.png)
-## Αssignment 4:
+### Αssignment 4:
 set-up a system for python development
-### Deliverables:
+#### Deliverables:
 install and configure in a user folder a python project that is not available through the package manager
-### Description:  [Αsciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
+#### Description:  [Αsciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
 Στόχος της εργασίας είναι ανάπτυξη ανεξάρτητων python projects. Δημιουργία ενός environment και εγκατάσταση εντός αυτού psutil module, και συγγραφή κώδικα . Μετα έγινε αντιγραφή του κώδικα σε άλλο φάκελο και φαίνεται πως ο κώδικας δεν μπορεί να εκτελεστεί γιατι δεν έχει το απαιτούμενο module, παρά το γεγονός πως στον πρώτο φάκελο υπήρχε.
  pip install --user pipenv
 
-## Αssignment 5:
+### Αssignment 5:
 create an agent for news
-### Deliverables:
+#### Deliverables:
 the demo should display the new content added on a news web site
-### Description:  [Αsciinema](https://asciinema.org/a/XzmJxj5PdNlxafsPxm3RV86cE)
+#### Description:  [Αsciinema](https://asciinema.org/a/XzmJxj5PdNlxafsPxm3RV86cE)
 Στόχος της εργασίας είναι δημιουργία ενός agent που εκτελεί αυτόματα αυτοματοποιημένες εργασίες(tasks)
 Το πρώτο βήμα ήταν να κάνω fork στο git repository του huginn,μετά να συνδεθώ σε μια βάση SQL,
 
@@ -61,39 +61,47 @@ the demo should display the new content added on a news web site
 
 
 
-## Αssignment 6:
+### Αssignment 6:
 use the terminal as an IDE
-### Deliverables:
+#### Deliverables:
 edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
-### Description:[Αsciinema](https://asciinema.org/a/M0jei4vV2Zl24sewCwxURMwCI)
+#### Description:[Αsciinema](https://asciinema.org/a/M0jei4vV2Zl24sewCwxURMwCI)
 
 
-## Αssignment 7:
+### Αssignment 7:
 try different terminals and shells
-### Deliverables:
+#### Deliverables:
 repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
-### Description:[Αsciinema](https://asciinema.org/a/5ApN3jWcDUebnNKdWr2uJGpjQ)
+#### Description:[Αsciinema](https://asciinema.org/a/5ApN3jWcDUebnNKdWr2uJGpjQ)
 
 
 
-## Αssignment 8:
+### Αssignment 8:
 create notifications on your sever
-### Deliverables:
+#### Deliverables:
 send notifications on important server events
-### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
+#### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
-## Αssignment 9:
+### Αssignment 9:
 set-up continuous integration
-### Deliverables:
+#### Deliverables:
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
-### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
+#### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
-## Αssignment 10:
+### Αssignment 10:
 configure a custom window manager
-### Deliverables:
+#### Deliverables:
 try different wm and configure one to fit your needs
-### Description:  [Αsciinema]()
+#### Description:  [Αsciinema]()
 
+
+### Συμμετοχικό εκπαιδευτικό υλικό - 1
+
+Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr)
+Η ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link.](https://www.mibook.org/)
+To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link.](https://github.com/p17rant/gr)
+H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link.](https://p17rant.github.io/gr/)
+Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17rant.github.io/gr/gallery/) την εικόνα [1](https://github.com/P17rant/gr/blob/gh-pages/images/375px-Xerox_Alto.jpg) και την εικόνα [2.](https://github.com/mibook/gr)
 
 
 
