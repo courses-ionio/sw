@@ -40,3 +40,4 @@ https://asciinema.org/a/326688
 
 ### Έκτο Παραδοτέο
 #### Set-up a system for python development
+#### asciinema : https://asciinema.org/a/329125
