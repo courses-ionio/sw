@@ -4,7 +4,7 @@
 <b>Επίθετο:</b> Παραμύθα 
 <b>ΑΜ:</b> Π2017001
 <b>Προσωπικό Αποθετήριο:</b> https://github.com/lextale/sw/tree/2017001/projects/2017001
-
+<hr>
 <h3>try different terminals and shells</h3>
 <p>
   <b>references</b>: zsh
@@ -17,9 +17,11 @@
   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   </code>
   Στη συνέχεια "πειράζοντας το .zshrc αρχείο που βρίσκονται τα configurations του shell άλλαξα το θέμα, ώστε κάθε φορά που κάνει launch να επιλέγεται ένα τυχαίο θέμα.
+  <div style="background-color:lightblue;border: 1px lightblue;border-radius: 25px;padding:10px;">
   <code>
   nano /home/p2017001/.zshrc
   </code>
+  </div>
   
   Τέλος, δοκίμασα να ανοίξω διάφορα shells και να τρέξω κάποια εντολή σε ένα από αυτά. 
 </p>
