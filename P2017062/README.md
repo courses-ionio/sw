@@ -69,7 +69,8 @@ Link για fish plugins:
 
 [Try Different Shells and Terminals Suckless Terminal (st)](https://asciinema.org/a/AwJCVfolOHH5tbqbSq42cJUIS)
 
-[st-screenshot](https://github.com/p17laso/sw/blob/2017062/P2017062/firstimage.png)
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/firstimage.png)
 
 ## ΑΣΚΗΣΗ 2
 ### Τίτλος: Create your own static site and blog generator
@@ -95,3 +96,19 @@ Link για fish plugins:
 #### Asciinema link:
 
 [Create your own static site and blog generator](https://asciinema.org/a/Uz3pi0Z2G6x0Nllc1A4fBk4MK)
+
+### Απεικόνιση σελίδας
+
+1. Μετά την εισαγωγή θέματος χωρίς ωστόσο να έχει γίνει καμία αλλαγή στο default config.toml του.
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/static-site-before.png)
+
+2. Μετά τις μετατροπές που υπέστη τόσο το config.toml όσο και το layouts για να προσαρμοστεί το θέμα στις προτιμήσεις του χρήστη. Επιπρόσθετα έχουν προστεθεί και 2 δημοσιεύσεις.
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/static-site-final.png)
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/static-site-final2.png)
+
+[Σύνδεσμος με πληροφορίες για το θέμα που επέλεξα] (https://github.com/eueung/hugo-casper-two)
+
+
