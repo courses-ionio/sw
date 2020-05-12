@@ -27,8 +27,8 @@ https://p17dimo.netlify.com//gallery/vr/
 
 ### Τρίτο Παραδοτέο
 #### Performance Monitoring
-https://asciinema.org/a/326688
-
+Έχω χρησιμοποιήσει το hyperfine για να συγκρίνω δύο scripts στην γλώσσα python τον μέσο χρόνο εκτέλεσης τους
+#### ascinema : https://asciinema.org/a/326688
 
 ### Τέταρτο Παραδοτέο
 #### choose your stack
