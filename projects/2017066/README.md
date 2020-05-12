@@ -91,8 +91,17 @@
 * prequisites: pip,pip3,python,python3,[vimplug](https://github.com/junegunn/vim-plug), pylint
 * asciinema: [link](https://asciinema.org/a/314800)
 * description:
-  * Για την τελευταία εργασία, επεξεργάστηκα το αρχείο vimrc του vim editor για να ταιριάζει στις ανάγκες μου σχετικά με το python development. Πρώτα όμως εγκατέστησα το vimplug και το pylint. Έπειτα στο vimrc αρχείο έβαλα διάφορα plugins του vim από το [vimawesome](https://vimawesome.com/). Τα plugins που έβαλα είναι για στοίχηση, basic error-checking, syntax highlighting και compile κώδικα. Τέλος, επεξεργάστηκα ένα τυχαίο αρχείο python και το έτρεξα με το /r.
+  * Για την εργασία, επεξεργάστηκα το αρχείο vimrc του vim editor για να ταιριάζει στις ανάγκες μου σχετικά με το python development. Πρώτα όμως εγκατέστησα το vimplug και το pylint. Έπειτα στο vimrc αρχείο έβαλα διάφορα plugins του vim από το [vimawesome](https://vimawesome.com/). Τα plugins που έβαλα είναι για στοίχηση, basic error-checking, syntax highlighting και compile κώδικα. Τέλος, επεξεργάστηκα ένα τυχαίο αρχείο python και το έτρεξα με το /r.
 
+## Όγδοη Εργασία
+
+* title: set-up cloud services
+* deliverables: ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+* tools used (plugins): -
+* prequisites: ssh
+* asciinema: [link](https://asciinema.org/a/329578)
+* description:
+  * Για την τελευταία εργασία, συνδέθηκα από ένα ubuntu vm στον προσωπικό μου υπολογιστή ubuntu με ssh. Δημιούργησα, επεξεργάστηκα και έστειλα email μέσω του ssh. Οι εντολές βρίσκονται στο asciinema αναλυτικά.
 
 # Συμμετοχικό Υλικό
 [εκτελέσιμο link σελίδας βιβλίου](https://dmisa.github.io/gr/)<br/>
