@@ -112,8 +112,14 @@ references: [ntfy](https://github.com/dschep/ntfy#linux-desktop-notifications---
 
 deliverables: the generator should consider posts, pages, and templates
 
-references: [hugo](https://gohugo.io/)
+references: [hugo](https://gohugo.io/), [Hugo quickstart](https://gohugo.io/getting-started/installing#quick-install)
 
+[asciinema](https://asciinema.org/a/eRdxdjIjVTdTPLEb1jufYegaN)
+
+ Δημιουργία και ενημέρωση ενός static website με χρήση blag generator.
+ Το όνομα του site είναι planet event και έχουν ανεβεί κάποια post...
+ 
+![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/planetevents.png)
 
 
 
