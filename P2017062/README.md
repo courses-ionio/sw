@@ -90,5 +90,8 @@ Link για fish plugins:
     test -r ~/.profile && echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
     echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
 ```
-Με τη χρήση του Ηugo δημιούργησα μια στατική σελίδα στην οποία πρόσθεσα δημοσιεύσεις και θέμα της αρεσκείας μου.   
-    
+Με τη χρήση του Ηugo δημιούργησα μια στατική σελίδα στην οποία πρόσθεσα δημοσιεύσεις και θέμα της αρεσκείας μου. Tο θέμα που επέλεξα είχε πολλα features τα οποία επέτρεπαν εύκολη εισαγωγή εικόνων στην σελίδα μου καθώς και την αυτόματη μετάβαση στους προσωπικούς μου λογαριασμούς σε μέσα κοινωνικής δικτύωσης (FaceBook, Twitter, Github). Οι μετατροπές που χρειάστηκε να κάνω για να φτάσω στο τελικό αποτέλεσμα φαίνονται στον παρακάτω σύνδεσμο.
+
+#### Asciinema link:
+
+[Create your own static site and blog generator](https://asciinema.org/a/Uz3pi0Z2G6x0Nllc1A4fBk4MK)
