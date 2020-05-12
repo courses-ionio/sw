@@ -109,6 +109,6 @@ Link για fish plugins:
 
 ![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/static-site-final2.png)
 
-[Σύνδεσμος με πληροφορίες για το θέμα που επέλεξα] (https://github.com/eueung/hugo-casper-two)
+[Σύνδεσμος με πληροφορίες για το θέμα που επέλεξα](https://github.com/eueung/hugo-casper-two)
 
 
