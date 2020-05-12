@@ -32,6 +32,7 @@ https://p17dimo.netlify.com//gallery/vr/
 
 ### Τέταρτο Παραδοτέο
 #### choose your stack
+To howdoi μας βοήθα όταν έχουμε σκάλωσει με μιά εντολή στο terminal και την ξεχάσαμε.Γράφουμε τι θέλουμε και μας δίνει την απάντηση στην επόμενη γραμμή
 #### asciinema : https://asciinema.org/a/329110
 
 ### Πέμπτο Παραδοτέο
