@@ -112,6 +112,7 @@ Link για fish plugins:
 [Σύνδεσμος με πληροφορίες για το θέμα που επέλεξα](https://github.com/eueung/hugo-casper-two)
 
 Οι φωτογραφίες που χρησιμοποιήθηκαν για την σελίδα δεν υπόκεινται σε πνευματικά δικαιώματα και πάρθηκαν από το site:
+
     * https://www.pexels.com/
 
 #
@@ -153,7 +154,6 @@ Link για fish plugins:
 
 [Performance Monitoring](https://asciinema.org/a/tjeIbxbaSmBKJsDoHU90Bdql0)
 
-#
 ## ΑΣΚΗΣΗ 4
 ### Τίτλος: Send notifications to your desktop-mobile
 #
