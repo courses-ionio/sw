@@ -143,6 +143,13 @@ status bar https://dwm.suckless.org/status_monitor/
 
 Η άσκηση αυτή έγινε τοπικά στον υπολογιστή μου και εγιναν push τα source files στο github repo. Το asciinema καταγράφει μία αλλαγή στο css και γινεται git commit και git push.
 
+### Εxtra άσκηση 7. Use the terminal as an IDE. Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in.
+#### asciinema: https://asciinema.org/a/XUI7EP2xyqm6MHCDaF27GyyrR
+Για την άσκηση αυτή επεξεργάτηκα τη σελίδα που δγμιούργησα για την προηγουμενη άσκηση χρησιμοποιόντας το spacevim όπως φαινεται στο recorded session του asciinema.
+
+#### Πηγές
+https://spacevim.org/quick-start-guide/#install
+
 
 
 
