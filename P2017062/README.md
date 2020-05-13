@@ -138,13 +138,17 @@ Link για fish plugins:
 ```
 και εμφανίστηκε το εξής αποτέλεσμα:
 
-![alt text]()
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/py-spy-testimage.png)
 
 Άλλη μια χρήσιμη εντολή:
 ```
     py-spy top -- python insertionsort.py
 ```
 ωστόσο δεν υπάρχει στιγμιότυπο για αυτή.
+
+#### Asciinema link:
+
+[Performance Monitoring](https://asciinema.org/a/tjeIbxbaSmBKJsDoHU90Bdql0)
 
 
 
