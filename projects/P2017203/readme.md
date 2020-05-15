@@ -410,8 +410,7 @@
 ##### users "riggas" and "choco" are added as collaborators
 #
 ##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/330566)
-#
-##### To repository sto dockerhub βρίσκεται σε αυτό εδώ το [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_net)
+###### To repository sto dockerhub βρίσκεται σε αυτό εδώ το [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_net)
 #
 ### Άσκηση 8
 ##### create a minimal linux system for a particular purpose
