@@ -388,17 +388,35 @@
 #
 ### Άσκηση 7
 ##### Τίτλος: create a docker image for your development stack
-##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει ένα εμπλουτισμένο ubuntu Αρχικός σκοπός ήταν η δημιουργία ενός ολοκληρωμένου image που θα μπορεί να γίνει κανονική διανομή.
-##### Η όλη διαδικασία έγινε απο usb persisten, οπότε υπήρχαν κάποιες αλλαγές στην διαδικασία για να ξεπεραστούν τα προβλήματα με τα layers. Όλα φαίνονται αναλυτικά στην καταγραφή του asciinema
+##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει την βασική έκδοση ubuntu του docker εμπλουτισμένη με πακέτα χρήσιμα σε έναν διαχειριστή δικτύου. Ο ενδιαφερόμενος δηλαδή θα μπορεί να το κατεβάσει απο το dockehub, και να έχει στο image το σύστημα ubuntu μαζί όμως με τα εργαλεία που θα εγκαταστήσουμε.
 ##### κατέβασμα και εγκατάσταση ενός ubuntu image.
+###### docker run ubuntu
 ##### demo οτι δεν έχει τίποτα μέσα. Επίσης size=73.8MB.
-###### apt-get update
 ##### εγκατάσταση πακέτων 
+###### apt-get update
 ###### apt-get install net-tools
 ###### apt-get install iputils-ping
 ###### apt install vnstat
 ###### apt install nload
-##### Στην συνέχεια εγκαταστήσαμε kernel
+###### apt install cockpit
+###### apt install zenmap
+##### commit container
+###### docker commit CONTAINER_ID NEW_IMAGE_NAME
+##### display new image
+###### docker image ls
+##### verify installed tools
+##### put tag on image
+###### docker tag ubuntu-sysadmin kagelaris/ubuntu-sysadmin 
+##### push image on dockerhub
+###### docker push kagelaris/ubuntu-sysadmin
+##### users "riggas" and "choco" are added as collaborators
+#
+#
+#
+#
+
+
+
 ###### apt-get -y install --no-install-recommends \ 
 ###### linux-image-5.4.0-28-generic
 ##### install an init deamon
