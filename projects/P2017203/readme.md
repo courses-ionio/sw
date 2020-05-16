@@ -386,7 +386,7 @@
 ###### emacs -nw
 ##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/312511) το link.
 #
-### Άσκηση 7
+### Άσκηση 7.1
 ##### Τίτλος: create a docker image for your development stack
 ##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει την βασική έκδοση ubuntu του docker εμπλουτισμένη με πακέτα χρήσιμα σε έναν διαχειριστή δικτύου. Ο ενδιαφερόμενος δηλαδή θα μπορεί να το κατεβάσει απο το dockerhub, και να έχει ένα σύστημα με προεγκατεστημένα πακέτα network monitoring
 ##### κατέβασμα και εγκατάσταση ενός ubuntu image.
@@ -411,6 +411,30 @@
 #
 ##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/330566)
 ##### To repository στο dockerhub βρίσκεται σε αυτό εδώ το [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_net)
+#
+### Άσκηση 7.2
+##### Τίτλος: create a docker image for your development stack
+##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει την βασική έκδοση ubuntu του docker εμπλουτισμένη με πακέτα για H/W monitoring. Ο ενδιαφερόμενος δηλαδή θα μπορεί να το κατεβάσει απο το dockerhub, και να έχει ένα σύστημα με προεγκατεστημένα πακέτα H/W monitoring.
+##### κατέβασμα και εγκατάσταση ενός ubuntu image.
+###### docker run ubuntu
+##### demo οτι δεν έχει τίποτα μέσα. Επίσης size=73.8MB.
+##### εγκατάσταση πακέτων 
+###### apt-get lm sensors
+###### apt-get i7z
+###### apt-get htop
+###### apt-get nmon
+##### commit container
+###### docker commit CONTAINER_ID NEW_IMAGE_NAME
+##### display new image
+###### docker image ls
+##### verify installed tools
+##### put tag on image
+###### docker tag ubuntu_hwtools kagelaris/ubuntu_hwtools
+##### push image on dockerhub
+###### docker push kagelaris/ubuntu_hwtools
+#
+##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/330696)
+##### To repository στο dockerhub βρίσκεται σε αυτό εδώ το [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_hwtools)
 #
 ### Άσκηση 8
 ##### create a minimal linux system for a particular purpose
