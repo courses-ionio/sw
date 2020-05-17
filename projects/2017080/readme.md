@@ -117,13 +117,13 @@
 #### [Link6 για Asciinema](https://asciinema.org/a/gdXx3jjvb55JrO3vtNQ0IMcPb)
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό 
-##### Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr).
-##### Η ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://www.mibook.org/).
 ##### To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/p17bail/gr).
 ##### H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://p17bail.github.io/gr/).
 #
-##### Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17bail.github.io/gr/gallery/) την [εικόνα 1](https://p17bail.github.io/gr/gallery/bigbucket/) και την [εικόνα 2](https://p17bail.github.io/gr/gallery/google-glass/).
-
+#### Συμμετοχικό περιεχόμενο
+##### Δύο νέες εικόνες[ενότητα](https://p17bail.github.io/gr/gallery/) την [εικόνα 1](https://p17bail.github.io/gr/gallery/bigbucket/) και την [εικόνα 2](https://p17bail.github.io/gr/gallery/google-glass/).
+##### Η βιογραφία βρίσκεται στο [Link](https://p17bail.github.io/gr/biography/James-Gosling/)
+##### Διαδραστικό παράδειγμα στο [Link](https://p17bail.github.io/gr/remix/helloworld/)
 
 
 
