@@ -19,9 +19,13 @@
 
 ### Παραδοτέο 1.Γ.1
 #### David Canfield Smith https://fivos-gr.netlify.app/biography/smith/
+#### Πηγές
+https://en.wikipedia.org/wiki/David_Canfield_Smith
 
 ### extra παραδοτέο
 #### Νέα μελέτη περίπτωσης apple https://fivos-gr.netlify.app/case-study/apple/
+#### Πηγές
+https://el.wikipedia.org/wiki/Apple
 
 
 ### Άσκηση 1. Try different terminals and shells. Ρepeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
