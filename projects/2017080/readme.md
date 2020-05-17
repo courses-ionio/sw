@@ -121,7 +121,7 @@
 ##### H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link](https://p17bail.github.io/gr/).
 #
 #### Συμμετοχικό περιεχόμενο
-##### Δύο νέες εικόνες[ενότητα](https://p17bail.github.io/gr/gallery/) την [εικόνα 1](https://p17bail.github.io/gr/gallery/bigbucket/) και την [εικόνα 2](https://p17bail.github.io/gr/gallery/google-glass/).
+##### Δύο νέες εικόνες [ενότητα](https://p17bail.github.io/gr/gallery/) την [εικόνα 1](https://p17bail.github.io/gr/gallery/bigbucket/) και την [εικόνα 2](https://p17bail.github.io/gr/gallery/google-glass/).
 ##### Η βιογραφία βρίσκεται στο [Link](https://p17bail.github.io/gr/biography/James-Gosling/)
 ##### Διαδραστικό παράδειγμα στο [Link](https://p17bail.github.io/gr/remix/helloworld/)
 
