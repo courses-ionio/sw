@@ -185,6 +185,23 @@ Link για fish plugins:
 * https://gist.github.com/stecman/e3f8cacc83878aa5ba77
 * https://www.youtube.com/watch?v=bbdQXfReuG0&t=754s
 
+#### Απεικόνιση αποτελεσμάτων
+
+1. Τα μηνύματα όπως εμφανίζονται στην οθόνη του υπολογιστή:
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/desktopmessage1.png)
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/desktopmessage2.png)
+
+2. Τα μηνύματα όπως εμφανίζονται στην κινητή συσκευή:
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/mobilenotifications.png)
+
+3. GIF απεικόνισης telegram
+
+![ntfygif](https://github.com/p17laso/sw/blob/2017062/P2017062/telegram.gif)
+
+
+
 #### Asciinema link:
 
 [Send notifications to your desktop-mobile](https://asciinema.org/a/XHKPxBpDgiio7gGMdVgxZM0FO)
