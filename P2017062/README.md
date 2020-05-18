@@ -185,6 +185,9 @@ Link για fish plugins:
 * https://gist.github.com/stecman/e3f8cacc83878aa5ba77
 * https://www.youtube.com/watch?v=bbdQXfReuG0&t=754s
 
+#### Asciinema link:
+
+[Send notifications to your desktop-mobile](https://asciinema.org/a/XHKPxBpDgiio7gGMdVgxZM0FO)
 
 
 
