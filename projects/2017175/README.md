@@ -6,12 +6,16 @@
 ### ΑΜ: Π2017175 
 
 ## Συμμετοχικό εκπαιδευτικό υλικό
-
+### Πρώτο Παραδοτέο
 https://p17dimo.netlify.com/
 
 https://p17dimo.netlify.com//gallery/coding/
 
 https://p17dimo.netlify.com//gallery/vr/
+### Δεύτερο Παραδοτέο
+https://p17dimo.netlify.app/remix/myterm/
+
+## Ασκήσεις Terminal
 
 ### Πρώτο παραδοτέο
 #### Send notifications to your desktop-mobile
