@@ -75,9 +75,24 @@ AM: Π2017063
    
    #### [Link για την άσκηση](https://asciinema.org/a/Zv6sOUewENlvlqYaX7BMIArQm)
    
-  Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/), με την χρήση του οποίου δημιούργησα ένα εικονικό περιβάλλον της python σε ένα directory και μέσα σε αυτό "έτρεξα" ένα πρόγραμμα της python. Στο σύνδεσμο που οδηγεί στην άσκηση φαίνεται τόσο η εγκατάσταση όσο και η εκτέλεση του προγράμματος.\
+  Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Pipenv](https://docs.python-guide.org/dev/virtualenvs/), με την χρήση του οποίου δημιούργησα ένα εικονικό περιβάλλον της python σε ένα directory και μέσα σε αυτό "έτρεξα" ένα πρόγραμμα της python. Στο σύνδεσμο που οδηγεί στην άσκηση φαίνεται τόσο η εγκατάσταση όσο και η εκτέλεση του προγράμματος.
+  
+  ##### Χρήση του my-venv
+  
+  Για την υλοποίηση της εργασίας δημιούργησα ένα [virtual-environment](https://docs.python.org/3/library/venv.html), το οποίο είχα εγκαταστήσει παλαιότερα όπως φαίνεται και στον σύνδεσμο. Στο περιβάλλον αυτό ενσωμάτωσα την βιβλιοθήκη plex της python όπως φαίνεται και στο πρόγραμμα το οποίο εκτέλεσα.
+  - Για την ενεργοποίηση του virtual environment χρησιμοποίησα την εντολή (η ενεργοποίηση είναι ορατή καθώς βλέπουμε την αλλαγή στο command prompt):
   
   
+      $ source ./my-venv/bin/activate
+      
+      
+  - Για την απενεργοποίηση:
+  
+  
+      $ deactivate
+
+
+
   ### ***Άσκηση 4 "use the terminal as an IDE"***
    #### ***edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in***
    
