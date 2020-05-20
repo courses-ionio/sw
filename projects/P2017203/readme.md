@@ -355,7 +355,7 @@
 ##### install the same packages using the same versions
 ###### pip install -r requirements.txt 
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/311158) το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/311158).
 #
 ### Άσκηση 6
 ##### Τίτλος: use the terminal as an IDE
@@ -384,7 +384,8 @@
 ###### emacs -nw 
 ##### Εκτέλεση 6.4 (spacemacs)
 ###### emacs -nw
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/312511) το link.
+#
+##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/312511).
 #
 ### Άσκηση 7.1
 ##### Τίτλος: create a docker image for your development stack
