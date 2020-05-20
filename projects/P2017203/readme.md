@@ -438,12 +438,12 @@
 ##### To repository στο dockerhub βρίσκεται στο παρακάτω [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_hwtools)
 #
 ### Άσκηση 8
-##### create a minimal linux system for a particular purpose
-##### Η εργασία αυτή είναι στην ουσία η δημιουργία ενός minimal λειτουργικού συστήματος, όπου σαν "εργαλεία" έχουμε μόνο ένα λειτουργικό σύστημα (Ubuntu) και τα πακε΄τα απο το διαδ΄ίκτυο. 
+##### Τίτλος: create a minimal linux system for a particular purpose
+##### Η εργασία αυτή είναι στην ουσία η δημιουργία ενός minimal λειτουργικού συστήματος, όπου σαν "εργαλεία" έχουμε μόνο ένα λειτουργικό σύστημα (Ubuntu) και τα πακέτα απο το διαδ΄ίκτυο. 
 ##### Ξεκινήσαμε ακολουθώντας αυτό εδώ το [link](http://www.linuxfromscratch.org). Κάποια βήματα χρειάστηκαν κάποια παραμετροποίηση για να υλοποιηηθούν, καθ΄ώς οι οδηγίες του online βιβλίου είναι γενικές.
 ##### Στην αρχή έγινε προσπάθεια ώστε το σύστημα να στηθεί σε ένα USB drive, αλλά το πολλά προβλήματα στο configuration του kernel, καθώς και η πολύ αργή ταχύτητα ανάγνωσης/εγγραφής (σε σχέση με ΄΄έναν SSD δίσκο), μας οδήγησαν να υλοποιήσουμε το project σε VM (άλλωστε το project είναι H/W oriented, οπότε η "φορητότητα" του USB stick δεν είχε καμία σημασία). 
 ##### To project απο την αρχή ως το τέλος, διαρκεί περίπου 48 ώρες (περίπτωση USB/dual core CPU). Κατά την πρώτη προσπάθεια έγινε μια καταγραφή με το asciinema, η οποία λόγω μεγέθους δεν μπορεί να γίνει uploaded στο asciinema, αλλά σε συμπιεσμένη μορφή μπορεί να γίνει downloaded και στην συνέχεια upzip και playback απο το παρακάτω [link](https://github.com/p17kagk/myfiles/blob/master/fullascii.rar). 
-##### Τα περιεχόμενα του partition σε μορφή tar (με τα αρχικά persmissions) είναι διαθέσιμα στο παρακάτω (dropbox λόγω μεγέθους)[link]()
+##### Τα περιεχόμενα του partition σε μορφή tar (με τα αρχικά persmissions) είναι διαθέσιμα στο παρακάτω (dropbox λόγω μεγέθους) [link]()
 ##### Τέ΄λος, παραθέτουμε ένα μικρό demo με την εκκίνηση του συστήματος:
 #
 ![image](https://github.com/p17kagk/myfiles/blob/master/lfs_p2017203.gif)
