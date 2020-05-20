@@ -320,7 +320,7 @@
 ###### how2 pull request github 
 ###### lynx https://unix.stackexchange.com/questions/16743/github-adding-a-repository-as-a-fork-from-an-existing-clone/16765#16765
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/311128) το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/311128).
 #
 ### Άσκηση 5
 ##### Τίτλος: set-up a system for python development
