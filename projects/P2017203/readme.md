@@ -452,6 +452,8 @@
 ##### Άσκηση 2: Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17kagk.github.io/gr/biography/) την παρακάτω [βιογραφία](https://p17kagk.github.io/gr/biography/Ken-Thompson/), φροντίζοντας να προσθέσουμε παράλληλα εικόνες και υλικό για να εμπλουτίσουμε την βιογραφία.
 #
 ![image](https://github.com/p17kagk/myfiles/blob/master/lfs_p2017203.gif)
+![image](https://github.com/p17kagk/myfiles/blob/master/ezgif.com-video-to-gif.gif)
+
 
 
 
