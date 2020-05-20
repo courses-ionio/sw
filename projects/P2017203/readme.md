@@ -85,7 +85,7 @@
 ##### ε) Τέλος, μπορούμε να δούμε το τρέχον call stack για το κάθε python thread μας.
 ###### py-spy dump --pid PID
 #
-##### Όλα τα παραπάνω βήματα, φαίνονται σε [αυτό](https://asciinema.org/a/310236) το link.
+##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/310236).
 #
 ### Άσκηση 2
 ##### Τίτλος: try different terminals and shells
