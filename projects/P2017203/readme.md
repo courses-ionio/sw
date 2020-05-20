@@ -434,8 +434,8 @@
 ##### push image on dockerhub
 ###### docker push kagelaris/ubuntu_hwtools
 #
-##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται σε αυτό εδώ το [link](https://asciinema.org/a/330696)
-##### To repository στο dockerhub βρίσκεται σε αυτό εδώ το [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_hwtools)
+##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται στο παρακάτω [link](https://asciinema.org/a/330696)
+##### To repository στο dockerhub βρίσκεται στο παρακάτω [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_hwtools)
 #
 ### Άσκηση 8
 ##### create a minimal linux system for a particular purpose
