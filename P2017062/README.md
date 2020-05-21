@@ -113,7 +113,7 @@ Link για fish plugins:
 
 Οι φωτογραφίες που χρησιμοποιήθηκαν για την σελίδα δεν υπόκεινται σε πνευματικά δικαιώματα και πάρθηκαν από το site:
 
-    * https://www.pexels.com/
+  * https://www.pexels.com/
 
 #
 ## ΑΣΚΗΣΗ 3
@@ -205,6 +205,7 @@ Link για fish plugins:
 #### Asciinema link:
 
 [Send notifications to your desktop-mobile](https://asciinema.org/a/XHKPxBpDgiio7gGMdVgxZM0FO)
+
 
 ## ΑΣΚΗΣΗ 5
 ### Τίτλος: Choose your stack
