@@ -39,19 +39,13 @@ deploy an application that forwards a call depending on a white- and black- list
 ![Screenshot](https://github.com/P17rant/sw/blob/P2017127/projects/2017127/twilio%20.png)
 
 ![Screenshot](https://github.com/P17rant/sw/blob/P2017127/projects/2017127/twilio1.png)
-
-
-
-
 ### Αssignment 4:
 set-up a system for python development
 #### Deliverables:
 install and configure in a user folder a python project that is not available through the package manager
 #### Description:  [Αsciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
 Στόχος της εργασίας είναι ανάπτυξη ανεξάρτητων python projects. Δημιουργία ενός environment και εγκατάσταση εντός αυτού psutil module, και συγγραφή κώδικα . Μετα έγινε αντιγραφή του κώδικα σε άλλο φάκελο και φαίνεται πως ο κώδικας δεν μπορεί να εκτελεστεί γιατι δεν έχει το απαιτούμενο module, παρά το γεγονός πως στον πρώτο φάκελο υπήρχε.
- 
- 
- 
+ pip install --user pipenv
 
 ### Αssignment 5:
 create an agent for news
@@ -82,31 +76,22 @@ repeat some of the previous exercises with a different terminal-shell and create
 
 
 
-
 ### Αssignment 8:
-set-up continuous integration
-#### Deliverables:
-build and deploy your static site and your cv dynamically every time you make a small change in the source files
-#### Description:  [Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
-Για την υλοποίηση της εργασίας χρησιμοποίησα το hugo. Με την χρήση του συγκεκριμένου εργαλείου δημιούργησα ένα στατικό σάιτ, και to επεξεργάστικα.
- ![Screenshot](Hug.png)
-
-
-
-
-
-### Αssignment 9:
 create notifications on your sever
 #### Deliverables:
 send notifications on important server events
 #### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
-
+### Αssignment 9:
+set-up continuous integration
+#### Deliverables:
+build and deploy your static site and your cv dynamically every time you make a small change in the source files
+#### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
 ### Αssignment 10:
-configure a custom window manager
+choose your stack
 #### Deliverables:
-try different wm and configure one to fit your needs
+set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 #### Description:  [Αsciinema]()
 
 
