@@ -206,6 +206,18 @@ Link για fish plugins:
 
 [Send notifications to your desktop-mobile](https://asciinema.org/a/XHKPxBpDgiio7gGMdVgxZM0FO)
 
+## ΑΣΚΗΣΗ 5
+### Τίτλος: Choose your stack
+#
+Για την επίλυση της άσκησης αυτής είναι απαραίτητη η εγκατάσταση του [howdoi](https://github.com/gleitz/howdoi). Το howdoi είναι ενα command line tool το οποίο παρέχει άμεσα απαντήσεις με κώδικα ή χωρίς για οποιαδήποτε σωστά τοποθετημένη προγραμματιστική ερώτηση του απευθύνουμε. Για την επίλυση της άσκησης κατά κύριο λόγο διάβασα τις οδηγίες που υπάρχουν στο παραπάνω link μιας και δεν υπάρχουν πολλές πηγές που αναφέρονται στο συγκεκριμένο εργαλείο στο διαδίκτυο. Ωστόσο, χρήσιμοι μου φάνηκαν και οι εξής σύνδεσμοι:
+
+  * https://www.geeksforgeeks.org/howdoi-in-python/
+  * https://packages.debian.org/stretch/howdoi
+
+Τα βήματα που ακολούθησα και οι εντολές που χρησιμοποίησα φαίνονται αναλυτικά στο Asciinema.
 
 
+#### Asciinema link:
+
+[Choose your stack](https://asciinema.org/a/vo082AjkDEC7Mx8O3ataNugTD)
 
