@@ -448,6 +448,7 @@
 #
 ![image](https://github.com/p17kagk/myfiles/blob/master/lfs_p2017203.gif)
 #
+![image](https://github.com/p17kagk/myfiles/blob/master/2020-05-21%2017-11-15.gif)
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό:
 ##### Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr).
