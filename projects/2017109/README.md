@@ -100,7 +100,7 @@ Link για το [video](https://vimeo.com/401915913#)
 
 ### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το Google Translate και την κονσόλα Nintendo Wii
-[Link για Nintendo Wii](https://chriskotrotsios.netlify.app/gallery/nintendo-wii/)
+[Link για Nintendo Wii](https://chriskotrotsios.netlify.app/gallery/nintendo-wii/),
 [Link για Google Translate](https://chriskotrotsios.netlify.app/gallery/google-translate/)
 
 ### Β: ένα νέο διαδραστικό παράδειγμα
