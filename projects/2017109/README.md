@@ -100,3 +100,18 @@ Link για το [video](https://vimeo.com/401915913#)
 
 ### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το Google Translate και την κονσόλα Nintendo Wii
+
+
+## Πρόσθετες εργασίες αντί για τελική εξέταση
+
+### Μια άσκηση γραμμής εντολών
+
+* Assignment : configure a custom window manager
+
+* Deliverables : try different wm and configure one to fit your needs
+
+Περιγραφή: 
+
+* Σύνδεσμος gia to [Video](https://vimeo.com/421607758)
+
+* Εργαλεία που χρησιμοποίησα: [i3wm](https://i3wm.org/)
