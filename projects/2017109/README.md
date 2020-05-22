@@ -100,6 +100,12 @@ Link για το [video](https://vimeo.com/401915913#)
 
 ### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το Google Translate και την κονσόλα Nintendo Wii
+[Link για Nintendo Wii](https://chriskotrotsios.netlify.app/gallery/nintendo-wii/)
+[Link για Google Translate](https://chriskotrotsios.netlify.app/gallery/google-translate/)
+
+### Β: ένα νέο διαδραστικό παράδειγμα
+Στο συγκεκριμένο παραδοτέο χρησιμοποίησα ένα διαδραστικό παράδειγμα, αφου πρώτα το τροποποίησα, απο το codepen.io. Το Διαδραστικό παράδειγμα αυτό,συνδυάζει html και css για την δημιουργία κουμπιών με animations και χρώματα που μπορεί εύκολα ο καθένας να χρησιμοποιήσει
+[Link για το παράδειγμα στο βιβλίο](https://chriskotrotsios.netlify.app/remix/interactive-buttons/)
 
 
 ## Πρόσθετες εργασίες αντί για τελική εξέταση
@@ -110,8 +116,12 @@ Link για το [video](https://vimeo.com/401915913#)
 
 * Deliverables : try different wm and configure one to fit your needs
 
-Περιγραφή: 
+Περιγραφή: Για το παραδοτέο αυτό επέλεξα να χρησιμοποιήσω το i3 window manager. Αρχικά τροποποίησα το config file του i3 ώστε να με βολέυει. Επιγραμματικά μερικές απο τις προσθήκες που έκανα ήταν: # kill focused window bindsym $mod+F4 kill, bindsym $mod+Shift+f exec firefox κλπ. Στο παρακάτω video δείχνω να χρησιμοποιώ το i3wm κάνοντας μερικές βασικές λειτουργίες όπως να αλλάζω workspaces, να ανοίγω applications να τα κλείνω και γενικότερα να κάνω browsing.
 
-* Σύνδεσμος gia to [Video](https://vimeo.com/421607758)
+* Σύνδεσμος για το [Video](https://vimeo.com/421607758)
 
 * Εργαλεία που χρησιμοποίησα: [i3wm](https://i3wm.org/)
+
+### Μια εργασία συμμετοχικού περιεχομένου από τo Β(ένα νέο διαδραστικό παράδειγμα)
+Στο συγκεκριμένο παραδοτέο χρησιμοποίησα ένα διαδραστικό παράδειγμα, αφου πρώτα το τροποποίησα, απο το codepen.io.Σε αυτό το διαδραστικό παράδειγμα παρουσιάζω ένα progress bar το οποίο ανταποκρίνεται στα clicks του χρήστη με animations και μπορεί εύκολα να χρησιμοποιηθεί απο οποιονδήποτε.
+[Link για το παράδειγμα στο βιβλίο](https://chriskotrotsios.netlify.app/remix/progress-bar/)
