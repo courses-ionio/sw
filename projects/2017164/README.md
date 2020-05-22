@@ -167,4 +167,21 @@ ___
   * Αρχεία που άλλαξα : [_config.yml](https://github.com/geosideras/gr/blob/master/_config.yml), ~~[3D-printer.md](https://github.com/geosideras/gr/blob/master/_gallery/3D-printer.md), [exoskeleton-glove.md](https://github.com/geosideras/gr/blob/master/_gallery/exoskeleton-glove.md), [3D-printer-thumb.png](https://github.com/geosideras/gr/blob/master/images/3D-printer-thumb.png), [3D-printer.png](https://github.com/geosideras/gr/blob/master/images/3D-printer.png), [exoskeleton-glove-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove-thumb.jpg), [exoskeleton-glove.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove.jpg)~~,(μετά απο επικοινωνία με το καθηγητή, κατάλαβα οτι οι εικόνες έπρεπε να εστιάζουν στο software και όχι τόσο στην επικοινωνία ανθρώπου-υπολογιστή για αυτό και τις άλλαξα) [blockchain.jpg](https://github.com/geosideras/gr/blob/master/images/blockchain.jpg), [blockchain-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/blockchain-thumb.jpg), [remote-mouse.jpg](https://github.com/geosideras/gr/blob/master/images/remote-mouse.jpg), [remote-mouse-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/remote-mouse-thumb.jpg) , [blockchain.md](https://github.com/geosideras/gr/blob/master/_gallery/blockchain.md), [remote-mouse.md](https://github.com/geosideras/gr/blob/master/_gallery/remote-mouse.md).
 
 
+### B) 
 
+  * Ζητουμενα : μια νέα βιογραφία
+  
+  * [link](https://github.com/geosideras/gr) του αποθετήριου βιβλίου.
+  * [link](https://geosideras.netlify.com) του βιβλίου. 
+  * Αρχεία που πρόσθεσα στο βιβλίο : [katherine-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/katherine-johnson.md), [bio-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/bio-johnson.md), [johnson1.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1.jpg), [johnson1-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1-thumb.jpg), [johnson2.jpg](https://github.com/geosideras/gr/blob/master/images/johnson2.jpg), [johnson2-thumb.jpg].
+  
+  ## Αντί της γραπτής εξέτασης : 
+  
+  ### Ασκήση Terminal : 
+  
+  ### Συμμετοχικό εκπαιδευτικό υλικό : 
+  
+  #### Β)
+  
+  * Ζητουμενα : μια νέα βιογραφία
+  (https://github.com/geosideras/gr/blob/master/images/johnson2-thumb.jpg), [james-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/james-goslin.md), [bio-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/bio-goslin.md), [goslin1.jpg](), [goslin1-thumb](), [goslin2.jpg](), [goslin2-thumb.jpg]().
