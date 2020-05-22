@@ -173,15 +173,13 @@ ___
   
   * [link](https://github.com/geosideras/gr) του αποθετήριου βιβλίου.
   * [link](https://geosideras.netlify.com) του βιβλίου. 
-  * Αρχεία που πρόσθεσα στο βιβλίο : [katherine-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/katherine-johnson.md), [bio-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/bio-johnson.md), [johnson1.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1.jpg), [johnson1-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1-thumb.jpg), [johnson2.jpg](https://github.com/geosideras/gr/blob/master/images/johnson2.jpg), [johnson2-thumb.jpg].
+  * Αρχεία που πρόσθεσα στο βιβλίο : [katherine-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/katherine-johnson.md), [bio-johnson.md](https://github.com/geosideras/gr/blob/master/_biography/bio-johnson.md), [johnson1.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1.jpg), [johnson1-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/johnson1-thumb.jpg), [johnson2.jpg](https://github.com/geosideras/gr/blob/master/images/johnson2.jpg), [johnson2-thumb.jpg]().
   
   ## Αντί της γραπτής εξέτασης : 
   
   ### Ασκήση Terminal : 
   
   ### Συμμετοχικό εκπαιδευτικό υλικό : 
-  
-  #### Β)
   
   * Ζητουμενα : μια νέα βιογραφία
   (https://github.com/geosideras/gr/blob/master/images/johnson2-thumb.jpg), [james-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/james-goslin.md), [bio-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/bio-goslin.md), [goslin1.jpg](), [goslin1-thumb](), [goslin2.jpg](), [goslin2-thumb.jpg]().
