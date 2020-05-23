@@ -8,3 +8,5 @@
 
 ### Άσκηση 2η: Try different terminals and shells.
 Λινκ του βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
+
+### Συμμετοχικό Υλικό - Α' Παραδοτέο
