@@ -10,5 +10,5 @@
 Λινκ του βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
 
 ### Συμμετοχικό Υλικό - Α' Παραδοτέο
-Link του βιβλίου: https://www.mibook.org/
+Link του βιβλίου: https://www.mibook.org/ 
 Link του αντιγράφου του αποθετηρίου του βιβλίου: https://github.com/Sotiris132/gr/tree/master
