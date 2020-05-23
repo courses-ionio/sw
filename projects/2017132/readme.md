@@ -13,3 +13,10 @@
 Link του βιβλίου: https://www.mibook.org/ 
 
 Link του αντιγράφου του αποθετηρίου του βιβλίου: https://github.com/Sotiris132/gr/tree/master
+
+Link της Σελίδας μου: https://sotiris132.github.io/gr/
+
+Link πρώτης Εικόνας/Google Maps: https://sotiris132.github.io/gr/gallery/google-maps/
+
+Link δεύτερης Εικόνας/Xiaomi Mi Band: https://sotiris132.github.io/gr/gallery/mi-band/
+
