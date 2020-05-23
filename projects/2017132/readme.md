@@ -4,7 +4,7 @@
 
 
 ### Άσκηση 1η: Choose your stack.
-Λινκ του βίντεο: https://asciinema.org/a/JzgXlwW9wqoqHyieSvhASNx3J
+Λινκ του βίντεο: <a href='https://asciinema.org/a/JzgXlwW9wqoqHyieSvhASNx3J'>
 
 ### Άσκηση 2η: Try different terminals and shells.
 Λινκ του βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
