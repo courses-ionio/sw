@@ -121,7 +121,7 @@
  
  ### Επιπλέον άσκηση
  
- ### Sixth assignment
+ ### Seventh assignment
 #### Assignment: 
 #### Deliverables: 
 #### [Link to Asciinema]()
