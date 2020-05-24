@@ -9,6 +9,9 @@
 ## Άσκηση 2η: Try different terminals and shells.
 Λινκ του βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
 
+## Άσκηση 3η: Performance Monitoring.
+Λινκ του βίντεο: https://asciinema.org/a/333472
+
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
 Link του βιβλίου: https://www.mibook.org/ 
 
