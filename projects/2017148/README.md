@@ -384,4 +384,12 @@ H δεύτερη εικόνα είναι του Arduino Nano.
 ### [Arduino Example](https://andreaspappoutas.netlify.app/remix/arduino-example/)
 ### [Αποθετήριο](https://github.com/andreaspappoutas/gr/blob/master/_remix/arduino-example.md)
 
+### Γ.
+
+Μελέτη περίπτωσης Arduino
+
+### [Arduino Case Study](https://andreaspappoutas.netlify.app/case-study/arduinonew/)
+### [Αποθετήριο](https://github.com/andreaspappoutas/gr/blob/master/_case-study/arduinoNew.md)
+
+
 
