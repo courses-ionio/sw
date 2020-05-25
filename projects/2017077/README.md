@@ -126,7 +126,7 @@
 #### Deliverables: try different wm and configure one to fit your needs
 #### [Link to Asciinema](https://asciinema.org/a/333760)
 #### Description:
- ~Το i3 πριν κάνω τις προσθήκες/αλλαγές στο configuration file
+ 
  ![before my congifuration settings](projects/2017077/gifs/before.gif)
  
  ~Το i3 μετά τις προσθήκες/αλλαγές στο configuration file
