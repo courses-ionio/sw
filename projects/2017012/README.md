@@ -116,13 +116,13 @@
 
   Παρακάτω βρίσκεται η επιπλέον άσκηση που μας ζητήθηκε μετά την αλλαγή του τρόπου με τον οποίο αξιολογείται το μάθημα.
   
-  ### Έβδομη εργασία
+### Έβδομη εργασία
   
-  * **Title:** Configure a custom window manager
+ * **Title:** Configure a custom window manager
   
-  * **Deliverables:** try different wm and configure one to fit your needs
+ * **Deliverables:** try different wm and configure one to fit your needs
   
-  * [Asciinema link](https://asciinema.org/a/333771)
+ * [Asciinema link](https://asciinema.org/a/333771)
   
   * Σε αυτή την άσκηση εγκατέστησα τον [i3](https://i3wm.org) window manager και τον οποίο διαμόρφωσα με κάποιες αλλαγές για να ταιριάζει καλύτερα στις ανάγκες μου. Η εγκατάσταση έγινε με την εντολή **sudo apt-get install i3**. Όπως φαίνεται και στο asciinema, ανοίγω το configuration file με την εντολή **sudo nano /home/teo/.config/i3/config** και προσθέτω κάποιες εντολές. Αρχικά, με το **set workspace** θέτω την μεταβλητή **$workspace1** να έχει το όνομα **Terminal** και τη μεταβλητή **$workspace2** να έχει το όνομα **Firefox**. Με αυτό το τρόπο το πρώτο workspace έχει το όνομα **Terminal** και το δεύτερο το όνομα **Firefox** το οποίο φαίνεται(κάτω αριστερά) στο screenshot παρακάτω. Έπειτα με την εντολή **assign [class= "Firefox"] $workspace2** κάθε φορά που ανοίγει ο Firefox θα ανοίγει στο workspace με όνομα **Firefox**. Στο τέλος, τοποθετώ δύο εντολές για να φτιάξω τα δικά μου key-bindings. Συγκεκριμένα, με το **bindsym $mod+Shift+h** εκτελείται το **i3lock** που ουσιαστικά κλειδώνει το desktop και με το **bindsym $mod+Shift+f** ανοίγει ο Firefox. Και τα δύο παραδείγματα των key-bindings εμφανίζονται στα gifs παρακάτω. 
   
