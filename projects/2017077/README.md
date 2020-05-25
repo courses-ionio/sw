@@ -127,10 +127,10 @@
 #### [Link to Asciinema](https://asciinema.org/a/333760)
 #### Description:
  
- ![before my congifuration settings](projects/2017077/gifs/before.gif)
+ ![before my congifuration settings](gifs/before.gif)
  
  ~Το i3 μετά τις προσθήκες/αλλαγές στο configuration file
- ![after my congifuration settings](projects/2017077/gifs/after.gif)
+ ![after my congifuration settings](gifs/after.gif)
  
  
  
