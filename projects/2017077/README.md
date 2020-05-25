@@ -122,8 +122,8 @@
  ### Επιπλέον άσκηση
  
  ### Seventh assignment
-#### Assignment: 
-#### Deliverables: 
-#### [Link to Asciinema]()
+#### Assignment: configure a custom window manager
+#### Deliverables: try different wm and configure one to fit your needs
+#### [Link to Asciinema](https://asciinema.org/a/333760)
 #### Description:
  
