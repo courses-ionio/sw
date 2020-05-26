@@ -1,6 +1,7 @@
 ## ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 ### Αντρέας Παππούτας
 ### Α.Μ.: Π2017148
+### [Τελική Αναφορά](https://github.com/andreaspappoutas/sw-FINAL_REPORT)
 
 ## Παραδοτέο 1:
 try different terminals and shells - repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
