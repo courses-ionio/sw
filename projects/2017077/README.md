@@ -132,8 +132,8 @@
  ~Το i3 μετά τις προσθήκες/αλλαγές στο configuration file
  ![after my congifuration settings](gifs/after.gif)
  
- ~Screenshot στο οποίο φαίνεται η δυνατότητα λήψης και αποθήκευσης στιγμιoτύπου της οθόνης(screeshot) με χρήση του κουμπιού ```PrtScn``` κάτι το οποίο πρίν τις προσθήκες/αλλαγές στο configuration file δεν ήταν εφικτό
- ![screenshot with PrtScn button](images/screenshoti3.png)
+ ~Screenshot στο οποίο φαίνεται η δυνατότητα λήψης και αποθήκευσης στιγμιoτύπου της οθόνης(screenshot) με χρήση του κουμπιού ```PrtScn``` κάτι το οποίο πρίν τις προσθήκες/αλλαγές στο configuration file δεν ήταν εφικτό
+ ![screenshot with PrtScn button](Images/screenshoti3.png)
  
  
  
