@@ -53,8 +53,18 @@
 ##### Εγκατάσταση Pipenv
 ##### Δημιουργία εικονικού περιβάλλοντος python
 ##### Εκτέλεση python σε νέο directory
-##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/m0zVNyqeGE3eCW7lxY29htHZQ)
+##### c
 #
+### Άσκηση 7: create a docker image for your development stack
+##### Θα δημιουργήσουμε ένα image που θα περιέχει ένα σύνολο απο text editors
+##### Εγκατάσταση docker
+##### Εγκατάσταση vim σε docker image
+##### Εγκατάσταση nano σε docker image
+##### export το τρέχων container με την εντολή "docker commit CONTAINER_ID NEW_IMAGE_NAME"
+##### upload το νέο image στο dockerHub
+##### Το λινκ της καταγραφής είναι [εδώ]()
+
+
 
 # Συμμετοχικό υλικό - Α παραδοτέο
 
