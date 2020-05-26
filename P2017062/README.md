@@ -237,6 +237,8 @@ Link για fish plugins:
 
 Τα παραπάνω βήματα καθώς και η εκτέλεση επιπλέον εντολών θα φανούν στο βίντεο του Asciinema.
 
+[Set-up cloud services](https://asciinema.org/a/jZmwnS53omYXeEsvQVjg8JBrf)
+
 
 
 ##  ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
