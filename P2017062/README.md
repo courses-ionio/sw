@@ -235,7 +235,23 @@ Link για fish plugins:
 
 Μετά την εγκατάσταση του openSSH για μεγαλύτερη ασφάλεια μπορούμε να απενεργοποιήσουμε τη δυνατότητα σύνδεσης στις συσκευές μας μέσω κωδικού πρόσβασής καθώς και τη δυνατότητα σύνδεσης ως χρήστης root. Οι συγκεκριμένες αλλαγές γίνονται με την εντολή ``` sudo nano /etc/ssh/sshd_config  ``` στον φάκελο sshd_config (όπως είναι προφανές). Για ευνόητους λόγους έκανα αυτές τις τροποποιήσεις μόνο στον υπολογιστή από τον οποίο θα συνδεθώ οπότε θα φανούν στο Asciinema. 
 
-Τα παραπάνω βήματα καθώς και η εκτέλεση επιπλέον εντολών θα φανούν στο βίντεο του Asciinema.
+ Παρόλο που η εγκατάσταση του openssh ήταν εύκολη υπόθεση, αντιμετώπισα αρκετά προβλήματα όσον αφορά τη σύνδεση των δύο υπολογιστών. 
+ Αρχικά, κανένας από τους δύο δεν εντόπιζε τον άλλον. Στην αρχή πίστευα πως ευθύνεται η εντολή  ``` ssh user@ipadress  ``` του openssh ή κάτι σχετικά με αυτό, ωστόσο διαβάζοντας και ρυθμίζοντας τα αρχεία του που είναι υπεύθυνα για τις διασυνδέσεις και πληκτρολογώντας την εντολή ``` ping ``` η οποία αδυνατούσε να στείλει πακέτα στις IP adress των υπολογιστών μου, συνειδητοποίησα πως το πρόβλημα δε βρίσκεται εκεί αλλά μάλλον σχετίζεται με το router. 
+ Όπως υποπτευόμουν υπήρχε firewall μεταξύ internet και router. Μόλις το τείχος προστασίας απενεργοποιήθηκε η εντολή ping λειτουργούσε κανονικά, ωστόσο η σύνδεση μεταξύ των υπολογιστών μέσω openssh συνέχιζε να μην πραγματοποιείται. 
+ Έπειτα από έρευνα συνειδητοποίησα ότι η Network service discovery ήταν απενεργοποιημένη. Για την επίλυση αυτού του προβλήματος είναι απαραίτητη η επεξεργασία του αρχείου ``` /etc/default/avahi-daemon ``` και η προσθήκη ή η τροποποίηση της πρότασης AVAHI_DAEMON_DETECT_LOCAL σε ``` AVAHI_DAEMON_DETECT_LOCAL=0 ```. Στην συνέχεια στο αρχείο ``` /etc/avahi/avahi-daemon.conf ``` βγάζουμε από σχόλιο το domain-name και το τροποποιούμε σε ``` domain-name=.alocal ```. 
+ Μετά την εκπλήρωση αυτών των τροποποιήσεων η ασύρματη σύνδεση των δύο υπολογιστών πραγματοποιείται χωρίς προβλήμα.
+
+#### Χρήσιμα link που βοήθησαν στην επίλυση της άσκησης:
+
+  * https://askubuntu.com/questions/53976/ssh-connection-error-no-route-to-host
+  * https://www.linode.com/community/questions/65/how-do-i-fix-a-no-route-to-host-error
+  * https://www.tecmint.com/fix-no-route-to-host-ssh-error-in-linux/
+  * https://askubuntu.com/questions/1107987/connect-two-computers-with-ssh-in-a-home-lan
+  * https://askubuntu.com/questions/650518/ssh-connect-to-host-hostname-port-22-connection-timed-out
+  * https://askubuntu.com/questions/339702/network-service-discovery-disabled-what-does-this-mean-for-me
+  * https://www.youtube.com/watch?v=7OQYlLh0srY&t=651s
+
+#### Asciinema link:
 
 [Set-up cloud services](https://asciinema.org/a/jZmwnS53omYXeEsvQVjg8JBrf)
 
