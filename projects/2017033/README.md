@@ -51,7 +51,7 @@ sudo apt-get -f install tilda
 ## Συμμετοχικού περιεχομένου
 ### Link προσωπικού αποθετηρίου: https://github.com/p17kara/gr
 ### Link Netlify: https://p17kara.netlify.com/
-## 1η εικόνα: https://p17kara.netlify.com//gallery/open-source-sw/
-## 2η εικόνα: https://p17kara.netlify.app//gallery/ecommerce/
-## 1ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/KKdLBVR
-## 2ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/WNQByBE
+### 1η εικόνα: https://p17kara.netlify.com//gallery/open-source-sw/
+### 2η εικόνα: https://p17kara.netlify.app//gallery/ecommerce/
+### 1ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/KKdLBVR
+### 2ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/WNQByBE
