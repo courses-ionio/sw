@@ -182,4 +182,4 @@ ___
   ### Συμμετοχικό εκπαιδευτικό υλικό : 
   
   * Ζητουμενα : μια νέα βιογραφία
-  (https://github.com/geosideras/gr/blob/master/images/johnson2-thumb.jpg), [james-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/james-goslin.md), [bio-goslin.md](https://github.com/geosideras/gr/blob/master/_biography/bio-goslin.md), [goslin1.jpg](), [goslin1-thumb](), [goslin2.jpg](), [goslin2-thumb.jpg]().
+ * Αρχεία που πρόσθεσα : [james-gosling.md](https://github.com/geosideras/gr/blob/master/_biography/james-gosling.md), [bio-gosling.md](https://github.com/geosideras/gr/blob/master/_biography/bio-gosling.md), [gosling1.jpg](https://github.com/geosideras/gr/blob/master/images/gosling1.jpg), [gosling1-thumb](https://github.com/geosideras/gr/blob/master/images/gosling1-thumb.jpg), [gosling2.jpg](https://github.com/geosideras/gr/blob/master/images/gosling2.jpg), [gosling2-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/gosling2-thumb.jpg).
