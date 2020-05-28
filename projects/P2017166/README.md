@@ -46,7 +46,7 @@ Screenshot:
 
 Assignment: Try different terminals and shells
 
-Περιγραφή: Δύο φωτογραφίες από διαφορετικά terminal Terminator Tilda και δύο φωτογραφίες από εντολές που δεν εκτελούνται στο προεπιλεγμένο shell αλλά εκτελούνται στα ksh, csh αντίστοιχα
+Περιγραφή: Στο πάρακατω assignment αρχικά εγκαταστούμε το terminal Terminator και το Tilda όπως βλέπουμε στα αντίστοιχα Screenshots τα οποία 
 
 [example](https://asciinema.org/a/2QW2xYB31R7OEmdha8AdoEfDw)
 
