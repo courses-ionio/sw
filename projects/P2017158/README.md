@@ -79,4 +79,15 @@
 Για την εργασία χρησιμοποίησα το **pipenv**, στο βίντεο φαίνονται οι εντολές που έδωσα για να επεξεργαστώ ένα python αρχείο.
 
 
+# 7η Εργασία
+
+* assignments: set-up cloud services
+
+
+* deliverables: ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+* asciinema: [link](https://asciinema.org/a/334860)
+
+
+Για την εργασία χρησιμοποίησα το **ssh**, στο βίντεο φαίνεται οι εντολές που έδωσα στο τέρμιναλ ώστε να μπω στον σερβερ και έπειτα να δημιουργήσω ένα αρχείο python(script1) και έπειτα το έτρεξα εκτός του σερβερ.
 
