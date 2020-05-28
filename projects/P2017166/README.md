@@ -24,7 +24,7 @@
 
 [2nd image link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/trci.md)
 
-[interactive image link](https://github.com/eleftherioseleftheriadis/gr/blob/master/_remix/shell.md)
+[interactive image link](https://p17elev.netlify.app//remix/shell/)
 
 ## Εργασίες SW
 
@@ -32,8 +32,7 @@
 
 Assignment: Send notifications to your desktop-mobile 
 
-Περιγραφή: Με την χρήση της εντολής ntfy λαμβάνουμε μήνυμα για την ολοκλήρωση μιας μακρόχρωνης
-διαδικασίας.
+Περιγραφή: Σε αυτήν την εργασία γίνεται η χρήση του ntfy. Αφόυ εγκαταστήσαμε το ntfy και στείλαμε notifications στο desktop μας, κάθε φορά που τελειώνει η εκτέλεση κάποιου μεγάλου task διάρκειας πάνω από 10 δευτερόλεπτα στένεται αυτόματα ειδοποίηση.  Το task που επέλεξα να εκτελέσω για την παρουσίαση του ntfy ήταν το download ενός τργουδιού το οποίο εκτελεί ένα απλό download μεγαλύτερο απο 10 δευτερόλεπτα το οποίο με το που τελείωσε έστειλε ειδοποίηση στον υπολογιστή για την επιτυχία του. Το desktop notifications που προέκυψε από αυτό το task παρουσιάζεται παρακάτω με την χρήση screenshot. Παρακάτω ακολουθεί το screenshot που παρουσιάζει το notification και το βίντεο του asciinema.
 
 [example](https://asciinema.org/a/qqzt0c1OOOxADeeDiq2kp8g1G)
 
