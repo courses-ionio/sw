@@ -70,6 +70,15 @@ set-up a system for python development
 
 https://asciinema.org/a/326905
 
+## Eργασία 6:
+
+fuck
+
+https://asciinema.org/a/p0EAL6QowA3gWkjw1q1Db6X8e
+
+To fuck σε βοηθάει όταν έχεις γράψει μια εντολή λάθος και βρίσκει την πιο κοντινή σε αυτή που έχεις γράψει.
+
+
 
 
 
