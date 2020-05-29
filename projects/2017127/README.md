@@ -88,6 +88,7 @@ set-up continuous integration
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
 #### Description:  [Αsciinema](https://asciinema.org/a/CrVwSxglh9GQCksjmLcCieUSg)
 [Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
+![Screenshot](hug.png)
 
 ### Αssignment 10:
 choose your stack
