@@ -5,6 +5,9 @@
 #### Όνομα: Ανδρέας
 #### Επώνυμο: Καγκελάρης
 #
+#### Το προσωπικό αποθετήριο βρίσκεται στο παρακάτω [link](https://github.com/p17kagk/sw/tree/P2017203/projects/P2017203)
+#
+
 ### Άσκηση 1
 ##### Τίτλος: performance monitoring
 ##### Ζητούμενα: monitor the performance of your python scripts and visualize them with colors and/or spark lines
