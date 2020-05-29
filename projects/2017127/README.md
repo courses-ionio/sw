@@ -86,7 +86,8 @@ send notifications on important server events
 set-up continuous integration
 #### Deliverables:
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
-#### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
+#### Description:  [Αsciinema](https://asciinema.org/a/CrVwSxglh9GQCksjmLcCieUSg)
+[Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
 
 ### Αssignment 10:
 choose your stack
