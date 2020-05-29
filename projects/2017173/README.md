@@ -9,11 +9,13 @@
 
 [mibook link](https://p17styl.netlify.com/)
 
-[1st image](https://p17styl.netlify.com//gallery/amazon-alexa/)
+[1η εικόνα](https://p17styl.netlify.com//gallery/amazon-alexa/)
 
-[2nd image](https://p17styl.netlify.com//gallery/unity/)
+[2η εικόνα](https://p17styl.netlify.com//gallery/unity/)
 
-[διαδραστικό παράδειγμα](https://p17styl.netlify.app/remix/terminal/)
+[1ο διαδραστικό παράδειγμα](https://p17styl.netlify.app/remix/terminal/)
+
+[2o διαδραστικό παράδειγμα](https://p17styl.netlify.app/remix/platformgame/)
 
 ## Terminal
 ## Πρώτο Παραδοτέο : 
