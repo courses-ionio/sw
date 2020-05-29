@@ -5,12 +5,14 @@
 #### Όνομα: Ανδρέας
 #### Επώνυμο: Καγκελάρης
 #
-#### Το προσωπικό αποθετήριο βρίσκεται στο παρακάτω [link](https://github.com/p17kagk/sw/tree/P2017203/projects/P2017203)
+#### Το προσωπικό αποθετήριο του κώδικα βρίσκεται στο παρακάτω [link](https://github.com/p17kagk/sw/tree/P2017203/projects/P2017203)
 #
 
 ### Άσκηση 1
 ##### Τίτλος: performance monitoring
 ##### Ζητούμενα: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+#
+##### Σκοπός της άσκησης είναι τα δείξουμε κάποιους τρόπους που μπορούμε να απεικονίσουμε την απόδοση εκτέλεσης κάποιων συγκεκριμένων python scripts. H οπτικοποίηση των δεδομένων κάνει πολύ καλύτερη την κατανόησή τους. 
 #
 ##### Προαπαιτούμενα: 
 ##### α) Download hyperfine
@@ -90,9 +92,15 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/310236).
 #
+##### References:
+###### https://github.com/benfred/py-spy
+###### https://pypi.org/project/py-spy/
+###### https://docs.rs/crate/hyperfine/1.9.0
+#
 ### Άσκηση 2
 ##### Τίτλος: try different terminals and shells
 ##### Ζητούμενα: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+##### Σκοπός της άσκησης είναι να χρησιμοποιήσουμε διάφορα terminals και shells, και μέσα απο την χρήση τους να διαπιστώσουμε την λειτουργία τους, και τυχών ειδικές λειτουγίες που έχουν.
 # 
 ##### 2.1 (st terminal): Προαπαιτούμενα: Εγκατάσταση st
 ###### git clone https://github.com/LukeSmithxyz/st
@@ -201,9 +209,16 @@
 #
 ##### Τα βήματα που ακολουθήσαμε για τον csh φαίνονται αναλυτικά στο παρακάτω [link](https://asciinema.org/a/318662).
 #
+##### References
+###### https://bash.cyberciti.biz/guide/C_shell
+###### https://fishshell.com/
+###### https://ohmyz.sh/
+###### https://st.suckless.org/
+#
 ### Άσκηση 3
 ##### Τίτλος: set-up cloud services
 ##### Ζητούμενα: ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+##### Σκοπός της άσκησης είναι η γνωριμία εργαλείων remote connection (ssh, ftp, telnet, putty) και η κατανόηση τους μέσα απο την χρήση τους για κάποιες εργασίες.
 ##### Προαπαιτούμενα: Tα εργαλεία ssh,sftp,telnet είναι προεγκατεστημένα στις διανομές Ubuntu.
 ###### sudo apt install putty
 ###### sudo apt-get install openssh-server //on remote host
@@ -285,6 +300,12 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/310637).
 #
+##### References
+###### https://www.siteground.com/tutorials/ssh/putty/
+###### https://www.ionos.com/digitalguide/server/tools/telnet-the-system-wide-remote-protocol/
+###### https://www.cs.colostate.edu/helpdocs/ftp.html
+###### https://www.hostinger.com/tutorials/ssh/basic-ssh-commands
+#
 ### Άσκηση 4
 ##### Τίτλος: choose your stack
 ##### Ζητούμενα: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
@@ -325,6 +346,10 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/311128).
 #
+##### References
+###### https://www.npmjs.com/package/how-2
+###### https://github.com/gleitz/howdoi
+#
 ### Άσκηση 5
 ##### Τίτλος: set-up a system for python development
 ##### Ζητούμενα: install and configure in a user folder a python project that is not available through the package manager
@@ -360,9 +385,13 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/311158).
 #
+##### References
+###### https://pipenv-fork.readthedocs.io/en/latest/install.html
+#
 ### Άσκηση 6
 ##### Τίτλος: use the terminal as an IDE
-##### Ζητούμενα:  	edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+##### Ζητούμενα: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+##### Σκοπός της άσκησης είναι η γνωριμία των vim,emacs,emacs,spacevim μέσα απο την χρήση τους. 
 ##### Προαπαιτούμενα: εγκατάσταση vim, emacs, vimtex, spacevim
 ###### sudo apt install vim
 ###### curl -sLf https://spacevim.org/install.sh | bash
@@ -390,9 +419,15 @@
 #
 ##### Όλα τα παραπάνω βήματα, φαίνονται στο παρακάτω [link](https://asciinema.org/a/312511).
 #
+##### References
+###### https://www.vim.org/
+###### https://www.gnu.org/software/emacs/
+###### https://github.com/lervag/vimtex
+###### https://spacevim.org/
+#
 ### Άσκηση 7.1
 ##### Τίτλος: create a docker image for your development stack
-##### θα δημιουργήσουμε ένα image, το οποίο θα περιέχει την βασική έκδοση ubuntu του docker εμπλουτισμένη με πακέτα χρήσιμα σε έναν διαχειριστή δικτύου. Ο ενδιαφερόμενος δηλαδή θα μπορεί να το κατεβάσει απο το dockerhub, και να έχει ένα σύστημα με προεγκατεστημένα πακέτα network monitoring
+##### Σκοπός της άσκησης είναι να δημιουργήσουμε ένα image, το οποίο θα περιέχει την βασική έκδοση ubuntu του docker εμπλουτισμένη με πακέτα χρήσιμα σε έναν διαχειριστή δικτύου. Ο ενδιαφερόμενος δηλαδή θα μπορεί να το κατεβάσει απο το dockerhub, και να έχει ένα σύστημα με προεγκατεστημένα πακέτα network monitoring
 ##### κατέβασμα και εγκατάσταση ενός ubuntu image.
 ###### docker run ubuntu
 ##### demo οτι δεν έχει τίποτα μέσα. Επίσης size=73.8MB.
@@ -437,6 +472,9 @@
 ##### push image on dockerhub
 ###### docker push kagelaris/ubuntu_hwtools
 #
+##### References
+###### https://www.docker.com/
+#
 ##### Όλη η διαδικασία που ακολουθήσαμε φαίνεται στο παρακάτω [link](https://asciinema.org/a/330696)
 ##### To repository στο dockerhub βρίσκεται στο παρακάτω [link](https://hub.docker.com/repository/docker/kagelaris/ubuntu_hwtools)
 #
@@ -476,7 +514,8 @@
 #
 ##### Άσκηση 3: Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17kagk.github.io/gr/biography/) την παρακάτω [βιογραφία](https://p17kagk.github.io/gr/biography/Edsger-Dijkstra/), φροντίζοντας να προσθέσουμε παράλληλα εικόνες και υλικό για να εμπλουτίσουμε την βιογραφία.
 #
-
+##### Για την ολοκλήρωση της άσκησης παραμετροποιήσαμε τον φάκελο "images" προσθέτοντας φωτογραφίες, τον φάκελο "_includes", ώπου προσθέσαμε τα αρχεία με το κείμενο των βιογραφιών, και τον φάκελο "_biography" ώπου προσθέσαμε τα αρχεία των βιογραφιών.
+#
 
 
 
