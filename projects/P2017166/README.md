@@ -79,7 +79,7 @@ https://asciinema.org/a/MC7kBaif3gQIfpc8F5mINooQ5
 
 Assignment: Set-up a system for python development
 
-Περιγραφή: 
+Περιγραφή: Με την χρήση του Pipenv shell. Το κέλυφος Pipenv χρησιμοποιείται κυρίως ως τρέξιμο τώρα και αφήστε το. Θα δημιουργήσει ένα ενεργό περιβάλλον σχεδόν με τον ίδιο τρόπο όπως με την πηγή env / bin / activate, αλλά θα το κάνει και σε ένα νέο κέλυφος. Με αυτόν τον τρόπο δεν μπορείτε να χρησιμοποιήσετε προηγούμενες εντολές από το ιστορικό.
 
 https://asciinema.org/a/1xEl6TCtZFUdYtfjHOveTo4Xo
 
