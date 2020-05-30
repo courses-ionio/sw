@@ -8,17 +8,6 @@
 
 * Deliverables : send a notifcation when a big task completes, eg download, compiling, etc.  
 
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312457 "asciinema") 
-
-* Screenshot απο το κινητό για την εμφάνηση της ειδοποίησης ![Smartphone Screenshot](https://snipboard.io/i6vKI5.jpg)
-
-* Εργαλεία που χρησιμοποίησα :
-    * [notify(ntfy)](https://github.com/dschep/ntfy/ "ntfy")
-
-* Εφαρμογη για το κινητο : 
-
-    * [Pushbullet](https://www.pushbullet.com "Pushbullet")
-
 * Περιγραφή : Αρχικά κατέβασα το ntfy με την εντολή ```$sudo pip3 install ntfy ```
 και πρόσθεσα ως extra dependencies το pid και το pushbullet με τις εντολές ```$pip3 install ntfy[pid]``` ```$pip3 install ntfy[pushbullet]```Στην συνέχεια κατεβασα το app για το smartphone pushbullet και εκανα εγραφη και σύνδεση , έπειτα πήγα -> settings -> account και μετα πατησα να μου δωσει ενα access token.Στο termina δημιουργησα ενα αρχειο με την εντολη 
 ```$sudo nano ~/.ntfy.yml```και μέσα έγραψα : 
@@ -30,6 +19,17 @@ pushbullet:
  ```
 (οπου στο acces token εβαλα αυτο που πηρα απο την εφαρμογη.)
 Με αυτην την τροποποιηση στο αρχειο καθε φορα που τρεχεις την εντολη ```$ntfy send "Notifictaion" ```θα πέρνει ως όρισμα -b το pushbullet και ως -o το access_token: o.QTyuazAvmXQE9pp0D8eDCiRcayFigQ21ο . Μετα με την εντολη ```$eval "$(ntfy shell-integration -f -L 30)" ```καθε φορα που τελειωνει μια εντολη που τρεχει πανω απο 30s στελνει μηνυμα , η επιλογη -f λεει οτι στειλε ακομα και αν ο terminal τρεχει στο background και -L μετα απο ποσο χρονο αν τρεχει μια εντολη να στελνει μηνημα.
+
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312457 "asciinema") 
+
+* Screenshot απο το κινητό για την εμφάνηση της ειδοποίησης ![Smartphone Screenshot](https://snipboard.io/i6vKI5.jpg)
+
+* Εργαλεία που χρησιμοποίησα :
+    * [notify(ntfy)](https://github.com/dschep/ntfy/ "ntfy")
+
+* Εφαρμογη για το κινητο : 
+
+    * [Pushbullet](https://www.pushbullet.com "Pushbullet")
 
 * Σχόλια : Δυστυχώς η ανακοίνωση που μου ήρθε στο κινητό ήταν για το πότε τελείωσε η πρώτη εντολή που στην περιπτωσή μας ήταν η ```$asciinema rec ``` αλλά αν έτρεχα κάποια έντολη χώρις να προηγείτε η rec θα μου την εμφάνιζε κανονικά στο κινητό.
 ___
@@ -48,8 +48,8 @@ ___
 
 * Εργαλεία που χρησιμοποίησα :
     * [Hyperfine](https://github.com/sharkdp/hyperfine "Hyperfine")
-___
 
+___
 ### 3η Άσκηση : 
 
 * Assignment : try different terminals and shells
@@ -73,8 +73,8 @@ ___
     * [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme "agnoster")
     * [z - jump around](https://github.com/rupa/z "Z")
     * [thefuck](https://github.com/nvbn/thefuck "thefuck")
+ 
  ___
-
  ### 4η Άσκηση : 
 
 * Assignment : set-up a system for python development
@@ -90,8 +90,7 @@ ___
    
 * Prerequisites : pip , python3.
     
-___
-    
+___   
   ### 5η Άσκηση : 
 
 * Assignment : use the terminal as an IDE
@@ -121,8 +120,7 @@ ___
     * [flake8](https://github.com/nvie/vim-flake8)
     * [syntastic](https://github.com/vim-syntastic/syntastic)
     
-        ___
-    
+___    
 ### 6η Άσκηση : 
 
 * Assignment : configure a custom window manager
@@ -140,22 +138,7 @@ ___
 * Εργαλεία που χρησιμοποίησα :
     * [IceWM](https://ice-wm.org/ "icewm")
     
-    ___
-    
-### 7η Άσκηση : 
-
-* Assignment : create an agent for news
-
-* Deliverables : the demo should display the new content added on a news web site 
-
-* Περιγραφή :  
-
-* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/312537 "asciinema") 
-
-* Εργαλεία που χρησιμοποίησα :
-    * [Huginn](https://github.com/huginn/huginn "huginn")
 ___
-
   ## Συμμετοχικό εκπαιδευτικό υλικό : 
   
   ### A) 
@@ -166,7 +149,7 @@ ___
   * [link](https://geosideras.netlify.com) του βιβλίου. 
   * Αρχεία που άλλαξα : [_config.yml](https://github.com/geosideras/gr/blob/master/_config.yml), ~~[3D-printer.md](https://github.com/geosideras/gr/blob/master/_gallery/3D-printer.md), [exoskeleton-glove.md](https://github.com/geosideras/gr/blob/master/_gallery/exoskeleton-glove.md), [3D-printer-thumb.png](https://github.com/geosideras/gr/blob/master/images/3D-printer-thumb.png), [3D-printer.png](https://github.com/geosideras/gr/blob/master/images/3D-printer.png), [exoskeleton-glove-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove-thumb.jpg), [exoskeleton-glove.jpg](https://github.com/geosideras/gr/blob/master/images/exoskeleton-glove.jpg)~~,(μετά απο επικοινωνία με το καθηγητή, κατάλαβα οτι οι εικόνες έπρεπε να εστιάζουν στο software και όχι τόσο στην επικοινωνία ανθρώπου-υπολογιστή για αυτό και τις άλλαξα) [blockchain.jpg](https://github.com/geosideras/gr/blob/master/images/blockchain.jpg), [blockchain-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/blockchain-thumb.jpg), [remote-mouse.jpg](https://github.com/geosideras/gr/blob/master/images/remote-mouse.jpg), [remote-mouse-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/remote-mouse-thumb.jpg) , [blockchain.md](https://github.com/geosideras/gr/blob/master/_gallery/blockchain.md), [remote-mouse.md](https://github.com/geosideras/gr/blob/master/_gallery/remote-mouse.md).
 
-
+___
 ### B) 
 
   * Ζητουμενα : μια νέα βιογραφία
@@ -203,8 +186,33 @@ ___
    * [VirtualBox](https://www.virtualbox.org/)
    * [OpenSSH](https://www.openssh.com/)
   
-  
+  ___
   ### Συμμετοχικό εκπαιδευτικό υλικό : 
   
   * Ζητουμενα : μια νέα βιογραφία
  * Αρχεία που πρόσθεσα : [james-gosling.md](https://github.com/geosideras/gr/blob/master/_biography/james-gosling.md), [bio-gosling.md](https://github.com/geosideras/gr/blob/master/_biography/bio-gosling.md), [gosling1.jpg](https://github.com/geosideras/gr/blob/master/images/gosling1.jpg), [gosling1-thumb](https://github.com/geosideras/gr/blob/master/images/gosling1-thumb.jpg), [gosling2.jpg](https://github.com/geosideras/gr/blob/master/images/gosling2.jpg), [gosling2-thumb.jpg](https://github.com/geosideras/gr/blob/master/images/gosling2-thumb.jpg).
+ 
+ ___
+ ### Συμπεράστματα : 
+
+Ολοκληρώνοντας όλα τα παραδοτέα του μαθήματος τεχνολογίες λογισμικού :
+
+* γνώρισα κάποια πράγματα που κατάφεραν να επιτύχουν μερικοί σημαντικοί πρωτοπόροι του τομέα όπως ο James Gosling και η Katherine Johnson,
+* έμαθα για κάποιες νέες τεχνολογίες λογισμικού όπως το blockchain και το remote mouse ,
+* και τέλος εμπλούτισα τις γνώσεις μου στην χρήση του terminal. Πιο συγκεκριμένα : 
+
+   * Αντί να περιμένω ώρες μπορστά απο το τερματικό για να τερματίσει μια εργασία , πλέον μπορώ να φύγω απο το χώρο και να μου έρθει ειδοποίηση στο κινητό όταν αυτή τελειώσει.
+   
+   * Μπορώ να συγκρίνω 2 η παραπάνω "σκριπτάκια" που έγραψα για να δώ ποιό είναι γρηγορότερο με μόνο την χρήση του τερματικού.
+   
+   * Τις διαφορές ανάμεσα σε Terminal και Shell και πως να τα τροποποιήσω ώστε να είναι κοντά στις προτιμήσεις μου.
+   
+   * Πως να δημιουργώ διαφορετικά περιβάλλοντα για να γράφω κωδικά στην python με ξεχωριστές βιβλιοθήκες κάθε φορά , χωρίς να χαλάω το κύριο directory.
+   
+   * Να γράφω κώδικα στην python μέσα στο τερματικό με την βοήθεια του Vim και ταυτόχρονα να είναι σαν IDE δηλαδή να κάνει compile , autocorrect , στοίχιση κ.α.
+   
+   * Να χρησιμοποιώ διαφορετικό Window Manager τον οποίο μπορώ να τον τροποποιήσω όπως εγώ θέλω, πολύ εύκολα με λιγές εντολές στο τερματικό.
+   
+   * Να αποκτήσω πρόσβαση σε έναν απομακρισμένο σύστημα με την βοήθεια του SSH και να έχω τον έλεγχο του τερματικού του, μέχρι και να ανταλάξω αρχεία.
+         
+ 
