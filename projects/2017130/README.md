@@ -78,3 +78,16 @@
 
 ### - [Πρώτη Εικόνα Robologix](https://p17smyr.github.io/gr/gallery/robologix/)
 ### - [Δεύτερη Εικόνα MatLab](https://p17smyr.github.io/gr/gallery/matlab/)
+
+
+# Συμμετοχικό υλικό - B παραδοτέο
+
+Για την υλοποίηση του δεύτερου παραδοτέου της εργασίας συμμετοχικού περιεχουμένου χρησιμοποίησα μία βιογραφία. Η βιογραφία αυτή αναφέρεται στο Jef Rastin, ο οποίος είναι αυτός που ξεκίνησε την υλοποίηση του Macintosh το 1979.
+
+### - [Βιογραφία Jef Rastin](https://p17smyr.github.io/gr/biography/jef-raskin/?fbclid=IwAR0gfPx_8aTYGe8MWtOGFwAjkwSz0UwEJtF-9bUxBqsG5Ygz362JS_TxzrA)
+
+# Συμμετοχικό υλικό - Γ παραδοτέο
+
+Για την επιπλεόν εργασία συμμετοχικού περιεχομένου ανάπτυξα την βιογραφία του Larry Tesler, ο οποίος είναι ένας ιδιαίτερα σημαντικός επιστήμονας που ασχολήθηκε με την διάδραση του ανθρώπου με τον υπολογιστή και συγκεκριμένα είναι αυτος που εκτός των άλλων ανακάλυψε τους συνδιασμούς του πληκτρολογίου για συντομεύσεις όπως το Ctrl+X για την αποκοπή, το Ctrl+C για την αντιγραφή και το Ctrl+V για την επικόλληση.
+
+### - [Βιογραφία Larry Tesler](https://p17smyr.github.io/gr/biography/larry-tesler/?fbclid=IwAR3tRNRbpxR8XbAQp6e3nIvDZf7VGyqOekP3Jt5O4qThQy38HC7jz07plok)
