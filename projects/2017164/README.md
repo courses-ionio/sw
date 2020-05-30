@@ -178,6 +178,28 @@ ___
   ## Αντί της γραπτής εξέτασης : 
   
   ### Ασκήση Terminal : 
+    
+* Assignment : set-up cloud services
+
+* Deliverables : ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+* Περιγραφή : Σκοπός της άσκησης είναι να αποκτήσουμε πρόσβαση και να πραγματοποιήσουμε κάποιες διεργασίες σε έναν απομακρυσμένο υπολογιστή η "server" μέσω την ασφαλής σύνδεσης που προσφέρει το SSH (Secure Shell). 
+
+Επειδή δεν υπήρχε άλλος υπολογιστής στο σπίτι για να πραγματοποιήθει η άσκηση , έγινε χρήση του VirtualBox με λειτουργικό σύστημα  Xubuntu. Πιο συγκεκριμένα, στο κομμάτι των εντολών , χρησιμοποιούμε την ```sudo apt-get install openssh-server``` για το server mode του openssh και το ενεργοποιηούμε, βρήσκουμε την public ip tou virtual machine με την εντολή ```sudo ipconfig``` αν και δν υπάρχει προεγκατεστημένη στα xubunut απο μόνη της, γίνεται εύκολα εγκατάσταση με την  ```sudo apt-get install net-tools```.
+
+Στην συνέχεια γράφουμε την εντολή ssh ακολουθούμενη απο το hostname + @ + την ip , αν ο user έχει password το πληκτρολογούμε και έτσι απλά εχουμε πρόσβαση. Προσωπικά το πήγα και ένα βήμα παραπέρα κατεβάζωντας το εργαλείο sshfs. Με αυτό το εργαλείο κατάφερα να δημιουργήσω ενα ψέυτικο "mount point" και να "κάνω mount" ένα directory του remote machine , ώστε στην συνέχεια να χρησιμοποιήσω εντολές οπως ```cp , mv ``` κ.λ.π. για να μεταφέρω αρχεία στον host machine.
+
+Επιπλέον , πρωτού γίνει η χρήση του VirtualBox, λόγω έλειψης επιπλέον συκσευής, προσπάθησα να χρησιμοποιήσω το εργαλείο για να αποκτήσω πρόσβαση στο smartphone(android) μου. Αυτό μπορούμε να το πετύχουμε κατεβάζοντας στο android μας μια Openssh εφαρμογή οπως το [Simple SSHD](http://www.galexander.org/software/simplesshd/), στην συνέχεια πατάμε start αντιγράφουμε την ip που μας προβάλει στο τερματικο χωρίς hostname και με port 2222 , ενώ το default port είναι το 22 , δηλαδη ```ssh ip_address -p 2222``` . Επέιτα μας βγάζει μιας χρήσης κωδικό τον οποίο τον αντιγράφουμε στον τερματικό και έτσι εχουμε πρόσβαση και στο android μας.
+
+Ένα συντομο asciinema cast βρίσκεται στο link : [ssh to android](https://asciinema.org/a/335256)
+
+* Σύνδεσμος των εντολών στο [Asciinema](https://asciinema.org/a/335251)
+
+* Εργαλεία που χρησιμοποίησα :
+
+   [VirtualBox](https://www.virtualbox.org/)
+   [OpenSSH](https://www.openssh.com/)
+  
   
   ### Συμμετοχικό εκπαιδευτικό υλικό : 
   
