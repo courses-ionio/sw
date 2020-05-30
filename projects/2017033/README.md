@@ -47,11 +47,19 @@ sudo apt-get -f install tilda
 ### Set-up a system for python development
 ### Asciinema Link: https://asciinema.org/a/327955
 
+## Εργασία 6
+### Set-up cloud services
+### Asciinema Link: https://asciinema.org/a/335267
+
+## Εργασία 7 (Επιπλέον)
+### Configure a custom window manager
+### Asciinema Link: https://asciinema.org/a/335277
 
 ## Συμμετοχικού περιεχομένου
 ### Link προσωπικού αποθετηρίου: https://github.com/p17kara/gr
 ### Link Netlify: https://p17kara.netlify.com/
 ### 1η εικόνα: https://p17kara.netlify.com//gallery/open-source-sw/
 ### 2η εικόνα: https://p17kara.netlify.app//gallery/ecommerce/
+## Επιπλέον ασκήσεις
 ### 1ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/KKdLBVR
 ### 2ο διαδραστικό παράδειγμα: https://codepen.io/p17kara/pen/WNQByBE
