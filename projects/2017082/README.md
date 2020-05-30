@@ -145,3 +145,23 @@ Asciinema cast:
 Asciinema cast: 
 
 [![asciicast](https://asciinema.org/a/3JbJLDej0vbUCq6R63HYi5olb.svg)](https://asciinema.org/a/3JbJLDej0vbUCq6R63HYi5olb)
+
+##### Τίτλος: "Create your own static site and blog generator"
+
+###### Στόχος: The generator should consider posts, pages, and templates
+
+Asciinema cast: 
+
+[![asciicast](https://asciinema.org/a/9bcuFjlX9kkk1Ri9ltwQEgoaQ.svg)](https://asciinema.org/a/9bcuFjlX9kkk1Ri9ltwQEgoaQ)
+
+Αποτέλεσμα:
+###### Αρχική σελίδα
+
+![Image of site's main page](https://github.com/p17griv/sw/blob/2017082/projects/2017082/main_page.png)
+
+###### Σελίδα με όλες τις δημοσιέυσεις
+![Image of posts page](https://github.com/p17griv/sw/blob/2017082/projects/2017082/posts_page.png)
+
+###### Περιεχόμενα μιας δημοσίευσης
+![Image of a post](https://github.com/p17griv/sw/blob/2017082/projects/2017082/post_content.png)
+
