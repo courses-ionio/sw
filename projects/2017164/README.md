@@ -197,8 +197,8 @@ ___
 
 * Εργαλεία που χρησιμοποίησα :
 
-   [VirtualBox](https://www.virtualbox.org/)
-   [OpenSSH](https://www.openssh.com/)
+   * [VirtualBox](https://www.virtualbox.org/)
+   * [OpenSSH](https://www.openssh.com/)
   
   
   ### Συμμετοχικό εκπαιδευτικό υλικό : 
