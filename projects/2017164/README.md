@@ -191,7 +191,7 @@ ___
 
 Επιπλέον , πρωτού γίνει η χρήση του VirtualBox, λόγω έλειψης επιπλέον συκσευής, προσπάθησα να χρησιμοποιήσω το εργαλείο για να αποκτήσω πρόσβαση στο smartphone(android) μου. Αυτό μπορούμε να το πετύχουμε κατεβάζοντας στο android μας μια Openssh εφαρμογή οπως το [Simple SSHD](http://www.galexander.org/software/simplesshd/), στην συνέχεια πατάμε start αντιγράφουμε την ip που μας προβάλει στο τερματικο χωρίς hostname και με port 2222 , ενώ το default port είναι το 22 , δηλαδη ```ssh ip_address -p 2222``` . Επέιτα μας βγάζει μιας χρήσης κωδικό τον οποίο τον αντιγράφουμε στον τερματικό και έτσι εχουμε πρόσβαση και στο android μας.
 
-![android_screenshot_1](/Images/1.jpg)
+![android_screenshot_1](Images/1.jpg)
 
 Ένα συντομο asciinema cast βρίσκεται στο link : [ssh to android](https://asciinema.org/a/335256)
 
