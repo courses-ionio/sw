@@ -24,9 +24,9 @@
 
 [2nd image link](https://github.com/eleftherioseleftheriadis/gr/blob/P2017166/_gallery/trci.md)
 
-[interactive image link](https://p17elev.netlify.app//remix/shell/)
+[interactive image link](https://codepen.io/eleftherioseleftheriadis/pen/qBOYJKG)
 
-[interactive image link]()
+[interactive image link](https://codepen.io/eleftherioseleftheriadis/pen/yLYmPBX)
 
 ## Εργασίες SW
 
@@ -104,4 +104,4 @@ https://asciinema.org/a/LVTo0h8bQ1vyuXgpZeG2AzzWO
 
 ## Συμπεράσματα
 
-
+Με το τέλος των εργασιών μπορώ να πω ότι η χρήση του τερματικού με εντυπωσίασε και θα ήθελα να εμπλουτίσω τις γνώσεις μου ως προς την χρήση του. Κατα κύριο λόγο θα ήθελα να το μάθω αρκετά καλά ώστε να μην ξαναχρησιμοποιήσω το ποντίκι κατά την πλοήγηση μου στο διαδίκτυο γιατί το βρίσκω πολύ χρονοβόρα την χρήση του. Πιστεύω ότι το τερματικό είναι ένα πολύ χρήσιμο εργαλείο και στο μέλλον προσωπικά θα προσπαθήσω να μάθω κιάλλα από όσα μπορεί να προσφέρει.
