@@ -10,18 +10,19 @@
 ##### Επιπλέον, για τη διευκόλυνση της παρακολούθησης του βίντεο πιο γρήγορα η καταγραφή πραγματοποιήθηκε με την εντολή asciinema rec -i=0.2
 ##### Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. P2017130
 #
-### Άσκηση 1: performance monitoring
+### Άσκηση 1: performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
 #### Τα βήματα που κάναμε είναι
-##### 1) Εκτέλεση του benchmark σε αρχείο 10 αριθμών.
-##### 2) Εκτέλεση το ίδιο με warmup
-##### 3) Εκτέλεση το ίδιο αλλά το πολύ 8 φορές
-##### 4) Εκτέλεση το ίδιο αλλά ακριβως 8 φορές
-##### 5) Βήματα 1-4 για αρχεία 100 και 500 αριθμών.
+##### Εκτέλεση του benchmark σε αρχείο 10 αριθμών.
+##### Εκτέλεση το ίδιο με warmup
+##### Εκτέλεση το ίδιο αλλά το πολύ 8 φορές
+##### Εκτέλεση το ίδιο αλλά ακριβως 8 φορές
+##### Βήματα 1-4 για αρχεία 100 και 500 αριθμών.
 #####
 ##### Βλέπουμε οτι αυξάνεται το πλήθος των αριθμών, η αποτελεσματικότητα του αλγορίθμου κατάταξης bubblesort μειώνεται κατά πολύ. Οι άλλοι 2 αλγόριθμοι έχουν παρόμοια συμπεριφορά.
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/wA8fyU87rIdWW9otlXXMaF5qL)
 #
-### Άσκηση 2: send notifications to your desktop-mobile
+### Άσκηση 2: send notifications to your desktop-mobile - send a notifcation when a big task completes, eg download, compiling, etc
 ##### Εγκατάσταση του ntfy
 ##### Αποστολή ειδοποιήσεων στον υπολογιστή
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/g5pNxjI9YuOWiUtQYcscMczum)
@@ -32,31 +33,31 @@
 #
 #####
 #
-### Άσκηση 3: choose your stack
+### Άσκηση 3: choose your stack - set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 ##### Εγκατάσταση με pip install howdoi
 ##### Εκτέλεση διάφορων ερωτήσεων ώστε να δούμε τα αποτελέσματα που επιστρέφει.
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/329278)
 #
-### Άσκηση 4: choose your terminal as an IDE
+### Άσκηση 4: use the terminal as an IDE - edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 ##### Εγκατάσταση του vim
 ##### Εκτέλεση μερικών βασικών εντολών
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/lsMx83REj0ftLg6SvrPOAcVJl)
 #
-### Άσκηση 5: Τry different terminals and shells
+### Άσκηση 5: Τry different terminals and shells - repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 ##### Εγκατάσταση και δοκιμή του zsh
 ##### sudo apt install zsh
 ##### zsh --version
 ##### Εκτέλεση κάποια βήματα απο άσκηση 1
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/ZZcjTrMWxXQQgdVoC2jMLZaO6)
 #
-### Άσκηση 6: set-up a system for python development
+### Άσκηση 6: set-up a system for python development - install and configure in a user folder a python project that is not available through the package manager
 ##### Εγκατάσταση Pipenv
 ##### Δημιουργία εικονικού περιβάλλοντος python
 ##### Εκτέλεση python σε νέο directory
 ##### Το λινκ της καταγραφής είναι [εδώ](https://asciinema.org/a/329287)
 #
-### Άσκηση 7: create a docker image for your development stack
-##### Θα δημιουργήσουμε ένα image που θα περιέχει ένα σύνολο απο text editors
+### Άσκηση 7: create a docker image for your development stack - demonstrate the custom image for CI of your cv and site
+##### Δημιουργία ενός image που θα περιέχει ένα σύνολο απο text editors
 ##### Εγκατάσταση docker
 ##### Εγκατάσταση vim σε docker image
 ##### Εγκατάσταση nano σε docker image
