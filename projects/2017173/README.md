@@ -129,3 +129,20 @@ vi test2.py
 python3 test2.py
 exit
 ```
+
+## Έβδομο Παραδοτέο : 
+### Set-up cloud services
+#### Ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+
+```
+sudo apt-get install openssh-server
+ssh localhost 
+ssh machine_username@machine_ip (To connect on other machine)
+sudo nano /etc/ssh/sshd_config (To modify the config file)
+```
+
+[Asciinema Link](https://asciinema.org/a/335534)
+
+
+
+
