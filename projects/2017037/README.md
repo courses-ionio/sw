@@ -97,7 +97,7 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 [nitrogen](https://github.com/l3ib/nitrogen)
 
 **Screenshot που προαναφέρθηκε!**<br/>
- ![Openbox](images/1234)
+ ![Openbox](images/1234.png)
 
     
 
