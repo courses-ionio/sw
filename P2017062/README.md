@@ -281,7 +281,9 @@ Link για fish plugins:
 
 #### Tοπικό django project που τρέχει μέσα στο virtual environment
 
+
 ![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/djangoproject.png)
+
 
 Τα βήματα που ακολούθησα και οι εντολές που χρησιμοποίησα φαίνονται αναλυτικά στο Asciinema.
 
