@@ -279,6 +279,10 @@ Link για fish plugins:
   ```
 τόσο στο pipenv shell όσο και έξω από αυτό. Παρατηρούμε ότι το αποτέλεσμα της τέλεσης του μας δηλώνει ότι βρισκόμαστε σε τελείως ανεξάρτητα και διαφορετικά αποθετήρια.
 
+#### Tοπικό django project που τρέχει μέσα στο virtual environment
+
+![alt text](https://github.com/p17laso/sw/blob/2017062/P2017062/djangoproject.png)
+
 Τα βήματα που ακολούθησα και οι εντολές που χρησιμοποίησα φαίνονται αναλυτικά στο Asciinema.
 
 #### Asciinema link:
