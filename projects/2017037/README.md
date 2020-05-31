@@ -64,6 +64,18 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
     * [pipenv](https://github.com/pypa/pipenv "pipenv")
    
 * Prerequisites : pip , python3.
+
+### 5ο Παραδοτέο
+
+* Assignment : Use the terminal as an IDE
+
+* Deliverables : Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+* Σύνδεσμος στο [Asciinema](https://asciinema.org/a/Eu65QYKyfDuMGNqq7FZib8v5Q)
+
+* Εργαλεία που χρησιμοποίησα: [neovim](https://github.com/neovim/neovim)
+
+* Διαδικασία πρίν το benchmark: Εκανα εγκατάσταση το neovim μαζι με τα plugins python-mode καθως και python syntax.Στη συνέχεια εκτέλεσα ενα πρόγραμμα σε python για την επιδειξη της σωστής λειτουργίας.
     
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
