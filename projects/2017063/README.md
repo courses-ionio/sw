@@ -126,7 +126,7 @@ AM: Π2017063
    
    #### [Link για την άσκηση](https://asciinema.org/a/smRig3uSNNuwNxO9UhxjXSO3P)
    
-  Για την υλοποίηση της πέμπτης εργασίας χρησιμοποίησα το [hugo](https://gohugo.io/). Με την χρήση του συγκεκριμένου εργαλείου δημιούργησα ένα στατικό σάιτ, το οποίο και επεξεργάστικα. Αρχικά, άλλαξα θέμα και έπειτα δημιούργησα το πρώτο που post, όπως φαίνεται παρακάτω.
+  Για την υλοποίηση της εργασίας χρησιμοποίησα το [hugo](https://gohugo.io/). Με την χρήση του συγκεκριμένου εργαλείου δημιούργησα ένα στατικό σάιτ, το οποίο και επεξεργάστικα. Αρχικά, άλλαξα θέμα και έπειτα δημιούργησα το πρώτο που post, όπως φαίνεται παρακάτω.
  
  ![image]( https://github.com/fsofronia/sw/blob/P2017063/projects/2017063/hugo.png)
  
@@ -158,6 +158,20 @@ AM: Π2017063
  [Link βιογραφίας/ Linus Torvalds](https://fsofronia.github.io/gr/biography/Linus-Torvalds/)
 
 Για την υλοποίηση της εργασίας παράλληλα χρησιμοποίησα και διάφορες εικόνες που προυπήρχαν ήδη στο mibook όπως την εικόνα από το λειτουργικό σύστημα των [Linux](https://fsofronia.github.io/gr/gallery/linux/). Επίσης, πρόσθεσα δύο εικόνες μία που αφορά το [Git](https://fsofronia.github.io/gr/gallery/git/), και μία για τον άνθρωπο που αναφέρεται στην παραπάνω βιογραφία τον [Linus Torvalds](https://fsofronia.github.io/gr/gallery/LinusTorvalds/).
+ 
+ 
+ ### ***Άσκηση 7 "configure a custom window manager"***
+   #### ***try different wm and configure one to fit your needs***
+   
+   #### [Αλλαγές στο file config](https://asciinema.org/a/v4tpHfvuSEB3eYBQR13pG3RQD?fbclid=IwAR01BVdC2ZKff54MQw3eaxTbNJtGerSgOQlf2iHL-lzdITiGhll_mIFvCWM)
+   #### [Αλλαγή φόντου επιφάνειας εργασίας/FullScreen/Restart/ScreenShot](https://asciinema.org/a/veysgx7CM68p9kDXTnns0YLuM?fbclid=IwAR3PeZHRH42kP7OHq9CYRfAafSSF_Z99s34MmDTfr1yu4Ru_aj8aWMtKfco)
+   
+  Για την υλοποίηση της επιπλέον άσκησης υλοποίησα την συγκεκριμένη χρησιμοποιώντας τον i3 windows manager. O i3 είναι απλός, αποτελεσματικός και γρήγορος, ευέλικτος και βασίζεται κυρίως σε συνδιασμούς πλήκτρων για τις διάφορες διεργασίες πχ mod+Enter για το άνοιγμα του terminal, mod+d για search, etc. 
+  Υλοποίησα διάφορες αλλαγές διαφοροποιώντας τους συνδιασμούς των πλήκτρων που ορίζουν το κλείδωμα οθόνης, τη φωτεινότητα, την ένταση. Επίσης, εγκατέστησα το feh ένα ιδιαίτερα ελαφρύ πρόγραμμα για προβολή εικόνων, κάτι που χρησιμοποίησα και για την αλλαγή του φοντου επιφάνειας εργασίας μου. 
+  Επέλεξα το i3, διότι είναι γρήγορος, απλός και οι συνδιασμοί είναι ιδιαίτερα απλοί
+ 
+ ![image](https://github.com/fsofronia/sw/blob/P2017063/projects/2017063/wm.png)
+ 
  
  
 
