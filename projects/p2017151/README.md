@@ -1,6 +1,7 @@
  ### ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 ### Ονοματεπώνυμο: Θεοδούλου Χαράλαμπος
 ### Α.Μ.: Π2017151
+#### [Λινκ αποθετηριου τελικης αναφοράς]( https://github.com/p17theo3/sw-final_report 'Λινκ αποθετηρίου τελικης αναφοράς')
  
  
  
@@ -296,6 +297,12 @@ H δεύτερη εικόνα που ανέβασα είναι ένα applesmart
 ### Στο Β έβαλα ενα διαδραστικό παράδειγμα του facebook log in page  του mini opera  απο το codepen. Είναι ένα παράδειγμα όπου ο χρήστης μπόρει να κάνει login η εγγραφή στο facebook
 
 ### [Facebook1](https://p17theo3.netlify.app/remix/facebook1/)
+
+## Γ
+
+### Στο Γ εκανα ενα case study για το facebook 
+
+### [Facebook2](https://p17theo3.netlify.app/case-study/facebook2/)
 
 
 
