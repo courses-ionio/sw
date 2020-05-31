@@ -75,7 +75,12 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 * Εργαλεία που χρησιμοποίησα: [neovim](https://github.com/neovim/neovim)
 
-* Διαδικασία πρίν το benchmark: Εκανα εγκατάσταση το neovim μαζι με τα plugins python-mode καθως και python syntax.Στη συνέχεια εκτέλεσα ενα πρόγραμμα σε python για την επιδειξη της σωστής λειτουργίας.
+* Διαδικασία πρίν το benchmark: Εκανα εγκατάσταση το neovim μαζι με τα plugins:
+
+ * [python-syntax](https://github.com/vim-python/python-syntax "python-syntax")
+ * [python-mode](https://github.com/python-mode/python-mode "python-mode")
+
+ Στη συνέχεια εκτέλεσα ενα πρόγραμμα σε python για την επιδειξη της σωστής λειτουργίας.
     
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
