@@ -120,3 +120,6 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 * Βίντεο στο [Asciinema](https://asciinema.org/a/3nYiwpO2xsrGuURshEzlRuq4X) 
 
+* Εργαλεία που χρησιμοποίησα: 
+[OpenSSH](https://www.openssh.com/)
+
