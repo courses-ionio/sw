@@ -75,12 +75,30 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 * Εργαλεία που χρησιμοποίησα: [neovim](https://github.com/neovim/neovim)
 
-* Διαδικασία πρίν το benchmark: Εκανα εγκατάσταση το neovim μαζι με τα plugins:
+* Διαδικασία : Εκανα εγκατάσταση το neovim μαζι με τα plugins:
 
  * [python-syntax](https://github.com/vim-python/python-syntax "python-syntax")
  * [python-mode](https://github.com/python-mode/python-mode "python-mode")
 
  Στη συνέχεια εκτέλεσα ενα πρόγραμμα σε python για την επιδειξη της σωστής λειτουργίας.
+ 
+ ### 6ο Παραδοτέο
+
+
+* Assignment : configure a custom window manager
+
+* Deliverables : try different wm and configure one to fit your needs
+
+* Περιγραφή :Αρχικά κατέβασα και εγκατέστησα το OpenBox γιατί ειναι πολύ ελαφρύ και επίσης χρησιμοποιεί ελάχιστη μνήμη Ram. Διαπίστωσα οτι για οποιαδήποτε μικροαλλαγή θελεις να κάνεις συνήθως χρειάζεται να εγκαταστήσεις ενα προγραμματακι μικρό πράγμα που επιβεβαιώνει πόσο ελαφρύ είναι.Παρακάτω είναι ένα παράδειγμα 2 προγραμμάτων που κατέβασα το πρώτο για να βάλω φόντο καθώς ήταν σκέτο μαύρο οταν το πρωτοάνοιξα και το δεύτερο για να βγαλω screenshot.
+
+* Εργαλεία που χρησιμοποίησα: 
+[Openbox](http://openbox.org/wiki/Main_Page)
+[scrot](https://github.com/dreamer/scrot)
+[nitrogen](https://github.com/l3ib/nitrogen)
+
+**Screenshot που προαναφέρθηκε!**<br/>
+ ![ntfy](images/ntfyy.png)
+
     
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
