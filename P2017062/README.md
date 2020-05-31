@@ -260,15 +260,17 @@ Link για fish plugins:
 ### Τίτλος: Set-up a system for python development
 #
 Για την επίλυση αυτής της άσκησης είναι απαραίτητη η εγκατάσταση του packaging tool [pipenv](https://docs.python-guide.org/dev/virtualenvs/) της Python. Για να έχουμε ορθή λειτουργία του εργαλείου αυτού η εγκατάσταση θα πρέπει να γίνει χρησιμοποιώντας pip3 με την εντολή ``` pip3 install pipenv ```. Στην συνέχεια δημιουργούμε ένα νέο directory το οποίο ονόμασα my_project στο οποίο ξεκινάμε και τη διαδικασία του virtual environment (είναι ουσιαστικά το user folder που μας ζητάται). Σε αυτό έκανα εγκατάσταση των βιβλιοθηκών:
-    1) ``` requests ``` Έτσι το pipenv θα δημιουργήσει τους φακέλους ``` Pipfile``` και ```Pipfile.lock``` οι οποίοι εντοπίζουν dependencies που μπορεί να χρειάζεται το project μας (οι φάκελοι αυτοί αναβαθμίζονται μετά την εγκατάσταση νέων βιβλιοθηκών). Επιπρόσθετα θα εγκατασταθεί η βιβλιοθήκη requests η οποία επιτρέπει να στέλνουμε εύκολα HTTP/1.1requests.H εγκατάσταση έγινε με την εντολή ``` pipenv install requests ``` 
-    2) ``` camelcase ``` Πρόκειται για μια σχετικά απλή βιβλιοθήκη. Στην άσκηση χρησιμοποιήθηκε σε ένα απλό Python πρόγραμμα το οποίο μετέτρεπε τα πρώτα γράμματα των λέξεων ενός string σε κεφαλαία. Η εγκατάσταση έγινε με την εντολή ``` pipenv install camelcase ```.
-    3) ``` django ``` Το [django](https://www.djangoproject.com/) δεν είναι ακριβώς βιβλιοθήκη, είναι μάλλον ένα Python-based free and open-source web framework το οποίο μπορεί να χρησιμοποιηθεί για διάφορες διεργασίες. Εγώ το χρησιμοποίησα για να δημιουργήσω εύκολα ένα τοπικό django project που τρέχει μέσα στο virtual environment. Η εγκατάσταση έγινε με την εντολή ``` pip3 install django ```. Οι εντολές που χρησιμοποιήθηκαν για τη δημιουργία του project είναι οι εξής:
-    ```
-    django-admin startproject testproject
-    cd testproject
-    python manage.py runserver 
-    ```
-Η αποκλειστικότητα που ζητάται στην άσκηση αποδεικνύεται με την εκτέλεση του απλού Python προγράμματος
+
+   1. ``` requests ``` Έτσι το pipenv θα δημιουργήσει τους φακέλους ``` Pipfile``` και ```Pipfile.lock``` οι οποίοι εντοπίζουν dependencies που μπορεί να χρειάζεται το project μας (οι φάκελοι αυτοί αναβαθμίζονται μετά την εγκατάσταση νέων βιβλιοθηκών). Επιπρόσθετα θα εγκατασταθεί η βιβλιοθήκη requests η οποία επιτρέπει να στέλνουμε εύκολα HTTP/1.1requests.H εγκατάσταση έγινε με την εντολή ``` pipenv install requests ``` 
+   2. ``` camelcase ``` Πρόκειται για μια σχετικά απλή βιβλιοθήκη. Στην άσκηση χρησιμοποιήθηκε σε ένα απλό Python πρόγραμμα το οποίο μετέτρεπε τα πρώτα γράμματα των λέξεων ενός string σε κεφαλαία. Η εγκατάσταση έγινε με την εντολή ``` pipenv install camelcase ```.
+   3. ``` django ``` Το [django](https://www.djangoproject.com/) δεν είναι ακριβώς βιβλιοθήκη, είναι μάλλον ένα Python-based free and open-source web framework το οποίο μπορεί να χρησιμοποιηθεί για διάφορες διεργασίες. Εγώ το χρησιμοποίησα για να δημιουργήσω εύκολα ένα τοπικό django project που τρέχει μέσα στο virtual environment. Η εγκατάσταση έγινε με την εντολή      ``` pip3 install django ```. Οι εντολές που χρησιμοποιήθηκαν για τη δημιουργία του project είναι οι εξής: 
+  ```
+     django-admin startproject testproject
+     cd testproject
+     python manage.py runserver
+     
+  ```
+ Η αποκλειστικότητα που ζητάται στην άσκηση αποδεικνύεται με την εκτέλεση του απλού Python προγράμματος
   ```
     import sys
     sys.executable
