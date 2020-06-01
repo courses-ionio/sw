@@ -15,3 +15,10 @@
   * https://margout.github.io/gr/gallery/adobe/
 * MOZZILA FIREFOX
   * https://margout.github.io/gr/gallery/firefoxx/
+## ΑΣΚΗΣΕΙΣ 
+
+## Β ΚΑΙ Γ ΣΥΜΜΕΤΟΧΙΚΟ (+1 ΑΣΚΗΣΗ)
+
+*ΒΙΟΓΡΑΦΙΑ KEMENY
+   *https://margout.github.io/gr/biography/Kemeny/
+  
