@@ -14,6 +14,8 @@ https://p17dimo.netlify.com//gallery/coding/
 https://p17dimo.netlify.com//gallery/vr/
 ### Δεύτερο Παραδοτέο (Διαδραστικό παράδειγμα)
 https://p17dimo.netlify.app/remix/myterm/
+#### Διαδραστικό παράδειγμα (2)
+https://p17dimo.netlify.app/remix/editor/
 
 ## Ασκήσεις Terminal
 
