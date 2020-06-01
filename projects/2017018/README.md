@@ -1,4 +1,5 @@
 # Τμήμα Πληροφορικής Ιονίου Πανεπιστημίου
+# Τελική Αναφορά του μαθήματος Τεχνολογίες Λογισμικού
 ### Μάθημα: Τεχνολογίες Λογισμικού
 * Σύνδεσμος Αποθετηρίου: https://github.com/mmits/sw/tree/2017018/projects/2017018
 
@@ -233,3 +234,11 @@ https://gohugo.io/documentation/
 https://github.com/amzrk2/hugo-theme-fuji/
 
 https://docs.docker.com/reference/
+
+http://worrydream.com/
+
+https://www.billbuxton.com
+
+https://en.wikipedia.org/wiki/Bret_Victor
+
+https://en.wikipedia.org/wiki/Bill_Buxton
