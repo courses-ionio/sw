@@ -3,6 +3,10 @@
 
 ### Ονοματεπώνυμο: Ευτυχία Δήμητρα Μαρία Φαρμάκη
 ### Αριθμός Μητρώου: Π2017070
+#
+## ΕΙΣΑΓΩΓΗ
+
+Στην παρακάτω εργασία υλοποίησα 7 ασκήσεις (6+1) και 3 συμμετοχικά (2+1). Αναλυτικά υπάρχει στην αρχή κάθε άσκησης το λινκ, τα εργαλεία που χρησιμοποίησα για κάθε μία απο αυτές, λεπτομέρειες στις οποίες αναφέρω ακριβώς τι έχει υλοποιηθεί σε κάθε άσκηση και τέλος οι πηγές οι οποίες με βοήθησαν σε κάθε μια απο αυτές. Με τις λεπτομέρειες στόχος ήταν να βοηθήσω ώστε αν κάτι δεν είναι κατανοητό στο asciinema, να γίνει μέσω αυτων. Σε κάποιες από αυτές έχω τοποθετήσει σχετικές εικόνες και σχετικούς υποφακέλους(codes) στο δικο μου φάκελο. 
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ(30 ΜΑΡΤΙΟΥ)
@@ -400,7 +404,7 @@ https://strongloop.com/strongblog/lets-code-it-static-site-generator/
 
 
 
-### Fifth Assignment- Performance Monitoring
+## Fifth Assignment- Performance Monitoring
 #
 **Link:**
 
@@ -425,7 +429,7 @@ https://strongloop.com/strongblog/lets-code-it-static-site-generator/
  https://cli.fan/posts/hyperfine/
  
  
- ### Sixth Assignment-Programmable Voice
+ ## Sixth Assignment-Programmable Voice
  #
  **Link:**
  [sixth-assignment-link](https://asciinema.org/a/OF03CmNLNQ5ry5wAX5QDMQvWZ)
@@ -454,7 +458,7 @@ https://strongloop.com/strongblog/lets-code-it-static-site-generator/
  
  
  
- ### Seventh Assignment-Set-up a system for python development
+ ## Seventh Assignment-Set-up a system for python development
  #
  **Link:**
  
@@ -478,6 +482,27 @@ https://strongloop.com/strongblog/lets-code-it-static-site-generator/
  https://github.com/pyenv/pyenv
  
  https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-debian-8
+ 
+ 
+## B Συμμετοχικό Υλικό
+
+* Βιογραφία του Ken Thompson
+
+     * https://eftichiafarmaki.github.io/gr/biography/thompson/
+     
+
+## Γ Συμμετοχικό Υλικό
+
+* Μελέτη περίπτωσης για το Linux
+
+    * https://eftichiafarmaki.github.io/gr/case-study/linux/
+    
+    
+ ## Συμπεράσματα
+ 
+ Από τις παραπάνω εργασίες κατάφερα να εξοικιωθώ παραπάνω με βασικά και μη εργαλεία του linux. Ανέβασα αρκετές προσθήκες και διορθώσεις και προσπάθησα να τα κάνω όσο αναλυτικότερα ήταν δυνατόν.
+    
+    
  
  
  
