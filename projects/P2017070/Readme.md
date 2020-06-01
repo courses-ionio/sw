@@ -147,15 +147,20 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
 
 
 
-
-
 ## Second Assignment-SW (Configure a custom window manager)
 #
-[second-assignment-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
+**Links:**
+
+[i3wm-link](https://asciinema.org/a/tsMa21w0CFsDbe686cHZkjx2J)
+
+[awesomewm-link](https://asciinema.org/a/iDJWG8Hd5Wi9TAXZa21GoAkRw)
+
 
 Εργαλεία:
 
         i3 Windows Manager
+        
+        awesome
         
         
         
@@ -163,38 +168,10 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
  #
 Σε πρώτη φάση, επέλεξα τον i3 windows manager. Eίναι ένας ελεύθερος, ανοιχτού κώδικα και πλήρως διαμορφωμένος διαχειριστής παραθύρων και διαθέτει tree data structure που επιτρέπει πιο ευέλικτα layouts από τις εναλλακτικές λύσεις. 
 
-**Γιατί να επιλέξει κανείς τον i3-wm?**
-
-- Minimalist
-
-- Light But Powerful
-
-- Flexible
-
-- The Mouse Is Not Your Best Friend
-
 
 *Τα βήματα φαίνονται παρακάτω πιο αναλυτικά από το asciinema λόγω της αποκλειστικής σχεδόν χρήσης πληκτρολογίου και λόγω του ότι πολλές ρυθμίσεις που έγιναν στο config file του i3wm χρειάζονταν reboot για να εφαρμοστούν.*
 
 - Αρχικά εγκατέστησα τον i3 windows manager μέσω της εντολής **sudo apt-get install i3-wm**
-
-*Τα βασικά keyboard shortcuts των οποίων οι συνδυασμοί προυπήρχαν στο config file και μου ήταν απαραίτητα για την αρχική μου πλοήγηση είναι συνοπτικά τα εξής:* 
-
-| KEYBOARD SHORTCUTS | ΛΕΙΤΟΥΡΓΙΕΣ |
-| -- | -- |
-| ALT+ENTER | Open new terminal |
-| MOD+SHIFT+J,K,L,; | Move window |
-| MOD+0-9 | Switch to another workspace |
-| MOD+SHIFT+0-9 | Move a window to another workspace |
-| MOD+D | Open application launcher-dmenu |
-| MOD+SHIFT+E | Exit i3 |
-| MOD+SHIFT+Q | Kill a window |
-| MOD+SHIFT+C | Reload the configuration file |
-| MOD+SHIFT+R | Restart i3 in place |
-| MOD+F | Toggle fullscreen |
-| MOD+V | Split a window vertically |
-| MOD+H | Split a window horizontally |
-| MOD+H | Resize mode |
 
 Στη συνέχεια, οι εντολές που ακολούθησα ήταν οι εξής:
 
@@ -235,6 +212,8 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
   ![image](screenshot3.PNG)
   
   
+  
+  
   ### SOURCES 
  # 
   https://i3wm.org/docs/userguide.html
@@ -245,12 +224,23 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
   
   https://opensource.com/article/18/8/getting-started-i3-window-manager
   
-         
-
+  https://fedoramagazine.org/getting-started-i3-window-manager/
+  
+  https://geekoverdose.wordpress.com/2017/02/05/i3-window-manager-setup-and-configuration/
+  
+  https://thibaultmarin.github.io/blog/posts/2016-10-05-Awesome-wm_configuration.html#email
+  
+  https://awesomewm.org/doc/api/classes/awful.widget.calendar_popup.html#awful.widget.calendar_popup.month
+  
+  
+  
+        
 
 ## Third Assignment-SW (Send notifications to your desktop-mobile):
 #
-[third-assignment-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
+**Link:**
+
+[notify-link](https://asciinema.org/a/4yOxIH2rRATuEWdAzLqwzS8kj)
 
 Εργαλεία:
 
@@ -353,7 +343,11 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
  
  ## Fourth Assignment-SW (Create your own static site and blog generator):
  #
- [fourth-assignment-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
+ **Links:**
+ 
+ [hugo-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
+ 
+ [site-generator-link](https://asciinema.org/a/hTaJxFSVYunRxSkfE6CwP5tqg)
  
  Εργαλεία: 
        
@@ -381,6 +375,11 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
                 tag = "tags"
                 mood = "moods"
         - hugo server -D 
+        
+![image](screenshot5.PNG)          ![image](screenshot6.PNG)
+ 
+ 
+![image](screenshot7.PNG)
 
 
 ### SOURCES 
