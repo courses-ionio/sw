@@ -21,4 +21,4 @@
 ### Ergasia 6 : [performance monitoring](https://asciinema.org/a/eSGBwEzJNNwrBzHxXOV3O6MIv)
  >Στην τελευταία εργασία το .svg αρχείο δημιουργήθηκε με επιτυχία, στάλθηκε μέσω του προσωπικού e-mail μου απο το virtual box στο κύριο 
  λογισμικό μου και τροποποιήθηκε ανάλογα σε .png εικόνα για να παρουσιαστεί εδώ.
- 
+ ![image](profile.png)
