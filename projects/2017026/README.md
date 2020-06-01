@@ -107,3 +107,11 @@ py-spy record -o profile.svg -- python main.py
 Με αυτό κατέγραψα την επιδοσή του main.py και το απεικόνησα όπως φαίνεται στο παρακάτω screenshot σε ένα αρχείο svg που το ονόμασα profile.svg.
 
 ![image](profile.svg)
+
+###Συμμετοχικό Περιεχόμενο:
+
+A: δύο νέες εικόνες 
+AutoCAD: https://github.com/giottachou/gr/blob/P2017026/_gallery/AutoCAD.md  
+Lego Mindstorms EV3 software interface: https://github.com/giottachou/gr/blob/P2017026/_gallery/Lego-Mindstorms-EV3-Software-interface.md
+Γ: μια νέα βιογραφία
+Margaret Hamilton: https://github.com/giottachou/gr/tree/P2017026/_biography/P2017026
