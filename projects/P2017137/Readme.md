@@ -28,7 +28,18 @@
 
 ### Πρωτη Ασκηση- try different terminals and shells
 #
- https://asciinema.org/a/MiHKknLI2EJwCcTLRLQ6Ka9az?fbclid=IwAR16g1F16WKa3AQXzifOJ5rDtPndD8uWuGgGnwtpIxmd0lQpiAUHJD2VF3E
+
+**Λινκ**  https://asciinema.org/a/MiHKknLI2EJwCcTLRLQ6Ka9az?fbclid=IwAR16g1F16WKa3AQXzifOJ5rDtPndD8uWuGgGnwtpIxmd0lQpiAUHJD2VF3E
+
+**Εργαλεία:** 
+
+- z shell
+
+- oh-my-zsh
+
+- terminator
+
+**Λεπτομέρειες:**
  
  
  ### Δευτερη Ασκηση- send notifications
