@@ -18,10 +18,10 @@
 **Asciinema link:** https://asciinema.org/a/gZHBJVEWIjmmnLhfNecxSHq7U
 
 Χρησιμοποίησα το [SpaceVim](https://spacevim.org/), μια επέκταση του text editor Vim η οποία διαθέτει εργαλεία για την ανάπτυξη κώδικα με διάφορες γλώσσες προγραμματισμού και πολλά άλλα.
-![1](/images/vim 1.png)
+![1](/images/vim1.png)
 
 Μετά την εγκατάσταση του SpaceVim, αλλάζω και προσθέτω νέες παραμέτρους στο config file του προγράμματος, ώστε να υποστηρίζει error checking, autocompletion και compiling της γλώσσας Python.<br>
-![2](/images/vim 2.png)
+![2](/images/vim2.png)
 Το κομμάτι κώδικα που πρόσθεσα είναι το παρακάτω:<br>
 ```
 [[layers]]
@@ -31,15 +31,15 @@ auto-completion-tab-key-behavior = "cycle"
 ```
 
 Ύστερα, μπορώ να γράψω ένα πρόγραμμα, το οποίο μετά το SpaceVim εκτελεί μέσα από το δικό του shell.
-![3](/images/vim 3.png)
+![3](/images/vim4.png)
 
 *Ύστερα από συνενόηση με τον καθηγητή, δημιούργησα ένα δεύτερο asciinema link το οποίο παρουσιάζει την εκτέλεση ενός διαφορετικού, πιο περίπλοκου προγράμματος.*<br>
 **Asciinema link 2:** https://asciinema.org/a/GLjWrzWaNbj6BP91j2HuE30Rg
 
-![4](/images/vim 4.png)
+![4](/images/vim5.png)
 Το παραπάνω πρόγραμμα εκτελεί μια διαδικασία merge sort ενός μονοδιάστατου πίνακα και παρουσιάζει το αποτέλεσμα.
 
-![5](/images/vim 5.png)
+![5](/images/vim6.png)
 Τροποίησα επίσης το πρόγραμμα ώστε ο πίνακας να περιέχει περισσότερα στοιχεία.
 
 ## Άσκηση 2:
