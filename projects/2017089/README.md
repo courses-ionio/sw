@@ -1,6 +1,7 @@
 ### ΟΝΟΜΑΤΕΠΏΝΥΜΟ: ΑΡΓΥΡΩ ΜΑΡΙΟΛΗ
 ### ΑΜ: Π2017089
 ### ΕΜΑΙL: p17mari@ionio.gr, argiromar7@gmail.com
+### ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ:Α ([image one](https://github.com/p17mari/gr/blob/gh-pages/_gallery/quick-draw.md),[image two](https://github.com/p17mari/gr/blob/gh-pages/_gallery/harvard-mark.md)), Γ([case study](https://github.com/p17mari/gr/blob/gh-pages/_case-study/cs-cobol.md) ,[biography](https://github.com/p17mari/gr/blob/gh-pages/_biography/bio-hopper.md))
 
 ## ΕΡΓΑΣΙΕΣ:
 
