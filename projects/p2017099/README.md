@@ -1,4 +1,6 @@
 # Kapretsos Giorgos P2017099
+# Email: p17kapr1@ionio.gr
+
 
 ### Ergasia 1 : [use the terminal as an IDE](https://asciinema.org/a/6RZcW150ZthZCgZP7N3TKGqnE)
 ### Ergasia 2 : [set-up a system for python development](https://asciinema.org/a/N5GZgqcsRECMEJ8fT8O5uPVeT)
