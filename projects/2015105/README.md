@@ -77,9 +77,19 @@
 Αναφορές:
 - [ntfy](https://github.com/dschep/ntfy)
 
-## 5. try different operating systems in the emulator
+## 6. try different operating systems in the emulator
 **Deliverable:** load at least two operating systems without a GUI (only CLI) and create a virtual local network
 
 Για αυτήν την άσκηση δοκίμασα να τρέξω virtual machines με το QEMU. Πιο συγκεκριμένα έτρεξα ταυτόχρονα δύο διανομές Linux που ξεκινάνε σε CLI περιβάλλον, τις Alpine και Arch. Επίσης χρησιμοποίησα το KVM (Kernel Virtual Machine) module του Linux το οποίο πρόσφερε ταχύτητηα στα δύο guests. Δυστυχώς δεν κατάφερα να φτιάξω ένα virtual local network.
 
 ![Virtual Machines](virtual_machines.png)
+
+## 7. set-up a system for python development (Πρόσθετη Άσκηση)
+**Deliberable:** install and configure in a user folder a python project that is not available through the package manager
+
+Ακολουθώντας την πηγή, εγκατέστησα το εργαλείο pipenv στο home μου, το οποίο έπειτα χρησιμοποίησα για να εγκαταστήσω μερικά γνωστά python packages.
+
+[![asciicast](https://asciinema.org/a/kESYimypV9o0Qgkr0eUzF5qsA.svg)](https://asciinema.org/a/kESYimypV9o0Qgkr0eUzF5qsA)
+
+Πηγή:
+- [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/)
