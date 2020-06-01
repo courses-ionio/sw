@@ -1,5 +1,5 @@
 # Kapretsos Giorgos P2017099
-# Email: p17kapr1@ionio.gr
+## Email: p17kapr1@ionio.gr
 
 
 ### Ergasia 1 : [use the terminal as an IDE](https://asciinema.org/a/6RZcW150ZthZCgZP7N3TKGqnE)
