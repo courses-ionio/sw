@@ -113,5 +113,9 @@ py-spy record -o profile.svg -- python main.py
 A: δύο νέες εικόνες 
 AutoCAD: https://github.com/giottachou/gr/blob/P2017026/_gallery/AutoCAD.md  
 Lego Mindstorms EV3 software interface: https://github.com/giottachou/gr/blob/P2017026/_gallery/Lego-Mindstorms-EV3-Software-interface.md
+
+Β: ένα νέο διαδραστικό παράδειγμα
+Copy to clipboard button: https://github.com/giottachou/gr/blob/P2017026/_remix/copyclipboard.md
+
 Γ: μια νέα βιογραφία
 Margaret Hamilton: https://github.com/giottachou/gr/tree/P2017026/_biography/P2017026
