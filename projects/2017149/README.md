@@ -23,7 +23,11 @@ ERROR 2: https://i.gyazo.com/9dbd83e64807bb8123e791be5427930a.png
 Εικόνα 2: https://i.gyazo.com/dd9065d61fec67985b01926bcebf9835.png
 
 
-Διαδραστικό Παράδειγμα: https://github.com/p17papa5/gr/blob/master/_remix/termninal.md
+Διαδραστικό Παράδειγμα: 
+
+https://github.com/p17papa5/gr/blob/master/_remix/termninal.md
+
+https://github.com/p17papa5/gr/blob/master/_remix/worldmap.md
 
 1o: https://p17papa5.netlify.app/remix/termninal/
 
@@ -80,6 +84,17 @@ https://asciinema.org/a/p0EAL6QowA3gWkjw1q1Db6X8e
 
 To fuck σε βοηθάει όταν έχεις γράψει μια εντολή λάθος και βρίσκει την πιο κοντινή σε αυτή που έχεις γράψει.
 
+## Eργασία 7:
+
+Set-up cloud services
+
+ssh to a remote machine and demonstrate your remote cli user land 
+
+https://asciinema.org/a/335635
+
+## Συμπεράσματα:
+
+Τα συμπεράσματα μου είναι ότι τα Linux είναι πολύ ελαφριά σε σχέση με τα Windows, ακόμα μπορείς να να τα τροποποίησης και να αλλάξεις το UI οπός σε βολεύει. Υπάρχουνε πολλά εργαλεία που σε βοηθούν για ότι χρειάζεσαι για παράδειγμα πολλά διαφορετικά terminals, να ανοίξεις τον δικό σου server και άλλα πολλά.. Επίσης μπορείς να κάνεις τα πάντα από το terminal χωρίς την βοήθεια καπίου interface.
 
 
 
