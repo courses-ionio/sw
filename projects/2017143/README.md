@@ -23,7 +23,7 @@
 Στο asciinema φαίνετε το git push που κανει triger το travis που κάνει build την σελίδα mycv.  
 [![asciicast](https://asciinema.org/a/335485.svg)](https://asciinema.org/a/335485)
 - try different terminals and shells  
-Εργαλεία: ksh, zsh, bash, kosnole, sakura, terminator  
+Εργαλεία: ksh, zsh, bash, konsole, sakura, terminator  
 Τα παραπάνω terminals και shells χρησιμοποιήθηκαν, τα terminals φαίνονται στις φωτογραφίες καθώς δεν γινόταν να τα αλλάξώ απο το shell. Στο asciicast φαίνονται τα shells.  
 ![terminator](terminator.png)  
 ![konsole](konsole.png)  
@@ -37,14 +37,14 @@
 ![plasma](plasma.png)
 [![asciicast](https://asciinema.org/a/314577.svg)](https://asciinema.org/a/314577)
 - use the terminal as an IDE  
-Εργαλεία: nano, gcc
+Εργαλεία: nano, gcc  
 Το nano χρησιμοποιήθικε για την επεξεργασία του κώδικα και ο gcc για το compile του κώδικα.  
 [![asciicast](https://asciinema.org/a/334681.svg)](https://asciinema.org/a/334681)
 - set-up a system for python development  
 Εργαλεία: virtual environment, python3  
 [![asciicast](https://asciinema.org/a/335227.svg)](https://asciinema.org/a/335227)
 - send notifications to your desktop-mobile  
-Εργαλεία: ntfy
+Εργαλεία: ntfy  
 Στο asciicast φεναιτε πως χρησιμοποιώ το ntfy για να στέλνω notification και πως αυτόματα με ενημερώνει όταν τελιώσει μια μεγάλη εργασία.  
 Όταν στέλνω hi:  
 ![ntfy hi](ntfyhi.png)  
