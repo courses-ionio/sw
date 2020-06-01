@@ -45,13 +45,13 @@
 [![asciicast](https://asciinema.org/a/335227.svg)](https://asciinema.org/a/335227)
 - send notifications to your desktop-mobile  
 Εργαλεία: ntfy
-Στο asciicast φεναιτε πως χρησιμοποιώ το ntfy για να στέλνω notification και πως αυτόματα με ενημερώνει όταν τελιόσει μια μεγάλη εργασία.  
+Στο asciicast φεναιτε πως χρησιμοποιώ το ntfy για να στέλνω notification και πως αυτόματα με ενημερώνει όταν τελιώσει μια μεγάλη εργασία.  
 Όταν στέλνω hi:  
-![ntfy hi](ntfihi.png)  
+![ntfy hi](ntfyhi.png)  
 Όταν τελιώνει μια μεγάλη διεργασία:  
-![ntfy sleep](ntfisleep.png)  
+![ntfy sleep](ntfysleep.png)  
 Ειδοποιήσοις απο το ntfy:  
-![ntfy big task](ntfibigtask.png)  
+![ntfy big task](ntfybigtask.png)  
 [![asciicast](https://asciinema.org/a/335488.svg)](https://asciinema.org/a/335488)
 - try different operating systems in the emulator  
 Εργαλεία: docker, ubuntu, archlinux  
@@ -64,3 +64,10 @@ To hyperfine ειναι το προγραμμα που θα κάνει το moni
 Με την επιλογη style έβαλα το full για να διακρινονται οι πληροφοριες στα αποτελέσματα με διάφορα χρώματα.  
 Τελος, το έκανα να αποθηκεύση τα αποτελέσματα του benchmark σε 1 markdown αρχείο.  
 [![asciicast](https://asciinema.org/a/335510.svg)](https://asciinema.org/a/335510)
+## Βιβλιογραφία
+- https://en.wikipedia.org/wiki/Tim_Berners-Lee
+- https://www.programiz.com/python-programming/examples/shuffle-card
+- https://github.com/sharkdp/hyperfine
+- https://ntfy.readthedocs.io/en/latest/
+- https://travis-ci.org/
+- https://stackoverflow.com/questions/15718649/how-to-publish-a-website-made-by-node-js-to-github-pages
