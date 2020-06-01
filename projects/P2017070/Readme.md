@@ -46,14 +46,17 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 
 
 
-## First Assignment-SW (try different terminals and shells
+## First Assignment-SW (try different terminals and shells)
 # 
 **Links:**
 
-[first-link](https://asciinema.org/a/qku8uIjywVdh5wGRGzUir9pNB)
+[zsh-fish-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
 
+[cool-retro-term-cshell](https://asciinema.org/a/Jvxzi3mKihcCabHQO8PoxYXJG)
 
-Για την πρώτη εργασία στο μάθημα "Τεχνολογιες Λογισμικου" του ΣΤ' εξαμήνου χρησιμοποιήθηκαν τα παραπάνω εργαλεία για να ανοίξω τουλάχιστον δύο shells και να δοκιμάσω διάφορα plugins.
+**Details:**
+
+Για την πρώτη εργασία χρησιμοποιήθηκαν τα παρακάνω εργαλεία για να ανοίξω τουλάχιστον δύο shells και terminals και να δοκιμάσω διάφορα plugins.
 
 Εργαλεία: 
 
@@ -64,6 +67,10 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
         oh-my-zsh(z-shell manager)
         
         oh-my-fish(fish manager)
+        
+        cool-retro-term
+        
+        c-shell
 
 Σε πρώτη φάση επέλεξα να πλοηγηθώ και να ανοίξω τα δύο αυτά shells (fish,zsh). Σε δεύτερη φάση, εφόσον μπόρω να διορθώσω και να προσθέσω πράγματα στις εργασίες θα προσθέσω και άλλα shells αλλά και terminals.
 Για αρχή, χρησιμοποιώ τα δύο αυτά εργαλεία, τους managers και τα διάφορα plugins που αυτοί προσφέρουν.
@@ -112,6 +119,14 @@ To πρώτο είναι για αναζήτηση σε ιστότοπους μ�
 - Για έξοδο-> exit
 
 - Επιπλέον, η εντολη **cat /etc/shells/** δίνει τα paths από κάποια shells τα οποία είναι ήδη διαθέσιμα, όπως είναι το dash.
+
+**Στο δεύτερο λινκ ανέβασα το installation από το cool-retro-term και το c-shell όπως φαίνεται παρακάτω:
+
+![image](retro-term.PNG)
+
+
+
+
 #
 #### SOURCES
 
