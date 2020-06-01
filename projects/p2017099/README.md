@@ -3,7 +3,7 @@
 
 
 ### Ergasia 1 : [use the terminal as an IDE](https://asciinema.org/a/6RZcW150ZthZCgZP7N3TKGqnE)
-Σε αυτήν την εργασία μας ζητήθηκε να χρησιμοποιήσουμε το vim για να κανουμε edit ενα pyhton scirpt. Η μεγαλύτερη δυσκολία που συναντήθηκε ήταν η χρήση του vim αφού υπήρχε δυσκολία στην ανταπόκριση του προγράμματος.
+  Σε αυτήν την εργασία μας ζητήθηκε να χρησιμοποιήσουμε το vim για να κανουμε edit ενα pyhton scirpt. Η μεγαλύτερη δυσκολία που συναντήθηκε ήταν η χρήση του vim αφού υπήρχε δυσκολία στην ανταπόκριση του προγράμματος.
 
 ### Ergasia 2 : [set-up a system for python development](https://asciinema.org/a/N5GZgqcsRECMEJ8fT8O5uPVeT)
 
