@@ -7,7 +7,17 @@
 
 **Αποθετήριο Ασκήσεων: [dokey](https://github.com/courses-ionio/dokey)**
 
+**Προσωπικό Αποθετήριο Μαθήματος: [sw](https://github.com/gmargaritis/sw)**
+
+**Προσωπικό Αποθετήριο mibook: [mibook](https://github.com/gmargaritis/gr)**
+
 ---
+
+## Τελική Αναφορά
+
+## Σύνοψη
+
+Στο πλαίσιο του μαθήματος Τεχνολογία Λογισμικού πραγματοποιήθηκαν 7 ασκήσεις λογισμικού αλλά και 3 ασκήσεις συμμετοχικού υλικού. 
 
 ## Προαπαιτούμενα 
 
@@ -426,3 +436,69 @@ neofetch
 Πραγματοποιήθηκαν και οι παραπάνω εντολές ώστε να εκπληρώσουν το description της άσκησης.
 
 ### **Asciinema:** [ssh](https://asciinema.org/a/qM24sUb1u5baGF8lBDzVpQJft)
+
+---
+
+## Άσκηση 7
+
+**Τίτλος:** Set-up a system for python development
+
+**Περιγραφή:** Install and configure in a user folder a python project that is not available through the package manager
+
+Για αυτή την άσκηση έγινε η εγκατάσταση του ```pipenv``` που είναι ενάς dependency manager για Python projects. Με τη χρήση του ```pipenv``` δε χρειάζεται να χρησιμοποιούνται το ```pip``` και το ```virtualenv``` ξεχωριστά, αφού πλέον δουλεύουν μαζί.
+
+Στα πλαίσια της άσκησης εγκαταστήθηκε το πακέτο ```requests```.
+
+Η εγκατάσταση του ```pipenv``` πραγματοποιήθηκε με την παρακάτω εντολή:
+
+```bash
+pip install --user pipenv
+```
+
+Πραγματοποιήθηκαν οι παρακάτω εντολές:
+
+```bash
+
+mkdir project
+cd project
+
+touch test.py
+
+pipenv install requests
+pipenv lock 
+
+cat Pipfile
+cat Pipfile.lock
+
+vim test.py
+
+pipenv run python test.py
+
+pipenv shell
+
+pipenv graph
+
+ls
+
+exit
+```
+
+### **Asciinema:** [pipenv](https://asciinema.org/a/yFNXC5XRMSlWanPveSIjD7Nn4)
+
+---
+
+## Συμμετοχικό Υλικό
+
+Για το συμμετοχικό υλικό πραγματοποιήθηκαν 2 διαδραστικά παραδείγματα (carousel, night mode button) που παρουσιάστηκαν εν ώρα μαθήματος αλλά και μία μελέτη περίπτωσης για το Raspberry Pi.
+
+### **Carousel:** [carousel.md](https://github.com/gmargaritis/gr/blob/carousel/_remix/carousel.md)
+
+### **Night Mode:** [night-mode.md](https://github.com/gmargaritis/gr/blob/night-mode/_remix/night-mode.md)
+
+### **Raspberry Pi :** [cs-rasberry-pi.md](https://github.com/gmargaritis/gr/blob/case-study/_case-study/cs-raspberry-pi.md), [rasberry-pi.md](https://github.com/gmargaritis/gr/blob/case-study/_case-study/raspberry-pi.md), **Images:** [raspberry-pi.jpg](https://github.com/gmargaritis/gr/blob/case-study/images/raspberry-pi.jpg), [raspberry-pi-components.jpg](https://github.com/gmargaritis/gr/blob/case-study/images/raspberry-pi-components.jpg), [raspberry-pi-camera.jpg](https://github.com/gmargaritis/gr/blob/case-study/images/raspberry-pie-camera.jpg), [rasberry-pi-zero.jpg](https://github.com/gmargaritis/gr/blob/case-study/images/rasberry-pi-zero.jpg)
+
+---
+
+## Συμπεράσματα
+
+Μέσω των παραπάνω εργασιών εξοικειώθηκα με το command line, ανακάλυψα νέα ενδιαφέρον projects και επεκτάσεις, ενώ μερικά από αυτά κατέληξα να τα χρησιμοποιώ και στην καθημερινότητα μου. 
