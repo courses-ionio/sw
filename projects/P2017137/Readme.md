@@ -4,7 +4,7 @@
 ### Αριθμός Μητρώου: Π2017137
 
 
-## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ 
+## A' ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ 
 
 ### Links
 
@@ -12,7 +12,7 @@
 
 **Σύνδεσμος αποθετηρίου https://github.com/chriskyratzis/gr**
 
-### A ΠΑΡΑΔΟΤΕΟ
+
 ### Σύνδεσμοι εικόνων
 
 * SOLARIS
@@ -101,7 +101,40 @@ https://opensource.com/article/18/8/getting-started-i3-window-manager
 
 
 ### Eκτη Ασκηση- howdoi
-
+#
 https://asciinema.org/a/5p8iUUIDSfQcMAahZhGzYlaR3
+
+## A' ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ 
+#
+### Links
+
+**Σύνδεσμος ιστότοπου https://chriskyratzis.github.io/gr/**
+
+**Σύνδεσμος αποθετηρίου https://github.com/chriskyratzis/gr**
+
+
+### Σύνδεσμος Βιογραφίας
+
+* James Gosling
+
+  * https://chriskyratzis.github.io/gr/biography/james-gosling/
+  
+
+### Σύνδεσμος Μελέτης Περίπτωσης
+
+* Android
+
+  * https://chriskyratzis.github.io/gr/case-study/android/
+  
+**Πηγές:**
+
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+https://www.androidauthority.com/history-android-os-name-789433/
+
+
+
+
+
 
 
