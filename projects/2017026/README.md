@@ -85,8 +85,8 @@ Mόλις τελιώσα όλα αυτά μπορούσα πλέον να συν
 
 Για αυτή την εργασία χρειάστηκε το twilio. Με το twilio κατάφερα να βάλω τον υπολογιστή μου με τη χρήση python scripts να κάνει κλήση στο κινητό μου με ένα αυτοματοποιημένο μυνημα, οπώς και να στείλω SMS κάτι που ήθελα. Μέσω της πλατφόρμας του twilio έκανα function που το ονόμασα blacklist με το οποίο θα έιχε blacklist όσα κινητά έχω προσθέσει.
 
-![image](calltwilio.jpg)
-![image](programmablevoice.jpg) ![image](programmablesms.jpg)
+![image](calltwilio.png)
+![image](programmablevoice.png) ![image](programmablesms.png)
 ![image](smsscreenshot.jpg) 
 
 ### ΕΡΓΑΣΙΑ 9Η: [choose your stack](https://asciinema.org/a/odnSkFjN10BeDLqrFfOpw1Us5)
