@@ -9,6 +9,7 @@
 
 ### 2η άσκηση
 
+https://asciinema.org/a/96j1a2nSqA9TfRgCTXbKyoZjg
 
 ### Ασκήσεις Συμμετοχικού υλικού
 
