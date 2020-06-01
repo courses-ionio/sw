@@ -53,8 +53,8 @@ To θεώρησα μια καλή προσθήκη για το βιβλίο κα
 ## First Assignment-SW (try different terminals and shells)
 # 
 **Links:**
-
-[zsh-fish-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)
+ 
+[zsh-fish-link](https://asciinema.org/a/9HQqJyw9kyUyEsWkVeu5ra8TK)  **το λινκ αυτό έχει σβηστεί λόγω του ότι ανέβηκε στο asciinema ως root. Το παρατήρησα λίγο πριν την λήξη και δεν πρόλαβα να το ξαναυλοποιήσω. Ωστόσο, παρακάτω φαίνονται αναλυτικά οι εντολές που ακολούθησα στο λινκ αυτό (αν και είναι αρκετές και ίσως είναι λίγο χρονοβόρο με αυτόν τον τρόπο).**
 
 [cool-retro-term-cshell](https://asciinema.org/a/Jvxzi3mKihcCabHQO8PoxYXJG)
 
@@ -208,6 +208,12 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
                 }
          - bindsym $mod+BackSpace mode "$mode_system"
          - Οι δύο παραπάνω εντολές δημιουργούν ένα menu στο οποίο ο χρήστης έχει την δυνατότητα, μέσω μιας συντομευσης keyboard, να επιλέξει αν θέλει να κλειδώσει την οθόνη (l), να κάνει logout (e), να κάνει reboot (r) κ.α. όπως φαίνεται και στην εικόνα παρακάτω.
+         - bindsym $mod+c exec "root/sam/.i3/i3-plus smart_center 1830x2100, 2030x2100, 2230x2100 (για smart window centering)
+         - sudo apt install flameshot
+         - vim .config/i3/config
+         - bindsym $mod+Print exec "/bin/bash -c '/root/same/.i3/countdown 3 && sleep 0.3 && flameshot gui'" (για screenshots)
+         - και άλλες εντολές που φαίνονται στο πρώτο λινκ της εργασίας.
+         
          
   ![image](screenshot2.PNG)
   
