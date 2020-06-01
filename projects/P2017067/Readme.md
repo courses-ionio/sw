@@ -34,6 +34,19 @@
 
   * https://anthikape.github.io/gr/gallery/clipper/
   
+  ### Β' ΠΑΡΑΔΟΤΕΟ
+     Για την πραγματοποίηση του δεύτερου παραδοτέου δημιούργησα ένα αντίγραφο (fork) της ιστοσελίδας του βιβλίου
+     του μαθήματος και πρόσθεσα  στο δικό μου αντίγραφο μια βιογραφία,αυτή της Margaret Hamilton .
+   ### Σύνδεσμος 
+   * https://anthikape.github.io/gr/biography/margaret-hamilton/
+  
+  ### Γ' ΠΑΡΑΔΟΤΕΟ 
+     Για την πραγματοποίηση του δεύτερου παραδοτέου δημιούργησα ένα αντίγραφο (fork) της ιστοσελίδας του βιβλίου
+     του μαθήματος και πρόσθεσα  στο δικό μου αντίγραφο μια βιογραφία,αυτή του Berner Li.
+     ### Σύνδεσμος 
+     * https://anthikape.github.io/gr/biography/burner-li/
+   
+   
   ## 'ΑΣΚΗΣΕΙΣ'
                           'ΑΣΚΗΣΗ 1': "Send notifications to your desktop-mobile"
     
