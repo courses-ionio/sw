@@ -46,3 +46,5 @@ To howdoi μας βοήθα όταν έχουμε σκάλωσει με μιά �
 ### Έκτο Παραδοτέο
 #### Set-up a system for python development
 #### asciinema : https://asciinema.org/a/329125
+
+### Έβδομο Παραδοτέο
