@@ -46,7 +46,16 @@ install and configure in a user folder a python project that is not available th
 #### Description:  [Αsciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
 Στόχος της εργασίας είναι δημιουργία μέσα σε ένα user folder ενός project το οποίο θα αξιοποιεί μία απο τις διαθέσιμες βιβλιοθήκες της python γράφοντας ένα script.Δήμιούργησα το εικονικό περιβάλλον python και το ένεργοποιήσα, για να μπορεί να χρησιμοποιήθει για διάφορα project .
 
+
 ### Αssignment 5:
+set-up continuous integration
+#### Deliverables:
+build and deploy your static site and your cv dynamically every time you make a small change in the source files
+#### Description:  [Αsciinema](https://asciinema.org/a/CrVwSxglh9GQCksjmLcCieUSg)
+[Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
+![Screenshot](Hug.png)
+
+### Αssignment 6:
 create an agent for news
 #### Deliverables:
 the demo should display the new content added on a news web site
@@ -60,14 +69,14 @@ the demo should display the new content added on a news web site
 
 
 
-### Αssignment 6:
+### Αssignment 7:
 use the terminal as an IDE
 #### Deliverables:
 edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 #### Description:[Αsciinema](https://asciinema.org/a/M0jei4vV2Zl24sewCwxURMwCI)
 
 
-### Αssignment 7:
+### Αssignment 8:
 try different terminals and shells
 #### Deliverables:
 repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
@@ -75,19 +84,12 @@ repeat some of the previous exercises with a different terminal-shell and create
 
 
 
-### Αssignment 8:
+### Αssignment 9:
 create notifications on your sever
 #### Deliverables:
 send notifications on important server events
 #### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
-### Αssignment 9:
-set-up continuous integration
-#### Deliverables:
-build and deploy your static site and your cv dynamically every time you make a small change in the source files
-#### Description:  [Αsciinema](https://asciinema.org/a/CrVwSxglh9GQCksjmLcCieUSg)
-[Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
-![Screenshot](hug.png)
 
 ### Αssignment 10:
 choose your stack
