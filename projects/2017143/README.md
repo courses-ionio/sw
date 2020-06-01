@@ -5,7 +5,7 @@
 ##### Προφίλ Github: https://github.com/leuteris99
 
 ## Συμμετοχικό Eκπαιδευτικό Yλικό
-Αποθετήριο  αντιγράφου βιβλίου: https://github.com/leuteris99/gr
+Αποθετήριο  αντιγράφου βιβλίου: https://github.com/leuteris99/gr/tree/p2017143
 ### Α) Προσθεσε Λεζαντες
 - [android emulation](https://github.com/leuteris99/gr/blob/p2017143/_gallery/android-emulation.md)
 - [windows10x](https://github.com/leuteris99/gr/blob/p2017143/_gallery/windows10x.md)
