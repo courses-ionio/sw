@@ -301,6 +301,7 @@ Link για fish plugins:
 #### Α) Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
 
 [1η εικόνα](https://github.com/p17laso/gr/blob/master/_gallery/videoplace.md)
+
 [2η εικόνα](https://github.com/p17laso/gr/blob/master/_gallery/punchcard.md)
 
 Για κάποιο λόγο δε δεχόταν την προσθήκη νέων εικόνων οπότε οι εικόνες αυτές δεν εμφανίζονται ως πίνακας σε MarkDown αλλά το text μένει όπως ακριβώς το έγραψα.
