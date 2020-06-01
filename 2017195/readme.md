@@ -11,6 +11,16 @@
 
 https://asciinema.org/a/96j1a2nSqA9TfRgCTXbKyoZjg
 
+
+
+![alt text](https://github.com/Spyrivasi/sw/blob/2017195/2017195/hello-ntfy.png)
+![alt text](https://github.com/Spyrivasi/sw/blob/2017195/2017195/hello-lock.png)
+![alt text](https://github.com/Spyrivasi/sw/blob/2017195/2017195/cpntfy%20(1).png)
+![alt text](https://github.com/Spyrivasi/sw/blob/2017195/2017195/cpnfy.png)
+
+
+
+
 ### Ασκήσεις Συμμετοχικού υλικού
 
 ### 1η άσκηση:
