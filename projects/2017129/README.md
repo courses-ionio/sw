@@ -143,3 +143,8 @@ references: [hugo](https://gohugo.io/), [Hugo quickstart](https://gohugo.io/gett
 ![alt text](https://github.com/chrikri/sw/blob/2017129/projects/2017129/smartwatch-result.png)
 
 ## B
+
+- [Σύντομη βιογραφία του Douglas Engelbart](https://github.com/chrikri/gr/blob/master/_biography/bio-engelbart.md)
+
+
+-[Σύντομη βιογραφία ]()
