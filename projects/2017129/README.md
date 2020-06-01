@@ -148,8 +148,13 @@ references: [hugo](https://gohugo.io/), [Hugo quickstart](https://gohugo.io/gett
 
 https://github.com/chrikri/gr/blob/master/_biography/douglas-engelbart.md
 
+ [GIF](https://gph.is/g/aXWB56p)
+ 
+
 ## Γ
 
 - [Σύντομη βιογραφία της Grace Hopper](https://github.com/chrikri/gr/blob/master/_biography/bio-hopper.md)
 
 https://github.com/chrikri/gr/blob/master/_biography/grace-hopper.md
+
+[GIF](https://gph.is/g/Z7WNbyB)
