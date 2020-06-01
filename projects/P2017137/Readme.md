@@ -104,7 +104,7 @@ https://opensource.com/article/18/8/getting-started-i3-window-manager
 #
 https://asciinema.org/a/5p8iUUIDSfQcMAahZhGzYlaR3
 
-## A' ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ 
+## Β' ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ 
 #
 ### Links
 
