@@ -18,7 +18,7 @@
 **Asciinema link:** https://asciinema.org/a/gZHBJVEWIjmmnLhfNecxSHq7U
 
 Χρησιμοποίησα το [SpaceVim](https://spacevim.org/), μια επέκταση του text editor Vim η οποία διαθέτει εργαλεία για την ανάπτυξη κώδικα με διάφορες γλώσσες προγραμματισμού και πολλά άλλα.
-![1](/images/vim1.png)
+![1](projects/2017018/images/vim1.png)
 
 Μετά την εγκατάσταση του SpaceVim, αλλάζω και προσθέτω νέες παραμέτρους στο config file του προγράμματος, ώστε να υποστηρίζει error checking, autocompletion και compiling της γλώσσας Python.<br>
 ![2](/images/vim2.png)
