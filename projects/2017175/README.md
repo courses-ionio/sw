@@ -12,7 +12,7 @@ https://p17dimo.netlify.com/
 https://p17dimo.netlify.com//gallery/coding/
 
 https://p17dimo.netlify.com//gallery/vr/
-### Δεύτερο Παραδοτέο
+### Δεύτερο Παραδοτέο (Διαδραστικό παράδειγμα)
 https://p17dimo.netlify.app/remix/myterm/
 
 ## Ασκήσεις Terminal
