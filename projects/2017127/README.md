@@ -33,7 +33,7 @@ monitor the performance of your python scripts and visualize them with colors an
 programmable voice
 #### Deliverables:
 deploy an application that forwards a call depending on a white- and black- list of phone numbers
-#### Description:  [Αsciinema](https://asciinema.org/a/22YYFW21dBUjQbiIm6lP4jlnI)
+#### Description:  [Αsciinema1](https://asciinema.org/a/22YYFW21dBUjQbiIm6lP4jlnI)[Αsciinema2](https://asciinema.org/a/aD6hb17QacmNLRlgPbijNlszx)
 Για αυτή την εργασία πρώτα δημιούργησα ένα account στο Twilio ώστε να αποκτήσω το account sid και το auth token και ένα subaccount να μπορώ να χρησιμοποιήσω ένα αριθμό τηλεφώνου που δεν είναι προσωπικό μου αριθμό. Στην συνέχεια μέσα από το terminal κατέβασα το εργαλείο twilio χρησιμοποιώντας την εντολή pip install twilio και brew tap twilio/brew && brew install twilio. Δημιούργησα αρχεία σε γλώσσα python για authentication, make a call χρησιμοποιώντας τα δικά μου account sid και auth token και send sms και τα έτρεξα στο terminal .
  
 ![Screenshot](https://github.com/P17rant/sw/blob/P2017127/projects/2017127/twilio%20.png)
@@ -44,8 +44,7 @@ set-up a system for python development
 #### Deliverables:
 install and configure in a user folder a python project that is not available through the package manager
 #### Description:  [Αsciinema](https://asciinema.org/a/FoxtCcxrFtXoRyxpOkjHDBK4Y)
-Στόχος της εργασίας είναι ανάπτυξη ανεξάρτητων python projects. Δημιουργία ενός environment και εγκατάσταση εντός αυτού psutil module, και συγγραφή κώδικα . Μετα έγινε αντιγραφή του κώδικα σε άλλο φάκελο και φαίνεται πως ο κώδικας δεν μπορεί να εκτελεστεί γιατι δεν έχει το απαιτούμενο module, παρά το γεγονός πως στον πρώτο φάκελο υπήρχε.
- pip install --user pipenv
+Στόχος της εργασίας είναι δημιουργία μέσα σε ένα user folder ενός project το οποίο θα αξιοποιεί μία απο τις διαθέσιμες βιβλιοθήκες της python γράφοντας ένα script.Δήμιούργησα το εικονικό περιβάλλον python και το ένεργοποιήσα, για να μπορεί να χρησιμοποιήθει για διάφορα project .
 
 ### Αssignment 5:
 create an agent for news
