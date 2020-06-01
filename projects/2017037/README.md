@@ -109,6 +109,12 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 ### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το Vr-headset και το Microphone.
 
+### Β: Βιογραφία
+Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον Dennis MacAlistair Ritchie.
+
+[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
+[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
+
 ## 7ο Παραδοτέο
 
 * Assignment : set-up cloud services
@@ -122,4 +128,11 @@ Link για το [video](https://vimeo.com/user111293037/review/402312386/61dbed
 
 * Εργαλεία που χρησιμοποίησα: 
 [OpenSSH](https://www.openssh.com/)
+
+### Γ: Βιογραφία
+Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον Lawrence Gordon Tesler.
+
+[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
+[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
+
 
