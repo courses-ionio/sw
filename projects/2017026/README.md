@@ -111,7 +111,7 @@ py-spy record -o profile.svg -- python main.py
 ### Συμμετοχικό Περιεχόμενο:
 
 #### A: δύο νέες εικόνες 
-[AutoCAD] (https://github.com/giottachou/gr/blob/P2017026/_gallery/AutoCAD.md)
+AutoCAD: https://github.com/giottachou/gr/blob/P2017026/_gallery/AutoCAD.md
 Lego Mindstorms EV3 software interface: https://github.com/giottachou/gr/blob/P2017026/_gallery/Lego-Mindstorms-EV3-Software-interface.md
 
 #### Β: ένα νέο διαδραστικό παράδειγμα
