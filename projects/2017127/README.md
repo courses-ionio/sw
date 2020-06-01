@@ -63,20 +63,26 @@ the demo should display the new content added on a news web site
 Στόχος της εργασίας είναι δημιουργία ενός agent που εκτελεί αυτόματα αυτοματοποιημένες εργασίες(tasks)
 Το πρώτο βήμα ήταν να κάνω fork στο git repository του huginn,μετά να συνδεθώ σε μια βάση SQL,
 
-
-
-
-
-
-
 ### Αssignment 7:
+choose your stack
+#### Deliverables:
+set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+#### Description:  [Αsciinema](https://asciinema.org/a/2RB2QmKNqtEw6W7zL7CMxko9Q)
+Αρχικά, για αυτή την εργασία, κατέβασα το howdoi.
+
+
+
+
+
+
+### Αssignment 8:
 use the terminal as an IDE
 #### Deliverables:
 edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
 #### Description:[Αsciinema](https://asciinema.org/a/M0jei4vV2Zl24sewCwxURMwCI)
 
 
-### Αssignment 8:
+### Αssignment 9:
 try different terminals and shells
 #### Deliverables:
 repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
@@ -84,27 +90,25 @@ repeat some of the previous exercises with a different terminal-shell and create
 
 
 
-### Αssignment 9:
+### Αssignment 10:
 create notifications on your sever
 #### Deliverables:
 send notifications on important server events
 #### Description:  [Αsciinema](https://asciinema.org/a/1Ray0CCDtmBhyVkpTsAs6eyEK)
 
 
-### Αssignment 10:
-choose your stack
-#### Deliverables:
-set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
-#### Description:  [Αsciinema]()
 
 
 ### Συμμετοχικό εκπαιδευτικό υλικό - 1
-
+#### A: δύο νέες εικόνες
 Το αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/mibook/gr)
 Η ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link.](https://www.mibook.org/)
 To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link.](https://github.com/p17rant/gr)
 H προσωπική ιστοσελίδα βιβλίου του μαθήματος είναι στο παρακάτω [link.](https://p17rant.github.io/gr/)
-Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17rant.github.io/gr/gallery/) την εικόνα [1](https://github.com/P17rant/gr/blob/gh-pages/images/375px-Xerox_Alto.jpg) και την εικόνα [2.](https://github.com/mibook/gr)
+Για την εκπόνηση της άσκησης προσθέσαμε στην παρακάτω [ενότητα](https://p17rant.github.io/gr/gallery/) την εικόνα [1](https://github.com/P17rant/gr/blob/P2017127/_gallery/apple-II) και την εικόνα [2.](https://github.com/P17rant/gr/blob/P2017127/_gallery/xerox_alto)
+#### B: μια νέα βιογραφία: [Linus Benedict Torvalds](https://github.com/P17rant/gr/tree/P2017127/_biography)
+#### Γ: μια νέα βιογραφία: [Ted Nelson](https://github.com/P17rant/gr/tree/P2017127/_biography)
+#### Δ: ένα νέο case-study: [VMware Cloud Foundation](https://github.com/P17rant/gr/blob/P2017127/_case-study/VMware%20Cloud%20Foundation.md)
 
 
 
