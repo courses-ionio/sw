@@ -37,9 +37,9 @@ AM: Π2017063
    
    #### [Link για την άσκηση](https://asciinema.org/a/oTJZq0Fe6blPNT40QYy13irV8)
    
-   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [the simple (suckless) terminal](https://github.com/LukeSmithxyz/st) και [Z shell](https://en.wikipedia.org/wiki/Z_shell). 
+   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [the simple (suckless) terminal](https://github.com/LukeSmithxyz/st) και [Z shell](https://en.wikipedia.org/wiki/Z_shell).  Επέλεξα τον st διότι είναι απλός και "ελαφρύς", ωστόσο υποστηρίζει πολλές λειτουργίες (most VT10X escape sequences, UTF-8, X11 copy/paste, fallback fonts, resizing). Επίσης επέλεξα το Ζ SHELL διότι προσφέρει και αυτό πολλές λειτουργίες και δέχεται και βελτιώσεις/τροποποιήσεις σύμφωνα με τις ανάγκες του κάθε χρήστη. 
    
-   Για την βελτίωση της εργασίας επεξεργάστικα το zsh. Συγκεκριμένα, άλλαξα θέμα και επέλεξα ένα που να ταιριάζει στις ανάγκες μου. Επίσης, πρόσθεσα ορισμένα plugins, το autojump, το οποίο είναι παρόμοιο με το cd και με βοηθάει να πλοηγηθώ στα directories μου, το battery που το χρησιμοποίησα ώστε να εμφανίζεται η μπαταρία στα αριστερά από το command prompt μου και το colorize με το οποίο δίνω χρώμα στα αρχεία μου.
+   Για την βελτίωση της εργασίας επεξεργάστηκα το zsh. Συγκεκριμένα, άλλαξα θέμα και επέλεξα ένα που να ταιριάζει στις ανάγκες μου. Επίσης, πρόσθεσα ορισμένα plugins, το autojump, το οποίο είναι παρόμοιο με το cd και με βοηθάει να πλοηγηθώ στα directories μου, το battery που το χρησιμοποίησα ώστε να εμφανίζεται η μπαταρία στα αριστερά από το command prompt μου και το colorize με το οποίο δίνω χρώμα στα αρχεία μου.
   
   ##### [*configuration/link*](https://asciinema.org/a/9JLbYMYnCj7zE2cbtlljw0rZI)
    
@@ -55,7 +55,13 @@ AM: Π2017063
   - Η εμφάνιση του ονόματος του τερματικού-terminal που χρησιμοποίησα γίνεται με τη χρήση της εντολής: (Output: st-256color)
          
         $ echo $TERM 
-
+        
+        
+   Για την άσκηση χρησιμοποίησα:
+   
+  - [the simple terminal](https://github.com/LukeSmithxyz/st)
+  - [Z shell](https://en.wikipedia.org/wiki/Z_shell)
+  - [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
   ## Συμμετοχικό Υλικό- Α'Παραδοτέο
   
