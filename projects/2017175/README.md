@@ -48,3 +48,5 @@ To howdoi μας βοήθα όταν έχουμε σκάλωσει με μιά �
 #### asciinema : https://asciinema.org/a/329125
 
 ### Έβδομο Παραδοτέο
+#### Ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc)
+#### asciinema : https://asciinema.org/a/335674
