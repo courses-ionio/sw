@@ -345,9 +345,9 @@ https://www.omgubuntu.co.uk/2016/11/make-cool-retro-terminal-ubuntu
  #
  **Links:**
  
- [hugo-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)
+ [hugo-link](https://asciinema.org/a/lW0LV9kq2EbvZnXSXqMyeMclI)  **Σε αυτό το λινκ δημιούργησα ένα site με την βοήθεια ενός site generator**
  
- [site-generator-link](https://asciinema.org/a/hTaJxFSVYunRxSkfE6CwP5tqg)
+ [site-generator-link](https://asciinema.org/a/hTaJxFSVYunRxSkfE6CwP5tqg) **Ενώ σε αυτό το λινκ προσπάθησα να δημιουργήσω έναν blog generator**
  
  Εργαλεία: 
        
@@ -392,21 +392,95 @@ https://www.howtoforge.com/how-to-install-hugo-site-generator-on-ubuntu/
 
 https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
 
+https://www.youtube.com/watch?v=Ph7oJDR71Jc
+
+https://dbushell.com/2014/07/09/how-i-built-a-static-site-generator/
+
+https://strongloop.com/strongblog/lets-code-it-static-site-generator/
+
+
 
 ### Fifth Assignment- Performance Monitoring
+#
+**Link:**
 
-Η εργασία αυτή υλοποιήθηκε με το εργαλείο hyperfine
+[fifth-assignment-link](https://asciinema.org/a/GSy4xF2zD7uNaG8OYdYM8aWVx)
 
- [fifth-assignment-link](https://asciinema.org/a/4bWUpuUSsL7DOXk3wJDIwLJI3)
+**Εργαλεία:**
+
+        - hyperfine
+        
+        - pycallgraph
+ 
+ **Λεπτομέρειες:**
+ 
+ Στην εργασία αυτή δημιούργησα python scripts (insertion.py, selection.py, bubble.py, όπως στο εργαστήριο) και τα σύγκρινα με το εργαλείο hyperfine. Υλοποίησα στη συνέχεια διάφορες απλές εντολές του εργαλείου αυτού όπως είναι το hyperfine --warm-up, το --min-runs για αριθμό ελάχιστων και μέγιστων runs. Επίσης σύγκρινα αυτα τα scripts μεταξύ τους ωστε να δω ποιό από αυτά τρέχει γρηγορότερα.
+ 
+ **SOURCES**
+ #
+ https://github.com/sharkdp/hyperfine
+ 
+ https://www.ostechnix.com/how-to-benchmark-linux-commands-and-programs-from-commandline/
+ 
+ https://cli.fan/posts/hyperfine/
  
  
  ### Sixth Assignment-Programmable Voice
- 
+ #
+ **Link:**
  [sixth-assignment-link](https://asciinema.org/a/OF03CmNLNQ5ry5wAX5QDMQvWZ)
+
+ **Εργαλεία:**
+        
+        - twilio python
+        
+        - Python
+        
+ **Λεπτομέρειες:**
  
- ### Seventh Assignment-Choose your stack
+ Στην εργασία αυτή έχω δημιουργήσει μια **black list** αλλά μόνο με έναν αριθμό καθώς για δωρεάν δοκιμή του εργαλείου δίνανε μόνο έναν αριθμό. Ο κώδικας φαίνεται αναλυτικά στον φάκελο **codes**. Για την εργασία χρησιμοποίησα την γλώσσα Python.
  
- [seventh-assignment-link](https://asciinema.org/a/9yCFSD8uSBpyXC9ByhhQxOVYS)
+ **SOURCES**
+ 
+ https://support.twilio.com/hc/en-us/articles/223135027-Configure-a-Twilio-Phone-Number-to-Receive-and-Respond-to-Voice-Calls
+ 
+ https://www.twilio.com/docs/voice/quickstart/python
+ 
+ https://www.youtube.com/watch?v=-AChTCBoTUM
+ 
+ https://groups.google.com/forum/#!topic/twilio-functions/5W1sd6fetko
+ 
+ 
+ 
+ 
+ 
+ ### Seventh Assignment-Set-up a system for python development
+ #
+ **Link:**
+ 
+ [seventh-assignment-link](https://asciinema.org/a/za44cYQoZrtqTWPu5rcxLn7Xz)
+ 
+ **Εργαλεία:**
+ 
+        - virtualenv
+        
+        - python
+        
+ 
+ **Λεπτομέρειες:**
+ 
+ Τα εικονικά περιβάλλοντα μας επιτρέπουν να έχουμε έναν απομονωμένο χώρο στον υπολογιστή μας για Python projects, διασφαλίζοντας ότι κάθε ένα από αυτά μπορεί να έχει το δικό του σύνολο εξαρτήσεων που δεν θα διαταράξει κανένα από τα άλλα. Δημιούργησα ένα τέτοιο περιβάλλον **my_env** με τις εντολές **mkdir environments** **cd environments** **python3 -m venv my_env**. Για να το ενεργοποιήσω χρησιμοποίησα την εντολή **source my_env/bin/activate** και μέσα σε αυτό εφτιαξα ένα μικρό παράδειγα από κώδικα python ώστε να το τρέξω κι έπειτα το έκανα **deactivate**.
+ 
+ **SOURCES**
+ 
+ https://virtualenv.pypa.io/en/latest/
+ 
+ https://github.com/pyenv/pyenv
+ 
+ https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-debian-8
+ 
+ 
+ 
  
  
 
