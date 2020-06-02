@@ -54,5 +54,7 @@ https://github.com/Spyrivasi/gr/blob/gh-pages/images/Ypologisths_Xerox.jpgζ
  
  
 
-Προσθήκη βιογραφίας και πιο  υγκεκριμένα, της βιογραφίας του μαθηματικού, καθηγητή της λογικής, κρυπτογράφου και θεωρητικού βιολόγου, Alan Turing, καθώς και προσθήκη εικόνας του, στο images.
-Προσθήκη βιογραφίας Bill Gates. 
+Προσθήκη βιογραφίας και πιο  υγκεκριμένα, της βιογραφίας του μαθηματικού, καθηγητή της λογικής, κρυπτογράφου και θεωρητικού βιολόγου, Alan Turing, καθώς και προσθήκη εικόνας του, στο images. https://github.com/Spyrivasi/gr/blob/gh-pages/_biography/Alan-Turing.md
+
+Προσθήκη βιογραφίας Bill Gates. https://github.com/Spyrivasi/gr/blob/gh-pages/_biography/Bill%20Gates.md
+
