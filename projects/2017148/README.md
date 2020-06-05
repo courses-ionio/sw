@@ -31,40 +31,40 @@ try different terminals and shells - repeat some of the previous exercises with 
 
 #### guake: Το guake είναι ένα drop-down τερμιναλ που για να το ανοίξει ο χρήστης πατάει το f12
 
-### Asciinema : [guake](https://asciinema.org/a/313444)
+### Asciinema : [guake](https://asciinema.org/a/336895)
 
 ### Screenshot
 
-![guake](https://user-images.githubusercontent.com/44147982/77859351-87686e00-7211-11ea-99d9-954180297a15.gif)
+![guake2](https://user-images.githubusercontent.com/44147982/83910858-edbebf00-a773-11ea-9274-e330d94bc3b2.gif)
 
 
 ### Konsole
 
 #### Konsole: Το konsole είναι ένα τερμιναλ το οποίο είναι ενσωματωμένο σε πολλές άλλες εφαρμογές κάνοντας το αρκετά χρήσιμο 
 
-### Asciinema : [Konsole](https://asciinema.org/a/313450)
+### Asciinema : [Konsole](https://asciinema.org/a/336896)
 
 ### Screenshot
 
-![konsole](https://user-images.githubusercontent.com/44147982/77859287-25a80400-7211-11ea-9ff8-a29307276670.gif)
+![konsole](https://user-images.githubusercontent.com/44147982/83910843-e8617480-a773-11ea-84ef-62ae3cf97d7b.gif)
 
 ### TILDA
 
 #### tilda: Το tilda είναι ένα τερμιναλ που μπορεί εύκολα να ρυθμιστή από το χρήστη έτσι ώστε να έχει hotkeys για όπια λειτουργία χρειάζεται(π.χ να αλλάζει τοποθεσία το τερμιναλ)
 
-### Asciinema : [tilda](https://asciinema.org/a/313451)
+### Asciinema : [tilda](https://asciinema.org/a/336897)
 
 ### Screenshot
-![tilda](https://user-images.githubusercontent.com/44147982/77859310-4b350d80-7211-11ea-9798-0464bab09b89.gif)
+![tilda](https://user-images.githubusercontent.com/44147982/83910772-cf58c380-a773-11ea-9712-21aa0d01e432.gif)
 
 
 ### TERMINOLOGY
 
 #### terminology: Το terminology είναι ένα εύκολα διαμορφούμενο τερμιναλ το οποίο κατανοεί πλήρεις διαδρομές αρχείων, συνδέσεις URL και εμαιλ. Επιπλέον έχει progress bar για τις λήψης αρχείων
 
-### Asciinema : [terminology](https://asciinema.org/a/313454)
+### Asciinema : [terminology](https://asciinema.org/a/336903)
 ### Screenshot.
-![teminology2](https://user-images.githubusercontent.com/44147982/77859372-a36c0f80-7211-11ea-8da6-9fbd61383782.gif)
+![terminology3](https://user-images.githubusercontent.com/44147982/83910805-dc75b280-a773-11ea-847b-5ae7b55217e6.gif)
 
 
 ### YAKUAKE
@@ -72,9 +72,9 @@ try different terminals and shells - repeat some of the previous exercises with 
 
 #### yakuake: Το yakuake είναι ένα drop-down τερμιναλ που μπορεί να είναι στο πάνω ή κάτω μέρος της οθόνης.
 
-### Asciinema : [yakuake](https://asciinema.org/a/314663)
+### Asciinema : [yakuake](https://asciinema.org/a/336904)
 ### Εικόνα του τέρμιναλ "yakuake".
-![yakuake](https://user-images.githubusercontent.com/44147982/77859447-0eb5e180-7212-11ea-8fed-f4c19b567e80.gif)
+![yakuake](https://user-images.githubusercontent.com/44147982/83910768-cd8f0000-a773-11ea-8e42-1e8276888ebe.gif)
 
 
 
@@ -82,18 +82,18 @@ try different terminals and shells - repeat some of the previous exercises with 
 
 #### fish shell: Το fish είναι ένα γρήγορο τερμιναλ με πολλές λειτουργίες.
 
-### Asciinema : [fish](https://asciinema.org/a/313460)
+### Asciinema : [fish](https://asciinema.org/a/336906)
 ### Screenshot.
-![fish](https://user-images.githubusercontent.com/44147982/77859385-b67edf80-7211-11ea-91d6-1553c48ed94d.gif)
+![fish](https://user-images.githubusercontent.com/44147982/83910872-f44d3680-a773-11ea-9b8a-fb1941a0a24f.gif)
 
 
 ### ZSH
 
 #### zsh: Το zsh είναι ένα τερμιναλ με με χιλιάδες χρήσιμες λειτουργίες, βοηθούς και plugins
 
-### Asciinema : [zsh](https://asciinema.org/a/313467)
+### Asciinema : [zsh](https://asciinema.org/a/336907)
 ### Screenshot.
-![zsh](https://user-images.githubusercontent.com/44147982/77859313-4f612b00-7211-11ea-89a9-e4f93f064c55.gif)
+![zsh](https://user-images.githubusercontent.com/44147982/83910766-ca940f80-a773-11ea-9a24-84a0f8cb8ed4.gif)
 
 
 
@@ -136,7 +136,7 @@ sudo docker run -d -p 80:80 html-server-image:v1
 
 ![localhost](https://user-images.githubusercontent.com/44147982/77859623-1a55d800-7213-11ea-9830-6937af4649b9.png)
 
-### Asciinema : [Nginx-Alpine](https://asciinema.org/a/313808)
+### Asciinema : [Nginx-Alpine](https://asciinema.org/a/336890)
 
 
 ---
@@ -167,7 +167,7 @@ nano kodikas.py
 
 
 
-### Asciinema : [SSH](https://asciinema.org/a/313829)
+### Asciinema : [SSH](https://asciinema.org/a/336911)
 
 
 
@@ -204,11 +204,11 @@ ffplay sound.mp3
 
 
 
-![notification4](https://user-images.githubusercontent.com/44147982/77860015-66a21780-7215-11ea-959a-4c3a9d6831a0.gif)
+![ntfy3](https://user-images.githubusercontent.com/44147982/83910828-e39cc080-a773-11ea-9a8f-3a9221631c1d.gif)
 
 
 
-### Asciinema : [ntfy](https://asciinema.org/a/313515)
+### Asciinema : [ntfy](https://asciinema.org/a/336910)
 
 
 
@@ -245,7 +245,7 @@ hyperfine --export-json output 'python3 file1.py' 'python3 file2.py'
 ![json results](https://user-images.githubusercontent.com/44147982/77860133-1c6d6600-7216-11ea-961f-fec20de52155.png)
 
 
-### Asciinema : [hyperfine](https://asciinema.org/a/313484)
+### Asciinema : [hyperfine](https://asciinema.org/a/336892)
 
 
 ---
@@ -277,10 +277,10 @@ git commit -a -m AutoBuild
 git push
 ```
 
-![autobuild Travis](https://user-images.githubusercontent.com/44147982/81502779-a8c87980-92e8-11ea-98a6-550b98cb26e8.png)
+![AutoBuildedTravis](https://user-images.githubusercontent.com/44147982/83910884-f7e0bd80-a773-11ea-80d6-9e53d794a6e3.png)
 
 
-### Asciinema : [Travis Ci](https://asciinema.org/a/328391)
+### Asciinema : [Travis Ci](https://asciinema.org/a/336891)
 
 ---
 
@@ -328,7 +328,7 @@ deactivate
 ```
 
 
-### Asciinema : [Python Virtual Enviroment](https://asciinema.org/a/328394)
+### Asciinema : [Python Virtual Enviroment](https://asciinema.org/a/336893)
 
 ---
 
@@ -356,7 +356,7 @@ https://neovim.io/doc/user/
 
 
 
-### Asciinema : [Spacevim-Noevim](https://asciinema.org/a/328490)
+### Asciinema : [Spacevim-Noevim](https://asciinema.org/a/336894)
 
 
 ---
