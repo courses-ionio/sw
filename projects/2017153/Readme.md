@@ -44,8 +44,8 @@ ohmyzsh/ohmyzsh/master/tools/install.sh)"το οποιο δινει στον χ�
     </ul> 
     <p><bold>Για την εκτελεση αυτης της ασκησης αποφασησα να χρησιμοποιησω το ntfy το οποιο επιτρεπει στον χρηστη να στελνει notifications απο το desktop-mobile.Εγκατεστησα το ntfy με την εντολη pip install ntfy και επειτα εκανα config to ~/.ntfy.yml αρχειο με τον nano editor ετσι ωστε να φτανουν τα μηνυματα στο κινητο μου.<br/><br/>Για backend χρησιμοποιησα το pushover το οποιο κατεβασα απο το appstore στο κινητο μου και αφου βρηκα το user key μεσω του pushover στο κινητο μου το εγραψα στο ntfy.yml αρχειο.Επισης εκανα enable την αυτοματη αποστολη ειδοποιησεων οταν οι εντολες που εκτελουνται μακροπροθεσμα τελειωνουν σε bash και zsh κανοντας edit το .bashrc αρχειο μου με τον nano γραφοντας eval "$(ntfy shell-integration)".<br/><br/>Επειτα εκτελεσα καποιες πολυ απλες εντολες οπου υπαρχουν και στη σελιδα του ntfy οπως ntfy send test η ntfy done sleep 15.Επειτα για μερικα χαρακτηριστικα του ntfy χρειαζονταν να κατεβασω μερικα extra dependencies οπως pip install ntfy[pid] για να χρησιμοποιησω το ntfy με διεργασιες(pids) και pip install ntfy[emoji] για να χρησιμοποιησω το ntfy με  emoji μεσω των εντολων ntfy done --pid <<συγκεκριμενη διεργασια που θελουμε>>και ntfy send ":tada:ntfy supports emoji! :100" για να δειξω και την αποστολη με emoji.<br/><br/>Υπαρχει και η επιλογη -t η οποια επιτρεπει να βαλεις εναν τιτλο στο μηνυμα την οποια εδειξα πολλες φορες.Τελος για την ολοκληρωση της ασκησης εφτιαξα ενα script με τις εντολες apt-update,apt-upgrade,dist-upgrade(δεν χρειαζομουν sudo ημουν σε kali)και εβαλα το ntfy να μου στειλει μηνυμα μολις τελιωσουν τα updates e.t.c με την εντολη ntfy send "Packages updated".<br/><br/>Εκανα το script εκτελεσιμο με την εντολη chmod +x update.sh(ονομα script) και το ετρεξα με ./update.sh.Αποδειξεις οτι τα μηνυμα εφτασαν υπαρχουν σε screenshots παρακατω.</bold></p>
     <div>
-      <img src="images/screenshot1.PNG">
-      <img src="images/screenshot2.PNG">
+      <img src="images/screenshot1.png">
+      <img src="images/screenshot2.png">
     </div>
     <p><bold>Εικονες 1 και 2 με τα screenshot</bold></p><hr/>
     <h5>ΑΣΚΗΣΗ 4</h5>
