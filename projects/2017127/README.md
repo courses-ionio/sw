@@ -55,39 +55,60 @@ build and deploy your static site and your cv dynamically every time you make a 
 [Αsciinema](https://asciinema.org/a/Ktc8CD0ROdMQ4PgTzw3fn7Wrz)
 ![Screenshot](Hug.png)
 
+
 ### Αssignment 6:
+try different terminals and shells
+#### Deliverables:
+repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+#### Description:[Αsciinema](https://asciinema.org/a/5ApN3jWcDUebnNKdWr2uJGpjQ)
+Για αυτή την εργασία αποφάσισα να χρησιμοποιήσω το fish shell. Το έκανα install μαζι με τα packages που χρειαζόταν για να λειτουργήσει και για το asciinema έτρεξά μερικές εντολές και το py-spy.
+
+### Αssignment 7:
+use the terminal as an IDE
+#### Deliverables:
+edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+#### Description:[Αsciinema](https://asciinema.org/a/UeUpgusbykwOipZsO6IYYzb7w)
+Για να χρησιμοποιήσω το terminal σαν IDE έκανα install το spacevim. 'Aνοιξα με αυτό ένα python αρχείο που έκανα για τεστ και είχε λάθη. Το διόρθωσά στο spacevim, ώστε να μπορεί να τρέξει κανονικά. Τέλος, το έτρεξά στο terminal για να φανούν οι αλλαγές.
+#### commands vim:
+#### a Append text following current cursor position
+#### i Insert text before the current cursor position
+#### I Insert text at the beginning of the cursor line
+#### o Open up a new line following the current line and add text there
+#### Cursor Movement Commands:
+#### h Moves the cursor one character to the left
+#### l Moves the cursor one character to the right
+#### k Moves the cursor up one line
+#### j Moves the cursor down one line
+#### Exit Commands:
+#### :wq Write file to disk and quit the editor
+#### :q! Quit (no warning)
+#### :q Quit (a warning is printed if a modified file has not been saved)
+
+
+
+### Αssignment 8:
+choose your stack
+#### Deliverables:
+set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+#### Description:  [Αsciinema](https://asciinema.org/a/2RB2QmKNqtEw6W7zL7CMxko9Q)
+Αρχικά, για αυτή την εργασία, κατέβασα το howdoi.Με την χρήση του howdoi εβαλα ένα set από cli tools. Μου προτίνει πως μπορώ να τα κάτεβάσω και να τα χρησιμοποιήσω.
+
+
+
+
+
+
+
+
+
+
+### Αssignment 9:
 create an agent for news
 #### Deliverables:
 the demo should display the new content added on a news web site
 #### Description:  [Αsciinema](https://asciinema.org/a/XzmJxj5PdNlxafsPxm3RV86cE)
 Στόχος της εργασίας είναι δημιουργία ενός agent που εκτελεί αυτόματα αυτοματοποιημένες εργασίες(tasks)
 Το πρώτο βήμα ήταν να κάνω fork στο git repository του huginn,μετά να συνδεθώ σε μια βάση SQL,
-
-### Αssignment 7:
-choose your stack
-#### Deliverables:
-set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
-#### Description:  [Αsciinema](https://asciinema.org/a/2RB2QmKNqtEw6W7zL7CMxko9Q)
-Αρχικά, για αυτή την εργασία, κατέβασα το howdoi.
-
-
-
-
-
-
-### Αssignment 8:
-use the terminal as an IDE
-#### Deliverables:
-edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
-#### Description:[Αsciinema](https://asciinema.org/a/M0jei4vV2Zl24sewCwxURMwCI)
-
-
-### Αssignment 9:
-try different terminals and shells
-#### Deliverables:
-repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
-#### Description:[Αsciinema](https://asciinema.org/a/5ApN3jWcDUebnNKdWr2uJGpjQ)
-
 
 
 ### Αssignment 10:
