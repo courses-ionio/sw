@@ -73,6 +73,19 @@ p
 ### Όλα τα προηγούμενα βρίσκονται στο εξής βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
 
 ## Άσκηση 3η: Performance Monitoring.
+
+Ζητούμενο της άσκησης είναι τα δείξουμε κάποιους τρόπους που μπορούμε να απεικονίσουμε την απόδοση εκτέλεσης κάποιων συγκεκριμένων αλγορίθμων. H οπτικοποίηση των δεδομένων κάνει πολύ καλύτερη την κατανόησή τους.
+
+Προαπαιτούμενα:
+
+α) Download hyperfine
+
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+
+β) Εγκατάσταση hyperfine
+
+sudo dpkg -i hyperfine_1.9.0_amd64.deb
+
 Λινκ του βίντεο: https://asciinema.org/a/333472
 
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
