@@ -4,6 +4,78 @@
 
 
 ## Άσκηση 1η: Choose your stack.
+
+#### Απαιτούμενα της άσκησης: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+
+#### Προαπαιτούμενα:
+
+#### Εγκατάσταση howdoi
+
+pip install howdoi
+
+#### Εγκατάσταση How2
+
+npm install -g how-2
+
+#### Εκτέλεση της άσκησης:
+
+#### Για αρχή θα εκτυπώσουμε την ημερομηνία
+
+printf '%(%Y-%m-%d)T\n' -1  
+
+#### Μετά θα συνεχίσουμε κάνοντας μερικές ερωτήσεις όπως το πως να μετατρέψεις κιλά σε pounds και το πως να αλλάξεις το μεγεθός μιας εικόνας.
+
+howdoi convert kilos into pounds 
+
+howdoi resize a picture      
+
+#### Πως να βρεις ένα αρχείο
+
+howdoi find a file  
+
+sudo find / -name "mi-band.jpg"  
+
+howdoi -l find a file   
+
+howdoi -c find a file     
+
+howdoi -C
+
+howdoi -v  
+
+#### Πως να φτιάξεις ένα persistent usb
+
+howdoi -c make persistent usb    
+
+#### Πως να αλλάξεις το time zone
+
+howdoi -c change time zone 
+
+#### Πως να διαγράψεις έναν φάκελο στο linux, πως να διαγράψεις έναν φάκελο.
+howdoi -c delete a folder in linux
+
+howdoi -c delete a folder 
+
+
+#### Πως να δημιουργήσεις τυχαίους αριθμούς
+
+howdoi -c python create random numbers 
+
+#### Πως να κάνεις unzip
+how2 unzip.gz  
+
+#### Πως να φτιάξεις ένα persistent usb αλλά χρησιμοποιόντας το how2
+how2 make a persistent usb ubuntu
+
+
+lynx https://unix.stackexchange.com/questions/16743/github-adding-a-repository-as-a-fork-from-an-existing-clone/16765#16765
+
+### References:
+
+https://www.npmjs.com/package/how-2
+
+https://github.com/gleitz/howdoi
+
 Λινκ του βίντεο: https://asciinema.org/a/JzgXlwW9wqoqHyieSvhASNx3J
 
 ## Άσκηση 2η: Try different terminals and shells.
