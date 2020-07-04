@@ -224,6 +224,8 @@ ntfy -b pushover -o user_key t0k3n done play s0n9.mp3
 
 ![image](https://github.com/Sotiris132/MyPhotos/blob/master/Screenshot%20from%202020-07-04%2022-13-10.png)
 
+![image](https://github.com/Sotiris132/MyPhotos/blob/master/107221906_626149364922719_1603728382767791829_n.png)
+
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
 Link του βιβλίου: https://www.mibook.org/ 
 
