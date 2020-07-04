@@ -228,7 +228,9 @@ ntfy -b pushover -o user_key t0k3n done play s0n9.mp3
 
 Λινκ του βίντεο: https://asciinema.org/a/HM6fXV6o7sWauSFlc5W2EWKQ0
 
-References:[ntfy] (https://github.com/dschep/ntfy)
+References: 
+
+https://github.com/dschep/ntfy
 
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
 Link του βιβλίου: https://www.mibook.org/ 
