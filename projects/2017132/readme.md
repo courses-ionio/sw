@@ -220,7 +220,7 @@ ntfy -b pushover -o user_key t0k3n done play s0n9.mp3
 
 #### 6) Αντικατέστησα όπου t0k3n το user key του κινητού μου και όπου s0n9 ένα τραγούδι που έχω στον υπολογιστή και αυτά είναι τα αποτελέσματα:
 
-
+![image](https://github.com/Sotiris132/MyPhotos/blob/master/Screenshot%20from%202020-07-04%2022-05-58.png)
 
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
 Link του βιβλίου: https://www.mibook.org/ 
