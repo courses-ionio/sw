@@ -317,9 +317,11 @@ https://sotiris132.github.io/gr/gallery/google-maps/
 #### Link δεύτερης Εικόνας Xiaomi Mi Band: 
 https://sotiris132.github.io/gr/gallery/mi-band/
 
-##### References:
+#### References:
 https://en.wikipedia.org/wiki/Google_Maps
+
 https://en.wikipedia.org/wiki/Xiaomi_Mi_Band
+
 https://www.quora.com/What-is-the-mechanism-behind-the-working-of-mi-band
 
 
