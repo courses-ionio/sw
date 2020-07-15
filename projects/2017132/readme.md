@@ -326,13 +326,18 @@ https://www.quora.com/What-is-the-mechanism-behind-the-working-of-mi-band
 
 
 ## Συμμετοχικό Υλικό - Β' Παραδοτέο
-Link του βιβλίου: https://www.mibook.org/
 
-Link του αντιγράφου του αποθετηρίου του βιβλίου: https://github.com/Sotiris132/gr/tree/master
+#### Link του βιβλίου: 
+https://www.mibook.org/
 
-Link της Σελίδας μου: https://sotiris132.github.io/gr/
+#### Link του αντιγράφου του αποθετηρίου του βιβλίου: 
+https://github.com/Sotiris132/gr/tree/master
 
-Link διαδραστικού παραδείγματος: https://sotiris132.github.io/gr/remix/Xterm/
+#### Link της Σελίδας μου: 
+https://sotiris132.github.io/gr/
+
+#### Link διαδραστικού παραδείγματος: 
+https://sotiris132.github.io/gr/remix/Xterm/
 
 Το διαδραστικό παράδειγμα αυτό απεικονίζει ένα τερματικό χωρίς επιπτώσεις (σε περίπτωση που ο χρήστης θα έδινε πολύπλοκες εντολές
 ή εντολές που θα προκαλούσαν πρόβλημα στο σύστημα) με σκοπό την εξοικείωση του χρήστη με το τερματικό.
