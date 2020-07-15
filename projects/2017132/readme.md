@@ -312,17 +312,17 @@ https://github.com/Sotiris132/gr/tree/master
 https://sotiris132.github.io/gr/
 
 #### Link πρώτης Εικόνας Google Maps: 
-1) https://sotiris132.github.io/gr/gallery/google-maps/
+https://sotiris132.github.io/gr/gallery/google-maps/
 
 #### Link δεύτερης Εικόνας Xiaomi Mi Band: 
-2) https://sotiris132.github.io/gr/gallery/mi-band/
+https://sotiris132.github.io/gr/gallery/mi-band/
 
 #### References:
-1) https://en.wikipedia.org/wiki/Google_Maps
+https://en.wikipedia.org/wiki/Google_Maps
 
-2) https://en.wikipedia.org/wiki/Xiaomi_Mi_Band
+https://en.wikipedia.org/wiki/Xiaomi_Mi_Band
 
-2) https://www.quora.com/What-is-the-mechanism-behind-the-working-of-mi-band
+https://www.quora.com/What-is-the-mechanism-behind-the-working-of-mi-band
 
 
 ## Συμμετοχικό Υλικό - Β' Παραδοτέο
