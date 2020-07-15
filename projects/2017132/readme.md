@@ -5,9 +5,9 @@
 
 ## Άσκηση 1η: Choose your stack.
 
-#### Απαιτούμενα της άσκησης: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+### Απαιτούμενα της άσκησης: set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 
-#### Προαπαιτούμενα:
+### Προαπαιτούμενα:
 
 #### Εγκατάσταση howdoi
 
@@ -17,7 +17,7 @@ pip install howdoi
 
 npm install -g how-2
 
-#### Εκτέλεση της άσκησης:
+### Εκτέλεση της άσκησης:
 
 #### Για αρχή θα εκτυπώσουμε την ημερομηνία
 
