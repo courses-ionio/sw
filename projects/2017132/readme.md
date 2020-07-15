@@ -142,7 +142,8 @@ p
 
 Τερματίζοντας έτσι την επίδειξη με τα shells.
 
-### Όλα τα προηγούμενα βρίσκονται στο εξής βίντεο: https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
+### Όλα τα προηγούμενα βρίσκονται στο εξής βίντεο: 
+https://asciinema.org/a/cCi8cyTDbSQA9dgMOwmwNzIOJ
 
 ## Άσκηση 3η: Performance Monitoring.
 
@@ -262,11 +263,11 @@ export PATH="$PATH:/home/rastil/Desktop/PyDev"
 
 pipenv install requests
 
-#### 6) Φτιάξαμε αρχείο python για να το τρέξουμε και του προσθέσαμε τις εξής εντολές:
+#### 6) (1) Φτιάξαμε αρχείο python για να το τρέξουμε και  (2) του προσθέσαμε τις εξής εντολές:
 
-vi main.py
+(1) vi main.py
 
-import requests
+(2) import requests
 
 response = requests.get('https://httpbin.org/ip')
 
