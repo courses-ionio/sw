@@ -64,7 +64,7 @@ howdoi -c python create random numbers
 #### 8) Πως να κάνεις unzip
 how2 unzip.gz  
 
-#### 9)Πως να φτιάξεις ένα persistent usb αλλά χρησιμοποιόντας το how2
+#### 9) Πως να φτιάξεις ένα persistent usb αλλά χρησιμοποιόντας το how2
 how2 make a persistent usb ubuntu
 
 
@@ -98,7 +98,7 @@ echo hello | tee a.txt
 
 εμφανίσαμε το περιεχόμενο του αρχείου a.txt
 
-#### iii)Μετά περάσαμε στα αρχία a.txt και b.txt το:
+#### iii) Μετά περάσαμε στα αρχία a.txt και b.txt το:
 
 Hello people
 
