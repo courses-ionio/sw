@@ -232,6 +232,62 @@ References:
 
 https://github.com/dschep/ntfy
 
+
+## Άσκηση 5η: Set-up a system for python development
+
+
+### Για την εκτέλεση της άσκησης θα χρειαστούμε την εγκατάσταση του εργαλείου μας:
+
+pip install --user pipenv
+
+### Τώρα για την εκτέλεση της άσκησης κάναμε τα εξής βήματα:
+
+#### 1) Για αρχή πήγαμε σε ένα Directory για να μπορούμε να δουλέψουμε ελεύθερα:
+
+cd Desktop
+
+#### 2) Δημιουργήσαμε ένα αρχείο/φάκελο για να έχουμε όλα μας τα αρχεία μαζεμένα:
+
+mkdir PyDev
+
+#### 3) Αφού φτιάξαμε το αρχείο τότε μπήκαμε σε αυτό:
+
+cd PyDevn
+
+#### 4) Ορίσαμε το PATH για να μας το εμφανίσει αργότερα η άσκηση το PATH του αρχείου:
+
+export PATH="$PATH:/home/rastil/Desktop/PyDev"  
+
+#### 5) Εγκατασησαμε μέσα στο αρχείο μας την βιβλιοθήκη requests:
+
+pipenv install requests
+
+#### 6) Φτιάξαμε αρχείο python για να το τρέξουμε και του προσθέσαμε τις εξής εντολές:
+
+vi main.py
+
+import requests
+
+response = requests.get('https://httpbin.org/ip')
+
+print('Your IP is {0}'.format(response.json()['origin']))
+
+#### 7) Τρέξαμε το αρχείο με το pipenv:
+
+pipenv run python main.py
+
+### Αποτελέσματα: Λάβαμε σαν αποτελέσμα το IP μας:
+
+Your IP is 91.138.133.184
+
+### Όλες οι εντολές που αναφέρθηκαν παραπάνω βρίσκεται σε αυτό εδώ το βίντεο όπου είναι και η άσκηση:
+
+https://asciinema.org/a/347649
+
+### References:
+
+https://docs.python-guide.org/dev/virtualenvs/
+
 ## Συμμετοχικό Υλικό - Α' Παραδοτέο
 Link του βιβλίου: https://www.mibook.org/ 
 
