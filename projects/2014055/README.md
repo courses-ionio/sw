@@ -80,6 +80,25 @@ sudo chmod +x notification
 
 
 
+### Άσκηση 5. Performance monitoring. Monitor the performance of your python scripts and visualize them with colors and/or spark lines.
+
+[asciinema url](https://asciinema.org/a/wgyLiYNrogx8hUEFDCrS7blzU)
+
+Για αυτό το παράδειγμα χρησιμοποιήθηκε το hyperfine. Αρχικά το έκανα εγκατάσταση με αυτές τις εντολές 
+
+```
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.10.0/hyperfine_1.10.0_amd64.deb
+sudo dpkg -i hyperfine_1.10.0_amd64.deb
+```
+
+Ενώ στην συνέχεια σύγκρινα δύο παραδείγματα python τα οποία είχα κατεβάσει με την παρακάτω εντολή. 
+
+```
+hyperfine -i 'pythonex1.py' 'pythonex2.py'
+```
+
+[Πληροφορίες hyperfine](https://github.com/sharkdp/hyperfine)
+
 
 
 
