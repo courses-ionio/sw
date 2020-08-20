@@ -66,12 +66,14 @@ ranger
 sudo pip3 install ntfy
 ```
 
-Στην συνέχεια έκανα ένα απλό update/upgrade και στην συνέχεια του είπα να μου στείλει notification όταν τελειώσει το upgrade.
+Στην συνέχεια έκανα ένα απλό update/upgrade και στην συνέχεια του είπα να μου στείλει notification όταν τελειώσει το upgrade. Τέλος το έκανα εκτελέσιμο και το έτρεξα.
 
 ```bash
 sudo apt update
 sudo apt upgrade
 ntfy -t 'System' send "Upgrade Completed"
+sudo chmod +x notification
+./notification
 ```
 
 ![](Ntfy.png)
