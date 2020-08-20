@@ -42,3 +42,12 @@ ranger
 ![](xterm.png)
 
 ![](terminator.png)
+
+
+
+### Άσκηση 3. Use the terminal as an IDE. Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in.
+
+[asciinema url](https://asciinema.org/a/WQquskz7nLa40TdOSI95bPl44)
+
+Για αυτή την άσκηση αποφάσισα να γράψω ένα απλό πρόγραμμα Hello World σε c με τον vi. Στην συνέχεια έγινε compile. Όλα έγιναν σε terminal. 
+
