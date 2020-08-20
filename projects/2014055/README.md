@@ -45,9 +45,45 @@ ranger
 
 
 
+
+
 ### Άσκηση 3. Use the terminal as an IDE. Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in.
 
 [asciinema url](https://asciinema.org/a/WQquskz7nLa40TdOSI95bPl44)
 
 Για αυτή την άσκηση αποφάσισα να γράψω ένα απλό πρόγραμμα Hello World σε c με τον vi. Στην συνέχεια έγινε compile. Όλα έγιναν σε terminal. 
+
+
+
+
+### Άσκηση 4. Send notifications to your desktop-mobile. Send a notifcation when a big task completes, eg download, compiling, etc	
+
+[asciinema url](https://asciinema.org/a/IhO7bbcD78Dz6pKL6w83KFk7p)
+
+Αρχικά για την άσκηση χρειάστηκε να εγκαταστήσω το ntfy.
+
+```bash
+sudo pip3 install ntfy
+```
+
+Στην συνέχεια έκανα ένα απλό update/upgrade και στην συνέχεια του είπα να μου στείλει notification όταν τελειώσει το upgrade.
+
+```bash
+sudo apt update
+sudo apt upgrade
+ntfy -t 'System' send "Upgrade Completed"
+```
+
+![](ntfy.png)
+
+
+
+
+
+
+
+
+
+
+
 
