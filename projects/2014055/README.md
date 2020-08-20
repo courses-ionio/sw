@@ -74,7 +74,8 @@ sudo apt upgrade
 ntfy -t 'System' send "Upgrade Completed"
 ```
 
-![](ntfy.png)
+![](Ntfy notification.png)
+
 
 
 
