@@ -121,6 +121,8 @@ hyperfine -i 'pythonex1.py' 'pythonex2.py'
 
 [Dennis Ritchie](https://p14papa1.netlify.app/biography/dennis-ritchie/)
 
+Πηγή: [wikipedia](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+
 
 ## Παραδοτέο 1.Β
 
@@ -139,7 +141,7 @@ hyperfine -i 'pythonex1.py' 'pythonex2.py'
 
 // Έγινε πρώτα η βιογραφία του Elon Musk αλλά αποφάσισα πως δεν είναι τόσο σχετική με το μάθημα και επομένως έκανα μετά την βιογραφία του Dennis Ritchie και αφού την έκανα είπα να μην την διαγράψω αλλά να την αφήσω σαν έξτρα.
 
-
+Πηγή: [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
 
 
 
