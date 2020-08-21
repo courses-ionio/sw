@@ -116,12 +116,10 @@ hyperfine -i 'pythonex1.py' 'pythonex2.py'
 
 [Knowledge Quiz](https://p14papa1.netlify.app/remix/quiz/)
 
-
 ## Παραδοτέο 1.Γ.2
-Νέα Βιογραφία 
+Νέα Βιογραφία
 
-[Elon Musk](https://p14papa1.netlify.app/biography/elon-musk/)
-
+[Dennis Ritchie](https://p14papa1.netlify.app/biography/dennis-ritchie/)
 
 
 ## Παραδοτέο 1.Β
@@ -129,6 +127,17 @@ hyperfine -i 'pythonex1.py' 'pythonex2.py'
 Νέο διαδραστικό παράδειγμα
 
 [Distance Converter](https://p14papa1.netlify.app/remix/distance/)
+
+
+
+
+
+##  ΈΞΤΡΑ Παραδοτέο 1.Γ.2
+Νέα Βιογραφία 
+
+[Elon Musk](https://p14papa1.netlify.app/biography/elon-musk/)
+
+// Έγινε πρώτα η βιογραφία του Elon Musk αλλά αποφάσισα πως δεν είναι τόσο σχετική με το μάθημα και επομένως έκανα μετά την βιογραφία του Dennis Ritchie και αφού την έκανα είπα να μην την διαγράψω αλλά να την αφήσω σαν έξτρα.
 
 
 
