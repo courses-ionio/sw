@@ -7,32 +7,12 @@
 
 #              `ΕΡΓΑΣΙΕΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ`
 
-## ΠΡΩΤΗ ΕΡΓΑΣΙΑ
+##                 **ΕΡΓΑΣΙΕΣ HCI**
 
-* assignments : set-up the main dependencies and demonstrate your base system.
-* deliverables : change your command prompt with your student ID, list your dot files, 
-                 display your shell configuration file and display system information 
-                 (hardware+software).
-                 
-## ΔΕΥΤΕΡΗ ΕΡΓΑΣΙΑ 
+##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
 
-* assignments : get familiar with basic commands, reading documentation and editing files.
-* deliverables : browse and view files on your system.
+### *assignments* : 
 
-## ΤΡΙΤΗ ΕΡΓΑΣΙΑ 
-
-* assignments : connect to wireless network.
-* deliverables : list available networks and connect to one that requires web login.
-
-## ΤΕΤΑΡΤΗ ΕΡΓΑΣΙΑ 
-
-* assignments : check the weather.
-* deliverables : fetch the weather forecast for your home city and one more city that you want to travel to.
-
-## ΠΕΜΠΤΗ ΕΡΓΑΣΙΑ
-
-* assignments : download mp3.
-* deliverables : search, download and play (with the terminal) your favorite song of the month from youtube.
 
 # My Asciinema
 
