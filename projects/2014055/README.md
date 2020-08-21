@@ -103,6 +103,29 @@ hyperfine -i 'pythonex1.py' 'pythonex2.py'
 
 
 
+# Συμμετοχικό Εκπαιδευτικό υλικό
+
+[Προσωπικό Αποθετήριο](https://github.com/p14papa1/pibook)
+
+[url Σελίδας Βιβλίου](https://p14papa1.netlify.app/)
+
+
+## Παραδοτέο 1.Β
+
+Νέο διαδραστικό παράδειγμα
+
+[Knowledge Quiz](https://p14papa1.netlify.app/remix/quiz/)
+
+
+## Παραδοτέο 1.Β
+
+Νέο διαδραστικό παράδειγμα
+
+[Distance Converter](https://p14papa1.netlify.app/remix/distance/)
+
+
+
+
 
 
 
