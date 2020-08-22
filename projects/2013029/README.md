@@ -77,3 +77,5 @@ sudo chmod +x task.sh
 ###### Πηγές
 https://github.com/dschep/ntfy
 
+https://vitux.com/how-to-write-a-shell-script-in-ubuntu/
+
