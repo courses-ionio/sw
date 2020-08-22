@@ -73,7 +73,9 @@
 
 # My Asciinema
 
-* **link εργασίας: https://asciinema.org/a/wF0MoZzdmBztom0dTrjdf4Msi
+* **link εργασίας: https://asciinema.org/a/354975
+* **link εργασίας: [![asciicast](https://asciinema.org/a/354975.svg)](https://asciinema.org/a/354975)
+
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
