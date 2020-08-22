@@ -110,7 +110,7 @@ https://spacevim.org/documentation/
 Δημιουργία του δικτύου
 ![Δημιουργία του δικτύου](network.jpg)
 
-ArcLinux
+Gentoo
 ![Gentoo nat](gentoo.jpg)
 
 FreeBsd
