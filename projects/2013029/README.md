@@ -50,7 +50,7 @@ https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/
 https://github.com/ohmyzsh/ohmyzsh
 
 #### Άσκηση 3. Send notifications to your desktop-mobile. Send a notifcation when a big task completes, eg download, compiling, etc
-##### asciinema: 
+##### asciinema: https://asciinema.org/a/2JhAF0QdO1PyctCYRkcEp0VBB
 Εγκατέστησα το ntfy
 ```
 sudo pip3 install ntfy
