@@ -49,5 +49,31 @@ https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/
 
 https://github.com/ohmyzsh/ohmyzsh
 
+#### Άσκηση 3. Send notifications to your desktop-mobile. Send a notifcation when a big task completes, eg download, compiling, etc
+##### asciinema: 
+Εγκατέστησα το ntfy
+```
+sudo pip3 install ntfy
+```
+στη συνέχεια δημιούργησα ένα shell script που κάνει update στο σύστημα και στέλνει notification μόλις τελειώσει
+```
+#!/bin/bash
 
+sudo apt-get update 
+sudo apt-get upgrade
+
+ntfy send "Update procces completed"
+```
+
+Έτρεξα το script αφού το έκανα executable
+```
+sudo chmod +x task.sh
+./task.sh
+```
+
+Το notification
+![notification](ntfy.jpg)
+
+###### Πηγές
+https://github.com/dschep/ntfy
 
