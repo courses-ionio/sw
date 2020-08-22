@@ -16,3 +16,29 @@
 
 ###### Πηγές
 https://app.netlify.com/
+
+#### Άσκηση 2. Try different terminals and shells. Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs.
+##### asciinema: https://asciinema.org/a/T1HJUUtOPl26AJS9uwcGiA5E1
+Εγκατέστησα το zsh
+```
+sudo apt install zsh
+```
+Εγκατέστησα το oh-my-zsh
+```
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+Άλλαξα το theme του oh my zsh
+```
+git clone https://github.com/cviebrock/.oh-my-zsh-custom.git
+```
+Για να αλλάξω το theme στο .zshrc πρόσθεσα
+```
+ZSH_THEME="cviebrock"
+ZSH_CUSTOM=$HOME/.oh-my-zsh-custom
+```
+Στη συνέχεια άλλαξα το command prompt του zsh με τον αμ μου, έκανα browse αρχείων και διάβασα το configuration file.
+
+Για να ανοίξω το zsh αφού δεν τον όρισα ως default (ήθελε logout login)
+```
+zsh
+```
