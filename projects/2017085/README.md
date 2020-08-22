@@ -22,7 +22,7 @@
 
 ### `*references*` : Cheat tldr ls less nano source PS1 neofetch
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` : ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΑΛΛΑΞΩ ΤΟ COMMAND PROMPT ΜΕ ΤΟΝ ΑΜ ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ PS1="P2017085 >".
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` : ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΑΛΛΑΞΩ ΤΟ COMMAND PROMPT ΜΕ ΤΟΝ ΑΜ ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ PS1="P2017085 :".
 ###                          ΕΠΕΙΤΑ ΓΙΑ ΝΑ ΚΑΝΩ LIST DOT ΤΑ FILES ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΕΚΤΕΛΕΣΩ ΤΙς ΠΑΡΑΚΑΤΩ ΕΝΤΟΛΕΣ ΣΤΟ TERMINAL ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ
 ###                          LS-A ΓΙΑ ΝΑ ΔΩ ΤΑ ΚΡΥΦΑ ΑΡΧΕΙΑ ΣΤΟΥΣ ΦΑΚΕΛΟΥΣ ΠΟΥ ΕΧΩ.ΓΙΑ ΤΟ SHELL CONFIGURATION ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΤΥΠΩΣΩ ΤΙΣ ΕΝΤΟΛΕΣ
 ###                          LS -ALL ΓΙΑ ΟΛΑ ΤΑ FILES ΚΑΘΩΣ ΘΑ ΒΡΙΣΚΟΜΑΙ ΣΤΟ ROOT PAGE ΔΗΛΑΔΗ ΣΤΟ CD.. .ΓΙΑ ΝΑ ΕΚΤΥΠΩΣΩ ΤΟ HARDWARE ΚΑΙ SOFTWARE
@@ -31,6 +31,27 @@
 ###                          ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ LSCPU ΚΑΙ ΓΙΑ ΝΑ ΔΩ ΠΟΙΟΝ ΕΠΕΞΕΡΓΑΣΤΗ ΧΡΗΣΙΜΟΠΟΙΩ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ, ΣΥΜΠΛΗΡΩΝΩ ΤΗΝ ΕΝΤΟΛΗ LSHW -C CPU
 ###                          ΓΙΑ ΤΗΝ ΜΝΗΜΗ, ΤΟΥΣ ΔΙΣΚΟΥΣ, ΤΟ ΔΙΚΤΥΟ ΚΑΙ ΤΟ SOFTWARE ΧΡΗΣΙΜΟΠΟΙΩ ΤΙΣ ΕΝΤΟΛΕΣ LSHW -SHORT -C MEMORY, LSHW -SHORT -C DISK
 ###                          ,LSBLK (TO LIST ALL DISKS), IFCONFIG, LSHW -C NETWORK ΚΑΙ ΤΕΛΟΣ SUDO DMIDECODE -T BIOS, UNAME -A.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) ls -a
+                            (3) nano .bashrc
+                            (4) ls -all
+                            (5) cd..
+                            (6) ls -al
+                            (7) inxi -Fxz
+                            (8) lscpu, sudo lshw -C cpu
+                            (9) sudo lshw -short -C memory
+                            (10) sudo lshw -short -C disk
+                            (11) lsblk
+                            (12) ifconfig
+                            (13) sudo lshw -C network
+                            (14) sudo dmidecode -t bios
+                            (15) uname -a
+
+
+
 
 
 # My Asciinema
