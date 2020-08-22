@@ -53,7 +53,7 @@
 
 
 ###  `*EIKONES*` : .......
-                   ![Alt Text](projects/2017085/Pictures/CHI 1.png)
+                   ![Alt Text](projects/2017085/images/HCI1.png)
                   
 
 
