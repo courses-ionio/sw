@@ -42,3 +42,12 @@ ZSH_CUSTOM=$HOME/.oh-my-zsh-custom
 ```
 zsh
 ```
+###### Πηγές
+https://github.com/cviebrock/.oh-my-zsh-custom
+
+https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/
+
+https://github.com/ohmyzsh/ohmyzsh
+
+
+
