@@ -79,3 +79,26 @@ https://github.com/dschep/ntfy
 
 https://vitux.com/how-to-write-a-shell-script-in-ubuntu/
 
+#### Άσκηση 4. Use the terminal as an IDE. Edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+##### asciinema: https://asciinema.org/a/zKcaixOcO2jXTKicWeOYT6Ufl
+εγκατέστησα τον vim και το curl
+```
+sudo apt install vim 
+sudo apt install curl
+```
+Εγκατέστησα τον SpaceVim 
+```
+curl -sLf https://spacevim.org/install.sh | bash
+```
+O SpaceVim ανοίγει με τον vim και την πρώτη φορά που τρέχει γίνεται αυτοματα η εγκατάσταση των απαραίτητων plugin. Η χρήση του είναι πολύ απλή
+```
+spc <number> //πας στο αντιστοιχο παράθυρο
+i //insert mode
+Esc //exit insert mode
+```
+Επεξεργάστηκα τη σελίδα που δημιούργησα στην άσκηση 1 και εκανα commit και push τις αλλαγές.
+
+###### Πηγές
+https://spacevim.org/quick-start-guide/#online-tutor
+
+https://spacevim.org/documentation/
