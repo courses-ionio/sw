@@ -54,7 +54,7 @@
 
 ###  `*EIKONES*` : .......
    
-   ![Alt Text](images/HCI1.png)
+   ![step 1](images/HCI1.png)
                   
 
 
