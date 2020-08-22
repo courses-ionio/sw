@@ -14,7 +14,11 @@
 ΤΑ ΟΠΟΙΑ ΘΑ ΑΝΑΦΕΡΘΟΥΝ ΣΥΝΟΠΤΙΚΑ ΣΤΟ ΤΕΛΟΣ ΤΗΣ ΑΝΑΦΟΡΑΣ.*
 ##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
 
-### *assignments* :
+### *assignments* : Set up the main dependencies and demostrate your base system.
+
+### *deliverables* : Change your command prompt with your student ID ,list your dot files, 
+###                  display your shell configuration file and display system information
+###                  (hardware + software).
 
 
 # My Asciinema
