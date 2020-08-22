@@ -139,3 +139,14 @@ https://www.osboxes.org/freebsd/
 
 https://www.youtube.com/watch?v=vReAkOq-59I
 
+#### Άσκηση 6. Set-up a system for python development. Install and configure in a user folder a python project that is not available through the package manager.
+##### asciinema: https://asciinema.org/a/xxEU2SCxGdpXmLST257pwB67L
+Για αυτη την άσκσηση έφτιαξα ένα δικό μου project, το chatta, ένα πάρα πολυ απλό chatbot το οποίο το έκανα deploy σε virtual enviroment που δημιούργησα.
+
+###### Πηγές
+https://docs.python-guide.org/dev/virtualenvs/
+
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+https://www.afternerd.com/blog/python-string-contains/
+
