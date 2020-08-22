@@ -54,17 +54,17 @@
 
 ###  `*EIKONES*` : .......
    
-*step1*    ![step 1](images/HCI1.png)
-*step2*    ![step 2](images/HCI2.png)
-*step3*    ![step 3](images/HCI3.png)
-*step4*    ![step 4](images/HCI4.png)
-*step5*    ![step 5](images/HCI5.png)
-*step6*    ![step 6](images/HCI6.png)
-*step7*    ![step 7](images/HCI7.png)
-*step8*    ![step 8](images/HCI8.png)
-*step9*    ![step 9](images/HCI9.png)
-*step10*   ![step 10](images/HCI10.png)
-*step11*    ![step 11](images/HCI11.png)
+   ![step 1](images/HCI1.png)
+   ![step 2](images/HCI2.png)
+   ![step 3](images/HCI3.png)
+   ![step 4](images/HCI4.png)
+   ![step 5](images/HCI5.png)
+   ![step 6](images/HCI6.png)
+   ![step 7](images/HCI7.png)
+   ![step 8](images/HCI8.png)
+   ![step 9](images/HCI9.png)
+   ![step 10](images/HCI10.png)
+   ![step 11](images/HCI11.png)
   
    
    
