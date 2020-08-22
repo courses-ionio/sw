@@ -102,3 +102,40 @@ Esc //exit insert mode
 https://spacevim.org/quick-start-guide/#online-tutor
 
 https://spacevim.org/documentation/
+
+#### Άσκηση 5. Try different operating systems in the emulator. Load at least two operating systems without a GUI (only CLI) and create a virtual local network
+##### asciinema: https://asciinema.org/a/7qn17Tq8546ORFemPd27ua6Mg
+Χρησιμοποίησα το Gentoo και το FreeBsd. Για να είναι δυνατή η επικοινωνία μεταξύ των δύο συστημάτων απο τις ρυθμίσεις του virtual box δημιουργησα ένα νέο δίκτυο στο οποίο ένταξα και τα δυο λειτουργικά. Η διαδικασία φαίνεται στις παρακάτω εικόνες.
+
+Δημιουργία του δικτύου
+![Δημιουργία του δικτύου](network.jpg)
+
+ArcLinux
+![Gentoo nat](gentoo.jpg)
+
+FreeBsd
+![FreeBsd nat](freebsd-nat.jpg)
+
+Άλλαξα το commanf prompt του Gentoo με τον αμ μου και εγκατέστησα το asciinema
+```
+sudo emerge -av asciinema
+```
+με την εντολή ifconfig είδα την ip και τον δύο συστημάτων
+
+Ips
+![ip addresses](ip.jpg)
+
+Στη συνέχεια έκανα ping την ip του FreeBsd απο το Gentoo και επιβεβαίωσα τη μεταξύ τους επικοινωνία.
+```
+ping 192.168.100.5
+```
+
+###### Πηγές
+https://asciinema.org/docs/installation
+
+https://www.osboxes.org/gentoo/
+
+https://www.osboxes.org/freebsd/
+
+https://www.youtube.com/watch?v=vReAkOq-59I
+
