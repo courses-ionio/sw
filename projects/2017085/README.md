@@ -53,6 +53,7 @@
 
 
 ###  `*EIKONES*` : .......
+                   step 1 (Pictures/CHI 1.png)
                   
 
 
