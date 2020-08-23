@@ -204,11 +204,47 @@
 ###  `*EIKONES*` : .......
    
    ![step 1](images/HCI17.png)
-   ![step 2](images/HCI18.png)
-   ![step 3](images/HCI19.png)
- 
+
   
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355147
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355147.svg)](https://asciinema.org/a/355147)
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+
+##                 ( ΤΕΤΑΡΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Tesxt editors and plugins for code highlighting and autocompetetion.
+### `*deliverables*` : edit the vm or the shell configuration file
+
+### `*references*` : vim
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΝΑ ΚΑΝΩ EDIT ΜΕ ΤΟ VIM ΑΡΧΙΚΑ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ ΕΝΑ INSTALL ΔΗΛΑΔΗ 
+                             APT GET INSTALL VIM. ΕΠΕΙΤΑ ΓΙΑ ΝΑ ΕΠΙΛΕΞΩ ΤΟ FILE ΠΟΥ ΘΕΛΩ ΝΑ ΚΑΝΩ EDIT
+                             ΜΕ ΤΗΝ ΕΝΤΟΛΗ VIM TEST.TXT.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) vim test.txt
+                            (3) w (for save)
+                            (4) ctr-z (for exit)
+                          
+
+
+###  `*EIKONES*` : .......
    
+   ![step 1](images/HCI17.png)
+
+  
 
 # My Asciinema
 
