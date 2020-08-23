@@ -133,6 +133,52 @@
 
 
 
+##                 ( ΤΡΙΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Become productive with a todo list.
+### `*deliverables*` : Create a listo of dotos, edit, delete and check some of them.
+
+### `*references*` : toso.txt todo.txt-cli task
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΑΡΧΙΚΑ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ CAT > FILE.TXT ΓΙΑ ΤΗΝ ΔΗΜΙΟΥΡΓΙΑ ΕΝΟΣ FILE
+                             ΣΤΟΝ ΦΑΚΕΛΟ ΠΟΥ ΘΕΛΩ ΚΑΙ ΠΡΟΣΘΕΤΟΝΤΑΣ ΤΗΝ .(DOT) ΜΠΡΟΣΤΑ ΑΠΟ ΤΟ FILE ΔΗΜΙΟΥΡΓΩ 
+                             ΕΝΑ HIDDEN FILE. ΓΙΑ ΝΑ ΚΑΝΩ EDIT ΕΝΑ FILE ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ ΝΑΝΟ ΚΑΙ ΓΙΑ 
+                             ΝΑ ΔΩ ΤΟ ΝΕΟ ΠΕΡΙΕΧΟΜΕΝΟ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ CAT FILE.TXT. ΓΙΑ ΝΑ ΔΙΑΓΡΑΨΩ ΤΟ 
+                             ΠΕΡΙΕΧΟΜΕΝΟ ΤΟΥ ΑΡΧΕΙΟΥ ΠΟΥ ΒΡΙΣΚΟΜΑΙ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ > FILE.ΤΧΤ. ΓΙΑ ΝΑ
+                             ΔΙΑΓΡΑΨΩ ΕΝΤΕΛΩΣ ΤΟ ΑΡΧΕΙΟ ΠΟΥ ΘΕΛΩ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ RM TEST.ΤΧΤ.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) cat > test.txt
+                            (3) cat test.txt
+                            (4) cat > .test1.txt
+                            (5) cat .text1.txt
+                            (6) nano test.txt
+                            (7) rm test.txt
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/HCI14.png)
+   ![step 2](images/HCI15.png)
+   ![step 3](images/HCI16.png)
+ 
+  
+   
+   
+                  
+
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355144
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355144.svg)](https://asciinema.org/a/355144)
+
+
+
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
 
 * Εκανα τις εργασιες Α,Β του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες ολοκληρωμενες
