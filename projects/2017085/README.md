@@ -80,44 +80,31 @@
 
 
 
-##                 ( F ΕΡΓΑΣΙΑ )
+##                 ( ΔΕΥΤΕΡΗ ΕΡΓΑΣΙΑ )
 
-### `*assignments*` : Set up the main dependencies and demostrate your base system.
+### `*assignments*` : Get familiar with basic commands, reading documentation and editing files.
 
-### `*deliverables*` : Change your command prompt with your student ID ,list your dot files, 
-###                  display your shell configuration file and display system information
-###                  (hardware + software).
+### `*deliverables*` : Browse and view files on your system.
 
-### `*references*` : Cheat tldr ls less nano source PS1 neofetch
+### `*references*` : man vim ranger lf bash guide error correction
 
 ### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
-                             ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΑΛΛΑΞΩ ΤΟ COMMAND PROMPT ΜΕ ΤΟΝ ΑΜ ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ PS1="P2017085 :".
-                             ΕΠΕΙΤΑ ΓΙΑ ΝΑ ΚΑΝΩ LIST DOT ΤΑ FILES ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΕΚΤΕΛΕΣΩ ΤΙς ΠΑΡΑΚΑΤΩ ΕΝΤΟΛΕΣ ΣΤΟ TERMINAL ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ
-                             LS-A ΓΙΑ ΝΑ ΔΩ ΤΑ ΚΡΥΦΑ ΑΡΧΕΙΑ ΣΤΟΥΣ ΦΑΚΕΛΟΥΣ ΠΟΥ ΕΧΩ.ΓΙΑ ΤΟ SHELL CONFIGURATION ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΤΥΠΩΣΩ ΤΙΣ ΕΝΤΟΛΕΣ
-                             LS -ALL ΓΙΑ ΟΛΑ ΤΑ FILES ΚΑΘΩΣ ΘΑ ΒΡΙΣΚΟΜΑΙ ΣΤΟ ROOT PAGE ΔΗΛΑΔΗ ΣΤΟ CD.. .ΓΙΑ ΝΑ ΕΚΤΥΠΩΣΩ ΤΟ HARDWARE ΚΑΙ SOFTWARE
-                             ΣΥΣΤΗΜΑ ΤΟΥ ΥΠΟΛΟΓΙΣΤΗ ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΤΥΠΩΣΩ ΤΙΣ ΕΝΤΟΛΕΣ INXI -FXZ ΓΙΑ ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΕΙ ΠΛΗΡΟΦΟΡΙΕΣ ΤΟΥ ΣΥΣΤΗΜΑΤΟΣ ΤΗΣ
-                             ΜΠΑΤΑΡΙΑΣ, ΤΟΥ ΕΠΕΞΕΡΓΑΣΤΗ, ΤΗΣ GPU, ΤΟΥ ΗΧΟΥ, ΤΩΝ ΟΔΗΓΩΝ ΕΓΚΑΤΑΣΤΑΣΗΣ, ΚΑΘΩΣ ΚΑΙ ΤΟΥ ΔΙΚΤΟΥ. ΓΙΑ ΠΛΗΡΟΦΟΡΙΕΣ ΤΟΥ CPU
-                             ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ LSCPU ΚΑΙ ΓΙΑ ΝΑ ΔΩ ΠΟΙΟΝ ΕΠΕΞΕΡΓΑΣΤΗ ΧΡΗΣΙΜΟΠΟΙΩ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ, ΣΥΜΠΛΗΡΩΝΩ ΤΗΝ ΕΝΤΟΛΗ LSHW -C CPU
-                             ΓΙΑ ΤΗΝ ΜΝΗΜΗ, ΤΟΥΣ ΔΙΣΚΟΥΣ, ΤΟ ΔΙΚΤΥΟ ΚΑΙ ΤΟ SOFTWARE ΧΡΗΣΙΜΟΠΟΙΩ ΤΙΣ ΕΝΤΟΛΕΣ LSHW -SHORT -C MEMORY, LSHW -SHORT -C DISK
-                             ,LSBLK (TO LIST ALL DISKS), IFCONFIG, LSHW -C NETWORK ΚΑΙ ΤΕΛΟΣ SUDO DMIDECODE -T BIOS, UNAME -A.
+                             ΑΡΧΙΚΑ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ LS ΓΙΑ ΝΑ ΚΑΝΩ LIST ΟΛΑ ΤΑ FILES ΤΟΥ DIRECTORY ΠΟΥ ΒΡΙΣΚΟΜΑΙ 
+                             ΕΚΕΙΝΗ ΤΗΝ ΣΤΙΓΜΗ. ΓΙΑ ΝΑ ΔΩ ΣΕ ΠΟΙΟ DIRECTORY ΒΡΙΣΚΟΜΑΙ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ PWD ΚΑΘΩΣ
+                             ΜΟΥ ΒΓΑΖΕΙ ΤΟΝ ΣΥΓΚΕΚΡΙΜΕΝΟ PATH. ΓΙΑ ΝΑ ΚΑΝΩ ΜΕΤΑΒΑΣΗ ΣΕ ΕΝΑ FILE Ή ΝΑ ΑΝΟΙΞΩ ΕΝΑ ΑΡΧΕΙΟ 
+                             ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ CD.
 
 
 ### `*ENTOLES BHMA-BHMA*` : ........
                             (1) PS1="P2017085 :"
-                            (2) ls -a
-                            (3) nano .bashrc
-                            (4) ls -all
-                            (5) cd..
-                            (6) ls -al
-                            (7) inxi -Fxz
-                            (8) lscpu, sudo lshw -C cpu
-                            (9) sudo lshw -short -C memory
-                            (10) sudo lshw -short -C disk
-                            (11) lsblk
-                            (12) ifconfig
-                            (13) sudo lshw -C network
-                            (14) sudo dmidecode -t bios
-                            (15) uname -a
+                            (2) pwd
+                            (3) ls
+                            (4) cd cplaz
+                            (5) cd Desktop
+                            (6) cd ks (my folder)
+                            (7) cd ..
+                            (8) cd /home/cplaz/Desktop/ks
+                            
 
 
 ###  `*EIKONES*` : .......
