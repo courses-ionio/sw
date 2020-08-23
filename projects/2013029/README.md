@@ -21,6 +21,17 @@ https://www.w3schools.com/jquery/event_on.asp
 
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon
 
+#### Παραδοτέο Γ.2. Νέα βιογραφία
+##### Jaron Lanier: https://p13dima-gr.netlify.app/biography/lanier/
+
+###### Πηγές
+https://en.wikipedia.org/wiki/Jaron_Lanier
+
+https://en.wikipedia.org/wiki/Alien_Garden
+
+https://en.wikipedia.org/wiki/Internet2
+
+
 ## Ασκήσεις terminal
 #### Άσκηση 1. Set-up continuous integration. Build and deploy your static site and your cv dynamically every time you make a small change in the source files.
 ##### asciinema: https://asciinema.org/a/MSENReT9thQV3cuTFSHaIlkl3
