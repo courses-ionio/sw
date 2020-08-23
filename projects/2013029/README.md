@@ -7,6 +7,20 @@
 ### Μαρία Δήμα
 ### ΑΜ: Π2013029
 
+## Συμμετοχικό περιεχόμενο
+### Αποθετήριο σελίδας βιβλίου: https://github.com/p13dima/gr
+### Url σελίδας βιβλίου: https://p13dima-gr.netlify.app/
+
+#### Παραδοτέο Β. Νέο διαδραστικό παράδειγμα
+##### Page scale descale menu effect: https://p13dima-gr.netlify.app/remix/page_scale_descale_menu_effect/
+
+###### Πηγές
+https://www.w3schools.com/css/css3_animations.asp
+
+https://www.w3schools.com/jquery/event_on.asp
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon
+
 ## Ασκήσεις terminal
 #### Άσκηση 1. Set-up continuous integration. Build and deploy your static site and your cv dynamically every time you make a small change in the source files.
 ##### asciinema: https://asciinema.org/a/MSENReT9thQV3cuTFSHaIlkl3
