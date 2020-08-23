@@ -184,3 +184,26 @@ https://packaging.python.org/guides/installing-using-pip-and-virtual-environment
 
 https://www.afternerd.com/blog/python-string-contains/
 
+#### Eπιπλέον άσκηση 7. Configure a custom window manager. Try different wm and configure one to fit your needs.
+##### asciinema: https://asciinema.org/a/2oV3hOdsbR6CbJGzAOpa5z11P
+Εγκατέστησα το dwm απο το git repository του στο github. To dwm υπάρχει στο package manager του ubuntu, αλλα αν το εγκαταστήσει κάποιος απο εκεί, δεν μπορεί να το παραμετροποιήσει καθώς κάθε φορά που κανεις μια αλλαγή πρέπει να το ξανακάνεις compile. Μετά απο αρκετό ψάξιμο στο internet για το πως γινετε η εγκατάσταση, χρησιμοποίησα το παρακάτω video.
+
+###### https://www.youtube.com/watch?v=lipHPQL4nmQ
+
+Το asciinema καταγράφει μετά την εγκατάσταση μέσα στον dwm για να φανεί η παραμετροποίηση του. Η παραμετροποίηση γίνετε απο το αρχείο config.h που υπαρχει στην εγκατάσταση του dwm. Άλλαξα το font size και το backcground χρωμα της μπαρας, επίσης μείωσα τα διαθέσιμα παράθυρα απο 9 σε 4. Αφού έκανα τις αλλαγές ξαναέκανα compile το dwm
+```
+sudo make clean install
+sudo reboot
+```
+Πριν τις αλλαγές
+![dwm before](dwm_before.jpg)
+
+Μετά τις αλλαγές
+![dwm after](dwm_after.jpg)
+
+###### Πηγές
+https://www.youtube.com/watch?v=lipHPQL4nmQ
+
+https://www.google.com/search?client=firefox-b-d&q=hex+color+picker
+
+https://medium.com/hacker-toolbelt/dwm-windows-manager-in-ubuntu-14958224a782
