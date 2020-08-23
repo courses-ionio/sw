@@ -31,6 +31,15 @@ https://en.wikipedia.org/wiki/Alien_Garden
 
 https://en.wikipedia.org/wiki/Internet2
 
+#### Επιπλέον παραδοτέο Γ.1. Νέα μελέτη περίπτωσης
+##### iPhone: https://p13dima-gr.netlify.app/case-study/iphone/
+
+###### Πηγές
+https://en.wikipedia.org/wiki/IPhone
+
+https://en.wikipedia.org/wiki/IPhone_3G
+
+https://en.wikipedia.org/wiki/IPhone_XS
 
 ## Ασκήσεις terminal
 #### Άσκηση 1. Set-up continuous integration. Build and deploy your static site and your cv dynamically every time you make a small change in the source files.
