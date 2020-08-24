@@ -281,6 +281,61 @@
 * **link εργασίας: [![asciicast](https://asciinema.org/a/355232.svg)](https://asciinema.org/a/355232)
 
 
+-------------------------------------------------------------------------------------------------------------
+
+
+##                 **ΕΡΓΑΣΙΕΣ CSCW**
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Check the weather.
+
+### `*deliverables*` : Fetch the weather forecast for your home city and one more
+###                    city that you want to travel to.
+
+### `*references*` : wttr.
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΑΡΧΙΚΑ ΚΑΝΩ INSTALL ΤΟ TOOL CURL ΚΑΙ ΕΠΕΙΤΑ ΓΡΑΦΩ ΤΗΝ ΕΝΤΟΛΗ CURL 
+                             WATTR .IN/LARISA ΓΙΑ ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΕΙ ΤΟΝ ΚΑΙΡΟ ΣΤΗΝ ΛΑΡΙΣΑ ΚΑΘΩΣ 
+                             ΚΑΙ ΤΗΝ ΓΕΩΓΡΑΦΙΚΗ ΤΟΥ ΘΕΣΗ.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) curl wttr.in/larisa
+                            (3) curl wttr.in/49100
+                            (4) curl wttr.in/Germany
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/CSCW1.png)
+   ![step 2](images/CSCW2.png)
+   ![step 3](images/CSCW3.png)
+   
+  
+   
+   
+                  
+
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355233
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355233.svg)](https://asciinema.org/a/355233)
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
 
 * Εκανα τις εργασιες Α,Β του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες ολοκληρωμενες
