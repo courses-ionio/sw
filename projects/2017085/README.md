@@ -492,19 +492,15 @@
 
 ###  `*EIKONES*` : .......
    
-   ![step 1](images/CSCW1.png)
-   ![step 2](images/CSCW2.png)
-   
-   
-  
+   ![step 1](images/MIV1.png)
    
    
  
 
 # My Asciinema
 
-* **link εργασίας: 
-* **link εργασίας: 
+* **link εργασίας: https://asciinema.org/a/355246
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355246.svg)](https://asciinema.org/a/355246)
 
 
 
