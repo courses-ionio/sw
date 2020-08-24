@@ -124,14 +124,9 @@
 
 
 
-## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
-
-* Εκανα τις εργασιες Α,Β του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες ολοκληρωμενες
-* link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/google-drive.md
-* link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/server.md
-
-
 ---------------------------------------------------------------------------------------------------------
+
+
 
 ##                 ( ΤΡΙΤΗ ΕΡΓΑΣΙΑ )
 
@@ -322,8 +317,7 @@
   
    
    
-                  
-
+ 
 
 # My Asciinema
 
@@ -331,7 +325,52 @@
 * **link εργασίας: [![asciicast](https://asciinema.org/a/355233.svg)](https://asciinema.org/a/355233)
 
 
+
+
 -------------------------------------------------------------------------------------------------------------
+
+
+
+##                 ( ΔΕΥΤΕΡΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Fetch information.
+
+### `*deliverables*` : Read the business news.
+
+### `*references*` : awesome-console-services.
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΤΗΝ ΟΛΟΚΛΗΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ CURL
+                             GETNEWS.TECH/WORLD+CUP ΕΤΣΙ ΩΣΤΕ ΝΑ ΑΝΑΝΕΩΣΕΙ ΤΙΣ ΝΕΟΤΕΡΕΣ ΕΙΔΗΣΕΙΣ ΠΟΥ 
+                             ΥΠΑΡΧΟΥΝ ΣΤΟΝ ΚΟΣΜΟ.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) curl wttr.in/larisa
+                            (3) curl wttr.in/49100
+                            (4) curl wttr.in/Germany
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/CSCW4.png)
+   
+   
+  
+   
+   
+ 
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355234
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355234.svg)](https://asciinema.org/a/355234)
+
+
+-------------------------------------------------------------------------------------------------------------
+
 
 
 
