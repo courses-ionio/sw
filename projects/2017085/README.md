@@ -263,15 +263,22 @@
 
 ###  `*EIKONES*` : .......
    
-   ![step 1](images/HCI17.png)
+   ![step 1](images/HCI18.png)
+   ![step 1](images/HCI19.png)
+   ![step 1](images/HCI20.png)
+   ![step 1](images/HCI21.png)
+   ![step 1](images/HCI22.png)
+   ![step 1](images/HCI23.png)
+   ![step 1](images/HCI24.png)
+   ![step 1](images/HCI25.png)
+   
 
   
 
 # My Asciinema
 
-* **link εργασίας: https://asciinema.org/a/355147
-* **link εργασίας: [![asciicast](https://asciinema.org/a/355147.svg)](https://asciinema.org/a/355147)
-
+* **link εργασίας: https://asciinema.org/a/355232
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355232.svg)](https://asciinema.org/a/355232)
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
