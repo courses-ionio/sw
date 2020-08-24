@@ -442,6 +442,7 @@
 ###  `*EIKONES*` : .......
    
    ![step 1](images/CSCW6.png)
+   ![step 2](images/CSCW7.png)
    
    
   
