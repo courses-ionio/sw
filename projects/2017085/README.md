@@ -456,8 +456,55 @@
 * **link εργασίας: [![asciicast](https://asciinema.org/a/355244.svg)](https://asciinema.org/a/355244)
 
 
+
 -------------------------------------------------------------------------------------------------------------
 
+
+##                 **ΕΡΓΑΣΙΕΣ MULTIPEDIA-INFORMATION VISUALIZATION**
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Donwload mp3.
+
+### `*deliverables*` : Search, download and play (with the terminal) your favorite song of the mounth from youtube.
+
+### `*references*` : youtube-dl, mpv
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ ΕΓΚΑΤΑΣΤΑΣΗ ΤΟ YOUTUBE-DL
+                             TOOL ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO CURL -L HTTPS://YT-DL.ORG/DOWNLOADS/LATEST/YOUTUBE-DL
+                             -O /USR/LOCAL/BIN/YOUTUBE-DL ΚΑΙ ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO CHMOD A+RX /USR/LOCAL/BIN
+                             /YOUTUBE-DL. ΜΕ ΤΗΝ ΕΝΤΟΛΗ YOUTUBE-DL -U ΕΛΕΓΧΟΥ ΤΗΝ ΝΕΟΤΕΡΗ ΕΚΔΟΣΗ ΠΟΥ ΕΧΕΙ. 
+                             ΕΠΕΙΤΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ YOUTUBE-DL -X <URL> ΚΑΝΩ DOWNLOAD ΜΟΝΟ ΤΟΝ ΗΧΟ ΕΝΩΣ ΤΡΑΓΟΥΔΙΟΥ
+                             ΠΟΥ ΘΕΛΩ ΝΑ ΚΑΤΕΒΑΣΩ ΑΠΟ ΤΟ YOUTUBE.
+
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) youtube-dl -x <url>
+                           
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/CSCW1.png)
+   ![step 2](images/CSCW2.png)
+   
+   
+  
+   
+   
+ 
+
+# My Asciinema
+
+* **link εργασίας: 
+* **link εργασίας: 
 
 
 
