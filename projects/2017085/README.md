@@ -372,6 +372,49 @@
 -------------------------------------------------------------------------------------------------------------
 
 
+##                 ( ΤΡΙΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Manage your bookmarks.
+
+### `*deliverables*` : add, search, and visit a bookmark to your favorite site.
+
+### `*references*` : buku
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΑΡΧΙΚΑ ΝΑ ΚΑΝΩ INSTALL ΜΕΡΙΚΑ TOOLS
+                             ΠΟΥ ΕΙΝΑΙ ΑΠΑΡΑΙΤΗΤΑ. ΕΠΕΙΤΑ ΜΕΤΑΒΑΙΝΩ ΣΤΟ BUKU FOLDER ΚΑΙ ΜΕ ΤΗΝ ΕΝΤΟΛΗ BUKU -A URL
+                             ΚΑΝΩ BOOKMARK ΤΟ LINK ΤΟΥ SITE ΠΟΥ ΘΕΛΩ ΝΑ ΕΠΙΣΚΕΦΤΩ ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ ΓΙΑ ΤΟ 
+                             FACEBOOK ΚΑΝΩ BUKU -A FACEBOOK.COM. ΕΠΕΙΤΑ ΓΙΑ ΝΑ MΕΤΑΒΩ ΣΤΟ ΣΥΓΚΕΚΡΙΜΕΝΟ SITE ΠΟΥ 
+                             ΕΧΩ ΚΑΝΕΙ BOOKMARK ΤΟ URL, ΓΡΑΦΩ ΤΗΝ ΕΝΤΟΛΗ BUKU -U (NUMBER) ΟΠΟΥ (NUMBER) ΕΙΝΑΙ Ο
+                             ΑΡΙΘΜΟΣ ΚΑΤΑ ΤΟΥ ΟΠΟΙΟΥ ΥΠΟΔΕΙΚΝΥΕΙ ΤΗΝ ΣΕΙΡΑ ΠΟΥ ΕΧΕΙ ΤΟ ΚΑΘΕ URL.
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) curl wttr.in/larisa
+                            (3) curl wttr.in/49100
+                            (4) curl wttr.in/Germany
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/CSCW5.png)
+   
+   
+  
+   
+   
+ 
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355239
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355239.svg)](https://asciinema.org/a/355239)
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
 
 
 
