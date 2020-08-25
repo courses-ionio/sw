@@ -520,19 +520,38 @@
 ### `*references*` : torque transmission-cli.
 
 ### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
-                             
-
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΣΤΗΚΕ ΑΡΧΙΚΑ ΝΑ ΚΑΝΩ INSTALL
+                             REPOSITORIES, ΚΑΘΩΣ ΕΚΑΝΑ ΚΑΙ UPGRADE ΤΟ ΣΥΣΤΗΜΑ ΜΕ ΝΕΟΤΕΡΕΣ ΕΚΔΟΣΕΙΣ.
+                             ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΕΡΓΑΣΙΑ, ΑΡΧΙΚΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΟΣΘΕΣΩ ΤΟ REPOSITORY
+                             TOY TRANSMISSION ΣΤΟ ΛΟΓΙΣΜΙΚΟ, ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO ADD-APT-REPOSITORY
+                             PPA:TRANSMISSIONBT/PPA. ΕΠΕΙΤΑ ΚΑΝΩ INSTALLA TRANSMISSION-GTK
+                             TRANSMISSION-CLI TRANSMISSION-COMMON TRANSMISSION-DAEOMON. ΕΠΕΙΤΑ ΓΙΑ
+                             ΝΑ ΑΛΛΑΞΩ ΤΟΝ ΚΩΔΙΚΟ ΤΟΥ TRANSMISSION ΚΑΙ ΤΟ ΟΝΟΜΑ ΧΡΗΣΤΗ ΤΟΥ HOST, 
+                             ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΣΤΑΜΑΤΗΣΩ ΤΗΝ ΔΙΕΡΓΑΣΙΑ ΤΗΣ ΥΠΗΡΕΣΙΑΣ ΤΟΥ TRANSMISSION
+                             ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO SERVICE TRANSMISSION-DAEMON STOP. ΕΠΕΙΤΑ, ΜΕ ΤΗΝ
+                             ΕΝΤΟΛΗ SUDO NANO/VAR/LIB/TRANSMISSION-DAEMON/INFO/SETTINGS JSON
+                             ΜΠΟΡΩ ΝΑ ΑΛΑΞΩ ΤΟΝ ΚΩΔΙΚΟ ΚΑΙ ΤΟ ΟΝΟΜΑ ΧΡΗΣΤΗ ΚΑΙ ΝΑ ΒΑΛΩ ΔΙΚΑ ΜΟΥ.
+                             ΕΠΕΙΤΑ ΑΝΟΙΓΩ ΞΑΝΑ ΤΗΝ ΥΠΗΡΕΣΙΑ ΤΟΥ TRANSMISSION ΜΕ ΤΗΝ ΕΝΤΟΛΗ
+                             SUDO SERVICE TRANSMISSION-DAEMON START ΚΑΙ ΚΑΝΩ LOGIN ΜΕ ΤΟΥΣ ΠΡΟΣΩΠΙΚΟΥΣ
+                             ΜΟΥ ΚΩΔΙΚΟΥΣ ΣΤΗΝ ΔΙΕΥΘΥΝΣΗ HTTP:127.0.01:9091/TRANSMISSION. ΚΑΝΩ ΑΝΑΖΗΤΗΣΗ
+                             ΜΕΣΩ PIRATEBAY Ή ΚΑΠΟΙΟ ΑΛΛΟ SITE ΓΙΑ ΝΑ ΚΑΤΕΒΑΣΩ ΤΟ TORRENT ΠΟΥ ΕΠΙΘΥΜΩ ΚΑΙ 
+                             ΚΑΝΩ COPY PASTE TO LINK TOY TORRENT STO TRANSMISSION WEB INTERFACE ΑΠΟ ΤΗΝ ΕΦΑΡΜΟΓΗ
+                             TRANSMISSION.
+https://www.how2shout.com/how-to/transmission-ubuntu-how-to-install-use-it-on-ubuntu-19-0418-04.html
 
 ### `*ENTOLES BHMA-BHMA*` : ........
                             (1) PS1="P2017085 :"
-                            (2) 
+                            (2) sudo nano /var/lib/transmission-daemon/info/settings.json
+                            (3) sudo service transmission-daeomn start
+                            (4) sudo service transmission-daeomn stop
+                            (5) clear
                            
                           
 
 
 ###  `*EIKONES*` : .......
    
-   ![step 1](images/MIV1.png)
+   ![step 1](images/MIV2.png)
    
    
  
