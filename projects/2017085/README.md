@@ -537,7 +537,7 @@
                              ΜΕΣΩ PIRATEBAY Ή ΚΑΠΟΙΟ ΑΛΛΟ SITE ΓΙΑ ΝΑ ΚΑΤΕΒΑΣΩ ΤΟ TORRENT ΠΟΥ ΕΠΙΘΥΜΩ ΚΑΙ 
                              ΚΑΝΩ COPY PASTE TO LINK TOY TORRENT STO TRANSMISSION WEB INTERFACE ΑΠΟ ΤΗΝ ΕΦΑΡΜΟΓΗ
                              TRANSMISSION.
-https://www.how2shout.com/how-to/transmission-ubuntu-how-to-install-use-it-on-ubuntu-19-0418-04.html
+
 
 ### `*ENTOLES BHMA-BHMA*` : ........
                             (1) PS1="P2017085 :"
@@ -552,14 +552,19 @@ https://www.how2shout.com/how-to/transmission-ubuntu-how-to-install-use-it-on-ub
 ###  `*EIKONES*` : .......
    
    ![step 1](images/MIV2.png)
+   ![step 2](images/MIV3.png)
+   ![step 3](images/MIV4.png)
+   ![step 4](images/MIV5.png)
+   ![step 5](images/MIV6.png)
+   ![step 1](images/MIV7.png)
    
    
  
 
 # My Asciinema
 
-* **link εργασίας: 
-* **link εργασίας: 
+* **link εργασίας: https://asciinema.org/a/355395
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355395.svg)](https://asciinema.org/a/355395)
 
 
 
