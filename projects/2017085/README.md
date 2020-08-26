@@ -524,7 +524,7 @@
                              REPOSITORIES, ΚΑΘΩΣ ΕΚΑΝΑ ΚΑΙ UPGRADE ΤΟ ΣΥΣΤΗΜΑ ΜΕ ΝΕΟΤΕΡΕΣ ΕΚΔΟΣΕΙΣ.
                              ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΕΡΓΑΣΙΑ, ΑΡΧΙΚΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΟΣΘΕΣΩ ΤΟ REPOSITORY
                              TOY TRANSMISSION ΣΤΟ ΛΟΓΙΣΜΙΚΟ, ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO ADD-APT-REPOSITORY
-                             PPA:TRANSMISSIONBT/PPA. ΕΠΕΙΤΑ ΚΑΝΩ INSTALLA TRANSMISSION-GTK
+                             PPA:TRANSMISSIONBT/PPA. ΕΠΕΙΤΑ ΚΑΝΩ INSTALL TRANSMISSION-GTK
                              TRANSMISSION-CLI TRANSMISSION-COMMON TRANSMISSION-DAEOMON. ΕΠΕΙΤΑ ΓΙΑ
                              ΝΑ ΑΛΛΑΞΩ ΤΟΝ ΚΩΔΙΚΟ ΤΟΥ TRANSMISSION ΚΑΙ ΤΟ ΟΝΟΜΑ ΧΡΗΣΤΗ ΤΟΥ HOST, 
                              ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΣΤΑΜΑΤΗΣΩ ΤΗΝ ΔΙΕΡΓΑΣΙΑ ΤΗΣ ΥΠΗΡΕΣΙΑΣ ΤΟΥ TRANSMISSION
@@ -633,7 +633,8 @@
 
 ### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS
-                             ΓΙΑ INSTALL ΟΠΩΣ SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV
+                             ΓΙΑ INSTALL ΟΠΩΣ WGET "HTTPS://GITHUB.COM/SHARKDB/PASTEL/REALEASES/DOWNLOAD
+                             /V0.8.0/PASTEL_0.8.0_AMD64.DEB" SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV
                              LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION)"
                              EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD". ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΣΤΕΙΛΩ ΕΝΑ ΜΗΝΥΜΑ ΚΑΙ 
                              ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΤΕΙ ΣΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΩ ΤΝ ΕΝΤΟΛΗ NTFY SEND "TEST NTFY".
@@ -674,14 +675,13 @@
 ### `ΟΠΩΣ SUDO APT-GET INSTALLA ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΝ. ΕΠΕΙΤΑ ΕΧΟΥΜΕ SUDO APT INSTALL CURL, SUDO APT INSTALL GCALCLI`
 ### `SUDO APT INSTALL PYTHON3-CRYPTOGRAPHY PYTHON3-BS4, GIT CLONE HTTPS://GITHUB.COM/JARUN/BUKU, SUDO APT INSTALL GOOGLER`
 ### `SUDO APT INSTALL DDGR, SUDO APT INSTALL YOUUTBE-DL, SUDO APT UPDATE, SUDO APT INSTALL SOFTWARE-PROPERTIES-COMMON`
-### `SUDO APT UPGRADE, SUDO APT INSTALL TRANSMISSION-GTK TRANMSISSION-DAEMON. ΓΙΑ ΤΗΝ ΔΙΕΚΠΑΙΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ YOUTUBE-DL
-###
-###
-###
-###
-###
-###
-###
+### `SUDO APT UPGRADE, SUDO APT INSTALL TRANSMISSION-GTK TRANMSISSION-DAEMON. ΓΙΑ ΤΗΝ ΔΙΕΚΠΑΙΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ YOUTUBE-DL`
+### `ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΟ 2ο OS KALI LINUX ΔΙΟΤΙ ΣΤΑ UBUNTU ΜΟΥ ΕΒΓΑΖΕ ΠΡΟΒΛΗΜΑ ΓΙΑ ΤΗΝ ΕΚΔΟΣΗ ΤΗΣ PYTHON`
+### `ΚΑΙ ΔΕΝ ΜΠΟΡΟΥΣΑ ΝΑ ΤΟ ΛΥΣΩ, ΕΝΩ ΕΚΑΝΑ ΟΛΑ ΤΑ UPDATE ΚΑΙ ΔΟΚΙΜΑΣΑ ΚΑΙ ΠΑΛΑΙΟΤΕΡΗ ΕΚΔΟΣΗ KALI. ΕΝΑ ΑΛΛΟ ΕΡΓΑΛΕΙΟ`
+### `ΠΟΥ ΧΡΕΙΑΣΤΗΚΕ ΕΓΚΑΤΑΣΤΑΣΗ ΕΙΝΑΙ ΤΟ WGET "HTTPS://GITHUB.COM/SHARKDP/PASTEL/REALESES/DOWNLOAD/V0.8.0/PASTEL_0.8.0`
+### `_AMD64.DEB64, SUDO DPKG -I PASTEL_0.8.0_AMD64.DEB SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV`
+### `LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION),EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD`                          
+
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
