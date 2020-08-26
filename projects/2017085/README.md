@@ -671,6 +671,6 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
 
-* Εκανα τις εργασιες Β1,Γ1 του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες.
-* link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/google-drive.md
-* link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/server.md
+* Εκανα τις εργασιες 1Β,1Γ του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες.
+* link1: https://github.com/lazarospapanikolaou/gr/blob/2017085/_remix/interactive-calculator.md (1Β)
+* link2: https://github.com/lazarospapanikolaou/gr/blob/2017085/_case-study/OS%20systems.md (1Γ)
