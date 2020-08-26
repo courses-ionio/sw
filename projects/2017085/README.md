@@ -16,9 +16,7 @@
 
 ### `*assignments*` : Set up the main dependencies and demostrate your base system.
 
-### `*deliverables*` : Change your command prompt with your student ID ,list your dot files, 
-###                  display your shell configuration file and display system information
-###                  (hardware + software).
+### `*deliverables*` : Change your command prompt with your student ID ,list your dot files,display your shell configuration file and display system information (hardware + software).
 
 ### `*references*` : Cheat tldr ls less nano source PS1 neofetch
 
@@ -289,8 +287,7 @@
 
 ### `*assignments*` : Check the weather.
 
-### `*deliverables*` : Fetch the weather forecast for your home city and one more
-###                    city that you want to travel to.
+### `*deliverables*` : Fetch the weather forecast for your home city and one more city that you want to travel to.
 
 ### `*references*` : wttr.
 
@@ -576,8 +573,7 @@
 
 ### `*assignments*` : Use color to improve your cli tools.
 
-### `*deliverables*` : Print colorized text from a shell script in order to make it more 
-###                    beautiful-usable
+### `*deliverables*` : Print colorized text from a shell script in order to make it more beautiful-usable
 
 ### `*references*` : pastel
 
@@ -669,18 +665,7 @@
 
 
 
-### `ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΟΛΩΝ ΤΩΝ ΕΡΓΑΣΙΩΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΩΝ.`
-### `ΕΝΔΕΙΚΤΙΚΑ ΘΑ ΤΙΣ ΑΝΑΛΥΣΩ . ΣΥΓΚΕΚΡΙΜΕΝΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ INSTALLA TO ASCIINEMA STA LINUX ME SUDO`
-### `APT-GET INSTALL ASCIINEMA KAI ASCIINEMA REC ΓΙΑ RECORD. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ`
-### `ΟΠΩΣ SUDO APT-GET INSTALLA ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΝ. ΕΠΕΙΤΑ ΕΧΟΥΜΕ SUDO APT INSTALL CURL, SUDO APT INSTALL GCALCLI`
-### `SUDO APT INSTALL PYTHON3-CRYPTOGRAPHY PYTHON3-BS4, GIT CLONE HTTPS://GITHUB.COM/JARUN/BUKU, SUDO APT INSTALL GOOGLER`
-### `SUDO APT INSTALL DDGR, SUDO APT INSTALL YOUUTBE-DL, SUDO APT UPDATE, SUDO APT INSTALL SOFTWARE-PROPERTIES-COMMON`
-### `SUDO APT UPGRADE, SUDO APT INSTALL TRANSMISSION-GTK TRANMSISSION-DAEMON. ΓΙΑ ΤΗΝ ΔΙΕΚΠΑΙΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ YOUTUBE-DL`
-### `ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΟ 2ο OS KALI LINUX ΔΙΟΤΙ ΣΤΑ UBUNTU ΜΟΥ ΕΒΓΑΖΕ ΠΡΟΒΛΗΜΑ ΓΙΑ ΤΗΝ ΕΚΔΟΣΗ ΤΗΣ PYTHON`
-### `ΚΑΙ ΔΕΝ ΜΠΟΡΟΥΣΑ ΝΑ ΤΟ ΛΥΣΩ, ΕΝΩ ΕΚΑΝΑ ΟΛΑ ΤΑ UPDATE ΚΑΙ ΔΟΚΙΜΑΣΑ ΚΑΙ ΠΑΛΑΙΟΤΕΡΗ ΕΚΔΟΣΗ KALI. ΕΝΑ ΑΛΛΟ ΕΡΓΑΛΕΙΟ`
-### `ΠΟΥ ΧΡΕΙΑΣΤΗΚΕ ΕΓΚΑΤΑΣΤΑΣΗ ΕΙΝΑΙ ΤΟ WGET "HTTPS://GITHUB.COM/SHARKDP/PASTEL/REALESES/DOWNLOAD/V0.8.0/PASTEL_0.8.0`
-### `_AMD64.DEB64, SUDO DPKG -I PASTEL_0.8.0_AMD64.DEB SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV`
-### `LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION),EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD`                          
+### `ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΟΛΩΝ ΤΩΝ ΕΡΓΑΣΙΩΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΩΝ. ΕΝΔΕΙΚΤΙΚΑ ΘΑ ΤΙΣ ΑΝΑΛΥΣΩ . ΣΥΓΚΕΚΡΙΜΕΝΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ INSTALLA TO ASCIINEMA STA LINUX ME SUDO APT-GET INSTALL ASCIINEMA KAI ASCIINEMA REC ΓΙΑ RECORD. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΟΠΩΣ SUDO APT-GET INSTALLA ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΝ. ΕΠΕΙΤΑ ΕΧΟΥΜΕ SUDO APT INSTALL CURL, SUDO APT INSTALL GCALCLI SUDO APT INSTALL PYTHON3-CRYPTOGRAPHY PYTHON3-BS4, GIT CLONE HTTPS://GITHUB.COM/JARUN/BUKU, SUDO APT INSTALL GOOGLER SUDO APT INSTALL DDGR, SUDO APT INSTALL YOUUTBE-DL, SUDO APT UPDATE, SUDO APT INSTALL SOFTWARE-PROPERTIES-COMMON SUDO APT UPGRADE, SUDO APT INSTALL TRANSMISSION-GTK TRANMSISSION-DAEMON. ΓΙΑ ΤΗΝ ΔΙΕΚΠΑΙΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ YOUTUBE-DL ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΟ 2ο OS KALI LINUX ΔΙΟΤΙ ΣΤΑ UBUNTU ΜΟΥ ΕΒΓΑΖΕ ΠΡΟΒΛΗΜΑ ΓΙΑ ΤΗΝ ΕΚΔΟΣΗ ΤΗΣ PYTHON ΚΑΙ ΔΕΝ ΜΠΟΡΟΥΣΑ ΝΑ ΤΟ ΛΥΣΩ, ΕΝΩ ΕΚΑΝΑ ΟΛΑ ΤΑ UPDATE ΚΑΙ ΔΟΚΙΜΑΣΑ ΚΑΙ ΠΑΛΑΙΟΤΕΡΗ ΕΚΔΟΣΗ KALI. ΕΝΑ ΑΛΛΟ ΕΡΓΑΛΕΙΟ ΠΟΥ ΧΡΕΙΑΣΤΗΚΕ ΕΓΚΑΤΑΣΤΑΣΗ ΕΙΝΑΙ ΤΟ WGET "HTTPS://GITHUB.COM/SHARKDP/PASTEL/REALESES/DOWNLOAD/V0.8.0/PASTEL_0.8.0_AMD64.DEB64, SUDO DPKG -I PASTEL_0.8.0_AMD64.DEB SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION),EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD`                          
 
 
 
