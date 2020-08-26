@@ -13,9 +13,9 @@
 *ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΩΝ ΕΡΓΑΣΙΩΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΑΓΜΑΤΟΠΟΙΗΘΟΥΝ ΠΟΛΛΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΙΑΦΟΡΩΝ TOOLS, ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΕΡΓΑΣΙΕΣ,
 ΤΑ ΟΠΟΙΑ ΘΑ ΑΝΑΦΕΡΘΟΥΝ ΣΥΝΟΠΤΙΚΑ ΣΤΟ ΤΕΛΟΣ ΤΗΣ ΑΝΑΦΟΡΑΣ.*
 ##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
-<br>
+
 ### `*assignments*` : Set up the main dependencies and demostrate your base system.
-</br>
+
 ### `*deliverables*` : Change your command prompt with your student ID ,list your dot files, 
 ###                  display your shell configuration file and display system information
 ###                  (hardware + software).
@@ -668,6 +668,20 @@
 
 
 
+### `ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΟΛΩΝ ΤΩΝ ΕΡΓΑΣΙΩΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΩΝ.`
+### `ΕΝΔΕΙΚΤΙΚΑ ΘΑ ΤΙΣ ΑΝΑΛΥΣΩ . ΣΥΓΚΕΚΡΙΜΕΝΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ INSTALLA TO ASCIINEMA STA LINUX ME SUDO`
+### `APT-GET INSTALL ASCIINEMA KAI ASCIINEMA REC ΓΙΑ RECORD. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΡΚΕΤΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ`
+### `ΟΠΩΣ SUDO APT-GET INSTALLA ΔΙΑΦΟΡΩΝ ΕΡΓΑΛΕΙΝ. ΕΠΕΙΤΑ ΕΧΟΥΜΕ SUDO APT INSTALL CURL, SUDO APT INSTALL GCALCLI`
+### `SUDO APT INSTALL PYTHON3-CRYPTOGRAPHY PYTHON3-BS4, GIT CLONE HTTPS://GITHUB.COM/JARUN/BUKU, SUDO APT INSTALL GOOGLER`
+### `SUDO APT INSTALL DDGR, SUDO APT INSTALL YOUUTBE-DL, SUDO APT UPDATE, SUDO APT INSTALL SOFTWARE-PROPERTIES-COMMON`
+### `SUDO APT UPGRADE, SUDO APT INSTALL TRANSMISSION-GTK TRANMSISSION-DAEMON. ΓΙΑ ΤΗΝ ΔΙΕΚΠΑΙΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ YOUTUBE-DL
+###
+###
+###
+###
+###
+###
+###
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
