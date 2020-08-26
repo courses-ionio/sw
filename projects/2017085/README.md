@@ -615,6 +615,59 @@
 
 
 
+##                 **ΕΡΓΑΣΙΕΣ SOFTWARE**
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Send notification to your desktop-mobile.
+
+### `*deliverables*` : Send a notificationwhen a big task completes,eg download,compiling etc.
+
+### `*references*` : ntfy.
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS
+                             ΓΙΑ INSTALL ΟΠΩΣ SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV
+                             LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION)"
+                             EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD". ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΣΤΕΙΛΩ ΕΝΑ ΜΗΝΥΜΑ ΚΑΙ 
+                             ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΤΕΙ ΣΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΩ ΤΝ ΕΝΤΟΛΗ NTFY SEND "TEST NTFY".
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) ntfy send "this is test"
+                            (3) ntfy -t 'lazaros send "hello"
+                            (4) ntfy den ":wink:" emoji ":joy:"
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   
+   ![step 1](images/software1.png)
+   ![step 2](images/software2.png)
+   
+  
+   
+   
+ 
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355677
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355677.svg)](https://asciinema.org/a/355677)
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
