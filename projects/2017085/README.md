@@ -20,7 +20,7 @@
 
 ### `*references*` : Cheat tldr ls less nano source PS1 neofetch
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΑΛΛΑΞΩ ΤΟ COMMAND PROMPT ΜΕ ΤΟΝ ΑΜ ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ PS1="P2017085 :".
                              ΕΠΕΙΤΑ ΓΙΑ ΝΑ ΚΑΝΩ LIST DOT ΤΑ FILES ΜΟΥ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΕΚΤΕΛΕΣΩ ΤΙς ΠΑΡΑΚΑΤΩ ΕΝΤΟΛΕΣ ΣΤΟ TERMINAL ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ
                              LS-A ΓΙΑ ΝΑ ΔΩ ΤΑ ΚΡΥΦΑ ΑΡΧΕΙΑ ΣΤΟΥΣ ΦΑΚΕΛΟΥΣ ΠΟΥ ΕΧΩ.ΓΙΑ ΤΟ SHELL CONFIGURATION ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΤΥΠΩΣΩ ΤΙΣ ΕΝΤΟΛΕΣ
@@ -32,7 +32,7 @@
                              ,LSBLK (TO LIST ALL DISKS), IFCONFIG, LSHW -C NETWORK ΚΑΙ ΤΕΛΟΣ SUDO DMIDECODE -T BIOS, UNAME -A.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) ls -a
                             (3) nano .bashrc
@@ -50,7 +50,7 @@
                             (15) uname -a
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/HCI1.png)
    ![step 2](images/HCI2.png)
@@ -86,14 +86,14 @@
 
 ### `*references*` : man vim ranger lf bash guide error correction
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΑΡΧΙΚΑ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ LS ΓΙΑ ΝΑ ΚΑΝΩ LIST ΟΛΑ ΤΑ FILES ΤΟΥ DIRECTORY ΠΟΥ ΒΡΙΣΚΟΜΑΙ 
                              ΕΚΕΙΝΗ ΤΗΝ ΣΤΙΓΜΗ. ΓΙΑ ΝΑ ΔΩ ΣΕ ΠΟΙΟ DIRECTORY ΒΡΙΣΚΟΜΑΙ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ PWD ΚΑΘΩΣ
                              ΜΟΥ ΒΓΑΖΕΙ ΤΟΝ ΣΥΓΚΕΚΡΙΜΕΝΟ PATH. ΓΙΑ ΝΑ ΚΑΝΩ ΜΕΤΑΒΑΣΗ ΣΕ ΕΝΑ FILE Ή ΝΑ ΑΝΟΙΞΩ ΕΝΑ ΑΡΧΕΙΟ 
                              ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ CD.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) pwd
                             (3) ls
@@ -105,7 +105,7 @@
                             
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/HCI12.png)
    ![step 2](images/HCI13.png)
@@ -133,7 +133,7 @@
 
 ### `*references*` : toso.txt todo.txt-cli task
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΑΡΧΙΚΑ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ CAT > FILE.TXT ΓΙΑ ΤΗΝ ΔΗΜΙΟΥΡΓΙΑ ΕΝΟΣ FILE
                              ΣΤΟΝ ΦΑΚΕΛΟ ΠΟΥ ΘΕΛΩ ΚΑΙ ΠΡΟΣΘΕΤΟΝΤΑΣ ΤΗΝ .(DOT) ΜΠΡΟΣΤΑ ΑΠΟ ΤΟ FILE ΔΗΜΙΟΥΡΓΩ 
                              ΕΝΑ HIDDEN FILE. ΓΙΑ ΝΑ ΚΑΝΩ EDIT ΕΝΑ FILE ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ ΝΑΝΟ ΚΑΙ ΓΙΑ 
@@ -142,7 +142,7 @@
                              ΔΙΑΓΡΑΨΩ ΕΝΤΕΛΩΣ ΤΟ ΑΡΧΕΙΟ ΠΟΥ ΘΕΛΩ ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ RM TEST.ΤΧΤ.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) cat > test.txt
                             (3) cat test.txt
@@ -153,7 +153,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/HCI14.png)
    ![step 2](images/HCI15.png)
@@ -181,13 +181,13 @@
 
 ### `*references*` : vim
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΝΑ ΚΑΝΩ EDIT ΜΕ ΤΟ VIM ΑΡΧΙΚΑ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ ΕΝΑ INSTALL ΔΗΛΑΔΗ 
                              APT GET INSTALL VIM. ΕΠΕΙΤΑ ΓΙΑ ΝΑ ΕΠΙΛΕΞΩ ΤΟ FILE ΠΟΥ ΘΕΛΩ ΝΑ ΚΑΝΩ EDIT
                              ΜΕ ΤΗΝ ΕΝΤΟΛΗ VIM TEST.TXT.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) vim test.txt
                             (3) w (for save)
@@ -195,7 +195,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/HCI17.png)
 
@@ -221,7 +221,7 @@
 
 ### `*references*` : surfraw
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΑΡΧΙΚΑ ΝΑ ΚΑΝΩ INSTALL
                              TO TOOL DPKG ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUFO APT INSTALL DPKG. ΕΠΕΙΤΑ ΚΑΘΩΣ ΒΡΙΣΚΟΜΑΙ 
                              ΣΤΟ PATH ΤΟΥ DESKTOP ΚΑΝΩ LS ΓΙΑ ΝΑ ΚΑΝΩ LIST ΤΑ ΑΡΧΕΙΑ ΚΑΙ ΕΠΕΙΤΑ ΧΡΗΣΙΜΟΠΟΙΩ
@@ -234,7 +234,7 @@
                              
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) cd Desktop
                             (3) ls
@@ -254,7 +254,7 @@
                             
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/HCI18.png)
    ![step 1](images/HCI19.png)
@@ -291,13 +291,13 @@
 
 ### `*references*` : wttr.
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΑΡΧΙΚΑ ΚΑΝΩ INSTALL ΤΟ TOOL CURL ΚΑΙ ΕΠΕΙΤΑ ΓΡΑΦΩ ΤΗΝ ΕΝΤΟΛΗ CURL 
                              WATTR .IN/LARISA ΓΙΑ ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΕΙ ΤΟΝ ΚΑΙΡΟ ΣΤΗΝ ΛΑΡΙΣΑ ΚΑΘΩΣ 
                              ΚΑΙ ΤΗΝ ΓΕΩΓΡΑΦΙΚΗ ΤΟΥ ΘΕΣΗ.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) curl wttr.in/larisa
                             (3) curl wttr.in/49100
@@ -305,7 +305,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*`
    
    ![step 1](images/CSCW1.png)
    ![step 2](images/CSCW2.png)
@@ -336,13 +336,13 @@
 
 ### `*references*` : awesome-console-services.
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΟΛΟΚΛΗΡΩΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΝ ΕΝΤΟΛΗ CURL
                              GETNEWS.TECH/WORLD+CUP ΕΤΣΙ ΩΣΤΕ ΝΑ ΑΝΑΝΕΩΣΕΙ ΤΙΣ ΝΕΟΤΕΡΕΣ ΕΙΔΗΣΕΙΣ ΠΟΥ 
                              ΥΠΑΡΧΟΥΝ ΣΤΟΝ ΚΟΣΜΟ.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) curl wttr.in/larisa
                             (3) curl wttr.in/49100
@@ -350,7 +350,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/CSCW4.png)
    
@@ -377,7 +377,7 @@
 
 ### `*references*` : buku
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΑΡΧΙΚΑ ΝΑ ΚΑΝΩ INSTALL ΜΕΡΙΚΑ TOOLS
                              ΠΟΥ ΕΙΝΑΙ ΑΠΑΡΑΙΤΗΤΑ. ΕΠΕΙΤΑ ΜΕΤΑΒΑΙΝΩ ΣΤΟ BUKU FOLDER ΚΑΙ ΜΕ ΤΗΝ ΕΝΤΟΛΗ BUKU -A URL
                              ΚΑΝΩ BOOKMARK ΤΟ LINK ΤΟΥ SITE ΠΟΥ ΘΕΛΩ ΝΑ ΕΠΙΣΚΕΦΤΩ ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ ΓΙΑ ΤΟ 
@@ -385,7 +385,7 @@
                              ΕΧΩ ΚΑΝΕΙ BOOKMARK ΤΟ URL, ΓΡΑΦΩ ΤΗΝ ΕΝΤΟΛΗ BUKU -U (NUMBER) ΟΠΟΥ (NUMBER) ΕΙΝΑΙ Ο
                              ΑΡΙΘΜΟΣ ΚΑΤΑ ΤΟΥ ΟΠΟΙΟΥ ΥΠΟΔΕΙΚΝΥΕΙ ΤΗΝ ΣΕΙΡΑ ΠΟΥ ΕΧΕΙ ΤΟ ΚΑΘΕ URL.
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) curl wttr.in/larisa
                             (3) curl wttr.in/49100
@@ -393,7 +393,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/CSCW5.png)
    
@@ -421,14 +421,14 @@
 
 ### `*references*` : googler, ddgr.
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ INSTALL ΔΥΟ ΣΥΓΚΕΚΡΙΜΕΝΑ TOOLS.
                              ΕΠΕΙΤΑ ΣΤΟ TERMINAL ΧΡΗΣΙΜΟΠΟΙΩ ΤΗΝ ΕΝΤΟΛΗ GOOGLER BITCOIN ΓΙΑ ΝΑ ΜΟΥ ΒΓΑΛΕΙ ΑΠΟΤΕΛΕΣΜΑΤΑ Η
                              GOOGLE ΣΧΕΤΙΚΑ ΜΕ ΤΟ BITCOIN ΑΠΟ ΤΗΝ ΓΡΑΜΜΗ ΑΝΑΖΗΤΗΣΗΣ. ΣΕ ΠΕΡΙΠΤΩΣΗ ΠΟΥ ΠΛΗΚΤΡΟΛΟΓΗΣΩ ΤΟΝ ΑΡΙΘΜΟ 1, 
                              ΚΑΘΩΣ ΕΧΕΙ ΝΑ ΕΠΙΛΕΞΩ ΚΑΠΟΙΑ ΝΟΥΜΕΡΑ, ΤΟΤΕ ΑΥΤΟΜΑΤΩΣ ΘΑ ΜΕ ΒΓΑΛΕΙ ΣΤΗΝ GOOGLE ΜΕ ΤΗΝ ΣΥΓΚΕΚΡΙΜΕΝΗ
                              ΑΝΑΖΗΤΗΣΗ ΠΟΥ ΕΧΩ ΕΠΙΛΕΞΕΙ.
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) googler bitcoin
                             (3) 2
@@ -436,7 +436,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/CSCW6.png)
    ![step 2](images/CSCW7.png)
@@ -474,7 +474,7 @@
 
 ### `*references*` : youtube-dl, mpv
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ ΕΓΚΑΤΑΣΤΑΣΗ ΤΟ YOUTUBE-DL
                              TOOL ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO CURL -L HTTPS://YT-DL.ORG/DOWNLOADS/LATEST/YOUTUBE-DL
                              -O /USR/LOCAL/BIN/YOUTUBE-DL ΚΑΙ ΜΕ ΤΗΝ ΕΝΤΟΛΗ SUDO CHMOD A+RX /USR/LOCAL/BIN
@@ -483,14 +483,14 @@
                              ΠΟΥ ΘΕΛΩ ΝΑ ΚΑΤΕΒΑΣΩ ΑΠΟ ΤΟ YOUTUBE.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*`
                             (1) PS1="P2017085 :"
                             (2) youtube-dl -x <url>
                            
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/MIV1.png)
    
@@ -516,7 +516,7 @@
 
 ### `*references*` : torque transmission-cli.
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΣΤΗΚΕ ΑΡΧΙΚΑ ΝΑ ΚΑΝΩ INSTALL
                              REPOSITORIES, ΚΑΘΩΣ ΕΚΑΝΑ ΚΑΙ UPGRADE ΤΟ ΣΥΣΤΗΜΑ ΜΕ ΝΕΟΤΕΡΕΣ ΕΚΔΟΣΕΙΣ.
                              ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΕΡΓΑΣΙΑ, ΑΡΧΙΚΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΟΣΘΕΣΩ ΤΟ REPOSITORY
@@ -536,7 +536,7 @@
                              TRANSMISSION.
 
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) sudo nano /var/lib/transmission-daemon/info/settings.json
                             (3) sudo service transmission-daeomn start
@@ -546,7 +546,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*`
    
    ![step 1](images/MIV2.png)
    ![step 2](images/MIV3.png)
@@ -577,7 +577,7 @@
 
 ### `*references*` : pastel
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ INSTALL ΟΡΙΣΜΕΝΑ 
                              TOOLS ΟΠΩΣ ΤΟ WGET "HTTPS://GITHUB.COM/SHARKDP/PASTEL/RELEASES/DOWNLOAD/V0.8.0
                              /PASTEL_0.8.0_AMD64.DEB" ΚΑΙ SUDO DPKG -I PASTEL_0.8.0_AMD64.DEB
@@ -585,7 +585,7 @@
                              ΧΡΩΜΑ ΠΟΥ ΕΠΙΛΕΞΑΜΕ ΜΕ ΟΡΙΣΜΕΝΕΣ ΠΛΗΡΟΦΟΡΙΕΣ. ΜΕ ΤΗΝ ΕΝΤΟΛΗ PASTEL FORMAT NAME HEX
                              COLOΡ ΜΑΣ ΤΥΠΩΝΕΙ ΤΟ ΧΡΩΜΑ ΠΑΝΩ ΣΕ ΠΡΟΤΑΣΗ ΠΟΥ ΜΟΙΑΖΕΙ ΤΟ ΧΡΩΜΑ.
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) pastel color "rgb()"
                             (3) pastel format name hex color
@@ -593,7 +593,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    ![step 1](images/MIV8.png)
    ![step 2](images/MIV9.png)
@@ -627,7 +627,7 @@
 
 ### `*references*` : ntfy.
 
-### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
                              ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS
                              ΓΙΑ INSTALL ΟΠΩΣ WGET "HTTPS://GITHUB.COM/SHARKDB/PASTEL/REALEASES/DOWNLOAD
                              /V0.8.0/PASTEL_0.8.0_AMD64.DEB" SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV
@@ -635,7 +635,7 @@
                              EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD". ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΣΤΕΙΛΩ ΕΝΑ ΜΗΝΥΜΑ ΚΑΙ 
                              ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΤΕΙ ΣΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΩ ΤΝ ΕΝΤΟΛΗ NTFY SEND "TEST NTFY".
 
-### `*ENTOLES BHMA-BHMA*` : ........
+### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
                             (2) ntfy send "this is test"
                             (3) ntfy -t 'lazaros send "hello"
@@ -643,7 +643,7 @@
                           
 
 
-###  `*EIKONES*` : .......
+###  `*EIKONES*` 
    
    
    ![step 1](images/software1.png)
@@ -671,6 +671,6 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ
 
-* Εκανα τις εργασιες Α,Β του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες ολοκληρωμενες
+* Εκανα τις εργασιες Β1,Γ1 του συμμετοχικου υλικου καθως βρισκονται στο καταλληλο repository αναρτημενες.
 * link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/google-drive.md
 * link: https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_gallery/server.md
