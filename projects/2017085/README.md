@@ -13,9 +13,9 @@
 *ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΩΝ ΕΡΓΑΣΙΩΝ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΑΓΜΑΤΟΠΟΙΗΘΟΥΝ ΠΟΛΛΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΙΑΦΟΡΩΝ TOOLS, ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΕΡΓΑΣΙΕΣ,
 ΤΑ ΟΠΟΙΑ ΘΑ ΑΝΑΦΕΡΘΟΥΝ ΣΥΝΟΠΤΙΚΑ ΣΤΟ ΤΕΛΟΣ ΤΗΣ ΑΝΑΦΟΡΑΣ.*
 ##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
-
+<br>
 ### `*assignments*` : Set up the main dependencies and demostrate your base system.
-
+</br>
 ### `*deliverables*` : Change your command prompt with your student ID ,list your dot files, 
 ###                  display your shell configuration file and display system information
 ###                  (hardware + software).
