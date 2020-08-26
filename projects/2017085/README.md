@@ -460,7 +460,7 @@
 -------------------------------------------------------------------------------------------------------------
 
 
-##                 **ΕΡΓΑΣΙΕΣ MULTIPEDIA-INFORMATION VISUALIZATION**
+##                 **ΕΡΓΑΣΙΕΣ MULTIMEDIA-INFORMATION VISUALIZATION**
 
 
 -------------------------------------------------------------------------------------------------------------
@@ -565,6 +565,53 @@
 
 * **link εργασίας: https://asciinema.org/a/355395
 * **link εργασίας: [![asciicast](https://asciinema.org/a/355395.svg)](https://asciinema.org/a/355395)
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+##                 ( ΤΡΙΤΗ ΕΡΓΑΣΙΑ )
+
+### `*assignments*` : Use color to improve your cli tools.
+
+### `*deliverables*` : Print colorized text from a shell script in order to make it more 
+###                    beautiful-usable
+
+### `*references*` : pastel
+
+### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` :  .........
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΚΑΝΩ INSTALL ΟΡΙΣΜΕΝΑ 
+                             TOOLS ΟΠΩΣ ΤΟ WGET "HTTPS://GITHUB.COM/SHARKDP/PASTEL/RELEASES/DOWNLOAD/V0.8.0
+                             /PASTEL_0.8.0_AMD64.DEB" ΚΑΙ SUDO DPKG -I PASTEL_0.8.0_AMD64.DEB
+                             ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ PASTEL COLOR "RGB (...,....,...)" ΤΥΠΩΝΕΙ ΤΟ 
+                             ΧΡΩΜΑ ΠΟΥ ΕΠΙΛΕΞΑΜΕ ΜΕ ΟΡΙΣΜΕΝΕΣ ΠΛΗΡΟΦΟΡΙΕΣ. ΜΕ ΤΗΝ ΕΝΤΟΛΗ PASTEL FORMAT NAME HEX
+                             COLOΡ ΜΑΣ ΤΥΠΩΝΕΙ ΤΟ ΧΡΩΜΑ ΠΑΝΩ ΣΕ ΠΡΟΤΑΣΗ ΠΟΥ ΜΟΙΑΖΕΙ ΤΟ ΧΡΩΜΑ.
+
+### `*ENTOLES BHMA-BHMA*` : ........
+                            (1) PS1="P2017085 :"
+                            (2) pastel color "rgb()"
+                            (3) pastel format name hex color
+                           
+                          
+
+
+###  `*EIKONES*` : .......
+   
+   ![step 1](images/MIV8.png)
+   ![step 2](images/MIV9.png)
+   
+   
+ 
+
+# My Asciinema
+
+* **link εργασίας: https://asciinema.org/a/355672
+* **link εργασίας: [![asciicast](https://asciinema.org/a/355672.svg)](https://asciinema.org/a/355672)
+
+
+-------------------------------------------------------------------------------------------------------------
 
 
 
