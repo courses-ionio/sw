@@ -93,6 +93,8 @@ pushbullet:
 ```
 
 Τέλος, ο agent Formatting παίρνει τα raw δεδομένα απ' τον agent Weather Details και τα εμφανίζει μορφοποιημένα ώστε να είναι ευανάγνωστα προς τον χρήστη:
+
+{% raw %}
 ```
 {
   "instructions": {
@@ -101,6 +103,7 @@ pushbullet:
   "mode": "clean"
 }
 ```
+{% endraw %}
 
 ### Άσκηση 4
 Παρακάτω φαίνονται τα events που δημιούργησαν οι τρεις agents καθώς συλλέγουν τα δεδομένα. Χρησιμοποίησα το [Hugo](https://gohugo.io/). 
