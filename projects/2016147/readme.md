@@ -123,7 +123,7 @@
 #
 #### Συμμετοχικό περιεχόμενο
 ##### Δύο νέες εικόνες [ενότητα](https://p16sidi.github.io/gr/gallery/) την [εικόνα 1](https://p16sidi.github.io/gr/gallery/Spacex/) και την [εικόνα 2](https://p16sidi.github.io/gr/gallery/paypal/).
-##### Η βιογραφία βρίσκεται στο [Link]()
+##### Η βιογραφία βρίσκεται στο [Link](https://p16sidi.github.io/gr/biography/Jeff%20Bezos/)
 ##### Διαδραστικό παράδειγμα στο [Link]()
 
 
