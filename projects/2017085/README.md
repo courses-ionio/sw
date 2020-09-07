@@ -29,7 +29,14 @@
 ### `*references*` : ntfy.
 
 ### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
-                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS ΓΙΑ INSTALL ΟΠΩΣ WGET "HTTPS://GITHUB.COM/SHARKDB/PASTEL/REALEASES/DOWNLOAD /V0.8.0/PASTEL_0.8.0_AMD64.DEB" SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV LIBDBUS-1-DEV, PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION)" EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD". ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΣΤΕΙΛΩ ΕΝΑ ΜΗΝΥΜΑ ΚΑΙ ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΤΕΙ ΣΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΩ ΤΝ ΕΝΤΟΛΗ NTFY SEND "TEST NTFY". ΓΙΑ ΝΑ ΠΡΟΧΩΡΗΣΩ ΜΕΣΩ PUSHOVER ΧΡΕΙΑΣΤΗΚΕ ΩΣΤΟΣΟ ΝΑ ΚΑΝΩ ΚΑΙ ΜΕΡΙΚΕΣ ΑΛΛΑΓΕΣ ΣΤΟ .BASHRC ME THN ΕΝΤΟΛΗ NANO ~/.BASHRC ΚΑΙ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΟΣΘΕΣΩ ΤΟ API TOKEN  ΤΗΣ ΣΥΣΚΕΥΗΣ ΚΑΙ USER KEY ΤΟΥ ΛΟΓΑΡΙΑΣΜΟΥ ΜΟΥ ΣΤΟ PUSHOVER  ΓΙΑ ΝΑ ΜΠΟΡΕΣΩ ΝΑ ΣΤΕΛΝΩ ΕΙΔΟΠΟΙΗΣΕΙΣ ΣΤΟ ΚΙΝΗΤΟΥ ΜΟΥ. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΣΥΝΔΕΣΩ ΤΟ ΚΙΝΗΤΟ ΜΕ USB , ΝΑ ΓΙΝΩ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ ΚΑΙ ΝΑ ΚΑΝΩ USB DEBUG ΕΤΣΙ ΩΣΤΕ ΝΑ ΕΠΙΤΡΕΨΩ ΜΕΣΩ ΤΟΥ ΥΠΟΛΟΓΙΣΤΗ ΝΑ ΚΑΝΩ ΑΛΛΑΓΕΣ ΣΤΟ ΚΙΝΗΤΟ ΜΟΥ. ΕΠΕΙΤΑ ΜΕ ΤΗΝ ΕΦΑΡΜΟΓΗ AIRDROID ΕΠΕΤΡΕΨΑ ΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΝΑ ΚΑΝΕΙ MIRROR TO ΚΙΝΗΤΟ ΜΟΥ ΚΑΙ ΝΑ ΣΤΕΛΝΩ ΕΙΔΟΠΟΙΗΣΕΙΣ ΜΕ ΤΟ TOOL PUSHOVER.
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS ΓΙΑ INSTALL ΟΠΩΣ WGET "HTTPS://GITHUB.COM/SHARKDB/PASTEL
+                             /REALEASES/DOWNLOAD /V0.8.0/PASTEL_0.8.0_AMD64.DEB" SUDO PIP3 INSTALL NTFY, SUDO APT-GET INSTALL LIBDBUS-GLIB-1-DEV LIBDBUS-1-DEV, 
+                             PIP3 INSTALL --USER DBUS-PYTHON, EVAL"$(NTFY SHELL-INTEGRATION)" EXPORT AUTO_NTFY_DONE_IGNORE="VIM SCREEN MELD". ΑΡΧΙΚΑ ΓΙΑ ΝΑ ΣΤΕΙΛΩ 
+                             ΕΝΑ ΜΗΝΥΜΑ ΚΑΙ ΝΑ ΜΟΥ ΕΜΦΑΝΙΣΤΕΙ ΣΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΩ ΤΝ ΕΝΤΟΛΗ NTFY SEND "TEST NTFY". ΓΙΑ ΝΑ ΠΡΟΧΩΡΗΣΩ ΜΕΣΩ PUSHOVER 
+                             ΧΡΕΙΑΣΤΗΚΕ ΩΣΤΟΣΟ ΝΑ ΚΑΝΩ ΚΑΙ ΜΕΡΙΚΕΣ ΑΛΛΑΓΕΣ ΣΤΟ .BASHRC ME THN ΕΝΤΟΛΗ NANO ~/.BASHRC ΚΑΙ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΠΡΟΣΘΕΣΩ ΤΟ API TOKEN  ΤΗΣ 
+                             ΣΥΣΚΕΥΗΣ ΚΑΙ USER KEY ΤΟΥ ΛΟΓΑΡΙΑΣΜΟΥ ΜΟΥ ΣΤΟ PUSHOVER  ΓΙΑ ΝΑ ΜΠΟΡΕΣΩ ΝΑ ΣΤΕΛΝΩ ΕΙΔΟΠΟΙΗΣΕΙΣ ΣΤΟ ΚΙΝΗΤΟΥ ΜΟΥ. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ 
+                             ΣΥΝΔΕΣΩ ΤΟ ΚΙΝΗΤΟ ΜΕ USB , ΝΑ ΓΙΝΩ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ ΚΑΙ ΝΑ ΚΑΝΩ USB DEBUG ΕΤΣΙ ΩΣΤΕ ΝΑ ΕΠΙΤΡΕΨΩ ΜΕΣΩ ΤΟΥ ΥΠΟΛΟΓΙΣΤΗ ΝΑ ΚΑΝΩ ΑΛΛΑΓΕΣ 
+                             ΣΤΟ ΚΙΝΗΤΟ ΜΟΥ. ΕΠΕΙΤΑ ΜΕ ΤΗΝ ΕΦΑΡΜΟΓΗ AIRDROID ΕΠΕΤΡΕΨΑ ΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΝΑ ΚΑΝΕΙ MIRROR TO ΚΙΝΗΤΟ ΜΟΥ ΚΑΙ ΝΑ ΣΤΕΛΝΩ ΕΙΔΟΠΟΙΗΣΕΙΣ ΜΕ ΤΟ TOOL PUSHOVER.
 
 ### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
