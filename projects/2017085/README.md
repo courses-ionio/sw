@@ -40,9 +40,10 @@
 
 ### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
-                            (2) ntfy send "this is test"
-                            (3) ntfy -t 'lazaros send "hello"
-                            (4) ntfy den ":wink:" emoji ":joy:"
+                            (2) ntfy send "geia sas"
+                            (3) ntfy -t 'lazaros' send "hello"
+                            (4) ntfy done sleep 10
+                            (5) ntfy -b pushover -o user_key uwsi8eatbzjzkiw3yxe3v2erzv3mo7 send "kalhspera sas exei ginei mirroring"
                           
 
 
