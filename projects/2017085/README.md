@@ -55,6 +55,7 @@
    ![step 3](images/software3.png)
    ![step 4](images/software4.png)
    ![step 5](images/software5.png)
+   ![step 6](images/software6.png)
    
    
   
