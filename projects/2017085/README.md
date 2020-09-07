@@ -20,7 +20,7 @@
 
 
 
-##                 ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
+##                    ( ΠΡΩΤΗ ΕΡΓΑΣΙΑ )
 
 ### `*assignments*` : Send notification to your desktop-mobile.
 
