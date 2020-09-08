@@ -35,16 +35,16 @@
 
 [Choose your stack](https://asciinema.org/a/4hR2ZfdsFa1Tq8xxCuVHe4ulM)
 #
-### Άσκηση 2(Choose Your Stack)
-#### Εγκατάσταση howdoi
-###### pip install howdoi
-#### Εκτέλεση 
-###### howdoi declare list in python
-###### howdoi -a create random numbers java //-a για πλήρη προβολή του κειμένου
-###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
-###### howdoi -e duckduckgo allocate memory in c //Προβολή απαντήσεων από το duckduckgo
-###### howdoi -p 2 loops in javascript //Προβολή της δεύτερης απάντησης στην αναζήτηση
-#### [Link2 για Asciinema]()
+#### Άσκηση 2(send notifications to your desktop-mobile)
+#### Εγκατάσταση ntfy
+###### sudo pip install ntfy
+#### Εκτέλεση
+###### ntfy send test
+###### ntfy -t 'ntfy' send "Here's a custom notification title!" //Custom Tittles
+###### ntfy done firefox // Ειδοποίηση αφού κλείσει ο browser
+###### ntfy done git clone https://github.com/dschep/ntfy.git
+![image](https://github.com/p16sidi/sw/blob/2016147/projects/2016147/scr1.png)
+#### [send notifications to your desktop-mobile](https://asciinema.org/a/vhgH0ttCoBi9G83ybDR7unCHa)
 #
 ### Άσκηση 3(performance monitoring)
 #### 3.1 Κατέβασμα Hyperfine
