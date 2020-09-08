@@ -49,7 +49,7 @@
 #### [send notifications to your desktop-mobile](https://asciinema.org/a/vhgH0ttCoBi9G83ybDR7unCHa)
 #
 ## ΑΣΚΗΣΗ 3
-### Τίτλος: send notifications to your desktop-mobile
+### Τίτλος: performance monitoring
 #### 3.1 Κατέβασμα Hyperfine
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 #### Εγκατάσταση Hyperfine
@@ -57,10 +57,14 @@
 #### Με το hyperfine μπόρεσα να ελέγξω το χρόνο εκτέλεσης 2 προγραμμάτων python. Επιπλέον έβαλα warmup και πόσες φόρες να τρέξουν τα προγράμματα.
 
 ```
-hyperfine 'python3 file1.py' 'python3 file2.py' --warmup 40 --min-runs 40
+hyperfine 'python3 python1.py' 'python3 python2.py' --warmup 40 --min-runs 40
 
 ```
-#### [Link3 για Asciinema]()
+Τα δύο αρχεία python ήταν 2 Hello World όπου στο ένα εκτυπωνόταν δέκα φορές ενώ στο άλλο μία, για αυτόν το λόγο το ένα τρέχει και πιο γρήγορα από το άλλο. 
+
+#### Asciinema link:
+
+#### [performance monitoring](https://asciinema.org/a/FPxdM4s1mGuFBUuPM0tO9mN0O)
 #### 3.2 Κατέβασμα py-spy
 ###### sudo pip install py-spy
 #### Τρέξιμο
