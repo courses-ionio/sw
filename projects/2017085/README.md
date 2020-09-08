@@ -113,12 +113,8 @@
 ###  `*EIKONES*` 
    
    
-   ![step 1](images/software1.png)
-   ![step 2](images/software2.png)
-   ![step 3](images/software3.png)
-   ![step 4](images/software4.png)
-   ![step 5](images/software5.png)
-   ![step 6](images/software6.png)
+   ![step 1](images/software7.png)
+   ![step 2](images/software8.png)
    
    
   
