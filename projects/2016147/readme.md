@@ -48,21 +48,18 @@
 #### Asciinema link:
 #### [send notifications to your desktop-mobile](https://asciinema.org/a/vhgH0ttCoBi9G83ybDR7unCHa)
 #
-## ΑΣΚΗΣΗ 2
+## ΑΣΚΗΣΗ 3
 ### Τίτλος: send notifications to your desktop-mobile
 #### 3.1 Κατέβασμα Hyperfine
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 #### Εγκατάσταση Hyperfine
 ###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
-##### Τα scripts που θα χρησιμοποιηθούν για σύγκριση είναι τα [script1]() και [script2]() τα οποία τροποποιήκαν για να ταξινομούν την ίδια λίστα.
-#### Εκτέλεση
-###### hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py'
-#### Παράμετροι
-###### hyperfine -m 8 'python3 bubblesort.py' 'python3 selectionsort.py' //-m παράμετρος για εκτέλεση συγκεκριμένων επαναλήψεων του κώδικα
-###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
-###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
-#### Αποτελέσματα
-##### Μετά την εκτέλεση των Benchmarks με το Hyperfine είναι φανερός πως ο αλγόριθμος ταξινόμησης Selection Sort πρόκειται για ένα πιο γρήγορο αλγόριθμο καθώς σύμφωνα με το εργαλείο εκτελείται περίπου 2 φορες πιο γρήγορα από τον Bubble Sort. Αυτό φαίνεται και στην πολυπλοκότητα των αλγορίθμων αφού ο Selection Sort έχει Complexity O(n) ενώ ο Bubble Sort O(n2).
+#### Με το hyperfine μπόρεσα να ελέγξω το χρόνο εκτέλεσης 2 προγραμμάτων python. Επιπλέον έβαλα warmup και πόσες φόρες να τρέξουν τα προγράμματα.
+
+```
+hyperfine 'python3 file1.py' 'python3 file2.py' --warmup 40 --min-runs 40
+
+```
 #### [Link3 για Asciinema]()
 #### 3.2 Κατέβασμα py-spy
 ###### sudo pip install py-spy
