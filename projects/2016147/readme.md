@@ -123,8 +123,8 @@ ntfy send test
 
 #### [Try different terminals and shells](https://asciinema.org/a/V2E22TpHyp7C6nHMw7zeOan62)
 #
-## ΑΣΚΗΣΗ 5
-### Τίτλος: send notifications to your desktop-mobile
+## ΑΣΚΗΣΗ 6
+### Τίτλος: Use the terminal as an IDE
 #### Εγκατάσταση vim
 ###### sudo apt install vim
 #### Εκτέλεση Vim
@@ -136,7 +136,9 @@ ntfy send test
 ###### u - Undo
 ###### S - διαγραφή μιας γραμμής
 ###### Η - μετακίνηση στην αρχή του κειμμένου
-#### [Link6 για Asciinema]()
+#### [Asciinema link](https://asciinema.org/a/TtuR66USdtTBdqhxflS4Sqcby) 
+
+#### [Try different terminals and shells](https://asciinema.org/a/V2E22TpHyp7C6nHMw7zeOan62)
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό 
 ##### To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/p16sidi/gr).
