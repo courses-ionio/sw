@@ -72,25 +72,36 @@ hyperfine 'python3 python1.py' 'python3 python2.py' --warmup 40 --min-runs 40
 ###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
 ###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
 #
-## ΑΣΚΗΣΗ 2
-### Τίτλος: send notifications to your desktop-mobile
-##### a) Fish
-##### b) Terminator
-#### Εγκατάσταση fish
-###### sudo apt-get install fish
-#### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
-#### [Link4 για Asciinema]()
-#
-#### Εγκατάσταση Terminator
-###### sudo apt-get install terminator
-#### Terminator Customisation
-###### terminator -m //Maximized
-###### terminator -b//Bordless
-###### Split terminals horizontally: Ctrl + Shift + O.
-###### Split terminals vertically: Ctrl + Shift + E.
-###### Close current Panel: Ctrl + Shift + W.
-###### Open new tab: Ctrl + Shift + T.
-![image]()
+## ΑΣΚΗΣΗ 4
+### Τίτλος: set-up a system for python development
+```
+pip install virtualenv
+```
+
+### Δημιουργία νέου enviroment.
+
+```
+mkdir project
+cd project
+virtualenv Enviroment
+```
+
+### Ενεργοποίηση enviroment
+```
+source Enviroment/bin/activate
+```
+### Τέλος έτρεξα το νέο μου πρόγραμμά και εφόσον δεν έβγαλε πρόβλημα τότε το virtual enviroment λειτουργεί κανονικά.
+```
+pipenv run python main.py
+```
+
+### Απενεργοποίηση του enviroment.
+```
+deactivate
+```
+#### Asciinema link:
+
+#### [set-up a system for python development](https://asciinema.org/a/2hmG3AFWITn5HyNO8od1vruAr)
 #
 ## ΑΣΚΗΣΗ 2
 ### Τίτλος: send notifications to your desktop-mobile
