@@ -48,7 +48,8 @@
 #### Asciinema link:
 #### [send notifications to your desktop-mobile](https://asciinema.org/a/vhgH0ttCoBi9G83ybDR7unCHa)
 #
-### Άσκηση 3(performance monitoring)
+## ΑΣΚΗΣΗ 2
+### Τίτλος: send notifications to your desktop-mobile
 #### 3.1 Κατέβασμα Hyperfine
 ###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
 #### Εγκατάσταση Hyperfine
@@ -70,7 +71,8 @@
 ###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
 ###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
 #
-### Άσκηση 4(try different terminals and shells)
+## ΑΣΚΗΣΗ 2
+### Τίτλος: send notifications to your desktop-mobile
 ##### a) Fish
 ##### b) Terminator
 #### Εγκατάσταση fish
@@ -89,7 +91,8 @@
 ###### Open new tab: Ctrl + Shift + T.
 ![image]()
 #
-#### Άσκηση 5(send notifications to your desktop-mobile)
+## ΑΣΚΗΣΗ 2
+### Τίτλος: send notifications to your desktop-mobile
 #### Εγκατάσταση ntfy
 ###### sudo pip install ntfy
 #### Εκτέλεση
@@ -101,7 +104,8 @@
 ![image]()
 #### [Link5 για Asciinema]()
 #
-#### Άσκηση 6(Use the terminal as an IDE)
+## ΑΣΚΗΣΗ 2
+### Τίτλος: send notifications to your desktop-mobile
 #### Εγκατάσταση vim
 ###### sudo apt install vim
 #### Εκτέλεση Vim
