@@ -68,7 +68,7 @@ hyperfine 'python3 python1.py' 'python3 python2.py' --warmup 40 --min-runs 40
 #### 3.2 Κατέβασμα py-spy
 ###### sudo pip install py-spy
 #### Τρέξιμο
-###### py-spy record -o results.svg -- python selectionsort.py //Γραφική αναπαράσταση του προγράμματος και αποθήκευση του Output στον φάκελο results.svg
+###### py-spy record -o results.svg -- python python1.py //Γραφική αναπαράσταση του προγράμματος και αποθήκευση του Output στον φάκελο results.svg
 ###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
 ###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
 #
