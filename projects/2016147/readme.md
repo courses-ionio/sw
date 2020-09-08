@@ -16,28 +16,24 @@
 ##### γ) Αλλαγή του .bashrc ώστε το Terminal να εμφανίζει το ΑΜ
 ###### cd ~
 ###### nano .bashrc
-###### Πρόσθεση της εντολής  export PS1='2121212121:\w$ ' στο τέλος και CTRL+O για αποθήκευση
+###### Πρόσθεση της εντολής  export PS1='P2016147:\w$ ' στο τέλος και CTRL+O για αποθήκευση
 #
 ##### δ) Δημιουργία λογαριασμού στο Asciinema και εγκατάσταση του εργαλείου με την εντολή:
 ###### sudo apt-get install asciinema
 #
-### Άσκηση 1(Set-up cloud services)
-#### Local Host Προαπαιτούμενα
-###### Το εργαλείο SSH είναι ήδη εγκατεστημένο στα Ubuntu 
-#### Remote Host Προαπαιτούμενα
-###### sudo apt-get install openssh-server 
-#### Σύνδεση με τον Remote Host
-###### ssh sleft@192.168.150.129
-###### cd ~
-###### mkdir dummy
-###### cd dummy
-###### cat > sample.txt
-#### Παράμετροι στην σύνδεση
-###### ssh -4 sleft@192.168.150.129 //Use IPv4 addresses only.
-###### ssh -6 sleft@192.168.150.129 //Use IPv6 addresses only.
-###### ssh -C sleft@192.168.150.129 //Use data compression.
-###### ssh -c sleft@192.168.150.129 //Cryptography Cipher.
-#### [Link1 για Asciinema]()
+## ΑΣΚΗΣΗ 1
+### Τίτλος: Choose your stack
+#
+Για την άσκηση αυτή απαραίτητη είναι η εγκατάσταση του howdoi με την εντολή sudo apt-get install howdoi. Το howdoi είναι ενα command line tool το οποίο παρέχει άμεσα απαντήσεις για το θέμα που ρωτάει ο χρήστης. Έχει την δυνατότητα να να λαμβάνει δεδομένα από όποια μηχανή αναζήτησης επιθυμεί ο χρήστης και πρόκειται για ένα χρήσιμο εργαλείο ειδικά για τους προγραμματιστές γιατί τους δίνει απαντήσεις στα ερωτήματά τους χωρίς τον κίνδυνο κάτι άλλο να τους αποσπάσει την προσοχή
+
+###### howdoi -a create an array java //-a για πλήρη προβολή του κειμένου
+###### howdoi -n 3 free memory in c //-n NUM_ANSWERS προβολή NUM_ANSWERS απαντήσεων
+###### howdoi -c allocate memory in c //Προβολή απαντήσεων από το duckduckgo
+
+
+#### Asciinema link:
+
+[Choose your stack](https://asciinema.org/a/4hR2ZfdsFa1Tq8xxCuVHe4ulM)
 #
 ### Άσκηση 2(Choose Your Stack)
 #### Εγκατάσταση howdoi
