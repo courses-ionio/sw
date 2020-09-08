@@ -103,20 +103,27 @@ deactivate
 
 #### [set-up a system for python development](https://asciinema.org/a/2hmG3AFWITn5HyNO8od1vruAr)
 #
-## ΑΣΚΗΣΗ 2
-### Τίτλος: send notifications to your desktop-mobile
-#### Εγκατάσταση ntfy
-###### sudo pip install ntfy
-#### Εκτέλεση
-###### ntfy send test
-###### ntfy -t 'ntfy' send "Here's a custom notification title!" //Custom Tittles
-###### ntfy done hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py' // Ειδοποίηση αφού ολοκληρωθεί το Benchmarks
-###### ntfy done git clone https://github.com/dschep/ntfy.git
-##### Μπορεί να χρησιμοποιηθεί επίσης η παράμετρος --pid όπου η ειδοποίηση εμφανίζεται αφού τερματιστεί η διαδικασία με το αντίστοιχο Process ID e.g.(ntfy done --pid 4829)
-![image]()
-#### [Link5 για Asciinema]()
+## ΑΣΚΗΣΗ 5
+### Τίτλος: Try different terminals and shells
+#### Εγκατάσταση zsh
+
+```
+sudo apt install zsh
+```
+Για την άσκηση χρησιμοποίησα το zsh για την εκτέλεση του send notifications to your desktop-mobile
+
+```
+zsh
+
+ntfy send test
+```
+
+
+#### Asciinema link:
+
+#### [Try different terminals and shells](https://asciinema.org/a/V2E22TpHyp7C6nHMw7zeOan62)
 #
-## ΑΣΚΗΣΗ 2
+## ΑΣΚΗΣΗ 5
 ### Τίτλος: send notifications to your desktop-mobile
 #### Εγκατάσταση vim
 ###### sudo apt install vim
