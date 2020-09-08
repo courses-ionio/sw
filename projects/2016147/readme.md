@@ -44,6 +44,7 @@
 ###### ntfy done firefox // Ειδοποίηση αφού κλείσει ο browser
 ###### ntfy done git clone https://github.com/dschep/ntfy.git
 ![image](https://github.com/p16sidi/sw/blob/2016147/projects/2016147/scr1.png)
+#### Asciinema link:
 #### [send notifications to your desktop-mobile](https://asciinema.org/a/vhgH0ttCoBi9G83ybDR7unCHa)
 #
 ### Άσκηση 3(performance monitoring)
