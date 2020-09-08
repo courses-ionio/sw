@@ -35,7 +35,8 @@
 
 [Choose your stack](https://asciinema.org/a/4hR2ZfdsFa1Tq8xxCuVHe4ulM)
 #
-#### Άσκηση 2(send notifications to your desktop-mobile)
+## ΑΣΚΗΣΗ 2
+### Τίτλος: send notifications to your desktop-mobile
 #### Εγκατάσταση ntfy
 ###### sudo pip install ntfy
 #### Εκτέλεση
