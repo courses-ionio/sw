@@ -136,9 +136,7 @@ ntfy send test
 ###### u - Undo
 ###### S - διαγραφή μιας γραμμής
 ###### Η - μετακίνηση στην αρχή του κειμμένου
-#### [Asciinema link](https://asciinema.org/a/TtuR66USdtTBdqhxflS4Sqcby) 
-
-#### [Try different terminals and shells](https://asciinema.org/a/V2E22TpHyp7C6nHMw7zeOan62)
+#### [Try different terminals and shells](https://asciinema.org/a/TtuR66USdtTBdqhxflS4Sqcby)
 #
 ### Συμμετοχικό εκπαιδευτικό υλικό 
 ##### To προσωπικό αποθετήριο της ιστοσελίδας του μαθήματος είναι στο παρακάτω [link](https://github.com/p16sidi/gr).
