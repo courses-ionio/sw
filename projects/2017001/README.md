@@ -103,7 +103,7 @@ deactivate
 <p  align="center">
     <em>Asciinema: Virtual Enviroments</em>
     <br>
-    <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"/></a>
+    <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"></a>
 </p>
 ___
 ## Εργασία 4: send notifications to your desktop-mobile
@@ -128,5 +128,20 @@ ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 h
     <a href="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm?autoplay=1"><img src="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm.png" height="500" width="500"/></a>
 </p>
 ___
+## Εργασία 5: performance monitoring
+**references:** https://github.com/benfred/py-spy  
+**deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines  
+**asciinema:** 
+**asciinema file in repo:** 
+
+#### Περιγραφή
+Δημιουργία flamegraph του python αρχείου _samplepy.py_
+```
+py-spy record -o pyflamegraph.svg -- python3 samplepy.py
+```
+<br>  
+<p  align="center">
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg" height="500" width="500">
+</p>
 
 
