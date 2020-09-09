@@ -106,7 +106,9 @@ deactivate
     <br>
     <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"></a>
 </p>
+
 ___
+
 ## Εργασία 4: send notifications to your desktop-mobile
 **references:** https://github.com/dschep/ntfy  
 **deliverables:** send a notifcation when a big task completes, eg download, compiling, etc  
@@ -128,7 +130,9 @@ ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 h
     <br>
     <a href="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm?autoplay=1"><img src="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm.png" height="500" width="500"/></a>
 </p>
+
 ___
+
 ## Εργασία 5: performance monitoring
 **references:** https://github.com/benfred/py-spy  
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines  
@@ -144,7 +148,9 @@ py-spy record -o pyflamegraph.svg -- python3 samplepy.py
 <p  align="center">
   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg" height="1200" width="900">
 </p>
+
 ___
+
 ## Εργασία 6: set-up continuous integration
 **references:** github  
 **deliverables:** build and deploy your static site and your cv dynamically every time you make a small change in the source files  
