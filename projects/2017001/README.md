@@ -136,8 +136,8 @@ ___
 ## Εργασία 5: performance monitoring
 **references:** https://github.com/benfred/py-spy  
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines  
-**asciinema:** 
-**asciinema file in repo:** 
+**asciinema:** https://asciinema.org/a/HnJvKc3AzfDZFpGpbvRckPLZt  
+**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/py-spy.cast  
 
 #### Περιγραφή
 Δημιουργία flamegraph του python αρχείου _samplepy.py_
@@ -147,6 +147,13 @@ py-spy record -o pyflamegraph.svg -- python3 samplepy.py
 <br>  
 <p  align="center">
   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg" height="1200" width="900">
+</p>
+
+<br>  
+<p  align="center">
+    <em>Asciinema: py-spy</em>
+    <br>
+    <a href="https://asciinema.org/a/HnJvKc3AzfDZFpGpbvRckPLZt?autoplay=1"><img src="https://asciinema.org/a/HnJvKc3AzfDZFpGpbvRckPLZt.png" height="500" width="500"/></a>
 </p>
 
 ___
