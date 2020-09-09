@@ -209,7 +209,7 @@ howdoi [ερώτηση]
 ```
 <br>  
 <p  align="center">
-    <em>Asciinema: continuous-integration</em>
+    <em>Asciinema: howdoi</em>
     <br>
     <a href="https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd"><img src="https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd.png" height="500" width="500"/></a>
 </p>
