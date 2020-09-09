@@ -193,12 +193,26 @@ ___
 ## Εργασία 7: 
 **references:** https://github.com/gleitz/howdoi
 **deliverables:** set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
-**asciinema:** 
-**asciinema file in repo:** 
+**asciinema:** https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd  
+**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/howdoi/howdoi.cast  
 
 #### Περιγραφή
 To howdoi είναι μια εντολή που απαντά σε ερωτήματα που αφορούν εντολές, εξαλείφοντας έτσι την ανάγκη για αναζήτηση σε μηχανές αναζήτησης. Σκοπός του είναι να αποτελέσει ένα βοηθό εντολών και μια πιο γρήγορη λύση στα ερωτήματά που προκύπτουν στα τερματικά.
-
+Η εγκατάσταση είναι πανεύκολη και γρήγορη, καθώς χρησιμοποιείται η εντολή pip.
+```
+pip install howdoi
+```
+Στα πλαίσια της άσκησης, έκανα διάφορες ερωτήσεις με την εντολή howdoi και ως απάντηση λάμβανα τις εντολές που έκρινε σωστές.
+Η μορφή των ερωτημάτων ήταν η εξής:
+```
+howdoi [ερώτηση]
+```
+<br>  
+<p  align="center">
+    <em>Asciinema: continuous-integration</em>
+    <br>
+    <a href="https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd"><img src="https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd.png" height="500" width="500"/></a>
+</p>
 
 ___
 
