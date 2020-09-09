@@ -31,6 +31,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
     <a href="https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D?autoplay=1"><img src="https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D.png" height="500" width="500"/></a>
 </p>
 
+
 ___
 
 ## Εργασία 2: use the terminal as an IDE
