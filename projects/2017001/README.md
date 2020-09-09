@@ -155,7 +155,7 @@ ___
 **references:** github  
 **deliverables:** build and deploy your static site and your cv dynamically every time you make a small change in the source files  
 **asciinema:** https://asciinema.org/a/358632  
-**asciinema file in repo:**  https://github.com/lextale/sw/blob/2017001/projects/2017001/continuous-integration/continuous-integration.cast
+**asciinema file in repo:**  https://github.com/lextale/sw/blob/2017001/projects/2017001/continuous-integration/continuous-integration.cast  
 
 #### Περιγραφή
 Κατέβασα/Κλωνοποίησα το repository της σελίδας του βιογραφικού
@@ -175,3 +175,17 @@ git push
     <br>
     <a href="https://asciinema.org/a/358632?autoplay=1"><img src="https://asciinema.org/a/358632.png" height="500" width="500"/></a>
 </p>
+
+___
+
+## Εργασία 7: 
+**references:** 
+**deliverables:** 
+**asciinema:** 
+**asciinema file in repo:** 
+
+#### Περιγραφή
+
+***
+
+# Συμμετοχικό Περιεχόμενο
