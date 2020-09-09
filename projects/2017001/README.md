@@ -32,6 +32,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 </p>
 
 ___
+
 ## Εργασία 2: use the terminal as an IDE
 **references:** https://www.latex-project.org/  
 **deliverables**: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in  
@@ -61,7 +62,8 @@ pdftex sampletex.tex
     <a href="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B?autoplay=1"><img src="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B.png" height="500" width="500"/></a>
 </p>
 
-__
+___
+
 ## Εργασία 3: set-up a system for python development
 **references:** https://docs.python-guide.org/dev/virtualenvs/  
 **deliverables:** install and configure in a user folder a python project that is not available through the package manager  
@@ -101,6 +103,6 @@ deactivate
 <p  align="center">
     <em>Asciinema: Latex</em>
     <br>
-    <a href="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B?autoplay=1"><img src="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B.png" height="500" width="500"/></a>
+    <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"/></a>
 </p>
 ___
