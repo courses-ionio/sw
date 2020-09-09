@@ -9,7 +9,7 @@ ___
 ## Εργασία 1: try different terminals and shells
 **references:** zsh  
 **deliverables:** repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs  
-**asciinema:** https://asciinema.org/a/065fjbB3i1db626tEvdAXTFao  
+**asciinema:** https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D  
 **asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/zsh/zsh.cast  
 
 
@@ -24,3 +24,4 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 Τέλος, δοκίμασα να ανοίξω διάφορα shells και να τρέξω κάποια εντολή σε ένα από αυτά. 
 
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
