@@ -14,6 +14,7 @@ ___
 
 
 #### Περιγραφή
+Το shell που αποφάσισα να δοκιμάσω για την παρούσα άσκηση είναι το Z shell ή αλλιώς zsh.
 Εγκατέστησα το zsh shell με την εντολή:
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -41,6 +42,8 @@ ___
 **asciinema file in repo: https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.cast  
 
 #### Περιγραφή
+Ως editor για την παρούσα άσκηση χρησιμοποιήθηκε το Latex, χαρακτηριστικό του οποίου είναι η χρήση της δικής του markup γλώσσας για την επεξεργασία κειμένου.  
+
 Άνοιξα ένα tex αρχείο στο texstudio και το επεξεργάστηκα
 ```
 texstudio sampletex.tex
@@ -49,7 +52,7 @@ texstudio sampletex.tex
   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif" height="500 width="550>
 </p>
 
-Το έκανα compile σε μορφή pdf με την εντολή:
+Τέλος, έκανα compile σε μορφή pdf με την εντολή:
 ```
 pdftex sampletex.tex
 ```
@@ -116,7 +119,8 @@ ___
 **asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.cast
 
 #### Περιγραφή
-Στάλθηκε μια ειδοποίηση όταν κατέβηκε ένα αρχείο:
+Το Ntfy είναι μια εντολη που στέλνει ειδοποιήσεις όταν τελειώνει μια διεργασία.
+Η παρακάτω εντολή στέλνει μια ειδοποίηση όταν τελειώσει το κατέβασμα ενός τραγουδιού:
 ```
 ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc
 ```
@@ -140,6 +144,7 @@ ___
 **asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/py-spy.cast  
 
 #### Περιγραφή
+Το py-spy οπτικοποιεί σε μια εικόνα μορφής svg, τι οποία και παράγει, τις διεργασίες με τις οποίες ασχολείται ένα πρόγραμμα Python, συντάσσοντας έτσι ένα δειγματοληπτικό προφίλ.
 Δημιουργία flamegraph του python αρχείου _samplepy.py_
 ```
 py-spy record -o pyflamegraph.svg -- python3 samplepy.py
@@ -165,11 +170,11 @@ ___
 **asciinema file in repo:**  https://github.com/lextale/sw/blob/2017001/projects/2017001/continuous-integration/continuous-integration.cast  
 
 #### Περιγραφή
-Κατέβασα/Κλωνοποίησα το repository της σελίδας του βιογραφικού
+Κατέβασα/Κλωνοποίησα το repository του βιογραφικού μου στο github με τη χρήση του git
 ```
 git clone https://github.com/lextale/cv
 ```
-Τροποπίησα το READΜΕ.md αρχείο όπου βρίσκεται το βιογραφικό. Στη συνέχεια, πρόσθεσα το τροποποιημένο αρχείο, το έκανα commit και push στο repository
+Τροποπίησα το READΜΕ.md αρχείο όπου βρίσκεται το βιογραφικό, για να το επικυρωποιήσω. Στη συνέχεια, πρόσθεσα το τροποποιημένο αρχείο, το έκανα commit και push στο repository
 ```
 git add README.md
 git commit -m README.md
@@ -186,13 +191,13 @@ git push
 ___
 
 ## Εργασία 7: 
-**references:** 
-**deliverables:** 
+**references:** https://github.com/gleitz/howdoi
+**deliverables:** set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 **asciinema:** 
 **asciinema file in repo:** 
 
 #### Περιγραφή
 
-***
+___
 
 # Συμμετοχικό Περιεχόμενο
