@@ -101,7 +101,7 @@ deactivate
 ```
 <br>  
 <p  align="center">
-    <em>Asciinema: Latex</em>
+    <em>Asciinema: Virtual Enviroments</em>
     <br>
     <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"/></a>
 </p>
