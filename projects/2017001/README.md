@@ -42,11 +42,15 @@ ___
 ```
 texstudio sampletex.tex
 ```
-<p  align="center">
-<img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif" height="500 width="550>
+<p align="center">
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif" height="500 width="550>
+</p>
 
 Το έκανα compile σε μορφή pdf με την εντολή:
 ```
 pdftex sampletex.tex
 ```
-<img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif">
+<p align="center">
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif" height="500 width="550>
+</p>
+__
