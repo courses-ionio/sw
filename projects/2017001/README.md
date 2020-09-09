@@ -144,5 +144,28 @@ py-spy record -o pyflamegraph.svg -- python3 samplepy.py
 <p  align="center">
   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg" height="1200" width="900">
 </p>
+___
+## Εργασία 6: set-up continuous integration
+**references:** github  
+**deliverables:** build and deploy your static site and your cv dynamically every time you make a small change in the source files  
+**asciinema:** https://asciinema.org/a/358632  
+**asciinema file in repo:**  https://github.com/lextale/sw/blob/2017001/projects/2017001/continuous-integration/continuous-integration.cast
 
+#### Περιγραφή
+Κατέβασα/Κλωνοποίησα το repository της σελίδας του βιογραφικού
+```
+git clone https://github.com/lextale/cv
+```
+Τροποπίησα το READΜΕ.md αρχείο όπου βρίσκεται το βιογραφικό. Στη συνέχεια, πρόσθεσα το τροποποιημένο αρχείο, το έκανα commit και push στο repository
+```
+git add README.md
+git commit -m README.md
+git push
+```
 
+<br>  
+<p  align="center">
+    <em>Asciinema: continuous-integration</em>
+    <br>
+    <a href="https://asciinema.org/a/358632?autoplay=1"><img src="https://asciinema.org/a/358632.png" height="500" width="500"/></a>
+</p>
