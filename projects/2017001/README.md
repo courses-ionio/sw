@@ -30,3 +30,22 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
   <caption>zsh</caption>
 </p>
 
+___
+## Εργασία 2: use the terminal as an IDE
+**references:** https://www.latex-project.org/  
+**deliverables**: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in  
+**asciinema:** https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B  
+**asciinema file in repo: https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.cast  
+
+#### Περιγραφή
+Άνοιξα ένα tex αρχείο στο texstudio και το επεξεργάστηκα
+```
+texstudio sampletex.tex
+```
+<img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif">
+
+Το έκανα compile σε μορφή pdf με την εντολή:
+```
+pdftex sampletex.tex
+```
+<img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif">
