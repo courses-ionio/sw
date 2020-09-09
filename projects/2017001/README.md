@@ -24,7 +24,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 Τέλος, δοκίμασα να ανοίξω διάφορα shells και να τρέξω κάποια εντολή σε ένα από αυτά.  
   
-  
+<br>  
 <p  align="center">
     <em>Asciinema: zsh</em>
     <br>
@@ -54,4 +54,31 @@ pdftex sampletex.tex
 <p align="center">
   <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif" height="500 width="550>
 </p>
+<br>  
+<p  align="center">
+    <em>Asciinema: Latex</em>
+    <br>
+    <a href="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B?autoplay=1"><img src="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B.png" height="500" width="500"/></a>
+</p>
+
 __
+## Εργασία 3: set-up a system for python development
+**references:** https://docs.python-guide.org/dev/virtualenvs/  
+**deliverables:** install and configure in a user folder a python project that is not available through the package manager  
+**asciinema:** https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP  
+**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/Python-Visual-Enviroments/python-visual-env.cast  
+
+#### Περιγραφή
+
+
+
+
+
+
+
+<br>  
+<p  align="center">
+    <em>Asciinema: Latex</em>
+    <br>
+    <a href="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B?autoplay=1"><img src="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B.png" height="500" width="500"/></a>
+</p>
