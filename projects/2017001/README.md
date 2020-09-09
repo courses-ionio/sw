@@ -123,7 +123,7 @@ ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 h
 
 <br>  
 <p  align="center">
-    <em>Asciinema: Virtual Enviroments</em>
+    <em>Asciinema: Ntfy</em>
     <br>
     <a href="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm?autoplay=1"><img src="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm.png" height="500" width="500"/></a>
 </p>
