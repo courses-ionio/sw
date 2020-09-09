@@ -24,12 +24,15 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 Τέλος, δοκίμασα να ανοίξω διάφορα shells και να τρέξω κάποια εντολή σε ένα από αυτά. 
 
+<a href="https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D?autoplay=1"><img src="https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D.png" width="836"/></a>
+
+
+
+
+
+
+
+
+
+
 [![asciicast](https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D.png)](https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D)
-
-
-
-
-
-
-
-<script src="https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D.js" id="7Vc9CCpHoDG56NLKevLTwD53D" async></script>
