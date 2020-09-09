@@ -106,3 +106,27 @@ deactivate
     <a href="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP?autoplay=1"><img src="https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP.png" height="500" width="500"/></a>
 </p>
 ___
+## Εργασία 4: send notifications to your desktop-mobile
+**references:** https://github.com/dschep/ntfy  
+**deliverables:** send a notifcation when a big task completes, eg download, compiling, etc  
+**asciinema:** https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm  
+**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.cast
+
+#### Περιγραφή
+Στάλθηκε μια ειδοποίηση όταν κατέβηκε ένα αρχείο:
+```
+ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc
+```
+<p align="center">
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.gif" height="500 width="550>
+</p>
+
+<br>  
+<p  align="center">
+    <em>Asciinema: Virtual Enviroments</em>
+    <br>
+    <a href="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm?autoplay=1"><img src="https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm.png" height="500" width="500"/></a>
+</p>
+___
+
+
