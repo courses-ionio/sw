@@ -69,16 +69,38 @@ __
 **asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/Python-Visual-Enviroments/python-visual-env.cast  
 
 #### Περιγραφή
-
-
-
-
-
-
-
+Εγκατέστησα τον dependency magager _Pipenv_
+```
+pip install --user pipenv
+```
+Μέσα στον φάκελο του python project μου εγκατέστησα μέσω του pipenv την library _requests_ που θα χρησιμεύσει για το πρόγραμμά μου
+```
+pipenv install requests
+```
+Δημιούργησα ένα πρόγραμμα και το έτρεξα με την εντολή
+```
+pipenv run python main.py
+```
+Εγκατέστησα το _virtualenv_
+```
+pip3 install virtualenv
+```
+Δημιούργησα το δικό μου enviroment
+```
+virtualenv mypyenv
+```
+Ενεργοποιήθηκε ως εξής:
+```
+source mypyenv/bin/activate
+```
+Και απενεργοποιήθηκε αναλόγα:
+```
+deactivate
+```
 <br>  
 <p  align="center">
     <em>Asciinema: Latex</em>
     <br>
     <a href="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B?autoplay=1"><img src="https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B.png" height="500" width="500"/></a>
 </p>
+___
