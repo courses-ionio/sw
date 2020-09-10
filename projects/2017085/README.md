@@ -197,54 +197,51 @@
 
 ##                    ( TETARTH ΕΡΓΑΣΙΑ )
 
-### `*assignments*` : Try different terminals and shells.
+### `*assignments*` : choose your stack
 
-### `*deliverables*` : Repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs.
+### `*deliverables*` : set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
 
-### `*references*` : st, mosh, zsh ,fish ,https://kifarunix.com/install-and-setup-zsh-and-oh-my-zsh-on-ubuntu-20-04/, https://opensource.com/article/18/9/tips-            productivity-zsh
+### `*references*` : nhttps://github.com/gleitz/howdoi
 
 ### `*ΠΕΡΙΓΡΑΦΗ ΕΡΓΑΣΙΑΣ*` 
-                           ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΑΡΧΙΚΑ ΕΓΚΑΤΕΣΤΗΚΑ ΤΑ SHELL ΠΟΥ ΘΕΛΩ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΟΠΩΣ ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ ΤΟ ZSH/OH-MY-ZSH ΚΑΙ ΤΟ    
-                           CSH/TCSH. ΤΑ ΕΓΚΑΤΕΣΤΗΣΑ ΜΕ ΤΙΣ ΕΝΤΟΛΕΣ apt install zsh, sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-
-                           zsh/master/tools/install.sh)" , sudo apt install csh ΑΝΤΙΣΤΟΙΧΑ ΑΛΛΑ ΑΡΧΙΚΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΕΓΚΑΤΑΣΤΑΣΗ ΟΡΙΜΣΕΝΑ TOOLS ΟΠΩΣ apt 
-                           install wget curl git -y ΓΙΑ ΝΑ ΓΙΝΟΥΝ ΟΙ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΩΝ SHELL. ΕΠΕΙΤΑ ΧΡΕΙΑΣΤΗΚΕ ΝΑ ΚΑΝΩ ΑΛΛΑΓΕΣ ΣΤΟ VIM ΓΙΑ ΤΟ ΘΕΜΑ ΠΟΥ ΘΑ 
-                           ΧΡΗΣΙΜΟΠΟΙΗΣΩ ΤΗΣ ΣΥΜΒΟΛΛΟΣΕΙΡΑΣ ΜΕ ΤΗΝ ΕΝΤΟΛΗ vim $HOME/.zshrc. ΕΠΕΙΤΑ ΕΚΑΝΑ INSTALL wget https://github.com/romkatv/powerlevel10k-
-                           media/raw/master/MesloLGS%20NF%20Regular.ttf, wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf, 
-                           wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf, wget https://github.com/romkatv
-                           /powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf ΕΤΣΙ ΩΣΤΕ ΝΑ ΕΧΩ ΠΛΗΘΩΡΑ ΘΕΜΑΤΩΝ ΣΤΟ ZSHRC ΚΑΙ ΝΑ ΜΠΟΡΩ ΝΑ ΑΛΛΑΞΩ ΤΟ 
-                           COMMAND PROMT ΟΠΩΣ ΕΓΩ ΘΕΛΩ. ΤΕΛΟΣ ΓΙΑ ΤΟ CSH/TCSH ΙΣΧΟΥΝ ΑΚΡΙΒΩΣ ΤΑ ΙΔΙΑ ΠΡΑΓΜΑΤΑ. ΣΤΟ ASCIINEMA  ΔΕΝ ΘΑ ΔΕΙΞΩ ΤΗΝ ΔΙΑΔΙΚΑΣΙΑ ΑΛΛΑΓΗ 
-                           COMMAND PROMT ΑΛΛΑ ΘΑ ΠΑΙΞΩ ΛΙΓΟ ΜΕ ΤΑ SHELLS  ΜΕ ΒΑΣΙΚΕΣ ΕΝΤΟΛΕΣ.
-                             
+                             ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΗΣ ΕΡΓΑΣΙΑΣ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΑΡΧΙΚΑ ΟΡΙΣΜΕΝΑ TOOLS ΟΠΩΣ ΤΟ howdoi ΚΑΝΟΝΤΑΣ ΤΟ install  ΜΕ ΤΗΝ ΕΝΤΟΛΗ sudo pip install       
+                             howdoi. ΑΚΟΛΟΥΘΟΥΝ ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑ ΓΙΑ ΤΗΝ ΕΡΓΑΣΙΑ ΜΕ ΤΗΝ ΕΠΕΞΕΙΓΗΣΗ ΞΕΧΩΡΙΣΤΑ ΓΙΑ ΤΗΝ ΚΑΘΕΜΙΑ. ΑΡΧΙΚΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi find 
+                             a file ΚΑΝΩ locate ΕΝΑ file  ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ. ΕΠΕΙΤΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ sudo find / -name "" ΒΡΙΣΚΩ ΠΟΥ ΒΡΙΣΚΕΤΑΙ ΕΝΑ ΑΡΧΕΙΟ ΤΟΠΙΚΑ ΣΤΟΝ 
+                             ΥΠΟΛΟΓΙΣΤΗ ΠΟΥ ΕΧΩ ΕΓΚΑΤΑΣΤΗΣΕΙ ΑΠΟ ΜΟΝΟΣ ΜΟΥ, Η ΕΝΤΟΛΗ howdoi -l change command promt ΜΑΣ ΒΓΑΖΕΙ ΤΟ link ΓΙΑ ΝΑ ΔΟΥΜΕ ΠΩΣ ΜΠΟΡΟΥΜΕ ΝΑ 
+                             ΑΛΛΑΞΟΥΜΕ ΤΟΝ command promt. ΕΠΕΙΤΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi shutdown linux command ΜΑΣ ΒΓΑΖΕΙ ΑΠΟΤΕΛΕΣΜΑ ΓΙΑ ΤΟ ΠΩΣ ΜΠΟΡΟΥΜΕ ΝΑ ΚΛΕΙΣΟΥΜΕ ΤΟ 
+                             command, ΚΑΘΩΣ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi -e google download kali linux ΜΑΣ ΠΛΗΡΟΦΟΡΕΙ ΓΙΑ ΤΟ ΠΩΣ ΝΑ ΚΑΝΟΥΜΕ ΕΓΚΑΤΑΣΤΑΣΗ ΤΑ kali linux  ΜΕΣΩ 
+                             ΑΝΑΖΗΤΗΣΗΣ ΤΗΣ google. ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi -l convert pdf to word ΜΑΣ ΒΓΑΖΕΙ ΤΟ link ΓΙΑ ΤΟ ΠΩΣ ΜΠΟΡΟΥΜΕ ΝΑ ΚΑΚΝΟΥΜΕ 
+                             convert. ΣΤΗΝ ΣΥΝΕΧΕΙΑ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi -c create git clone ΜΑΣ ΒΓΑΖΕΙ ΤΟ ΑΠΟΤΕΛΕΣΑΜ ΠΟΥ ΖΗΤΑΜΕ ΕΜΠΛΟΥΤΙΣΜΕΝΟ ΜΕ ΧΡΩΜΑ ΟΠΩΣ ΚΑΙ ΣΤΗΝ 
+                             ΕΝΤΟΛΗ howdoi -c pyhton count time ΠΟΥ ΜΑΣ ΔΕΙΧΝΕΙ ΠΩΣ ΜΕ ΤΗΝ PYTHON ΜΠΟΡΟΥΜΕ ΝΑ ΜΕΤΡΗΣΟΥΜΕ ΤΟΝ ΧΡΟΝΟ. ΤΕΛΟΣ ΜΕ ΤΗΝ ΕΝΤΟΛΗ howdoi format 
+                             date bash  ΚΑΙ ΤΗΝ ΕΝΤΟΛΗ printf '%(%Y-%m-%T)T\n' -1 ΜΑΣ ΕΚΤΥΠΩΝΕΙ ΤΗΝ ΠΑΡΟΥΣΑ ΗΜΕΡΟΜΗΝΙΑ.
 
 ### `*ENTOLES BHMA-BHMA*` 
                             (1) PS1="P2017085 :"
-                            (2) pwd
-                            (3) ls
-                            (4) cd Desktop
-                            (5) cat > test.txt 
-                            (6) cat test.txt
-                            (7) rm test.txt
-                            (8) bash or csh or zsh
-                          
-
-
-###  `*EIKONES*` 
-   
-   
-   ![step 1](images/software7.png)
-   ![step 2](images/software8.png)
+                            (2) howdoi find a file
+                            (3) sudo find / -name ""
+                            (4) howdoi shutdown linuc command
+                            (5) howdoi -l change command promt
+                            (6) howdoi -e google download kali linux
+                            (7) howdoi -l convert pdf to word
+                            (8) howdoi -c create git clone
+                            (9) howdoi -c python count time
+                            (10) howdoi format date bash
+                            (11) printf '%(%Y-%m-%T)T\n' -1
    
    
   
    
+###  `*EIKONES*` 
    
+   
+   ![step 1](images/software9.png)
+   ![step 2](images/software10.png)
  
 
 # My Asciinema
 
-* **link εργασίας: https://asciinema.org/a/358441
-                   [![asciicast](https://asciinema.org/a/358441.svg)](https://asciinema.org/a/358441)
-
+* **link εργασίας: https://asciinema.org/a/358727
+                   [![asciicast](https://asciinema.org/a/358727.svg)](https://asciinema.org/a/358727)
 
 
 -------------------------------------------------------------------------------------------------------------
