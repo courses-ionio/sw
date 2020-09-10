@@ -232,3 +232,5 @@ https://github.com/lextale/site/blob/master/_remix/word-counter.md
 
 ## Γ: Βιογραφίες
 ### Margaret Hamilton
+https://github.com/lextale/site/blob/master/_biography/bio-hamilton.md
+https://github.com/lextale/site/blob/master/_biography/margaret-hamilton.md
