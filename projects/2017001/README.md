@@ -228,6 +228,7 @@ https://github.com/lextale/site/blob/master/_remix/image-crop.md
 https://github.com/lextale/site/blob/master/_remix/interactive-background.mb
 
 ## Παράδειγμα 4: Word Counter
-
+https://github.com/lextale/site/blob/master/_remix/word-counter.md
 
 ## Γ: Βιογραφίες
+### Margaret Hamilton
