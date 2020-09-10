@@ -218,19 +218,19 @@ ___
 
 # Συμμετοχικό Περιεχόμενο
 ## B Διαδραστικά Παραδείγματα
-### Παράδειγμα 1: Search Bar
+#### Παράδειγμα 1: Search Bar
 https://github.com/lextale/site/blob/master/_remix/search-bar.md  
   
-### Παράδειγμα 2: Image Crop
+#### Παράδειγμα 2: Image Crop
 https://github.com/lextale/site/blob/master/_remix/image-crop.md
 
-## Παράδειγμα 3: Interactive Background
+### Παράδειγμα 3: Interactive Background
 https://github.com/lextale/site/blob/master/_remix/interactive-background.mb
 
-## Παράδειγμα 4: Word Counter
+### Παράδειγμα 4: Word Counter
 https://github.com/lextale/site/blob/master/_remix/word-counter.md
 
 ## Γ: Βιογραφίες
-### Margaret Hamilton
+#### Margaret Hamilton
 https://github.com/lextale/site/blob/master/_biography/bio-hamilton.md
 https://github.com/lextale/site/blob/master/_biography/margaret-hamilton.md
