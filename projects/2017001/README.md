@@ -191,8 +191,8 @@ git push
 ___
 
 ## Εργασία 7: 
-**references:** https://github.com/gleitz/howdoi
-**deliverables:** set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling
+**references:** https://github.com/gleitz/howdoi  
+**deliverables:** set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling  
 **asciinema:** https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd  
 **asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/howdoi/howdoi.cast  
 
