@@ -221,4 +221,7 @@ ___
 ### Παράδειγμα 1: Search Bar
 https://github.com/lextale/site/blob/master/_remix/search-bar.md  
   
-### Παράδειγμα 2: 
+### Παράδειγμα 2: Image Crop
+https://github.com/lextale/site/blob/master/_remix/image-crop.md
+
+## Γ: Βιογραφίες
