@@ -224,10 +224,10 @@ https://github.com/lextale/site/blob/master/_remix/search-bar.md
 #### Παράδειγμα 2: Image Crop
 https://github.com/lextale/site/blob/master/_remix/image-crop.md
 
-### Παράδειγμα 3: Interactive Background
+#### Παράδειγμα 3: Interactive Background
 https://github.com/lextale/site/blob/master/_remix/interactive-background.mb
 
-### Παράδειγμα 4: Word Counter
+#### Παράδειγμα 4: Word Counter
 https://github.com/lextale/site/blob/master/_remix/word-counter.md
 
 ## Γ: Βιογραφίες
