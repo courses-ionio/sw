@@ -27,7 +27,7 @@
 **Βιβλίογραφία:** 
 * Ανάγνωση κώδικα, 
 * Πρακτικός προγραμματιστής, 
-* [Ο Προγραμματισμός της Διάδρασης](https://www.mibook.org/), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές
+* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές
 * [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
 * [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
 * [Software Design](http://www.alexandercowan.com/software-design-class/)
