@@ -18,7 +18,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 20% Τελική εξέταση* 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/) + 60% [6 ασκήσεις](https://courses-ionio.github.io/projects/dokey/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/)
+**Βαθμολογία:** 20% [2 ασκήσεις προγραμματισμού*](https://courses-ionio.github.io/projects/remix) 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/) + 60% [6 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/)
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
