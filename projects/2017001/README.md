@@ -146,7 +146,7 @@ py-spy record -o pyflamegraph.svg -- python3 samplepy.py
 ```
 <br>  
 <p  align="center">
-  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/pyflamegraph.svg" height="1200" width="900">
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/pyflamegraph.svg" height="1200" width="900">
 </p>
 
 <br>  
