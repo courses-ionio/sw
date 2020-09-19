@@ -10,7 +10,6 @@ ___
 **references:** zsh  
 **deliverables:** repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs  
 **asciinema:** https://asciinema.org/a/7Vc9CCpHoDG56NLKevLTwD53D  
-**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/zsh/zsh.cast  
 
 
 #### Περιγραφή
@@ -39,7 +38,6 @@ ___
 **references:** https://www.latex-project.org/  
 **deliverables**: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in  
 **asciinema:** https://asciinema.org/a/nbqWuP9mjPOrNq9FLMyHJW76B  
-**asciinema file in repo: https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.cast  
 
 #### Περιγραφή
 Ως editor για την παρούσα άσκηση χρησιμοποιήθηκε το Latex, χαρακτηριστικό του οποίου είναι η χρήση της δικής του markup γλώσσας για την επεξεργασία κειμένου.  
@@ -49,7 +47,7 @@ ___
 texstudio sampletex.tex
 ```
 <p align="center">
-  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/latex.gif" height="500 width="550>
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/latex.gif" height="500 width="550>
 </p>
 
 Τέλος, έκανα compile σε μορφή pdf με την εντολή:
@@ -57,7 +55,7 @@ texstudio sampletex.tex
 pdftex sampletex.tex
 ```
 <p align="center">
-  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/LaTex/pdftex.gif" height="500 width="550>
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/pdftex.gif" height="500 width="550>
 </p>
 <br>  
 <p  align="center">
@@ -72,7 +70,6 @@ ___
 **references:** https://docs.python-guide.org/dev/virtualenvs/  
 **deliverables:** install and configure in a user folder a python project that is not available through the package manager  
 **asciinema:** https://asciinema.org/a/tvHgXHSCaXPJn6AXuSrbfA7HP  
-**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/Python-Visual-Enviroments/python-visual-env.cast  
 
 #### Περιγραφή
 Εγκατέστησα τον dependency magager _Pipenv_
@@ -116,7 +113,6 @@ ___
 **references:** https://github.com/dschep/ntfy  
 **deliverables:** send a notifcation when a big task completes, eg download, compiling, etc  
 **asciinema:** https://asciinema.org/a/xdm8CJCTdbTF1zCZikx6HKxLm  
-**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.cast
 
 #### Περιγραφή
 Το Ntfy είναι μια εντολη που στέλνει ειδοποιήσεις όταν τελειώνει μια διεργασία.
@@ -125,7 +121,7 @@ ___
 ntfy -t "Download Complete" done youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=gs-MtItyOFc
 ```
 <p align="center">
-  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy/ntfy.gif" height="500 width="550>
+  <img src="https://github.com/lextale/sw/blob/2017001/projects/2017001/ntfy.gif" height="500 width="550>
 </p>
 
 <br>  
@@ -141,7 +137,6 @@ ___
 **references:** https://github.com/benfred/py-spy  
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines  
 **asciinema:** https://asciinema.org/a/HnJvKc3AzfDZFpGpbvRckPLZt  
-**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/py-spy/py-spy.cast  
 
 #### Περιγραφή
 Το py-spy οπτικοποιεί σε μια εικόνα μορφής svg, τι οποία και παράγει, τις διεργασίες με τις οποίες ασχολείται ένα πρόγραμμα Python, συντάσσοντας έτσι ένα δειγματοληπτικό προφίλ.
@@ -167,7 +162,6 @@ ___
 **references:** github  
 **deliverables:** build and deploy your static site and your cv dynamically every time you make a small change in the source files  
 **asciinema:** https://asciinema.org/a/358632  
-**asciinema file in repo:**  https://github.com/lextale/sw/blob/2017001/projects/2017001/continuous-integration/continuous-integration.cast  
 
 #### Περιγραφή
 Κατέβασα/Κλωνοποίησα το repository του βιογραφικού μου στο github με τη χρήση του git
@@ -194,7 +188,6 @@ ___
 **references:** https://github.com/gleitz/howdoi  
 **deliverables:** set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling  
 **asciinema:** https://asciinema.org/a/0EGMSY6C4J0AFuAnThcugqvbd  
-**asciinema file in repo:** https://github.com/lextale/sw/blob/2017001/projects/2017001/howdoi/howdoi.cast  
 
 #### Περιγραφή
 To howdoi είναι μια εντολή που απαντά σε ερωτήματα που αφορούν εντολές, εξαλείφοντας έτσι την ανάγκη για αναζήτηση σε μηχανές αναζήτησης. Σκοπός του είναι να αποτελέσει ένα βοηθό εντολών και μια πιο γρήγορη λύση στα ερωτήματά που προκύπτουν στα τερματικά.
