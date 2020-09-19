@@ -218,7 +218,7 @@ https://github.com/lextale/site/blob/master/_remix/search-bar.md
 https://github.com/lextale/site/blob/master/_remix/image-crop.md  
 
 #### Παράδειγμα 3: Interactive Background
-https://github.com/lextale/site/blob/master/_remix/interactive-background.mb  
+https://github.com/lextale/site/blob/master/_remix/interactive-background.md  
 
 #### Παράδειγμα 4: Word Counter
 https://github.com/lextale/site/blob/master/_remix/word-counter.md  
