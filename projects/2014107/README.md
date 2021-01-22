@@ -19,7 +19,7 @@
   - [2. Notifications](#notifications)  
   - [3. Performance Monitoring](#performance-monitoring)  
   - [4. Custom Window Manager](#custom-window-manager)  
-  - [5-6. Static Site && CI](#create-static-site)
+  - [5-6. Static Site && CI](#create-static-site-and-continuous-integration)
  
 
 
