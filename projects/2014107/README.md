@@ -165,3 +165,6 @@ $ hyperfine --export-markdown results.md 'python ais_to_csv.py'
 Σαν πηγή χρησιμοποίησα αυτό άρθρο το οποίο και πρόσθεσα στην βιβλιογραφία.
 [article](https://www.researchgate.net/publication/251188523_Virtual_reality_and_its_military_utility)
 
+url : https://nikostzianas.netlify.com
+repository : https://github.com/aMimikyu/site
+
