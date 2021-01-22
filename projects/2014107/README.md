@@ -20,6 +20,7 @@
   - [3. Performance Monitoring](#performance-monitoring)  
   - [4. Custom Window Manager](#custom-window-manager)  
   - [5-6. Static Site && CI](#create-static-site-and-continuous-integration)
+- [Συμμετοχικό Εκπαιδευτικό Υλικό](#συμμετοχικό-εκπαιδευτικό-υλικό)
  
 
 
@@ -146,4 +147,21 @@ $ hyperfine --export-markdown results.md 'python ais_to_csv.py'
 Χρησιμοποίησα το hexo για την δημιουργία ενός blog.
 Για το συγκεκριμένο blog πέρα από τα απαραίτητα configurations για την σελίδα , άλλαξα το theme και πρόσθεσα μία νέα σελίδα με μια μικρή περιγραφή για τον εαυτό μου. Μετά για το deploy της σελίδας κατέβασα το command line tool του netlify και έστησα το CI για να κάνω push κάθε φορά που κάνω μια αλλαγή.
 Η τυπική διαδικασία φαίνεται στο asciinema.
+
+
+# Συμμετοχικό Εκπαιδευτικό Υλικό
+
+Για το συμμετοχικό υλικό πρόσθεσα 2 φωτογραφίες με ελέυθερα πνευματικά δικαιώματα.
+Οι φωτογραφίες αφορούν την χρήση ενός πιο διαδραστικού τρόπου εκπαίδευσης με augmented reality και virtual reality.
+Έτσι οι φωτογραφίες προστέθηκαν στο χρονοδιάγραμμα και slides για learning.
+
+[gallery link: army-training-vr](https://github.com/aMimikyu/site/blob/master/_gallery/army-training-vr.md)
+
+[gallery link: education-ar](https://github.com/aMimikyu/site/blob/master/_gallery/education-ar.md)
+
+Επίσης πρόσθεσα ένα case study για το virtual reality
+[virtual reality case study](https://github.com/aMimikyu/site/blob/master/_case-study/virtual-reality.md)
+
+Σαν πηγή χρησιμοποίησα αυτό άρθρο το οποίο και πρόσθεσα στην βιβλιογραφία.
+[article](https://www.researchgate.net/publication/251188523_Virtual_reality_and_its_military_utility)
 
