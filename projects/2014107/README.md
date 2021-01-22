@@ -15,11 +15,11 @@
 
 - [Βιογραφικό](#βιογραφικό)
 - [dokey](#dokey)
-  - [1.Virtual Environment](virtual-environment)
-  - [Άσκηση 2](άσκηση-2)  
-  - [Άσκηση 3](άσκηση-3)  
-  - [Άσκηση 4](άσκηση-4)  
-  - [Άσκηση 5](άσκηση-5)
+  - [1.Virtual Environment](#virtual-environment)
+  - [2. Notifications](#notifications)  
+  - [3. Performance Monitoring](#performance-monitoring)  
+  - [4. Custom Window Manager](#custom-window-manager)  
+  - [5-6. Static Site && CI](#create-static-site)
  
 
 
@@ -84,4 +84,66 @@
 ![screenshot](https://i.imgur.com/HtRnQti.png)
 
 
+## Performance Monitoring
+
+**Τίτλος** : Performance Monitoring	
+
+**Περιγραφή** : monitor the performance of your python scripts and visualize them with colors and/or spark lines	
+
+**References** : [py-spy](https://github.com/benfred/py-spy),[hyperfine](https://github.com/sharkdp/hyperfine)
+
+Για το  performance monitoring δοκίμασα δύο διαφορετικούς τρόπους.
+Ένα είναι το hyperfine.
+
+Αφού το κατέβασα απλά το έτρεξα με το script που θέλω να κάνω monitor.
+
+```
+$ hyperfine --export-markdown results.md 'python ais_to_csv.py'
+```
+
+Τα αποτελέσματα φαίνονται εδώ: 
+
+![results](https://i.imgur.com/zGfOumC.png)
+
+Το hyperfine είναι αρκετά χρήσιμο για να βγάλει το expected runtime από ένα πρόγραμμα και να μετρήσουμε την απόδοση. 
+
+Ένα άλλο εργαλείο  που δοκίμασα είναι το py-spy. Το py-spy βοηθάει να βρούμε την εντολή που ξοδεύει τον περισσότερο χρόνο.
+Καθώς τρέχει ταξινομεί τις εντολές που έχουν περάσει βάση του πόσο χρόνου έχουν χρειαστεί μέχρι τώρα.
+
+
+![results2](https://i.imgur.com/sgSSJKY.png)
+
+[example-vid](https://streamable.com/ky8l38)
+
+
+## Custom Window Manager
+
+
+**Τίτλος** : configure a custom window manager		
+
+**Περιγραφή** : try different wm and configure one to fit your needs	
+
+**References** : [i3wm](https://i3wm.org/)
+
+Για αυτήν την άσκηση επέλεξα έναν tiling window manager, τον i3.
+Έκανα κάποια βασικά configurations και δοκίμασα τον δοκίμασα.
+
+[example-gif](https://imgur.com/vxx1a5X)
+
+
+## Create Static Site and continuous integration
+
+
+**Τίτλος** : create your own static site and blog generator,  set-up continuous integration	
+
+**References** : [netlify](https://www.netlify.com/),[hexo](https://hexo.io/),[hexo-stun-theme](https://github.com/liuyib/hexo-theme-stun)
+
+**asciinema** : [link](https://asciinema.org/a/GbMj8NR4i4GVOXSRFs51Bcvwf)
+
+**blog** : [learning-stuff](https://blog-by-mimikyu.netlify.app/)
+
+
+Χρησιμοποίησα το hexo για την δημιουργία ενός blog.
+Για το συγκεκριμένο blog πέρα από τα απαραίτητα configurations για την σελίδα , άλλαξα το theme και πρόσθεσα μία νέα σελίδα με μια μικρή περιγραφή για τον εαυτό μου. Μετά για το deploy της σελίδας κατέβασα το command line tool του netlify και έστησα το CI για να κάνω push κάθε φορά που κάνω μια αλλαγή.
+Η τυπική διαδικασία φαίνεται στο asciinema.
 
