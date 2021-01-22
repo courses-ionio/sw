@@ -16,7 +16,7 @@
 ### [Βιογραφικό](#resume)
 
 
-# resume
+# Resume
 
 ### Links
 
