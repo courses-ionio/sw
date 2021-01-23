@@ -72,7 +72,7 @@
 
 **Περιγραφή** : send a notifcation when a big task completes, eg download, compiling, etc		
 
-**asciinema** : [link](https://asciinema.org/a/JwqeEQvIJ18mt319x0CEKkUV0)
+**asciinema** : [link](https://asciinema.org/a/SBU0qySkujf2qVq60TfkyjxId)
 
 **References** : [pushbullet](https://docs.pushbullet.com/)
 
