@@ -35,7 +35,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/)* 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/)
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/)* 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/): Η εργασία ανάπτυξης είναι υποχρεωτική για όποιον σκοπεύει να πάρει [πτυχιακή με την ομάδα μας](https://github.com/courses-ionio/thesis/wiki).
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
