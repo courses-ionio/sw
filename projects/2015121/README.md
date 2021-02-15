@@ -4,9 +4,10 @@
 
 <h4>ΑΜ: Π2015121</h4>
 
-<h4>Ασκήσεις Bonus: https://pibook-video-quiz.epidro.me/
+<h4>Ασκήσεις Bonus: https://pibook-video-quiz.epidro.me/</h4>
 
-User: p15kabl@ionio.gr
+<h4>User: p15kabl@ionio.gr
+
 e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 <h4>Netlify: in-progress 🚧</h4>
