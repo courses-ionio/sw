@@ -9,7 +9,7 @@
 User: p15kabl@ionio.gr
 e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
-<h4>Classtime: p15kabl@ionio.gr</h4> τ
+<h4>Classtime: p15kabl@ionio.gr</h4>
 
 <h4>Netlify: in-progress 🚧</h4>
 
