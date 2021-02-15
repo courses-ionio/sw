@@ -14,7 +14,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα </a></sup> |
+| 1 | <sup><a href="#1"> Προσωπικοί μου στόχοι για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση προγραμματισμού: button </a></sup> | 
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: (1) warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση προγραμματισμού: mouse-form </a></sup> |
