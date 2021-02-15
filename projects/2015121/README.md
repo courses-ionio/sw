@@ -4,9 +4,9 @@
 
 <h4>ΑΜ: Π2015121</h4>
 
-<h4>Netlify: https://p15kabl.netlify.app/</h4>
+<h4>Netlify: in progress</h4>
 
-<h4>Αποθετήριο site: https://github.com/apostoloskp/site</h4>
+<h4>Αποθετήριο site: in progress</h4>
 
 # Παραδοτέα και Τελική αναφορά
 
