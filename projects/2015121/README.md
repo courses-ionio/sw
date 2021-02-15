@@ -7,7 +7,6 @@
 <h4>Ασκήσεις Bonus: https://pibook-video-quiz.epidro.me/
 
 User: p15kabl@ionio.gr
-
 e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 <h4>Classtime: p15kabl@ionio.gr</h4>
