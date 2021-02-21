@@ -19,14 +19,13 @@
 |**Eleventh** | **Command-line Exercise** |  
 |**Twelth** | **Final Report** | 
 
-<h2> Introduction </h2>
+### Introduction 
 
-  <h3><li> Goals </li></h3> 
+#### Goals  
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
  
-  <h3><li>Expectations </li></h3>
-  <ul>
-    <li>Interactive course</li> 
-    <li>Thorough and detailed feedback</li> 
-    <li>Friendy atmosphere</li> 
-  </ul>
+ #### Expectations 
+ * Interactive course
+ * Thorough and detailed feedback
+ * Friendy atmosphere
+ 
