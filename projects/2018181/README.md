@@ -4,20 +4,20 @@
 
 <h2> Table of Contents </h2>
 
-|**Week** | **Deliverable**| 
+|**Week** | **Deliverable** | 
 |:---------:| :--------: | 
-|**First** | [Introduction](#Introduction)|
-|**Second** | **CV**|
-|**Third** |  **Integration Into Website**|
+|**First** |[Introduction](#Introduction) |
+|**Second** | **CV** |
+|**Third** |  **Integration Into Website** |
 |**Fourth**|  **Command-line Exercise** |
-|**Fifth** |  **Participatory Content**|
-|**Sixth** |  **Command-line Exercise**| 
+|**Fifth** |  **Participatory Content** |
+|**Sixth** |  **Command-line Exercise** |  
 |**Seventh** | **CV**|
-|**Eighth** |  **Integration Into Website**|
+|**Eighth** |  **Integration Into Website** |
 |**Ninth** |   **Command-line Exercise** |
-|**Tenth** |   **Participatory Content**|
-|**Eleventh** | **Command-line Exercise**| 
-|**Twelth** | **Final Report**| 
+|**Tenth** |   **Participatory Content** |
+|**Eleventh** | **Command-line Exercise** |  
+|**Twelth** | **Final Report** | 
 
 <h2> Introduction </h2>
 
