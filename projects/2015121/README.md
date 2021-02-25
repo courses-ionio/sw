@@ -72,7 +72,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 ###### [2]
 
-Repository του bio: https://github.com/apostoloskp/cv-1
+Online Βιογραφικό/Bio: https://apostoloskp.github.io/online-cv/
 
 ## Απαντήσεις στις ερωτήσεις του 2ου quiz:
 
