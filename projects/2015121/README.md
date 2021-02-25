@@ -74,6 +74,13 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 Repository του bio: https://github.com/apostoloskp/cv-1
 
+## Απαντήσεις στις ερωτήσεις του 2ου quiz:
+
+1)
+2)
+3)
+4)
+
 ###### [3]
 ###### [4]
 ###### [5]
