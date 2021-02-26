@@ -47,4 +47,4 @@ development είτε για deployment) και να δω και static site gene
 - [CV Link](https://cv-sw.stavrospanakakis.com/)
 - [CV Repository](https://github.com/Stavrospanakakis/sw-cv)
 
-[![asciicast](https://asciinema.org/a/inDYI057oZzjkShVvDGZ2qMHC.svg)](https://asciinema.org/a/inDYI057oZzjkShVvDGZ2qMHC)
+<a href="https://asciinema.org/a/394764" target="_blank"><img src="https://asciinema.org/a/394764.svg" /></a>
