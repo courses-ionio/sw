@@ -8,8 +8,8 @@
 ### Links
 
 - [repository](https://github.com/badwolfgr/resume-template)
-- [βιογραφικό](http://badwolf.icu/)
-- [pdf]()
+- [βιογραφικό](https://badwolf.icu/)
+- [pdf](https://badwolf.icu/cv.pdf)
 
 ### Περιγραφή
 Για την υλοποίηση του βιογραφικού επιλέχθηκε ένα σχετικό μορφότυπο από τα προτεινόμενα της εργασίας.  
