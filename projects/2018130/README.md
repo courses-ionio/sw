@@ -25,6 +25,18 @@
 εργαλείων ανάπτυξης λογισμικού. Στόχο επίσης αποτελεί η ανάπτηξη λογισμικού μέσω μιας συνεργατικής διαδικασίας, η κατασκευή ψυχαγωγικού και εκπαιδευτικού 
 λογισμικού καθώς και η συντήρησή του. 
 
+# Βιογραφικό
+## Δεύτερη εβδομάδα
+
+Επέλεξα το βιογραφικό να το δημιουργήσω μόνη μου για να πειραματιστώ με το Jekyll και να εξασκηθώ στις τεχνολογίες html και css. Παρακάτω ακολουθεί
+εικόνα με το αποτέλεσμα που έχω δημιουργήσει έως και την στιγμή της παράδοσης του παραδοτέου αυτού.
+
+![](https://github.com/sophia-ts/jekyll_cv/blob/main/cv.png)
+
+link της ιστοσελίδας: [jekyll cv](https://brave-swanson-35c9b6.netlify.app)
+
+link του public repository: [repository](https://github.com/sophia-ts/jekyll_cv)
+
 # Απαντήσεις εβδομαδιαίου quiz
 
 ### [Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series](https://youtu.be/BUud1gcbS9k)
