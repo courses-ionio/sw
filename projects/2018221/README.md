@@ -28,6 +28,8 @@
 ## ΒΙΟΓΡΑΦΙΚΟ
 
 ## [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
+## [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
+
 
 
 
