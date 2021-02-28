@@ -26,6 +26,6 @@
 
 Σύνδεσμος του CV-Resume με την χρήση jekyll https://faidontsetsis.github.io/cv/
 
-Σύνδεσμος του αποθετηρίου στο οποίο βρήσκεται ο κώδικας του CV-Resume https://github.com/FaidonTsetsis/cv
+Σύνδεσμος του αποθετηρίου στο οποίο βρίσκεται ο κώδικας του CV-Resume https://github.com/FaidonTsetsis/cv
 
 Note **Θα υπάρξει σύντομα διόρθωση ορισμένων μικρών λαθών**
