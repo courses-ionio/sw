@@ -26,7 +26,7 @@
 ## <a name="P2">Παραδοτέο 2</a>
 ## <a href="#P">Βιογραφικό</a>
 ### <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
-### <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
+### <span style="color:green"><a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a></span>
 
 ## <a name="P3">Παραδοτέο 3</a>
 ## <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
