@@ -7,7 +7,7 @@
 | Week | Deliverable(s) |
 | --- | --- |
 | 1st | [Introduction](#Introduction) |
-| 2nd | CV |
+| 2nd | [CV](#CV) |
 | 3rd | Pull request @ CSCW website/other project  |
 | 4th | Command-line exercise |
 | 5th | Participatory content |
@@ -27,3 +27,6 @@ In that regard, some personal pursuits are set:
 * Experiment with a different toolchain set (OS, compilers, debuggers etc.)
 * Employ the right combination of methodologies, tools and procedures to support safe, reliable and efficient human-centered design in a selected software environment
 * Enhance workflow productivity with DE setup automation
+
+### CV
+Initial work on CV will soon be uploaded [here](https://github.com/provopoulos/swcv).
