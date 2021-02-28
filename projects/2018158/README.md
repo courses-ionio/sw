@@ -28,6 +28,6 @@
 ### Παραδοτέο 1
 
 ### Παραδοτέο 2
-**Link προς το αποθετήριο:** https://github.com/AnTonyPapako/CV
+**Link προς την σελίδα του βιογραφικού:** https://AntonyPapako.github.io/CV
 
-**Link προς την αρχική σελίδα:** https://AntonyPapako.github.io/CV
+**Link προς το repository:** https://github.com/AnTonyPapako/CV
