@@ -48,10 +48,10 @@
 
 Link Repository https://github.com/p16pyla/cv-1 
 
-Link Bio https://p16pyla.github.io/cv-1/
+Link Βιογραφικού https://p16pyla.github.io/cv-1/
 
   - Git Hub Bio
 
 Link Repository  https://github.com/p16pyla/resume-sw1
 
-Link Bio     https://p16pyla.github.io/resume-sw1/
+Link Βιογραφικού   https://p16pyla.github.io/resume-sw1/
