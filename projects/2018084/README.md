@@ -10,7 +10,7 @@
 | <a href="#P-1">2</a> |<a href="#P-1"> Βιογραφικό</a> |
 | <a href="#P-2">3</a> |<a href="#P-2">  Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
 | <a href="#P-3">4</a> |<a href="#P-3"> Άσκηση γραμμής εντολών</a> |
-|  <a href="#P-4">5 </a> |<a href="#P-4"> Συμμετοχικό περιεχόμενο</a> |
+| <a href="#P-4">5 </a> |<a href="#P-4"> Συμμετοχικό περιεχόμενο</a> |
 | <a href="#P-5">6 </a>|<a href="#P-5"> Άσκηση γραμμής εντολών</a> |
 | <a href="#P-6">7 </a>|<a href="#P-6"> Bιογραφικό</a> |
 | <a href="#P-7">8 </a>|<a href="#P-7"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>|
@@ -28,8 +28,8 @@
 
 ## <a name="P-1">Παραδοτέο 1</a>
 ### Άσκηση: Βιογραφικό
-Website link: https://icelandan.github.io/bio/
-Repository link: https://github.com/Icelandan/bio
+# Website link: https://icelandan.github.io/bio/ 
+# Repository link: https://github.com/Icelandan/bio
 
 
 ## <a name="P-2">Παραδοτέο 2</a>
