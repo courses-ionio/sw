@@ -30,8 +30,8 @@
 
 # Βιογραφικό
 
-  [Github Repository](https://github.com/Haki-Malai/Resume)
-  [Λινκ](https://haki-malai.github.io/Resume/)
+  [Github Repository](https://github.com/Haki-Malai/Resume)<br>
+  [Λινκ](https://haki-malai.github.io/Resume/)<br>
   [Original Template](https://github.com/sproogen/modern-resume-theme)
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
