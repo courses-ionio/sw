@@ -45,9 +45,9 @@
 ΑΠΑΝΤΗΣΗ: 
 Η πρώτη δυνατή ιδέα είναι, ότι υπάρχει κάτι ιδιαίτερο σχετικά με τους υπολογιστές το οποίο συνδέεται με την σκέψη και για να δώσεις αυτό το ιδιαίτερο πράγμα στον κόσμο πρέπει να μάθεις αυτές τις δυνατές ιδέες στα παιδία και όχι στους ενήλικες που σκέφτονται συμβατικά. Η δεύτερη ιδέα είναι η δημιουργία μια γλώσσας προγραμματισμού που απευθύνεται σε παιδιά όπου ενήλικες να μπορούν να προγραμματίσουν σε αυτή επίσης. 
 
-ΕΒΔΟΜΑΔΑ 1Η: Βιογραφικό
-Github Repository Link: https://github.com/p16koub1/cv
-Github Page Link: https://p16koub1.github.io/cv/
+ΕΒΔΟΜΑΔΑ 1Η: Βιογραφικό<br>
+Github Repository Link: https://github.com/p16koub1/cv <br>
+Github Page Link: https://p16koub1.github.io/cv/ <br>
 Asciinema Videos:<br>
-  git push: https://asciinema.org/a/395323 
+  git push: https://asciinema.org/a/395323<br>
   latex: https://asciinema.org/a/395325
