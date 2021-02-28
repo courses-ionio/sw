@@ -48,3 +48,6 @@
 ΕΒΔΟΜΑΔΑ 1Η: Βιογραφικό
 Github Repository Link: https://github.com/p16koub1/cv
 Github Page Link: https://p16koub1.github.io/cv/
+Asciinema Videos: 
+  git push: https://asciinema.org/a/395323 
+  latex: https://asciinema.org/a/395325
