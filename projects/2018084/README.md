@@ -28,7 +28,8 @@
 
 ## <a name="P-1">Παραδοτέο 1</a>
 ### Άσκηση: Βιογραφικό
-Website link: https://icelandan.github.io/bio/                                                                                                                               Repository link: https://github.com/Icelandan/bio
+Website link: https://icelandan.github.io/bio/ <br />
+Repository link: https://github.com/Icelandan/bio
 
 
 ## <a name="P-2">Παραδοτέο 2</a>
