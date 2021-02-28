@@ -193,7 +193,7 @@ gem install jekyll bundler
 https://unix.stackexchange.com/questions/203376/how-to-set-ruby-gem-home-and-gem-path/210012
 - Για να καταλάβουμε καλύτερα την λειτουργία του asciinema:
 https://asciinema.org/docs/usage
-- Για να κάνουμε σωστή εγκατάσταση του github:
+- Για να κάνουμε σωστή εγκατάσταση του git:
 https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 ---
