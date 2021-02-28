@@ -30,5 +30,5 @@
 και της οργάνωσης του λογισμικού και την δεξιοτεχνια σχετικα με θεματα
 που αφορουν λογισμικα.
 ## <a name="B">Βιογραφικό:</a>
-## <a href=" https://asciinema.org/a/395054" >asciinema </a>
-## <a href="https://github.com/DimitrisGrigoropoulosP2016099/cv/tree/master" >Cv Github</a>
+### <a href="https://asciinema.org/a/395054" target="_blank"><img src="https://asciinema.org/a/395054.svg" />asciinema </a>
+### <a href="https://github.com/DimitrisGrigoropoulosP2016099/cv/tree/master" >Cv Github</a>
