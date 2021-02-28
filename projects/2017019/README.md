@@ -3,7 +3,7 @@
 #### Όνομα: Αγγελική
 #### Επίθετο: Κουρνέτα
 #### ΑΜ: Π2017019
-#### [Github Profile](https://github.com/p17kour/)
+<a href="https://github.com/p17kour/">Github Profile</a>
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
