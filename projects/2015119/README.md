@@ -36,3 +36,7 @@
 
 Το late binding ειναι η μία ιδέα που την χαρακτηρίζει και απο τον seymour papper η δουλεία που έκανε με τα παιδία
 
+
+βιογραφικό
+https://p15kour.github.io/online-cv/
+
