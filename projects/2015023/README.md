@@ -29,7 +29,7 @@
 ---
 ## <a name="P-2">Βιογραφικό:</a>
 Στο πρώτο παραδοτέο του βιογραφικού απαιτείται η χρήση ενός Jekyll theme και το deployment με το github-pages. Παρακάτω είναι τα links με το αποθετήριο του βιογραφικού, όπως και το αντίστοιχο site.
-[Αποθετήριο Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
-[Site Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
+- [Αποθετήριο Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
+- [Site Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
 
 Προστέθηκαν οι απαραίτητες πληροφορίες και αναμένεται στο 2ο παραδοτέο να παρέχεται δυνατότητα εγκατάστασης του resume σε pdf format.
