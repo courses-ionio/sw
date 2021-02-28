@@ -7,7 +7,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Intro- First state of suffering](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
-| 2 | βιογραφικό |
+| 2 | A (hopefully) constantly updated [CV](https://runtheorun-exe.github.io/online-cv/) and its [repo](https://github.com/runtheorun-exe/online-cv) |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 4 | Άσκηση γραμμής εντολών |
 | 5 | Συμμετοχικό περιεχόμενο |
