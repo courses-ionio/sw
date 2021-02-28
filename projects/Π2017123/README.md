@@ -44,3 +44,13 @@ class structures και ήταν πιο δυνατό εργαλείο απο τ�
 του simula είχε κοινά χαρακτηριστικά με τον τρόπο που λειτουργούν οι δομές των κυττάρων στη βιολογία.Η λύση του προβλήματος της
 αρχιτεκτονικής λύνεται δημιουργώντας κάτι το οποίο δεν αποτελείται από μια μονάδα στην οποία τα φορτώνεις όλα εκεί.
 Αντίθετα θες να φτιάξει κάτι που λειτουργεί και έπειτα να το βελτιώνει
+
+### 2ο Παραδοτέο 28/2/2021:
+#### link για το online-cv μου: https://axel12321.github.io/cv-1/
+
+#### link για το asciinema video: https://asciinema.org/a/395321 
+
+#### link για το repository : https://github.com/Axel12321/cv-1
+
+Όλα τα commits έγιναν με την χρήση του git από command line. Στο βίντεο έχω καταγράψει μόνο το τελικό add/commit/push καθώς έκανα πολλές αλλαγές μέχρι την τελική μορφή και δεν τις κατέγραψα. Η δημιουργία του αρχείου pdf αρχείου έγινε και αυτή από το command line με την εντολή pandoc https://axel12321.github.io/cv-1/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex αφού πρώτα έκανα install το latex και το pandoc με τις εντολές : sudo apt-get install texlive-xetex   sudo apt install lyx    sudo apt-get install pandoc.
+Η κατασκευή της ιστοσελίδας έγινε με την χρήση του template: https://github.com/sharu725/online-cv . Πέρα από την συμλήρωση των στοιχείων μου πραγματοποιήθηκαν αλλαγές σε μερικά css αρχεία για την αλλαγή των χρωμάτων και των font size.
