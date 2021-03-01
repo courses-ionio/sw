@@ -64,5 +64,7 @@
 
 [Website Link](https://rawmann.github.io/online-cv/)
 
+[PDF file](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.pdf)
+
 ### Απαντήσεις εβδομαδιαίου quiz 
 
