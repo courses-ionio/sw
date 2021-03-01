@@ -70,6 +70,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 ###### [2]
 
 Online Βιογραφικό/Bio: https://apostoloskp.github.io/online-cv/
+Το repository του βιογραφικού μου: https://github.com/apostoloskp/online-cv
 
 ## Βήματα:
 Αρχικά, επιχείρησα να δημιουργήσω και να κάνω host την ιστοσελίδα του βιογραφικού μου με τη χρήση docker και terminal με βάση τις οδηγίες του εργαστηρίου, όμως οδηγήθηκα σε αδιέξοδο. Συνεπώς, προχώρησα στην επιλογή του jekyll θέματος "Thunder" από **sharu725**. Έκανα fork το repository, έσβησα το ήδη υπάρχον **gh-pages** branch για να δημιουργήσω στη συνέχεια το δικό μου, όπου έθεσα να χρησιμοποίει ως πρότυπο τις αλλαγές που θα πραγματοποιήσω στο master branch. Το νέο branch **gh-pages** θα χρησιμεύει αποκλειστικά
