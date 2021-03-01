@@ -58,5 +58,7 @@
 
 ### Βιογραφικό
 
+https://rawmann.github.io/online-cv/
+
 ### Απαντήσεις εβδομαδιαίου quiz 
 
