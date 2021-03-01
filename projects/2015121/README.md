@@ -70,6 +70,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 ###### [2]
 
 Online Βιογραφικό/Bio: https://apostoloskp.github.io/online-cv/
+
 Το repository του βιογραφικού μου: https://github.com/apostoloskp/online-cv
 
 ## Βήματα:
