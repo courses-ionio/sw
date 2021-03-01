@@ -37,7 +37,7 @@
 
 # Εβδομάδα 2 ( Βιογραφικό)
 
-link για το βιογραφικό  https://p14ntot.github.io/online-cv/
+link για το βιογραφικό  https://p14ntot.github.io/online-cv/ /n
 link για το repository https://github.com/p14ntot/online-cv
 
 
