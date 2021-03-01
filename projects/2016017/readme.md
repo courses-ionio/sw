@@ -58,9 +58,11 @@
 
 ### Βιογραφικό
 
+![](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.png)
+
 [Link Αποθετήριου](https://github.com/rawmann/online-cv)
 
-https://rawmann.github.io/online-cv/
+[Website Link](https://rawmann.github.io/online-cv/)
 
 ### Απαντήσεις εβδομαδιαίου quiz 
 
