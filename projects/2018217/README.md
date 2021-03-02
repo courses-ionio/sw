@@ -43,4 +43,4 @@
 
 ## Βιογραφικό Σημείωμα με χρήση tamplate
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/online-cv/)
-### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/online-cv/tree/gh-pagesv)
+### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/online-cv/)
