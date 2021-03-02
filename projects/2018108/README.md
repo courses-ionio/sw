@@ -44,12 +44,10 @@ development είτε για deployment) και να δω και static site gene
 2. Παραγωγή PDF με τα εργαλεία pandoc και latex 
 
 **Links:**
-- [CV Link](https://stavrospanakakis.com/jekyll-cv/)
-- [CV Repository](https://github.com/Stavrospanakakis/jekyll-cv)
+- [CV Link](https://cv.stavrospanakakis.com/)
+- [CV Repository](https://github.com/Stavrospanakakis/cv)
 
-### Preview
-![preview](https://github.com/Stavrospanakakis/jekyll-cv/blob/main/preview.png)
 <a href="https://asciinema.org/a/394764" target="_blank"><img src="https://asciinema.org/a/394764.svg" /></a>
 
 **Βελτιώσεις:**
-Λόγω του ότι μου άρεσε το αποτέλεσμα της άσκησης, το μετέτρεψα σε jekyll template και αντικατέστησα τα δικά μου δεδομένα με ψεύτικα για την διευκόλυνση όποιου θα ήθελε να το χρησιμοποιήσει. Γι' αυτόν τον λόγο άλλαξα τα links παραπάνω. Παρόλα αυτά, αν μπείτε στο commit history του repository, θα δείτε κανονικά ότι είναι εκπρόθεσμη η παράδοση της άσκησης.
+Λόγω του ότι μου άρεσε το αποτέλεσμα της άσκησης, το μετέτρεψα σε jekyll template. Γι' αυτόν τον λόγο άλλαξα τα links παραπάνω. Παρόλα αυτά, αν μπείτε στο commit history του template repository, θα δείτε κανονικά ότι είναι εκπρόθεσμη η παράδοση της άσκησης.
