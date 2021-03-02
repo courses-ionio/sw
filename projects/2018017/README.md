@@ -29,4 +29,5 @@ In that regard, some personal pursuits are set:
 * Enhance workflow productivity with DE setup automation
 
 ### CV
-Initial work on CV will soon be uploaded [here](https://github.com/provopoulos/swcv).
+Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
+Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).
