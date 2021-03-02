@@ -37,7 +37,8 @@
 ### [2]
 
 ## Βιογραφικό Σημείωμα με χρήση γραμμής εντολών σε απλή μορφή
-### [Asciinema Link](https://asciinema.org/a/395269)
+### [Asciinema Link 1](https://asciinema.org/a/395269)
+### [Asciinema Link 2](https://asciinema.org/a/395827)
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
 ### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv)
 
