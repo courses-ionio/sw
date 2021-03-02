@@ -42,6 +42,7 @@ email: p15kost@ionio.gr
 ## Παραδοτέο 2:
 
 Λινκ Βιογραφικού: https://p15kost.github.io/cv1/
+
 Λινκ Αποθετηρίου: https://github.com/p15kost/cv1
 
 
