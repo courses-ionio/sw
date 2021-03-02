@@ -53,3 +53,7 @@
 
 
 ### Παραδοτέο 3 (υπό επεξεργασία)
+
+- Άνοιγμα [issue](https://github.com/ioniodi/sitegr/issues/32) για ανάθεση εργασίας (περιμένω green flag)
+- [Forked](https://github.com/PaulosKal/sitegr) site's repository
+- Built my version of website on [Netlify](https://compassionate-banach-64b6db.netlify.app)
