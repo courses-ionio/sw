@@ -37,6 +37,17 @@ link της ιστοσελίδας: [jekyll cv](https://brave-swanson-35c9b6.net
 
 link του public repository: [repository](https://github.com/sophia-ts/jekyll_cv)
 
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα
+## Τρίτη εβδομάδα
+
+Προσθήκη περιεχομένου διοικητικού προσωπικού Έυα Κρανιώτη
+
+**Pull request:** [link](https://github.com/ioniodi/sitegr/pull/42)
+
+**Issue:** [link](https://github.com/ioniodi/sitegr/issues/30)
+
+**Demo:** [link](https://tender-johnson-3b8f3e.netlify.app/people/)
+
 # Απαντήσεις εβδομαδιαίου quiz
 
 ### [Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series](https://youtu.be/BUud1gcbS9k)
