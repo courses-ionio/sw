@@ -42,5 +42,10 @@ Video κουίζ: 1ο video κουίζ με θέμα Aln Kay MIT-EECS,
 ##
 ## Βιογραφικό - 1 
 
-https://katerinalaz.github.io/cv1/
+https://katerinalaz.github.io/online-cv/
+GitHub Repo : https://github.com/KaterinaLaz/online-cv
+|||
+| --- | --- |
+| **Παρακολούθηση video κουίζ** | |
+
 
