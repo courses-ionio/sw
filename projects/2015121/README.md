@@ -13,7 +13,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 <h4>Netlify: in-progress 🚧</h4>
 
-<h4>Αποθετήριο site: in-progress 🚧</h4>
+<h4>Αποθετήριο site: https://github.com/apostoloskp/sitegr/tree/2015121</h4>
 
 # Παραδοτέα και Τελική αναφορά
 
