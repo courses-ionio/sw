@@ -55,3 +55,5 @@ Link Βιογραφικού https://p16pyla.github.io/cv-1/
 Link Repository  https://github.com/p16pyla/resume-sw1
 
 Link Βιογραφικού   https://p16pyla.github.io/resume-sw1/
+
+Netlify Bio  https://p16pylacv.netlify.app/
