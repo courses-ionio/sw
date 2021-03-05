@@ -7,7 +7,7 @@
 |**Week** | **Deliverable** | 
 |:---------:| :--------: | 
 |**First** |[Introduction](#Introduction) |
-|**Second** | **CV** |
+|**Second** | [CV](#CV) |
 |**Third** |  **Integration Into Website** |
 |**Fourth**|  **Command-line Exercise** |
 |**Fifth** |  **Participatory Content** |
@@ -25,6 +25,17 @@
 ###  Goals  
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
  
+ ## CV 
+You can check my [CV](https://github.com/mariachlkt/cv-final). 
+</br>
+[Asciinema Video](https://asciinema.org/a/397011) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ## Second Quiz 
 
 ### Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Τεντ Νελσον και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές.
@@ -39,6 +50,7 @@
 </br>
 ### Γιατί είναι τόσο απαραίτητοι όσοι γνωρίζουν την τεχνολογία λογισμικού στις βάσεις δεδομένων;
 Η ανάπτυξη λογισμικού και η τεχνολογία των βάσεων δεδομένων σχετίζονται με διάφορους τρόπους. Συγκεκριμένα, χρησιμοποιούνται μέθοδοι λογισμικού και εργαλεία  για την ανάπτυξη εφαρμογών και λειτουργιών βάσεων δεδομένων. Αντίστοιχα, η τεχνολογία βάσεων δεδομένων μπορεί να υποστηρίζει μέσω κατάλληλων υπηρεσιών τις δραστηριότητες, τα εργαλεία και τις τεχνικές, που εφαρμόζονται στις διαδικασίες ανάπτυξης λογισμικού.   	
+
 
 
 
