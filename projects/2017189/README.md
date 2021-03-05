@@ -37,7 +37,8 @@
 ![](./images/skills.png)
 
 Επίσης,υλοποιήθηκε [πρόγραμμα](https://github.com/p17kots/cv/blob/main/when_changes.py) σε python το οποίο κάθε φορά που γίνεται αλλαγή στο YML αρχείο,κάνει επανεκκίνηση τον τοπικό εξυπηρετητή για να φανούν οι αλλαγές,χωρίς να χρειάζεται να το κάνω χειροκίνητα σε κάθε αλλαγή.Απλά τρέχω μία φορά το πρόγραμμα στην αρχή.
-###<a name="P-2">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
+
+### <a name="P-2">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
 
 [Προσωπικό αποθετήριο σελίδας](https://github.com/p17kots/sitegr)
 
@@ -77,10 +78,17 @@
 #### Πηγές:
 
 https://git-scm.com/
+
 https://en.wikipedia.org/wiki/Git
+
 https://www.atlassian.com/git/tutorials/what-is-git
+
 https://en.wikipedia.org/wiki/Linux_kernel
+
 https://en.wikipedia.org/wiki/Linus_Torvalds
+
 https://www.britannica.com/biography/Linus-Torvalds
+
 https://itsfoss.com/linus-torvalds-facts/
+
 https://www.cs.cmu.edu/~awb/linux.history.html
