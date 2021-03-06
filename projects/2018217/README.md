@@ -40,11 +40,14 @@
 ### [Asciinema Link 1](https://asciinema.org/a/395269)
 ### [Asciinema Link 2](https://asciinema.org/a/395827)
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
+### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://ecstatic-euclid-5ce1d6.netlify.app/)
 ### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv)
 
 ## Βιογραφικό Σημείωμα με χρήση tamplate
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/online-cv/)
+### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://competent-agnesi-a3b96e.netlify.app/)
 ### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/online-cv/)
+
 
 ### [3]
 ## 1ο Αιτήμα Ενσωμάτωσης στην Ιστοσελίδα του Τμήματος Πληροφορικής
