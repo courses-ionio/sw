@@ -39,10 +39,10 @@
 [![asciicast](https://asciinema.org/a/395265.svg)](https://asciinema.org/a/395265)
 
 ***
-###### [2]
+###### [3]
 ## Προσθήκη ανακοίνωσης στην ιστοσελίδα :
 
-### Site :
+### Site : https://epic-hamilton-da9ac8.netlify.app/posts/2021/02/24/thorakisi-seismikis-epikindinotitas/
 
 ### Repository : https://github.com/Miltos9/sitegr/blob/master/all_collections/_posts/2021-02-24-thorakisi-seismikis-epikindinotitas.md
 
