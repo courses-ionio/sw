@@ -21,6 +21,7 @@
 | <a href="#P-11">11</a> | <a href="#P-11"> Άσκηση γραμμής εντολών</a> |
 | <a href="#P-12">12</a> | <a href="#P-12"> Τελική αναφορά*</a> |
 
+---
 ## <a name="P-1">ΕΙΣΑΓΩΓΗ:</a>
 Μέσα στο μάθημα **Τεχνολογία Λογισμικού (SW)**, θα μελετήσουμε και θα βελτιώσουμε διαδικασίες, μεθόδους και εργαλεία, με τα οποία αναπτύσσεται ένα λογισμικό.
 Στόχος είναι να αναπτύσσουμε ένα τέτοιο λογισμικό μέσα απο ένα συνεργατικό περιβάλλον με κοινές πρακτικές και εργασίες, να μάθουμε να το εξελίζουμε, αλλά
@@ -29,7 +30,14 @@
 ---
 ## <a name="P-2">Βιογραφικό:</a>
 Στο πρώτο παραδοτέο του βιογραφικού απαιτείται η χρήση ενός Jekyll theme και το deployment με το github-pages. Παρακάτω είναι τα links με το αποθετήριο του βιογραφικού, όπως και το αντίστοιχο site.
-- [Αποθετήριο Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
-- [Site Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
+- [Αποθετήριο Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
+- [Site Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
 
 Προστέθηκαν οι απαραίτητες πληροφορίες και αναμένεται στο 2ο παραδοτέο να παρέχεται δυνατότητα εγκατάστασης του resume σε pdf format.
+
+---
+## <a name="P-3">Αίτημα ενσωμάτωσης στην ιστοσελίδα:</a>
+Παρακάτω φαίνονται τα απαραίτητα links για την συνεισφορά πάνω στο [sitegr](https://github.com/ioniodi/sitegr) που οδηγούν στο issue, το demo και το pull request, αντίστοιχα.
+- [Issue](https://github.com/ioniodi/sitegr/issues/67)
+- [Demo](https://stupefied-hoover-8cda64.netlify.app/courses/specialized-algorithm-topics/)
+- [Pull Request](https://github.com/ioniodi/sitegr/pull/92)
