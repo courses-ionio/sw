@@ -4,7 +4,7 @@
 | --- | --- |
 | 1 |[Eισαγωγή](#Εισαγωγή) |
 | 2 |[Βιογραφικό](#Βιογραφικό) |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
+| 3 |[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα ενσωμάτωσης στην ιστοσελίδα) |
 | 4 | Άσκηση γραμμής εντολών |
 | 5 | Συμμετοχικό περιεχόμενο |
 | 6 | Άσκηση γραμμής εντολών |
@@ -57,3 +57,14 @@ Link Repository  https://github.com/p16pyla/resume-sw1
 Link Βιογραφικού   https://p16pyla.github.io/resume-sw1/
 
   - Netlify Bio  https://p16pylacv.netlify.app/
+
+
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+Link netfily https://deploy-preview-106--epic-hamilton-da9ac8.netlify.app/posts/2020/10/22/international-workshop/
+
+Link Pull Request https://github.com/ioniodi/sitegr/pull/106  
+
+Link Issue  https://github.com/ioniodi/sitegr/issues/55 
+
+Link Αποθετήριου  https://github.com/p16pyla/sitegr/tree/2016136/all_collections
