@@ -38,7 +38,7 @@
 * [GitHub Repo](https://github.com/KaterinaLaz/online-cv)
 
 
-* Παρακολούθηση του πρώτου βίντεο κουίζ -> `Τed Νelson computers for cynics ` 
+* Παρακολούθηση του δέυτερου βίντεο κουίζ -> `Τed Νelson computers for cynics ` 
 
 
 ##
@@ -48,7 +48,7 @@
 
 [Netlify](https://quirky-jennings-23151c.netlify.app/people/)
 
-* Παρακολούθηση του πρώτου βίντεο κουίζ -> `Alan Kay computing simply  ` 
+* Παρακολούθηση του τρίτου βίντεο κουίζ -> `Alan Kay computing simply  ` 
   * Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;\
 Sketch pad, δίκτυα και η simula. Ουσιαστικά τον επηρέασαν σε επίπεδο hardware αλλά και software.
   * Να δώσετε παράδειγμα από την προσωπική σας εμπειρία για λογισμικό με καλή και με κακή αρχιτεκτονική με αναφορά στα κριτήρια της επιλογής σας.\
