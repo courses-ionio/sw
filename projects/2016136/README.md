@@ -60,7 +60,7 @@ Link Βιογραφικού   https://p16pyla.github.io/resume-sw1/
 
 
 
-# Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
 Link netfily https://deploy-preview-106--epic-hamilton-da9ac8.netlify.app/posts/2020/10/22/international-workshop/
 
