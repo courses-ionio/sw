@@ -56,7 +56,8 @@
 [Link Βιογραφικού](https://p16pyla.github.io/resume-sw1/)
 
   - Netlify Bio  
-    [Link Βιογραφικού](https://p16pylacv.netlify.app/)
+ 
+ [Link Βιογραφικού](https://p16pylacv.netlify.app/)
 
 
 
