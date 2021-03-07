@@ -28,3 +28,9 @@
 **Link Βιογραφικού:** (https://polycarpos.github.io/online-cv/) 
 
 Το βιογραφικό θα το βρείτε πατώντας στον σύνδεσμο που βρίσκεται στην αρχική σελίδα.
+---
+### Παραδοτέο 3
+- Άνοιξα [issue](https://github.com/ioniodi/sitegr/issues/115) για ανάθεση εργασίας
+- Έκανα [fork](https://github.com/polycarpos/sitegr) το repository του site
+- Δημιούργισα καινούργιο branch και καινουργιο αρχείο μεσα στο φάκελο _posts και μέσα στο αρχείο έγραψα την ανακοίνωση [index.html](https://github.com/polycarpos/sitegr/blob/2018199/all_collections/_posts/2020-11-28-dieukrinisi-akadimaikon-tautotiton.md) σε ένα νέο branch
+- Προχώρησα σε [pull request](https://github.com/ioniodi/sitegr/pull/129) 
