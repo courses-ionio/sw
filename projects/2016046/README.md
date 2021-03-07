@@ -48,7 +48,7 @@
 Link Bio https://p16foti.github.io/cv-1/
 Link Repository https://github.com/p16foti/cv-1
 
-# Αίτημα Ενσωμάτωσης στην Ιστοσελίδα
+# Αίτημα/Ενσωμάτωσης/στην/Ιστοσελίδα
 
 Link Issue https://github.com/ioniodi/sitegr/issues/66
 
