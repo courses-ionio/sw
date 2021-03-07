@@ -9,7 +9,7 @@
 | --- | --- | --- |
 | 1 | <a href="#Intro"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα </a> |  <a href="#Quiz01"> Alan Kay at MIT-EECS </a> |
 | 2  | <a href="#cv"> βιογραφικό | <a href="#Quiz02"> Nelson Computers Cynics </a> |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | <a href="#Quiz03"> Alan Kay Computing Simply  </a> |
+| 3 | <a href="#rw"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | <a href="#Quiz03"> Alan Kay Computing Simply  </a> |
 | 4 | Άσκηση γραμμής εντολών | |
 | 5 | Συμμετοχικό περιεχόμενο | |
 | 6 | Άσκηση γραμμής εντολών | |
@@ -38,6 +38,15 @@
 
  ### Εμφάνιση κάποιων αρχείων και host της σελίδας (local προς το παρόν)
  [![asciicast](https://asciinema.org/a/cWRBInan4B8swIHL4Keh9vFPG.png)](https://asciinema.org/a/cWRBInan4B8swIHL4Keh9vFPG)
+
+## <a name="rw">Αίτημα ενσωμάτωσης στην ιστοσελίδα:</a>
+Η αλλαγή που έκανα στην σελίδα ήταν το να προσθέσω ένα μάθημα που έλειπε.  Η αλλαγή ήταν πολύ απλή και δεν προέκυψαν ιδιαίτερα πρόβλημα ωστόσο κάνοντας αυτή την αλλαγή κατάλαβα λίγο παραπάνω το πώς δουλεύει η ιστοσελίδα και το πως συνδέεται με το minimal-ionio theme έτσι κατάφερα να εντοπίσω ένα typo το οποίο προκαλούσε κάποια προβλήματα και έκανα κατάλληλο issue για την επίλυση του.
+
+[Το δικό μου αποθετήριο με την Σελίδα που έκανα fork](https://github.com/Rigas-A/sitegr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%BD%CE%AD%CE%BF%CF%85-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82-%E2%80%9C%CE%95%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%B7-%CE%95%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%E2%80%9D)
+
+[Το pull request](https://github.com/ioniodi/sitegr/pull/132)
+
+[Το preview της Σελίδας](https://6044fd5f73cb392bac4e8170--priceless-darwin-daee93.netlify.app/courses/free-choice/)
 
 ---
 
