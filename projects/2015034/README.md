@@ -28,4 +28,4 @@
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα 1
 Για να ολοκληρώσω το πρώτο παραδοτέο αιτήματος ενσωμάτωσης του μαθήματος, δημιούργηγσα ένα issue για την προσθήκη ανακοίνωσης. Αφού μου δώθηκε το green light πρόσθεσα το κατάλληλο .md αρχείο μέσα στον φάκελο των ανακοινώσεων. Έπειτα, έκανα deploy το site στο netlify και τέλος έστειλα το pull request.
-[mdfile link](#https://github.com/p15bako/sitegr/blob/2015034/all_collections/_posts/2020-12-29-sunantisi-ergastiriou-montelopoiisis.md) [issuelink](#https://github.com/ioniodi/sitegr/issues/124) [netlifylink](#https://flamboyant-blackwell-1d9e28.netlify.app/posts/2020/12/29/sunantisi-ergastiriou-montelopoiisis/)
+[mdfile link](https://github.com/p15bako/sitegr/blob/2015034/all_collections/_posts/2020-12-29-sunantisi-ergastiriou-montelopoiisis.md) [issuelink](https://github.com/ioniodi/sitegr/issues/124) [netlifylink](https://flamboyant-blackwell-1d9e28.netlify.app/posts/2020/12/29/sunantisi-ergastiriou-montelopoiisis/)
