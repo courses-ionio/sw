@@ -54,3 +54,8 @@ class structures και ήταν πιο δυνατό εργαλείο απο τ�
 
 Όλα τα commits έγιναν με την χρήση του git από command line. Στο βίντεο έχω καταγράψει μόνο το τελικό add/commit/push καθώς έκανα πολλές αλλαγές μέχρι την τελική μορφή και δεν τις κατέγραψα. Η δημιουργία του αρχείου pdf αρχείου έγινε και αυτή από το command line με την εντολή pandoc https://axel12321.github.io/cv-1/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex αφού πρώτα έκανα install το latex και το pandoc με τις εντολές : sudo apt-get install texlive-xetex   sudo apt install lyx    sudo apt-get install pandoc.
 Η κατασκευή της ιστοσελίδας έγινε με την χρήση του template: https://github.com/sharu725/online-cv . Πέρα από την συμλήρωση των στοιχείων μου πραγματοποιήθηκαν αλλαγές σε μερικά css αρχεία για την αλλαγή των χρωμάτων και των font size.
+
+###3o Παραδοτέο 07/03/2021:
+#### link για το netlify: https://hopeful-kirch-fdd868.netlify.app/
+Η αλλαγή αφορά την προσθήκη μιας ανακοίνωσης 
+link για το issue: https://github.com/ioniodi/sitegr/pull/135
