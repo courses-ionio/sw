@@ -30,6 +30,10 @@
 
 ## <a name="P3">Παραδοτέο 3</a>
 ## <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
+#### <a href="https://github.com/ioniodi/sitegr/issues/36">Σύνδεσμος δημιουργίας issue</a>
+#### <a href="https://github.com/ioniodi/sitegr/pull/85">Σύνδεσμος αιτήματος ενσωμάτωσης (pull request)</a>
+### <a href="https://hopeful-lamport-27750c.netlify.app/courses/info-privacy-policies-and-enhancing-tech/">Σύνδεσμος netlify</a>
+
 
 
 ## <a name="P4">Παραδοτέο 4</a>
