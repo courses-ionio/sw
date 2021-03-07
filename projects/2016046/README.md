@@ -47,3 +47,13 @@
 
 Link Bio https://p16foti.github.io/cv-1/
 Link Repository https://github.com/p16foti/cv-1
+
+# Αίτημα Ενσωμάτωσης στην Ιστοσελίδα
+
+Link Issue https://github.com/ioniodi/sitegr/issues/66
+
+Link Pull https://github.com/ioniodi/sitegr/pull/134
+
+Link Netlify https://deploy-preview-134--epic-hamilton-da9ac8.netlify.app/posts/2020/10/20/reception-event-first-year-students-of-the-department-of-informatics-2020-2021/
+
+Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts/2020-10-20-reception-event-first-year-students-of-the-department-of-informatics-2020-2021.md
