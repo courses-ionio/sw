@@ -62,13 +62,14 @@ Link Βιογραφικού   https://p16pyla.github.io/resume-sw1/
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-Link netfily https://deploy-preview-106--epic-hamilton-da9ac8.netlify.app/posts/2020/10/22/international-workshop/
 
-Link Pull Request https://github.com/ioniodi/sitegr/pull/106  
+- Δημιούργησα το Issue μου με την ανακοίνωση που επελεξα να προσθεσω
+[Link Issue](https://github.com/ioniodi/sitegr/issues/55) 
 
-Link Issue  https://github.com/ioniodi/sitegr/issues/55 
+- Στην συνέχεια δημιούργησα το αρχείο με τις απαραίτητες αλλαγές και πληροφορίες
+[Link απο το αρχειο του αποθετήριου](https://github.com/p16pyla/sitegr/blob/9094ea5d724ad9b4cd8f902aceae4139b23ef40c/all_collections/_posts/2020-10-22-international-workshop.md)
 
-Link Αποθετήριου  https://github.com/p16pyla/sitegr/tree/2016136/all_collections     
+- Αφού πήρα το green light έκανα Pull Request [Link Pull Request](https://github.com/ioniodi/sitegr/pull/106) για να γίνουν check οι αλλαγές και οι πληροφορίες που έκανα προσθέτοντας το λινκ από το netfily [Link netfily](https://deploy-preview-106--epic-hamilton-da9ac8.netlify.app/posts/2020/10/22/international-workshop/) 
 
 # Απαντήσεις στο βίντεο quiz της 3ης εβδομαδας Alan Kay computing Simply <<πρόβλημα με το submit>> 
 
