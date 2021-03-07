@@ -8,7 +8,7 @@
 | --- | --- |
 | 1st | [Introduction](#Introduction) |
 | 2nd | [CV](#CV) |
-| 3rd | Pull request @ CSCW website/other project  |
+| 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
 | 4th | Command-line exercise |
 | 5th | Participatory content |
 | 6th | Command-line exercise |
@@ -31,3 +31,9 @@ In that regard, some personal pursuits are set:
 ### CV
 Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
 Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).
+
+### Collaborative-DEV
+#### [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITEGR](https://github.com/ioniodi/sitegr)
+| Issue                                              	| PR                                                   	| Demo                                                                  	| Branch(es)                                                                                                                	|
+|----------------------------------------------------	|------------------------------------------------------	|-----------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------	|
+| [#61](https://github.com/ioniodi/sitegr/issues/61) 	| SG: [#91](https://github.com/ioniodi/sitegr/pull/91) 	| [Timetable](https://tender-shaw-215180.netlify.app/timetables/sem_8/) 	| [provopoulos/sitegr@sem8_2021](https://github.com/provopoulos/sitegr/blob/sem8_2021/all_collections/_timetables/sem_8.md) 	|
