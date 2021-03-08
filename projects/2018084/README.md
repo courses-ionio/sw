@@ -34,10 +34,10 @@ Repository link: https://github.com/Icelandan/bio
 
 ## <a name="P-2">Παραδοτέο 2</a>
 ### Άσκηση: Αίτημα ενσωμάτωσης στην ιστοσελίδα
-**Προσθήκη:** Προσθήκη Ανακοίνωσης: «Αναστολή των εκ του σύνεγγυς εκπαιδευτικών λειτουργιών του Ιονίου Πανεπιστήμιου από 11.3.2020 έως και 24.3.2020 για την πρόληψη εξάπλωσης του κορωνοϊού.»
-**Link ανακοίνωσης:** https://di.ionio.gr/gr/news/13802/
-**Netlify link:** https://6045116bf64f7018f17378dd--focused-turing-729002.netlify.app/
-**Issue link:** https://github.com/ioniodi/sitegr/issues/136
+**Προσθήκη:** Προσθήκη Ανακοίνωσης: «Αναστολή των εκ του σύνεγγυς εκπαιδευτικών λειτουργιών του Ιονίου Πανεπιστήμιου από 11.3.2020 έως και 24.3.2020 για την πρόληψη εξάπλωσης του κορωνοϊού.»<br />
+**Link ανακοίνωσης:** https://di.ionio.gr/gr/news/13802/ <br />
+**Netlify link:** https://6045116bf64f7018f17378dd--focused-turing-729002.netlify.app/ <br />
+**Issue link:** https://github.com/ioniodi/sitegr/issues/136 <br />
 **Pull request link:** 
 
 ## <a name="P-3">Παραδοτέο 3</a>
