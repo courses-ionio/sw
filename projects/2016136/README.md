@@ -47,7 +47,9 @@
 
 [Link Repository](https://github.com/p16pyla/cv-1) 
 
-[Link Βιογραφικού](https://p16pyla.github.io/cv-1/)
+[Link Βιογραφικού](https://p16pyla.github.io/cv-1/) 
+
+[Link Asciinema](https://asciinema.org/a/ak8CxOWnEe4WbNgREDJmAqN2c)
 
   - Git Hub Bio (μια δέυτερη προσπάθεια)
    
