@@ -49,14 +49,14 @@
 
 [Link Βιογραφικού](https://p16pyla.github.io/cv-1/)
 
-  - Git Hub Bio
+  - Git Hub Bio (μια δέυτερη προσπάθεια)
    
   [Link Repository](https://github.com/p16pyla/modern-resume-theme/tree/2016136)
   
   [Link Βιογραφικού](https://p16pyla.github.io/modern-resume-theme/)
 
 
-  - Git Hub Bio (αποτυχημένη προσπάθεια)
+  - Git Hub Bio (μια πρώτη προσπάθεια)
 
 [Link Repository](https://github.com/p16pyla/resume-sw1)
 
