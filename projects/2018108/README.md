@@ -78,3 +78,9 @@ O ορισμός της τεχνολογίας λογισμικού για το�
 **Pull Request:** https://github.com/ioniodi/sitegr/pull/59
 
 **Demo:** https://peaceful-torvalds-02fd7d.netlify.app
+
+## 4. Άσκηση γραμμής εντολών
+
+create a docker image for your development stack
+
+[![asciicast](https://asciinema.org/a/397673.svg)](https://asciinema.org/a/397673)
