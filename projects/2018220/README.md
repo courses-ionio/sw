@@ -34,3 +34,9 @@
 
 ### [Σύνδεσμος αποθετηρίου CV](https://github.com/cyclenikolaos/cv)
 ### [Εκτελέσιμο του βιογραφικού μου](https://cyclenikolaos.github.io/cv/)
+
+## <a name="Παραδοτέο 3¨>Παραδοτέο 3</a>
+Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
+###  Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
+### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/87#pullrequestreview-606593660)
+### [Εκτελέσιμο](https://hopeful-rosalind-f96cf5.netlify.app/people/)
