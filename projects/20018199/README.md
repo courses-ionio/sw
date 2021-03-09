@@ -32,5 +32,6 @@
 ### Παραδοτέο 3
 - Άνοιξα [issue](https://github.com/ioniodi/sitegr/issues/115) για ανάθεση εργασίας
 - Έκανα [fork](https://github.com/polycarpos/sitegr) το repository του site
+- To link του [netlify](Πρόσθεσα το link του netlify και τρέχει κανονικά) και τρέχει κανονικά
 - Δημιούργισα καινούργιο branch και καινουργιο αρχείο μεσα στο φάκελο _posts και μέσα στο αρχείο έγραψα την ανακοίνωση [file](https://github.com/polycarpos/sitegr/blob/2018199/all_collections/_posts/2020-11-28-dieukrinisi-akadimaikon-tautotiton.md)
 - Προχώρησα σε [pull request](https://github.com/ioniodi/sitegr/pull/129) 
