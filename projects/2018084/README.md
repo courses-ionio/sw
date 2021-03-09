@@ -38,7 +38,7 @@ Repository link: https://github.com/Icelandan/bio
 **Link ανακοίνωσης:** https://di.ionio.gr/gr/news/13802/ <br />
 **Netlify link:** https://6045116bf64f7018f17378dd--focused-turing-729002.netlify.app/ <br />
 **Issue link:** https://github.com/ioniodi/sitegr/issues/136 <br />
-**Pull request link:** 
+**Pull request link:** https://github.com/ioniodi/sitegr/pull/147
 
 ## <a name="P-3">Παραδοτέο 3</a>
 ### Άσκηση: 
