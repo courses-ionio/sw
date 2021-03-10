@@ -26,7 +26,7 @@
 
 ### <a name="P-1">Βιογραφικό</a>
 
-### [Βιογραφικό](https://p17kots.github.io/cv/)
+### [Εκτελέσιμο](https://p17kots.github.io/cv/)
 ### [Αποθετήριο](https://github.com/p17kots/cv)
 
 Για την πλήρη υλοποίηση του βιογραφικού χρησιμοποιήθηκαν τα εξής εργαλεία: github-pages,jekyll,latex,padoc.Πιο συγκεκριμένα,έγινε χρήση [αυτού](https://github.com/sproogen/modern-resume-theme) του αποθετηρίου σαν φόρμα βιογραφικού,το οποίο βασίζεται στο jekyll.Το βιογραφικό παρέχεται και σε μορφή [PDF](https://p17kots.github.io/cv/cv.pdf),μέσω της σελίδας.
@@ -55,12 +55,11 @@ $ pandoc {link} -f html-native_divs -o cv.pdf --pdf-engine=xelatex
 του πανεπιστημίου.Στο πρώτο κομμάτι της εργασίας το ζητούμενο ήταν να κάνουμε προσθήκη δεδομένων.Έτσι,πρόσθεσα
 στην σελίδα των μαθημάτων το μάθημα επιλογής Στ' εξαμήνου "Στοχαστική ανάλυση δεδομένων".Το αίτημα ενσωμάτωσης έγινε εν τέλη δεκτό στο κεντρικό αποθετήριο. 
 
-[Εκτελέσιμο λινκ πρώτης προσθήκης](https://friendly-mirzakhani-6741df.netli
-fy.app/courses/stochastic-data-analysis/)
+[Εκτελέσιμο λινκ πρώτης προσθήκης](https://friendly-mirzakhani-6741df.netlify.app/courses/stochastic-data-analysis/)
 
 ### <a name="P-3">1η Άσκηση γραμμής εντολών</a>
 
-		#### Τίτλος:set-up continuous integration
+### Set-up continuous integration
 
 Στην συγκεκριμένη άσκηση μας ζητήθηκε να συνδέσουμε τα αποθετήρια του βιογρα
 φικού και της ιστοσελίδας με κάποια εφαρμογή συνεχούς ενσωμάτωσης ώστε  με
@@ -71,11 +70,11 @@ fy.app/courses/stochastic-data-analysis/)
 ίσης,με κατάλληλη παραμετροποίηση,όταν πραγματοποιέιται αλλαγή στο αρχείο _c
 onfig.yml του αποθετηρίου του βιογραφικού φτιάχνεται ένα καινούριο pdf αρχ
 είο του βιογραφικού και προωθείται αυτόματα στο αποθετήριο για να ανανεώσει 
-το παλιό pdf,όπως μας ζητήθηκε σε αυτή την άσκηση.
+το παλιό pdf,όπως μας ζητήθηκε σε <a href="#P-1">αυτή</a> την άσκηση.
 
 ##### Ενδεικτικό παράδειγμα
 
-[![asciicast](https://asciinema.org/a/92or65BOC2KOXyXwh950BJ9FW)
+[![asciicast](https://asciinema.org/a/92or65BOC2KOXyXwh950BJ9FW.png)](https://asciinema.org/a/92or65BOC2KOXyXwh950BJ9FW)
 
 Tο build στο Travis CI για το συγκεκριμένο commit που έγινε η εν λόγω αλλαγή:
 
