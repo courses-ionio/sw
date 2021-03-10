@@ -41,9 +41,13 @@ email: p15kost@ionio.gr
 
 ## Παραδοτέο 2:
 
-Λινκ Βιογραφικού: https://p15kost.github.io/cv1/
+Λινκ Βιογραφικού Github Pages: https://p15kost.github.io/cv1/
+
+Λινκ Βιογραφικού Netlify: https://upbeat-neumann-6c7a6e.netlify.app/
 
 Λινκ Αποθετηρίου: https://github.com/p15kost/cv1
+
+
 
 ## Παραδοτέο 3:
 
