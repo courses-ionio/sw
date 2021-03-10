@@ -45,6 +45,21 @@ email: p15kost@ionio.gr
 
 Λινκ Αποθετηρίου: https://github.com/p15kost/cv1
 
+## Παραδοτέο 3:
+
+Για το πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα,αποφάσισα να προσθέσω μια ανακοίνωση με τίτλο "Τμήμα Πληροφορικής - Bi.H.E.Lab: Πρόγραμμα εξ Αποστάσεως Εκπαίδευσης «Ιατρική Ακριβείας με Χρήση Υπολογιστικών Βιοδεικτών»".
+Δημιούργησα ένα αρχείο .md με όνομα "2020-10-25-iatrikh_akriveia_me_xrhsh_biodeiktwn.md" και με τις απαραίτητες πληροφορίες [εδώ](https://github.com/p15kost/sitegr/tree/2015127/all_collections/_posts).Πήρα green light στο σχετικό issue που δημιούργησα και στη συνέχεια έκανα pull request.
+
+Fork της ανεπίσημης ιστοσελίδας: https://github.com/p15kost/sitegr
+
+Σχετικό issue: https://github.com/ioniodi/sitegr/issues/144
+
+Pull request: https://github.com/ioniodi/sitegr/pull/146
+
+Netlify Demo: https://jolly-nightingale-1c8cdd.netlify.app/posts/2020/10/25/iatrikh_akriveia_me_xrhsh_biodeiktwn/
+
+
+
 
 
 ## Απαντήσεις Video Quiz
