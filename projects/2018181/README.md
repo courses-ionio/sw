@@ -31,9 +31,7 @@ You can check my [CV](https://github.com/mariachlkt/cv-final).
 [Asciinema Video](https://asciinema.org/a/397011) 
  
  </br> 
- <details>
-  <summary><h3>Second Quiz</h3></summary>
- </datials>
+  ## Second Quiz
  </br>
 <details>
   <summary>Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Τεντ Νελσον και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα      τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές.</summary>
