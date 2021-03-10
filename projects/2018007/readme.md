@@ -47,8 +47,9 @@
 * Πραγματοποίησα τους απαραίτητους ελέγχους εγκυρώτητας της εργασίας μου και ζήτησα αίτημα ενσωμάτωσης στο ioniodi/sitegr, master.
 * Δημιούργησα site στο Netlify, του fork μου της σελίδας και η ανακοίνωση που πρόσθεσα, φαίνεται κανονικά και χωρίς κανένα πρόβλημα στο site.
 
-[Netlify link](https://infallible-jackson-fecc97.netlify.app/)
+[Netlify link](https://infallible-jackson-fecc97.netlify.app/posts/2021/02/11/ekdilosi-endiaferontos-mitroo-foititwn-ethaae/)
 
 Αφού πέρασα τον έλεγχο του netlify που πραγματοποιείται αυτόματα, αναμένω την θετική ανταπόκριση των συντονιστών για το τελικό βήμα που θα κλείσει το issue μου, #51.
 **Update** Πρόσθεσα στα παραπάνω bullets το site μου στο Netlify.
+**Update** Διόρθωσα το link της ιστοσελίδας στο Netlify ώστε να δείχνει στην ανακοίνωση που πρόσθεσα.
 #
