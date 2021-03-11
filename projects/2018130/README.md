@@ -37,6 +37,11 @@ link της ιστοσελίδας: [jekyll cv](https://brave-swanson-35c9b6.net
 
 link του public repository: [repository](https://github.com/sophia-ts/jekyll_cv)
 
+### [asciinema](https://asciinema.org/a/398284)
+
+[![asciicast](https://asciinema.org/a/398284.svg)](https://asciinema.org/a/398284)
+
+
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
 ## Τρίτη εβδομάδα
 
