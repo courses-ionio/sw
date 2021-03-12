@@ -51,6 +51,7 @@ Link Repository από γραμμή εντολών https://github.com/p16foti/cv
 
 Link Bio από το Github https://p16foti.github.io/modern-resume-theme/
 Link Repository από το Github https://github.com/p16foti/modern-resume-theme/tree/2016046
+
 (Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία)
 
 # Αίτημα_Ενσωμάτωσης_στην_Ιστοσελίδα
