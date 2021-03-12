@@ -29,11 +29,11 @@
 </br> 
 
 ## CV 
-You can check my [CV](https://github.com/mariachlkt/cv-final). 
+You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
 </br>
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
- 
+Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
 ## Second Quiz
 </br>
 <details>
