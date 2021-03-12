@@ -1,10 +1,11 @@
-## Προσωπικά Στοιχεία:
+## *Προσωπικά Στοιχεία*
 
-**Ονοματεπώνυμο**: Τουλουμτζής Νικήτας
+- **Ονοματεπώνυμο**: *Τουλουμτζής Νικήτας*
+- **Αριθμός Μητρώου**: *Π2015023*
+- **My Github Profile**: ***[ntouloumtzis](https://github.com/ntouloumtzis)***
 
-**ΑΜ**: Π2015023
-
-**[Github Profile](https://github.com/ntouloumtzis)**
+---
+## *Πίνακας Περιεχομένου*
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -22,13 +23,13 @@
 | <a href="#P-12">12</a> | <a href="#P-12"> Τελική αναφορά*</a> |
 
 ---
-## <a name="P-1">ΕΙΣΑΓΩΓΗ:</a>
+## <a name="P-1">*Εισαγωγή*</a>
 Μέσα στο μάθημα **Τεχνολογία Λογισμικού (SW)**, θα μελετήσουμε και θα βελτιώσουμε διαδικασίες, μεθόδους και εργαλεία, με τα οποία αναπτύσσεται ένα λογισμικό.
 Στόχος είναι να αναπτύσσουμε ένα τέτοιο λογισμικό μέσα απο ένα συνεργατικό περιβάλλον με κοινές πρακτικές και εργασίες, να μάθουμε να το εξελίζουμε, αλλά
 και να το συντηρούμε με τις απαραίτητες διαδικασίες και μεθόδους.
 
 ---
-## <a name="P-2">Βιογραφικό:</a>
+## <a name="P-2">*Βιογραφικό*</a>
 Στο πρώτο παραδοτέο του βιογραφικού απαιτείται η χρήση ενός Jekyll theme και το deployment με το github-pages. Παρακάτω είναι τα links με το αποθετήριο του βιογραφικού, όπως και το αντίστοιχο site.
 - [Αποθετήριο Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
 - [Site Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
@@ -36,8 +37,64 @@
 Προστέθηκαν οι απαραίτητες πληροφορίες και αναμένεται στο 2ο παραδοτέο να παρέχεται δυνατότητα εγκατάστασης του resume σε pdf format.
 
 ---
-## <a name="P-3">Αίτημα ενσωμάτωσης στην ιστοσελίδα:</a>
+## <a name="P-3">*Αίτημα ενσωμάτωσης στην ιστοσελίδα*</a>
 Παρακάτω φαίνονται τα απαραίτητα links για την συνεισφορά πάνω στο [sitegr](https://github.com/ioniodi/sitegr) που οδηγούν στο issue, το demo και το pull request, αντίστοιχα.
 - [Issue](https://github.com/ioniodi/sitegr/issues/67)
 - [Demo](https://stupefied-hoover-8cda64.netlify.app/courses/specialized-algorithm-topics/)
 - [Pull Request](https://github.com/ioniodi/sitegr/pull/92)
+
+---
+## <a name="P-4">*Άσκηση γραμμής εντολών*</a>
+*Η πρώτη άσκηση επιλέχθηκε από τα θέματα του [software](https://github.com/epidrome/dokey#software)*
+
+**Assignment**: *send notifications to your desktop-mobile*
+
+**Deliverables**: *send a notification when a big task completes, eg download, compiling, etc*
+
+Η υλοποίηση αυτής της άσκησης έγινε με το **ntfy** αλλά και την εφαρμογή **Telegram** στο Android. Επίσης, υπάρχουν αντίστοιχες εικόνες που αποδεικνύουν την αποστολή ειδοποιήσεων στο τέλος της άσκησης.
+
+- Προαπαιτούμενα εγκατάστασης του `ntfy`
+```
+sudo apt-get install python3-pip
+sudo pip3 install ntfy
+```
+- Προσθήκη της παρακάτω εντολής στο **.bashrc** αρχείο για το **Shell integration**
+```
+echo 'eval "$(ntfy shell-integration)"' >> ~/.bashrc
+```
+- Εγκατάσταση επιπλέον πακέτων για το `Telegram`
+```
+pip3 install ntfy[telegram]
+```
+Για τη σύνδεση με το Telegram δημιουργήθηκε, αρχικά, μια εφαρμογή (bot) μέσα από την ίδια την εφαρμογή. Στην συνέχεια, παραχωρήθηκε το απαραίτητο authentication token και με τον κατάλληλο κωδικό τα σύνδεσα μεταξύ τους.
+
+- Παρακάτω φαίνονται οι εντολές για την ένδειξη notifications στο desktop και το Telegram, αντίστοιχα. Επίσης, παρακάτω φαίνονται και τα αντίστοιχα screenshots.
+```
+ntfy send "Hello World!"
+```
+![alt text](image.jpg)
+```
+ntfy -b telegram send "Hello World!"
+```
+![alt text](image.jpg)
+
+### Ειδοποιήσεις όταν έχει τελειώσει κάποιο μεγάλο task
+Αρχικά, δημιούργησα ενα updates.sh αρχείο, ώστε να μπορώ να προσθέσω αντίστοιχες εντολές για updates και να αυτοματοποιήσω την διαδικασία με μια εντολή. Τελειώνοντας τα updates θα στέλνει ένα μήνυμα στο Telegram. 
+```
+vi updates.sh
+```
+```
+#!/bin/bash
+sudo apt update
+ntfy -b telegram send "All updates are completed!"
+```
+Να γίνει executable:
+```
+chmod +x updates.sh
+```
+Για να εκτελεστεί:
+```
+./updates.sh
+```
+- Τo link για το asciinema: [asciinema](https://asciinema.org/a/398698)
+- To screenshot για το task notification: [telegram]()
