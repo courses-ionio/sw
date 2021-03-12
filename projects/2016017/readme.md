@@ -73,6 +73,14 @@ Link Αποθετήριου
 
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
+Προσθήκη ανακοίνωσης εκδήλωσης:"Διεθνές Συνέδριο Sunbelt ΧΧVII"
+
+[Netlify link](https://604a80ef1c0a5f346e55113d--laughing-bardeen-af2a12.netlify.app/posts/2007/02/06/diethnes-sunedrio-sunbelt-xxvii/)
+
+[Pull request]()
+
+[Issue](https://github.com/ioniodi/sitegr/issues/118)
+
 ### Απαντήσεις εβδομαδιαίου quiz 
 
 
