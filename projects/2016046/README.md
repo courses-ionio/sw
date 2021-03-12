@@ -45,12 +45,12 @@
 
 # Βιογραφικό
 
-Link Bio από γραμμή εντολών https://p16foti.github.io/cv-1/
-Link Repository από γραμμή εντολών https://github.com/p16foti/cv-1
+Link Bio γραμμή εντολών https://p16foti.github.io/cv-1/
+Link Repository γραμμή εντολών https://github.com/p16foti/cv-1
 
 
-Link Bio από το Github https://p16foti.github.io/modern-resume-theme/
-Link Repository από το Github https://github.com/p16foti/modern-resume-theme/tree/2016046
+Link Bio Github https://p16foti.github.io/modern-resume-theme/
+Link Repository Github https://github.com/p16foti/modern-resume-theme/tree/2016046
 
 (Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία)
 
