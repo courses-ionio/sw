@@ -58,3 +58,6 @@
  
  #### question: Ποια είναι κάποια από τα λάθη των σύγχρονων λειτουργικών συστημάτων σύμφωνα με τον Αλαν Κέη; 
  <p> answer:    </p>
+
+
+<a href="https://asciinema.org/a/3M4J23MSPNAbKOyuVkVCHQh7n" target="_blank"><img src="https://asciinema.org/a/3M4J23MSPNAbKOyuVkVCHQh7n.svg" /></a>
