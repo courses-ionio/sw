@@ -60,9 +60,9 @@
 
 ![](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.png)
 
-[Link Αποθετήριου](https://github.com/rawmann/online-cv)
+Link Αποθετήριου
 
-[Website Link](https://rawmann.github.io/online-cv/)
+[Link](https://rawmann.github.io/online-cv/)
 
 [PDF file](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.pdf)
 
