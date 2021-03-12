@@ -66,3 +66,6 @@
 - [Adding course "Graph Theory and Applications" in the 6th semester #112](https://github.com/ioniodi/sitegr/pull/112#pullrequestreview-608424712)
 - [Προσθήκη ανακοίνωσης "15ο Διεθνές Εργαστήριο Σημασιολογικής και Κοινωνικής Μέσης Προσαρμογής & Εξατομίκευσης «SMAP 2020» (ONLINE)"#106](https://github.com/ioniodi/sitegr/pull/106#event-4431510610)
 - [Προσθήκη Πρακτικής Άσκησης #103](https://github.com/ioniodi/sitegr/pull/103#event-4423730770)
+- [Προσθήκη ανακοίνωσης "Ανακοίνωση δήλωση θέματος και τριμελούς πτυχιακής Φεβρουάριος - Μάρτιος 2021" #135](https://github.com/ioniodi/sitegr/pull/135)
+- [Αλλαγές στο μάθημα «Έξυπνα Περιβάλλοντα και Εφαρμογές» #153](https://github.com/ioniodi/sitegr/pull/153)
+- [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
