@@ -42,7 +42,11 @@ Repository link: https://github.com/Icelandan/bio
 **Pull request link:** https://github.com/ioniodi/sitegr/pull/147
 
 ## <a name="P-3">Παραδοτέο 3</a>
-### Άσκηση: 
+### Άσκηση: Άσκηση γραμμής εντολών
+
+**Κατηγορία:** Visualization <br />
+**Περιγραφή:** Visualize git commits; Display your commits from a previous course, eg hci <br />
+**Asciinema link:** https://asciinema.org/a/aM0BkuXe7uGyp2oGCEAGz2O1U
 
 ## <a name="P-4">Παραδοτέο 4</a>
 ### Άσκηση: 
