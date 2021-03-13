@@ -41,7 +41,7 @@
    - Έστειλα το [Pull Request](https://github.com/ioniodi/sitegr/pull/126)!
    
 # 1η άσκηση γραμμής εντολών
-  Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python. Το λινκ είναι [εδώ](https://asciinema.org/a/utLl6Z3ZmLRgvncDsU0VzdHqR).
+  Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python. Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
 
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
