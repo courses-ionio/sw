@@ -30,15 +30,15 @@
 ### <a name="Παραδοτέο 2">Παραδοτέο 2</a>
 ### ΒΙΟΓΡΑΦΙΚΟ
 Δημιουργία βιοργαφικού σημειώματος
-## [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
-## [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
+#### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
+#### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 
 
 ### <a name="Παραδοτέο 3">Παραδοτέο 3</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα  
 Προσθήκη περιεχομένου στην ιστοσελίδα του τμήματος. Εγίνε προσθήκη του ΕΔΙΠ του τμήματος Γιώργου Κατωμερη.
-## [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/86)
-## [Εκτελέσιμο Netlify](https://sleepy-northcutt-a221a8.netlify.app/people/katomeris/)
+#### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/86)
+#### [Εκτελέσιμο Netlify](https://sleepy-northcutt-a221a8.netlify.app/people/katomeris/)
 
 ### <a name="Παραδοτέο 4">Παραδοτέο 4</a>
 ### Άσκηση γραμμής εντολών: set-up continuous integration
