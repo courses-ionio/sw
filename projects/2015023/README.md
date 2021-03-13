@@ -88,11 +88,11 @@ vi updates.sh
 sudo apt update
 ntfy -b telegram send "All updates are completed!"
 ```
-Να γίνει executable:
+- Να γίνει executable:
 ```
 chmod +x updates.sh
 ```
-Για να εκτελεστεί:
+- Για να εκτελεστεί:
 ```
 ./updates.sh
 ```
