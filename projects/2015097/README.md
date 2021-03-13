@@ -33,3 +33,5 @@
 [mdfile](https://github.com/p15anez/sitegr/blob/2015097/all_collections/_posts/2021-02-22-Diavouleusi-sxedio-eswterikou-kanonismou.md)
 [issuelink](https://github.com/ioniodi/sitegr/issues/34)
 [netlifylink](https://wizardly-noyce-934f26.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
+
+https://asciinema.org/a/0Z40jw8Y8Y026g6Qil7MPZMoI
