@@ -7,7 +7,7 @@
 | 1 | [Eισαγωγή](#Εισαγωγή) |
 | 2 | [Βιογραφικό 1](#Βιογραφικό-1) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα 1](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) |
-| 4 | Άσκηση γραμμής εντολών |
+| 4 | [Άσκηση γραμμής εντολών 1](#Άσκηση-γραμμής-εντολών-1) |
 | 5 | Συμμετοχικό περιεχόμενο |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
@@ -34,4 +34,6 @@
 [issuelink](https://github.com/ioniodi/sitegr/issues/34)
 [netlifylink](https://wizardly-noyce-934f26.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
 
-https://asciinema.org/a/0Z40jw8Y8Y026g6Qil7MPZMoI
+# Άσκηση γραμμής εντολών 1
+
+[asciinemalink](https://asciinema.org/a/0Z40jw8Y8Y026g6Qil7MPZMoI)
