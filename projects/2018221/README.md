@@ -50,7 +50,7 @@
 
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/398838)
 
-![Screenshot]()
+![Screenshot](ΕΡΓΑΣΙΑ_1.png)
 
 
 
