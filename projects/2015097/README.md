@@ -31,9 +31,11 @@
 Για την ολοκλήρωση του αιτήματος ενσωμάτωσης δημιούργησα ένα νέο προτεινόμενο issue για προσθήκη ανακοίνωσης. Μετά τον χαρακτηρισμό του αιτήματος με green light δημιούργησα και προσέθεσα το κατάλληλο αρχείο .md στον φάκελο των ανακοινώσεων. Στη συνέχεια έκανα deploy το site του αποθετηρίου μου μέσω netlify. Στη συνέχεια κατέθεσα το αίτημα ενσωμάτωσης με όλες τις απαραίτητες πληροφορίες για έγκριση της προσθήκης που προτάθηκε. Για την εκπόνηση της άσκησης με βοήθησε πολύ η προηγούμενη εμμπειρία που είχα με το netlify και το github η οποία αποκτήθηκε κατά τη διάρκεια της συμμετοχής μου στο μάθημα hci. Η γνώση αυτή που επέτρεψε να ολοκληρώσω το παραδοτέο γρήγορα και χωρίς κανένα πρόβλημα.
 
 [mdfile](https://github.com/p15anez/sitegr/blob/2015097/all_collections/_posts/2021-02-22-Diavouleusi-sxedio-eswterikou-kanonismou.md)
-[issuelink](https://github.com/ioniodi/sitegr/issues/34)
-[netlifylink](https://wizardly-noyce-934f26.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
+[Ιssuelink](https://github.com/ioniodi/sitegr/issues/34)
+[Νetlifylink](https://wizardly-noyce-934f26.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
 
 # Άσκηση γραμμής εντολών 1
+Για την ολοκλήρωση της πρώτης άσκησης γραμμής εντολών έκανα συγχρονισμό του github με το ένα καινούργιο υπολογιστή linux, δημιούργησα ένα καινούργιο ssh κλειδί το οποίο προσέθεσα στο λογαριασμό μου στο github, αντέγραψα το αποθετήριο στο οποίο έχω το [βιογραφικό μου](https://github.com/p15anez/cv-1) και στη συνέχεια επεξεργάστηκα ενδεικτικά το αρχείο index.html του βιογραφικού. Μετά τις αλλαγές, ακολούθησα την διαδικασία αποστολής των αρχείων που επεξεργάστηκα στο κεντρικό αποθετήριο του github. Εν κατακλείδι, έλεγξα στη σελίδα του Netlify αν εμφανίστηκαν οι αλλαγές.
 
-[asciinemalink](https://asciinema.org/a/0Z40jw8Y8Y026g6Qil7MPZMoI)
+[Αsciinemalink](https://asciinema.org/a/0Z40jw8Y8Y026g6Qil7MPZMoI)
+[Github Pages Link](https://p15anez.github.io/cv-1/)
