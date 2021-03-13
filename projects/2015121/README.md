@@ -24,7 +24,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 | 1 | <sup><a href="#1"> Προσωπικοί μου στόχοι για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> βιογραφικό </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
-| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών </a></sup> |
+| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> |
 | 7 | <sup><a href="#7"> βιογραφικό </a></sup> |
