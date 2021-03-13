@@ -9,7 +9,7 @@
 |**First** |[Introduction](#Introduction) |
 |**Second** | [CV](#CV) |
 |**Third** |  **Integration Into Website** |
-|**Fourth**|  **Command-line Exercise** |
+|**Fourth**|  Command-line Exercise(#Command-line Exercise) |
 |**Fifth** |  **Participatory Content** |
 |**Sixth** |  **Command-line Exercise** |  
 |**Seventh** | **CV**|
@@ -34,6 +34,20 @@ You can check my [CV](https://mariachlkt.github.io/resume-sw/).
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
+
+
+## Command-line Exercise
+
+**First Deliverable:** 
+  </br> 
+  Send notifications to your desktop-mobile
+  </br>
+    * [Asciinema Video](https://asciinema.org/a/398905)
+    </br>
+    * Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4)
+       
+    
+
 ## Second Quiz
 </br>
 <details>
