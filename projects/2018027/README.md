@@ -150,4 +150,10 @@ Windows όπου υπάρχει πακετάρισμα και τεχνολογί
 
 link:https://mariaxristinapapatheodwrou.github.io/online-cv/
 
+# Εργασίες Γραμμής Εντολών - Απο την κατηγορία software 
 
+-- Άσκηση 1 --  
+
+Εκφώνηση: set-up continuous integration - build and deploy your static site and your cv dynamically every time you make a small change in the source files - github travis netlify
+Διαδικασία: Σε αυτό το βίντεο φαίνεται η διαδικασία δημιουργίας και δυναμικής ανάπτυξης ενός στατικού ισοτόπου και του βιογραφικού μου κάθε φορά που πραγματοποιείται μια μικρή αλλαγή στα αρχεία προέλευσης. Η διαδικασία είναι η εξής: Αρχικά συγχρόνισα το git με έναν νέο υπολογιστή. Αντέγραψα το αποθετήριο (git@github.com:MariaXristinaPapatheodwrou/online-cv.git ) του βιογραφικού. Μετά τις αλλαγές έγινε μια διαδικασία επαναποστολής των data και επεξεργασίας στο κεντρικό αποθετήριο του github. Έγιναν αλλαγές όπως οι γλώσσες ομιλίας, πρόσθεσα το προφίλ μου στο github στο βιογραφικό κλπ Τέλος έκανα έλεγχο στην σελίδα του netlify αν έγιναν οι αλλαγές.
+link: https://asciinema.org/a/398785
