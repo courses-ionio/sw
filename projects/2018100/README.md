@@ -40,3 +40,6 @@
 #### 4. Βιντεο (bret-victor-future-programming)
 
 - 
+- 
+- 
+- 
