@@ -127,7 +127,7 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 Ως objective για το Παραδοτέο 3, επέλεξα την προσθήκη της ανακοίνωσης "Μνημόνιο Συνεργασίας της Αγροδιατροφικής Σύμπραξης
 Περιφέρειας Ιονίων Νήσων και του Εργαστηρίου Υπολογιστικής Μοντελοποίησης του Ιονίου Πανεπιστημίου" που δημοσιεύτηκε στις 08-01-2021
 στο επίσημο site του τμήματος. Αφού έλαβα **green light** στο issue, δημιούργησα το κατάλληλο αρχείο **.md** και στη συνέχεια
-προχώρησα σε **pull request** αυτού.
+προχώρησα σε **pull request** αυτού. Το pull request έγινε επιτυχώς δεκτό.
 
 **Προσωπικό αποθετήριο αιτήματος**: https://github.com/apostoloskp/sitegr/tree/2015121
 
@@ -136,7 +136,6 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 **Link του issue**: https://github.com/ioniodi/sitegr/issues/26
 
 **Link του pull request**: https://github.com/ioniodi/sitegr/pull/57
-
 
 ## Απαντήσεις στις ερωτήσεις του 3ου quiz:
 
@@ -167,6 +166,28 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 
 ###### [4]
 
+Link με το asciinema για παραδείγματα notification του ntfy: https://asciinema.org/a/398776
+
+Link με το asciinema για setup και σύνδεση Telegram: https://asciinema.org/a/398787
+
+## Βήματα:
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή sudo apt-get install pip / sudo pip install ntfy. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Στη συνέχεια, με την εντολή **ntfy send 'Welcome'**, εμφανίζεται η πρώτη ειδοποίηση. Ακολουθούν με τη σειρά οι εντολές **notify-send --urgency=LOW "Hello there"** και **notify-send --urgency=CRITICAL "Time to test Telegram notifications"**, όπου στη μονάδα urgency θέτουμε **LOW** και **CRITICAL** αντίστοιχα και παρατηρούμε πως αλλάζει το εικονίδιο πριν το κείμενο κάθε φορά(όπως φαίνεται στις παρακάτω εικόνες). Με την εντολή **ntfy done sleep 10** ρυθμίζεται ένα timer για 10 seconds και μας εμφανίζεται το αντίστοιχο notification. Σε αυτό το σημείο θα ρυθμίσουμε τα notifications για το Telegram στο κινητό. Αυτό επιτυγχάνεται μέσω της εντολής **ntfy -b telegram send "Telegram configured for ntfy"**. Μας αναφέρει πως θα πρέπει να μιλήσουμε στο BotFather από τη συσκευή μας για να δημιουργήσουμε αρχικά ένα νέο chat bot. Πληκτρολογώ **/newbot**, θέτω ως όνομα Ionio-sw και ως username Ionio_bot και το bot είναι έτοιμο(όπως φαίνεται στις παρακάτω εικόνες). Θα μας επιστρέψει ένα token το οποίο πρέπει να κάνω paste στο terminal για να ολοκληρωθεί η σύνδεση. Πλέον μπορώ να στέλνω ειδοποιήσεις κατευθείαν στην εφαρμογή.
+Ολοκλήρωσα το asciicast με την εντολή **exit**.
+
+**Αποτελέσματα:**
+
+![hellothere](https://github.com/apostoloskp/sw-images/blob/main/hellothere.png)
+
+![timeto](https://github.com/apostoloskp/sw-images/blob/main/timeto.png)
+
+![sleep](https://github.com/apostoloskp/sw-images/blob/main/sleep.png)
+
+![botfather](https://github.com/apostoloskp/sw-images/blob/main/createbot.png)
+
+![token](https://github.com/apostoloskp/sw-images/blob/main/token.png)
+
+![thanksfw](https://github.com/apostoloskp/sw-images/blob/main/thanksfw.png)
+
 ## Απαντήσεις στις ερωτήσεις του 4ου quiz:
 
 1) **Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία.**
@@ -189,7 +210,6 @@ assets/images και στην αλλαγή του χρώματος του θέμ
    Υπεύθυνοι για το προγραμματιστικό δόγμα των ημερών μας αποτελούν οι προγραμματιστές προηγούμενης γενιάς που μετέδωσαν τις γνώσεις τους χωρίς
    να έχουν διδαχθεί τρόπο σκέψης, καθώς και κανένα από τα πορίσματα του Victor με αποτέλεσμα να σκέφτονται μονοδιάστατα και με την εντύπωση πως 
    γνωρίζουν τα πάντα γύρω από τον προγραμματισμό.
-
 
 ###### [5]
 ###### [6]
