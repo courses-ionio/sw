@@ -68,5 +68,6 @@
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/399052)
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 2](https://asciinema.org/a/399058)
 
-![Screenshot](ΕΡΓΑΣΙΑ.png)
+![Screenshot](cli-1.png)
+![Screenshot](cli-2.png)
 
