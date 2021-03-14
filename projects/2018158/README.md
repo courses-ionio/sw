@@ -31,3 +31,18 @@
 **Link προς την σελίδα του βιογραφικού:** https://AntonyPapako.github.io/CV
 
 **Link προς το repository:** https://github.com/AnTonyPapako/CV
+
+### Παραδοτέο 3
+
+### Παραδοτέο 4
+Άσκηση τερματικού.
+
+asciinema link: https://asciinema.org/a/399194
+
+**assignment:** send notifications to your desktop-mobile
+
+**deliverables:** send a notifcation when a big task completes, eg download, compiling, etc
+
+Φωτογραφία με τις ειδοποιήσεις από το Telegram.
+
+![image](https://user-images.githubusercontent.com/44473312/111084951-b6a8e580-851d-11eb-9dec-a878ef68f31a.png)
