@@ -55,8 +55,8 @@
 
 Στο asciinema, θα επισκεφθώ πρώτα την ιστοσελίδα μου για να δείξω το αρχικό περιεχόμενο της. Έπειτα θα κάνω μια μικρή αλλαγή σε ένα yaml αρχείο και έπειτα θα το κάνω commit και push στο main branch. Μετά θα επισκεφθώ ξανά το site μου για να φανεί η αλλαγή που έγινε ζωντανά. Επειδή έχω το μικρό idle time ίσως χρειαστεί pause σε κάποια σημεία για να δείτε τις διαφορές πριν και μετά τα commits.
 
-Link asciinema: https://asciinema.org/a/399146
+- Link asciinema: https://asciinema.org/a/399146
 
-Link ιστοσελίδας βιογραφικού: https://vgcv.netlify.app
+- Link ιστοσελίδας βιογραφικού: https://vgcv.netlify.app
 
-Link αποθετηρίου: https://github.com/vxsilis/4oCV
+- Link αποθετηρίου: https://github.com/vxsilis/4oCV
