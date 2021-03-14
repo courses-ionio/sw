@@ -70,3 +70,4 @@
 - [Αλλαγές στο μάθημα «Έξυπνα Περιβάλλοντα και Εφαρμογές» #153](https://github.com/ioniodi/sitegr/pull/153)
 - [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
 - [Προσθήκη ΕΔΙΠ Προσωπικού : Σωτηροπούλου Άννα](https://github.com/ioniodi/sitegr/pull/108)
+- [Add course "Distributed Network Systems" #113](https://github.com/ioniodi/sitegr/pull/113)
