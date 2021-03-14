@@ -43,5 +43,5 @@
 ### [Εκτελέσιμο](https://hopeful-rosalind-f96cf5.netlify.app/people/)
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
-### <a href="#P">1η άσκηση γραμμής εντολών</a>
+### <a>1η άσκηση γραμμής εντολών</a>
 &nbsp;&nbsp;
