@@ -37,3 +37,18 @@ https://pedantic-almeida-69bf4a.netlify.app/courses/graph-theory-and-application
 Οι αλλαγές που έκανα στα αρχεία φαίνονται στα commit του pull request που έκανα: https://github.com/ioniodi/sitegr/pull/112
 
 Note: Το συγκεκριμένο παραδοτέο το έκανα αργά commit στο συγκεκριμένο αποθετήριο, διότι περίμενα την ορθή έγγριση του Pull Request που δημιούργησα για να βεβαιωθώ ότι θα γίνουν οι αλλαγές αυτές. Για τα πρακτικά αναφέρω ότι το pull request έγινε στην ώρα του.
+
+
+## <a name="P">ΠΑΡΑΔΟΤΕΟ 4 - Πρώτη άσκηση τερματικού:</a>
+
+Εκφώνηση άσκησης: "Send notifications to your desktop-mobile"
+
+asciinema link: https://asciinema.org/a/399181
+
+Κατά την διάρκεια της πρώτης άσκησης τερματικού, παρουσίασα ένα παράδειγμα διαφορετικής μορφοποίησης ανάλογα με το είδος της ειδοποίησης (σημαντική-ασήμαντη) και έτρεξα μέσω terminal ένα internet speed test, το οποίο έδειχνε τα αποτελέσματα με 3 notifications - ένα για την καθυστέρηση (ms), ένα για το download speed (mb/s) και ένα για το upload speed (mb/s). Το βασικό παράδειγμά μου όμως αποτελούσαι η αποστολή notifications σε υπολογιστή και κινητό, χρησιμοποιώντας την εφαρμογή μηνυμάτων telegram, η οποία ήταν κατεβασμένη τόσο στον υπολογιστή όσο και στο κινητό. Το παραπάνω επιτεύχθηκε δημιουργώντας ένα μποτάκι (bot) στο telegram (/newbot) το οποίο έχει μία μοναδική τιμή (API key) η οποία μάλιστα αποτελεί και παράμετρο της εντολής **ntfy -b telegram send** για τον εντοπισμό του telegram account μου. Παρακάτω φένοτναι τα notifications:
+
+### Mobile phone notification
+<img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/44473403/111084709-6da46180-851c-11eb-8c46-3da6336e8c1b.jpg">
+
+### Desktop notification
+![screenshot telegram PC](https://user-images.githubusercontent.com/44473403/111084716-7137e880-851c-11eb-88a6-7b3571112b9f.png)
