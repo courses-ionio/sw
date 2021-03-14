@@ -6,7 +6,7 @@
 | 1 |[Eισαγωγή](#Εισαγωγή) |
 | 2 | [Βιογραφικό](#Βιογραφικό) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα_ενσωμάτωσης_στην_ιστοσελίδα) |
-| 4 | Άσκηση γραμμής εντολών |
+| 4 | [Άσκηση γραμμής εντολών](#Άσκηση_γραμμής_εντολών) |
 | 5 | Συμμετοχικό περιεχόμενο |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
@@ -54,7 +54,7 @@ Link Repository Github https://github.com/p16foti/modern-resume-theme/tree/20160
 
 (Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία)
 
-# Αίτημα_Ενσωμάτωσης_στην_Ιστοσελίδα
+# Αίτημα_ενσωμάτωσης_στην_ιστοσελίδα
 
 Link Issue https://github.com/ioniodi/sitegr/issues/66
 
@@ -63,3 +63,8 @@ Link Pull https://github.com/ioniodi/sitegr/pull/134
 Link Netlify https://deploy-preview-134--epic-hamilton-da9ac8.netlify.app/posts/2020/10/20/reception-event-first-year-students-of-the-department-of-informatics-2020-2021/
 
 Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts/2020-10-20-reception-event-first-year-students-of-the-department-of-informatics-2020-2021.md
+
+# Άσκηση_γραμμής_εντολών
+
+Link Asciinema https://asciinema.org/~p16foti
+(Ξεκινησα με το ntfy,μετα εστειλα ενα μηνυμα(test) να το τσεκαρω,επειτα  προσθεσα το user key που πηρα απο το pushover και κατεβασα το gimp)
