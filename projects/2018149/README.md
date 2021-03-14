@@ -69,3 +69,4 @@
 - [Προσθήκη ανακοίνωσης "Ανακοίνωση δήλωση θέματος και τριμελούς πτυχιακής Φεβρουάριος - Μάρτιος 2021" #135](https://github.com/ioniodi/sitegr/pull/135)
 - [Αλλαγές στο μάθημα «Έξυπνα Περιβάλλοντα και Εφαρμογές» #153](https://github.com/ioniodi/sitegr/pull/153)
 - [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
+- [Προσθήκη ΕΔΙΠ Προσωπικού : Σωτηροπούλου Άννα](https://github.com/ioniodi/sitegr/pull/108)
