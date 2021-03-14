@@ -1,11 +1,3 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 ## ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
 ### Χρήστος Μήλιος
 ### ΑΜ: Π2018219
