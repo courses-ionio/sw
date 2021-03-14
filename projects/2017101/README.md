@@ -25,3 +25,8 @@ AM:2017101
 
 βιογραφικό
 Link: https://koutsokostas.github.io/online-cv/
+
+1Η Άσκηση γραμμής εντολών
+
+send notifications to your desktop-mobile
+Link: https://asciinema.org/a/398841
