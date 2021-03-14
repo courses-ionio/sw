@@ -28,6 +28,8 @@ In that regard, some personal pursuits are set:
 * Employ the right combination of methodologies, tools and procedures to support safe, reliable and efficient human-centered design in a selected software environment
 * Enhance workflow productivity with DE setup automation
 
+### Weekly Video Quizzes
+Answers to the weekly quizzes can be found at [this](https://github.com/provopoulos/sw/blob/quizzes-2018017/projects/2018017/README.md) external report.
 ### CV
 Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
 Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).
