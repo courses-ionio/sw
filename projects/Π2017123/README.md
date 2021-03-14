@@ -59,3 +59,11 @@ class structures και ήταν πιο δυνατό εργαλείο απο τ�
 #### link για το netlify: https://hopeful-kirch-fdd868.netlify.app/
 Η αλλαγή αφορά την προσθήκη μιας ανακοίνωσης 
 link για το issue: https://github.com/ioniodi/sitegr/pull/135
+
+### 4o Παραδοτέο 14/03/2021
+#### asciinema link: https://asciinema.org/a/399104
+Εντολές που χρησιμοποιήθηκαν: Με την εντολή ntfy send "message" έρχεται μία ειδοποίηση με το μήνυμα message,  Ntfy -t Title προσθέτεις τίτλο στην ειδοποίηση , ntfy -b telegram send "message" έστειλε ένα μήνυμα "message" σε ένα bot που έφτιαξα στο telegram  και μου ήρθε  link για το bot: https://telegram.me/alexandrosLoukas_bot. Έπειτα φτιάχνω ένα αρχείο με όνομα test. Το περιχόμενό του εκτελέι την εντολή sudo apt-get install temux και δημιουργεί μία ειδοποίηση αφού εκτελεστεί. Τέλος εκτελώ speedtest-cli --simple | while read st_info; do ntfy send  "$st_info"; done.
+![LinuxGif](https://user-images.githubusercontent.com/44093798/111082776-accdb500-8512-11eb-965f-497119b5762b.gif)
+
+
+
