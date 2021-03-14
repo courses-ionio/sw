@@ -19,22 +19,22 @@
 | 12 | <a href="#P12">Τελική αναφορά</a> |
   &nbsp;&nbsp;
 ## <a name="P1">Παραδοτέο 1</a>
-## <a href="#P">Εισαγωγή</a>
+### <a href="#P">Εισαγωγή</a>
 Η τεχνολογία λογισμικού σκοπό έχει την ανάπτυξη προγραμμάτων ως αυτόνομες οντότητες ή ως τμήματα μίας συνεργατικής διαδικασίας. Στόχος μου είναι να μάθω να χρησιμοποιώ εργαλεία για την ανάπτυξη εφαρμογών και να μάθω να οργανώνω τον τρόπο εργασίας μου σύμφωνα και με τις τεχνολογικές εξελίξεις και απαιτήσεις είτε δουλεύοντας κατά μόνας είτε ομαδικά.
 &nbsp;&nbsp;
 ## <a name="P2">Παραδοτέο 2</a>
-## <a href="#P">Βιογραφικό</a>
+### <a href="#P">Βιογραφικό</a>
    - <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
    - <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
 &nbsp;&nbsp;
 ## <a name="P3">Παραδοτέο 3</a>
-## <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
+### <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
    - <a href="https://github.com/ioniodi/sitegr/issues/36">Σύνδεσμος δημιουργίας issue</a>
    - <a href="https://github.com/ioniodi/sitegr/pull/85">Σύνδεσμος αιτήματος ενσωμάτωσης (pull request)</a>
    - <a href="https://hopeful-lamport-27750c.netlify.app/courses/info-privacy-policies-and-enhancing-tech/">Σύνδεσμος netlify</a>
 &nbsp;&nbsp;
 ## <a name="P4">Παραδοτέο 4</a>
-## <a href="#P">1η άσκηση γραμμής εντολών - Set-up continuous integration</a>
+### <a href="#P">1η άσκηση γραμμής εντολών - Set-up continuous integration</a>
    - <a href="https://p18mili1.github.io/MyCV/">Σύνδεσμος github pages site deployment</a>
    - <a href="https://asciinema.org/a/399170">Σύνδεσμος καταγραφής Asciinema</a>
    - <a href="https://p18mili1.netlify.app">Σύνδεσμος netlify site deployment</a> (υπάρχει κάποιο πρόβλημα με το index.html το οποίο δεν έχω λύσει ακόμη).
