@@ -126,3 +126,13 @@ Send notifications to your desktop-mobile
 [ScreenShotPc](https://github.com/p16pyla/sw/blob/2016136/projects/screenshotpc.png)
 
 [ScreenShootPhone](https://github.com/p16pyla/sw/blob/2016136/projects/screenshotphone.jpg)
+
+
+
+
+
+
+
+
+
+Τα quiz των εβδομάδων : 1,4      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
