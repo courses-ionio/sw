@@ -43,5 +43,7 @@
 ### [Εκτελέσιμο](https://hopeful-rosalind-f96cf5.netlify.app/people/)
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
-### <a>1η άσκηση γραμμής εντολών</a>
-&nbsp;&nbsp;
+## 1η άσκηση γραμμής εντολών</a>
+
+Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
+### [asciinema link](https://asciinema.org/a/399140)
