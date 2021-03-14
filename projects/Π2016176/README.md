@@ -81,7 +81,7 @@ Nα δώσετε παράδειγμα από την προσωπική σας ε
 Σύμφωνα με τον Άλαν Κέη τα λάθη στα σύγχρονα λειτουργικά είναι η χρήση των semaphores και των monitor τα οποία μπορούν να προκαλέσουν πολλών ειδών bottlenecks και lockups
 <br>
 
-#Εργασία γραμμής εντολών 1 : Βδομάδα 4η<br>
+# Εργασία γραμμής εντολών 1 : Βδομάδα 4η<br>
 send notifications to your desktop-mobile with ntfy.<br>
 asciinema: https://asciinema.org/a/399030 <br>
 notifications gif: https://gifyu.com/image/ajd4
