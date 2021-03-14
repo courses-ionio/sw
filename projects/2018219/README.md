@@ -35,8 +35,9 @@
 &nbsp;&nbsp;
 ## <a name="P4">Παραδοτέο 4</a>
 ## <a href="#P">1η άσκηση γραμμής εντολών - Set-up continuous integration</a>
-### - <a href="https://p18mili1.github.io/MyCV/">Σύνδεσμος github-pages deployment</a> 
-### - <a href="https://asciinema.org/a/399170">Σύνδεσμος καταγραφής Asciinema</a> 
+  ### - <a href="https://p18mili1.github.io/MyCV/">Σύνδεσμος github pages site deployment</a>
+  ### - <a href="https://asciinema.org/a/399170">Σύνδεσμος καταγραφής Asciinema</a> 
+### Λόγω της γρήφορης εξέλιξης της τεχνολογίας, απαιτείται διαφοροποίηση  στον τρόπο σκέψης του ανθρώπου, και αυτό δεν είναι εύκολα αποδεκτό από το μέσο άνθρωπο. Η εμπειρία μου από τη μετάβαση στον προγραμματισμό σε γλώσσα μηχανής με τον Ζ80 και την οικογένεια των PIC στον προγραμματισμό σε C ήταν αρκετά δύσκολη.
 &nbsp;&nbsp;
 ## <a name="P5">Παραδοτέο 5</a>
 ## <a href="#P">Συμμετοχικό περιεχόμενο</a>
