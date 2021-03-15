@@ -35,3 +35,7 @@
 - To link του [netlify](https://sad-pasteur-d16a2a.netlify.app/posts/2020/11/27/dieukrinisi-akadimaikon-tautotiton/) και τρέχει κανονικά
 - Δημιούργισα καινούργιο branch και καινουργιο αρχείο μεσα στο φάκελο _posts και μέσα στο αρχείο έγραψα την ανακοίνωση [file](https://github.com/polycarpos/sitegr/blob/2018199/all_collections/_posts/2020-11-28-dieukrinisi-akadimaikon-tautotiton.md)
 - Προχώρησα σε [pull request](https://github.com/ioniodi/sitegr/pull/129) 
+---
+### Παραδοτέο 4
+Πρώτη άσκηση γραμμής εντολών το ntfy λειτουργούσε κανονικά όμως μετά από κάποια installs έβγαζε προβλήματα σε κάποια αρχεία που δυστυχώς δεν έχω την γνώση για να τα διορθώσω 
+[ntfy video](https://asciinema.org/a/399405) 
