@@ -31,7 +31,7 @@
 ---
 ## <a name="G">1η Άσκηση Γραμμής Εντολών</a>
  
-Θέμα: "Create a simple website with a static generator".
+Θέμα: "Set-up continuous integration".
 
 [Asciinema](https://asciinema.org/a/399210)
 
