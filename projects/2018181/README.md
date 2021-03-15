@@ -30,6 +30,7 @@ You can check my [CV](https://mariachlkt.github.io/resume-sw/).
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
+
 </br>
 
 ### PR-Site  
