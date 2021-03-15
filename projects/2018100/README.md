@@ -15,6 +15,29 @@
 Για την υλοποίηση του βιογραφικού επιλέχθηκε ένα σχετικό μορφότυπο από τα προτεινόμενα της εργασίας.  
 Καθώς δεν ήμουν ικανοποιημένος με την σειρά που είχαν τα sections του βιογραφικού τροποποίησα το αρχείο resume.html το οποίο βρίσκετε στον φάκελο layouts.
 
+## Ασκήσεις γραμμής εντολών
+
+#### 1. send notifications to your desktop-mobile
+
+Για την αποστολή ειδοποίησης στο desktop χρησιμοποιήθηκε το εργαλείο ntfy
+- Για την εγκατάσταση του ntfy χρησιμοποιήθηκε η εντολή:
+```
+sudo pip3 install ntfy
+```
+- Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε η εφαρμογή Telegram
+- Για την εγκατάσταση των πακέτων του telegram χρησιμοποιήθηκε η εντολή:
+```
+pip3 install ntfy[telegram]
+```
+- Εγκατάσταση της εφαρμογής Telegram στο smartphone και μέσο αυτής δημιουργήθηκε ενα bot με όνομα linux_my_notification_bot
+- Εισαγωγή του API αριθμού(token) του bot
+- Αποστολή ειδοποίησης κατά την ολοκλήρωση μεταφόρτωσης ενός αρχείου με την εντολή
+```
+wget [link] && ntfy -b telegram send "Download Completed"
+```
+- [asciinema link] (https://asciinema.org/a/1ZCpD1nnlvqFGEKE80ZMGhdyM)
+- [gif animation] (https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
+
 ## Bίντεο Kουίζ
 
 #### 1. Βιντεο (alan-kay-mit-eecs)
