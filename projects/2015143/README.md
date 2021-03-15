@@ -68,6 +68,16 @@
 ###### [4]
 ## Send notifications to your mobile :
 
-![](TELEGRAM.gif)
+### Διαδικασία :
+Αρχικά έφτιαξα ενα telegram bot (Miltos9_bot) στην εφαρμογή του κινητού μου όπως φαίνεται στο παρακάτω GIF.
 
+![Miltos9_bot](https://github.com/Miltos9/images/blob/master/sw/TELEGRAM.gif)
+
+Μετά έκανα merge τον Miltos9_bot με το terminal μου με τον τρόπο που παρουσιάζεται στο παρακάτω asciinema και έστειλα την απάντηση "How are you?" στο κινητό μου.
+
+### Asciinema: 
 [![asciicast](https://asciinema.org/a/399324.svg)](https://asciinema.org/a/399324)
+
+Τέλος,στην παρακάτω εικόνα φαίνεται το μήνυμα "How are you?" που έχει έρθει απο το terminal στην εφαρμογή του telegram στο κινητό μου.
+
+![](https://github.com/Miltos9/images/blob/master/sw/Telegram-end.jpg)
