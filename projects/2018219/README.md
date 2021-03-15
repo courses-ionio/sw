@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 <table>
   <tbody>
-    <tr><td align="center"><h3>Εβδομάδα</h3></td><td align="center"><h3>Παραδοτέο</h3></td></tr>
+    <tr><td align="center"><h3><a href="#P">Εβδομάδα</a></h3></td><td align="center"><h3>Παραδοτέο</h3></td></tr>
     <tr><td align="center">1</td>
       <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td></tr>
     <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
