@@ -19,18 +19,18 @@
 
 ### 1. send notifications to your desktop-mobile
 
-Για την αποστολή ειδοποίησης στο desktop χρησιμοποιήθηκε το εργαλείο ntfy
+Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
 - Για την εγκατάσταση του ntfy χρησιμοποιήθηκε η εντολή:
 ```
 sudo pip3 install ntfy
 ```
 - Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε η εφαρμογή Telegram
-- Για την εγκατάσταση των πακέτων του telegram χρησιμοποιήθηκε η εντολή:
+- Για την εγκατάσταση των πακέτων του Telegram χρησιμοποιήθηκε η εντολή:
 ```
 pip3 install ntfy[telegram]
 ```
 - Εγκατάσταση της εφαρμογής Telegram στο smartphone και μέσο αυτής δημιουργήθηκε ενα bot με όνομα linux_my_notification_bot
-- Εισαγωγή του API αριθμού(token) του bot
+- Εισαγωγή του API αριθμού (token) του bot
 - Αποστολή ειδοποίησης κατά την ολοκλήρωση μεταφόρτωσης ενός αρχείου με την εντολή
 ```
 wget [link] && ntfy -b telegram send "Download Completed"
