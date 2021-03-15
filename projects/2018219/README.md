@@ -3,20 +3,24 @@
 ### ΑΜ: Π2018219
 ### [Προφίλ στο github](https://github.com/p18mili1 'Προφίλ στο github')
 &nbsp;&nbsp;&nbsp;
-| <a name="P">Εβδομάδα<a/> | Παραδοτέο |
-| --- | --- |
-| 1 | <a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a> |
-| 2 | <a href="#P2">Βιογραφικό</a> |
-| 3 | <a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
-| 4 | <a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a> |
-| 5 | <a href="#P5">Συμμετοχικό περιεχόμενο</a> |
-| 6 | <a href="#P6">Άσκηση γραμμής εντολών</a> |
-| 7 | <a href="#P7">Βιογραφικό</a> |
-| 8 | <a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> |
-| 9 | <a href="#P9">Άσκηση γραμμής εντολών</a> |
-| 10 | <a href="#P10">Συμμετοχικό περιεχόμενο</a> |
-| 11 | <a href="#P11">Άσκηση γραμμής εντολών</a> |
-| 12 | <a href="#P12">Τελική αναφορά</a> |
+<table>
+  <tbody>
+    <tr><td align="center"><h3>Εβδομάδα</h3></td><td align="center"><h3>Παραδοτέο</h3></td></tr>
+    <tr><td align="center">1</td>
+      <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td></tr>
+    <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
+    <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td></tr>
+    <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a></td></tr>
+    <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό περιεχόμενο</a></td></tr>
+    <tr><td align="center">6</td><td align="left"><a href="#P6">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό</a></td></tr>
+    <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
+    <tr><td align="center">9</td><td align="left"><a href="#P9">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο</a></td></tr>
+    <tr><td align="center">11</td><td align="left"><a href="#P11">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td></tr>
+  </tbody>
+</table>
  
 &nbsp;&nbsp;
 ## <a name="P1">Παραδοτέο 1</a>
