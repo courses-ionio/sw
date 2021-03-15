@@ -67,4 +67,4 @@ Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts
 # Άσκηση_γραμμής_εντολών
 
 Link Asciinema https://asciinema.org/~p16foti
-(Ξεκινησα με το ntfy,μετα εστειλα ενα μηνυμα(test) να το τσεκαρω,επειτα  προσθεσα το user key που πηρα απο το pushover και κατεβασα το gimp)
+(Κατέβασα το ntfy,μετά έστειλα ένα μήνυμα(test) να το τσεκάρω,έπειτα με την εντολή που βλέπουμε στο asciinema πρόσθεσα το user key που πήρα από το pushover στο κινητό μου και κατέβασα το gimp ώστε να μου έρθει ειδοποίηση όταν θα κατέβει)
