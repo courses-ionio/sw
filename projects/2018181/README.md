@@ -21,11 +21,12 @@
 </br>
 
 ## Introduction 
-</br>
+
 ### Goals 
 </br>
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
+
 ## CV 
 You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
 </br>
