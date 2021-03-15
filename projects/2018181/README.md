@@ -2,13 +2,13 @@
 <h3 align= center>Maria Chalkioti | P2018181 |  <a href="mailto:p18chal@ionio.gr"><img src="https://img.shields.io/badge/-Email-blueviolet"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <p></h3>  
 </br>
 
-## Table of Contents 
+### Table of Contents 
 
 |**Week** | **Deliverable** | 
 |:---------:| :--------: | 
 |**First** |[Introduction](#Introduction) |
 |**Second** | [CV](#CV) |
-|**Third** |  **Integration Into Website** |
+|**Third** |  [Integration Into Website](#PR-Site) |
 |**Fourth**|  [Command-line Exercise](#Command-line Exercise) |
 |**Fifth** |  **Participatory Content** |
 |**Sixth** |  **Command-line Exercise** |  
@@ -20,20 +20,25 @@
 |**Twelth** | **Final Report** | 
 </br>
 
-## Introduction 
+### Introduction 
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
 
-## CV 
+### CV 
 You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
 </br>
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
+</br>
 
+### PR-Site  
+|**Issue** | **Pull-Request** | **Demo** | **Branch** |
+|:---------:| :--------: |  :--------: |  :--------: | 
+| **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
+</br>
 
 ## Command-line Exercise
-
 **First Deliverable:** 
   </br> 
   Send notifications to your desktop-mobile
