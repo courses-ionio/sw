@@ -80,4 +80,4 @@
 
 Τέλος,στην παρακάτω εικόνα φαίνεται το μήνυμα "How are you?" που έχει έρθει απο το terminal στην εφαρμογή του telegram στο κινητό μου.
 
-![](https://github.com/Miltos9/images/blob/master/sw/Telegram-end.jpg)
+<img src="https://github.com/Miltos9/images/blob/master/sw/Telegram-end.jpg" width="250" height="500">
