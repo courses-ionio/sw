@@ -71,7 +71,7 @@
 ### Διαδικασία :
 Αρχικά έφτιαξα ενα telegram bot (Miltos9_bot) στην εφαρμογή του κινητού μου όπως φαίνεται στο παρακάτω GIF.
 
-![Miltos9_bot](https://github.com/Miltos9/images/blob/master/sw/TELEGRAM.gif)
+<img src="https://github.com/Miltos9/images/blob/master/sw/TELEGRAM.gif" width="250" height="500">
 
 Μετά έκανα merge τον Miltos9_bot με το terminal μου με τον τρόπο που παρουσιάζεται στο παρακάτω asciinema και έστειλα την απάντηση "How are you?" στο κινητό μου.
 
