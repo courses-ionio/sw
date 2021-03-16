@@ -35,7 +35,7 @@ pip3 install ntfy[telegram]
 ```
 wget [link] && ntfy -b telegram send 'Download Completed'
 ```
-- Κάθε φόρα που ανοίγει το terminal στέλνετε ειδοποίηση στο κινητό με την προσθήκη της παρακάτω εντολής στο τέλος του .bashrc αρχείου
+- Κάθε φόρα που ανοίγει το terminal στέλνεται ειδοποίηση στο κινητό με την προσθήκη της παρακάτω εντολής στο τέλος του .bashrc αρχείου
 ```
 ntfy -b telegram send 'Terminal window opened'
 ```
