@@ -9,7 +9,7 @@
 | 1st | [Introduction](#Introduction) |
 | 2nd | [CV](#CV) |
 | 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
-| 4th | Command-line exercise |
+| 4th | [Command-line exercise](#Command-line-exercises) |
 | 5th | Participatory content |
 | 6th | Command-line exercise |
 | 7th | CV |
@@ -39,3 +39,9 @@ Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQ
 | Issue                                              	| PR                                                   	| Demo                                                                  	| Branch(es)                                                                                                                	|
 |----------------------------------------------------	|------------------------------------------------------	|-----------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------	|
 | [#61](https://github.com/ioniodi/sitegr/issues/61) 	| SG: [#91](https://github.com/ioniodi/sitegr/pull/91) 	| [Timetable](https://tender-shaw-215180.netlify.app/timetables/sem_8/) 	| [provopoulos/sitegr@sem8_2021](https://github.com/provopoulos/sitegr/blob/sem8_2021/all_collections/_timetables/sem_8.md) 	|
+
+### Command-line exercises
+#### [#Software](https://github.com/epidrome/dokey#software)
+|                 1st                |                                                            Deliverables                                                            |                               Asciinema                               |  Commit  |
+|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:--------:|
+| Test an alternative stack of tools | Set-up an OS image with a set of CLI tools with minimal dependencies and a software license that allows commercial use and selling | [Jailed C process](https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB) | &#x2611; |
