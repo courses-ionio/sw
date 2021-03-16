@@ -77,3 +77,5 @@
 ***Εκφώνηση: "set-up continuous integration"***
 
 Σε αυτήν την άσκηση ασχολήθηκα με τα Github actions αντί για το Travis CI. Δημιούργησα ένα action για το βιογραφικό μου το οποίο με το που γίνεται ένα commit στο main branch του αποθετηρίου μου κάνει αυτόματα build οτι αλλαγές έγιναν στο cv.yml, σε pdf μέσω του pandoc. Και όλα αυτα παράλληλα με το build του jekyll site που γίνεται από το netlify. Εν ολίγης, πλέον όλα είναι αυτοματοποιημένα στο αποθετήριο του βιογραφικό μου.
+
+![1assignment](https://user-images.githubusercontent.com/44473195/111388914-cd377400-86b8-11eb-8817-73f97b069d39.gif)
