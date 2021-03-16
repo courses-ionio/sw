@@ -9,7 +9,7 @@
 |**First** |[Introduction](#Introduction) |
 |**Second** | [CV](#CV) |
 |**Third** |  [Integration Into Website](#PR-Site) |
-|**Fourth**|  [Command-line Exercise](#Command-line Exercise) |
+|**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
 |**Fifth** |  **Participatory Content** |
 |**Sixth** |  **Command-line Exercise** |  
 |**Seventh** | **CV**|
