@@ -37,7 +37,7 @@ wget [link] && ntfy -b telegram send 'Download Completed'
 ```
 - Κάθε φόρα που ανοίγει το terminal στέλνετε ειδοποίηση στο κινητό με την προσθήκη της παρακάτω εντολής στο τέλος του .bashrc αρχείου
 ```
-ntfy -b telegram 'Terminal window opened'
+ntfy -b telegram send 'Terminal window opened'
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
 - [gif smartphone demo](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
