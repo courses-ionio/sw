@@ -36,7 +36,7 @@ pip3 install ntfy[telegram]
 wget [link] && ntfy -b telegram send "Download Completed"
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
-- [gif animation](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
+- [gif smartphone demo](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
 
 ## Bίντεο Kουίζ
 
