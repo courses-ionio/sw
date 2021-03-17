@@ -8,7 +8,7 @@
 | 2 | βιογραφικό : <sup><a href="#2">Iστοσελίδα με χρήση Jekyll </a></sup> |
 | 3 | Αίτημα ενσωμάτωσης : <sup><a href="#3">Προσθήκη Ανακοίνωσης </a></sup> |
 | 4 | Άσκηση γραμμής εντολών : <sup><a href="#4">Send notifications to your mobile </a></sup>  |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 | Συμμετοχικό περιεχόμενο : <sup><a href="#5">συμμετοχικό περιεχόμενο Α1 και Α2 </a></sup> |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -81,3 +81,32 @@
 Τέλος,στην παρακάτω εικόνα φαίνεται το μήνυμα "How are you?" που έχει έρθει απο το terminal στην εφαρμογή του telegram στο κινητό μου.
 
 <img src="https://github.com/Miltos9/images/blob/master/sw/Telegram-end.jpg" width="250" height="500">
+
+***
+###### [4]
+## Συμμετοχικό περιεχόμενο
+# A1 : Δύο Εικόνες
+## Εικόνα 1)
+
+Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/strongtalk/
+
+Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob/a698873d889e0dd2c56173447cfcfeea58fb1ae1/StrongTalk.md
+## Λίγα λόγια: 
+
+
+## Εικόνα 2)
+
+Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/visual-logic/
+
+Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob/a698873d889e0dd2c56173447cfcfeea58fb1ae1/visual-logic.md
+## Λίγα λόγια:
+
+# A2 : Διαφάνιες και Χρονολόγιο
+Link για τις διαφάνιες στο site : https://miltos9.netlify.app/slides/programming/
+
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_slides/programming.md
+
+Link για τo χρονολόγιο στο site : https://miltos9.netlify.app/timeline/programming/
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_timeline/programming.md
+## Λίγα λόγια: 
+
