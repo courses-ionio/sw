@@ -65,7 +65,14 @@
 - Προχώρησα σε [pull request](https://github.com/ioniodi/sitegr/pull/44) (έγινε merge)
 
 
-### Παραδοτέο 4 (αποσφαλμάτωση)
+### Παραδοτέο 4
 
-Το site βασίζεται στο παραδοτέο 2 και δουλεύει κανονικά στο [GitHub Pages](https://pauloskal.github.io/cv-resume/). Το σύνδεσα επίσης με το [Netlify](https://focused-northcutt-6f1e2c.netlify.app) και το site δουλέυει, αν και αντιμετωπίζω ένα μικρό θέμα (υποψιάζομαι απαιτεί index.html αντί για [index.md](https://github.com/PaulosKal/cv-resume/blob/master/index.md))
-- asciinema link: https://asciinema.org/a/398413
+Το site βασίζεται στο παραδοτέο 2 και δουλεύει κανονικά στο [GitHub Pages](https://pauloskal.github.io/cv-resume/).
+
+Το σύνδεσα επίσης με το [Netlify](https://focused-northcutt-6f1e2c.netlify.app) και το site δουλέυει, αν και αντιμετωπίζω ένα πρόβλημα με το θέμα Jekyll και τα links.
+
+Το αποθετήριο επίσης χρησιμοποιεί Travis CI για την ανίχνευση σφαλμάτων της σελίδας μετά από κάθε commit. Το σύστημα δουλεύει αλλά το Travis βγάζει σφάλμα διότι το [html-proofer](https://github.com/gjtorikian/html-proofer) script βρίσκει λάθος σε ένα αρχείο (όχι δικό μου). Για τη ρύθμιση του Travis CI πρόσθεσα κάποια αρχεία στο αποθετήριο και άλλαξα μερικά από τα ήδη υπάρχοντα. Τη διαδικασία του τερματικού την κατέγραψα με το [asciinema](https://asciinema.org/a/398413).
+
+
+### Παραδοτέο 5 (υπό κατασκευή)
+
