@@ -8,7 +8,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> |
 | <a href="#B">2</a> | <a href="#B">Βιογραφικό </a> |
 | <a href="#C">3</a> | <a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα 1 </a> |
-| 4 | Άσκηση γραμμής εντολών |
+| <a href="#D">4</a> | <a href="#D">Άσκηση γραμμής εντολών 1 </a> |
 | <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο 1 </a> |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
@@ -31,7 +31,7 @@
 [mdfile link](https://github.com/p15bako/sitegr/blob/2015034/all_collections/_posts/2020-12-29-sunantisi-ergastiriou-montelopoiisis.md) [issuelink](https://github.com/ioniodi/sitegr/issues/124) [netlifylink](https://flamboyant-blackwell-1d9e28.netlify.app/posts/2020/12/29/sunantisi-ergastiriou-montelopoiisis/)
 
 
-# <a name="E">Συμμετοχικό περιεχόμενο 1</a>
+# <a name="D">Άσκηση γραμμής εντολών 1</a>
 Για να ολοκληρώσω την πρώτη άσκηση γραμμής εντολών του μαθήματος συχρόνισα τον υπολογιστή μου με ένα καινούριο λειτουργικό linux, δημιούργησα ένα νέο κλειδί SSH και το πρόσθεσα στα κλειδιά μου στο GitHub. Εν συνεχεία, αφού αντέγραψα το ήδη υπάρχων [αποθετήριο του βιογραφικού μου](https://github.com/p15bako/cv-resume-1), επεξεργάστηκα το αρχείο index.html αλλάζοντας απλά μια φράση. Μετά τις αλλαγές έκανα add, commit και push των αλλαγών αυτών στο αποθετήριο του GitHub. Tέλος, έκανα deploy το site στο Netlify, για να βεβαιωθώ ότι λειτουργεί σωστά και πώς περάστηκαν οι αλλαγές μου. Παρακάτω φαίνεται η διαδικασία της γραμμής εντολών. [Asciinema link](https://asciinema.org/a/k8Y5oSVSoDwy36fy4pwt66xeD)
 
 
