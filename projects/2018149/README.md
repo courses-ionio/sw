@@ -71,6 +71,7 @@
 - [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
 - [Προσθήκη ΕΔΙΠ Προσωπικού : Σωτηροπούλου Άννα](https://github.com/ioniodi/sitegr/pull/108)
 - [Add course "Distributed Network Systems" #113](https://github.com/ioniodi/sitegr/pull/113)
+- [Μεταφορά-μετατροπή της σελίδας εράσμους σε ανακοίνωση #161](https://github.com/ioniodi/sitegr/pull/161)
 
 ## 4. Άσκηση γραμμής εντολών
 
