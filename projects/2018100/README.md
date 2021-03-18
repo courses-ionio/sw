@@ -25,7 +25,7 @@
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
 
 Μεταφορά-μετατροπή της σελίδας Erasmus σε ανακοίνωση
-- Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλουκαθώς αυτή η προσέγγιση είναι πιο σωστή
+- Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλου καθώς αυτή η προσέγγιση είναι πιο σωστή
 - Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
 
