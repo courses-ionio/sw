@@ -46,9 +46,11 @@ GitHub Profile: https://github.com/Efthimis015
 ## 👽Παραδοτέο 2
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
-Το link για την ιστοσελίδα βρίσκεται παρακάτω:
-https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook
+Το link για την ιστοσελίδα βρίσκεται [εδώ](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook)
 
+
+## 👽Παραδοτέο 3
+ Αίτημα ενσωμάτωσης στην ιστοσελίδα: Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo)
 
 ## 🍕Βίντεο Quiz2️⃣ -Αποφάσισα να γράψω τις απαντήσεις του 2ου QUIZ εδώ καθώς εξακολουθώ να έχω τα bugs..
 
