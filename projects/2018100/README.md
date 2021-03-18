@@ -17,13 +17,17 @@
 
 ## Αιτήματα ενσωμάτωσης στην επίσημη ιστοσελίδα του τμήματος
 
-### 1. Δημιουργία σελίδας Erasmus
-Το αρχικό [issue](https://github.com/ioniodi/sitegr/issues/33)
+### 1. Πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+Δημιουργία σελίδας Erasmus
+- Το αρχικό [issue](https://github.com/ioniodi/sitegr/issues/33)
 - Δημιουργία καινούργια σελίδας, εισαγωγή περιεχομένου και προσθήκη αυτής στο navigation.yml
-Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
-- Μεταφορά-μετατροπή της σελίδας Erasmus σε ανακοίνωση
-Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλουκαθώς αυτή η προσέγγιση είναι πιο σωστή
-Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
+- Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
+
+Μεταφορά-μετατροπή της σελίδας Erasmus σε ανακοίνωση
+- Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλουκαθώς αυτή η προσέγγιση είναι πιο σωστή
+- Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
+- Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
 
 ## Ασκήσεις γραμμής εντολών
 
