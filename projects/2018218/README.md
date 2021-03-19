@@ -35,7 +35,7 @@
  
  ###### [2]
  - [Link Σελίδας Βιογραφικού](https://diatsigk.github.io/cv2/)
-  - >[Link Aποθετηρίου](https://github.com/DIATSIGK/cv-2/tree/master)
+  - >[Link Aποθετηρίου](https://github.com/DIATSIGK/cv2/tree/master)
 
  ###### [3]
  
