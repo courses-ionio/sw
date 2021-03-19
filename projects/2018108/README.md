@@ -102,3 +102,11 @@ create a docker image for your development stack
 **Ποιος είναι υπεύθυνος για το προγραμματιστικό δόγμα των ημερών μας και πως θα μπορούσαμε να σκεφτούμε με νέους τρόπους;**
 
 Θα μπορούσαμε να σκεφτούμε με νέους τρόπους αν σκεφτούμε ότι δεν ξέρουμε τι ακριβώς κάνουμε. Έτσι θα μπούμε στη διαδικασία να δοκιμάσουμε καινούριες ιδέες πέρα από τις συνηθισμένες
+
+## 5. Συμμετοχικό περιεχόμενο
+
+- [Pibook Repository](https://github.com/Stavrospanakakis/site)
+- [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
+- [Images Repository](https://github.com/stavrospanakakis/images)
+
+[![asciicast](https://asciinema.org/a/400505.svg)](https://asciinema.org/a/400505)
