@@ -76,7 +76,7 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 **[forked images repository](https://github.com/sophia-ts/images)**
 
-**[asciinema linkk](https://asciinema.org/a/400534)**
+**[asciinema link](https://asciinema.org/a/400534)**
 
 [![asciicast](https://asciinema.org/a/400534.svg)](https://asciinema.org/a/400534)
 
