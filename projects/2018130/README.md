@@ -66,6 +66,20 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 [![asciicast](https://asciinema.org/a/398539.svg)](https://asciinema.org/a/398539)
 
+## Πέμπτη εβδομάδα 
+
+Συμμετοχικό περιεχόμενο
+
+**[forked pibook repository](https://github.com/sophia-ts/site)**
+
+**[forked _gallery repository](https://github.com/sophia-ts/_gallery)**
+
+**[forked images repository](https://github.com/sophia-ts/images)**
+
+**[asciinema linkk](https://asciinema.org/a/400534)**
+
+[![asciicast](https://asciinema.org/a/400534.svg)](https://asciinema.org/a/400534)
+
 
 # Απαντήσεις εβδομαδιαίου quiz
 
