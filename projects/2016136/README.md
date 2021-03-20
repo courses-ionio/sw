@@ -138,8 +138,7 @@ reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=most
 
 # Συμμετοχικό περιεχόμενο
  
-Αφού πρόσθεσα το περιεχόμενο μου στους κατάλληλους φακέλους και πείραξα το αρχείο _config.yml με τα στοιχεία του netlify μου.  
-διέγραψα και ξανά έφτιαξα τα submodules μου από τον τερματικό. 
+Αφού πρόσθεσα το περιεχόμενο μου στους κατάλληλους φακέλους και πείραξα το αρχείο _config.yml με τα στοιχεία του netlify μου προχωρισα στην προσθηκη του ονοματός μου σαν author στην συνέχεια διέγραψα και ξανά έφτιαξα τα submodules μου από τον τερματικό. 
 
 [Reference για τα submodules](https://github.blog/2016-02-01-working-with-submodules/) 
 
@@ -155,9 +154,9 @@ A1:Στην συνέχεια πρόσθεσα τις δυο φωτογραφίε
 
 [Repository Link _gallery](https://github.com/p16pyla/_gallery/tree/2016136) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/_gallery/blob/2016136/siri-apple.md)   
 
-Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Τρόποι διάδρασης” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
+Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Έξυπνες διεπαφές χρήστη” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
 
-[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md) 
+[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/iui.md) 
 
 [Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)  
 
