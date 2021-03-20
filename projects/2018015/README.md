@@ -33,7 +33,6 @@ GitHub Profile: https://github.com/Efthimis015
 
 Στόχος του μαθήματος είναι να μελετήσω τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού.
 
-
 # 👽👽👽👽👽👽👽Παραδοτέα μαθήματος!👽👽👽👽👽👽👽
 
 
@@ -43,6 +42,7 @@ GitHub Profile: https://github.com/Efthimis015
 ) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
 
+
 ## 👽Παραδοτέο 2 - Βιογραφικό
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
@@ -50,10 +50,12 @@ GitHub Profile: https://github.com/Efthimis015
 Το link για την ιστοσελίδα βρίσκεται [εδώ](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook).
 
 
+
 ## 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
  Αίτημα ενσωμάτωσης στην ιστοσελίδα:
  
  Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
+ 
  
 ## 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
 # Α1
