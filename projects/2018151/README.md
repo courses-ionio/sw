@@ -60,3 +60,44 @@
 - Link ιστοσελίδας βιογραφικού: https://vgcv.netlify.app
 
 - Link αποθετηρίου: https://github.com/vxsilis/4oCV
+
+---
+
+## <a name="P">Παραδοτέο 5 - ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ:</a>
+
+Για το 5ο παραδοτέο έκανα fork αρχικά το repo της ιστοσελίδας. Έκανα επίσης fork τα “_gallery” και “images”. Τώρα, στα δικά μου repos πρόσθεσα στο “_gallery” τα αρχεία:
+
+### - Υποερώτημα Α1
+
+| wordstar.md | https://github.com/vxsilis/_gallery/blob/master/wordstar.md |
+| --- | --- |
+| freebsd.md | https://github.com/vxsilis/_gallery/blob/master/freebsd.md |
+
+Ακολουθώντας την δομή και το template των άλλων αρχείων, που περιλαμβάνουν την περιγραφή δύο λογισμικών και τις αντίστοιχες εικόνες τους (κανονική και thumbnail) στο repo μου “images”. 
+
+| https://github.com/vxsilis/images/blob/master/wordstar.jpg | https://github.com/vxsilis/images/blob/master/wordstar-thumb.jpg |
+| --- | --- |
+| https://github.com/vxsilis/images/blob/master/freebsd.jpg | https://github.com/vxsilis/images/blob/master/freebsd-thumb.jpg |
+
+
+| Και τα δύο αυτά repos τα έκανα submodule με την χρήση του τερματικού στο αρχικό fork που φαίνεται στο διπλανό asciinema | https://asciinema.org/a/400647 |
+| --- | --- |
+| Το repo μου βρίσκεται εδώ που φαίνονται και τα submodules _gallery, images | https://github.com/vxsilis/site |
+
+### - Υποερώτημα Α2
+
+| Έπειτα στο φάκελο _slides, στο αρχείο πρόσθεσα το θέματα των freebsd και worstar. |  https://github.com/vxsilis/site/blob/master/_slides/metaphors.md |
+| --- | --- |
+| Άλλαξα στο φάκελο _timeline το ήδη υπάρχων αρχείο micros.md για να προσθέσω το event wordstar το οποίο είναι είναι αρκετά σχετικό με αυτό το χρονολόγιο. | https://github.com/vxsilis/site/blob/master/_timeline/micros.md |
+| Επίσης στο αρχείο computers.md πρόσθεσα το freebsd που έκρινα εγώ σχετικό το με το υπάρχων χρονολόγιο. | https://github.com/vxsilis/site/blob/master/_timeline/computer.md |
+
+Έπειτα έκανα build την σελίδα με την βοήθεια του netlify.
+
+Παρακάτω φαίνονται οι αλλαγές μου:
+
+| Η αλλαγή μου | ο σύνδεσμος |
+| --- | --- |
+| Η προσθήκη του wordstar: | https://vxs5.netlify.app/gallery/wordstar/ |
+| Η προσθήκη του freebsd | https://vxs5.netlify.app/gallery/freebsd/ |
+| To set απο θεματικές ενότητες | https://vxs5.netlify.app/slides/metaphors/ |
+| Το χρονολόγιο "μικροϋπολογιστές" | https://vxs5.netlify.app/timeline/micros/ |
