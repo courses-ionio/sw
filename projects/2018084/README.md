@@ -49,7 +49,17 @@ Repository link: https://github.com/Icelandan/bio
 **Asciinema link:** https://asciinema.org/a/aM0BkuXe7uGyp2oGCEAGz2O1U
 
 ## <a name="P-4">Παραδοτέο 4</a>
-### Άσκηση: 
+### Άσκηση: Συμμετοχικό περιεχόμενο
+<a href="https://60564747ce6925c7f3460705--awesome-mahavira-cc9e7b.netlify.app/chapters">Netlify</a><br />
+
+### Forked Repositories: 
+<a href="https://github.com/Icelandan/site">Site</a> <br />
+<a href="https://github.com/Icelandan/_gallery/tree/834d716eb8fb6d7a64848d2778373267aa4e10d0">Gallery</a> <br />
+<a href="https://github.com/Icelandan/images/tree/30b884a84b8bb0c7b665e1fa35e7cd9169bc3df1">Images</a> <br />
+
+### Content added:
+chromebook.md, chromebook.jpg, chromebook-thumb.jpg <br />
+walkman.md, walkman.jpg, walkman-thumb.jpg <br />
 
 ## <a name="P-5">Παραδοτέο 5</a>
 ### Άσκηση: 
