@@ -188,6 +188,8 @@ Link με το asciinema για setup και σύνδεση Telegram: https://as
 
 ![thanksfw](https://github.com/apostoloskp/sw-images/blob/main/thanksfw.png)
 
+![teledesktop](https://github.com/apostoloskp/sw-images/blob/main/teledesktop.png)
+
 ## Απαντήσεις στις ερωτήσεις του 4ου quiz:
 
 1) **Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία.**
