@@ -31,6 +31,18 @@
 [Σύνδεσμος Αποθεητρίου](https://github.com/AlexisTsiranidis/sitegr/tree/2018099)<br>
 [Σύνδεσμος Demo](https://priceless-goldstine-674c39.netlify.app/timetables/sem_f/)
 
+### <a name="Ε5">Συμμετοχικό περιεχόμενο(A)</a>
+Για το πρώτο παραδοτέο του συμμετοχικού περιεχομένου Α1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου δύο νέες φωτογραφίες. Η πρώτη αφορά το Hypertext και τα Hypermedia και η δεύτερη το Back Button.
+| Link Λεζάντας | Link Εικόνας | Link Thumb |
+| --- | --- | --- |
+| [Hypertext Hypermedia](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext-hypermedia.md) | [Hypertext Hypermedia Image](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia.jpg) | [Hypertext Hypermedia Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia-thumb.jpg) |
+| [Back Button](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/back-button.md) | [Back Button Image](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button.jpg) | [Back Button Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button-thumb.jpg) |
+
+Για το δεύτερο παραδοτέο του συμμετοχικού περιεχομένου Α2 πρόσθεσα τις δύο παραπάνω φωτογραφίες στο ήδη υπάρχον σετ διαφανιών "Υπερμέσα" και δημιούργησα το χρονολόγιο "Επιλογές στο γραφικό περιβάλλον".
+| [Link Slides "Υπερμέσα"](https://github.com/AlexisTsiranidis/site/blob/2018099/_slides/hypermedia.md) | [Link Timeline "Επιλογές στο γραφικό περιβάλλον"](https://github.com/AlexisTsiranidis/site/blob/2018099/_timeline/gui.md) |
+| --- | --- |
+
+
 ### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
 | --- |
