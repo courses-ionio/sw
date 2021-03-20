@@ -45,6 +45,8 @@ Pull request: https://github.com/ioniodi/sitegr/pull/127
 Netlify Demo: https://suspicious-curran-b73619.netlify.app/posts/2021/03/05/ekdilosi-parousiaseon-atomikon-ergasion/
 
 ## <a name="P4">Παραδοτέο 4:</a>
+Άσκηση γραμμής εντολών 1
+
 Fetch the weather forecast for your home city and one more city that you want to travel to.
 
 Με τη χρήση του wttr.in μπορούμε να εμφανίσουμε στο terminal τον καιρό απο οποιαδήποτε περιοχή.
