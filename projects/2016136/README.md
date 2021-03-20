@@ -138,7 +138,8 @@ reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=most
 
 # Συμμετοχικό περιεχόμενο
  
-Αφού διέγραψα και ξανά έφτιαξα τα submodules μου από τον τερματικό πρόσθεσα το περιεχόμενο μου στους κατάλληλους φακέλους και πείραξα το αρχείο _config yml με τα στοιχεία του netlify μου.  
+Αφού πρόσθεσα το περιεχόμενο μου στους κατάλληλους φακέλους και πείραξα το αρχείο _config.yml με τα στοιχεία του netlify μου.  
+διέγραψα και ξανά έφτιαξα τα submodules μου από τον τερματικό. 
 
 [Reference για τα submodules](https://github.blog/2016-02-01-working-with-submodules/) 
 
