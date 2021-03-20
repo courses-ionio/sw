@@ -240,16 +240,13 @@ Link για το αποθετήριο εικόνας: https://github.com/apostol
 # A2
 ## Διαφάνιες και Χρονολόγιο
 
-Link για τις διαφάνιες στο site: 
+Link για τις διαφάνιες στο site: https://p15kabl.netlify.app/slides/iui/
 
-Link για το αποθετήριο διαφανιών: 
+Link για το αποθετήριο διαφανιών: https://github.com/apostoloskp/site/blob/master/_slides/iui.md
 
-Link για τo χρονολόγιο στο site: 
+Link για τo χρονολόγιο στο site: https://p15kabl.netlify.app/timeline/mobile/
 
-Link για το αποθετήριο χρονολογίου:
-
-## Πληροφορίες: 
-Για το Χρονολόγιο και τις Διαφάνιες αντίστοιχα,επέλεξα να x.
+Link για το αποθετήριο χρονολογίου: https://github.com/apostoloskp/site/blob/master/_timeline/mobile.md
 
 ## Απαντήσεις στις ερωτήσεις του 5ου quiz:
 
