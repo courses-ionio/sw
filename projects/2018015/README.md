@@ -34,7 +34,7 @@ GitHub Profile: https://github.com/Efthimis015
 Στόχος του μαθήματος είναι να μελετήσω τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού.
 
 
-## Παραδοτέα μαθήματος
+# Παραδοτέα μαθήματος
 
 
 ## 👽Παραδοτέο 1
@@ -43,17 +43,42 @@ GitHub Profile: https://github.com/Efthimis015
 ) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
 
-## 👽Παραδοτέο 2
+## 👽Παραδοτέο 2 - Βιογραφικό
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
 
 Το link για την ιστοσελίδα βρίσκεται [εδώ](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook).
 
 
-## 👽Παραδοτέο 3
+## 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
  Αίτημα ενσωμάτωσης στην ιστοσελίδα:
  
  Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
+ 
+## 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
+# Α1
+## Εικόνα 1: Razer Mouse
+Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/razer-mouse.md).
+
+
+## Εικόνα 2: Small PC
+Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/small-pc.md).
+
+# A2
+## Διαφάνιες και Χρονολόγιο
+Link για το αποθετήριο διαφανιών: 
+- [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_slides/videogames.md)
+- [Small PC](https://github.com/Efthimis015/site/blob/master/_slides/gui.md)
+
+Link για το αποθετήριο χρονολογίου:
+- [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)
+- [Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)
+
+
+ 
+ 
+ 
+# BINTEO QUIZ!
 
 ## 🍕Βίντεο Quiz2️⃣ -Αποφάσισα να γράψω τις απαντήσεις του 2ου QUIZ εδώ καθώς εξακολουθώ να έχω τα bugs..
 
@@ -133,6 +158,7 @@ O Bret Victor πέφτει έξω στην πρόβλεψή του. Πιστεύ
 
 ### Απάντηση:
 Λόγω της νίκης της Intel στην αγορά,κατάφερε σχεδόν να μονοπωλήσει την νέα multitasking αρχιτεκτονική αφήνοντας πίσω τον περιορισμό στις ταχύτητες επεξεργασίας. Οπότε ο υπεύθυνος για το προγραμματιστικό δόγμα των ημερών μας είναι μάλλον η Intel.
+
 
 
 
