@@ -7,7 +7,7 @@
 | 2 | [Βιογραφικό](#Βιογραφικό) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα_ενσωμάτωσης_στην_ιστοσελίδα) |
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση_γραμμής_εντολών) |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό_περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -68,3 +68,17 @@ Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts
 
 Link Asciinema https://asciinema.org/~p16foti
 (Κατέβασα το ntfy,μετά έστειλα ένα μήνυμα(test) να το τσεκάρω,έπειτα με την εντολή που βλέπουμε στο asciinema πρόσθεσα το user key που πήρα από το pushover στο κινητό μου και κατέβασα το gimp ώστε να μου έρθει ειδοποίηση όταν θα κατέβει)
+
+# Συμμετοχικό_περιεχόμενο
+
+Link Netlify https://p16foti.netlify.app/gallery/google-play/
+
+Link Timeline https://github.com/p16foti/site/blob/2016046/_timeline/collaboration.md
+
+Link Slides https://github.com/p16foti/site/blob/2016046/_slides/iui.md
+
+Link Gallery https://github.com/p16foti/_gallery/blob/2016046/google-play.md
+
+Link Images https://github.com/p16foti/images/blob/76459b2bbdfb7359dbed5b988344f904f1549916/google-play.jpg
+https://github.com/p16foti/images/blob/76459b2bbdfb7359dbed5b988344f904f1549916/google-play-thumb.jpg
+
