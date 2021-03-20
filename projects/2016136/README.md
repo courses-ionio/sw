@@ -6,7 +6,7 @@
 | 2 |[Βιογραφικό +Απαντήσεις στο βίντεο quiz](#Βιογραφικό) |
 | 3 |[Αίτημα ενσωμάτωσης στην ιστοσελίδα +Απαντήσεις στο βίντεο quiz](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 4 |[Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 |[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -23,6 +23,8 @@
   - Command line Bio
    
    Λαμβάνοντας υπόψιν τις οδηγίες στο sw-lab καθώς και ότι έχουμε αναφέρει στις θεωρητικές διαλέξεις εγκατέστησα στον τερματικό του VM τα ruby, jekyll, docker και όλα τα προ απαιτούμενα. Αφού δημιούργησα το αποθετήριο μου και έκανα την σύνδεση με το github με τις κατάλληλες εντολές, έφτιαξα τα αρχεία μου yml και html για να ξεκινήσω να θέτω την βάση μου με τις πληροφορίες μου για το βιογραφικό 
+   
+[reference](https://github.com/courses-ionio/sw-lab)
 
 [Link Repository](https://github.com/p16pyla/cv-1) 
 
@@ -121,6 +123,10 @@ Send notifications to your desktop-mobile
 
 Αφού εγκατέστησα το ntfy δοκίμασα μια απλή εντολή για να μου έρθει μια ειδοποίηση στο dekstop μου όπως φαίνεται και στο βίντεο . Στην συνέχεια ήθελα να συνδέσω το dekstop μου με το κινητό μου οπότε κατέβασα την εφαρμογή pushover  για να λαμβάνω τις ειδοποιήσεις μετα έβαλα να γίνει ένα  update και upgrade στο task.Tέλος αφού χρησιμοποίησα την κατάλληλη εντολή με το user key μου έβαλα να μου έρθει ειδοποίηση όταν γίνει το upgrate. 
 
+reference [ntfy](https://github.com/dschep/ntfy0)
+
+reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=mostlychris)
+
 [Asciinema Link](https://asciinema.org/a/RK9vwrv8JmRbt1pN4iygHH9sN)
 
 [ScreenShotPc](https://github.com/p16pyla/sw/blob/2016136/projects/screenshotpc.png)
@@ -130,6 +136,29 @@ Send notifications to your desktop-mobile
 
 
 
+# Συμμετοχικό περιεχόμενο
+ 
+Αφού διέγραψα και ξανά έφτιαξα τα submodules μου από τον τερματικό πρόσθεσα το περιεχόμενο μου στους κατάλληλους φακέλους και πείραξα το αρχείο _config yml με τα στοιχεία του netlify μου.  
+
+[Reference για τα submodules](https://github.blog/2016-02-01-working-with-submodules/) 
+
+[Reference για τα submodules video](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=505s&ab_channel=CameronMcKenzie)
+
+Siri Apple 
+ 
+[Netlify Link Siri-Apple](https://mypibook.netlify.app/gallery/siri-apple/) 
+
+A1:Στην συνέχεια πρόσθεσα τις δυο φωτογραφίες στο images και το αντίστοιχο κείμενο στο _gallery  
+
+[Repository Link images](https://github.com/p16pyla/images/tree/2016136) και Link από τα αρχεία που εφτιαξα [εικονα1](https://github.com/p16pyla/images/blob/2016136/siri-apple.png) [εικόνα 2](https://github.com/p16pyla/images/blob/2016136/siri-apple-thumb.png) 
+
+[Repository Link _gallery](https://github.com/p16pyla/_gallery/tree/2016136) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/_gallery/blob/2016136/siri-apple.md)   
+
+Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Τρόποι διάδρασης” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
+
+[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md) 
+
+[Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)  
 
 
 
