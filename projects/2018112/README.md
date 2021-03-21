@@ -8,7 +8,7 @@
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό </a> |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <a href="#G">4</a> |<a href="#G"> Άσκηση γραμμής εντολών </a>|
-| 5 | Συμμετοχικό περιεχόμενο |
+| <a href="#F">5</a> |<a href="#F"> Συμμετοχικό περιεχόμενο </a>|
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -36,6 +36,26 @@
 [Asciinema](https://asciinema.org/a/399210)
 
 [Website (CV)](https://github.com/NikosKar23/online-cv)
+
+---
+## <a name="F">Συμμετοχικό περιεχόμενο</a>
+
+A1: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
+
+> - [Lego Mindstorms NXT Table](https://github.com/NikosKar23/gr/blob/gh-pages/_gallery/LEGO_Mindstorms_NXT.md)
+> - [Lego Mindstorms NXT Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/lego-mindstorms-nxt.jpg)
+> - [Lego Mindstorms NXT 160px Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/lego-mindstorms-nxt-thumb.jpg)
+
+
+> - [Blockly Table](https://github.com/NikosKar23/gr/blob/gh-pages/_gallery/Blockly.md)
+> - [Blockly Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/blockly.png)
+> - [Blockly 160px Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/blockly-thumb.png)
+
+
+### **Παραπομπές**
+
+- [1]  https://en.wikipedia.org/wiki/Blockly
+- [2]  https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT
 
 ---
 
