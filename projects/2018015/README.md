@@ -3,11 +3,11 @@
 
 ## Προσωπικά στοιχεία
 
-*Ονοματεπώνυμο:* Τζιάλλας Ευθύμιος 
+#### *Ονοματεπώνυμο:* Τζιάλλας Ευθύμιος 
 
-*Αριθμός μητρώου:* Π2018015
+#### *Αριθμός μητρώου:* Π2018015
 
-GitHub Profile: https://github.com/Efthimis015
+#### GitHub Profile: https://github.com/Efthimis015
 
 
 
@@ -31,7 +31,7 @@ GitHub Profile: https://github.com/Efthimis015
 
 ## Εισαγωγή
 
-Στόχος του μαθήματος είναι να μελετήσω τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού.
+#### Στόχος του μαθήματος είναι να μελετήσω τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού.
 
 # 👽👽👽👽👽👽👽Παραδοτέα μαθήματος!👽👽👽👽👽👽👽
 
@@ -57,7 +57,7 @@ GitHub Profile: https://github.com/Efthimis015
  
  
 ### 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
-# Α1
+## Α1
 ### Εικόνα 1: Razer Mouse
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/razer-mouse.md).
 
@@ -65,7 +65,7 @@ Link για το αποθετήριο εικόνας [εδώ](https://github.com
 ### Εικόνα 2: Small PC
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/small-pc.md).
 
-# A2
+## A2
 ### Διαφάνιες και Χρονολόγιο
 Link για το αποθετήριο διαφανιών: 
 - [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_slides/videogames.md)
