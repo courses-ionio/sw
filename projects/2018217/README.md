@@ -82,6 +82,7 @@
 
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-1](https://asciinema.org/a/401005)
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-2](https://asciinema.org/a/400622)
+#### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-3](https://asciinema.org/a/401045)
 
 ![Screenshot](paradoteo5-1.jpg)
 ![Screenshot](paradoteo5-2.jpg)
