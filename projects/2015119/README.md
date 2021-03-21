@@ -80,3 +80,46 @@ https://p15kour.github.io/online-cv/
 
 
 Σύμφονα με τον Αλαν κέη δεν υπαρχει list sharing και οτι δεν γίνονται οι υπολογισμοι σε ψευδοχρόνο.
+
+παραδοτέο 5
+
+Στο πρώτο συμμετοχικό περιεχόμενο αποφάσισα να ασχοληθώ με το ArcGis και το Qgis.
+
+ArcGis:
+https://github.com/P15KOUR/_gallery/blob/master/ArcGis.md
+https://github.com/P15KOUR/images/blob/master/ArcGIS.png
+
+Qgis:
+https://github.com/P15KOUR/_gallery/blob/master/QGIS.md
+https://github.com/P15KOUR/images/blob/master/QGIS.png
+
+https://github.com/P15KOUR/site/blob/master/_slides/visualization.md
+https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
