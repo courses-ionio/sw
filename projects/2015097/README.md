@@ -30,9 +30,11 @@
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα 1
 Για την ολοκλήρωση του αιτήματος ενσωμάτωσης δημιούργησα ένα νέο προτεινόμενο issue για προσθήκη ανακοίνωσης. Μετά τον χαρακτηρισμό του αιτήματος με green light δημιούργησα και προσέθεσα το κατάλληλο αρχείο .md στον φάκελο των ανακοινώσεων. Στη συνέχεια έκανα deploy το site του αποθετηρίου μου μέσω netlify. Στη συνέχεια κατέθεσα το αίτημα ενσωμάτωσης με όλες τις απαραίτητες πληροφορίες για έγκριση της προσθήκης που προτάθηκε. Για την εκπόνηση της άσκησης με βοήθησε πολύ η προηγούμενη εμμπειρία που είχα με το netlify και το github η οποία αποκτήθηκε κατά τη διάρκεια της συμμετοχής μου στο μάθημα hci. Η γνώση αυτή που επέτρεψε να ολοκληρώσω το παραδοτέο γρήγορα και χωρίς κανένα πρόβλημα.
 
-[mdfile](https://github.com/p15anez/sitegr/blob/2015097/all_collections/_posts/2021-02-22-Diavouleusi-sxedio-eswterikou-kanonismou.md)
-[Ιssuelink](https://github.com/ioniodi/sitegr/issues/34)
-[Νetlifylink](https://wizardly-noyce-934f26.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
+[md file](https://github.com/p15anez/sitegr/blob/2015097/all_collections/_posts/2021-02-22-Diavouleusi-sxedio-eswterikou-kanonismou.md)
+[Ιssue link](https://github.com/ioniodi/sitegr/issues/34)
+[Pull request link](https://github.com/ioniodi/sitegr/pull/98)
+[Νetlify link](https://p15anez-unofficialionio.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
+
 
 # Άσκηση γραμμής εντολών 1
 Για την ολοκλήρωση της πρώτης άσκησης γραμμής εντολών έκανα συγχρονισμό του github με το ένα καινούργιο υπολογιστή linux, δημιούργησα ένα καινούργιο ssh κλειδί το οποίο προσέθεσα στο λογαριασμό μου στο github, αντέγραψα το αποθετήριο στο οποίο έχω το [βιογραφικό μου](https://github.com/p15anez/cv-1) και στη συνέχεια επεξεργάστηκα ενδεικτικά το αρχείο index.html του βιογραφικού. Μετά τις αλλαγές, ακολούθησα την διαδικασία αποστολής των αρχείων που επεξεργάστηκα στο κεντρικό αποθετήριο του github. Εν κατακλείδι, έλεγξα στη σελίδα [Github Pages](https://p15anez.github.io/cv-1/) αν εμφανίστηκαν οι αλλαγές. Για την υλοποίηση του παραδοτέου για ακόμη μια φορά οι γνώσεις που αποκτήθηκαν κατά τη διάδραση με τον διδάσκοντα στο μάθημα sw αλλα και στο μάθημα hci κρίθηκαν απολύτως χρήσιμες για την εκπόνηση της πρώτης γραμμής άσκησης εντολών.
@@ -40,7 +42,7 @@
 [Αsciinemalink](https://asciinema.org/a/398782)
 
 # Συμμετοχικό περιεχόμενο 1
-
+Αυτή την εβδομάδα για το συμμετοχικό περιεχόμενο επέλεξα το λογισμικό zoom που χρησιμοποιούμε για τη διεξαγωγή των ηλεκτρονικών μαθημάτων. Ακολούθησα όλα τα καταγεγραμμένα βήματα των οδηγιών και παρακάτω παρέχονται σύνδεσμοι για τις φωτογραφίες και τα αρχείο md τα οποία δημιούργησα και επίσης παρέχονται σύνδεσμοι για τα αποθητήρια στα οποία έγιναν προσθήκες.
 [gallerylink](https://github.com/p15anez/_gallery/blob/2015097/zoom.md)
 [imageslink](https://github.com/p15anez/images/blob/2015097/zoom.png)
 [timelinelink](https://github.com/p15anez/site/blob/2015097/_timeline/collaboration.md)
