@@ -426,6 +426,7 @@ O παράλληλος προγραμματισμός είναι το σύνηθ
 για να μπορούμε να δουλέψουμε με το jekyll μέχρι τις τελικές αλλαγές.
 
 [![asciicast](https://asciinema.org/a/I76JJTynDlzSNcQJVqNKZkCOk.svg)](https://asciinema.org/a/I76JJTynDlzSNcQJVqNKZkCOk)
+
 (πειραματιζόμαστε και λίγο με τις εντολές των submodules)
 
 Κάνουμε remove τα submodules και παραμετροποιούμε καταλλήλώς για να μπορούν να ενσωματωθούν
