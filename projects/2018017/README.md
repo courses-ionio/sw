@@ -10,7 +10,7 @@
 | 2nd | [CV](#CV) |
 | 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
 | 4th | [Command-line exercise](#Command-line-exercises) |
-| 5th | [Participatory content](Participatory-Content) |
+| 5th | [Participatory content](#Participatory-Content) |
 | 6th | Command-line exercise |
 | 7th | CV |
 | 8th | Pull request @ CSCW website/other project |
