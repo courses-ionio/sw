@@ -49,7 +49,14 @@
 ### [asciinema link](https://asciinema.org/a/399140)
 
 ## <a name="Παραδοτέο 5">Παραδοτέο 5</a>
-## 2η άσκηση γραμμής εντολών</a>
+## 1ο συμμετοχικό περιεχόμενο</a>
 
-Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
+### [Αποθετήριο _gallery](https://github.com/cyclenikolaos/_gallery)
+### [Αρχείο fortran.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/fortran.md)
+### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/multitouch.md)
+### [Αποθετήριο images](https://github.com/cyclenikolaos/images)
+### [Εικόνα fortran.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran.jpg)
+### [Εικόνα fortran-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran-thumb.jpg)
+### [Εικόνα multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
+### [Εικόνα multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg)
 ### [asciinema link](https://asciinema.org/a/400978)
