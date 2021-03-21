@@ -77,7 +77,7 @@
 * [x] Ενημέρωσα το repository του βιβλίου μέσω των submodules και CLI με το νέο περιεχόμενο/φωτογραφία κάνοντας push.
 
 ## 1η Άσκηση Συμμετοχικού Περιεχομένου
-### [Σελίδα-1 1ης Άσκησης Συμμετοχικού Περιεχομένου](https://p18mantpibooksite.netlify.app/gallery/objective-c/)
+### [Σελίδα 1ης Άσκησης Συμμετοχικού Περιεχομένου](https://p18mantpibooksite.netlify.app/gallery/objective-c/)
 ### [Αποθετήριο 1ου Αιτήματος Ενσωμάτωσης](https://github.com/p18mant/site)
 
 #### [Σύνδεσμος γραμμής εντολών 1](https://asciinema.org/a/401005)
