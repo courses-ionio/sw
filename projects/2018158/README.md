@@ -46,3 +46,39 @@ asciinema link: https://asciinema.org/a/399194
 Φωτογραφία με τις ειδοποιήσεις από το Telegram.
 
 ![image](https://user-images.githubusercontent.com/44473312/111084951-b6a8e580-851d-11eb-9dec-a878ef68f31a.png)
+
+### Παραδοτέο 5
+Συμμετοχικό υλικό - Α .
+
+Α1.
+- Markdown files.
+
+https://github.com/AnTonyPapako/_gallery/blob/fe40cafb3e50cf2fdde32a9ca6c6cbfb538c79a1/augmented-reality.md
+
+https://github.com/AnTonyPapako/_gallery/blob/fe40cafb3e50cf2fdde32a9ca6c6cbfb538c79a1/virtual-reality.md
+
+- Images.
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/augmented-reality.jpg
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/virtual-reality.jpg
+
+- Thumb images.
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/augmented-reality-thumb.jpg
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/virtual-reality-thumb.jpg
+
+Α2.
+
+- Slides.
+
+https://github.com/AnTonyPapako/site/blob/57188442397e4395c6c6448c615f86a336ebf70d/_slides/synthesis.md
+
+- Timeline + (Thumb) Images in new .md's image_url file.
+
+https://github.com/AnTonyPapako/site/blob/57188442397e4395c6c6448c615f86a336ebf70d/_timeline/simulation.md
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/AR-or-VR.jpg
+
+https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/AR-or-VR-thumb.jpg
