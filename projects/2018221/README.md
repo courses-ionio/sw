@@ -71,6 +71,9 @@
 #### [Εκτελέσιμο Netlify gallery/simcity-videogame ](https://p18myro.netlify.app/gallery/simcity-videogame/)
 #### [Εκτελέσιμο Netlify slides/programming ](https://p18myro.netlify.app/slides/programming/)
 #### [Εκτελέσιμο Netlify slides/videogames](https://p18myro.netlify.app/slides/videogames/)
+#### [Εκτελέσιμο Netlify timeline/programming](https://p18myro.netlify.app/timeline/programming/)
+#### [Εκτελέσιμο Netlify timeline/videogames](https://p18myro.netlify.app/timeline/videogames/)
+
 
 
 
