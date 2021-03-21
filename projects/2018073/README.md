@@ -52,3 +52,29 @@ asciinema link: https://asciinema.org/a/399181
 
 ### Desktop notification
 ![screenshot telegram PC](https://user-images.githubusercontent.com/44473403/111084716-7137e880-851c-11eb-88a6-7b3571112b9f.png)
+
+
+## <a name="P">ΠΑΡΑΔΟΤΕΟ 5 - Προσθήκη δύο εικόνων στο pibook.epidro.me</a>
+
+### Α1 - Εικόνες - Copyright Free
+1) Netflix <br>
+  [Netflix markdown file with caption](https://github.com/FaidonTsetsis/_gallery/blob/2018073/netflix.md/) <br>
+  [Netflix.jpg](https://github.com/FaidonTsetsis/images/blob/2018073/netflix.jpg/) <br>
+  [Netflix-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/2018073/netflix-thumb.jpg/) <br>
+
+2) Nowadays-Computer <br>
+  [Nowadays-Computer markdown file with caption](https://github.com/FaidonTsetsis/_gallery/blob/2018073/nowadays-computer.md/) <br>
+  [Nowadays-Computer.jpg](https://github.com/FaidonTsetsis/images/blob/2018073/nowadays-computer.jpg/) <br>
+  [Nowadays-Computer-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/2018073/nowadays-computer-thumb.jpg/) <br>
+  
+### A2 - slides - timeline <br>
+[slide: models](https://github.com/FaidonTsetsis/site/blob/2018073/_slides/models.md/) <br> Εισαγωγή των slide netflix και nowadays-computer <br> <br>
+
+[timeline 1: mobile](https://github.com/FaidonTsetsis/site/blob/2018073/_timeline/mobile.md/) <br> Προυπάρχων timeline mobile: Εισαγωγή του event nowadays-computer και τροποποίηση του image_url στην αντίστοιχη εικόνα του event. <br> <br>
+[timeline 2: multitask](https://github.com/FaidonTsetsis/site/blob/2018073/_timeline/multitask.md/) <br> Δημιούργησα timeline multitask: Κύριο event netflix με το αντίστοιχο image_url και δημιουργία caption. <br>
+
+
+
+
+  
+
