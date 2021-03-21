@@ -46,7 +46,7 @@ Note: I made some changes to CV's format so I create new repository. The asciine
   </br>
      [Asciinema Video](https://asciinema.org/a/398905)
     </br>
-     Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4)
+     Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
        
     
 
