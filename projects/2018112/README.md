@@ -57,6 +57,9 @@ A1: Δύο νέες εικόνες με λεζάντα και με ελεύθε�
 - [1]  https://en.wikipedia.org/wiki/Blockly
 - [2]  https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT
 
+
+[Asciinema](https://asciinema.org/a/400811): Adding the submodules
+
 ---
 
 ### Βίντεο Κουίζ
