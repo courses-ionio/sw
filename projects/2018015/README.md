@@ -36,14 +36,13 @@ GitHub Profile: https://github.com/Efthimis015
 # 👽👽👽👽👽👽👽Παραδοτέα μαθήματος!👽👽👽👽👽👽👽
 
 
-## 👽Παραδοτέο 1
+### 👽Παραδοτέο 1 - Φορκ του αποθετηρίου.
 
-Για αυτό το παραδοτέο, έκανα fork του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw
-) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
-
+Για αυτό το παραδοτέο, έκανα fork του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
 
-## 👽Παραδοτέο 2 - Βιογραφικό
+
+### 👽Παραδοτέο 2 - Βιογραφικό.
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
 
@@ -51,23 +50,23 @@ GitHub Profile: https://github.com/Efthimis015
 
 
 
-## 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
+### 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
  Αίτημα ενσωμάτωσης στην ιστοσελίδα:
  
  Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
  
  
-## 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
+### 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
 # Α1
-## Εικόνα 1: Razer Mouse
+### Εικόνα 1: Razer Mouse
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/razer-mouse.md).
 
 
-## Εικόνα 2: Small PC
+### Εικόνα 2: Small PC
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/small-pc.md).
 
 # A2
-## Διαφάνιες και Χρονολόγιο
+### Διαφάνιες και Χρονολόγιο
 Link για το αποθετήριο διαφανιών: 
 - [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_slides/videogames.md)
 - [Small PC](https://github.com/Efthimis015/site/blob/master/_slides/gui.md)
