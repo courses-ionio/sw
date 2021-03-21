@@ -13,7 +13,7 @@
 | 2   | <a href="#P-2"> Bιογραφικό</a> |
 | 3   | <a href="#P-3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
 | 4   | <a href="#P-4"> Άσκηση γραμμής εντολών</a> |
-| 5   | Συμμετοχικό περιεχόμενο |
+| 5   | <a href="#P-5"> Συμμετοχικό περιεχόμενο |
 | 6   | Άσκηση γραμμής εντολών |
 | 7   | Bιογραφικό |
 | 8   | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -98,3 +98,18 @@ chmod +x updates.sh
 ```
 - Τo link για το asciinema: [asciinema](https://asciinema.org/a/398698)
 - To screenshot για το task notification: [telegram](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/telegram-notification.png)
+
+---
+## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a>
+- Όλη η διαδικασία προσθήκης του συμμετοχικού περιεχομένου βρίσκεται στο **[asciinema](https://asciinema.org/a/400994)**
+
+Παρακάτω βρίσκονται οι σύνδεσμοι για το ***forked repository site***, και τα ***submodules gallery & images***, μαζί με τα ***τροποποιημένα αρχεία***, αντίστοιχα.
+
+Το ***forked repository site*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[site repository](https://github.com/ntouloumtzis/site)** & **[changed files](https://github.com/ntouloumtzis/site/commit/9da5f1ef017f4932ffdf5b159f138eb51c0ecaf2)**
+
+Το ***forked gallery submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[gallery submodule](https://github.com/ntouloumtzis/_gallery)** & **[changed files](https://github.com/ntouloumtzis/_gallery/commit/f98f1e05bf3b29b7273be635ce452a7ad94e8dfc)**
+
+Το ***forked images submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[images submodule](https://github.com/ntouloumtzis/images)** & **[changed files](https://github.com/ntouloumtzis/images/commit/cc3aeeb08e954eb494dcd29eac8623654e57e3cc)**
