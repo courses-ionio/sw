@@ -47,6 +47,8 @@ email: p15kost@ionio.gr
 
 Λινκ Αποθετηρίου: https://github.com/p15kost/cv1
 
+Εγγραφή Asciinema: https://asciinema.org/a/396063
+
 
 
 ## Παραδοτέο 3:
@@ -62,6 +64,14 @@ Pull request: https://github.com/ioniodi/sitegr/pull/146
 
 Netlify Demo: https://jolly-nightingale-1c8cdd.netlify.app/posts/2020/10/25/iatrikh_akriveia_me_xrhsh_biodeiktwn/
 
+
+## Παραδοτέο 4:
+
+Fetch the weather forecast for your home city and one more city that you want to travel to.
+
+Χρησιμοποιώντας το wttr.in μπορούμε να εμφανίσουμε στο terminal τον καιρό απο οποιαδήποτε περιοχή του κόσμου σε ζωντανό χρόνο. Μπορούμε να εμφανίσουμε τον καιρό για τις επόμενες μέρες ή ώρες χρησιμοποιώντας το κατάλληλο format. Για την κατάλληλη εμφάνιση της πληροφορίας χρησιμοποίησα την API που προσφέρει το OpeWeather.
+
+Asciinema εγγραφή: https://asciinema.org/a/400995
 
 
 
