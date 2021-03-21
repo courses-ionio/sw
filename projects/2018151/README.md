@@ -97,7 +97,7 @@
 
 | Η αλλαγή μου | ο σύνδεσμος |
 | --- | --- |
-| Η προσθήκη του wordstar: | https://vxs5.netlify.app/gallery/wordstar/ |
+| Η προσθήκη του wordstar | https://vxs5.netlify.app/gallery/wordstar/ |
 | Η προσθήκη του freebsd | https://vxs5.netlify.app/gallery/freebsd/ |
 | To set απο θεματικές ενότητες | https://vxs5.netlify.app/slides/metaphors/ |
-| Το χρονολόγιο "μικροϋπολογιστές" | https://vxs5.netlify.app/timeline/micros/ |
+| Το χρονολόγιο "ορίζοντας τον υπολογισμό" | https://vxs5.netlify.app/timeline/computer/ |
