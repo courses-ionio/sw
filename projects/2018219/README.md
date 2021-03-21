@@ -62,10 +62,10 @@
       - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a>
    - <a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a>
       - Στον κατάλογο _slides έχουν τροποποιηθεί τα αρχεία
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/models.md">models.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/tools.md">tools.md</a>
+       <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>
+       <a href="https://github.com/p18mili1/site/blob/master/_slides/models.md">models.md</a>
+       <a href="https://github.com/p18mili1/site/blob/master/_slides/programming.md">programming.md</a>
+       <a href="https://github.com/p18mili1/site/blob/master/_slides/tools.md">tools.md</a>
       - Στον κατάλογο _timeline έχουν τροποποιηθεί τα αρχεία
        <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>
        <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a>
