@@ -58,8 +58,24 @@
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app)
-#### [Αρχείο simcity_Video ](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
-#### [Αρχείο Lisp programming language ](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/Lisp-programming-language.md)
+#### [Αρχείο simcity_Video  _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
+#### [Αρχείο Lisp programming language _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/Lisp-programming-language.md)
+#### [Αρχείο images Lisp-programming-language-thumb.png](https://github.com/p18myro/images/blob/ba4db3bb2c825351132615ccd3f657b0bacc04e6/Lisp-programming-language-thumb.png)
+#### [Αρχείο images Lisp-programming-language.png](https://github.com/p18myro/images/blob/ba4db3bb2c825351132615ccd3f657b0bacc04e6/Lisp-programming-language.png)
+#### [Αρχείο images simcity-videogame-thumb.png](https://github.com/p18myro/images/blob/ba4db3bb2c825351132615ccd3f657b0bacc04e6/simcity-videogame-thumb.png)
+#### [Αρχείο images simcity-videogame.png](https://github.com/p18myro/images/blob/ba4db3bb2c825351132615ccd3f657b0bacc04e6/simcity-videogame.png)
+#### [Εκτελέσιμο Netlify gallery/lisp-programming-language ](https://p18myro.netlify.app/gallery/lisp-programming-language/)
+#### [Εκτελέσιμο Netlify gallery/simcity-videogame ](https://p18myro.netlify.app/gallery/simcity-videogame/)
+#### [Εκτελέσιμο Netlify slides/programming ](https://p18myro.netlify.app/slides/programming/)
+#### [Εκτελέσιμο Netlify slides/videogames](https://p18myro.netlify.app/slides/videogames/)
+
+
+
+
+
+
+
+
 
 
 
