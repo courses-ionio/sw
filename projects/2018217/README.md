@@ -78,10 +78,10 @@
 
 ## 1η Άσκηση Συμμετοχικού Περιεχομένου
 ### [Σελίδα 1ης Άσκησης Συμμετοχικού Περιεχομένου](https://p18mantpibooksite.netlify.app/gallery/objective-c/)
-### [Αποθετήριο 1ου Αιτήματος Ενσωμάτωσης](https://github.com/p18mant/site)
+### [Αποθετήριο Συμμετοχικού Περιεχομένου](https://github.com/p18mant/site)
 
-#### [Σύνδεσμος γραμμής εντολών 1](https://asciinema.org/a/401005)
-#### [Σύνδεσμος γραμμής εντολών 2](https://asciinema.org/a/400622)
+#### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-1](https://asciinema.org/a/401005)
+#### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-2](https://asciinema.org/a/400622)
 
 ![Screenshot](paradoteo5-1.jpg)
 ![Screenshot](paradoteo5-2.jpg)
