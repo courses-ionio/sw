@@ -19,6 +19,8 @@ link repository online-cv :https://github.com/p18vogd/online-cv
 
 # Συμμετοχικό εκπαιδευτικό υλικό
 
+# A1 #
+
 **Περιγραφή:** Για το παρακάτω παραδοτέο (*Α1*) επέλεξα να προσθέσω δύο εικόνες απο την πολυμεσική εφαρμογή του VLC και δύο εικόνες για το Dcoder IDE καθώς και τα αντίστοιχα md αρχεία. Στο τέλος έχω προσθέσει και link από το asciinema που δείχνω με ποιο τρόπο τα έχω ανεβάσει. Η εργασία υλοποιήθηκε μέσα από docker χρησιμοποιώντας ένα Ubuntu 20.04 image.
 
 
@@ -37,3 +39,25 @@ vlc-player-thumb.png:https://github.com/p18vogd/gr/blob/gh-pages/images/vlc-play
 
 
 asciinema:https://asciinema.org/a/400930
+
+# A2 #
+**Περιγραφή:** Για τις θεματικές ενότητες πρόσθεσα το *Dcoder-IDE* σε ένα ίδη υπάρχον md αρχείο και δημιούργησα ένα νέο για το *VLC-player* το *multimedia-software.md*. Για το timeline πρόσθεσα το Dcoder και το VLC στα *programming.md* και *multimedia.md* αντίστοιχα.
+
+**Θεματικές Ενότητες:**
+
+multimedia-software: https://github.com/p18vogd/gr/blob/gh-pages/pages/slides/multimedia-software.md
+
+
+programming: https://github.com/p18vogd/gr/blob/gh-pages/pages/slides/programming.md
+
+**Χρονολόγιο:**
+
+
+multimedia:https://github.com/p18vogd/gr/blob/gh-pages/pages/timeline/multimedia.md
+
+
+
+programming:https://github.com/p18vogd/gr/blob/gh-pages/pages/timeline/programming.md
+
+asciinema:https://asciinema.org/a/400944
+
