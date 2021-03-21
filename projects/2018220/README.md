@@ -51,6 +51,8 @@
 ## <a name="Παραδοτέο 5">Παραδοτέο 5</a>
 ## 1ο συμμετοχικό περιεχόμενο</a>
 
+Έκανα fork τα repository site, images, _gallery. Έκανα εισαγωγή των φωτογραφιών και thumb και δημιουργία των .md αρχείων. Από το τερματικό, έκανα clone το site και σύνδεση των submodule. Έκανα push τις αλλαγές στο site.
+
 ### [Αποθετήριο _gallery](https://github.com/cyclenikolaos/_gallery)
 ### [Αρχείο fortran.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/fortran.md)
 ### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/multitouch.md)
