@@ -74,6 +74,13 @@
    - Αρχικά εγινε το cloning των 3 αποθετηρίων τοπικά και στη συνέχεια ακολούθησε η διαμόρφωση των αρχείων .md και των αρχείων εικόνων στα αποθετήρια _gallery και images. Η καταγραφή αρχίζει από το σημείο αυτό και περιλμαβάνει το pushing των repos, την αφαίρεση και την προσθήκη των submodules και τέλος το pushing του αποθετηρίου site. 
    - <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
    - <a href="https://mybookp18mili1.netlify.app">Σύνδεσμος netlify του βιβλίου</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/gallery/etoys/"> gallery/etoys</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/slides/tools/">slides/tools etoys</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/timeline/programming/">timeline/programming etoys</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/gallery/google-translate/">gallery/google-translate</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/slides/models/">slides/models google-translate</a>
+   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/timeline/multimedia/">timeline/multimedia google-translate</a>
+ 
 
 
 &nbsp;&nbsp;
