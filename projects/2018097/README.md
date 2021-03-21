@@ -41,3 +41,10 @@
 Για να δοκιμάσει κάποιος αν εμφανίζονται οι ειδοποιήσεις μπορεί να γράψει το command <<notify-send "This is a pop window notification">>, το οποίο θα εμφανίσει εκείνη την στιγμή ένα νεό παράθυρο με το μήνυμα "This is a pop window notification".</br>
 
 
+**<a name="P5">5η εβδομάδα</a>**<br/>
+Για το συμμετοχικό υλικό αυτής της εβδομάδας επέλεξα να προσθέσω την πρώτη ακτινογραφία που δημιουργήθηκε. 
+
+- Ακτινογραφία:
+  - [Πρώτη Ακτινογραφία](https://github.com/rmfe/_gallery/blob/2018097/xray-first-photo.md)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/xray.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/xray-thumb.jpg)
