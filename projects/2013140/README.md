@@ -438,14 +438,14 @@ git rm -f images
 git rm -f _gallery
 ~~~
 
-το αρχείο gitmodules παίρνει το link των δικών μας repo: 
-[![gitmodules.png](https://i.postimg.cc/2yP3dCzQ/gitmodules.png)](https://postimg.cc/QKJXhGKC)
-
 Συνεχίζουμε κάνοντας προσθέτοντας τα δικά μας submodules: 
 ~~~bash
 git submodule add https://github.com/p13brif/images.git
 git submodule add https://github.com/p13brif/_gallery.git
 ~~~
+
+το αρχείο gitmodules παίρνει το link των δικών μας repo: 
+[![gitmodules.png](https://i.postimg.cc/2yP3dCzQ/gitmodules.png)](https://postimg.cc/QKJXhGKC)
 
 Tωρα μπορούμε να πειραματιστούμε locally πριν κάνουμε commit και push στο master branch.
 
@@ -464,6 +464,7 @@ git submodule update --remote --merge
 ~~~
 
 Είμαστε έτοιμοι για το commit στο github.
+
 [![asciicast](https://asciinema.org/a/lmuDjHFdngUUNuBXanTeruUrz.svg)](https://asciinema.org/a/lmuDjHFdngUUNuBXanTeruUrz)
 
 Πρέπει τώρα να τρέξουμε το site μας στο netlify. Ακολουθάμε τον γνωστό τρόπο, επιλέγοντας
@@ -476,15 +477,19 @@ git submodule update --remote --merge
  Έχουμε προσθέσει 2 καινούριες εικόνες, 1 slide και 1 χρονολόγιο.
  
  keyboard image1:
+ 
  [![mystifying-mech.png](https://i.postimg.cc/sDmH61FD/mystifying-mech.png)](https://postimg.cc/mtcShL20)
  
  keyboard image2:
+ 
  [![keyboard-lego-panw.png](https://i.postimg.cc/rsKsBKnX/keyboard-lego-panw.png)](https://postimg.cc/MfJzRKJd)
  
  slides:
+ 
  [![suskeves-eisodou-up.png](https://i.postimg.cc/CKGq7Btc/suskeves-eisodou-up.png)](https://postimg.cc/Lqs56XmP)
  
  timeline:
+ 
  [![timeline-up.png](https://i.postimg.cc/GtWL6zTG/timeline-up.png)](https://postimg.cc/JHQCkNqz)
  
  Και το link της σελίδας μας:
