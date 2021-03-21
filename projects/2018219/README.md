@@ -11,7 +11,7 @@
     <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
     <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td></tr>
     <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a></td></tr>
-    <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό περιεχόμενο</a></td></tr>
+    <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td></tr>
     <tr><td align="center">6</td><td align="left"><a href="#P6">Άσκηση γραμμής εντολών</a></td></tr>
     <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό</a></td></tr>
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
@@ -51,7 +51,7 @@
   - Ο υπεύθυνος είναι οι προηγούμενες γενιές προγραμματιστών (ουσιαστικά οι μεγάλες εταιρείες λογισμικού που κατευθύνουν την εξέλιξη, δεν το λέει ο Victor αλλά δεν χρειάζεται κιόλας). Όπως με όλα τα πράγματα, ο μόνος τρόπος για να σκεφτεί κάποιος με νέους τρόπους είναι να θεωρήσει ότι δεν ξέρει τίποτα και να μην θεωρεί τίποτα ως δεδομένη γνώση. Κατά κανόνα, το θέσφατο είναι ο εχθρός της καινοτομίας.
 &nbsp;&nbsp;
 ## <a name="P5">Παραδοτέο 5</a>
-## <a href="#P">Συμμετοχικό περιεχόμενο</a>
+## <a href="#P">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a>
    - <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a>
       - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
       - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a>
