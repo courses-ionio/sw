@@ -47,3 +47,9 @@
 
 Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
 ### [asciinema link](https://asciinema.org/a/399140)
+
+## <a name="Παραδοτέο 5">Παραδοτέο 5</a>
+## 2η άσκηση γραμμής εντολών</a>
+
+Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
+### [asciinema link](https://asciinema.org/a/399140)
