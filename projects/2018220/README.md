@@ -52,4 +52,4 @@
 ## 2η άσκηση γραμμής εντολών</a>
 
 Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
-### [asciinema link](https://asciinema.org/a/399140)
+### [asciinema link](https://asciinema.org/a/400978)
