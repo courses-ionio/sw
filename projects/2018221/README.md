@@ -57,7 +57,7 @@
 Έγιναν fork τα repositories site, images και _gallery από το pibook. Στην συνέχεια έγινε προσθήκη από την  γραμμή εντολών των φωτογραφιών και των thumb στο repository images και δημιουργία ενός αρχείου .md για κάθε φωτογραφία στο repository _gallery. Στην συνέχεια έγινε clone το repository site στο terminal και σύνδεση των submodules. Τέλος έγινε push οι αλλαγές στο  από το terminal στο site.
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
-![Screenshot](Συμμετοχικό περιεχόμενο part 1.png)
+![Screenshot](Συμμετοχικό περιεχόμενο part 1 .png)
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app)
 #### [Αρχείο simcity_Video  _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
 #### [Αρχείο Lisp programming language _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/Lisp-programming-language.md)
