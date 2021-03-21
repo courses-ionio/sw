@@ -35,6 +35,10 @@
 Για να ολοκληρώσω την πρώτη άσκηση γραμμής εντολών του μαθήματος συχρόνισα τον υπολογιστή μου με ένα καινούριο λειτουργικό linux, δημιούργησα ένα νέο κλειδί SSH και το πρόσθεσα στα κλειδιά μου στο GitHub. Εν συνεχεία, αφού αντέγραψα το ήδη υπάρχων [αποθετήριο του βιογραφικού μου](https://github.com/p15bako/cv-resume-1), επεξεργάστηκα το αρχείο index.html αλλάζοντας απλά μια φράση. Μετά τις αλλαγές έκανα add, commit και push των αλλαγών αυτών στο αποθετήριο του GitHub. Tέλος, έκανα deploy το site στο Netlify, για να βεβαιωθώ ότι λειτουργεί σωστά και πώς περάστηκαν οι αλλαγές μου. Παρακάτω φαίνεται η διαδικασία της γραμμής εντολών. [Asciinema link](https://asciinema.org/a/k8Y5oSVSoDwy36fy4pwt66xeD)
 
 
+# <a name="E">Συμμετοχικό Περιεχόμενο 1</a>
+Για το συμμετοχικό περιεχόμενο αυτής της εβδομάδας, πρόσθεσα δύο νέες εικόνες.
+Η πρώτη εικόνα είναι η εφαρμογή της Microsoft Cortana. [gallery](https://github.com/p15bako/_gallery/blob/2015034/Microsoft_Cortana.md) [images](https://github.com/p15bako/images/blob/2015034/Microsoft_Cortana.png) [timeline](https://github.com/p15bako/site/blob/master/_timeline/multimedia.md) [slide](https://github.com/p15bako/site/blob/master/_slides/models.md) 
+Η δεύτερη εικόνα είναι το πρώτο μέσο βιντεοκλήσης, το AT&T Picturephone. [gallery](https://github.com/p15bako/_gallery/blob/2015034/AT&T_Picturephone.md) [images](https://github.com/p15bako/images/blob/2015034/AT%26T_Picturephone.jpg) [timeline](https://github.com/p15bako/site/blob/2015034/_timeline/collaboration.md) [slide](https://github.com/p15bako/site/blob/2015034/_slides/tools.md)
 
 
 
