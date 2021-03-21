@@ -11,7 +11,7 @@
 | 2 | [Βιογραφικό 1](#Βιογραφικό-1) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -81,3 +81,14 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 |Παρακολούθηση του τρίτου βίντεο κουίζ |`Bret Victor the future of programming`|
 |---|---|
 
+
+##
+## Συμμετοχικό περιεχόμενο
+
+| A1 ||
+| --- | --- |
+|[Rasberry Pi OS](https://github.com/KaterinaLaz/_gallery/blob/master/raspberry-pi-os.md), [HTML5](https://github.com/KaterinaLaz/_gallery/blob/master/html5.md)|[Rasberry Pi OS](https://github.com/KaterinaLaz/images/blob/master/pios.jpg), [Rasberry Pi OS thumb](https://github.com/KaterinaLaz/images/blob/master/pios-thumb.png), [HTML5](https://github.com/KaterinaLaz/images/blob/master/html5.jpg), [HTML5 thumb](https://github.com/KaterinaLaz/images/blob/master/html5-thumb.png) |
+
+| A2 ||
+| --- | --- |
+|[timeline html5](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md), [timeline Rasberry Pi OS](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)|[slides html5](https://github.com/KaterinaLaz/site/blob/master/_slides/tools.md), [slides Rasberry Pi OS](https://github.com/KaterinaLaz/site/blob/master/_slides/gui.md)|
