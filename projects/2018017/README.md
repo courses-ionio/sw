@@ -10,7 +10,7 @@
 | 2nd | [CV](#CV) |
 | 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
 | 4th | [Command-line exercise](#Command-line-exercises) |
-| 5th | Participatory content |
+| 5th | [Participatory content](Participatory-Content) |
 | 6th | Command-line exercise |
 | 7th | CV |
 | 8th | Pull request @ CSCW website/other project |
@@ -45,3 +45,9 @@ Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQ
 |                 1st                |                                                            Deliverables                                                            |                               Asciinema                               |  Commit  |
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:--------:|
 | Test an alternative stack of tools | Set-up an OS image with a set of CLI tools with minimal dependencies and a software license that allows commercial use and selling | [Jailed C process](https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB) | &#x2611; |
+
+### Participatory Content
+https://github.com/provopoulos/site/tree/2018017-test<br>
+https://github.com/provopoulos/images/tree/2018017-test<br>
+https://github.com/provopoulos/_gallery/tree/2018017-test<br>
+Demo: https://lucid-torvalds-b422b6.netlify.app/
