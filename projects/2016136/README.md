@@ -144,24 +144,46 @@ reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=most
 
 [Reference για τα submodules video](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=505s&ab_channel=CameronMcKenzie)
 
-Siri Apple 
+- Siri Apple 
+
+ A1:Πρόσθεσα τις δυο φωτογραφίες στο images και το αντίστοιχο κείμενο στο _gallery 
  
-[Netlify Link Siri-Apple](https://mypibook.netlify.app/gallery/siri-apple/) 
+[Netlify Link Siri-Apple Images](https://mypibook.netlify.app/gallery/siri-apple/)
 
-A1:Στην συνέχεια πρόσθεσα τις δυο φωτογραφίες στο images και το αντίστοιχο κείμενο στο _gallery  
-
-[Repository Link images](https://github.com/p16pyla/images/tree/2016136) και Link από τα αρχεία που εφτιαξα [εικονα1](https://github.com/p16pyla/images/blob/2016136/siri-apple.png) [εικόνα 2](https://github.com/p16pyla/images/blob/2016136/siri-apple-thumb.png) 
+[Repository Ιmages](https://github.com/p16pyla/images/tree/2016136) και [αρχείο_1_images](https://github.com/p16pyla/images/blob/2016136/siri-apple.png) + [αρχείο_2images](https://github.com/p16pyla/images/blob/2016136/siri-apple-thumb.png)
 
 [Repository Link _gallery](https://github.com/p16pyla/_gallery/tree/2016136) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/_gallery/blob/2016136/siri-apple.md)   
 
 Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Τρόποι διάδρασης” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
 
-[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md) 
+[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και [το αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md)
 
-[Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)  
-
-
-
+[Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) 
+και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)
 
 
-Τα quiz των εβδομάδων : 1,4      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
+- Ios Apple
+
+[Link Repository Site](https://github.com/p16pyla/site)
+
+A1:Πρόσθεσα τις δυο φωτογραφίες στο images και το αντίστοιχο κείμενο στο _gallery 
+
+[Netlify Link Ios-Apple Εικόνες](https://mypibook.netlify.app/gallery/ios-apple/)
+
+[Repository images](https://github.com/p16pyla/images/tree/2016136)  και [Αρχειο_1_images](https://github.com/p16pyla/images/blob/2016136/ios-apple.jpg) + [Αρχειο_2_images](https://github.com/p16pyla/images/blob/2016136/ios-apple-thumb.jpg)
+
+[Repository Link _gallery](https://github.com/p16pyla/_gallery/commit/e4137a251f50256853e80b23535c28ec574ba994)
+
+Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Γραφική διεπαφή χρήστη ” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
+
+[Netlify Link Ios-Apple Σετ Διαφανειών](https://mypibook.netlify.app/slides/gui/)
+
+[Netlify Link Ios-Apple Χρονολόγιο](https://mypibook.netlify.app/timeline/systems/)
+
+[Repository Slides](https://github.com/p16pyla/site/tree/2016136/_slides) και το [αρχειο](https://github.com/p16pyla/site/blob/2016136/_slides/gui.md)
+
+[Repository Timline](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md) και το [αρχειο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)
+
+
+
+Τα quiz των εβδομάδων : 1,4,5      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
