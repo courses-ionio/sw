@@ -57,6 +57,15 @@ For the first part of this task (a1), I added to the forked repository two new i
 |[Visi-On](https://github.com/mariachlkt/_gallery/blob/P2018181/visi-on.md)|[Visi On Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os.png)| [Visi On Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os_thumb.png) |
 | [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) |
 
+</br>
+
+For the second part of this task (a2), I added to an existed slide and timeline the above images.
+</br>
+|**Slide's Link** | **Timeline's Link** |
+|:---------:| :--------: | 
+|[GUI](https://github.com/mariachlkt/site/blob/P2018181/_slides/gui.md)|[Systems](https://github.com/mariachlkt/site/blob/P2018181/_timeline/systems.md)|
+</br>
+
 ## Second Quiz
 </br>
 <details>
@@ -75,7 +84,7 @@ For the first part of this task (a1), I added to the forked repository two new i
 <details>
   <summary>Ποια είναι σύμφωνα με τον Τεντ Νέλσον τα προβλήματα της γραφικής διεπαφής με αρχεία, φακέλους, και εφαρμογές και ποιες είναι οι τεχνολογίες στις οποίες θα πρέπει να βασίζεται με γραφική διεπαφή;</summary>
 Με βάση τον Τεντ Νελσον, σε Unix λειτουργικά συστήματα  (Linux) δεν επιτρέπονταν η πρόσβαση και η ανάγνωση  αρχείων/εφαρμογών, όταν αυτά κατείχαν κενά στο όνομά τους, δημιουργώντας πρόβλημα συμβατότητας σε αρχεία που προέρχονταν από Windows  και MacOS. Παράλληλα, μία γραφική διεπαφή θα έπρεπε να στηρίζεται στην ιεραρχία των καταλόγων (directories), δηλαδή κάθε φάκελος να περιέχει ονόματα άλλων φακέλων (hierarchical directories).
-</details>
+</details> 
 </br>
 <details>
   <summary>Γιατί είναι τόσο απαραίτητοι όσοι γνωρίζουν την τεχνολογία λογισμικού στις βάσεις δεδομένων;</summary>
