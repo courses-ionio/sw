@@ -18,9 +18,11 @@
 |**Eleventh** | **Command-line Exercise** |  
 |**Twelth** | **Final Report** | 
 </br>
+
 ## Introduction 
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
+
 ## CV 
 You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
 </br>
@@ -28,6 +30,7 @@ You can check my [CV](https://mariachlkt.github.io/resume-sw/).
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
 </br>
+
 ## PR-Site  
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
@@ -42,6 +45,7 @@ Note: I made some changes to CV's format so I create new repository. The asciine
     </br>
      Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
+
 ## Participatory Content 
 For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
 </br>
