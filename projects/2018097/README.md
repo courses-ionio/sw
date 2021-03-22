@@ -42,9 +42,13 @@
 
 
 **<a name="P5">5η εβδομάδα</a>**<br/>
-Για το συμμετοχικό υλικό αυτής της εβδομάδας επέλεξα να προσθέσω την πρώτη ακτινογραφία που δημιουργήθηκε. 
+Για το συμμετοχικό υλικό αυτής της εβδομάδας επέλεξα να προσθέσω την εφαρμογή Azure της Microsoft, η οποία κυκλοφόρησε πρώτη φορά το 2010, καθώς και την αρχιτεκτονική των web services στην πιο απλή της μορφή.  
 
-- Ακτινογραφία:
-  - [Πρώτη Ακτινογραφία](https://github.com/rmfe/_gallery/blob/2018097/xray-first-photo.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/xray.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/xray-thumb.jpg)
+- Microsoft Azure:
+  - [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/azure.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/azure-thumb.jpg)
+- Web Service Architecture:
+  - [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg)
