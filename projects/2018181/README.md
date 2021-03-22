@@ -36,6 +36,7 @@ Note: I made some changes to CV's format so I create new repository. The asciine
 |:---------:| :--------: |  :--------: |  :--------: | 
 | **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
 </br>
+
 ## Command-line Exercise
 **First Deliverable:** 
   </br> 
