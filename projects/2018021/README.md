@@ -18,7 +18,7 @@
 | <ul><li>- [x] </li></ul> | 2 | Βιογραφικό |
 | <ul><li>- [x] </li></ul> | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [x] </li></ul> | 4 | Άσκηση γραμμής εντολών |
-| <ul><li>- [ ] </li></ul> | 5 | Συμμετοχικό περιεχόμενο |
+| <ul><li>- [x] </li></ul> | 5 | Συμμετοχικό περιεχόμενο |
 | <ul><li>- [ ] </li></ul> | 6 | Άσκηση γραμμής εντολών |
 | <ul><li>- [ ] </li></ul> | 7 | Βιογραφικό |
 | <ul><li>- [ ] </li></ul> | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -74,5 +74,27 @@
 Το αποθετήριο επίσης χρησιμοποιεί Travis CI για την ανίχνευση σφαλμάτων της σελίδας μετά από κάθε commit. Το σύστημα δουλεύει αλλά το Travis βγάζει σφάλμα διότι το [html-proofer](https://github.com/gjtorikian/html-proofer) script βρίσκει λάθος σε ένα αρχείο (όχι δικό μου). Για τη ρύθμιση του Travis CI πρόσθεσα κάποια αρχεία στο αποθετήριο και άλλαξα μερικά από τα ήδη υπάρχοντα. Τη διαδικασία του τερματικού την κατέγραψα με το [asciinema](https://asciinema.org/a/398413).
 
 
-### Παραδοτέο 5 (υπό κατασκευή)
+### Παραδοτέο 5
 
+**Για την υλοποίηση αυτού του παραδοτέου ακολουθήθηκε η εξής διαδικασία:**
+
+- Έκανα [fork](https://github.com/PaulosKal/site) το αποθετήριο της ιστοσελίδας του μαθήματος
+- Έκανα [fork](https://github.com/PaulosKal/_gallery/tree/ab50417eb8905c86aef68b9a7a91e02c3275e1c0) το submodule _gallery και
+- [fork](https://github.com/PaulosKal/images/tree/aab356a8e64db33662ab30c23a82923c2b264e08) το submodule images για να προσθέσω περιεχόμενο
+- Άλλαξα το [configuration](https://github.com/PaulosKal/site/commit/dfeffbd53dd0cf64d0c586785bf39de0b7df59da) των παραπάνω submodules ώστε να δείχνουν στα δικά μου
+- Πρόσθεσα το νέο περιεχόμενο (παρακάτω) σύμφωνα με τη διαδικασία που απαιτούν τα submodules ([asciinema link](https://asciinema.org/a/401093))
+- Άλλαξα το [_conig.yml](https://github.com/PaulosKal/site/commit/9d8fd17dbe9773502983d54a6def55b8cd734088) για να υποστηρίζει custom deploy στο Netlify
+- Είδα όλες τις αλλαγές στη [δική μου έκδοση του site στο Netlify](https://6057fdc7fc8a06d65444c72d--gracious-shannon-ea8d87.netlify.app/)
+
+**Περιεχόμενο που προστέθηκε/τροποποιήθηκε:**
+
+- [_gallery/assembly.md](https://github.com/PaulosKal/_gallery/blob/ab50417eb8905c86aef68b9a7a91e02c3275e1c0/assembly.md)
+- [_gallery/gis.md](https://github.com/PaulosKal/_gallery/blob/ab50417eb8905c86aef68b9a7a91e02c3275e1c0/gis.md)
+- [images/assembly.png](https://github.com/PaulosKal/images/blob/aab356a8e64db33662ab30c23a82923c2b264e08/assembly.png)
+- [images/assembly-thumb.png](https://github.com/PaulosKal/images/blob/aab356a8e64db33662ab30c23a82923c2b264e08/assembly-thumb.png)
+- [images/gis.png](https://github.com/PaulosKal/images/blob/aab356a8e64db33662ab30c23a82923c2b264e08/gis.png)
+- [images/gis-thumb.png](https://github.com/PaulosKal/images/blob/aab356a8e64db33662ab30c23a82923c2b264e08/gis-thumb.png)
+- [_slides/programming.md](https://github.com/PaulosKal/site/blob/master/_slides/programming.md)
+- [_slides/tools.md](https://github.com/PaulosKal/site/blob/master/_slides/tools.md)
+- [_timeline/programming.md](https://github.com/PaulosKal/site/blob/master/_timeline/programming.md)
+- [_timeline/geographic-systems.md](https://github.com/PaulosKal/site/blob/master/_timeline/geographic-systems.md)
