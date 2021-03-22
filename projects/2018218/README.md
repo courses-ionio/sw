@@ -6,7 +6,7 @@
 | 2 | βιογραφικό .<sup><a href="#2">[ΠΑΡΑΔΟΤΕΟ 2]</a></sup>|
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα.<sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup>|
 | 4 | Άσκηση γραμμής εντολών|
-| 5 | Συμμετοχικό περιεχόμενο|
+| 5 | Συμμετοχικό περιεχόμενο.<sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup>|
 | 6 | Άσκηση γραμμής εντολών|
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -44,4 +44,38 @@
 
  - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
   - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
+ 
+ ###### [3]
+ 
+Προσθήκη Μαθήματος E εξαμήνου
+"Θεωρία Γραφημάτων και Εφαρμογές"
 
+ - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
+  - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
+
+ ###### [3]
+ 
+Προσθήκη Μαθήματος E εξαμήνου
+"Θεωρία Γραφημάτων και Εφαρμογές"
+
+ - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
+  - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
+
+###### [5]
+
+Ολη η διαδικασία επεξεργασίας των submodules έγιναν με εντολές git από to terminal σε λειτουργικό ubuntu.
+Οι εντολές που χρησιμοποιήθηκαν ήταν:
+
+```sh
+ 1) git clone < repository > --recursive  
+ 2) git submodule sync --recursive
+ 3) git submodule update --remote --merge
+ 4) git push
+```
+
+- [Σύνδεσμος Βιβλίου](https://romantic-varahamihira-b4537e.netlify.app/)
+- - [Σύνδεσμος Εκτελέσιμου](https://romantic-varahamihira-b4537e.netlify.app//gallery/pinball-construction-set/)
+  
+  - [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
+
+Το Pinball Construction Set ήταν η πρώτη εφαρμογή που είδαν ποτέ οι περισσότεροι που χρησιμοποίησαν το πλέον τυπικό μοντέλο οπτικού αντικειμένου στο οποίο ο χρήστης αλληλεπιδρά με μια τρέχουσα εφαρμογή για να δημιουργήσει και να τροποποιήσει περιεχόμενο σύροντας εικονίδια στην οθόνη. Το Pinball Construction Set κυκλοφόρησε το 1983 ενώ ο πρώτος Macintosh κυκλοφόρησε το 1984. Αυτό σημαίνει ότι το Pinball Construction Set ήταν το πρώτο κομμάτι λογισμικού που πουλήθηκε ποτέ και είχε κάτι σαν ένα σύγχρονο γραφικό περιβάλλον εργασίας χρήστη. Τουλάχιστον, ήταν από τις πρώτες δημοφιλείς εφαρμογές GUI (graphical user interface).
