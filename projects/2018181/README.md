@@ -10,7 +10,7 @@
 |**Second** | [CV](#CV) |
 |**Third** |  [Integration Into Website](#PR-Site) |
 |**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
-|**Fifth** |  **Participatory Content** |
+|**Fifth** |  [Participatory Content](#Participatory-Content) |
 |**Sixth** |  **Command-line Exercise** |  
 |**Seventh** | **CV**|
 |**Eighth** |  **Integration Into Website** |
