@@ -154,9 +154,9 @@ A1:Στην συνέχεια πρόσθεσα τις δυο φωτογραφίε
 
 [Repository Link _gallery](https://github.com/p16pyla/_gallery/tree/2016136) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/_gallery/blob/2016136/siri-apple.md)   
 
-Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Έξυπνες διεπαφές χρήστη” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
+Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Τρόποι διάδρασης” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
 
-[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/iui.md) 
+[Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md) 
 
 [Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) και Link από την προσθήκη πληροφορίας στο [αρχείο](https://github.com/p16pyla/site/blob/2016136/_timeline/systems.md)  
 
