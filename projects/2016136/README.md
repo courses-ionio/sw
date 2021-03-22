@@ -156,6 +156,10 @@ reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=most
 
 Α2: Πρόσθεσα το περιεχόμενο μου στο σετ θεματικών διαφανειών “Τρόποι διάδρασης” και στο Χρονολόγιο στο “Διαδραστικά Συστήματα”
 
+[Netlify Link Slides](https://mypibook.netlify.app/slides/styles/)
+
+[Netlify Link Timeline](https://mypibook.netlify.app/timeline/systems/)
+
 [Repository Link slides](https://github.com/p16pyla/site/tree/2016136/_slides) και [το αρχείο](https://github.com/p16pyla/site/blob/2016136/_slides/styles.md)
 
 [Repository Link timeline](https://github.com/p16pyla/site/tree/2016136/_timeline) 
