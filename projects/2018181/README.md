@@ -20,20 +20,19 @@
 |**Twelth** | **Final Report** | 
 </br>
 
-### Introduction 
+## Introduction 
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
 
-### CV 
+## CV 
 You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
 </br>
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
-
 </br>
 
-### PR-Site  
+## PR-Site  
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
 | **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
@@ -50,14 +49,12 @@ Note: I made some changes to CV's format so I create new repository. The asciine
 </br> 
 
 ## Participatory Content 
-
 For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
 </br>
 |**Caption's Link** | **Image's Link** | **Thumb Image's Link** |
 |:---------:| :--------: | :----------: |
 |[Visi-On](https://github.com/mariachlkt/_gallery/blob/P2018181/visi-on.md)|[Visi On Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os.png)| [Visi On Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os_thumb.png) |
 | [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) |
-
 </br>
 
 For the second part of this task (a2), I added to an existed slide and timeline the above images.
