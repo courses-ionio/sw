@@ -48,6 +48,7 @@ Note: I made some changes to CV's format so I create new repository. The asciine
     </br>
      Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
+
 ## Participatory Content 
 
 For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
