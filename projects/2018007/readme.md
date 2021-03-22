@@ -52,6 +52,7 @@
 Αφού πέρασα τον έλεγχο του netlify που πραγματοποιείται αυτόματα, αναμένω την θετική ανταπόκριση των συντονιστών για το τελικό βήμα που θα κλείσει το issue μου, #51.
 **Update** Πρόσθεσα στα παραπάνω bullets το site μου στο Netlify.
 **Update** Διόρθωσα το link της ιστοσελίδας στο Netlify ώστε να δείχνει στην ανακοίνωση που πρόσθεσα.
+**Update** Πήρα έγκριση από 3 επιβλέποντες αλλά όχι ακόμη από τον κύριο Χωριανόπουλο, αναμένουμε θετική ανταπόκριση!
 #
 ### Παραδοτέο 4
 
@@ -69,7 +70,22 @@
 * Αρχικά, έκανα φορκ των gallery, images και site.
 * Μετά έσβησα με τη χρήση τερματικού τα submodules που έδειχναν στο [pibook/\_gallery](https://github.com/pibook/_gallery/) και [pibook/images](https://github.com/pibook/images) αντίστοιχα.
 * Πρόσθεσα submodules που να δείχνουν στα δικά μου [\_gallery](https://github.com/panagiotismouts/_gallery/tree/c23dadc854bb277c1ffc50ab467e6182f627abed) και [images](https://github.com/panagiotismouts/images/tree/303e0fe11dab7f40817d4d5eb06d92c2c38353ad)
-* Άλλαξα το \_config.yml της σελίδας εκεί που έπρεπε ώστε να ορίσω το δικό μου αντίγραφο στο Netlify (το οποίο και δούλεωε, ευτυχώς).
+* Άλλαξα το \_config.yml της σελίδας εκεί που έπρεπε ώστε να ορίσω το δικό μου αντίγραφο στο Netlify (το οποίο και δούλεψε, ευτυχώς).
 * [Netlify Link](https://musing-yalow-b9d713.netlify.app/)
 * Πρόσθεσα το παραπάνω Netlify link στην [αρχική σελίδα](https://github.com/panagiotismouts/site)
-* Τέλος, πρόσθεσα τα αντίστοιχα παραδοτέα στους φακέλους [\_gallery](), [images](), [\_timeline] και [\_slides]()
+* Τέλος, πρόσθεσα τα αντίστοιχα παραδοτέα στους φακέλους [\_gallery](https://github.com/panagiotismouts/_gallery/tree/c23dadc854bb277c1ffc50ab467e6182f627abed), [images](https://github.com/panagiotismouts/images/tree/303e0fe11dab7f40817d4d5eb06d92c2c38353ad), [\_timeline](https://github.com/panagiotismouts/site/tree/master/_timelinehttps://github.com/panagiotismouts/site/tree/master/_timeline) και [\_slides](https://github.com/panagiotismouts/site/tree/master/_slides)
+* Στον φάκελο \_gallery, πρόσθεσα τα αρχεία [ipod-4.md](https://github.com/panagiotismouts/_gallery/blob/c23dadc854bb277c1ffc50ab467e6182f627abed/ipod-4.md) και [screen-projector.md](https://github.com/panagiotismouts/_gallery/blob/c23dadc854bb277c1ffc50ab467e6182f627abed/screen-projector.md)
+* Στον φάκελο images, πρόσθεσα τα αρχεία [ipod-4.png](https://github.com/panagiotismouts/images/blob/303e0fe11dab7f40817d4d5eb06d92c2c38353ad/ipod-4.png), [ipod-4-thumb.png](https://github.com/panagiotismouts/images/blob/303e0fe11dab7f40817d4d5eb06d92c2c38353ad/ipod-4-thumb.png), [screen-projector.png](https://github.com/panagiotismouts/images/blob/303e0fe11dab7f40817d4d5eb06d92c2c38353ad/screen-projector.png) και [screen-projector-thumb.png](https://github.com/panagiotismouts/images/blob/303e0fe11dab7f40817d4d5eb06d92c2c38353ad/screen-projector-thumb.png)
+* Στον φάκελο \_timeline, τροποποίησα τα αρχεία [collaboration.md](https://github.com/panagiotismouts/site/blob/master/_timeline/collaboration.md), [multimedia.md](https://github.com/panagiotismouts/site/blob/master/_timeline/multimedia.md)και [mobile.md](https://github.com/panagiotismouts/site/blob/master/_timeline/mobile.md).
+* Στον φάκελο \_slides, τροποποίησα τα αρχεία [visualization.md](https://github.com/panagiotismouts/site/blob/master/_slides/visualization.md), [models.md](https://github.com/panagiotismouts/site/blob/master/_slides/models.md) και [tools.md](https://github.com/panagiotismouts/site/blob/master/_slides/tools.md).
+
+Μετά από αξιοποίηση του Netlify, όλα εμφανίζονται κανονικά και εκεί που πρέπει.
+* [iPod 4](https://musing-yalow-b9d713.netlify.app/gallery/ipod-4/)
+* [Screen Projector](https://musing-yalow-b9d713.netlify.app/gallery/screen-projector/)
+* [Timeline, Multimedia](https://musing-yalow-b9d713.netlify.app/timeline/multimedia/)
+* [Timeline, Mobile](https://musing-yalow-b9d713.netlify.app/timeline/mobile/)
+* [Timeline, Collaboration](https://musing-yalow-b9d713.netlify.app/timeline/collaboration/)
+* [Slides, Models](https://musing-yalow-b9d713.netlify.app/slides/models/)
+* [Slides, Tools](https://musing-yalow-b9d713.netlify.app/slides/tools/)
+* [Slides, Visualization](https://musing-yalow-b9d713.netlify.app/slides/visualization/)
+#
