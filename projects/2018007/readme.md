@@ -59,3 +59,17 @@
 
 * [Το λινκ στο asciinema](https://asciinema.org/a/398689)
 * [Το λινκ της σελίδας στο Netlify](https://adoring-raman-7ef2b5.netlify.app/)
+#
+### Παραδοτέο 5
+
+Για την εβδομάδα αυτή, έπρεπε να ασχοληθούμε με το συμμετοχικό περιεχόμενο , το οποίο περιέχει 2 εργασίες.
+Α1 : Προσθήκη δύο νέων εικόνων με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
+Α2 : Ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο νέες εικόνες από το Α1 με εικόνες που ήδη υπάρχουν.
+
+* Αρχικά, έκανα φορκ των gallery, images και site.
+* Μετά έσβησα με τη χρήση τερματικού τα submodules που έδειχναν στο [pibook/\_gallery](https://github.com/pibook/_gallery/) και [pibook/images](https://github.com/pibook/images) αντίστοιχα.
+* Πρόσθεσα submodules που να δείχνουν στα δικά μου [\_gallery](https://github.com/panagiotismouts/_gallery/tree/c23dadc854bb277c1ffc50ab467e6182f627abed) και [images](https://github.com/panagiotismouts/images/tree/303e0fe11dab7f40817d4d5eb06d92c2c38353ad)
+* Άλλαξα το \_config.yml της σελίδας εκεί που έπρεπε ώστε να ορίσω το δικό μου αντίγραφο στο Netlify (το οποίο και δούλεωε, ευτυχώς).
+* [Netlify Link](https://musing-yalow-b9d713.netlify.app/)
+* Πρόσθεσα το παραπάνω Netlify link στην [αρχική σελίδα](https://github.com/panagiotismouts/site)
+* Τέλος, πρόσθεσα τα αντίστοιχα παραδοτέα στους φακέλους [\_gallery](), [images](), [\_timeline] και [\_slides]()
