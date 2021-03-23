@@ -42,14 +42,14 @@
 
 A1: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 
-> - [Lego Mindstorms NXT Table](https://github.com/NikosKar23/gr/blob/gh-pages/_gallery/LEGO_Mindstorms_NXT.md)
-> - [Lego Mindstorms NXT Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/lego-mindstorms-nxt.jpg)
-> - [Lego Mindstorms NXT 160px Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/lego-mindstorms-nxt-thumb.jpg)
+> - [Lego Mindstorms NXT Table](https://github.com/NikosKar23/_gallery/blob/master/lego-mindstorms-nxt.md)
+> - [Lego Mindstorms NXT Image](https://github.com/NikosKar23/images/blob/master/lego-mindstorms-nxt.jpg)
+> - [Lego Mindstorms NXT 160px Image](https://github.com/NikosKar23/images/blob/master/lego-mindstorms-nxt-thumb.jpg)
 
 
-> - [Blockly Table](https://github.com/NikosKar23/gr/blob/gh-pages/_gallery/Blockly.md)
-> - [Blockly Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/blockly.png)
-> - [Blockly 160px Image](https://github.com/NikosKar23/gr/blob/gh-pages/images/blockly-thumb.png)
+> - [Blockly Table](https://github.com/NikosKar23/_gallery/blob/master/blockly.md)
+> - [Blockly Image](https://github.com/NikosKar23/images/blob/master/blockly.png)
+> - [Blockly 160px Image](https://github.com/NikosKar23/images/blob/master/blockly-thumb.png)
 
 
 ### **Παραπομπές**
