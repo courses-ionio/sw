@@ -57,12 +57,21 @@ A1: Δύο νέες εικόνες με λεζάντα και με ελεύθε�
 - [1]  https://en.wikipedia.org/wiki/Blockly
 - [2]  https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT
 
+A2: Ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο νέες εικόνες σας από το Α1 με εικόνες που ήδη υπάρχουν
+
+Σετ από διαφάνειες: 
+Προσθήκη στην κατηγορία "Εργαλεία και τεχνικές" τις διαφάνειες blockly και lego-mindstorms-nxt. [link](https://github.com/NikosKar23/site/blob/master/_slides/tools.md)
+
+Χρονολόγιο:
+Προσθήκη στην κατηγορία "Εκπαιδευτική τεχνολογία" τις εικόνες blockly και lego-mindstorms-nxt. [link](https://github.com/NikosKar23/site/blob/master/_timeline/learning.md)
+
 
 [Asciinema](https://asciinema.org/a/400811): Adding the submodules
 
 ---
 
 ### Βίντεο Κουίζ
+Παρακάτω παραθέτω τις απαντήσεις μου για τα εβδομαδιαία βίντεο κουίζ πέρα από τη πλατφόρμα του video-quiz λόγω του ότι το Github δεν εμφανίζει το email του Ιονίου και για να είναι πιο ομαδοποιημένα.
 ### 1η Άσκηση Βίντεο / Alan Kay
 
 "Ποια είναι σύμφωνα με τον Αλαν Κεη η μεγαλύτερη παγίδα σε ένα μάθημα υπολογιστών και ποια είναι 
