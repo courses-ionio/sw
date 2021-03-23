@@ -76,6 +76,8 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 **[forked images repository](https://github.com/sophia-ts/images)**
 
+**Link για το site:** https://wizardly-saha-b0bb28.netlify.app
+
 **[asciinema link](https://asciinema.org/a/400534)**
 
 [![asciicast](https://asciinema.org/a/400534.svg)](https://asciinema.org/a/400534)
