@@ -42,6 +42,13 @@
    
 # 1η άσκηση γραμμής εντολών
   Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python. Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
+  
+# Συμμετοχικό Περιεχόμενο 1ο
+  - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
+  - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
+  - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/temple-os-thumb.png) και [2ο](https://github.com/Haki-Malai/images/blob/master/lazy-script-thumb.png)
+  - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
+  - Τροποποίησα το [_slides/archetypes.md](https://github.com/Haki-Malai/site/commit/ff0fcc38e51a19c0a889743826627b692e600283) και το [_slides/tools.md](https://github.com/Haki-Malai/site/commit/d46a10e6b69190878fad8e6c0ffabc6ddca11606)
 
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
