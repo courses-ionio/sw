@@ -79,6 +79,6 @@ Link Slides https://github.com/p16foti/site/blob/2016046/_slides/iui.md
 
 Link Gallery https://github.com/p16foti/_gallery/blob/2016046/google-play.md
 
-Link Images https://github.com/p16foti/images/blob/76459b2bbdfb7359dbed5b988344f904f1549916/google-play.jpg
-https://github.com/p16foti/images/blob/76459b2bbdfb7359dbed5b988344f904f1549916/google-play-thumb.jpg
+Link Images https://github.com/p16foti/images/blob/2016046/google-play.jpg
+https://github.com/p16foti/images/blob/2016046/google-play-thumb.jpg
 
