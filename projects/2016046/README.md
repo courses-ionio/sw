@@ -71,7 +71,12 @@ Link Asciinema https://asciinema.org/~p16foti
 
 # Συμμετοχικό_περιεχόμενο
 
-Link Netlify https://p16foti.netlify.app/gallery/google-play/
+~LINKS (GOOGLE PLAY):
+
+Link Netlify
+- https://p16foti.netlify.app/gallery/google-play/
+- https://p16foti.netlify.app/slides/iui/
+- https://p16foti.netlify.app/timeline/collaboration/
 
 Link Timeline https://github.com/p16foti/site/blob/2016046/_timeline/collaboration.md
 
@@ -82,4 +87,23 @@ Link Gallery https://github.com/p16foti/_gallery/blob/2016046/google-play.md
 Link Images 
 - https://github.com/p16foti/images/blob/2016046/google-play.jpg
 - https://github.com/p16foti/images/blob/2016046/google-play-thumb.jpg
+
+~LINKS (GOOGLE TRANSLATE):
+
+Link Netlify
+- https://p16foti.netlify.app/gallery/google-translate/
+- https://p16foti.netlify.app/slides/models/
+- https://p16foti.netlify.app/timeline/collaboration/
+
+Link Timeline https://github.com/p16foti/site/blob/2016046/_timeline/collaboration.md
+
+Link Slides https://github.com/p16foti/site/blob/2016046/_slides/models.md
+
+Link Gallery https://github.com/p16foti/_gallery/blob/2016046/google-translate.md
+
+Link Images
+- https://github.com/p16foti/images/blob/2016046/google-translate.jpg
+- https://github.com/p16foti/images/blob/2016046/google-translate-thumb.jpg
+
+
 
