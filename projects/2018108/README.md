@@ -110,3 +110,12 @@ create a docker image for your development stack
 - [Images Repository](https://github.com/stavrospanakakis/images)
 
 [![asciicast](https://asciinema.org/a/400505.svg)](https://asciinema.org/a/400505)
+
+## 6. Άσκηση γραμμής εντολών
+create a cli app for your favorite site
+
+- [App repository](https://github.com/Stavrospanakakis/lfl)
+- [Αpp website](https://lfl.stavrospanakakis.com/)
+
+Το asciinema δειχνει την εγκατάσταση της εφαρμογής.
+[![asciicast](https://asciinema.org/a/401581.svg)](https://asciinema.org/a/401581)
