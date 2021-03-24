@@ -86,8 +86,8 @@ Link για το αποθετήριο χρονολογίου:
 
 SCREENSHOTS:
 
-![Hello](https://user-images.githubusercontent.com/72924808/112395012-4ad93080-8d06-11eb-972d-71845b4d120f.jpg)
-![Sleep 5](https://user-images.githubusercontent.com/72924808/112396272-7f4dec00-8d08-11eb-94fd-020111574b35.jpg)
+![Hello](https://user-images.githubusercontent.com/72924808/112396543-000ce800-8d09-11eb-95cc-2281ced41265.jpg)
+![Sleep 5](https://user-images.githubusercontent.com/72924808/112396559-056a3280-8d09-11eb-83d0-21a473481adf.jpg)
 ![BOT_FATHER_50](https://user-images.githubusercontent.com/72924808/112394218-05683380-8d05-11eb-9769-163ff2cc86bb.jpg) 
 ![BOT_50](https://user-images.githubusercontent.com/72924808/112395043-5a587980-8d06-11eb-8ebd-df2df05dbe41.jpg)
 
