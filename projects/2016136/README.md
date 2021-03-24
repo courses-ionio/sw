@@ -38,7 +38,7 @@
    
   [Link Repository](https://github.com/p16pyla/modern-resume-theme/tree/2016136)
   
-  [Link Βιογραφικού](https://p16pyla.github.io/modern-resume-theme/)
+  [Link Βιογραφικού](https://p16pyla.github.io/myonlinecv/)
 
 
   - Git Hub Bio (μια πρώτη προσπάθεια)
