@@ -75,6 +75,15 @@ Link για το αποθετήριο χρονολογίου:
 - [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)
 - [Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)
 
+### 👽Παραδοτέο 6 - Άσκηση γραμμής εντολών.
+Για το παραδοτέο αυτό, χρησιμοποίησα ένα Ubuntu VM. Στο Terminal έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ "sudo pip3 install ntfy[telegram]". Έπειτα εκτέλεσα την εντολή  "asciinema rec -i 0.2" για την έναρξη καταγραφής του Terminal και με την εντολή "ntfy send "Hello"", εμφανίστηκε στην επιφάνεια η ειδοποίηση. Στη συνέχεια χρησιμοποίησα την εντολή "ntfy done sleep 5", όπου ουσιαστικά ρυθμίζει έναν μετρητή για 5 δευτερόλεπτα εμφανίζοντας την αντίστοιχη ειδοποίηση, και πατώντας "CTRL + D" ολοκλήρωσα την καταγραφή του Terminal μου.
+
+Έπειτα από αυτό ήρθε η στιγμή να αλληλεπιδράσω με την εφαρμογή "Telegram". Η εντολή που χρησιμοποίησα ήταν η "ntfy -b telegram send "Telegram configured for ntfy"". Αφού μίλησα με τον "Bot Father" και κατάφερα να φτιάξω ένω νέο Bot με όνομα "TEXNOLOGIA LOGISMIKOY" γράφοντας στο κινητό "/newbot" και username "Texnologia_logismikou_bot", μου έδωσε ένα "Token" το οποίο έκανα επικόλληση στο Terminal για να ολοκληρωθεί η διαδικασία σύνδεσης με την εφαρμογή. Μετά από αυτό μπορούσα άνετα να στέλνω ειδοποιήσεις στην εφαρμογή του κινητού μου.
+
+Τέλος με την εντολή "asciinema rec -i 0.2" ξεκίνησα μια νέα καταγραφή του Terminal. Αυτή τη φορά χρησιμοποίησα εντολές για να στείλω ειδοποιήσεις στην εφαρμογή. Η κίνηση αυτή έγινε με την εντολή "ntfy -b telegram send "My name is Efthimis and this is a test"" και "ntfy -b telegram send "Anyway.. it's getting late.. Good night!"". Ολοκλήρωσα την καταγραφή πατώντας "CTRL + D".
+ 
+
+
 
  
  
