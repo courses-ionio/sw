@@ -29,6 +29,17 @@
 - Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
 
+## Συμμετοχικό περιεχόμενο
+
+### 1ο Παραδοτέο: A1 και Α2
+
+Προσθήκη εικόνων με πνευματικά δικαιώματα:
+
+| Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
+| :--: | :-------------: | :--------------: | :-------: |
+| [Minecraft Education](https://site.badwolf.icu/gallery/minecraft-education/) | [minecraft-education.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education.jpg) | [minecraft-education-thumb.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education-thumb.jpg) | [minecraft-education.md](https://github.com/badwolfgr/_gallery/blob/master/minecraft-education.md)
+| [Omega2](https://site.badwolf.icu/gallery/omega2/) | [omega2.jpg](https://github.com/badwolfgr/images/blob/master/omega2.jpg) | [omega2-thumb.jpg](https://github.com/badwolfgr/images/blob/master/omega2-thumb.jpg) | [omega2.md](https://github.com/badwolfgr/_gallery/blob/master/omega2.md)
+
 ## Ασκήσεις γραμμής εντολών
 
 ### 1. send notifications to your desktop-mobile
