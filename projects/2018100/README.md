@@ -33,19 +33,16 @@
 
 ### 1ο Παραδοτέο: A1 και Α2
 
-git submodules change remote repository
-([asciinema link](https://asciinema.org/a/Cwat1pMBbDsWgFslE264tU68g))
+git submodules change remote repository ([asciinema link](https://asciinema.org/a/Cwat1pMBbDsWgFslE264tU68g))
 
-Προσθήκη εικόνων με πνευματικά δικαιώματα
-([asciinema link](https://asciinema.org/a/9aKo4bwSg2nhcbcs74Aq9EROf))
+- Προσθήκη εικόνων με πνευματικά δικαιώματα ([asciinema link](https://asciinema.org/a/9aKo4bwSg2nhcbcs74Aq9EROf))
 
 | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
 | :---: | :-------------: | :--------------: | :-------: |
 | [Minecraft Education](https://site.badwolf.icu/gallery/minecraft-education/) | [minecraft-education.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education.jpg) | [minecraft-education-thumb.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education-thumb.jpg) | [minecraft-education.md](https://github.com/badwolfgr/_gallery/blob/master/minecraft-education.md)
 | [Omega2](https://site.badwolf.icu/gallery/omega2/) | [omega2.jpg](https://github.com/badwolfgr/images/blob/master/omega2.jpg) | [omega2-thumb.jpg](https://github.com/badwolfgr/images/blob/master/omega2-thumb.jpg) | [omega2.md](https://github.com/badwolfgr/_gallery/blob/master/omega2.md)
 
-Προσθήκη σε σετ διαφάνειας και χρονολογίου που υπάρχει ήδη
-([asciinema link](https://asciinema.org/a/j375z6ZK2tTB5ZMtNGcb3aJx7))
+- Προσθήκη σε σετ διαφάνειας και χρονολογίου που υπάρχει ήδη ([asciinema link](https://asciinema.org/a/j375z6ZK2tTB5ZMtNGcb3aJx7))
 
 | Θέμα  | Markdown |
 | :---: | :------: |
