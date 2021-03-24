@@ -41,7 +41,7 @@ git submodules change remote repository
 
 - Προσθήκη εικόνων με πνευματικά δικαιώματα:
 
-- | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
+| Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
 | :--: | :-------------: | :--------------: | :-------: |
 | [Minecraft Education](https://site.badwolf.icu/gallery/minecraft-education/) | [minecraft-education.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education.jpg) | [minecraft-education-thumb.jpg](https://github.com/badwolfgr/images/blob/master/minecraft-education-thumb.jpg) | [minecraft-education.md](https://github.com/badwolfgr/_gallery/blob/master/minecraft-education.md)
 | [Omega2](https://site.badwolf.icu/gallery/omega2/) | [omega2.jpg](https://github.com/badwolfgr/images/blob/master/omega2.jpg) | [omega2-thumb.jpg](https://github.com/badwolfgr/images/blob/master/omega2-thumb.jpg) | [omega2.md](https://github.com/badwolfgr/_gallery/blob/master/omega2.md)
