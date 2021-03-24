@@ -124,7 +124,7 @@ Send notifications to your desktop-mobile
 
 Αφού εγκατέστησα το ntfy δοκίμασα μια απλή εντολή για να μου έρθει μια ειδοποίηση στο dekstop μου όπως φαίνεται και στο βίντεο . Στην συνέχεια ήθελα να συνδέσω το dekstop μου με το κινητό μου οπότε κατέβασα την εφαρμογή pushover  για να λαμβάνω τις ειδοποιήσεις μετα έβαλα να γίνει ένα  update και upgrade στο task.Tέλος αφού χρησιμοποίησα την κατάλληλη εντολή με το user key μου έβαλα να μου έρθει ειδοποίηση όταν γίνει το upgrate. 
 
-reference [ntfy](https://github.com/dschep/ntfy0)
+reference [ntfy](https://ntfy.readthedocs.io/en/latest/)
 
 reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=mostlychris)
 
