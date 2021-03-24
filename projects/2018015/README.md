@@ -81,6 +81,10 @@ Link για το αποθετήριο χρονολογίου:
 Έπειτα από αυτό ήρθε η στιγμή να αλληλεπιδράσω με την εφαρμογή "Telegram". Η εντολή που χρησιμοποίησα ήταν η "ntfy -b telegram send "Telegram configured for ntfy"". Αφού μίλησα με τον "Bot Father" και κατάφερα να φτιάξω ένω νέο Bot με όνομα "TEXNOLOGIA LOGISMIKOY" γράφοντας στο κινητό "/newbot" και username "Texnologia_logismikou_bot", μου έδωσε ένα "Token" το οποίο έκανα επικόλληση στο Terminal για να ολοκληρωθεί η διαδικασία σύνδεσης με την εφαρμογή. Μετά από αυτό μπορούσα άνετα να στέλνω ειδοποιήσεις στην εφαρμογή του κινητού μου.
 
 Τέλος με την εντολή "asciinema rec -i 0.2" ξεκίνησα μια νέα καταγραφή του Terminal. Αυτή τη φορά χρησιμοποίησα εντολές για να στείλω ειδοποιήσεις στην εφαρμογή. Η κίνηση αυτή έγινε με την εντολή "ntfy -b telegram send "My name is Efthimis and this is a test"" και "ntfy -b telegram send "Anyway.. it's getting late.. Good night!"". Ολοκλήρωσα την καταγραφή πατώντας "CTRL + D".
+
+Ακολουθούν τα link των 2 Asciinema: [Asciinema 1](https://asciinema.org/a/Mi2wNe5K0bNQAyrQGnN0qEda2) , [Asciinema 2](https://asciinema.org/a/mQMHoUDfv5f2dTe6uVhLaEqAU).
+
+Screenshots:
  
 
 
