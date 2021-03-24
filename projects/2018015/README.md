@@ -88,7 +88,8 @@ SCREENSHOTS:
 
 ![Hello](https://user-images.githubusercontent.com/72924808/112395012-4ad93080-8d06-11eb-972d-71845b4d120f.jpg)
 ![Sleep 5](https://user-images.githubusercontent.com/72924808/112395026-52003e80-8d06-11eb-83f6-1b864eb91e27.jpg)
-![BOT_FATHER_50](https://user-images.githubusercontent.com/72924808/112394218-05683380-8d05-11eb-9769-163ff2cc86bb.jpg) ![BOT_50](https://user-images.githubusercontent.com/72924808/112395043-5a587980-8d06-11eb-8ebd-df2df05dbe41.jpg)
+![BOT_FATHER_50](https://user-images.githubusercontent.com/72924808/112394218-05683380-8d05-11eb-9769-163ff2cc86bb.jpg) 
+![BOT_50](https://user-images.githubusercontent.com/72924808/112395043-5a587980-8d06-11eb-8ebd-df2df05dbe41.jpg)
 
 
 
