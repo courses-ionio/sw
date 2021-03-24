@@ -51,10 +51,7 @@
   - Τροποποίησα το [_slides/archetypes.md](https://github.com/Haki-Malai/site/commit/ff0fcc38e51a19c0a889743826627b692e600283) και το [_slides/tools.md](https://github.com/Haki-Malai/site/commit/d46a10e6b69190878fad8e6c0ffabc6ddca11606)
 
 # 2η άσκηση γραμμής εντολών
-  Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.
-  
-  -[Asciinema](https://asciinema.org/a/402061)
-  -[Φωτογραφία](https://ibb.co/ChZyGXJ)
+  Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<br>-[Φωτογραφία](https://ibb.co/ChZyGXJ)
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
 
