@@ -50,6 +50,7 @@
   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
   - Τροποποίησα το [_slides/archetypes.md](https://github.com/Haki-Malai/site/commit/ff0fcc38e51a19c0a889743826627b692e600283) και το [_slides/tools.md](https://github.com/Haki-Malai/site/commit/d46a10e6b69190878fad8e6c0ffabc6ddca11606)
 
+# 2η άσκηση γραμμής εντολών
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
 
