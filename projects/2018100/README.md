@@ -36,10 +36,8 @@
 git submodules change remote repository
 ([asciinema link](https://asciinema.org/a/mzf9YaZn2YErkL4gEcrKsMPgP))
 
-- A1 commits
+Προσθήκη εικόνων με πνευματικά δικαιώματα:
 ([asciinema link](https://asciinema.org/a/Cwat1pMBbDsWgFslE264tU68g))
-
-- Προσθήκη εικόνων με πνευματικά δικαιώματα:
 
 | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
 | :--: | :-------------: | :--------------: | :-------: |
