@@ -44,7 +44,7 @@ git submodules change remote repository
 | [Omega2](https://site.badwolf.icu/gallery/omega2/) | [omega2.jpg](https://github.com/badwolfgr/images/blob/master/omega2.jpg) | [omega2-thumb.jpg](https://github.com/badwolfgr/images/blob/master/omega2-thumb.jpg) | [omega2.md](https://github.com/badwolfgr/_gallery/blob/master/omega2.md)
 
 A1 & A2 commits  
-[asciinema link](https://asciinema.org/a/9aKo4bwSg2nhcbcs74Aq9EROf)
+([asciinema link](https://asciinema.org/a/Cwat1pMBbDsWgFslE264tU68g))
 
 ## Ασκήσεις γραμμής εντολών
 
