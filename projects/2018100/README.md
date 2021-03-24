@@ -34,10 +34,10 @@
 ### 1ο Παραδοτέο: A1 και Α2
 
 git submodules change remote repository
-([asciinema link](https://asciinema.org/a/mzf9YaZn2YErkL4gEcrKsMPgP))
-
-Προσθήκη εικόνων με πνευματικά δικαιώματα:
 ([asciinema link](https://asciinema.org/a/Cwat1pMBbDsWgFslE264tU68g))
+
+Προσθήκη εικόνων με πνευματικά δικαιώματα
+([asciinema link](https://asciinema.org/a/9aKo4bwSg2nhcbcs74Aq9EROf))
 
 | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
 | :--: | :-------------: | :--------------: | :-------: |
