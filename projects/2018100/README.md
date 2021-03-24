@@ -33,8 +33,8 @@
 
 ### 1ο Παραδοτέο: A1 και Α2
 
-git submodules change remote repository  
-[asciinema link](https://asciinema.org/a/mzf9YaZn2YErkL4gEcrKsMPgP)
+git submodules change remote repository
+([asciinema link](https://asciinema.org/a/mzf9YaZn2YErkL4gEcrKsMPgP))
 
 Προσθήκη εικόνων με πνευματικά δικαιώματα:
 
