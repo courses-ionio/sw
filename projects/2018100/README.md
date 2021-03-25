@@ -29,6 +29,8 @@
 - Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
 
+### 2. Δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα
+
 ## Συμμετοχικό περιεχόμενο
 
 ### 1ο Παραδοτέο: A1 και Α2
@@ -48,6 +50,8 @@ git submodules change remote repository ([asciinema link](https://asciinema.org/
 | :---: | :------: |
 | [Διαάφνεια - Εκπαιδευτική Τεχνολογία](https://site.badwolf.icu/slides/learning/) | [learning.md](https://github.com/badwolfgr/site/blob/master/_slides/learning.md) |
 | [Χρονολόγιο - Εκπαιδευτική Τεχνολογία](https://site.badwolf.icu/timeline/learning/) | [learning.md](https://github.com/badwolfgr/site/blob/master/_timeline/learning.md) |
+
+### 2ο Παραδοτέο: Β1 και Β2
 
 ## Ασκήσεις γραμμής εντολών
 
@@ -75,6 +79,8 @@ ntfy -b telegram send 'Terminal window opened'
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
 - [gif smartphone demo](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
+
+### 2. performance monitoring
 
 ## Bίντεο Kουίζ
 
