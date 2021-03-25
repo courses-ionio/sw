@@ -9,7 +9,7 @@
 | --- | --- |
 | 1 | [Στόχοι](#Στόχοι) |
 | 2 | [Βιογραφικό 1](#Βιογραφικό-1) |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |        
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |
 | 5 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
@@ -20,15 +20,39 @@
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
 
+ <table>
+  <tr>
+    <th> Εβδομαδιαίο βίντεο κουίζ </th>
+    <th> :heavy_check_mark: OR :x: </th>
+  </tr>
+  <tr>
+    <td>Alan Kay - at MIT EECS</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr>
+    <td>Τed Νelson - Computers for Cynics</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr>
+    <td>Alan Kay - Computing Simply</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr>
+    <td>Bret Victor - The Future of Programming</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr>
+    <td>Alan Kay - Programming</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  
+</table> 
+
 ##
 ## Στόχοι
 
 **Στόχοι :**
 Σύμφωνα με την βιβλιογραφία, του [λίνκ του μαθήματος στην ιστοσελίδα του τμήματος](https://di.ionio.gr/gr/studies/undergraduate-studies/courses/614/) , το [GitHub λίνκ](https://github.com/courses-ionio/sw) και μετά από τα εισαγωγικά μαθήματά, προσδοκώ την ενασχόληση με τον τρόπο κατασκευής διαδραστικού λογισμικού. Ουσιαστικά, θα είναι η “συνέχεια” από το αντίστοιχο μάθημα Επικοινωνία Ανθρώπου Υπολογιστή. Στο προηγούμενο μάθημα, ασχοληθήκαμε με τον τρόπο που γίνετε η δίαδραση  και τώρα θα εστιάσουμε στον τρόπο με τον οποίο πραγματοποιείται. Αλώστε, σύμφωνα με τις ασκήσεις που έχουμε κληθεί να παραδώσουμε εντός του εξαμήνου αποδεικνύεται η φύση του μαθήματος.
-
-
-|Παρακολούθηση του πρώτου βίντεο κουίζ |`Alan Kay at MIT EECS` |
-|---|---|
 
 
 
@@ -41,9 +65,6 @@
 * [GitHub Repo](https://github.com/KaterinaLaz/online-cv)
 
 
-|Παρακολούθηση του δέυτερου βίντεο κουίζ|`Τed Νelson computers for cynics`|
-|---|---|
-
 
 ##
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα
@@ -53,20 +74,21 @@
  [Netlify](https://quirky-jennings-23151c.netlify.app/people/)
 
 
+Οι απαντήσεις μου στο εβδομαδιαίο βίντεο  `Alan Kay computing simply  ` 
+```
 
-* Παρακολούθηση του τρίτου βίντεο κουίζ -> `Alan Kay computing simply  ` 
-
-  * Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;\
+  * Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;
 Sketch pad, δίκτυα και η simula. Ουσιαστικά τον επηρέασαν σε επίπεδο hardware αλλά και software.
 
-  * Να δώσετε παράδειγμα από την προσωπική σας εμπειρία για λογισμικό με καλή και με κακή αρχιτεκτονική με αναφορά στα κριτήρια της επιλογής σας.\
+  * Να δώσετε παράδειγμα από την προσωπική σας εμπειρία για λογισμικό με καλή και με κακή αρχιτεκτονική με αναφορά στα κριτήρια της επιλογής σας.
 Θεωρώ οτι το λειτουργικό Linux είναι ένα παράδειγμα καλής αρχιτεκτονικής, υπάρχει ένας σταθερός πυρήνας και μπορείς  ανάλογα με το hardware και τις αποτίσεις σου να φτιάξεις ένα κέλυφος στα μέτρα σου ή ακόμα και αν πάρεις μια έτυμη διανομή μπορείς να την παραμετροποιήσεις σε ένα ικανοποιητικό επίπεδο.Ουσιαστικά, μπορεί να υπάρξει μια συνεργατική διαδικασία για την δημιουργία του λογισμικού. 
 
-  * Ποια είναι τα βασικά δομικά στοιχεία στην αρχιτεκτονική του λογισμικού etoys και από που άντλησε ο Αλαν Κέη την έμπνευση για αυτά;\ 
+  * Ποια είναι τα βασικά δομικά στοιχεία στην αρχιτεκτονική του λογισμικού etoys και από που άντλησε ο Αλαν Κέη την έμπνευση για αυτά;
 To etoys βασίζετε σε ένα γραφικό περιβάλλον όπου τα αντικείμενα της γλώσσας απεικονίζονται με εικόνες. 
 
-  * Ποια είναι κάποια από τα λάθη των σύγχρονων λειτουργικών συστημάτων σύμφωνα με τον Αλαν Κέη;\
+  * Ποια είναι κάποια από τα λάθη των σύγχρονων λειτουργικών συστημάτων σύμφωνα με τον Αλαν Κέη;
 Ότι δεν έχουν έναν δυναμικό σχεδιασμό 
+```
 
 ##
 ## Άσκηση γραμμής εντολών
@@ -77,18 +99,23 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
  [Droboox link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
  
- 
-|Παρακολούθηση του τρίτου βίντεο κουίζ |`Bret Victor the future of programming`|
-|---|---|
 
 
 ##
 ## Συμμετοχικό περιεχόμενο
 
-| A1 ||
-| --- | --- |
-|[Rasberry Pi OS](https://github.com/KaterinaLaz/_gallery/blob/master/raspberry-pi-os.md), [HTML5](https://github.com/KaterinaLaz/_gallery/blob/master/html5.md)|[Rasberry Pi OS](https://github.com/KaterinaLaz/images/blob/master/pios.jpg), [Rasberry Pi OS thumb](https://github.com/KaterinaLaz/images/blob/master/pios-thumb.png), [HTML5](https://github.com/KaterinaLaz/images/blob/master/html5.jpg), [HTML5 thumb](https://github.com/KaterinaLaz/images/blob/master/html5-thumb.png) |
+Στην αρχή αντιμετώπισα προβλήματα με την εισαγωγή των submodules στο repository μου. Μετά από την βοηθητική συζήτηση στα [Discussions](https://github.com/courses-ionio/sw/discussions/936) και σε συνδυασμό με το [netlify DOC – Deploy keys](https://docs.netlify.com/configure-builds/repo-permissions-linking/#git-submodules) και [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) κατάφερα και πρόσθεσα τα submodules  `_gallery`  και  `images`  με επιτυχία.
 
-| A2 ||
-| --- | --- |
-|[timeline html5](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md), [timeline Rasberry Pi OS](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)|[slides html5](https://github.com/KaterinaLaz/site/blob/master/_slides/tools.md), [slides Rasberry Pi OS](https://github.com/KaterinaLaz/site/blob/master/_slides/gui.md)|
+Οι δύο φωτογραφίες που επέλεξα να προσθέσω είναι οι  `html5`  και  `raspberry pi os` . Η  `html5`  είναι ένα εργαλείο με το οποίο μπορούν να δημιουργηθούν ιστοσελίδες και διαδραστικό υλικό. Από την άλλη πλευρά, το  `pi – OS`  είναι ένα παραμετροποιήσιμο λειτουργικό σύστημα.
+
+Έμα πρόβλημα που έχω εντοπίσει με το **netlify demo** : Οι αλλαγές που έχω πραγματοποιήσει στο χρονολόγιο δεν φαίνονται καθώς επίσης στις διαφάνειες και στις εικόνες εμφανίζετε ένα κενό πλαίσιο αντί της εικόνας. Αν ώμος γίνει “κλικ” πάνω στο κενό αυτό πλαίσιο η εικόνα εμφανίζετε κανονικά. 
+
+  * Εικόνες site-link : [html5](https://keen-bohr-ff0554.netlify.app//gallery/html5/) , [raspberry pi os](https://keen-bohr-ff0554.netlify.app//gallery/pios/) 
+  * Διαφάνειες site-link : [html5](https://keen-bohr-ff0554.netlify.app//slides/programming/) , [raspberry pi os](https://keen-bohr-ff0554.netlify.app//slides/gui/)
+  * Χρονολόγιο site-link : [html5](https://keen-bohr-ff0554.netlify.app//timeline/programming/) , [raspberry pi os](https://keen-bohr-ff0554.netlify.app//timeline/systems/)
+  
+  * Εικόνες GitHub : [html5 image](https://github.com/KaterinaLaz/images/blob/48d9ce51bcf6b36a005b90fa9d10b9a10b657639/html5.jpg) , [html5 thumd](https://github.com/KaterinaLaz/images/blob/48d9ce51bcf6b36a005b90fa9d10b9a10b657639/html5-thumb.png) , [html5 gallery](https://github.com/KaterinaLaz/_gallery/blob/b004a6d73194c8a47a369e99a724a33c416087af/html5.md) , [rasberry pi os image](https://github.com/KaterinaLaz/images/blob/48d9ce51bcf6b36a005b90fa9d10b9a10b657639/pios.jpg) , [rasberry pi os thumb](https://github.com/KaterinaLaz/images/blob/48d9ce51bcf6b36a005b90fa9d10b9a10b657639/pios-thumb.png) , [rasberry pi os gallery](https://github.com/KaterinaLaz/_gallery/blob/b004a6d73194c8a47a369e99a724a33c416087af/pios.md)
+  * Διαφάνεις GitHub : [html5 slides](https://github.com/KaterinaLaz/site/blob/master/_slides/programming.md) , [raspbery pi os slides](https://github.com/KaterinaLaz/site/blob/master/_slides/gui.md)
+  * Χρονολόγιο GitHub : [html5 timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md) , [raspbery pi os timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)
+  
+  **Netlify Status badges :** [![Netlify Status](https://api.netlify.com/api/v1/badges/9f19743e-5320-4fac-8a6f-329038ccf6c3/deploy-status)](https://app.netlify.com/sites/keen-bohr-ff0554/deploys)
