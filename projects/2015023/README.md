@@ -72,11 +72,11 @@ pip3 install ntfy[telegram]
 ```
 ntfy send "Hello World!"
 ```
-![](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/desktop-hello-world.png)
+![](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/ntfy-images/desktop-hello-world.png)
 ```
 ntfy -b telegram send "Hello World!"
 ```
-![](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/telegram-hello-world.png)
+![](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/ntfy-images/telegram-hello-world.png)
 
 ### Ειδοποιήσεις όταν έχει τελειώσει κάποιο μεγάλο task
 Αρχικά, δημιούργησα ενα updates.sh αρχείο, ώστε να μπορώ να προσθέσω αντίστοιχες εντολές για updates και να αυτοματοποιήσω την διαδικασία με μια εντολή. Τελειώνοντας τα updates θα στέλνει ένα μήνυμα στο Telegram. 
@@ -97,7 +97,7 @@ chmod +x updates.sh
 ./updates.sh
 ```
 - Τo link για το asciinema: [asciinema](https://asciinema.org/a/398698)
-- To screenshot για το task notification: [telegram](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/telegram-notification.png)
+- To screenshot για το task notification: [telegram](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/ntfy-images/telegram-notification.png)
 
 ---
 ## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a>
