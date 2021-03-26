@@ -5,7 +5,7 @@
 - **My Github Profile**: ***[ntouloumtzis](https://github.com/ntouloumtzis)***
 
 ---
-## <a name="#content">*Πίνακας Περιεχομένων*</a>
+## *Πίνακας Περιεχομένων*
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -23,13 +23,13 @@
 | 12  | Τελική αναφορά* |
 
 ---
-## <a name="P-1">*Εισαγωγή*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-1">*Εισαγωγή*</a>
 Μέσα στο μάθημα **Τεχνολογία Λογισμικού (SW)**, θα μελετήσουμε και θα βελτιώσουμε διαδικασίες, μεθόδους και εργαλεία, με τα οποία αναπτύσσεται ένα λογισμικό.
 Στόχος είναι να αναπτύσσουμε ένα τέτοιο λογισμικό μέσα απο ένα συνεργατικό περιβάλλον με κοινές πρακτικές και εργασίες, να μάθουμε να το εξελίζουμε, αλλά
 και να το συντηρούμε με τις απαραίτητες διαδικασίες και μεθόδους.
 
 ---
-## <a name="P-2">*Βιογραφικό*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-2">*Βιογραφικό*</a>
 Στο πρώτο παραδοτέο του βιογραφικού απαιτείται η χρήση ενός Jekyll theme και το deployment με το github-pages. Παρακάτω είναι τα links με το αποθετήριο του βιογραφικού, όπως και το αντίστοιχο site.
 - [Αποθετήριο Βιογραφικού](https://github.com/ntouloumtzis/resume-cv)
 - [Site Βιογραφικού](https://ntouloumtzis.github.io/resume-cv/)
@@ -37,14 +37,14 @@
 Προστέθηκαν οι απαραίτητες πληροφορίες και αναμένεται στο 2ο παραδοτέο να παρέχεται δυνατότητα εγκατάστασης του resume σε pdf format.
 
 ---
-## <a name="P-3">*Αίτημα ενσωμάτωσης στην ιστοσελίδα*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-3">*Αίτημα ενσωμάτωσης στην ιστοσελίδα*</a>
 Παρακάτω φαίνονται τα απαραίτητα links για την συνεισφορά πάνω στο [sitegr](https://github.com/ioniodi/sitegr) που οδηγούν στο issue, το demo και το pull request, αντίστοιχα.
 - [Issue](https://github.com/ioniodi/sitegr/issues/67)
 - [Demo](https://stupefied-hoover-8cda64.netlify.app/courses/specialized-algorithm-topics/)
 - [Pull Request](https://github.com/ioniodi/sitegr/pull/92)
 
 ---
-## <a name="P-4">*Άσκηση γραμμής εντολών*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-4">*Άσκηση γραμμής εντολών*</a>
 *Η πρώτη άσκηση επιλέχθηκε από τα θέματα του [software](https://github.com/epidrome/dokey#software)*
 
 **Assignment**: *send notifications to your desktop-mobile*
@@ -100,7 +100,7 @@ chmod +x updates.sh
 - To screenshot για το task notification: [telegram](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/ntfy-images/telegram-notification.png)
 
 ---
-## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a>
 - Όλη η διαδικασία προσθήκης του συμμετοχικού περιεχομένου βρίσκεται στο **[asciinema](https://asciinema.org/a/400994)**
 
 Παρακάτω βρίσκονται οι σύνδεσμοι για το ***forked repository site***, και τα ***submodules gallery & images***, μαζί με τα ***τροποποιημένα αρχεία***, αντίστοιχα.
@@ -115,7 +115,7 @@ chmod +x updates.sh
 - **[images submodule](https://github.com/ntouloumtzis/images)** & **[changed files](https://github.com/ntouloumtzis/images/commit/cc3aeeb08e954eb494dcd29eac8623654e57e3cc)**
 
 ---
-## <a name="P-6">*Άσκηση γραμμής εντολών*</a><sup><a href="#content">Head to top</a></sup>
+## <a name="P-6">*Άσκηση γραμμής εντολών*</a>
 *Η δεύτερη άσκηση γραμμής εντολών επιλέχθηκε από τα θέματα του ***[software](https://github.com/epidrome/dokey#software)****
 
 **Assignment**: *Performance monitoring*
