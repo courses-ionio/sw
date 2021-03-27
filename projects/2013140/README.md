@@ -185,7 +185,7 @@ gem install jekyll bundler
 Τέλος κάνουμε git init στον φάκελο των αρχείων που θέλουμε να κάνουμε commit στο github repository(cv-1):
 [![asciicast](https://asciinema.org/a/xImw4tal9aN7ou6gjXwP6ydUd.svg)](https://asciinema.org/a/xImw4tal9aN7ou6gjXwP6ydUd)
 
-Ο σύνδεσμος του repository του βιογραφικού είναι στον παρακάτω σύνδεσμο: https://github.com/p13brif/cv-1/tree/master      
+Ο σύνδεσμος του repository του βιογραφικού είναι στον παρακάτω σύνδεσμο: https://github.com/p13brif/cv-1/tree/main     
 Η online version του στα github pages βρίσκεται εδώ: https://p13brif.github.io/cv-1/
 
 **Πηγές:**
