@@ -49,19 +49,19 @@ asciinema:https://asciinema.org/a/400930
 
 **Θεματικές Ενότητες:**
 
-multimedia-software: https://github.com/p18vogd/gr/blob/gh-pages/pages/slides/multimedia-software.md
+multimedia-software: https://github.com/p18vogd/site/blob/master/_slides/multimedia-software.md
 
 
-programming: https://github.com/p18vogd/gr/blob/gh-pages/pages/slides/programming.md
+programming: https://github.com/p18vogd/site/blob/master/_slides/programming.md
 
 **Χρονολόγιο:**
 
 
-multimedia:https://github.com/p18vogd/gr/blob/gh-pages/pages/timeline/multimedia.md
+multimedia:https://github.com/p18vogd/site/blob/master/_timeline/multimedia.md
 
 
 
-programming:https://github.com/p18vogd/gr/blob/gh-pages/pages/timeline/programming.md
+programming:https://github.com/p18vogd/site/blob/master/_timeline/programming.md
 
 asciinema:https://asciinema.org/a/400944
 
