@@ -62,6 +62,9 @@ For the second part of this task (a2), I added to an existed slide and timeline 
 |[GUI](https://github.com/mariachlkt/site/blob/P2018181/_slides/gui.md)|[Systems](https://github.com/mariachlkt/site/blob/P2018181/_timeline/systems.md)|
 </br>
 
+[Asciinema Video](https://asciinema.org/a/403138)
+</br>
+
 ## Second Quiz
 </br>
 <details>
