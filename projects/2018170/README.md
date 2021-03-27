@@ -61,3 +61,12 @@ programming:https://github.com/p18vogd/gr/blob/gh-pages/pages/timeline/programmi
 
 asciinema:https://asciinema.org/a/400944
 
+
+
+
+# Αίτημα ενσωμάτωσης στην σελίδα του τμήματος #
+Η εργασία αυτή πραγματοποιήθηκε εντός προθεσμίας, από λάθος δεν προστέθηκε σε αυτό το commit και το προσθέτω τώρα έπειτα απο συνεννόηση με τον διδάσκοντα.
+
+
+Link απο το netlify απο αυτό που πρόσθεσα στην σελίδα: https://nostalgic-engelbart-94d778.netlify.app/courses/bioinformatics/
+
