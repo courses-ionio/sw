@@ -30,7 +30,7 @@ vlc-player.md:https://github.com/p18vogd/_gallery/blob/c8412594da3d8b4cdf2418e9a
 
 dcoder-ide.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide.jpg
 
-coder-ide-thumb.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide-thumb.jpg
+dcoder-ide-thumb.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide-thumb.jpg
 
 vlc-player.png:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/vlc-player.png
 
