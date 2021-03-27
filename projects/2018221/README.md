@@ -54,7 +54,7 @@
 
 ### <a name="Παραδοτέο 5">Παραδοτέο 5</a>
 ### Συμμετοχικό περιεχόμενο
-Έγιναν fork τα repositories site, images και _gallery από το pibook. Στην συνέχεια έγινε προσθήκη από την  γραμμή εντολών των φωτογραφιών και των thumb στο repository images και δημιουργία ενός αρχείου .md για κάθε φωτογραφία στο repository _gallery. Στην συνέχεια έγινε clone το repository site στο terminal και σύνδεση των submodules. Τέλος έγινε push οι αλλαγές στο  από το terminal στο site.
+Έγιναν fork τα repositories site, images και _gallery από το pibook. Στην συνέχεια έγινε προσθήκη από την  γραμμή εντολών των φωτογραφιών και των thumb στο repository images και δημιουργία ενός αρχείου .md για κάθε φωτογραφία στο repository _gallery. Στην συνέχεια έγινε clone το repository site στο terminal και σύνδεση των submodules. Τέλος έγιναν push οι αλλαγές  από το terminal στο site.
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
 
