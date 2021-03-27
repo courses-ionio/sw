@@ -24,18 +24,17 @@ link repository online-cv :https://github.com/p18vogd/online-cv
 **Περιγραφή:** Για το παρακάτω παραδοτέο (*Α1*) επέλεξα να προσθέσω δύο εικόνες απο την πολυμεσική εφαρμογή του VLC και δύο εικόνες για το Dcoder IDE καθώς και τα αντίστοιχα md αρχεία. Στο τέλος έχω προσθέσει και link από το asciinema που δείχνω με ποιο τρόπο τα έχω ανεβάσει. Η εργασία υλοποιήθηκε μέσα από docker χρησιμοποιώντας ένα Ubuntu 20.04 image.
 
 
+dcoder-ide.md:https://github.com/p18vogd/_gallery/blob/c8412594da3d8b4cdf2418e9a8629d1af3af3af6/dcoder-ide.md
 
-dcoder-ide.md:https://github.com/p18vogd/gr/blob/gh-pages/_gallery/dcoder-ide.md
+vlc-player.md:https://github.com/p18vogd/_gallery/blob/c8412594da3d8b4cdf2418e9a8629d1af3af3af6/vlc-player.md
 
-vlc-player.md:https://github.com/p18vogd/gr/blob/gh-pages/_gallery/vlc-player.md
+dcoder-ide.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide.jpg
 
-dcoder-ide.jpg:https://github.com/p18vogd/gr/blob/gh-pages/images/dcoder-ide.jpg
+coder-ide-thumb.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide-thumb.jpg
 
-coder-ide-thumb.jpg:https://github.com/p18vogd/gr/blob/gh-pages/images/dcoder-ide-thumb.jpg
+vlc-player.png:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/vlc-player.png
 
-vlc-player.png:https://github.com/p18vogd/gr/blob/gh-pages/images/vlc-player.png
-
-vlc-player-thumb.png:https://github.com/p18vogd/gr/blob/gh-pages/images/vlc-player-thumb.png
+vlc-player-thumb.png:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/vlc-player-thumb.png
 
 
 asciinema:https://asciinema.org/a/400930
