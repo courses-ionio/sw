@@ -26,13 +26,18 @@ link repository online-cv :https://github.com/p18vogd/online-cv
 
 dcoder-ide.md:https://github.com/p18vogd/_gallery/blob/c8412594da3d8b4cdf2418e9a8629d1af3af3af6/dcoder-ide.md
 
+
 vlc-player.md:https://github.com/p18vogd/_gallery/blob/c8412594da3d8b4cdf2418e9a8629d1af3af3af6/vlc-player.md
+
 
 dcoder-ide.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide.jpg
 
+
 dcoder-ide-thumb.jpg:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/dcoder-ide-thumb.jpg
 
+
 vlc-player.png:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/vlc-player.png
+
 
 vlc-player-thumb.png:https://github.com/p18vogd/images/blob/bd7c18686ed75d2bc46eb49c44fe045099c2dc9e/vlc-player-thumb.png
 
