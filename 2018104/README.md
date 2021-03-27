@@ -169,10 +169,10 @@ Links στο Netlify:<br>
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
 
 Για το έκτο παραδοτέο εγακτέστησα τα mqtt, mosquitto με τα οποία μπορείς να επικοινωνείς σε αληθινό χρόνο μεταξύ συσκευών και τερματικών. Η λογική είναι ότι κάνεις subscribe σε κάποιο topic σε όσα  τερματικά θες, και σε ένα από αυτά να κάνεις publish κάποιο μήνυμα η κάποια δεδομένα και να τα εμφανιστούν στους άλλους.  Προσπάθησα να το συνδέσω και το με το slack για να στέλνει εκεί ειδοποιήσεις σε ένα θέμα με όνομα sw-notification αλλά δεν το κατάφερα.<br>
-Μπορείτε να δείτε εγκατάσταση των mqtt, mosquitto, [εδώ](https://asciinema.org/a/tBPRcXoz3DEUFaBMe6ZkINTfc)<br>
-Μπορείτε να δείτε ένα παράδειγμα όπου στέλνω μηνύματα από ένα τερματικό σε ένα άλλο, [εδώ](https://asciinema.org/a/xbGX5zgegsnL6bjnJv4PsNilo)<br>
+* Μπορείτε να δείτε εγκατάσταση των mqtt, mosquitto, [εδώ](https://asciinema.org/a/tBPRcXoz3DEUFaBMe6ZkINTfc)<br>
+* Μπορείτε να δείτε ένα παράδειγμα όπου στέλνω μηνύματα από ένα τερματικό σε ένα άλλο, [εδώ](https://asciinema.org/a/xbGX5zgegsnL6bjnJv4PsNilo)<br>
 Τα μηνύματα στέλνονται με την εντολή  `mosquitto_pub -t '/Ονομα_topic' -m 'Κείμενο'` από άλλο τερματικό.<br>
-Μπορείτε να δείτε όσα κατάφερα να κάνω για την σύνδεση του mqtt και το slack , [εδώ](https://asciinema.org/a/cW09aIXMbhrVM1JaiOFOY5YD3).
+* Μπορείτε να δείτε όσα κατάφερα να κάνω για την σύνδεση του mqtt και το slack , [εδώ](https://asciinema.org/a/cW09aIXMbhrVM1JaiOFOY5YD3).
 
 
 
