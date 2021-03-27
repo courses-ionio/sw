@@ -17,7 +17,7 @@
 | [3](#Παραδοτέο_3) | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | [4](#Παραδοτέο_4) | Άσκηση γραμμής εντολών |
 | [5](#Παραδοτέο_5) | Συμμετοχικό περιεχόμενο |
-| 6 | Άσκηση γραμμής εντολών |
+| [6](#Παραδοτέο_6) | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -534,3 +534,142 @@ git submodule update --remote --merge
 Έφτιαξαν έναν κώδικα όσο πιο κοντά μπορούσαν σε μια μαθηματική σχέση(διπλάσιος σε μέγεθος) ο οποίος μπορούσε να διαχειρίζεται ότι έχει σχέση με το render ,και έπειτα  κατάφεραν να δημιουργήσουν έναν visualizer μέσω του κώδικα που είχαν ,στο  live system (ενώ θεωρητικά φαινόταν πολύ περίπλοκο)
 Έτσι, συμπεραίνουμε ότι με τις γλώσσες του μέλλοντος , το σύστημα θα πρέπει επίσης να παράγει το πρόγραμμα εντοπισμού σφαλμάτων μαζί με τις ίδιες τις γλώσσες.
 Η διαφορά από αντίστοιχα σύγχρονα λογισμικά με αντίστοιχες δυνατότητες είναι το πλήθος των γραμμών κώδικα και η πολυπλοκότητα που υπάρχει σε αυτά.
+
+---
+# Παραδοτέο_6
+**Τίτλος:** Άσκηση γραμμής εντολών
+
+Αυτή την εβδομάδα, πρέπει να επιτύχουμε το Continuous Integration ενός github repository της επιλογής μας, με τη χρήση του Travis CI και του Netlify που μας βοηθάει να κάνουμε deploy το site μας.
+
+Αρχικά επιλέγουμε το repo του [βιογραφικού μας](https://github.com/p13brif/cv-1), το οποίο πρέπει να κάνουμε update με τα αρχεία Gemfile και Gemfile.lock για να μπορούμε να το κάνουμε deploy στο Netlify. Τα ανεβάζουμε με add, commit και push, και αμέσως μετά πάμε στο Netlify, ώπου και κάνουμε deploy ένα καινούριο site από το Github repository. Επιλέγουμε το σωστό branch και τα σωστά build settings και publish directory.
+
+[![netlify-settings.png](https://i.postimg.cc/rF8x5ph1/netlify-settings.png)](https://postimg.cc/PNRCjdnJ)
+
+Περιμένουμε το build να τελείωσει. Αλλάζουμε το domain name του site μας και ανοίγουμε το link για να δούμε τα αποτελέσματα.
+
+[![published-netlify.png](https://i.postimg.cc/8Cr6Tf5S/published-netlify.png)](https://postimg.cc/94CMpMZ8)
+
+Επειδή εμείς θέλουμε το continuous integration να συμβαίνει μέσω του Travis και όχι μέσω του
+Netlify το οποίο έχει περιορισμό στο build time και στη χρήση του bandwdith, πρέπει να κάνουμε
+disable τα active builds από το tab Build & Deploy.
+
+[![disable-build.png](https://i.postimg.cc/qMM6z5RQ/disable-build.png)](https://postimg.cc/s1qgLK5Z)
+
+Σειρά έχει το setup του Travis. Πάμε και δημιουργούμε ένα καινούριο account.
+
+[![travis-sing-up.png](https://i.postimg.cc/KYLR6Xqc/travis-sing-up.png)](https://postimg.cc/d7ssCfcg)
+
+Επιλέγουμε settings κάτω από την εικόνα του προφίλ μας, και κάνουμε activate το repository του βιογραφικού μας. Το Travis για αρχή δεν θα μπορεί να κάνει deploy το βιογραφικό μας, γιατί λείπουν μια σειρά από αρχεία που θα μας βοηθήσουν να επιτύχουμε το continuous integration.
+
+Φτιάχνουμε 2 αρχεία που θα περιέχουν κάποια bash scripts, τα 'build.sh' και το 'deploy.sh'.
+Τα τοποθετούμε μέσα σε ένα φάκελο scripts. Στο Gemfile προσθέτουμε το ' gem "jekyll" ' και το 
+' gem "rake" '. Φτιάχνουμε επίσης ένα αρχείο Rakefile και του προσθέτουμε τον παρακάτω κώδικα:
+
+~~~bash
+task default: [:test]
+
+task :test do
+  ruby "tests.rb"
+end
+~~~
+
+Επίσης στο build.sh βάζουμε:
+~~~bash
+#!/usr/bin/env bash
+set -e # halt script on error
+
+jekyll build
+~~~
+
+Στο deploy.sh βάζουμε:
+~~~bash
+#!/usr/bin/env bash
+set -e # halt script on error
+
+zip -r website.zip _site
+
+curl -H "Content-Type: application/zip" \
+     -H "Authorization: Bearer $NETLIFYKEY" \
+     --data-binary "@website.zip" \
+     https://api.netlify.com/api/v1/sites/cv-emmanouil-brifas.netlify.app/deploys
+~~~
+
+Προσοχή προκείμενου να μην κάνουμε commit σε public repository το NETLIFYKEY, το προσθέτουμε ως
+μεταβλητή περιβάλλοντος στο TRAVIS. Βάζουμε ως name το NETLIFYKEY και ως value βάζουμε το παραγώμενο key από το
+netlify account μας , το οποίο προσέχουμε να μην χάσουμε.
+
+Φτιάχνουμε και ένα αρχείο .travis.yml και προσθέτουμε τον παρακάτω κώδικα:
+
+~~~bash
+language: ruby
+rvm:
+- 2.5
+
+before_install:
+  - gem install bundler -v 1.17.3
+  - rm Gemfile.lock
+  - bundle _1.17.3_ install
+  - cd _site
+
+# install jekyll from gemfile
+install: 
+   - bundle install
+   - rake
+   - chmod +x ./scripts/build.sh
+   - ./scripts/build.sh
+
+# build site
+scripts: true
+
+# deploy to netlify
+after_success: 
+   - chmod +x ./scripts/deploy.sh
+   - ./scripts/deploy.sh
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - master2
+  
+notifications:
+  email: false
+~~~
+
+Φτιάχνουμε και ένα αρχείο tests.rb και βάζουμε μέσα τον παρακάτω κώδικα:
+
+~~~bash
+puts "Captain! I'm fine!"
+~~~
+
+Για να συμβεί καινούριο build απ'τό Travis και να επιβεβαιώσουμε ότι περνάνε οι αλλαγές μας πρέπει να κάνουμε ένα καινούριο commit. Για λόγους δοκιμής θα βάλουμε μια extra γραμμή στον κωδικά μας(  TEST ):
+
+[![test-code.png](https://i.postimg.cc/5NQcfxJV/test-code.png)](https://postimg.cc/w7z4VY3f)
+
+Κάνουμε ένα commit:
+
+[![asciicast](https://asciinema.org/a/1YCsmHHKWGxGLr9p8sLVVgsa2.svg)](https://asciinema.org/a/1YCsmHHKWGxGLr9p8sLVVgsa2)
+
+Βλέπουμε ότι το Travis έκανε successfull build:
+
+[![travis-success-build.png](https://i.postimg.cc/yxwbDZKz/travis-success-build.png)](https://postimg.cc/1VrHT44W)
+
+Βλέπουμε και την αλλαγή στο βιογραφικό μας στο Netlify, με την προσθήκη του header TEST:
+
+[![change-netlify-travis.png](https://i.postimg.cc/W1cyjgSG/change-netlify-travis.png)](https://postimg.cc/7fX9nCFh)
+
+Άρα καταφέραμε να επιτύχουμε το continuous integration, κάνουμε πάλι commit χωρίς τo header TEST που έγινε για λόγους επαλήθευσης.
+
+Ο σύνδεσμος του βιογραφικού μας που είναι continuously integrated με το Travis:
+https://cv-emmanouil-brifas.netlify.app/
+
+---
+
+**Πηγές:**
+- Ο οδηγός που ακολουθήσαμε για το setup του Travis:http://therocketeers.github.io/blog/using-travis-ci-to-deploy-jekyll-on-netlify/
+- Οδηγός για troubleshooting ενός error σχετικά με το bundler 2:https://dev.to/tanakaworld/how-to-resolve-you-must-use-bundler-2-or-greater-with-this-lockfile-2pf7
+- Stack overflow post για το πως να κάνεις specify folders στο Travis μεσα σε bash script: https://stackoverflow.com/questions/14468464/how-to-specify-a-build-folder-in-travis
+
+---
+**Video quiz εβδομάδα 6:**
+---
+
