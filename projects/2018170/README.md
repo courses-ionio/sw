@@ -66,6 +66,9 @@ programming:https://github.com/p18vogd/site/blob/master/_timeline/programming.md
 asciinema:https://asciinema.org/a/400944
 
 
+netlify: https://gracious-borg-26f1c1.netlify.app
+
+
 
 
 # Αίτημα ενσωμάτωσης στην σελίδα του τμήματος #
