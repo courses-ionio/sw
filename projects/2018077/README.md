@@ -21,30 +21,34 @@
 | 12 | Τελική αναφορά |
 
  <table>
-  <tr>
-    <th> Εβδομαδιαίο βίντεο κουίζ </th>
-    <th> :heavy_check_mark: OR :x: </th>
-  </tr>
-  <tr>
-    <td>Alan Kay - at MIT EECS</td>
-    <td>:heavy_check_mark:</td>
-  </tr>
-  <tr>
-    <td>Τed Νelson - Computers for Cynics</td>
-    <td>:heavy_check_mark:</td>
-  </tr>
-  <tr>
-    <td>Alan Kay - Computing Simply</td>
-    <td>:heavy_check_mark:</td>
-  </tr>
-  <tr>
-    <td>Bret Victor - The Future of Programming</td>
-    <td>:heavy_check_mark:</td>
-  </tr>
-  <tr>
-    <td>Alan Kay - Programming</td>
-    <td>:heavy_check_mark:</td>
-  </tr>
+   <tr>
+     <th> Εβδομαδιαίο βίντεο κουίζ </th>
+     <th> :heavy_check_mark: OR :x: </th>
+   </tr>
+   <tr>
+     <td>Alan Kay - at MIT EECS</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Τed Νelson - Computers for Cynics</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Alan Kay - Computing Simply</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Bret Victor - The Future of Programming</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Alan Kay - Programming</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Αlan Κay - Τuring Αward Lecture</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
   
 </table> 
 
@@ -108,14 +112,14 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 Οι δύο φωτογραφίες που επέλεξα να προσθέσω είναι οι  `html5`  και  `raspberry pi os` . Η  `html5`  είναι ένα εργαλείο με το οποίο μπορούν να δημιουργηθούν ιστοσελίδες και διαδραστικό υλικό. Από την άλλη πλευρά, το  `pi – OS`  είναι ένα παραμετροποιήσιμο λειτουργικό σύστημα.
 
-Έμα πρόβλημα που έχω εντοπίσει με το **netlify demo** : Οι αλλαγές που έχω πραγματοποιήσει στο χρονολόγιο δεν φαίνονται καθώς επίσης στις διαφάνειες και στις εικόνες εμφανίζετε ένα κενό πλαίσιο αντί της εικόνας. Αν ώμος γίνει “κλικ” πάνω στο κενό αυτό πλαίσιο η εικόνα εμφανίζετε κανονικά. 
+~Ένα πρόβλημα που έχω εντοπίσει με το **netlify demo** : Οι αλλαγές που έχω πραγματοποιήσει στο χρονολόγιο δεν φαίνονται καθώς επίσης στις διαφάνειες και στις εικόνες εμφανίζετε ένα κενό πλαίσιο αντί της εικόνας. Αν ώμος γίνει “κλικ” πάνω στο κενό αυτό πλαίσιο η εικόνα εμφανίζετε κανονικά.~
 
-  * Εικόνες site-link : [html5](https://affectionate-lewin-ee77b9.netlify.app//gallery/html5/) , [raspberry pi os](https://keen-bohr-ff0554.netlify.app//gallery/pios/) 
-  * Διαφάνειες site-link : [html5](https://affectionate-lewin-ee77b9.netlify.app//slides/programming/) , [raspberry pi os](hhttps://affectionate-lewin-ee77b9.netlify.app//slides/gui/)
-  * Χρονολόγιο site-link : [html5](https://affectionate-lewin-ee77b9.netlify.app//timeline/programming/) , [raspberry pi os](https://keen-bohr-ff0554.netlify.app//timeline/systems/)
+  * Εικόνες netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//gallery/html5/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//gallery/raspberry-pi-os/) 
+  * Διαφάνειες netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//slides/programming/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//slides/gui/)
+  * Χρονολόγιο netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//timeline/programming/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//timeline/systems/)
   
-  * Εικόνες GitHub : [html5 image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5.png) , [html5 thumd](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5-thumb.png) , [html5 gallery](https://github.com/KaterinaLaz/_gallery/blob/58d0876cb7d8467856388652ac632da7a3abd232/html5.md) , [rasberry pi os image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os.png) , [rasberry pi os thumb](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os-thumb.png) , [rasberry pi os gallery](https://github.com/KaterinaLaz/_gallery/blob/58d0876cb7d8467856388652ac632da7a3abd232/raspberry-pi-os.md)
+  * Εικόνες GitHub : [html5 image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5.png) , [html5 thumd](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5-thumb.png) , [html5 gallery](https://github.com/KaterinaLaz/_gallery/blob/2bae51b2d88b9f76ebaac28bcab28fa9fd04caf4/html5.md) , [rasberry pi os image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os.png) , [rasberry pi os thumb](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os-thumb.png) , [rasberry pi os gallery](https://github.com/KaterinaLaz/_gallery/blob/2bae51b2d88b9f76ebaac28bcab28fa9fd04caf4/raspberry-pi-os.md)
   * Διαφάνεις GitHub : [html5 slides](https://github.com/KaterinaLaz/site/blob/master/_slides/programming.md) , [raspbery pi os slides](https://github.com/KaterinaLaz/site/blob/master/_slides/gui.md)
   * Χρονολόγιο GitHub : [html5 timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md) , [raspbery pi os timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)
   
-  **Netlify Status badges :** [![Netlify Status](https://api.netlify.com/api/v1/badges/9f19743e-5320-4fac-8a6f-329038ccf6c3/deploy-status)](https://app.netlify.com/sites/keen-bohr-ff0554/deploys)
+  **Netlify Status badges :** [![Netlify Status](https://api.netlify.com/api/v1/badges/7dd38f91-23c2-4dfd-958a-a1106049f7df/deploy-status)](https://app.netlify.com/sites/affectionate-lewin-ee77b9/deploys)
