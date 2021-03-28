@@ -41,8 +41,7 @@ Note: I made some changes to CV's format so I create new repository. The asciine
 
 |**Deliverable** | **Assignment** | **Demo** | 
 |:---------:| :--------: |  :--------: |
-|**First** |**Send notifications to your desktop-mobile**| [Asciinema Video](https://asciinema.org/a/398905) |
-</br>   
+|**First** |**Send notifications to your desktop-mobile**| [Asciinema Video](https://asciinema.org/a/398905) |   
 
 Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
