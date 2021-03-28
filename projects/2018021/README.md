@@ -19,7 +19,7 @@
 | <ul><li>- [x] </li></ul> | [3](#Παραδοτέο-3) | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [x] </li></ul> | [4](#Παραδοτέο-4) | Άσκηση γραμμής εντολών |
 | <ul><li>- [x] </li></ul> | [5](#Παραδοτέο-5) | Συμμετοχικό περιεχόμενο |
-| <ul><li>- [ ] </li></ul> | 6 | Άσκηση γραμμής εντολών |
+| <ul><li>- [ ] </li></ul> | [6](#Παραδοτέο-6) | Άσκηση γραμμής εντολών |
 | <ul><li>- [ ] </li></ul> | 7 | Βιογραφικό |
 | <ul><li>- [ ] </li></ul> | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [ ] </li></ul> | 9 | Άσκηση γραμμής εντολών |
@@ -67,6 +67,8 @@
 
 ### Παραδοτέο 4
 
+Εργασία τερματικού με τίτλο **"set-up continuous integration"**.
+
 Το site βασίζεται στο παραδοτέο 2 και δουλεύει κανονικά στο [GitHub Pages](https://pauloskal.github.io/cv-resume/).
 
 Το σύνδεσα επίσης με το [Netlify](https://focused-northcutt-6f1e2c.netlify.app) και το site δουλέυει, αν και αντιμετωπίζω ένα πρόβλημα με το θέμα Jekyll και τα links.
@@ -100,6 +102,13 @@
 - [_timeline/geographic-systems.md](https://github.com/PaulosKal/site/blob/master/_timeline/geographic-systems.md)
 
 
-### Παραδοτέο 6 (υπό κατασκευή)
+### Παραδοτέο 6
+
+Εργασία τερματικού με τίτλο **"send notifications to your desktop-mobile"**.
+Για την εργασία αυτή χρησιμοποίησα την εφαρμογή [inotify](https://man7.org/linux/man-pages/man7/inotify.7.html)
+asciinema link: https://asciinema.org/a/403524
+
+
+### Παραδοτέο 7 (υπό κατασκευή)
 
 [go to the top](#Αναφορά-εργασίας)
