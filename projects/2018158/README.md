@@ -82,3 +82,12 @@ https://github.com/AnTonyPapako/site/blob/57188442397e4395c6c6448c615f86a336ebf7
 https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/AR-or-VR.jpg
 
 https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48cb75/AR-or-VR-thumb.jpg
+
+### Παραδοτέο 6
+Άσκηση τερματικού.
+
+asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
+
+**assignment:** create notifications on your server
+
+**deliverables:** send notifications on important server events
