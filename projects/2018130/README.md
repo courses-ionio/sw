@@ -82,6 +82,19 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 [![asciicast](https://asciinema.org/a/400534.svg)](https://asciinema.org/a/400534)
 
+## Έκτη εβδομάδα 
+
+Άσκηση τερματικού - send notifications to your desktop-mobile
+
+***[asciinema link:](https://asciinema.org/a/403466)***
+
+[![asciicast](https://asciinema.org/a/403466.svg)](https://asciinema.org/a/403466)
+
+***Gif με την διαδικασία***
+
+![ntfy](https://user-images.githubusercontent.com/54241681/112758282-2b881f00-8ff6-11eb-93a7-6806086df987.gif)
+
+
 
 # Απαντήσεις εβδομαδιαίου quiz
 
