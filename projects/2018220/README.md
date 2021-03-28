@@ -63,3 +63,12 @@
 ### [Εικόνα multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg)
 ### [asciinema link Παραδοτέο 5](https://asciinema.org/a/400978)
 ### [Εκτελέσιμο Netlify](https://cyclenikolaos.netlify.app/)
+
+## <a name="Παραδοτέο 6">Παραδοτέο 6</a>
+## 2η άσκηση γραμμής εντολών</a>
+
+Κατέβασα την εντολή ntfy για την αποστολή στο desktop ειδοποίησης όταν ολοκληρώνεται ένα task.
+Κατέβασα το εργαλείο youtube-dl της python για το κατέβασμα video από το youtube
+Δημιούργησα το αρχείο ntfy.yml
+Έκανα ανακατεύθυνση στο αρχείο syslog
+### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
