@@ -8,7 +8,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα_ενσωμάτωσης_στην_ιστοσελίδα) |
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση_γραμμής_εντολών) |
 | 5 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό_περιεχόμενο) |
-| 6 | Άσκηση γραμμής εντολών |
+| 6 | [Άσκηση γραμμής εντολών](#Άσκηση_γραμμής_εντολών) |
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -105,5 +105,12 @@ Link Images
 - https://github.com/p16foti/images/blob/2016046/google-translate.jpg
 - https://github.com/p16foti/images/blob/2016046/google-translate-thumb.jpg
 
+# Άσκηση_γραμμής_εντολών
+
+Link Hyperfine https://github.com/sharkdp/hyperfine
+
+Link Asciinema https://asciinema.org/a/eDK2Hu4st3a1v7KXdi61NBdJo
+
+(Κατέβασα το hyperfine, έτρεξα(run) ένα σημείο αναφοράς(benchmark), μετά άλλαξα τον αριθμό των εκτελέσεων για κάθε εντολή και τέλος έτρεξα ένα benchmark σε warm cache)
 
 
