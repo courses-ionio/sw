@@ -63,6 +63,7 @@ For the second part of this task (a2), I added to an existed slide and timeline 
 
 [Asciinema Video](https://asciinema.org/a/403138)
 </br>
+https://sad-spence-5715fa.netlify.app/
 
 ## Second Quiz
 </br>
@@ -157,9 +158,37 @@ For the second part of this task (a2), I added to an existed slide and timeline 
 </details>
 </br>
 <details>
-  <summary>Γιατί το σύγχρονο λογισμικό έχει τόσες πολλές γραμμές κώδικα και πως θα μπορούσε να αλλάξει σε κάτι πιο συμπαγές;</summary>
+  <summary>Γιατί το σύγχρονο λογισμικό έχει τόσες πολλές γραμμές κώδικα και πως θα μπορούσε ναtatαλλάξει σε κάτι πιο συμπαγές;</summary>
 </details>
 </br>
 <details>
   <summary>Ποιες είναι οι σημαντικές ιδέες στο λογισμικό που χρησιμοποιεί ο Άλαν Κέη και πως διαφέρουν από αντίστοιχα σύγχρονα λογισμικά με αντίστοιχες δυνατότητες;</summary>
 </details>
+</br> 
+
+### Sixth Quiz
+</br> 
+<details>
+  <summary>Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί;</summary>
+</details>
+</br> 
+<details> 
+  <summary>Είναι η πληροφορική επιστήμη ή κλάδος των μηχανικών; ποια είναι τα κριτήρια για να ανήκει σε κάποιον από αυτούς τους κλάδους;</summary>
+</details>
+</br> 
+<details>
+  <summary>Γιατί οι περισσότεροι δεν μπορούν να καταλάβουν τις ιδέες του Νταγκλας Ενγκελμπαρτ για την διάδραση με ψηφιακά συστήματα;</summary>
+</details>
+</br>
+<details>
+  <summary>Ποιες ήταν οι θεμελιώδεις εμπνεύσεις και αναλογίες για την δουλειά του;</summary>
+</details>
+</br>
+<details>
+  <summary>Ποια είναι τα βασικά προβλήματα της 3βάθμιας εκπαίδευσης στην πληροφορική;</summary>
+</details>
+</br>
+<details>
+  <summary>Πως διαφέρει ο αντικειμενοστραφής προγραμματισμός που περιγράφει από αυτόν που διδαχτήκατε στο αντίστοιχο μάθημα;</summary>
+</details>
+</br>
