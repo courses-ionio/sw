@@ -66,4 +66,16 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 ![LinuxGif](https://user-images.githubusercontent.com/44093798/111082776-accdb500-8512-11eb-965f-497119b5762b.gif)
 
 
+#### 5ο Παραδοτέο 28/03/2021
+Στο συγκεκριμένο παραδοτέο τροποποίησα το βιβλίο προσθέτωντας 2 εικόνες , βάζοντας αυτές τις εικόνες σε 2 διαφάνειες και σε ένα κοινό χρονολόγιο.
+Αφού έκανα fork το αποθετήριο του βιβλίου αλλά και τα αποθετήρια από τα submodules τα οποία συνδέονται με αυτό , πρόσθεσα 2 .md αρχεία στο forked _gallery, 2 εικόνες στο forked images , διέγραψα αυτά τα submodules από το δικό μου αποθετήριο 
+και πρόσθεσα 2 νέα submodules που δείχνουν στα 2 νέα forked αποθετήρια.Όλες οι αλλαγές πέρα από την προσθήκη εικόνων έγιναν με τη χρήση git. Τέλος έκανα deploy το αποθετήριο με το netlify.
+#### link βιβλιου: https://axel12321.netlify.app/
+#### link πρώτης εικόνας: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git2.png
+#### link δεύτερης εικόνας: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell.jpg
+#### link thumb1: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git-thumb.png
+#### link thumb2: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell-thumb.jpg
+#### link timeline: https://github.com/Axel12321/site/blob/master/_timeline/collaboration.md
+#### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/git.md
+#### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/linuxShell.md
 
