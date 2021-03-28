@@ -76,3 +76,12 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 #### [Εκτελέσιμο Netlify slides/programming](https://p09apos.netlify.app//slides/programming/)
 #### [Εκτελέσιμο Netlify timeline/personal](https://p09apos.netlify.app//timeline/personal/)
 #### [Εκτελέσιμο Netlify timeline/programming](https://p09apos.netlify.app//timeline/programming/)
+
+### <a name="Παραδοτέο 6">Παραδοτέο 6</a>
+### Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
+Λήψη ειδοποίησης όταν ολοκληρωθεί η εκτελεση μίας εργασίας από το terminal. Στη συγκεκριμένη περίπτωση εκτελείται ένα πρόγραμμα σε γλώσσα Python που επιστρέφει τους πρώτους αριθμός από 1 - 1000 και στη συνέχεια εκτελεί κάποιες σχετικές μεθόδους για πρώτους αριθμούς που χρειάζονται λίγο χρόνο για να εκτελεστούν.
+
+#### [Σύνδεσμος Άσκησης γραμμής εντολών 2](https://asciinema.org/a/403517)
+
+![Screenshot](cv-command-terminal.png)
+
