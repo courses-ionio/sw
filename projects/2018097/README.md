@@ -63,7 +63,7 @@
 
 - Microsoft Azure:
   - [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure..jpg)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
   - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
 - Web Service Architecture:
   - [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
