@@ -70,5 +70,5 @@
   - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
   - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) <br>
 
-Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097).<br>
+Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097). Ολες οι προσθήκες ή οι αλλαγές έγιναν στο branch με όνομα "2018097".<br>
 [Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες, μέσω του Neltify.
