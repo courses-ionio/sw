@@ -86,6 +86,8 @@
 ![Screenshot](telegram1.png)
 
 #### Screenshot ntfy Desktop
+![Screenshot](desktop_ntfy.png)
+
 
 
 
