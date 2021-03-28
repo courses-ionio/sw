@@ -101,3 +101,10 @@
 | Η προσθήκη του freebsd | https://vxs5.netlify.app/gallery/freebsd/ |
 | To set απο θεματικές ενότητες | https://vxs5.netlify.app/slides/metaphors/ |
 | Το χρονολόγιο "ορίζοντας τον υπολογισμό" | https://vxs5.netlify.app/timeline/computer/ |
+
+---
+## <a name="P">Παραδοτέο 6 - ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ:</a>
+
+Για το παραδοτέο 6 με θέμα άσκηση γραμμής εντολών αποφάσισα να κάνω το παραδοτέο με τίτλο "send notifications to your desktop / send a notification when a big task completes, eg download, compiling" με την βοήθεια του ntfy. Στο παρακάτω asciinema θα δείξω πρώτα το config file μου που το έχω ορίσει έτσι ώστε το output των ενεργειών μου να πηγαίνει στο system log ώστε να δούμε ότι όντως δουλεύει. ΄Επειτα θα τρέξω έναν απλό κώδικα που εμφανίζει κείμενο με καθυστέρηση στο background και έπειτα θα δώσω τον αριθμό PID στο ntfy ώστε να με ενημερώσει όποτε τελειώσει αυτή η διεργασία. Η διεργασία φαίνεται να εκτελείτε αμέσως λόγω του -i 0.25 του asciinema αλλά κανονικά έχει καθυστέρηση 25 δευτερόλεπτα. Τέλος θα εμφανίσω και την πιο πρόσφατη γραμμή του syslog  για να φανεί και η καταγραφή της ολοκλήρωσhς της διεργασίας.
+
+- Link asciinema: https://asciinema.org/a/403171
