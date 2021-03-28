@@ -91,3 +91,9 @@ asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 **assignment:** create notifications on your server
 
 **deliverables:** send notifications on important server events
+
+![ΆσκησηΤερματικού6](https://user-images.githubusercontent.com/44473312/112767894-d3671200-9021-11eb-9136-9849cf469b6f.png)
+
+![mtqqwarn](https://user-images.githubusercontent.com/44473312/112767898-de21a700-9021-11eb-8284-866b98909e88.png)
+
+
