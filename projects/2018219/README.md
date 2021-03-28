@@ -12,7 +12,7 @@
     <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td></tr>
     <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a></td></tr>
     <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td></tr>
-    <tr><td align="center">6</td><td align="left"><a href="#P6">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td></tr>
     <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό</a></td></tr>
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
     <tr><td align="center">9</td><td align="left"><a href="#P9">Άσκηση γραμμής εντολών</a></td></tr>
@@ -85,7 +85,9 @@
 
 &nbsp;&nbsp;
 ## <a name="P6">Παραδοτέο 6</a>
-## <a href="#P">Άσκηση γραμμής εντολών</a>
+## <a href="#P">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a>
+
+<a href="https://github.com/p18mili1/sw/blob/2018219/projects/2018219/ntfy01.png">Εικόνα 1</a>
 &nbsp;&nbsp;
 ## <a name="P7">Παραδοτέο 7</a>
 ## <a href="#P">Βιογραφικό</a>
