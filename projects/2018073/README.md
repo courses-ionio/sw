@@ -73,8 +73,10 @@ asciinema link: https://asciinema.org/a/399181
 [timeline 1: mobile](https://github.com/FaidonTsetsis/site/blob/2018073/_timeline/mobile.md/) <br> Προυπάρχων timeline mobile: Εισαγωγή του event nowadays-computer και τροποποίηση του image_url στην αντίστοιχη εικόνα του event. <br> <br>
 [timeline 2: multitask](https://github.com/FaidonTsetsis/site/blob/2018073/_timeline/multitask.md/) <br> Δημιούργησα timeline multitask: Κύριο event netflix με το αντίστοιχο image_url και δημιουργία caption. <br>
 
+## <a name="P">ΠΑΡΑΔΟΤΕΟ 6 - Δεύτερη άσκηση τερματικού:</a>
 
+Εκφώνηση άσκησης: "Create notifications on your sever - send notifications on important server events"
 
+[asciinema link](https://asciinema.org/a/403513)
 
-  
-
+Κατά την διάρκεια της δεύτερης άσκησης τερματικού παρουσίασα ένα παράδειγμα server-noticiation, το οποίο δημιουργεί ειδοποιήσεις κάθε φορά που πραγματοποιείται ένα event σε κάποιο directory ή/και αρχείο. Στο συγκεκριμένο παράδειγμα εντάσσεται ένα καινούργιο αρχείο (το myfile) και το inotify μας ειδοποιεί στο τερματικό για τις αντίστοιχες ενέργειες που πραγματοποιήθηκαν κατά την εισαγωγή του συγκεκριμένου αρχείου.
