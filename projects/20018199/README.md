@@ -53,4 +53,7 @@
 - Netlify link στην [αρχική σελίδα](https://infallible-swirles-0bb9d4.netlify.app)
 - link απο την ιστοσελίδα του αρχείου [iphone.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/iphone/)
 - link απο την ιστοσελίδα του αρχείου [keyboard.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/keyboard/)
+* Στον φάκελο _timeline, τροποποίησα τα αρχεία [_timeline/computer.md](https://github.com/polycarpos/site/commit/1232dc94541fe6dcdeb3cfe2490537ba3896a91c)έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου
+*Στον φάκελο _slides, τροποποίησα τα αρχεία [_slides/tools.md](https://github.com/polycarpos/site/commit/6ecb6469f5cbd3d61842acf10cb31fef82757071)έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου
+
 
