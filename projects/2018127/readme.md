@@ -9,9 +9,9 @@
 | 1 | [Intro- First state of suffering](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Υποβολή μέσω της εφαρμογής |
 | 2 | A (hopefully) constantly updated [CV](https://runtheorun-exe.github.io/online-cv/) and its [repo](https://github.com/runtheorun-exe/online-cv) | Υποβολή μέσω της εφαρμογής |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/ioniodi/sitegr/issues/78) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
-| 4 | Άσκηση γραμμής εντολών |
-| 5 | Συμμετοχικό περιεχόμενο |
-| 6 | Άσκηση γραμμής εντολών |
+| 4 | Άσκηση γραμμής εντολών | Υποβολή μέσω εφαρμογής
+| 5 | Συμμετοχικό περιεχόμενο | Υποβολή μέσω εφαρμογής
+| 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week6.md)
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
