@@ -83,5 +83,5 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 2](https://asciinema.org/a/403517)
 
-![Screenshot](cv-command-terminal.png)
+![Screenshot](cv-command-terminal2.png)
 
