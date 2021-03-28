@@ -19,6 +19,23 @@
 | 11 | <a href="#P11"> Άσκηση γραμμής εντολών </a>|
 | 12 | <a href="#P12"> Τελική αναφορά* </a>|
 
+| Εβδομάδα | Video quiz |
+| --- | --- |
+| 1 | Έγινε |
+| 2 | Δεν έγινε|
+| 3 | Έγινε |
+| 4 | Έγινε |
+| 5 | Έγινε |
+| 6 | Έγινε |
+| 7 | - |
+| 8 | - |
+| 9 | - |
+| 10 | - |
+| 11 | - |
+| 12 | - |
+
+
+###
 **<a name="P1">1η εβδομάδα:</a>**</br>
 Εισαγωγή: Για το μάθημα "Τεχνολογία Λογισμικού" οι στόχοι μου είναι να διδαχθώ γνώσεις σχεδιασμού με σκοπό την κατασκευή λογισμικού. 
 Να είμαι σε θέση να μπορώ να αποφασίζω ποια στρατηγική θα ακολουθήσω για την κατασκευή λογισμικού αναλόγως με το περιεχόμενό του 
@@ -46,9 +63,12 @@
 
 - Microsoft Azure:
   - [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/azure.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/azure-thumb.jpg)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure..jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
 - Web Service Architecture:
   - [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
   - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) <br>
+
+Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097).<br>
+[Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες, μέσω του Neltify.
