@@ -82,6 +82,11 @@
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/403530)
 ![Screenshot](ntfy.png)
 
+#### Screenshot application telegram
+![Screenshot](telegram1.png)
+
+#### Screenshot ntfy Desktop
+
 
 
 
