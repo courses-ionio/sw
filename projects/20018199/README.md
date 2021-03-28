@@ -50,5 +50,5 @@
 - Σύνδεσμος εικόνας <a href="https://github.com/polycarpos/images/blob/master/keyboard.png">keybaord.png</a>
 - Σύνδεσμος εικόνας <a href="https://github.com/polycarpos/images/blob/master/keyboard-thumb.png">keyboard-thumb.png</a>
 - <a href="https://github.com/polycarpos/site">Σύνδεσμος αποθετηρίου site</a>
-- Netlify link στην [αρχική σελίδα](https://github.com/polycarpos/site)
+- Netlify link στην [αρχική σελίδα](https://infallible-swirles-0bb9d4.netlify.app)
 
