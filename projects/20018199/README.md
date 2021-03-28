@@ -52,5 +52,5 @@
 - <a href="https://github.com/polycarpos/site">Σύνδεσμος αποθετηρίου site</a>
 - Netlify link στην [αρχική σελίδα](https://infallible-swirles-0bb9d4.netlify.app)
 - link απο την ιστοσελίδα του αρχείου [iphone.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/iphone/)
-- - link απο την ιστοσελίδα του αρχείου [keyboard.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/keyboard/)
+- link απο την ιστοσελίδα του αρχείου [keyboard.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/keyboard/)
 
