@@ -31,7 +31,11 @@
 ---
 ## <a name="G">1η Άσκηση Γραμμής Εντολών</a>
  
-Θέμα: "Set-up continuous integration".
+Θέμα: "Set-up continuous integration". 
+
+Παραδοτέο: "Build and deploy your static site and your cv dynamically every time you make a small change in the source files".
+
+Έκανα χρήση του βιογραφικού που είχα δημιουργήσει στο προηγούμενο παραδοτέο και ενημέρωσα διάφορα πεδία που χρειαζόντουσαν αλλαγές. Στη συνέχεια, git add, git commit και git push και πέρασαν οι αλλαγές στο Repository του βιογραφικού στο Github (το link του repository βρίσκεται στο παραδοτέο του βιογραφικού).
 
 [Asciinema](https://asciinema.org/a/399210)
 
