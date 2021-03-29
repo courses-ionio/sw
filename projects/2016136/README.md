@@ -52,9 +52,6 @@
 
 [Link Βιογραφικού](https://p16pyla.github.io/resume-sw1/)
 
-  - Netlify Bio  
- 
- [Link Βιογραφικού](https://p16pylacv.netlify.app/)
  
  
  # Απαντήσεις στο βίντεο quiz της 2ης εβδομάδας Τed Νelson Computers For Cynics  <<πρόβλημα με το submit>> 
@@ -202,4 +199,4 @@ A1:Πρόσθεσα τις δυο φωτογραφίες στο images και τ
 [Asciinema Link](https://asciinema.org/a/m1fb9Xc32gIuwBy63hN3wOsMd)
 
 
-Τα quiz των εβδομάδων : 1,4,5      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
+Τα quiz των εβδομάδων : 1,4,5,6      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
