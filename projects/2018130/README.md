@@ -8,7 +8,7 @@
 | Εβδομάδα | Παραδοτέο | Video quiz|
 | ----------- | ----------- | ----------- |
 | 1 | [Fork του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](#Εισαγωγή) | [Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series](#Alan-Kay-at-MIT-EECS-1998-Fall-Semester-Colloquium-Series)
-| 2 | [Βιογραφικό](#Βιογραφικό) | [Ted Nelson -- Computers for Cynics](#[Ted-Nelson--Computers-for-Cynics])
+| 2 | [Βιογραφικό](#Βιογραφικό) | [Ted Nelson Computers for Cynics](#[Ted-Nelson-Computers-for-Cynics])
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Τρίτη-εβδομάδα) | [Alan Kay Computing Simply](#Alan-Kay-Computing-Simply)
 | 4 | [Άσκηση γραμμής εντολών](#Τέταρτη-εβδομάδα) | [bret victor the future of programming](#bret-victor-the-future-of-programming)
 | 5 | [Συμμετοχικό περιεχόμενο](#Πέμπτη-εβδομάδα) | [alan kay programming](#alan-kay-programming)
@@ -128,7 +128,7 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 ---
 
-## [Ted Nelson -- Computers for Cynics](https://youtu.be/hZ3gmh-d9oI)
+## [Ted Nelson Computers for Cynics](https://youtu.be/hZ3gmh-d9oI)
 
 1. ***Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Ted Nelson και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές.***
 
