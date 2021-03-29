@@ -31,6 +31,8 @@
 [Link Βιογραφικού](https://p16pyla.github.io/cv-1/) 
 
 [Link Asciinema](https://asciinema.org/a/ak8CxOWnEe4WbNgREDJmAqN2c)
+  
+ [Deploy Netlify Bio](https://p16pylacv.netlify.app/)
 
   - Git Hub Bio (μια δέυτερη προσπάθεια)
   
