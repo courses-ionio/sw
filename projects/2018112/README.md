@@ -54,8 +54,8 @@ A1: Δύο νέες εικόνες με λεζάντα και με ελεύθε�
 
 ### **Παραπομπές**
 
-- [1]  https://en.wikipedia.org/wiki/Blockly
-- [2]  https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT
+- [1]  https://www.robot-advance.com/EN/cat-lego-mindstorms-education-nxt-116.htm
+- [2]  https://developers.google.com/blockly
 
 A2: Ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο νέες εικόνες σας από το Α1 με εικόνες που ήδη υπάρχουν
 
