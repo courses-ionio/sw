@@ -7,7 +7,7 @@
 | --- | --- |
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](#Παραδοτέο-1) |
 | 2 | [Βιογραφικό με χρηση Jekyll](#Παραδοτέο-2) |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) |
 | 4 | Άσκηση γραμμής εντολών |
 | 5 | Συμμετοχικό περιεχόμενο |
 | 6 | Άσκηση γραμμής εντολών |
@@ -30,6 +30,16 @@
 Link του αποθετηριου που περιεχει το βιογραφικό μου: https://github.com/p16andr/online-cv
 
 Link του Βιογραφικού: https://p16andr.github.io/online-cv/
+
+## Παραδοτέο 3
+
+Link του προσωπικου αποθετηρίου: https://github.com/p16andr/sitegr/blob/%CE%A02016063/all_collections/_posts/2021-02-09-kykloforish-tou-prwtou-teuxous-tou-enhmerwtikou-deltiou-ioniou.md
+
+Link της ανακοίνωσης στο Netlify: https://606461106d2c720007cade11--p16andr-576871.netlify.app/posts/2021/02/09/kykloforish-tou-prwtou-teuxous-tou-enhmerwtikou-deltiou-ioniou/
+
+Link του Issue: https://github.com/ioniodi/sitegr/issues/40
+
+Link του Pull Request: https://github.com/ioniodi/sitegr/pull/171
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
 
