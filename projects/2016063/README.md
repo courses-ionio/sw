@@ -35,7 +35,7 @@ Link του Βιογραφικού: https://p16andr.github.io/online-cv/
 
 Link του προσωπικου αποθετηρίου: https://github.com/p16andr/sitegr/blob/%CE%A02016063/all_collections/_posts/2021-02-09-kykloforish-tou-prwtou-teuxous-tou-enhmerwtikou-deltiou-ioniou.md
 
-Link της ανακοίνωσης στο Netlify: https://606461106d2c720007cade11--p16andr-576871.netlify.app/posts/2021/02/09/kykloforish-tou-prwtou-teuxous-tou-enhmerwtikou-deltiou-ioniou/
+Link της ανακοίνωσης στο Netlify: https://deploy-preview-171--epic-hamilton-da9ac8.netlify.app/posts/2021/02/09/kykloforish-tou-prwtou-teuxous-tou-enhmerwtikou-deltiou-ioniou/
 
 Link του Issue: https://github.com/ioniodi/sitegr/issues/40
 
