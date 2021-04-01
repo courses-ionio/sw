@@ -62,7 +62,13 @@ chromebook.md, chromebook.jpg, chromebook-thumb.jpg <br />
 walkman.md, walkman.jpg, walkman-thumb.jpg <br />
 
 ## <a name="P-5">Παραδοτέο 5</a>
-### Άσκηση: 
+### Άσκηση: Άσκηση γραμμής εντολών
+
+**Κατηγορία:** Software <br />
+**Περιγραφή:** Send notifications to your desktop-mobile; Send a notifcation when a big task completes, eg download, compiling, etc <br />
+**Asciinema link:** https://asciinema.org/a/t7F155IcCLR0JKe2fy3WAWsmb <br />
+**Image Links:** https://drive.google.com/drive/folders/1fiecrA51VQLwvLMGKSqbU5PNrSBHeRBU?usp=sharing
+
 
 ## <a name="P-6">Παραδοτέο 6</a>
 ### Άσκηση: 
