@@ -10,7 +10,7 @@
 | 2 | [βιογραφικό](#2-βιογραφικό) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 4 | [Άσκηση γραμμής εντολών](#4-άσκηση-γραμμής-εντολών) |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 | [Συμμετοχικό περιεχόμενο](#5-συμμετοχικό περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -87,3 +87,29 @@
 Σε αυτήν την άσκηση ασχολήθηκα με τα Github actions αντί για το Travis CI. Δημιούργησα ένα action για το βιογραφικό μου το οποίο με το που γίνεται ένα commit στο main branch του αποθετηρίου μου κάνει αυτόματα build οτι αλλαγές έγιναν στο cv.yml, σε pdf μέσω του pandoc. Και όλα αυτα παράλληλα με το build του jekyll site που γίνεται από το netlify. Εν ολίγης, πλέον όλα είναι αυτοματοποιημένα στο αποθετήριο του βιογραφικό μου.
 
 ![1assignment](https://user-images.githubusercontent.com/44473195/111388914-cd377400-86b8-11eb-8817-73f97b069d39.gif)
+
+## 5. Συμμετοχικό περιεχόμενο
+
+Το πρώτο μέρος της συνεισφοράς μου στα πλαίσια της άσκησης συμμετοχικού περιεχόμενου.
+
+**Αποθετήρια**
+
+- [[dimpram/site](https://github.com/dimpram/site)]
+- [[dimpram/images](https://github.com/dimpram/images)]
+- [[dimpram/_gallery](https://github.com/dimpram/_gallery)]
+
+**Ζήτημα Α1**
+
+| Θέμα                 | Εικόνα                                                                                             | Thumbnail                                                                                                      | Markdown                                                                                                                   |
+|----------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Mouse pointing stick | [mouse-pointing-stick.jpg](https://github.com/dimpram/images/blob/master/mouse-pointing-stick.jpg) | [mouse-pointing-stick-thumb.jpg](https://github.com/dimpram/images/blob/master/mouse-pointing-stick-thumb.jpg) | [mouse-poiting-stick.md](https://github.com/dimpram/_gallery/blob/master/mouse-pointing-stick.md)                          |
+| Streaming media      | [streaming-media.png](streaming-media.png)                                                         | [streaming-media-thumb.png](streaming-media-thumb.png)                                                         | [streaming-media.md](https://github.com/dimpram/_gallery/blob/fa23654965079f282cd16e510478b911a81924b4/streaming-media.md) |
+
+**Ζήτημα Α2**
+
+| Περιεχόμενο           	| Σύνδεσμος                                                                           	|
+|------------------------	|-------------------------------------------------------------------------------------	|
+| Χρονοδιάγραμμα         	| [multimedia.md](https://github.com/dimpram/site/blob/master/_timeline/multimedia.m) 	|
+|   Θεματικές διαφάνειες 	| [pointer.md](https://github.com/dimpram/site/blob/master/_slides/pointer.md)        	|
+
+Link του deployment μου: https://dimpram-pibook.netlify.app/
