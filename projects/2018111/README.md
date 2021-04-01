@@ -12,7 +12,7 @@
 | 3 | <a href="#rw"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | <a href="#Quiz03"> Alan Kay Computing Simply  </a> |
 | 4 | <a href="#dk01"> Άσκηση γραμμής εντολών | <a href="#Quiz04"> Victor The Future of Programming </a> |
 | 5 | <a href="#pc01"> Συμμετοχικό περιεχόμενο | |
-| 6 | Άσκηση γραμμής εντολών | |
+| 6 | <a href="#dk02"> Άσκηση γραμμής εντολών | |
 | 7 | βιογραφικό | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | |
 | 9 | Άσκηση γραμμής εντολών | |
@@ -82,6 +82,12 @@
 ### [IMAGES](https://github.com/Rigas-A/_gallery)
 
  [![asciicast](https://asciinema.org/a/RDfcFdR8UUiCeYOSNuIAnr5wD.png)](https://asciinema.org/a/RDfcFdR8UUiCeYOSNuIAnr5wD)
+ 
+ 
+ ## <a name="dk02">DoKey - Performance Monitoring:</a>
+Παρακάτω συγκρίνω 4 προγράμματα python μεταξύ τους. Το κάθε πρόγραμμά  είναι η απάντηση από κάποια challenges αυξανόμενης δυσκολίας. Παρατηρούμε ότι τα πιο δύσκολα προβλήματα χρειάζονται πιο περίπλοκες λύσεις και ως αποτέλεσμα (όχι κατά κανόνα) περισσότερο χρόνο.
+
+ [![asciicast](https://asciinema.org/a/xmkF7aoSFjYDcjpxa839bru6p.png)](https://asciinema.org/a/xmkF7aoSFjYDcjpxa839bru6p)
 
 ---
 
