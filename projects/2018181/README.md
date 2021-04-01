@@ -195,7 +195,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br> 
 
-### Sixth Quiz
+## Sixth Quiz
 </br> 
 <details>
   <summary>Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί;</summary>
