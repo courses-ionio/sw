@@ -7,7 +7,7 @@
 
 #### *Αριθμός μητρώου:* Π2018015
 
-#### GitHub Profile: https://github.com/Efthimis015
+#### *GitHub Profile:* https://github.com/Efthimis015
 
 
 
