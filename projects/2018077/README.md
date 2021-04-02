@@ -63,11 +63,14 @@
 ##
 ## Βιογραφικό 1 
 
-Το Commit που πραγματοποιήθηκε στις 28/2 παρουσίαζε ένα πρόχειρο βιογραφικό. Προσπάθησα να φτιάξω ένα θέμα από την αρχή μόνη μου αλλά το εγχείρημα δεν ευδοκίμησε καθώς αντιμετώπισα πολλά τεχνικά προβαρίσματα. Έτσι λυπών, κατέληξα στο να χρησιμοποιήσω ένα από τα έτυμα θέματα και να τροποποιήσω τα συστοιχία μου στο αρχείο `data.yml`. Παρατήρησα στο μεταξύ, ότι το θέμα που επέλεξα μου έδινε δυνατότητα να αλλάξω το χρώμα του θέματος και το άλλαξα σε πορτοκαλί.  
+Τα πρώρα cimmites αφορούσαν ένα από τα προτεινόμενα έτυμα βιογραφικά. Τροποποίησα κατάλληλα το `data.yml` αρχείο ώστε να εμφανίζονται τα  προσωπικά μου στοιχεία και άλλαξα το χρωματικό θέμα από μπλε σε πορτοκαλί. [Github Repo](https://github.com/KaterinaLaz/online-cv) [Link](https://katerinalaz.github.io/online-cv/) πρώτου βιογραφικού. 
+Κατά το πέρας τον εβδομάδων, βρήκα ένα δωρεάν [HTML/CSS Resume](https://sampleresumetemplate.net/) και εργάστηκα πάνω σε αυτό. Δημιούργησα ένα `details.yml` αρχείο το οποίο περιέχει τα στοιχεία μου.  Στην συνέχεια, τροποποίησα τον **HTML** κώδικα έτσι ώστε να αντλεί τα στοιχεία από `το details.yml` αρχείο. 
+Με οδηγό της [οδηγίες του εργαστηρίου](https://github.com/courses-ionio/sw-lab) έκανα **build** το βιογραφικό ως site και στην συνέχεια με την εντολή `jekyll serve - -host 0.0.0.0 &` το site γίνετε προσβάσιμο από τον **browser**. 
 
-* [link](https://katerinalaz.github.io/online-cv/)
-* [GitHub Repo](https://github.com/KaterinaLaz/online-cv)
-* [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
+* [link βιογραφικού](https://katerinalaz.github.io/site-cv/)
+* [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
+* asciinema :
+[![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
 
 
 
@@ -78,8 +81,8 @@
 
  [Netlify](https://quirky-jennings-23151c.netlify.app/people/)
 
-
-Οι απαντήσεις μου στο εβδομαδιαίο βίντεο  `Alan Kay computing simply  ` 
+Λόγο του ότι η ιστοσελίδα που χρησιμοποιούμε για τα εβδομαδιαία βίντεο δεν μου εμφάνιζε την τελευταία ερώτηση, πρόσθεσα τις απαντήσεις μου στην αναφορά.
+Οι απαντήσεις μου στο εβδομαδιαίο βίντεο  `Alan Kay computing simply` 
 ```
 
   * Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;
@@ -101,8 +104,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 Στην πρώτη άσκηση στην γραμμή εντολών χρησιμοποίησα τα εργαλεία `wttr`  ,  `speedtest-cli`  και  `notify`. Αυτό που πραγματοποιείτε είναι μέσο ενός `.sh` αρχείου να έρχεται ειδοποίηση για τον καιρό της σημερινής μέρα καθώς και για την ταχύτητα της σύνδεσης μου στο διαδίκτυο την συγκεκριμένη χρονική στιγμή.\
 **Ο τρόπος που εργάστηκα**: Για αρχή δημιούργησα ένα αρχείο `day.sh` που μέσα στο οποίο τοποθέτησα τις εντολές  
 `curl wttr.in/Corfu.Greece?format=3`  και  `speedtest-cli` ώστε στην αρχή να έρθει η ειδοποίηση για τον καιρό της σημερινής μέρας στην περιοχή μου και έπειτα να γίνει το **speed test**. Η εντολή `speedtest-cli` αργεί λίγο όπως παρατηρούμε από το **GIF** οπότε επέλεξα να προσθέσω ένα ενδιάμεσο μήνυμα που ειδοποιεί για αυτήν την καθυστέρηση. Προτίμησα για τις  κύριες λειτουργίες του αρχείου, δηλαδή **καιρός** και **speed test**, να εμφανίζετε το εικονίδιο στα αριστερά του πάνελ ένα `i (info)`.   
-
- [Droboox link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+Στην  συγκεκριμένη άσκηση υπάρχει εκτός από το asciinema και **GIF** επιδίδει τα αποτελέσματα της άσκησης εμφανίζονται στο γραφικό περιβάλλον του υπολογιστή μου.
+ [GIF link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+ asciinema :
  [![asciicast](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2.svg)](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
 
