@@ -118,12 +118,15 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 Οι δύο φωτογραφίες που επέλεξα να προσθέσω είναι οι  `html5`  και  `raspberry pi os` . Η  `html5`  είναι ένα εργαλείο με το οποίο μπορούν να δημιουργηθούν ιστοσελίδες και διαδραστικό υλικό. Από την άλλη πλευρά, το  `pi – OS`  είναι ένα παραμετροποιήσιμο λειτουργικό σύστημα.
 
-~Ένα πρόβλημα που έχω εντοπίσει με το **netlify demo** : Οι αλλαγές που έχω πραγματοποιήσει στο χρονολόγιο δεν φαίνονται καθώς επίσης στις διαφάνειες και στις εικόνες εμφανίζετε ένα κενό πλαίσιο αντί της εικόνας. Αν ώμος γίνει “κλικ” πάνω στο κενό αυτό πλαίσιο η εικόνα εμφανίζετε κανονικά.~
+Είχα εντοπίσει το ακόλουθο πρόβλημα με το **netlify demo** : Οι αλλαγές που έχω πραγματοποιήσει στο χρονολόγιο δεν φαίνονται καθώς επίσης στις διαφάνειες και στις εικόνες εμφανίζετε ένα κενό πλαίσιο αντί της εικόνας. Αν ώμος γίνει “κλικ” πάνω στο κενό αυτό πλαίσιο η εικόνα εμφανίζετε κανονικά.\
+Πλέον έχω επιλύσει το πρόβλημα και το **netlify demo** δουλεύει κανονικά .
 
+**Links για nrtlify :**
   * Εικόνες netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//gallery/html5/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//gallery/raspberry-pi-os/) 
   * Διαφάνειες netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//slides/programming/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//slides/gui/)
   * Χρονολόγιο netlify - site : [html5](https://affectionate-lewin-ee77b9.netlify.app//timeline/programming/) , [raspberry pi os](https://affectionate-lewin-ee77b9.netlify.app//timeline/systems/)
   
+**Links για GitHub Repo :**  
   * Εικόνες GitHub : [html5 image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5.png) , [html5 thumd](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/html5-thumb.png) , [html5 gallery](https://github.com/KaterinaLaz/_gallery/blob/2bae51b2d88b9f76ebaac28bcab28fa9fd04caf4/html5.md) , [rasberry pi os image](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os.png) , [rasberry pi os thumb](https://github.com/KaterinaLaz/images/blob/ecae0d51112c5007cef15e00e177ebd055bdbfc2/raspberry-pi-os-thumb.png) , [rasberry pi os gallery](https://github.com/KaterinaLaz/_gallery/blob/2bae51b2d88b9f76ebaac28bcab28fa9fd04caf4/raspberry-pi-os.md)
   * Διαφάνεις GitHub : [html5 slides](https://github.com/KaterinaLaz/site/blob/master/_slides/programming.md) , [raspbery pi os slides](https://github.com/KaterinaLaz/site/blob/master/_slides/gui.md)
   * Χρονολόγιο GitHub : [html5 timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md) , [raspbery pi os timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)
