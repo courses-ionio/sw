@@ -64,9 +64,9 @@ pibook/site fork: https://github.com/p15bala/site
 
 ### A1
 
-[_gallery](https://github.com/p15bala/_gallery/tree/be3a54301fe2438909aebad9ca29255c7e126b5b)
+[_gallery Submodule](https://github.com/p15bala/_gallery/tree/be3a54301fe2438909aebad9ca29255c7e126b5b)
 
-[images](https://github.com/p15bala/images/tree/47df4ecadbca35f52235817fb82cbf5d5c7cfab2)
+[images Submodule](https://github.com/p15bala/images/tree/47df4ecadbca35f52235817fb82cbf5d5c7cfab2)
 
 Προσθήκη Submodule _gallery: https://asciinema.org/a/404496
 
