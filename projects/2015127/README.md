@@ -74,6 +74,34 @@ Fetch the weather forecast for your home city and one more city that you want to
 
 Asciinema εγγραφή: https://asciinema.org/a/400995
 
+
+## Παραδοτέο 5:
+
+Fork τα απαραίτητα αποθετήρια: 
+https://github.com/p15kost/site
+https://github.com/p15kost/images
+https://github.com/p15kost/_gallery
+
+### Α1
+
+Προσθήκη Submodule _gallery: 
+
+Προσθήκη Submodule images:
+
+Εικόνα 1: 
+
+Αποθετήριο εικόνας:
+
+Netlify Demo:
+
+Εικόνα 2:
+
+Αποθετήριο εικόνας: 
+
+Netlify Demo: 
+
+
+
 ## Παραδοτέο 6:
 
 send a notifcation to desktop-mobile when a big task completes, eg download, compiling, etc (ntfy)
