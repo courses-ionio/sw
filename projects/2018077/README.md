@@ -67,6 +67,7 @@
 
 * [link](https://katerinalaz.github.io/online-cv/)
 * [GitHub Repo](https://github.com/KaterinaLaz/online-cv)
+* [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
 
 
 
@@ -102,6 +103,7 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 `curl wttr.in/Corfu.Greece?format=3`  και  `speedtest-cli` ώστε στην αρχή να έρθει η ειδοποίηση για τον καιρό της σημερινής μέρας στην περιοχή μου και έπειτα να γίνει το **speed test**. Η εντολή `speedtest-cli` αργεί λίγο όπως παρατηρούμε από το **GIF** οπότε επέλεξα να προσθέσω ένα ενδιάμεσο μήνυμα που ειδοποιεί για αυτήν την καθυστέρηση. Προτίμησα για τις  κύριες λειτουργίες του αρχείου, δηλαδή **καιρός** και **speed test**, να εμφανίζετε το εικονίδιο στα αριστερά του πάνελ ένα `i (info)`.   
 
  [Droboox link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+ [![asciicast](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2.svg)](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
 
 
