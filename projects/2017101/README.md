@@ -30,3 +30,8 @@ Link: https://koutsokostas.github.io/online-cv/
 
 send notifications to your desktop-mobile
 Link: https://asciinema.org/a/398841
+
+2η Ασκηση γραμμής εντολών
+
+performance monitoring
+Link:https://asciinema.org/a/403044
