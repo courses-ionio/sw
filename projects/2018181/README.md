@@ -10,7 +10,7 @@
 |**Third** |  [Integration Into Website](#PR-Site) |
 |**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
 |**Fifth** |  [Participatory Content](#Participatory-Content) |
-|**Sixth** |  **Command-line Exercise** |  
+|**Sixth** |  [Command-line Exercise](#Command-line-Exercise) |  
 |**Seventh** | **CV**|
 |**Eighth** |  **Integration Into Website** |
 |**Ninth** |   **Command-line Exercise** |
@@ -31,6 +31,7 @@ You can check my [CV](https://mariachlkt.github.io/resume-sw/).
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
 </br>
 
+
 ### PR-Site  
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
@@ -42,6 +43,8 @@ Note: I made some changes to CV's format so I create new repository. The asciine
 |**Deliverable** | **Assignment** | **Demo** | 
 |:---------:| :--------: |  :--------: |
 |**First** |**Send notifications to your desktop-mobile**| [Asciinema Video](https://asciinema.org/a/398905) |   
+|**Second**|**Deploy an application that forwards a call depending on a white- and black- list of phone numbers**|Asciinema Video|
+
 
 Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
