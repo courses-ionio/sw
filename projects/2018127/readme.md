@@ -9,8 +9,8 @@
 | Εβδομάδα* | Παραδοτέο |  Βίντεο |
 | --- | --- | --- |
 | 1 | [Intro](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Υποβολή μέσω της εφαρμογής |
-| 2 | [The CV](##cv) | Υποβολή μέσω της εφαρμογής |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/ioniodi/sitegr/issues/78) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
+| 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
+| 3 | [Ionian University Site PR](#) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
 | 4 | ntfy demo(due to its multimedia nature, you can find its asciicast and accompanying gifs [here](https://github.com/runtheorun-exe/sw/tree/2018127/projects/2018127/ntfy) | Υποβολή μέσω εφαρμογής
 | 5 | Συμμετοχικό περιεχόμενο | Υποβολή μέσω εφαρμογής
 | 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week6.md)
@@ -41,3 +41,18 @@ Currently it is static, and hosted by gh-pages. It is "dressed" by a modified sk
 [<img src="https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/ignoreme/cv.png" title="click me! i don't bite(much)"  width="400"/>](https://runtheorun-exe.github.io/online-cv)
 
 You can probably see why anything seen here might change in the future. Next steps regarding this assignment would be a PDF conversion and potentially setting up continuous integration? Or just a redesign of the template used. 
+
+
+## Pull Request #1
+You can find all the needed information [here](https://github.com/ioniodi/sitegr/issues/78) but a summary of what happened will follow.
+Seeing as I lacked any experience with netlify, .yaml files and almost all other tools used to build our own [Ionian DI](https://epic-hamilton-da9ac8.netlify.app/) website, I chose to perform maybe one of the simplest, self-explanatory tasks available; update the website so it linked to the new [Department President](https://epic-hamilton-da9ac8.netlify.app/people/emagos/).
+That's all really. The thought is that for the next PR I will be more comfortable to dive into tougher projects.
+
+## CLI Exercise
+This one was a hassle and a half.
+I chose to work on the [ntfy](https://github.com/dschep/ntfy) assignment. It seemed like the perfect combination of simple and useful. It's worth mentioning that at this point I started this assignment after I had started wokring on the Collaborative Content Assignment, thinking the cli was overdue. Basically I ended up working on two painfully problematic assignments. Back to ntfy.
+ntfy offers shell integration and a variety of 3rd party apps one can use to receive notifications on their smartphones et cetera. And generally I believe they could be sorted into two categories: the more straight-forward ones and the less-documented ones (Telegram, and PushBullet respectively). 
+I was stubborn enough to push ahead with PushBullet (even though I had been made aware of the fact that Telegram is far more simple). The problem was there seemed to be no clear guidance as to how to tell ntfy the API key I issued from PushBullet. I messed with so many different things settings and files, and 2 virtual boxes and a subsystem ended up being nerfed because I was never able to perform a fresh install of ntfy (and reset the files I had screwed up trying to connect to PushBullet). 
+Days later, this cutie appeared:
+
+<img src="https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/ntfy/greetings.gif/" width="600"/>
