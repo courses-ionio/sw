@@ -2,9 +2,9 @@
 
 <h3 align= left>  Θεοχάρης Παναγιώτης Χαραλαμπίδης && ΑΜ : Π2018127 </h3>
 
-[<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/gh-pride.png" width="50"/>](https://github.com/runtheorun-exe) 
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/gh-pride.png" width="50"/>](https://github.com/runtheorun-exe)   [<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/mailto.png" width="50"/>](mailto:p18char@ionio.gr)
 
-[<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/mailto.png" width="50"/>](mailto:p18char@ionio.gr)
+
 
 | Εβδομάδα* | Παραδοτέο |  Βίντεο |
 | --- | --- | --- |
