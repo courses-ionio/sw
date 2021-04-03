@@ -48,6 +48,9 @@
 [timelinelink](https://github.com/p15anez/site/blob/2015097/_timeline/collaboration.md)
 [slideslink](https://github.com/p15anez/site/blob/2015097/_slides/models.md)
 [Netlifylink](https://p15anez-pibook.netlify.app/gallery/zoom/)
+[Netlifyslides](https://p15anez-pibook.netlify.app/slides/models/)
+[NetlifyTimeline](https://p15anez-pibook.netlify.app/timeline/collaboration/)
+
 
 # Άσκηση γραμμής εντολών 2
 
