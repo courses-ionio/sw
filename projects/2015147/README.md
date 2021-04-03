@@ -72,7 +72,7 @@ pibook/site fork: https://github.com/p15bala/site
 
 Προσθήκη Submodule images: https://asciinema.org/a/404497
 
-Αρχικά έφτιαξα τα αρχεία arpanet.md και lisp.md στο main branch του αποθετηρίου [_gallery](https://github.com/p15bala/_gallery). Οι εικόνες ανέβηκαν στο main branch του αποθετηρίου [images](https://github.com/p15bala/images). Στη συνέχεια από το terminal έγινε με τη σειρά pull,add . ,commit και push,αφού πρώτα είχα φτιάξει τα submodules.
+Αρχικά έφτιαξα τα αρχεία arpanet.md και lisp.md στο master branch του αποθετηρίου [_gallery](https://github.com/p15bala/_gallery). Οι εικόνες ανέβηκαν στο master branch του αποθετηρίου [images](https://github.com/p15bala/images). Στη συνέχεια από το terminal έγινε με τη σειρά pull,add . ,commit και push,αφού πρώτα είχα φτιάξει τα submodules.
 
 #### Εικόνα 1: ARPANET
 
