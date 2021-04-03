@@ -287,19 +287,23 @@ Link με το asciinema για εκκίνηση του mqtt: https://asciinema.
 Link με το asciinema για παραδείγματα notification του mqtt: https://asciinema.org/a/404734
 
 ## Διαδικασία:
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή sudo apt-get install pip / sudo pip install ntfy. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Στη συνέχεια, με την εντολή **mosquitto**, γίνεται εκκίνηση του plugin.
-
-Ακολουθούν με τη σειρά οι εντολές **notify-send --urgency=LOW "Hello there"** και **notify-send --urgency=CRITICAL "Time to test Telegram notifications"**, όπου στη μονάδα urgency θέτουμε **LOW** και **CRITICAL** αντίστοιχα και παρατηρούμε πως αλλάζει το εικονίδιο πριν το κείμενο κάθε φορά(όπως φαίνεται στις παρακάτω εικόνες). Με την εντολή **ntfy done sleep 10** ρυθμίζεται ένα timer για 10 seconds και μας εμφανίζεται το αντίστοιχο notification. Σε αυτό το σημείο θα ρυθμίσουμε τα notifications για το Telegram στο κινητό. Αυτό επιτυγχάνεται μέσω της εντολής **ntfy -b telegram send "Telegram configured for ntfy"**. Μας αναφέρει πως θα πρέπει να μιλήσουμε στο BotFather από τη συσκευή μας για να δημιουργήσουμε αρχικά ένα νέο chat bot. Πληκτρολογώ **/newbot**, θέτω ως όνομα Ionio-sw και ως username Ionio_bot και το bot είναι έτοιμο(όπως φαίνεται στις παρακάτω εικόνες). Θα μας επιστρέψει ένα token το οποίο πρέπει να κάνω paste στο terminal για να ολοκληρωθεί η σύνδεση.
- 
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt-get install mosquitto** και **sudo apt-get install mosquitto-clients**. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Ως server επιλέγω το κινητό μου.
+Στη συνέχεια, με την εντολή **mosquitto**, γίνεται εκκίνηση του plugin.
+Ακολουθεί η εντολή **mqtt_sub -h localhost -t test** για να ορίσω και να κάνω εγγραφή σε νέο topic, έστω **test**.
+Σε αυτό το σημείο θα κάνω λήψη της εφαρμογής **MQTT Client** μέσω του Play Store στη συσκευή μου και με το σύμβολο **+** ορίζω ένα νέο topic(όπως φαίνετα στις εικόνες).
+Εντοπίζω την IP του λογισμικού μου μέσω της εντολής **ifconfig**.
+Αφού ρυθμίσω το επιθυμητό topic, πληκτρολογώ στο terminal την εντολή **mqtt_pub -h localhost -t τεστ -m "Welcome"**.
 Πλέον μπορώ να λαμβάνω μηνύματα και ειδοποιήσεις κατευθείαν στην συσκευή-server μου. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 **Αποτελέσματα:**
 
-![hellothere]()
+![mqttset](https://github.com/apostoloskp/sw-images/blob/main/mqttset.png)
 
-![timeto]()
+![mqttsub](https://github.com/apostoloskp/sw-images/blob/main/mqttsub.png)
 
-![sleep]()
+![mqttnotif](https://github.com/apostoloskp/sw-images/blob/main/mqttnotif.png)
+
+![mqttterm](https://github.com/apostoloskp/sw-images/blob/main/mqttterm.png)
 
 ## Απαντήσεις στις ερωτήσεις του 6ου quiz:
 
