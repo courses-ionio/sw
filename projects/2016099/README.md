@@ -90,7 +90,9 @@
 
 <a href=https://mystifying-newton-3844bc.netlify.app/timeline/videogames/>timeline</a>
 
+<h3 href= >τερματικη ασκηση 2 </h3>
 
+<script id="asciicast-404614" src="https://asciinema.org/a/404614.js" async></script>
 
 
 
