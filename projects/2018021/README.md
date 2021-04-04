@@ -19,8 +19,8 @@
 | <ul><li>- [x] </li></ul> | [3](#Παραδοτέο-3) | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [x] </li></ul> | [4](#Παραδοτέο-4) | Άσκηση γραμμής εντολών |
 | <ul><li>- [x] </li></ul> | [5](#Παραδοτέο-5) | Συμμετοχικό περιεχόμενο |
-| <ul><li>- [ ] </li></ul> | [6](#Παραδοτέο-6) | Άσκηση γραμμής εντολών |
-| <ul><li>- [ ] </li></ul> | 7 | Βιογραφικό |
+| <ul><li>- [x] </li></ul> | [6](#Παραδοτέο-6) | Άσκηση γραμμής εντολών |
+| <ul><li>- [x] </li></ul> | [7](#Παραδοτέο-7) | Βιογραφικό |
 | <ul><li>- [ ] </li></ul> | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [ ] </li></ul> | 9 | Άσκηση γραμμής εντολών |
 | <ul><li>- [ ] </li></ul> | 10 | Συμμετοχικό περιεχόμενο |
@@ -48,7 +48,7 @@
 
 **Link προς το αποθετήριο:** https://github.com/PaulosKal/cv-resume
 
-**Link προς την αρχική σελίδα:** https://pauloskal.github.io/cv-resume/
+**Link προς την αρχική σελίδα του Github Pages:** https://pauloskal.github.io/cv-resume/
 
 Το βιογραφικό θα το βρείτε πατώντας στον σύνδεσμο που βρίσκεται στην αρχική σελίδα.
 
@@ -74,6 +74,8 @@
 Το σύνδεσα επίσης με το [Netlify](https://focused-northcutt-6f1e2c.netlify.app) και το site δουλέυει, αν και αντιμετωπίζω ένα πρόβλημα με το θέμα Jekyll και τα links.
 
 Το αποθετήριο επίσης χρησιμοποιεί Travis CI για την ανίχνευση σφαλμάτων της σελίδας μετά από κάθε commit. Το σύστημα δουλεύει αλλά το Travis βγάζει σφάλμα διότι το [html-proofer](https://github.com/gjtorikian/html-proofer) script βρίσκει λάθος σε ένα αρχείο (όχι δικό μου). Για τη ρύθμιση του Travis CI πρόσθεσα κάποια αρχεία στο αποθετήριο και άλλαξα μερικά από τα ήδη υπάρχοντα. Τη διαδικασία του τερματικού την κατέγραψα με το [asciinema](https://asciinema.org/a/398413).
+
+**Update:** Το πρόβλημα με το TravisCI λύθηκε. Συγκεκριμένα, [αφαίρεσα](https://github.com/PaulosKal/cv-resume/commit/6d4d43650fa30a4e9e0ce9920a9a64ca00ed67b9) από τον έλεγχο το html-proofer για να αποφύγω ενοχλητικά σφάλματα και έναντι αυτού δημιούργησα ένα [νέο script](https://github.com/PaulosKal/cv-resume/blob/master/script/html-to-pdf.sh) το οποίο μετατρέπει το αρχείο CV.html σε μορφή PDF μέσω padoc + LateX (βλ. [παραδοτέο 7](#Παραδοτέο-7)). Για την υποστήριξη του TravisCI, ενημέρωσα το αρχείο [.travis.yml](https://github.com/PaulosKal/cv-resume/blob/master/.travis.yml).
 
 
 ### Παραδοτέο 5
@@ -105,10 +107,26 @@
 ### Παραδοτέο 6
 
 Εργασία τερματικού με τίτλο **"send notifications to your desktop-mobile"**.
-Για την εργασία αυτή χρησιμοποίησα την εφαρμογή [inotify](https://man7.org/linux/man-pages/man7/inotify.7.html)
+Για την εργασία αυτή χρησιμοποίησα την [εφαρμογή inotify](https://man7.org/linux/man-pages/man7/inotify.7.html)
 asciinema link: https://asciinema.org/a/403524
 
 
-### Παραδοτέο 7 (υπό κατασκευή)
+### Παραδοτέο 7
+
+**Αυτόματη προσθήκη βιογραφικού στη σελίδα Jekyll με χρήση pandoc + LaTeX**.
+
+Για το συγκεκριμένο παραδοτέο πρόσθεσα ένα [script](https://github.com/PaulosKal/cv-resume/blob/master/script/html-to-pdf.sh), το οποίο μετατρέπει το αρχείο [CV.html](https://github.com/PaulosKal/cv-resume/blob/master/CV.html) σε μορφή [PDF](https://github.com/PaulosKal/cv-resume/blob/master/CV.pdf) μέσω padoc + LaTex.
+
+Στην αρχή πειραματίστηκα τοπικά στον υπολογιστή μου για να μάθω πώς δουλεύει το pandoc. Στη συνέχεια, βρήκα κάποιες εντολές που παρήγαγαν το PDF, ωστόσο αντιμετώπιζα προβλήματα σχετικά με την κωδικοποίηση των χαρακτήρων. Έτσι, όρισα τα κατάλληλα fonts, τα οποία και πρόσθεσα στον [φάκελο](https://github.com/PaulosKal/cv-resume/tree/master/script) σε περίπτωση που δεν τα βρίσκει, μαζί με ένα script που τρέχει τις κατάλληλες εντολές για τη σωστή δημιουργία του PDF.
+
+Για την αυτοματοποίηση της διαδικασίας, χρειάστηκε να προσθέσω κάποια git hooks, βασισμένος σε [αυτό](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592):
+- Το [pre-commit](https://github.com/PaulosKal/cv-resume/blob/master/hooks/pre-commit), το οποίο δημιουργεί ένα προσωρινό αρχείο όταν γίνεταί κάποιο commit, δηλαδή κάποια αλλαγή.
+- Το [post-commit](https://github.com/PaulosKal/cv-resume/blob/master/hooks/post-commit), το οποίο ελέγχει αν έχει γίνει κάποιο commit (αν υπάρχει το προσωρινό αρχείο) και αν ναι, τότε εκτελεί το script μετατροπής σε PDF.
+
+**Προσοχή [1]:** Τα hooks δουλεύουν μόνο τοπικά και δεν είναι εμφανή στο αποθετήριο του GitHub. Για να δουλέψουν σε εσάς, θα πρέπει να τα δημιουργήσετε μόνοι σας. Προς διευκόλυνσή σας, έχω προσθέσει έναν [φάκελο](https://github.com/PaulosKal/cv-resume/tree/master/hooks) με αυτά τα hooks και το μόνο που απαιτείται είναι να τα αντιγράψετε μέσα στον φάκελο .git/hooks του τοπικού σας αποθετηρίου.
+
+**Προσοχή [2]:** Κατά την εξερεύνηση του ιστορικού του αποθετηρίου, μην μπερδευτείτε με το TravisCI. Αυτό αφορούσε το [παραδοτέο 4](#Παραδοτέο-4)
+, ωστόσο δεν παύει να έχει αξία και σε αυτό το παραδοτέο, αφού επιβεβαιώνει και εμένα αλλά και εσάς (θα ακολουθήσουν screenshots) ότι το σύστημα λειτουργεί χωρίς προβλήματα.
+
 
 [go to the top](#Αναφορά-εργασίας)
