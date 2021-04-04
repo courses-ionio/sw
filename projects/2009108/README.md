@@ -69,7 +69,6 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 #### [Αρχείο images apple-lisa.jpg](https://github.com/p09apos/images/blob/master/apple-lisa.jpg)
 #### [Αρχείο images simula-logo-thumb.jpg](https://github.com/p09apos/images/blob/master/simula-logo-thumb.jpg)
 #### [Αρχείο images simula-logo.jpg](https://github.com/p09apos/images/blob/master/simula-logo.jpg)
-#### [Εκτελέσιμο Netlify gallery/lisp-programming-language ](https://p18myro.netlify.app/gallery/lisp-programming-language/)
 #### [Εκτελέσιμο Netlify gallery/apple-lisa](https://p09apos.netlify.app//gallery/apple-lisa/)
 #### [Εκτελέσιμο Netlify gallery/simula](https://p09apos.netlify.app//gallery/simula/)
 #### [Εκτελέσιμο Netlify slides/archetypes](https://p09apos.netlify.app//slides/archetypes/)
