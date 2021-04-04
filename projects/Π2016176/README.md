@@ -152,6 +152,8 @@ notifications gif: https://gifyu.com/image/ajd4
 
 [![asciicast](https://asciinema.org/a/404980.svg)](https://asciinema.org/a/404980)
 
+[asciinema link](https://asciinema.org/a/404980)
+
 ## Output Files:
 
 [out_1](../home/something)
