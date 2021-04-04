@@ -79,3 +79,10 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 #### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/git.md
 #### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/linuxShell.md
 
+#### 6ο Παραδοτέο 04/04/2021
+##### Άσκηση Γραμμής Εντολών: create notifications on your sever
+Σε αυτό το παραδοτέο με την χρήση του προγράμματος mqttwarn στέλνω ένα notification στο telegram chat.
+Στο asciinema video δείχνω τα περιεχόμενα του mqttwarn.ini φακέλου που έφτιαξα για να συνδεθεί με το telegram bot.
+
+Σε ένα άλλο terminal εκτελώ την εντολή mosquitto_pub -t test/1 -m "message" για να στείλω το notification στο MQTT. Έπειτα το πρόγραμμα αφού είναι συνδεδεμένο με συγκεκριμένα plugins μεταφέρει το notification στο plugin που του έχω υποδείξει στο .ini αρχείο.
+asciinema link: https://asciinema.org/a/0u4vFDkAsj8215bfJK8NWKH4D
