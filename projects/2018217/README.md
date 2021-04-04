@@ -98,7 +98,7 @@
 ## Παραδοτέο 7</a>
 ## Βιογραφικό Σημείωμα με χρήση Pandoc και Latex
 ### [Asciinema Link 1](https://asciinema.org/a/405033)
-### [Asciinema Link 2](https://asciinema.org/a/395827)
+### [Asciinema Link 2](https://asciinema.org/a/405055)
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
 ### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://ecstatic-euclid-5ce1d6.netlify.app/)
 ### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv/tree/master)
