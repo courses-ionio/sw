@@ -77,3 +77,9 @@ netlify: https://gracious-borg-26f1c1.netlify.app
 
 Link απο το netlify απο αυτό που πρόσθεσα στην σελίδα: https://nostalgic-engelbart-94d778.netlify.app/courses/bioinformatics/
 
+
+# Δεύτερη άσκηση τερματικού
+**Περιγραφή:**  Για την δεύτερη εργασία επέλεξα να κάνω το ntfy όπου δημιούργησα το configuration και προσπάθησα να το συνδέσω με το slack καθώς το έτρεξα παράλληλα με το hyperfine 
+
+
+asciinema link: https://asciinema.org/a/405026
