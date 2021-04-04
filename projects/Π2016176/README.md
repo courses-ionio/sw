@@ -86,14 +86,17 @@ send notifications to your desktop-mobile with ntfy.<br>
 asciinema: https://asciinema.org/a/399030 <br>
 notifications gif: https://gifyu.com/image/ajd4
 
-#Συμμετοχικό περιεχόμενο
+# Συμμετοχικό περιεχόμενο
 
-##Link για το Repository:
+## Link για το Repository:
 [Repository Site](https://github.com/p16koub1/site)
 
-##Αλαγές:
+## Αλαγές:
  - [Image 1: Windows XP](https://github.com/p16koub1/images/tree/master/windows-xp.jpg)
-
+ - [Image 2: Windows XP](https://github.com/p16koub1/images/tree/master/macOS-bigsur.png)
+ - [Operating Systems Slides](https://github.com/p16koub1/site/tree/master/_slides/operating-systems.md)
+ - [Operating Systems Timeline](https://github.com/p16koub1/site/tree/master/_timeline/operating-systems.md)
+ 
 
 # Εργασία γραμμής εντολών 2 :
 
