@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 1 | [Intro](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Υποβολή μέσω της εφαρμογής |
 | 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
-| 3 | [Ionian University Site PR](#) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
+| 3 | [Ionian University Site PR](#pull-request-1) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
 | 4 | ntfy demo(due to its multimedia nature, you can find its asciicast and accompanying gifs [here](https://github.com/runtheorun-exe/sw/tree/2018127/projects/2018127/ntfy) | Υποβολή μέσω εφαρμογής
 | 5 | Συμμετοχικό περιεχόμενο | Υποβολή μέσω εφαρμογής
 | 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week6.md)
@@ -48,7 +48,7 @@ You can find all the needed information [here](https://github.com/ioniodi/sitegr
 Seeing as I lacked any experience with netlify, .yaml files and almost all other tools used to build our own [Ionian DI](https://epic-hamilton-da9ac8.netlify.app/) website, I chose to perform maybe one of the simplest, self-explanatory tasks available; update the website so it linked to the new [Department President](https://epic-hamilton-da9ac8.netlify.app/people/emagos/).
 That's all really. The thought is that for the next PR I will be more comfortable to dive into tougher projects.
 
-## CLI Exercise
+## CLI Exercise #1
 This one was a hassle and a half.
 I chose to work on the [ntfy](https://github.com/dschep/ntfy) assignment. It seemed like the perfect combination of simple and useful. It's worth mentioning that at this point I started this assignment after I had started wokring on the Collaborative Content Assignment, thinking the cli was overdue. Basically I ended up working on two painfully problematic assignments. Back to ntfy.
 ntfy offers shell integration and a variety of 3rd party apps one can use to receive notifications on their smartphones et cetera. And generally I believe they could be sorted into two categories: the more straight-forward ones and the less-documented ones (Telegram, and PushBullet respectively). 
