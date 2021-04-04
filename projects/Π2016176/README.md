@@ -93,7 +93,7 @@ notifications gif: https://gifyu.com/image/ajd4
 
 ## Αλαγές:
  - [Image 1: Windows XP](https://github.com/p16koub1/images/tree/master/windows-xp.jpg)
- - [Image 2: Windows XP](https://github.com/p16koub1/images/tree/master/macOS-bigsur.png)
+ - [Image 2: macOS BigSur](https://github.com/p16koub1/images/tree/master/macOS-bigsur.png)
  - [Operating Systems Slides](https://github.com/p16koub1/site/tree/master/_slides/operating-systems.md)
  - [Operating Systems Timeline](https://github.com/p16koub1/site/tree/master/_timeline/operating-systems.md)
  
