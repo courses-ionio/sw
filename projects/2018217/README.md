@@ -77,6 +77,7 @@
 * [x] Ενημέρωσα το repository του βιβλίου μέσω των submodules και CLI με το νέο περιεχόμενο/φωτογραφία κάνοντας push.
 
 ## 1η Άσκηση Συμμετοχικού Περιεχομένου
+### [Ιστοσελίδα Βιβλίου - Ο Προγραμματισμός της Διάδρασης](https://optimistic-bartik-1be75a.netlify.app/)
 ### [1η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/objective-c/)
 ### [2η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/python/)
 ### [Αποθετήριο Συμμετοχικού Περιεχομένου](https://github.com/p18mant/site)
