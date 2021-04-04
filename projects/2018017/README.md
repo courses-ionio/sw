@@ -11,7 +11,7 @@
 | 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
 | 4th | [Command-line exercise](#Command-line-exercises) |
 | 5th | [Participatory content](#Participatory-Content) |
-| 6th | Command-line exercise |
+| 6th | [Command-line exercise](#Command-line-exercises) |
 | 7th | CV |
 | 8th | Pull request @ CSCW website/other project |
 | 9th | Command-line exercise |
@@ -42,9 +42,10 @@ Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQ
 
 ### Command-line exercises
 #### [#Software](https://github.com/epidrome/dokey#software)
-|                 1st                |                                                            Deliverables                                                            |                               Asciinema                               |  Commit  |
+|                 Task                |                                                            Deliverables                                                            |                               Actions                               |  Commit  |
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:--------:|
 | Test an alternative stack of tools | Set-up an OS image with a set of CLI tools with minimal dependencies and a software license that allows commercial use and selling | [Jailed C process](https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB) | &#x2611; |
+| Set-up continuous integration | Build and deploy your CV dynamically every time you make a small change in the source files | [Deployments](https://github.com/provopoulos/swcv/deployments)<br>[swcv](https://provopoulos.github.io/swcv/)| &#x2611; |
 
 ### Participatory Content
 | Additions @ pibook |                                                                                                                                                                                  Repositories                                                                                                                                                                                 |                                                                                                                                                                                                                Netlify                                                                                                                                                                                                                |                                          Setup                                          |
