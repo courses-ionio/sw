@@ -55,5 +55,7 @@
 - link απο την ιστοσελίδα του αρχείου [keyboard.md](https://infallible-swirles-0bb9d4.netlify.app/gallery/keyboard/)
 - Στον φάκελο _timeline, τροποποίησα τα αρχεία [_timeline/computer.md](https://github.com/polycarpos/site/commit/1232dc94541fe6dcdeb3cfe2490537ba3896a91c) έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου
 - Στον φάκελο _slides, τροποποίησα τα αρχεία [_slides/tools.md](https://github.com/polycarpos/site/commit/6ecb6469f5cbd3d61842acf10cb31fef82757071) έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου,επίσης το όνομα των αρχείων μου iphone.md και keyboard.md είναι ακριβώς ίδιο με αυτο που έγραψα στα αρχεία computer.md και tools.md 
+### Παραδοτέο 6
+Δεύτερη άσκηση γραμμής εντολών το py-spy και hyperfine [ntfy video](https://asciinema.org/a/405082)
 
 
