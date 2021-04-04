@@ -81,7 +81,77 @@ Nα δώσετε παράδειγμα από την προσωπική σας ε
 Σύμφωνα με τον Άλαν Κέη τα λάθη στα σύγχρονα λειτουργικά είναι η χρήση των semaphores και των monitor τα οποία μπορούν να προκαλέσουν πολλών ειδών bottlenecks και lockups
 <br>
 
-# Εργασία γραμμής εντολών 1 : Βδομάδα 4η<br>
+# Εργασία γραμμής εντολών 1 :
 send notifications to your desktop-mobile with ntfy.<br>
 asciinema: https://asciinema.org/a/399030 <br>
 notifications gif: https://gifyu.com/image/ajd4
+
+# Εργασία γραμμής εντολών 2 :
+
+## Comands
+
+- ### Basic Benchmark:
+
+  ```sh
+  hyperfine 'command'
+  ```
+
+  ```sh
+  hyperfine 'command_1' 'command_2'
+  ```
+
+  >Hyperfine basic syntax
+
+- ### Specified Runs:
+
+  ```sh
+  hyperfine -r <times_to_run> 'command'
+  ```
+
+  >Specify an absolute count of runs
+
+- ### Warmup:
+
+  ```sh
+  hyperfine --warmup 3 'command'
+  ```
+
+  >If you want to run the benchmark on a warm cache. It performs a number of program executions before the actual benchmark
+
+- ### Prepare:
+
+  ```sh
+  hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'command'
+  ```
+
+  >If you want to run the benchmark for a cold cache. The _"sudo tee /proc/sys/vm/drop_caches"_ special command gains sudo permissions and clear hard disk caches.
+
+- ### Export:
+
+  ```sh
+  hyperfine --prepare 'command' --export-csv filename.csv
+  ```
+  ```sh
+  hyperfine --prepare 'command' --export-markdown filename.md
+  ```
+  ```sh
+  hyperfine --prepare 'command' --export-json filename.json
+  ```
+
+  >You can save the output of your benchmark in machine/ human-readable formats.
+
+- ### Parameterization:
+
+  ```sh
+  hyperfine --parameter-scan <parameter_name> <from> <to> -d <step> 'command {<parameter_name>}'
+  ```
+
+  >If you want to run a benchmark where only a single parameter is varied you can use the --parameteter-scan. For decimal numbers you can use the step -d.
+
+## asciinema Commands Execution:
+
+![](https://asciinema.org/a/404980)
+
+## Output Files:
+
+[out_1](../home/something)
