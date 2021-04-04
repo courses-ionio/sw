@@ -5,7 +5,7 @@
 | 1 | Εισαγωγή.<sup><a href="#1">[ΠΑΡΑΔΟΤΕΟ 1]</a></sup> |
 | 2 | βιογραφικό .<sup><a href="#2">[ΠΑΡΑΔΟΤΕΟ 2]</a></sup>|
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα.<sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup>|
-| 4 | Άσκηση γραμμής εντολών|
+| 4 | Άσκηση γραμμής εντολών.<sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup>|
 | 5 | Συμμετοχικό περιεχόμενο.<sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup>|
 | 6 | Άσκηση γραμμής εντολών|
 | 7 | βιογραφικό |
@@ -45,21 +45,18 @@
  - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
   - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
  
- ###### [3]
+ ###### [4]
  
-Προσθήκη Μαθήματος E εξαμήνου
-"Θεωρία Γραφημάτων και Εφαρμογές"
+###Send notifications to your desktop-mobile###
 
- - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
-  - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
+Αρχικά έφτιαξα ενα telegram bot (2018218bot) στο κινητό μου τηλέφωνο.
+Μετά μέσω τερματικού σύνδεσα το bot μεσω ΑPI.
+- [Αsciinema]( https://asciinema.org/a/rr5QIqN0vah0o1FHF8iuCwKl5)
 
- ###### [3]
- 
-Προσθήκη Μαθήματος E εξαμήνου
-"Θεωρία Γραφημάτων και Εφαρμογές"
+Στην συνέχεια μέσω τερματικού με το εκτελέσιμο speedtest.sh στέλνω τις πληροφορίες downlodspeed & uploadspeed στο κινήτό.
+- [Αsciinema]( https://asciinema.org/a/62htan6hwFZcOju1AzxlqmxId)
+- ![](https://raw.githubusercontent.com/DIATSIGK/sw/2018218/projects/2018218/mobile%20screenshot.jpg)
 
- - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
-  - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
 
 ###### [5]
 
