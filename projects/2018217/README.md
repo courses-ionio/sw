@@ -102,4 +102,5 @@
 ### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
 ### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://ecstatic-euclid-5ce1d6.netlify.app/)
 ### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv/tree/master)
+![Screenshot](cvnew2.jpg)
 
