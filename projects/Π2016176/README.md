@@ -150,7 +150,7 @@ notifications gif: https://gifyu.com/image/ajd4
 
 ## asciinema Commands Execution:
 
-![](https://asciinema.org/a/404980)
+[![asciicast](https://asciinema.org/a/404980.svg)](https://asciinema.org/a/404980)
 
 ## Output Files:
 
