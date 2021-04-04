@@ -86,6 +86,15 @@ send notifications to your desktop-mobile with ntfy.<br>
 asciinema: https://asciinema.org/a/399030 <br>
 notifications gif: https://gifyu.com/image/ajd4
 
+#Συμμετοχικό περιεχόμενο
+
+##Link για το Repository:
+[Repository Site](https://github.com/p16koub1/site)
+
+##Αλαγές:
+ - [Image 1: Windows XP](https://github.com/p16koub1/images/tree/master/windows-xp.jpg)
+
+
 # Εργασία γραμμής εντολών 2 :
 
 ## Comands
