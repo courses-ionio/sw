@@ -93,4 +93,9 @@
 * [Slides, Tools](https://musing-yalow-b9d713.netlify.app/slides/tools/)
 * [Slides, Visualization](https://musing-yalow-b9d713.netlify.app/slides/visualization/)
 #
-### <a name="P-6">Παραδοτέο 6</a>
+### <a name="P-6">Παραδοτέο 6 : "send notifications to your desktop-mobile"</a>
+
+Για την εβδομάδα αυτή, πραγματοποίησα την άσκηση γραμμής εντολών "**send notifications to your desktop-mobile**" με τη χρήση του εργαλείου [inotify-tools](https://github.com/inotify-tools/inotify-tools/wiki). To inotify-tools δίνει ένα απλό περιβάλλον για το [inotify.](https://man7.org/linux/man-pages/man7/inotify.7.html) Αποφάσισα να το χρησιμοποιήσω μιας και αντιμετώπισα κάποια προβλήματα με την λύση που προτείνεται στο [dokey.](https://github.com/epidrome/dokey) Στο παρακάτω asciinema link φαίνεται η διαδικασία εγκατάστασης του εργαλίου και του interface του, καθώς και ένα μικρό πείραμα δημιουργίας ενός αρχείου .txt , τροποποίηση και διαγραφή του.
+
+Asciinema link: https://asciinema.org/a/405119 (στα 2:30 λεπτά η χρήση του)
+#
