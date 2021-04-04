@@ -156,6 +156,6 @@ notifications gif: https://gifyu.com/image/ajd4
 
 ## Output Files:
 
-[Sorting Algorithms Output(_hyperfine/sortings.md)
+[Sorting Algorithms Output](_hyperfine/sortings.md)
 
-[Number Of Loops Output (_hyperfine/loops.md)
+[Number Of Loops Output](_hyperfine/loops.md)
