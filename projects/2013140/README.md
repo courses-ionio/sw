@@ -18,7 +18,7 @@
 | [4](#Παραδοτέο_4) | Άσκηση γραμμής εντολών |
 | [5](#Παραδοτέο_5) | Συμμετοχικό περιεχόμενο |
 | [6](#Παραδοτέο_6) | Άσκηση γραμμής εντολών |
-| 7 | βιογραφικό |
+| [7](#Παραδοτέο_7) | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -727,5 +727,62 @@ https://cv-emmanouil-brifas.netlify.app/
 Δίνει περισσότερη έμφαση στην φιλοσοφία που υπάρχει πίσω από τον αντικειμενοστραφή προγραμματισμό , θεωρώντας ότι είναι πιο σημαντικό να αποκτήσουμε την λογική , παρά τις γνώσεις του να γράφουμε έναν κώδικα και να δίνουμε εντολές. 
 Επίσης δίνει πολύ έμφαση στην διεπαφή με το σύστημα.
 
+---
+# Παραδοτέο_7
+**Τίτλος:** βιογραφικό
 
+Αυτή την εβδομάδα, πρέπει να παράξουμε ένα pdf από το repository του βιογραφικού μας και να το καταστήσουμε continuously integrated με ένα web hook.
+
+Στο προηγούμενο παραδοτέο είχαμε καταφέρει να κάνουμε το βιογραφικό μας continuously integrated με το Travis. Οπότε για αρχή θα δουλέψουμε τοπικά για να παράξουμε το pdf από το site που έχουμε στήσει.
+
+Έχουμε το βιογραφικό να τρέχει στο localhost:4000, και αφού πρώτα κατεβάσουμε τα απαραίτητα εργαλεία για την εγκατάσταση του weasyprint, είμαστε έτοιμοι να προχωρήσουμε στη διαδικασία παραγωγής του pdf:
+
+[![asciicast](https://asciinema.org/a/9K3fviQoLMTLKmEmNAWNUxX5z.svg)](https://asciinema.org/a/9K3fviQoLMTLKmEmNAWNUxX5z)
+
+Στο τέλος μας πέταξε ένα error, οπότε αλλάζουμε τα permissions sto pdf file, ξαναεκτελούμε και τώρα έχουμε παράξει το pdf αρχείο:
+
+[![pdf-output.png](https://i.postimg.cc/pTW9rj9v/pdf-output.png)](https://postimg.cc/JyF7dGcY)
+
+Κάνουμε add, commit, push για να το ανεβάσουμε στο repository μας.
+
+Βλέπουμε ότι το pdf έχει ανέβει.
+
+[![pdf-github.png](https://i.postimg.cc/tR16xhSR/pdf-github.png)](https://postimg.cc/QV3VLWZv)
+
+Τώρα θα φτιάξουμε ένα καινούριο link στο τέλος του site μας και θα βάλουμε το link του
+pdf: 
+
+~~~html
+<a href="https://raw.githubusercontent.com/p13brif/cv-1/master2/_site/pdf/cv.pdf">PDF version of my Curriculum Vitae</a>
+~~~
+
+Εφόσον κάναμε commit, το Travis αυτόματα θα κάνει build και θα ανανεώσει το site μας στο netlify.
+
+Ελέγχουμε το build status:
+
+[![travis-build.png](https://i.postimg.cc/cH3ss4hW/travis-build.png)](https://postimg.cc/PptGyH0V)
+
+Ελέγχουμε και το netlify site μας, για το εάν έκανε την προσθήκη:
+
+[![site-pdf-link.png](https://i.postimg.cc/QdVZ8dNz/site-pdf-link.png)](https://postimg.cc/Jsw2Kmk3)
+
+Τώρα πάμε να φτιάξουμε και ένα webhook για να ανανεώνεται αυτόματα το pdf κάθε φορά που 
+κάνουμε κάποια αλλαγή στα html, css files:
+
+Αλλάζουμε το όνομα του αρχείου στον φάκελο /.git/hooks από 'pre-commit.sample'  σε 'pre-commit' και συμπληρώνουμε τον παρακάτω κώδικα:
+
+~~~bash
+  weasyprint https://cv-emmanouil-brifas.netlify.app/ pdf/cv.pdf -s _template/pdf.css
+~~~
+
+Τώρα το αρχείο pdf μας πρέπει να ανανεώνεται παράλληλα με τα commits.
+
+---
+
+**Πηγές:**
+- Ο οδηγός που ακολουθήσαμε για το setup του Travis:http://therocketeers.github.io/blog/using-travis-ci-to-deploy-jekyll-on-netlify/
+- Σχετικά με τα githooks: https://www.atlassian.com/git/tutorials/git-hooks
+
+---
+**Video quiz εβδομάδα 7:**
 ---
