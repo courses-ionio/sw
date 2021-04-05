@@ -86,6 +86,29 @@ Netlify Demo: https://quirky-cray-def8ee.netlify.app/gallery/arpanet/
 
 Netlify Demo: https://quirky-cray-def8ee.netlify.app/gallery/lisp/
 
+### A2
+
+#### ARPANET 
+
+Αποθετήριο διαφανιών: https://github.com/p15bala/site/blob/master/_slides/archetypes.md
+
+Αποθετήριο χρονολογίου: https://github.com/p15bala/site/blob/master/_timeline/collaboration.md
+
+[Netlify Demo διαφανιών(ARPANET)](https://quirky-cray-def8ee.netlify.app//slides/archetypes/)
+
+[Netlify Demo χρονολογίου(ARPANET)](https://quirky-cray-def8ee.netlify.app//timeline/collaboration/)
+
+#### Lisp
+
+Αποθετήριο διαφανιών: https://github.com/p15bala/site/blob/master/_slides/programming.md
+
+Αποθετήριο χρονολογίου: https://github.com/p15bala/site/blob/master/_timeline/programming.md
+
+[Netlify Demo διαφανιών(Lisp)](https://quirky-cray-def8ee.netlify.app//slides/programming/)
+
+[Netlify Demo χρονολογίου(Lisp)](https://quirky-cray-def8ee.netlify.app//timeline/programming/)
+
+
 ## <a name="P6">Παραδοτέο 6 </a>
 
 ### Άσκηση γραμμής εντολών 2
