@@ -207,7 +207,9 @@ A1:Πρόσθεσα τις δυο φωτογραφίες στο images και τ
 
 [Asciinema Link](https://asciinema.org/a/asyQZ78HGxBhGhchv4wWc4pYu) 
 
+Έφτιαξα ένα Dir μέσα στο cv μου για το pdf και στην συνέχεια του έδωσα μορφή με την βοήθεια  του weasyprint μετα έφτιαξα ένα template για να το μορφοποιήσω.Τέλος δημιούργησα κάποια git hooks ετσι ώστε κάθε φορά που γίνεται μια αλλαγή στο cv μου να ενημερώνετε και το  pdf. Οδηγός μου σε αυτά τα βήματα ήταν το [μάθημα](https://github.com/courses-ionio/sw-lab) του εργαστηρίου  
 
+[Asciinema Link](https://asciinema.org/a/gXGzHk3JxZI5PHjz7DIqo9Kyc) 
 
 
 
