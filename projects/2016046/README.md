@@ -107,6 +107,10 @@ Link Images
 - https://github.com/p16foti/images/blob/2016046/google-translate.jpg
 - https://github.com/p16foti/images/blob/2016046/google-translate-thumb.jpg
 
+(Μέσω της γραμμής εντολών,ακολούθησα την διαδικασία των submodules όπου είναι η πρόσθεση,η ενημέρωση και η διαγραφή τους από τα βιντεάκια που μας δόθηκαν και με περαιτέρω βοήθεια που πήρα από το internet)
+
+(Πρόσθεσα τις εικόνες και επεξεργάστηκα τα δεδομένα στις λεζάντες,ετικέτες,κατηγορίες και χρονολόγια)
+
 # Άσκηση_γραμμής_εντολών
 
 Link Hyperfine https://github.com/sharkdp/hyperfine
