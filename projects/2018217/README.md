@@ -91,8 +91,21 @@
 
 #### [6]
 ### Παραδοτέο 6</a>
-### Άσκηση γραμμής εντολών: .....
-* [X] Σε αυτή την εργασία πραγματοποίησα.........
+### Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
+#### Σε αυτή την εργασία πραγματοποίησα: 
+* [X] Eγκατάσταση του ntfy για να παίρνω ειδοποιήσεις στο desktop pip3 install ntfy.
+* [X] Eγκατάσταση του telegram pip3 install ntfy[telegram] και ρύθμιση ώστε να παίρνω ειδοποιήσεις στο κινητό τηλέφωνο.
+* [X] Eγκατάσταση  του emoji  pip3 install ntfy[emoji].
+* [X] Δημιουργία του ntfy.yml αρχείου μέσα στο .config/ntfy και τροποποίηση  του ώστε να στέλνει ειδοποιήσεις στο telegram και κάθε ειδοποίηση να εγγράφεται στο syslog. 
+* [X] Eγκατάσταση του youtube-dl, κατέβασμα ενός βίντεο και εγγραφή του notification όταν ολοκληρώθηκε στο systemlog.
+
+#### [Σύνδεσμος asciinema γραμμής εντολών: send notifications to your desktop-mobile](https://asciinema.org/a/405289)
+
+#### Screenshot application telegram
+![Screenshot](telegram1.png)
+
+#### Screenshot ntfy Desktop
+![Screenshot](desktop_ntfy.png)
 
 #### [7]
 ### Παραδοτέο 7</a>
