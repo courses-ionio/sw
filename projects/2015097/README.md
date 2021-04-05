@@ -51,6 +51,7 @@
 [Netlifyslides](https://p15anez-pibook.netlify.app/slides/models/)
 [NetlifyTimeline](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
+![screenshot](https://i.imgur.com/OClyDgj.png)
 
 # Άσκηση γραμμής εντολών 2
 
