@@ -104,8 +104,9 @@
 #### Screenshot application telegram
 ![Screenshot](telegram1.jpg)
 
-#### Screenshot ntfy Desktop
-![Screenshot](desktop_ntfy.png)
+#### Screenshot Systemlog
+![Screenshot](systemlog.jpg)
+![Screenshot](systemlog2.jpg)
 
 #### [7]
 ### Παραδοτέο 7</a>
