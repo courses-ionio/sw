@@ -200,5 +200,9 @@ https://mikezois1992.netlify.app/
 
 Παρουσίαση πληροφοριών συστήματος και hardware (https://asciinema.org/a/401044)
 
+**2η Άσκηση**
+
+[![asciicast](https://asciinema.org/a/405291.svg)](https://asciinema.org/a/405291)
+
 
 
