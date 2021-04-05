@@ -190,6 +190,8 @@ Link με το asciinema για setup και σύνδεση Telegram: https://as
 
 ![teledesktop](https://github.com/apostoloskp/sw-images/blob/main/teledesktop.png)
 
+**Πηγές:** https://github.com/dschep/ntfy#telegram---telegram
+
 ## Απαντήσεις στις ερωτήσεις του 4ου quiz:
 
 1) **Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία.**
@@ -304,6 +306,8 @@ Link με το asciinema για παραδείγματα notification του mqt
 ![mqttnotif](https://github.com/apostoloskp/sw-images/blob/main/mqttnotif.png)
 
 ![mqttterm](https://github.com/apostoloskp/sw-images/blob/main/mqttterm.png)
+
+**Πηγές:** https://github.com/jpmens/mqttwarn#running-interactively
 
 ## Απαντήσεις στις ερωτήσεις του 6ου quiz:
 
