@@ -198,9 +198,15 @@ https://mikezois1992.netlify.app/
 
 Αλλαγές στο BASH prompt του ubuntu  (https://asciinema.org/a/401040)
 
+[![asciicast](https://asciinema.org/a/401040.svg)](https://asciinema.org/a/401040)
+
 Παρουσίαση πληροφοριών συστήματος και hardware (https://asciinema.org/a/401044)
 
+[![asciicast](https://asciinema.org/a/401044.svg)](https://asciinema.org/a/401044)
+
 **2η Άσκηση**
+
+Δελτίο καιρού - προγνώσεις καιρού για τοποθεσίες με τη χρήση του terminal (https://asciinema.org/a/405291)
 
 [![asciicast](https://asciinema.org/a/405291.svg)](https://asciinema.org/a/405291)
 
