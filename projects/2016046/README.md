@@ -117,6 +117,6 @@ Link Hyperfine https://github.com/sharkdp/hyperfine
 
 Link Asciinema https://asciinema.org/a/eDK2Hu4st3a1v7KXdi61NBdJo
 
-(Κατέβασα το hyperfine, έδωσα μία εντολή " hyperfine 'sleep 0.3' " για να τρέξω το πρώτο benchmark, το hyperfine καθορίζει αυτόματα τον αριθμό των runs για κάθε εντολή που δίνεται, έτσι έτρεξα μια εντολή ώστε να αλλάξω τον αριθμό των runs, τέλος έδωσα μία εντολή ώστε να τρέξω το benchmark σε warm cache και να εκτελέσω συγκεκριμένο αριθμό εκτελέσεων)
+(Κατέβασα το hyperfine, έδωσα μία εντολή για να τρέξω το πρώτο benchmark, το hyperfine καθορίζει αυτόματα τον αριθμό των runs για κάθε εντολή που δίνεται, έτσι έτρεξα μια εντολή ώστε να αλλάξω τον αριθμό των runs, τέλος έδωσα μία εντολή ώστε να τρέξω το benchmark σε warm cache και να εκτελέσω συγκεκριμένο αριθμό εκτελέσεων)
 
 
