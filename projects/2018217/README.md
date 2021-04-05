@@ -102,7 +102,7 @@
 #### [Σύνδεσμος asciinema γραμμής εντολών: send notifications to your desktop-mobile](https://asciinema.org/a/405289)
 
 #### Screenshot application telegram
-![Screenshot](telegram1.png)
+![Screenshot](telegram1.jpg)
 
 #### Screenshot ntfy Desktop
 ![Screenshot](desktop_ntfy.png)
