@@ -211,6 +211,6 @@ A1:Πρόσθεσα τις δυο φωτογραφίες στο images και τ
 
 [Asciinema Link](https://asciinema.org/a/gXGzHk3JxZI5PHjz7DIqo9Kyc) 
 
-
+[Pdf Link](https://p16pyla.github.io/cv-1/pdf/cv.pdf)
 
 Τα quiz των εβδομάδων : 1,4,5,6,7      έχουν απαντηθεί κανονικά από την εφαρμογή και σε όσα αντιμετώπισα πρόβλημα με το submit είναι απαντημένα εδώ. 
