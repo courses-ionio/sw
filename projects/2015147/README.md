@@ -99,9 +99,7 @@ Send a notifcation when a big task completes, eg download, compiling, etc.
 Το πρώτο μήνυμα που έστειλα ήταν άμεσο ("Paradoteo 6").
 Η δεύτερη εντολή που χρησιμοποίησα λέει στο ntfy να μου στείλει ειδοποίηση στο telegram, όταν τελειώσει η εγκατάσταση του brave browser.
 
-<img src="https://github.com/p15bala/sw-images/blob/main/create_new_bot.jpg" width="360" height="480">
-
-<img src="https://github.com/p15bala/sw-images/blob/main/install_complete_notification.jpg" width="360" height="480">
+<img src="https://github.com/p15bala/sw-images/blob/main/create_new_bot.jpg" width="360" height="480"> <img src="https://github.com/p15bala/sw-images/blob/main/install_complete_notification.jpg" width="360" height="480">
 
 Εγγραφή τερματικού: https://asciinema.org/a/405116
 
