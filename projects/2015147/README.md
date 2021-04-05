@@ -13,7 +13,7 @@
 | 3 |<a href="#P3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>|
 | 4 |<a href="#P4"> Άσκηση γραμμής εντολών </a>|
 | 5 |<a href="#P5"> Συμμετοχικό περιεχόμενο </a>|
-| 6 | Άσκηση γραμμής εντολών |
+| 6 |<a href="#P6"> Άσκηση γραμμής εντολών </a>|
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -85,6 +85,25 @@ Netlify Demo: https://quirky-cray-def8ee.netlify.app/gallery/arpanet/
 Αποθετήριο εικόνας: https://github.com/p15bala/_gallery/blob/master/lisp.md
 
 Netlify Demo: https://quirky-cray-def8ee.netlify.app/gallery/lisp/
+
+## <a name="P6">Παραδοτέο 6 </a>
+
+### Άσκηση γραμμής εντολών 2
+
+Send a notifcation when a big task completes, eg download, compiling, etc.
+
+Με τη χρήση του [ntfy](https://github.com/dschep/ntfy) μπορούμε να στέλνουμε ειδοποιήσεις στον υπολογιστή/κινητό μας άμεσα ή αν θέλουμε,να μας έρθει μια ειδοποίηση όταν τελειώσει κάποια διαδικασία π.χ. κάποιο compile ή download.Το ntfy μπορεί να χρησιμοποιηθεί με διάφορες εφαρμογές όπως είναι το telegram,το οποίο δείχνω σε αυτο το παραδοτέο.
+
+Αρχικά φτιάχνουμε ένα καινούργιο Bot στο telegram, το οποίο στη συνέχεια συνδέουμε με το ntfy χρησιμοποιώντας ένα token που μας δίνεται.
+Αφού έφτιαξα και ετοίμασα το Bot με όνομα ntfy-sw,ξεκίνησα τη δοκιμή του.
+Το πρώτο μήνυμα που έστειλα ήταν άμεσο ("Paradoteo 6").
+Η δεύτερη εντολή που χρησιμοποίησα λέει στο ntfy να μου στείλει ειδοποίηση στο telegram, όταν τελειώσει η εγκατάσταση του brave browser.
+
+<img src="https://github.com/p15bala/sw-images/blob/main/create_new_bot.jpg" width="360" height="480">
+
+<img src="https://github.com/p15bala/sw-images/blob/main/install_complete_notification.jpg" width="360" height="480">
+
+Εγγραφή τερματικού: https://asciinema.org/a/405116
 
 ## Απαντήσεις Video Quiz*
 
