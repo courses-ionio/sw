@@ -64,6 +64,8 @@ Link Netlify https://deploy-preview-134--epic-hamilton-da9ac8.netlify.app/posts/
 
 Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts/2020-10-20-reception-event-first-year-students-of-the-department-of-informatics-2020-2021.md
 
+(Έκανα προσθήκη μιας ανακοίνωσης που επέλεξα,μετά περίμενα να μου δώσει ο καθηγητής το green light ώστε να πειράξω τα αρχεία και να κάνω pull request)
+
 # Άσκηση_γραμμής_εντολών
 
 Link Asciinema https://asciinema.org/~p16foti
