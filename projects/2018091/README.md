@@ -52,7 +52,7 @@
 ## Eβδομάδα 6
 
 ### Άσκηση γραμμής εντολών
-Για την 6η εβδομάδα το ζητούμενο ήταν να κάνουμε μια άσκηση γραμμής εντολών. Επέλεξα να ασψοληθώ με το mqttwarn. Την εργασία μου, λόγω των αναγκών κατέγραψα με το [OBS](https://obsproject.com/) και επεξεργάστηκα με το [Openshot](https://www.openshot.org/). Το βίντεο έχει ανέβει στο [YouTube](https://www.youtube.com/) στο παρακάτω [λινκ](https://www.youtube.com/watch?v=sRq9zGL1MUY).
+Για την 6η εβδομάδα το ζητούμενο ήταν να κάνουμε μια άσκηση γραμμής εντολών. Επέλεξα να ασχοληθώ με το mqttwarn. Την εργασία μου, λόγω των αναγκών κατέγραψα με το [OBS](https://obsproject.com/) και επεξεργάστηκα με το [Openshot](https://www.openshot.org/). Το βίντεο έχει ανέβει στο [YouTube](https://www.youtube.com/) στο παρακάτω [λινκ](https://www.youtube.com/watch?v=sRq9zGL1MUY).
 
 ## Εβδομάδα 7
 ### PDF Βιογραφικού
