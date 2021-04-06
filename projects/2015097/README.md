@@ -40,18 +40,18 @@
 # Άσκηση γραμμής εντολών 1
 Για την ολοκλήρωση της πρώτης άσκησης γραμμής εντολών έκανα συγχρονισμό του github με το ένα καινούργιο υπολογιστή linux, δημιούργησα ένα καινούργιο ssh κλειδί το οποίο προσέθεσα στο λογαριασμό μου στο github, αντέγραψα το αποθετήριο στο οποίο έχω το [βιογραφικό μου](https://github.com/p15anez/cv-1) και στη συνέχεια επεξεργάστηκα ενδεικτικά το αρχείο index.html του βιογραφικού. Μετά τις αλλαγές, ακολούθησα την διαδικασία αποστολής των αρχείων που επεξεργάστηκα στο κεντρικό αποθετήριο του github. Εν κατακλείδι, έλεγξα στη σελίδα [Github Pages](https://p15anez.github.io/cv-1/) αν εμφανίστηκαν οι αλλαγές. Για την υλοποίηση του παραδοτέου για ακόμη μια φορά οι γνώσεις που αποκτήθηκαν κατά τη διάδραση με τον διδάσκοντα στο μάθημα sw αλλα και στο μάθημα hci κρίθηκαν απολύτως χρήσιμες για την εκπόνηση της πρώτης γραμμής άσκησης εντολών.
 
-[Αsciinemalink](https://asciinema.org/a/398782)
+[Αsciinema link](https://asciinema.org/a/398782)
 
 # Συμμετοχικό περιεχόμενο 1
 Αυτή την εβδομάδα για την εκπόνηση του παραδοτέου συμμετοχικό περιεχόμενο επέλεξα το λογισμικό zoom το οποίο χρησιμοποιούμε για τη διεξαγωγή των ηλεκτρονικών μαθημάτων κατά τη διάρκεια της πανδημίας. Ακολούθησα όλα τα καταγεγραμμένα βήματα των οδηγιών και παρακάτω παρέχονται σύνδεσμοι για τις φωτογραφίες και τα αρχείο md τα οποία δημιούργησα και επίσης παρέχονται σύνδεσμοι για τα αποθετήρια στα οποία έγιναν προσθήκες.
 
-[Netlifylink1](https://p15anez-pibook.netlify.app/gallery/zoom/)
-[Netlifyslides1](https://p15anez-pibook.netlify.app/slides/models/)
-[NetlifyTimeline1](https://p15anez-pibook.netlify.app/timeline/collaboration/)
+[Zoom Gallery Link](https://p15anez-pibook.netlify.app/gallery/zoom/)
+[Zoom Slides Link](https://p15anez-pibook.netlify.app/slides/models/)
+[Zoom Timeline Link](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
-[Netlifylink2](https://p15anez-pibook.netlify.app/gallery/alpha-go/)
-[Netlifyslides2](https://p15anez-pibook.netlify.app/slides/learning/)
-[NetlifyTimeline2](https://p15anez-pibook.netlify.app/timeline/learning/)
+[AplhaGo Gallery Link](https://p15anez-pibook.netlify.app/gallery/alpha-go/)
+[AlphaGo Slides Link](https://p15anez-pibook.netlify.app/slides/learning/)
+[Alpha Go Timeline Link](https://p15anez-pibook.netlify.app/timeline/learning/)
 
 ![screenshot1](https://i.imgur.com/OClyDgj.png)
 
@@ -68,4 +68,4 @@
 # Βιογραφικό 2
 
 Για την ολοκλήρωση του δεύτερου σκέλους του βιογραφικού χρησιμοποίησα το πρόγραμμα weasyprint για να μετατρέψω την ιστοσελίδα του βιογραφικού μου σε pdf. Χρησιμοποίησα ενα template της css για να επεξεργαστώ τη μορφή που θα έχει το pdf κάθε φορά που ξαναδημιουργείται ή ανανεώνεται. Πρόσθεσα δύο git hooks έτσι ώστε κάθε φορά πραγματοποιώ commit στο αποθετήριο του βιογραφικού μου να δημιουργείται ξανά το pdf αρχείο. Τέλος, πρόσθεσα το [link του pdf αρχείου](https://p15anez.github.io/cv-1/pdf/cv.pdf) στην ιστοσελίδα μου.
-[Asciinemalink](https://asciinema.org/a/404852)
+[Asciinema link](https://asciinema.org/a/404852)
