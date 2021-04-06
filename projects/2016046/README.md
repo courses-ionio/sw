@@ -69,6 +69,9 @@ Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts
 # Άσκηση_γραμμής_εντολών
 
 Link Asciinema https://asciinema.org/~p16foti
+
+![pushover notification](https://user-images.githubusercontent.com/79106147/113722945-8d810c80-96f9-11eb-8539-c98b17b70997.jpg)
+
 (Κατέβασα το ntfy,μετά έστειλα ένα μήνυμα(test) να το τσεκάρω,έπειτα με την εντολή που βλέπουμε στο asciinema πρόσθεσα το user key που πήρα από το pushover στο κινητό μου και κατέβασα το gimp ώστε να μου έρθει ειδοποίηση όταν θα κατέβει)
 
 # Συμμετοχικό_περιεχόμενο
