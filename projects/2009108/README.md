@@ -90,3 +90,13 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 ![Screenshot](cv-command-terminal2.png)
 
+### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
+### ΒΙΟΓΡΑΦΙΚΟ
+* [x] Εγκατάσταση του weasyprint μέσω pip: pip3 install weasyprint
+* [x] Δημιουργία φάκελου pdf για να αποθηκεύεται το παραγόμενο αρχείο pdf
+* [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργηθηκαν δυο  αρχεία 1) pre-commit και 2) post-commit μέσα στο φάκελο .git/hooks
+
+#### [Σύνδεσμος asciinema  ](https://asciinema.org/a/401062)
+[![asciicast](https://asciinema.org/a/401062.svg)](https://asciinema.org/a/401062)
+#### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p09apos/online-cv)
+#### [Εκτελέσιμο CV](https://p09apos.github.io/online-cv/)
