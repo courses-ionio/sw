@@ -44,17 +44,18 @@
 
 # Συμμετοχικό περιεχόμενο 1
 Αυτή την εβδομάδα για την εκπόνηση του παραδοτέου συμμετοχικό περιεχόμενο επέλεξα το λογισμικό zoom το οποίο χρησιμοποιούμε για τη διεξαγωγή των ηλεκτρονικών μαθημάτων κατά τη διάρκεια της πανδημίας. Ακολούθησα όλα τα καταγεγραμμένα βήματα των οδηγιών και παρακάτω παρέχονται σύνδεσμοι για τις φωτογραφίες και τα αρχείο md τα οποία δημιούργησα και επίσης παρέχονται σύνδεσμοι για τα αποθετήρια στα οποία έγιναν προσθήκες.
-[gallerylink](https://github.com/p15anez/_gallery/blob/2015097/zoom.md)
-[imageslink](https://github.com/p15anez/images/blob/2015097/zoom.png)
-[timelinelink](https://github.com/p15anez/site/blob/2015097/_timeline/collaboration.md)
-[slideslink](https://github.com/p15anez/site/blob/2015097/_slides/models.md)
-[Netlifylink](https://p15anez-pibook.netlify.app/gallery/zoom/)
-[Netlifyslides](https://p15anez-pibook.netlify.app/slides/models/)
-[NetlifyTimeline](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
-![screenshot](https://i.imgur.com/OClyDgj.png)
+[Netlifylink1](https://p15anez-pibook.netlify.app/gallery/zoom/)
+[Netlifyslides1](https://p15anez-pibook.netlify.app/slides/models/)
+[NetlifyTimeline1](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
-![screenshot](https://i.imgur.com/cl2CySW.jpg)
+[Netlifylink2](https://p15anez-pibook.netlify.app/gallery/alpha-go/)
+[Netlifyslides2](https://p15anez-pibook.netlify.app/slides/learning/)
+[NetlifyTimeline2](https://p15anez-pibook.netlify.app/timeline/learning/)
+
+![screenshot1](https://i.imgur.com/OClyDgj.png)
+
+![screenshot2](https://i.imgur.com/cl2CySW.jpg)
 
 # Άσκηση γραμμής εντολών 2
 
@@ -66,5 +67,5 @@
 
 # Βιογραφικό 2
 
-Για την ολοκλήρωση του δεύτερου σκέλους του βιογραφικού χρησιμοποίησα το πρόγραμμα weasyprint για να μετατρέψω την ιστοσελίδα του βιογραφικού μου σε pdf. Χρησιμοποίησα ενα template της css για να επεξεργαστώ τη μορφή που θα έχει το pdf κάθε φορά που ξαναδημιουργείται ή ανανεώνεται. Πρόσθεσα δύο git hooks έτσι ώστε κάθε φορά πραγματοποιώ commit στο αποθετήριο του βιογραφικού μου να δημιουργείται ξανά το pdf αρχείο. Τέλος, πρόσθεσα το [link του pdf αρχείου](https:p15anez.github.io/cv-1/pdf/cv.pdf) στην ιστοσελίδα μου.
+Για την ολοκλήρωση του δεύτερου σκέλους του βιογραφικού χρησιμοποίησα το πρόγραμμα weasyprint για να μετατρέψω την ιστοσελίδα του βιογραφικού μου σε pdf. Χρησιμοποίησα ενα template της css για να επεξεργαστώ τη μορφή που θα έχει το pdf κάθε φορά που ξαναδημιουργείται ή ανανεώνεται. Πρόσθεσα δύο git hooks έτσι ώστε κάθε φορά πραγματοποιώ commit στο αποθετήριο του βιογραφικού μου να δημιουργείται ξανά το pdf αρχείο. Τέλος, πρόσθεσα το [link του pdf αρχείου](https://p15anez.github.io/cv-1/pdf/cv.pdf) στην ιστοσελίδα μου.
 [Asciinemalink](https://asciinema.org/a/404852)
