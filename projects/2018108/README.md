@@ -119,3 +119,15 @@ create a cli app for your favorite site
 
 Το asciinema δειχνει την εγκατάσταση της εφαρμογής.
 [![asciicast](https://asciinema.org/a/401581.svg)](https://asciinema.org/a/401581)
+
+## 7. Βιογραφικό
+Αυτή την εβδομάδα έκανα τις ενέργειες που χρειαζόταν για να ολοκληρώσω τα παραδοτέα του βιογραφικού. Πιο συγκεκριμένα έκανα:
+1. Continuous Integration
+2. Παραγωγή PDF με τα εργαλεία pandoc και latex 
+
+- [Repository Link](https://github.com/Stavrospanakakis/cv)
+- [CV Website](http://cv.stavrospanakakis.com/)
+- [CI Link](https://github.com/Stavrospanakakis/cv/blob/main/.github/workflows/main.yml)
+- [PDF](https://github.com/Stavrospanakakis/cv/blob/main/assets/cv.pdf)
+
+[![asciicast](https://asciinema.org/a/405432.svg)](https://asciinema.org/a/405432)
