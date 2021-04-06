@@ -88,6 +88,18 @@
 #### Screenshot ntfy Desktop
 ![Screenshot](desktop_ntfy.png)
 
+### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
+### ΒΙΟΓΡΑΦΙΚΟ
+* [x] Εγκατάσταση του weasyprint μέσω pip: pip3 install weasyprint
+* [x] Δημιουργία φάκελου pdf για να αποθηκεύεται το αρχείο pdf
+* [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργησα  δυο  αρχεία το pre-commit και το post-commit μέσα στο .git/hooks
+
+#### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/405408)
+[![asciicast](https://asciinema.org/a/405408.svg)](https://asciinema.org/a/405408)
+#### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
+#### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
+
+
 
 
 
