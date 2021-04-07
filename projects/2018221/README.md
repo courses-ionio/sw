@@ -80,6 +80,7 @@
 Αρχικά έκανα εγκατάσταση του ntfy για να παίρνω ειδοποιήσεις στο desktop pip3 install ntfy. Ακολούθως έγινε εγκατάσταση  του telegram pip3 install ntfy[telegram] και ρύθμιση ώστε να παίρνω ειδοποιήσεις στο κινητό τηλέφωνο.  Ακόμη έγινε εγκατάσταση  του emoji  pip3 install ntfy[emoji]. Στο επόμενο βήμα έγινε δημιουργία του ntfy.yml αρχείου μέσα στο .config/ntfy και τροποποίηση  του ώστε να στέλνει ειδοποιήσεις στο telegram και κάθε ειδοποίηση να εγγράφεται στο syslog όπως μπορούμε να δούμε και στο asciinema. Τέλος για την παρουσίαση της εργασίας έγινε εγκατάσταση του youtube-dl, κατέβασμα ενός βίντεο και εγγραφή του notification όταν ολοκληρώθηκε στο systemlog.
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/403530)
+
 ![Screenshot](ntfy.png)
 
 #### Screenshot application telegram
