@@ -12,7 +12,7 @@
 | 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
 | 3 | [Ionian University Site PR](#pull-request-1) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
-| 5 | [Collaborative Work #1](#collaborative-work-(pibook)-#1) | Υποβολή μέσω εφαρμογής
+| 5 | [Collaborative Work #1](#collaborative-work-pibook-1) | Υποβολή μέσω εφαρμογής
 | 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week6.md)
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
