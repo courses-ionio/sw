@@ -65,6 +65,7 @@ An asciicast documenting the installation process is also available:
 For the first part of the CW assignment, we were asked to cover 2 technologies (upload 2 images for each topic, and write an .md caption for each).
 hose to cover 2 related programming languages: [Objective-C](https://runtheorun-pi.netlify.app/gallery/objective-c/) and [Swift](https://runtheorun-pi.netlify.app/gallery/swift-md/). Then after some research I wrote up their captions , found [here](https://github.com/runtheorun-exe/_gallery/blob/master/objective-c.md) and [here](https://github.com/runtheorun-exe/_gallery/blob/master/swift.md). Afterwards, I [updated](https://github.com/runtheorun-exe/site/blob/master/_slides/programming.md) the [Programming Slide Set](https://runtheorun-pi.netlify.app/slides/programming/) and added my contributions to the Timeline. Then I simply deployed my repository with the help of netlify at https://runtheorun-pi.netlify.app/.
 The pibook repo utilizes submodules, which while being easy to setup, recording with asciinema made things a whole lot harder. But nevertheless, here is the asciicast which not only shows the submodule installation but also almost the entire workflow for this assignment. Did I mention that almost the entire assignment was completed via terminal? (save for some tweaks and image reuploads).
+
 <a href="https://asciinema.org/a/nFsVPoymzZ7iRvLTVW04Pzdjf" target="_blank"><img src="https://asciinema.org/a/nFsVPoymzZ7iRvLTVW04Pzdjf.svg" width="400"/></a>
 
 Not a tough one, but definitely a time-intensive one.
