@@ -100,7 +100,9 @@
   - Η εικόνα 1 απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων ntfy.yml.
   ![image](https://user-images.githubusercontent.com/56065057/113948105-ce217880-9814-11eb-8f37-7899208074f8.png)
 
-  - Η <a href="https://github.com/p18mili1/sw/blob/2018219/projects/2018219/image2.jpg">εικόνα 2</a> και η <a href="https://github.com/p18mili1/sw/blob/2018219/projects/2018219/image3.jpg">εικόνα 3</a> είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
+  - Η εικόνα 2</a> και η <a href="https://github.com/p18mili1/sw/blob/2018219/projects/2018219/image3.jpg">εικόνα 3</a> είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
+  ![image](https://user-images.githubusercontent.com/56065057/113948175-fb6e2680-9814-11eb-838e-8d8d30d12da7.png)
+
   - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
   - <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
 &nbsp;
