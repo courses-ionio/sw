@@ -103,9 +103,9 @@
   - Η εικόνα 2 και 
   ![image](https://user-images.githubusercontent.com/56065057/113948175-fb6e2680-9814-11eb-838e-8d8d30d12da7.png)
 
-- η εικόνα 3 
+  - η εικόνα 3 
 
--![image](https://user-images.githubusercontent.com/56065057/113948287-2c4e5b80-9815-11eb-87ad-e7a7ed8caca7.png)
+  ![image](https://user-images.githubusercontent.com/56065057/113948287-2c4e5b80-9815-11eb-87ad-e7a7ed8caca7.png)
 
 είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
   
