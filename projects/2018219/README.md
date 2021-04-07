@@ -13,7 +13,7 @@
     <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a></td></tr>
     <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td></tr>
     <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td></tr>
-    <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό</a></td></tr>
+    <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td></tr>
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
     <tr><td align="center">9</td><td align="left"><a href="#P9">Άσκηση γραμμής εντολών</a></td></tr>
     <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο</a></td></tr>
@@ -116,7 +116,11 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 ## <a name="P7">Παραδοτέο 7</a>
-## <a href="#P">Βιογραφικό</a>
+## <a href="#P">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a>
+Για την αυτοματοποιημένη δημιουργία του αρχείου pdf του βιογραφικού, χρησιμοποίησα το pandoc και δύο git hooks, precommit και post-commit. Έτσι εξασφαλίζεται ότι κάθε φορά που γίνεται commit "τρέχει" η εντολή pandoc κατάλληλα διαμορφωμένη για να μπορεί να διαβάζει ελληνικούς χαρακτήρες και να τους εκτυπώνει με την κατάλληλη γραμματοσειρά στο αρχείο cv.pdf, το οποίο το δημιουργεί στον κατάλογο pdf. Στο συνοδευτικό βιντεο asciinema το cv.pdf μετατρέπεται σε αρχείο κειμένου, το cv.txt, καθαρά για λόγους επίδειξης του  παραδοτέου. Επίσης, έχω προσθέσει στο βιογραφικό ένα σύνδεσμο για τη λήψη του αρχείου pdf του βιογραφικού.
+- <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
+- <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
+- <a href="https://asciinema.org/a/405856">Σύνδεσμος καταγραφής Asciinema</a>
 &nbsp;&nbsp;
 ## <a name="P8">Παραδοτέο 8</a>
 ## <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
