@@ -46,8 +46,8 @@
 - Η διαδικασία πραγματοποιήθηκε με το `weasyprint` με αξιοποίηση των **[git hooks](https://www.atlassian.com/git/tutorials/git-hooks)** για το CI.
 
 Τέλος, καθώς τα links του βιογραφικού βρίσκονται στην αναφορά ήδη από την 2η εβδομάδα, εδώ παρέχονται τα links για το pdf και το asciinema για τη διαδικασία:
-- [PDF Format](https://github.com/ntouloumtzis/online-cv/blob/master/assets/cv.pdf)
-- [Asciinema](https://asciinema.org/a/405853)
+- **[PDF Format](https://github.com/ntouloumtzis/online-cv/blob/master/assets/cv.pdf)**
+- **[Asciinema](https://asciinema.org/a/405853)**
 
 ***Σημείωση** Το PDF Format δεν μπορεί να μορφοποιηθεί σωστά. Προσπάθησα να δημιουργήσω ένα cv.css αρχείο και να λύσω το πρόβλημα, αλλά δίχως επιτυχία. Υπάρχει και αντίστοιχο issue **[εδώ](https://github.com/sharu725/online-cv/issues/120)**.*
 
