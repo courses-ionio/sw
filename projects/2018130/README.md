@@ -13,7 +13,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#Τέταρτη-εβδομάδα) | [bret victor the future of programming](#bret-victor-the-future-of-programming)
 | 5 | [Συμμετοχικό περιεχόμενο](#Πέμπτη-εβδομάδα) | [alan kay programming](#alan-kay-programming)
 | 6 | [Άσκηση γραμμής εντολών](#Έκτη-εβδομάδα) |
-| 7 | Bιογραφικό |
+| 7 | [Bιογραφικό]((#Έβδομη-εβδομάδα)  |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | Συμμετοχικό περιεχόμενο |
@@ -99,6 +99,20 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 ![ntfy](https://user-images.githubusercontent.com/54241681/112758282-2b881f00-8ff6-11eb-93a7-6806086df987.gif)
 
 
+## Έβδομη εβδομάδα
+
+Βιογραφικό
+
+Link του repository: [jekyll cv](https://github.com/sophia-ts/jekyll_cv)
+
+Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.app/)
+
+Για το παραδοτέο αυτό έφτιαξα ένα LaTex template βασιμένο στο βιογραφικό που δημιούργησα. Με την χρήση του pandoc μπόρεσα 
+να κάνω generate το LaTex αρχείο σε pdf. Έπειτα, με την χρήση του GitHub Actions πρόσθεσα continius integration και μάλιστα, όπως 
+υπαγορεύει η εκφώνηση, παραμετροποίησα το CI έτσι ώστε να γίνεται triggered μόνο όταν γίνονται αλλαγές στο yml αρχείο που περιέχει τα δεδομένα. 
+
+`Προβλήματα που συνάντησα` Στην αρχή το LaTex αρχείο ήταν πιο πιστό στο html template που έφτιαξα αρχικά. Δυστυχώς όμως, αντιμετώπισα προβλήματα
+με ορισμένα πακέτα στο LaTex που δεν κατάφερα να επιλύσω. Μάλιστα στο LaTex template έβαλα με comments τον παλιό κώδικα.
 
 # Απαντήσεις εβδομαδιαίου quiz
 
