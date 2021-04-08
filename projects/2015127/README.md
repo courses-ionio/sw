@@ -114,6 +114,27 @@ Netlify Demo: https://determined-jepsen-7f277c.netlify.app//gallery/dns-tree/
 
 Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
+### A2
+
+#### DNS-TREE 
+
+Αποθετήριο διαφανιών: https://github.com/p15kost/site/blob/master/_slides/archetypes.md
+
+Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
+
+Netlify Demo διαφανιών:
+
+Netlify Demo χρονολογίου: 
+
+#### SMTP
+
+Αποθετήριο διαφανιών: https://github.com/p15kost/site/blob/master/_slides/archetypes.md
+
+Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
+
+Netlify Demo διαφανιών:
+
+Netlify Demo χρονολογίου: 
 
 
 ## Παραδοτέο 6:
