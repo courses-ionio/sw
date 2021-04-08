@@ -99,17 +99,8 @@
   - Αρχικά έγινε η εγκατάσταση του ntfy και των απαραίτητων dependencies
   - Στη συνέχεια έγινε η εγκατάσταση του Pushover app στο κινητό και η απόκτηση του user key
   - Ακολούθως δημιουργήθηκε με python3.9 το αρχείο test_ntfy.py, το οποίο δημιουργεί και γεμίζει με ακεραίους έναν πίνακα 100x1000000 για να χρησιμοποιηθεί κατά την επίδειξη λειτουργίας του χαρακτηριστικού done του ntfy.
-  - Η εικόνα 1 απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων ntfy.yml.
-  ![image](https://user-images.githubusercontent.com/56065057/113948105-ce217880-9814-11eb-8f37-7899208074f8.png)
-
-  - Η εικόνα 2 και 
-  ![image](https://user-images.githubusercontent.com/56065057/113948175-fb6e2680-9814-11eb-838e-8d8d30d12da7.png)
-
-  - η εικόνα 3 
-
-  ![image](https://user-images.githubusercontent.com/56065057/113948287-2c4e5b80-9815-11eb-87ad-e7a7ed8caca7.png)
-
-είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
+  - Η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image01.png">εικόνα 1</a> απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων ntfy.yml.
+    - Η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image02.png">εικόνα 2</a> και η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image03.png">εικόνα 3</a> είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
   
   - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
   - <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
