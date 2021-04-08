@@ -108,7 +108,7 @@ https://github.com/p15kost/images
 
 Netlify Demo:
 
-### Εικόνα 2:
+### Εικόνα 2: SMTP
 
 Αποθετήριο εικόνας: https://github.com/p15kost/_gallery/blob/master/smtp.md
 
