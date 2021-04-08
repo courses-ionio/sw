@@ -77,4 +77,4 @@
 * [x] Εγκατέστησα το weasyprint με την εντολή pip3 install weasyprint
 * [x] Δημιούργησα το φάκελο pdf στο σκληρό μου δίσκο για να αποθηκεύεται το βιογραφικό μου μορφή pdf
 * [x] Δημιούργησα μέσα στο φάκελο .git/hooks το αρχείο post-commit ώστε να τρέχει την εντολή weasyprint με κάθε commit
-### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
+### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
