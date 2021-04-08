@@ -122,9 +122,6 @@ Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
 Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
 
-Netlify Demo διαφανιών:
-
-Netlify Demo χρονολογίου: 
 
 #### SMTP
 
@@ -132,9 +129,11 @@ Netlify Demo χρονολογίου:
 
 Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
 
-Netlify Demo διαφανιών:
+Η προσθήκη των εικονών στα slides και το timeline φαίνονται στα παρακάτω netlify links.
 
-Netlify Demo χρονολογίου: 
+Netlify Demo διαφανιών: https://determined-jepsen-7f277c.netlify.app//slides/archetypes/
+
+Netlify Demo χρονολογίου: https://determined-jepsen-7f277c.netlify.app//timeline/collaboration/
 
 
 ## Παραδοτέο 6:
