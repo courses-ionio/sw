@@ -106,13 +106,13 @@ https://github.com/p15kost/images
 
 Αποθετήριο εικόνας: https://github.com/p15kost/_gallery/blob/master/dns-tree.md
 
-Netlify Demo:
+Netlify Demo: https://determined-jepsen-7f277c.netlify.app//gallery/dns-tree/
 
 ### Εικόνα 2: SMTP
 
 Αποθετήριο εικόνας: https://github.com/p15kost/_gallery/blob/master/smtp.md
 
-Netlify Demo: 
+Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
 
 
