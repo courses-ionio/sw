@@ -131,7 +131,7 @@ Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
 Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
 
-### Netlify
+#### Netlify
 
 Netlify Demo διαφανιών: https://determined-jepsen-7f277c.netlify.app//slides/archetypes/
 
