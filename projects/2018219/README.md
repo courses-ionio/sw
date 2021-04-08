@@ -41,8 +41,8 @@
 ## <a name="P3">Παραδοτέο 3</a>
 ### <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
 Η προσθήκη που επέλεξα να αιτηθώ για την ενσωμάτωση στην ιστοσελίδα του τμήματος είναι το νέο υποοχρεωτικό μάθημα κατεύθυνσης του Ε' εξαμήνου `Πολιτικές και Τεχνολογίες Προστασίας της Ιδιωτικότητας` που αντικαθιστά το μάθημα `Μαθηματικός Προγραμματισμός` το οποίο καταργήθηκε. Έτσι, εκτός από τα απαραίτητα για την προσθήκη του μαθήματος προχώρησα και στη διαγραφή όσων αφορούσαν το καταργηθέν μάθημα.
-   - <a href="https://github.com/ioniodi/sitegr/issues/36">Σύνδεσμος δημιουργίας issue</a> 'issue #36'
-   - <a href="https://github.com/ioniodi/sitegr/pull/85">Σύνδεσμος αιτήματος ενσωμάτωσης</a> 'pull request #85'
+   - <a href="https://github.com/ioniodi/sitegr/issues/36">Σύνδεσμος δημιουργίας issue</a> `issue #36`
+   - <a href="https://github.com/ioniodi/sitegr/pull/85">Σύνδεσμος αιτήματος ενσωμάτωσης</a> `pull request #85`
    - <a href="https://hopeful-lamport-27750c.netlify.app/courses/info-privacy-policies-and-enhancing-tech/">Σύνδεσμος netlify</a>
 
 
