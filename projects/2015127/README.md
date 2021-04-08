@@ -122,7 +122,7 @@ send a notifcation to desktop-mobile when a big task completes, eg download, com
 
 Χρησιμοποιώντας το ntfy μπορούμε να στέλνουμε ειδοποίηση στο σύστημα μας ή σε εφαρμογές υπολογιστή ή mobile. Αυτό μπορεί να γίνεται είτε άμεσα σε πραγματικό χρόνο ή αφού τελιώσει μια διαδικασία. Στο παραδοτέο αυτό παρουσιάζω αρχικά πως μπορεί οι ειδοποιήσεις μας να έρχονται στον υπολογιστή. Φυσικά αυτό δεν είναι πρακτικό για διαδικασίες οι οποίες χρειάζονται αρκετό χρόνο για να ολοκληρωθούν. Έτσι στη συνέχεια δείχνω πως μπορούν οι ειδοποιήσεις να έρχονται στο telegram όταν εκτελεστεί η διαδικασία. Στο παράδειγμα μου στο τέλος εκτελώ ένα speedtest και έρχεται ειδοποίηση στο telegram όταν αυτό ολοκληρωθεί. Για την διαδικασία αυτή χρησιμοποίησα ένα telegram api bot. Παρακάτω φαίνονται και σχετικά screenshot της οθόνης μου.
 
-Screenshots: https://drive.google.com/drive/folders/1ntfnkPgYjFN9Ei7WSiP9-Wx-yFTmUG4s?usp=sharing
+<img src="https://github.com/p15kost/sw-images/blob/main/screenshot1.png" width="360" height="480"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot2.png" width="360" height="480"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot3.png" width="360" height="480"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot4.png" width="360" height="480">
 
 Asciinema εγγραφή: https://asciinema.org/a/403959
 
