@@ -116,6 +116,8 @@ Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
 ### A2
 
+Παρακάτω φαίνονται links στα αποθετήρια που άλλαξα καθως και netlify links με τις προσθήκες στα slides και το timeline.
+
 #### DNS-TREE 
 
 Αποθετήριο διαφανιών: https://github.com/p15kost/site/blob/master/_slides/archetypes.md
@@ -129,9 +131,7 @@ Netlify Demo:  https://determined-jepsen-7f277c.netlify.app//gallery/smtp/
 
 Αποθετήριο χρονολογίου: https://github.com/p15kost/site/blob/master/_timeline/collaboration.md
 
-
-
-Παρακάτω φαίνονται τα netlify links με τις προσθήκες στα slides και το timeline.
+### Netlify
 
 Netlify Demo διαφανιών: https://determined-jepsen-7f277c.netlify.app//slides/archetypes/
 
