@@ -84,19 +84,25 @@ https://github.com/p15kost/_gallery
 
 ### Α1
 
-Προσθήκη Submodule _gallery: 
+Αρχικά ανέβασα τις εικόνες (μικρές και κανονικές) στο αποθετήριο images. Στη συνέχεια έφτιαξα τα αρχεία dns-tree.md και smtp.md στο master branch του αποθετηρίου _gallery. Ύστερα όπως φαίνεται και στα asciinema links παρακάτω έφτιαξα τα submodules και έκανα git pull, add . , commit και push.
 
-Προσθήκη Submodule images:
+Προσθήκη Submodule _gallery: https://asciinema.org/a/405906
 
-Εικόνα 1: 
+https://github.com/p15kost/_gallery
 
-Αποθετήριο εικόνας:
+Προσθήκη Submodule images: https://asciinema.org/a/405908
+
+https://github.com/p15kost/images
+
+Εικόνα 1: DNS-TREE
+
+Αποθετήριο εικόνας: https://github.com/p15kost/_gallery/blob/master/dns-tree.md
 
 Netlify Demo:
 
 Εικόνα 2:
 
-Αποθετήριο εικόνας: 
+Αποθετήριο εικόνας: https://github.com/p15kost/_gallery/blob/master/smtp.md
 
 Netlify Demo: 
 
