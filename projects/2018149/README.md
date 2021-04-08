@@ -11,7 +11,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 4 | [Άσκηση γραμμής εντολών](#4-άσκηση-γραμμής-εντολών) |
 | 5 | [Συμμετοχικό περιεχόμενο](#5-συμμετοχικό-περιεχόμενο) |
-| 6 | Άσκηση γραμμής εντολών |
+| 6 | [Άσκηση γραμμής εντολών](#6-άσκηση-γραμμής-εντολών) |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -113,3 +113,16 @@
 |   Θεματικές διαφάνειες 	| [pointer.md](https://github.com/dimpram/site/blob/master/_slides/pointer.md)        	|
 
 Link του deployment μου: https://dimpram-pibook.netlify.app/
+
+
+## 6. Άσκηση γραμμής εντολών
+
+***Εκφώνηση: "create your own static site and blog generator"***
+
+Ως παραδοτέο αυτής της άσκησης απόφασισα να υλοποιήσω ένα δικό μου static site generator σε nodejs το οποίο να λειτουργεί με markdown αρχεία και να υποστηρίζει posts, pages και templates. Χρησιμοποιήθηκε η [handlebars](https://handlebarsjs.com/) βιβλιοθήκη που παρέχει μια templating γλώσσα παρόμοια με αυτή του jekyll. Στο παρακάτω asciinema φαίνεται ένα site παράδειγμα το οποίο έφτιξα για να παρουσιάσω την λειτουργία του static site generator το οποίο εντέλει το ονόμασα s3g.js (Simple Static Site Generator).
+
+Συνοπτικά χρειάζεται μια συγκεκριμένη οργάνωση των αρχείων όπως αντίστοιχα και στο jekyll και έπειτα μέσω της εντολής `npm run build` παράγεται ο φάκελος `dist` που περιέχει το τελικό site το οποίο μπορεί να γίνει deploy σε μέρη όπως το netlify κτλ.
+
+Αποθετήριο κώδικα: [[dimpram/s3g.js](https://github.com/dimpram/s3g.js)]
+
+[![asciicast](https://asciinema.org/a/8lbsqVHMd8sZTssTR9UrDOm08.svg)](https://asciinema.org/a/8lbsqVHMd8sZTssTR9UrDOm08)
