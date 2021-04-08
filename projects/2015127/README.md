@@ -128,7 +128,6 @@ Screenshots: https://github.com/p15kost/sw-images
 
 <img src="https://github.com/p15kost/sw-images/blob/main/screenshot1.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot2.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot3.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot4.png" width="160" height="160">
 
-Asciinema εγγραφή: https://asciinema.org/a/403959
 
 
 ## Απαντήσεις Video Quiz
