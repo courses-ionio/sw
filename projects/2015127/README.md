@@ -78,9 +78,13 @@ Asciinema εγγραφή: https://asciinema.org/a/400995
 ## Παραδοτέο 5:
 
 Fork τα απαραίτητα αποθετήρια: 
+
 https://github.com/p15kost/site
+
 https://github.com/p15kost/images
+
 https://github.com/p15kost/_gallery
+
 
 ### Α1
 
