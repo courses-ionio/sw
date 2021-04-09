@@ -12,7 +12,7 @@
 | 4 | <a href="#P-4">Άσκηση γραμμής εντολών </a> |
 | 5 | <a href="#P-5">Συμμετοχικό περιεχόμενο </a> |
 | 6 | <a href="#P-6">Άσκηση γραμμής εντολών </a> |
-| 7 | βιογραφικό |
+| 7 | <a href="#P-7">Bιογραφικό </a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -98,4 +98,28 @@
 Για την εβδομάδα αυτή, πραγματοποίησα την άσκηση γραμμής εντολών "**send notifications to your desktop-mobile**" με τη χρήση του εργαλείου [inotify-tools](https://github.com/inotify-tools/inotify-tools/wiki). To inotify-tools δίνει ένα απλό περιβάλλον για το [inotify.](https://man7.org/linux/man-pages/man7/inotify.7.html) Αποφάσισα να το χρησιμοποιήσω μιας και αντιμετώπισα κάποια προβλήματα με την λύση που προτείνεται στο [dokey.](https://github.com/epidrome/dokey) Στο παρακάτω asciinema link φαίνεται η διαδικασία εγκατάστασης του εργαλίου και του interface του, καθώς και ένα μικρό πείραμα δημιουργίας ενός αρχείου .txt , τροποποίηση και διαγραφή του.
 
 Asciinema link: https://asciinema.org/a/405119 (στα 2:30 λεπτά η χρήση του)
+#
+### <a name="P-7">Παραδοτέο 7 </a>
+
+Για την εβδομάδα αυτή, έπρεπε να παράγουμε ένα αρχείο PDF, παραγόμενο από την [σελίδα του βιογραφικού.](https://panagiotismouts.github.io/online-cv/) Χρησιμοποιήθηκαν τα εργαλεία [pandoc](https://pandoc.org/) και [pdflatex](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d). Μια από τις χρήσεις του εργαλείου pandoc είναι η μετατροπή μιας ιστοσελίδας σε αρχείο .tex (στην περίπτωσή μας index.tex). Το pdflatex μετατρέπει αρχεία .tex σε pdf.
+
+Στη συνέχεια έπρεπε να αυτοματοποιήσουμε την διαδικασία, δηλαδή κάθε φορά που θα πραγματοποιύσαμε μια αλλαγή στο cv μας, να δημιουργείται αυτόματα ένα νέο pdf αντίγραφό του και να ανεβαίνει στο github. Για να το πραγματοποιήσω αυτό, χρησιμοποίησα τα [githooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+
+Aντιμετώπισα πολλά προβλήματα, κάποια από τα οποία δεν έχω λύσει ακόμη. Για παράδειγμα, αν και πείραξα το .tex αρχείο που παράχτηκε, δεν κατάφερα να το κάνω να εμφανίζει την φωτογραφία μου. Θα προβώ λογικά σε χρήση διαφορετικου προγράμματος πέρα από το pdflatex στο μέλλον ώστε να το διορθώσω.
+
+Ακολουθούν φωτογραφίες από τα scripts που χρησιμοποίησα για αυτοματοποίηση της διαδικασίας.(δουλεύουν μόνο locally)
+
+.git/hooks/pre-commit
+
+![pre-commit](https://user-images.githubusercontent.com/56624382/114250945-060cf500-99a8-11eb-9adb-399cd131eb18.png)
+
+.git/hooks/post-commit
+
+![post-commit](https://user-images.githubusercontent.com/56624382/114250961-14f3a780-99a8-11eb-8bb0-830e19576f03.png)
+
+[Το directory των αρχείων που χρησιμοποιήθηκαν](https://github.com/panagiotismouts/online-cv/tree/gh-pages/pdf)
+
+[To PDF του CV](https://github.com/panagiotismouts/online-cv/blob/gh-pages/pdf/index.pdf)
+
+
 #
