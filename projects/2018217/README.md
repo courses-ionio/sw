@@ -110,7 +110,10 @@
 
 #### [7]
 ### Παραδοτέο 7</a>
-### Βιογραφικό Σημείωμα με χρήση Pandoc και Latex
+### Βιογραφικό Σημείωμα
+* [X] Εγκατάσταση του weasyprint
+* [X] Δημιουργία φάκελου pdf για να αποθηκεύεται το αρχείο pdf
+* [X] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιουργία αρχείων pre-commit και post-commit στο .git/hooks
 #### [Asciinema Link 1](https://asciinema.org/a/405033)
 #### [Asciinema Link 2](https://asciinema.org/a/405055)
 #### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
