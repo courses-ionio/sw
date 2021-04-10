@@ -2,6 +2,7 @@
 
 ## Χακί Μάλαϊ
 ## Π2017185
+## p17mala@ionio.gr
 ## [Github](https://github.com/Haki-Malai)
 
 # Παραδοτέα και Τελική αναφορά
