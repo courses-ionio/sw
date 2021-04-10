@@ -82,7 +82,7 @@ Link για το αποθετήριο χρονολογίου:
 
 Τέλος με την εντολή "asciinema rec -i 0.2" ξεκίνησα μια νέα καταγραφή του Terminal. Αυτή τη φορά χρησιμοποίησα εντολές για να στείλω ειδοποιήσεις στην εφαρμογή. Η κίνηση αυτή έγινε με την εντολή "ntfy -b telegram send "My name is Efthimis and this is a test"" και "ntfy -b telegram send "Anyway.. it's getting late.. Good night!"". Ολοκλήρωσα την καταγραφή πατώντας "CTRL + D".
 
-### Ακολουθούν τα link των 2 Asciinema: [Asciinema 1](https://asciinema.org/a/Mi2wNe5K0bNQAyrQGnN0qEda2) , [Asciinema 2](https://asciinema.org/a/mQMHoUDfv5f2dTe6uVhLaEqAU).
+### Ακολουθούν τα link των 2 Asciinema: [Asciinema 1](https://asciinema.org/a/406428) , [Asciinema 2](https://asciinema.org/a/406429).
 
 SCREENSHOTS:
 
