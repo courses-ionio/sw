@@ -83,3 +83,12 @@ Link απο το netlify απο αυτό που πρόσθεσα στην σελ
 
 
 asciinema link: https://asciinema.org/a/405026
+
+
+# Βιογραφικό + PDF 
+**Περιγραφή:**  Για αυτό το παραδοτέο επέλεξα να κάνω το pdf για το βιογραφικό μου με την χρήση του weasyprint.
+
+Βιογραφικό : https://p18vogd.github.io/online-cv/
+
+asciinema : https://asciinema.org/a/406535
+
