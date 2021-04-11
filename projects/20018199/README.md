@@ -60,6 +60,8 @@
 Δεύτερη άσκηση γραμμής εντολών το py-spy και hyperfine [ntfy video](https://asciinema.org/a/405082)
 ### Παραδοτέο 7
 Για να παράξω σε αρχείο pdf την σελίδα του βιογραφικού μου χρησιμοποίησα τα εργαλεία pandoc και pdflatex.
+[Το link απο το directory των αρχείων που χρησιμοποιήθηκαν](https://github.com/polycarpos/online-cv/tree/gh-pages/pdf)
+[pdf του CV](https://github.com/polycarpos/online-cv/blob/gh-pages/pdf/cv.pdf)
 Φωτογραφίες από τα scripts που χρησιμοποίησα:
     
 Αρχείο: .git/hooks/pre-commit
