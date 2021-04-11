@@ -284,7 +284,7 @@ To 1900 ένα ψηφιακό αρχείο ήταν ένα κουτί με κά�
 
 [![new-post.png](https://i.postimg.cc/7Z8fN6FQ/new-post.png)](https://postimg.cc/zV7zzJXn)
 
-Βλέπουμε τις αλλαγές στο netlify https://site-gr.netlify.app/posts/2021/01/11/enarksi-tis-sitisis/αλλά και στο link που έχει γίνει deploy:
+Βλέπουμε τις αλλαγές στο netlify https://site-gr.netlify.app/posts/2021/01/11/enarksi-tis-sitisis/ αλλά και στο link που έχει γίνει deploy:
 
 [![proof-of-post.png](https://i.postimg.cc/XqBYfSQb/proof-of-post.png)](https://postimg.cc/ZvZmmQG7)
 
