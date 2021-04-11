@@ -97,3 +97,7 @@ asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 ![mtqqwarn](https://user-images.githubusercontent.com/44473312/112767898-de21a700-9021-11eb-8284-866b98909e88.png)
 
 ### Παραδοτέο 7
+
+### Παραδοτέο 8
+
+-Άνοιγμα [issue](https://github.com/ioniodi/sitegr/issues/180) για τη δήλωση θέματος.
