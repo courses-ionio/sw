@@ -10,7 +10,7 @@
       <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td></tr>
     <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
     <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td></tr>
-    <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration</a></td></tr>
+    <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration για το βιογραφικό στο  gh-pages</a></td></tr>
     <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td></tr>
     <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td></tr>
     <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td></tr>
