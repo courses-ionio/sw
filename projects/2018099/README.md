@@ -42,6 +42,14 @@
 | [Link Slides "Υπερμέσα"](https://github.com/AlexisTsiranidis/site/blob/2018099/_slides/hypermedia.md) | [Link Timeline "Επιλογές στο γραφικό περιβάλλον"](https://github.com/AlexisTsiranidis/site/blob/2018099/_timeline/gui.md) |
 | --- | --- |
 
+### <a name="Ε7">Bιογραφικό 2</a>
+Για την δημιουργία PDF χρησιμοποιόντας Pandoc και LaTeX ακολούθησα τα εξής βήματα:
+[Asciinema Link](https://asciinema.org/a/406582)
+
+Εξαγώμενο PDF
+| --- |
+| [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/5e03d595cf40fc2d55b7b6788e4cbd3894f15648/cv.pdf) |
+
 
 ### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
