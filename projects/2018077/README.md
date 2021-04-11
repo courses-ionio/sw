@@ -49,6 +49,14 @@
      <td>Αlan Κay - Τuring Αward Lecture</td>
      <td>:heavy_check_mark:</td>
    </tr>
+   <tr>
+     <td>Alan Kay - Invention</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
+   <tr>
+     <td>Jaron Lanier - Intertwingled</td>
+     <td>:heavy_check_mark:</td>
+   </tr>
   
 </table> 
 
@@ -105,11 +113,12 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 **Ο τρόπος που εργάστηκα**: Για αρχή δημιούργησα ένα αρχείο `day.sh` που μέσα στο οποίο τοποθέτησα τις εντολές  
 `curl wttr.in/Corfu.Greece?format=3`  και  `speedtest-cli` ώστε στην αρχή να έρθει η ειδοποίηση για τον καιρό της σημερινής μέρας στην περιοχή μου και έπειτα να γίνει το **speed test**. Η εντολή `speedtest-cli` αργεί λίγο όπως παρατηρούμε από το **GIF** οπότε επέλεξα να προσθέσω ένα ενδιάμεσο μήνυμα που ειδοποιεί για αυτήν την καθυστέρηση. Προτίμησα για τις  κύριες λειτουργίες του αρχείου, δηλαδή **καιρός** και **speed test**, να εμφανίζετε το εικονίδιο στα αριστερά του πάνελ ένα `i (info)`.   
 Στην  συγκεκριμένη άσκηση υπάρχει εκτός από το asciinema και **GIF** επιδίδει τα αποτελέσματα της άσκησης εμφανίζονται στο γραφικό περιβάλλον του υπολογιστή μου.
+ 
  [GIF link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+ 
  asciinema :
   [![asciicast](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2.svg)](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
-
 
 ##
 ## Συμμετοχικό περιεχόμενο HTML5 & Rasberry Pi OS
@@ -133,12 +142,13 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
   
   **Netlify Status badges :** [![Netlify Status](https://api.netlify.com/api/v1/badges/7dd38f91-23c2-4dfd-958a-a1106049f7df/deploy-status)](https://app.netlify.com/sites/affectionate-lewin-ee77b9/deploys)
 
+
 ##
 ## Άσκηση γραμμής εντολών : Static Site with GitHub Pages
 
 Στα πλαίσια της άσκησης *Βιογραφικό Jekyll* δημιούργησα ένα **static site** το οποίο στην αρχή δημιουργήταο με **jekyll** και μετά το κάνω host στο **GitHub Pages**.
-
  [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
+ 
  
  [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
 
@@ -147,7 +157,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 Χρησιμοποίησα το εργαλείο Pandoc για να παράγετε ένα αρχείο .pdf στο οποίο να απεικονίζετε ορθά το περιεχόμενο του βιογραφικού μου. Η μεθοδολογία, *η οποία έχει καταγραφτεί*, είναι η ακόλουθη.\ 
 Στην αρχή, παράγω ένα αρχείο με κατάληξη .pdf με μη αυτοματοποιημένο τρόπο και στην πορεία το κάνω push στο GitHub repo του βιογραφικού. Έπειτα, χρησιμοποιώ GitHub Hooks `post-commit` και `pre-commit` ώστε όταν γίνετε commit μια αλλαγή στο repo να παράγετε αυτόματα το αρχείο pdf και να γίνετε push στο  GitHub repo του βιογραφικού.\
+
 Στο asciinema γίνετε και ένα συγκριτικό μεταξύ του πρώτου cv.pdf που προσαράχθηκε με τον χειροκίνητο τρόπο και του `cv.pdf` που παράχθηκε έπειτα από αλλαγή στο `index.html` αρχείο, αφού έγινε **commit στο GitHub repo του βιογραφικού**.\
+
 Αντιμετώπισα αρκετές δυσκολίες κατά την διεξαγωγή αυτής της άσκησης. Αρχικά προσπαθούσα ανεπιτυχώς να δημιουργήσω ένα νέο αρχείο `cv.pdf` αντλούμενη από το `index.html` και με μεταδομένα το `_data/details.yml`. Στην πορεία, αφού άλλαξα μέθοδο, αντλούσα τα δεδομένα από το https://katerinalaz.github.io/site-cv/. Έπειτα από πολλές δοκιμές κατέληξα στο συμπέρασμα ότι αν πραγματοποιήσω μια αλλαγή στο σε κάποιο αρχείο του βιογραφικού, το GitHub Pages εμφανίζει τις αλλαγές μετά από κάποια δευτερόλεπτα, με αποτέλεσμα το cv.pdf που γινόταν push να μην ήταν ενημερωμένο. Έτσι κατέληξα να αντλώ την πληροφορία από τον σύνδεσμο http://0.0.0.0:4000 ο οποίος χρησιμοποιείται ως **localhost για το jekyll page του βιογραφικού**.
   
 
