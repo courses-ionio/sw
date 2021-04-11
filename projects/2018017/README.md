@@ -12,7 +12,7 @@
 | 4th | [Command-line exercise](#Command-line-exercises) |
 | 5th | [Participatory content](#Participatory-Content) |
 | 6th | [Command-line exercise](#Command-line-exercises) |
-| 7th | CV |
+| 7th | [CV](#CV) |
 | 8th | Pull request @ CSCW website/other project |
 | 9th | Command-line exercise |
 | 10th | Participatory content |
@@ -32,7 +32,9 @@ In that regard, some personal pursuits are set:
 Answers to the weekly quizzes can be found at [this](https://github.com/provopoulos/sw/blob/quizzes-2018017/projects/2018017/README.md) external report.
 ### CV
 Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
-Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).
+Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).<br>
+Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/provopoulos/swcv/commit/54370ec9f1270131191a5df1443295f854c5a5d5).<br>
+CV online @ https://provopoulos.github.io/swcv/.
 
 ### Collaborative-DEV
 #### [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITEGR](https://github.com/ioniodi/sitegr)
