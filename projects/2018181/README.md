@@ -30,7 +30,7 @@ You can check my [CV](https://mariachlkt.github.io/resume-sw/).
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
 </br>
-
+The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf)
 
 ### PR-Site  
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
