@@ -39,6 +39,7 @@
 ### Παραδοτέο 4
 Πρώτη άσκηση γραμμής εντολών το ntfy λειτουργούσε κανονικά όμως μετά από κάποια installs έβγαζε προβλήματα σε κάποια αρχεία που δυστυχώς δεν έχω την γνώση για να τα διορθώσω 
 [ntfy video](https://asciinema.org/a/399405) 
+
 ### Παραδοτέο 5
 ## Παραδοτέα Α1 και Α2
 - <a href="https://github.com/polycarpos/_gallery">Σύνδεσμος αποθετηρίου _gallery</a>
@@ -57,5 +58,12 @@
 - Στον φάκελο _slides, τροποποίησα τα αρχεία [_slides/tools.md](https://github.com/polycarpos/site/commit/6ecb6469f5cbd3d61842acf10cb31fef82757071) έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου,επίσης το όνομα των αρχείων μου iphone.md και keyboard.md είναι ακριβώς ίδιο με αυτο που έγραψα στα αρχεία computer.md και tools.md 
 ### Παραδοτέο 6
 Δεύτερη άσκηση γραμμής εντολών το py-spy και hyperfine [ntfy video](https://asciinema.org/a/405082)
+### Παραδοτέο 7
+Για να παράξω σε αρχείο pdf την σελίδα του βιογραφικού μου χρησιμοποίησα τα εργαλεία pandoc και pdflatex.
+Φωτογραφίες από τα scripts που χρησιμοποίησα:
+    Αρχείο: .git/hooks/pre-commit
+![screen1](https://user-images.githubusercontent.com/56274018/114317373-c7755880-9ad5-11eb-91a1-147844da406d.png)
+    Αρχείο: .git/hooks/post-commit
+![screen2](https://user-images.githubusercontent.com/56274018/114317376-c9d7b280-9ad5-11eb-8f50-68f09d60e66f.png)
 
 
