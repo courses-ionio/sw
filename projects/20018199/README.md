@@ -62,7 +62,7 @@
 Για να παράξω σε αρχείο pdf την σελίδα του βιογραφικού μου χρησιμοποίησα τα εργαλεία pandoc και pdflatex.
 - [Το link απο το directory των αρχείων που χρησιμοποιήθηκαν](https://github.com/polycarpos/online-cv/tree/gh-pages/pdf)
 - [pdf του CV](https://github.com/polycarpos/online-cv/blob/gh-pages/pdf/cv.pdf)
-Φωτογραφίες από τα scripts που χρησιμοποίησα:
+- Φωτογραφίες από τα scripts που χρησιμοποίησα:
     
 Αρχείο: .git/hooks/pre-commit
 
