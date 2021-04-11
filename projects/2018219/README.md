@@ -49,7 +49,7 @@
 &nbsp;&nbsp;
 ## <a name="P4">Παραδοτέο 4</a>
 ### <a href="#P">1η άσκηση γραμμής εντολών - Set-up continuous integration για το βιογραφικό στο  gh-pages</a>
-Αρχικά έκανα κλωνοποίηση του αποθετηρίου μου MyCV από το github τοπικά στον Η/Υ μου. Στη συνέχεια έκανα τροποποιήσεις στα αρχεία `_confgi.yml`, `_data/data.yml` και `_sass/base.scss` συνοδευόμενες από τις αντίστοιχες εντολες "git add" και "git commit" για το καθένα. Τέλος, το ενημέρωσα την "online" σελίδα με τις νέες αυτές αλλαγές με την εντολή "git push".
+Αρχικά έκανα κλωνοποίηση του αποθετηρίου μου MyCV από το github τοπικά στον Η/Υ μου. Στη συνέχεια έκανα τροποποιήσεις στα αρχεία `_confgig.yml`, `_data/data.yml` και `_sass/base.scss` συνοδευόμενες από τις αντίστοιχες εντολες "git add" και "git commit" για το καθένα. Τέλος, το ενημέρωσα την "online" σελίδα με τις νέες αυτές αλλαγές με την εντολή "git push".
    - <a href="https://p18mili1.github.io/MyCV/">Σύνδεσμος github pages site deployment</a>
    - <a href="https://asciinema.org/a/399170">Σύνδεσμος καταγραφής Asciinema</a>
 &nbsp;
