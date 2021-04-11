@@ -61,9 +61,14 @@
 ### Παραδοτέο 7
 Για να παράξω σε αρχείο pdf την σελίδα του βιογραφικού μου χρησιμοποίησα τα εργαλεία pandoc και pdflatex.
 Φωτογραφίες από τα scripts που χρησιμοποίησα:
-    Αρχείο: .git/hooks/pre-commit
+    
+Αρχείο: .git/hooks/pre-commit
+
 ![screen1](https://user-images.githubusercontent.com/56274018/114317373-c7755880-9ad5-11eb-91a1-147844da406d.png)
-    Αρχείο: .git/hooks/post-commit
+   
+   
+Αρχείο: .git/hooks/post-commit
+
 ![screen2](https://user-images.githubusercontent.com/56274018/114317376-c9d7b280-9ad5-11eb-8f50-68f09d60e66f.png)
 
 
