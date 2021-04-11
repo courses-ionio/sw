@@ -13,7 +13,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |
 | 5 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
 | 6 | Άσκηση γραμμής εντολών |
-| 7 | βιογραφικό |
+| 7 | [βιογραφικό](#βιογραφικό) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -132,3 +132,12 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
   * Χρονολόγιο GitHub : [html5 timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/programming.md) , [raspbery pi os timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/systems.md)
   
   **Netlify Status badges :** [![Netlify Status](https://api.netlify.com/api/v1/badges/7dd38f91-23c2-4dfd-958a-a1106049f7df/deploy-status)](https://app.netlify.com/sites/affectionate-lewin-ee77b9/deploys)
+
+##
+##
+[![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
+
+##
+## βιογραφικό
+
+[![asciicast](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt.svg)](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
