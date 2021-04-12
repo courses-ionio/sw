@@ -20,7 +20,7 @@
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
 
- <table style="width: auto; float: right;">
+ <table style=" float: right;">
    <tr>
      <th> Εβδομαδιαίο βίντεο κουίζ </th>
      <th> :heavy_check_mark: OR :x: </th>
