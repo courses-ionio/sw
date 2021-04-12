@@ -21,16 +21,17 @@
 | 12 | Τελική αναφορά |
 
 
-|Εβδομαδιαίο βίντεο κουίζ|:heavy_check_mark: OR :x:|
-| --- | --- |
-|Alan Kay - at MIT EECS|:heavy_check_mark:|
-|Τed Νelson - Computers for Cynics|:heavy_check_mark:|
-|Alan Kay - Computing Simply|:heavy_check_mark:|
-|Bret Victor - The Future of Programming|:heavy_check_mark:|
-|Alan Kay - Programming|:heavy_check_mark:|
-|Αlan Κay - Τuring Αward Lecture|:heavy_check_mark:|
-|Alan Kay - Invention|:heavy_check_mark:|
-|Jaron Lanier - Intertwingled |:heavy_check_mark:|
+|Εβδομαδιαίο βίντεο κουίζ|:heavy_check_mark: OR :x:| |
+| --- | --- | --- |
+|Alan Kay - at MIT EECS|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Τed Νelson - Computers for Cynics|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Alan Kay - Computing Simply|:heavy_check_mark:| Απάντηση στο README |
+|Bret Victor - The Future of Programming|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Alan Kay - Programming|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Αlan Κay - Τuring Αward Lecture|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Alan Kay - Invention|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Jaron Lanier - Intertwingled |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Alan Kay - Scaling |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 
 ##
 ## Στόχοι
