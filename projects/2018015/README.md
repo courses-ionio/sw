@@ -41,7 +41,6 @@
 
 Για αυτό το παραδοτέο, έκανα fork του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
-[🔼 Go Up](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
 
 
 ## 👽Παραδοτέο 2 - Βιογραφικό.
@@ -58,6 +57,7 @@
  Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
  
  
+
 ## 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
 ## Α1                                                                                                              
 ### Εικόνα 1: Razer Mouse
@@ -76,6 +76,8 @@ Link για το αποθετήριο διαφανιών:
 Link για το αποθετήριο χρονολογίου:
 - [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)
 - [Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)
+
+
 
 ## 👽Παραδοτέο 6 - Άσκηση γραμμής εντολών.
 Για το παραδοτέο αυτό, χρησιμοποίησα ένα Ubuntu VM. Στο Terminal έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ "sudo pip3 install ntfy[telegram]". Έπειτα εκτέλεσα την εντολή  "asciinema rec -i 0.2" για την έναρξη καταγραφής του Terminal και με την εντολή "ntfy send "Hello"", εμφανίστηκε στην επιφάνεια η ειδοποίηση. Στη συνέχεια χρησιμοποίησα την εντολή "ntfy done sleep 5", όπου ουσιαστικά ρυθμίζει έναν μετρητή για 5 δευτερόλεπτα εμφανίζοντας την αντίστοιχη ειδοποίηση, και πατώντας "CTRL + D" ολοκλήρωσα την καταγραφή του Terminal μου.
