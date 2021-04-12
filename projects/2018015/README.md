@@ -95,6 +95,7 @@ SCREENSHOTS:
 ![BOT_FATHER_50_1_503x1064](https://user-images.githubusercontent.com/72924808/112397058-fd5ec280-8d09-11eb-9606-b70a930232b4.jpg)
 ![BOT_50_3_503x1064](https://user-images.githubusercontent.com/72924808/112397064-0059b300-8d0a-11eb-9ad3-30c7dcc62521.jpg)
 
+### [🔼 Go Up](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
 
 
  
@@ -224,6 +225,8 @@ SCREENSHOTS:
 4. #### Ποιες είναι οι βασικές συνεισφορές του Ted Nelson στην τεχνολογία σύμφωνα με τον Jaron Lanier και πως διαφέρουν από την τεχνολογία που έχουμε τώρα;
 
    Ο Ted Nelson συνείσφερε στη διαφορά μεταξύ της υποθετικής και της εξουσιοδοτημένης πρόσβασης πληροφοριών. Παραθέτει το παράδειγμα εξάλειψης ρόλων εξαιτίας των μηχανών, όπως      στην περίπτωση των μεταφραστών. Τέλος αναφέρει πως κάθε μορφή τεχνητής νοημοσύνης αποτελεί τελικά μια μορφή αποδυνάμωσης του ανθρώπινου εγκεφάλου.
+   
+### [🔼 Go Up](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
 
 
    
