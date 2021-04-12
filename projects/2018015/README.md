@@ -1,7 +1,8 @@
-# Αναφορά εργασίας
-
+# Αναφορά εργασίας 
 
 ## Προσωπικά στοιχεία
+
+   <img src="https://github.com/Efthimis015/use-dark-mode/blob/develop/circle-cropped%20(1).png" width="75"/>
 
 #### *Ονοματεπώνυμο:* Τζιάλλας Ευθύμιος 
 
