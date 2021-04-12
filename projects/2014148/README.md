@@ -1,3 +1,4 @@
+
 # ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 * Ονοματεπώνυμο: Γεώργιος Ντότσιος
 * Α.Μ.: Π2014148
@@ -105,7 +106,7 @@ link asciinema:  https://asciinema.org/a/406670
 
 ![20210412_191259](https://user-images.githubusercontent.com/17181841/114428788-4e552e80-9bc5-11eb-9819-c55d801072ad.gif)
 
-
+![173168289_459886521944763_7166537822128737180_n](https://user-images.githubusercontent.com/17181841/114430667-5ada8680-9bc7-11eb-8cd4-fb54e2fb12d9.png)
 
 
 
