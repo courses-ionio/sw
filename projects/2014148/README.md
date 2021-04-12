@@ -103,6 +103,11 @@ link απο την ανακοίνωση στο site:
 
 link asciinema:  https://asciinema.org/a/406670
 
+![20210412_191259](https://user-images.githubusercontent.com/17181841/114428788-4e552e80-9bc5-11eb-9819-c55d801072ad.gif)
+![172561093_157335272957167_4676957195780230493_n](https://user-images.githubusercontent.com/17181841/114429039-97a57e00-9bc5-11eb-8ca4-cfb0bf938b79.png)
+
+
+
 
 # Εβδομάδα 8
 
