@@ -3,10 +3,10 @@
 <h2> Ονοματεπώνυμο : Λάζατη Αικατερίνη - Μαρία</h2>
 <h2> ΑΜ : Π2018077</h2>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Εβδομάδα | Παραδοτέο |
-| --- | --- |
+| Εβδομάδα | Παραδοτέο |                                                                                                           
+| --- | --- |                                                                                                                        
 | 1 | [Στόχοι](#Στόχοι) |
 | 2 | [Βιογραφικό Jekyll](#Βιογραφικό-Jekyll) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |        
@@ -20,45 +20,17 @@
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
 
- <table style=" float: right;">
-   <tr>
-     <th> Εβδομαδιαίο βίντεο κουίζ </th>
-     <th> :heavy_check_mark: OR :x: </th>
-   </tr>
-   <tr>
-     <td>Alan Kay - at MIT EECS</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Τed Νelson - Computers for Cynics</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Alan Kay - Computing Simply</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Bret Victor - The Future of Programming</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Alan Kay - Programming</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Αlan Κay - Τuring Αward Lecture</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Alan Kay - Invention</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-   <tr>
-     <td>Jaron Lanier - Intertwingled</td>
-     <td>:heavy_check_mark:</td>
-   </tr>
-  
-</table> 
+
+|Εβδομαδιαίο βίντεο κουίζ|:heavy_check_mark: OR :x:|
+| --- | --- |
+|Alan Kay - at MIT EECS|:heavy_check_mark:|
+|Τed Νelson - Computers for Cynics|:heavy_check_mark:|
+|Alan Kay - Computing Simply|:heavy_check_mark:|
+|Bret Victor - The Future of Programming|:heavy_check_mark:|
+|Alan Kay - Programming|:heavy_check_mark:|
+|Αlan Κay - Τuring Αward Lecture|:heavy_check_mark:|
+|Alan Kay - Invention|:heavy_check_mark:|
+|Jaron Lanier - Intertwingled |:heavy_check_mark:|
 
 ##
 ## Στόχοι
