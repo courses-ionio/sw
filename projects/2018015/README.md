@@ -47,14 +47,19 @@
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
 
-Το link για την ιστοσελίδα βρίσκεται [εδώ](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook).
+Link για την [ιστοσελίδα](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook).
 
 
 
 ## 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
  Αίτημα ενσωμάτωσης στην ιστοσελίδα:
  
- Το link για το issue βρίσκεται [εδώ](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
+ Link για το [issue](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
+ 
+ Link για το [pull request](https://github.com/ioniodi/sitegr/pull/121)
+ 
+ Link για την προβολή της [ανακοίνωσης](https://epic-hamilton-da9ac8.netlify.app/posts/2021/01/21/prosklhsh-ekdhlwshs-endiaferontos/)
+ 
  
  
 
