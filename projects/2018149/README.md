@@ -13,7 +13,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο](#5-συμμετοχικό-περιεχόμενο) |
 | 6 | [Άσκηση γραμμής εντολών](#6-άσκηση-γραμμής-εντολών) |
 | 7 | [βιογραφικό](#7-βιογραφικό) |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
@@ -81,6 +81,8 @@
 - [Προσθήκη της ανακοίνωσης "Κυκλοφόρησε το πρώτο τεύχος του ηλεκτρονικού ενημερωτικού δελτίου ionio" που δημοσιεύτηκε στις 09-02-2021 ώρα 10:52 #156](https://github.com/ioniodi/sitegr/pull/156)
 - [Προσθήκη μαθήματος "Εφαρμοσμένος Προγραμματισμός με Python" #126](https://github.com/ioniodi/sitegr/pull/126)
 - [Βελτιστοποίηση της SCSS του footer #177](https://github.com/ioniodi/sitegr/issues/177)
+- [Δημιουργία δυνατότητας προσθήκης zoom link στα profile κάθε εκπαιδευτικού της σχολής #181](https://github.com/ioniodi/sitegr/issues/181)
+- [Προσθήκη "Back to Top" Button #188](https://github.com/ioniodi/sitegr/issues/188)
 
 ## 4. Άσκηση γραμμής εντολών
 
@@ -138,3 +140,6 @@ Link του deployment μου: https://dimpram-pibook.netlify.app/
 - [[dimpram/cv](https://github.com/dimpram/cv)]
 - [[dimpram/academic-cv-jekyll](https://github.com/dimpram/academic-cv-jekyll)]
 - http://cv.dimitrisprama.com
+
+
+## 8. Αίτημα ενσωμάτωσης στην ιστοσελίδα
