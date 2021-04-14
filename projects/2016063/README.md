@@ -43,7 +43,7 @@ Link του Pull Request: https://github.com/ioniodi/sitegr/pull/171
 
 ## Παραδοτέο 4
 
-1η Άσκηση Γραμμής Εντολών: Send notifications to your dekstop mobile
+### 1η Άσκηση Γραμμής Εντολών: Send notifications to your dekstop mobile
 
 Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
 
@@ -60,11 +60,19 @@ Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
 
 Εγκατεστησα στο κινητο το telegram και δημιουργησα μεσω της εφαρμογης ενα bot με ονομα Alexandriano και παραθετοντας τον καταλληλο κωδικο τα συνδεσα μεταξυ τους.
 
+![2021-04-14 (3)](https://user-images.githubusercontent.com/72922731/114713461-cfcdcd80-9d39-11eb-86c1-5f0613a8b498.png)
+
+![2021-04-14 (5)](https://user-images.githubusercontent.com/72922731/114713583-f429aa00-9d39-11eb-866a-9d8a1b04d58b.png)
+
+
 Χρησιμοποιησα την εντολη ntfy send "Hello" για να εμφινοζονται οι ειδοποιησεις στο Desktop 
 
 ![Screenshot from 2021-04-14 15-00-52](https://user-images.githubusercontent.com/72922731/114712893-43230f80-9d39-11eb-985c-2a1913de8163.png)
 
 και αντιστοιχα την εντολη ntfy -b telegram send "What's up?" για να εμφινοζονται οι ειδοποιησεις στην εφαρμογη 
+
+![2021-04-14 (2)](https://user-images.githubusercontent.com/72922731/114713703-0c99c480-9d3a-11eb-8b92-13432c715e8f.png)
+
 
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
