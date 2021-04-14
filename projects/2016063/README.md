@@ -8,7 +8,7 @@
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](#Παραδοτέο-1) |
 | 2 | [Βιογραφικό με χρηση Jekyll](#Παραδοτέο-2) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) |
-| 4 | Άσκηση γραμμής εντολών |
+| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |
 | 5 | Συμμετοχικό περιεχόμενο |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
@@ -40,6 +40,32 @@ Link της ανακοίνωσης στο Netlify: https://deploy-preview-171--e
 Link του Issue: https://github.com/ioniodi/sitegr/issues/40
 
 Link του Pull Request: https://github.com/ioniodi/sitegr/pull/171
+
+## Παραδοτέο 4
+
+1η Άσκηση Γραμμής Εντολών: Send notifications to your dekstop mobile
+
+Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
+
+Για αρχη εγκατεστησα το ntfy με τις παρακατω εντολες:
+
+1) sudo apt-get install python3-pip
+2) sudo pip3 install ntfy
+
+Στην συνεχεια χρησιμοποιησα το telegram και με την εντολη "pip3 install ntfy[telegram]" εγκατεστησα τα απαραιτητα πακετα.
+
+
+<a href="https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3" target="_blank"><img src="https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3.svg" /></a>
+
+
+Εγκατεστησα στο κινητο το telegram και δημιουργησα μεσω της εφαρμογης ενα bot με ονομα Alexandriano και παραθετοντας τον καταλληλο κωδικο τα συνδεσα μεταξυ τους.
+
+Χρησιμοποιησα την εντολη ntfy send "Hello" για να εμφινοζονται οι ειδοποιησεις στο Desktop 
+
+![Screenshot from 2021-04-14 15-00-52](https://user-images.githubusercontent.com/72922731/114712893-43230f80-9d39-11eb-985c-2a1913de8163.png)
+
+και αντιστοιχα την εντολη ntfy -b telegram send "What's up?" για να εμφινοζονται οι ειδοποιησεις στην εφαρμογη 
+
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
 
