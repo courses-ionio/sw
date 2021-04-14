@@ -65,11 +65,11 @@ Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
 ![2021-04-14 (5)](https://user-images.githubusercontent.com/72922731/114713583-f429aa00-9d39-11eb-866a-9d8a1b04d58b.png)
 
 
-Χρησιμοποιησα την εντολη ntfy send "Hello" για να εμφινοζονται οι ειδοποιησεις στο Desktop 
+Χρησιμοποιησα την εντολη ntfy send "Hello" και οπως φαινεται απο την εικονα παρακατω εμφανιζει την συγκεκριμενη ειδοποιηση στο Desktop 
 
 ![Screenshot from 2021-04-14 15-00-52](https://user-images.githubusercontent.com/72922731/114712893-43230f80-9d39-11eb-985c-2a1913de8163.png)
 
-και αντιστοιχα την εντολη ntfy -b telegram send "What's up?" για να εμφινοζονται οι ειδοποιησεις στην εφαρμογη 
+και αντιστοιχα την εντολη ntfy -b telegram send "What's up?" η οποια εμφανιζει το μηνυμα "What's up?" στην εφαρμογη στο κινητο 
 
 ![2021-04-14 (2)](https://user-images.githubusercontent.com/72922731/114713703-0c99c480-9d3a-11eb-8b92-13432c715e8f.png)
 
