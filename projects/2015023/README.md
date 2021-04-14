@@ -3,7 +3,7 @@
 - **Ονοματεπώνυμο**: *Τουλουμτζής Νικήτας*
 - **Αριθμός Μητρώου**: *Π2015023*
 - **My Github Profile**: ***[ntouloumtzis](https://github.com/ntouloumtzis)***
-
+- **Academic Email**: ***p15toul@ionio.gr***
 ---
 ## *Πίνακας Περιεχομένων*
 
@@ -17,7 +17,7 @@
 | 6   | <a href="#P-6"> Άσκηση γραμμής εντολών</a> |
 | 7   | <a href="#P-7"> Bιογραφικό</a> |
 | 8   | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9   | Άσκηση γραμμής εντολών |
+| 9   | <a href="#P-9"> Άσκηση γραμμής εντολών</a> |
 | 10  | Συμμετοχικό περιεχόμενο |
 | 11  | Άσκηση γραμμής εντολών |
 | 12  | Τελική αναφορά* |
@@ -59,7 +59,8 @@
 - [Pull Request](https://github.com/ioniodi/sitegr/pull/92)
 
 ---
-## <a name="P-4">*Άσκηση γραμμής εντολών*</a>
+## *Ασκήσεις Γραμμής Εντολών*
+### <a name="P-4">*1<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 4η):*</a>
 *Η πρώτη άσκηση επιλέχθηκε από τα θέματα του **[software](https://github.com/epidrome/dokey#software)***
 
 **Assignment**: *send notifications to your desktop-mobile*
@@ -114,23 +115,7 @@ chmod +x updates.sh
 - Τo link για το asciinema: **[asciinema](https://asciinema.org/a/398698)**
 - To screenshot για το task notification: **[telegram](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/ntfy-images/telegram-notification.png)**
 
----
-## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a>
-- Όλη η διαδικασία προσθήκης του συμμετοχικού περιεχομένου βρίσκεται στο **[asciinema](https://asciinema.org/a/400994)**
-
-Παρακάτω βρίσκονται οι σύνδεσμοι για το ***forked repository site***, και τα ***submodules gallery & images***, μαζί με τα ***τροποποιημένα αρχεία***, αντίστοιχα.
-
-Το ***forked repository site*** & τα ***τελικά τροποποιημένα αρχεία***:
-- **[site repository](https://github.com/ntouloumtzis/site)** & **[changed files](https://github.com/ntouloumtzis/site/commit/9da5f1ef017f4932ffdf5b159f138eb51c0ecaf2)**
-
-Το ***forked gallery submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
-- **[gallery submodule](https://github.com/ntouloumtzis/_gallery)** & **[changed files](https://github.com/ntouloumtzis/_gallery/commit/f98f1e05bf3b29b7273be635ce452a7ad94e8dfc)**
-
-Το ***forked images submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
-- **[images submodule](https://github.com/ntouloumtzis/images)** & **[changed files](https://github.com/ntouloumtzis/images/commit/cc3aeeb08e954eb494dcd29eac8623654e57e3cc)**
-
----
-## <a name="P-6">*Άσκηση γραμμής εντολών*</a>
+### <a name="P-6">*2<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 6η):*</a>
 *Η δεύτερη άσκηση γραμμής εντολών επιλέχθηκε από τα θέματα του ***[software](https://github.com/epidrome/dokey#software)****
 
 **Assignment**: *Performance monitoring*
@@ -207,3 +192,71 @@ py-spy record -f speedscope -o your_filename.json -- python3 your_filename.py 10
 py-spy top -- python3 bubble_sort.py 10000
 ```
 Τα βήματα της διαδικασίας από το τερματικό καταγράφονται εδώ: ***[asciinema](https://asciinema.org/a/402686)***
+
+### <a name="P-9">*3<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 9η):*</a>
+*Η τρίτη άσκηση επιλέχθηκε από τα θέματα του **[software](https://github.com/epidrome/dokey#software)***
+
+**Assignment**: *create notifications on your server*
+
+**Deliverables**: *send notifications on important server events*
+
+Αρχικά, δημιούργησα ένα **[Slack λογαριασμό](https://slack.com/intl/en-gr/)**, καθώς και ένα workspace με ένα channel, που ονόμασα `mqtt-notifications`. Έπειτα, δημιούργησα και ένα app μέσω του **[Slack API](https://api.slack.com/apps)**, με όνομα `my-sw-notif-app` και επέλεξα να συνδεθεί με αυτό το channel και να κοινοποιεί σ'αυτό, ενεργοποιώντας τα ***Incoming Webhooks***. Έτσι, το Slack μου παρέχει ένα παράδειγμα `curl`, καθώς και το URL του Webhook, που αυτά θα είναι χρήσιμα, στην συνέχεια. Τέλος, στο τέλος του παραδοτέου παρέχονται δύο asciinema links, όπου εξηγείται και ο λόγος παρακάτω, γιατί παρέχω δύο.
+
+- Προαπαιτούμενα:
+```bash
+sudo apt install curl
+sudo apt-get install mosquitto
+sudo apt-get install mosquitto-clients
+pip3 install --upgrade mqttwarn
+```
+
+- Με τη παρακάτω `curl` εντολή, στέλνουμε ειδοποίηση στο Slack, βάζoντας το προσωπικό μας Webhook URL.
+```bash
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/____/____/____
+```
+
+Έπειτα, δούλεψα στο αποθετήριο του βιογραφικού μου από τα προηγούμενα παραδοτέα και κάθε φορά που κάνω commit σ'αυτό, στέλνει σχετική ειδοποίηση στο Slack, με το επιθυμητό μήνυμα. Έτσι, δούλεψα με τα προηγούμενα Hooks του βιογραφικού (post-commit αρχείο), βάζοντας τον παρακάτω κώδικα σ'αυτό (βάζοντας το δικό μου Webhook URL), όπου `$hash` εννοείται το key, δηλαδή το όνομα της μεταβλητής (μια τυχαία τιμή) και `$msg` το μήνυμα που θέλουμε να στέλνει, καθώς και κώδικα, ώστε να επιβεβαιώνω ότι τρέχει το Jekyll. *Όλα αυτά φαίνονται και αναλυτικότερα στο asciinema*.
+```bash
+hash=$(git rev-parse --short HEAD)
+msg=$(git log -1 --pretty=%B)
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Last CV commit ('$hash'): '"$msg"'"}' https://hooks.slack.com/services/___/___/___
+
+if ! lsof -i:4000
+then
+  echo Starting Jekyll
+  bundle exec jekyll serve --host 0.0.0.0 &
+else
+  echo Jekyll running on 4000
+fi
+```
+
+Έχοντας εγκαταστήσει το `mosquitto`, όπως και τους αντίστοιχους **clients**, έλεγξα αν στέλνονται μηνύματα και, έπειτα προχώρησα στην εγκατάσταση του `mqttwarn`. Από εδώ και πέρα, πρόσθεσα κώδικα στο config αρχείο `mqttwarn.ini` και αρχείο `http.py`, ώστε να λειτουργεί ορθά. Αντιμετώπισα διάφορα σφάλματα, γι'αυτό και έγιναν οι απαραίτητες τροποποιήσεις σ'αυτά τα αρχεία. Για να γίνουν όλα αυτά, χρειάστηκε να ανοίξω 2ο τερματικό, ώστε να παρακολουθώ τα logging μηνύματα, σε περίπτωση σφαλμάτων. Τα σφάλματα που εμφανίζονται είναι τα παρακάτω και φαίνονται ξεκάθαρα στο 2ο asciinema, τι πήγε λάθος και αν λύθηκε στην συνέχεια.
+```bash
+'Request' object has no attribute 'add_data'
+```
+- Οφείλεται στο ότι χρειάζεται τροποποίηση στο αρχείο http.py, το οποίο και επιλύω.
+```
+HTTP Error 400: Bad Request
+```
+- Οφείλεται στην μορφοποίηση των Slack μηνυμάτων, έτσι και έστειλα την απαιτούμενη μορφοποίηση που δέχεται το Slack (Στο 2ο asciinema δεν φαίνεται το συγκεκριμένο, καθώς λύθηκε πριν την εγγραφή). Αντί για `mosquitto_pub -m "your_message" -t "notifications"`, πρέπει να το στέλνω σε αυτή τη μορφή `mosquitto_pub -m '{"text":"your_message"}' -t "notifications"`. 
+
+Παρακάτω, βρίσκονται τα απαραίτητα links.
+
+- To 1o τερματικό, με όλα τα αναλυτικά στάδια που ακολούθησα: **[asciinema](https://asciinema.org/a/407274)**
+- Το 2ο τερματικό, για τη παρακολούθηση του logging: **[asciinema](https://asciinema.org/a/407275)**
+- Τα μηνύματα που στάλθηκαν στο Slack: **[mqttwarn-messages]()**
+
+---
+## <a name="P-5">*Συμμετοχικό περιεχόμενο*</a>
+- Όλη η διαδικασία προσθήκης του συμμετοχικού περιεχομένου βρίσκεται στο **[asciinema](https://asciinema.org/a/400994)**
+
+Παρακάτω βρίσκονται οι σύνδεσμοι για το ***forked repository site***, και τα ***submodules gallery & images***, μαζί με τα ***τροποποιημένα αρχεία***, αντίστοιχα.
+
+Το ***forked repository site*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[site repository](https://github.com/ntouloumtzis/site)** & **[changed files](https://github.com/ntouloumtzis/site/commit/9da5f1ef017f4932ffdf5b159f138eb51c0ecaf2)**
+
+Το ***forked gallery submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[gallery submodule](https://github.com/ntouloumtzis/_gallery)** & **[changed files](https://github.com/ntouloumtzis/_gallery/commit/f98f1e05bf3b29b7273be635ce452a7ad94e8dfc)**
+
+Το ***forked images submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
+- **[images submodule](https://github.com/ntouloumtzis/images)** & **[changed files](https://github.com/ntouloumtzis/images/commit/cc3aeeb08e954eb494dcd29eac8623654e57e3cc)**
