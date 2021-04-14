@@ -247,7 +247,7 @@ HTTP Error 400: Bad Request
 
 - To 1o τερματικό, με όλα τα αναλυτικά στάδια που ακολούθησα: **[asciinema](https://asciinema.org/a/407274)**
 - Το 2ο τερματικό, για τη παρακολούθηση του logging: **[asciinema](https://asciinema.org/a/407275)**
-- Τα μηνύματα που στάλθηκαν στο Slack: **[mqttwarn-messages]()**
+- Τα μηνύματα που στάλθηκαν στο Slack: **[mqttwarn-messages](https://github.com/ntouloumtzis/sw/blob/2015023/projects/2015023/mqttwarn-results.png)**
 
 ---
 # *Συμμετοχικό Περιεχόμενο*
