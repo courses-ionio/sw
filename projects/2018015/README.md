@@ -16,18 +16,18 @@
 
 | Εβδομάδα | Παραδοτέο | Βίντεο Quiz |
 | --- | --- | --- |
-| 1 | [Φορκ του αποθετηρίου](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1---%CF%86%CE%BF%CF%81%CE%BA-%CF%84%CE%BF%CF%85-%CE%B1%CF%80%CE%BF%CE%B8%CE%B5%CF%84%CE%B7%CF%81%CE%AF%CE%BF%CF%85)  |  [:one:]()  |
-| 2 | [Βιογραφικό](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2---%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [:two:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz2%EF%B8%8F%E2%83%A3) |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3----%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [:three:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz3%EF%B8%8F%E2%83%A3) |
-| 4 | [Άσκηση γραμμής εντολών]() | [:four:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz4%EF%B8%8F%E2%83%A3) |
-| 5 | [Συμμετοχικό περιεχόμενο](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF) | [:five:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz5%EF%B8%8F%E2%83%A3) |
-| 6 | [Άσκηση γραμμής εντολών](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [:six:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz6%EF%B8%8F%E2%83%A3) |
-| 7 | [Βιογραφικό]() | [:seven:]() | 
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα]() | [:eight:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz8%EF%B8%8F%E2%83%A3) |
-| 9 | [Άσκηση γραμμής εντολών]() | [:nine:]() |
-| 10 | [Συμμετοχικό περιεχόμενο]() | [:keycap_ten:]() |
-| 11 | [Άσκηση γραμμής εντολών]() | [:one::one:]() |
-| 12 | [Τελική αναφορά]() | [:one::two:]() |
+| 1 | **[Φορκ του αποθετηρίου](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1---%CF%86%CE%BF%CF%81%CE%BA-%CF%84%CE%BF%CF%85-%CE%B1%CF%80%CE%BF%CE%B8%CE%B5%CF%84%CE%B7%CF%81%CE%AF%CE%BF%CF%85)**  |  [:one:]()  |
+| 2 | **[Βιογραφικό](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2---%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C)** | [:two:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz2%EF%B8%8F%E2%83%A3) |
+| 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3----%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1)** | [:three:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz3%EF%B8%8F%E2%83%A3) |
+| 4 | **[Άσκηση γραμμής εντολών]()** | [:four:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz4%EF%B8%8F%E2%83%A3) |
+| 5 | **[Συμμετοχικό περιεχόμενο](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF)** | [:five:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz5%EF%B8%8F%E2%83%A3) |
+| 6 | **[Άσκηση γραμμής εντολών](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)** | [:six:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz6%EF%B8%8F%E2%83%A3) |
+| 7 | **[Βιογραφικό]()** | [:seven:]() | 
+| 8 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα]()** | [:eight:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz8%EF%B8%8F%E2%83%A3) |
+| 9 | **[Άσκηση γραμμής εντολών]()** | [:nine:]() |
+| 10 | **[Συμμετοχικό περιεχόμενο]()** | [:keycap_ten:]() |
+| 11 | **[Άσκηση γραμμής εντολών]()** | [:one::one:]() |
+| 12 | **[Τελική αναφορά]()** | [:one::two:]() |
 
 
 
