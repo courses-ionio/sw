@@ -10,10 +10,10 @@
 | --- | --- | --- |
 | 1 | [Intro](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Υποβολή μέσω της εφαρμογής |
 | 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
-| 3 | [Ionian University Site PR](#pull-request-1) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week3.md) |
+| 3 | [Ionian University Site PR](#pull-request-1) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week3.md) |
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
 | 5 | [Collaborative Work #1](#collaborative-work-pibook-1) | Υποβολή μέσω εφαρμογής
-| 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/video-quiz/week6.md)
+| 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week6.md)
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
