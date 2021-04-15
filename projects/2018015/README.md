@@ -66,9 +66,9 @@ Link για την **[ιστοσελίδα](https://efthimis015.github.io/online
  
  Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν όπως για παράδειγμα "**sudo apt-get install mosquitto**" & "**sudo apt-get mosquitto-clients**". Έπειτα εκτέλεσα την εντολή "**asciinema rec -i 0.2**" με σκοπό την καταγραφή των τερματικών μου. Στη συνέχεια με την εντολή "**mosquitto**" ξεκίνησε η διαδικασία. Αμέσως μετά από αυτό με την εντολή "**mosquitto_sub -h localhost -t test**" έγινε η εγγραφή σε ένα **Topic(t)**, το οποίο ονόμασα "**test**". Έπειτα συνεχίζω την διαδικασία ανοίγοντας ένα δεύτερο **Terminal** και πληκτρολογώντας την εντολή "**mosquitto_pub -h localhost -t test -m "Hello, im writing this test from a second terminal. The asciinema record of the other terminal is in the link below this recording. :)**"" κατάφερα να επικοινωνήσω με το άλλο **Terminal** ολοκληρώνοντας έτσι την διαδικασία. Ακολουθούν τα αντίστοιχα **asccinema** με τις καταγεγραμμένες εντολές.
  
-[**Asciinema 1**](https://asciinema.org/a/XcVJQZpF9RjsksFNAz4fZXmGC)
+### [**Asciinema 1**](https://asciinema.org/a/XcVJQZpF9RjsksFNAz4fZXmGC)
 
-[**Asciinema 2**](https://asciinema.org/a/407524)
+### [**Asciinema 2**](https://asciinema.org/a/407524)
  
  
  
