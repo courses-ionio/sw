@@ -2,7 +2,7 @@
 
 <h3 align= left>  Θεοχάρης Παναγιώτης Χαραλαμπίδης && ΑΜ : Π2018127 </h3>
 
-[<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/gh-pride.png" width="50"/>](https://github.com/runtheorun-exe)   [<img src="https://raw.githubusercontent.com/runtheorun-exe/sw/2018127/projects/2018127/ignoreme/mailto.png" width="50"/>](mailto:p18char@ionio.gr)
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/gh-pride.png" width="50"/>](https://github.com/runtheorun-exe)   [<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/mailto.png" width="50"/>](mailto:p18char@ionio.gr)
 
 
 
@@ -38,7 +38,7 @@
 The CV website can be found [here](https://runtheorun-exe.github.io/online-cv/) and its repo [here](https://github.com/runtheorun-exe/online-cv).
 Currently it is static, and hosted by gh-pages. It is "dressed" by a modified skin provided by the cv [template](https://github.com/sharu725/online-cv) I used. 
 
-[<img src="https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/ignoreme/cv.png" title="click me! i don't bite(much)"  width="400"/>](https://runtheorun-exe.github.io/online-cv)
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/cv.png" title="click me! i don't bite(much)"  width="400"/>](https://runtheorun-exe.github.io/online-cv)
 
 You can probably see why anything seen here might change in the future. Next steps regarding this assignment would be a PDF conversion and potentially setting up continuous integration? Or just a redesign of the template used. 
 
@@ -55,7 +55,10 @@ ntfy offers shell integration and a variety of 3rd party apps one can use to rec
 I was stubborn enough to push ahead with PushBullet (even though I had been made aware of the fact that Telegram is far more simple). The problem was there seemed to be no clear guidance as to how to tell ntfy the API key I issued from PushBullet. I messed with so many different things settings and files, and 2 virtual boxes and a subsystem ended up being nerfed because I was never able to perform a fresh install of ntfy (and reset the files I had screwed up trying to connect to PushBullet). 
 Days later, this cutie appeared:
 
-<img src="https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/ntfy/greetings.gif/" width="400"/>
+<img src="https://github.com/runtheorun-exe/swfiles/blob/main/greetings.gif" width="400"/>
+
+Later, after some bashrc magic (aka shell integration for ntfy by appending "$(ntfy shell-integration)" to the .bashrc file) we can be notified when a long-running task has been completed, as seen here:
+<img src="https://github.com/runtheorun-exe/swfiles/blob/main/sudoaptget.gif" width="400"/>
 
 An asciicast documenting the installation process is also available:
 
