@@ -14,7 +14,7 @@
 | 6 | <a href="#P-6">Άσκηση γραμμής εντολών</a> |
 | 7 | <a href="#P-7">Βιογραφικό</a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | <a href="#P-9">Άσκηση γραμμής εντολών</a> |
 | 10 | Συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -119,3 +119,22 @@
 - Link asciinema: https://asciinema.org/a/404946
 - Link ιστοσελίδας: https://vxsilis.github.io/cv-1/
 - Link repo: https://github.com/vxsilis/cv-1
+
+---
+## <a name="P-9">Παραδοτέο 9 - ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ:</a>
+
+Για το 9ο παραδοτέο αποφάσισα να κάνω το "Create an agent for news" με την βοήθεια του [huginn](https://github.com/huginn/huginn) απλώς με μία παραλλαγή. Πρώτα έφτιαξα έναν agent ο οποίος μέσω ένος API key απο το site https://openweathermap.org τραβάει το καιρό και την θερμοκρασία κάθε ώρα για την Κέρκυρα. Το αποτέλεσμα που επιστέφει είναι σε μόρφη JSON και δείχνει κάπως [έτσι](https://github.com/vxsilis/huginn_t/blob/main/images/API_Key.png). Έπειτα έφτιαξα έναν δεύτερο agent ο οποίος έχει ως source τον προηγούμενο agent και επεξεργάζεται τα δεδομένα σε μορφή που διαβάζονται και έπειτα τα στέλνει στον slack server μου. Παρακάτω έχω μερικά screenshot από το hugin agent, τους κώδικες json που χρησιμοποίσησα στους agent όπως και στιγμιότυπο του αποτελέσματος στο slack server, αφού το συγκεκριμένο παραδοτέο δεν μπορεί να καταγραφεί με asciinema.
+
+
+| Κώδικας που παίρνει πληροφορίες απο το weather site | Στιγμιότυπο από το hugin agent  |
+| --- | --- |
+| https://github.com/vxsilis/huginn_t/blob/main/corfuWeather.json | https://github.com/vxsilis/huginn_t/blob/main/images/weatherCorfu.png |
+
+
+| Κώδικας που παίρνει επεξεργάζεται το json και το στέλνει στο slack | Στιγμιότυπο από το hugin agent  |
+| --- | --- |
+| https://github.com/vxsilis/huginn_t/blob/main/weatherToSlack.json | https://github.com/vxsilis/huginn_t/blob/main/images/weatherToSlack.png |
+
+
+| Το αποτέλεσμα που έρχεται στον slack | https://github.com/vxsilis/huginn_t/blob/main/images/slackNotif.png |
+|---|---|
