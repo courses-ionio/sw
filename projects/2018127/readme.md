@@ -58,6 +58,7 @@ Days later, this cutie appeared:
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/greetings.gif" width="400"/>
 
 Later, after some bashrc magic (aka shell integration for ntfy by appending "$(ntfy shell-integration)" to the .bashrc file) we can be notified when a long-running task has been completed, as seen here:
+
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/sudoaptget.gif" width="400"/>
 
 An asciicast documenting the installation process is also available:
