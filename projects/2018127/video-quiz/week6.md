@@ -1,8 +1,0 @@
-| Marker | Question | Answer |
-| --- | --- | --- |
-| 320 | Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί; |  Math, as taught in universities is incompatible with Computer Science due to their theorems that are long, complicated and are dealing with infinity, something that computers can't work with.  |
-| 815 | Είναι η πληροφορική επιστήμη ή κλάδος των μηχανικών; ποια είναι τα κριτήρια για να ανήκει σε κάποιον από αυτούς τους κλάδους; | None of the above. CS is still developing thus categorizing it now could lead to issues in the future. Engineering is defined by Alan Kay as the ability for a massive project to be completed in a short amount of time and with as few people possible who can work together efficiently.|
-| 1346 | Γιατί οι περισσότεροι δεν μπορούν να καταλάβουν τις ιδέες του Νταγκλας Ενγκελμπαρτ για την διάδραση με ψηφιακά συστήματα; | Essentially people are instrumental reasoners. If a tool can't help them in their life, they diregard it and don't try to understand it.| 
-| 1700 | Ποιες ήταν οι θεμελιώδεις εμπνεύσεις και αναλογίες για την δουλειά του; |Sketchpad, along with Sutherland's thesis on Sketchpad .|
-| 2002 | Ποια είναι τα βασικά προβλήματα της 3βάθμιας εκπαίδευσης στην πληροφορική; | The lack of projects at universities, as understood by the museum example. Students need to be exposed to a lot of different ideas and projects before they find what suits them and follow that path.| 
-| 2749  | Πως διαφέρει ο αντικειμενοστραφής προγραμματισμός που περιγράφει από αυτόν που διδαχτήκατε στο αντίστοιχο μάθημα; | Object-oriented systems changed in regards to the way inheritance works, but my understanding of OOP is lacking.| 
