@@ -4,11 +4,11 @@
 
    <img src="https://github.com/Efthimis015/use-dark-mode/blob/develop/circle-cropped%20(1).png" width="75"/>
 
-#### *Ονοματεπώνυμο:* Τζιάλλας Ευθύμιος 
+#### Ονοματεπώνυμο: *Τζιάλλας Ευθύμιος* 
 
-#### *Αριθμός μητρώου:* Π2018015
+#### Αριθμός μητρώου: *Π2018015*
 
-#### *GitHub Profile:* https://github.com/Efthimis015
+#### GitHub Profile: *https://github.com/Efthimis015*
 
 
 
@@ -40,33 +40,46 @@
 
 ## 👽Παραδοτέο 1 - Φορκ του αποθετηρίου.
 
-Για αυτό το παραδοτέο, έκανα fork του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw) και δημιούργησα ένα νέο branch με όνομα τον ΑΜ (Π2018015) μου. Στη συνέχεια, μέσα στον φάκελο projects δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
+Για αυτό το παραδοτέο, έκανα **fork** του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw) και δημιούργησα ένα νέο branch με όνομα τον **ΑΜ (Π2018015)** μου. Στη συνέχεια, μέσα στον φάκελο **projects** δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
 
 
 ## 👽Παραδοτέο 2 - Βιογραφικό.
 
-Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το GitHub Pages και αναπαριστά το βιογραφικό μου.
+Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το **GitHub Pages** και αναπαριστά το βιογραφικό μου.
 
-Link για την [ιστοσελίδα](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook).
+Link για την **[ιστοσελίδα](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook)**.
 
 
 
-## 👽Παραδοτέο 3 -  Αίτημα ενσωμάτωσης στην ιστοσελίδα.
- Αίτημα ενσωμάτωσης στην ιστοσελίδα:
- 
- Link για το [issue](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo).
- 
- Link για το [pull request](https://github.com/ioniodi/sitegr/pull/121)
- 
- Link για την προβολή της [ανακοίνωσης](https://epic-hamilton-da9ac8.netlify.app/posts/2021/01/21/prosklhsh-ekdhlwshs-endiaferontos/)
- 
- 
- 
+## 👽Παραδοτέο 3 - Αίτημα ενσωμάτωσης στην ιστοσελίδα.
 
+ Link για το **[issue](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo)**.
+ 
+ Link για το **[pull request](https://github.com/ioniodi/sitegr/pull/121)**.
+ 
+ Link για την προβολή της **[ανακοίνωσης](https://epic-hamilton-da9ac8.netlify.app/posts/2021/01/21/prosklhsh-ekdhlwshs-endiaferontos/)**.
+ 
+ 
+ 
+ ## 👽Παραδοτέο 4 - Άσκηση γραμμής εντολών.
+ 
+ Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν όπως για παράδειγμα "**sudo apt-get install mosquitto**" & "**sudo apt-get mosquitto-clients**". Έπειτα εκτέλεσα την εντολή "**asciinema rec -i 0.2**" με σκοπό την καταγραφή των τερματικών μου. Στη συνέχεια με την εντολή "**mosquitto**" ξεκίνησε η διαδικασία. Αμέσως μετά από αυτό με την εντολή "**mosquitto_sub -h localhost -t test**" έγινε η εγγραφή σε ένα **Topic(t)**, το οποίο ονόμασα "**test**". Έπειτα συνεχίζω την διαδικασία ανοίγοντας ένα δεύτερο **Terminal** και πληκτρολογώντας την εντολή "**mosquitto_pub -h localhost -t test -m "Hello, im writing this test from a second terminal. The asciinema record of the other terminal is in the link below this recording. :)**"" κατάφερα να επικοινωνήσω με το άλλο **Terminal** ολοκληρώνοντας έτσι την διαδικασία. Ακολουθούν τα αντίστοιχα **asccinema** με τις καταγεγραμμένες εντολές.
+ 
+[**Asciinema 1**](https://asciinema.org/a/XcVJQZpF9RjsksFNAz4fZXmGC)
+
+[**Asciinema 2**](https://asciinema.org/a/407524)
+ 
+ 
+ 
+ 
+ 
 ## 👽Παραδοτέο 5 - Συμμετοχικό περιεχόμενο.
-## Α1                                                                                                              
+
+## Α1   
+
 ### Εικόνα 1: Razer Mouse
+
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/razer-mouse.md).
 
 
@@ -74,27 +87,29 @@ Link για το αποθετήριο εικόνας [εδώ](https://github.com
 Link για το αποθετήριο εικόνας [εδώ](https://github.com/Efthimis015/_gallery/blob/master/small-pc.md).
 
 ## A2
+
 ### Διαφάνιες και Χρονολόγιο
+
 Link για το αποθετήριο διαφανιών: 
-- [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_slides/videogames.md)
-- [Small PC](https://github.com/Efthimis015/site/blob/master/_slides/gui.md)
+- **[Razer Mouse](https://github.com/Efthimis015/site/blob/master/_slides/videogames.md)**
+- **[Small PC](https://github.com/Efthimis015/site/blob/master/_slides/gui.md)**
 
 Link για το αποθετήριο χρονολογίου:
-- [Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)
-- [Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)
+- **[Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)**
+- **[Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)**
 
 
 
 ## 👽Παραδοτέο 6 - Άσκηση γραμμής εντολών.
-Για το παραδοτέο αυτό, χρησιμοποίησα ένα Ubuntu VM. Στο Terminal έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ "sudo pip3 install ntfy[telegram]". Έπειτα εκτέλεσα την εντολή  "asciinema rec -i 0.2" για την έναρξη καταγραφής του Terminal και με την εντολή "ntfy send "Hello"", εμφανίστηκε στην επιφάνεια η ειδοποίηση. Στη συνέχεια χρησιμοποίησα την εντολή "ntfy done sleep 5", όπου ουσιαστικά ρυθμίζει έναν μετρητή για 5 δευτερόλεπτα εμφανίζοντας την αντίστοιχη ειδοποίηση, και πατώντας "CTRL + D" ολοκλήρωσα την καταγραφή του Terminal μου.
+Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ "**sudo pip3 install ntfy[telegram]**". Έπειτα εκτέλεσα την εντολή  "**asciinema rec -i 0.2**" για την έναρξη καταγραφής του **Terminal** και με την εντολή "**ntfy send "Hello**", εμφανίστηκε στην επιφάνεια η ειδοποίηση. Στη συνέχεια χρησιμοποίησα την εντολή "**ntfy done sleep 5**", όπου ουσιαστικά ρυθμίζει έναν μετρητή για 5 δευτερόλεπτα εμφανίζοντας την αντίστοιχη ειδοποίηση, και πατώντας "**CTRL + D**" ολοκλήρωσα την καταγραφή του **Terminal** μου.
 
-Έπειτα από αυτό ήρθε η στιγμή να αλληλεπιδράσω με την εφαρμογή "Telegram". Η εντολή που χρησιμοποίησα ήταν η "ntfy -b telegram send "Telegram configured for ntfy"". Αφού μίλησα με τον "Bot Father" και κατάφερα να φτιάξω ένω νέο Bot με όνομα "TEXNOLOGIA LOGISMIKOY" γράφοντας στο κινητό "/newbot" και username "Texnologia_logismikou_bot", μου έδωσε ένα "Token" το οποίο έκανα επικόλληση στο Terminal για να ολοκληρωθεί η διαδικασία σύνδεσης με την εφαρμογή. Μετά από αυτό μπορούσα άνετα να στέλνω ειδοποιήσεις στην εφαρμογή του κινητού μου.
+Έπειτα από αυτό ήρθε η στιγμή να αλληλεπιδράσω με την εφαρμογή "**Telegram**". Η εντολή που χρησιμοποίησα ήταν η "**ntfy -b telegram send "Telegram configured for ntfy**"". Αφού μίλησα με τον "**Bot Father**" και κατάφερα να φτιάξω ένω νέο Bot με όνομα "**TEXNOLOGIA LOGISMIKOY**" γράφοντας στο κινητό "**/newbot**" και **username** "**Texnologia_logismikou_bot**", μου έδωσε ένα "**Token**" το οποίο έκανα επικόλληση στο **Terminal** για να ολοκληρωθεί η διαδικασία σύνδεσης με την εφαρμογή. Μετά από αυτό μπορούσα άνετα να στέλνω ειδοποιήσεις στην εφαρμογή του κινητού μου.
 
-Τέλος με την εντολή "asciinema rec -i 0.2" ξεκίνησα μια νέα καταγραφή του Terminal. Αυτή τη φορά χρησιμοποίησα εντολές για να στείλω ειδοποιήσεις στην εφαρμογή. Η κίνηση αυτή έγινε με την εντολή "ntfy -b telegram send "My name is Efthimis and this is a test"" και "ntfy -b telegram send "Anyway.. it's getting late.. Good night!"". Ολοκλήρωσα την καταγραφή πατώντας "CTRL + D".
+Τέλος με την εντολή "**asciinema rec -i 0.2**" ξεκίνησα μια νέα καταγραφή του **Terminal**. Αυτή τη φορά χρησιμοποίησα εντολές για να στείλω ειδοποιήσεις στην εφαρμογή. Η κίνηση αυτή έγινε με την εντολή "**ntfy -b telegram send "My name is Efthimis and this is a test**"" και "**ntfy -b telegram send "Anyway.. it's getting late.. Good night!**"". Ολοκλήρωσα την καταγραφή πατώντας "**CTRL + D**".
 
-### Ακολουθούν τα link των 2 Asciinema: [Asciinema 1](https://asciinema.org/a/406428) , [Asciinema 2](https://asciinema.org/a/406429).
+### Ακολουθούν τα link των 2 Asciinema: **[Asciinema 1](https://asciinema.org/a/406428)** , **[Asciinema 2](https://asciinema.org/a/406429)**.
 
-SCREENSHOTS:
+**SCREENSHOTS:**
 
 ![Hello](https://user-images.githubusercontent.com/72924808/112396543-000ce800-8d09-11eb-95cc-2281ced41265.jpg)
 ![Sleep 5](https://user-images.githubusercontent.com/72924808/112396559-056a3280-8d09-11eb-83d0-21a473481adf.jpg)
