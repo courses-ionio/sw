@@ -143,4 +143,4 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 
 
-<script id="asciicast-cOauGslTKXkTtbb3mo6PcI88s" src="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.js" async></script>
+[![asciicast](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.svg)](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
