@@ -137,3 +137,10 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
   
 
    [![asciicast](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt.svg)](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
+
+
+
+
+
+
+<script id="asciicast-cOauGslTKXkTtbb3mo6PcI88s" src="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.js" async></script>
