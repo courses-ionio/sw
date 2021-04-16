@@ -881,6 +881,8 @@ SURFRAW_text_browser=/usr/bin/lynx
 SURFRAW_graphical=no
 ~~~
 
+Αν θέλουμε οι αναζητήσεις να εμφανίζονται στον browser βάζουμε yes στο τρίτο setting, επίσης προφανώς αλλάζουμε τις 2 πρώτες επιλογές ανάλογα με το τι browser και text browser χρησιμοποιούμε. 
+
 Εκχωρούμε την παρακάτω εντολή στο terminal για να αναζητήσουμε τα "archlinux" και να μπούμε στο πρώτο αποτέλεσμα του duckduckgo:
 
 ~~~bash
