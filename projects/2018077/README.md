@@ -15,7 +15,7 @@
 | 6 | [Άσκηση γραμμής εντολών Static Site with GitHub Pages](#Άσκηση-γραμμής-εντολών-Static-Site-with-GitHub-Pages) |
 | 7 | [Βιογραφικό παραγωγή PDF](#Βιογραφικό-παραγωγή-PDF) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών Twilio API](#Άσκηση-γραμμής-εντολών-Twilio-API) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
@@ -87,9 +87,10 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 `curl wttr.in/Corfu.Greece?format=3`  και  `speedtest-cli` ώστε στην αρχή να έρθει η ειδοποίηση για τον καιρό της σημερινής μέρας στην περιοχή μου και έπειτα να γίνει το **speed test**. Η εντολή `speedtest-cli` αργεί λίγο όπως παρατηρούμε από το **GIF** οπότε επέλεξα να προσθέσω ένα ενδιάμεσο μήνυμα που ειδοποιεί για αυτήν την καθυστέρηση. Προτίμησα για τις  κύριες λειτουργίες του αρχείου, δηλαδή **καιρός** και **speed test**, να εμφανίζετε το εικονίδιο στα αριστερά του πάνελ ένα `i (info)`.   
 Στην  συγκεκριμένη άσκηση υπάρχει εκτός από το asciinema και **GIF** επιδίδει τα αποτελέσματα της άσκησης εμφανίζονται στο γραφικό περιβάλλον του υπολογιστή μου.
  
- [GIF link](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+ GIF 
+ ![simplescreenrecorder-2021-03-14](https://user-images.githubusercontent.com/56299928/115073725-68627a00-9f01-11eb-8c55-e0ceea44c189.gif)
  
- asciinema :
+ asciinema 
   [![asciicast](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2.svg)](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
 
@@ -122,8 +123,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 Στα πλαίσια της άσκησης *Βιογραφικό Jekyll* δημιούργησα ένα **static site** το οποίο στην αρχή δημιουργήταο με **jekyll** και μετά το κάνω host στο **GitHub Pages**.
  [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
  
- 
+ Asciinema
  [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
+
 
 ##
 ## Βιογραφικό παραγωγή PDF
@@ -135,14 +137,17 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 Αντιμετώπισα αρκετές δυσκολίες κατά την διεξαγωγή αυτής της άσκησης. Αρχικά προσπαθούσα ανεπιτυχώς να δημιουργήσω ένα νέο αρχείο `cv.pdf` αντλούμενη από το `index.html` και με μεταδομένα το `_data/details.yml`. Στην πορεία, αφού άλλαξα μέθοδο, αντλούσα τα δεδομένα από το https://katerinalaz.github.io/site-cv/. Έπειτα από πολλές δοκιμές κατέληξα στο συμπέρασμα ότι αν πραγματοποιήσω μια αλλαγή στο σε κάποιο αρχείο του βιογραφικού, το GitHub Pages εμφανίζει τις αλλαγές μετά από κάποια δευτερόλεπτα, με αποτέλεσμα το cv.pdf που γινόταν push να μην ήταν ενημερωμένο. Έτσι κατέληξα να αντλώ την πληροφορία από τον σύνδεσμο http://0.0.0.0:4000 ο οποίος χρησιμοποιείται ως **localhost για το jekyll page του βιογραφικού**.
   
-
+Asciinema
    [![asciicast](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt.svg)](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
 
 
 
+##
+## Άσκηση γραμμής εντολών Twilio API
 
-
-
+Asciinema
 [![asciicast](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.svg)](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
 
-<img src="https://www.dropbox.com/s/db1l3j7g8yupkba/twilio.gif?dl=0" alt="description of gif">
+
+GIF
+![twilio](https://user-images.githubusercontent.com/56299928/115073303-ce023680-9f00-11eb-93b2-fd3e103ab9b0.gif)
