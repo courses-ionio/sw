@@ -9,7 +9,7 @@
 | 2 | [Βιογραφικό με χρηση Jekyll](#Παραδοτέο-2) |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) |
 | 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |
-| 5 | Συμμετοχικό περιεχόμενο |
+| 5 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-5) |
 | 6 | Άσκηση γραμμής εντολών |
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
@@ -73,6 +73,41 @@ Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
 
 ![2021-04-14 (2)](https://user-images.githubusercontent.com/72922731/114713703-0c99c480-9d3a-11eb-8b92-13432c715e8f.png)
 
+## Παραδοτέο 5
+
+ Αντιμετωπισα πολλα προβληματα. Αρχικα εκανα fork τα repository site, images και _gallery. Στην συνεχεια αφου εκανα clone το forked pibook/site εκτελεσα τις εντολες με την σειρα 1) rm -rf _gallery images 2) git status 3) git add . 4) git commit -m "Removed Initial Submodules" για να διαγραψω τα submodules απο το _gallery και images. Στην συνεχεια με τις εντολες 1) git submodule add https://github.com/p16andr/_gallery.git και 2) git submodule add https://github.com/p16andr/images.git προσθεσα τα submodules που εχω κανει fork
+ 
+ 1o Link asciinema: https://asciinema.org/a/NSjekZaG4oPQ46Tov2ARtQLv3
+ 
+ <a href="https://asciinema.org/a/NSjekZaG4oPQ46Tov2ARtQLv3" target="_blank"><img src="https://asciinema.org/a/NSjekZaG4oPQ46Tov2ARtQLv3.svg" /></a>
+ 
+Μπηκα στο αποθετηριο images και με τις εντολες 1) cp ~/Pictures/Avira.jpg ~/Pictures/Avira-thumb.jpg ~/Pictures/FreeBSD.jpg ~/Pictures/FreeBSD-thumb.jpg . και 2) git status προσθεσα τις 4 νεες εικονες μου στο αποθετηριο images. Μπηκα στο αποθετηριο _gallery και μεσω του vim δημιουργησα τα δυο αρχεια μου Avira.md και FreeBSD.md και τα εκανα git push.
+
+2o Link asciinema: https://asciinema.org/a/8mO1J6HhHSauUveCF2tO4agoL
+
+<a href="https://asciinema.org/a/8mO1J6HhHSauUveCF2tO4agoL" target="_blank"><img src="https://asciinema.org/a/8mO1J6HhHSauUveCF2tO4agoL.svg" /></a>
+
+Link αποθετηριου site: https://github.com/p16andr/site
+
+Link αποθετηριου images: https://github.com/p16andr/images
+
+Εικονα Avira.jpg: https://github.com/p16andr/images/blob/master/Avira.jpg
+
+Εικονα Avira-thumb.jpg: https://github.com/p16andr/images/blob/master/Avira-thumb.jpg
+
+Εικονα FreeBSD.jpg: https://github.com/p16andr/images/blob/master/FreeBSD.jpg
+
+Εικονα FreeBSD-thumb.jpg: https://github.com/p16andr/images/blob/master/FreeBSD-thumb.jpg
+
+Link αποθετηριου _gallery: https://github.com/p16andr/_gallery
+
+Αρχειο Avira.md: https://github.com/p16andr/_gallery/blob/master/Avira.md
+
+Αρχειο FreeBSD.md: https://github.com/p16andr/_gallery/blob/master/FreeBSD.md
+
+Εκτελεσιμο Netlify: https://p16andr.netlify.app/gallery/
+
+Οπως φαινεται ενα βασικο προβλημα ειναι οτι το αρχειο Avira δεν φαινεται καν και επισης ενω φαινεται το αρχειο FreeBSD και απο κατω κανονικα το κειμενο μολις πατας πανω στο λινκ βγαζει το μηνυμα page not found. Απο οσα καταλαβαινω για το 1ο προβλημα για το αρχειο Avira δεν φαινεται καθολου διοτι ειχα κανει ενα λαθος στην αρχη στον τερματικο στο vim αρχειο Avira.md και δεν ειχα βαλει τις πρωτες 3 παυλες πανω πανω και οταν μπηκα και το αλλαξα δεν μου το εκανε git push. Τωρα για το 2ο προβλημα δεν μπορω να καταλαβω που μπορει να ειναι το λαθος γιατι η προσθηκη και των εικονων και το md αρχειο εγινε σωστα.
 
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
