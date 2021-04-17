@@ -53,7 +53,7 @@ Link Repository γραμμή εντολών https://github.com/p16foti/cv-1
 Link Bio Github https://p16foti.github.io/modern-resume-theme/
 Link Repository Github https://github.com/p16foti/modern-resume-theme/tree/2016046
 
-(Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία)
+Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία.
 
 # Αίτημα_ενσωμάτωσης_στην_ιστοσελίδα
 
@@ -65,7 +65,7 @@ Link Netlify https://deploy-preview-134--epic-hamilton-da9ac8.netlify.app/posts/
 
 Link Posts https://github.com/p16foti/sitegr/blob/2016046/all_collections/_posts/2020-10-20-reception-event-first-year-students-of-the-department-of-informatics-2020-2021.md
 
-(Έκανα προσθήκη μιας ανακοίνωσης που επέλεξα,μετά περίμενα να μου δώσει ο καθηγητής το green light ώστε να πειράξω τα αρχεία και να κάνω pull request)
+Έκανα προσθήκη μιας ανακοίνωσης που επέλεξα,μετά περίμενα να μου δώσει ο καθηγητής το green light ώστε να πειράξω τα αρχεία και να κάνω pull request.
 
 # Άσκηση_γραμμής_εντολών
 
@@ -73,7 +73,7 @@ Link Asciinema https://asciinema.org/~p16foti
 
 ![pushover notification](https://user-images.githubusercontent.com/79106147/113722945-8d810c80-96f9-11eb-8539-c98b17b70997.jpg)
 
-(Κατέβασα το ntfy,μετά έστειλα ένα μήνυμα(test) να το τσεκάρω,έπειτα με την εντολή που βλέπουμε στο asciinema πρόσθεσα το user key που πήρα από το pushover στο κινητό μου και κατέβασα το gimp ώστε να μου έρθει ειδοποίηση όταν θα κατέβει)
+Κατέβασα το ntfy,μετά έστειλα ένα μήνυμα(test) να το τσεκάρω,έπειτα με την εντολή που βλέπουμε στο asciinema πρόσθεσα το user key που πήρα από το pushover στο κινητό μου και κατέβασα το gimp ώστε να μου έρθει ειδοποίηση όταν θα κατέβει.
 
 # Συμμετοχικό_περιεχόμενο
 
@@ -111,9 +111,9 @@ Link Images
 - https://github.com/p16foti/images/blob/2016046/google-translate.jpg
 - https://github.com/p16foti/images/blob/2016046/google-translate-thumb.jpg
 
-(Μέσω της γραμμής εντολών,ακολούθησα την διαδικασία των submodules όπου είναι η πρόσθεση,η ενημέρωση και η διαγραφή τους από τα βιντεάκια που μας δόθηκαν και με περαιτέρω βοήθεια που πήρα από το internet)
+Μέσω της γραμμής εντολών,ακολούθησα την διαδικασία των submodules όπου είναι η πρόσθεση,η ενημέρωση και η διαγραφή τους από τα βιντεάκια που μας δόθηκαν και με περαιτέρω βοήθεια που πήρα από το internet.
 
-(Πρόσθεσα τις εικόνες και επεξεργάστηκα τα δεδομένα στις λεζάντες,ετικέτες,κατηγορίες και χρονολόγια)
+Πρόσθεσα τις εικόνες και επεξεργάστηκα τα δεδομένα στις λεζάντες,ετικέτες,κατηγορίες και χρονολόγια.
 
 # Άσκηση_γραμμής_εντολών
 
@@ -121,8 +121,12 @@ Link Hyperfine https://github.com/sharkdp/hyperfine
 
 Link Asciinema https://asciinema.org/a/eDK2Hu4st3a1v7KXdi61NBdJo
 
-(Κατέβασα το hyperfine, έδωσα μία εντολή για να τρέξω το πρώτο benchmark, το hyperfine καθορίζει αυτόματα τον αριθμό των runs για κάθε εντολή που δίνεται, έτσι έτρεξα μια εντολή ώστε να αλλάξω τον αριθμό των runs, τέλος έδωσα μία εντολή ώστε να τρέξω το benchmark σε warm cache και να εκτελέσω συγκεκριμένο αριθμό εκτελέσεων)
+Κατέβασα το hyperfine, έδωσα μία εντολή για να τρέξω το πρώτο benchmark, το hyperfine καθορίζει αυτόματα τον αριθμό των runs για κάθε εντολή που δίνεται, έτσι έτρεξα μια εντολή ώστε να αλλάξω τον αριθμό των runs, τέλος έδωσα μία εντολή ώστε να τρέξω το benchmark σε warm cache και να εκτελέσω συγκεκριμένο αριθμό εκτελέσεων.
 
 # Άσκηση_γραμμής_εντολών
 
-Link Asciinema https://asciinema.org/a/PhJ5QVBeC4mO5tJNmZb4tQpQn
+Link Asciinema https://asciinema.org/a/urPIxJtLPLwAGl6G4rEiQB7r8
+
+Σύνδεσα το Github με τον τερματικό μου και έκανα clone το βιογραφικό μου που είχα δημιουργήσει με το github pages.Κατά τη διάρκεια έκανα κάποια λάθη με τα directories αλλά όπως φαίνεται και στο βίντεο κατάφερα να το διορθώσω.Έτσι με αυτόν τον τρόπο πραγματοποίησα μία αλλαγή που χρειαζόταν το βιογραφικό μου.
+
+(Όνομα άσκησης:Set up continuous integration)
