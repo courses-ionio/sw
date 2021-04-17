@@ -14,7 +14,7 @@
 | 4 |<a href="#P4"> Άσκηση γραμμής εντολών </a>|
 | 5 |<a href="#P5"> Συμμετοχικό περιεχόμενο </a>|
 | 6 |<a href="#P6"> Άσκηση γραμμής εντολών </a>|
-| 7 | Βιογραφικό |
+| 7 |<a href="#P7"> Βιογραφικό </a>|
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | Συμμετοχικό περιεχόμενο |
@@ -125,6 +125,10 @@ Send a notifcation when a big task completes, eg download, compiling, etc.
 <img src="https://github.com/p15bala/sw-images/blob/main/create_new_bot.jpg" width="360" height="480"> <img src="https://github.com/p15bala/sw-images/blob/main/install_complete_notification.jpg" width="360" height="480">
 
 Εγγραφή τερματικού: https://asciinema.org/a/405116
+
+## <a name="P7">Παραδοτέο 7 </a>
+
+Με τη χρήση του weasyprint,το οποίο μας επιτρέπει να μετατρέπουμε ιστοσελίδες σε αρχεία pdf, δημιούργησα το αρχείο [cv.pdf](https://github.com/p15bala/cv/blob/gh-pages/pdf/cv.pdf) και το πρόσθεσα σε έναν νέο φάκελο [pdf](https://github.com/p15bala/cv/tree/gh-pages/pdf) στο αποθετήριο του βιογραφικού.Στη συνέχεια πρόσθεσα την επιλογή για τη λήψη του αρχείου pdf στην ιστοσελίδα του βιογραφικού.
 
 ## Απαντήσεις Video Quiz*
 
