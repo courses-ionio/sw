@@ -37,11 +37,11 @@
 ### Παραδοτέο 4
 Άσκηση τερματικού.
 
-asciinema link: https://asciinema.org/a/399194
-
 **assignment:** send notifications to your desktop-mobile
 
 **deliverables:** send a notifcation when a big task completes, eg download, compiling, etc
+
+asciinema link: https://asciinema.org/a/399194
 
 Φωτογραφία με τις ειδοποιήσεις από το Telegram.
 
@@ -86,11 +86,11 @@ https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48
 ### Παραδοτέο 6
 Άσκηση τερματικού.
 
-asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
-
 **assignment:** create notifications on your server
 
 **deliverables:** send notifications on important server events
+
+asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 
 ![ΆσκησηΤερματικού6](https://user-images.githubusercontent.com/44473312/112767894-d3671200-9021-11eb-9136-9849cf469b6f.png)
 
