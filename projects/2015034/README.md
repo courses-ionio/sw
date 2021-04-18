@@ -41,12 +41,12 @@ Aφού διάβασα αναλυτικά τις οδηγίες που δοθή�
 Η δεύτερη εικόνα είναι το πρώτο μέσο βιντεοκλήσης, το AT&T Picturephone. [gallery](https://github.com/p15bako/_gallery/blob/2015034/AT&T_Picturephone.md) [images](https://github.com/p15bako/images/blob/2015034/AT%26T_Picturephone.jpg) [timeline](https://github.com/p15bako/site/blob/2015034/_timeline/collaboration.md) [slide](https://github.com/p15bako/site/blob/2015034/_slides/tools.md)
 
 # <a name="F">Άσκηση γραμμής εντολών 2</a>
-Για την άσκηση γραμμής εντολών 2 δείχνω αναλυτικά την διαδικασία που ακολούθησα στο terminal για να μετατρέψω το html του βιογραφικού μου σε μορφή pdf κάνοντας χρήση του weasyprint. Αρχικά, έκανα install τα απαραίτητα για να κάνω install το weasyprint και στη συνέχεια τροποποίησα το αρχείο index.html ώστε να προσθέσω το link για το pdf και να του δώσω το απαραίτητο style. Έπειτα, δημιούργησα το αρχείο pdf.css όπου όρισα τα περιθώρια ώστε να είναι πιο εμφανίσιμο το βιογραφικό μου. Τέλος, έκανα την αυτοματοποίηση των pre-commit και post-commit. Όλη η διαδικασία του τερματικού φαίνεται εδώ. [asciinema link](#https://asciinema.org/a/x2Pb1JTBh5RlMWKaPQ56Vy21z)
+Για την άσκηση γραμμής εντολών 2 δείχνω αναλυτικά την διαδικασία που ακολούθησα στο terminal για να μετατρέψω το html του βιογραφικού μου σε μορφή pdf κάνοντας χρήση του weasyprint. Αρχικά, έκανα install τα απαραίτητα για να κάνω install το weasyprint και στη συνέχεια τροποποίησα το αρχείο index.html ώστε να προσθέσω το link για το pdf και να του δώσω το απαραίτητο style. Έπειτα, δημιούργησα το αρχείο pdf.css όπου όρισα τα περιθώρια ώστε να είναι πιο εμφανίσιμο το βιογραφικό μου. Τέλος, έκανα την αυτοματοποίηση των pre-commit και post-commit. Όλη η διαδικασία του τερματικού φαίνεται εδώ. [asciinema link](https://asciinema.org/a/x2Pb1JTBh5RlMWKaPQ56Vy21z)
 
 
 # <a name="G">Βιογραφικό 2</a>
 Για την άσκηση του βιογραφικού 2, χρησιμοποίησα το weasyprint για να δημιουργήσω ένα αρχείο pdf του βιογραφικού μου, το οποίο ενημερώνεται αυτόματα κάθε φορά που κάνω αλλαγή.
-[cv link](#https://p15bako.github.io/cv-1/) [pdf link](#https://p15bako.github.io/cv-1/pdf/cv.pdf)
+[cv link](https://p15bako.github.io/cv-1/) [pdf link](https://p15bako.github.io/cv-1/pdf/cv.pdf)
 
 
 
