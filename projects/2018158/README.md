@@ -101,3 +101,12 @@ asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 ### Παραδοτέο 8
 
 -Άνοιγμα [issue](https://github.com/ioniodi/sitegr/issues/180) για τη δήλωση θέματος.
+
+### Παραδοτέο 9
+Άσκηση τερματικού.
+
+**assignment:** performance monitoring
+
+**deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+asciinema link: https://asciinema.org/a/NVl1ukmhNc2PPjt4cRDidei6w
