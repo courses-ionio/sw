@@ -103,6 +103,6 @@ asciinema link: https://asciinema.org/a/399181
 
 Εκφώνηση άσκησης: "Performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines"
 
-[asciinema link](https://asciinema.org/a/408149)
+[asciinema link](https://asciinema.org/a/408160)
 
 Κατά την διάρκεια αυτού του παραδοτέου δημιούργησα δύο αρχεία python και τα σύγκρινα χρησιμοποιώντας το hyperfine. Τα αποτελέσματα αυτού παρουσιάζονται οτικοποιημένα σε ποικίλα χρώματα. Έπειτα χρηισμοποίησα πάλι το hyperfine για να κάνω εξαγωγή των αποτελεσμάτων σε κάποιο json αρχείο.
