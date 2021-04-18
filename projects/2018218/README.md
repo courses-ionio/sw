@@ -7,7 +7,7 @@
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα.<sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup>|
 | 4 | Άσκηση γραμμής εντολών.<sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup>|
 | 5 | Συμμετοχικό περιεχόμενο.<sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup>|
-| 6 | Άσκηση γραμμής εντολών|
+| 6 | Άσκηση γραμμής εντολών.<sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup>|
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -89,3 +89,120 @@ ScreenShot Image |
   
 ## Timeline
   * [Link Timeline](https://romantic-varahamihira-b4537e.netlify.app//timeline/videogames/)
+  
+  
+
+###### [5]
+
+# Huginn
+Huginn. Το Huginn είναι ένα εργαλείο που μας επιτρέπει να δημιουργούμε 'Πράκτορες', που κάνουν το έργο της εκτέλεσης αυτοματοποιημένων εργασιών για μας.
+
+## Παρακολούθηση και διαχωρισμός μετοχών υψηλής απόδοσης χρηματιστηρίου Αθηνών
+Το διάγραμμα ροής της παρούσας εργασίας φαίνεται παρακάτω
+
+![image](https://user-images.githubusercontent.com/56764193/115160790-d2665500-a0a2-11eb-8ee4-bddb3c606689.png)
+
+### Αρχικά 
+Eγκατέστησα ένα έτοιμο στημένο huginn docker image
+docker run -it -p 3000:3000 --name ionio-sw-lab-huginn huginn/huginn
+
+Δοκίμασα σε ένα browser : http://localhost:3000/
+Credentials: admin | password
+
+### 1 Προσθήκη Website Agent 
+Πρόσθεσα ένα Agent τύπου Website Agent με τα ακόλουθα: 
+* **Type**: `Website Agent`
+* **Name**: `Step1_get_metoxes_greek`
+* **Schedule**: `Every 2m`
+* **Keep events**: `7 days`
+Options:
+```
+{
+  "expected_update_period_in_days": "2",
+  "url": "https://www.capital.gr/finance/allstocks/",
+  "type": "html",
+  "mode": "on_change",
+  "extract": {
+    "name": {
+      "xpath": "//*[@id=\"allstocks-container\"]/div[2]/div[1]/table/tbody[*]/tr[*]/td[1]/a",
+      "value": "string(.)"
+    },
+    "score": {
+      "xpath": "//*[@id=\"allstocks-container\"]/div[2]/div[1]/table/tbody[*]/tr[*]/td[3]/span",
+      "value": "string(.)"
+    }
+  }
+}
+```
+Aπο τα παραπάνω παίρνω απόκριση το όνομα και την  τιμή της μετοχής
+```
+ {
+    "name": "CENER",
+    "score": "0,84"
+  },
+  {
+    "name": "CNLCAP",
+    "score": "0,00"
+  }
+```
+
+### 2 Προσθήκη Trigger Agent
+Πρόσθεσα ένα Agent τύπου Trigger Agent με τα ακόλουθα (έτσι κατάφερα να επιλέξω μετοχές με τιμή άνω των 2 ευρώ): 
+* **Type**: `Trigger Agent`
+* **Name**: `Step2_get_metoxes_greek`
+* **Sources**: `Step1_get_metoxes_greek`
+* **Receivers**: `Post to slack`
+Options:
+```
+{
+  "expected_receive_period_in_days": "2",
+  "keep_event": "true",
+  "rules": [
+    {
+      "type": "field>value",
+      "value": "2.0",
+      "path": "$.score"
+    }
+  ],
+  "message": "Looks like your pattern matched in '{{value}}'!"
+}
+```
+Aπο τα παραπάνω παίρνω απόκριση το όνομα και την  τιμή tων μετοχών που είναι πάνω από 2 ευρώ
+
+```
+{
+  "name": "ΒΙΟΚΑ",
+  "score": "10,00",
+}
+{
+  "name": "ΑΝΕΚ",
+  "score": "13,58",
+}
+```
+### 2 Προσθήκη Post Agent
+Ανοίγω καινούργιο Post Agent
+'Eχοντας free account στο slack και δημιουργώντας ένα κανάλι(sw-notifications) μέσα σε ένα workspace συνδέω το Post Agent με το API του καναλιoύ
+Option
+```
+{
+  "post_url": "https://hooks.slack.com/services/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",
+  "expected_receive_period_in_days": "1",
+  "content_type": "json",
+  "method": "post",
+  "headers": {
+    "Content-type": "application/json"
+  },
+  "payload": {
+    "text": "{{ name }}; aksias {{score}}"
+  },
+  "emit_events": "false",
+  "no_merge": "false",
+  "output_mode": "clean"
+}
+```
+
+
+Με την παραπάνω διαδικασία έλαβα το παρακάτω μήνυμα στο slack:
+![image](https://user-images.githubusercontent.com/56764193/115161859-a2ba4b80-a0a8-11eb-8084-e4daf5770bc7.png)
+
+
