@@ -99,3 +99,10 @@ asciinema link: https://asciinema.org/a/399181
 
 Αντίστοιχα το netlify με τις ενσωματωμένες αλλαγές φαίνεται να λειτουργεί ορθά [εδώ](https://ioniosite-zoomlink-included.netlify.app), χωρίς όμως κάποιος εκπαιδευτικός να έχει ήδη προσθέσει το zoom-link του.
 
+## <a name="P">ΠΑΡΑΔΟΤΕΟ 9 - Τρίτη άσκηση τερματικού</a>
+
+Εκφώνηση άσκησης: "Performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines"
+
+[asciinema link](https://asciinema.org/a/408149)
+
+Κατά την διάρκεια αυτού του παραδοτέου δημιούργησα δύο αρχεία python και τα σύγκρινα χρησιμοποιώντας το hyperfine. Τα αποτελέσματα αυτού παρουσιάζονται οτικοποιημένα σε ποικίλα χρώματα. Έπειτα χρηισμοποίησα πάλι το hyperfine για να κάνω εξαγωγή των αποτελεσμάτων σε κάποιο json αρχείο.
