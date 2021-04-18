@@ -134,7 +134,7 @@ Options:
   }
 }
 ```
-Aπο τα παραπάνω παίρνω απόκριση το όνομα και την  τιμή της μετοχής
+Aπο τα παραπάνω παίρνω απόκριση τα ονόματα και τις τιμές των μετοχών
 ```
  {
     "name": "CENER",
@@ -179,7 +179,7 @@ Aπο τα παραπάνω παίρνω απόκριση το όνομα και
   "score": "13,58",
 }
 ```
-### 2 Προσθήκη Post Agent
+### 3 Προσθήκη Post Agent
 Ανοίγω καινούργιο Post Agent
 'Eχοντας free account στο slack και δημιουργώντας ένα κανάλι(sw-notifications) μέσα σε ένα workspace συνδέω το Post Agent με το API του καναλιoύ
 Option
@@ -203,6 +203,7 @@ Option
 
 
 Με την παραπάνω διαδικασία έλαβα το παρακάτω μήνυμα στο slack:
-![image](https://user-images.githubusercontent.com/56764193/115161859-a2ba4b80-a0a8-11eb-8084-e4daf5770bc7.png)
+![image](https://user-images.githubusercontent.com/56764193/115163121-01cf8e80-a0b0-11eb-8999-a606cdf93435.png)
+
 
 
