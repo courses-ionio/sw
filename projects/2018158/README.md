@@ -34,6 +34,17 @@
 
 ### Παραδοτέο 3
 
+Στο συγκεκριμένο παραδοτέο πραγματοποιήθηκε άνοιγμα issue και pull request.
+
+Το θέμα που δηλώθηκε είναι '  Διόρθωση μαθήματος επιλογής ΣΤ' εξαμήνου "Κατανεμημένα Δικτυοκεντρικά Συστήματα"  '.
+
+Issue link: https://github.com/ioniodi/sitegr/issues/63
+
+Pull Request link: https://github.com/ioniodi/sitegr/pull/163
+
+Οι προβλεπόμενες αλλαγές μπορούν να βρεθούν και στο Netlify.
+
+Netlify link: https://amazing-cori-4de1f3.netlify.app/courses/distributed-network-systems/
 ### Παραδοτέο 4
 Άσκηση τερματικού.
 
