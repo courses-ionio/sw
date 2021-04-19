@@ -365,9 +365,9 @@ Link για το asciinema: https://asciinema.org/a/407570
 
 **Αποτελέσματα:**
 
-![]()
+![pdf](https://github.com/apostoloskp/sw-images/blob/main/pdf.png)
 
-![]()
+![ttpdf](https://github.com/apostoloskp/sw-images/blob/main/ttpdf.png)
 
 ## Απαντήσεις στις ερωτήσεις του 7ου quiz:
 
