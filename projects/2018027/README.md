@@ -14,7 +14,7 @@
 | 4 | [Άσκηση γραμμής εντολών 1](#Άσκηση-γραμμής-εντολών-1) |
 | 5 | [Συμμετοχικό Περιεχόμενο 1](#Συμμετοχικό-Περιεχόμενο-1) |
 | 6 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών-2) |
-| 7 | βιογραφικό |
+| 7 | [βιογραφικό](#Βιογραφικό-2) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -466,6 +466,16 @@ O Νταγκλας Ενγκελμπαρτ σύμφωνα με τον Άλαν Κ
 
 [CV Link](https://mariaxristinapapatheodwrou.github.io/online-cv/) ,
 [Bio-Repository link](https://github.com/MariaXristinaPapatheodwrou/online-cv)
+
+# Βιογραφικό 2
+
+Σκοπός του δεύτερου μέρους του βιογραφικού ήταν να δημιουργήσουμε ένα pdf του βιογραφικού που δημιουργήσαμε στο πρώτο μέρος. Αρχικά κατεβάσαμε τα παρακάτω με τις αντίστοιχες εντολές: sudo apt-get install pandoc , sudo apt-get install texlive-latex-base , sudo apt-get install texlive-fonts-recommended , sudo apt-get install texlive-fonts-extra. Στην συνέχεια έκανα clone το git προφίλ μου με την εντολή git clone git@github.com:MariaXristinaPapatheodwrou/online-cv.git και έφτιαξα το online-cv. Με την εντολή cd online-cv μπήκα μέσα σε αυτό και με το mkdir pdf έφτιαξα τον φάκελο pdf. Έκανα git add pdf για να το προσθέσω στο github μου. Ακολούθησαν οι εντολές cd pdf για να μπώ στο pdf και μετά για να κάνω το βιογραφικό μου pdf χρησιμοποίησα την εντολή pandoc https://mariaxristinapapatheodwrou.github.io/online-cv/ -o cv.tex -s. Έγινε επανάληψη της εντολής git add . για να ενημερωθεί το προφίλ και μετά git commit -m "add pdf" . Για να γίνεται αυτόματη ενημέρωση κάθε φορά, έγινε χρήση του git push . και μετά cd .. για να βγώ απο το pdf. Ακολούθησε η εντολή cd.git και cd hooks. Τέλος εκτέλεσα τις εντολές nano pre-commit και nano post-commit. Στο άνοιγμα τους πρόσθεσα τις γραμμές κωδικα που φαίνονται στα παρακάτω στιγμιότυπα.
+
+<img width="159" alt="Στιγμιότυπο οθόνης 2021-04-20 013021" src="https://user-images.githubusercontent.com/56514798/115311337-2bec8380-a178-11eb-8021-aa37103c098a.png">
+
+<img width="453" alt="Στιγμιότυπο οθόνης 2021-04-20 013102" src="https://user-images.githubusercontent.com/56514798/115311350-33ac2800-a178-11eb-85df-d9f89b287391.png">
+
+[Pdf Link](https://github.com/MariaXristinaPapatheodwrou/online-cv/blob/gh-pages/pdf/cv.pdf)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
