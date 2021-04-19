@@ -246,11 +246,11 @@ Link για το αποθετήριο εικόνας: https://github.com/apostol
 
 Link για τις διαφάνιες στο site: https://p15kabl.netlify.app/slides/iui/
 
-Link για το αποθετήριο διαφανιών: https://github.com/apostoloskp/site/blob/master/_slides/iui.md
+Link για το αποθετήριο διαφανιών: https://github.com/apostoloskp/site/blob/2015121/_slides/iui.md
 
 Link για τo χρονολόγιο στο site: https://p15kabl.netlify.app/timeline/mobile/
 
-Link για το αποθετήριο χρονολογίου: https://github.com/apostoloskp/site/blob/master/_timeline/mobile.md
+Link για το αποθετήριο χρονολογίου: https://github.com/apostoloskp/site/blob/2015121/_timeline/mobile.md
 
 ## Απαντήσεις στις ερωτήσεις του 5ου quiz:
 
