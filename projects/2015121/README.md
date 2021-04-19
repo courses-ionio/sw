@@ -357,6 +357,10 @@ Link με το asciinema για παραδείγματα notification του mqt
 
 Το repository με το PDF του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.pdf
 
+Το repository με το tex του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.tex
+
+Το repository με το log του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.log
+
 Link για το asciinema: https://asciinema.org/a/407570
 
 ## Διαδικασία: 
