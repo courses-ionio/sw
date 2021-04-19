@@ -357,7 +357,7 @@ Link με το asciinema για παραδείγματα notification του mqt
 
 Το repository με το PDF του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.pdf
 
-Link για το asciinema:
+Link για το asciinema: https://asciinema.org/a/407570
 
 ## Διαδικασία: 
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt install texlive-latex-extra**.
