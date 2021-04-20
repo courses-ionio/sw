@@ -15,7 +15,7 @@
 | 7 | <a href="#P-7">Βιογραφικό</a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | <a href="#P-9">Άσκηση γραμμής εντολών</a> |
-| 10 | Συμμετοχικό περιεχόμενο |
+| 10 | <a href="#P-10">Συμμετοχικό περιεχόμενο</a> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -138,3 +138,35 @@
 
 | Το αποτέλεσμα που έρχεται στον slack | https://github.com/vxsilis/huginn_t/blob/main/images/slackNotif.png |
 |---|---|
+
+---
+## <a name="P-10">Παραδοτέο 10 - ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ:</a>
+
+Για το 10ο παραδοτέο πρόσθεσα το βιογραφικό του Seymour Rubinstein, ο οποίος ήταν και ο εφευρέτης του WordStar, λογισμικού που πρόσθεσα στο προηγούμενο παραδοτέο.
+
+Παρατήρησα ότι για τα βιογραφικά που εμφανίζονται σωστά και έχουν περιεχόνενο στο pibook.epidrome.me έχουν και τα 2 αρχεία στο ίδιο φάκελο _biography, οπότε έτσι έκανα και εγώ.
+
+| Λινκ ιστοσελίδας με την προσθήκη: | https://vxs5.netlify.app/biography/seymour_rubinstein/ |
+| --- | --- |
+| Λινκ αρχείου περιγραφής στο αποθετήριο: | https://github.com/vxsilis/site/blob/master/_biography/seymour_rubinstein.md |
+| Λινκ περιεχομένου βιογραφικού: | https://github.com/vxsilis/site/blob/master/_biography/bio-rubinstein.md |
+
+| Αναφορές & Πηγές |
+| --- |
+| https://seymourrubinstein.wordpress.com |
+| https://seymourrubinstein.wordpress.com/bio/ |
+| https://en.wikipedia.org/wiki/Seymour_I._Rubinstein |
+
+
+Για την μελέτη περίπτωσης έγραψα για το Project του FreeBsd
+
+Έκανα δικιά μου έκδοση του repo extras για να βάλω την προσθήκη μου.
+
+| Λινκ ιστοσελίδας με την προσθήκη:| https://vxs5.netlify.app/case-study/freebsd-cs/ |
+| --- | --- |
+| Λινκ αρχείου περιγραφής στο φάκελο case study: | https://github.com/vxsilis/site/blob/master/_case-study/freebsd-cs.md |
+| Λινκ περιεχομένου της μελέτης στο submodule “extras”: | https://github.com/vxsilis/extras/blob/master/cs-freebsd.md |
+
+| Αναφορές & Πηγές | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.9396&rep=rep1&type=pdf |
+| --- | --- |
+
