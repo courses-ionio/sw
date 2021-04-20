@@ -131,3 +131,12 @@ create a cli app for your favorite site
 - [PDF](https://github.com/Stavrospanakakis/cv/blob/main/assets/cv.pdf)
 
 [![asciicast](https://asciinema.org/a/405432.svg)](https://asciinema.org/a/405432)
+
+## 8. Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+
+## 9. Άσκηση γραμμής εντολών
+create your own static site and blog generator
+
+- [CLI Repository](https://github.com/Stavrospanakakis/yasg)
+[![asciicast](https://asciinema.org/a/408729.svg)](https://asciinema.org/a/408729)
