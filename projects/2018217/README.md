@@ -80,6 +80,8 @@
 #### [Ιστοσελίδα Βιβλίου - Ο Προγραμματισμός της Διάδρασης](https://optimistic-bartik-1be75a.netlify.app/)
 #### [1η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/objective-c/)
 #### [2η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/python/)
+#### [Διαφάνειες - Γλώσσες Προγραμματισμού](https://optimistic-bartik-1be75a.netlify.app/slides/programming/)
+#### [Χρονολόγιο - Γλώσσες Προγραμματισμού](https://optimistic-bartik-1be75a.netlify.app/timeline/programming/)
 #### [Αποθετήριο Συμμετοχικού Περιεχομένου](https://github.com/p18mant/site)
 
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-1](https://asciinema.org/a/401005)
