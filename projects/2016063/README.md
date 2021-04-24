@@ -10,7 +10,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) |
 | 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |
 | 5 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-5) |
-| 6 | Άσκηση γραμμής εντολών |
+| 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) |
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
@@ -108,6 +108,22 @@ Link αποθετηριου _gallery: https://github.com/p16andr/_gallery
 Εκτελεσιμο Netlify: https://p16andr.netlify.app/gallery/
 
 Οπως φαινεται ενα βασικο προβλημα ειναι οτι το αρχειο Avira δεν φαινεται καν και επισης ενω φαινεται το αρχειο FreeBSD και απο κατω κανονικα το κειμενο μολις πατας πανω στο λινκ βγαζει το μηνυμα page not found. Απο οσα καταλαβαινω για το 1ο προβλημα για το αρχειο Avira δεν φαινεται καθολου διοτι ειχα κανει ενα λαθος στην αρχη στον τερματικο στο vim αρχειο Avira.md και δεν ειχα βαλει τις πρωτες 3 παυλες πανω πανω και οταν μπηκα και το αλλαξα δεν μου το εκανε git push. Τωρα για το 2ο προβλημα δεν μπορω να καταλαβω που μπορει να ειναι το λαθος γιατι η προσθηκη και των εικονων και το md αρχειο εγινε σωστα.
+
+## Παραδοτέο 5
+
+Αρχικα εγκατεστησα τα απαραιτητα πακετα που χρειαζοταν για την ασκηση με τις εντολες "sudo apt-get install mosquitto" και "sudo apt-get install mosquitto-clients". Με την εντολη "mosquitto" ετρεξα το plugin. Στην συνεχεια εκτελεσα την εντολη "mosquitto_sub -h localhost -t test" ωστε να γινει εγγραφη σε ενα νεο Topic το οποιο το ονομασα test. Τελος ανοιξα ενα δευτερο τερματικο και εκτελοντας την εντολη "mosquitto_pub -h localhost -t test -m "Hello, im writing this test from a second terminal. The asciinema record of the other terminal is in the link below this recording." το συνδεσα με το πρωτο τερματικο.
+
+1o Link asciinema: https://asciinema.org/a/fkMtytp0cfUNId9JHqkdVBHfT
+
+<a href="https://asciinema.org/a/fkMtytp0cfUNId9JHqkdVBHfT" target="_blank"><img src="https://asciinema.org/a/fkMtytp0cfUNId9JHqkdVBHfT.svg" /></a>
+
+2o Link asciinema: https://asciinema.org/a/ydlet2eixBSKhbwfaYsjL7Vau
+
+<a href="https://asciinema.org/a/ydlet2eixBSKhbwfaYsjL7Vau" target="_blank"><img src="https://asciinema.org/a/ydlet2eixBSKhbwfaYsjL7Vau.svg" /></a>
+
+3o Link asciinema: https://asciinema.org/a/dmS6syqYOMCaK4LWFrzz51e2H
+
+<a href="https://asciinema.org/a/dmS6syqYOMCaK4LWFrzz51e2H" target="_blank"><img src="https://asciinema.org/a/dmS6syqYOMCaK4LWFrzz51e2H.svg" /></a>
 
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
