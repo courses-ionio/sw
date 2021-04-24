@@ -272,4 +272,15 @@ Dave Evans:πρώτες γραφικές διεπαφές με στοιχεία 
 Ότι κάνουμε στο μάθημα το κάνουμε τρόπο πολύ διαφορετικό από ότι έχουμε συνηθίσει μέχρι τώρα. Δεν επικεντρωνόμαστε στο να μάθουμε μία μοναδική υψηλή γλώσσα προγραμματισμού αλλά συνδιάζουμε τεχνολογία που υπάρχει εδώ και δεκαετίες με πιο σύγχρονα εργαλεία και βλέπουμε πως μπορούν να γίνουν κάποια πράγματα που οι πιο πολλοί ξέρουμε ότι γίνονται με άλλους τρόπους, όπως για παράδειγμα το βιογραφικό. Επίσης με τα βίντεο ξεφεύγουμε απο τα ζητούμενα του μαθήματος και βλέπουμε διαφορετικές απόψεις και ιδέες το οποίο είναι και το πιο σημαντικό.
 
 
+### Παραδοτέο 10 ###
+Για το δέκατο παραδοτέα πρόσθεσα submodule και έπειτα περιεχόμενο όπως και στο [Παραδοτέο 5](#Παραδοτέο-5). 
+|Σχετικά links | Αντίστοιχα αποθετήρια |
+| -- | -- |
+|[Βιογραφικό](https://p18kerasite.netlify.app//biography/seymour-papert/)|[seymour-papert.md](https://github.com/giouliker/site/blob/master/_biography/seymour-papert.md), [bio-papert.md](https://github.com/giouliker/extras/blob/cf1001f8e378459855263928d309427808578314/bio-papert.md)|
+|[Μελέτη Περίπτωσης](https://p18kerasite.netlify.app//case-study/lego-mindstorms/)|[lego-mindstorms.md](https://github.com/giouliker/site/blob/master/_case-study/lego-mindstorms.md),[cs-lego.md](https://github.com/giouliker/extras/blob/cf1001f8e378459855263928d309427808578314/cs-lego.md)|
 
+### Σχετική Βιβλιογραφία
+[Από τη χελώνα εδάφους του S.Papert και τη LOGO στην πληθώρα των «Εκπαιδευτικών Ρομπότ» και των προγραμματιστικών περιβαλλόντων](https://www.eduportal.gr/apo-ti-chelona-edafous-tou-s-papert-ke/)<br>
+[Προγραμματισμός ρομποτικών κατασκευών: μελέτη περίπτωσης με μαθητές δημοτικού](http://dide.ilei.sch.gr/keplinet/education/docs/syn_dp2008_dimotiko.pdf)<br>
+[Lego Mindstorms](https://en.wikipedia.org/wiki/Lego_Mindstorms)<br>
+Νικόλαος Αλεξανδρής, Βασίλειος Μπελεσιώτης, Ευάγγελος Φούντας. <<Εισαγωγή στη Διδακτική Πληροφορικής>>.Εκδόσεις Βαρβαρήγου, Πειραιάς. (2011)
