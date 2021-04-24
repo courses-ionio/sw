@@ -112,6 +112,11 @@
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 
+### <a name="Παραδοτέο 8">Παραδοτέο 8</a>
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα
+Έγινε fork το repository minimal-ionio. Στην συνέχεια άλλαξα το remote theme στο αρχείο _config.yml στο αποθετήριο sitegr, ώστε να δείχνει στο δικό μου αποθετήριο minimal-ionio.
+Ανοιξα [issue](https://github.com/ioniodi/sitegr/issues/197) με τίτλο Προσθήκη Jekyll plugin (liquid filter) για email οbfuscation το οποίο δεν έχει πάρει ακόμη green Light
+
 
 
 
