@@ -21,7 +21,7 @@
 | [7](#Παραδοτέο_7) | βιογραφικό |
 | [8](#Παραδοτέο_8) | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | [9](#Παραδοτέο_9) | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
+| [10](#Παραδοτέο_10) | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -912,4 +912,44 @@ surfraw duckduckgo -l archlinux
 
 ---
 
+---
+# Παραδοτέο_10
+**Τίτλος:** Συμμετοχικό περιεχόμενο
+
+Αυτή την εβδομάδα από το [Παραδοτέο_5](#Παραδοτέο_5), έχουμε ήδη κάνει fork το site της [σελίδας](https://github.com/pibook/site). Έχουμε κάνει fork και τα submodules που χρειαζόμαστε και πρέπει να εμπλουτίσουμε με βάση τα ζητούμενα(ένα βιογραφικό σημείωμα και μια μελέτη περίπτωσης που να είναι συναφή με τις προηγούμενες μας προσθήκες).
+
+Όπως βλέπουμε από τα repositories μας, έχουμε κάνει επιτυχώς τα 3 forks που χρειαζόμασταν:
+
+[![fork.png](https://i.postimg.cc/SKv4YDQ8/fork.png)](https://postimg.cc/3ymVPjvJ)
+
+Κάνουμε fork και το repository με τα extras.
+
+Η διαδικασία είναι κοινή με αυτή του παραδοτέου 5, οπότε για να μην επαναλαμβανόμαστε παραθέτουμε τα επιθυμητά αποτελέσματα(αφού πρώτα τα τεστάραμε τοπικά):
+
+Η βιογραφία του August Dvorak:
+
+[![dvorak.gif](https://i.postimg.cc/yN8TGz6r/dvorak.gif)](https://postimg.cc/BjRD8kKx)
+
+Ένα σύντομο case study για το πληκτρολόγιο:
+
+[![case-study.gif](https://i.postimg.cc/tCGNj6C6/case-study.gif)](https://postimg.cc/PNKwbPDf)
+
+ 
+ Και το link της σελίδας μας:
+ https://programmatismos-diadrasis.netlify.app/
+
+---
+
+**Πηγές:**
+Η βιογραφία είναι μια σύνθεση των παρακάτω συνδέσμων:
+- Βασικές πληροφορίες: https://peoplepill.com/people/august-dvorak
+- Πυκνές πληροφορίες για τη ζωή του: https://www.historylink.org/File/20997
+- http://www.engineerguy.com/failure/dvorak.htm
+
+Το case study βασίστηκε στα παρακάτω:
+- Σύνδεσμος του MIT: http://www.mit.edu/~jcb/Dvorak/
+- Πληκτρολόγιο Dvorak: https://www.dvorak-keyboard.com/
+---
+**Video quiz εβδομάδα 10:**
+---
 
