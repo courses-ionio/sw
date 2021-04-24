@@ -226,7 +226,7 @@ A1:Πρόσθεσα τις δυο φωτογραφίες στο images και τ
 
 # Συμμετοχικό περιεχόμενο
 
-B1) Επέλεξα σαν μελέτη περίπτωσης τον browser της Apple. Δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_case-study/cs-safari_search.md)  cs-safari_search και πρόσθεσα το κείμενο μου εκεί στην συνέχεια πρόσθεσα την [φωτογραφία](https://github.com/p16pyla/images/blob/2016136/safari_search.png) μου για το safari. Δημιούργησα το βασικό [αρχείο](https://github.com/p16pyla/site/blob/2016136/_case-study/safari.md) safari. Τέλος έκανα deploy τις αλλαγές μου στο [netlify](https://mypibook.netlify.app/case-study/safari/) 
+B1) Επέλεξα σαν μελέτη περίπτωσης τον browser της Apple. Δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_case-study/cs-safari_search.md)  cs-safari_search και πρόσθεσα το κείμενο μου εκεί στην συνέχεια πρόσθεσα την [φωτογραφία1](https://github.com/p16pyla/images/blob/2016136/safari_search.png) κατι την [φωτογραφία2](https://github.com/p16pyla/images/blob/2016136/safari_search-thumb.png) μου για το safari. Δημιούργησα το βασικό [αρχείο](https://github.com/p16pyla/site/blob/2016136/_case-study/safari.md) safari. Τέλος έκανα deploy τις αλλαγές μου στο [netlify](https://mypibook.netlify.app/case-study/safari/) 
 
 [Refernce1](https://www.apple.com/safari/) 
 
@@ -235,7 +235,7 @@ B1) Επέλεξα σαν μελέτη περίπτωσης τον browser τη�
 [Reference3](https://el.wikipedia.org/wiki/Safari)
 
 
-B2) Επέλεξα να γράψω ένα μικρό κομμάτι της βιογραφίας του Dan Bricklin. Αρχικά δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/bio-bricklin.md) bio-bricklin όπου έβαλα και το κείμενο μέσα στην συνέχεια πρόσθεσα την [φωτογραφία](https://github.com/p16pyla/images/blob/2016136/dan-bricklin.jpg) του. Δημιούργησα το τελικό μου [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/dan-bricklin.md) dan-bricklin. Τέλος το έκανα  deploy τις αλλαγές μου στο [Netlify](https://mypibook.netlify.app/biography/dan-bricklin/) μου 
+B2) Επέλεξα να γράψω ένα μικρό κομμάτι της βιογραφίας του Dan Bricklin. Αρχικά δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/bio-bricklin.md) bio-bricklin όπου έβαλα και το κείμενο μέσα στην συνέχεια πρόσθεσα την [φωτογραφία1]() του. Δημιούργησα το τελικό μου [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/dan-bricklin.md) dan-bricklin. Τέλος το έκανα  deploy τις αλλαγές μου στο [Netlify](https://mypibook.netlify.app/biography/dan-bricklin/) μου 
 
 [Refernce](https://en.wikipedia.org/wiki/Dan_Bricklin) 
 
