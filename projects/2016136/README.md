@@ -235,7 +235,7 @@ B1) Επέλεξα σαν μελέτη περίπτωσης τον browser τη�
 [Reference3](https://el.wikipedia.org/wiki/Safari)
 
 
-B2) Επέλεξα να γράψω ένα μικρό κομμάτι της βιογραφίας του Dan Bricklin. Αρχικά δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/bio-bricklin.md) bio-bricklin όπου έβαλα και το κείμενο μέσα στην συνέχεια πρόσθεσα την [φωτογραφία](https://github.com/p16pyla/_gallery/blob/2016136/dan-bricklin.jpg) του. Δημιούργησα το τελικό μου [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/dan-bricklin.md) dan-bricklin. Τέλος το έκανα  deploy τις αλλαγές μου στο [Netlify](https://mypibook.netlify.app/biography/dan-bricklin/) μου 
+B2) Επέλεξα να γράψω ένα μικρό κομμάτι της βιογραφίας του Dan Bricklin. Αρχικά δημιούργησα το [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/bio-bricklin.md) bio-bricklin όπου έβαλα και το κείμενο μέσα στην συνέχεια πρόσθεσα την [φωτογραφία](https://github.com/p16pyla/images/blob/2016136/dan-bricklin.jpg) του. Δημιούργησα το τελικό μου [αρχείο](https://github.com/p16pyla/site/blob/2016136/_biography/dan-bricklin.md) dan-bricklin. Τέλος το έκανα  deploy τις αλλαγές μου στο [Netlify](https://mypibook.netlify.app/biography/dan-bricklin/) μου 
 
 [Refernce](https://en.wikipedia.org/wiki/Dan_Bricklin) 
 
