@@ -83,7 +83,7 @@ link απο την ανακοίνωση στο site:
 
 ## Συμμετοχικό περιεχόμενο
 
-Περιγραφή:Αρχικά έκανα fork τα αποθετήρια [site](https://github.com/p14ntot/site)  [images](https://github.com/p14ntot/images) και [gallery](https://github.com/p14ntot/_gallery). Στην συνέχεια και μέσω του τερματικού μου έκανα push και commit 2 φωτογραφίες σε πρώτο στo submodule images και στην πορεία στο site repository. Οι φωτογραφίες είναι σχετικά με το mumble και το ubuntu και είναι εδω:  [mumble](https://github.com/p14ntot/images/blob/master/mumble.png), [ubuntu](https://github.com/p14ntot/images/blob/master/ubuntu.png).Στην συνέχεια με το ίδιο τρόπο πρόσθεσα  τις thumbnails  φωτογραφίες. [mumble-thumb](https://github.com/p14ntot/images/blob/master/mumble-thumb.jpg), [ubuntu-thumb](https://github.com/p14ntot/images/blob/master/ubuntu-thumb.jpg).
+Περιγραφή:Αρχικά έκανα fork τα αποθετήρια [site](https://github.com/p14ntot/site),  [images](https://github.com/p14ntot/images) και [gallery](https://github.com/p14ntot/_gallery). Στην συνέχεια και μέσω του τερματικού μου έκανα push και commit 2 φωτογραφίες σε πρώτο στo submodule images και στην πορεία στο site repository. Οι φωτογραφίες είναι σχετικά με το mumble και το ubuntu και είναι εδω:  [mumble](https://github.com/p14ntot/images/blob/master/mumble.png), [ubuntu](https://github.com/p14ntot/images/blob/master/ubuntu.png).Στην συνέχεια με τον ίδιο τρόπο πρόσθεσα  τις thumbnails  φωτογραφίες. [mumble-thumb](https://github.com/p14ntot/images/blob/master/mumble-thumb.jpg), [ubuntu-thumb](https://github.com/p14ntot/images/blob/master/ubuntu-thumb.jpg).
 
 ## Απάντήσεις στο quiz της εβδομάδας
 
