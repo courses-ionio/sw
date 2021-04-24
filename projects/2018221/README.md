@@ -117,6 +117,18 @@
 Έγινε fork το repository minimal-ionio. Στην συνέχεια άλλαξα το remote theme στο αρχείο _config.yml στο αποθετήριο sitegr, ώστε να δείχνει στο δικό μου αποθετήριο minimal-ionio.
 Ανοιξα [issue](https://github.com/ioniodi/sitegr/issues/197) με τίτλο Προσθήκη Jekyll plugin (liquid filter) για email οbfuscation το οποίο δεν έχει πάρει ακόμη green Light
 
+### <a name="Παραδοτέο 9">Παραδοτέο 9</a>
+###  Άσκηση γραμμής εντολών: Create notifications on your sever
+* [x] Δημιουργία λογαριασμού στο [Slack](https://slack.com/intl/en-gr/)
+* [x] Εγκατάσταση του mosquitto: apt-get install mosquitto
+* [x] Εγκατάσταση του client: apt-get install mosquitto-clients
+* [x] Εγκατάσταση του mqttwarn: pip3 install mqttwarn
+* [x] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
+
+
+Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube](https://youtu.be/Rd_3Yf942_Q ) στο οποίο παρουσιάζω την αποστολή μηνύματος στον mqttwarn server καθώς και στο κανάλι μου στο slack.
+
+![Screenshot](slack.png)
 
 
 
