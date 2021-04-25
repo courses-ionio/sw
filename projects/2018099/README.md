@@ -34,7 +34,10 @@
 ### <a name="Ε4">Άσκηση γραμμής εντολών</a>
 | Άσκηση | Link Asciinema |
 | --- | --- |
-| Send notifications to your desktop-mobile | [Link Asciinema]() |
+| Send notifications to your desktop-mobile | [Link Asciinema](https://asciinema.org/a/409830) |
+
+Για την άσκηση γραμμής εντολών αποφάσισα να κάνω την εργασία "Send notifications to your desktop" με την χρήση του εργαλείου Ntfy. Kαι συγκεκριμένα να εμφανίζεται μια ειδοποίηση στην Επιφάνεια Εργασίας όταν ολοκληρώνεται η εγκατάσταση του Spotify. Στην ειδοποίηση πρόσθεσα και το λογότυπο του.
+![spotify_notification](https://github.com/AlexisTsiranidis/added_photos/blob/main/spotify_notification.png?raw=true)
 
 ### <a name="Ε5">Συμμετοχικό περιεχόμενο(A)</a>
 Για το πρώτο παραδοτέο του συμμετοχικού περιεχομένου Α1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου δύο νέες φωτογραφίες. Η πρώτη αφορά το Hypertext και τα Hypermedia και η δεύτερη το Back Button.
