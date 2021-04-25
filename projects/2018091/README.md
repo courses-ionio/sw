@@ -17,7 +17,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#Eβδομάδα-6) |
 | 7 | [βιογραφικό](#Εβδομάδα-7) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών](#Εβδομάδα-9) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -57,3 +57,8 @@
 ## Εβδομάδα 7
 ### PDF Βιογραφικού
 Για την 7η εβδομάδα το ζητούμενο ήταν να δημιουργήσουμε ένα PDF του βιογραφικού μας χρησιμοποιόντας [Pandoc](https://pandoc.org/) και [LaTeX](https://www.latex-project.org/). Ταυτόχρονα έπρεπε να στήσουμε CI που εγώ έκανα μέσω [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks). Στο script του Git Hook, στην αρχή μετατρέπω την live σελίδα του CV σε LaTex και στην συνέχεια από LaTeX σε pdf με χρήση του pdflatex. Η διαδικασία είναι καταγεγραμμένη στο [Asciinema](https://asciinema.org/) στο παρακάτω [link](https://asciinema.org/a/405112). H σελίδα του CV βρίσκεται [εδώ](https://elias2500.github.io/cv-1/)(μέσω GitHub Pages) και [εδώ](https://elias2500-cv.netlify.app/)(μέσω Netlify) και [εδώ](https://github.com/elias2500/cv-1)(repo). Λόγω της μετατροπής από την live ιστοσελίδα του CV σε LaTeX το pdf μένει μια "έκδοση" πίσω. Έχω σκεφτεί κάποιες πιθανές λύσεις τις οποίες θα δοκιμάσω. (Always a work in progress :P). Το πρόβλημα με τις "εκδόσεις" έχει λυθεί και η αλλαγές φαίνονται [εδώ](https://asciinema.org/a/405203). Η τωρινή μορφή από GitHub Pages:![cv-1](https://user-images.githubusercontent.com/44614923/113521293-3bc56e80-95a1-11eb-8288-dfdd5427cfde.png)
+
+## Εβδομάδα 9 
+### Άσκηση γραμμής ενολών
+Για την 8η εβδομάδα το ζητούμενο ήταν να κάνουμε μία άσκηση γραμμής εντολών από τις [διαθέσιμες](https://github.com/epidrome/dokey#software). Εγώ ασχολήθηκα με το [py-spy](https://github.com/benfred/py-spy) και το [hyperfine](https://github.com/sharkdp/hyperfine). Για να δείξω την λειτουργία τους έτρεξα ένα script που κάνει bubble sort σε ένα αρχείο με 10000000 random ints. Το asciinema για το py-spy βρίσκεται [εδώ](https://asciinema.org/a/409884), ενώ για το hyperfine, [εδώ](https://asciinema.org/a/409875). To flamegraph που παράγει το py-spy (στο βίντεο το profile1.svg):
+![profile1](https://user-images.githubusercontent.com/44614923/116007842-5b890900-a61a-11eb-9101-2fc5ee6cee8a.jpg)
