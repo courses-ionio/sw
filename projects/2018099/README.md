@@ -47,6 +47,11 @@
 | [Link Slides "Υπερμέσα"](https://github.com/AlexisTsiranidis/site/blob/2018099/_slides/hypermedia.md) | [Link Timeline "Επιλογές στο γραφικό περιβάλλον"](https://github.com/AlexisTsiranidis/site/blob/2018099/_timeline/gui.md) |
 | --- | --- |
 
+### <a name="Ε6">Άσκηση γραμμής εντολών</a>
+| Άσκηση | Link Asciinema |
+| --- | --- |
+| Deploy an application that forwards a call depending on a white- and black- list of phone numbers | [Link Asciinema]() |
+
 ### <a name="Ε7">Bιογραφικό 2</a>
 Για την δημιουργία PDF χρησιμοποιόντας Pandoc και LaTeX ακολούθησα τα εξής βήματα:
 [Asciinema Link](https://asciinema.org/a/406582)
