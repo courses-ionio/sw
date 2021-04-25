@@ -109,3 +109,9 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 * [x] Εγκατάσταση του mosquitto client: apt-get install mosquitto-clients
 * [x] Εγκατάσταση του mqttwarn: pip3 install mqttwarn
 * [x] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
+
+#### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών - Μέρος Ι](https://asciinema.org/a/409898)
+#### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών - Μέρος ΙΙ ](https://asciinema.org/a/409899)
+![Screenshot](slack.png)
+
+
