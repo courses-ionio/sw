@@ -60,6 +60,10 @@
 | --- |
 | [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/5e03d595cf40fc2d55b7b6788e4cbd3894f15648/cv.pdf) |
 
+### <a name="Ε9">Άσκηση γραμμής εντολών</a>
+| Άσκηση | Link Asciinema |
+| --- | --- |
+| Create an agent for news | [Link Asciinema]() |
 
 ### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
