@@ -100,3 +100,12 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 [![asciicast](https://asciinema.org/a/405530.svg)](https://asciinema.org/a/405530)
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p09apos/online-cv)
 #### [Εκτελέσιμο CV](https://p09apos.github.io/online-cv/)
+
+
+### <a name="Παραδοτέο 9">Παραδοτέο 9</a>
+###  Άσκηση γραμμής εντολών: Create notifications on your sever
+* [x] Δημιουργία λογαριασμού στο [Slack](https://slack.com/intl/en-gr/)
+* [x] Εγκατάσταση του mosquitto: apt-get install mosquitto
+* [x] Εγκατάσταση του mosquitto client: apt-get install mosquitto-clients
+* [x] Εγκατάσταση του mqttwarn: pip3 install mqttwarn
+* [x] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
