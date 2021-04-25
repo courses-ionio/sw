@@ -66,7 +66,7 @@
 ### [Εκτελέσιμο Netlify](https://cyclenikolaos.netlify.app/)
 
 ## <a name="Παραδοτέο 6">Παραδοτέο 6</a>
-## 2η άσκηση γραμμής εντολών</a>
+## 2η άσκηση γραμμής εντολών - set-up continuous integration</a>
 
 Κατέβασα την εφαρμογή ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task. Κατέβασα το εργαλείο youtube-dl της python για το κατέβασμα video από το youtube. Δημιούργησα το αρχείο ntfy.yml. Έκανα ανακατεύθυνση στο αρχείο syslog
 ### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
@@ -79,7 +79,19 @@
 * [x] Δημιούργησα μέσα στο φάκελο .git/hooks το αρχείο post-commit ώστε να τρέχει την εντολή weasyprint με κάθε commit
 ### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
 
-### <a name="Παραδοτέο 8">Παραδοτέο 8</a>
+## <a name="Παραδοτέο 8">Παραδοτέο 8</a>
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
 Έχω ανεβάσει το [issue #205](https://github.com/ioniodi/sitegr/issues/205) ώστε να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα. Θα τροποποιήσω το _config.yml του sitegr αποθετηρίου προκειμένου να παίρνει το remote theme από το δικό μου αποθετήριο minimal-ionio. Θα τροποποιήσω το _config.yml του minimal-ionio. Επίσης, θα τροποποιήσω το masterhead.html στο minimal-ionio.
+
+## <a name="Παραδοτέο 9">Παραδοτέο 9</a>
+## 3η άσκηση γραμμής εντολών - Δημιουργία ειδοποιήσεων στο server μου</a>
+
+Πραγματοποίησα:
+* [x] Δημιουργία λογαριασμού, workspace και channel στο [Slack](https://app.slack.com/client/T020AJNNFQR/C020AJR2B25/user_profile/U01V8TPAW9K)
+* [x] Εγκατάσταση του mosquitto
+* [x] Εγκατάσταση του mosquitto-client
+* [x] Εγκατάσταση του mqttwarn
+* [x] Τροποποίηση του αρχείου mqttwarn.ini
+
+Ανέβασα στο [asciinema](https://asciinema.org/a/409789) video για τη λειτουργία του mqttwarn και τη λήψη του notification
