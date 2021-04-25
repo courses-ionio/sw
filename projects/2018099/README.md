@@ -144,7 +144,7 @@
 
 <br>
 
-### Βίντεο κουίζ 9  'alan kay scaling'
+### Βίντεο κουίζ 10  'alan key Extracting Energy from the Turing Tarpit'
 
 | Ερώτηση/Απάντηση |
 | --- |
