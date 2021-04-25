@@ -92,3 +92,11 @@ asciinema link: https://asciinema.org/a/405026
 
 asciinema : https://asciinema.org/a/406535
 
+# Δεύτερο αίτημα ενσωμάτωσης στην σελίδα του τμήματος #
+**Περιγραφή:** Για το δεύετερο αίτημα ενσωμάτωσης στην σελίδα του τμήματος επέλεξα να προσθέσω ένα νέο topic που θα αναφέρει πληροφόριες για τι έχει δικαίωμα ο φοιτητής να κάνει αφού έχει πάρει το πτυχίο του. Όλες οι πληροφορίες θα προερχόταν από την επίσημη σελίδα του τμήματος. Για να πετύχω αυτό δημιούργησα ένα νέο branch με όνομα add-info-after-grad και έχει τροποποήσα το navigation.yml καθώς πρόσθεσα και τα κατάληλα md αρχεία ώστε να να παρουσιάζονται οι πληροφορίες στο νεο Topic. Για το συγκεκριμένο θέμα δεν πήρα grenn light και στο issue μου ανατέθηκε η ετικέτα good first issue ωστόσο το αναφέρω στην αναφορά μου. Θα προσθέσω παρακάτω τα link από netify και repository
+
+Netlify : https://cocky-dubinsky-bd6efa.netlify.app/after-graduation/
+
+repository : https://github.com/p18vogd/sitegr/tree/2018170-add-info-after-graduation
+
+
