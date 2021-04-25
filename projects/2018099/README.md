@@ -31,6 +31,11 @@
 [Σύνδεσμος Αποθεητρίου](https://github.com/AlexisTsiranidis/sitegr/tree/2018099)<br>
 [Σύνδεσμος Demo](https://priceless-goldstine-674c39.netlify.app/timetables/sem_f/)
 
+### <a name="Ε4">Άσκηση γραμμής εντολών</a>
+| Άσκηση | Link Asciinema |
+| --- | --- |
+| Send notifications to your desktop-mobile | [Link Asciinema]() |
+
 ### <a name="Ε5">Συμμετοχικό περιεχόμενο(A)</a>
 Για το πρώτο παραδοτέο του συμμετοχικού περιεχομένου Α1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου δύο νέες φωτογραφίες. Η πρώτη αφορά το Hypertext και τα Hypermedia και η δεύτερη το Back Button.
 | Link Λεζάντας | Link Εικόνας | Link Thumb |
