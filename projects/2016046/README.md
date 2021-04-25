@@ -47,10 +47,12 @@
 # Βιογραφικό
 
 Link Bio γραμμή εντολών https://p16foti.github.io/cv-1/
+
 Link Repository γραμμή εντολών https://github.com/p16foti/cv-1
 
 
 Link Bio Github https://p16foti.github.io/modern-resume-theme/
+
 Link Repository Github https://github.com/p16foti/modern-resume-theme/tree/2016046
 
 Έκανα fork το συγκεκριμένο θέμα, έφτιαξα το δικό μου branch, επεξεργάστηκα το αρχείο _config.yml και το αρχείο images με τα δικά μου στοιχεία.
@@ -161,6 +163,6 @@ Link Images
 
 (Πηγές: https://en.wikipedia.org/wiki/Larry_Page, https://www.independent.co.uk/news/people/profiles/larry-page-very-private-poster-boy-2191290.html)
 
-(μέσω του τερματικού έκανα update τα submodules)
+Μέσω του τερματικού έκανα update τα submodules.
 
 
