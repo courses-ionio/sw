@@ -121,3 +121,24 @@ asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 asciinema link: https://asciinema.org/a/NVl1ukmhNc2PPjt4cRDidei6w
+
+### Παραδοτέο 10
+Συμμετοχικό υλικό - Β .
+
+- Case-study.
+
+https://github.com/AnTonyPapako/site/blob/2018158/_case-study/augmentedreality.md
+
+- Biorgraphy.
+
+https://github.com/AnTonyPapako/site/blob/2018158/_biography/william-stephen-george-mann.md
+
+Αναφορές σχετικά με την βιογραφία.
+
+https://en.wikipedia.org/wiki/Steve_Mann_(inventor)
+
+https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future
+
+https://www.youtube.com/watch?v=Z9qiWqRPrcw
+
+https://www.youtube.com/watch?v=QKRTiOG4J5E
