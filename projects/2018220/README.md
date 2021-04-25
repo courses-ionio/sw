@@ -94,4 +94,6 @@
 * [x] Εγκατάσταση του mqttwarn
 * [x] Τροποποίηση του αρχείου mqttwarn.ini
 
+![screenshot](slack.png)
+
 Ανέβασα στο [asciinema](https://asciinema.org/a/409789) video για τη λειτουργία του mqttwarn και τη λήψη του notification
