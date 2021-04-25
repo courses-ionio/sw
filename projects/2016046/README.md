@@ -12,7 +12,7 @@
 | 7 | Βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | [Άσκηση γραμμής εντολών](#Άσκηση_γραμμής_εντολών) |
-| 10 | Συμμετοχικό περιεχόμενο |
+| 10 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό_περιεχόμενο) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -130,3 +130,37 @@ Link Asciinema https://asciinema.org/a/urPIxJtLPLwAGl6G4rEiQB7r8
 Σύνδεσα το Github με τον τερματικό μου και έκανα clone το βιογραφικό μου που είχα δημιουργήσει με το github pages.Κατά τη διάρκεια έκανα κάποια λάθη με τα directories αλλά όπως φαίνεται και στο βίντεο κατάφερα να το διορθώσω.Έτσι με αυτόν τον τρόπο πραγματοποίησα μία αλλαγή που χρειαζόταν το βιογραφικό μου.
 
 (Όνομα άσκησης:Set up continuous integration)
+
+# Συμμετοχικό_περιεχόμενο 
+
+~LINKS (GOOGLE TRANSLATE):
+
+Link Netlify https://p16foti.netlify.app/case-study/google_translate/
+
+Link CaseStudy 
+- https://github.com/p16foti/site/blob/2016046/_case-study/google_translate.md
+- https://github.com/p16foti/site/blob/2016046/_case-study/cs-google_translate.md
+
+Link Images
+- https://github.com/p16foti/images/blob/e9044af1348f1a73f533af3ad3e4ce13265d3a7c/google_translate.png
+- https://github.com/p16foti/images/blob/e9044af1348f1a73f533af3ad3e4ce13265d3a7c/google_translate-thumb.png
+
+(Πηγές: https://en.wikipedia.org/wiki/Google_Translate, http://googlesystem.blogspot.com/2007/10/google-translate-switches-to-googles.html, https://www.cnet.com/news/google-translate-now-serves-200-million-people-daily/)
+
+~LINKS (LARRY PAGE):
+
+Link Netlify https://p16foti.netlify.app/biography/larry-page/
+
+Link Biography
+- https://github.com/p16foti/site/blob/2016046/_biography/larry-page.md
+- https://github.com/p16foti/site/blob/2016046/_biography/bio-page.md
+
+Link Images
+- https://github.com/p16foti/images/blob/e9044af1348f1a73f533af3ad3e4ce13265d3a7c/larry-page.jpg
+- https://github.com/p16foti/images/blob/e9044af1348f1a73f533af3ad3e4ce13265d3a7c/larry-page-thumb.jpg
+
+(Πηγές: https://en.wikipedia.org/wiki/Larry_Page, https://www.independent.co.uk/news/people/profiles/larry-page-very-private-poster-boy-2191290.html)
+
+(μέσω του τερματικού έκανα update τα submodules)
+
+
