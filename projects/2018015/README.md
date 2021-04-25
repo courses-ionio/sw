@@ -25,7 +25,7 @@
 | 7 | **[Βιογραφικό]()** | [:seven:]() | 
 | 8 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα]()** | [:eight:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz8%EF%B8%8F%E2%83%A3) |
 | 9 | **[Άσκηση γραμμής εντολών]()** | [:nine:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz9%EF%B8%8F%E2%83%A3) |
-| 10 | **[Συμμετοχικό περιεχόμενο]()** | [:keycap_ten:]() |
+| 10 | **[Συμμετοχικό περιεχόμενο]()** | [:keycap_ten:](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-quiz) |
 | 11 | **[Άσκηση γραμμής εντολών]()** | [:one::one:]() |
 | 12 | **[Τελική αναφορά]()** | [:one::two:]() |
 
