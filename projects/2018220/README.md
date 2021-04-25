@@ -78,3 +78,8 @@
 * [x] Δημιούργησα το φάκελο pdf στο σκληρό μου δίσκο για να αποθηκεύεται το βιογραφικό μου μορφή pdf
 * [x] Δημιούργησα μέσα στο φάκελο .git/hooks το αρχείο post-commit ώστε να τρέχει την εντολή weasyprint με κάθε commit
 ### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
+
+### <a name="Παραδοτέο 8">Παραδοτέο 8</a>
+## Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
+
+Έχω ανεβάσει το [issue #205](https://github.com/ioniodi/sitegr/issues/205) ώστε να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα. Θα τροποποιήσω το _config.yml του sitegr αποθετηρίου προκειμένου να παίρνει το remote theme από το δικό μου αποθετήριο minimal-ionio. Θα τροποποιήσω το _config.yml του minimal-ionio. Επίσης, θα τροποποιήσω το masterhead.html στο minimal-ionio.
