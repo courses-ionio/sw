@@ -126,7 +126,7 @@
 * [x] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
 
 
-Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube](https://youtu.be/Rd_3Yf942_Q ) στο οποίο παρουσιάζω την αποστολή μηνύματος στον mqttwarn server καθώς και στο κανάλι μου στο slack.
+Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube  mqttwarn](https://youtu.be/VC6Tn2kYndo ) στο οποίο παρουσιάζω την αποστολή μηνύματος στον mqttwarn server καθώς και στο κανάλι μου στο slack.
 
 ![Screenshot](slack.png)
 
