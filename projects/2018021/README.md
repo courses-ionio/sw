@@ -23,7 +23,7 @@
 | <ul><li>- [x] </li></ul> | [7](#Παραδοτέο-7) | Βιογραφικό |
 | <ul><li>- [x] </li></ul> | [8](#Παραδοτέο-8) | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <ul><li>- [x] </li></ul> | [9](#Παραδοτέο-9) | Άσκηση γραμμής εντολών |
-| <ul><li>- [ ] </li></ul> | 10 | Συμμετοχικό περιεχόμενο |
+| <ul><li>- [x] </li></ul> | [10](#Παραδοτέο-10) | Συμμετοχικό περιεχόμενο |
 | <ul><li>- [ ] </li></ul> | 11 | Άσκηση γραμμής εντολών |
 | <ul><li>- [ ] </li></ul> | 12 | Τελική αναφορά |
 
@@ -88,7 +88,7 @@
 - [fork](https://github.com/PaulosKal/images/tree/aab356a8e64db33662ab30c23a82923c2b264e08) το submodule images για να προσθέσω περιεχόμενο
 - Άλλαξα το [configuration](https://github.com/PaulosKal/site/commit/dfeffbd53dd0cf64d0c586785bf39de0b7df59da) των παραπάνω submodules ώστε να δείχνουν στα δικά μου
 - Πρόσθεσα το νέο περιεχόμενο (παρακάτω) σύμφωνα με τη διαδικασία που απαιτούν τα submodules ([asciinema link](https://asciinema.org/a/401093))
-- Άλλαξα το [_conig.yml](https://github.com/PaulosKal/site/commit/9d8fd17dbe9773502983d54a6def55b8cd734088) για να υποστηρίζει custom deploy στο Netlify
+- Άλλαξα το [_config.yml](https://github.com/PaulosKal/site/commit/9d8fd17dbe9773502983d54a6def55b8cd734088) για να υποστηρίζει custom deploy στο Netlify
 - Είδα όλες τις αλλαγές στη [δική μου έκδοση του site στο Netlify](https://6057fdc7fc8a06d65444c72d--gracious-shannon-ea8d87.netlify.app/)
 
 **Περιεχόμενο που προστέθηκε/τροποποιήθηκε:**
@@ -164,7 +164,32 @@ asciinema link: https://asciinema.org/a/403524
 (Screenshot)
 
 
-### Παραδοτέο 10 (υπό επεξεργασία)
+### Παραδοτέο 10
+
+**Για την υλοποίηση αυτού του παραδοτέου ακολουθήθηκε η εξής διαδικασία:**
+
+- Έκανα [fork](https://github.com/PaulosKal/extras/tree/master) το submodule _includes/extras
+- Άλλαξα το [configuration](https://github.com/PaulosKal/site/commit/f905a785c6dd0f85a7c95c26ef7f31817997ef8b) του παραπάνω submodule ώστε να δείχνει στο δικό μου
+- Πρόσθεσα το νέο περιεχόμενο (παρακάτω) σύμφωνα με τη διαδικασία που απαιτούν τα submodules ([προηγούμενο asciinema link](https://asciinema.org/a/401093))
+- Δυστυχώς αυτή τη φορά δεν είδα τις αλλαγές στη [δική μου έκδοση του site στο Netlify](https://6057fdc7fc8a06d65444c72d--gracious-shannon-ea8d87.netlify.app/) (εξήγηση παρακάτω)
+
+**Περιεχόμενο που προστέθηκε/τροποποιήθηκε:**
+
+- [_case-study/gis.md](https://github.com/PaulosKal/site/blob/master/_case-study/gis.md)
+- [_includes/extras/cs-gis.md](https://github.com/PaulosKal/extras/blob/master/cs-gis.md)
+
+- [_biography/roger-tomlinson.md](https://github.com/PaulosKal/site/blob/master/_biography/roger-tomlinson.md)
+- [_includes/extras/bio-roger-tomlinson.md](https://github.com/PaulosKal/extras/blob/master/bio-roger-tomlinson.md)
+- [_gallery/roger-tomlinson.md](https://github.com/PaulosKal/_gallery/blob/master/roger-tomlinson.md)
+- [images/roger-tomlinson.jpg](https://github.com/PaulosKal/images/blob/master/roger-tomlinson.jpg)
+- [images/roger-tomlinson-thumb.jpg](https://github.com/PaulosKal/images/blob/master/roger-tomlinson-thumb.jpg)
+
+Λόγω του ότι στο [παραδοτέο 5](#Παραδοτέο-5) είχα προσθέσει εικόνες διαφορετικής κατηγορίας μεταξύ τους, αποφάσισα να επιλέξω θεματολογία από τη μία από αυτές, δηλαδή τα **GIS**. Ουσιαστικά, πρόσθεσα το αρχείο μεταδεδομένων της μελέτης περίπτωσης στο [_case-study](https://github.com/PaulosKal/site/tree/master/_case-study) και το κείμενο στο [_includes/extras](https://github.com/PaulosKal/extras). Όσον αφορά τη βιογραφία, πρόσθεσα το αρχείο μεταδεδομένων στο [_biography](https://github.com/PaulosKal/site/tree/master/_biography) και το κείμενο ξανά στο [_includes/extras](https://github.com/PaulosKal/extras). Για τη βιογραφία, πρόσθεσα και μία εικόνα (μαζί με το thumbnail της) στο [images](https://github.com/PaulosKal/images/tree/master) και το αρχείο μεταδεδομένων της στο [_gallery](https://github.com/PaulosKal/_gallery/tree/master) (στη μελέτη περίπτωσης δεν χρειάστηκε γιατί την είχα προσθέσει στο προηγούμενο παραδοτέο).
+
+Παρόλο που στο προηγούμενο παραδοτέο κατάφερα να ρυθμίσω σωστά τα submodules και έκανα και asciinema cast για να το προβάλλω, αυτή τη φορά η τύχη δεν ήταν με το μέρος μου και πήγαν όλα στραβά (το ακολούθησα βήμα-βήμα). Έκανα τα commits κανονικά αλλά μπέρδεψα κάπου τα branches και πήγαν στο master αντί για το branch με τον αναγνωριστικό αριθμό των submodules. Προσπάθησα τα πάντα για να το επαναφέρω αλλά δεν τα κατάφερα και το Netlify κολλάει στο build, υποψιάζομαι για αυτόν τον λόγο... Ελπίζω τουλάχιστον να είναι εντάξει τα αρχεία.
+
+
+### Παραδοτέο 11 (υπό επεξεργασία)
 
 
 [go to the top](#Αναφορά-εργασίας)
