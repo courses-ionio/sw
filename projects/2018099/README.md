@@ -53,7 +53,12 @@
 ### <a name="Ε6">Άσκηση γραμμής εντολών</a>
 | Άσκηση | Link Asciinema |
 | --- | --- |
-| Deploy an application that forwards a call depending on a white- and black- list of phone numbers | [Link Asciinema]() |
+| Deploy an application that forwards a call depending on a white- and black- list of phone numbers | [Link Asciinema](https://asciinema.org/a/410001) |
+
+Για την άσκηση γραμμής εντολών αποφάσισα να χρησιμοποιήσω το εργαλείο Twilio. Συγκεκριμένα έχοντας ήδη την γλώσσα Python εγκατεστημένη κατέβασα το Twilio με την εντολή "pip3 install twilio". Έχοντας ήδη δημιουργήσει λογαριασμό και μέσα απο τα templates και το documentaion του Twilio σύνταξα κώδικα Python(βλέπε asciinema) ο οποίος πραγματοποιεί κλήση στο κινητό μου. Μέσα απο την web εφαρμογή του Twilio δημιούργησα μια συνάρτηση για μια Blocklist αριθμών τηλεφώνων και την έθεσα σε λειτουργία. 
+<br>
+![call](https://github.com/AlexisTsiranidis/added_photos/blob/main/signal-2021-04-26-180223.jpeg)
+![blocklist_function](https://github.com/AlexisTsiranidis/added_photos/blob/main/twilio.jpg)
 
 ### <a name="Ε7">Bιογραφικό 2</a>
 Για την δημιουργία PDF χρησιμοποιόντας Pandoc και LaTeX ακολούθησα τα εξής βήματα:
