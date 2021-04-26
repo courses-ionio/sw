@@ -43,7 +43,7 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 |**Deliverable** | **Assignment** | **Demo** | 
 |:---------:| :--------: |  :--------: |
 |**First** |**Send notifications to your desktop-mobile**| [Asciinema Video](https://asciinema.org/a/398905) |   
-|**Second**|**Deploy an application that forwards a call depending on a white- and black- list of phone numbers**|Asciinema Video|
+|**Second**|**Deploy an application that forwards a call depending on a white- and black- list of phone numbers**|[Asciinema Video](https://asciinema.org/a/409967)|
 |**Third**|**Create an agent for news**|Asciinema Video|
 
 
