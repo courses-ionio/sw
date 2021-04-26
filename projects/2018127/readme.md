@@ -13,8 +13,8 @@
 | 3 | [Ionian University Site PR](#pull-request-1) | [Απαντήσεις εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week3.md) |
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
 | 5 | [Collaborative Work #1](#collaborative-work-pibook-1) | Υποβολή μέσω εφαρμογής
-| 6 | Άσκηση γραμμής εντολών | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week6.md)
-| 7 | βιογραφικό |
+| 6 | [CLI Exercise #2](#cli-exercise-2) | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week6.md)
+| 7 | [CV pt2](#cv-part-2) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -73,3 +73,20 @@ The pibook repo utilizes submodules, which while being easy to setup, recording 
 <a href="https://asciinema.org/a/nFsVPoymzZ7iRvLTVW04Pzdjf" target="_blank"><img src="https://asciinema.org/a/nFsVPoymzZ7iRvLTVW04Pzdjf.svg" width="400"/></a>
 
 Not a tough one, but definitely a time-intensive one.
+
+## CV part 2
+For the second part of the CV assignment we were tasked to convert our cv into a pdf, which was a pretty straight forward task done with pandoc and the following command:
+
+```
+pandoc https://runtheorun-exe.github.io/online-cv/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex
+```
+This resulted in an (objectively, aesthetically displeasing) [file](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/cv.pdf) which can be seen below
+<img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot 2021-04-26 153001.png" width="400"/>
+The automation part of this assignment was done with a GitHub Action documented [here](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/.github/workflows/cv2pdf.yml). 
+Since the CV has a GitHub Pages-poewred website, the GH Action gets triggered everytime GH Pages has fnished rebuilding the website. This can lead to unnecessary triggers (for instance CSS modifications don't affect the pdf) but seeing as gh Pages needs some time to build the updated website, this solution seemed the best one.
+
+
+## CLI Exercise #2
+For the 2nd CLI Assignment, I chose to work on Huginn. Following the simple installation on Docker, and following [this tutorial](https://github.com/courses-ionio/sw-lab#huginn-agents) I created one website agent and one post agent, the former scraping news from the Ionian University website and the latter pushing them to a channel on slack. Later I added 2 RSS Agents for ThePressProject and CNN Europe. All run every 5 minutes and the Post Agent gets triggered automatically when fresh news are uploaded.
+
+[<img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot%202021-04-26%20182535.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
