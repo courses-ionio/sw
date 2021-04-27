@@ -212,16 +212,21 @@ Option
 
 
 ###### [10]
+
 ### Μελέτη Περίπτωσης Links
 
-*link Βιβλίου
+* Link Βιβλίου
 * [Link Case Study](https://romantic-varahamihira-b4537e.netlify.app//case-study/simula-language/)
-* 
-*link Αποθετηρίου submodule-extras
+
+* Link Αποθετηρίου submodule-extras
 * [Link Case Study](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
 
 ### Bιογραφία Links 
+
+* Link Βιβλίου
 * [Link Bio](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
+
+* Link Αποθετηρίου biography
 * [Link Bio Ole-Johan ](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
 
 
