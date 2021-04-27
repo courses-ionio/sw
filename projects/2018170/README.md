@@ -99,4 +99,47 @@ Netlify : https://cocky-dubinsky-bd6efa.netlify.app/after-graduation/
 
 repository : https://github.com/p18vogd/sitegr/tree/2018170-add-info-after-graduation
 
+# Τρίτη άσκηση τερματικού 
+**Περιγραφή** Για την τρίτη εργασία τερματικού επέλεξα να συνδέσω το mqttwarn με το slack με την βοήθεια των http requests έτσι ώστε να μπορώ να βλέπω τις ειδοποιήσεις και από άλλη πλατφόρμα που μπορώ εύκολα να κάνω εγκατάσταση και στο κινητό. Για την συγκεκριμένη εργασία έκανα δύο καταγραφές asciinema στο πρώτο βλέπουμε το log του mqttwarn όπου μέσο αυτό βλέπουμε και τι μηνύματα στέλνονται και που. Στο δεύτερο βλέπουμε πώς στέλνουμε τα μηνύματα με την βοήθεια ενός mosquitto client. Παρακάτω θα προσθέσω και τις αλλαγές που έκανα στο mqttwarn.ini γιατί δεν είναι κατανοητές μέσο του asciinema
 
+asciinema για το log : https://asciinema.org/a/410222
+
+asciinema για τις εντολές : https://asciinema.org/a/410224
+
+**Οι αλλαγές στο .ini αρχείο**
+Πρόσθεσα το http στο launch 
+
+Πρόσθεσα το [config:http] στο Targets 
+
+Πρόσθεσα το [notifications] στο Basic
+
+Το παρακάτω link με βοήθησε για το http στο .ini αρχείο https://github.com/jpmens/mqttwarn/blob/master/HANDBOOK.md#http
+ ```
+        
+        launch    = file, log, http
+
+        ; -------
+        ; Targets
+        ; -------
+
+        [config:http]
+        timeout = 60
+        targets = {
+                                      
+          'notifications'    : [ "post", "https://hooks.slack.com/services/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", None, True ]
+          }
+
+        ; ------------------------------------------
+        ;                  Basic
+        ; ------------------------------------------
+
+        [hello/1]
+        ; echo '{"name": "temperature", "number": 42.42}' | mosquitto_pub -h localhost -t hello/1 -l
+        targets = log:info
+        format = u'{name}: {number} => {_dthhmm}'
+
+        [notifications]
+        targets = http
+``` 
+
+        
