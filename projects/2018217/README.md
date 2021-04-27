@@ -140,5 +140,6 @@
 
 ### 2η Άσκηση Συμμετοχικού Περιεχομένου
 #### [Ιστοσελίδα Βιβλίου - Ο Προγραμματισμός της Διάδρασης](https://optimistic-bartik-1be75a.netlify.app/)
-#### [1η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/objective-c/)
-#### [2η Φωτογραφία Άσκησης Συμμετοχικού Περιεχομένου](https://optimistic-bartik-1be75a.netlify.app/gallery/python/)
+#### [Βιογραφία - Guido van Rossum](https://optimistic-bartik-1be75a.netlify.app/biography/guido-rossum/)
+#### [Μελέτη Περίπτωσης - Jupyter](https://optimistic-bartik-1be75a.netlify.app/biography/guido-rossum/)
+#### [Αποθετήριο Συμμετοχικού Περιεχομένου](https://github.com/p18mant/site)
