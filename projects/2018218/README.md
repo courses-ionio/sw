@@ -215,19 +215,25 @@ Option
 
 ### Μελέτη Περίπτωσης Links
 
-* Link Βιβλίου
-* [Link Case Study](https://romantic-varahamihira-b4537e.netlify.app//case-study/simula-language/)
+* Link Case Study Βιβλίου
+ * [Link Bio](https://romantic-varahamihira-b4537e.netlify.app/case-study/)
+
+* Link Μελέτης Περίπτωσης Βιβλίου
+ * [Link Case Study](https://romantic-varahamihira-b4537e.netlify.app//case-study/simula-language/)
 
 * Link Αποθετηρίου submodule-extras
-* [Link Case Study](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
+ * [Link Case Study](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
 
-### Bιογραφία Links 
+### Bιογραφία Ole-Johan Links 
 
-* Link Βιβλίου
-* [Link Bio](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
+* Link Βιογραφιών Βιβλίου
+ * [Link Bio](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
 
-* Link Αποθετηρίου biography
-* [Link Bio Ole-Johan ](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
+* Link Βιογραφίας Ole-Johan
+ * [Link Bio Ole-Johan ](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
+
+* Link Αποθετηρίου ole-johan
+ * [Link Case Study](https://github.com/DIATSIGK/site/blob/master/_biography/ole-johan.md)
 
 
 
