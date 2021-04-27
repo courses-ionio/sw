@@ -11,7 +11,7 @@
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | συμμετοχικό περιεχόμενο<sup><a href="#10">[ΠΑΡΑΔΟΤΕΟ 10]</a></sup> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -88,6 +88,9 @@ ScreenShot Image |
   Simula είναι το όνομα δυο γλωσσών προγραμματισμού (simula I και Simula 67 που δημιουργήθηκαν το 1960 από τους Ole-Johan Dahl και Kristen Nygaard.Η Simula 67 παρουσίασε αντικείμενα, κληρονομικότητα και υποκλάσεις, εικονικές διαδικασίες, συρρουτίνες, και προσομοίωση διακριτών συμβάντων, και διαθέτει συλλογή σκουπιδιών. Η Simula θεωρείται η πρώτη αντικειμενοστρεφής γλώσσα προγραμματισμού. Όπως υποδηλώνει το όνομά του, η πρώτη έκδοση Simula το 1962 σχεδιάστηκε για να κάνει προσομοιώσεις. Το Simula 67 όμως σχεδιάστηκε για να είναι μια γλώσσα προγραμματισμού γενικής χρήσης και παρείχε το πλαίσιο για πολλές από τις δυνατότητες των αντικειμενοστρεφών γλωσσών σήμερα. Το Simula έχει χρησιμοποιηθεί σε ένα ευρύ φάσμα εφαρμογών, όπως προσομοίωση σχεδίων μεγάλης κλίμακας ολοκλήρωσης (VLSI), μοντελοποίηση διαδικασιών, πρωτόκολλα επικοινωνίας, αλγόριθμοι και άλλες εφαρμογές όπως στοιχειοθεσία, γραφικά υπολογιστών και εκπαίδευση.
   
 ## Timeline
+Timeline για Simula:
+  * [Link Timeline](https://romantic-varahamihira-b4537e.netlify.app//timeline/programming/)
+Timeline για Pinball Construction Set
   * [Link Timeline](https://romantic-varahamihira-b4537e.netlify.app//timeline/videogames/)
   
   
@@ -204,6 +207,15 @@ Option
 
 Με την παραπάνω διαδικασία έλαβα το παρακάτω μήνυμα στο slack:
 ![image](https://user-images.githubusercontent.com/56764193/115163121-01cf8e80-a0b0-11eb-8999-a606cdf93435.png)
+
+
+###### [10]
+### Μελέτη Περίπτωσης Link
+* [Link Case Study](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
+
+### Bιογραφία
+* [Link Bio](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
+* [Link Bio Ole-Johan ](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
 
 
 
