@@ -73,6 +73,12 @@
 | --- | --- |
 | Create an agent for news | [Link Asciinema]() |
 
+### <a name="Ε10">Συμμετοχικό περιεχόμενο</a>
+Για το δεύτερο παραδοτέο του συμμετοχικού περιεχομένου Β1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου μια νέα μελέτη περίπτωσης. Το Hypertext Editing System του Andries van Dam βασισμένο στις ιδέες του Ted Nelson.
+| Link Μελέτης περίπτωσης | Link gallery | Link images | Link images(thumb) | Link extras |
+| --- | --- | --- | --- | --- |
+| [Hypertext Editing System](https://github.com/AlexisTsiranidis/site/blob/2018099/_case-study/hypertext_editing_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system_thumb.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/extras/blob/2018099/cs-hypertext_system.md) |
+
 ### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
 | --- |
