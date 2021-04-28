@@ -79,6 +79,11 @@
 | --- | --- | --- | --- | --- |
 | [Hypertext Editing System](https://github.com/AlexisTsiranidis/site/blob/2018099/_case-study/hypertext_editing_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system_thumb.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/extras/blob/2018099/cs-hypertext_system.md) |
 
+Για το Β2 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου μια νέα Βιογραφία. Την βιογραφία του Andries van Dam συνδημιουργό του Hypertext Editing System.
+| Link Βιογραφίας | Link images | Link images(thumb) | Link extras |
+| --- | --- | --- | --- |
+| [Andries van Dam](https://github.com/AlexisTsiranidis/site/blob/2018099/_biography/andries-van-dam.md) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam_thumb.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/extras/blob/2018099/bio-andries-van-dam.md) |
+
 ### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
 | --- |
