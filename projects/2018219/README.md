@@ -15,7 +15,7 @@
     <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td></tr>
     <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td></tr>
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
-    <tr><td align="center">9</td><td align="left"><a href="#P9">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td></tr>
     <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο</a></td></tr>
     <tr><td align="center">11</td><td align="left"><a href="#P11">Άσκηση γραμμής εντολών</a></td></tr>
     <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td></tr>
@@ -128,7 +128,15 @@
 ## <a href="#P">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a>
 &nbsp;&nbsp;
 ## <a name="P9">Παραδοτέο 9</a>
-## <a href="#P">Άσκηση γραμμής εντολών</a>
+## <a href="#P">3η άσκηση γραμμής εντολών - Create notifications on your sever</a>
+Σε αυτό το παραδοτέο γίνεται χρήση της υπηρεσίας `mqttwarn` σε συνδυασμό με έναν `MQTT broker`.
+- Αρχικά δημιούργησα ένα λογαριασμό στο <a href="https://slack.com">slack</a>, έφτιαξα το workspace IONIO_SW και όρισα σε αυτό το channel paradote09 και το app `mqtt-notif-app`.
+- Ακολούθως εγκατέστησα τον mqtt broker mosquitto και τους αντίστοιχους clients
+- Και στη συνέχεια, εγκατέστησα την υπηρεσία mqttwarn κι έκανα τις σχετικές προσθήκες στο αρχείο mqttwarn.ini ώστε να στέλνονται οι ειδοποιήσεις στο slack app του λογαρισμού μου. Έτσι γράφοντας ένα μήνυμα στο τερματικό από τον mosquitto client, αυτό μέσω της υπηρεσίας mqttwarn αποστέλλεται στο slack και μέσω του slack σε όσους έχω προσθέσει στη λίστα παραλαβής του καναλιού μου.
+- Αυτή η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/Paradoteo_9.png">εικόνα</a> είναι στιγμιότυπο της οθόνης του Η/Υ μου0 στο οποίο φαίνεται αριστερά το terminal, το οποίο είναι χωρισμένο σε δυο τμήματα, δεξιά τα μηνύματα στο slac και πάνω δεξιά η ειδοποίηση από το slac προς το desktop.
+- To terminal έχει χωριστεί σε δυο τμήματα, σε αυτό που τρέχει το mqttwarn και σε αυτό που γράφεται το μήνυμα. Αυτό έχει γίνει για να φαίνoνται στην ιδια εγγραφή με το asciinema και τα δυο terminals και έχει επιτευχθεί με τη βοήθεια της εφαρμογής `screen`.
+- <a href="https://asciinema.org/a/410480">Σύνδεσμος καταγραφής Asciinema</a>
+
 &nbsp;&nbsp;
 ## <a name="P10">Παραδοτέο 10</a>
 ## <a href="#P">Συμμετοχικό περιεχόμενο</a>
