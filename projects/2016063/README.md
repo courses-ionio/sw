@@ -111,6 +111,8 @@ Link αποθετηριου _gallery: https://github.com/p16andr/_gallery
 
 ## Παραδοτέο 6
 
+### 2η Άσκηση Γραμμής Εντολών: Create notifications on your sever
+
 Αρχικα εγκατεστησα τα απαραιτητα πακετα που χρειαζοταν για την ασκηση με τις εντολες "sudo apt-get install mosquitto" και "sudo apt-get install mosquitto-clients". Με την εντολη "mosquitto" ετρεξα το plugin. Στην συνεχεια εκτελεσα την εντολη "mosquitto_sub -h localhost -t test" ωστε να γινει εγγραφη σε ενα νεο Topic το οποιο το ονομασα test. Τελος ανοιξα ενα δευτερο τερματικο και εκτελοντας την εντολη "mosquitto_pub -h localhost -t test -m "Hello, im writing this test from a second terminal. The asciinema record of the other terminal is in the link below this recording." το συνδεσα με το πρωτο τερματικο.
 
 1o Link asciinema: https://asciinema.org/a/fkMtytp0cfUNId9JHqkdVBHfT
