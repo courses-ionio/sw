@@ -52,7 +52,7 @@
   - Τροποποίησα το [_slides/archetypes.md](https://github.com/Haki-Malai/site/commit/ff0fcc38e51a19c0a889743826627b692e600283) και το [_slides/tools.md](https://github.com/Haki-Malai/site/commit/d46a10e6b69190878fad8e6c0ffabc6ddca11606)
 
 # 2η άσκηση γραμμής εντολών
-  Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<br>-[Φωτογραφία](https://ibb.co/ChZyGXJ)
+  Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<img src="https://i.ibb.co/FgM1Tfs/164070014-308263500637015-1390868730852358791-n.jpg" alt="164070014-308263500637015-1390868730852358791-n" border="0" height="300"/>
   
 # Βιογραφικό
   Με την βοήθεια των οδηγιών του εργαστηρίου από τον κ.Ρίγγα χρησιμοποίησα το εργαλείο weasyprint για την δημιουργία του pdf του βιογραφικού μου. Στην συνέχεια το πρόσθεσα σε έναν [φάκελο](https://github.com/Haki-Malai/Resume/tree/main/pdf) του [Resume](https://github.com/Haki-Malai/Resume) μου. Στην συνέχεια, πρόσθεσα ένα καινούριο κουμπί ,με εικονίδιο ένα icon για pdf, στο οποίο για το download απλώς έβαλα το λινκ του download του Github.
