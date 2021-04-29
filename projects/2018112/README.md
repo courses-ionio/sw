@@ -12,7 +12,7 @@
 | <a href="#C">6</a> |<a href="#C"> Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| <a href="#O">9</a> |<a href="#O"> Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -96,6 +96,23 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 - [Asciinema link 1](https://asciinema.org/a/406696)
 - [Asciinema link 2](https://asciinema.org/a/406697)
 - [Slack Screenshot](https://prnt.sc/11aju0s)
+
+---
+
+## <a name="O">3η Άσκηση γραμμής εντολών</a>
+
+Θέμα: Create notifications on your sever
+
+Παραδοτέο:  Send notifications on important server events
+
+Εγκατέστησα το [mosquitto](https://mosquitto.org/), τους mosquitto-clients και το mqttwarn. Στη συνέχεια δημιούργησα τα mqttwarn.ini και samplefuncs.py αρχεία.
+Στο mqttwarn.ini πρόσθεσα το [config:http](https://github.com/jpmens/mqttwarn/blob/master/HANDBOOK.md#http) και συμπλήρωσα τα στοιχεία του webhook του slack μου.
+Στα βιντεάκια του asciinema έστειλα δύο μηνύματα μέσω mosquitto τα οποία τα έλαβα και στο slack, όπως φαίνεται και στο επισυναπτόμενο screenshot.
+
+
+- [Asciinema link 1](https://asciinema.org/a/410778)
+- [Asciinema link 2](https://asciinema.org/a/410779)
+- [Slack Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(484).png)
 
 ---
 
