@@ -11,7 +11,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |
 | 5 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-5) |
 | 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) |
-| 7 | Βιογραφικό |
+| 7 | [Βιογραφικό](#Παραδοτέο-7) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | Συμμετοχικό περιεχόμενο |
@@ -125,6 +125,19 @@ Link αποθετηριου _gallery: https://github.com/p16andr/_gallery
 
 <a href="https://asciinema.org/a/dmS6syqYOMCaK4LWFrzz51e2H" target="_blank"><img src="https://asciinema.org/a/dmS6syqYOMCaK4LWFrzz51e2H.svg" /></a>
 
+## Παραδοτέο 7
+
+Link asciinema: https://asciinema.org/a/rqH6OjeRaIVerTWMRFmvqAaLE
+
+Αρχικα εκανα clone το [https://github.com/p16andr/online-cv] repository μου και εγκατεστησα το weasyprint μεσω της εντολης "pip3 install weasyprint". Στην συνεχεια δημιουργησα τον φακελο pdf με την εντολη "mkdir pdf" μεσα στο online-cv μου. Στην συνεχεια μεσα στον φακελο pdf εκτελεσα την εντολη "weasyprint https://p16andr.github.io/online-cv/ pdf/cv.pdf" και εκτελοντας την εντολη "ls" μεσα στο online-cv βλεπεις οτι υπαρχει ο φακελος pdf. Εκτελεσα την εντολη "weasyprint https://p16andr.github.io/online-cv/ pdf/cv.pdf" και μεσα στο γενικο repository online-cv. Εκτελοντας την εντολη "ls" μεσα στον φακελο pdf βλεπουμε το cv.pdf αρχειο μας και εκτελοντας κατα σειρα τις εντολες "git add ."  git commit -m "pdf" και "git push" ολοκληρωνουμε την διαδικασια.
+
+<a href="https://asciinema.org/a/rqH6OjeRaIVerTWMRFmvqAaLE" target="_blank"><img src="https://asciinema.org/a/rqH6OjeRaIVerTWMRFmvqAaLE.svg" /></a>
+
+Link Εκτελεσιμου CV: https://p16andr.github.io/online-cv/
+
+Link Αποθετηριου CV: https://github.com/p16andr/online-cv
+
+Link Pdf: https://github.com/p16andr/online-cv/blob/master/pdf/cv.pdf
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
 
