@@ -13,7 +13,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) |
 | 7 | [Βιογραφικό](#Παραδοτέο-7) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) |
 | 10 | Συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
@@ -140,6 +140,17 @@ Link Εκτελεσιμου CV: https://p16andr.github.io/online-cv/
 Link Αποθετηριου CV: https://github.com/p16andr/online-cv
 
 Link Pdf: https://github.com/p16andr/online-cv/blob/master/pdf/cv.pdf
+
+## Παραδοτέο 9
+
+### 3η Άσκηση Γραμμής Εντολών: Set-up continuous integration
+
+Link asciinema: https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz
+
+Σε αυτο το παραδοτεο χρησιμοποιησα το βιογραφικο μου απο το 1ο παραδοτεο και εκανα 2 αλλαγες μεσα απο το _data φακελο μου. Με την εντολη "vim data.yml" μπηκα μεσα στο αρχειο μου εκανα τις 2 αλλαγες μου (προσθηκη ισπανικης γλωσσας και διαγραφη δυο χαρακτηρων που ειχαν μπει καταλαθος στο 1ο line του αρχειου πριν το συμβολο της διεσης) και στην συνεχεια περασα τις αλλαγες μου στο repository με τις εντολες "git add ." "git status"  git commit -m "Update commit" και τελος "git push"
+
+<a href="https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz" target="_blank"><img src="https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz.svg" /></a>
+
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
 
