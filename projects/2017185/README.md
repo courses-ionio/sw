@@ -49,7 +49,9 @@
   - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
   - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/temple-os-thumb.png) και [2ο](https://github.com/Haki-Malai/images/blob/master/lazy-script-thumb.png)
   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
-  - Τροποποίησα το [_slides/archetypes.md](https://github.com/Haki-Malai/site/commit/ff0fcc38e51a19c0a889743826627b692e600283) και το [_slides/tools.md](https://github.com/Haki-Malai/site/commit/d46a10e6b69190878fad8e6c0ffabc6ddca11606)
+  - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
+  - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
+  - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
 
 # 2η άσκηση γραμμής εντολών
   Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<br>
