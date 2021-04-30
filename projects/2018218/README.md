@@ -8,7 +8,7 @@
 | 4 | Άσκηση γραμμής εντολών.<sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup>|
 | 5 | Συμμετοχικό περιεχόμενο.<sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup>|
 | 6 | Άσκηση γραμμής εντολών.<sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup>|
-| 7 | βιογραφικό |
+| 7 | βιογραφικό <sup><a href="#7">[ΠΑΡΑΔΟΤΕΟ 7]</a></sup> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο<sup><a href="#10">[ΠΑΡΑΔΟΤΕΟ 10]</a></sup> |
@@ -236,5 +236,27 @@ Option
 * Link Αποθετηρίου ole-johan
   * [Link](https://github.com/DIATSIGK/site/blob/master/_biography/ole-johan.md)
 
+###### [7]
 
+### Βιογραφικό 
+
+Αρχείο PDF για εκτύπωση σε σελίδα Α4 το οποίο παράγεται με το εργαλείο weasyprint σε docker τοπικά στον υπολογιστή μου και αυτοματοποιημένα από το αρχείο index.html..
+
+* Link Βιογραφικού
+  * [Link](https://diatsigk.github.io/diatsigkcv/)
+  
+* Link PDF Βιογραφικού
+  * [Link](https://diatsigk.github.io/diatsigkcv/pdf/cv.pdf)
+
+  Περιγραφή διαδικασίας: 
+* **Προσθήκη link pdf σε ήδη υπάρχον βιγραφικό **: [Link css](https://asciinema.org/a/Om3hVbLMRUou1o6fnPFS30xVO?fbclid=IwAR1fREzrGMu0KZvJA3_VDdj24NOSjyWDJdJ2w1iIhtU2LHPu-4wxuVjPjIw)
+* **Προσθήκη Τemplate/pdf.css αρχείου με προσθήκη κλάσης noprint στο index.html**: `Δεν επαλαναμβάνεται το link PDF στο εκτυπόσημο`[Link css](https://github.com/DIATSIGK/diatsigkcv/blob/master/_template/pdf.css)
+* **Aυτοματοποίηση μέσω git hooks**: `Δημιουργία Αρχείων pre-commit & post commit`
+* **Aρχείο Pre-Commit:**:`Δημιουργία ενός αρχείου που δουλεύει σαν "flag"`[Link Pre-Commit](https://github.com/DIATSIGK/diatsigkcv/blob/master/_template/pdf.css)
+* **Aρχείο Pοst-Commit**: `Δημιουργία ενός αρχείου το οποίο μόλις ολοκληρωθεί το pre commit, ψάχνει να βρεί αν υπάρχει το .commit και στην συνέχεια το σβήνει (για να μην τρέχει συνέχεια).Στην συνέχεια κάνει τις αλλαγές που θέλει και διορθώνει το τελευταίο commit για να προσθέσει και το τελαυταίο αρχείο.`
+* **Προσθήκη εμφωλευμένου if statement στο Αρχείο post commit**:`H Προσθήκη εμφωλευμένου if έχει σκοπό να ξεκινήσει ο server να τρέχει αν είναι ήδη σταματημένος`
+
+
+
+### Μελέτη Περίπτωσης Links
 
