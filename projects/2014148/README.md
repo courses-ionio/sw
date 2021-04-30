@@ -56,8 +56,9 @@
 # Εβδομάδα 3 
 ### (	Αίτημα ενσωμάτωσης στην ιστοσελίδα)
 
-link απο το issue που άνοιξα: https://github.com/ioniodi/sitegr/issues/151
-link απο την ανακοίνωση στο site: 
+[link απο το issue](https://github.com/ioniodi/sitegr/issues/151)
+[netlify link](https://jovial-bardeen-80b084.netlify.app/posts/2021/04/30/eksetasi-mathimatwn-gia-tous-epi-ptyxio-foitites/)
+[pull request](https://github.com/ioniodi/sitegr/pull/211)
 
 # Εβδομάδα 4
 
