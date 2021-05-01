@@ -252,7 +252,7 @@ Option
 * **Δημιούρησα ένα νέο repository στο github:**  [Link repo](https://github.com/DIATSIGK/diatsigkcv)
 * **Σύνδεση docker με github repository:** 
             * Αξιοποιούμε το bundler που εγκαταστήσαμε νωρίτερα `bundle init`
-*           * `git init`
+            * `git init`
             * `git remote add origin git@github.com:riggas-ionio/cv-1.git`
             * `git add index.html`
             * `git add _data/`       
