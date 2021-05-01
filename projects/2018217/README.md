@@ -131,6 +131,7 @@
 #### [9]
 ### Παραδοτέο 9</a>
 ### Άσκηση γραμμής εντολών: Create notifications on your sever
+### Slack
 * [X] Δημιουργία λογαριασμού στο Slack
 * [X] Εγκατάσταση του mosquitto: apt-get install mosquitto
 * [X] Εγκατάσταση του client: apt-get install mosquitto-clients
@@ -140,6 +141,15 @@
 #### [Σύνδεσμος Video στο youtube](https://youtu.be/Z3L9CvS6Hm4)
 ![Screenshot](SW-paradoteo9.1.jpg)
 ![Screenshot](SW-paradoteo9.2.jpg)
+
+### Telegram
+* [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini για αποστολή μηνυμάτων στο Telegram.
+* [X] Δημιουργία του αρχείου telegram.py στο directory του mqttwarn.
+#### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.
+#### [Asciinema Link αποστολής μηνύματος στο Telegram app](https://asciinema.org/a/411070)
+![Screenshot](telegram.jpg)
+![Screenshot](telegram1.jpg)
+![Screenshot](telegram2.jpg)
 
 #### [10]
 ### Παραδοτέο 10</a>
