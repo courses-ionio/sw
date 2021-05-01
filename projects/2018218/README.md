@@ -211,30 +211,6 @@ Option
 ![image](https://user-images.githubusercontent.com/56764193/115163121-01cf8e80-a0b0-11eb-8999-a606cdf93435.png)
 
 
-###### [10]
-
-### Μελέτη Περίπτωσης Links
-
-* Link Μελέτες Περίπτωσεις Βιβλίου:
-  * [Link](https://romantic-varahamihira-b4537e.netlify.app/case-study/)
-  
-* Link Μελέτης Περίπτωσης 
-  * [Link](https://romantic-varahamihira-b4537e.netlify.app//case-study/simula-language/)
-  
-* Link Αποθετηρίου submodule-extras
-  * [Link](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
-  
-  
-### Bιογραφία Ole-Johan Links 
-
-* Link Βιογραφιών Βιβλίου
-  * [Link](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
-  
-* Link Βιογραφίας Ole-Johan
-  * [Link](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
-  
-* Link Αποθετηρίου ole-johan
-  * [Link](https://github.com/DIATSIGK/site/blob/master/_biography/ole-johan.md)
 
 ###### [7]
 
@@ -270,6 +246,31 @@ Option
 Pre-Commit | Pοst-Commit
 --- | ---
 ![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![2021-05-01_12-21-30](https://user-images.githubusercontent.com/56764193/116778131-d158fe80-aa78-11eb-8cf2-53430a8cb2d3.png)
+
+###### [10]
+
+### Μελέτη Περίπτωσης Links
+
+* Link Μελέτες Περίπτωσεις Βιβλίου:
+  * [Link](https://romantic-varahamihira-b4537e.netlify.app/case-study/)
+  
+* Link Μελέτης Περίπτωσης 
+  * [Link](https://romantic-varahamihira-b4537e.netlify.app//case-study/simula-language/)
+  
+* Link Αποθετηρίου submodule-extras
+  * [Link](https://github.com/DIATSIGK/extras/blob/bb5e6e38ae266da74d77c7be3f6ba8248e2bfda1/cs-inheritance.md)
+  
+  
+### Bιογραφία Ole-Johan Links 
+
+* Link Βιογραφιών Βιβλίου
+  * [Link](https://master--romantic-varahamihira-b4537e.netlify.app/biography/)
+  
+* Link Βιογραφίας Ole-Johan
+  * [Link](https://romantic-varahamihira-b4537e.netlify.app//biography/ole-johan/)
+  
+* Link Αποθετηρίου ole-johan
+  * [Link](https://github.com/DIATSIGK/site/blob/master/_biography/ole-johan.md)
 
 
 
