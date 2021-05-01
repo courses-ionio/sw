@@ -146,10 +146,10 @@
 * [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini για αποστολή μηνυμάτων στο Telegram.
 * [X] Δημιουργία του αρχείου telegram.py στο directory του mqttwarn.
 #### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.
-#### [Asciinema Link αποστολής μηνύματος στο Telegram app](https://asciinema.org/a/411070)
-![Screenshot](telegram.jpg)
+#### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070)
 ![Screenshot](telegram1.jpg)
 ![Screenshot](telegram2.jpg)
+![Screenshot](telegram.jpg)
 
 #### [10]
 ### Παραδοτέο 10</a>
