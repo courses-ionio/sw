@@ -248,15 +248,19 @@ Option
 * Link PDF Βιογραφικού
   * [Link](https://diatsigk.github.io/diatsigkcv/pdf/cv.pdf)
 
-  Περιγραφή διαδικασίας: 
-* **Προσθήκη link pdf σε ήδη υπάρχον βιγραφικό **: [Link css](https://asciinema.org/a/Om3hVbLMRUou1o6fnPFS30xVO?fbclid=IwAR1fREzrGMu0KZvJA3_VDdj24NOSjyWDJdJ2w1iIhtU2LHPu-4wxuVjPjIw)
+ ### Περιγραφή διαδικασίας: 
+* **Προσθήκη link pdf σε ήδη υπάρχον βιγραφικό **: [Link asciinema](https://asciinema.org/a/Om3hVbLMRUou1o6fnPFS30xVO?fbclid=IwAR1fREzrGMu0KZvJA3_VDdj24NOSjyWDJdJ2w1iIhtU2LHPu-4wxuVjPjIw)
 * **Προσθήκη Τemplate/pdf.css αρχείου με προσθήκη κλάσης noprint στο index.html**: `Δεν επαλαναμβάνεται το link PDF στο εκτυπόσημο`[Link css](https://github.com/DIATSIGK/diatsigkcv/blob/master/_template/pdf.css)
 * **Aυτοματοποίηση μέσω git hooks**: `Δημιουργία Αρχείων pre-commit & post commit`
-* **Aρχείο Pre-Commit:**:`Δημιουργία ενός αρχείου που δουλεύει σαν "flag"`[Link Pre-Commit](https://github.com/DIATSIGK/diatsigkcv/blob/master/_template/pdf.css)
+* **Aρχείο Pre-Commit:**:`Δημιουργία ενός αρχείου που δουλεύει σαν "flag"`
 * **Aρχείο Pοst-Commit**: `Δημιουργία ενός αρχείου το οποίο μόλις ολοκληρωθεί το pre commit, ψάχνει να βρεί αν υπάρχει το .commit και στην συνέχεια το σβήνει (για να μην τρέχει συνέχεια).Στην συνέχεια κάνει τις αλλαγές που θέλει και διορθώνει το τελευταίο commit για να προσθέσει και το τελαυταίο αρχείο.`
 * **Προσθήκη εμφωλευμένου if statement στο Αρχείο post commit**:`H Προσθήκη εμφωλευμένου if έχει σκοπό να ξεκινήσει ο server να τρέχει αν είναι ήδη σταματημένος`
 
+Pre-Commit | Pοst-Commit
+--- | ---
+![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![2021-05-01_12-21-30](https://user-images.githubusercontent.com/56764193/116778131-d158fe80-aa78-11eb-8cf2-53430a8cb2d3.png)
 
 
-### Μελέτη Περίπτωσης Links
+
+
 
