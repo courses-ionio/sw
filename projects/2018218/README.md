@@ -245,7 +245,9 @@ Option
 
 Pre-Commit | Pοst-Commit
 --- | ---
-![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![2021-05-01_12-21-30](https://user-images.githubusercontent.com/56764193/116778131-d158fe80-aa78-11eb-8cf2-53430a8cb2d3.png)
+![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![image](https://user-images.githubusercontent.com/56764193/116790094-36354880-aabb-11eb-8c41-601b637d1ac9.png)
+
+
 
 ###### [10]
 
