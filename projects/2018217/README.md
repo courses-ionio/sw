@@ -137,16 +137,16 @@
 * [X] Εγκατάσταση του client: apt-get install mosquitto-clients
 * [X] Εγκατάσταση του mqttwarn: pip3 install mqttwarn
 * [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
-#### Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο youtube mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
-#### [Σύνδεσμος Video στο youtube](https://youtu.be/Z3L9CvS6Hm4)
+#### Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο youtube mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.<br /> 
+#### [Σύνδεσμος Video στο youtube](https://youtu.be/Z3L9CvS6Hm4)<br /> 
 ![Screenshot](SW-paradoteo9.1.jpg)
 ![Screenshot](SW-paradoteo9.2.jpg)
 
 ### Telegram
 * [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini για αποστολή μηνυμάτων στο Telegram.
 * [X] Δημιουργία του αρχείου telegram.py στο directory του mqttwarn.
-#### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.
-#### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070)
+#### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.<br /> 
+#### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070) <br /> 
 ![Screenshot](telegram.jpg) <br /> 
 ![Screenshot](telegram1.jpg) <br /> 
 ![Screenshot](telegram2.jpg) <br /> 
