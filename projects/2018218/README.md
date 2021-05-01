@@ -249,7 +249,7 @@ Option
   * [Link](https://diatsigk.github.io/diatsigkcv/pdf/cv.pdf)
 
  ### Περιγραφή διαδικασίας: 
-* **Προσθήκη link pdf σε ήδη υπάρχον βιγραφικό **: [Link asciinema](https://asciinema.org/a/Om3hVbLMRUou1o6fnPFS30xVO?fbclid=IwAR1fREzrGMu0KZvJA3_VDdj24NOSjyWDJdJ2w1iIhtU2LHPu-4wxuVjPjIw)
+* **Προσθήκη link pdf σε ήδη υπάρχον βιγραφικό:**:`[Link asciinema](https://asciinema.org/a/Om3hVbLMRUou1o6fnPFS30xVO?fbclid=IwAR1fREzrGMu0KZvJA3_VDdj24NOSjyWDJdJ2w1iIhtU2LHPu-4wxuVjPjIw)`
 * **Προσθήκη Τemplate/pdf.css αρχείου με προσθήκη κλάσης noprint στο index.html**: `Δεν επαλαναμβάνεται το link PDF στο εκτυπόσημο`[Link css](https://github.com/DIATSIGK/diatsigkcv/blob/master/_template/pdf.css)
 * **Aυτοματοποίηση μέσω git hooks**: `Δημιουργία Αρχείων pre-commit & post commit`
 * **Aρχείο Pre-Commit:**:`Δημιουργία ενός αρχείου που δουλεύει σαν "flag"`
@@ -259,7 +259,6 @@ Option
 Pre-Commit | Pοst-Commit
 --- | ---
 ![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![2021-05-01_12-21-30](https://user-images.githubusercontent.com/56764193/116778131-d158fe80-aa78-11eb-8cf2-53430a8cb2d3.png)
-
 
 
 
