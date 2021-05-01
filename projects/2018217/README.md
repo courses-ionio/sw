@@ -138,7 +138,8 @@
 * [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
 #### Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο youtube mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
 #### [Youtube Video](https://youtu.be/Z3L9CvS6Hm4)
-
+![Screenshot](SW-paradoteo9.1.jpg)
+![Screenshot](SW-paradoteo9.2.jpg)
 
 #### [10]
 ### Παραδοτέο 10</a>
