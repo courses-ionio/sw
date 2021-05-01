@@ -130,8 +130,15 @@
 
 #### [9]
 ### Παραδοτέο 9</a>
-### Άσκηση γραμμής εντολών 
-### xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+### Άσκηση γραμμής εντολών: Create notifications on your sever
+* [X] Δημιουργία λογαριασμού στο Slack
+* [X] Εγκατάσταση του mosquitto: apt-get install mosquitto
+* [X] Εγκατάσταση του client: apt-get install mosquitto-clients
+* [X] Εγκατάσταση του mqttwarn: pip3 install mqttwarn
+* [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
+#### Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο youtube mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
+#### [Youtube Video](https://youtu.be/Z3L9CvS6Hm4)
+
 
 #### [10]
 ### Παραδοτέο 10</a>
