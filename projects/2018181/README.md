@@ -22,16 +22,16 @@
 ### Table of Contents (II) 
 |**Video Quiz** | **Done** | 
 |:---------:| :--------: | 
-|[Alan Kay at MIT EECS](Alan-Kay-at-MIT-EECS-(First-Video-Quiz)) | |
-|[Τed Νelson - Computers for Cynics](Τed Νelson--Computers for Cynics-(Second Video Quiz)) | |
-|[Alan kay - Computing Simply](Alan -kay-Computing-Simply-(Third-Video-Quiz))| |
-|[Bret Victor - The Future of Programming](Bret-Victor-The-Future-of-Programming-(Fourth-Video-Quiz)) |   |
-|[Alan Kay - Programming](Alan-Kay-Programming-(Fifth-Video-Quiz)) |  |
-|[Alan Kay - Turing Award Lecture](Alan-Kay-Turing-Award-Lecture-(Sixth-Video-Quiz)) |  
-|[Alan Kay - Invention](Alan-Kay-Invention-(Seventh-Video-Quiz)) ||
-|[Jaron Lanier - Intertwingled](Jaron-Lanier-Intertwingled-(Eighth-Video-Quiz))| |
-|[Alan Kay - Scaling](Alan-Kay-Scaling-(Ninth-Video-Quiz))|
-|[Alan Kay - Turing Tarpit](Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|
+|[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS-(First-Video-Quiz)) | |
+|[Τed Νelson - Computers for Cynics](#Τed Νelson--Computers for Cynics-(Second Video Quiz)) | |
+|[Alan kay - Computing Simply](#Alan -kay-Computing-Simply-(Third-Video-Quiz))| |
+|[Bret Victor - The Future of Programming](#Bret-Victor-The-Future-of-Programming-(Fourth-Video-Quiz)) |   |
+|[Alan Kay - Programming](#Alan-Kay-Programming-(Fifth-Video-Quiz)) |  |
+|[Alan Kay - Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture-(Sixth-Video-Quiz)) |  
+|[Alan Kay - Invention](#Alan-Kay-Invention-(Seventh-Video-Quiz)) ||
+|[Jaron Lanier - Intertwingled](#Jaron-Lanier-Intertwingled-(Eighth-Video-Quiz))| |
+|[Alan Kay - Scaling](#Alan-Kay-Scaling-(Ninth-Video-Quiz))|
+|[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|
 
 ### Introduction 
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
