@@ -23,8 +23,8 @@
 |**Video Quiz** | **Done** | 
 |:---------:| :--------: | 
 |[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS-(First-Video-Quiz)) | |
-|[Τed Νelson - Computers for Cynics](#Τed Νelson--Computers for Cynics-(Second Video Quiz)) | |
-|[Alan kay - Computing Simply](#Alan -kay-Computing-Simply-(Third-Video-Quiz))| |
+|[Τed Νelson - Computers for Cynics](#Τed Νelson-Computers-for-Cynics-(Second-Video-Quiz)) | |
+|[Alan kay - Computing Simply](#Alan-kay-Computing-Simply-(Third-Video-Quiz))| |
 |[Bret Victor - The Future of Programming](#Bret-Victor-The-Future-of-Programming-(Fourth-Video-Quiz)) |   |
 |[Alan Kay - Programming](#Alan-Kay-Programming-(Fifth-Video-Quiz)) |  |
 |[Alan Kay - Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture-(Sixth-Video-Quiz)) |  
