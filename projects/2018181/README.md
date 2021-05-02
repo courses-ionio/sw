@@ -2,7 +2,7 @@
 <h3 align= center>Maria Chalkioti | P2018181 |  <a href="mailto:p18chal@ionio.gr"><img src="https://img.shields.io/badge/-Email-blueviolet"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <p></h3>  
 </br>
 
-### Table of Contents 
+ ### Table of Contents (I)
 |**Week** | **Deliverable** | 
 |:---------:| :--------: | 
 |**First** |[Introduction](#Introduction) |
@@ -18,6 +18,20 @@
 |**Eleventh** | **Command-line Exercise** |  
 |**Twelth** | **Final Report** | 
 </br>
+
+### Table of Contents (II) 
+|**Video Quiz** | **Done** | 
+|:---------:| :--------: | 
+|[Alan Kay at MIT EECS](Alan-Kay-at-MIT-EECS-(First-Video-Quiz)) | |
+|[Τed Νelson - Computers for Cynics](Τed Νelson--Computers for Cynics-(Second Video Quiz)) | |
+|[Alan kay - Computing Simply](Alan -kay-Computing-Simply-(Third-Video-Quiz))| |
+|[Bret Victor - The Future of Programming](Bret-Victor-The-Future-of-Programming-(Fourth-Video-Quiz)) |   |
+|[Alan Kay - Programming](Alan-Kay-Programming-(Fifth-Video-Quiz)) |  |
+|[Alan Kay - Turing Award Lecture](Alan-Kay-Turing-Award-Lecture-(Sixth-Video-Quiz)) |  
+|[Alan Kay - Invention](Alan-Kay-Invention-(Seventh-Video-Quiz)) ||
+|[Jaron Lanier - Intertwingled](Jaron-Lanier-Intertwingled-(Eighth-Video-Quiz))| |
+|[Alan Kay - Scaling](Alan-Kay-Scaling-(Ninth-Video-Quiz))|
+|[Alan Kay - Turing Tarpit](Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|
 
 ### Introduction 
   My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
@@ -93,7 +107,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Second Quiz
+## Τed Νelson - Computers for Cynics (Second Video Quiz)
 </br>
 <details>
   <summary>Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Τεντ Νελσον και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα      τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές.</summary>
@@ -121,7 +135,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Third Quiz
+## Alan kay - Computing Simply (Third Video Quiz)
 
 <details> 
   <summary>Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;</summary>
@@ -148,7 +162,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br> 
  
-## Fourth Quiz
+## Bret Victor - The Future of Programming (Fourth Video Quiz)
 </br>
 <details>
   <summary>Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία.</summary>
@@ -175,7 +189,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Fifth Quiz 
+## Alan Kay - Programming (Fifth Video Quiz) 
 </br>
 <details>
   <summary>Ποια είναι η χρησιμότητα του προγραμματισμού στον συστημικό τρόπο σκέψης με παράδειγμα πέρα από αυτό που περιγράφει ο Άλαν Κέη;</summary>
@@ -203,7 +217,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br> 
 
-## Sixth Quiz
+## Alan Kay - Turing Award Lecture (Sixth Video Quiz)
 </br> 
 <details>
   <summary>Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί;</summary>
@@ -242,7 +256,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Seventh Quiz 
+## Alan Kay - Invention (Seventh Video Quiz) 
 </br>
 <details>
   <summary>Ποια πρέπει να είναι τα κριτήρια της αξιολόγησης στην εκπαίδευση και στο λογισμικό αν ο στόχος είναι η καινοτομία;</summary>
@@ -265,7 +279,7 @@ https://sad-spence-5715fa.netlify.app/
 </details> 
 </br>
 
-## Eighth Quiz
+## Jaron Lanier - Intertwingled (Eighth Video Quiz)
 </br>
 <details>
   <summary>Ποια είναι η τεχνολογική λύση για το πρόβλημα της οικονομικής ανισότητας που δημιουργεί η συγκέντρωση οικονομικού κεφαλαίου σε λίγους;</summary>
@@ -284,7 +298,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Ninth Quiz 
+## Alan Kay - Scaling (Ninth Video Quiz) 
 <details>
   <summary>Με ποιο τρόπο συνεργαστήκατε σε ιδέες δικές σας και άλλων σε αυτό το μάθημα</summary>
 </br>
@@ -323,7 +337,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Tenth Quiz 
+## Alan Kay - Turing Tarpit (Tenth Video Quiz) 
 
 <details>
   <summary>Αν ο προγραμματισμός δεν είναι η βασική δραστηριότητα της τεχνολογίας λογισμικού, ποια είναι κάποια καλά παραδείγματα;</summary>
