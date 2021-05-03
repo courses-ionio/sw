@@ -83,7 +83,7 @@ For the second part of this task (a2), I added to an existed slide and timeline 
 </br>
 https://sad-spence-5715fa.netlify.app/
 
-## Alan Kay at MIT EECS (First Video Quiz)  
+### Alan Kay at MIT EECS (First Video Quiz)  
 </br>
 <details>
   <summary>Ποια είναι σύμφωνα με τον Αλαν Κεη η μεγαλύτερη παγίδα σε ένα μάθημα υπολογιστών και ποια είναι κατά την γνώμη σας η αντίστοιχη της ΙΒΜ τεχνολογία λογισμικού στις μέρες μας;</summary>
@@ -107,7 +107,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Τed Νelson - Computers for Cynics (Second Video Quiz)
+### Τed Νelson - Computers for Cynics (Second Video Quiz)
 </br>
 <details>
   <summary>Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Τεντ Νελσον και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα      τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές.</summary>
@@ -135,7 +135,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Alan kay - Computing Simply (Third Video Quiz)
+### Alan kay - Computing Simply (Third Video Quiz)
 
 <details> 
   <summary>Ποιες ήταν οι βασικές ιδέες που επηρέασαν τον Αλαν Κεη στην κατασκευή νέου λογισμικού;</summary>
@@ -162,7 +162,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br> 
  
-## Bret Victor - The Future of Programming (Fourth Video Quiz)
+### Bret Victor - The Future of Programming (Fourth Video Quiz)
 </br>
 <details>
   <summary>Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία.</summary>
@@ -217,7 +217,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br> 
 
-## Alan Kay - Turing Award Lecture (Sixth Video Quiz)
+### Alan Kay - Turing Award Lecture (Sixth Video Quiz)
 </br> 
 <details>
   <summary>Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί;</summary>
@@ -256,7 +256,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Alan Kay - Invention (Seventh Video Quiz) 
+### Alan Kay - Invention (Seventh Video Quiz) 
 </br>
 <details>
   <summary>Ποια πρέπει να είναι τα κριτήρια της αξιολόγησης στην εκπαίδευση και στο λογισμικό αν ο στόχος είναι η καινοτομία;</summary>
@@ -279,7 +279,7 @@ https://sad-spence-5715fa.netlify.app/
 </details> 
 </br>
 
-## Jaron Lanier - Intertwingled (Eighth Video Quiz)
+### Jaron Lanier - Intertwingled (Eighth Video Quiz)
 </br>
 <details>
   <summary>Ποια είναι η τεχνολογική λύση για το πρόβλημα της οικονομικής ανισότητας που δημιουργεί η συγκέντρωση οικονομικού κεφαλαίου σε λίγους;</summary>
@@ -337,7 +337,7 @@ https://sad-spence-5715fa.netlify.app/
 </details>
 </br>
 
-## Alan Kay - Turing Tarpit (Tenth Video Quiz) 
+### Alan Kay - Turing Tarpit (Tenth Video Quiz) 
 
 <details>
   <summary>Αν ο προγραμματισμός δεν είναι η βασική δραστηριότητα της τεχνολογίας λογισμικού, ποια είναι κάποια καλά παραδείγματα;</summary>
