@@ -1,4 +1,4 @@
-<h1 align= center>Software Technology</h1>
+<h2 align= center>Software Engineering</h2>
 <h3 align= center>Maria Chalkioti | P2018181 |  <a href="mailto:p18chal@ionio.gr"><img src="https://img.shields.io/badge/-Email-blueviolet"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <p></h3>  
 </br>
 
