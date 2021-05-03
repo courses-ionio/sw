@@ -67,7 +67,6 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 ## Participatory Content 
 ### First Part
 - For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
-</br>
 
 |**Caption's Link** | **Image's Link** | **Thumb Image's Link** | **Asciinena Video** | **Netlify Link** |
 |:---------:| :--------: | :----------: | :----------: |:----------: |
@@ -75,9 +74,7 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 | [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
 
 </br>
-
 - For the second part of this task (a2), I added to an existed slide and timeline the above images.
-</br>
 
 |**Slide's Link** | **Timeline's Link** |
 |:---------:| :--------: | 
