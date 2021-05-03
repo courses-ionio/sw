@@ -82,7 +82,9 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 |[GUI](https://github.com/mariachlkt/site/blob/P2018181/_slides/gui.md)|[Systems](https://github.com/mariachlkt/site/blob/P2018181/_timeline/systems.md)|
 
 </br>
+
 ### Second Part
+
 - For the second part of this task (b1), I added to the forked repository Richard Stallman's biography and a case-study for the GNOME with the apropriate images and information. 
 </br>
 
