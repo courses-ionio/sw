@@ -89,4 +89,24 @@ Since the CV has a GitHub Pages-poewred website, the GH Action gets triggered ev
 ## CLI Exercise #2
 For the 2nd CLI Assignment, I chose to work on Huginn. Following the simple installation on Docker, and following [this tutorial](https://github.com/courses-ionio/sw-lab#huginn-agents) I created one website agent and one post agent, the former scraping news from the Ionian University website and the latter pushing them to a channel on slack. Later I added 2 RSS Agents for ThePressProject and CNN Europe. All run every 5 minutes and the Post Agent gets triggered automatically when fresh news are uploaded.
 
-[<img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot%202021-04-26%20182535.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
+
+This may or may not be impoved in the near future to create an Agent to notify me about my age group's vaccinations.
+
+## CLI Exercise #3
+This time, I chose the twilio assignment. As vague as can be, the goal to "deploy an application that forwards a call depending on a white- and black- list of phone numbers" proved to be a tough one. That's on me and my app hosting choices though, but admittedly the twillio documentation is lacking to say the very very best of it.
+Jumping through hoops I made a simple SMS webhook which replies with a link to my resume on any message. 
+
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
+
+This is what someone sees when they text my twilio number.
+The code is hosted as a Lambda function on AWS (sue me) which itself is nothing more than a function which has 1 line of code: 
+return ' <?xml version=\"1.0\" encoding=\"UTF-8\"?>'\
+           '<Response><Message><Body>Hello from Theocharis Panagiotis Charalampidis. \nCheck out my resume at https:// (#runtheorun-exe.github.io/online-cv ! </Body></Message></Response>'
+           
+So basically it just returns a TwiML (Twilio Markup Language) string to the Twilio API that handles the incoming message. The Lambda communicates with Twilio through an API constructed specifically for that.
+While on principle, handling a phone tree system is simple, Lambdas are dumb when it comes to Python packages and it's all just a hassle. The upshot of using Lambdas though is that it's theoretically easier to host such Twilio apps.
+A Call routing was constructed using Twilio Studio, a Scratch-like environment and it works just fine, but is not pure code and can be seen below.
+
+
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
