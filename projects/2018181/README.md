@@ -64,13 +64,14 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
 
-### Participatory Content 
+## Participatory Content 
+### First Part
 For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
 </br>
-|**Caption's Link** | **Image's Link** | **Thumb Image's Link** |
-|:---------:| :--------: | :----------: |
-|[Visi-On](https://github.com/mariachlkt/_gallery/blob/P2018181/vision.md)|[Visi On Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os.png)| [Visi On Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os_thumb.png) |
-| [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) |
+|**Caption's Link** | **Image's Link** | **Thumb Image's Link** | **Asciinena Video** | **Netlify Link** |
+|:---------:| :--------: | :----------: | :----------: |:----------: |
+|[Visi-On](https://github.com/mariachlkt/_gallery/blob/P2018181/vision.md)|[Visi On Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os.png)| [Visi On Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
+| [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
 
 For the second part of this task (a2), I added to an existed slide and timeline the above images.
 </br>
@@ -79,9 +80,9 @@ For the second part of this task (a2), I added to an existed slide and timeline 
 |[GUI](https://github.com/mariachlkt/site/blob/P2018181/_slides/gui.md)|[Systems](https://github.com/mariachlkt/site/blob/P2018181/_timeline/systems.md)|
 </br>
 
-[Asciinema Video](https://asciinema.org/a/403138)
-</br>
-https://sad-spence-5715fa.netlify.app/
+### Second Part
+
+
 
 |**Alan Kay at MIT EECS (First Video Quiz)**|  
 | :--------: | 
