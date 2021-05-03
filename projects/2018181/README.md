@@ -92,7 +92,7 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 |:---------:| :--------: | :----------: |
 |[Richard Stallman](https://github.com/mariachlkt/site/blob/master/_biography/richard-stallman)| [GNOME](https://github.com/mariachlkt/site/blob/P2018181/_case-study/GNOME.md) |
 |[Image](https://github.com/mariachlkt/images/blob/P2018181/richard-stallman.jpeg)| [Image](https://github.com/mariachlkt/images/blob/P2018181/GNOME.png) / [Gallery](https://github.com/mariachlkt/_gallery/blob/P2018181/GNOME.md)|
-|Extras| [Extras](https://github.com/mariachlkt/extras/blob/master/cs-GNOME.md)|
+|[Extras](https://github.com/mariachlkt/extras/blob/master/bio-stallman.md)| [Extras](https://github.com/mariachlkt/extras/blob/master/cs-GNOME.md)|
 
 </br>
 
