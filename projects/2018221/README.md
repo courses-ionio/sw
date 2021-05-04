@@ -50,7 +50,7 @@
 
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/398838)
 
-![Screenshot](ΕΡΓΑΣΙΑ_1.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_1.png)
 
 ### <a name="Παραδοτέο 5">Παραδοτέο 5</a>
 ### Συμμετοχικό περιεχόμενο
