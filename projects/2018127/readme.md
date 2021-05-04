@@ -16,7 +16,7 @@
 | 6 | [CLI Exercise #2](#cli-exercise-2) | [Απαντήσεις Εδώ](https://github.com/runtheorun-exe/swfiles/blob/main/week6.md)
 | 7 | [CV pt2](#cv-part-2) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [CLI Exercise #3](#cli-exercise-3) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 
@@ -97,7 +97,7 @@ This may or may not be impoved in the near future to create an Agent to notify m
 This time, I chose the twilio assignment. As vague as can be, the goal to "deploy an application that forwards a call depending on a white- and black- list of phone numbers" proved to be a tough one. That's on me and my app hosting choices though, but admittedly the twillio documentation is lacking to say the very very best of it.
 Jumping through hoops I made a simple SMS webhook which replies with a link to my resume on any message. 
 
-[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilio.png)
 
 This is what someone sees when they text my twilio number.
 The code is hosted as a Lambda function on AWS (sue me) which itself is nothing more than a function which has 1 line of code: 
@@ -109,4 +109,4 @@ While on principle, handling a phone tree system is simple, Lambdas are dumb whe
 A Call routing was constructed using Twilio Studio, a Scratch-like environment and it works just fine, but is not pure code and can be seen below.
 
 
-[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
+[<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png)
