@@ -81,6 +81,7 @@ For the second part of the CV assignment we were tasked to convert our cv into a
 pandoc https://runtheorun-exe.github.io/online-cv/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex
 ```
 This resulted in an (objectively, aesthetically displeasing) [file](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/cv.pdf) which can be seen below
+
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot 2021-04-26 153001.png" width="400"/>
 
 The automation part of this assignment was done with a GitHub Action documented [here](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/.github/workflows/cv2pdf.yml). 
