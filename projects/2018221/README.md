@@ -128,7 +128,7 @@
 
 Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube  mqttwarn](https://youtu.be/VC6Tn2kYndo ) στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn  καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
 
-![Screenshot](slack.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/slack.png)
 
 
 
