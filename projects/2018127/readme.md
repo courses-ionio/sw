@@ -82,6 +82,7 @@ pandoc https://runtheorun-exe.github.io/online-cv/ -f html-native_divs -o cv.pdf
 ```
 This resulted in an (objectively, aesthetically displeasing) [file](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/cv.pdf) which can be seen below
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot 2021-04-26 153001.png" width="400"/>
+
 The automation part of this assignment was done with a GitHub Action documented [here](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/.github/workflows/cv2pdf.yml). 
 Since the CV has a GitHub Pages-poewred website, the GH Action gets triggered everytime GH Pages has fnished rebuilding the website. This can lead to unnecessary triggers (for instance CSS modifications don't affect the pdf) but seeing as gh Pages needs some time to build the updated website, this solution seemed the best one.
 
