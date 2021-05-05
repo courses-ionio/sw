@@ -272,7 +272,6 @@ Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'develop' }
 
 Plug 'motemen/git-vim'
 
-" Initialize plugin system
 call plug#end()
 ~                   
 ```
