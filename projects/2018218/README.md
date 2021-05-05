@@ -10,9 +10,9 @@
 | 6 | Άσκηση γραμμής εντολών.<sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup>|
 | 7 | βιογραφικό <sup><a href="#7">[ΠΑΡΑΔΟΤΕΟ 7]</a></sup> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | Άσκηση γραμμής εντολών <sup><a href="#9">[ΠΑΡΑΔΟΤΕΟ 9]</a></sup> |
 | 10 | συμμετοχικό περιεχόμενο<sup><a href="#10">[ΠΑΡΑΔΟΤΕΟ 10]</a></sup> |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | Άσκηση γραμμής εντολών <sup><a href="#11">[ΠΑΡΑΔΟΤΕΟ 11]</a></sup>|
 | 12 | Τελική αναφορά* |
 
 ###### [1]
@@ -33,11 +33,11 @@
  Για την υλοποίηση των προτύπων αυτών είναι απαραίτητες κάποιες προϋποθέσεις, 
  η κυριότερη από τις οποίες είναι η καθημερινή προετοιμασία ώστε να είμαστε γνωστικά και πρακτικά έτοιμοι να αξιοποιήσουμε τα εργαλέια αυτά στην πράξη.
  
- ###### [2]
+###### [2]
  - [Link Σελίδας Βιογραφικού](https://diatsigk.github.io/cv2/)
   - >[Link Aποθετηρίου](https://github.com/DIATSIGK/cv2/tree/master)
 
- ###### [3]
+###### [3]
  
 Προσθήκη Μαθήματος E εξαμήνου
 "Θεωρία Γραφημάτων και Εφαρμογές"
@@ -45,7 +45,7 @@
  - [Link Σελίδας ]( https://blissful-knuth-a50c9f.netlify.app/courses/graph-theory-and-apps/)
   - >[Link Aποθετηρίου ]( https://github.com/ddiatsigk/sitegr/tree/demo-2018218)
  
- ###### [4]
+###### [4]
  
 ## Send notifications to your desktop-mobile
 
@@ -248,6 +248,51 @@ Pre-Commit | Pοst-Commit
 ![image](https://user-images.githubusercontent.com/56764193/116778048-660f2c80-aa78-11eb-9070-1dba18f91bf6.png) | ![image](https://user-images.githubusercontent.com/56764193/116790094-36354880-aabb-11eb-8c41-601b637d1ac9.png)
 
 
+###### [9]
+
+## Using the terminal as an IDE
+
+Κατέβασμα  plug.vim και τοποθέτηση στην  "autoload" διεύθυνση
+```sh
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
+Ελεγχος Περιεχoμένου Αρχείου και Προσθήκη των Plugins(python && git)
+```sh
+less /root/.vim/autoload/plug.vim 
+vi ~/.vimrc
+```
+
+Aρχείο ~/.vimrc
+```sh
+" Specify a directory for plugins 
+call plug#begin('~/.vim/plugged')
+
+Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'develop' }
+
+Plug 'motemen/git-vim'
+
+" Initialize plugin system
+call plug#end()
+~                   
+```
+
+* Link Asciinemma (Προσθηκη Plugins):
+  * [Link](https://asciinema.org/a/0S7y6SSwAFz8LT0Id97tRNWjy)
+ 
+* Link Asciinemma (PlugInstall):
+  * [Link](https://asciinema.org/a/9Zig986Rk9jBixZuJrNwPPB87)
+
+* **Προβλήματα κατα την διαδικασία** 
+Το πρόβλημα που αντιμετώπησα αφορά στο τελαυταίο στάδιο της εντολής PlugInstall
+![image](https://user-images.githubusercontent.com/56764193/117211449-aa485700-ae01-11eb-9b6d-27707b9d6911.png)
+
+Η λύση ήταν η εγκατάσταση της python3 με εντολές
+
+```sh
+apt install python3.7 -y
+apt-get install vim-gnome curl git ack-grep exuberant-ctags
+```
 
 ###### [10]
 
@@ -274,6 +319,22 @@ Pre-Commit | Pοst-Commit
 * Link Αποθετηρίου ole-johan
   * [Link](https://github.com/DIATSIGK/site/blob/master/_biography/ole-johan.md)
 
+###### [11]
+
+Αξιοποίηση τoυ VIM_IDE με Plugin Python για την ανάπτυξη εφαρμογής καταγραφής δεδομένων απο openweathermap,
+στην οποία εγγράφηκα με API.
+
+Αρχείο Python το οποίο κάνει εξαγωγή τα δεδωμένα από το app
+
+```sh
+import requests                                                                 
+import json                                                                     
+url = 'https://api.openweathermap.org/data/2.5/onecall?lat=37.9795&lon=23.7162&appid=4b130d428c1ae'
+                                                                                                                                                           
+resp = requests.get(url=url)                                                    
+data = resp.json()                                                              
+print(json.dumps(data))
+```
 
 
 
