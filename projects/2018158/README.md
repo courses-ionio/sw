@@ -142,3 +142,12 @@ https://www.interaction-design.org/literature/article/augmented-reality-the-past
 https://www.youtube.com/watch?v=Z9qiWqRPrcw
 
 https://www.youtube.com/watch?v=QKRTiOG4J5E
+
+### Παραδοτέο 11
+Άσκηση τερματικού.
+
+**assignment:** create a cli app for your favorite site
+
+**deliverables:** the application should be similar to rtv, haxor from hci
+
+asciinema link: https://asciinema.org/a/7KrisVq6BvEdaufOIzHgrdJbw
