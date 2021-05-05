@@ -114,3 +114,11 @@ asciinema link: https://asciinema.org/a/399181
 - Για το βιογραφικό σημείωμα δημιούργησα πάλι ένα [markdown αρχείο](https://github.com/FaidonTsetsis/site/blob/2018073/_biography/Reed-Hastings.md) στο αποθετήριό μου όπου πραγματεύω τον ιδρυτή και διευθύνων σύμβουλο του netflix, καθώς και το πώς εμπνεύστηκε για την καινοτομία του streaming ταινιών/σειρών και το αντίκτυπο που προκάλεσε στο ρόλο του υπολογιστή.
 
 Οι πηγές που χρησιμοποιήθηκαν για το βιογραφικό σημείωμα είναι οι εξής: [Πηγή 1](https://www.cnbc.com/2017/05/23/netflix-ceo-reed-hastings-on-how-the-company-was-born.html), [Πηγή 2](https://en.wikipedia.org/wiki/Reed_Hastings).
+
+## <a name="P">ΠΑΡΑΔΟΤΕΟ 11 - Τέταρτη άσκηση τερματικού</a>
+
+**Εκφώνηση άσκησης: Create a cli app for your favorite site - the application should be similar to rtv, haxor from hci**
+
+[![asciicast](https://asciinema.org/a/412142.svg)](https://asciinema.org/a/412142)
+
+Σε αυτό το παραδοτέο δημιούργησα το δικό μου cli app με την βοήθεια του πακέτου click. Αρχικά ενσωματώθηκα στο περιβάλλον virtualenv και δημιούργησα ένα αρχείο setup.py, στο οποίο έδωσα όλα τα απαραίτητα δεδομένα για την δημιουργία του cli app. Στην συνέχεια, δημιούργησα ένα αρχείο hello.py, το οποίο περιέχει τις λειτουργίες του cli . Υπάρχουν 4 λειτουργίες, η command όπου δημιουργεί το ```hello --help```, η option string ```hello --string stringname``` που παίρνει κάποια τιμή string και την τοποθετεί δίπλα από το hello, η option repeat ```hello --repeat 3``` που παίρνει ως όρισμα κάποιον ακέραιο αριθμό εκτελόντας τόσες επαναλήψεις και τέλος έχουμε την λειτουργία argument out ```hello filename.txt``` που παίρνει ως όρισμα ένα αρχείο ή το δημιουργεί αν δεν υπάρχει και μπορεί να γράψει σε αυτό έναν αριθμό επαναλήψεων της repeat ```hello --repeat 3 filename.txt```.
