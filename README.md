@@ -50,6 +50,7 @@
 * [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
 * [Software Design](http://www.alexandercowan.com/software-design-class/)
 * [Situated Software](http://www.shirky.com/writings/situated_software.html)
+* [The Elements of Computing Systems](https://www.nand2tetris.org)
 
 **Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 
