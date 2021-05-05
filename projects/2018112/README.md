@@ -14,7 +14,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | <a href="#O">9</a> |<a href="#O"> Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
+| <a href="#H">11/a> |<a href="#H"> Άσκηση γραμμής εντολών </a>|
 | 12 | Τελική αναφορά* |
 
 ## <a name="P">ΕΙΣΑΓΩΓΗ:</a>
@@ -113,6 +113,21 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 - [Asciinema link 1](https://asciinema.org/a/410778)
 - [Asciinema link 2](https://asciinema.org/a/410779)
 - [Slack Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(484).png)
+
+---
+## <a name="H">4η Άσκηση γραμμής εντολών</a>
+
+Θέμα: Create an agent for news
+
+Παραδοτέο: The demo should display the new content added on a news web site
+
+Έκανα χρήση του [Huginn](https://github.com/huginn/huginn) με ένα έτοιμο docker image `docker run -it -p 3000:3000 --name ionio-sw-lab-huginn huginn/huginn` , επισκέφτηκα μέσω ενός browser τη localhost διεύθυνση :3000. Εκεί εμφανίστηκε το Huginn, επέλεξα τη προσθήκη ενός νέου Agent τύπου _Website Agent_ , το ονόμασα Ionio news feed και έκανα Schedule ανά μία ώρα. Για ιστοσελίδα "ειδήσεων" χρησιμοποίησα τη [σελίδα του Ιονίου με τις ανακοινώσεις](https://ionio.gr/gr/news/all-news-f1-all-f2-all), οπότε και στα options για url πρόσθεσα την αντίστοιχη σελίδα. Αποθήκευσα τον Agent και δημιούργησα έναν ακόμα ο οποίος θα στέλνει ως μηνύματα τις ανακοινώσεις του τμήματος. Ο νέος agent είναι τύπου _Post Agent_, όνομα Post to Slack και Schedule ανά μισή ώρα. Προκειμένου να λαμβάνει τις ανακοινώσεις από τον προηγούμενο Agent, πρόσθεσα στα sources τον Ionio news feed Agent και στο post_url παρέθεσα το webhook από το slack channel μου. Αποθηκεύω τον Agent και κάνω re-emit all events και έτσι εμφανίστηκαν το slack channel μου όπως φαίνεται στην εικόνα παρακάτω. 
+
+- [Slack Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/Slack%20Screenshot%202.png)
+- [Huginn Ionio news feed Agent Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/Huginn%20Ionio%20news%20feed.png)
+- [Huginn Post to Slack Agent Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/Huginn%20Post%20to%20Slack.png)
+
+Σημείωση: Δεν παραθέτω asciinema link γιατί δεν εκτέλέστηκαν άλλες εντολές πέραν της αρχικής που δημιούργησε το docker image.
 
 ---
 
