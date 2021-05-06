@@ -15,7 +15,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα <sup><a href="#8">[Παραδοτέο 8]</a></sup>|
 | 9 | Άσκηση γραμμής εντολών <sup><a href="#9">[Παραδοτέο 9]</a></sup>|
 | 10 | Συμμετοχικό περιεχόμενο <sup><a href="#10">[Παραδοτέο 10]</a></sup>|
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | Άσκηση γραμμής εντολών <sup><a href="#11">[Παραδοτέο 11]</a></sup>|
 | 12 | Τελική αναφορά* |
 
 #### [1]
@@ -106,7 +106,7 @@ Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 
 Screenshot application telegram | Screenshot Systemlog 1 | Screenshot Systemlog 2
 --- | --- | ---
-![Screenshot](telegram1.jpg) | ![Screenshot](systemlog.jpg) | ![Screenshot](systemlog2.jpg)
+![Screenshot](telegramold.jpg) | ![Screenshot](systemlog.jpg) | ![Screenshot](systemlog2.jpg)
 
 #### [7]
 ### Παραδοτέο 7</a>
@@ -120,7 +120,7 @@ Screenshot application telegram | Screenshot Systemlog 1 | Screenshot Systemlog 
 #### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://ecstatic-euclid-5ce1d6.netlify.app/)
 #### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv/tree/master)
 
-Αρχείο .pdf του βιογραφικού στον local host web server
+#### Αρχείο .pdf του βιογραφικού στον local host web server <br /> 
 ---
 ![Screenshot](cvnew2.jpg)
 
@@ -164,5 +164,11 @@ Screenshot application telegram | Screenshot Systemlog 1 | Screenshot Systemlog 
 #### [Ιστοσελίδα Βιβλίου - Ο Προγραμματισμός της Διάδρασης](https://optimistic-bartik-1be75a.netlify.app/)
 #### [Βιογραφία - Guido van Rossum (1o link)](https://optimistic-bartik-1be75a.netlify.app/biography/)
 #### [Βιογραφία - Guido van Rossum (2o link)](https://optimistic-bartik-1be75a.netlify.app/biography/guido-rossum/)
-#### [Μελέτη Περίπτωσης - Jupyter](https://optimistic-bartik-1be75a.netlify.app/biography/guido-rossum/)
-#### [Αποθετήριο Συμμετοχικού Περιεχομένου](https://github.com/p18mant/site)
+#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Βιογραφίας](https://github.com/p18mant/site/blob/master/_biography/guido-rossum.md)
+#### [Μελέτη Περίπτωσης - Jupyter (1o link)](https://optimistic-bartik-1be75a.netlify.app/case-study/)
+#### [Μελέτη Περίπτωσης - Jupyter (2o link)](https://optimistic-bartik-1be75a.netlify.app/case-study/jupyter/)
+#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Μελέτη Περίπτωσης (submodule-extras)](https://github.com/p18mant/extras/blob/4b3131aa4047c2f6ae1984cf49405d8a95377ca3/cs-jupyter.md)
+
+#### [11]
+### Παραδοτέο 11</a>
+### Άσκηση γραμμής εντολών: ???
