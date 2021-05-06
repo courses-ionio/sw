@@ -49,8 +49,8 @@
 # 1η άσκηση γραμμής εντολών
   Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python, `pip install twilio`. 
   -Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
-  -Το script: 
-  `
+  -Το script:<br>
+```python
 from twilio.rest import Client
 import getpass
   
@@ -73,7 +73,7 @@ try:
   print('Call will be forwarded in a couple of seconds!')
 except:
   print('\nOoops! Something went wrong!')
-` 
+```
 # Συμμετοχικό Περιεχόμενο 1ο
   - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
   - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
