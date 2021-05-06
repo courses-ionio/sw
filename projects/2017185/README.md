@@ -30,14 +30,15 @@
   Βασικός μου στόχος για το μάθημα είναι φυσικά η επιτυχία σε αυτό με όσο καλύτερο βαθμό μπορώ. Αυτό σημαίνει πως πρέπει να ακολουθώ τις οδηγίες με λεπτομέρια και να επικοινωνώ με τον καθηγητή για την ανάπτυξη της τελικής αναφοράς. Αυτό όμως δεν σημαίνει ότι δεν θα προσπαθήσω να αποκτήσω καινούριες γνώσεις, αντιθέτως θα μάθω όσα περισσότερα μπορώ. Εφόσον στο μέλλον θέλω να γίνω σχεδιαστής λογισμικού με ενδιαφέρει ιδιαίτερα παραδοτέο της 3ης εβδομάδας. 
 
 # Βιογραφικό
-
-  -[Github Repository](https://github.com/Haki-Malai/Resume)<br>
-  -[Λινκ](https://haki-malai.github.io/Resume/)<br>
-  -[Original Template](https://github.com/sproogen/modern-resume-theme)<br>
-  -[Asciinema](https://asciinema.org/a/412408)
-  -Επιπλέον Προσθήκες:
+   - [Github Repository](https://github.com/Haki-Malai/Resume)
+   - [Λινκ](https://haki-malai.github.io/Resume/)
+   - [Original Template](https://github.com/sproogen/modern-resume-theme)
+   - [Asciinema](https://asciinema.org/a/412408)
+   - Επιπλέον Προσθήκες:
       - Animated Background με την χρήση CSS
       - Μπάρες για skills που διαβάζουν τα data από το _config.yml το οποίο το τροποποίησα (νέο content -> skill για το οποίο πρόσθεσα και html αρχεία) και με           javascript γεμίζει την μπάρα. Πχ για σκιλλ 7/10 python γεμίζει αντίστοιχα την μπάρα. Αυτόματα.
+      - Αλλαγή στο font και προσθήκη σκιών
+      - Προσθήκη κουμπιών με κατάλληλο icon
   
 # 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα
    - Άνοιξα [issue](https://github.com/ioniodi/sitegr/issues/24) και στην αρχή επέλεξα να προσθέσω αρκετά μαθήματα όμως μετά από συνεννόηση με τον κ.Χωριανόπουλο πρόσθεσα μόνο ένα, το "Εφαρμοσμένος προγραμματισμός με Python"
@@ -48,8 +49,8 @@
    
 # 1η άσκηση γραμμής εντολών
   Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python, `pip install twilio`. 
-  -Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
-  -Το script:<br>
+   -Η διαδικασία μπορεί να προβλεθεί [εδώ](https://asciinema.org/a/398901).
+   -Το script:<br>
 ```python
 from twilio.rest import Client
 import getpass
@@ -75,13 +76,13 @@ except:
   print('\nOoops! Something went wrong!')
 ```
 # Συμμετοχικό Περιεχόμενο 1ο
-  - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
-  - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
-  - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/temple-os-thumb.png) και [2ο](https://github.com/Haki-Malai/images/blob/master/lazy-script-thumb.png)
-  - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
-  - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
-  - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
-  - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
+   - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
+   - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
+   - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/temple-os-thumb.png) και [2ο](https://github.com/Haki-Malai/images/blob/master/lazy-script-thumb.png)
+   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
+   - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
+   - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
 
 # 2η άσκηση γραμμής εντολών
   Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<br>
@@ -89,7 +90,7 @@ except:
   
 # Βιογραφικό
   Με την βοήθεια των οδηγιών του εργαστηρίου από τον κ.Ρίγγα χρησιμοποίησα το εργαλείο weasyprint για την δημιουργία του pdf του βιογραφικού μου. Στην συνέχεια το πρόσθεσα σε έναν [φάκελο](https://github.com/Haki-Malai/Resume/tree/main/pdf) του [Resume](https://github.com/Haki-Malai/Resume) μου. Στην συνέχεια, πρόσθεσα ένα καινούριο κουμπί ,με εικονίδιο ένα icon για pdf, στο οποίο για το download απλώς έβαλα το λινκ του download του Github.
-  Όμως, αυτό απαιτεί την δημιουργία νέου pdf κάθε φορά που γίνεται μια αλλαγή στο cv. Επομένως, χρειάστηκε να χρησιμοποιήσω 2 git hooks: ένα pre-commit και ένα post-commit. Η διαδικασία μπορεί να παρατηρηθεί στο [λινκ]() του asciinema.
+  Όμως, αυτό απαιτεί την δημιουργία νέου pdf κάθε φορά που γίνεται μια αλλαγή στο cv. Επομένως, χρειάστηκε να χρησιμοποιήσω 2 git hooks: ένα pre-commit και ένα post-commit. Η διαδικασία μπορεί να παρατηρηθεί στο [λινκ](https://asciinema.org/a/412412) του asciinema.
   
 # 3η άσκηση γραμμής εντολών
   Ως 3η άσκηση γραμμής εντολών αποφάσισα να κάνω την "performance monitoring". Δοκίμασα και τα δυο εργαλεία, py-spy και hyperfine, και μπορώ να πω πως το hyperfine μου άρεσε περισσότερο εφόσον ήταν εύκολο στην χρήση του και πιο "straitforward". Σε αυτό το [λινκ](https://asciinema.org/a/ML0tW93N7Sqpz9rOonRFXtdhm) μπορείτε να δείτε την καταγραφή της χρήσης του σε asciinema στην οποία υλοποίησα 3 αλγόριθμους ταξινόμησης και τους έβαλα να ταξινομήσουν αλφαβητικά ένα αρχείο csv το οποίο αποτελείτε από 1000 τυχαία ονόματα, παραγόμενα από το [Mockaroo](https://www.mockaroo.com/). Σε αυτό το [λινκ](https://asciinema.org/a/410734) βλέπουμε την χρήση του py-spy το οποίο παράγει ένα αρχείο svg:
