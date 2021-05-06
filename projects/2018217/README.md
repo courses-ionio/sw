@@ -67,9 +67,9 @@
 
 ##### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/399052)
 ##### [Σύνδεσμος Άσκησης γραμμής εντολών 2](https://asciinema.org/a/399058)
+--- | ---
+![Screenshot](cli-1.png) | ![Screenshot](cli-2.png)
 
-![Screenshot](cli-1.png)
-![Screenshot](cli-2.png)
 
 #### [5]
 ### Παραδοτέο 5</a>
@@ -87,9 +87,8 @@
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-1](https://asciinema.org/a/401005)
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-2](https://asciinema.org/a/400622)
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-3](https://asciinema.org/a/401045)
-
-![Screenshot](paradoteo5-1.jpg)
-![Screenshot](paradoteo5-2.jpg)
+--- | ---
+![Screenshot](paradoteo5-1.jpg) | ![Screenshot](paradoteo5-2.jpg)
 
 #### [6]
 ### Παραδοτέο 6</a>
@@ -103,12 +102,9 @@
 
 #### [Σύνδεσμος asciinema γραμμής εντολών: send notifications to your desktop-mobile](https://asciinema.org/a/405289)
 
-#### Screenshot application telegram
-![Screenshot](telegram1.jpg)
-
-#### Screenshot Systemlog
-![Screenshot](systemlog.jpg)
-![Screenshot](systemlog2.jpg)
+Screenshot application telegram | Screenshot Systemlog 1 | Screenshot Systemlog 2
+--- | --- | ---
+![Screenshot](telegram1.jpg) | ![Screenshot](systemlog.jpg) | ![Screenshot](systemlog2.jpg)
 
 #### [7]
 ### Παραδοτέο 7</a>
@@ -121,6 +117,7 @@
 #### [Σελίδα Βιογραφικού Σημειώματος](https://p18mant.github.io/cv/)
 #### [Σελίδα Βιογραφικού Σημειώματος με χρήση Netlify](https://ecstatic-euclid-5ce1d6.netlify.app/)
 #### [Αποθετήριο Βιογραφικού Σημειώματος](https://github.com/p18mant/cv/tree/master)
+---
 ![Screenshot](cvnew2.jpg)
 
 #### [8]
