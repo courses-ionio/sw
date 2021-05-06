@@ -344,7 +344,4 @@ unsitisfied depedency | Εκτέλεση | Τελική προσθήκη
 --- | --- | ---
 ![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png) | ![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png) |  ![3](https://user-images.githubusercontent.com/56764193/117227292-27ce9000-ae1f-11eb-8125-7776fd858c97.png)
 
-![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png)
-![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png)
-![3](https://user-images.githubusercontent.com/56764193/117227292-27ce9000-ae1f-11eb-8125-7776fd858c97.png)
 
