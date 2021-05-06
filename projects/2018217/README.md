@@ -139,7 +139,7 @@
 * [X] Τροποποίηση του configuration στο αρχείο mqttwarn.ini
 #### Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο youtube mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.<br /> 
 #### [Σύνδεσμος Video στο youtube](https://youtu.be/Z3L9CvS6Hm4)<br /> 
-Εικόνα 1 - Slack | Εικόνα 2 - Slack
+Καταχώριση μηνύματος στο CLI - Ubuntu | Εμφάνιση απεσταλμένου μηνύματος στο Slack
 --- | ---
 ![Screenshot](SW-paradoteo9.1.jpg) | ![Screenshot](SW-paradoteo9.2.jpg)
 
@@ -149,9 +149,10 @@
 * [X] Δημιουργία του αρχείου telegram.py στο directory του mqttwarn.
 #### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.<br /> 
 #### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070) <br /> 
-![Screenshot](telegram.jpg) <br /> 
-![Screenshot](telegram1.jpg) <br /> 
-![Screenshot](telegram2.jpg) <br /> 
+Εμφάνιση απεσταλμένου μηνύματος στο Telegram app του κινητού | Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app
+--- | --- | ---
+![Screenshot](telegram.jpg) | ![Screenshot](telegram1.jpg) | ![Screenshot](telegram2.jpg)
+
 
 #### [10]
 ### Παραδοτέο 10</a>
