@@ -83,6 +83,7 @@
 - [Δημιουργία δυνατότητας προσθήκης zoom link στα profile κάθε εκπαιδευτικού της σχολής #181](https://github.com/ioniodi/sitegr/issues/181)
 - [Προσθήκη "Back to Top" Button #188](https://github.com/ioniodi/sitegr/issues/188)
 - [Διόρθωση εμφάνισης των link "Learn More" στην βασική σελίδα μέσω οθόνης κινητού. #194](https://github.com/ioniodi/sitegr/issues/194)
+- [Διαγραφή των κουμπιών "Learn more" και προσθήκη λινκ στους τίτλους. #42](https://github.com/ioniodi/minimal-ionio/pull/42#pullrequestreview-653615950)
 
 ## 4. Άσκηση γραμμής εντολών
 
