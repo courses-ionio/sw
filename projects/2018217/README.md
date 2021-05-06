@@ -149,7 +149,7 @@
 * [X] Δημιουργία του αρχείου telegram.py στο directory του mqttwarn.
 #### Στο πλαίσιο της παρουσίασης τροποποίησα το mqttwarn στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn καθώς και στο telegram app.<br /> 
 #### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070) <br /> 
-Εμφάνιση απεσταλμένου μηνύματος στο Telegram app του κινητού | Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app
+Εμφάνιση απεσταλμένου μηνύματος στο Telegram app του κινητού | Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app | Συνέχεια - Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app
 --- | --- | ---
 ![Screenshot](telegram.jpg) | ![Screenshot](telegram1.jpg) | ![Screenshot](telegram2.jpg)
 
