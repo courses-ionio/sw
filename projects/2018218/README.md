@@ -340,8 +340,12 @@ print(json.dumps(data))
 *  Eτσι πετυχαίνουμε διαχωρισμό των project μας
 *  Τέλος έγινε και η μεταφορά των requirements από το ένα φάκελο κλώνο στον αλλό και ο πρώτος διαγράφτηκε.
 
-unsitisfied depedency | Εκτέλεση | Τελική προσθήκη  
---- | --- | ---
-![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png) | ![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png) |  ![3](https://user-images.githubusercontent.com/56764193/117227292-27ce9000-ae1f-11eb-8125-7776fd858c97.png)
+unsitisfied depedency | Εκτέλεση | Προσθήκη requirements | Αρχεία App  
+--- | --- | --- | ---
+![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png) | ![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png) |  ![99](https://user-images.githubusercontent.com/56764193/117229702-2a7fb400-ae24-11eb-9311-6b512b7d0645.png) |  ![3](https://user-images.githubusercontent.com/56764193/117227292-27ce9000-ae1f-11eb-8125-7776fd858c97.png)
+
+
+
+
 
 
