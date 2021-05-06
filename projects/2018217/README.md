@@ -104,7 +104,7 @@ Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 
 #### [Σύνδεσμος asciinema γραμμής εντολών: send notifications to your desktop-mobile](https://asciinema.org/a/405289)
 
-Screenshot application telegram | Screenshot Systemlog 1 | Screenshot Systemlog 2
+Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 --- | --- | ---
 ![Screenshot](telegramold.jpg) | ![Screenshot](systemlog.jpg) | ![Screenshot](systemlog2.jpg)
 
