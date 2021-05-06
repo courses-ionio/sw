@@ -31,19 +31,49 @@
 
 # Βιογραφικό
 
-  [Github Repository](https://github.com/Haki-Malai/Resume)<br>
-  [Λινκ](https://haki-malai.github.io/Resume/)<br>
-  [Original Template](https://github.com/sproogen/modern-resume-theme)
+  -[Github Repository](https://github.com/Haki-Malai/Resume)<br>
+  -[Λινκ](https://haki-malai.github.io/Resume/)<br>
+  -[Original Template](https://github.com/sproogen/modern-resume-theme)<br>
+  -[Asciinema](https://asciinema.org/a/412408)
+  -Επιπλέον Προσθήκες:
+      - Animated Background με την χρήση CSS
+      - Μπάρες για skills που διαβάζουν τα data από το _config.yml το οποίο το τροποποίησα (νέο content -> skill για το οποίο πρόσθεσα και html αρχεία) και με           javascript γεμίζει την μπάρα. Πχ για σκιλλ 7/10 python γεμίζει αντίστοιχα την μπάρα. Αυτόματα.
   
 # 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα
    - Άνοιξα [issue](https://github.com/ioniodi/sitegr/issues/24) και στην αρχή επέλεξα να προσθέσω αρκετά μαθήματα όμως μετά από συνεννόηση με τον κ.Χωριανόπουλο πρόσθεσα μόνο ένα, το "Εφαρμοσμένος προγραμματισμός με Python"
    - Πήρα Green Light και έκανα φορκ το [site](https://github.com/ioniodi)
    - Έκανα τις απαραίτητες αλλαγές και τις δοκίμασα στο [netlify](https://6044e72f4a6cbb00086319e0--pedantic-snyder-55ad29.netlify.app/)
-   - Έστειλα το [Pull Request](https://github.com/ioniodi/sitegr/pull/126)!
+   - Έστειλα το [Pull Request](https://github.com/ioniodi/sitegr/pull/126)
+   - Έγινε αποδεκτό και merge!
    
 # 1η άσκηση γραμμής εντολών
-  Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python. Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
+  Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python, `pip install twilio`. 
+  -Το λινκ είναι [εδώ](https://asciinema.org/a/398901).
+  -Το script: 
+  `
+from twilio.rest import Client
+import getpass
   
+class Call:
+  def __init__(self):
+    self.ACCOUNT_SID = getpass.getpass('Please give account sid: ')
+    self.AUTH_TOKEN = getpass.getpass('Please give authentication token: ')
+    self.FROM = input('Please give your twilio number: ')
+    self.TO = getpass.getpass('Please give target number: ')
+    self.record = Cliend(self.ACCOUNT_SID, self.AUTH_TOKEN)
+    self.call = self.client.calls.create(
+                                    record = (self.reord=='Yes'),
+                                    status_callback='https://www.myapp.com/events',
+                                    url='https://demo.twilio.com/docs/voice.xml',
+                                    to = self.TO,
+                                    from_ = self.FROM
+                                    )
+try:
+  call = Call()
+  print('Call will be forwarded in a couple of seconds!')
+except:
+  print('\nOoops! Something went wrong!')
+` 
 # Συμμετοχικό Περιεχόμενο 1ο
   - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
   - Πρόσθεσα δυο εικόνες, μια για το [templeOS](https://github.com/Haki-Malai/images/blob/master/temple-os.png) και άλλη μια για το [lazy script](https://github.com/Haki-Malai/images/blob/master/lazy-script.png)
