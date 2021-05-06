@@ -69,7 +69,7 @@
 ##### [Σύνδεσμος Άσκησης γραμμής εντολών 2](https://asciinema.org/a/399058)
 Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 --- | ---
-![Screenshot](cli-1.png) | ![Screenshot](cli-2.png)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/cli-1.png) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/cli-2.png)
 
 
 #### [5]
@@ -87,10 +87,10 @@ Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-1](https://asciinema.org/a/401005)
 #### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-2](https://asciinema.org/a/400622)
-#### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-3](https://asciinema.org/a/401045)
+#### [Σύνδεσμος γραμμής εντολών Συμμετοχικού Περιεχομένου part-3](https://asciinema.org/a/401045) <br/>
 Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 --- | ---
-![Screenshot](paradoteo5-1.jpg) | ![Screenshot](paradoteo5-2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/paradoteo5-1.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/paradoteo5-2.jpg)
 
 #### [6]
 ### Παραδοτέο 6</a>
@@ -106,7 +106,7 @@ Screenshot διαδικασίας 1 | Screenshot διαδικασίας 2
 
 Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 --- | --- | ---
-![Screenshot](telegramold.jpg) | ![Screenshot](systemlog.jpg) | ![Screenshot](systemlog2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegramold.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog2.jpg)
 
 #### [7]
 ### Παραδοτέο 7</a>
@@ -122,7 +122,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 
 #### Αρχείο .pdf του βιογραφικού στον localhost web server <br /> 
 ---
-![Screenshot](cvnew2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/cvnew2.jpg)
 
 #### [8]
 ### Παραδοτέο 8</a>
@@ -142,7 +142,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### [Σύνδεσμος Video στο youtube](https://youtu.be/Z3L9CvS6Hm4)<br /> 
 Καταχώριση μηνύματος στο CLI - Ubuntu | Εμφάνιση απεσταλμένου μηνύματος στο Slack
 --- | ---
-![Screenshot](SW-paradoteo9.1.jpg) | ![Screenshot](SW-paradoteo9.2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/SW-paradoteo9.1.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/SW-paradoteo9.2.jpg)
 
 
 ### Telegram
@@ -152,7 +152,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### [Asciinema Link - Αποστολή μηνύματος στο Telegram app μέσω mqtt](https://asciinema.org/a/411070) <br /> 
 Εμφάνιση απεσταλμένου μηνύματος στο Telegram app του κινητού | Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app | Συνέχεια - Τροποποίηση αρχείου mqttwarn.ini για συμβατότητα με το Telegram app
 --- | --- | ---
-![Screenshot](telegram.jpg) | ![Screenshot](telegram1.jpg) | ![Screenshot](telegram2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegram.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegram1.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegram2.jpg)
 
 
 #### [10]
