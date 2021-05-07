@@ -153,7 +153,12 @@ GIF
 ![twilio](https://user-images.githubusercontent.com/56299928/115073303-ce023680-9f00-11eb-93b2-fd3e103ab9b0.gif)
 
 
-
-
+##
+## 
 https://github.com/KaterinaLaz/site/blob/master/_case-study/sonic-pi.md
 https://github.com/KaterinaLaz/extras/blob/master/sonic-pi.md
+https://github.com/KaterinaLaz/site/blob/master/_biography/eben-upton.md
+https://github.com/KaterinaLaz/extras/blob/master/bio-eben-upton.md
+
+##
+##
