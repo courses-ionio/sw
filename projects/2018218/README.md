@@ -320,11 +320,22 @@ apt-get install vim-gnome curl git ack-grep exuberant-ctags
 
 ###### [11]
 
+### Πρόγραμμα Python το οποίο κάνει εξαγωγή τα δεδωμένα από το openweathermap για μια συγκεκριμένη τοποθεσία.
+
 Αξιοποίηση τoυ VIM_IDE με Plugin Python για την ανάπτυξη εφαρμογής καταγραφής δεδομένων απο openweathermap,
 στην οποία εγγράφηκα με API.
 
-Αρχείο Python το οποίο κάνει εξαγωγή τα δεδωμένα από το openweathermap.
+#### Διαδικασία
 
+*  Xρήση εντολής για δημιουργία virtual enviroment περιβάλλοντος και δημιουργία directory μέσα στο οποίο περιέχονται ο Python interpreter και τα standard library,  . 
+```sh
+python3 -m venv /path/to/new/virtual/environmen
+```
+*  Ενεργοποίηση virtual enviroment με τη παρακάτω εντολή με την οποία αλλάζει το shell prompt. 
+```sh
+source bin/activate
+```
+*  Aπό το παραδοτέο 9 χρησιμοποίησα το vim ως IDE python και δημιούργησα το weather.py. Xρήση του module requests της python.
 ```sh
 import requests                                                                 
 import json                                                                     
@@ -333,16 +344,26 @@ url = 'https://api.openweathermap.org/data/2.5/onecall?lat=37.9795&lon=23.7162&a
 resp = requests.get(url=url)                                                    
 data = resp.json()                                                              
 print(json.dumps(data))
+``` 
+*  Eκτέλεση του προγράμματος και εξαγωγή αποτελεσμάτων...
+```sh
+python3 weather app
 ```
+*  Τέλος έγινε η εξαγωγή των requirments σε αρχείο .txt και η μεταφορά των requirements μαζι με το weather.py από το ένα φάκελο σε ένα άλλο weather clone φάκελο με τις παρακάτω εντολές.
 
-*  Aπό το παραδοτέο 9 χρησιμοποίησα το vim ως IDE python και δημιούργησα το weather.py. 
-*  Aντέγραψα τον κώδικα σε άλλο φάκελο για να έχει ένα unsitisfied depedency.
-*  Eτσι πετυχαίνουμε διαχωρισμό των project μας
-*  Τέλος έγινε και η μεταφορά των requirements από το ένα φάκελο κλώνο στον αλλό και ο πρώτος διαγράφτηκε.
+```sh
+pip3 freeze
+pip3 freeze > requirements.txt
+deactivate
+cd ../weather-clone/
+cp ../weather-app/weather.py ./
+cp ../weather-app/requirements.txt ./
+```
+*  Εκτελώ ξανα το πρόγραμμα στον καινούριο φάκελο και ξανατρέχει.
 
-unsitisfied depedency | Εκτέλεση | Προσθήκη requirements | Αρχεία App  
---- | --- | --- | ---
-![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png) | ![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png) |  ![99](https://user-images.githubusercontent.com/56764193/117229702-2a7fb400-ae24-11eb-9311-6b512b7d0645.png) |  ![3](https://user-images.githubusercontent.com/56764193/117227292-27ce9000-ae1f-11eb-8125-7776fd858c97.png)
+Δημιουργία virtual enviroment | Εκτέλεση | Eξαγωγή των requirments σε αρχείο .txt  
+--- | --- | --- 
+![1](https://user-images.githubusercontent.com/56764193/117227267-1ab1a100-ae1f-11eb-82f6-99bdbcf18a62.png) | ![2](https://user-images.githubusercontent.com/56764193/117227278-200eeb80-ae1f-11eb-837a-6adbe27ddbfc.png) |  ![99](https://user-images.githubusercontent.com/56764193/117229702-2a7fb400-ae24-11eb-9311-6b512b7d0645.png) 
 
 
 
