@@ -16,7 +16,7 @@
 | 7 | [Βιογραφικό παραγωγή PDF](#Βιογραφικό-παραγωγή-PDF) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | [Άσκηση γραμμής εντολών Twilio API](#Άσκηση-γραμμής-εντολών-Twilio-API) |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | [Συμμετοχικό περιεχόμενο Sonic Pi & Eben Upton](#Συμμετοχικό-περιεχόμενο-Sonic-Pi-&-Eben-Upton) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
 
@@ -154,11 +154,12 @@ GIF
 
 
 ##
-## 
-https://github.com/KaterinaLaz/site/blob/master/_case-study/sonic-pi.md
-https://github.com/KaterinaLaz/extras/blob/master/sonic-pi.md
-https://github.com/KaterinaLaz/site/blob/master/_biography/eben-upton.md
-https://github.com/KaterinaLaz/extras/blob/master/bio-eben-upton.md
+## Συμμετοχικό περιεχόμενο Sonic Pi & Eben Upton
+
+| | | |
+|---|---|---|
+| site | [Sonic Pi](https://github.com/KaterinaLaz/site/blob/sw-test/_case-study/sonic-pi.md) | [Eben Upton](https://github.com/KaterinaLaz/site/blob/sw-test/_biography/eben-upton.md) |
+| extras | [Sonic Pi](https://github.com/KaterinaLaz/extras/blob/master/sonic-pi.md) | [Eben Upton](https://github.com/KaterinaLaz/extras/blob/master/bio-eben-upton.md) | 
 
 ##
 ##
