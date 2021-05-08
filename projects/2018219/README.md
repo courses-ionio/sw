@@ -63,26 +63,24 @@
 &nbsp;&nbsp;
 ## <a name="P5">Παραδοτέο 5</a>
 ## <a href="#P">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a>
-   | <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a> | 
-      Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
-      Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a> |
-   
-   | <a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a> |
-      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>
-      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a> |
-   
-   |   | Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>
-      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a> |
+   - <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a>
+   - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
+   - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a>
+   - <a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a>
+   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>
+   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a>
+   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>
+   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a>
    - <a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a>
-      - Στον κατάλογο _slides έχουν τροποποιηθεί τα αρχεία
-       <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_slides/models.md">models.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_slides/programming.md">programming.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_slides/tools.md">tools.md</a>
-      - Στον κατάλογο _timeline έχουν τροποποιηθεί τα αρχεία
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a>
-       <a href="https://github.com/p18mili1/site/blob/master/_timeline/multimedia.md">multimedia.md</a>
+   - Στον κατάλογο _slides έχουν τροποποιηθεί τα αρχεία
+   - <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>
+   - <a href="https://github.com/p18mili1/site/blob/master/_slides/models.md">models.md</a>
+   - <a href="https://github.com/p18mili1/site/blob/master/_slides/programming.md">programming.md</a>
+   - <a href="https://github.com/p18mili1/site/blob/master/_slides/tools.md">tools.md</a>
+   - Στον κατάλογο _timeline έχουν τροποποιηθεί τα αρχεία
+   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>
+   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a>
+   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/multimedia.md">multimedia.md</a>
 
    - Αρχικά εγινε το cloning των 3 αποθετηρίων τοπικά και στη συνέχεια ακολούθησε η διαμόρφωση των αρχείων .md και των αρχείων εικόνων στα αποθετήρια _gallery και images. Η καταγραφή αρχίζει από το σημείο αυτό και περιλμαβάνει το pushing των repos, την αφαίρεση και την προσθήκη των submodules και τέλος το pushing του αποθετηρίου site. 
    - <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
