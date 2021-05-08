@@ -401,3 +401,21 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 -
 </details>
 </br>
+
+|**Alan Kay-Future Software Development (Eleventh Video Quiz)**|
+| :--------: | 
+</br>
+<details>
+  <summary>Πως διαφέρουν οι προδιαγραφές στο σύστημα που δείχνει από τα σύγχρονα λειτουργικά και εφαρμογές;
+</summary>
+</details>
+</br>
+<details>
+  <summary>Γιατί θα πρέπει το λογισμικό να αναπτύσεται με την διαδοχική συγγραφή εικονικών μηχανών;
+</summary>
+</details>
+</br>
+<details>
+  <summary>Ποια είναι η διαφορά του συστήματος που δείχνει από τα σύγχρονα λειτουργικά και τον παγκόσμιο ιστό;
+</summary>
+</details>
