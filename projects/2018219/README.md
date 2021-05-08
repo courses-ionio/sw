@@ -63,14 +63,16 @@
 &nbsp;&nbsp;
 ## <a name="P5">Παραδοτέο 5</a>
 ## <a href="#P">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a>
-   - <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a>
-      - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
-      - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a>
-   - <a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a>
-      - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>
-      - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a>
-      - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>
-      - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a>
+   | <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a> | 
+      Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
+      Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a> |
+   
+   | <a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a> |
+      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>
+      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a> |
+   
+   |   | Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>
+      Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a> |
    - <a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a>
       - Στον κατάλογο _slides έχουν τροποποιηθεί τα αρχεία
        <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>
