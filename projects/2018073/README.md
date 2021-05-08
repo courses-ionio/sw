@@ -19,15 +19,19 @@
 ## <a name="P">ΠΑΡΑΔΟΤΕΟ 1 ΕΙΣΑΓΩΓΗ:</a>
 
 Ο στόχος μου για το μάθημα είναι να εξοικειωθώ με τον τομέα του λογισμικού στα πλαίσια της θεωρίας στην επιστήμη των υπολογιστών, καθώς και μέχρι το τέλος του μαθήματος 
-να αναπτύξω πρακτικές δεξιότητες, μέσω ασκήσεων προγραμματισμού και command-line. Οι ανάγκες μου είναι η βαθιά κατανόηση του λογισμικού σαν έννοια και η συμβολή και παρατήρησή μου
-στις διάφορες εφαρμογές του.
+να αναπτύξω πρακτικές δεξιότητες, μέσω ασκήσεων προγραμματισμού και command-line. Οι ανάγκες μου είναι η βαθιά κατανόηση του λογισμικού σαν έννοια και η συμβολή και παρατήρησή μου στις διάφορες εφαρμογές του.
 
 ## <a name="P">ΠΑΡΑΔΟΤΕΟ 2:</a>
 
-Σύνδεσμος του CV-Resume με την χρήση jekyll https://faidontsetsis.github.io/cv/
+**CV-Resume based on Jekyll**
 
-Σύνδεσμος του αποθετηρίου στο οποίο βρίσκεται ο κώδικας του CV-Resume https://github.com/FaidonTsetsis/cv
+- [Based on HTML and built via terminal](https://faidontsetsis.github.io/cv/)
 
+  [Its repository](https://github.com/FaidonTsetsis/cv)
+
+- [Based on changing a yaml file and built on Github](https://faidontsetsis.github.io/Official_Resume_CV/)
+
+  [Its repository](https://github.com/FaidonTsetsis/Official_Resume_CV/blob/FaidonCV/_config.yml)
 
 ## <a name="P">ΠΑΡΑΔΟΤΕΟ 3:</a>
 
