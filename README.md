@@ -35,7 +35,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/)* 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/): Η εργασία ανάπτυξης είναι υποχρεωτική για όποιον σκοπεύει να πάρει [πτυχιακή με την ομάδα μας](https://github.com/courses-ionio/thesis/wiki).
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 20% [α-σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)* + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/): Η εργασία ανάπτυξης είναι υποχρεωτική για όποιον σκοπεύει να πάρει [πτυχιακή με την ομάδα μας](https://github.com/courses-ionio/thesis/wiki) και αντιστοιχεί σε 4 επιπλεόν αιτήματα ενσωμάτωσης τα οποία βαθμολογούνται στην θέση προηγούμενων ερωτημάτων και κρατάμε τον καλύτερο βαθμό.
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
@@ -50,6 +50,7 @@
 * [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
 * [Software Design](http://www.alexandercowan.com/software-design-class/)
 * [Situated Software](http://www.shirky.com/writings/situated_software.html)
+* [The Elements of Computing Systems](https://www.nand2tetris.org)
 
 **Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 
