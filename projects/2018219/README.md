@@ -140,6 +140,13 @@
 &nbsp;&nbsp;
 ## <a name="P10">Παραδοτέο 10</a>
 ## <a href="#P">Συμμετοχικό περιεχόμενο</a>
+
+Αναφορές cs: 
+1. https://en.wikipedia.org/wiki/Google_Translate
+2. https://mahimoto.com/talking-to-strangers
+Πηγές βιο:
+1. https://en.wikipedia.org/wiki/Ted_Kaehler
+2. http://www.squeakland.org/about/people/bio.jsp?id=16
 &nbsp;&nbsp;
 ## <a name="P11">Παραδοτέο 11</a>
 ## <a href="#P">Άσκηση γραμμής εντολών</a>
