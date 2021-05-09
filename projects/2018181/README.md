@@ -79,7 +79,7 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 |**Caption's Link** | **Image's Link** | **Thumb Image's Link** | **Asciinena Video** | **Netlify Link** |
 |:---------:| :--------: | :----------: | :----------: |:----------: |
 |[Visi-On](https://github.com/mariachlkt/_gallery/blob/P2018181/vision.md)|[Visi On Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os.png)| [Visi On Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/irix-os_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
-| [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/irix-os.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
+| [Irix-OS](https://github.com/mariachlkt/_gallery/blob/P2018181/vision.md)|[Irix OS Image](https://github.com/mariachlkt/images/blob/P2018181/vision.png)| [Irix OS Thumb Image](https://github.com/mariachlkt/images/blob/P2018181/vision_thumb.png) | [Asciinema Video](https://asciinema.org/a/403138)| https://sad-spence-5715fa.netlify.app/
 
 </br>
 
@@ -98,9 +98,9 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 
 |**Biography's Links** | **Case-Study's Links** | **Netlify Link** |
 |:---------:| :--------: | :----------: |
-|[Richard Stallman](https://github.com/mariachlkt/site/blob/master/_biography/richard-stallman)| [GNOME](https://github.com/mariachlkt/site/blob/P2018181/_case-study/GNOME.md) |
-|[Image](https://github.com/mariachlkt/images/blob/P2018181/richard-stallman.jpeg)| [Image](https://github.com/mariachlkt/images/blob/P2018181/GNOME.png) / [Gallery](https://github.com/mariachlkt/_gallery/blob/P2018181/GNOME.md)|
-|[Extras](https://github.com/mariachlkt/extras/blob/master/bio-stallman.md)| [Extras](https://github.com/mariachlkt/extras/blob/master/cs-GNOME.md)|
+|[Richard Stallman](https://github.com/mariachlkt/site/blob/P2018181-test/_biography/richard-stallman.md)| [GNOME](https://github.com/mariachlkt/site/blob/P2018181-test/_case-study/gnome.md) |
+|[Image](https://github.com/mariachlkt/images/blob/P2018181/richard-stallman.jpeg)| [Image](https://github.com/mariachlkt/images/blob/P2018181/gnome.png) / [Gallery](https://github.com/mariachlkt/_gallery/blob/P2018181/gnome.md)|
+|[Extras](https://github.com/mariachlkt/extras/blob/master/bio-stallman.md)| [Extras](https://github.com/mariachlkt/extras/blob/master/cs-gnome.md)|
 
 </br>
 
