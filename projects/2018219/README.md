@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 <table>
   <tbody>
-    <tr><td align="center"><h3><a <a name="P">Εβδομάδα</a></h3></td><td align="center"><h3>Παραδοτέο</h3></td></tr>
+    <tr><td align="center"><h3><a name="P">Εβδομάδα</a></h3></td><td align="center"><h3>Παραδοτέο</h3></td></tr>
     <tr><td align="center">1</td>
       <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td></tr>
     <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
@@ -63,34 +63,43 @@
 &nbsp;&nbsp;
 ## <a name="P5">Παραδοτέο 5</a>
 ## <a href="#P">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a>
-   - <a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a>
-   - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a>
-   - Σύνδεσμος αρχείου <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a>
-   - <a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a>
-   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>
-   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a>
-   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>
-   - Σύνδεσμος εικόνας <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a>
-   - <a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a>
-   - Στον κατάλογο _slides έχουν τροποποιηθεί τα αρχεία
-   - <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>
-   - <a href="https://github.com/p18mili1/site/blob/master/_slides/models.md">models.md</a>
-   - <a href="https://github.com/p18mili1/site/blob/master/_slides/programming.md">programming.md</a>
-   - <a href="https://github.com/p18mili1/site/blob/master/_slides/tools.md">tools.md</a>
-   - Στον κατάλογο _timeline έχουν τροποποιηθεί τα αρχεία
-   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>
-   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a>
-   - <a href="https://github.com/p18mili1/site/blob/master/_timeline/multimedia.md">multimedia.md</a>
 
-   - Αρχικά εγινε το cloning των 3 αποθετηρίων τοπικά και στη συνέχεια ακολούθησε η διαμόρφωση των αρχείων .md και των αρχείων εικόνων στα αποθετήρια _gallery και images. Η καταγραφή αρχίζει από το σημείο αυτό και περιλμαβάνει το pushing των repos, την αφαίρεση και την προσθήκη των submodules και τέλος το pushing του αποθετηρίου site. 
-   - <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
-   - <a href="https://mybookp18mili1.netlify.app">Σύνδεσμος netlify του βιβλίου</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/gallery/etoys/"> gallery/etoys</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/slides/tools/">slides/tools etoys</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/timeline/programming/">timeline/programming etoys</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/gallery/google-translate/">gallery/google-translate</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/slides/models/">slides/models google-translate</a>
-   - Eκτελέσιμο netlify <a href="https://mybookp18mili1.netlify.app/timeline/multimedia/">timeline/multimedia google-translate</a>
+<table>
+  <tbody>
+    <tr><td align="left"><a href="https://github.com/p18mili1/_gallery">Σύνδεσμος αποθετηρίου _gallery</a></td><td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/etoys.md">etoys.md</a></td></tr>
+    <tr><td align="left"></td><td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/google-translate.md">google-translate.md</a></td></tr>
+    <tr><td align="left"><a href="https://github.com/p18mili1/images">Σύνδεσμος αποθετηρίου images</a></td><td align="left">Eικόνα <a href="https://github.com/p18mili1/images/blob/master/etoys.png">etoys.png</a>, Eικονίδιο <a href="https://github.com/p18mili1/images/blob/master/etoys-thumb.png">etoys-thumb.png</a></td></tr>
+    <tr><td align="left"></td><td align="left">Eικόνα <a href="https://github.com/p18mili1/images/blob/master/google-translate.png">google-translate.png</a>, Eικονίδιο <a href="https://github.com/p18mili1/images/blob/master/google-translate-thumb.png">google-translate-thumb.png</a></td></tr>
+    <tr><td align="left"><a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a></td><td align="left"></td></tr>
+    <tr><td align="left">Αρχεία που έχουν τροποποιηθεί στον κατάλογο <a href="https://github.com/p18mili1/site/tree/master/_slides">_slides</a></td>
+        <td align="left">
+            <a href="https://github.com/p18mili1/site/blob/master/_slides/learning.md">learning.md</a>, 
+            <a href="https://github.com/p18mili1/site/blob/master/_slides/models.md">models.md</a>, 
+            <a href="https://github.com/p18mili1/site/blob/master/_slides/programming.md">programming.md</a> and 
+            <a href="https://github.com/p18mili1/site/blob/master/_slides/tools.md">tools.md</a>
+        </td>
+    </tr>
+    <tr><td align="left">Αρχεία που έχουν τροποποιηθεί στον κατάλογο <a href="https://github.com/p18mili1/site/tree/master/_timeline">_timeline</a></td>
+        <td align="left">
+            <a href="https://github.com/p18mili1/site/blob/master/_timeline/learning.md">learning.md</a>, 
+            <a href="https://github.com/p18mili1/site/blob/master/_timeline/programming.md">programming.md</a> and 
+            <a href="https://github.com/p18mili1/site/blob/master/_timeline/multimedia.md">multimedia.md</a>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+Αρχικά εγινε το cloning των 3 αποθετηρίων τοπικά και στη συνέχεια ακολούθησε η διαμόρφωση των αρχείων .md και των αρχείων εικόνων στα αποθετήρια _gallery και images. Η καταγραφή αρχίζει από το σημείο αυτό και περιλμαβάνει το pushing των repos, την αφαίρεση και την προσθήκη των submodules και τέλος το pushing του αποθετηρίου site. 
+
+  - <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
+  - <a href="https://mybookp18mili1.netlify.app">Σύνδεσμος netlify του βιβλίου</a>
+  - Eκτελέσιμα netlify: 
+    - <a href="https://mybookp18mili1.netlify.app/gallery/etoys/"> gallery/etoys</a>
+    - <a href="https://mybookp18mili1.netlify.app/slides/tools/">slides/tools etoys</a>
+    - <a href="https://mybookp18mili1.netlify.app/timeline/programming/">timeline/programming etoys</a>
+    - <a href="https://mybookp18mili1.netlify.app/gallery/google-translate/">gallery/google-translate</a>
+    - <a href="https://mybookp18mili1.netlify.app/slides/models/">slides/models google-translate</a>
+    - <a href="https://mybookp18mili1.netlify.app/timeline/multimedia/">timeline/multimedia google-translate</a>
  
 
 &nbsp;&nbsp;
@@ -139,14 +148,22 @@
 
 &nbsp;&nbsp;
 ## <a name="P10">Παραδοτέο 10</a>
-## <a href="#P">Συμμετοχικό περιεχόμενο</a>
+## <a href="#P">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
 
-Αναφορές cs: 
-1. https://en.wikipedia.org/wiki/Google_Translate
-2. https://mahimoto.com/talking-to-strangers
-Πηγές βιο:
-1. https://en.wikipedia.org/wiki/Ted_Kaehler
-2. http://www.squeakland.org/about/people/bio.jsp?id=16
+Στα πλάισια των ζητουμένων του 2ου μέρους της άσκησης συμμετοχικού περιεχομένου, για το ζητούμενο Β1 ως περίπτωση μελέτης επέλεξα την υπηρεσία _**Google Translate**_. Έτσι, έκανα το cloning του αποθετηρίου **extras** από το `pibook` τοπικά, δημιούργησα και συμππλήρωσα το αρχείο `cs-google-translate.md` και τέλος έκανα _push_ του τοπικού αποθετηρίου στο αντίστοιχο remote. Στη συνέχεια, πρόσθεσα και διαμόρφωσα κατάλληλα το αρχείο `google-translate.md` στον κατάλογο _site/_case-study_. Για το ζητούμενο Β2, ως βιογραφία επέλεξα να γράψω για τον Ted Kaehler, ο οποίος συνδέεται άμεσα με την ομάδα που δημιούργησε το etoys, στο οποίο είχα αναφερθεί στο 1ο μέρος της ασκησης. Αφού έγινε η δημιουργία και η κατάλληλη διαμόρφωση των αρχείων `bio-kaehler.md` και `ted-kaehler.md` στον κατάλογο _site/_biography_, πρόσθεσα και τις αντίστοιχες εικόνες τοπικά στο αποθετήριο images και στη συνέχεια έκανα _push_ τις εικόνες στο remote αποθετήριο images και τα αρχεία στο remote site. Τέλος, έκανα προσθήκη του νέου submodule extras, ανανέωση του submodule images και το deploy του αποθετηρίου site στο netlify. 
+
+<table>
+  <tbody>
+    <tr><td align="left">Πηγές βιοφραφικού</td><td align="left">Πηγές μελέτης περίπτωσης</td></tr>
+    <tr><td align="left">http://www.squeakland.org/about/people/bio.jsp?id=16</td><td align="left">https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html</td></tr>
+    <tr><td align="left">http://squeakland.jp/community/biography/kaehler.html</td><td align="left">https://commit-global.com/how-accurate-is-google-translate/</td></tr>
+    <tr><td align="left">https://www.owlapps.net/owlapps_apps/articles?id=61893262&lang=en</td><td align="left">https://www.independent.co.uk/life-style/gadgets-and-tech/news/how-does-google-translate-work-b1821775.html</td></tr>
+    <tr><td align="left"></td><td align="left">https://www.teachyoubackwards.com/extras/pivot/</td></tr>
+    <tr><td align="left"></td><td align="left">https://www.k-international.com/blog/google-translate-facts/</td></tr>
+    <tr><td align="left"></td><td align="left">https://mahimoto.com/talking-to-strangers</td></tr>
+  </tbody>  
+</table>
+
 &nbsp;&nbsp;
 ## <a name="P11">Παραδοτέο 11</a>
 ## <a href="#P">Άσκηση γραμμής εντολών</a>
