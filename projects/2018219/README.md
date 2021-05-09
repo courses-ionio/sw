@@ -16,7 +16,7 @@
     <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td></tr>
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
     <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td></tr>
-    <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο</a></td></tr>
+    <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a></td></tr>
     <tr><td align="center">11</td><td align="left"><a href="#P11">Άσκηση γραμμής εντολών</a></td></tr>
     <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td></tr>
   </tbody>
