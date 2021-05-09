@@ -109,3 +109,18 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 Στην δεύτερη εικόνα δείχνω το setup του πρώτου Agent καθώς ο δεύτερος έχει ρυθμιστεί με παρόμοιο τρόπο προσαρμοσμένος στον css κώδικα της συγκεκριμένης ιστοσελίδας.
 
 Asciinema Link: https://asciinema.org/a/412887
+
+#### 8ο Παραδοτέο 09/05/2021
+#### 4η Άσκηση Γραμμής Εντολών: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+Σε αυτό το παραδοτέο για να παρακολουθήσω την λειτουργία των python-scripts χρησιμοποίησα τα προγράμματα py-spy && hyperfine.
+
+Με την εντολή "py-spy top" βλέπουμε ποια συνάρτηση του προγράμματος χρησιμοποιήθηκε περισσότερο χρόνο κατα την διάρκεια της εκτέλεσης.
+
+Με την εντολή "hyperfine command" βλέπουμε διάφορα στατιστικά και μετρικές σχετικά με τον χρόνο εκτέλεσης του προγράμματος καθώς και μία οπτικοποίηση του χρόνου με την κλασσική μπάρα.
+
+Οι εντολές : ##### hyperfine --warmup 3 'grep -R TODO *'   sync; echo 3 | sudo tee /proc/sys/vm/drop_caches      hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'python3 quicksort.py'  
+
+Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα"(cold) cache.
+      
+Ντέμο asciinema: https://asciinema.org/a/412961
