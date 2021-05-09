@@ -243,6 +243,19 @@ message = client.messages.create(
 
 Δημιούργησα ένα Docker Image για το site του βιογραφικού μου. 
 
+
+`Dockerfile`
+```
+FROM alpine
+COPY site-cv/
+EXPORT 4000
+RUN apt-get updtae
+RUN apt-get install ruby-full build-essential zlib1g-dev
+RUN gem install jekyll bundler:2.1.2
+
+CMD jekyll serve --host 0.0.0.0 &.
+```
+
 *Asciinema*
 
 [![asciicast](https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K.svg)](https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K)
