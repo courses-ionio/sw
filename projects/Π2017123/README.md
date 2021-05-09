@@ -109,6 +109,7 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 Στην δεύτερη εικόνα δείχνω το setup του πρώτου Agent καθώς ο δεύτερος έχει ρυθμιστεί με παρόμοιο τρόπο προσαρμοσμένος στον css κώδικα της συγκεκριμένης ιστοσελίδας.
 
 Asciinema Link: https://asciinema.org/a/412887
+<<<<<<< HEAD
 
 #### 8ο Παραδοτέο 09/05/2021
 #### 4η Άσκηση Γραμμής Εντολών: monitor the performance of your python scripts and visualize them with colors and/or spark lines
@@ -124,3 +125,11 @@ Asciinema Link: https://asciinema.org/a/412887
 Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα"(cold) cache.
       
 Ντέμο asciinema: https://asciinema.org/a/412961
+=======
+![image](https://user-images.githubusercontent.com/44093798/117571619-021fe000-b0d8-11eb-855c-c390a5246302.png)
+![image](https://user-images.githubusercontent.com/44093798/117571625-0946ee00-b0d8-11eb-9d0b-9c02d5cef840.png)
+![image](https://user-images.githubusercontent.com/44093798/117571638-1a8ffa80-b0d8-11eb-9c66-be071cd1c1fe.png)
+
+
+
+>>>>>>> 04873c629194f9c716478b90922b49251a45b85e
