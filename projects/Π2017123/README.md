@@ -109,10 +109,12 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 Στην δεύτερη εικόνα δείχνω το setup του πρώτου Agent καθώς ο δεύτερος έχει ρυθμιστεί με παρόμοιο τρόπο προσαρμοσμένος στον css κώδικα της συγκεκριμένης ιστοσελίδας.
 
 Asciinema Link: https://asciinema.org/a/412887
-<<<<<<< HEAD
+![image](https://user-images.githubusercontent.com/44093798/117571619-021fe000-b0d8-11eb-855c-c390a5246302.png)
+![image](https://user-images.githubusercontent.com/44093798/117571625-0946ee00-b0d8-11eb-9d0b-9c02d5cef840.png)
+![image](https://user-images.githubusercontent.com/44093798/117571638-1a8ffa80-b0d8-11eb-9c66-be071cd1c1fe.png)
 
 #### 8ο Παραδοτέο 09/05/2021
-#### 4η Άσκηση Γραμμής Εντολών: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+##### 4η Άσκηση Γραμμής Εντολών: monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 Σε αυτό το παραδοτέο για να παρακολουθήσω την λειτουργία των python-scripts χρησιμοποίησα τα προγράμματα py-spy && hyperfine.
 
@@ -120,16 +122,11 @@ Asciinema Link: https://asciinema.org/a/412887
 
 Με την εντολή "hyperfine command" βλέπουμε διάφορα στατιστικά και μετρικές σχετικά με τον χρόνο εκτέλεσης του προγράμματος καθώς και μία οπτικοποίηση του χρόνου με την κλασσική μπάρα.
 
-Οι εντολές : ##### hyperfine --warmup 3 'grep -R TODO *'   sync; echo 3 | sudo tee /proc/sys/vm/drop_caches      hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'python3 quicksort.py'  
+Οι εντολές : 1) hyperfine --warmup 3 'grep -R TODO *' 
+2)sync; echo 3 | sudo tee /proc/sys/vm/drop_caches      
+3) hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'python3 quicksort.py'  
 
 Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα"(cold) cache.
       
-Ντέμο asciinema: https://asciinema.org/a/412961
-=======
-![image](https://user-images.githubusercontent.com/44093798/117571619-021fe000-b0d8-11eb-855c-c390a5246302.png)
-![image](https://user-images.githubusercontent.com/44093798/117571625-0946ee00-b0d8-11eb-9d0b-9c02d5cef840.png)
-![image](https://user-images.githubusercontent.com/44093798/117571638-1a8ffa80-b0d8-11eb-9c66-be071cd1c1fe.png)
+##### Ντέμο asciinema: https://asciinema.org/a/412961
 
-
-
->>>>>>> 04873c629194f9c716478b90922b49251a45b85e
