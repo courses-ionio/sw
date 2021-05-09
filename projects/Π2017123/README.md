@@ -86,8 +86,7 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 
 Σε ένα άλλο terminal εκτελώ την εντολή mosquitto_pub -t test/1 -m "message" για να στείλω το notification στο MQTT. Έπειτα το πρόγραμμα αφού είναι συνδεδεμένο με συγκεκριμένα plugins μεταφέρει το notification στο plugin που του έχω υποδείξει στο .ini αρχείο.
 ###### asciinema link: https://asciinema.org/a/0u4vFDkAsj8215bfJK8NWKH4D
-[![newGif.gif](https://s4.gifyu.com/images/newGif.gif)](https://gifyu.com/image/Y4w4)
-
+![Gif](/LinuxGif2.gif)
 
 
 #### 7ο Παραδοτέο 09/05/2021
