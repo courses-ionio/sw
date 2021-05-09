@@ -19,7 +19,7 @@
 | 7 | <a href="#Παραδοτέο 7">βιογραφικό |</a>
 | 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα |</a>
 | 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών |</a>
-| 10 | <a href="#Παραδοτέο 10">συμμετοχικό περιεχόμενο |</a>
+| 10 | <a href="#Παραδοτέο 10">Συμμετοχικό περιεχόμενο |</a>
 | 11 | <a href="#Παραδοτέο 11">Άσκηση γραμμής εντολών |</a>
 | 12 | <a href="#Παραδοτέο 12">Τελική αναφορά* |</a>
 
@@ -97,3 +97,27 @@
 ![screenshot](slack.png)
 
 Ανέβασα στο [asciinema](https://asciinema.org/a/409789) video για τη λειτουργία του mqttwarn και τη λήψη του notification
+
+## <a name="Παραδοτέο 10">Παραδοτέο 10</a>
+## 2ο συμμετοχικό περιεχόμενο - Παραδοτέο Β1 και Β2</a>
+
+Για αυτό το παραδοτέο πραγματοποίησα:
+* [x] Έκανα fork το repository pibook/extras
+* [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό στο δικό μου repository images (δημιουργός της FORTRAN από το 1ο συμμετοχικό περιεχόμενο)
+* [x] Έκανα ενημέρωση του submodules images
+* [x] Πρόσθεσα τα αρχεία backus.md για το caption και bio-backus.md για το βιογραφικό, στο repository site/_biography
+* [x] Έκανα push τις αλλαγές στο terminal
+
+#### Οι πηγές μου:
+#### [Για το multitouch](https://inventhelp.com/archives/11-12/inventhelp-newsletter-november-2012/who-invented-multitouch)
+#### [Για τον John W. Backus](https://mathshistory.st-andrews.ac.uk/Biographies/Backus/)
+#### [Προφίλ του John W. Backus](https://www.computer.org/profiles/john-backus)
+#### [Φωτογραφία του John W. Backus](http://en.wikipedia.org/wiki/John_Backus#/media/File:John_Backus_2.jpg)
+
+#### Σχετικά link:
+#### [Εκτελέσιμο Netlify site case-study](https://cyclenikolaos.netlify.app/case-study/multitouch/)
+#### [Εκτελέσιμο Netlify site biography](https://cyclenikolaos.netlify.app/biography/backus/)
+#### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
+#### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/master/backus-thumb.png)
+#### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
+#### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
