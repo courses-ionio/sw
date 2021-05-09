@@ -108,7 +108,7 @@
 * [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργησα  δυο  αρχεία το pre-commit και το post-commit μέσα στο .git/hooks
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/405448)
-![Screenshot](cv_part2.png) 
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/cv_part2.png) 
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 
