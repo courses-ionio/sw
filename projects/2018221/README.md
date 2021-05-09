@@ -93,13 +93,13 @@
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/403530)
 
-![Screenshot](ntfy.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/ntfy.png)
 
 #### Screenshot application telegram
-![Screenshot](telegram1.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/telegram1.png)
 
 #### Screenshot ntfy Desktop
-![Screenshot](desktop_ntfy.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/desktop_ntfy.png)
 
 ### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
 ### ΒΙΟΓΡΑΦΙΚΟ
