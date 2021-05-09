@@ -438,7 +438,7 @@ Link με το αρχείο .svg που εξάγεται: https://github.com/apo
 
 **Αποτελέσματα:**
 
-![]()
+![py-spy](https://github.com/apostoloskp/sw-images/blob/main/py-spy.png)
 
 ## Απαντήσεις στις ερωτήσεις του 9ου quiz:
 
