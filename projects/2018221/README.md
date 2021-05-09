@@ -59,7 +59,7 @@
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
 
 ![Screenshot](Συμμετοχικό1.png)
-
+#### Σχετικά links
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app)
 #### [Αρχείο simcity_Video  _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
 #### [Αρχείο Lisp programming language _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/Lisp-programming-language.md)
@@ -139,6 +139,12 @@
 | https://www.britannica.com/biography/John-McCarthy |
 | https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist) |
 | http://jmc.stanford.edu/general/biography.html |
+#### Σχετικά links
+#### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app/biography/john-mccarthy/)
+#### [Αρχείο images John-McCarthy-thumb.png](https://github.com/p18myro/images/blob/7cb80f74e6ce829933240c4eed2a83f7ea2a4a32/John-McCarthy-thumb.png)
+#### [Αρχείο images John-McCarthy.png](https://github.com/p18myro/images/blob/7cb80f74e6ce829933240c4eed2a83f7ea2a4a32/John-McCarthy.png)
+#### [Αρχείο _biography John-McCarthy.md](https://github.com/p18myro/site/blob/master/_biography/John-McCarthy.md)
+#### [Αρχείο _biography bio-John-McCarthy.md](https://github.com/p18myro/site/blob/master/_biography/bio-John-McCarthy.md)
 
 Για την δημιουργία του δεύτερου τμήματος του παραδοτέο έγινε δημιουργία μελέτης περίπτωσης γλώσσα προγραμματισμού Lisp.. Έγινε προσθήκη στον φάκελο _case-study το αρχείου lisp.md και στο repository extras το αρχείο cs-lisp.md. Τέλος έγιναν push οι αλλαγές από το terminal στο site. Στον ακόλουθο πίνακα φαίνονται οι πηγές που χρησιμοποίησα για την δημιουργία της μελέτης περίπτωσης.
 
@@ -146,6 +152,10 @@
 | --- |
 | https://www.britannica.com/technology/LISP-computer-language |
 | https://en.wikipedia.org/wiki/Lisp_(programming_language) |
+#### Σχετικά links
+#### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app/case-study/lisp/)
+#### [Αρχείο _includes/extras cs-lisp.md](https://github.com/p18myro/extras/blob/6437975f40f499738394108c927f4eabacc00960/cs-lisp.md)
+#### [Αρχείο _case-study lisp.md](https://github.com/p18myro/site/blob/master/_case-study/lisp.md)
 
 
 
