@@ -204,7 +204,7 @@ message = client.messages.create(
 
 *Asciinema*
 
-[![asciicast](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.svg)](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
+<a href="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s" target="_blank"><img src="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.svg" /></a>
 
 *GIF*
 
