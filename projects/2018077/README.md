@@ -32,6 +32,7 @@
 |Alan Kay - Invention|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 |Jaron Lanier - Intertwingled |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 |Alan Kay - Scaling |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|alan kay future |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 
 ##
 ## Στόχοι
@@ -163,3 +164,5 @@ GIF
 
 ##
 ##
+
+<script id="asciicast-JKEbuh1YCTQmqvsFolBpdL94K" src="https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K.js" async></script>
