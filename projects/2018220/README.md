@@ -115,8 +115,8 @@
 #### [Φωτογραφία του John W. Backus](http://en.wikipedia.org/wiki/John_Backus#/media/File:John_Backus_2.jpg)
 
 #### Σχετικά link:
-#### [Εκτελέσιμο Netlify site case-study](https://cyclenikolaos.netlify.app/case-study/multitouch/)
-#### [Εκτελέσιμο Netlify site biography](https://cyclenikolaos.netlify.app/biography/backus/)
+#### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
+#### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
 #### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
 #### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/master/backus-thumb.png)
 #### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
