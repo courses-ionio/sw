@@ -137,8 +137,9 @@
 | Πηγές |
 | --- |
 | https://www.britannica.com/biography/John-McCarthy |
-| https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist) |
+| https://computerhistory.org/profile/john-mccarthy | 
 | http://jmc.stanford.edu/general/biography.html |
+| https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist) |
 #### Σχετικά links
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app/biography/john-mccarthy/)
 #### [Αρχείο images John-McCarthy-thumb.png](https://github.com/p18myro/images/blob/7cb80f74e6ce829933240c4eed2a83f7ea2a4a32/John-McCarthy-thumb.png)
@@ -151,6 +152,7 @@
 | Πηγές |
 | --- |
 | https://www.britannica.com/technology/LISP-computer-language |
+| https://www.sciencedirect.com/topics/computer-science/lisp |
 | https://en.wikipedia.org/wiki/Lisp_(programming_language) |
 #### Σχετικά links
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app/case-study/lisp/)
