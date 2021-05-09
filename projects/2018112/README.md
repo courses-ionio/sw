@@ -12,8 +12,8 @@
 | <a href="#C">6</a> |<a href="#C"> Άσκηση γραμμής εντολών |
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| <a href="#O">9</a> |<a href="#O"> Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
+| <a href="#O">9</a> |<a href="#O"> Άσκηση γραμμής εντολών </a>|
+| <a href="#M">10</a> |<a href="#M"> Συμμετοχικό περιεχόμενο </a>|
 | <a href="#H">11</a> |<a href="#H"> Άσκηση γραμμής εντολών </a>|
 | 12 | Τελική αναφορά* |
 
@@ -115,6 +115,31 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 - [Slack Screenshot](https://github.com/NikosKar23/sw/blob/2018112/projects/2018112/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(484).png)
 
 ---
+
+## <a name="M">Συμμετοχικό περιεχόμενο</a>
+
+Β1) Μια νέα μελέτη περίπτωσης 
+
+> - [Block Based Programming](https://github.com/NikosKar23/site/blob/master/_case-study/block_based_programming.md)
+
+### **Παραπομπές**
+
+> - https://codakid.com/block-coding/ 
+
+B2) Μια νέα βιογραφία 
+
+> - [Mitchel Resnick](https://github.com/NikosKar23/site/blob/master/_biography/Mitchel-Resnick.md)
+> - [Mitchel Resnick Image](https://github.com/NikosKar23/images/blob/master/blockly.png)
+> - [Mitchel Resnick 160px Image](https://github.com/NikosKar23/images/blob/master/Mitchel-Resnick-thumb.jpg)
+
+### **Παραπομπές**
+> - [1] https://www.ted.com/speakers/mitch_resnick
+> - [2] https://www.media.mit.edu/people/mres/overview/
+> - [3] http://laptop.org/en/laptop/hardware/index.shtml
+> - [4] https://old.ellak.gr/index5b63.html?option=com_openwiki&Itemid=103&id=olpc:five_principles
+
+---
+
 ## <a name="H">4η Άσκηση γραμμής εντολών</a>
 
 Θέμα: Create an agent for news
