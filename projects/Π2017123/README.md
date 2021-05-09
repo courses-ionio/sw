@@ -88,6 +88,11 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 ###### asciinema link: https://asciinema.org/a/0u4vFDkAsj8215bfJK8NWKH4D
 <<<<<<< HEAD
 [![newGif.gif](https://s4.gifyu.com/images/newGif.gif)](https://gifyu.com/image/Y4w4)
+=======
+![Gif](/LinuxGif2.gif)
+>>>>>>> 0608305a90c0cfc0e219f8f7a5b3feafa71946cf
+
+
 
 
 ####7ο Παραδοτέο 09/05/2021
@@ -101,6 +106,3 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 Στην τρίτη εικόνα φένονται όλα τα διαφορετικά events που έκανε fetch ο  Agent.
 Στην δεύτερη εικόνα δείχνω το setup του πρώτου Agent καθώς ο δεύτερος έχει ρυθμιστεί με παρόμοιο τρόπο προσαρμοσμένος στον css κώδικα της συγκεκριμένης ιστοσελίδας.
 Asciinema Link: https://asciinema.org/a/412887
-=======
-![Gif](/LinuxGif2.gif)
->>>>>>> 0608305a90c0cfc0e219f8f7a5b3feafa71946cf
