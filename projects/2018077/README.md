@@ -165,4 +165,4 @@ GIF
 ##
 ##
 
-<script id="asciicast-JKEbuh1YCTQmqvsFolBpdL94K" src="https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K.js" async></script>
+<a href="https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K" target="_blank"><img src="https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K.svg" /></a>
