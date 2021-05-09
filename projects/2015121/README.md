@@ -427,6 +427,8 @@ Link για το asciinema: https://asciinema.org/a/407570
 
 Link με το asciinema για εφαρμογή του py-spy: https://asciinema.org/a/412033
 
+Link με το αρχείο .svg που εξάγεται: https://github.com/apostoloskp/sw-files/blob/main/profile.svg
+
 ## Διαδικασία:
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo pip3 install py-spy** και **git clone --depth 1 https://github.com/brendangregg/FlameGraph**.
 Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
