@@ -58,7 +58,7 @@
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
 
-![Screenshot](Συμμετοχικό1.png)
+![Screenshot](https://github.com/p18myro/sw_images/blob/main/%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C1.png)
 #### Σχετικά links
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app)
 #### [Αρχείο simcity_Video  _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
