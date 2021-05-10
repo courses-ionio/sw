@@ -140,3 +140,11 @@ create your own static site and blog generator
 
 - [CLI Repository](https://github.com/Stavrospanakakis/yasg)
 [![asciicast](https://asciinema.org/a/408729.svg)](https://asciinema.org/a/408729)
+
+## 10. Συμμετοχικό περιεχόμενο
+
+- [Pibook Repository](https://github.com/Stavrospanakakis/site)
+- [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
+- [Images Repository](https://github.com/stavrospanakakis/images)
+- [Extra Repository](https://github.com/stavrospanakakis/extras)
+
