@@ -183,6 +183,17 @@ build and deploy your static site and your cv dynamically every time you make a 
 Action Screenshot
 ![image](https://user-images.githubusercontent.com/53979866/117645707-900cd100-b193-11eb-84d0-a47f515c470c.png)
 
+## Συμπεράσματα
+Τέλος, θεωρώ πως πέτυχα όλους τους στόχους που είχα για το μάθημα. Όπως αναφέρω
+και στην εισαγωγή ήθελα να δώσω βάση στο CI, Docker και Static Site Generators.
+Κάνοντας όλα τα παραδοτέα χρησιμοποίησα το CI τόσο στην άσκηση για το βιογραφικό
+όπου έκανα generate ένα pdf αρχείο σε κάθε push όσο και σε ένα παραδοτέο γραμμής
+εντολών όπου υπήρχε μέσω CI integration μεταξύ Github και AWS. Χρησιμοποίησα το
+Docker στο παραδοτέο για την άσκηση γραμμής εντολών, στο CI μέσω των Github Actions
+αλλά και σε προσωπικό development για την διευκόλυνση επικοινωνίας του stack μου.
+Όσον αφορά τους static site generators τους χρησιμοποιήσα επίσης στα παραδοτέα και
+έμαθα πως λειτουργούν low level φτιάχνοντας έναν δικό μου σε ένα παραδοτέο γραμμής εντολών.
+
 ## Quiz
 
 #### Quiz 1
