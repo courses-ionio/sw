@@ -148,3 +148,16 @@ create your own static site and blog generator
 - [Images Repository](https://github.com/stavrospanakakis/images)
 - [Extra Repository](https://github.com/stavrospanakakis/extras)
 
+## 11. Άσκηση γραμμής εντολών
+build and deploy your static site and your cv dynamically every time you make a small change in the source files
+
+- [Project Repository](https://github.com/Stavrospanakakis/aws-s3-actions-website)
+- [Action file](https://github.com/Stavrospanakakis/aws-s3-actions-website/blob/main/.github/workflows/main.yml)
+
+[![asciicast](https://asciinema.org/a/413094.svg)](https://asciinema.org/a/413094)
+Action Screenshot
+![image](https://user-images.githubusercontent.com/53979866/117645707-900cd100-b193-11eb-84d0-a47f515c470c.png)
+
+
+
+
