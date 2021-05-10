@@ -16,7 +16,7 @@
 | 7 | [Bιογραφικό](#Έβδομη-εβδομάδα)  |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Όγδοη-εβδομάδα) |
 | 9 | [Άσκηση γραμμής εντολών](#Ένατη-εβδομάδα) |
-| 10 | Συμμετοχικό περιεχόμενο |
+| 10 | [Συμμετοχικό περιεχόμενο](#Δέκατη-εβδομάδα) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά |
 
@@ -133,6 +133,17 @@ Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.
 ![](https://github.com/sophia-ts/WebsiteCV/blob/main/assets/jekyllCI.png)
 
 ![](https://github.com/sophia-ts/WebsiteCV/blob/main/assets/jekyllCI2.png)
+
+
+## Δέκατη εβδομάδα 
+
+Συμμετοχικό περιεχόμενο -- Προσθήκη βιογραφίας Ian Murdock
+
+[repository](https://github.com/sophia-ts/site),
+[images](https://github.com/sophia-ts/images/tree/29b48e56a3c70230977eeabd4051a42f7d8fd530),
+[bibliography](https://github.com/sophia-ts/site/tree/master/_biography)
+
+
 
 # Απαντήσεις εβδομαδιαίου quiz
 
