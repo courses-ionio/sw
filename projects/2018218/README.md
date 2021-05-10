@@ -81,7 +81,7 @@ ScreenShot Image |
 
 ## Simula
 - [Σύνδεσμος Βιβλίου](https://romantic-varahamihira-b4537e.netlify.app/)
-- - [Σύνδεσμος Εκτελέσιμου](https://romantic-varahamihira-b4537e.netlify.app//gallery/simula/)
+- - [Σύνδεσμος Εκτελέσιμου](https://romantic-varahamihira-b4537e.netlify.app/gallery/simula-language/)
   
   - [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
   
