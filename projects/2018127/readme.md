@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 1 | [Intro](https://github.com/runtheorun-exe/sw/blob/2018127/projects/2018127/readme.md#%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Υποβολή μέσω της εφαρμογής |
 | 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
-| 3 | [Ionian University Site PR](#pull-request-1) | [Answered Here](#week-3 |
+| 3 | [Ionian University Site PR](#pull-request-1) | [Answered Here](#week-3) |
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
 | 5 | [Collaborative Work #1](#collaborative-work-pibook-1) | Υποβολή μέσω εφαρμογής
 | 6 | [CLI Exercise #2](#cli-exercise-2) | [Answered Here](#week-6)
