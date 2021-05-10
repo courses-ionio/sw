@@ -8,20 +8,20 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα |
-| 2 | Βιογραφικό |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 4 | Άσκηση γραμμής εντολών |
-| 5 | Συμμετοχικό περιεχόμενο |
-| 6 | Άσκηση γραμμής εντολών |
-| 7 | Βιογραφικό |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
-| 10 | Συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
-| 12 | Τελική αναφορά* |
+| 1 | <a href="#introduction">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα</a> |
+| 2 | <a href="#bio1">Βιογραφικό</a> |
+| 3 | <a href="#site1">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
+| 4 | <a href="#term1">Άσκηση γραμμής εντολών</a> |
+| 5 | <a href="#sym1">Συμμετοχικό περιεχόμενο</a> |
+| 6 | <a href="#term2">Άσκηση γραμμής εντολών</a> |
+| 7 | <a href="#bio2">Βιογραφικό</a> |
+| 8 | <a href="#site2">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
+| 9 | <a href="#term3">Άσκηση γραμμής εντολών</a> |
+| 10 | <a href="#sym2">Συμμετοχικό περιεχόμενο</a> |
+| 11 | <a href="#term4">Άσκηση γραμμής εντολών</a> |
+| 12 | <a href="#final">Τελική αναφορά*</a> |
 
-## 1. Εισαγωγή
+## <div id="introduction">1. Εισαγωγή</div>
 Ο στόχος μου για το μάθημα "Τεχνολογίες Λογισμικού" είναι η επιτυχής ολοκλήρωση των ασκήσεων, η εκμάθηση των εργαλείων που θα διδαχθούμε
 και η πρακτική εξάσκηση πάνω σε αυτά. Πιο συγκεκριμένα, θα ήθελα να δουλέψω περισσότερο με CI/CD (πχ Travis, Github Actions etc), με Docker (είτε για 
 development είτε για deployment) και να δω και static site generators.
@@ -35,7 +35,7 @@ development είτε για deployment) και να δω και static site gene
 
 Ο Alan Kay έδωσε σαν παράδειγμα για την αναλογία το σπίτι ενός σκύλου. Πιο συγκεκριμένα τόνισε πως έχοντας καλά υλικά ακόμη και ένα παιδί πέντε χρονών θα μπορούσε να το φτιάξει. Αντιθέτως, στο λογισμικό ισχυεί το αντίθετο, δηλαδή πως πρέπει να έχεις τις γνώσεις για να το κάνεις.
 
-## 2. Βιογραφικό
+## <div id="bio1">2. Βιογραφικό</div>
 Αυτή την εβδομάδα είχαμε το πρώτο παραδοτέο για το βιογραφικό. Αρχικά, δημιούργησα από την αρχή ένα δικό μου template για το βιογραφικό διότι
 δεν με κάλυπτε κάποιο έτοιμο theme, και θεωρώ πως δεν είχε νόημα να κάνω την άσκηση απλώς κάνοντας fork γιατί δεν θα είχα την ευκαιρία να πειραματιστώ
 αρκετά με το jekyll.
@@ -70,7 +70,7 @@ O ορισμός της τεχνολογίας λογισμικού για το�
 
 Η αρχική χρησιμότητα της τεχνολογίας των αρχείων ήταν για την οργάνωση της πληροφορίας. Τα αρχεία δεν είναι ο καλύτερος τρόπος για την οργάνωση της πληροφορίας λόγω της ποικιλίας και της ασυμβατότητας μεταξύ των εταιριών.
 
-## 3. Αίτημα ενσωμάτωσης στην ιστοσελίδα
+## <div id="site1">3. Αίτημα ενσωμάτωσης στην ιστοσελίδα</div>
 Η συνεισφορά που έκανα στη σελίδα του τμήματος ήταν η προσθήκη περιεχομένου διοικητικού υπαλλήλου Παναγιώτα Χασάπη.
 
 **Issue:** https://github.com/ioniodi/sitegr/issues/37
@@ -79,7 +79,7 @@ O ορισμός της τεχνολογίας λογισμικού για το�
 
 **Demo:** https://peaceful-torvalds-02fd7d.netlify.app
 
-## 4. Άσκηση γραμμής εντολών
+## <div id="term1">4. Άσκηση γραμμής εντολών</div>
 
 create a docker image for your development stack
 
@@ -103,7 +103,7 @@ create a docker image for your development stack
 
 Θα μπορούσαμε να σκεφτούμε με νέους τρόπους αν σκεφτούμε ότι δεν ξέρουμε τι ακριβώς κάνουμε. Έτσι θα μπούμε στη διαδικασία να δοκιμάσουμε καινούριες ιδέες πέρα από τις συνηθισμένες
 
-## 5. Συμμετοχικό περιεχόμενο
+## <div id="sym1">5. Συμμετοχικό περιεχόμενο</div>
 
 - [Pibook Repository](https://github.com/Stavrospanakakis/site)
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
@@ -111,7 +111,7 @@ create a docker image for your development stack
 
 [![asciicast](https://asciinema.org/a/400505.svg)](https://asciinema.org/a/400505)
 
-## 6. Άσκηση γραμμής εντολών
+## <div id="term2">6. Άσκηση γραμμής εντολών</div>
 create a cli app for your favorite site
 
 - [App repository](https://github.com/Stavrospanakakis/lfl)
@@ -120,7 +120,7 @@ create a cli app for your favorite site
 Το asciinema δειχνει την εγκατάσταση της εφαρμογής.
 [![asciicast](https://asciinema.org/a/401581.svg)](https://asciinema.org/a/401581)
 
-## 7. Βιογραφικό
+## <div id="bio2">7. Βιογραφικό</div>
 Αυτή την εβδομάδα έκανα τις ενέργειες που χρειαζόταν για να ολοκληρώσω τα παραδοτέα του βιογραφικού. Πιο συγκεκριμένα έκανα:
 1. Continuous Integration
 2. Παραγωγή PDF με τα εργαλεία pandoc και latex 
@@ -132,23 +132,23 @@ create a cli app for your favorite site
 
 [![asciicast](https://asciinema.org/a/405432.svg)](https://asciinema.org/a/405432)
 
-## 8. Αίτημα ενσωμάτωσης στην ιστοσελίδα
+## <div id="site2">8. Αίτημα ενσωμάτωσης στην ιστοσελίδα</div>
 
 
-## 9. Άσκηση γραμμής εντολών
+## <div id="term3">9. Άσκηση γραμμής εντολών</div>
 create your own static site and blog generator
 
 - [CLI Repository](https://github.com/Stavrospanakakis/yasg)
 [![asciicast](https://asciinema.org/a/408729.svg)](https://asciinema.org/a/408729)
 
-## 10. Συμμετοχικό περιεχόμενο
+## <div id="sym2">10. Συμμετοχικό περιεχόμενο</div>
 
 - [Pibook Repository](https://github.com/Stavrospanakakis/site)
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
 - [Images Repository](https://github.com/stavrospanakakis/images)
 - [Extra Repository](https://github.com/stavrospanakakis/extras)
 
-## 11. Άσκηση γραμμής εντολών
+## <div id="term4">11. Άσκηση γραμμής εντολών</div>
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
 
 - [Project Repository](https://github.com/Stavrospanakakis/aws-s3-actions-website)
