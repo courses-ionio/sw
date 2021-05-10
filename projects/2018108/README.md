@@ -66,9 +66,32 @@ development είτε για deployment) και να δω και static site gene
 
 create a docker image for your development stack
 
+Σε αυτό το παραδοτέο δημιούργησα ένα Docker Image για το site του βιογραφικού μου.
+Έτσι, κάθε φορά που θέλω να κάνω run ή build το βιογραφικό, δεν χρειάζεται να έχω 
+ruby ή jekyll στον υπολογιστή μου. Αυτό μου κάνει είναι το να κάνει pull το official
+docker image του jekyll, να κάνει copy τα αρχεία του βιογραφικού στο working directory,
+να κάνει expose το port 4000 και να κάνει serve τον κώδικα στον server. Τέλος, δημιούργησα
+έναν docker container ο οποίος χρησιμοποιεί αυτό το image για να δείτε ότι δουλεύει κανονικά.
+
 [![asciicast](https://asciinema.org/a/397673.svg)](https://asciinema.org/a/397673)
 
 ## <div id="sym1">5. Συμμετοχικό περιεχόμενο</div>
+Σε αυτό το παραδοτέο οι προσθήκες μου ήταν το DuckDuckGo και το Jira. Το DuckDuckGo το πρόσθεσα, διότι 
+είναι ένα software το οποίο πήγε να χτυπήσει μία τεράστια εταιρία (Google) και έχει δώσει μεγάλη σημασία
+στο privacy του χρήστη. Το Jira το πρόσθεσα διότι είναι ένα λογισμικό το οποίο χρησιμοποιείται για project
+management και για να γίνει η συνεργασία των προγραμματιστών και η συγγραφή software πιο αποδοτική.
+
+- [DuckDuckGo Image](https://github.com/Stavrospanakakis/images/blob/cb0ed5ad2d36edfb4f67d424873a570bedf741dc/duckduckgo.jpg)
+- [DuckDuckGo Thumbnail](https://github.com/Stavrospanakakis/images/blob/cb0ed5ad2d36edfb4f67d424873a570bedf741dc/duckduckgo-thumb.jpg)
+- [DuckDuckGo Gallery](https://github.com/Stavrospanakakis/_gallery/blob/9153040416880e7874576d1a3ce5a28c992c62aa/duckduckgo.md)
+- [DucKDuckGo Slides](https://github.com/Stavrospanakakis/site/blob/master/_slides/archetypes.md)
+- [DuckDuckGo Timeline](https://github.com/Stavrospanakakis/site/blob/master/_timeline/systems.md)
+
+- [Jira Image](https://github.com/Stavrospanakakis/images/blob/master/jira.jpg)
+- [Jira Thumbnail](https://github.com/Stavrospanakakis/images/blob/master/jira-thumb.jpg)
+- [Jira Gallery](https://github.com/Stavrospanakakis/_gallery/blob/9153040416880e7874576d1a3ce5a28c992c62aa/jira.md)
+- [Jira Slides](https://github.com/Stavrospanakakis/site/blob/master/_slides/tools.md)
+- [Jira Timeline](https://github.com/Stavrospanakakis/site/blob/master/_timeline/collaboration.md)
 
 - [Pibook Repository](https://github.com/Stavrospanakakis/site)
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
@@ -79,6 +102,12 @@ create a docker image for your development stack
 ## <div id="term2">6. Άσκηση γραμμής εντολών</div>
 create a cli app for your favorite site
 
+Σε αυτό το παραδοτέο δημιούργησα ένα command line interface το οποίο μου είναι χρήσιμο
+όλο τον χρόνο διότι αυτοματοποείο κάποιες διεργασίες τις οποίες κάνω συνεχώς. Πιο συγκεκριμένα,
+μπορώ να περάσω μέσα τα ονόματα των μαθημάτων του τμήματος πληροφορικής μαζί με τα link τηλεδιασκέψεων τους
+και με ένα command στο terminal να ανοίξω το zoom link της επιλογής μου. Έτσι, κάθε φορά δεν χρειάζεται να ψάχνω
+για τα links και τους κωδικούς. Στα παρακάτω links μπορείτε να δείτε το repository της εφαρμογής και την 
+ιστοσελίδα της.
 - [App repository](https://github.com/Stavrospanakakis/lfl)
 - [Αpp website](https://lfl.stavrospanakakis.com/)
 
@@ -87,7 +116,7 @@ create a cli app for your favorite site
 
 ## <div id="bio2">7. Βιογραφικό</div>
 Αυτή την εβδομάδα έκανα τις ενέργειες που χρειαζόταν για να ολοκληρώσω τα παραδοτέα του βιογραφικού. Πιο συγκεκριμένα έκανα:
-1. Continuous Integration
+1. Continuous Integration με τη δημιουργία Github Action
 2. Παραγωγή PDF με τα εργαλεία pandoc και latex 
 
 - [Repository Link](https://github.com/Stavrospanakakis/cv)
@@ -98,15 +127,41 @@ create a cli app for your favorite site
 [![asciicast](https://asciinema.org/a/405432.svg)](https://asciinema.org/a/405432)
 
 ## <div id="site2">8. Αίτημα ενσωμάτωσης στην ιστοσελίδα</div>
+Παρακάτω υπάρχουν τα links απο τα issues που άνοιξα ή ήμουν σχετικός συνεργάτης στην ιστοσελίδα του τμήματος για 
+αυτό το παραδοτέο.
 
+1. [Minify Code in production](https://github.com/ioniodi/sitegr/issues/195)
+2. [Προσθήκη Docker](https://github.com/ioniodi/sitegr/issues/192)
+3. [Προσθήκη Documentation](https://github.com/ioniodi/sitegr/issues/199)
 
 ## <div id="term3">9. Άσκηση γραμμής εντολών</div>
 create your own static site and blog generator
+
+Σε αυτό το παραδοτέο, δημιούργησα from scratch ένα static site generator.
+Η γλώσσα που αποφάσισα να το κάνω είναι η Golang. Ο λόγος είναι επειδή 
+είμαι οικείος με τη γλώσσα και είναι πάρα πολύ γρήγορα για αυτές τις περιπτώσεις.
+Παρακάτω μπορείτε να δείτε το repository όπου υπάρχουν οδηγίες εγκατάστασης και το 
+σχετικό asciinema για να δείτε το πώς μπορεί να χρησιμοποιηθεί.
 
 - [CLI Repository](https://github.com/Stavrospanakakis/yasg)
 [![asciicast](https://asciinema.org/a/408729.svg)](https://asciinema.org/a/408729)
 
 ## <div id="sym2">10. Συμμετοχικό περιεχόμενο</div>
+Σε αυτό το παραδοτέο έπρεπε να προσθέσω μια βιογραφία και μία μελέτη περίπτωσης. Η βιογραφια 
+που πρόσθεσα αφορά τον Uncle Bob και η μελέτη περίπτωσης τα Apple Airpods. Ο λόγος για τον
+Uncle Bob ήταν επειδή έχει παίξει μεγάλο ρόλο στο software με τα βιβλία του και είναι ένας
+άνθρωπος ο οποίος θαυμάζω προσωπικά και τα Apple Airpods διότι πρόσθεσαν αρκετό software 
+σε ένα προιόν που τόσα χρόνια αφορούσε κυρίως το Hardware.
+
+- [Apple Airpods Image](https://github.com/Stavrospanakakis/images/blob/master/airpods.jpg)
+- [Apple Airpods Thumbnail](https://github.com/Stavrospanakakis/images/blob/master/airpods-thumb.jpg)
+- [Apple Airpods Case Study](https://github.com/Stavrospanakakis/site/blob/master/_case-study/airpods.md)
+- [Apple Airpods Extras](https://github.com/Stavrospanakakis/extras/blob/master/airpods.md)
+
+- [Uncle Bob Image](https://github.com/Stavrospanakakis/images/blob/master/uncle-bob.jpg)
+- [Uncle Bob Thumbnail](https://github.com/Stavrospanakakis/images/blob/master/uncle-bob-thumb.jpg)
+- [Uncle Bob Biography1](https://github.com/Stavrospanakakis/site/blob/master/_biography/uncle-bob.md)
+- [Uncle Bob Biography2](https://github.com/Stavrospanakakis/site/blob/master/_biography/bio-bob.md)
 
 - [Pibook Repository](https://github.com/Stavrospanakakis/site)
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
@@ -115,6 +170,11 @@ create your own static site and blog generator
 
 ## <div id="term4">11. Άσκηση γραμμής εντολών</div>
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
+
+Σε αυτό το παραδοτέο, λόγω των δωρεάν credits που είχα στην AWS σκέφτηκα να εκμεταλλευτώ την ευκαιρία
+και να δημιουργήσω ένα CI το οποίο θα κάνει integrate με την υπηρεσία της Amazon S3. Κάθε φορά που 
+κάνω μία αλλαγή στο repository, το CI κάνει build το site και το κάνει deploy στο S3 Bucket που έχω 
+δημιουργήσει. Παρακάτω μπορείτε να δείτε το repository του site και το file του Github Action.
 
 - [Project Repository](https://github.com/Stavrospanakakis/aws-s3-actions-website)
 - [Action file](https://github.com/Stavrospanakakis/aws-s3-actions-website/blob/main/.github/workflows/main.yml)
