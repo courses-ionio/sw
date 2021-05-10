@@ -115,3 +115,33 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 ![Screenshot](slack.png)
 
 
+### <a name="Παραδοτέο 10">Παραδοτέο 10</a>
+### Συμμετοχικό περιεχόμενο Παραδοτέα Β1 και Β2
+Για την υλοποίηση του δεύτερου παραδοτέου συμμετοχικού περιεχόμενου χρειάστηκε να γίνει fork το repository extras από το pibook. Στην συνέχεια έγινε upload από την  γραμμή εντολών των φωτογραφιών και των thumb στο repository images που θα χρησιμοποιηθούν για την δημιουργία του βιογραφικού και της μελέτης περίπτωσης. Tέλος έγινε ενημερώθηκε το submodule images που είχε δημιουργηθεί στο προηγούμενου παραδοτέου. Το βιογραφικό που δημιουργήθηκε αφορά στον Ole-Johan Dahl, ο οποίος Θεωρείτε ο πατέρας (μαζί με τον Kristen Nygaard) της 1ης γλώσσας αντικειμενοστραφούς προγραμματισμού Simula. Στη συνέχεια έγινε clone το repository site από το terminal και σύνδεση του submodule extras. Έγινε προσθήκη  στον φάκελο _biography των αρχείων ole-johan-dahl.md και bio-οle-johan-dahl.md. Τέλος έγιναν push οι αλλαγές από το terminal στο site. Ακολουθούν οι πηγές για τη δημιουργία του βιογραφικού.
+
+| Πηγές |
+| --- |
+| https://www.britannica.com/biography/Ole-Johan-Dahl |
+| https://www.researchgate.net/publication/221350068_A_Biography_of_Ole-Johan_Dahl | 
+
+
+#### Σχετικά links
+#### [Εκτελέσιμο Netlify site ](https://p09apos.netlify.app//biography/ole-johan-dahl/)
+#### [Αρχείο images ole-johan-dahl-thumb.jpg](https://github.com/p09apos/images/blob/master/ole-johan-dahl-thumb.jpg)
+#### [Αρχείο images ole-johan-dahl.jpg](https://github.com/p09apos/images/blob/master/ole-johan-dahl.jpg)
+#### [Αρχείο _biography ole-johan-dahl.md](https://github.com/p09apos/site/blob/master/_biography/ole-johan-dahl.md)
+#### [Αρχείο _biography bio-John-McCarthy.md](https://github.com/p09apos/site/blob/master/_biography/bio-ole-johan-dahl.md)
+
+Για την δημιουργία του δεύτερου τμήματος του παραδοτέου έγινε δημιουργία μελέτης περίπτωσης για την γλώσσα προγραμματισμού Simula. Αρχικά έγινε προσθήκη στον φάκελο _case-study το αρχείο simula.md και στο repository extras το αρχείο cs-simula.md. Στο τέλος έγιναν push οι αλλαγές από το terminal στο site. Ακολουθούν οι πηγές που για τη δημιουργία της μελέτης περίπτωσης.
+
+| Πηγές |
+| --- |
+| https://www.computerhope.com/jargon/s/simula.htm  |
+| https://www.techopedia.com/definition/22088/simula|
+
+
+#### Σχετικά links
+#### [Εκτελέσιμο Netlify site ](https://p09apos.netlify.app//case-study/simula/)
+#### [Αρχείο _includes/extras cs-simula.md](https://github.com/p09apos/extras/blob/master/cs-simula.md)
+#### [Αρχείο _case-study simula.md](https://github.com/p09apos/site/blob/master/_case-study/simula.md)
+
