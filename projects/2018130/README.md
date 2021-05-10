@@ -126,6 +126,8 @@ Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.
 
 [asciinema](https://asciinema.org/a/413185)
 
+[repository](https://github.com/sophia-ts/WebsiteCV)
+
 [![asciicast](https://asciinema.org/a/413185.svg)](https://asciinema.org/a/413185)
 
 ![](https://github.com/sophia-ts/WebsiteCV/blob/main/assets/jekyllCI.png)
