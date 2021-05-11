@@ -33,11 +33,16 @@
 |[Alan Kay - Scaling](#Alan-Kay-Scaling-(Ninth-Video-Quiz))|:ballot_box_with_check:|
 |[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|:ballot_box_with_check:|
 
+|**Classtime Sessions**| **Done**|
+|:---------:| :--------: | 
+|Course- |
+
 </br>
 
 |Meetings| 
 |:---------:|
 + Wednesday 31 of March (Mr. Patiniotis)
++ Monday 10 of May (Mr.Patiniotis) 
 
 </br>
 
@@ -47,12 +52,20 @@
 
 ### CV 
 You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
+
+![cv](https://user-images.githubusercontent.com/56742258/117883968-bfffc580-b2b4-11eb-9409-5c515e57810e.png)
+
 </br>
 [Asciinema Video](https://asciinema.org/a/397011) 
 </br> 
 Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
 </br>
 The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf)
+</br>
+
+![cv-pdf](https://user-images.githubusercontent.com/56742258/117884603-8085a900-b2b5-11eb-9eb5-5046eea6246d.png)
+
+</br>
 
 ### PR-Site  
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
@@ -64,9 +77,31 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 
 |**Deliverable** | **Assignment** | **Demo** | 
 |:---------:| :--------: |  :--------: |
-|**First** |**Send notifications to your desktop-mobile**| [Asciinema Video](https://asciinema.org/a/398905) |   
-|**Second**|**Deploy an application that forwards a call depending on a white- and black- list of phone numbers**|[Asciinema Video](https://asciinema.org/a/409967)|
-|**Third**|**Create an agent for news**|Asciinema Video|
+|**First** |**[Send notifications to your desktop-mobile](mobile-notification)| [Asciinema Video](https://asciinema.org/a/398905) |   
+|**Second**|**Programmable Voice**|[Asciinema Video](https://asciinema.org/a/409967)|
+|**Third**|**Performance Monitoring**|[Asciinema Video](https://asciinema.org/a/413440)|
+
+</br>
+
+![mobile-notification](https://user-images.githubusercontent.com/56742258/117883523-2afccc80-b2b4-11eb-9b8b-a9a8c632322b.jpg)
+
+</br>
+
+![mobile-notification](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
+
+</br>
+
+![twilio-message](https://user-images.githubusercontent.com/56742258/117885047-030e6880-b2b6-11eb-9b85-109d2ea7f074.jpg)
+
+</br>
+
+![twillio-call](https://user-images.githubusercontent.com/56742258/117885099-17eafc00-b2b6-11eb-939b-e02202b55af0.jpg)
+
+</br>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif)
+
+
 
 
 Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
