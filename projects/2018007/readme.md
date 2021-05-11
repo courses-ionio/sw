@@ -14,7 +14,7 @@
 | 6 | <a href="#P-6">Άσκηση γραμμής εντολών </a> |
 | 7 | <a href="#P-7">Bιογραφικό </a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | <a href="#P-9">Άσκηση γραμμής εντολών </a> |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -123,6 +123,15 @@ Aντιμετώπισα πολλά προβλήματα, κάποια από τ�
 [To PDF του CV](https://github.com/panagiotismouts/online-cv/blob/gh-pages/pdf/index.pdf)
 
 
+#
+### <a name="P-9">Παραδοτέο 9 : "performance monitoring" </a>
+
+Για την εβδομάδα αυτή επέλεξα την άσκηση γραμμής εντολών "performance monitoring", όπου παρουσιάζονται τα εργαλεία [py-spy](https://github.com/benfred/py-spy) και [hyperfine](https://github.com/sharkdp/hyperfine). Το py-spy είναι ένα εργαλείο που κάνει monitor τα python scripts μας που τρέχουν στο background (πχ τις φορές που θα τρέχει μια while loop κλπ), χρησιμοποιώντας το process id τους. Το hyperfine είναι ένα εργαλείο benchmarking που υπολογίζει πόσα runs θα χρειαστεί το πρόγραμμα για να ολοκληρωθεί. Γενικότερα είναι benchmark , δοκιμάζει τις επιδόσεις των προγραμμάτων και μας δίνει το αποτέλεσμα σε .svg ή και άλλες μορφές όπως json, markdown κ.λπ. 
+
+Για να δείξω πως δουλεύουν τα εργαλεία, δημιούργησα ένα asciinema για το καθένα, με 2 παραδείγματα προγραμμάτων.
+
+ -[py-spy asciinema](https://asciinema.org/a/413294)
+ -[hyperfine asciinema](https://asciinema.org/a/413295)
 #
 
 ## <a name="quiz">Απαντήσεις Βίντεο Quiz </a>
