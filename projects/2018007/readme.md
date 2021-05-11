@@ -132,6 +132,10 @@ Aντιμετώπισα πολλά προβλήματα, κάποια από τ�
 
  -[py-spy asciinema](https://asciinema.org/a/413294)
  -[hyperfine asciinema](https://asciinema.org/a/413295)
+ 
+ Tο παραγόμενο αρχείο του py-spy φαίνεται παρακάτω. Έχει γίνει convert από .svg σε .png
+ 
+![profile1](https://user-images.githubusercontent.com/56624382/117894649-7e2b4b00-b2c5-11eb-9474-9d4f860af3e9.png)
 #
 
 ## <a name="quiz">Απαντήσεις Βίντεο Quiz </a>
