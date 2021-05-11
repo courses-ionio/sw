@@ -38,18 +38,15 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3 - Δημιουργία πρώτου pull request στο ανεπίσημο site της σχολής
 
-Για το παραδοτέο 3 πραγματοποίησα την εισαγωγή του καινούργιου μαθήματος επιλογής του ΣΤ' εξαμήνου "Θεωρία Γραφημάτων και Εφαρμογών" στο ανεπίσημο site του Ιόνιου πανεπιστημίου και ταυτόχρονα πρόσθεσα και την απαραίτητη βιβλιογραφία του μαθήματος, δημιουργώντας τα αντίστοιχα references για τα συγγράματα. Επίσης δημιούργησα ένα demo στο netlify : 
-https://pedantic-almeida-69bf4a.netlify.app/courses/graph-theory-and-applications/
+Για το παραδοτέο 3 πραγματοποίησα την εισαγωγή του καινούργιου μαθήματος επιλογής του ΣΤ' εξαμήνου "Θεωρία Γραφημάτων και Εφαρμογών" στο ανεπίσημο site του Ιόνιου πανεπιστημίου και ταυτόχρονα πρόσθεσα και την απαραίτητη βιβλιογραφία του μαθήματος, δημιουργώντας τα αντίστοιχα references για τα συγγράματα. Επίσης δημιούργησα ένα [demo στο netlify.](https://pedantic-almeida-69bf4a.netlify.app/courses/graph-theory-and-applications/)
 
-Οι αλλαγές που έκανα στα αρχεία φαίνονται στα commit του pull request που έκανα: https://github.com/ioniodi/sitegr/pull/112
-
-Note: Το συγκεκριμένο παραδοτέο το έκανα αργά commit στο συγκεκριμένο αποθετήριο, διότι περίμενα την ορθή έγκριση του Pull Request που δημιούργησα για να βεβαιωθώ ότι θα γίνουν οι αλλαγές αυτές. Για τα πρακτικά αναφέρω ότι το pull request έγινε στην ώρα του. <br><br>
+[Οι αλλαγές που έκανα στα αρχεία, φαίνονται στα files changed του pull request](https://github.com/ioniodi/sitegr/pull/112/files)<br><br>
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Πρώτη άσκηση τερματικού
 
-Εκφώνηση άσκησης: "Send notifications to your desktop-mobile"
+**Εκφώνηση άσκησης: Send notifications to your desktop-mobile**
 
-asciinema link: https://asciinema.org/a/399181
+[Το asciinema της πρώτης άσκησης!](https://asciinema.org/a/399181)
 
 Κατά την διάρκεια της πρώτης άσκησης τερματικού, παρουσίασα ένα παράδειγμα διαφορετικής μορφοποίησης ανάλογα με το είδος της ειδοποίησης (σημαντική-ασήμαντη) και έτρεξα μέσω terminal ένα internet speed test, το οποίο έδειχνε τα αποτελέσματα με 3 notifications - ένα για την καθυστέρηση (ms), ένα για το download speed (mb/s) και ένα για το upload speed (mb/s). Το βασικό παράδειγμά μου όμως αποτελούσαι η αποστολή notifications σε υπολογιστή και κινητό, χρησιμοποιώντας την εφαρμογή μηνυμάτων telegram, η οποία ήταν κατεβασμένη τόσο στον υπολογιστή όσο και στο κινητό. Το παραπάνω επιτεύχθηκε δημιουργώντας ένα μποτάκι (bot) στο telegram (/newbot) το οποίο έχει μία μοναδική τιμή (API key) η οποία μάλιστα αποτελεί και παράμετρο της εντολής **ntfy -b telegram send** για τον εντοπισμό του telegram account μου. Παρακάτω φαίνονται τα notifications:
 
@@ -81,15 +78,15 @@ asciinema link: https://asciinema.org/a/399181
 
 ## ΠΑΡΑΔΟΤΕΟ 6 - Δεύτερη άσκηση τερματικού
 
-Εκφώνηση άσκησης: "Create notifications on your sever - send notifications on important server events"
+**Εκφώνηση άσκησης: Create notifications on your sever - send notifications on important server events**
 
-[asciinema link](https://asciinema.org/a/403513)
+[Το asciinema της δεύτερης άσκησης!](https://asciinema.org/a/403513)
 
 Κατά την διάρκεια της δεύτερης άσκησης τερματικού παρουσίασα ένα παράδειγμα server-noticiation, το οποίο δημιουργεί ειδοποιήσεις κάθε φορά που πραγματοποιείται ένα event σε κάποιο directory ή/και αρχείο. Στο συγκεκριμένο παράδειγμα εντάσσεται ένα καινούργιο αρχείο (το myfile) και το inotify μας ειδοποιεί στο τερματικό για τις αντίστοιχες ενέργειες που πραγματοποιήθηκαν κατά την εισαγωγή του συγκεκριμένου αρχείου. <br><br>
 
 ## ΠΑΡΑΔΟΤΕΟ 7 - Κουμπί τύπωσης PDF στο βιογραφικό
 
- [asciinema link](https://asciinema.org/a/405106)
+ [Το asciinema της διαδικασίας προσθήκης pdf κουμπιού στο βιογραφικό μου!](https://asciinema.org/a/405106)
  
  Στο συγκεκριμένο παραδοτέο χρησιμοποίησα τα εργαλεία pandoc και latex για την δημιουργία ενός αντίτυπου μορφής PDF της ιστοσελίδας του βιογραφικού μου και ταυτόχρονα πρόσθεσα στην ιστοσελίδα αυτή (μέσω index.markdown) το αντίστοιχο κουμπί που θα αντιπροσωπεύει την προαναφερόμενη ενέργεια δημιουργίας PDF. 
  
@@ -105,11 +102,12 @@ asciinema link: https://asciinema.org/a/399181
 
 Αντίστοιχα το netlify με τις ενσωματωμένες αλλαγές φαίνεται να λειτουργεί ορθά [εδώ](https://ioniosite-zoomlink-included.netlify.app), χωρίς όμως κάποιος εκπαιδευτικός να έχει ήδη προσθέσει το zoom-link του. <br><br>
 
-## ΠΑΡΑΔΟΤΕΟ 9 - Τρίτη άσκηση τερματικού>
+## ΠΑΡΑΔΟΤΕΟ 9 - Τρίτη άσκηση τερματικού
 
-Εκφώνηση άσκησης: "Performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines"
+**Εκφώνηση άσκησης: Performance monitoring - monitor the performance of your python scripts and visualize them with colors and/or spark lines**
 
-[asciinema link](https://asciinema.org/a/408160)
+[Το asciinema της τρίτης άσκησης!](https://asciinema.org/a/408160)
+
 
 Κατά την διάρκεια αυτού του παραδοτέου δημιούργησα δύο αρχεία python και τα σύγκρινα χρησιμοποιώντας το hyperfine. Τα αποτελέσματα αυτού παρουσιάζονται οπτικοποιημένα σε ποικίλα χρώματα. Έπειτα χρησιμοποίησα πάλι το hyperfine για να κάνω εξαγωγή των αποτελεσμάτων των δύο script σε κάποιο json αρχείο. <br><br>
 
@@ -125,6 +123,6 @@ asciinema link: https://asciinema.org/a/399181
 
 **Εκφώνηση άσκησης: Create a cli app for your favorite site - the application should be similar to rtv, haxor from hci**
 
-[![asciicast](https://asciinema.org/a/412142.svg)](https://asciinema.org/a/412142)
+[Το asciinema της τέταρτης άσκησης!](https://asciinema.org/a/412142)
 
 Σε αυτό το παραδοτέο δημιούργησα το δικό μου cli app με την βοήθεια του πακέτου click. Αρχικά ενσωματώθηκα στο περιβάλλον virtualenv και δημιούργησα ένα αρχείο setup.py, στο οποίο έδωσα όλα τα απαραίτητα δεδομένα για την δημιουργία του cli app. Στην συνέχεια, δημιούργησα ένα αρχείο hello.py, το οποίο περιέχει τις λειτουργίες του cli . Υπάρχουν 4 λειτουργίες, η command όπου δημιουργεί το ```hello --help```, η option string ```hello --string stringname``` που παίρνει κάποια τιμή string και την τοποθετεί δίπλα από το hello, η option repeat ```hello --repeat 3``` που παίρνει ως όρισμα κάποιον ακέραιο αριθμό εκτελόντας τόσες επαναλήψεις και τέλος έχουμε την λειτουργία argument out ```hello filename.txt``` που παίρνει ως όρισμα ένα αρχείο ή το δημιουργεί αν δεν υπάρχει και μπορεί να γράψει σε αυτό έναν αριθμό επαναλήψεων της repeat ```hello --repeat 3 filename.txt```. 
