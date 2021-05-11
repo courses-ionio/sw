@@ -164,10 +164,21 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### [Ιστοσελίδα Βιβλίου - Ο Προγραμματισμός της Διάδρασης](https://optimistic-bartik-1be75a.netlify.app/)
 #### [Βιογραφία - Guido van Rossum (1o link)](https://optimistic-bartik-1be75a.netlify.app/biography/)
 #### [Βιογραφία - Guido van Rossum (2o link)](https://optimistic-bartik-1be75a.netlify.app/biography/guido-rossum/)
-#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Βιογραφίας](https://github.com/p18mant/site/blob/master/_biography/guido-rossum.md)
+#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Βιογραφίας](https://github.com/p18mant/site/blob/master/_biography/guido-rossum.md)<br /> 
+
+| Πηγές |
+| --- |
+| https://en.wikipedia.org/wiki/Guido_van_Rossum |
+| https://computerhistory.org/profile/guido-van-rossum/ | 
+
 #### [Μελέτη Περίπτωσης - Jupyter (1o link)](https://optimistic-bartik-1be75a.netlify.app/case-study/)
 #### [Μελέτη Περίπτωσης - Jupyter (2o link)](https://optimistic-bartik-1be75a.netlify.app/case-study/jupyter/)
-#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Μελέτη Περίπτωσης (submodule-extras)](https://github.com/p18mant/extras/blob/4b3131aa4047c2f6ae1984cf49405d8a95377ca3/cs-jupyter.md)
+#### [Αποθετήριο Συμμετοχικού Περιεχομένου - Μελέτη Περίπτωσης (submodule-extras)](https://github.com/p18mant/extras/blob/4b3131aa4047c2f6ae1984cf49405d8a95377ca3/cs-jupyter.md)<br />
+
+| Πηγές |
+| --- |
+| https://jupyter.org/ |
+| https://www.dataquest.io/blog/jupyter-notebook-tutorial/ | 
 
 #### [11]
 ### Παραδοτέο 11</a>
