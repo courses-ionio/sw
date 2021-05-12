@@ -431,13 +431,18 @@ Link με το asciinema για εφαρμογή του hyperfine: https://ascii
 
 Link με το αρχείο .svg που εξάγεται: https://github.com/apostoloskp/sw-files/blob/main/profile.svg
 
-Link με το αρχείο output που εξάγεται: 
+Link με το αρχείο output που εξάγεται: https://github.com/apostoloskp/sw-files/blob/main/output
 
 ## Διαδικασία:
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo pip3 install py-spy**, **git clone --depth 1 https://github.com/brendangregg/FlameGraph**, **apt-get install wget** και **wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb** μαζί με **sudo dpkg -i hyperfine_1.11.0_amd64.deb** για το unpacking.
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo pip3 install py-spy**, **git clone --depth 1 
+https://github.com/brendangregg/FlameGraph**, **apt-get install wget** και **wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb** 
+μαζί με **sudo dpkg -i hyperfine_1.11.0_amd64.deb** για το unpacking.
 Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
 Ως script προς monitoring επιλέγω το **print('Hello, world!')** με όνομα **main.py** και το τοποθετώ στο φάκελο Downloads/scripts.
-Αφού κάνω cd στο κατάλληλο location, με την εντολή **py-spy record -o profile.svg -- python3 main.py** πραγματοποιείται perfomance monitoring του παραπάνω script και εξαγωγή ενός αρχείου .svg με το αντίστοιχο flamegraph. Στη συνέχεια, δημιούργησα ένα ακόμα script με όνομα **main1** με περιεχόμενο **print('Hello, world! This is a test for hyperfine'). Προχώρησα στις εντολές **cat main.py** και **cat main1.py**, έπειτα εκτέλεσα **hyperfine 'python main.py' 'python main1.py'** για το benchmarking και τέλος **hyperfine -i --export-json output 'python main.py' 'python main1.py'** για την εξαγωγή αποτελέσματος σε ένα αρχείο .json. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+Αφού κάνω cd στο κατάλληλο location, με την εντολή **py-spy record -o profile.svg -- python3 main.py** πραγματοποιείται perfomance monitoring του παραπάνω script και εξαγωγή 
+ενός αρχείου .svg με το αντίστοιχο flamegraph. Στη συνέχεια, δημιούργησα ένα ακόμα script με όνομα **main1** με περιεχόμενο **print('Hello, world! This is a test for 
+hyperfine'). Προχώρησα στις εντολές **cat main.py** και **cat main1.py**, έπειτα εκτέλεσα **hyperfine 'python main.py' 'python main1.py'** για το benchmarking και τέλος 
+**hyperfine -i --export-json output 'python main.py' 'python main1.py'** για την εξαγωγή αποτελέσματος σε ένα αρχείο .json. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 **Αποτελέσματα:**
 
