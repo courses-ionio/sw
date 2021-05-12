@@ -442,8 +442,7 @@ https://github.com/brendangregg/FlameGraph**, **apt-get install wget** και **
 Αφού κάνω cd στο κατάλληλο location, με την εντολή **py-spy record -o profile.svg -- python3 main.py** πραγματοποιείται perfomance monitoring του παραπάνω script και εξαγωγή 
 ενός αρχείου .svg με το αντίστοιχο flamegraph. Στη συνέχεια, δημιούργησα ένα ακόμα script με όνομα **main1** με περιεχόμενο **print('Hello, world! This is a test for 
 hyperfine'). Προχώρησα στις εντολές **cat main.py** και **cat main1.py**, έπειτα εκτέλεσα **hyperfine 'python main.py' 'python main1.py'** για το benchmarking και τέλος 
-**hyperfine -i --export-json output 'python main.py' 'python main1.py'** για την εξαγωγή αποτελέσματος σε ένα αρχείο .json.
-Ολοκλήρωσα το asciicast με την εντολή **exit**.
+**hyperfine -i --export-json output 'python main.py' 'python main1.py'** για την εξαγωγή αποτελέσματος σε ένα αρχείο .json. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 **Αποτελέσματα:**
 
