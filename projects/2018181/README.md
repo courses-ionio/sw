@@ -108,7 +108,9 @@ My aim for this course is to break down the continuous process of software devel
   - The last tool, Pushover, is an application which pushes notifications on Desktop, smartphones and smartwatches.
   
 ![desktop-notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png)
+</br>
 ![mobile-notification](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
+</br>
 ![pushovr](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png)
 
   |Sources|
@@ -124,7 +126,9 @@ My aim for this course is to break down the continuous process of software devel
 + In the second task, I used Twilio Application, which is an American Cloud Communications Platform. More specific, I bought a trial number and i made a script in order to make calls and send messages from the virtual one to mine. 
 
 ![twl](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png)
+</br>
 ![calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png)
+</br>
 
   |Sources|
   |:-----:| 
