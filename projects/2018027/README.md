@@ -16,7 +16,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών-2) |
 | 7 | [βιογραφικό](#Βιογραφικό-2) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής εντολών-3) | 
+| 9 | [Άσκηση γραμμής εντολών 3](#Άσκηση-γραμμής εντολών-3) | 
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -739,7 +739,8 @@ mqtt= πρακτικό πρωτόκολλο για την διαχείριση �
 Εκφώνηση:performance monitoring	monitor, the performance of your python scripts and visualize them with colors and/or spark lines -py-spy hyperfine
 Αφού αρχικά έγινε εγκατάσταση των απαραίτητων όπως py-spy με την εντολή sudo pip3 install py-spy. Την οποία εγκατάσταση μπορούμε να δούμε [εδώ](https://asciinema.org/a/413588) . Έγινε εισαγωγή ενός προγράμματος σε γλώσσα python, έπειτα απο cd στο location που μας ενδιέφερε, εκτελέστηκε η εντολή py-spy record -o profile.svg -- python3 main.py . Αποτέλεσμα αυτής της διαδικασίας ήταν η εξαγωγή ενός αρχείου .svg με το αντίστοιχο flamegraph. Σε αυτό το [asciinema](https://asciinema.org/a/413592) μπορούμε να δούμε την διαδικασία.  Στην συνέχεια αυτού του παραδοτέου δημιούργησα δύο αρχεία python και τα σύγκρινα χρησιμοποιώντας το hyperfine. Ορισμένες από τις εντολές που χρειάστηκαν ήταν οι apt-get install wget και wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb μαζί με sudo dpkg -i hyperfine_1.11.0_amd64.deb για το unpacking. Τέλος έγινε χρήση του hyperfine για να κάνω εξαγωγή των αποτελεσμάτων των δύο script σε κάποιο json αρχείο. Η διαφικασία αυτή φαίνεται [εδώ](https://asciinema.org/a/413608)
 Τα αποτελέσματα ήταν τα εξής: Από το py-spy file://wsl%24/Ubuntu/home/p18papa/data/teliko.svg
-Απο το hyperfine <img width="315" alt="Στιγμιότυπο οθόνης 2021-05-12 172903" src="https://user-images.githubusercontent.com/56514798/118051718-23a7f280-b38a-11eb-878e-bd313adf7202.png">
+Απο το hyperfine 
+<img width="315" alt="Στιγμιότυπο οθόνης 2021-05-12 172903" src="https://user-images.githubusercontent.com/56514798/118051718-23a7f280-b38a-11eb-878e-bd313adf7202.png">
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
