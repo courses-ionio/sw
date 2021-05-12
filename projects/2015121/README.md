@@ -443,7 +443,7 @@ Link με το αρχείο output που εξάγεται:
 
 ![py-spy](https://github.com/apostoloskp/sw-images/blob/main/py-spy.png)
 
-![hyperfine]()
+![hyperfine](https://github.com/apostoloskp/sw-images/blob/main/output.png)
 
 ## Απαντήσεις στις ερωτήσεις του 9ου quiz:
 
