@@ -112,7 +112,7 @@ My aim for this course is to break down the continuous process of software devel
 ![mobile-notification](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
 </br>
 ![pushovr](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png)
-
+</br>
   |Sources|
   |:-----:|
     - https://www.unixmen.com/how-to-get-email-notifications-for-new-updates-on-debianubuntu/
@@ -129,7 +129,6 @@ My aim for this course is to break down the continuous process of software devel
 </br>
 ![calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png)
 </br>
-
   |Sources|
   |:-----:| 
     - https://www.twilio.com/
