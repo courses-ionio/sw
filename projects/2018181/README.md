@@ -32,10 +32,16 @@
 |[Jaron Lanier - Intertwingled](#Jaron-Lanier-Intertwingled-(Eighth-Video-Quiz))|:ballot_box_with_check: |
 |[Alan Kay - Scaling](#Alan-Kay-Scaling-(Ninth-Video-Quiz))|:ballot_box_with_check:|
 |[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|:ballot_box_with_check:|
+ 
+</br>
 
 |**Classtime Sessions**| **Done**|
 |:---------:| :--------: | 
-|Course- |
+|Course: 15-02-21|:ballot_box_with_check:|
+|Course: 22-02-21|:ballot_box_with_check:|
+|Course: 01-03-21|:ballot_box_with_check:|
+|Course: 08-03-21|:ballot_box_with_check:|
+|Course: 15-03-21|:ballot_box_with_check:|
 
 </br>
 
@@ -46,34 +52,44 @@
 
 </br>
 
-### Introduction 
-  My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
+<h2>Introduction</h2>  
+My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
 
-### CV 
-You can check my [CV](https://mariachlkt.github.io/resume-sw/). 
+<h2>Curiculum of Vitae</h2>
+
+|First Part|
+|:---------:|
+
+Για την κατασκευή του  θέματος του CV χρησιμοποίηθηκε κώδικας σε `HTML5` κ `CSS`. Στην συνέχεια, δημιούργησα ένα  data.yml αρχείο, το οποίο περιλαμβάνει τις πληροφορίες που αναπαριστόνται στο βιογραφικό. Μ' αυτό να σημαίνει πως, ο κώδικας σε HTML5 να διαθέτει τις μεταβλητές, στις οποίες καταχωρήσαμε τα προαναφερόμενα δεδομένα. Κατά την διάρκεια ανάπτυξης του CV χρησιμοποίησα τo `Jekyll` για τοπικό host και να είναι διαθέσιμο στο browser. 
+Ύστερα, από την πρώτη μορφή του (commit) συνέχισα να το τροποποιώ και να το εξελίσω, δημιουργώντας νέο repository , με αποτέλεσμα στο [Asciinema Video](https://asciinema.org/a/397011) να φαίνεται το upload των αρχικών αρχείων.
 
 ![cv](https://user-images.githubusercontent.com/56742258/117883968-bfffc580-b2b4-11eb-9409-5c515e57810e.png)
 
 </br>
-[Asciinema Video](https://asciinema.org/a/397011) 
-</br> 
-Note: I made some changes to CV's format so I create new repository. The asciinema video represents the upload process of first resume. 
-</br>
-The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf)
+
+|Second Part|
+|:---------:|
+
+Για την παραγωγή του  pdf αρχείου του βιογραφικού, αξιοποίησα το `GitHub Actions` και δημιούργησα το απαραίτητο script. Αυτό έχει ως αποτέλεσμα, κάθε φόρα που τροποποιώ κάτι στο `data.yml` να παράγει ξανά το αρχείο (Continuous Intergration).
 </br>
 
 ![cv-pdf](https://user-images.githubusercontent.com/56742258/117884603-8085a900-b2b5-11eb-9eb5-5046eea6246d.png)
 
 </br>
 
-### PR-Site  
+<h2>PR-Site</h2>
+</br>
+
+|First Part|
+|:---------:|
+
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
 | **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
 </br>
 
-### Command-line Exercise
+<h2>Command-line Exercise</h2>
 
 |**Deliverable** | **Assignment** | **Demo** | 
 |:---------:| :--------: |  :--------: |
@@ -83,7 +99,7 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 
 </br>
 
-![mobile-notification](https://user-images.githubusercontent.com/56742258/117883523-2afccc80-b2b4-11eb-9b8b-a9a8c632322b.jpg)
+![pushovr](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png)
 
 </br>
 
@@ -91,11 +107,11 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 
 </br>
 
-![twilio-message](https://user-images.githubusercontent.com/56742258/117885047-030e6880-b2b6-11eb-9b85-109d2ea7f074.jpg)
+![twl](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png)
 
 </br>
 
-![twillio-call](https://user-images.githubusercontent.com/56742258/117885099-17eafc00-b2b6-11eb-939b-e02202b55af0.jpg)
+![calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png)
 
 </br>
 
@@ -107,8 +123,11 @@ The pdf file of my cv is [here](https://github.com/mariachlkt/resume-sw/blob/mai
 Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png) and [Mobile-Notification(Video)](https://github.com/mariachlkt/cli/blob/main/mobile-notification.mp4) & [Mobile-Notification](https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg) 
 </br> 
 
-## Participatory Content 
-### First Part
+<h2>Participatory Content</h2>
+
+|First Part|
+|:---------:|
+
 - For the first part of this task (a1), I added to the forked repository two new images, one of which refers to the IRIX OS and the other one is about the Visi On 
 
 |**Caption's Link** | **Image's Link** | **Thumb Image's Link** | **Asciinena Video** | **Netlify Link** |
@@ -126,7 +145,8 @@ Some extra stuff for the [Desktop-Notification](https://github.com/mariachlkt/cl
 
 </br>
 
-### Second Part
+|First Part|
+|:---------:|
 
 - For the second part of this task (b1), I added to the forked repository Richard Stallman's biography and a case-study for the GNOME with the apropriate images and information. 
 </br>
