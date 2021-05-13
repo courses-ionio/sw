@@ -37,10 +37,11 @@ Answers to the weekly quizzes can be found at [this](https://github.com/provopou
   </a>
 </p>
 
-Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
+<p align="center"><em>Click on picture to view CV online</em> | <a href="https://provopoulos.github.io/swcv/"><em>fallback</em></a></p>
+<p align="center"><em>Repository: </em><a href="https://github.com/provopoulos/swcv"><em>p18prov/swcv</em></a></p>
+
 Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).<br>
 Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/provopoulos/swcv/commit/54370ec9f1270131191a5df1443295f854c5a5d5).<br>
-CV online @ https://provopoulos.github.io/swcv/.
 
 ### Collaborative-DEV
 #### [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITEGR](https://github.com/ioniodi/sitegr)
