@@ -16,7 +16,7 @@
 | 8th | Pull request @ CSCW website/other project |
 | 9th | Command-line exercise |
 | 10th | [Participatory content](#Participatory-Content) |
-| 11th | Command-line exercise |
+| 11th | [Command-line exercise](#Command-line-exercises) |
 | 12th | Final report |
 
 ### Introduction
@@ -53,8 +53,9 @@ Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/p
 #### [#Software](https://github.com/epidrome/dokey#software)
 |                 Task                |                                                            Deliverables                                                            |                               Actions                               |  Commit  |
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:--------:|
-| Test an alternative stack of tools | Set-up an OS image with a set of CLI tools with minimal dependencies and a software license that allows commercial use and selling | [Jailed C process](https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB) | &#x2611; |
-| Set-up continuous integration | Build and deploy your CV dynamically every time you make a small change in the source files | [Deployments](https://github.com/provopoulos/swcv/deployments)<br>[swcv](https://provopoulos.github.io/swcv/)| &#x2611; |
+| Test an alternative stack of tools | Set-up an OS image with a set of CLI tools with minimal dependencies and a software license that allows commercial use and selling | [<img src="https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB.svg" width="100">](https://asciinema.org/a/MMCLu0FldyKMhUmZ1IGNy11ZB) | &#x2611; |
+| Set-up continuous integration | Build and deploy your CV dynamically every time you make a small change in the source files | [Deployments](https://github.com/provopoulos/swcv/actions/workflows/continuous-integration.yml)<br>[swcv](https://github.com/provopoulos/swcv/blob/development/.github/workflows/continuous-integration.yml)| &#x2611; |
+| Performance monitoring | Monitor the performance of your Python scripts and visualize them with colors and spark lines | [<img src="https://asciinema.org/a/ClUPgjuCvXOVC0dXWuEIx7Ddv.svg" width="100">](https://asciinema.org/a/ClUPgjuCvXOVC0dXWuEIx7Ddv)| &#9888; |
 
 ### Participatory Content
 | Additions @ pibook |                                                                                                                                                                                  Repositories                                                                                                                                                                                 |                                                                                                                                                                                                                Netlify                                                                                                                                                                                                                |                                          Setup                                          |
