@@ -147,6 +147,7 @@
 - To terminal έχει χωριστεί σε δυο τμήματα, σε αυτό που τρέχει το mqttwarn και σε αυτό που γράφεται το μήνυμα. Αυτό έχει γίνει για να φαίνoνται στην ιδια εγγραφή με το asciinema και τα δυο terminals και έχει επιτευχθεί με τη βοήθεια της εφαρμογής `screen`.
 - <a href="https://asciinema.org/a/410480">Σύνδεσμος καταγραφής Asciinema</a>
 
+
 &nbsp;&nbsp;
 ## <a name="P10">Παραδοτέο 10</a>
 ## <a href="#P">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
@@ -172,8 +173,8 @@
     </tr>
     <tr><td align="left">Αρχεία που έχουν προστεθεί στον κατάλογο <a href="https://github.com/p18mili1/site/tree/master/_biography">_biography</a></td>
         <td align="left">
-            <a href="https://github.com/p18mili1/site/blob/master/_biography/ted-kaehler.md">ted-kaehler.md</a>, 
-            <a href="https://github.com/p18mili1/site/blob/master/_biography/bio-kaehler.md">bio-kaehler.md</a> and 
+            <a href="https://github.com/p18mili1/site/blob/master/_biography/ted-kaehler.md">ted-kaehler.md</a> and 
+            <a href="https://github.com/p18mili1/site/blob/master/_biography/bio-kaehler.md">bio-kaehler.md</a> 
         </td>
     </tr>
   </tbody>
