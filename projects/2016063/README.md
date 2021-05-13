@@ -166,7 +166,7 @@ Link asciinema: https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz
 
 <a href="https://asciinema.org/a/41LuVyuyrKTMECzOoSn4nXf7z" target="_blank"><img src="https://asciinema.org/a/41LuVyuyrKTMECzOoSn4nXf7z.svg" /></a>
 
-#### B) Link asciinema Konsole: https://asciinema.org/a/aqoLZlMueBEVB59JAi2G2rIvL
+#### B) Link asciinema [Konsole]: https://asciinema.org/a/aqoLZlMueBEVB59JAi2G2rIvL
 
 Το Konsole ειναι ενα αρκετα ωφελιμο τερμιναλ το οποιο χρησιμοποιειται σε πολλα προγραμματα
 
