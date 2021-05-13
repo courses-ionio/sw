@@ -166,7 +166,7 @@ Link Images
 
 Μέσω του τερματικού έκανα update τα submodules.
 
-# Άσκηση_Γραμμής_Εντολών
+# Άσκηση_γραμμής_εντολών
 
 Link Asciinema https://asciinema.org/a/ikFgmW5UGVPaZTs5I7MRpznDL
 
