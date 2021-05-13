@@ -7,12 +7,12 @@
 | Week | Deliverable(s) |
 | --- | --- |
 | 1st | [Introduction](#Introduction) |
-| 2nd | [CV](#CV) |
+| 2nd | [CV](#Curriculum-Vitae) |
 | 3rd | [Pull request @ CSCW website/other project](#Collaborative-DEV)  |
 | 4th | [Command-line exercise](#Command-line-exercises) |
 | 5th | [Participatory content](#Participatory-Content) |
 | 6th | [Command-line exercise](#Command-line-exercises) |
-| 7th | [CV](#CV) |
+| 7th | [CV](#Curriculum-Vitae) |
 | 8th | Pull request @ CSCW website/other project |
 | 9th | Command-line exercise |
 | 10th | [Participatory content](#Participatory-Content) |
@@ -30,7 +30,13 @@ In that regard, some personal pursuits are set:
 
 ### Weekly Video Quizzes
 Answers to the weekly quizzes can be found at [this](https://github.com/provopoulos/sw/blob/quizzes-2018017/projects/2018017/README.md) external report.
-### CV
+### Curriculum Vitae
+<p>
+  <a href="https://provopoulos.github.io/swcv/" title="Vasileios Provopoulos">
+    <img src="https://github.com/provopoulos/sw/blob/quizzes-2018017/projects/2018017/images/curriculum-vitae.png" alt="[CV]: VP"/>
+  </a>
+</p>
+
 Work on CV can be tracked [here](https://github.com/provopoulos/swcv).<br>
 Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).<br>
 Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/provopoulos/swcv/commit/54370ec9f1270131191a5df1443295f854c5a5d5).<br>
