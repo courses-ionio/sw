@@ -15,7 +15,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) |
 | 10 | Συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | [Άσκηση γραμμής εντολών](#Παραδοτέο-11) |
 | 12 | Τελική αναφορά |
 
 
@@ -154,6 +154,47 @@ Link asciinema: https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz
 
 <a href="https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz" target="_blank"><img src="https://asciinema.org/a/VF8xkhQhtoprYPoGFD6QSkPcz.svg" /></a>
 
+## Παραδοτέο 11
+
+### 4η Άσκηση Γραμμής Εντολών: Try different terminals and shells
+
+### Χρησιμοποιησα τα εξης τερμιναλ: Guake, Konsole, Tilda, Yakuake, Terminology, Fish
+
+#### A) Link asciinema Guake: https://asciinema.org/a/41LuVyuyrKTMECzOoSn4nXf7z
+
+Το Guake ειναι ενα drop-down τερμιναλ οπου ο χρηστης με το F12 μπορει να το μετακινησει στο πανω ή στο κατω μερος της οθονης
+
+<a href="https://asciinema.org/a/41LuVyuyrKTMECzOoSn4nXf7z" target="_blank"><img src="https://asciinema.org/a/41LuVyuyrKTMECzOoSn4nXf7z.svg" /></a>
+
+#### B) Link asciinema Konsole: https://asciinema.org/a/aqoLZlMueBEVB59JAi2G2rIvL
+
+Το Konsole ειναι ενα αρκετα ωφελιμο τερμιναλ το οποιο χρησιμοποιειται σε πολλα προγραμματα
+
+<a href="https://asciinema.org/a/aqoLZlMueBEVB59JAi2G2rIvL" target="_blank"><img src="https://asciinema.org/a/aqoLZlMueBEVB59JAi2G2rIvL.svg" /></a>
+
+#### Γ) Link asciinema Tilda: https://asciinema.org/a/HmjeAKDALAp7LLatTa3rIILxo
+
+Το Tilda ειναι και αυτο ενα drop-down τερμιναλ οπου ο χρηστης με το F1 μπορει να το μετακινησει στο πανω ή στο κατω μερος της οθονης και επισης δεν καλυπτει ολοκληρη την οθονη.
+
+<a href="https://asciinema.org/a/HmjeAKDALAp7LLatTa3rIILxo" target="_blank"><img src="https://asciinema.org/a/HmjeAKDALAp7LLatTa3rIILxo.svg" /></a>
+
+#### Δ) Link asciinema Yakuake: https://asciinema.org/a/5pUpJJFdbKPrQ2n6SfbNSUTzC
+
+Το Yakuake ειναι και αυτο επισης ενα drop-down τερμιναλ οπου ο χρηστης με το F12 μπορει να το μετακινησει στο πανω ή στο κατω μερος της οθονης
+
+<a href="https://asciinema.org/a/5pUpJJFdbKPrQ2n6SfbNSUTzC" target="_blank"><img src="https://asciinema.org/a/5pUpJJFdbKPrQ2n6SfbNSUTzC.svg" /></a>
+
+#### Ε) Link asciinema Terminology: https://asciinema.org/a/nq3vvgjXPs0BNvrsdAts4EIKa
+
+Το Terminology ειναι και αυτο σαν το Tilda, δηλαδη δεν καταλαμβανει ολη την οθονη και ειναι ενα τερμιναλ οπου κατανοει πληρεις διαδρομες αρχειων, τους συνδεσμους διευθυνσεων URL και τελος τις διευθυνσεις ηλεκτρονικου ταχυδρομειου (email). Τελος εμφανιζει και μια γραμμη προοδου για να ενημερωνει για την εξελιξη των ληψεων.
+
+<a href="https://asciinema.org/a/nq3vvgjXPs0BNvrsdAts4EIKa" target="_blank"><img src="https://asciinema.org/a/nq3vvgjXPs0BNvrsdAts4EIKa.svg" /></a>
+
+#### Ζ) Link asciinema Fish: https://asciinema.org/a/qWM59SsvlszK9pS2zrsnY7RlZ
+
+Το Fish ειναι ενα εξυπνο,γρηγορο και φιλικο προς τον χρηστη τερμιναλ με παρα πολλες δυνατοτητες. Αρχικα ειναι πληρως γραπτο και η συνταξη του ειναι απλη,καθαρη και συνεπης. Προτεινει εντολες καθως πληκτρολογουμαι με βαση το ιστορικο οπως ενα προγραμμα περιηγησης ιστου. Τελος χαρακτηριστικο του Fish ειναι οτι παρεχει λειτουργιες οπως κλεισιμο καρτελων και επισημανση συνταξης.
+
+<a href="https://asciinema.org/a/qWM59SsvlszK9pS2zrsnY7RlZ" target="_blank"><img src="https://asciinema.org/a/qWM59SsvlszK9pS2zrsnY7RlZ.svg" /></a>
 
 ## Βιντεο κουιζ εβδομαδα 1 Alan Kay at MIT EECS (Ειχα προβλημα με την εφαρμογη και σας παραθετω ξανα τις απαντησεις)
 
