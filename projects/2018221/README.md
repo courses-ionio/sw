@@ -94,7 +94,7 @@
 ### Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 Αρχικά έκανα εγκατάσταση του ntfy για να παίρνω ειδοποιήσεις στο desktop pip3 install ntfy. Ακολούθως έγινε εγκατάσταση  του telegram pip3 install ntfy[telegram] και ρύθμιση ώστε να παίρνω ειδοποιήσεις στο κινητό τηλέφωνο.  Ακόμη έγινε εγκατάσταση  του emoji  pip3 install ntfy[emoji]. Στο επόμενο βήμα έγινε δημιουργία του ntfy.yml αρχείου μέσα στο .config/ntfy και τροποποίηση  του ώστε να στέλνει ειδοποιήσεις στο telegram και κάθε ειδοποίηση να εγγράφεται στο syslog όπως μπορούμε να δούμε και στο asciinema. Τέλος για την παρουσίαση της εργασίας έγινε εγκατάσταση του youtube-dl, κατέβασμα ενός βίντεο και εγγραφή του notification όταν ολοκληρώθηκε στο systemlog.
 
-#### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/403530)
+#### [Σύνδεσμος asciinema παραδοτέο 6 ](https://asciinema.org/a/403530)
 
 ![Screenshot](https://github.com/p18myro/sw_images/blob/main/ntfy.png)
 
@@ -111,7 +111,7 @@
 * [x] Δημιουργία φάκελου pdf για να αποθηκεύεται το αρχείο pdf
 * [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργησα  δυο  αρχεία το pre-commit και το post-commit μέσα στο .git/hooks
 
-#### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/405448)
+#### [Σύνδεσμος asciinema ](https://asciinema.org/a/405448)
 ![Screenshot](https://github.com/p18myro/sw_images/blob/main/cv_part2.png) 
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
@@ -134,6 +134,9 @@
 Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube  mqttwarn](https://youtu.be/VC6Tn2kYndo ) στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn  καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
 
 ![Screenshot](https://github.com/p18myro/sw_images/blob/main/slack.png)
+
+#### [Σύνδεσμος asciinema παραδοτέο 9 part I ](https://asciinema.org/a/409678)
+#### [Σύνδεσμος asciinema παραδοτέο 9 part II ](https://asciinema.org/a/413874)
 
 ---
 ### <a name="Παραδοτέο 10">Παραδοτέο 10</a>
