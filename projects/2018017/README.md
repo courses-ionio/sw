@@ -39,6 +39,11 @@ Answers to the weekly quizzes can be found at [this](https://github.com/provopou
 
 <p align="center"><em>Click on picture to view CV online</em> | <a href="https://provopoulos.github.io/swcv/"><em>fallback</em></a></p>
 <p align="center"><em>Repository: </em><a href="https://github.com/provopoulos/swcv"><em>p18prov/swcv</em></a></p>
+<p align="center"><em>Workflow Event (Github Action): </em><a href="https://github.com/provopoulos/swcv/blob/development/.github/workflows/continuous-integration.yml"><em>continuous-integration.yml</em></a></p>
+
+A minimalist curriculum vitae written in HTML & CSS which is hosted online by Github Pages. The actual data (contact details, projects, skills etc.) are stored in a human-readable data-serialization [configuration file](https://github.com/provopoulos/swcv/blob/development/_data/details.yml) that HTML reads off of it at build time. This compartmentalized structure proved rather useful because it paired up well with support for [PDF automatic generation](https://github.com/provopoulos/swcv/blob/gh-pages/output/) which was introduced at a later time.
+
+The most prominent characteristic of this PDF automatic generation is that it **only** gets triggered once the above-mentioned configuration file gets amended. That creates less overhead in situations where other files need to updated as the [workflow event](https://github.com/provopoulos/swcv/actions/workflows/continuous-integration.yml) won't be activated in these cases.
 
 Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).<br>
 Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/provopoulos/swcv/commit/54370ec9f1270131191a5df1443295f854c5a5d5).<br>
