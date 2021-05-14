@@ -362,11 +362,21 @@ Link με το asciinema για παραδείγματα notification του mqt
 
 Το repository με το log του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.log
 
-Link για το asciinema: https://asciinema.org/a/407570
+Link για το asciinema για τη δημιουργία του αρχείου .tex:
+
+Link για το asciinema για τη μετατροπή σε pdf:
 
 ## Διαδικασία: 
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt install texlive-latex-extra**.
-Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Προχώρησα σε fork του αποθετηρίου που βρίσκεται το βιογραφικό μου με **git clone https://github.com/apostoloskp/online-cv**. Στη συνέχεια, δεν κατάφερα να κάνω μετατροπή του **data.yml** αρχέιου σε μορφή **tex** μέσω του terminal, οπότε έκανα αποθήκευση τη σελίδα του βιογραφικού ως **html** και πραγματοποίησα χειροκίνητα τη μετατροπή σε tex μέσω της σελίδας **cloudconvert.com**. Επανήλθα στο terminal και εφόσον κατευθύνθηκα με **cd Downloads** στο αντίστοιχο location για το νέο LaTex αρχείο, χρησιμοποίησα την εντολή **pdflatex myresume.tex** για την τελική μετατροπή σε pdf, όπως φαίνεται και στο παραπάνω asciinema. Παρατίθενται όλα τα σχετικά αρχεία που προέκυψαν απο τη μετατροπή. Παρατήρησα πως στο τελικό pdf δεν εμφανίζονται οι εικόνες και το θέμα, παρά μόνο το κείμενο αυτού. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt-get install pandoc**, **sudo apt-get 
+install texlive-latex-base**, **sudo apt-get install texlive-fonts-recommended**, **sudo apt-get install texlive-fonts-extra**.
+Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
+Προχώρησα σε fork του αποθετηρίου που βρίσκεται το βιογραφικό μου με **git clone git@github.com:apostoloskp/online-cv.git** για δημιουργία φακέλου online-cv.
+Στη συνέχεια, δημιούργησα ένα φάκελο με **mkdir pdf** και έκανα cd στο location αυτό. Εκτέλεσα την εντολή **pandoc https://apostoloskp.github.io/online-cv/ -o cv.tex -s** για να 
+κάνω generate τo αρχείο .tex του bio.
+Επανήλθα στο terminal και εφόσον κατευθύνθηκα με **cd online-cv** στο αντίστοιχο location για το νέο LaTex αρχείο, χρησιμοποίησα την εντολή **pdflatex cv.tex** για την τελική 
+μετατροπή σε pdf, όπως φαίνεται και στο παραπάνω asciinema. Παρατίθενται όλα τα σχετικά αρχεία που προέκυψαν απο τη μετατροπή.
+Παρατήρησα πως στο τελικό pdf δεν εμφανίζονται οι εικόνες και το θέμα, παρά μόνο το κείμενο αυτού.
+Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 **Αποτελέσματα:**
 
