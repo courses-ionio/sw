@@ -18,7 +18,7 @@
 | 7   | <a href="#P-7"> Bιογραφικό</a> |
 | 8   | <a href="#P-8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
 | 9   | <a href="#P-9"> Άσκηση γραμμής εντολών</a> |
-| 10  | Συμμετοχικό περιεχόμενο |
+| 10  | <a href="#P-10">Συμμετοχικό περιεχόμενο</a> |
 | 11  | Άσκηση γραμμής εντολών |
 | 12  | Τελική αναφορά* |
 
@@ -54,13 +54,15 @@
 ---
 # *Αιτήματα Ενσωμάτωσης στην Ιστοσελίδα*
 ## <a name="P-3"></a>*1<sup>ο</sup> Παραδοτέο Αιτήματος Ενσωμάτωσης, (Εβδομάδα 3η):*
-Παρακάτω φαίνονται τα απαραίτητα links για την συνεισφορά πάνω στο [sitegr](https://github.com/ioniodi/sitegr) που οδηγούν στο issue, το demo και το pull request, αντίστοιχα.
-- [Issue](https://github.com/ioniodi/sitegr/issues/67)
-- [Demo](https://stupefied-hoover-8cda64.netlify.app/courses/specialized-algorithm-topics/)
-- [Pull Request](https://github.com/ioniodi/sitegr/pull/92)
+Παρακάτω φαίνονται τα απαραίτητα links για την συνεισφορά πάνω στο **[sitegr](https://github.com/ioniodi/sitegr)** που οδηγούν στο issue, το demo και το pull request, αντίστοιχα.
+- **[Issue](https://github.com/ioniodi/sitegr/issues/67)**
+- **[Demo](https://stupefied-hoover-8cda64.netlify.app/courses/specialized-algorithm-topics/)**
+- **[Pull Request](https://github.com/ioniodi/sitegr/pull/92)**
 
 ## <a name="P-8"></a>*2<sup>ο</sup> Παραδοτέο Αιτήματος Ενσωμάτωσης, (Εβδομάδα 8η):*
+Παρακάτω φαίνεται ο σύνδεσμος του issue που άνοιξα, αλλά δεν κατάφερα να το υλοποιήσω και να συνεισφέρω.
 
+- **[Issue](https://github.com/ioniodi/sitegr/issues/189)**
 ---
 # *Ασκήσεις Γραμμής Εντολών*
 ## <a name="P-4"></a>*1<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 4η):*
@@ -264,3 +266,17 @@ HTTP Error 400: Bad Request
 
 Το ***forked images submodule*** & τα ***τελικά τροποποιημένα αρχεία***:
 - **[images submodule](https://github.com/ntouloumtzis/images)** & **[changed files](https://github.com/ntouloumtzis/images/commit/cc3aeeb08e954eb494dcd29eac8623654e57e3cc)**
+
+## <a name="P-10"></a>*2<sup>ο</sup> Παραδοτέο Συμμετοχικού περιεχομένου, (Εβδομάδα 10η):*
+- Σ'αυτό το παραδοτέο δεν χρειάστηκε asciinema, μιας και η διαδικασία είναι παρόμοια με το προηγούμενο, πέρα από το περιεχόμενο που προστέθηκε, του οποίου οι σύνδεσμοι παρέχονται παρακάτω.
+
+Για τη μελέτη περίπτωσης, επέλεξα το etoys, όπως και στο προηγούμενο παραδοτέο:
+- **[case-study](https://github.com/ntouloumtzis/site/blob/master/_case-study/etoys.md)**
+- **[extras](https://github.com/ntouloumtzis/extras/blob/d5691d2cdb81050ecb87355c8c9f0bfffa7cf4bb/cd-etoys.md)**
+
+Για τη βιογραφία, επέλεξα τον Dan Ingalls, ο οποίος συνεργάστηκε με τον Alan Kay για την υλοποίηση του Etoys.
+- **[biography](https://github.com/ntouloumtzis/site/blob/master/_biography/dan-ingalls.md)**
+- **[extras](https://github.com/ntouloumtzis/extras/blob/d5691d2cdb81050ecb87355c8c9f0bfffa7cf4bb/bio-dan-ingalls.md)**
+- **[gallery](https://github.com/ntouloumtzis/_gallery/blob/f5e13c86f53a76aea0f2cf5baacebd540511eea5/dan-ingalls.md)**
+
+**[thumbnail](https://github.com/ntouloumtzis/images/blob/master/dan-ingalls-thumb.jpg)** | **[original](https://github.com/ntouloumtzis/images/blob/master/dan-ingalls.jpg)**
