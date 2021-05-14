@@ -382,7 +382,7 @@ install texlive-latex-base**, **sudo apt-get install texlive-fonts-recommended**
 
 ![pdf](https://github.com/apostoloskp/sw-images/blob/main/pdf.png)
 
-![ttpdf](https://github.com/apostoloskp/sw-images/blob/main/ttpdf.png)
+![pandoc](https://github.com/apostoloskp/sw-images/blob/main/pandoc.png)
 
 ## Απαντήσεις στις ερωτήσεις του 7ου quiz:
 
