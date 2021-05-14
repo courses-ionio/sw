@@ -137,11 +137,24 @@ Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.
 
 ## Δέκατη εβδομάδα 
 
-Συμμετοχικό περιεχόμενο -- Προσθήκη βιογραφίας Ian Murdock
+Συμμετοχικό περιεχόμενο 
+
+Προσθήκη βιογραφίας Ian Murdock
 
 [repository](https://github.com/sophia-ts/site),
 [images](https://github.com/sophia-ts/images/tree/29b48e56a3c70230977eeabd4051a42f7d8fd530),
 [bibliography](https://github.com/sophia-ts/site/tree/master/_biography)
+
+Έγινε προσθήκη της βιογραφίας του Ian Murdock, δημιουργό των Debian Linux. 
+[εικόνα1(κανονική)](https://github.com/sophia-ts/images/blob/29b48e56a3c70230977eeabd4051a42f7d8fd530/ian-murdock.png), [εικόνα2(thumb)](https://github.com/sophia-ts/images/blob/29b48e56a3c70230977eeabd4051a42f7d8fd530/ian-murdock-thumb.png)
+
+Επίσης, παρακάτω φαίνονται τα αρχεία κειμένου τύπου `md`
+[ian-murdock.md](https://github.com/sophia-ts/site/blob/master/_biography/ian-murdock.md), [bio-murdock.md](https://github.com/sophia-ts/site/blob/master/_biography/bio-murdock.md)
+
+Εκτός από την βιογραφία, έγινε προσθήκη και μιας μελέτης περίπτωσης, των debian linux
+
+Αρχικά πρόσθεσα το case study για τα [debian linux](https://github.com/sophia-ts/site/blob/master/_case-study/debian.md). Έπειτα, πέρασα το νέο submodule [extras](https://github.com/sophia-ts/extras) και πέρασα το αρχείο με τις πληροφορίες [cs-debian.md](https://github.com/sophia-ts/extras/blob/master/cs-debian.md). Έπειτα, έφτιαξα τρία νέα md αρχεία στο  `_gallery` για να υπάρχει περιεχόμενο στο case study μου [debian-buzz.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-buzz.md), [debian-etch.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-etch.md), [debian-jessie.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-jessie.md). 
+
 
 
 
