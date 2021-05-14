@@ -362,9 +362,9 @@ Link με το asciinema για παραδείγματα notification του mqt
 
 Το repository με το log του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.log
 
-Link για το asciinema για τη δημιουργία του αρχείου .tex:
+Link για το asciinema για τη δημιουργία του αρχείου .tex: https://asciinema.org/a/414003
 
-Link για το asciinema για τη μετατροπή σε pdf:
+Link για το asciinema για τη μετατροπή σε pdf: https://asciinema.org/a/414010
 
 ## Διαδικασία: 
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt-get install pandoc**, **sudo apt-get 
