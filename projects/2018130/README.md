@@ -68,7 +68,7 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 ## Πέμπτη εβδομάδα 
 
-Συμμετοχικό περιεχόμενο
+Συμμετοχικό περιεχόμενο -- Προσθήκη εικόνων
 
 - **[forked pibook repository](https://github.com/sophia-ts/site)**
 
@@ -81,6 +81,8 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 - **Link για την πρώτη εικόνα:** [GIMP](https://wizardly-saha-b0bb28.netlify.app/gallery/gimp/)
 
 - **Link για την δεύτερη εικόνα:** [Debian](https://wizardly-saha-b0bb28.netlify.app/gallery/debian/)
+
+Επίσης, είχε γίνει προσθήκη 2 ακόμα εικονών για τον [3d-printer](https://wizardly-saha-b0bb28.netlify.app/gallery/3d-printer/) και για [mp3-player](https://wizardly-saha-b0bb28.netlify.app/gallery/mp3-player/) αλλά μετά από προσωπική συνάντηση καταλήξαμε στο συμπέρασμα πως δεν ήταν η ιδανική επιλογή για το παραδοτέο αυτό.
 
 **[asciinema link](https://asciinema.org/a/400534)**
 
