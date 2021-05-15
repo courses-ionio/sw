@@ -23,15 +23,15 @@
 |**Video Quiz** | **Done** | 
 |:---------:| :--------: | 
 |[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS) | :ballot_box_with_check:|
-|[Τed Νelson - Computers for Cynics](#Τed-Νelson-Computers-for-Cynics) |:ballot_box_with_check: |
-|[Alan kay - Computing Simply](#Alan-kay-Computing-Simply)|:ballot_box_with_check: |
-|[Bret Victor - The Future of Programming](#Bret-Victor-The-Future-of-Programming) | :ballot_box_with_check:  |
-|[Alan Kay - Programming](#Alan-Kay-Programming) |:ballot_box_with_check:  |
-|[Alan Kay - Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture) |:ballot_box_with_check:|  
-|[Alan Kay - Invention](#Alan-Kay-Invention) |:ballot_box_with_check:|
-|[Jaron Lanier - Intertwingled](#Jaron-Lanier-Intertwingled)|:ballot_box_with_check: |
-|[Alan Kay - Scaling](#Alan-Kay-Scaling)|:ballot_box_with_check:|
-|[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit)|:ballot_box_with_check:|
+|[Τed Νelson-Computers for Cynics](#Τed-Νelson-Computers-for-Cynics) |:ballot_box_with_check: |
+|[Alan kay-Computing Simply](#Alan-kay-Computing-Simply)|:ballot_box_with_check: |
+|[Bret Victor-The Future of Programming](#Bret-Victor-The-Future-of-Programming) | :ballot_box_with_check:  |
+|[Alan Kay-Programming](#Alan-Kay-Programming) |:ballot_box_with_check:  |
+|[Alan Kay-Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture) |:ballot_box_with_check:|  
+|[Alan Kay-Invention](#Alan-Kay-Invention) |:ballot_box_with_check:|
+|[Jaron Lanier-Intertwingled](#Jaron-Lanier-Intertwingled)|:ballot_box_with_check: |
+|[Alan Kay-Scaling](#Alan-Kay-Scaling)|:ballot_box_with_check:|
+|[Alan Kay-Turing Tarpit](#Alan-Kay-Turing-Tarpit)|:ballot_box_with_check:|
  
 </br>
 
