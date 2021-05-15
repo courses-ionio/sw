@@ -57,11 +57,9 @@
 * [link βιογραφικού](https://katerinalaz.github.io/site-cv/)
 * [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
 
-*Asciinema*
+[Asciinema]((https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F))
 
- [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
-
-
+ 
 ##
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
@@ -100,9 +98,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
  
  ![simplescreenrecorder-2021-03-14](https://user-images.githubusercontent.com/56299928/115073725-68627a00-9f01-11eb-8c55-e0ceea44c189.gif)
  
- *Asciinema*
+ [Asciinema](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
-  [![asciicast](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2.svg)](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
+ 
   
  *Πηγές :*\
  Για το [wttr](https://github.com/chubin/wttr.in) \
@@ -149,9 +147,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
  [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
  
- *Asciinema*
+ [Asciinema](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
  
- [![asciicast](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F.svg)](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
+
 
 
 ##
@@ -166,9 +164,9 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 ![εικόνα](https://user-images.githubusercontent.com/56299928/117571133-cdab2480-b0d5-11eb-91a4-936ca6c13b12.png)
   
-*Asciinema*
+[Asciinema](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
 
-   [![asciicast](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt.svg)](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
+   
 
 *Πηγές :*\
 Για το cv-to-pdf : [Stackoverflow](https://stackoverflow.com/questions/26395374/what-can-i-control-with-yaml-header-options-in-pandoc),
@@ -202,9 +200,9 @@ message = client.messages.create(
    body="Hello World ! ")                                                                                                                                      print(message.sid) 
 ~~~
 
-*Asciinema*
+[Asciinema](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
 
-<a href="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s" target="_blank"><img src="https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s.svg" /></a>
+
 
 [GIF](https://www.dropbox.com/s/db1l3j7g8yupkba/twilio.gif?dl=0)
 
@@ -256,9 +254,8 @@ RUN gem install jekyll bundler:2.1.2
 CMD jekyll serve --host 0.0.0.0 &.
 ```
 
-*Asciinema*
+[Asciinema](https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K)
 
-[![asciicast](https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K.svg)](https://asciinema.org/a/JKEbuh1YCTQmqvsFolBpdL94K)
 
 *Πηγές :*\
 [YouTube -> Creating your first Dockerfile, image and container](https://www.youtube.com/watch?v=hnxI-K10auY),
