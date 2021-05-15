@@ -101,15 +101,10 @@ My aim for this course is to break down the continuous process of software devel
 
 + In the first task, I chose to push notifications to desktop and mobile when package updates are available. I made a script that informs user if the system is up-to-date or not and I used the following tools, Apticron-Notify-Pushover in order to  complete it. 
   - The first one, Apticron, is a useful script which sends daily emails about pending package updates and it is available for Debian and Ubuntu based systems.
-  - The seond one, Notify, pushes notifications on desktop from terminal.
-  - The last tool, Pushover, is an application which pushes notifications on Desktop, smartphones and smartwatches.
+  - The seond one, [Notify](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png), pushes notifications on desktop from terminal.
+  - The last tool, [Pushover](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png), is an application which pushes notifications on Desktop, [smartphones](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
+and smartwatches.
   
-![desktop-notification](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png)
-</br>
-![mobile-notification](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
-</br>
-![pushovr](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png)
-
 |Sources|
 |:-----:|
     - https://www.unixmen.com/how-to-get-email-notifications-for-new-updates-on-debianubuntu/
@@ -120,10 +115,7 @@ My aim for this course is to break down the continuous process of software devel
 |Second Assignemt|
 |:---------:|
 
-+ In the second task, I used Twilio Application, which is an American Cloud Communications Platform. More specific, I bought a trial number and i made a script in order to make calls and send messages from the virtual one to mine. 
-
-![twl](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png)
-![calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png)
++ In the second task, I used Twilio Application, which is an American Cloud Communications Platform. More specific, I bought a trial number and i made a script in order to [make calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png) and [send messages](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png) from the virtual one to mine. 
 
 >> |Sources|
 >> |:-----:| 
@@ -139,8 +131,7 @@ My aim for this course is to break down the continuous process of software devel
 
    Note: The scripts run on `Python 3.0`. 
 
-The `.gif` represents the perfomance results of the first script (password generator) using the `CProfile` 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif)
+The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif) represents the perfomance results of the first script (password generator) using the `CProfile`. 
 
 
 <h2>Participatory Content</h2>
