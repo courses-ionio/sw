@@ -11,10 +11,10 @@
 |**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
 |**Fifth** |  [Participatory Content](#Participatory-Content) |
 |**Sixth** |  [Command-line Exercise](#Command-line-Exercise) |  
-|**Seventh** | [CV]((#Curiculum-of-Vitae)|
+|**Seventh** | [CV](#Curiculum-of-Vitae)|
 |**Eighth** |  [Integration Into Website](#PR-Site)|
 |**Ninth** |   [Command-line Exercise](#Command-line-Exercise) |
-|**Tenth** |   [Participatory Content]((#Participatory-Content)|
+|**Tenth** |   [Participatory Content](#Participatory-Content)|
 |**Eleventh** | [Command-line Exercise](#Command-line-Exercise) |  
 |**Twelth** | [Final Report](Final-Report) | 
 </br>
