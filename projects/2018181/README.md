@@ -93,7 +93,7 @@ My aim for this course is to break down the continuous process of software devel
 |**First** |[Send notifications to your desktop-mobile](#First-Assignemt)| [Asciinema Video](https://asciinema.org/a/398905) |   
 |**Second**|[Programmable Voice](#First-Assignemt)|[Asciinema Video](https://asciinema.org/a/409967)|
 |**Third**|[Performance Monitoring](#Third-Assignemt)|[Asciinema Video](https://asciinema.org/a/413440)|
-|**Fourth**| **Set-up Continuous Integration** | [Asciinema Video] |
+|**Fourth**| **Set-up Continuous Integration** | [CV-PDF](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf) |
 </br>
 
 |First Assignemt|
