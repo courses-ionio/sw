@@ -444,15 +444,15 @@ Link με το αρχείο .svg που εξάγεται: https://github.com/apo
 Link με το αρχείο output που εξάγεται: https://github.com/apostoloskp/sw-files/blob/main/output
 
 ## Διαδικασία:
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo pip3 install py-spy**, **git clone --depth 1 
-https://github.com/brendangregg/FlameGraph**, **apt-get install wget** και **wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb** 
-μαζί με **sudo dpkg -i hyperfine_1.11.0_amd64.deb** για το unpacking.
-Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή ```sudo pip3 install py-spy```, ```git clone --depth 
+1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget``` και ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb```
+μαζί με ```sudo dpkg -i hyperfine_1.11.0_amd64.deb``` για το unpacking.
+Εκτέλεσα την εντολή ```asciinema rec -i 0.2``` για την έναρξη της εγγραφής terminal.
 Ως script προς monitoring επιλέγω το **print('Hello, world!')** με όνομα **main.py** και το τοποθετώ στο φάκελο Downloads/scripts.
-Αφού κάνω cd στο κατάλληλο location, με την εντολή **py-spy record -o profile.svg -- python3 main.py** πραγματοποιείται perfomance monitoring του παραπάνω script και εξαγωγή 
+Αφού κάνω cd στο κατάλληλο location, με την εντολή ```py-spy record -o profile.svg -- python3 main.py``` πραγματοποιείται perfomance monitoring του παραπάνω script και εξαγωγή 
 ενός αρχείου .svg με το αντίστοιχο flamegraph. Στη συνέχεια, δημιούργησα ένα ακόμα script με όνομα **main1** με περιεχόμενο **print('Hello, world! This is a test for 
-hyperfine'). Προχώρησα στις εντολές **cat main.py** και **cat main1.py**, έπειτα εκτέλεσα **hyperfine 'python main.py' 'python main1.py'** για το benchmarking και τέλος 
-**hyperfine -i --export-json output 'python main.py' 'python main1.py'** για την εξαγωγή αποτελέσματος σε ένα αρχείο .json. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+hyperfine')**. Προχώρησα στις εντολές ```cat main.py``` και ```cat main1.py```, έπειτα εκτέλεσα ```hyperfine 'python main.py' 'python main1.py'``` για το benchmarking και τέλος 
+```hyperfine -i --export-json output 'python main.py' 'python main1.py'``` για την εξαγωγή αποτελέσματος σε ένα αρχείο .json. Ολοκλήρωσα το asciicast με την εντολή ```exit```.
 
 **Αποτελέσματα:**
 
@@ -521,13 +521,13 @@ Link με το asciinema για εκκίνηση του mqtt:
 
 ## Διαδικασία:
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **** και ****.
-Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Ως server επιλέγω το κινητό μου.
-Στη συνέχεια, με την εντολή **mosquitto**, γίνεται εκκίνηση του plugin.
-Ακολουθεί η εντολή **mqtt_sub -h localhost -t test** για να ορίσω και να κάνω εγγραφή σε νέο topic, έστω **test**.
+Εκτέλεσα την εντολή ```asciinema rec -i 0.2``` για την έναρξη της εγγραφής terminal. Ως server επιλέγω το κινητό μου.
+Στη συνέχεια, με την εντολή ```mosquitto```, γίνεται εκκίνηση του plugin.
+Ακολουθεί η εντολή ```mqtt_sub -h localhost -t test``` για να ορίσω και να κάνω εγγραφή σε νέο topic, έστω **test**.
 Σε αυτό το σημείο θα κάνω λήψη της εφαρμογής **MQTT Client** μέσω του Play Store στη συσκευή μου και με το σύμβολο **+** ορίζω ένα νέο topic(όπως φαίνετα στις εικόνες).
-Εντοπίζω την IP του λογισμικού μου μέσω της εντολής **ifconfig**.
-Αφού ρυθμίσω το επιθυμητό topic, πληκτρολογώ στο terminal την εντολή **mqtt_pub -h localhost -t τεστ -m "Welcome"**.
-Ολοκλήρωσα το asciicast με την εντολή **exit**.
+Εντοπίζω την IP του λογισμικού μου μέσω της εντολής ```ifconfig```.
+Αφού ρυθμίσω το επιθυμητό topic, πληκτρολογώ στο terminal την εντολή ```mqtt_pub -h localhost -t τεστ -m "Welcome"```.
+Ολοκλήρωσα το asciicast με την εντολή ```exit```.
 
 **Αποτελέσματα:**
 
