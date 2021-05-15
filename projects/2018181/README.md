@@ -117,9 +117,9 @@ and smartwatches.
 
 + In the second task, I used Twilio Application, which is an American Cloud Communications Platform. More specific, I bought a trial number and i made a script in order to [make calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png) and [send messages](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png) from the virtual one to mine. 
 
->> |Sources|
->> |:-----:| 
-   > - https://www.twilio.com/
+|Sources|
+|:-----:| 
+    - https://www.twilio.com/
 
 </br> 
 
