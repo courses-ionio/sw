@@ -6,32 +6,32 @@
 |**Week** | **Deliverable** | 
 |:---------:| :--------: | 
 |**First** |[Introduction](#Introduction) |
-|**Second** | [CV](#CV) |
+|**Second** | [CV](#Curiculum-of-Vitae) |
 |**Third** |  [Integration Into Website](#PR-Site) |
 |**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
 |**Fifth** |  [Participatory Content](#Participatory-Content) |
 |**Sixth** |  [Command-line Exercise](#Command-line-Exercise) |  
-|**Seventh** | **CV**|
-|**Eighth** |  **Integration Into Website** |
-|**Ninth** |   **Command-line Exercise** |
-|**Tenth** |   **Participatory Content** |
-|**Eleventh** | **Command-line Exercise** |  
-|**Twelth** | **Final Report** | 
+|**Seventh** | [CV]((#Curiculum-of-Vitae)|
+|**Eighth** |  [Integration Into Website](#PR-Site)|
+|**Ninth** |   [Command-line Exercise](#Command-line-Exercise) |
+|**Tenth** |   [Participatory Content]((#Participatory-Content)|
+|**Eleventh** | [Command-line Exercise](#Command-line-Exercise) |  
+|**Twelth** | [Final Report](Final-Report) | 
 </br>
 
 ### Table of Contents (II) 
 |**Video Quiz** | **Done** | 
 |:---------:| :--------: | 
-|[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS-(First-Video-Quiz)) | :ballot_box_with_check:|
-|[Τed Νelson - Computers for Cynics](#Τed-Νelson-Computers-for-Cynics-(Second-Video-Quiz)) |:ballot_box_with_check: |
-|[Alan kay - Computing Simply](#Alan-kay-Computing-Simply-(Third-Video-Quiz))|:ballot_box_with_check: |
-|[Bret Victor - The Future of Programming](#Bret-Victor-The-Future-of-Programming-(Fourth-Video-Quiz)) | :ballot_box_with_check:  |
-|[Alan Kay - Programming](#Alan-Kay-Programming-(Fifth-Video-Quiz)) |:ballot_box_with_check:  |
-|[Alan Kay - Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture-(Sixth-Video-Quiz)) |:ballot_box_with_check:|  
-|[Alan Kay - Invention](#Alan-Kay-Invention-(Seventh-Video-Quiz)) |:ballot_box_with_check:|
-|[Jaron Lanier - Intertwingled](#Jaron-Lanier-Intertwingled-(Eighth-Video-Quiz))|:ballot_box_with_check: |
-|[Alan Kay - Scaling](#Alan-Kay-Scaling-(Ninth-Video-Quiz))|:ballot_box_with_check:|
-|[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit-(Tenth-Video-Quiz))|:ballot_box_with_check:|
+|[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS) | :ballot_box_with_check:|
+|[Τed Νelson - Computers for Cynics](#Τed-Νelson-Computers-for-Cynics) |:ballot_box_with_check: |
+|[Alan kay - Computing Simply](#Alan-kay-Computing-Simply)|:ballot_box_with_check: |
+|[Bret Victor - The Future of Programming](#Bret-Victor-The-Future-of-Programming) | :ballot_box_with_check:  |
+|[Alan Kay - Programming](#Alan-Kay-Programming) |:ballot_box_with_check:  |
+|[Alan Kay - Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture) |:ballot_box_with_check:|  
+|[Alan Kay - Invention](#Alan-Kay-Invention) |:ballot_box_with_check:|
+|[Jaron Lanier - Intertwingled](#Jaron-Lanier-Intertwingled)|:ballot_box_with_check: |
+|[Alan Kay - Scaling](#Alan-Kay-Scaling)|:ballot_box_with_check:|
+|[Alan Kay - Turing Tarpit](#Alan-Kay-Turing-Tarpit)|:ballot_box_with_check:|
  
 </br>
 
@@ -182,7 +182,15 @@ The `.gif` represents the perfomance results of the first script (password gener
 
 </br>
 
-|**Alan Kay at MIT EECS (First Video Quiz)**|  
+<h2>Final Report</h2>
+
+
+</br>
+
+
+<h2> Video Quiz</h2>
+
+|**Alan Kay at MIT EECS**|  
 | :--------: | 
 <details>
   <summary>Ποια είναι σύμφωνα με τον Αλαν Κεη η μεγαλύτερη παγίδα σε ένα μάθημα υπολογιστών και ποια είναι κατά την γνώμη σας η αντίστοιχη της ΙΒΜ τεχνολογία λογισμικού στις μέρες μας;</summary>
@@ -206,7 +214,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Τed Νelson-Computers for Cynics (Second Video Quiz)**|
+|**Τed Νelson-Computers for Cynics**|
 | :--------: | 
 </br>
 <details>
@@ -235,7 +243,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan kay-Computing Simply (Third Video Quiz)**|
+|**Alan kay-Computing Simply**|
 | :--------: | 
 
 <details> 
@@ -263,7 +271,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br> 
  
-|**Bret Victor-The Future of Programming (Fourth Video Quiz)**|
+|**Bret Victor-The Future of Programming**|
 | :--------: | 
 </br>
 <details>
@@ -291,7 +299,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan Kay-Programming (Fifth Video Quiz)**|
+|**Alan Kay-Programming**|
 | :--------: | 
 </br>
 <details>
@@ -320,7 +328,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br> 
 
-|**Alan Kay - Turing Award Lecture (Sixth Video Quiz)**|
+|**Alan Kay - Turing Award Lecture**|
 | :--------: | 
 </br> 
 <details>
@@ -360,7 +368,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan Kay-Invention (Seventh Video Quiz)**|
+|**Alan Kay-Invention**|
 | :--------: | 
 </br>
 <details>
@@ -384,7 +392,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details> 
 </br>
 
-|**Jaron Lanier-Intertwingled (Eighth Video Quiz)**|
+|**Jaron Lanier-Intertwingled**|
 | :--------: | 
 </br>
 <details>
@@ -412,7 +420,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan Kay-Scaling (Ninth Video Quiz)**|
+|**Alan Kay-Scaling**|
 | :--------: | 
 <details>
   <summary>Με ποιο τρόπο συνεργαστήκατε σε ιδέες δικές σας και άλλων σε αυτό το μάθημα</summary>
@@ -452,7 +460,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan Kay-Turing Tarpit (Tenth Video Quiz)**|
+|**Alan Kay-Turing Tarpit**|
 | :--------: | 
 
 <details>
@@ -480,7 +488,7 @@ The `.gif` represents the perfomance results of the first script (password gener
 </details>
 </br>
 
-|**Alan Kay-Future Software Development (Eleventh Video Quiz)**|
+|**Alan Kay-Future Software Development**|
 | :--------: | 
 </br>
 <details>
