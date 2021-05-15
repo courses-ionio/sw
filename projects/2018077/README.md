@@ -95,9 +95,7 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 Στην  συγκεκριμένη άσκηση υπάρχει εκτός από το asciinema και **GIF** επιδίδει τα αποτελέσματα της άσκησης εμφανίζονται στο γραφικό περιβάλλον του υπολογιστή μου.
  
  [GIF](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
- 
- ![simplescreenrecorder-2021-03-14](https://user-images.githubusercontent.com/56299928/115073725-68627a00-9f01-11eb-8c55-e0ceea44c189.gif)
- 
+  
  [Asciinema](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
  
@@ -203,10 +201,8 @@ message = client.messages.create(
 [Asciinema](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
 
 
-
 [GIF](https://www.dropbox.com/s/db1l3j7g8yupkba/twilio.gif?dl=0)
 
-![twilio](https://user-images.githubusercontent.com/56299928/115073303-ce023680-9f00-11eb-93b2-fd3e103ab9b0.gif)
 
 *Πηγές :*\
 [twilio GitHub](https://github.com/twilio/twilio-python),
