@@ -47,17 +47,13 @@
 
 Τα πρώρα cimmites αφορούσαν ένα από τα προτεινόμενα έτυμα βιογραφικά. Τροποποίησα κατάλληλα το `data.yml` αρχείο ώστε να εμφανίζονται τα  προσωπικά μου στοιχεία και άλλαξα το χρωματικό θέμα από μπλε σε πορτοκαλί. [Github Repo](https://github.com/KaterinaLaz/online-cv) [Link](https://katerinalaz.github.io/online-cv/) πρώτου βιογραφικού. 
 
-![εικόνα](https://user-images.githubusercontent.com/56299928/117570139-b407de00-b0d1-11eb-9944-ed6018610113.png)
 
 Κατά το πέρας των εβδομάδων, βρήκα ένα δωρεάν [HTML/CSS Resume](https://sampleresumetemplate.net/) και εργάστηκα πάνω σε αυτό. Το αρχικό Resume αποτελούταν από ένα `.html` και `.scc` αρχείο. Έτσι  λοιπόν, δημιούργησα ένα `details.yml` αρχείο το οποίο περιέχει τα στοιχεία μου.  Στην συνέχεια, τροποποίησα τον **HTML** κώδικα έτσι ώστε να αντλεί τα στοιχεία από το `details.yml` αρχείο. 
 Με οδηγό της [οδηγίες του εργαστηρίου](https://github.com/courses-ionio/sw-lab) έκανα **build** το βιογραφικό ως site και στην συνέχεια με την εντολή `jekyll serve - -host 0.0.0.0 &` το site γίνετε προσβάσιμο από τον **browser**. 
 
-![εικόνα](https://user-images.githubusercontent.com/56299928/117570362-735c9480-b0d2-11eb-989c-41b7d3b23dd3.png)
-
 * [link βιογραφικού](https://katerinalaz.github.io/site-cv/)
 * [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
-
-[Asciinema]((https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F))
+* [Asciinema]((https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F))
 
  
 ##
@@ -67,8 +63,6 @@
 
  [Netlify](https://quirky-jennings-23151c.netlify.app/people/)
  
- ![εικόνα](https://user-images.githubusercontent.com/56299928/117575496-c7737300-b0ea-11eb-85e6-72be0a0e305c.png)
-
 Λόγο του ότι η ιστοσελίδα που χρησιμοποιούμε για τα εβδομαδιαία βίντεο δεν μου εμφάνιζε την τελευταία ερώτηση, πρόσθεσα τις απαντήσεις μου στην αναφορά.
 Οι απαντήσεις μου στο εβδομαδιαίο βίντεο  `Alan Kay computing simply` 
 ```
@@ -89,14 +83,15 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 ##
 ## Άσκηση γραμμής εντολών Weather & Internet Speed Notification
 
-Στην πρώτη άσκηση στην γραμμή εντολών χρησιμοποίησα τα εργαλεία `wttr`  ,  `speedtest-cli`  και  `notify`. Αυτό που πραγματοποιείτε είναι μέσο ενός `.sh` αρχείου να έρχεται ειδοποίηση για τον καιρό της σημερινής μέρα καθώς και για την ταχύτητα της σύνδεσης μου στο διαδίκτυο την συγκεκριμένη χρονική στιγμή.\
+Στην πρώτη άσκηση στην γραμμή εντολών χρησιμοποίησα τα εργαλεία `wttr`  ,  `speedtest-cli`  και  `notify`. Αυτό που πραγματοποιείτε είναι μέσο ενός `.sh` αρχείου να έρχεται ειδοποίηση για τον καιρό της σημερινής μέρα καθώς και για την ταχύτητα της σύνδεσης μου στο διαδίκτυο την συγκεκριμένη χρονική στιγμή.
+
 **Ο τρόπος που εργάστηκα**: Για αρχή δημιούργησα ένα αρχείο `day.sh` που μέσα στο οποίο τοποθέτησα τις εντολές  
 `curl wttr.in/Corfu.Greece?format=3`  και  `speedtest-cli` ώστε στην αρχή να έρθει η ειδοποίηση για τον καιρό της σημερινής μέρας στην περιοχή μου και έπειτα να γίνει το **speed test**. Η εντολή `speedtest-cli` αργεί λίγο όπως παρατηρούμε από το **GIF** οπότε επέλεξα να προσθέσω ένα ενδιάμεσο μήνυμα που ειδοποιεί για αυτήν την καθυστέρηση. Προτίμησα για τις  κύριες λειτουργίες του αρχείου, δηλαδή **καιρός** και **speed test**, να εμφανίζετε το εικονίδιο στα αριστερά του πάνελ ένα `i (info)`.   
+
 Στην  συγκεκριμένη άσκηση υπάρχει εκτός από το asciinema και **GIF** επιδίδει τα αποτελέσματα της άσκησης εμφανίζονται στο γραφικό περιβάλλον του υπολογιστή μου.
  
- [GIF](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
-  
- [Asciinema](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
+* [GIF](https://www.dropbox.com/s/5x6hfmrrdp6ndw6/simplescreenrecorder-2021-03-14.gif?dl=0)
+* [Asciinema](https://asciinema.org/a/LdAuPrkG9fXmhe9mUTJb3VAP2)
  
  
   
@@ -143,29 +138,26 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 
 Στα πλαίσια της άσκησης *Βιογραφικό Jekyll* δημιούργησα ένα **static site** το οποίο στην αρχή δημιουργήταο με **jekyll** και μετά το κάνω host στο **GitHub Pages**.
 
- [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
+* [GitHub Repo](https://github.com/KaterinaLaz/site-cv)
+* [Asciinema](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
  
- [Asciinema](https://asciinema.org/a/EdxpKLGNbtpoOboy5sgSzZB1F)
  
-
-
-
 ##
 ## Βιογραφικό παραγωγή PDF
 
-Χρησιμοποίησα το εργαλείο Pandoc για να παράγετε ένα αρχείο .pdf στο οποίο να απεικονίζετε ορθά το περιεχόμενο του βιογραφικού μου. Η μεθοδολογία, *η οποία έχει καταγραφτεί*, είναι η ακόλουθη.\ 
-Στην αρχή, παράγω ένα αρχείο με κατάληξη .pdf με μη αυτοματοποιημένο τρόπο και στην πορεία το κάνω push στο GitHub repo του βιογραφικού. Έπειτα, χρησιμοποιώ GitHub Hooks `post-commit` και `pre-commit` ώστε όταν γίνετε commit μια αλλαγή στο repo να παράγετε αυτόματα το αρχείο pdf και να γίνετε push στο  GitHub repo του βιογραφικού.\
+Χρησιμοποίησα το εργαλείο Pandoc για να παράγετε ένα αρχείο .pdf στο οποίο να απεικονίζετε ορθά το περιεχόμενο του βιογραφικού μου. Η μεθοδολογία, *η οποία έχει καταγραφτεί*, είναι η ακόλουθη.
 
-Στο asciinema γίνετε και ένα συγκριτικό μεταξύ του πρώτου cv.pdf που προσαράχθηκε με τον χειροκίνητο τρόπο και του `cv.pdf` που παράχθηκε έπειτα από αλλαγή στο `index.html` αρχείο, αφού έγινε **commit στο GitHub repo του βιογραφικού**.\
+Στην αρχή, παράγω ένα αρχείο με κατάληξη .pdf με μη αυτοματοποιημένο τρόπο και στην πορεία το κάνω push στο GitHub repo του βιογραφικού. Έπειτα, χρησιμοποιώ GitHub Hooks `post-commit` και `pre-commit` ώστε όταν γίνετε commit μια αλλαγή στο repo να παράγετε αυτόματα το αρχείο pdf και να γίνετε push στο  GitHub repo του βιογραφικού.
+
+Στο asciinema γίνετε και ένα συγκριτικό μεταξύ του πρώτου cv.pdf που προσαράχθηκε με τον χειροκίνητο τρόπο και του `cv.pdf` που παράχθηκε έπειτα από αλλαγή στο `index.html` αρχείο, αφού έγινε **commit στο GitHub repo του βιογραφικού**.
 
 Αντιμετώπισα αρκετές δυσκολίες κατά την διεξαγωγή αυτής της άσκησης. Αρχικά προσπαθούσα ανεπιτυχώς να δημιουργήσω ένα νέο αρχείο `cv.pdf` αντλούμενη από το `index.html` και με μεταδομένα το `_data/details.yml`. Στην πορεία, αφού άλλαξα μέθοδο, αντλούσα τα δεδομένα από το https://katerinalaz.github.io/site-cv/. Έπειτα από πολλές δοκιμές κατέληξα στο συμπέρασμα ότι αν πραγματοποιήσω μια αλλαγή στο σε κάποιο αρχείο του βιογραφικού, το GitHub Pages εμφανίζει τις αλλαγές μετά από κάποια δευτερόλεπτα, με αποτέλεσμα το cv.pdf που γινόταν push να μην ήταν ενημερωμένο. Έτσι κατέληξα να αντλώ την πληροφορία από τον σύνδεσμο http://0.0.0.0:4000 ο οποίος χρησιμοποιείται ως **localhost για το jekyll page του βιογραφικού**.
 
-![εικόνα](https://user-images.githubusercontent.com/56299928/117571133-cdab2480-b0d5-11eb-91a4-936ca6c13b12.png)
-  
-[Asciinema](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
+* [CV.bdf](https://github.com/KaterinaLaz/site-cv/blob/master/cv.pdf)
+* [Github](https://github.com/KaterinaLaz/site-cv)
+* [Asciinema](https://asciinema.org/a/E8DL0NfUUWtg3iCsyh5uPVNlt)
 
-   
-
+ 
 *Πηγές :*\
 Για το cv-to-pdf : [Stackoverflow](https://stackoverflow.com/questions/26395374/what-can-i-control-with-yaml-header-options-in-pandoc),
                    [Stackoverflow](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit)
@@ -177,8 +169,6 @@ To etoys βασίζετε σε ένα γραφικό περιβάλλον όπο
 Το συγκεκριμένο παραδοτέο δεν υλοποιήθηκε.
 Παίρνοντας ως οδηγό της μη ανανεωμένες οδηγίες “Για τα θέματα ενδιάμεσης δυσκολίας στο 2ο-3ο αίτημα ενσωμάτωσης το ζητούμενο είναι μια συνεισφορά που δείχνει μεγαλύτερη κατανόηση του συστήματος (π.χ., βελτίωση της τεκμηρίωσης ή της διαδικασίας συνεισφοράς, προσθήκη νέων σελίδων, βελτιώσεις στον κώδικα λίκουηντ, κτλ)” αποφάσισα να δημιουργήσω μια καινούρια στατική καρτέλα στο navigation bar με τίτλο “Ιδρυση” που θα ήταν στα πρότυπα του επίσημου σάιτ. Έπειτα από διευκρίνηση του διδάσκοντα κάτι τέτοιο δεν είναι αποδεκτό για δεύτερο έτυμα ενσωμάτωσης στην ιστοσελίδα. [Issue](https://github.com/ioniodi/sitegr/issues/185)\
 Παραθέτω το [Netlify Demo](https://adoring-archimedes-ab72fc.netlify.app/) 
-
-![εικόνα](https://user-images.githubusercontent.com/56299928/117576450-bfb5cd80-b0ee-11eb-92d7-36fd3a70e085.png)
 
 
 ##
@@ -198,10 +188,8 @@ message = client.messages.create(
    body="Hello World ! ")                                                                                                                                      print(message.sid) 
 ~~~
 
-[Asciinema](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
-
-
-[GIF](https://www.dropbox.com/s/db1l3j7g8yupkba/twilio.gif?dl=0)
+* [Asciinema](https://asciinema.org/a/cOauGslTKXkTtbb3mo6PcI88s)
+* [GIF](https://www.dropbox.com/s/db1l3j7g8yupkba/twilio.gif?dl=0)
 
 
 *Πηγές :*\
