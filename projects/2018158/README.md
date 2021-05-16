@@ -52,6 +52,8 @@ Netlify link: https://amazing-cori-4de1f3.netlify.app/courses/distributed-networ
 
 asciinema link: https://asciinema.org/a/399194
 
+Για το συγκεκριμένο παραδοτέο εμφανίζονται ανάλογες ειδοποιήσεις. Αρχικά χρησιμοποιήθηκε η εφαρμογή telegram, στην οποία δημιουργήθηκε ένα bot με μοναδική τιμή API. Η μοναδική τιμή αξιοποιήθηκε ως παράμετρος για την εντολη **ntfy -b telegram send** στο terminal.
+
 Φωτογραφία με τις ειδοποιήσεις από το Telegram.
 
 ![image](https://user-images.githubusercontent.com/44473312/111084951-b6a8e580-851d-11eb-9dec-a878ef68f31a.png)
