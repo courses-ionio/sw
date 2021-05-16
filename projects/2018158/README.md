@@ -51,6 +51,8 @@ Netlify link: https://amazing-cori-4de1f3.netlify.app/courses/distributed-networ
 
 **deliverables:** send a notifcation when a big task completes, eg download, compiling, etc
 
+```Disclaimer: Wrong prompt. p18papa5 instead of p2018158 is used. ```
+
 asciinema link: https://asciinema.org/a/399194
 
 Για το συγκεκριμένο παραδοτέο εμφανίζονται ανάλογες ειδοποιήσεις. Αρχικά χρησιμοποιήθηκε η εφαρμογή telegram, στην οποία δημιουργήθηκε ένα bot με μοναδική τιμή API. Η μοναδική τιμή αξιοποιήθηκε ως παράμετρος για την εντολη **ntfy -b telegram send** στο terminal.
@@ -102,6 +104,8 @@ https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48
 
 **deliverables:** send notifications on important server events
 
+```Disclaimer: Wrong prompt. p18papa5 instead of p2018158 is used. ```
+
 asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 
 Για την δεύτερη εργασία άσκησης τερματικού στέλνεται ειδοποίηση κάθε φορά σε περίπτωση event από κάποιο αρχείο ή directory.
@@ -135,6 +139,8 @@ Netlify link: https://nifty-boyd-4217c3.netlify.app
 
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
+```Disclaimer: Wrong prompt. p18papa5 instead of p2018158 is used. ```
+
 asciinema link: https://asciinema.org/a/NVl1ukmhNc2PPjt4cRDidei6w
 
 Στην τρίτη άσκηση τερματικού δημιουργήθηκαν δύο αρχεία python, ώστε να συγκριθούν μεταξύ σε θέματα απόδοσης μέσω του hyperfine και έπειτα οπτικοποιήθηκαν με χρώματα. Μετά ακολούθησε η διαδικασία εξαγωγής των αποτελεσμάτων σε αρχείο json.
@@ -166,6 +172,8 @@ https://www.youtube.com/watch?v=QKRTiOG4J5E
 **assignment:** create a cli app for your favorite site
 
 **deliverables:** the application should be similar to rtv, haxor from hci
+
+```Disclaimer: Wrong prompt. p18papa5 instead of p2018158 is used. ```
 
 asciinema link: https://asciinema.org/a/7KrisVq6BvEdaufOIzHgrdJbw
 
