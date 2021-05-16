@@ -15,7 +15,7 @@
 | 7 | βιογραφικό |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 |<a href="#s"> συμμετοχικό περιεχόμενο |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -140,3 +140,17 @@
 <h2>Terminal askisi 3</h2>
 
 <script id="asciicast-408982" src="https://asciinema.org/a/408982.js" async></script>
+
+<h2><a href="s">συμμετοχικό περιεχόμενο</a></h2>
+
+<h3><a href="https://mystifying-newton-3844bc.netlify.app/biography/john-romero/"> John Romero</a></h3>
+
+<h3>Sources:</h3>
+<p>John Romero. (n.d.). Wikipedia. Retrieved May 15, 2021, from https://en.wikipedia.org/wiki/John_Romero</p>
+<p>Brenda Romero and John Romero Bios. (n.d.). Romero.Com. Retrieved May 15, 2021, from https://romero.com/bios</p>
+
+<h3><a href="https://mystifying-newton-3844bc.netlify.app/case-study/tetris/"> Tetris μελέτη περίπτωσης</a></h3>
+
+<h3>Sources:</h3>
+<p>Wikipedia contributors. (2021, May 12). Tetris. Wikipedia. https://en.wikipedia.org/wiki/Tetris</p>
+<p> Wikipedia contributors. (2021a, May 8). Tetris effect. Wikipedia. https://en.wikipedia.org/wiki/Tetris_effect</p>
