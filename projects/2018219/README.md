@@ -17,7 +17,7 @@
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
     <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td></tr>
     <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a></td></tr>
-    <tr><td align="center">11</td><td align="left"><a href="#P11">Άσκηση γραμμής εντολών</a></td></tr>
+    <tr><td align="center">11</td><td align="left"><a href="#P11">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a></td></tr>
     <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td></tr>
   </tbody>
 </table>
@@ -204,7 +204,7 @@
 
 &nbsp;&nbsp;
 ## <a name="P11">Παραδοτέο 11</a>
-## <a href="#P">Άσκηση γραμμής εντολών</a>
+## <a href="#P">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a>
 &nbsp;&nbsp;
 ## <a name="P12">Παραδοτέο 12</a>
 ## <a href="#P">Τελική αναφορά</a>
