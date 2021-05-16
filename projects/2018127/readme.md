@@ -118,6 +118,12 @@ A Call routing was constructed using Twilio Studio, a Scratch-like environment a
 [<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twistudio.png)
 
 
+Once again following mr. Patiniotis' prompt, I went ahead and installed twilio locally and pretty much redid my Lambda SMS function locally, with an asciicast to prove it:
+<a href="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt" target="_blank"><img src="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt.svg" /></a>
+
+And the proof that I really did receive a message:
+<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg" width="400"/>](httphttps://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg)
+
 # Video Quiz
 ## Week 3:
 | Marker | Question | Answer |
