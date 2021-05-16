@@ -145,6 +145,24 @@ Link του deployment μου: https://dimpram-pibook.netlify.app/
 
 ## 8. Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
+Ως δεύτερη συνεισφορά στην σελίδα ήταν η διόρθωση της θέσης εμφάνισης των περιγραφών των μαθημάτων. Όσα μαθήματα είχαν κείμενο πέρα από την μεταβλητή excerpt, εμφανιζόντουσαν κάτω από την βιβλιογραφία πράγμα που ήταν μη ορθο. Έτσι με την διόρθωση του κώδικα το αποτέλεσμα ήταν πλέον το επιθυμητό. Παρακάτω φαίνεται η σύγκριση πριν (αριστερά) και μετά (δεξιά) μετά την συνεισφορά.
+
+<p align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/44473195/110914149-a971d800-831e-11eb-85ae-40d9154c0415.png" width="460" height="460">
+  <img align="right" src="https://user-images.githubusercontent.com/44473195/111343371-09041680-8684-11eb-992b-018c052a6bb8.png" width="460" height="460">
+</p>
+
+
+Για την υλοποίηση αυτών τον αλλαγών χρησιμοποίησα το δικο μου fork του αποθετηρίου minimal-ionio και αξιοποιόντας το workflow ["Αλλαγή στο minimal-ionio"](https://github.com/ioniodi/sitegr/wiki/Workflow#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%83%CF%84%CE%BF-minimal-ionio) έκανα όλες μου τις δοκιμές αλλαγές τοπικά σε νέο branch στο minmal-ionio. Έπειτα, έφτιαξα ένα καινούριο deploy στο netlify που χρησιμοποιούσε το καινούριο branch που είχα στο minimal-ionio και χρησιμοποίησα αυτό το deploy ως preview για το pull request μου.
+
+**Links**
+
+- [Pull Request](https://github.com/ioniodi/minimal-ionio/pull/40)
+- [Issue](https://github.com/ioniodi/sitegr/issues/155)
+- [[dimpram/sitegr](https://github.com/dimpram/sitegr)]
+- [[dimpram/minimal-ionio](https://github.com/dimpram/minimal-ionio/tree/fix-footer-responsiveness
+
+
 ## 9. Άσκηση γραμμής εντολών
 
 ***Εκφώνηση: "test an alternative stack of tools"***
