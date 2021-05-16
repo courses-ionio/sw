@@ -77,7 +77,7 @@ Online Βιογραφικό/Bio: https://apostoloskp.github.io/online-cv/
 ## Διαδικασία:
 Αρχικά, επιχείρησα να δημιουργήσω και να κάνω host την ιστοσελίδα του βιογραφικού μου με τη χρήση docker και terminal με βάση τις οδηγίες του εργαστηρίου, όμως οδηγήθηκα σε αδιέξοδο. Συνεπώς, προχώρησα στην επιλογή του jekyll θέματος "Thunder" από **sharu725**. Έκανα fork το repository, έσβησα το ήδη υπάρχον **gh-pages** branch για να δημιουργήσω στη συνέχεια το δικό μου, όπου έθεσα να χρησιμοποίει ως πρότυπο τις αλλαγές που θα πραγματοποιήσω στο master branch. Το νέο branch **gh-pages** θα χρησιμεύει αποκλειστικά
 για το host της ιστοσελίδας του resume. Αφού βεβαιώθηκα πως λειτουργεί κανονικά με βάση το παραπάνω link, προχώρησα στην εισαγωγή των στοιχείων μου, της εικόνας μου στον φάκελο
-assets/images και στην αλλαγή του χρώματος του θέματος από **blue** σε **turquoise**. Όλες οι παραπάνω αλλαγές πραγματοποιήθηκαν αποκλειστικά με επεξεργασία των αρχείων **data.yml** και **_config.yml**.
+assets/images και στην αλλαγή του χρώματος του θέματος από ```blue``` σε ```turquoise```. Όλες οι παραπάνω αλλαγές πραγματοποιήθηκαν αποκλειστικά με επεξεργασία των αρχείων **data.yml** και **_config.yml**.
 
 
 ## Απαντήσεις στις ερωτήσεις του 2ου quiz:
@@ -290,13 +290,13 @@ Link με το asciinema για εκκίνηση του mqtt: https://asciinema.
 Link με το asciinema για παραδείγματα notification του mqtt: https://asciinema.org/a/404734
 
 ## Διαδικασία:
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt-get install mosquitto** και **sudo apt-get install mosquitto-clients**. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Ως server επιλέγω το κινητό μου.
-Στη συνέχεια, με την εντολή **mosquitto**, γίνεται εκκίνηση του plugin.
-Ακολουθεί η εντολή **mqtt_sub -h localhost -t test** για να ορίσω και να κάνω εγγραφή σε νέο topic, έστω **test**.
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```. Εκτέλεσα την εντολή ```asciinema rec -i 0.2``` για την έναρξη της εγγραφής terminal. Ως server επιλέγω το κινητό μου.
+Στη συνέχεια, με την εντολή ```mosquitto```, γίνεται εκκίνηση του plugin.
+Ακολουθεί η εντολή ```mqtt_sub -h localhost -t test``` για να ορίσω και να κάνω εγγραφή σε νέο topic, έστω **test**.
 Σε αυτό το σημείο θα κάνω λήψη της εφαρμογής **MQTT Client** μέσω του Play Store στη συσκευή μου και με το σύμβολο **+** ορίζω ένα νέο topic(όπως φαίνετα στις εικόνες).
-Εντοπίζω την IP του λογισμικού μου μέσω της εντολής **ifconfig**.
-Αφού ρυθμίσω το επιθυμητό topic, πληκτρολογώ στο terminal την εντολή **mqtt_pub -h localhost -t τεστ -m "Welcome"**.
-Πλέον μπορώ να λαμβάνω μηνύματα και ειδοποιήσεις κατευθείαν στην συσκευή-server μου. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+Εντοπίζω την IP του λογισμικού μου μέσω της εντολής ```ifconfig```.
+Αφού ρυθμίσω το επιθυμητό topic, πληκτρολογώ στο terminal την εντολή ```mqtt_pub -h localhost -t τεστ -m "Welcome"```.
+Πλέον μπορώ να λαμβάνω μηνύματα και ειδοποιήσεις κατευθείαν στην συσκευή-server μου. Ολοκλήρωσα το asciicast με την εντολή ```exit```.
 
 **Αποτελέσματα:**
 
@@ -367,16 +367,14 @@ Link για το asciinema για τη δημιουργία του αρχείο�
 Link για το asciinema για τη μετατροπή σε pdf: https://asciinema.org/a/414010
 
 ## Διαδικασία: 
-Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt-get install pandoc**, **sudo apt-get 
-install texlive-latex-base**, **sudo apt-get install texlive-fonts-recommended**, **sudo apt-get install texlive-fonts-extra**.
-Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
-Προχώρησα σε fork του αποθετηρίου που βρίσκεται το βιογραφικό μου με **git clone git@github.com:apostoloskp/online-cv.git** για δημιουργία φακέλου online-cv.
-Στη συνέχεια, δημιούργησα ένα φάκελο με **mkdir pdf** και έκανα cd στο location αυτό. Εκτέλεσα την εντολή **pandoc https://apostoloskp.github.io/online-cv/ -o cv.tex -s** για να 
-κάνω generate τo αρχείο .tex του bio.
-Επανήλθα στο terminal και εφόσον κατευθύνθηκα με **cd online-cv** στο αντίστοιχο location για το νέο LaTex αρχείο, χρησιμοποίησα την εντολή **pdflatex cv.tex** για την τελική 
-μετατροπή σε pdf, όπως φαίνεται και στο παραπάνω asciinema. Παρατίθενται όλα τα σχετικά αρχεία που προέκυψαν απο τη μετατροπή.
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή ```sudo apt-get install pandoc```, ```sudo apt-get 
+install texlive-latex-base```, ```sudo apt-get install texlive-fonts-recommended```, ```sudo apt-get install texlive-fonts-extra```.
+Εκτέλεσα την εντολή ```asciinema rec -i 0.2``` για την έναρξη της εγγραφής terminal.
+Προχώρησα σε fork του αποθετηρίου που βρίσκεται το βιογραφικό μου με ```git clone git@github.com:apostoloskp/online-cv.git``` για δημιουργία φακέλου online-cv.
+Στη συνέχεια, δημιούργησα ένα φάκελο με ```mkdir pdf``` και έκανα cd στο location αυτό. Εκτέλεσα την εντολή ```pandoc https://apostoloskp.github.io/online-cv/ -o cv.tex -s``` για να κάνω generate τo αρχείο .tex του bio.
+Επανήλθα στο terminal και εφόσον κατευθύνθηκα με ```cd online-cv``` στο αντίστοιχο location για το νέο LaTex αρχείο, χρησιμοποίησα την εντολή ```pdflatex cv.tex``` για την τελική μετατροπή σε pdf, όπως φαίνεται και στο παραπάνω asciinema. Παρατίθενται όλα τα σχετικά αρχεία που προέκυψαν απο τη μετατροπή.
 Παρατήρησα πως στο τελικό pdf δεν εμφανίζονται οι εικόνες και το θέμα, παρά μόνο το κείμενο αυτού.
-Ολοκλήρωσα το asciicast με την εντολή **exit**.
+Ολοκλήρωσα το asciicast με την εντολή ```exit```.
 
 **Αποτελέσματα:**
 
