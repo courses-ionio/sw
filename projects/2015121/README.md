@@ -22,12 +22,12 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <sup><a href="#1"> Προσωπικοί μου στόχοι για το μάθημα </a></sup> |
-| 2 | <sup><a href="#2"> βιογραφικό 1. </a></sup> | 
+| 2 | <sup><a href="#2"> βιογραφικό 1 </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 και Α2 </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 7 | <sup><a href="#7"> βιογραφικό 2. </a></sup> |
+| 7 | <sup><a href="#7"> βιογραφικό 2 </a></sup> |
 | 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
 | 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο </a></sup> |
