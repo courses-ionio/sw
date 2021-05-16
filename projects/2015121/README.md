@@ -533,7 +533,7 @@ Link με το asciinema για δημιουργία σελίδας με hugo: h
 
 **Αποτελέσματα:**
 
-![]()
+![hugo](https://github.com/apostoloskp/sw-images/blob/main/hugo.png)
 
 ## Απαντήσεις στις ερωτήσεις του 11ου quiz:
 
