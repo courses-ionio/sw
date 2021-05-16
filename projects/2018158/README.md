@@ -43,6 +43,7 @@ Pull Request link: https://github.com/ioniodi/sitegr/pull/163
 Οι προβλεπόμενες αλλαγές μπορούν να βρεθούν και στο Netlify.
 
 Netlify link: https://amazing-cori-4de1f3.netlify.app/courses/distributed-network-systems/
+
 ### Παραδοτέο 4
 Άσκηση τερματικού.
 
@@ -103,15 +104,29 @@ https://github.com/AnTonyPapako/images/blob/c1a26ae401b91baeb951b9cfbe1bf1612b48
 
 asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 
+Για την δεύτερη εργασία άσκησης τερματικού στέλνεται ειδοποίηση κάθε φορά σε περίπτωση event από κάποιο αρχείο ή directory.
+
 ![ΆσκησηΤερματικού6](https://user-images.githubusercontent.com/44473312/112767894-d3671200-9021-11eb-9136-9849cf469b6f.png)
 
 ![mtqqwarn](https://user-images.githubusercontent.com/44473312/112767898-de21a700-9021-11eb-8284-866b98909e88.png)
 
 ### Παραδοτέο 7
 
+**// Error 404**
+
 ### Παραδοτέο 8
 
--Άνοιγμα [issue](https://github.com/ioniodi/sitegr/issues/180) για τη δήλωση θέματος.
+-Άνοιγμα [issue](https://github.com/ioniodi/sitegr/issues/180) για τη δήλωση θέματος, αναμένεται ακόμη green light.
+
+Σκοπός η προσθήκη shortcut για να εμφανίζονται τα Μεταπτυχιακά Μαθήματα στο κάτω μέρος της ιστοσελίδας, όπως γίνεται για τα Προπτυχιακά.
+
+Εφόσον αναμένεται το green light δεν έχει γίνει κάποιο pull request, αλλά οι αλλαγές υπάρχουν ήδη σε branch του forked directory της ιστοσελίδας.
+
+Forked Directory's Branch link: https://github.com/AnTonyPapako/sitegr/commit/5d24c06185a3a83d7a21f63f4f99b63c12b485c4
+
+Οι προβλεπόμενες αλλαγές μπορούν να βρεθούν και στο Netlify.
+
+Netlify link: https://nifty-boyd-4217c3.netlify.app
 
 ### Παραδοτέο 9
 Άσκηση τερματικού.
@@ -121,6 +136,8 @@ asciinema link: https://asciinema.org/a/26cL4XaZlFvOMSxq5Nya5QUBz
 **deliverables:** monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
 asciinema link: https://asciinema.org/a/NVl1ukmhNc2PPjt4cRDidei6w
+
+Στην τρίτη άσκηση τερματικού δημιουργήθηκαν δύο αρχεία python, ώστε να συγκριθούν μεταξύ σε θέματα απόδοσης μέσω του hyperfine και έπειτα οπτικοποιήθηκαν με χρώματα. Μετά ακολούθησε η διαδικασία εξαγωγής των αποτελεσμάτων σε αρχείο json.
 
 ### Παραδοτέο 10
 Συμμετοχικό υλικό - Β .
@@ -151,3 +168,5 @@ https://www.youtube.com/watch?v=QKRTiOG4J5E
 **deliverables:** the application should be similar to rtv, haxor from hci
 
 asciinema link: https://asciinema.org/a/7KrisVq6BvEdaufOIzHgrdJbw
+
+Για την τέταρτη και τελευταία άσκηση τερματικού δημιουργήθηκε ενα cli app μέσω του click. Για την δημιουργία του cli app χρειάστηκε η ενσωμάτωση σε virtual environement και έπειτα ένα αρχείο python, setup.py, που αποτελεί τα δεδομένα για το cli app. Στην αρχή το αρχείο hello.py, με την απλή λειτουργία εμφάνισης ενός μηνύματος, παρέχει μόνο την μία βασική λειτουργία **hallo --help**. Μετά προσθέτονται και άλλα options, όπως **hallo --string** που εμφανίζει το μήνυμα ανάλογα με τη μεταβλητή string που θα πάρει ως είσοδο και **hallo --repeat** που εμφανίζει το μήνυμα για όσες φορές οριστεί.
