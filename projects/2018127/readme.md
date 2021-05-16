@@ -85,7 +85,7 @@ This resulted in an (objectively, aesthetically displeasing) [file](https://gith
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot 2021-04-26 153001.png" width="400"/>
 
 The automation part of this assignment was done with a GitHub Action documented [here](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/.github/workflows/cv2pdf.yml). 
-Since the CV has a GitHub Pages-poewred website, the GH Action gets triggered everytime GH Pages has fnished rebuilding the website. This can lead to unnecessary triggers (for instance CSS modifications don't affect the pdf) but seeing as gh Pages needs some time to build the updated website, this solution seemed the best one.
+Since the CV has a GitHub Pages-powered website, the GH Action gets triggered everytime GH Pages has fnished rebuilding the website. This can lead to unnecessary triggers (for instance CSS modifications don't affect the pdf) but seeing as gh Pages needs some time to build the updated website, this solution seemed the best one.
 
 
 ## CLI Exercise #2
@@ -93,7 +93,11 @@ For the 2nd CLI Assignment, I chose to work on Huginn. Following the simple inst
 
 [<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png" width="400"/>](https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/Screenshot%202021-04-26%20182535.png)
 
-This may or may not be impoved in the near future to create an Agent to notify me about my age group's vaccinations.
+Following mr. Patiniotis' prompt, I went ahead and asciicasted the manual installation process for Huginn which was a disaster at best. Various bugs were found, and while a lot were taken note of and corrected in-flight, there were always new ones poppinh up, and at the end of the day the installation never worked.
+Both Docker and CLI versions are the same, since both lead you to the same GUI, but the process was still documented and uploaded here so as to check the CLI part of the exercise.
+
+<a href="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y" target="_blank"><img src="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y.svg" /></a>
+
 
 ## CLI Exercise #3
 This time, I chose the twilio assignment. As vague as can be, the goal to "deploy an application that forwards a call depending on a white- and black- list of phone numbers" proved to be a tough one. That's on me and my app hosting choices though, but admittedly the twillio documentation is lacking to say the very very best of it.
