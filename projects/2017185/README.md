@@ -31,7 +31,7 @@
 
 # Βιογραφικό
    - [Github Repository](https://github.com/Haki-Malai/Resume)
-   - [Λινκ](https://haki-malai.github.io/Resume/)
+   - [Λινκ](https://haki-malai.github.io/cv/)
    - [Original Template](https://github.com/sproogen/modern-resume-theme)
    - [Asciinema](https://asciinema.org/a/412408)
    - Επιπλέον Προσθήκες:
