@@ -558,27 +558,29 @@ Link με το asciinema για δημιουργία σελίδας με hugo: h
 
 ## Σύνοψη:
 
-Προσωπικοί μου στόχοι για το μάθημα ---> **ΕΓΚΥΡΟ COMMIT**
+Προσωπικοί μου στόχοι για το μάθημα
 
-Άσκηση προγραμματισμού: button ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+βιογραφικό
 
-Άσκηση γραμμής εντολών: (1) warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-Άσκηση προγραμματισμού: mouse-form ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 
-Άσκηση γραμμής εντολών: organize your notes with emacs ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Συμμετοχικό περιεχόμενο: A1 και Α2
 
-Συμμετοχικό περιεχόμενο: A1 και A2 ---> **ΕΓΚΥΡΟ COMMIT**, **80% COMPLETED**
+Άσκηση γραμμής εντολών: create notifications on your server
 
-Άσκηση προγραμματισμού: form-validation ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+βιογραφικό
 
-Άσκηση γραμμής εντολών: download mp3 ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-Άσκηση προγραμματισμού: image-filter ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Άσκηση γραμμής εντολών: performance monitoring
 
-Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+Συμμετοχικό περιεχόμενο: Β1 και Β2
 
-Συμμετοχικό περιεχόμενο: Β1 και Β2 ---> **ΜΗ ΕΓΚΥΡΟ COMMIT**, **50% COMPLETED**
+Άσκηση γραμμής εντολών: create your own static site and blog generator 
+
+Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
 
 Αναλυτικά GIF βρίσκονται κάτω από κάθε άσκηση προγραμματισμού όπου επιδεικνύεται το αποτέλεσμα επεξεργασίας κώδικα.
 Οι ασκήσεις γραμμής εντολών δε διαθέτουν gifs καθώς το record έγινε με το asciinema, οπότε υπάρχουν μόνο τα αντίστοιχα link σε κάθε άσκηση. 
