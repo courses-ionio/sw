@@ -142,4 +142,26 @@ asciinema για τις εντολές : https://asciinema.org/a/410224
         targets = http
 ``` 
 
-        
+       
+# Δεύτερη προσθήκη στο Συμμετοχικό εκπαιδευτικό υλικό.
+
+**Βιογραφία**: Για την Βιογραφία επέλεξα να κάνω του Bill Joy, του δημιουργού του VI. Ο τρόπος που συσχετίζεται με το προηγούμενο παραδοτέο πιστεύω πως είναι το γεγονός ότι το vi έθεσε τα θεμέλια για την δημιουργία πολλών ide και κατά συνέπεια mobile ide που εξέτασα στο προηγούμενο παραδοτέο. Στο παραδοτέο αυτό μελέτησα το project και πρόσθεσα δύο αρχεία για την βιογραφία.
+
+Link: https://github.com/p18vogd/site/blob/master/_biography/bill-joy.md
+
+Link: https://github.com/p18vogd/site/blob/master/_biography/bio-bill-joy.md
+
+πηγές για την βιογραφία:
+
+1)  https://www.britannica.com/biography/Bill-Joy
+2)  https://en.wikipedia.org/wiki/Bill_Joy
+3)  https://thenewstack.io/a-look-at-vim-a-text-editor-for-the-ages/
+
+
+**Μελέτη Περίπτωσης**: Δημιούργησα μια νέα μελέτη περίπτωσης για την ανάπτηξη εφαρμογών σε κινητά τηλέφωνα που σχετίζεται με το προήγουμενο παραδοτέο που έιχα κάνει για το Dcoder. 
+
+Link: https://github.com/p18vogd/site/blob/master/_case-study/cs-mobile-ide.md
+
+Link: https://github.com/p18vogd/site/blob/master/_case-study/mobile-ide.md
+
+Netlify Link : https://wizardly-golick-f6bc81.netlify.app
