@@ -15,7 +15,7 @@
 | 6 | Άσκηση γραμμής εντολών | ✓ |
 | 7 | βιογραφικό | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - |
-| 9 | Άσκηση γραμμής εντολών | - |
+| 9 | Άσκηση γραμμής εντολών | ✓ |
 | 10 | συμμετοχικό περιεχόμενο | - |
 | 11 | Άσκηση γραμμής εντολών | - |
 | 12 | Τελική αναφορά | - |
@@ -76,3 +76,11 @@ monitor the performance of your python scripts and visualize them with colors an
 Για την παρακατω ασκηση χρησιμοποιησα το hyperfine και το py-spy  
 
 [![asciicast](https://asciinema.org/a/413423.svg)](https://asciinema.org/a/413423)
+
+
+## Εβδομάδα 9
+
+create a docker image for your development stack
+
+Για την παρακατω ασκηση χρησιμοποιησα ένα Docker Image για το site του βιογραφικού μου.Ετσι καθε φορα θα κανω run ή build το βιογραφικό,χωρις χρειάζεται να κανω εγκασταση την γλωσσα ruby και το jekyll στον υπολογιστή μου.
+[![asciicast](https://asciinema.org/a/414607.svg)](https://asciinema.org/a/414607)
