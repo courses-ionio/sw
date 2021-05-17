@@ -111,7 +111,7 @@ Link με το asciinema για setup και σύνδεση Telegram: https://as
 
 ###### [5]
 
-## Συμμετοχικό περιεχόμενο
+## Συμμετοχικό περιεχόμενο: A1 και Α2
 
 # A1
 ## Εικόνα 1): Telegram
@@ -148,6 +148,8 @@ Link για τo χρονολόγιο στο site: https://p15kabl.netlify.app/ti
 Link για το αποθετήριο χρονολογίου: https://github.com/apostoloskp/site/blob/2015121/_timeline/mobile.md
 
 ###### [6]
+
+## Άσκηση γραμμής εντολών: create notifications on your server
 
 Link με το asciinema για εκκίνηση του mqtt: https://asciinema.org/a/404909
 
