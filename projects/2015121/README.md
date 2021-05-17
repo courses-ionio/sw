@@ -256,6 +256,10 @@ Link για το αποθετήριο αρχείου μελέτης: https://git
 
 Link για μελέτη περίπτωσης στο site: https://p15kabl.netlify.app/case-study/telegram
 
+# Πηγές:
+
+[Telegram Review](https://www.pcmag.com/reviews/telegram)
+
 ## Πληροφορίες:
 
 # B2
@@ -268,9 +272,7 @@ Link για τo χρονολόγιο στο site:
 
 Link για το αποθετήριο χρονολογίου:
 
-Οι πηγές που χρησιμοποιήθηκαν για το βιογραφικό σημείωμα είναι οι εξής:
-
-[Telegram Review](https://www.pcmag.com/reviews/telegram)
+# Πηγές:
 
 [Πηγή 2]()
  
