@@ -178,7 +178,7 @@ Link με το asciinema για παραδείγματα notification του mqt
 
 ###### [7]
 
-## Διαδικασία:
+## Βιογραφικό: Αρχείο PDF με χρήση pandoc/latex
 
 Το repository με το PDF του βιογραφικού: https://github.com/apostoloskp/sw-files/blob/main/myresume.pdf
 
