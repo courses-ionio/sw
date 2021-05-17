@@ -121,3 +121,16 @@
 #### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/master/backus-thumb.png)
 #### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
 #### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
+
+## <a name="Παραδοτέο 11">Παραδοτέο 11</a>
+## 4η άσκηση γραμμής εντολών - Μέτρηση επόδοσης εκτέλεσης python script</a>
+Χρήση της εντολής hyperfine για τη μέτρηση του χρόνου εκτέλεσης script σε γλώσσα python
+
+* [x] Έκανα download το deb πακέτο του hyperfine με wget
+* [x] Έκανα εγκατάσταση του hyperfine με την εντολή dpkg
+* [x] Εγκατέστησα python script: rand.py, heapsort.py, mergesort.py
+* [x] Έτρεξα το hyperfine για τον αλγόριθμο heapsort για 100 αριθμούς και για 1000 αριθμούς
+* [x] Έτρεξα ξανά το hyperfine και δημιούργησα ένα markdown αρχείο με τα αποτελέσματα
+* [x] Έκανα χρήση του option --warmup της hyperfine για πιο καθαρές μετρήσεις
+
+Ανέβασα στο [asciinema](https://asciinema.org/a/414597) video με τα βήματα που εκτέλεσα
