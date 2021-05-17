@@ -160,7 +160,7 @@ Link του deployment μου: https://dimpram-pibook.netlify.app/
 - [Pull Request](https://github.com/ioniodi/minimal-ionio/pull/40)
 - [Issue](https://github.com/ioniodi/sitegr/issues/155)
 - [[dimpram/sitegr](https://github.com/dimpram/sitegr)]
-- [[dimpram/minimal-ionio](https://github.com/dimpram/minimal-ionio/tree/fix-footer-responsiveness
+- [[dimpram/minimal-ionio](https://github.com/dimpram/minimal-ionio/tree/fix-footer-responsiveness)]
 
 
 ## 9. Άσκηση γραμμής εντολών
