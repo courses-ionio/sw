@@ -528,7 +528,7 @@ Link με το asciinema για δημιουργία σελίδας με hugo: h
 Επέλεξα το theme **hello friend** από https://themes.gohugo.io/hugo-theme-hello-friend/. Προχώρησα στα κατάλληλα ```cd``` για τον εντοπισμό του theme package.
 Ακολουθεί η εντολή ```unzip hugo-theme-hello-friend-master.zip``` για την αποσυμπίεση αυτού.
 Σε αυτό το σημείο με ```vim config.toml``` θα κάνω επεξεργασία του config αρχείου και θα προσθέσω στη λίστα το theme που επέλεξα παραπάνω.
-Πληκτρολογώ στο terminal την εντολή ```hugo server``` για το hosting της σελίδας.
+Πληκτρολογώ στο terminal την εντολή ```hugo server``` για το hosting της σελίδας. Δημιούργησα το πρώτο μου post με ```hugo new post.md```.
 Ολοκλήρωσα το asciicast με την εντολή ```exit```.
 
 **Αποτελέσματα:**
