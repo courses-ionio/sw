@@ -33,8 +33,11 @@
 Για την ολοκλήρωση του αιτήματος ενσωμάτωσης δημιούργησα ένα νέο προτεινόμενο issue για προσθήκη ανακοίνωσης. Μετά τον χαρακτηρισμό του αιτήματος με green light δημιούργησα και προσέθεσα το κατάλληλο αρχείο .md στον φάκελο των ανακοινώσεων. Στη συνέχεια έκανα deploy το site του αποθετηρίου μου μέσω netlify. Στη συνέχεια κατέθεσα το αίτημα ενσωμάτωσης με όλες τις απαραίτητες πληροφορίες για έγκριση της προσθήκης που προτάθηκε. Για την εκπόνηση της άσκησης με βοήθησε πολύ η προηγούμενη εμμπειρία που είχα με το netlify και το github η οποία αποκτήθηκε κατά τη διάρκεια της συμμετοχής μου στο μάθημα hci. Η γνώση αυτή που επέτρεψε να ολοκληρώσω το παραδοτέο γρήγορα και χωρίς κανένα πρόβλημα.
 
 [md file](https://github.com/p15anez/sitegr/blob/2015097/all_collections/_posts/2021-02-22-Diavouleusi-sxedio-eswterikou-kanonismou.md)
+
 [Ιssue link](https://github.com/ioniodi/sitegr/issues/34)
+
 [Pull request link](https://github.com/ioniodi/sitegr/pull/98)
+
 [Νetlify link](https://p15anez-unofficialionio.netlify.app/posts/2021/02/22/diavouleusi-sxedio-eswterikou-kanonismou/)
 
 ![screenshot](https://i.imgur.com/g4BHPYq.jpg)
@@ -53,13 +56,13 @@
 
 [Zoom Timeline Link](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
+![screenshot1](https://i.imgur.com/OClyDgj.png)
+
 [Tails Gallery Link](https://github.com/p15anez/_gallery/blob/2015097/tails.md)
 
 [Tails Slides Link](https://github.com/p15anez/site/blob/2015097/_slides/models.md)
 
 [Tails Timeline Link](https://github.com/p15anez/site/blob/2015097/_timeline/systems.md)
-
-![screenshot1](https://i.imgur.com/OClyDgj.png)
 
 ![screenshot2](https://i.imgur.com/nQW26SQ.jpg)
 
