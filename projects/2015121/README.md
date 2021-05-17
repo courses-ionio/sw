@@ -32,7 +32,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 | 7 | <sup><a href="#7"> βιογραφικό: Αρχείο PDF με χρήση pandoc/latex </a></sup> |
 | 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
-| 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο </a></sup> |
+| 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο: Β1 και Β2 </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
 | 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> |
 <br/>
