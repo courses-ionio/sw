@@ -93,8 +93,8 @@
 
 Αρχικά εγινε το cloning των 3 αποθετηρίων τοπικά και στη συνέχεια ακολούθησε η διαμόρφωση των αρχείων .md και των αρχείων εικόνων στα αποθετήρια _gallery και images. Η καταγραφή αρχίζει από το σημείο αυτό και περιλμαβάνει το pushing των repos, την αφαίρεση και την προσθήκη των submodules και τέλος το pushing του αποθετηρίου site. 
 
-  - <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
-  - <a href="https://mybookp18mili1.netlify.app">Σύνδεσμος netlify του βιβλίου</a>
+  - ### <a href="https://asciinema.org/a/400947">Σύνδεσμος καταγραφής Asciinema</a>
+  - ### <a href="https://mybookp18mili1.netlify.app">Σύνδεσμος netlify του βιβλίου</a>
   - Eκτελέσιμα netlify: 
     - <a href="https://mybookp18mili1.netlify.app/gallery/etoys/"> gallery/etoys</a>
     - <a href="https://mybookp18mili1.netlify.app/slides/tools/">slides/tools etoys</a>
@@ -107,13 +107,18 @@
 &nbsp;&nbsp;
 ## <a name="P6">Παραδοτέο 6</a>
 ## <a href="#P">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a>
+
   - Αρχικά έγινε η εγκατάσταση του ntfy και των απαραίτητων dependencies
   - Στη συνέχεια έγινε η εγκατάσταση του Pushover app στο κινητό και η απόκτηση του user key
   - Ακολούθως δημιουργήθηκε με python3.9 το αρχείο test_ntfy.py, το οποίο δημιουργεί και γεμίζει με ακεραίους έναν πίνακα 100x1000000 για να χρησιμοποιηθεί κατά την επίδειξη λειτουργίας του χαρακτηριστικού done του ntfy.
-  - Η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image01.png">εικόνα 1</a> απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων ntfy.yml.
-  - Η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image02.png">εικόνα 2</a> και η <a href="https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image03.png">εικόνα 3</a> είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
+  - Η παρακάτω εικόνα απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων `ntfy.yml` ενώ οι δυο επόμενες είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
   - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, έτσι ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
-  - <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
+  - 
+![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image01.png)
+![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image02.png)
+![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image03.png)
+
+  - ### <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
 &nbsp;
 ## Απαντήσεις του 6ου βίντεο-κουίζ
   - Όχι δεν είναι χρήσιμα στην πληροφορική λόγω της διαφορετικής (ή και αντίθετης) προσέγγισης που ακολουθούν. Από τη μία, στα μαθηματικά αυτά υπάρχουν μικρά θεωρήματα με αποδείξεις σε σύνολα συνήθως άπειρου πλήθους ενώ από την άλλη στην πληροφορική χρειαζόμαστε/χειριζόμαστε θεωρήματα με μεγάλες αποδείξεις σε σύνολα πεπερασμένου πλήθους. 
@@ -132,6 +137,7 @@
 ## <a href="#P">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a>
 
 Η αρχική σκέψη ήταν να χρησιμοποιήσω το weasyprint αλλά δεν μπόρεσα να βρω τρόπο να γράψω στα ελληνικά μέσα στο pdf και κατέληξα στη χρήση του pandoc. Για την αυτοματοποιημένη δημιουργία του αρχείου pdf του βιογραφικού, χρησιμοποίησα το pandoc και δύο git hooks, precommit και post-commit. Έτσι εξασφαλίζεται ότι κάθε φορά που γίνεται commit "τρέχει" η εντολή pandoc κατάλληλα διαμορφωμένη για να μπορεί να διαβάζει ελληνικούς χαρακτήρες και να τους εκτυπώνει με την κατάλληλη γραμματοσειρά στο αρχείο cv.pdf, το οποίο το δημιουργεί στον κατάλογο pdf. Στο συνοδευτικό βιντεο asciinema, το cv.pdf μετατρέπεται σε αρχείο κειμένου, το cv.txt, καθαρά για λόγους επίδειξης του παραδοτέου ενώ επίσης γίνεται και εμφάνιση της σελίδας μέσω του console browser `lynx` πριν και μετά το push αποθετηρίου MyCV στο gh-pages. Επίσης, έχω προσθέσει στο βιογραφικό ένα σύνδεσμο για τη λήψη του αρχείου pdf του βιογραφικού.
+
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/hooks.jpg)
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/bio_both.jpg)
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/bio_pdf.jpg)
