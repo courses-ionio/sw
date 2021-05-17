@@ -170,7 +170,14 @@ The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e50
 
 </br>
 
-<h2>Final Report</h2>
+<h2>Summary</h2>
+Throughout the time spent in this course, we were introduced to many useful and established technologies used in Software Engineering.
+With each weekly assignment in lab classes, we were able to enhance our knowledge in services like Github, Netlify, and Docker among others.
+The coursework consisted of theoretical lectures as well, exploring early technologies of the 1960s-1980s that shaped the modern technology landscape as we know it today.
+This historical background is rather important because it highlights the needs of the modern software market by singling out the technologies that stood the test of time.
+
+The weekly video quizzes, Classtime quizzes and weekly assignments are included in the report and can be navigated by the table of contents.
+Issues that have occurred are covered in detail in each respective section of this report.
 
 
 </br>
