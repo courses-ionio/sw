@@ -32,7 +32,7 @@
 
 &nbsp;&nbsp;
 ## <a name="P2">Παραδοτέο 2</a>
-### <a href="#P">Βιογραφικό</a>
+## <a href="#P">Βιογραφικό</a>
 Αρχικά επέλεξα <a href="https://webjeda.com/online-cv/">αυτό</a> από τα πρότυπα βιογραφκών που μας <a href="https://courses-ionio.github.io/projects/cv/">προτείνονται</a>. Στη συνέχεια συμπλήρωσα όσα στοιχεία θεώρησα απαραίτητα και πραγματοποίησα κάποιες δομικές και αισθητικές αλλαγές καθώς επίσης και προσθαφαιρέσεις στοιχείων. Τέλος, πραγματοποίησα το deployment με `gh-pages`.
    - <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
    - <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
