@@ -49,13 +49,13 @@
 [Zoom Slides Link](https://p15anez-pibook.netlify.app/slides/models/)
 [Zoom Timeline Link](https://p15anez-pibook.netlify.app/timeline/collaboration/)
 
-[AplhaGo Gallery Link](https://p15anez-pibook.netlify.app/gallery/alpha-go/)
-[AlphaGo Slides Link](https://p15anez-pibook.netlify.app/slides/learning/)
-[Alpha Go Timeline Link](https://p15anez-pibook.netlify.app/timeline/learning/)
+[Tails Gallery Link](https://github.com/p15anez/_gallery/blob/2015097/tails.md)
+[Tails Slides Link](https://github.com/p15anez/site/blob/2015097/_slides/models.md)
+[Tails Timeline Link](https://github.com/p15anez/site/blob/2015097/_timeline/systems.md)
 
 ![screenshot1](https://i.imgur.com/OClyDgj.png)
 
-![screenshot2](https://i.imgur.com/cl2CySW.jpg)
+![screenshot2](https://i.imgur.com/nQW26SQ.jpg)
 
 # Άσκηση γραμμής εντολών 2
 
