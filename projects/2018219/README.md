@@ -1,3 +1,4 @@
+![Uploading image0203.png…]()
 ## ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
 ### Χρήστος Μήλιος
 ### ΑΜ: Π2018219
@@ -123,8 +124,14 @@
 
 <table>
   <tbody>
-    <tr><td align="left"><a href="https://github.com/p18mili1/_gallery/tree/62ae348204520f1b322aabb433358004f996975a">Σύνδεσμος submodule _gallery</a></td><td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/blob/62ae348204520f1b322aabb433358004f996975a/etoys.md">etoys.md</a></td></tr>
-    <tr><td align="left"></td><td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/blob/62ae348204520f1b322aabb433358004f996975a/google-translate.md">google-translate.md</a></td></tr>
+    <tr>
+      <td align="left"><a href="https://github.com/p18mili1/_gallery/tree/62ae348204520f1b322aabb433358004f996975a">Σύνδεσμος submodule _gallery</a></td>
+      <td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/blob/62ae348204520f1b322aabb433358004f996975a/etoys.md">etoys.md</a></td>
+    </tr>
+    <tr>
+      <td align="left"></td>
+      <td align="left">Αρχείο <a href="https://github.com/p18mili1/_gallery/blob/62ae348204520f1b322aabb433358004f996975a/google-translate.md">google-translate.md</a></td>
+    </tr>
     <tr><td align="left"><a href="https://github.com/p18mili1/images/tree/9d52c2daea69a5afc31d486ff2fffbf2555ca89b">Σύνδεσμος submodule images</a></td><td align="left">Eικόνα <a href="https://github.com/p18mili1/images/blob/9d52c2daea69a5afc31d486ff2fffbf2555ca89b/etoys.png">etoys.png</a>, Eικονίδιο <a href="https://github.com/p18mili1/images/blob/9d52c2daea69a5afc31d486ff2fffbf2555ca89b/etoys-thumb.png">etoys-thumb.png</a></td></tr>
     <tr><td align="left"></td><td align="left">Eικόνα <a href="https://github.com/p18mili1/images/blob/9d52c2daea69a5afc31d486ff2fffbf2555ca89b/google-translate.png">google-translate.png</a>, Eικονίδιο <a href="https://github.com/p18mili1/images/blob/9d52c2daea69a5afc31d486ff2fffbf2555ca89b/google-translate-thumb.png">google-translate-thumb.png</a></td></tr>
     <tr><td align="left"><a href="https://github.com/p18mili1/site">Σύνδεσμος αποθετηρίου site</a></td><td align="left"></td></tr>
@@ -168,7 +175,10 @@
   - Ακολούθως δημιουργήθηκε με python3.9 το αρχείο test_ntfy.py, το οποίο δημιουργεί και γεμίζει με ακεραίους έναν πίνακα 100x1000000 για να χρησιμοποιηθεί κατά την επίδειξη λειτουργίας του χαρακτηριστικού done του ntfy.
   - Η παρακάτω εικόνα απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων `ntfy.yml` ενώ οι δυο επόμενες είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
   - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, έτσι ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
-  - 
+
+![image](https://user-images.githubusercontent.com/56065057/118556073-1b75fb80-b76c-11eb-8035-5a19012d10a4.png)
+
+
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image01.png)
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image02.png)
 ![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/image03.png)
