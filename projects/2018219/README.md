@@ -9,7 +9,7 @@
     <tr><td align="center"><h3><a name="P">Εβδομάδα</a></h3></td><td align="center"><h3>Παραδοτέο</h3></td><td align="center"><h3>Commit</h3</td></tr>
     <tr><td align="center">1</td>
       <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td><td align="center">:heavy_check_mark:</td></tr>
-    <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td><td align="center"><a href="2c7eb80d895d741daa72d7973b5c7bef54904611">:heavy_check_mark:</a></td></tr>
     <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td><td align="center">:heavy_check_mark:</td></tr>
     <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration για το βιογραφικό στο  gh-pages</a></td><td align="center">:heavy_check_mark:</td></tr>
     <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td><td align="center">:heavy_check_mark:</td></tr>
@@ -18,9 +18,10 @@
     <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td><td align="center">:x:</td></tr>
     <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td><td align="center">:heavy_check_mark:</td></tr>
     <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a></td><td align="center">:heavy_check_mark:</td></tr>
-    <tr><td align="center">11</td><td align="left"><a href="#P11">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a></td><td align="center">:heavy_check_mark:</td></tr>
-    <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td><td align="center">:clock9:</td></tr>
-  </tbody>
+    <tr><td align="center">11</td><td align="left"><a href="#P11">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a></td><td align="center"><a href="https://github.com/p18mili1/sw/commit/a1da9c844dfcd42e3e77b87ceb6809ca5d5a35cb#diff-a26b0da4b5d4fdade58dcf5b4e5d394104c49e882a2d7c9a6b31837db8eb0143">:heavy_check_mark:</a></td></tr>
+    <tr><td align="center">12</td><td align="left"><a href="#P12">Συμπεράσματα</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">:heavy_minus_sign:</td><td align="left"><a href="#P13">Απαντήσεις βίντεο κουίζ</a></td><td align="center">:heavy_minus_sign:</td></tr>
+</tbody>
 </table>
 
 
