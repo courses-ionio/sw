@@ -269,14 +269,11 @@ Link για μελέτη περίπτωσης στο site: https://p15kabl.netli
 [Telegram Review](https://www.pcmag.com/reviews/telegram)
 
 # B2
-## Βιογραφία: iOS
+## Βιογραφία: Pavel Durov
 
-Link για το αποθετήριο αρχείου βιογραφίας:
+Link για το αποθετήριο αρχείου βιογραφίας: https://github.com/apostoloskp/site/blob/2015121/_biography/pavel-durov.md
 
-Link για τo χρονολόγιο στο site:
-(*Δεν εμφανίζεται το περιεχόμενό μου στο διάγραμμα παρόλο που ο σύνδεσμος και το repository είναι σωστά*)
-
-Link για το αποθετήριο χρονολογίου:
+Link για τη βιογραφία στο site:
 
 # Πηγές:
 
