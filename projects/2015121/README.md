@@ -45,6 +45,8 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 
 ###### [2]
 
+## Βιογραφικό: Ιστοσελίδα με χρήση Jekyll:
+
 Online Βιογραφικό/Bio: https://apostoloskp.github.io/online-cv/
 
 Το repository του βιογραφικού μου: https://github.com/apostoloskp/online-cv
@@ -62,6 +64,8 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 ![bio](https://github.com/apostoloskp/sw-images/blob/main/bio.png)
 
 ###### [3]
+
+## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης:
 
 ## Διαδικασία:
 Ως objective για το Παραδοτέο 3, επέλεξα την προσθήκη της ανακοίνωσης "Μνημόνιο Συνεργασίας της Αγροδιατροφικής Σύμπραξης
