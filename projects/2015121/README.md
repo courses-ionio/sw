@@ -30,7 +30,7 @@ e9dLShIFb6ZpdswrvuW53YCp95Q2</h4>
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 και Α2 </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
 | 7 | <sup><a href="#7"> βιογραφικό: Αρχείο PDF με χρήση pandoc/latex </a></sup> |
-| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
+| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη νέου Topic </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
 | 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο: Β1 και Β2 </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
@@ -208,7 +208,13 @@ install texlive-latex-base```, ```sudo apt-get install texlive-fonts-recommended
 
 ###### [8]
 
-## Αίτημα ενσωμάτωσης στην ιστοσελίδα
+## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη νέου Topic
+
+Link για το site: 
+
+Link για το repository: 
+
+## Διαδικασία:
 
 ###### [9]
 
@@ -290,7 +296,7 @@ Link με το asciinema για δημιουργία σελίδας με hugo: h
 
 7)`βιογραφικό: Αρχείο PDF με χρήση pandoc/latex`
 
-8)`Αίτημα ενσωμάτωσης στην ιστοσελίδα`
+8)`Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη νέου Topic`
 
 9)`Άσκηση γραμμής εντολών: performance monitoring`
 
