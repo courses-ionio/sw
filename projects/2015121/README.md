@@ -273,11 +273,13 @@ Link για μελέτη περίπτωσης στο site: https://p15kabl.netli
 
 Link για το αποθετήριο αρχείου βιογραφίας: https://github.com/apostoloskp/site/blob/2015121/_biography/pavel-durov.md
 
+Link για το αποθετήριο αρχείου σύντομης βιογραφίας: https://github.com/apostoloskp/site/blob/2015121/_biography/bio-durov.md
+
 Link για τη βιογραφία στο site:
 
 # Πηγές:
 
-[Πηγή 2]()
+[Wikipedia](https://en.wikipedia.org/wiki/Pavel_Durov)
  
 ###### [11]
 
