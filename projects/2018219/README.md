@@ -3,29 +3,30 @@
 ### ΑΜ: Π2018219
 ### [Προφίλ στο github](https://github.com/p18mili1 'Προφίλ στο github')
 &nbsp;&nbsp;&nbsp;
+## ΣΥΝΟΨΗ
 <table>
   <tbody>
     <tr><td align="center"><h3><a name="P">Εβδομάδα</a></h3></td><td align="center"><h3>Παραδοτέο</h3></td><td align="center"><h3>Commit</h3</td></tr>
     <tr><td align="center">1</td>
-      <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td><td align="center">*[x]</td></tr>
-    <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td></tr>
-    <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td></tr>
-    <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration για το βιογραφικό στο  gh-pages</a></td></tr>
-    <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td></tr>
-    <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td></tr>
-    <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td></tr>
-    <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td></tr>
-    <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td></tr>
-    <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a></td></tr>
-    <tr><td align="center">11</td><td align="left"><a href="#P11">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a></td></tr>
-    <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td></tr>
+      <td align="left"><a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">2</td><td align="left"><a href="#P2">Βιογραφικό</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">3</td><td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">4</td><td align="left"><a href="#P4">1η άσκηση γραμμής εντολών - Set-up continuous integration για το βιογραφικό στο  gh-pages</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">5</td><td align="left"><a href="#P5">Συμμετοχικό Περιεχόμενο - Παραδοτέα Α1 και Α2</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">6</td><td align="left"><a href="#P6">2η άσκηση γραμμής εντολών - Send notifications to your desktop-mobile</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">7</td><td align="left"><a href="#P7">Βιογραφικό - CI και αυτοματοποιημένη δημιουργία σε pdf</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">8</td><td align="left"><a href="#P8">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></td><td align="center">:x:</td></tr>
+    <tr><td align="center">9</td><td align="left"><a href="#P9">3η άσκηση γραμμής εντολών - Create notifications on your sever</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">10</td><td align="left"><a href="#P10">Συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">11</td><td align="left"><a href="#P11">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a></td><td align="center">:heavy_check_mark:</td></tr>
+    <tr><td align="center">12</td><td align="left"><a href="#P12">Τελική αναφορά</a></td><td align="center">:clock9:</td></tr>
   </tbody>
 </table>
 
 
 &nbsp;&nbsp;
 ## <a name="P1">Παραδοτέο 1</a>
-### <a href="#P">Εισαγωγή</a>
+## <a href="#P">Εισαγωγή</a>
 Η τεχνολογία λογισμικού σκοπό έχει την ανάπτυξη προγραμμάτων ως αυτόνομες οντότητες ή ως τμήματα μίας συνεργατικής διαδικασίας. Στόχος μου είναι να μάθω να χρησιμοποιώ εργαλεία για την ανάπτυξη εφαρμογών και να μάθω να οργανώνω τον τρόπο εργασίας μου σύμφωνα και με τις τεχνολογικές εξελίξεις και απαιτήσεις είτε δουλεύοντας κατά μόνας είτε ομαδικά.
 
 
