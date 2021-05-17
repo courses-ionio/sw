@@ -86,7 +86,7 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 
 **Αποτελέσματα:**
 
-![bio]()
+![bio](https://github.com/apostoloskp/sw-images/blob/main/bio.png)
 
 ## Απαντήσεις στις ερωτήσεις του 2ου quiz:
 
