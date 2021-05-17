@@ -205,6 +205,16 @@
 &nbsp;&nbsp;
 ## <a name="P11">Παραδοτέο 11</a>
 ## <a href="#P">4η άσκηση γραμμής εντολών - Performance monitoring with hyperfine and py-spy</a>
+- Αρχικά εγκατέστησα τις εφαρμογές `hyperfine` και `py-spy`.
+- Στη συνέχεια έγραψα δύο python scripts, τα _sketch.py_ και _watercolor.py_, τα οποία εφαρμόζουν κάποια εφέ σε φωτογραφίες ή εικόνες. Συγκεκριμένα, το sketch.py δίνει την αίσθηση σκίτσου στην αρχική εικόνα και δημιουργεί δυο νέα αρχεία, ένα έγχρωμο και ένα ασπρόμαυρο, ενώ το watercolor.py δίνει την αίσθηση της ακουαρέλας στην αρχική εικόνα. Και τα δυο αυτά scripts δέχονται ως όρισμα το όνομα του αρχείου εικόνας.
+- Οι εικόνες που χρησιμοποιήθηκαν είναι οι daisy.png και face.jpg.
+- Για την εκτέλεση των hyperfine και py-spy χρησιμοποιήθηκαν οι default παράμετροι.
+- Κατά την εκτέλεση του hyperfine γίνεται εξαγωγή των αποτελεσμάτων σε αρχεία json και md.
+- Κατά την εκτέλεση του py-spy γίνεται εξαγωγή των αποτελεσμάτων σε αρχεία svg που περιέχουν flame graphs.
+- <a href="https://asciinema.org/a/414468">Σύνδεσμος καταγραφής Asciinema</a>
+![Screenshot](https://github.com/p18mili1/Image_Processing_Lab/blob/main/images/Screenshot.png)
+
+
 &nbsp;&nbsp;
 ## <a name="P12">Παραδοτέο 12</a>
 ## <a href="#P">Τελική αναφορά</a>
