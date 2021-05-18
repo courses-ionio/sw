@@ -210,11 +210,18 @@ install texlive-latex-base```, ```sudo apt-get install texlive-fonts-recommended
 
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη νέου Topic
 
-Link για το site: 
-
-Link για το repository: 
-
 ## Διαδικασία:
+Ως objective για το Παραδοτέο 8, επέλεξα την προσθήκη του μαθήματος " " του Η' εξαμήνου στο επίσημο site του τμήματος.
+Αφού έλαβα **green light** στο issue, δημιούργησα το κατάλληλο αρχείο **.md** και στη συνέχεια
+προχώρησα σε **pull request** αυτού. Το pull request έγινε επιτυχώς δεκτό.
+
+**Προσωπικό αποθετήριο αιτήματος**:
+
+**Link συνεισφοράς στο Netlify**:
+
+**Link του issue**: https://github.com/ioniodi/sitegr/issues/215
+
+**Link του pull request**:
 
 ###### [9]
 
