@@ -143,7 +143,6 @@ Link για τις διαφάνιες στο site: https://p15kabl.netlify.app/s
 Link για το αποθετήριο διαφανιών: https://github.com/apostoloskp/site/blob/2015121/_slides/iui.md
 
 Link για τo χρονολόγιο στο site: https://p15kabl.netlify.app/timeline/mobile/
-(Δεν εμφανίζεται το περιεχόμενό μου στο διάγραμμα παρόλο που ο σύνδεσμος και το repository είναι σωστά)
 
 Link για το αποθετήριο χρονολογίου: https://github.com/apostoloskp/site/blob/2015121/_timeline/mobile.md
 
