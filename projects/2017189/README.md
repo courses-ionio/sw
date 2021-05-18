@@ -112,7 +112,7 @@ Tο build στο Travis CI για το συγκεκριμένο commit που έ
 
 [![asciicast](https://asciinema.org/a/xn7UL5piUp726t80DTilpcafp.png)](https://asciinema.org/a/xn7UL5piUp726t80DTilpcafp)
 
-![](https://github.com/p17kots/sw/tree/2017189/projects/2017189/images/call.jpg)
+![](./images/call.jpg)
 
 ### <a name="P-4">Συμμετοχικό περιεχόμενο</a>
 
