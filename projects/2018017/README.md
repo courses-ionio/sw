@@ -17,7 +17,7 @@
 | 9th | Command-line exercise |
 | 10th | [Participatory content](#Participatory-Content) |
 | 11th | [Command-line exercise](#Command-line-exercises) |
-| 12th | Final report |
+| 12th | [Conclusion](#Conclusion) |
 
 ### Introduction
 Software engineering should be at the forefront of everything that involves computer science concepts for the development and maintenance of dependable software. It is self evident that software development is a very intricate process, especially so in real-world applications that are large and complicated. Thus, in order to produce reliable, efficient and scalable software, the understanding of software engineering concepts and principles **_is required in parallel_** with software development. There is a wide range of fields included in SE, such as lifecycle models, software requirements, validation and verification, development environments, quality assurance design and project management among others.
