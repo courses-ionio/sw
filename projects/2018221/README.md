@@ -1,3 +1,4 @@
+
 # ΜΑΘΗΜΑ: ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 ### Αριθμός Μητρώου: Π2018221
 ### Ονοματεπώνυμο: Μυρώνης Ιωάννης
@@ -34,7 +35,7 @@
 Δημιουργία βιοργαφικού σημειώματος. Έκανα τις κατάλληλες αλλαγές στα αρχεία config.yml, assets/images, _sass/_base.scss και εισήγαγα τα στοιχεία μου στο _data/data.yml
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
-
+![cv](https://user-images.githubusercontent.com/56086094/118682847-7b6eaf80-b809-11eb-984e-699fae988ff1.png)
 ---
 ### <a name="Παραδοτέο 3">Παραδοτέο 3</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα  
@@ -195,7 +196,8 @@
 #### Συμπεράσματα
 Μέσω  των γραφημάτων που παράγει  το pyflame  αναπαριστάται με γραφικό τρόπο (σε ποσοστό επί τοις εκατό) η χρήση της cpu από κάθε εντολή του script. Ακολουθούν τα flames  που πήραμε κάνοντας εισαγωγή το json αρχείο  στο  https://www.speedscope.app/ και ακολούθως η καταγραφή σε αρχείο τύπου .svg 
 
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/speedscope.png)
+![speedscope](https://user-images.githubusercontent.com/56086094/118682179-dfdd3f00-b808-11eb-9296-54a30bf6ce4d.png)
+
 ![Screenshot](https://github.com/p18myro/sw_images/blob/main/pixelfile.svg)
 
 ---
