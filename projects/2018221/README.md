@@ -4,6 +4,7 @@
 ### Ονοματεπώνυμο: Μυρώνης Ιωάννης
 ### [Προφίλ στο github](https://github.com/p18myro 'Προφίλ στο github')
 
+
 | Εβδομάδα* | Παραδοτέο | Ολοκληρωμένα |
 | --- | --- | --- |
 | 1 |<a href="#Παραδοτέο 1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.</a> |  &#10004;&#65039; |
@@ -18,7 +19,7 @@
 | 10 | <a href="#Παραδοτέο 10"> Συμμετοχικό περιεχόμενο </a> | &#10004;&#65039; |
 | 11 | <a href="#Παραδοτέο 11"> Άσκηση γραμμής εντολών </a>| &#10004;&#65039; |
 | 12 | <a href="#Παραδοτέο 12"> Τελική αναφορά*  </a>| &#10004;&#65039; |
-| 13 | <a href="#Εβδομαδιαία Quiz"> Απαντήσεις εβδομαδιαία quiz  </a>| &#10004;&#65039; |
+| 13 | <a href="#Εβδομαδιαία Quiz"> Απαντήσεις εβδομαδιαία quiz  </a>|  |
 ## ΕΙΣΑΓΩΓΗ
 
 Σκοπός του μαθήματος τεχνολογία λογισμικού είναι η ενασχόληση με τις βασικές αρχές του μαθήματος μέσω ατομικών αλλά και συνεργατικών ασκήσεων. Μέσω των διαφόρων ειδών ασκήσεων, θα εκπαιδευτούμαι στην χρήση εργαλείων που αφορούν την ανάπτυξη εφαρμογών ακολουθώντας τις τεχνολογικές εξελίξεις.
@@ -53,7 +54,7 @@
 
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/398838)
 
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_1.png)
+![ΕΡΓΑΣΙΑ_1](https://user-images.githubusercontent.com/56086094/118724220-00bc8900-b837-11eb-9331-fb45e07ce668.png)
 
 ---
 ### <a name="Παραδοτέο 5">Παραδοτέο 5</a>
@@ -62,7 +63,8 @@
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/400966)
 
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C1.png)
+![Συμμετοχικό1](https://user-images.githubusercontent.com/56086094/118724775-b091f680-b837-11eb-839e-7b034649050d.png)
+
 #### Σχετικά links
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app)
 #### [Αρχείο simcity_Video  _gallery](https://github.com/p18myro/_gallery/blob/200ab4101d51ce4005f8c8b0146016d77e286391/simcity-videogame.md)
@@ -87,13 +89,15 @@
 
 #### [Σύνδεσμος asciinema παραδοτέο 6 ](https://asciinema.org/a/403530)
 
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/ntfy.png)
+![ntfy](https://user-images.githubusercontent.com/56086094/118724916-ea62fd00-b837-11eb-82c5-f25ed6f90328.png)
+
 
 #### Screenshot application telegram
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/telegram1.png)
+![telegram1](https://user-images.githubusercontent.com/56086094/118724994-049cdb00-b838-11eb-916e-95bea128f3ed.png)
+
 
 #### Screenshot ntfy Desktop
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/desktop_ntfy.png)
+![desktop_ntfy](https://user-images.githubusercontent.com/56086094/118725046-14b4ba80-b838-11eb-9986-b3cb3968e329.png)
 
 ---
 ### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
@@ -103,7 +107,8 @@
 * [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργησα  δυο  αρχεία το pre-commit και το post-commit μέσα στο .git/hooks
 
 #### [Σύνδεσμος asciinema ](https://asciinema.org/a/405448)
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/cv_part2.png) 
+![cv_part2](https://user-images.githubusercontent.com/56086094/118725252-5ba2b000-b838-11eb-8665-3183f36e6582.png)
+
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 ---
@@ -124,7 +129,8 @@
 
 Στο πλαίσιο της παρουσίασης δημιούργησα βίντεο στο [youtube  mqttwarn](https://youtu.be/VC6Tn2kYndo ) στο οποίο παρουσιάζω την αποστολή μηνύματος στο mqttwarn  καθώς και στο κανάλι μου στο slack. Σε κάθε κανάλι στο slack μπορείς να προσθέσεις συμμετέχοντες και το μήνυμα να διαμοιράζεται σε όλους.
 
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/slack.png)
+![slack](https://user-images.githubusercontent.com/56086094/118725310-72e19d80-b838-11eb-9045-da7ea851ad3a.png)
+
 
 #### [Σύνδεσμος asciinema παραδοτέο 9 part I ](https://asciinema.org/a/409678)
 #### [Σύνδεσμος asciinema παραδοτέο 9 part II ](https://asciinema.org/a/413874)
@@ -179,7 +185,8 @@
 * [x] Εκτέλεση συγκριτικής αξιολόγησης(benchmarking) με χρήση της παραμέτρου ι για απόκρυψη τυχόν σφαμλάτων
 
 #### [Σύνδεσμος asciinema hyperfine ](https://asciinema.org/a/414253)
-![Screenshot](https://github.com/p18myro/sw_images/blob/main/hyperfine.png)
+![hyperfine](https://user-images.githubusercontent.com/56086094/118725508-b50adf00-b838-11eb-972d-eb70f3bcab9c.png)
+
 
 #### Συμπεράσματα
 Μέσω του hyperfine, μπορούμε να δούμε τον μέσο όρο εκτέλεσης ενός προγράμματος καθώς και άλλα ενδιαφέροντα στατιστικά, όπως ο συνολικός αριθμός εκτελέσεων, ο χρόνος που καταναλώνει η εφαρμογή για τον χρήστη και το σύστημα καθώς και το εύρος τιμών των εκτελέσεων.  Ακόμη, το hyperfine δίνει στον χρήστη  την δυνατότητα εξαγωγής των δεδομένων σε αρχείο μορφής markdown, csv, json και asciidoc. Όπως ήταν αναμενόμενο όταν έγινε τροποποίηση του  αρχείου ώστε να βρίσκει τους πρώτους αριθμούς από το 1 έως το 10000  η μέση τιμή  εκτελέσεων από 102.1 ms πήγε στα 1.918 s.
