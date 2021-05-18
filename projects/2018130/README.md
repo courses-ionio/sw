@@ -17,7 +17,7 @@
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Όγδοη-εβδομάδα) |
 | 9 | [Άσκηση γραμμής εντολών](#Ένατη-εβδομάδα) |
 | 10 | [Συμμετοχικό περιεχόμενο](#Δέκατη-εβδομάδα) |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | [Άσκηση γραμμής εντολών](#Ενδέκατη-εβδομάδα) |
 | 12 | Τελική αναφορά |
 
 # Εισαγωγή
@@ -158,6 +158,15 @@ Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.
 Αρχικά πρόσθεσα το case study για τα [debian linux](https://github.com/sophia-ts/site/blob/master/_case-study/debian.md). Έπειτα, πέρασα το νέο submodule [extras](https://github.com/sophia-ts/extras) και πέρασα το αρχείο με τις πληροφορίες [cs-debian.md](https://github.com/sophia-ts/extras/blob/master/cs-debian.md). Έπειτα, έφτιαξα τρία νέα md αρχεία στο  `_gallery` για να υπάρχει περιεχόμενο στο case study μου [debian-buzz.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-buzz.md), [debian-etch.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-etch.md), [debian-jessie.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-jessie.md). 
 
 
+## Ενδέκατη εβδομάδα
+
+create a cli app for your favorite site
+
+Repository: [di-news-cli](https://github.com/sophia-ts/di-news-cli/)
+
+asciinema link: https://asciinema.org/a/414865
+
+[![asciicast](https://asciinema.org/a/414865.svg)](https://asciinema.org/a/414865)
 
 
 # Απαντήσεις εβδομαδιαίου quiz
