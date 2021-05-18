@@ -45,7 +45,7 @@
    - Πήρα Green Light και έκανα φορκ το [site](https://github.com/ioniodi)
    - Έκανα τις απαραίτητες αλλαγές και τις δοκίμασα στο [netlify](https://6044e72f4a6cbb00086319e0--pedantic-snyder-55ad29.netlify.app/)
    - Έστειλα το [Pull Request](https://github.com/ioniodi/sitegr/pull/126)
-   - Έγινε αποδεκτό και merge!
+   - Έγινε αποδεκτό και merge ([οι αλλαγές](https://epic-hamilton-da9ac8.netlify.app/courses/applied-programming-python/))
    
 # 1η άσκηση γραμμής εντολών
   Ως 1η άσκηση επέλεξα να κάνω το programmable voice. Για να το κάνω αυτό διάβασα τα docs του Twilio και έγραψα ένα script το οποίο φαίνεται στο asciinema παρακάτω. Επίσης, έπρεπε να κάνω install την βιβλιοθήκη του Twilio για python, `pip install twilio`. 
@@ -102,6 +102,17 @@ except:
 # 3η άσκηση γραμμής εντολών
   Ως 3η άσκηση γραμμής εντολών αποφάσισα να κάνω την "performance monitoring". Δοκίμασα και τα δυο εργαλεία, py-spy και hyperfine, και μπορώ να πω πως το hyperfine μου άρεσε περισσότερο εφόσον ήταν εύκολο στην χρήση του και πιο "straitforward". Σε αυτό το [λινκ](https://asciinema.org/a/ML0tW93N7Sqpz9rOonRFXtdhm) μπορείτε να δείτε την καταγραφή της χρήσης του σε asciinema στην οποία υλοποίησα 3 αλγόριθμους ταξινόμησης και τους έβαλα να ταξινομήσουν αλφαβητικά ένα αρχείο csv το οποίο αποτελείτε από 1000 τυχαία ονόματα, παραγόμενα από το [Mockaroo](https://www.mockaroo.com/). Σε αυτό το [λινκ](https://asciinema.org/a/410734) βλέπουμε την χρήση του py-spy το οποίο παράγει ένα αρχείο svg:
   <img src="https://i.ibb.co/9ZjTKY8/merge.jpg" alt="merge" border="0">
+  
+# Συμμετοχικό Περιεχόμενο 2ο
+   - Έκανα φορκ το [pibook/extras](https://github.com/Haki-Malai/extras)
+   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [bio-terry-a-davis.md](https://github.com/Haki-Malai/extras/blob/master/bio-terry-a-davis.md) και το [lazy-script-case-study.md](https://github.com/Haki-Malai/extras/blob/master/lazy-script-case-study.md)
+   - Πρόσθεσα το [_biography/terry-a-davis.md](https://github.com/Haki-Malai/site/blob/master/_biography/terry-a-davis.md) και το [_case-study/lazy_script.md](https://github.com/Haki-Malai/site/blob/master/_case-study/lazy-script.md)
+   - Στο [fork](https://github.com/Haki-Malai/_gallery) του _gallery πρόσθεσα το [terry-a-davis.md](https://github.com/Haki-Malai/_gallery/blob/master/terry-a-davis.md)
+   - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
+   - Πρόσθεσα μια [φωτογραφία](https://github.com/Haki-Malai/images/blob/master/terry-a-davis.png) για τον Terry και ένα [thumpnail](https://github.com/Haki-Malai/images/blob/master/terry-a-davis-thumb.png)
+   - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
+   - Δεν είδα τις αλλαγές μου :(
   
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
