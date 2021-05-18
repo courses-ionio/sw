@@ -61,7 +61,9 @@
 #### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/5ff374f80f7952d5d66dcc25521b8b3320d3ec17#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ## 1ο συμμετοχικό περιεχόμενο</a>
 
-Έκανα fork τα repository site, images, _gallery. Έκανα εισαγωγή των φωτογραφιών και thumb και δημιούργησα τα md αρχεία. Από το τερματικό, έκανα clone το site, συνέδεσα τα submodule και έκανα push τις αλλαγές στο cyclenikolaos/site.
+* [x] Έκανα fork τα repository site, images, _gallery
+* [x] Έκανα εισαγωγή των φωτογραφιών και thumb και δημιούργησα τα md αρχεία
+* [x] Από το τερματικό, έκανα clone το site, συνέδεσα τα submodule και έκανα push τις αλλαγές στο cyclenikolaos/site
 
 ### [Αποθετήριο _gallery](https://github.com/cyclenikolaos/_gallery)
 ### [Αρχείο fortran.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/fortran.md)
@@ -88,40 +90,39 @@
 * [x] Εγκατέστησα το weasyprint με την εντολή pip3 install weasyprint
 * [x] Δημιούργησα το φάκελο pdf στο σκληρό μου δίσκο για να αποθηκεύεται το βιογραφικό μου σε μορφή pdf
 * [x] Δημιούργησα μέσα στο φάκελο .git/hooks το αρχείο post-commit ώστε να τρέχει την εντολή weasyprint με κάθε commit
+
 ### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
 
 ## <a name="Παραδοτέο 8">Παραδοτέο 8</a>
-#### [Commit - Αίτημα ενσωμάτωσης](https://github.com/cyclenikolaos/sw/commit/403950ca6b5821a9c6fd73ea6a9897afb25def31#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
-Έχω ανεβάσει το [issue #205](https://github.com/ioniodi/sitegr/issues/205) ώστε να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα. Θα τροποποιήσω το _config.yml του sitegr αποθετηρίου προκειμένου να παίρνει το remote theme από το δικό μου αποθετήριο minimal-ionio. Θα τροποποιήσω το _config.yml του minimal-ionio. Επίσης, θα τροποποιήσω το masterhead.html στο minimal-ionio.
+Ανέβασα το [issue #205](https://github.com/ioniodi/sitegr/issues/205) για να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα αλλά δεν πήρε ποτέ το green light για υλοποίηση.
 
 ## <a name="Παραδοτέο 9">Παραδοτέο 9</a>
 #### [Commit - 3η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ## 3η άσκηση γραμμής εντολών - Δημιουργία ειδοποιήσεων στο server μου</a>
 
-Πραγματοποίησα:
-* [x] Δημιουργία λογαριασμού, workspace και channel στο [Slack](https://app.slack.com/client/T020AJNNFQR/C020AJR2B25/user_profile/U01V8TPAW9K)
-* [x] Εγκατάσταση του mosquitto
-* [x] Εγκατάσταση του mosquitto-client
-* [x] Εγκατάσταση του mqttwarn
-* [x] Τροποποίηση του αρχείου mqttwarn.ini
+* [x] Δημιούργησα λογαριασμό, workspace και channel στο [Slack](https://app.slack.com/client/T020AJNNFQR/C020AJR2B25/user_profile/U01V8TPAW9K)
+* [x] Εγκατέστησα το mosquitto
+* [x] Εγκατέστησα το mosquitto-client
+* [x] Εγκατέστησα το mqttwarn
+* [x] Τροποποίησα το αρχείο mqttwarn.ini ώστε ????????????????????????????????????????????????????????????????????????????????????
 
 ![slack2](https://user-images.githubusercontent.com/56065092/118618201-0c269a80-b7cc-11eb-8852-b908ce53999c.png)
 
 Ανέβασα στο [asciinema](https://asciinema.org/a/409789) video για τη λειτουργία του mqttwarn και τη λήψη του notification
 
+![PARADOTEO_9](https://user-images.githubusercontent.com/56065092/118656478-3a6ba080-b7f3-11eb-8393-f64499c4d146.png)
+
 ## <a name="Παραδοτέο 10">Παραδοτέο 10</a>
 #### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 2ο συμμετοχικό περιεχόμενο - Παραδοτέο Β1 και Β2</a>
+## 2ο συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
 
-Για αυτό το παραδοτέο:
 * [x] Έκανα fork το repository pibook/extras
-* [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό στο δικό μου repository images (δημιουργός της FORTRAN από το 1ο συμμετοχικό περιεχόμενο)
 * [x] Έκανα ενημέρωση του submodules images
-* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο δικό μου repository cyclenikolaos/site/_biography
 * [x] Πρόσθεσα το αρχείο [multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md) στο δικό μου repository cyclenikolaos/site/_case-study
-* [x] Πρόσθεσα τις φωτογραφίες [backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png) και [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/multitouch.jpg) καθώς και τα αντίστοιχα thumb, στο δικό μου repository cyclenikolaos/images
+* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο δικό μου repository cyclenikolaos/site/_biography
+* [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό [backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png) και [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/multitouch.jpg) καθώς και τα αντίστοιχα thumb, στο δικό μου repository cyclenikolaos/images
 * [x] Έκανα push τις αλλαγές στο terminal
 
 #### Οι πηγές μου:
