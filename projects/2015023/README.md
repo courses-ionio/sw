@@ -91,11 +91,11 @@ pip3 install ntfy[telegram]
 ```bash
 ntfy send "Hello World!"
 ```
-![](https://github.com/ntouloumtzis/sw-images-repository/blob/main/ntfy-images/desktop-hello-world.png)
+![desktop-hello-world](https://user-images.githubusercontent.com/36480343/118627035-0af96b80-b7d4-11eb-9828-b72b2ba47d4d.png)
 ```bash
 ntfy -b telegram send "Hello World!"
 ```
-<img src="https://github.com/ntouloumtzis/sw-images-repository/blob/main/ntfy-images/telegram-hello-world.png" alt="telegram-hello-world" height="700"/>
+![telegram-hello-world](https://user-images.githubusercontent.com/36480343/118627199-30867500-b7d4-11eb-876f-8763802b79cf.png)
 
 ### Ειδοποιήσεις όταν έχει τελειώσει κάποιο μεγάλο task
 Αρχικά, δημιούργησα ενα updates.sh αρχείο, ώστε να μπορώ να προσθέσω αντίστοιχες εντολές για updates και να αυτοματοποιήσω την διαδικασία με μια εντολή. Τελειώνοντας τα updates θα στέλνει ένα επιπλέον notification στο Telegram. 
@@ -116,7 +116,7 @@ chmod +x updates.sh
 ./updates.sh
 ```
 - Τo link για το asciinema για την εκτέλεση του .sh αρχείου: **[asciinema](https://asciinema.org/a/398698)**
-- To screenshot για το task notification: **[telegram](https://github.com/ntouloumtzis/sw-images-repository/blob/main/ntfy-images/telegram-notification.png)**
+- To screenshot για το task notification: **[telegram-notification](https://user-images.githubusercontent.com/36480343/118627763-a985cc80-b7d4-11eb-8f01-2e2b43da8a24.png)**
 
 ## <a name="P-6"></a>*2<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 6η):*
 >*Η δεύτερη άσκηση γραμμής εντολών επιλέχθηκε από τα θέματα του **[software](https://github.com/epidrome/dokey#software)***
@@ -249,7 +249,7 @@ HTTP Error 400: Bad Request
 
 - To 1o τερματικό, με όλα τα αναλυτικά στάδια που ακολούθησα: **[asciinema](https://asciinema.org/a/407274)**
 - Το 2ο τερματικό, για τη παρακολούθηση του logging: **[asciinema](https://asciinema.org/a/407275)**
-- Τα μηνύματα που στάλθηκαν στο Slack: **[mqttwarn-messages](https://github.com/ntouloumtzis/sw-images-repository/blob/main/mqttwarn-results.png)**
+- Τα μηνύματα που στάλθηκαν στο Slack: **[mqttwarn-messages](https://user-images.githubusercontent.com/36480343/118629015-d9819f80-b7d5-11eb-878d-ff01fde999c8.png)**
 
 ## <a name="P-11"></a>*4<sup>ο</sup> Παραδοτέο Άσκησης Γραμμής Εντολών, (Εβδομάδα 11η):*
 >*Η τέταρτη άσκηση γραμμής εντολών επιλέχθηκε από τα θέματα του **[software](https://github.com/epidrome/dokey#software)***
@@ -267,8 +267,8 @@ brew install hugo
 Παρακάτω βρίσκεται ο σύνδεσμος για το asciinema, καθώς και τα απαραίτητα screenshots. 
 
 - **[asciinema](https://asciinema.org/a/414536 )**
-- **[Hugo Blog Site](https://github.com/ntouloumtzis/sw-images-repository/blob/main/hugo-site.png)**
-- **[A Sample Blog Post](https://github.com/ntouloumtzis/sw-images-repository/blob/main/hugo-post.png)**
+- **[Hugo Blog Site](https://user-images.githubusercontent.com/36480343/118629187-059d2080-b7d6-11eb-96cf-a9f1bacd55b9.png)**
+- **[A Sample Blog Post](https://user-images.githubusercontent.com/36480343/118629223-0df55b80-b7d6-11eb-9b7d-da892e2a88fe.png)**
 
 ---
 # *Συμμετοχικό Περιεχόμενο*
@@ -311,21 +311,23 @@ brew install hugo
 ---
 # *Συμπεράσματα*
 
+Ολοκληρώνοντας, πλέον, την τελική εργασία, μπορώ να πω, πως είμαι αρκετά ευχαριστημένος με τα αποτελέσματα των παραδοτέων. Αφενός, χρειάζονται αρκετές βελτιώσεις και υπήρξαν αρκετές δυσκολίες για να υλοποιηθούν, αφετέρου οι προσωπικοί μου στόχοι εκπληρώθηκαν. Από το στάδιο που φοβόμουν το τερματικό, πλέον, έχει γίνει κομμάτι της ρουτίνας μου. Όμως, το κομμάτι που αξίζει να αναφερθεί περισσότερο είναι τα βίντεο quiz που λαμβάνουμε γνώση από σπουδαίους επιστήμονες του κλάδου. Συνδυάζοντας λίγο απ'όλα, όπως φιλοσοφία και τεχνικά ζητήματα τεχνολογίας λογισμικού, σε βοηθάνε να αναλογιστείς ή και να αμφισβητείς πράγματα που θεωρούσες δεδομένα. Έτσι, μπορεί να μην ολοκλήρωσα επιτυχώς το κάθε παραδοτέο, αλλά μακροπρόθεσμα γνωρίζω πως θα κινηθώ και πως θα πρέπει να αναγνωρίζω την κάθε τεχνολογία ή ακόμη καλύτερα πως να μην επαναπαύομαι.
 
-
+---
 # *Βιβλιογραφία*
-change bash prompt:
-https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-
-linux-or-unix/
 
-βιογραφικο:
-https://jekyllrb.com/docs/step-by-step/01-setup/
+- **[How to change bash shell prompt](https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/)**
+- **[Jekyll Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)**
+- **[Git Hooks Tutorial](https://www.atlassian.com/git/tutorials/git-hooks)**
+- **[Ntfy Documentation](https://github.com/dschep/ntfy)**
+- **[Shell Scripting Tutorial](https://www.guru99.com/introduction-to-shell-scripting.html)**
+- **[Hyperfine Documentation](https://github.com/sharkdp/hyperfine)**
+- **[Py-spy Documentation](https://github.com/benfred/py-spy)**
+- **[Αποθετήριο Εργαστηρίου](https://github.com/courses-ionio/sw-lab)**
+- **[Brew Installation](https://brew.sh/)**
+- **[Hugo Documentation](https://gohugo.io/getting-started/quick-start/)**
+- **[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
+- **[Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)**
 
-paradoteo 11:
-https://brew.sh/
-https://gohugo.io/getting-started/quick-start/
-
-https://www.markdownguide.org/cheat-sheet/
-https://www.markdownguide.org/extended-syntax/    
-
-[go to the top](#Πίνακας-Περιεχομένων)
+---
+[HEAD TO TOP :arrow_up:](#Πίνακας-Περιεχομένων)
