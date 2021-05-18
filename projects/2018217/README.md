@@ -212,9 +212,9 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### Συμπεράσματα
 Μέσω των γραφημάτων του pyflame αναπαριστάται με γραφικό τρόπο (σε ποσοστό επί τοις εκατό) η χρήση της cpu από κάθε εντολή του script. Ακολουθούν τα flames που πήραμε κάνοντας εισαγωγή το json αρχείο στο https://www.speedscope.app/ και ακολούθως η καταγραφή σε αρχείο τύπου .svg 
 
-Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
+Λειτουργία φίλτρου εικόνας | Screenshot Systemlog 1 | καταγραφή σε αρχείο τύπου .svg
 --- | --- | ---
-![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegramold.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog2.jpg)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/py-spy.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/json.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/svg.jpg)
 
 
 #### [12]
