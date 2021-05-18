@@ -25,7 +25,7 @@
     <tr>
       <td align="center">3</td>
       <td align="left"><a href="#P3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a></td>
-      <td align="center"><a href="https://github.com/p18mili1/sw/commit/2237db91c83bf4e01f53e46b61ba587cb95c2cf4#diff-a26b0da4b5d4fdade58dcf5b4e5d394104c49e882a2d7c9a6b31837db8eb0143"><a href="">:heavy_check_mark:</a></td>
+      <td align="center"><a href="https://github.com/p18mili1/sw/commit/2237db91c83bf4e01f53e46b61ba587cb95c2cf4#diff-a26b0da4b5d4fdade58dcf5b4e5d394104c49e882a2d7c9a6b31837db8eb0143">:heavy_check_mark:</a></td>
     </tr>
     <tr>
       <td align="center">4</td>
@@ -176,6 +176,8 @@
   - Η παρακάτω εικόνα απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων `ntfy.yml` ενώ οι δυο επόμενες είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
   - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, έτσι ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
 
+![image01](https://user-images.githubusercontent.com/56065057/118606306-ea271b00-b7bf-11eb-93c7-fc0c47c490c5.png)
+
 ![image](https://user-images.githubusercontent.com/56065057/118556073-1b75fb80-b76c-11eb-8035-5a19012d10a4.png)
 
 
@@ -304,3 +306,4 @@
 
 &nbsp;
 
+## <a name="P13" href="#P">Απαντήσεις βίντεο κουίζ</a>
