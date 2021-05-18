@@ -255,7 +255,7 @@ hyperfine')**. Προχώρησα στις εντολές ```cat main.py``` κα
 Link για το αποθετήριο αρχείου μελέτης: https://github.com/apostoloskp/site/blob/2015121/_case-study/telegram.md
 
 Link για μελέτη περίπτωσης στο site: https://p15kabl.netlify.app/case-study/telegram
-(Δεν εμφανίζεται το post κανονικά σε αντίθεση με αναζήτηση στη ενότητα **Μελέτη Περίπτωσης**, όπως φαίνεται στην εικόνα)
+(Δεν εμφανίζεται το post κανονικά σε αντίθεση με αναζήτηση στη ενότητα **Μελέτη Περίπτωσης**, όπως φαίνεται στην εικόνα.)
 
 ## Πληροφορίες:
 Δημιούργησα ένα αρχείο για την αντίστοιχη θεματική που είχα αναλύσει στο ερώτημα Α2 του συμμετοχικού περιεχομένου και έκανα μια αναφορά στην ασφάλεια δεδομένων που προσφέρει το Telegram ως εφαρμογή ανταλλαγής μηνυμάτων και περιεχομένου.
@@ -275,11 +275,18 @@ Link για το αποθετήριο αρχείου βιογραφίας: https
 
 Link για το αποθετήριο αρχείου σύντομης βιογραφίας: https://github.com/apostoloskp/site/blob/2015121/_biography/bio-durov.md
 
-Link για τη βιογραφία στο site:
+Link για τη βιογραφία στο site: https://p15kabl.netlify.app/biography/pavel-durov/
+(Ομοίως όπως στο ερώτημα Β1, το post εμφανίζεται παρά μόνο με το τρέχον link καθώς από την αναζήτηση δίνει **Page not found**.)
+
+**Αποτελέσματα**:
+
+![pavel-bio]()
 
 # Πηγές:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pavel_Durov)
+
+[Business Insider](https://www.businessinsider.in/tech/the-incredible-life-of-pavel-durov-the-entrepreneur-known-as-russias-mark-zuckerberg/slidelist/51427106.cms)
  
 ###### [11]
 
