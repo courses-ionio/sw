@@ -40,7 +40,7 @@
 
 * [x] Τροποποίησα το αρχείο _config.yml ??????????????????????????????????????????????????????????????????????????????????????????????
 * [x] Έκανα εισαγωγή τη φωτογραφία μου [p18lare.png](https://github.com/cyclenikolaos/cv/tree/2018220/assets/images) στο repository cv/assets/images
-* [x] Τροποποίησα το αρχείο [data.yml](https://github.com/cyclenikolaos/cv/blob/2018220/_data/data.yml) στο repository cv/_data
+* [x] Τροποποίησα το αρχείο [data.yml](https://github.com/cyclenikolaos/cv/blob/2018220/_data/data.yml) στο repository cv/_data για να βάλω τα δικά μου στοιχεία
 
 ### [Σύνδεσμος αποθετηρίου CV](https://github.com/cyclenikolaos/cv)
 ### [Εκτελέσιμο του βιογραφικού μου](https://cyclenikolaos.github.io/cv/)
@@ -52,7 +52,7 @@
   
 Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
 ### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/87#pullrequestreview-606593660)
-### [Εκτελέσιμο](https://hopeful-rosalind-f96cf5.netlify.app/people/)
+### [Εκτελέσιμο Netlify](https://hopeful-rosalind-f96cf5.netlify.app/people/)
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
 #### [Commit - 1η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/94aa1a1f6eaa7ec0ca14bb003855f84f77796b96#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
