@@ -119,7 +119,9 @@
 * [x] Έκανα fork το repository pibook/extras
 * [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό στο δικό μου repository images (δημιουργός της FORTRAN από το 1ο συμμετοχικό περιεχόμενο)
 * [x] Έκανα ενημέρωση του submodules images
-* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο repository site/_biography
+* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο δικό μου repository cyclenikolaos/site/_biography
+* [x] Πρόσθεσα το αρχείο [multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md) στο δικό μου repository cyclenikolaos/site/_case-study
+* [x] Πρόσθεσα τις φωτογραφίες [backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png) και [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/multitouch.jpg) καθώς και τα αντίστοιχα thumb, στο δικό μου repository cyclenikolaos/images
 * [x] Έκανα push τις αλλαγές στο terminal
 
 #### Οι πηγές μου:
