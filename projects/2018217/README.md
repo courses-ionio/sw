@@ -204,7 +204,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### py-spy
 * [x] Εγκατάσταση py-spy
 * [x] Εκτέλεση της εντολής py-spy record για καταγραφή στο αρχείο imagefile τύπου svg, πληροφοριών σχετικά με την εκτέλεση του αρχείου python (Φίλτρο επεξεργασίας εικόνας - μετατροπή σε κλίμακα του γκρι image.py) αναπαριστώμενες με γραφικό τρόπο.
-* [x] Χρήση φωτογραφίας μικρότερου μεγέθους στο Φίλτρο επεξεργασίας εικόνας image.py
+* [x] Χρήση φωτογραφίας μικρότερου μεγέθους στο φίλτρο επεξεργασίας εικόνας image.py
 * [x] Εκτέλεση εκ νέου της εντολής py-spy record για καταγραφή σε αρχείο τύπου json.
 * [x] Απεικόνηση σε πραγματικό χρόνο του χρονικού διαστήματος που απαιτείται απο κάθε function του προγράμματος να εκτελεστεί 
 
@@ -212,7 +212,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 #### Συμπεράσματα
 Μέσω των γραφημάτων του pyflame αναπαριστάται με γραφικό τρόπο (σε ποσοστό επί τοις εκατό) η χρήση της cpu από κάθε εντολή του script. Ακολουθούν τα flames που πήραμε κάνοντας εισαγωγή το json αρχείο στο https://www.speedscope.app/ και ακολούθως η καταγραφή σε αρχείο τύπου .svg 
 
-Λειτουργία φίλτρου εικόνας | Screenshot Systemlog 1 | καταγραφή σε αρχείο τύπου .svg
+Λειτουργία φίλτρου εικόνας | Καταγραφή σε αρχείο τύπου .json | Καταγραφή σε αρχείο τύπου .svg
 --- | --- | ---
 ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/py-spy.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/json.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/svg.jpg)
 
