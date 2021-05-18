@@ -196,7 +196,7 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 * [x] Εκτέλεση συγκριτικής αξιολόγησης(benchmarking) με χρήση της παραμέτρου ι για απόκρυψη τυχόν σφαμλάτων
 
 #### [Σύνδεσμος asciinema hyperfine ](https://asciinema.org/a/414706)
-![Screenshot](https://)
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/hyperfine1.jpg)
 
 #### Συμπεράσματα
 Μέσω του hyperfine, μπορούμε να δούμε τον μέσο όρο εκτέλεσης ενός προγράμματος καθώς και άλλα ενδιαφέροντα στατιστικά, όπως ο συνολικός αριθμός εκτελέσεων, ο χρόνος που καταναλώνει η εφαρμογή για τον χρήστη και το σύστημα καθώς και το εύρος τιμών των εκτελέσεων. Ακόμη, το hyperfine δίνει στον χρήστη  την δυνατότητα εξαγωγής των δεδομένων σε αρχείο μορφής markdown, csv, json και asciidoc.
