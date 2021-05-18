@@ -119,6 +119,22 @@ Link για το αποθετήριο χρονολογίου:
 ### [🔼 Go Up](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
 
 
+## 👽Παραδοτέο 9 - Άσκηση γραμμής εντολών.
+Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ **"sudo pip3 install py-spy", "git clone --depth 1 https://github.com/brendangregg/FlameGraph", "apt-get install wget", "wget "https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb" και "sudo dpkg -i hyperfine_1.11.0_amd64.deb"**. Έπειτα εκτέλεσα την εντολή asciinema rec -i 0.2 για την έναρξη της εγγραφής του **Τerminal**. Ως **script** προς **monitoring** επιλέγω το **print('Hi im Tim')** με όνομα HiPython. Αφού κάνω **cd**, με την εντολή **py-spy record -o profile.svg -- python3 HiPython.py γίνεται το **monitoring** του **script** και εξαγωγή ενός αρχείου **.svg** με το αντίστοιχο **flamegraph**. Στη συνέχεια, δημιούργησα ακόμα ένα **script** με όνομα **HiPython1** με περιεχόμενο **print('Hi im Tim again but this time i love Hyperfine')**.Ακολούθησαν οι εντολές **cat HiPython.py** και **cat HiPython1.py** και αμέσως μετά εκτέλεσα την εντολή **"hyperfine -i 'python HiPython.py' 'python HiPython1.py'"** για το **benchmarking**. Tέλος εκτελέστηκε η εντολή **"hyperfine -i --export-json output 'python HiPython.py' 'python HiPython1.py' με σκοπό την εξαγωγή αποτελέσματος σε ένα αρχείο **.json**. Ολοκλήρωσα την εγγραφή του **Terminal** με την εντολή **exit**.
+
+### Ακολουθούν τα link των 2 Asciinema: **[Asciinema 1](https://asciinema.org/a/414801)** & **[Asciinema 2](https://asciinema.org/a/414815)**
+
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_3.png" width= 1000/>
+  
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 1000/>
+
+
+
+
+
+
+
+
  
 
 
