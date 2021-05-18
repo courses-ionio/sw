@@ -119,7 +119,7 @@
 * [x] Έκανα fork το repository pibook/extras
 * [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό στο δικό μου repository images (δημιουργός της FORTRAN από το 1ο συμμετοχικό περιεχόμενο)
 * [x] Έκανα ενημέρωση του submodules images
-* [x] Πρόσθεσα τα αρχεία backus.md για το caption και bio-backus.md για το βιογραφικό, στο repository site/_biography
+* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο repository site/_biography
 * [x] Έκανα push τις αλλαγές στο terminal
 
 #### Οι πηγές μου:
@@ -150,6 +150,8 @@
 * [x] Έκανα χρήση του option --warmup της hyperfine για πιο καθαρές μετρήσεις
 
 Ανέβασα στο [asciinema](https://asciinema.org/a/414597) video με τα βήματα που εκτέλεσα
+
+![PARADOTEO_11](https://user-images.githubusercontent.com/56065092/118650594-51a78f80-b7ed-11eb-9327-a23686dc8240.png)
 
 #### ΣΥΜΠΕΡΑΣΜΑ:
 Το hyperfine μου έδωσε ως έξοδο για το συγκεκριμένο παράδειγμα εκτέλεσης του αλγόριθμου heapsort, για την περίπτωση των 100 αριθμών, 17.8ms μέσο χρόνο (15.2-22.6ms) με 149 runs και για την περίπτωση των 1000 αριθμών, 29.4ms (25.8-36.6ms) με 105 runs. Έτρεξα επίσης την εντολή αποθηκεύοντας το αποτέλεσμα σε μορφή md. Παρατήρησα μεγάλο χρόνο εκτέλεσης την πρώτη φορά (65.2ms) λόγω της μεταφοράς πληροφορίας στην cashe memory. Αυτό μειώθηκε στα 41.4ms με τη χρήση της επιλογής --warmup με την οποία δε μετράται αυτός ο επιπλέον χρόνος. 
