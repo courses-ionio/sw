@@ -37,6 +37,7 @@
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 ![cv](https://user-images.githubusercontent.com/56086094/118682847-7b6eaf80-b809-11eb-984e-699fae988ff1.png)
+
 ---
 ### <a name="Παραδοτέο 3">Παραδοτέο 3</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα  
