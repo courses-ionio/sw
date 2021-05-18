@@ -280,7 +280,7 @@ Link για τη βιογραφία στο site: https://p15kabl.netlify.app/bio
 
 **Αποτελέσματα**:
 
-![pavel-bio]()
+![pavel-bio](https://github.com/apostoloskp/sw-images/blob/main/pavel-bio.png)
 
 # Πηγές:
 
