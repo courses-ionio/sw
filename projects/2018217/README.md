@@ -208,13 +208,13 @@ Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
 * [x] Εκτέλεση εκ νέου της εντολής py-spy record για καταγραφή σε αρχείο τύπου json.
 * [x] Απεικόνηση σε πραγματικό χρόνο του χρονικού διαστήματος που απαιτείται απο κάθε function του προγράμματος να εκτελεστεί 
 
-#### [Σύνδεσμος asciinema py-spy](https://asciinema.org)
+#### [Σύνδεσμος asciinema py-spy](https://asciinema.org/a/414727)
 #### Συμπεράσματα
 Μέσω των γραφημάτων του pyflame αναπαριστάται με γραφικό τρόπο (σε ποσοστό επί τοις εκατό) η χρήση της cpu από κάθε εντολή του script. Ακολουθούν τα flames που πήραμε κάνοντας εισαγωγή το json αρχείο στο https://www.speedscope.app/ και ακολούθως η καταγραφή σε αρχείο τύπου .svg 
 
-![Screenshot](https://github.com)
-![Screenshot](https://github.com)
-![Screenshot](https://github.com)
+Screenshot telegram app | Screenshot Systemlog 1 | Screenshot Systemlog 2
+--- | --- | ---
+![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/telegramold.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog.jpg) | ![Screenshot](https://github.com/p18mant/ulikodimitris/blob/main/systemlog2.jpg)
 
 
 #### [12]
