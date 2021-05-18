@@ -46,6 +46,8 @@
 
 Για αυτό το παραδοτέο δημιούργησα μια ιστοσελίδα που υποστηρίζεται από το **GitHub Pages** και αναπαριστά το βιογραφικό μου.
 
+   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_1.png" width="1000"/>
+
 Link για την **[ιστοσελίδα](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook)**.
 
 
