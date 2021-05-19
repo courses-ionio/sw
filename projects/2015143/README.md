@@ -130,9 +130,9 @@ Link για το αποθετήριο : https://github.com/Miltos9/site/blob/mas
 ###### [8]
 ## Προσθήκη Νέου Topic στην ιστοσελίδα :
 
-### Site : 
+### Site : Δεν πήρα green light :(
 
-### Repository : 
+### Repository : https://github.com/Miltos9/sitegr/blob/master/all_collections/_thesis/thesis.md
 
 ### Διαδικασία : 
 Για να δημιουργήσω τo δικo μου Topic, στο ανεπίσημο site της σχολής,αρχικά δήλωσα Το ονομά του (thesis) στο αρχείο navigation.yml που βρήσκετε στο _data.To ονόμασα Πτυχιακή Εργασία και στην συνέχεια δημιούργησα ενα .md αρχείο στο _pages με permalink στο thesis που πρόσθεσα όλες τις πληροφορίες απο την πτυχιακή εργάσια που υπάρχουν στο επίσημο site.Η διαδικασία αυτή υπάρχει στο Link του Repository.
