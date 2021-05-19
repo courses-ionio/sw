@@ -83,6 +83,7 @@
 ### [asciinema link Παραδοτέο 5](https://asciinema.org/a/400978)
 ![PARADOTEO_5](https://user-images.githubusercontent.com/56065092/118792805-abb55d00-b8a0-11eb-99cc-9d8d299ea8b2.png)
 
+### Σχετικά link:
 - ### [Εκτελέσιμο Netlify του βιβλίου](https://cyclenikolaos.netlify.app/)
 - ### [Εκτελέσιμο gallery/multitouch](https://cyclenikolaos.netlify.app/gallery/multitouch/)
 - ### [Εκτελέσιμο slides/archetypes multitouch](https://cyclenikolaos.netlify.app/slides/archetypes/)
@@ -118,7 +119,7 @@
 ## <a name="Παραδοτέο 8">Παραδοτέο 8</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
-Ανέβασα το [issue #205](https://github.com/ioniodi/sitegr/issues/205) για να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα αλλά δεν πήρε ποτέ το green light για υλοποίηση.
+Ανέβασα το [issue #205](https://github.com/ioniodi/sitegr/issues/205) για να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα αλλά δεν πήρε green light για υλοποίηση.
 
 ## <a name="Παραδοτέο 9">Παραδοτέο 9</a>
 #### [Commit](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
@@ -147,22 +148,20 @@
 * [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό [backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png) και [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/multitouch.jpg) καθώς και τα αντίστοιχα thumb, στο δικό μου repository cyclenikolaos/images
 * [x] Έκανα push τις αλλαγές στο terminal
 
-#### Οι πηγές μου:
-#### [Για το multitouch](https://inventhelp.com/archives/11-12/inventhelp-newsletter-november-2012/who-invented-multitouch)
-#### [Για τον John W. Backus](https://mathshistory.st-andrews.ac.uk/Biographies/Backus/)
-#### [Προφίλ του John W. Backus](https://www.computer.org/profiles/john-backus)
-#### [Φωτογραφία του John W. Backus](http://en.wikipedia.org/wiki/John_Backus#/media/File:John_Backus_2.jpg)
+### Οι πηγές μου:
+- ### [Για το multitouch](https://inventhelp.com/archives/11-12/inventhelp-newsletter-november-2012/who-invented-multitouch)
+- ### [Για τον John W. Backus](https://mathshistory.st-andrews.ac.uk/Biographies/Backus/)
+- ### [Προφίλ του John W. Backus](https://www.computer.org/profiles/john-backus)
+- ### [Φωτογραφία του John W. Backus](http://en.wikipedia.org/wiki/John_Backus#/media/File:John_Backus_2.jpg)
 
-#### Σχετικά link:
-#### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
-#### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
-#### [Image multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
-#### [Image multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg)
-#### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md)
-#### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
-#### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/master/backus-thumb.png)
-#### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
-#### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
+### Σχετικά link:
+- ### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
+- ### [Image multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
+- ### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md)
+- ### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
+- ### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
+- ### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
+- ### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
 
 ## <a name="Παραδοτέο 11">Παραδοτέο 11</a>
 #### [Commit](https://github.com/cyclenikolaos/sw/commit/ece0bff3dea87a559e2ec8b5537017414bbe3e42#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
