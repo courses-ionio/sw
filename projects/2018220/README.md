@@ -143,9 +143,9 @@
 
 * [x] Έκανα fork το repository pibook/extras
 * [x] Έκανα ενημέρωση του submodules images
-* [x] Πρόσθεσα το αρχείο [multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md) στο δικό μου repository cyclenikolaos/site/_case-study
-* [x] Πρόσθεσα τα αρχεία [backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md) για το caption και [bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md) για το βιογραφικό, στο δικό μου repository cyclenikolaos/site/_biography
-* [x] Πρόσθεσα τις φωτογραφίες του John W. Backus για το βιογραφικό [backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png) και [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/multitouch.jpg) καθώς και τα αντίστοιχα thumb, στο δικό μου repository cyclenikolaos/images
+* [x] Πρόσθεσα το αρχείο multitouch.md στον κατάλογο cyclenikolaos/site/_case-study
+* [x] Πρόσθεσα τα αρχεία backus.md και bio-backus.md στον κατάλογο cyclenikolaos/site/_biography/ για το βιογραφικό
+* [x] Πρόσθεσα τη φωτογραφία και το εικονίδιο του John W. Backus για το βιογραφικό στο αποθετήριο cyclenikolaos/images
 * [x] Έκανα push τις αλλαγές στο terminal
 
 ### Οι πηγές μου:
@@ -154,14 +154,19 @@
 - ### [Προφίλ του John W. Backus](https://www.computer.org/profiles/john-backus)
 - ### [Φωτογραφία του John W. Backus](http://en.wikipedia.org/wiki/John_Backus#/media/File:John_Backus_2.jpg)
 
-### Σχετικά link:
-- ### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
-- ### [Image multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
-- ### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md)
-- ### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
-- ### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
+### Σχετικά link αποθετηρίων github:
+- ### [Αρχείο cs-multitouch.md](https://github.com/cyclenikolaos/extras/blob/2c6b0dc1d29ec7858173a87f2b1a89843fe5d694/cs-multitouch.md)
+- ### [Image backus.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus.png)
+- ### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/a5f8f9d5ae16558adfcbf53602e103ac06108956/backus-thumb.png)
+- ### [Case study multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md)
 - ### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
 - ### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
+
+### Σχετικά link netlify:
+- ### [Εκτελέσιμο Netlify site case-study](https://cyclenikolaos.netlify.app/case-study/)
+- ### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
+- ### [Εκτελέσιμο Netlify site biography](https://cyclenikolaos.netlify.app/biography)
+- ### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
 
 ## <a name="Παραδοτέο 11">Παραδοτέο 11</a>
 #### [Commit](https://github.com/cyclenikolaos/sw/commit/ece0bff3dea87a559e2ec8b5537017414bbe3e42#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
