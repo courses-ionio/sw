@@ -13,7 +13,7 @@
 | <a href="#F">6</a> | <a href="#F">Άσκηση γραμμής εντολών 2 </a> |
 | <a href="#G">7</a> | <a href="#G">Bιογραφικό 2 </a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
+| <a href="#I">9</a> | <a href="#I">Άσκηση γραμμής εντολών 3 </a> |
 | <a href="#J">10</a> | <a href="#J">Συμμετοχικό περιεχόμενο 2 </a> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
@@ -47,6 +47,15 @@ Aφού διάβασα αναλυτικά τις οδηγίες που δοθή�
 # <a name="G">Βιογραφικό 2</a>
 Για την άσκηση του βιογραφικού 2, χρησιμοποίησα το weasyprint για να δημιουργήσω ένα αρχείο pdf του βιογραφικού μου, το οποίο ενημερώνεται αυτόματα κάθε φορά που κάνω αλλαγή.
 [cv link](https://p15bako.github.io/cv-1/) [pdf link](https://p15bako.github.io/cv-1/pdf/cv.pdf)
+
+
+# <a name="I">Άσκηση γραμμής εντολών 3</a>
+Για την εκπόνηση της 3ης άσκησης γραμμής εντολών αποφάσισα να ασχοληθώ με το ntfy. Αφού έκανα install το telegram στον προσωπικό μου υπολογιστή και το ntfy στο terminal μου, έκανα το shell integration στο .bashrc αρχείο μου. Ακολούθησα τις οδηγείες του Telegram και δημιούργησα ένα bot μέσα απ την ίδια την εφαρμογή και στη συνέχεια έδωσα το authentication token και τον κατάλληλο κωδικό για να συνδέσω το telegram με τον τερματικό μου. Στο [asciinema link](https://asciinema.org/a/5dfVmja6GjaCLAq7JNg9AlVjS) φαίνεται πως στέλνω manually μια εντολή τύπου "Hello World" για να μου έρθει σαν ειδοποίηση τόσο στο PC μου όσο και στο Telegram app. Επιπλέον δημιούργησα ένα αρχείο updates.sh και το έκανα executable έτσι ώστε κάθε φορά που τελειώνουν τα updates να παίρνω τις κατάλληλες ειδοποιήσεις. Ενδεικτικά screenshots παρακάτω.(Note: στο screenshot που φαίνεται το Telegram, έχω σβήσει το token μου και τον κωδικό που μου δώθηκε απ το τερματικό).
+
+![Screenshot_6](https://user-images.githubusercontent.com/22667174/118846044-fe107100-b8d4-11eb-83c7-c8fe4f48c780.png)
+![Screenshot_7](https://user-images.githubusercontent.com/22667174/118846053-ffda3480-b8d4-11eb-8c8b-a2f9416d1324.png)
+![Screenshot_5](https://user-images.githubusercontent.com/22667174/118846059-01a3f800-b8d5-11eb-9bf1-ef07fb4276d8.png)
+
 
 
 # <a name="J">Συμμετοχικό περιεχόμενο 2</a>
