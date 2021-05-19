@@ -133,7 +133,7 @@ B2) Μια νέα βιογραφία
 Εν συντομία, ο Mitchel Resnick για τον οποίο έγραψα τη βιογραφία του, είναι ο δημιουργός της Block-Based γλώσσας Scratch και του Lego Mindstorms καθώς και διδάκτορας στο πανεπιστήμιο του MIT.
 
 > - [Mitchel Resnick](https://github.com/NikosKar23/site/blob/master/_biography/Mitchel-Resnick.md)
-> - [Mitchel Resnick Image](https://github.com/NikosKar23/images/blob/master/blockly.png)
+> - [Mitchel Resnick Image](https://github.com/NikosKar23/images/blob/master/Mitchel_Resnick.jpg)
 > - [Mitchel Resnick 160px Image](https://github.com/NikosKar23/images/blob/master/Mitchel-Resnick-thumb.jpg)
 
 ### **Παραπομπές**
