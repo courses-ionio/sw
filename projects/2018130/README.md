@@ -12,7 +12,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Τρίτη-εβδομάδα) | [Alan Kay Computing Simply](#Alan-Kay-Computing-Simply)
 | 4 | [Άσκηση γραμμής εντολών](#Τέταρτη-εβδομάδα) | [bret victor the future of programming](#bret-victor-the-future-of-programming)
 | 5 | [Συμμετοχικό περιεχόμενο](#Πέμπτη-εβδομάδα) | [alan kay programming](#alan-kay-programming)
-| 6 | [Άσκηση γραμμής εντολών](#Έκτη-εβδομάδα) | [Alan Kay 2003 ACM A.M. Turing Award Lecture](#Alan-Kay-2003-ACM-A.M.-Turing-Award-Lecture)
+| 6 | [Άσκηση γραμμής εντολών](#Έκτη-εβδομάδα) | [Alan Kay 2003 ACM Turing Award Lecture](#Alan-Kay-2003-ACM-Turing-Award-Lecture)
 | 7 | [Bιογραφικό](#Έβδομη-εβδομάδα)  |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Όγδοη-εβδομάδα) |
 | 9 | [Άσκηση γραμμής εντολών](#Ένατη-εβδομάδα) |
@@ -302,7 +302,7 @@ O Alan Kay χρησιμοποιεί λογισμικά με συγκεκριμέ
 
 ---
 
-## Alan Kay 2003 ACM A.M. Turing Award Lecture
+## Alan Kay 2003 ACM Turing Award Lecture
 
 1. ***Είναι χρήσιμα στην πληροφορική τα μαθήματα των μαθηματικών που κάνατε στο 1ο έτος και γιατί;***
 
