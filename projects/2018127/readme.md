@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Answered Here](#week-8)
 | 9 | [CLI Exercise #3](#cli-exercise-3) |
 | 10 | συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | [CLI Exercise #5](#cli-exercise-5) |
 
 ### Σύνοψη/Εισαγωγή
 Σύντομη Περιγραφή:
@@ -85,6 +85,41 @@ This resulted in an (objectively, aesthetically displeasing) [file](https://gith
 <img src="https://github.com/runtheorun-exe/swfiles/blob/main/Screenshot 2021-04-26 153001.png" width="400"/>
 
 The automation part of this assignment was done with a GitHub Action documented [here](https://github.com/runtheorun-exe/online-cv/blob/gh-pages/.github/workflows/cv2pdf.yml). 
+
+Below lies the code used to make the GH Action:
+```yml
+name: CV2PDF
+
+on: 
+  page_build:
+    branches: [gh-pages]
+  
+jobs:
+  convert:
+    runs-on: ubuntu-18.04
+    steps:  
+      - uses: actions/checkout@v2
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+      - name: Convert 
+        uses: docker://pandoc/latex:2.13
+        with:
+          args: "https://runtheorun-exe.github.io/online-cv/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex"
+      - name: Commit pdf
+        run: |
+          git config --global user.name 'Theocharis Panagiotis Charalampidis'
+          git config --global user.email 'runtheorun-exe@users.noreply.github.com'
+          git add -A
+          git add .
+          git commit -m "Added PDF -auto action"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+```          
+
 Since the CV has a GitHub Pages-powered website, the GH Action gets triggered everytime GH Pages has fnished rebuilding the website. This can lead to unnecessary triggers (for instance CSS modifications don't affect the pdf) but seeing as gh Pages needs some time to build the updated website, this solution seemed the best one.
 
 
@@ -96,7 +131,7 @@ For the 2nd CLI Assignment, I chose to work on Huginn. Following the simple inst
 Following mr. Patiniotis' prompt, I went ahead and asciicasted the manual installation process for Huginn which was a disaster at best. Various bugs were found, and while a lot were taken note of and corrected in-flight, there were always new ones poppinh up, and at the end of the day the installation never worked.
 Both Docker and CLI versions are the same, since both lead you to the same GUI, but the process was still documented and uploaded here so as to check the CLI part of the exercise.
 
-<a href="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y" target="_blank"><img src="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y.svg" /></a>
+<a href="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y" width="400" target="_blank"><img src="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y.svg" /></a>
 
 
 ## CLI Exercise #3
@@ -107,9 +142,10 @@ Jumping through hoops I made a simple SMS webhook which replies with a link to m
 
 This is what someone sees when they text my twilio number.
 The code is hosted as a Lambda function on AWS (sue me) which itself is nothing more than a function which has 1 line of code: 
+```python
 return ' <?xml version=\"1.0\" encoding=\"UTF-8\"?>'\
            '<Response><Message><Body>Hello from Theocharis Panagiotis Charalampidis. \nCheck out my resume at https:// (#runtheorun-exe.github.io/online-cv ! </Body></Message></Response>'
-           
+```
 So basically it just returns a TwiML (Twilio Markup Language) string to the Twilio API that handles the incoming message. The Lambda communicates with Twilio through an API constructed specifically for that.
 While on principle, handling a phone tree system is simple, Lambdas are dumb when it comes to Python packages and it's all just a hassle. The upshot of using Lambdas though is that it's theoretically easier to host such Twilio apps.
 A Call routing was constructed using Twilio Studio, a Scratch-like environment and it works just fine, but is not pure code and can be seen below.
@@ -119,10 +155,73 @@ A Call routing was constructed using Twilio Studio, a Scratch-like environment a
 
 
 Once again following mr. Patiniotis' prompt, I went ahead and installed twilio locally and pretty much redid my Lambda SMS function locally, with an asciicast to prove it:
-<a href="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt" target="_blank"><img src="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt.svg" /></a>
+
+<a href="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt" target="_blank"><img src="https://asciinema.org/a/Qgk6MEDdzDFKAkp5iduiE67tt.svg" width="400"/></a>
 
 And the proof that I really did receive a message:
-<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg" width="400"/>](httphttps://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg)
+
+<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg" width="400"/>
+
+# CLI Exercise 4
+Hyperfine & PySpy profiling tools.
+Using 2 pretty simple python scripts, hello-world.py and randpass.py.
+#### hello-world.py
+````python
+import time
+
+for i in range(100):
+    print("Hello World")
+    if (i % 10) == 0:
+        time.sleep(1)
+````
+
+#### randpass.py
+````python
+import string
+import random
+import csv
+import time
+
+symbols = ['*', '%', '£']  # Can add more
+passlist = [ ]
+for i in range(100):
+    password = ""
+    for lngth in range(15):
+        password += random.choice(string.ascii_lowercase)
+        password += random.choice(string.ascii_uppercase)
+        password += random.choice(string.digits)
+        password += random.choice(symbols)
+        print(password)
+        if lngth >= 10:
+            passlist.append(password)
+            with open('randpass.csv', mode='a') as file_:
+                file_.write(password)
+                file_.write("\n")
+````
+One ofthe scripts has artificially been slowed down with `time.sleep()` since the hello-world.py script is ridiculously simple.
+
+Installation of hyperfine and pySpy were done with the following commands:
+
+```shell
+pip install py-spy
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
+sudo dpkg -i hyperfine_1.11.0_amd64.deb
+git clone https://github.com/brendangregg/FlameGraph.git
+```
+After some shuffling, we start testing `py-spy` by running the following:
+```shell
+py-spy record -o profile-hello.svg -- python3 hello-world.py
+py-spy record -o profile-rand.svg -- python3 randpass.py
+```
+These commands produce a .svg file each, seen below.
+
+<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/668d343cfad2324c7f061031d8abec375c3ed0d6/profile-hello.svg" title="Click me!" width="400"/>
+<img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/668d343cfad2324c7f061031d8abec375c3ed0d6/profile-rand.svg" title="Click me!" width="400"/>
+
+The actual asciicast outputs of py-spy and the hyperfine results can be found below:
+<a href="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z" target="_blank"><img src="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z.svg" title="PySpy" width="400"/></a>
+
+<a href="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt" target="_blank"><img src="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt.svg" title="hyperfine" width="400" /></a>
 
 # Video Quiz
 ## Week 3:
