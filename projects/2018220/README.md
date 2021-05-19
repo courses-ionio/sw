@@ -36,7 +36,7 @@
 
 ## <a name="Παραδοτέο 2">Παραδοτέο 2</a>
 #### [Commit - Βιογραφικό](https://github.com/cyclenikolaos/sw/commit/b2327e816196b52a771580f17a6537d2e2a0ca33#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## ΒΙΟΓΡΑΦΙΚΟ
+### ΒΙΟΓΡΑΦΙΚΟ
 
 * [x] Τροποποίησα το αρχείο _config.yml ??????????????????????????????????????????????????????????????????????????????????????????????
 * [x] Έκανα εισαγωγή τη φωτογραφία μου [p18lare.png](https://github.com/cyclenikolaos/cv/tree/2018220/assets/images) στο repository cv/assets/images
@@ -47,25 +47,29 @@
 
 ## <a name="Παραδοτέο 3">Παραδοτέο 3</a>
 #### [Commit - Αίτημα ενσωμάτωσης](https://github.com/cyclenikolaos/sw/commit/6e774a41652dcd5e08a54d8e90d56f5234f28e2e#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
+Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
 * [x] Δημιούργησα το αρχείο [mouratidis.md](https://github.com/cyclenikolaos/sitegr/blob/add_content/all_collections/_people/mouratidis.md) στο repository sitegr/all_collections/people
 * [x] Έκανα εισαγωγή τη φωτογραφία [mouratidis.jpg](https://github.com/cyclenikolaos/sitegr/blob/add_content/assets/images/mouratidis.jpg) στο repository sitegr/assets/images
 
-Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
 ### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/87#pullrequestreview-606593660)
 ### [Εκτελέσιμο Netlify](https://hopeful-rosalind-f96cf5.netlify.app/people/)
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
 #### [Commit - 1η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/94aa1a1f6eaa7ec0ca14bb003855f84f77796b96#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 1η άσκηση γραμμής εντολών</a>
+### 1η άσκηση γραμμής εντολών</a>
 
-Έκανα clone το αποθετήριό μου και μετά από τροποποίηση, έκανα add, commit και push στο κλαδί master
+* [x] Έκανα clone του αποθετηρίου μου [cyclenikolaos/cv](https://github.com/cyclenikolaos/cv) στον υπολογιστή μου
+* [x] Τροποποίησα το αρχείο [data.yml](https://github.com/cyclenikolaos/cv/blob/master/_data/data.yml) με τα δικά μου στοιχεία
+* [x] Έκανα add, commit και push για να ανεβάσω τις αλλαγές μου
+
 ### [asciinema link Παραδοτέο 4](https://asciinema.org/a/399140)
+![PARADOTEO_4](https://user-images.githubusercontent.com/56065092/118781510-cdf5ad80-b895-11eb-9bc7-98a8ee950373.png)
 
 ## <a name="Παραδοτέο 5">Παραδοτέο 5</a>
 #### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/5ff374f80f7952d5d66dcc25521b8b3320d3ec17#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 1ο συμμετοχικό περιεχόμενο</a>
+### 1ο συμμετοχικό περιεχόμενο</a>
 
 * [x] Έκανα fork τα repository site, images, _gallery
 * [x] Έκανα εισαγωγή των φωτογραφιών και thumb και δημιούργησα τα md αρχεία
@@ -84,14 +88,14 @@
 
 ## <a name="Παραδοτέο 6">Παραδοτέο 6</a>
 #### [Commit - 2η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/97c9331c42ab72feb6e304f6bfe53113c07c80ac#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 2η άσκηση γραμμής εντολών - set-up continuous integration</a>
+### 2η άσκηση γραμμής εντολών - set-up continuous integration</a>
 
 Κατέβασα την εφαρμογή ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task. Κατέβασα το εργαλείο youtube-dl της python για το κατέβασμα video από το youtube. Δημιούργησα το αρχείο ntfy.yml. Έκανα ανακατεύθυνση στο αρχείο syslog
 ### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
 
 ## <a name="Παραδοτέο 7">Παραδοτέο 7</a>
 #### [Commit - Βιογραφικό](https://github.com/cyclenikolaos/sw/commit/bcf4c2c6baf062a5df12c58f1da0671a76488427#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## Βιογραφικό - Δημιουργία αρχείου pdf</a>
+### Βιογραφικό - Δημιουργία αρχείου pdf</a>
 
 * [x] Εγκατέστησα το weasyprint με την εντολή pip3 install weasyprint
 * [x] Δημιούργησα το φάκελο pdf στο σκληρό μου δίσκο για να αποθηκεύεται το βιογραφικό μου σε μορφή pdf
@@ -100,13 +104,13 @@
 ### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
 
 ## <a name="Παραδοτέο 8">Παραδοτέο 8</a>
-## Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
 Ανέβασα το [issue #205](https://github.com/ioniodi/sitegr/issues/205) για να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα αλλά δεν πήρε ποτέ το green light για υλοποίηση.
 
 ## <a name="Παραδοτέο 9">Παραδοτέο 9</a>
 #### [Commit - 3η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 3η άσκηση γραμμής εντολών - Δημιουργία ειδοποιήσεων στο server μου</a>
+### 3η άσκηση γραμμής εντολών - Δημιουργία ειδοποιήσεων στο server μου</a>
 
 * [x] Δημιούργησα λογαριασμό, workspace και channel στο [Slack](https://app.slack.com/client/T020AJNNFQR/C020AJR2B25/user_profile/U01V8TPAW9K)
 * [x] Εγκατέστησα το mosquitto
@@ -122,7 +126,7 @@
 
 ## <a name="Παραδοτέο 10">Παραδοτέο 10</a>
 #### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 2ο συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
+### 2ο συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
 
 * [x] Έκανα fork το repository pibook/extras
 * [x] Έκανα ενημέρωση του submodules images
@@ -147,7 +151,7 @@
 
 ## <a name="Παραδοτέο 11">Παραδοτέο 11</a>
 #### [Commit - 4η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/ece0bff3dea87a559e2ec8b5537017414bbe3e42#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-## 4η άσκηση γραμμής εντολών - Μέτρηση επόδοσης εκτέλεσης python script</a>
+### 4η άσκηση γραμμής εντολών - Μέτρηση επόδοσης εκτέλεσης python script</a>
 Χρήση της εντολής hyperfine για τη μέτρηση του χρόνου εκτέλεσης script σε γλώσσα python.
 
 * [x] Έκανα download το deb πακέτο του hyperfine με wget
