@@ -91,10 +91,9 @@
 Αρχικά επέλεξα <a href="https://webjeda.com/online-cv/">αυτό</a> από τα πρότυπα βιογραφκών που μας <a href="https://courses-ionio.github.io/projects/cv/">προτείνονται</a>. Στη συνέχεια συμπλήρωσα όσα στοιχεία θεώρησα απαραίτητα και πραγματοποίησα κάποιες δομικές και αισθητικές αλλαγές καθώς επίσης και προσθαφαιρέσεις στοιχείων. Τέλος, πραγματοποίησα το deployment με `gh-pages`.
 
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/56065057/118620512-3e38fc00-b7ce-11eb-9517-544fb486500f.jpg">
+  <img src="https://user-images.githubusercontent.com/56065057/118875937-535c7a80-b8f5-11eb-82f1-d6917c9adae6.png">
   </p>
   
-
 - ### <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
 - ### <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
 
