@@ -14,7 +14,7 @@
 | <a href="#G">7</a> | <a href="#G">Bιογραφικό 2 </a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
+| <a href="#J">7</a> | <a href="#J">Συμμετοχικό περιεχόμενο 2 </a> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 
@@ -49,6 +49,8 @@ Aφού διάβασα αναλυτικά τις οδηγίες που δοθή�
 [cv link](https://p15bako.github.io/cv-1/) [pdf link](https://p15bako.github.io/cv-1/pdf/cv.pdf)
 
 
+# <a name="J">Συμμετοχικό περιεχόμενο 2</a>
+Για την ολοκλήρωση του 2ου παραδοτέου συμμετοχικού περιεχομένου, ασχολήθηκα με το [case study](https://github.com/p15bako/site/blob/2015034/_case-study/AT%26T-Picturephone.md) του AT&T Picturephone που είχα ασχοληθεί και στο πρώτο παραδοτέο. Επίσης. πρόσθεσα [αναλυτική περιγραφή του case study](https://github.com/p15bako/extras/blob/2015034/cs-AT%26T_Picturephone.md) στο αποθετήριο extras. Για το [βιογραφικό](https://github.com/p15bako/site/blob/2015034/_biography/Alexander-Graham-Bell.md) επέλεξα να ασχοληθώ με τον Alexander Graham Bell που ήταν ο πρώτος ιδρυτής της AT&T,τότε γνωστή ως Bell Telephone Company. Πρόσθεσα, επίσης, το [αναλυτικό βιογραφικό](https://github.com/p15bako/extras/blob/2015034/bio-bell.md) και την [εικόνα](https://github.com/p15bako/images/blob/2015034/Alexander-Graham-Bell.jpeg).
 
 # Βίντεο Κουίζ
 Εδώ θα βρίσκονται οι εβδομάδες που αντιμετώπισα πρόβλημα με το site των βίντεο κουίζ και δεν κατάφερα να μπω στο συγκεκριμένο βιντεάκι λόγω του γνωστού bug.
