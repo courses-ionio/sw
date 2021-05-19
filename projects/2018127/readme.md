@@ -162,7 +162,7 @@ And the proof that I really did receive a message:
 
 <img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg" width="400"/>
 
-# CLI Exercise 4
+# CLI Exercise 5
 Hyperfine & PySpy profiling tools.
 Using 2 pretty simple python scripts, hello-world.py and randpass.py.
 #### hello-world.py
@@ -220,6 +220,7 @@ These commands produce a .svg file each, seen below.
 
 The actual asciicast outputs of py-spy and the hyperfine results can be found below:
 <a href="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z" target="_blank"><img src="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z.svg" title="PySpy" width="400"/></a>
+
 
 <a href="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt" target="_blank"><img src="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt.svg" title="hyperfine" width="400" /></a>
 
