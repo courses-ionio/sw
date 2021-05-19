@@ -51,10 +51,13 @@
 
 Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
 * [x] Δημιούργησα το αρχείο [mouratidis.md](https://github.com/cyclenikolaos/sitegr/blob/add_content/all_collections/_people/mouratidis.md) στο repository sitegr/all_collections/people
+* [x] Εισήγαγα τα στοιχεία του καθηγητή στο αρχείο [authors.yml](https://github.com/cyclenikolaos/sitegr/blob/add_content/_data/authors.yml) στο sitegr/_data
 * [x] Έκανα εισαγωγή τη φωτογραφία [mouratidis.jpg](https://github.com/cyclenikolaos/sitegr/blob/add_content/assets/images/mouratidis.jpg) στο repository sitegr/assets/images
 
 ### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/87#pullrequestreview-606593660)
 ### [Εκτελέσιμο Netlify](https://hopeful-rosalind-f96cf5.netlify.app/people/)
+![PARADOTEO_3](https://user-images.githubusercontent.com/56065092/118785102-33976900-b899-11eb-814b-264c80a3a26b.png)
+
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
 #### [Commit - 1η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/94aa1a1f6eaa7ec0ca14bb003855f84f77796b96#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
@@ -72,26 +75,32 @@
 ### 1ο συμμετοχικό περιεχόμενο</a>
 
 * [x] Έκανα fork τα repository site, images, _gallery
-* [x] Έκανα εισαγωγή των φωτογραφιών και thumb και δημιούργησα τα md αρχεία
-* [x] Από το τερματικό, έκανα clone το site, συνέδεσα τα submodule και έκανα push τις αλλαγές στο cyclenikolaos/site
+* [x] Έκανα εισαγωγή των φωτογραφιών [fortran.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran.jpg) και [fortran-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran-thumb.jpg) στο repository [cyclenikolaos/images](https://github.com/cyclenikolaos/images)
+* [x] Έκανα εισαγωγή των φωτογραφιών [multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg) και [multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg) στο repository [cyclenikolaos/images](https://github.com/cyclenikolaos/images)
+* [x] Δημιούργησα το αρχείο [fortran.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/fortran.md) στο repository [cyclenikolaos/_gallery](https://github.com/cyclenikolaos/_gallery)
+* [x] Δημιούργησα το αρχείο [multitouch.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/multitouch.md) στο repository [cyclenikolaos/_gallery](https://github.com/cyclenikolaos/_gallery)
+Από το τερματικό:
+* [x] Αφαίρεσα από το αρχείο .gitmodules στο repository /site, τα υπάρχοντα sumodule
+* [x] Δημιούργησα τα δικά μου submodule cyclenikolaos/images και cyclenikolaos/_gallery
+* [x] Έκανα push τις αλλαγές στο cyclenikolaos/site
 
-### [Αποθετήριο _gallery](https://github.com/cyclenikolaos/_gallery)
-### [Αρχείο fortran.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/fortran.md)
-### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/_gallery/blob/83050198b91bf890c7378f42d8578bb997eaed57/multitouch.md)
-### [Αποθετήριο images](https://github.com/cyclenikolaos/images)
-### [Εικόνα fortran.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran.jpg)
-### [Εικόνα fortran-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran-thumb.jpg)
-### [Εικόνα multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
-### [Εικόνα multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg)
 ### [asciinema link Παραδοτέο 5](https://asciinema.org/a/400978)
+![PARADOTEO_5](https://user-images.githubusercontent.com/56065092/118792805-abb55d00-b8a0-11eb-99cc-9d8d299ea8b2.png)
+
 ### [Εκτελέσιμο Netlify](https://cyclenikolaos.netlify.app/)
+![PARADOTEO_5_2](https://user-images.githubusercontent.com/56065092/118793268-1cf51000-b8a1-11eb-8798-e2dbc60deb86.png)
 
 ## <a name="Παραδοτέο 6">Παραδοτέο 6</a>
 #### [Commit - 2η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/97c9331c42ab72feb6e304f6bfe53113c07c80ac#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### 2η άσκηση γραμμής εντολών - set-up continuous integration</a>
 
-Κατέβασα την εφαρμογή ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task. Κατέβασα το εργαλείο youtube-dl της python για το κατέβασμα video από το youtube. Δημιούργησα το αρχείο ntfy.yml. Έκανα ανακατεύθυνση στο αρχείο syslog
+* [x] Κατέβασα την εφαρμογη ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task
+* [x] Κατέβασα το εργαλείο youtube-dl για το κατέβασμα video από το youtube
+* [x] Δημιούργησα το αρχείο ntfy.yml
+* [x] Έκανα ανακατεύθυνση των ειδοποιήσεων στο αρχείο syslog
+
 ### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
+![PARADOTEO_6](https://user-images.githubusercontent.com/56065092/118794770-93ded880-b8a2-11eb-98c4-a2fd7041e483.png)
 
 ## <a name="Παραδοτέο 7">Παραδοτέο 7</a>
 #### [Commit - Βιογραφικό](https://github.com/cyclenikolaos/sw/commit/bcf4c2c6baf062a5df12c58f1da0671a76488427#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
