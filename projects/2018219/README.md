@@ -90,10 +90,13 @@
 ## <a href="#P">Βιογραφικό</a>
 Αρχικά επέλεξα <a href="https://webjeda.com/online-cv/">αυτό</a> από τα πρότυπα βιογραφκών που μας <a href="https://courses-ionio.github.io/projects/cv/">προτείνονται</a>. Στη συνέχεια συμπλήρωσα όσα στοιχεία θεώρησα απαραίτητα και πραγματοποίησα κάποιες δομικές και αισθητικές αλλαγές καθώς επίσης και προσθαφαιρέσεις στοιχείων. Τέλος, πραγματοποίησα το deployment με `gh-pages`.
 
-![bio](https://user-images.githubusercontent.com/56065057/118620512-3e38fc00-b7ce-11eb-9517-544fb486500f.jpg)
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/56065057/118620512-3e38fc00-b7ce-11eb-9517-544fb486500f.jpg">
+  </p>
+  
 
-   - ### <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
-   - ### <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
+- ### <a href="https://github.com/p18mili1/MyCV">Σύνδεσμος αποθετηρίου MyCV</a>
+- ### <a href="https://p18mili1.github.io/MyCV/">Εκτελέσιμο MyCV</a>
 
 
 &nbsp;&nbsp;
@@ -169,14 +172,19 @@
   - Αρχικά έγινε η εγκατάσταση του ntfy και των απαραίτητων dependencies
   - Στη συνέχεια έγινε η εγκατάσταση του Pushover app στο κινητό και η απόκτηση του user key
   - Ακολούθως δημιουργήθηκε με python3.9 το αρχείο test_ntfy.py, το οποίο δημιουργεί και γεμίζει με ακεραίους έναν πίνακα 100x1000000 για να χρησιμοποιηθεί κατά την επίδειξη λειτουργίας του χαρακτηριστικού done του ntfy.
+    ```
+    # test_ntfy.py
+    dim1, dim2 = (100,1000000)
+    myArr = [[i*j for i in range(dim1)] for j in range(dim2)]
+    ```
   - Η παρακάτω εικόνα απεικονίζει την ειδοποίηση που στέλνει το ntfy στο desktop όταν δεν υπάρχει αρχέιο παραμέτρων `ntfy.yml` ενώ οι δυο επόμενες είναι στιγμιότυπα από το κινητό στο οποίο στάλθηκαν οι ειδοποιήσεις μέσω του Pushover app από το ntfy, σύμφωνα με τη διαμόρφωση που έγινε στο αρχείο ntfy.yml.
-  - Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, έτσι ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
 
-![image01](https://user-images.githubusercontent.com/56065057/118606306-ea271b00-b7bf-11eb-93c7-fc0c47c490c5.png)
+  ![image01](https://user-images.githubusercontent.com/56065057/118606306-ea271b00-b7bf-11eb-93c7-fc0c47c490c5.png)
 
-![image](https://user-images.githubusercontent.com/56065057/118556073-1b75fb80-b76c-11eb-8035-5a19012d10a4.png)
+  ![image](https://user-images.githubusercontent.com/56065057/118556073-1b75fb80-b76c-11eb-8035-5a19012d10a4.png)
 
-  - ### <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
+- Τέλος, κάθε ειδοποίηση του ntfy καταγράφεται και στο systemlog, έτσι ώστε να μπορεί να εμφανιστεί μέσω του asciinema.
+- ### <a href="https://asciinema.org/a/403534">Σύνδεσμος καταγραφής Asciinema</a>
 
 
 &nbsp;&nbsp;
@@ -277,7 +285,8 @@
 
 Σε αυτό το παραδοτέο γίνεται χρήση των εφαρμογών παρακολούθησης απόδοσης προγραμμάτων hyperfine και py-spy. Στόχος ήταν η παρακολούθηση scripts της python. 
 - Αρχικά εγκατέστησα τις εφαρμογές `hyperfine` και `py-spy`.
-- Στη συνέχεια έγραψα δύο python scripts, τα _sketch.py_ και _watercolor.py_, τα οποία εφαρμόζουν κάποια εφέ σε φωτογραφίες ή εικόνες. Συγκεκριμένα, το sketch.py δίνει την αίσθηση σκίτσου στην αρχική εικόνα και δημιουργεί δυο νέα αρχεία, ένα έγχρωμο και ένα ασπρόμαυρο, ενώ το watercolor.py δίνει την αίσθηση της ακουαρέλας στην αρχική εικόνα. Και τα δυο αυτά scripts δέχονται ως όρισμα το όνομα του αρχείου εικόνας.  <table>
+- Στη συνέχεια έγραψα δύο python scripts, τα _sketch.py_ και _watercolor.py_, τα οποία εφαρμόζουν κάποια εφέ σε φωτογραφίες ή εικόνες. Συγκεκριμένα, το sketch.py δίνει την αίσθηση σκίτσου στην αρχική εικόνα και δημιουργεί δυο νέα αρχεία, ένα έγχρωμο και ένα ασπρόμαυρο, ενώ το watercolor.py δίνει την αίσθηση της ακουαρέλας στην αρχική εικόνα. Και τα δυο αυτά scripts δέχονται ως όρισμα το όνομα του αρχείου εικόνας. 
+<table>
   <tr><td>
 
   ```
@@ -310,7 +319,7 @@
   ```
   &nbsp;&nbsp;</td>
   </tr>
-  </table>
+</table>
 - Οι εικόνες που χρησιμοποιήθηκαν είναι οι daisy.png και face.jpg.
 - Για την εκτέλεση των hyperfine και py-spy χρησιμοποιήθηκαν οι default παράμετροι.
 - Κατά την εκτέλεση του hyperfine, γίνεται εξαγωγή των αποτελεσμάτων σε αρχεία json και md από τα οποία βλέπουμε τη διαφορά στη διάρκεια εκτέλεσης του ίδιου script με διαφορετικά αρχεία αλλά και διαφορετικών script στο ίδιο αρχείο. Δηλαδή, διαπιστώνουμε ότι το φίλτρο watercolor θέλει περισσότερο χρόνο για να εφαρμοστεί σε σχέση με το φίλτρο sketch.
@@ -378,21 +387,21 @@
   }
 
   ```
-</td></tr>
-<tr>
+  </td></tr>
+  <tr>
    
   | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
   |:---|---:|---:|---:|---:|
   | `python3.9 watercolor.py daisy.png` | 545.5 ± 3.0 | 539.5 | 550.3 | 1.00 |
   
-</tr>
-<tr>
+  </tr>
+  <tr>
   
   | Command | Mean [s] | Min [s] | Max [s] | Relative |
   |:---|---:|---:|---:|---:|
   | `python3.9 watercolor.py face.jpg` | 1.631 ± 0.005 | 1.620 | 1.636 | 1.00 |
   
-</tr>
+  </tr>
 </table>
 
 ![hyperfine](https://user-images.githubusercontent.com/56065057/118619043-e3eb6b80-b7cc-11eb-96ab-d1d7c54c6814.png)
