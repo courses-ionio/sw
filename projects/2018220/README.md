@@ -83,13 +83,13 @@
 ### [asciinema link Παραδοτέο 5](https://asciinema.org/a/400978)
 ![PARADOTEO_5](https://user-images.githubusercontent.com/56065092/118792805-abb55d00-b8a0-11eb-99cc-9d8d299ea8b2.png)
 
-* [x] [Εκτελέσιμο Netlify του βιβλίου](https://cyclenikolaos.netlify.app/)
-* [x] [Εκτελέσιμο gallery/multitouch](https://cyclenikolaos.netlify.app/gallery/multitouch/)
-* [x] [Εκτελέσιμο slides/archetypes multitouch](https://cyclenikolaos.netlify.app/slides/archetypes/)
-* [x] [Εκτελέσιμο timeline/systems](https://cyclenikolaos.netlify.app/timeline/systems/)
-* [x] [Εκτελέσιμο gallery/fortran](https://cyclenikolaos.netlify.app/gallery/fortran/)
-* [x] [Εκτελέσιμο slides/programming fortran](https://cyclenikolaos.netlify.app/slides/programming/)
-* [x] [Εκτελέσιμο timeline/programming](https://cyclenikolaos.netlify.app/timeline/programming/)
+- ### [Εκτελέσιμο Netlify του βιβλίου](https://cyclenikolaos.netlify.app/)
+- ### [Εκτελέσιμο gallery/multitouch](https://cyclenikolaos.netlify.app/gallery/multitouch/)
+- ### [Εκτελέσιμο slides/archetypes multitouch](https://cyclenikolaos.netlify.app/slides/archetypes/)
+- ### [Εκτελέσιμο timeline/systems](https://cyclenikolaos.netlify.app/timeline/systems/)
+- ### [Εκτελέσιμο gallery/fortran](https://cyclenikolaos.netlify.app/gallery/fortran/)
+- ### [Εκτελέσιμο slides/programming fortran](https://cyclenikolaos.netlify.app/slides/programming/)
+- ### [Εκτελέσιμο timeline/programming](https://cyclenikolaos.netlify.app/timeline/programming/)
 ![PARADOTEO_5_2](https://user-images.githubusercontent.com/56065092/118793268-1cf51000-b8a1-11eb-8798-e2dbc60deb86.png)
 ![PARADOTEO_5_3](https://user-images.githubusercontent.com/56065092/118797604-719a8a00-b8a5-11eb-9030-06e770d59d81.png)
 
@@ -100,7 +100,7 @@
 * [x] Κατέβασα την εφαρμογη ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task
 * [x] Κατέβασα το εργαλείο youtube-dl για το κατέβασμα video από το youtube
 * [x] Δημιούργησα το αρχείο ntfy.yml
-* [x] Έκανα ανακατεύθυνση των ειδοποιήσεων στο αρχείο syslog
+* [x] Έκανα ανακατεύθυνση των ειδοποιήσεων στο αρχείο syslog για την καταγραφή με το asciinema
 
 ### [asciinema link Παραδοτέο 6](https://asciinema.org/a/403520)
 ![PARADOTEO_6](https://user-images.githubusercontent.com/56065092/118794770-93ded880-b8a2-11eb-98c4-a2fd7041e483.png)
@@ -113,7 +113,7 @@
 * [x] Δημιούργησα το φάκελο pdf στο σκληρό μου δίσκο για να αποθηκεύεται το βιογραφικό μου σε μορφή pdf
 * [x] Δημιούργησα μέσα στο φάκελο .git/hooks το αρχείο post-commit ώστε να τρέχει την εντολή weasyprint με κάθε commit
 
-### [asciinema link Παραδοτέο 7](https://asciinema.org/a/oDsbcxAwRzW9d567Vp7NKmVP0)
+### [asciinema link Παραδοτέο 7](https://asciinema.org/a/415021)
 
 ## <a name="Παραδοτέο 8">Παραδοτέο 8</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
