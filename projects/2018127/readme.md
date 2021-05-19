@@ -219,6 +219,7 @@ These commands produce a .svg file each, seen below.
 <img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/668d343cfad2324c7f061031d8abec375c3ed0d6/profile-rand.svg" title="Click me!" width="400"/>
 
 The actual asciicast outputs of py-spy and the hyperfine results can be found below:
+
 <a href="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z" target="_blank"><img src="https://asciinema.org/a/CPjHCJ0ySs5Y8z3JYUnq1M46z.svg" title="PySpy" width="400"/></a>
 
 
