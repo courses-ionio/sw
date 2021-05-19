@@ -30,9 +30,10 @@
 
 ## Παραδοτέα Μαθήματος
   
-### <a name="Παραδοτέο 1">Παραδοτέο 1</a>
+### <a name="Παραδοτέο 1">Παραδοτέο 1</a>                     
 ### Δημιουργία Αποθετηρίου
 Έγινε fork του [αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw) και δημιουργία ενός νέου branch με όνομα τον αριθμό μητρώου μου. Ακολούθως,  μέσα στον φάκελο projects έγινε δημιουργία ενός φακέλου με όνομα τον αριθμό μητρώου μου και του αρχείου της τελικής αναφοράς.
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/4d2b2841f3199cc987d46254bcc0dc713ebc7641#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 
 ---
 ### <a name="Παραδοτέο 2">Παραδοτέο 2</a>
@@ -41,7 +42,7 @@
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
 ![cv](https://user-images.githubusercontent.com/56086094/118682847-7b6eaf80-b809-11eb-984e-699fae988ff1.png)
-
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/b4424ff7b1dbaf22121b02f8c847775a89707a2b#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 3">Παραδοτέο 3</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα  
@@ -50,6 +51,7 @@
 #### [Σύνδεσμος αποθετηρίου sitegr ](https://github.com/p18myro/sitegr)
 #### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/86)
 #### [Εκτελέσιμο Netlify](https://sleepy-northcutt-a221a8.netlify.app/people/katomeris/)
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/77916c591d74606f41e8ac467a1eb6d676b056c9#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 4">Παραδοτέο 4</a>
 ### Άσκηση γραμμής εντολών: set-up continuous integration
@@ -62,6 +64,7 @@
 #### [Σύνδεσμος Άσκησης γραμμής εντολών 1](https://asciinema.org/a/398838)
 
 ![ΕΡΓΑΣΙΑ_1](https://user-images.githubusercontent.com/56086094/118724220-00bc8900-b837-11eb-9331-fb45e07ce668.png)
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/3b3d0a9197287ec0b16236817168d49ffa2949ad#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 
 ---
 ### <a name="Παραδοτέο 5">Παραδοτέο 5</a>
@@ -87,6 +90,7 @@
 #### [Εκτελέσιμο Netlify timeline/programming](https://p18myro.netlify.app/timeline/programming/)
 #### [Εκτελέσιμο Netlify timeline/videogames](https://p18myro.netlify.app/timeline/videogames/)
 
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/094f58ee40fc343ee2e988e94a53d2f048c3987f#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 
 ---
 
@@ -105,6 +109,7 @@
 
 #### Screenshot ntfy Desktop
 ![desktop_ntfy](https://user-images.githubusercontent.com/56086094/118725046-14b4ba80-b838-11eb-9986-b3cb3968e329.png)
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/d2670eb48ba37340ecdad7325c06a56dd994365d#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 
 ---
 ### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
@@ -113,17 +118,18 @@
 * [x] Δημιουργία φάκελου pdf για να αποθηκεύεται το αρχείο pdf
 * [x] Αυτοματοποίηση της διαδικασίας με χρήση git hooks. Δημιούργησα  δυο  αρχεία το pre-commit και το post-commit μέσα στο .git/hooks
 
-#### [Σύνδεσμος asciinema ](https://asciinema.org/a/405448)
+#### [Σύνδεσμος asciinema ](https://asciinema.org/a/405408)
 ![cv_part2](https://user-images.githubusercontent.com/56086094/118725252-5ba2b000-b838-11eb-8665-3183f36e6582.png)
 
 #### [Σύνδεσμος  αποθετηρίου CV](https://github.com/p18myro/cv)
 #### [Εκτελέσιμο CV](https://p18myro.github.io/cv/)
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/ff8cd3972107d5c1c108876c8855f1e5a8f7e9c0#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 8">Παραδοτέο 8</a>
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Έγινε fork το repository minimal-ionio. Στην συνέχεια άλλαξα το remote theme στο αρχείο _config.yml στο αποθετήριο sitegr, ώστε να δείχνει στο δικό μου αποθετήριο minimal-ionio.
 Ανοιξα [issue](https://github.com/ioniodi/sitegr/issues/197) με τίτλο Προσθήκη Jekyll plugin (liquid filter) για email οbfuscation το οποίο δεν έχει πάρει ακόμη green Light
-
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/e5c805e511c5755946e8af85fe18fab984ca7f1e#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 9">Παραδοτέο 9</a>
 ###  Άσκηση γραμμής εντολών: Create notifications on your sever
@@ -141,7 +147,7 @@
 
 #### [Σύνδεσμος asciinema παραδοτέο 9 part I ](https://asciinema.org/a/409678)
 #### [Σύνδεσμος asciinema παραδοτέο 9 part II ](https://asciinema.org/a/413874)
-
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/40a59229f4541465949764d4b6b9c757e53b0942#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 10">Παραδοτέο 10</a>
 ### Συμμετοχικό περιεχόμενο  
@@ -175,7 +181,7 @@
 #### [Εκτελέσιμο Netlify site ](https://p18myro.netlify.app/case-study/lisp/)
 #### [Αρχείο _includes/extras cs-lisp.md](https://github.com/p18myro/extras/blob/6437975f40f499738394108c927f4eabacc00960/cs-lisp.md)
 #### [Αρχείο _case-study lisp.md](https://github.com/p18myro/site/blob/master/_case-study/lisp.md)
-
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/fd4c3833754cc3fd245d8c071789ac7c2fb6afe8#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
 ---
 ### <a name="Παραδοτέο 11">Παραδοτέο 11</a>
 ### Άσκηση γραμμής εντολών: performance monitoring
@@ -213,6 +219,10 @@
 ![speedscope](https://user-images.githubusercontent.com/56086094/118682179-dfdd3f00-b808-11eb-9296-54a30bf6ce4d.png)
 
 ![Screenshot](https://github.com/p18myro/sw_images/blob/main/pixelfile.svg)
+#### [Σχετικό commit](https://github.com/p18myro/sw/commit/737d679e584272d62a8670a4e083bf24269d0155#diff-0864e209a77b70ac1e085fef1fd91c8fe7b4f5f45dac71b443ed625bb4c8a73a)
+
+## ΣΥΜΠΕΡΑΣΜΑΤΑ
+Η εξαμηνιαία εργασία στο μάθημα Τεχνολογίες λογισμικού βοήθησε στην απόκτηση δεξιοτήτων  που είχα βάλει ως στόχο στην αρχή του εξαμήνου όταν είδα την ύλη που πραγματεύεται το μάθημα. Η ενασχόληση μου με εργαλεία του Github  όπως τα hooks και τα submodules. Η γνωριμία με το Jekyll  και την YAML καθώς και η αξιοποίηση της python βιβλιοθήκης weasyprint μέσω της οποίας μετατρέψαμε  την html σελίδα του cv  σε pdf είναι κάποιες από τις δεξιότητες που απέκτησα και θα μου φανούν χρήσιμες στο μέλλον. Έτσι παρά το γεγονός ότι ήταν  αρκετά απαιτητικό μάθημα καθώς καταπιάνεται με διαφορά αντικείμενα πολλά από τα οποία μου ήταν άγνωστα,  θεωρώ ότι είναι αρκετά ενδιαφέρον.  Τέλος μέσω των εβδομαδιαίων ασύγχρονων βίντεο παρακινήθηκα να αφιερώσω χρόνο να ακούσω τις απόψεις ανθρώπων που  καθόρισαν τις εξελίξεις σε ότι έχει να κάνει με την τεχνολογία του λογισμικού.
 
 ---
 
