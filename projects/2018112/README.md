@@ -123,6 +123,8 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 Η μελέτη περίπτωσης που επέλεξα να κάνω ήταν πάνω στις block based γλώσσες προγραμματισμού. Αφορμή για αυτήν την επιλογή στάθηκε το πρώτο παραδοτέο του Συμμετοχικού Περιεχομένου στο οποίο αναφέρθηκα στο Lego Mindstorms NXT και στη γλώσσα προγραμματισμού Blockly.
 
 > - [Block Based Programming](https://github.com/NikosKar23/site/blob/master/_case-study/block_based_programming.md)
+ 
+ [Netlify Link](https://festive-bell-0093e7.netlify.app/case-study/) - Case Study
 
 ### **Παραπομπές**
 
@@ -135,6 +137,8 @@ B2) Μια νέα βιογραφία
 > - [Mitchel Resnick](https://github.com/NikosKar23/site/blob/master/_biography/Mitchel-Resnick.md)
 > - [Mitchel Resnick Image](https://github.com/NikosKar23/images/blob/master/Mitchel_Resnick.jpg)
 > - [Mitchel Resnick 160px Image](https://github.com/NikosKar23/images/blob/master/Mitchel-Resnick-thumb.jpg)
+ 
+ [Netlify Link](https://festive-bell-0093e7.netlify.app/biography/) - Biography
 
 ### **Παραπομπές**
 > - [1] https://www.ted.com/speakers/mitch_resnick
