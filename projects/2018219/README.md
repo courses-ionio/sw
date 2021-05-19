@@ -69,7 +69,7 @@
     <tr>
       <td align="center">12</td>
       <td align="left"><a href="#P12">Συμπεράσματα</a></td>
-      <td align="center"><a href="">:heavy_check_mark:</td>
+      <td align="center"><a href="https://github.com/p18mili1/sw/commit/0929559048b094a91ee23006203a03835fc79cbe#diff-a26b0da4b5d4fdade58dcf5b4e5d394104c49e882a2d7c9a6b31837db8eb0143">:heavy_check_mark:</td>
     </tr>
     <tr>
       <td align="center">:heavy_minus_sign:</td>
