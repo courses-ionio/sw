@@ -113,7 +113,37 @@ except:
    - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
    - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
    - Δεν είδα τις αλλαγές μου :(
-  
+
+# 4η άσκηση γραμμής εντολών
+  Ως 4η άσκηση γραμμής εντολών έκανα την "create a cli app for your favorite site". Για να γίνει αυτό διάβασα το document του [click](https://github.com/pallets/click) και έγραψα ένα script στην γλώσσα python το οποίο ζητάει από τον χρήστη τα στοιχεία τα οποία έχει πάρει από το Twitter (api key, api secret, access token και access token secret) και με την βοήθεια της βιβλιοθήκης Tweepy μαζέβει όσα tweets ζητήσει ο χρήστης τα οποία περιέχουν τις λέξεις που αυτός διευκρινίσει. Το σκριπτ φαίνετε παρακάτω και η κατεγραμμένη διαδικασία χρήσης του [εδώ](https://asciinema.org/a/38x1TvLbjL2EpS1Vin1VKwqqr)
+```
+import tweepy
+import click
+
+@click.command()
+@click.option("--api_key", prompt="Your Twitter API key", hide_input=True, help="Twitter Key API")
+@click.option("--api_secret", prompt="Your Secret API key", hide_input=True, help="Twitter API Secret")
+@click.option("--access_token", prompt="Your Access Token", hide_input=True, help="Twitter Access Token")
+@click.option("--access_token_secret", prompt="Your Access Token Secret", hide_input=True, help="Twitter Access Token Secret")
+@click.option("--words", prompt="What words would you like to include?", default='', help="Words that the tweets include")
+@click.option("--items", prompt="How many tweets would you like?", default=1, help="How many tweets would you like?")
+def collect_tweets(api_key, api_secret, access_token, access_token_secret, words, items):
+    #create authentication for accessing Twitter
+    auth = tweepy.OAuthHandler(api_key, api_secret)
+    auth.set_access_token(access_token, access_token_secret)
+
+    #initialize Tweepy API
+    api = tweepy.API(auth)
+
+    for tweet in tweepy.Cursor(api.search, q=words+' -filter:retweets', \
+                                    lang="en", tweet_mode='extended').items(items):
+        print(str([tweet.full_text.replace('\n',' ').encode('utf-8')]))
+
+    print("Tweet Collection Complete")
+
+if __name__ == '__main__':
+    collect_tweets()
+```
   
 ## Απαντήσεις βίντεο quiz Εβδομάδα 1η
 
