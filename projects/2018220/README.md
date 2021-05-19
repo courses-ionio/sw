@@ -153,6 +153,9 @@
 #### Σχετικά link:
 #### [Εκτελέσιμο Netlify site case-study - multitouch](https://cyclenikolaos.netlify.app/case-study/multitouch/)
 #### [Εκτελέσιμο Netlify site biography - John W. Backus](https://cyclenikolaos.netlify.app/biography/backus/)
+#### [Image multitouch.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch.jpg)
+#### [Image multitouch-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/multitouch-thumb.jpg)
+#### [Αρχείο multitouch.md](https://github.com/cyclenikolaos/site/blob/master/_case-study/multitouch.md)
 #### [Image backus.png](https://github.com/cyclenikolaos/images/blob/master/backus.png)
 #### [Image backus-thumb.png](https://github.com/cyclenikolaos/images/blob/master/backus-thumb.png)
 #### [Biography backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/backus.md)
