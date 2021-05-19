@@ -115,7 +115,7 @@ except:
    - Δεν είδα τις αλλαγές μου :(
 
 # 4η άσκηση γραμμής εντολών
-  Ως 4η άσκηση γραμμής εντολών έκανα την "create a cli app for your favorite site". Για να γίνει αυτό διάβασα το document του [click](https://github.com/pallets/click) και έγραψα ένα script στην γλώσσα python το οποίο ζητάει από τον χρήστη τα στοιχεία τα οποία έχει πάρει από το Twitter (api key, api secret, access token και access token secret) και με την βοήθεια της βιβλιοθήκης Tweepy μαζέβει όσα tweets ζητήσει ο χρήστης τα οποία περιέχουν τις λέξεις που αυτός διευκρινίσει. Το σκριπτ φαίνετε παρακάτω και η κατεγραμμένη διαδικασία χρήσης του [εδώ](https://asciinema.org/a/38x1TvLbjL2EpS1Vin1VKwqqr)
+  Ως 4η άσκηση γραμμής εντολών έκανα την "create a cli app for your favorite site". Για να γίνει αυτό διάβασα το document του [click](https://github.com/pallets/click) και έγραψα ένα script στην γλώσσα python το οποίο ζητάει από τον χρήστη τα στοιχεία τα οποία έχει πάρει από το Twitter (api key, api secret, access token και access token secret) και με την βοήθεια της βιβλιοθήκης Tweepy μαζέβει όσα tweets ζητήσει ο χρήστης τα οποία περιέχουν τις λέξεις που αυτός διευκρινίσει. Το σκριπτ φαίνετε παρακάτω και η κατεγραμμένη διαδικασία χρήσης του [εδώ](https://asciinema.org/a/415077)
 ```
 import tweepy
 import click
