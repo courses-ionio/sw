@@ -130,7 +130,7 @@ Link για το αποθετήριο : https://github.com/Miltos9/site/blob/mas
 ###### [8]
 ## Προσθήκη Νέου Topic στην ιστοσελίδα :
 
-### Site : Δεν πήρα green light :(
+### Δεν πήρα green light,παραθέτω το δικό μου netlify site : https://laughing-jennings-3a945f.netlify.app/thesis/
 
 ### Repository : https://github.com/Miltos9/sitegr/blob/master/all_collections/_thesis/thesis.md
 
