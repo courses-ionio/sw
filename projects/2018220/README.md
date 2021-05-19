@@ -23,30 +23,26 @@
 | 11 | <a href="#Παραδοτέο 11">Άσκηση γραμμής εντολών |</a>
 | 12 | <a href="#Παραδοτέο 12">Τελική αναφορά* |</a>
 
-
-Στο μάθημα αυτό, μελέτησα τη θεωρία και έκανα πρακτική εξάσκηση στη σχεδίαση και ανάπτυξη λογισμικού στα περιβάλλοντα github και git, ολοκληρώνοντας σχεδόν όλα τα παραδοτέα. Προσπάθησα να κατανοήσω τα βήματα που απαιτούνται κατά τη διαδικασία της οργάνωσης λογισμικού και ποιες είναι οι απαιτήσεις όταν συνεργάζεσαι σε ένα έργο όπως είναι το ηλεκτρονικό βιβλίο του μαθήματος ή η ανάπτυξη και συνεισφορά στην ιστοσελίδα του τμήματός μας. Δούλεψα με εργαλεία που παρέχονται στο λειτουργικό Linux για την επίτευξη λειτουργικότητας που βοήθησε στον τελικό στόχο της συμμετοχής και συνεισφοράς. Εξοικειώθηκα με γλώσσες και φόρμες όπως jekyll, yaml, html.
-
-Επίσης, τη βδομάδα του κάθε παραδοτέου και μέχρι και το δέκατο, απάντησα στις ερωτήσεις των βίντεο που ήταν διαθέσιμα στο github.
+Επίσης, την εβδομάδα του κάθε παραδοτέου και μέχρι και το δέκατο, απάντησα στις ερωτήσεις των βίντεο που ήταν διαθέσιμα στο github.
 
 ## <a name="Παραδοτέο 1">Παραδοτέο 1</a>
-#### [Commit - Δημιουργία πίνακα παραδοτέων](https://github.com/cyclenikolaos/sw/commit/fa38aaa79a63fcd7f7c96552ea628b6f453f8738#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/fa38aaa79a63fcd7f7c96552ea628b6f453f8738#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 
 ### <a href="#start">Εισαγωγή</a>
-Στο πλαίσιο του πρώτου παραδοτέου του μαθήματος, δημιούργησα το δικό μου αποθετήριο και το δικό μου κλαδί με όνομα τον αριθμό μητρώου μου. Μέσα σε αυτό, στο φάκελο projects/ΑΜ, δημιούργησα το παρόν αρχείο README.md που αποτελεί την αναφορά μου. Στη συνέχεια, έφτιαξα τον πίνακα των παραδοτέων.
+Στο μάθημα αυτό, μελέτησα τη θεωρία και έκανα πρακτική εξάσκηση στη σχεδίαση και ανάπτυξη λογισμικού στα περιβάλλοντα github και git, ολοκληρώνοντας σχεδόν όλα τα παραδοτέα. Προσπάθησα να κατανοήσω τα βήματα που απαιτούνται κατά τη διαδικασία της οργάνωσης λογισμικού και ποιες είναι οι απαιτήσεις όταν συνεργάζεσαι σε ένα έργο όπως είναι το ηλεκτρονικό βιβλίο του μαθήματος ή η ανάπτυξη και συνεισφορά στην ιστοσελίδα του τμήματός μας. Δούλεψα με εργαλεία που παρέχονται στο λειτουργικό Linux για την επίτευξη λειτουργικότητας που βοήθησε στον τελικό στόχο της συμμετοχής και συνεισφοράς. Εξοικειώθηκα με εργαλεία όπως jekyll, html, css.
 
 ## <a name="Παραδοτέο 2">Παραδοτέο 2</a>
-#### [Commit - Βιογραφικό](https://github.com/cyclenikolaos/sw/commit/b2327e816196b52a771580f17a6537d2e2a0ca33#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/b2327e816196b52a771580f17a6537d2e2a0ca33#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### ΒΙΟΓΡΑΦΙΚΟ
 
-* [x] Τροποποίησα το αρχείο _config.yml ??????????????????????????????????????????????????????????????????????????????????????????????
-* [x] Έκανα εισαγωγή τη φωτογραφία μου [p18lare.png](https://github.com/cyclenikolaos/cv/tree/2018220/assets/images) στο repository cv/assets/images
-* [x] Εισήγαγα τα δικά μου δεδομένα στο αρχείο [data.yml](https://github.com/cyclenikolaos/cv/blob/2018220/_data/data.yml) στο repository cv/_data 
+* [x] Επέλεξα ένα βιογραφικό από τη λίστα που προτείνουν οι διδάσκοντες και το τροποποίησα
+![BIO](https://user-images.githubusercontent.com/56065092/118808736-7ade2380-b8b2-11eb-8b7d-d1b008abde25.png)
 
 ### [Σύνδεσμος αποθετηρίου CV](https://github.com/cyclenikolaos/cv)
 ### [Εκτελέσιμο του βιογραφικού μου](https://cyclenikolaos.github.io/cv/)
 
 ## <a name="Παραδοτέο 3">Παραδοτέο 3</a>
-#### [Commit - Αίτημα ενσωμάτωσης](https://github.com/cyclenikolaos/sw/commit/6e774a41652dcd5e08a54d8e90d56f5234f28e2e#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/6e774a41652dcd5e08a54d8e90d56f5234f28e2e#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα του Ιονίου Πανεπιστημίου
 
 Έκανα προσθήκη του καθηγητή Χάρη Μουρατίδη στους επισκέπτες καθηγητές
@@ -55,24 +51,24 @@
 * [x] Έκανα εισαγωγή τη φωτογραφία [mouratidis.jpg](https://github.com/cyclenikolaos/sitegr/blob/add_content/assets/images/mouratidis.jpg) στο repository sitegr/assets/images
 
 ### [Σύνδεσμος pull request](https://github.com/ioniodi/sitegr/pull/87#pullrequestreview-606593660)
-### [Εκτελέσιμο Netlify](https://hopeful-rosalind-f96cf5.netlify.app/people/)
+### [Εκτελέσιμο Netlify](https://hopeful-rosalind-f96cf5.netlify.app/people/mouratidis/)
 ![PARADOTEO_3](https://user-images.githubusercontent.com/56065092/118785102-33976900-b899-11eb-814b-264c80a3a26b.png)
 
 
 ## <a name="Παραδοτέο 4">Παραδοτέο 4</a>
-#### [Commit - 1η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/94aa1a1f6eaa7ec0ca14bb003855f84f77796b96#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-### 1η άσκηση γραμμής εντολών</a>
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/94aa1a1f6eaa7ec0ca14bb003855f84f77796b96#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+### 1η άσκηση γραμμής εντολών - Set up continuous integration</a>
 
 * [x] Έκανα clone του αποθετηρίου μου [cyclenikolaos/cv](https://github.com/cyclenikolaos/cv) στον υπολογιστή μου
 * [x] Τροποποίησα το αρχείο [data.yml](https://github.com/cyclenikolaos/cv/blob/master/_data/data.yml) με τα δικά μου στοιχεία
-* [x] Έκανα add, commit και push για να ανεβάσω τις αλλαγές μου
+* [x] Έκανα add, commit και push για να ενημερώσω το repository
 
 ### [asciinema link Παραδοτέο 4](https://asciinema.org/a/399140)
 ![PARADOTEO_4](https://user-images.githubusercontent.com/56065092/118781510-cdf5ad80-b895-11eb-9bc7-98a8ee950373.png)
 
 ## <a name="Παραδοτέο 5">Παραδοτέο 5</a>
-#### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/5ff374f80f7952d5d66dcc25521b8b3320d3ec17#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
-### 1ο συμμετοχικό περιεχόμενο</a>
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/5ff374f80f7952d5d66dcc25521b8b3320d3ec17#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+### 1ο συμμετοχικό περιεχόμενο - Παραδοτέα Α1 και Α2</a>
 
 * [x] Έκανα fork τα repository site, images, _gallery
 * [x] Έκανα εισαγωγή των φωτογραφιών [fortran.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran.jpg) και [fortran-thumb.jpg](https://github.com/cyclenikolaos/images/blob/master/fortran-thumb.jpg) στο repository [cyclenikolaos/images](https://github.com/cyclenikolaos/images)
@@ -87,12 +83,18 @@
 ### [asciinema link Παραδοτέο 5](https://asciinema.org/a/400978)
 ![PARADOTEO_5](https://user-images.githubusercontent.com/56065092/118792805-abb55d00-b8a0-11eb-99cc-9d8d299ea8b2.png)
 
-### [Εκτελέσιμο Netlify](https://cyclenikolaos.netlify.app/)
+* [x] ### [Εκτελέσιμο Netlify του βιβλίου](https://cyclenikolaos.netlify.app/)
+### [Εκτελέσιμο gallery/multitouch](https://cyclenikolaos.netlify.app/gallery/multitouch/)
+### [Εκτελέσιμο slides/archetypes multitouch](https://cyclenikolaos.netlify.app/slides/archetypes/)
+### [Εκτελέσιμο timeline/systems](https://cyclenikolaos.netlify.app/timeline/systems/)
+### [Εκτελέσιμο gallery/fortran](https://cyclenikolaos.netlify.app/gallery/fortran/)
+### [Εκτελέσιμο slides/programming fortran](https://cyclenikolaos.netlify.app/slides/programming/)
+### [Εκτελέσιμο timeline/programming](https://cyclenikolaos.netlify.app/timeline/programming/)
 ![PARADOTEO_5_2](https://user-images.githubusercontent.com/56065092/118793268-1cf51000-b8a1-11eb-8798-e2dbc60deb86.png)
 ![PARADOTEO_5_3](https://user-images.githubusercontent.com/56065092/118797604-719a8a00-b8a5-11eb-9030-06e770d59d81.png)
 
 ## <a name="Παραδοτέο 6">Παραδοτέο 6</a>
-#### [Commit - 2η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/97c9331c42ab72feb6e304f6bfe53113c07c80ac#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/97c9331c42ab72feb6e304f6bfe53113c07c80ac#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### 2η άσκηση γραμμής εντολών - set-up continuous integration</a>
 
 * [x] Κατέβασα την εφαρμογη ntfy για την αποστολή στο desktop ειδοποίησεων όταν ολοκληρώνεται ένα task
@@ -104,7 +106,7 @@
 ![PARADOTEO_6](https://user-images.githubusercontent.com/56065092/118794770-93ded880-b8a2-11eb-98c4-a2fd7041e483.png)
 
 ## <a name="Παραδοτέο 7">Παραδοτέο 7</a>
-#### [Commit - Βιογραφικό](https://github.com/cyclenikolaos/sw/commit/bcf4c2c6baf062a5df12c58f1da0671a76488427#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/bcf4c2c6baf062a5df12c58f1da0671a76488427#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### Βιογραφικό - Δημιουργία αρχείου pdf</a>
 
 * [x] Εγκατέστησα το weasyprint με την εντολή pip3 install weasyprint
@@ -119,7 +121,7 @@
 Ανέβασα το [issue #205](https://github.com/ioniodi/sitegr/issues/205) για να προσθέσω το λογότυπο του τμήματος στην αρχική σελίδα αλλά δεν πήρε ποτέ το green light για υλοποίηση.
 
 ## <a name="Παραδοτέο 9">Παραδοτέο 9</a>
-#### [Commit - 3η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### 3η άσκηση γραμμής εντολών - Δημιουργία ειδοποιήσεων στο server μου</a>
 
 * [x] Δημιούργησα λογαριασμό, workspace και channel στο [Slack](https://app.slack.com/client/T020AJNNFQR/C020AJR2B25/user_profile/U01V8TPAW9K)
@@ -135,7 +137,7 @@
 ![PARADOTEO_9](https://user-images.githubusercontent.com/56065092/118656478-3a6ba080-b7f3-11eb-8393-f64499c4d146.png)
 
 ## <a name="Παραδοτέο 10">Παραδοτέο 10</a>
-#### [Commit - Συμμετοχικό περιεχόμενο](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/f04a88b8434c726d6c34c3eef63d3a1e930a780a#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### 2ο συμμετοχικό περιεχόμενο - Παραδοτέα Β1 και Β2</a>
 
 * [x] Έκανα fork το repository pibook/extras
@@ -163,7 +165,7 @@
 #### [Biography bio-backus.md](https://github.com/cyclenikolaos/site/blob/master/_biography/bio-backus.md)
 
 ## <a name="Παραδοτέο 11">Παραδοτέο 11</a>
-#### [Commit - 4η άσκηση γραμμής εντολών](https://github.com/cyclenikolaos/sw/commit/ece0bff3dea87a559e2ec8b5537017414bbe3e42#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
+#### [Commit](https://github.com/cyclenikolaos/sw/commit/ece0bff3dea87a559e2ec8b5537017414bbe3e42#diff-0425ee81fe31ce506209427f4a4facfbd5626cc0327144a710f090fb86a2f486)
 ### 4η άσκηση γραμμής εντολών - Μέτρηση επόδοσης εκτέλεσης python script</a>
 Χρήση της εντολής hyperfine για τη μέτρηση του χρόνου εκτέλεσης script σε γλώσσα python.
 
