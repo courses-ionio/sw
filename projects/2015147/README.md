@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 |<a href="#P9"> Άσκηση γραμμής εντολών </a>|
 | 10 | Συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 |<a href="#P11"> Άσκηση γραμμής εντολών </a>|
 | 12 | Τελική αναφορά* |
 
 ## <a name="P1">ΕΙΣΑΓΩΓΗ </a>
@@ -145,6 +145,18 @@ Monitor the performance of your python scripts and visualize them with colors an
 
 Εγγραφή τερματικού: https://asciinema.org/a/415276
 
+## <a name="P11">Παραδοτέο 11 </a>
+
+### Άσκηση γραμμής εντολών 4
+
+Send notifications on important server events
+
+Αρχικά τρέχω την εντολή `mosquitto_sub -h localhost -t test` για να δημιουργήσω ένα νέο topic και στη συνέχεια στέλνω μηνύματα σε αυτό με την εντολή
+`mosquitto_pub -h localhost -t test -m` + κάποιο μήνυμα.
+
+Εγγραφή τερματικού: https://asciinema.org/a/415288
+
+<img src="https://github.com/p15bala/sw-images/blob/main/mqttwarn.png" width="720" height="480">
 
 ## Απαντήσεις Video Quiz*
 
