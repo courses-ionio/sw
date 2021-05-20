@@ -130,6 +130,8 @@ Send a notifcation when a big task completes, eg download, compiling, etc.
 
 Με τη χρήση του weasyprint,το οποίο μας επιτρέπει να μετατρέπουμε ιστοσελίδες σε αρχεία pdf, δημιούργησα το αρχείο [cv.pdf](https://github.com/p15bala/cv/blob/gh-pages/pdf/cv.pdf) και το πρόσθεσα σε έναν νέο φάκελο [pdf](https://github.com/p15bala/cv/tree/gh-pages/pdf) στο αποθετήριο του βιογραφικού.Στη συνέχεια πρόσθεσα την επιλογή για τη λήψη του αρχείου pdf στην [ιστοσελίδα του βιογραφικού](https://p15bala.github.io/cv/).
 
+Εγγραφή τερματικού: https://asciinema.org/a/407912
+
 ## <a name="P9">Παραδοτέο 9 </a>
 
 ### Άσκηση γραμμής εντολών 3
