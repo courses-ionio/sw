@@ -17,8 +17,8 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - |
 | 9 | Άσκηση γραμμής εντολών | ✓ |
 | 10 | συμμετοχικό περιεχόμενο | - |
-| 11 | Άσκηση γραμμής εντολών | - |
-| 12 | Τελική αναφορά | - |
+| 11 | Άσκηση γραμμής εντολών | ✓ |
+| 12 | Τελική αναφορά | ✓ |
 
 ## Εβδομάδα 1
 
@@ -39,7 +39,7 @@
   3. Το προσωπικό μου [repository](https://github.com/akontinis/sitegr) που έγιναν οι αλλαγές.
 
 ## Εβδομάδα 4
-Ασκήσεις γραμμής εντολών
+Ασκήση γραμμής εντολών
 
 send a notifcation when a big task completes, eg download, compiling, etc	
 
@@ -69,7 +69,7 @@ send a notifcation when a big task completes, eg download, compiling, etc
 
 
 ## Εβδομάδα 6
-Ασκήσεις γραμμής εντολών
+Ασκήση γραμμής εντολών
 
 monitor the performance of your python scripts and visualize them with colors and/or spark lines	
 
@@ -84,3 +84,23 @@ create a docker image for your development stack
 
 Για την παρακατω ασκηση χρησιμοποιησα ένα Docker Image για το site του βιογραφικού μου.Ετσι καθε φορα θα κανω run ή build το βιογραφικό,χωρις χρειάζεται να κανω εγκασταση την γλωσσα ruby και το jekyll στον υπολογιστή μου.
 [![asciicast](https://asciinema.org/a/414607.svg)](https://asciinema.org/a/414607)
+
+
+## Εβδομάδα 11
+Ασκήση γραμμής εντολών
+
+create an agent for news
+
+Για το παρακάτω παραδοτέο έφτιαξα ένα news agent o οποίος παίρνει τα δεδομένα από την σελίδα του πανεπιστημίου.
+Αρχικά εγκατάστησα το Docker container του Huginn και στην συνεχεία συνδέθηκα στην διεύθυνση localhost με port 3000.
+
+[![asciicast](https://asciinema.org/a/415408.svg)](https://asciinema.org/a/415408)
+
+
+Αφού συνδέθηκα δημιούργησα έναν Website Agent ο οποίος τραβούσε τις ειδήσεις ένα μια ώρα και εμφάνιζε τις ειδήσεις των τελευταίων 7 ήμερων.![Screenshot_20210521_045333](https://user-images.githubusercontent.com/29643887/119058629-6cd5f300-b9d7-11eb-828b-69868f327e30.png)
+
+
+
+Ύστερα έφτιαξα άλλον ένα Post Agent ο οποίος του έβαλα το δικό μου Webhook που είχα δημιουργήσει για το Server μου στο Slack και μετά έκανα run dry και έστειλε τα μηνύματα στο κανάλι.
+![Screenshot_20210521_043853](https://user-images.githubusercontent.com/29643887/119057537-5333ac00-b9d5-11eb-8eb6-e40364896daa.png)
+
