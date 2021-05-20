@@ -125,7 +125,7 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 > - [Block Based Programming](https://github.com/NikosKar23/site/blob/master/_case-study/block_based_programming.md)
 > - [Block Based Programming cs](https://github.com/NikosKar23/site/blob/master/_case-study/cs-block_based_programming.md)
  
- [Netlify Link](https://festive-bell-0093e7.netlify.app//case-study/block_based_programming/) - Block Based Programming Case Study
+ [Netlify Link](https://nikoskar23book.netlify.app/case-study/block_based_programming/) - Block Based Programming Case Study
 
 ### **Παραπομπές**
 
@@ -144,7 +144,7 @@ B2) Μια νέα βιογραφία
 > - [Mitchel Resnick Image](https://github.com/NikosKar23/images/blob/master/Mitchel_Resnick.jpg)
 > - [Mitchel Resnick 160px Image](https://github.com/NikosKar23/images/blob/master/Mitchel-Resnick-thumb.jpg)
  
- [Netlify Link](https://festive-bell-0093e7.netlify.app/biography/mitchel-resnick/) - Mitchel Resnick Biography
+ [Netlify Link](https://nikoskar23book.netlify.app/biography/mitchel-resnick/) - Mitchel Resnick Biography
 
 ### **Παραπομπές**
 > - [1] https://www.ted.com/speakers/mitch_resnick
