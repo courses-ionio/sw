@@ -17,7 +17,7 @@
 | 7 | [βιογραφικό](#Βιογραφικό-2) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | [Άσκηση γραμμής εντολών 3](#Άσκηση-γραμμής-εντολών-3) | 
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | [Συμμετοχικό περιεχόμενο 2](#Συμμετοχικό-Περιεχόμενο-2) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 | Β  | [Βίντεο-Quiz](#Βίντεο-Quiz) |
@@ -768,3 +768,11 @@ file://wsl%24/Ubuntu/home/p18papa/data/teliko.svg
 [Gallery image](https://p18papa-pibook.netlify.app/gallery/microsoft-cortana/) ,
 [Slides](https://p18papa-pibook.netlify.app/slides/models/) ,
 [Timeline](https://p18papa-pibook.netlify.app/timeline/collaboration/)
+
+# Συμμετοχικό Περιεχόμενο 2
+
+Για τις ανάγκες ολοκλήρωσης του συμμετοχικού περιεχομένου 2, πρόσθεσα μια νέα μελέτη περίπτωσης και μια νέα βιογραφία η οποία σχετίζεται με την μελέτη περίπτωσης που πρόσθεσα. Συγκεκριμένα έβαλα το σύστημα της Cortana της microsoft και ώς βιβλιογραφία έβαλα ένα απο τα μεγαλύτερα πρόσωπα που πέρασαν απο τον χώρο της Microsoft, τον Bill Gates. Αφού έγραψα μια σύντομη περιγραφή για την cortana το πρόσθεσα στο αποθετήριο [μελέτη περίπτωσης](https://p18papa-pibook.netlify.app/case-study/cortana/) . Στην συνέχεια πρόσθεσα δυο φωτογραφίες του Bill Gates μια σε [κανικο μέγεθος](https://github.com/MariaXristinaPapatheodwrou/images/blob/2018027/bill-gates.png) και μια [thumb](https://github.com/MariaXristinaPapatheodwrou/images/blob/2018027/bill-gates-thumb.png) Τέλος έκανα ενσωμάτωση με το netlify και τα απαραίτητα link βρίσκονται στην πορεία. 
+[Site Cortana](https://github.com/MariaXristinaPapatheodwrou/site/blob/2018027/_case-study/cortana.md) , [Site Bio](https://github.com/MariaXristinaPapatheodwrou/site/blob/2018027/_biography/bill-gates.md) , [ενσωμάτωση bio με netlify](https://p18papa-pibook.netlify.app/biography/bill-gates/)
+
+-Πηγές: για τις πληροφορίες σχετικά με την [cortana](https://privacy.commonsense.org/privacy-report/Microsoft-Cortana) 
+για τις πληροφορίες σχετικά με τον [Bill Gates](https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B9%CE%BB_%CE%93%CE%BA%CE%AD%CE%B9%CF%84%CF%82)
