@@ -49,11 +49,11 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 Προσθήκη περιεχομένου διοικητικού προσωπικού Έυα Κρανιώτη
 
-**Pull request:** [link](https://github.com/ioniodi/sitegr/pull/42)
+**Pull request:** [pull request link](https://github.com/ioniodi/sitegr/pull/42)
 
-**Issue:** [link](https://github.com/ioniodi/sitegr/issues/30)
+**Issue:** [issue link](https://github.com/ioniodi/sitegr/issues/30)
 
-**Demo:** [link](https://tender-johnson-3b8f3e.netlify.app/people/)
+**Demo:** [demo link](https://tender-johnson-3b8f3e.netlify.app/people/)
 
 # Άσκηση γραμμής εντολών 
 ## Τέταρτη εβδομάδα
