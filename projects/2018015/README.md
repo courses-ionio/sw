@@ -58,11 +58,21 @@ Link για την **[ιστοσελίδα](https://efthimis015.github.io/online
 
 Ως θέμα για το παραδοτέο 3 επέλεξα την προσθήκη της ανακοίνωσης **"Πρόσκληση εκδήλωσης ενδιαφέροντος για την συγκρότηση άμισθης Επιτροπής Ισότητας των Φύλων (Ε.Ι.Φ.)"**. Αφού δημιούργησα το **issue** για το θέμα που επέλεξα, η διαδικασία μου ξεκίνησε αφότου έλαβα το **green light**. Αντιμετώπισα ένα χαζό λαθάκι, όμως λύθηκε αμέσως με την βοήθεια των συναδέλφων μου. Τέλος προχώρησα σε **pull request**, το οποίο και έγινε δεκτό.
 
+   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%B9%CE%B4%CE%B1.png" width=1000/>
+   
+   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%B9%CE%B4%CE%B12.png" width=1000/>
+   
+   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%B9%CE%B4%CE%B13.png" width=1000/>
+
+
+
  Link για το **[issue](https://github.com/ioniodi/sitegr/issues/90?fbclid=IwAR1YXe1MUA7LuFImX4o0AAwVksFW633aR01pFrnwDRPufiuVxe6pSROvklo)**.
  
  Link για το **[pull request](https://github.com/ioniodi/sitegr/pull/121)**.
  
  Link για την προβολή της **[ανακοίνωσης](https://epic-hamilton-da9ac8.netlify.app/posts/2021/01/21/prosklhsh-ekdhlwshs-endiaferontos/)**.
+ 
+ 
  
  
  
