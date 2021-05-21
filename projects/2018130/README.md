@@ -37,8 +37,6 @@
 
 link της ιστοσελίδας: [jekyll cv](https://brave-swanson-35c9b6.netlify.app)
 
-`Notes:` Το link για το netlify λειτουργεί κανονικά απλά αργεί πολύ να φορτώσει. 
-
 link του public repository: [repository](https://github.com/sophia-ts/jekyll_cv)
 
 ### [asciinema](https://asciinema.org/a/398284)
@@ -95,6 +93,8 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 -  **Systems:** [netlify](https://wizardly-saha-b0bb28.netlify.app/timeline/systems/)
 
 Επίσης, είχε γίνει προσθήκη 2 ακόμα εικονών για τον [3d-printer](https://wizardly-saha-b0bb28.netlify.app/gallery/3d-printer/) και για [mp3-player](https://wizardly-saha-b0bb28.netlify.app/gallery/mp3-player/) αλλά μετά από προσωπική συνάντηση καταλήξαμε στο συμπέρασμα πως δεν ήταν η ιδανική επιλογή για το παραδοτέο αυτό.
+
+`Notes:` Επειδή είχε ένα πρόβλημα με την ταχύτητα κατά την φόρτωση της ιστοσελίδας, αποφάσησα να εγκαταστήσω ένα plugin στο Netlify όπου κάνει optimize τις εικόνες. Μπορώ να πως πως η ταχύτητα βελτιώθηκε αισθητά.
 
 **[asciinema link](https://asciinema.org/a/400534)**
 
