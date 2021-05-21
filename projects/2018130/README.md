@@ -76,23 +76,26 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 - **[forked images repository](https://github.com/sophia-ts/images)**
 
-- **Link για το site:** https://wizardly-saha-b0bb28.netlify.app
 
-- **Link για την πρώτη εικόνα:** [GIMP](https://wizardly-saha-b0bb28.netlify.app/gallery/gimp/)
+Άλλαξα τα links για το delpoy γιατί είχα κάποια προβλήματα με τα permiitions στο netlify. Τα links στην αναφορά είναι πλήρως λειτουργικά.
 
-- **Link για την δεύτερη εικόνα:** [Debian](https://wizardly-saha-b0bb28.netlify.app/gallery/debian/)
+- **Link για το site:** https://friendly-cori-26d463.netlify.app
 
--  **Tools:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/tools/)
+- **Link για την πρώτη εικόνα:** [GIMP](https://friendly-cori-26d463.netlify.app/gallery/gimp/)
 
--  **Γραφική διεπαφή χρήστη:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/gui/)
+- **Link για την δεύτερη εικόνα:** [Debian](https://friendly-cori-26d463.netlify.app/gallery/debian/)
 
--  **Μοντέλα:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/models/)
+-  **Tools:** [netlify](https://friendly-cori-26d463.netlify.app/slides/tools/)
 
--  **Multimedia:** [netlify](https://wizardly-saha-b0bb28.netlify.app/timeline/multimedia/)
+-  **Γραφική διεπαφή χρήστη:** [netlify](https://friendly-cori-26d463.netlify.app/slides/gui/)
 
--  **Systems:** [netlify](https://wizardly-saha-b0bb28.netlify.app/timeline/systems/)
+-  **Μοντέλα:** [netlify](https://friendly-cori-26d463.netlify.app/slides/models/)
 
-Επίσης, είχε γίνει προσθήκη 2 ακόμα εικονών για τον [3d-printer](https://wizardly-saha-b0bb28.netlify.app/gallery/3d-printer/) και για [mp3-player](https://wizardly-saha-b0bb28.netlify.app/gallery/mp3-player/) αλλά μετά από προσωπική συνάντηση καταλήξαμε στο συμπέρασμα πως δεν ήταν η ιδανική επιλογή για το παραδοτέο αυτό.
+-  **Multimedia:** [netlify](https://friendly-cori-26d463.netlify.app/timeline/multimedia/)
+
+-  **Systems:** [netlify](https://friendly-cori-26d463.netlify.app/timeline/systems/)
+
+Επίσης, είχε γίνει προσθήκη 2 ακόμα εικονών για τον [3d-printer](https://friendly-cori-26d463.netlify.app/gallery/3d-printer/) και για [mp3-player](https://friendly-cori-26d463.netlify.app/gallery/mp3-player/) αλλά μετά από προσωπική συνάντηση καταλήξαμε στο συμπέρασμα πως δεν ήταν η ιδανική επιλογή για το παραδοτέο αυτό.
 
 `Notes:` Επειδή είχε ένα πρόβλημα με την ταχύτητα κατά την φόρτωση της ιστοσελίδας, αποφάσησα να εγκαταστήσω ένα plugin στο Netlify όπου κάνει optimize τις εικόνες. Μπορώ να πως πως η ταχύτητα βελτιώθηκε αισθητά.
 
