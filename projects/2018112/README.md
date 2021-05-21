@@ -62,11 +62,13 @@ A1: Δύο νέες εικόνες με λεζάντα και με ελεύθε�
 > - [Lego Mindstorms NXT Image](https://github.com/NikosKar23/images/blob/master/lego-mindstorms-nxt.jpg)
 > - [Lego Mindstorms NXT 160px Image](https://github.com/NikosKar23/images/blob/master/lego-mindstorms-nxt-thumb.jpg)
 
+ - [Netlify Link Lego Mindstorms NXT](https://nikoskar23book.netlify.app/gallery/lego-mindstorms-nxt/)
 
 > - [Blockly Table](https://github.com/NikosKar23/_gallery/blob/master/blockly.md)
 > - [Blockly Image](https://github.com/NikosKar23/images/blob/master/blockly.png)
 > - [Blockly 160px Image](https://github.com/NikosKar23/images/blob/master/blockly-thumb.png)
 
+ - [Netlify Link Blockly](https://nikoskar23book.netlify.app/gallery/blockly/)
 
 ### **Παραπομπές**
 
@@ -78,9 +80,14 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
 Σετ από διαφάνειες: 
 Προσθήκη στην κατηγορία "Εργαλεία και τεχνικές" τις διαφάνειες blockly και lego-mindstorms-nxt. [link](https://github.com/NikosKar23/site/blob/master/_slides/tools.md)
 
+- [Netlify Link Διαφάνειες](https://nikoskar23book.netlify.app/slides/tools/)
+- [Netlify Link Διαφάνεια Blockly](https://nikoskar23book.netlify.app/images/blockly.png)
+- [Netlify Link Διφάνεια Lego Mindstorms NXT](https://nikoskar23book.netlify.app/images/lego-mindstorms-nxt.jpg)
+ 
 Χρονολόγιο:
 Προσθήκη στην κατηγορία "Εκπαιδευτική τεχνολογία" τις εικόνες blockly και lego-mindstorms-nxt. [link](https://github.com/NikosKar23/site/blob/master/_timeline/learning.md)
 
+- [Netlify Link Χρονολόγιο](https://nikoskar23book.netlify.app/timeline/learning/)
 
 [Asciinema](https://asciinema.org/a/400811): Adding the submodules
 
