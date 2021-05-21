@@ -97,6 +97,13 @@ management και για να γίνει η συνεργασία των προγ
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
 - [Images Repository](https://github.com/stavrospanakakis/images)
 
+- [Netlify Site](https://wizardly-fermi-8f01f2.netlify.app/)
+- [DuckDuckGo Netlify](https://wizardly-fermi-8f01f2.netlify.app/gallery/duckduckgo/)
+- [Jira Netlify](https://wizardly-fermi-8f01f2.netlify.app/gallery/jira/)
+- [Slides Netlify](https://wizardly-fermi-8f01f2.netlify.app/slides)
+- [Timeline Netlify](https://wizardly-fermi-8f01f2.netlify.app/timeline/)
+
+
 [![asciicast](https://asciinema.org/a/400505.svg)](https://asciinema.org/a/400505)
 
 ## <div id="term2">6. Άσκηση γραμμής εντολών</div>
@@ -167,6 +174,10 @@ Uncle Bob ήταν επειδή έχει παίξει μεγάλο ρόλο στ
 - [Gallery Repository](https://github.com/stavrospanakakis/_gallery)
 - [Images Repository](https://github.com/stavrospanakakis/images)
 - [Extra Repository](https://github.com/stavrospanakakis/extras)
+
+- [Netlify Site](https://wizardly-fermi-8f01f2.netlify.app/)
+- [Apple Airpods Netlify](https://wizardly-fermi-8f01f2.netlify.app/case-study/airpods/)
+- [Uncle Bob Netlify](https://wizardly-fermi-8f01f2.netlify.app/biography/uncle-bob/)
 
 ## <div id="term4">11. Άσκηση γραμμής εντολών</div>
 build and deploy your static site and your cv dynamically every time you make a small change in the source files
