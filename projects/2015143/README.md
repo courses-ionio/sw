@@ -146,21 +146,21 @@ Link για τη μελέτη περίπτωσης στο site : https://miltos9
 
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_case-study/smalltalk.md
 ### Πηγές :
-1: 
+1: https://pibook.epidro.me/
 
-2: 
+2: https://www.youtube.com/watch?v=8pTEmbeENF4 ( στο video ο Β.Victor κάνει λόγο για το περιεχόμενο της μέλετης, όμως η πρόβλεψη του για τον τρόπο προγραμματισμού αποδεικνύεται λανθασμένη.)
 
-3: 
+3: https://en.wikipedia.org/wiki/Smalltalk
 
 # B2 : Βιογραφία
 
-Link για τη Βιογραφία στο site : 
+Link για τη Βιογραφία στο site : https://miltos9.netlify.app/biography/adele-goldberg/
 
-Link για το αποθετήριο : 
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_biography/adele-goldberg.md
 ### Πηγές : 
-1 : 
+1 : https://www.youtube.com/watch?v=IGNiH85PLVg&ab_channel=ComputerHistoryMuseum
 
-2 : 
+2 : http://www.computinghistory.org.uk/det/47368/Adele-Goldberg/
 
-3 :
+3 : https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)
 
