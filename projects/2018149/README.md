@@ -15,8 +15,8 @@
 | 7 | [βιογραφικό](#7-βιογραφικό) |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |
 | 9 | [Άσκηση γραμμής εντολών](#9-άσκηση-γραμμής-εντολών) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
+| 10 | [Συμμετοχικό περιεχόμενο](#10-συμμετοχικό-περιεχόμενο) |
+| 11 | [Άσκηση γραμμής εντολών](#11-άσκηση-γραμμής-εντολών) |
 | 12 | Τελική αναφορά* |
 
 Το παρόν αρχείο αποτελεί την αναφορά μου για το μάθημα **Τεχνολογία λογισμικού** και περιέχει περιγραφές για κάθε εργασία που υλοποίηθηκε κατά την διάρκεια της ολοκλήρωσης του μαθήματος.
@@ -59,31 +59,6 @@
 - [[dimpram/sitegr](https://github.com/dimpram/sitegr)]
 - [[dimpram/minimal-ionio](https://github.com/dimpram/minimal-ionio/tree/fix-footer-responsiveness)]
 
-
-Παράλληλα εκείνη την χρονική περίοδο πραγματοποίσα μερικά Pull request reviews από συνεισφορές συναδέλφων από τα οποία μερικά κατάφερα να τα κάνω και merge στο κεντρικό αποθετήριο.Επιπλέον έδωσα συμβουλές ακόμα και σε περιπτώσεις που δεν μου ζητήθηκε ευθέως. Παρακάτω φαίνεται όλη η συνεργατική δραστηριότητα μου:
-
-- [Προσθήκη Ανακοίνωσης "Εκδήλωση Παρουσιάσεων Ατομικών Εργασιών Φοιτητών ΠΜΣ “Ψηφιακές Εφαρμογές και Καινοτομία” 2020-2021" #127](https://github.com/ioniodi/sitegr/pull/127)
-- [Adding course "Graph Theory and Applications" in the 6th semester #112](https://github.com/ioniodi/sitegr/pull/112#pullrequestreview-608424712)
-- [Προσθήκη ανακοίνωσης "15ο Διεθνές Εργαστήριο Σημασιολογικής και Κοινωνικής Μέσης Προσαρμογής & Εξατομίκευσης «SMAP 2020» (ONLINE)"#106](https://github.com/ioniodi/sitegr/pull/106)
-- [Προσθήκη Πρακτικής Άσκησης #103](https://github.com/ioniodi/sitegr/pull/103#event-4423730770)
-- [Προσθήκη ανακοίνωσης "Ανακοίνωση δήλωση θέματος και τριμελούς πτυχιακής Φεβρουάριος - Μάρτιος 2021" #135](https://github.com/ioniodi/sitegr/pull/135)
-- [Αλλαγές στο μάθημα «Έξυπνα Περιβάλλοντα και Εφαρμογές» #153](https://github.com/ioniodi/sitegr/pull/153)
-- [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
-- [Προσθήκη ΕΔΙΠ Προσωπικού : Σωτηροπούλου Άννα](https://github.com/ioniodi/sitegr/pull/108)
-- [Add course "Distributed Network Systems" #113](https://github.com/ioniodi/sitegr/pull/113)
-- [Μεταφορά-μετατροπή της σελίδας εράσμους σε ανακοίνωση #161](https://github.com/ioniodi/sitegr/pull/161)
-- [Προσθήκη ανακοίνωσης "Διαβούλευση για το Σχέδιο του Εσωτερικού Κανονισμού του Ιονίου Πανεπιστημίου" #98](https://github.com/ioniodi/sitegr/pull/98)
-- [Προσθήκη Ανακοίνωσης "Πρόσκληση εκδήλωσης ενδιαφέροντος για εγγραφή στο Μητρώο Φοιτητών της Εθνικής Αρχής Ανώτατης Εκπαίδευσης (ΕΘΑΑΕ)" #116](https://github.com/ioniodi/sitegr/pull/116)
-- [Προσθήκη ανακοίνωσης #129](https://github.com/ioniodi/sitegr/pull/129)
-- [2018171 add multimedia details #130](https://github.com/ioniodi/sitegr/pull/130/)
-- [Προσθήκη των πληροφοριών του μαθήματος “Ελεύθερη Επιλογή” #132](https://github.com/ioniodi/sitegr/pull/132)
-- [Προσθήκη της ανακοίνωσης "Κυκλοφόρησε το πρώτο τεύχος του ηλεκτρονικού ενημερωτικού δελτίου ionio" που δημοσιεύτηκε στις 09-02-2021 ώρα 10:52 #156](https://github.com/ioniodi/sitegr/pull/156)
-- [Προσθήκη μαθήματος "Εφαρμοσμένος Προγραμματισμός με Python" #126](https://github.com/ioniodi/sitegr/pull/126)
-- [Βελτιστοποίηση της SCSS του footer #177](https://github.com/ioniodi/sitegr/issues/177)
-- [Δημιουργία δυνατότητας προσθήκης zoom link στα profile κάθε εκπαιδευτικού της σχολής #181](https://github.com/ioniodi/sitegr/issues/181)
-- [Προσθήκη "Back to Top" Button #188](https://github.com/ioniodi/sitegr/issues/188)
-- [Διόρθωση εμφάνισης των link "Learn More" στην βασική σελίδα μέσω οθόνης κινητού. #194](https://github.com/ioniodi/sitegr/issues/194)
-- [Διαγραφή των κουμπιών "Learn more" και προσθήκη λινκ στους τίτλους. #42](https://github.com/ioniodi/minimal-ionio/pull/42#pullrequestreview-653615950)
 
 ## 4. Άσκηση γραμμής εντολών
 
@@ -147,10 +122,7 @@ Link του deployment μου: https://dimpram-pibook.netlify.app/
 
 Ως δεύτερη συνεισφορά στην σελίδα ήταν η διόρθωση της θέσης εμφάνισης των περιγραφών των μαθημάτων. Όσα μαθήματα είχαν κείμενο πέρα από την μεταβλητή excerpt, εμφανιζόντουσαν κάτω από την βιβλιογραφία πράγμα που ήταν μη ορθο. Έτσι με την διόρθωση του κώδικα το αποτέλεσμα ήταν πλέον το επιθυμητό. Παρακάτω φαίνεται η σύγκριση πριν (αριστερά) και μετά (δεξιά) μετά την συνεισφορά.
 
-<p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/44473195/110914149-a971d800-831e-11eb-85ae-40d9154c0415.png" width="460" height="460">
-  <img align="right" src="https://user-images.githubusercontent.com/44473195/111343371-09041680-8684-11eb-992b-018c052a6bb8.png" width="460" height="460">
-</p>
+![out](https://user-images.githubusercontent.com/44473195/119096177-eb548400-ba1b-11eb-9b47-1c0759a54ec7.png)
 
 
 Για την υλοποίηση αυτών τον αλλαγών χρησιμοποίησα το δικο μου fork του αποθετηρίου minimal-ionio και αξιοποιόντας το workflow ["Αλλαγή στο minimal-ionio"](https://github.com/ioniodi/sitegr/wiki/Workflow#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%83%CF%84%CE%BF-minimal-ionio) έκανα όλες μου τις δοκιμές αλλαγές τοπικά σε νέο branch στο minmal-ionio. Έπειτα, έφτιαξα ένα καινούριο deploy στο netlify που χρησιμοποιούσε το καινούριο branch που είχα στο minimal-ionio και χρησιμοποίησα αυτό το deploy ως preview για το pull request μου.
@@ -172,3 +144,38 @@ Link του deployment μου: https://dimpram-pibook.netlify.app/
 To python script που χρησιμοποιήθηκε υπολογίζει την εντροπία ενός κειμένου. Περισσότερες λεπτομέρειες μπορούν να βρεθούν [εδώ](https://github.com/dimpram/entropy-calculator)
 
 [![asciicast](https://asciinema.org/a/vFRIQGcqCorIwbH55j8jRr6Kv.svg)](https://asciinema.org/a/vFRIQGcqCorIwbH55j8jRr6Kv)
+
+## 10. Συμμετοχικό περιεχόμενο
+
+## 11. Άσκηση γραμμής εντολών
+
+## 12. Τελική Αναφορά
+
+Συμπέρασμα
+
+Παράλληλα εκείνη την χρονική περίοδο πραγματοποίσα μερικά Pull request reviews από συνεισφορές συναδέλφων από τα οποία μερικά κατάφερα να τα κάνω και merge στο κεντρικό αποθετήριο.Επιπλέον έδωσα συμβουλές ακόμα και σε περιπτώσεις που δεν μου ζητήθηκε ευθέως. Παρακάτω φαίνεται όλη η συνεργατική δραστηριότητα μου:
+
+- [Προσθήκη Ανακοίνωσης "Εκδήλωση Παρουσιάσεων Ατομικών Εργασιών Φοιτητών ΠΜΣ “Ψηφιακές Εφαρμογές και Καινοτομία” 2020-2021" #127](https://github.com/ioniodi/sitegr/pull/127)
+- [Adding course "Graph Theory and Applications" in the 6th semester #112](https://github.com/ioniodi/sitegr/pull/112#pullrequestreview-608424712)
+- [Προσθήκη ανακοίνωσης "15ο Διεθνές Εργαστήριο Σημασιολογικής και Κοινωνικής Μέσης Προσαρμογής & Εξατομίκευσης «SMAP 2020» (ONLINE)"#106](https://github.com/ioniodi/sitegr/pull/106)
+- [Προσθήκη Πρακτικής Άσκησης #103](https://github.com/ioniodi/sitegr/pull/103#event-4423730770)
+- [Προσθήκη ανακοίνωσης "Ανακοίνωση δήλωση θέματος και τριμελούς πτυχιακής Φεβρουάριος - Μάρτιος 2021" #135](https://github.com/ioniodi/sitegr/pull/135)
+- [Αλλαγές στο μάθημα «Έξυπνα Περιβάλλοντα και Εφαρμογές» #153](https://github.com/ioniodi/sitegr/pull/153)
+- [Προσθήκη Ανακοίνωσης:"Διεθνές Συνέδριο Sunbelt XXVII" #154](https://github.com/ioniodi/sitegr/pull/154)
+- [Προσθήκη ΕΔΙΠ Προσωπικού : Σωτηροπούλου Άννα](https://github.com/ioniodi/sitegr/pull/108)
+- [Add course "Distributed Network Systems" #113](https://github.com/ioniodi/sitegr/pull/113)
+- [Μεταφορά-μετατροπή της σελίδας εράσμους σε ανακοίνωση #161](https://github.com/ioniodi/sitegr/pull/161)
+- [Προσθήκη ανακοίνωσης "Διαβούλευση για το Σχέδιο του Εσωτερικού Κανονισμού του Ιονίου Πανεπιστημίου" #98](https://github.com/ioniodi/sitegr/pull/98)
+- [Προσθήκη Ανακοίνωσης "Πρόσκληση εκδήλωσης ενδιαφέροντος για εγγραφή στο Μητρώο Φοιτητών της Εθνικής Αρχής Ανώτατης Εκπαίδευσης (ΕΘΑΑΕ)" #116](https://github.com/ioniodi/sitegr/pull/116)
+- [Προσθήκη ανακοίνωσης #129](https://github.com/ioniodi/sitegr/pull/129)
+- [2018171 add multimedia details #130](https://github.com/ioniodi/sitegr/pull/130/)
+- [Προσθήκη των πληροφοριών του μαθήματος “Ελεύθερη Επιλογή” #132](https://github.com/ioniodi/sitegr/pull/132)
+- [Προσθήκη της ανακοίνωσης "Κυκλοφόρησε το πρώτο τεύχος του ηλεκτρονικού ενημερωτικού δελτίου ionio" που δημοσιεύτηκε στις 09-02-2021 ώρα 10:52 #156](https://github.com/ioniodi/sitegr/pull/156)
+- [Προσθήκη μαθήματος "Εφαρμοσμένος Προγραμματισμός με Python" #126](https://github.com/ioniodi/sitegr/pull/126)
+- [Βελτιστοποίηση της SCSS του footer #177](https://github.com/ioniodi/sitegr/issues/177)
+- [Δημιουργία δυνατότητας προσθήκης zoom link στα profile κάθε εκπαιδευτικού της σχολής #181](https://github.com/ioniodi/sitegr/issues/181)
+- [Προσθήκη "Back to Top" Button #188](https://github.com/ioniodi/sitegr/issues/188)
+- [Διόρθωση εμφάνισης των link "Learn More" στην βασική σελίδα μέσω οθόνης κινητού. #194](https://github.com/ioniodi/sitegr/issues/194)
+- [Διαγραφή των κουμπιών "Learn more" και προσθήκη λινκ στους τίτλους. #42](https://github.com/ioniodi/minimal-ionio/pull/42#pullrequestreview-653615950)
+
+
