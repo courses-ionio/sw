@@ -159,6 +159,7 @@ Link του deployed site: [deployed site](https://brave-swanson-35c9b6.netlify.
 
 Αρχικά πρόσθεσα το case study για τα [debian linux](https://github.com/sophia-ts/site/blob/master/_case-study/debian.md). Έπειτα, πέρασα το νέο submodule [extras](https://github.com/sophia-ts/extras) και πέρασα το αρχείο με τις πληροφορίες [cs-debian.md](https://github.com/sophia-ts/extras/blob/master/cs-debian.md). Έπειτα, έφτιαξα τρία νέα md αρχεία στο  `_gallery` για να υπάρχει περιεχόμενο στο case study μου [debian-buzz.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-buzz.md), [debian-etch.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-etch.md), [debian-jessie.md](https://github.com/sophia-ts/_gallery/blob/26996fca7eb43081d9cd755d54d037c28c2338f7/debian-jessie.md). 
 
+Προσπάθησα να κάνω delpoy το site στο Netlify αλλά ενώ στο localhost τρέχει, στο Netlify κάνει fail το deployment.
 
 ## Ενδέκατη εβδομάδα
 
