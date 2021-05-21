@@ -37,6 +37,8 @@
 
 link της ιστοσελίδας: [jekyll cv](https://brave-swanson-35c9b6.netlify.app)
 
+`Notes:` Το link για το netlify λειτουργεί κανονικά απλά αργεί πολύ να φορτώσει. 
+
 link του public repository: [repository](https://github.com/sophia-ts/jekyll_cv)
 
 ### [asciinema](https://asciinema.org/a/398284)
