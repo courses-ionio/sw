@@ -149,6 +149,17 @@ To python script που χρησιμοποιήθηκε υπολογίζει τη
 
 ## 11. Άσκηση γραμμής εντολών
 
+***Εκφώνηση: "performance monitoring"***
+
+Για αυτό το παραδοτέο έφτιαξα ένα sript σε python και μέτρησα την απόδωση του χρησιμοποιώντας το [hyperfine](https://github.com/sharkdp/hyperfine) command line εργαλείο. To python script που έφτιαξα διαβάζει ένα email list, ένα font και ένα template και παράγει personalized certificates για συμμετέχοντες μιας σειράς (φανταστικών) σεμιναρίων. Για παράδειγμα ένα certificate που παράγει μοιάζει έτσι:
+
+
+<img src="https://user-images.githubusercontent.com/44473195/119108691-227d6200-ba29-11eb-8938-32f9a9467729.png" width="500">
+
+Στο παρακάτω asciinema παρουσιάζω τον τρόπο που δουλεύει το script καθώς και το αποτέλεσμα της μέτρησης από το `Hyperfine`
+
+[![asciicast](https://asciinema.org/a/zNpbOE23I9SN0XIGD5ozDXLV4.svg)](https://asciinema.org/a/zNpbOE23I9SN0XIGD5ozDXLV4)
+
 ## 12. Τελική Αναφορά
 
 Συμπέρασμα
