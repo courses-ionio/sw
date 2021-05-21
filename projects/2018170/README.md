@@ -190,3 +190,58 @@ Link: https://github.com/p18vogd/site/blob/master/_case-study/mobile-ide.md
 **Παρατήρηση**: Η προσθήκη των αρχείων md έγινε σύμφωνα με τα ίδη ανεβασμένα αρχεία βιογραφίας και μελέτη περίπτωσης, ωστόσο δεν δουλεύουν όπως θα περίμενα στο netlify αυτό ευθύνεται στο ότι στο αποθετήριο του site που έχω κάνει fork μέσα στο config.yml έχει διαφορετικό url από το λινκ που μου παράγει το netlify(το οποίο είναι λογικό). Η βιογραφία και η μελέτη περίπτωσης  φαίνονται κανονικά, απλά όταν προσπάθησα να δω την βιογραφία και την μελέτη περίπτωσης μου βγάζει page not found και αυτό ευθύνεται στο διαφορετικό url που βρήσκεται μέσα στο config.
 
 Netlify Link : https://wizardly-golick-f6bc81.netlify.app
+
+# Τέταρτη άσκηση τερματικού
+
+Για την τελευταία άσκηση τερματικού επέλεξα να μελετήσω το huginn και κατάφερα να δημιουργήσω έναν RSS agent όπου θα τραβάει δεδομένα που σχετίζονται με ομιλίες από την σελίδα της Ευρωπαικής επιτροπής και θα τα στέλνει τους τίτλους των ομιλιών στον λογαριασμό μου στο Slack. Αρχικά μελέτησα τους διαφορετικούς τύπους agent που μπορείς να φτιάξεις στο Huginn, έιδα τους Website agent, RSS agent και weather agend. Αφόυ επέλεξα να κάνω RSS agend ξεκίνησα να τον φτιάχνω πατώντας στο Agents Create Agend και του έδωσα τα εξής χαρακτηριστικά.
+
+[Link από την σελίδα](https://ec.europa.eu/commission/presscorner/advancedsearch/en?keywords=&dotyp=4&parea=0&datepickerbefore=&datebefore=&commissioner=0&datepickerafter=&dateafter=)!
+
+* **Type**: `RSS Agent`
+* **Name**: `rss scrapper`
+* **Schedule**: `Every 30mins`
+* **Keep events**: `Forever`
+* **Receivers**: `post to slack`
+* **Options**:
+```
+{
+  "expected_update_period_in_days": "5",
+  "clean": "false",
+ "url":"https://ec.europa.eu/commission/presscorner/api/rsslanguage=en&documenttype=4&pagesize=2"
+}
+```
+
+Συγκεκριμένα όταν πήρα το RSS το default pagesize ήταν 10, εγώ το άλλαξα σε 2 ώστε να περιορίσω τον όγκο πληροφορίας που θα πάει στο Slack. Το pagesize στο τέλος του RSS Link μας δείχνει το πόσες ομιλίες-κείμενα θα τραβήξει από την σελίδα. Στην συνέχεια κάνοντας `Dry Run` μου εμφάνισε τα κείμενα που τράβηξε (Αφού αφαίρεσα το Receivers post to slack, μόνο για να δω την πληροφορία που τραβάει, μετά το ξαναπρόσθεσα)
+
+
+Έπειτα έφτιαξα ένα νέο Post Agent με σκοπό η πληροφορία που ανέκτησα να την στείλω στο Slack. Ο νέος αυτός Agent έχει τα εξής χαρακτηριστικά. 
+
+* **Type**: `Post Agent`
+* **Name**: `post to slack`
+* **Schedule**: `Every 10mins`
+* **Keep events**: `7 days`
+* **Sources**: `rss scraper`
+* **Options**:
+```
+{
+  "post_url": "https://hooks.slack.com/services/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",
+  "expected_receive_period_in_days": "1",
+  "content_type": "json",
+  "method": "post",
+  "headers": {
+    "Content-type": "application/json"
+  },
+  "payload": {
+    "text": "{{ title | url}}"
+  },
+  "emit_events": "false",
+  "no_merge": "false",
+  "output_mode": "clean"
+}
+
+
+```
+
+Μέσα σε αυτό το αρχείο περιλαμβάνει πληροφορίες για το Slack Token μου καθώς και για το πώς θα είναι το μήνυμα που θα στείλει. Εγώ επέλεξα να στέλνει μόνο τον τίτλο με την χρήση ενός Liquid Filters `"text": "{{ title | url}}" `
+
+
