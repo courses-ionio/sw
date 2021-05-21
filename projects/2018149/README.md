@@ -83,13 +83,13 @@
 | Θέμα                 | Εικόνα                                                                                             | Thumbnail                                                                                                      | Markdown                                                                                                                   |
 |----------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Mouse pointing stick | [mouse-pointing-stick.jpg](https://github.com/dimpram/images/blob/master/mouse-pointing-stick.jpg) | [mouse-pointing-stick-thumb.jpg](https://github.com/dimpram/images/blob/master/mouse-pointing-stick-thumb.jpg) | [mouse-poiting-stick.md](https://github.com/dimpram/_gallery/blob/master/mouse-pointing-stick.md)                          |
-| Streaming media      | [streaming-media.png](streaming-media.png)                                                         | [streaming-media-thumb.png](streaming-media-thumb.png)                                                         | [streaming-media.md](https://github.com/dimpram/_gallery/blob/fa23654965079f282cd16e510478b911a81924b4/streaming-media.md) |
+| Streaming media      | [streaming-media.png](https://github.com/dimpram/images/blob/master/streaming-media.png)                                                         | [streaming-media-thumb.png](https://github.com/dimpram/images/blob/master/streaming-media-thumb.png)                                                         | [streaming-media.md](https://github.com/dimpram/_gallery/blob/fa23654965079f282cd16e510478b911a81924b4/streaming-media.md) |
 
 **Ζήτημα Α2**
 
 | Περιεχόμενο           	| Σύνδεσμος                                                                           	|
 |------------------------	|-------------------------------------------------------------------------------------	|
-| Χρονοδιάγραμμα         	| [multimedia.md](https://github.com/dimpram/site/blob/master/_timeline/multimedia.m) 	|
+| Χρονοδιάγραμμα         	| [multimedia.md](https://github.com/dimpram/site/blob/master/_timeline/multimedia.md) 	|
 |   Θεματικές διαφάνειες 	| [pointer.md](https://github.com/dimpram/site/blob/master/_slides/pointer.md)        	|
 
 Link του deployment μου: https://dimpram-pibook.netlify.app/
