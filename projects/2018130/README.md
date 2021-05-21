@@ -84,6 +84,16 @@ link του public repository: [repository](https://github.com/sophia-ts/jekyll_
 
 - **Link για την δεύτερη εικόνα:** [Debian](https://wizardly-saha-b0bb28.netlify.app/gallery/debian/)
 
+-  **Tools:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/tools/)
+
+-  **Γραφική διεπαφή χρήστη:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/gui/)
+
+-  **Μοντέλα:** [netlify](https://wizardly-saha-b0bb28.netlify.app/slides/models/)
+
+-  **Multimedia:** [netlify](https://wizardly-saha-b0bb28.netlify.app/timeline/multimedia/)
+
+-  **Systems:** [netlify](https://wizardly-saha-b0bb28.netlify.app/timeline/systems/)
+
 Επίσης, είχε γίνει προσθήκη 2 ακόμα εικονών για τον [3d-printer](https://wizardly-saha-b0bb28.netlify.app/gallery/3d-printer/) και για [mp3-player](https://wizardly-saha-b0bb28.netlify.app/gallery/mp3-player/) αλλά μετά από προσωπική συνάντηση καταλήξαμε στο συμπέρασμα πως δεν ήταν η ιδανική επιλογή για το παραδοτέο αυτό.
 
 **[asciinema link](https://asciinema.org/a/400534)**
