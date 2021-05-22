@@ -126,7 +126,55 @@ Link για το αποθετήριο χρονολογίου:
 ![BOT_FATHER_50_1_503x1064](https://user-images.githubusercontent.com/72924808/112397058-fd5ec280-8d09-11eb-9606-b70a930232b4.jpg)
 ![BOT_50_3_503x1064](https://user-images.githubusercontent.com/72924808/112397064-0059b300-8d0a-11eb-9ad3-30c7dcc62521.jpg)
 
+## 👽Παραδοτέο 7 - Βιογραφικό.
 
+Για το δεύτερο μέρος του παραδοτέου, μετέτρεψα το βιοφραφικό μου σε **PDF** με την παρακάτω εντολή:
+"https://efthimis015.github.io/online-cv/?fbclid=IwAR2ap_60aPqfjW8_SpGq_MOIdDWxIGBq4xjOLjxU798GtGjkZLhGD6079yk#hook -f html-native_divs -o cv.pdf --pdf-engine=xelatex".
+
+Αποτελέσματα:
+
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/PDF1.png" width= 1000/>
+  
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/PDF2.png" width= 1000/>
+  
+  Η αυτοματοποίηση έγινε με το GitHub Action.
+  Ακολουθεί ο κώδικας:
+  
+  ```yml
+name: CV2PDF
+
+on: 
+  page_build:
+    branches: [gh-pages]
+  
+jobs:
+  convert:
+    runs-on: ubuntu-18.04
+    steps:  
+      - uses: actions/checkout@v2
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+      - name: Convert 
+        uses: docker://pandoc/latex:2.13
+        with:
+          args: "https://efthimis015.github.io/online-cv/?fbclid=IwAR2ap_60aPqfjW8_SpGq_MOIdDWxIGBq4xjOLjxU798GtGjkZLhGD6079yk#hook -f html-native_divs -o cv.pdf --pdf-engine=xelatex"
+      - name: Commit pdf
+        run: |
+          git config --global user.name 'Tziallas Efthimios'
+          git config --global user.email 'Efthimis015@users.noreply.github.com'
+          git add -A
+          git add .
+          git commit -m "Added PDF -auto action"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }} 
+```
+
+          
+          
 
 ## 👽Παραδοτέο 9 - Άσκηση γραμμής εντολών.
 Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν, όπως π.χ **"sudo pip3 install py-spy", "git clone --depth 1 https://github.com/brendangregg/FlameGraph", "apt-get install wget", "wget "https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb" και "sudo dpkg -i hyperfine_1.11.0_amd64.deb"**. Έπειτα εκτέλεσα την εντολή asciinema rec -i 0.2 για την έναρξη της εγγραφής του **Τerminal**. Ως **script** προς **monitoring** επιλέγω το **print('Hi im Tim')** με όνομα HiPython. Αφού κάνω **cd**, με την εντολή **py-spy record -o profile.svg -- python3 HiPython.py γίνεται το **monitoring** του **script** και εξαγωγή ενός αρχείου **.svg** με το αντίστοιχο **flamegraph**. Στη συνέχεια, δημιούργησα ακόμα ένα **script** με όνομα **HiPython1** με περιεχόμενο **print('Hi im Tim again but this time i love Hyperfine')**.Ακολούθησαν οι εντολές **cat HiPython.py** και **cat HiPython1.py** και αμέσως μετά εκτέλεσα την εντολή **"hyperfine -i 'python HiPython.py' 'python HiPython1.py'"** για το **benchmarking**. Tέλος εκτελέστηκε η εντολή **"hyperfine -i --export-json output 'python HiPython.py' 'python HiPython1.py' με σκοπό την εξαγωγή αποτελέσματος σε ένα αρχείο **.json**. Ολοκλήρωσα την εγγραφή του **Terminal** με την εντολή **exit**.
