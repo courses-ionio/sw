@@ -9,7 +9,7 @@
 1 |	[Fork του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#e%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1)
 2	| [Βιογραφικό](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2--%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C)
 3	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3)
-4	| Άσκηση γραμμής εντολών
+4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4)
 5	| Συμμετοχικό περιεχόμενο
 6	| Άσκηση γραμμής εντολών
 7	| Bιογραφικό
