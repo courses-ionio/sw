@@ -43,7 +43,7 @@
 # 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα
    - Άνοιξα [issue](https://github.com/ioniodi/sitegr/issues/24) και στην αρχή επέλεξα να προσθέσω αρκετά μαθήματα όμως μετά από συνεννόηση με τον κ.Χωριανόπουλο πρόσθεσα μόνο ένα, το "Εφαρμοσμένος προγραμματισμός με Python"
    - Πήρα Green Light και έκανα φορκ το [site](https://github.com/ioniodi)
-   - Έκανα τις απαραίτητες αλλαγές και τις δοκίμασα στο [netlify](https://6044e72f4a6cbb00086319e0--pedantic-snyder-55ad29.netlify.app/)
+   - Έκανα τις απαραίτητες αλλαγές και τις δοκίμασα στο [netlify](https://epic-hamilton-da9ac8.netlify.app/)
    - Έστειλα το [Pull Request](https://github.com/ioniodi/sitegr/pull/126)
    - Έγινε αποδεκτό και merge ([οι αλλαγές](https://epic-hamilton-da9ac8.netlify.app/courses/applied-programming-python/))
    
