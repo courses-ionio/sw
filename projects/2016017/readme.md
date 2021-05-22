@@ -77,6 +77,10 @@ Link Αποθετήριου
 ### Συμμετοχικό περιεχόμενο
 Έκανα φορκ το submodule του site, [extras](https://github.com/rawmann/extras) στο οποίο πρόσθεσα to [cs-amiga-os.md](https://github.com/rawmann/extras/commit/e1d07d926582cd83e0b349f5c251ba06f48a279a) και το [bio-carl-sassenrath.md](https://github.com/rawmann/extras/commit/b352ebfb3cf55183984aedb267a958e5a2f89893). Ύστερα πρόσθεσα τα απαιτούμενα, [2 εικόνες](https://github.com/rawmann/images/commit/3fab80ac8cf8eb492f1c889fe71513ce4e4e1c63), για τον Carl Sassenrath στο submodule images, και [1 md αρχείo](https://github.com/rawmann/_gallery/commit/2f3a3d57f48c3055b16fd761b3a77e67198d0466) στο submodule _gallery, 1 για το κάθε ένα. Στην συνέχεια, πρόσθεσα στο _case-study του rawmann/site τα καινούρια αρχεία [amiga-os.md](https://github.com/rawmann/site/commit/5b04985d8671094e3766f49ffa68c794923b0bb3), [carl-sassenrath.md](https://github.com/rawmann/site/commit/0d021ed26319e6c59ce8ff59ef4971bd04a38d18). Στην συνέχεια έκανα clone το site για να προσθέσω τα submodules με χρήση των οδηγιών. Αυτό μπορεί να παρατηριθεί στο [λινκ](https://asciinema.org/a/415633) του asciinema. Τέλος, έκανα deploy την σελίδα στο Netlify αλλά αυτήν την φορά πέταξε error δεν ξέρω γιατί αλλά κλείδωσα το deploy έτσι ώστε να ισχύει το προϊγούμενο site.
 
+#### [11]
+
+### Άσκηση γραμμής εντολών
+Εγκατέστησα το hyperphine και το py-spy. Έγραψα ένα script το οποίο παράγει μια μεγάλη λίστα με ακαραίους, τυχαίους, και άλλο ένα το οποίο το ταξινομεί. Δοκίμασα τα εργαλεία αυτά στο σκριπτ ταξινόμησης. Τα σκριπτ αυτά μπορούν να φανούν στο παρακάτω [asciinema](https://asciinema.org/a/415644).
 
 ### Απαντήσεις εβδομαδιαίου quiz 1
 
