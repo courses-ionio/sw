@@ -15,7 +15,7 @@
 7	| Bιογραφικό
 8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8)
 9	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9)
-10	| Συμμετοχικό περιεχόμενο
+10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10)
 11	| Άσκηση γραμμής εντολών
 12	| Τελική αναφορά
 
