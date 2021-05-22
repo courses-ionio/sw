@@ -32,7 +32,8 @@
 |Alan Kay - Invention|:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 |Jaron Lanier - Intertwingled |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
 |Alan Kay - Scaling |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
-|Αlan Κay - future |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Αlan Κay - Future |:heavy_check_mark:| Απάντηση μέσο εφαρμογής |
+|Ken Thompson and Unix at Bell Labs| :x: | ----- |
 
 ##
 ## Στόχοι
