@@ -31,6 +31,46 @@
 
 Για το μάθημα μας οι ανάγκες ειναι η ολοκλήρωση των παραδοτέων καθε εβδομάδα μεσω κουίζ, ασκήσεων, συμμετοχικού εκπαιδευτικού υλικού, συμμετοχής στην τάξη και άλλων. Οι στόχοι μου για το μάθημα αυτο είναι η εκμάθηση καινούριων εργαλείων γραμμής εντολών και η ανάπτηξη λογισμικού μέσω μιας συνεργατικής διαδικασίας, η κατασκευή ψυχαγωγικού και εκπαιδευτικού λογισμικού καθώς και η συντήρησή του.   
 
+<!-- Παραδοτεο 2 -->
+
+#### [ 2 ]
+
+
+### Βιογραφικό
+
+![](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.png)
+
+Link Αποθετήριου
+
+[Link](https://rawmann.github.io/online-cv/)
+
+[PDF file](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.pdf)
+
+#### [ 3 ] 
+
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+Προσθήκη ανακοίνωσης εκδήλωσης:"Διεθνές Συνέδριο Sunbelt ΧΧVII"
+
+[Netlify link](https://604a80ef1c0a5f346e55113d--laughing-bardeen-af2a12.netlify.app/posts/2007/02/06/diethnes-sunedrio-sunbelt-xxvii/)
+
+[Pull request](https://github.com/ioniodi/sitegr/pull/154)
+
+[Issue](https://github.com/ioniodi/sitegr/issues/118)
+
+
+#### [ 4 ]
+
+### Άσκηση γραμμής εντολών
+
+Για πρώτη άσκηση στην γραμμή εντολών διάλεξα το [spark](https://github.com/holman/spark) με το οποίο θα μπορέσω να απεικονίσω το ιστορικό των commit μου στο github
+
+[Asciinema video](https://asciinema.org/a/399153)
+
+#### [5]
+
+### Συμμετοχικό περιεχόμενο
+Έκανα φορκ το [site](https://github.com/rawmann/site) και τα submodules του, [_gallery](https://github.com/rawmann/_gallery) και [images](https://github.com/rawmann/images). Ύστερα πρόσθεσα τα προαπαιτούμενα, 4 εικόνες, [2 για το ubuntu και 2 για το haiku-os](https://github.com/rawmann/images/commit/3e35498e65742f93fd3aa3d66a9f3a5833313fff) στο submodule images, και [2 md αρχεία](https://github.com/rawmann/_gallery/commits/master) στο submodule _gallery, 1 για το κάθε ένα. Στην συνέχεια, πρόσθεσα στο _slides/programming.md του rawmann/site τα καινούρια αρχεία. Στην συνέχεια έκανα clone το site για να προσθέσω τα submodules με χρήση των οδηγιών. Αυτό μπορεί να παρατηριθεί στο [λινκ](https://asciinema.org/a/415615) του asciinema. Τέλος, έκανα deploy την σελίδα στο Netlify και είδα τις αλλαγές μου, [λινκ](https://quizzical-kepler-09d1a9.netlify.app/).
 
 ### Απαντήσεις εβδομαδιαίου quiz 1
 
@@ -51,21 +91,6 @@
 
 Η μια δυνατή ιδέα ήταν οτι στην δημιουργία ενος συστήματος δεν θα χρειαζόταν κάθε φορά να κάνει compile αρχεία με λέξεις για να λειτουργήσει. Η άλλη ιδέα ηταν ένας υπολογιστής με πολλαπλά παραθυρικά περιββάλοντα με μορφή.Για τοτε αυτές οι ιδέες ηταν πολύ καινοτόμες.
 
-<!-- Παραδοτεο 2 -->
-
-#### [ 2 ]
-
-
-### Βιογραφικό
-
-![](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.png)
-
-Link Αποθετήριου
-
-[Link](https://rawmann.github.io/online-cv/)
-
-[PDF file](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.pdf)
-
 ### Απαντήσεις εβδομαδιαίου quiz 2
 
 #### Ted Nelson Computers for Cynics
@@ -85,18 +110,6 @@ Link Αποθετήριου
 ****Γιατί είναι τόσο απαραίτητοι όσοι γνωρίζουν την τεχνολογία λογισμικού στις βάσεις δεδομένων;****
 
 Γιατί οσοι γνωρίζουν την τεχνολογία λογισμικού ξέρουν τις διάφορες διατάξεις που χρησιμοποιούνται στις βάσεις δεδομένων. Αυτό ειναι πολύ χρήσιμο στην συντήρηση μεγάλων συστηματων που παρουσιάζουν πολλα προβλήματα.
-
-#### [ 3 ] 
-
-### Αίτημα ενσωμάτωσης στην ιστοσελίδα
-
-Προσθήκη ανακοίνωσης εκδήλωσης:"Διεθνές Συνέδριο Sunbelt ΧΧVII"
-
-[Netlify link](https://604a80ef1c0a5f346e55113d--laughing-bardeen-af2a12.netlify.app/posts/2007/02/06/diethnes-sunedrio-sunbelt-xxvii/)
-
-[Pull request](https://github.com/ioniodi/sitegr/pull/154)
-
-[Issue](https://github.com/ioniodi/sitegr/issues/118)
 
 ### Απαντήσεις εβδομαδιαίου quiz 3
 
@@ -120,14 +133,6 @@ Link Αποθετήριου
 
 Τα λάθη των σύγχρωνων λειτουργικών συστημάτων σύμφωνα με τον Αλαν Κεη είναι ο τροπος αποστολής μυνημάτων και τα προβλήματα που δημιουργούν οι σημειοφόροι.
 
-#### [ 4 ]
-
-### Άσκηση γραμμής εντολών
-
-Για πρώτη άσκηση στην γραμμή εντολών διάλεξα το [spark](https://github.com/holman/spark) με το οποίο θα μπορέσω να απεικονίσω το ιστορικό των commit μου στο github
-
-[Asciinema video](https://asciinema.org/a/399153)
-
 ### Απαντήσεις εβδομαδιαίου quiz 4
 
 #### Bret Victor the future of programming
@@ -148,9 +153,6 @@ Link Αποθετήριου
 
 Οι προηγούμενες γενιές προγραμματιστών κρίνουν το τρόπο σκέψης γιατί έπειτα απο τις δικιές τους εμπειρίες διαπίστωσαν τον καλύτερο τρόπο εως τότε. Για να σκεφτούμε νέους τρόπους πρέπει να δουλέψουμε αρκετά μόνοι μας και να δοκιμάσουμε καινούρια εργαλεία.
 
-#### [5]
-
-### Συμμετοχικό περιεχόμενο
 
 ### Απαντήσεις εβδομαδιαίου quiz 5
 
