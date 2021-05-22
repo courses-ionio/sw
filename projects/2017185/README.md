@@ -109,10 +109,10 @@ except:
    - Πρόσθεσα το [_biography/terry-a-davis.md](https://github.com/Haki-Malai/site/blob/master/_biography/terry-a-davis.md) και το [_case-study/lazy_script.md](https://github.com/Haki-Malai/site/blob/master/_case-study/lazy-script.md)
    - Στο [fork](https://github.com/Haki-Malai/_gallery) του _gallery πρόσθεσα το [terry-a-davis.md](https://github.com/Haki-Malai/_gallery/blob/master/terry-a-davis.md)
    - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
-   - Πρόσθεσα μια [φωτογραφία](https://github.com/Haki-Malai/images/blob/master/terry-a-davis.png) για τον Terry και ένα [thumpnail](https://github.com/Haki-Malai/images/blob/master/terry-a-davis-thumb.png)
+   - Πρόσθεσα μια [φωτογραφία](https://github.com/Haki-Malai/images/blob/master/terry-a-davis.png) για τον Terry και ένα [thumbnail](https://github.com/Haki-Malai/images/blob/master/terry-a-davis-thumb.png)
    - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
    - Κατέγραψα την [διαδικασία](https://asciinema.org/a/414834) μέσω asciinema
-   - Δεν είδα τις αλλαγές μου :(
+   - Δεν είδα τις αλλαγές μου :( (Δυστυχώς οι βοηθοί αργούν αρκετά στην ενασχόληση τους)
 
 # 4η άσκηση γραμμής εντολών
   Ως 4η άσκηση γραμμής εντολών έκανα την "create a cli app for your favorite site". Για να γίνει αυτό διάβασα το document του [click](https://github.com/pallets/click) και έγραψα ένα script στην γλώσσα python το οποίο ζητάει από τον χρήστη τα στοιχεία τα οποία έχει πάρει από το Twitter (api key, api secret, access token και access token secret) και με την βοήθεια της βιβλιοθήκης Tweepy μαζέβει όσα tweets ζητήσει ο χρήστης τα οποία περιέχουν τις λέξεις που αυτός διευκρινίσει. Το σκριπτ φαίνετε παρακάτω και η κατεγραμμένη διαδικασία χρήσης του [εδώ](https://asciinema.org/a/415077)
