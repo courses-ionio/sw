@@ -82,7 +82,7 @@ except:
    - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/Haki-Malai/_gallery/blob/master/temple-os.md) και το [lazy-script.md](https://github.com/Haki-Malai/_gallery/blob/master/lazy-script.md)
    - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
    - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
-   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/414834) μέσω asciinema
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
 
 # 2η άσκηση γραμμής εντολών
   Επέλεξα να πειραματιστώ με το ntfy. Αυτό που έκανα είναι, ύστερα από τα απαραίτητα install εννοείτε, να φτιάξω ένα Bot στο Telegram και να το συνδέσω στο machine μου. Το scriptάκι και η φωτογραφία παρακάτω αποδικνύουν την διαδικασία.<br>-[Asciinema](https://asciinema.org/a/402061)<br>
@@ -111,7 +111,7 @@ except:
    - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/0c4c22bff1adb409eff9c5b52cdb59fd975c0b2e)
    - Πρόσθεσα μια [φωτογραφία](https://github.com/Haki-Malai/images/blob/master/terry-a-davis.png) για τον Terry και ένα [thumpnail](https://github.com/Haki-Malai/images/blob/master/terry-a-davis-thumb.png)
    - Έκανα deploy την [σελίδα](https://goofy-rosalind-c53ee3.netlify.app/slides)
-   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/410869) μέσω asciinema
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/414834) μέσω asciinema
    - Δεν είδα τις αλλαγές μου :(
 
 # 4η άσκηση γραμμής εντολών
