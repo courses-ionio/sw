@@ -6,6 +6,8 @@
 
 ### e-mail: p18kale@ionio.gr
 
+### GitHub: [elias2500](https://github.com/elias2500)
+
 ## Σύνοψη
 
 | Εβδομάδα* | Παραδοτέο | Ημερομηνία |
