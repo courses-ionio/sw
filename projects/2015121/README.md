@@ -81,6 +81,8 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 
 **Link του issue**: https://github.com/ioniodi/sitegr/issues/26
 
+**Link με το αρχείο ανακοίνωσης**: https://github.com/apostoloskp/sitegr/blob/2015121/all_collections/_posts/2021-01-08-mnimonio-synergasias.md
+
 **Link του pull request**: https://github.com/ioniodi/sitegr/pull/57
 
 ###### [4]
