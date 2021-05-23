@@ -225,11 +225,17 @@ jobs:
 ## B1
 
 ## Μελέτη περίπτωσης: Kenbak-1
-Link για το [αποθετήριο αρχείου μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/Kenbak1.md)
+Link για το αποθετήριο αρχείου [μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/cs.kenbak.md).
+Link για το αποθετήριο αρχείου [σύντομης μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/Kenbak1.md).
+Link για τη [μελέτη περίπτωσης στο site](https://peaceful-feynman-80d96e.netlify.app/case-study/kenbak1/)
+
+
 
 ## B2 
 
-Link για το [αποθετήριο αρχείου βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md)
+Link για το αποθετήριο αρχείου [βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md).
+Link για το αποθετήριο αρχείου [σύντομης βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/bio-john.md).
+Link για τη [βιογραφία στο site](https://peaceful-feynman-80d96e.netlify.app/biography/john-blankenbaker/).
 
   
   
