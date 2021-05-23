@@ -231,11 +231,11 @@ https://help.ubuntu.com/community/LaTeX
 
 **Link για το αρχείο μαθήματος**: https://github.com/apostoloskp/sitegr/blob/2015121/all_collections/_courses/geographic-information-systems.md
 
-**Link συνεισφοράς στο Netlify**:
+**Link συνεισφοράς στο Netlify**: -
 
 **Link του issue**: https://github.com/ioniodi/sitegr/issues/215
 
-**Link του pull request**:
+**Link του pull request**: -
 
 ###### [9]
 
