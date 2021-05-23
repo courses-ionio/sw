@@ -212,6 +212,7 @@ install texlive-latex-base```, ```sudo apt-get install texlive-fonts-recommended
 ![pandoc](https://github.com/apostoloskp/sw-images/blob/main/pandoc.png)
 
 **Πηγές:**
+
 https://pandoc.org/demos.html
 
 https://help.ubuntu.com/community/LaTeX
