@@ -265,6 +265,12 @@ hyperfine')**. Προχώρησα στις εντολές ```cat main.py``` κα
 
 ![hyperfine](https://github.com/apostoloskp/sw-images/blob/main/output.png)
 
+**Πηγές:**
+
+https://github.com/benfred/py-spy#usage
+
+https://github.com/sharkdp/hyperfine#usage
+
 ###### [10]
 
 ## Συμμετοχικό περιεχόμενο: Β1 και Β2
