@@ -40,7 +40,7 @@
 
 ![](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.png)
 
-Link Αποθετήριου
+[Link Αποθετήριου](https://github.com/rawmann/online-cv)
 
 [Link](https://rawmann.github.io/online-cv/)
 
@@ -71,6 +71,26 @@ Link Αποθετήριου
 
 ### Συμμετοχικό περιεχόμενο
 Έκανα φορκ το [site](https://github.com/rawmann/site) και τα submodules του, [_gallery](https://github.com/rawmann/_gallery) και [images](https://github.com/rawmann/images). Ύστερα πρόσθεσα τα προαπαιτούμενα, 4 εικόνες, [2 για το ubuntu και 2 για το haiku-os](https://github.com/rawmann/images/commit/3e35498e65742f93fd3aa3d66a9f3a5833313fff) στο submodule images, και [2 md αρχεία](https://github.com/rawmann/_gallery/commits/master) στο submodule _gallery, 1 για το κάθε ένα. Στην συνέχεια, πρόσθεσα στο _slides/programming.md του rawmann/site τα καινούρια αρχεία. Στην συνέχεια έκανα clone το site για να προσθέσω τα submodules με χρήση των οδηγιών. Αυτό μπορεί να παρατηριθεί στο [λινκ](https://asciinema.org/a/415615) του asciinema. Τέλος, έκανα deploy την σελίδα στο Netlify και είδα τις αλλαγές μου, [λινκ](https://quizzical-kepler-09d1a9.netlify.app/).
+
+### [6]
+
+### Άσκηση γραμμής εντολών
+
+
+
+### [7]
+
+### Βιογραφικό
+
+[PDF file](https://github.com/rawmann/online-cv/blob/gh-pages/mycv.pdf)
+
+### [8]
+
+### [9]
+
+### Άσκηση γραμμής εντολών
+
+
 
 #### [10]
 
