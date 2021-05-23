@@ -235,11 +235,11 @@ jobs:
  
 
 
-Link για το αποθετήριο αρχείου [μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/cs.kenbak.md).
+Link για το αποθετήριο αρχείου **[μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/cs.kenbak.md)**.
 
-Link για το αποθετήριο αρχείου [σύντομης μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/Kenbak1.md).
+Link για το αποθετήριο αρχείου **[σύντομης μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/Kenbak1.md)**.
 
-Link για τη [μελέτη περίπτωσης στο site](https://peaceful-feynman-80d96e.netlify.app/case-study/kenbak1/).
+Link για τη **[μελέτη περίπτωσης στο site](https://peaceful-feynman-80d96e.netlify.app/case-study/kenbak1/)**.
 
 
 
@@ -253,11 +253,23 @@ Link για τη [μελέτη περίπτωσης στο site](https://peacefu
  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/2222222.png" width= 1000/>
 
 
-Link για το αποθετήριο αρχείου [βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md).
+Link για το αποθετήριο αρχείου **[βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md)**.
 
-Link για το αποθετήριο αρχείου [σύντομης βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/bio-john.md).
+Link για το αποθετήριο αρχείου **[σύντομης βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/bio-john.md)**.
 
-Link για τη [βιογραφία στο site](https://peaceful-feynman-80d96e.netlify.app/biography/john-blankenbaker/).
+Link για τη **[βιογραφία στο site](https://peaceful-feynman-80d96e.netlify.app/biography/john-blankenbaker/)**.
+
+
+## Σχετική Βιβλιογραφία 
+
+History Computer, *Kenbak-1 – Complete History of the Kenbak-1 Computer*, viewed 23 May 2021, <https://history-computer.com/kenbak-1-complete-history-of-the-kenbak-1-computer/>
+
+IT HISTORY SOCIETY, *Mr. John Blankenbaker*, viewed 23 May 2021, <https://www.ithistory.org/honor-roll/mr-john-blankenbaker>
+
+Kenbak-1, *The First Personal Computer. KENBAK-1 Computer*, viewed 23 May 2021, <http://kenbak-1.net/>
+
+Oregon State University, *John V. Blankenbaker: Engineering Hall of Fame - 2017*, Oregon State University, viewed 23 May 2021, <https://engineering.oregonstate.edu/john-blankenbaker-2017-engineering-hall-fame>
+
 
   
   
