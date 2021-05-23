@@ -15,7 +15,7 @@
 | 7 | <a href="#P-7">Bιογραφικό </a> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 | <a href="#P-9">Άσκηση γραμμής εντολών </a> |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | <a href="#P-10">συμμετοχικό περιεχόμενο </a> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά* |
 | - | <a href="#quiz">Απαντήσεις Βίντεο Quiz </a> |
@@ -136,7 +136,32 @@ Aντιμετώπισα πολλά προβλήματα, κάποια από τ�
  Tο παραγόμενο αρχείο του py-spy φαίνεται παρακάτω. Έχει γίνει convert από .svg σε .png
  
 ![profile1](https://user-images.githubusercontent.com/56624382/117894649-7e2b4b00-b2c5-11eb-9474-9d4f860af3e9.png)
+
 #
+### <a name="P-10">Παραδοτέο 10 </a>
+
+Για την εβδομάδα αυτή, έπρεπε να προσθέσουμε στο βιβλίο του μαθήματος :
+
+ * μια βιογραφία
+ * μια μελέτη περίπτωσης
+
+Ως μελέτη περίπτωσης επέλεξα να ασχοληθώ με τον **Διαδραστικό Πίνακα στην Εκπαίδευση**, μιας και ο ΔΠ ήταν το θέμα της πρώτης εικόνας που ανέβασα στο παραδοτέο Α1.
+
+* Αρχικά, έκανα [fork](https://github.com/panagiotismouts/extras) την σελίδα pibook/\_includes/extra ώστε να τη χρησιμοποιήσω ξεχωριστά.
+* Στη συνέχεια, τροποποίησα το submodule της ώστε να δείχνει στο δικό μου fork.
+* Έπειτα πρόσθεσα την μελέτη περίπτωσης στα αρχεία : [\_case-study/screen-projector-edu.md](https://github.com/panagiotismouts/site/blob/master/_case-study/screen-projector-edu.md) και [\_includes/extra/cs-screen-projector-edu.md](https://github.com/panagiotismouts/extras/blob/master/cs-screen-projector-edu.md)
+* Τα παραπάνω 2 αρχεία ένωσα με τη βοήθεια της προσθήκης της εντολής {% include extras/cs-screen-projector-edu.md %} στο τέλος του screen-projector.md. Η εντολή αυτή συναντάται και σε Django αλλά η μορφή της εδώ είναι αυτή της γλώσσας Liquid όπου είναι μια template γλώσσα γραμμένη σε Ruby.
+
+Ως βιογραφία επέλεξα την βιογραφία του Gene Dolgoff , ο οποίος ήταν ο πρώτος άνθρωπος που δημιούργησε τον LCD προτζέκτορα.
+
+Για τη βιογραφία αυτή πρόσθεσα τα εξής αρχεία :
+* [\_biography/gene-dolgoff.md](https://github.com/panagiotismouts/site/blob/master/_biography/gene-dolgoff.md)
+* [\_include/extras/bio-gene-dolgoff.md](https://github.com/panagiotismouts/extras/blob/master/bio-gene-dolgoff.md), όπου για ακόμη μια φορά χρησιμοποίησα την Liquid όπως πάνω.
+* [\_gallery/gene-dolgoff.md](https://github.com/panagiotismouts/_gallery/blob/master/gene-dolgoff.md)
+* [images/gene-dolgoff.png](https://github.com/panagiotismouts/images/blob/master/gene-dolgoff.png)
+* [images/gene-dolgoff-thumb.png](https://github.com/panagiotismouts/images/blob/master/gene-dolgoff.png)
+
+Δυστυχώς, οι αλλαγές μου δεν φάνηκαν στο Netlify. Αν και ακολούθησα τις οδηγίες και προσπαθησα να κανω restart page and clear cache , εμφανιζόταν συνεχώς ένα error όσον αφορά την μελέτη περίπτωσης. Ελπίζω να φαίνονται τουλάχιστον τα αρχεία και να είναι σωστά τοποθετημένα, καθώς και τα submodules.
 
 ## <a name="quiz">Απαντήσεις Βίντεο Quiz </a>
 
