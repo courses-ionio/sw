@@ -40,6 +40,9 @@
 
 Για αυτό το παραδοτέο, έκανα **fork** του **[αποθετηρίου του μαθήματος](https://github.com/courses-ionio/sw)** και δημιούργησα ένα νέο **branch** με όνομα τον **ΑΜ (Π2018015)** μου. Στη συνέχεια, μέσα στον φάκελο **projects** δημιούργησα έναν νέο φάκελο με όνομα τον αριθμό μητρώου μου και μέσα του το αρχείο της τελικής αναφοράς.  
 
+---
+---
+
 
 
 ## 👽Παραδοτέο 2 - Βιογραφικό.
@@ -51,6 +54,9 @@
 Link για το **[repository](https://github.com/Efthimis015/online-cv/tree/gh-pages)**
 
 Link για την **[ιστοσελίδα](https://efthimis015.github.io/online-cv/?fbclid=IwAR04OdfAyoAgZoiPmn_zkrr3gFO7x0g1LhPn0KwSIeD3z5BYCZ7lhZvfGUE#hook)**.
+
+---
+---
 
 
 
@@ -72,6 +78,8 @@ Link για την **[ιστοσελίδα](https://efthimis015.github.io/online
  
  Link για την προβολή της **[ανακοίνωσης](https://epic-hamilton-da9ac8.netlify.app/posts/2021/01/21/prosklhsh-ekdhlwshs-endiaferontos/)**.
  
+ ---
+ ---
  
  
  
@@ -81,6 +89,9 @@ Link για την **[ιστοσελίδα](https://efthimis015.github.io/online
  Για το παραδοτέο αυτό, χρησιμοποίησα ένα **Ubuntu VM**. Στο **Terminal** έκανα τις εγκαταστάσεις που χρειαζόμουν όπως για παράδειγμα "**sudo apt-get install mosquitto**" & "**sudo apt-get mosquitto-clients**". Έπειτα εκτέλεσα την εντολή "**asciinema rec -i 0.2**" με σκοπό την καταγραφή των τερματικών μου. Στη συνέχεια με την εντολή "**mosquitto**" ξεκίνησε η διαδικασία. Αμέσως μετά από αυτό με την εντολή "**mosquitto_sub -h localhost -t test**" έγινε η εγγραφή σε ένα **Topic(t)**, το οποίο ονόμασα "**test**". Έπειτα συνεχίζω την διαδικασία ανοίγοντας ένα δεύτερο **Terminal** και πληκτρολογώντας την εντολή "**mosquitto_pub -h localhost -t test -m "Hello, im writing this test from a second terminal. The asciinema record of the other terminal is in the link below this recording. :)**"" κατάφερα να επικοινωνήσω με το άλλο **Terminal** ολοκληρώνοντας έτσι την διαδικασία. Ακολουθούν τα αντίστοιχα **asccinema** με τις καταγεγραμμένες εντολές.
  
 ### [**Asciinema 1**](https://asciinema.org/a/XcVJQZpF9RjsksFNAz4fZXmGC) &   [**Asciinema 2**](https://asciinema.org/a/407524)
+
+---
+---
  
  
  
@@ -90,11 +101,23 @@ Link για την **[ιστοσελίδα](https://efthimis015.github.io/online
 
 ### Εικόνα 1: **Razer Mouse**
 
+### **Τα αποτελέσματα στο site:**
+
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/RAZER.png" width= 500/>
+
 Link για το αποθετήριο εικόνας **[εδώ](https://github.com/Efthimis015/_gallery/blob/master/razer-mouse.md)**.
 
 
 ### Εικόνα 2: **Small PC**
+
+### **Τα αποτελέσματα στο site:**
+
+  <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/SMALL%20PC.png" width= 500/>
+  
+  
 Link για το αποθετήριο εικόνας **[εδώ](https://github.com/Efthimis015/_gallery/blob/master/small-pc.md)**.
+
+
 
 ## A2
 
@@ -108,6 +131,11 @@ Link για το αποθετήριο χρονολογίου:
 - **[Razer Mouse](https://github.com/Efthimis015/site/blob/master/_timeline/videogames.md)**
 - **[Small PC](https://github.com/Efthimis015/site/blob/master/_timeline/systems.md)**
 
+
+### **Ακολουθεί το [Asciinema](https://asciinema.org/a/415753) για τις καταγεγραμμένες εντολές.**
+
+---
+---
 
 
 ## 👽Παραδοτέο 6 - Άσκηση γραμμής εντολών.
@@ -125,6 +153,10 @@ Link για το αποθετήριο χρονολογίου:
 ![Sleep 5](https://user-images.githubusercontent.com/72924808/112396559-056a3280-8d09-11eb-83d0-21a473481adf.jpg)
 ![BOT_FATHER_50_1_503x1064](https://user-images.githubusercontent.com/72924808/112397058-fd5ec280-8d09-11eb-9606-b70a930232b4.jpg)
 ![BOT_50_3_503x1064](https://user-images.githubusercontent.com/72924808/112397064-0059b300-8d0a-11eb-9ad3-30c7dcc62521.jpg)
+
+---
+---
+
 
 ## 👽Παραδοτέο 7 - Βιογραφικό.
 
@@ -173,6 +205,8 @@ jobs:
           branch: ${{ github.ref }} 
 ```
 
+---
+---
           
           
 
@@ -184,6 +218,9 @@ jobs:
   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_3.png" width= 1000/>
   
   <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 1000/>
+  
+  ---
+  ---
   
   
 
