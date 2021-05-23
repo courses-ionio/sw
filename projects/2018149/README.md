@@ -147,6 +147,34 @@ To python script που χρησιμοποιήθηκε υπολογίζει τη
 
 ## 10. Συμμετοχικό περιεχόμενο
 
+Το δεύτερο μέρος της συνεισφοράς μου στα πλαίσια της άσκησης συμμετοχικού περιεχόμενου.
+
+**Αποθετήρια**
+
+- [[dimpram/site](https://github.com/dimpram/site)]
+- [[dimpram/images](https://github.com/dimpram/images)]
+- [[dimpram/extras](https://github.com/dimpram/extras)]
+
+**Ζήτημα B2**
+
+
+| Βιογραφία                                                                                  	|
+|--------------------------------------------------------------------------------------------	|
+| [ted-selker.md](https://github.com/dimpram/site/blob/master/_biography/ted-selker.md)      	|
+| [bio-selker.md](https://github.com/dimpram/extras/blob/master/bio-selker.md)               	|
+| [ted-selker.png](https://github.com/dimpram/images/blob/master/ted-selker.png)             	|
+| [ted-selker-thumb.png](https://github.com/dimpram/images/blob/master/ted-selker-thumb.png) 	|
+
+
+**Πηγές:**
+- https://www.linkedin.com/in/ted-selker/
+- https://www.designedasia.com/ted-selker.html
+- https://web.archive.org/web/20110513234028/http://web.media.mit.edu/~selker/
+- https://en.wikipedia.org/wiki/Ted_Selker
+
+Link του deployment μου: https://dimpram-pibook.netlify.app/
+
+
 ## 11. Άσκηση γραμμής εντολών
 
 ***Εκφώνηση: "performance monitoring"***
@@ -186,5 +214,7 @@ To python script που χρησιμοποιήθηκε υπολογίζει τη
 - [Προσθήκη "Back to Top" Button #188](https://github.com/ioniodi/sitegr/issues/188)
 - [Διόρθωση εμφάνισης των link "Learn More" στην βασική σελίδα μέσω οθόνης κινητού. #194](https://github.com/ioniodi/sitegr/issues/194)
 - [Διαγραφή των κουμπιών "Learn more" και προσθήκη λινκ στους τίτλους. #42](https://github.com/ioniodi/minimal-ionio/pull/42#pullrequestreview-653615950)
+
+Επιπλέον, σχετικά με την συνεργατική δραστηριότητα μου συνολικά στο μάθημα, απάντησα στην ερώτηση συμφοιτήτριας [Netlify deploy pibook](https://github.com/courses-ionio/sw/discussions/936) στο πλαίσιο "Discussions" του αποθετηρίου του μαθήματος, παραθέτοντας ακριβώς οδηγίες βήμα βήμα για το πως πρέπει να γίνει η ρύθμιση στα submodules για να δουλέψει σωστά με το netlify. Η απάντηση φάνηκε να εκτιμήθηκε αρκετά από τους υπόλοιπους συμφοιτητές.
 
 Τέλος, παρατήρησα πως το κομμάτι των βίντεο παρόλο που είχε υψηλό ενδιαφέρον εντέλει αποδείχθηκε αρκετά βαρύ σε χρόνο πραγμά που ειδικά αυτό το εξάμηνο δεν με ευνόησε ιδιαίτερα (λόγω του φόρτου και των υπόλοιπων μαθημάτων) και για αυτό τον λόγο απουσιάζει αυτό το τμήμα στην αναφορά μου. Καταληκτικά, μπορεί να μην ολοκλήρωσα επιτυχώς το κάθε παραδοτέο, αλλά αισθάνομαι οτι γνωρίζω πως μπορώ να εξελήξω ακόμα και συνεργατικά ένα λογισμικό και γενικότερα να περιηγηθώ σε αυτόν τον τομέα με μεγαλύτερη σιγουριά και καλύτερη στρατηγική.
