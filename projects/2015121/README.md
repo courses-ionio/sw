@@ -280,6 +280,8 @@ https://github.com/sharkdp/hyperfine#usage
 
 Link για το αποθετήριο αρχείου μελέτης: https://github.com/apostoloskp/site/blob/2015121/_case-study/telegram.md
 
+Link για το αποθετήριο κειμένου μελέτης: https://github.com/apostoloskp/site/blob/2015121/_case-study/cs-telegram.md
+
 Link για μελέτη περίπτωσης στο site: https://p15kabl.netlify.app/case-study/telegram
 
 ## Πληροφορίες:
