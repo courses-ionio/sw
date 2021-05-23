@@ -220,6 +220,20 @@ jobs:
   ---
   ---
   
+## 👽Παραδοτέο 10 - Συμμετοχικό περιεχόμενο.
+
+## B1
+
+## Μελέτη περίπτωσης: Kenbak-1
+Link για το [αποθετήριο αρχείου μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/Kenbak1.md)
+
+## B2 
+
+Link για το [αποθετήριο αρχείου βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md)
+
+  
+  
+  
   
 
 ### [🔼 Go Up](https://github.com/Efthimis015/sw/blob/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
