@@ -63,6 +63,8 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 
 ![bio](https://github.com/apostoloskp/sw-images/blob/main/bio.png)
 
+**Πηγές:** https://github.com/sharu725/online-cv#installation
+
 ###### [3]
 
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης
