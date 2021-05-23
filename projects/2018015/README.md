@@ -158,7 +158,8 @@ Link για το αποθετήριο χρονολογίου:
 ## 👽Παραδοτέο 7 - Βιογραφικό.
 
 Για το δεύτερο μέρος του παραδοτέου, μετέτρεψα το βιοφραφικό μου σε **PDF** με την παρακάτω εντολή:
-pandoc "https://efthimis015.github.io/online-cv/?fbclid=IwAR2ap_60aPqfjW8_SpGq_MOIdDWxIGBq4xjOLjxU798GtGjkZLhGD6079yk#hook -f html-native_divs -o cv.pdf --pdf-engine=xelatex".
+
+```pandoc "https://efthimis015.github.io/online-cv/?fbclid=IwAR2ap_60aPqfjW8_SpGq_MOIdDWxIGBq4xjOLjxU798GtGjkZLhGD6079yk#hook -f html-native_divs -o cv.pdf --pdf-engine=xelatex".```
 
 Αποτελέσματα:
 
