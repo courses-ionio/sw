@@ -83,11 +83,11 @@ assets/images και στην αλλαγή του χρώματος του θέμ
 
 ###### [4]
 
+## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
+
 Link με το asciinema για παραδείγματα notification του ntfy: https://asciinema.org/a/398776
 
 Link με το asciinema για setup και σύνδεση Telegram: https://asciinema.org/a/398787
-
-## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 
 ## Διαδικασία:
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή ```sudo apt-get install pip``` και ```sudo pip install ntfy```. Εκτέλεσα την εντολή ```asciinema rec -i 0.2``` για την έναρξη της εγγραφής terminal. Στη συνέχεια, με την εντολή ```ntfy send 'Welcome'```, εμφανίζεται η πρώτη ειδοποίηση. Ακολουθούν με τη σειρά οι εντολές ```notify-send --urgency=LOW "Hello there"``` και ```notify-send --urgency=CRITICAL "Time to test Telegram notifications"```, όπου στη μονάδα urgency θέτουμε **LOW** και **CRITICAL** αντίστοιχα και παρατηρούμε πως αλλάζει το εικονίδιο πριν το κείμενο κάθε φορά(όπως φαίνεται στις παρακάτω εικόνες). Με την εντολή ```ntfy done sleep 10``` ρυθμίζεται ένα timer για 10 seconds και μας εμφανίζεται το αντίστοιχο notification. Σε αυτό το σημείο θα ρυθμίσουμε τα notifications για το Telegram στο κινητό. Αυτό επιτυγχάνεται μέσω της εντολής ```ntfy -b telegram send "Telegram configured for ntfy"```. Μας αναφέρει πως θα πρέπει να μιλήσουμε στο BotFather από τη συσκευή μας για να δημιουργήσουμε αρχικά ένα νέο chat bot. Πληκτρολογώ ```/newbot```, θέτω ως όνομα Ionio-sw και ως username Ionio_bot και το bot είναι έτοιμο(όπως φαίνεται στις παρακάτω εικόνες). Θα μας επιστρέψει ένα token το οποίο πρέπει να κάνω paste στο terminal για να ολοκληρωθεί η σύνδεση. Πλέον μπορώ να στέλνω ειδοποιήσεις κατευθείαν στην εφαρμογή.
