@@ -333,6 +333,8 @@ Link με το asciinema για δημιουργία σελίδας με hugo: h
 
 ![hugo](https://github.com/apostoloskp/sw-images/blob/main/hugo.png)
 
+**Πηγές:** https://gohugo.io/getting-started/usage/
+
 ###### [12]
 
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
