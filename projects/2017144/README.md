@@ -16,7 +16,7 @@
 | 7 | βιογραφικό | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - |
 | 9 | Άσκηση γραμμής εντολών | ✓ |
-| 10 | συμμετοχικό περιεχόμενο | - |
+| 10 | συμμετοχικό περιεχόμενο | ✓ |
 | 11 | Άσκηση γραμμής εντολών | ✓ |
 | 12 | Τελική αναφορά | ✓ |
 
@@ -55,7 +55,7 @@ send a notifcation when a big task completes, eg download, compiling, etc
  [Pibook Repository](https://github.com/akontinis/site)
  [Gallery Repository](https://github.com/akontinis/_gallery)
  [Images Repository](https://github.com/akontinis/images)
- Deployment Link: [https://epic-rosalind-184362.netlify.app/](https://epic-rosalind-184362.netlify.app/)
+ Deployment Link: [https://p17kont1.netlify.app/](https://p17kont1.netlify.app/)
 
 ### A1 : Δύο Εικόνες
 
@@ -64,7 +64,6 @@ send a notifcation when a big task completes, eg download, compiling, etc
 | Chromecast  | [chromecast.jpg](https://github.com/akontinis/images/blob/master/chromecast.jpg) | [chromecast-thumb.jpg](https://github.com/akontinis/images/blob/master/chromecast-thumb.jpg) | [chromecast.md](https://github.com/akontinis/_gallery/blob/master/chromecast.md) |
 | GIF |  [gif.gif](https://github.com/akontinis/images/blob/master/gif.gif) |[gif-thumb.jpg](https://github.com/akontinis/images/blob/master/gif-thumb.jpg) | [gif.md](https://github.com/akontinis/_gallery/blob/master/gif.md) |
 
-### A2 : Διαφάνιες και Χρονολόγιο
 
 
 
@@ -84,6 +83,22 @@ create a docker image for your development stack
 
 Για την παρακατω ασκηση χρησιμοποιησα ένα Docker Image για το site του βιογραφικού μου.Ετσι καθε φορα θα κανω run ή build το βιογραφικό,χωρις χρειάζεται να κανω εγκασταση την γλωσσα ruby και το jekyll στον υπολογιστή μου.
 [![asciicast](https://asciinema.org/a/414607.svg)](https://asciinema.org/a/414607)
+
+
+## Εβδομάδα 10
+Για το παρακάτω παραδοτέο πρόσθεσα στην σελίδα του βιβλίο μια βιογραφία του Alan Turing ο οποίος θεωρείται ο πατέρας της Τεχνητής Νοημοσύνης και κατασκευαστής της μηχανής που κατάφερε να αποκρυπτογράφηση τα μηνύματα κατά την διάρκεια του Β παγκόσμιου πολέμου
+
+[Εδω θα βρειτε την σχετικη σελιδα του Αλαν Τουρινγκ](https://p17kont1.netlify.app//biography/alan-turing/)
+
+Πηγες: [Britanica](https://www.britannica.com/biography/Alan-Turing), [biography.com](https://www.biography.com/scientist/alan-turing)
+
+Επίσης πρόσθεσα μια μελέτη περίπτωσης του Bitcoin το οποίο βασίζεται σε πρωτόκολλο που ονομάζεται block chain καθώς τα τελευταία χρόνια έχει στραφεί πολύς κόσμος γύρω από αυτό
+
+[Εδω θα βρειτε την σχετικη σελιδα της μελετης περιπτωσης του Bitcoin](https://p17kont1.netlify.app/case-study/bitcoin/)
+
+
+Πηγες: [Britanica](https://www.britannica.com/topic/Bitcoin), [Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
+
 
 
 ## Εβδομάδα 11
