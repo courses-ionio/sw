@@ -73,4 +73,17 @@
 
 ![screen2](https://user-images.githubusercontent.com/56274018/114317376-c9d7b280-9ad5-11eb-8f50-68f09d60e66f.png)
 
+### Παραδοτέο 10
+- Έκανα [fork](https://github.com/polycarpos/extras) το submodule _includes/extras
+- Άλλαξα το configuratio του submodule ώστε να δείχνει στο δικό μου
+- Πρόσθεσα το νέο περιεχόμενο σύμφωνα με τη διαδικασία που απαιτούν τα submodules
+- Δυστυχώς δεν είδα τις αλλαγές στη δική μου έκδοση του site στο Netlify
 
+**Περιεχόμενο που προστέθηκε/τροποποιήθηκε:**
+- [_case-study/virtualkeyboard.md](https://github.com/polycarpos/site/blob/master/_case-study/virtualkeyboard.md)
+- [_includes/extras/cs-virtualkeyboard-.md](https://github.com/polycarpos/extras/blob/master/cs-virtualkeyboard.md)
+- [_biography/victoriacarrington.md](https://github.com/polycarpos/site/blob/master/_biography/victoriacarrington.md)
+- [_includes/extras/bio-victoriacarrington.md](https://github.com/polycarpos/extras/blob/master/bio-victoriacarrington.md)
+- [_gallery/victoriacarrington.md](https://github.com/polycarpos/_gallery/blob/484dbe9fcab081a7af4c7ef8d90b6268cf194394/victoriacarrington.md)
+- [images/victoriacarrington.png](https://github.com/polycarpos/images/blob/master/victoriacarrington.png)
+- [images/victoriacarrington-thumb.png](https://github.com/polycarpos/images/blob/master/victoriacarrington-thumb.png)
