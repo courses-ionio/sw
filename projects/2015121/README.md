@@ -227,7 +227,9 @@ https://help.ubuntu.com/community/LaTeX
 Ως objective για το Παραδοτέο 8, επέλεξα την προσθήκη του μαθήματος "Μοντελοποίηση Δεδομένων και Συστήματα Υποστήριξης Αποφάσεων" του Η' εξαμήνου στο επίσημο site του τμήματος.
 Έλαβα **good first issue** στο issue, δημιούργησα το κατάλληλο αρχείο **.md** και στη συνέχεια προχώρησα σε **pull request** αυτού.
 
-**Προσωπικό αποθετήριο αιτήματος**:
+**Προσωπικό αποθετήριο αιτήματος**: https://github.com/apostoloskp/sitegr/tree/2015121 
+
+**Link για το αρχείο μαθήματος**: https://github.com/apostoloskp/sitegr/blob/2015121/all_collections/_courses/geographic-information-systems.md
 
 **Link συνεισφοράς στο Netlify**:
 
