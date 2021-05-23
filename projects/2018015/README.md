@@ -228,10 +228,11 @@ jobs:
 
 Αποτελέσματα:
 
- <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/blankenbaker.png" width= 1000/>
+ <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/kenbak1.png" width= 1000/>
  
- <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Blankenbaker2.png" width= 1000/>
+ <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/kenbak2.png" width= 1000/>
 
+ 
 
 
 Link για το αποθετήριο αρχείου [μελέτης](https://github.com/Efthimis015/site/blob/master/_case-study/cs.kenbak.md).
@@ -246,6 +247,10 @@ Link για τη [μελέτη περίπτωσης στο site](https://peacefu
 
 ## Βιογραφία: John Blankenbaker
 
+
+ <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/blankenbakerwe23423423423423423.png" width= 1000/>
+ 
+ <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/2222222.png" width= 1000/>
 
 
 Link για το αποθετήριο αρχείου [βιογραφίας](https://github.com/Efthimis015/site/blob/master/_biography/john-blankenbaker.md).
