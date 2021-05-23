@@ -237,7 +237,7 @@ https://help.ubuntu.com/community/LaTeX
 
 **Link του issue**: https://github.com/ioniodi/sitegr/issues/215
 
-**Link του pull request**: -
+**Link του pull request**: https://github.com/ioniodi/sitegr/pull/217
 
 ###### [9]
 
