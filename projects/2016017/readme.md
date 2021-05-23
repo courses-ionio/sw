@@ -65,7 +65,7 @@
 
 Για πρώτη άσκηση στην γραμμή εντολών διάλεξα το [spark](https://github.com/holman/spark) με το οποίο θα μπορέσω να απεικονίσω το ιστορικό των commit μου στο github
 
-[Asciinema video](https://asciinema.org/a/399153)
+[asciinema link](https://asciinema.org/a/399153)
 
 #### [5]
 
@@ -101,7 +101,7 @@
 
 Επέλεξα το hugo για να φτιάξω ενα static site και για template το [hyde](https://github.com/zyro/hyde-x). 
 
-(asciinema link)[https://asciinema.org/a/415775]
+[asciinema link](https://asciinema.org/a/415775)
 
 site screenshot
 
