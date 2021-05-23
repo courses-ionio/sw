@@ -80,7 +80,12 @@
 
 [link asciinema](https://asciinema.org/a/415764)
 
-Αρχικά εγκατέστησα το ntfy και έπειτα εκανα config στο telegram
+Αρχικά εγκατέστησα το ntfy και έπειτα εκανα config στο telegram. Απο κάτω ειναι τα screenshot των ειδοποιήσεων.
+
+![189437345_2877374175864477_7242670986994603335_n](https://user-images.githubusercontent.com/55710426/119264610-94ea6f80-bbec-11eb-8523-9b389b397a7a.jpg)
+
+![Screenshot from 2021-05-23 17-19-26](https://user-images.githubusercontent.com/55710426/119264615-974cc980-bbec-11eb-87fc-93e3e1e1413c.png)
+
 
 ### [7]
 
