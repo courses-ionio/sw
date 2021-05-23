@@ -51,7 +51,7 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 #### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών 1](https://asciinema.org/a/398845)
 
-![Screenshot](cv-command-terminal.png)
+![cv-command-terminal](https://user-images.githubusercontent.com/79138374/119250495-1ae4c700-bba9-11eb-8a4d-cf3269437c33.png)
 
 ### <a name="Παραδοτέο 5">Παραδοτέο 5</a>
 ### Συμμετοχικό περιεχόμενο
@@ -60,7 +60,7 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 #### [Σύνδεσμος asciinema Συμμετοχικό περιεχόμενο ](https://asciinema.org/a/401062)
 
-![Screenshot](collaborative-content.png)
+![collaborative-content](https://user-images.githubusercontent.com/79138374/119250514-3d76e000-bba9-11eb-856d-d272d03f31bd.png)
 
 #### [Εκτελέσιμο Netlify site ](https://p09apos.netlify.app/)
 #### [Αρχείο Apple Lisa _gallery](https://github.com/p09apos/_gallery/blob/master/apple-lisa.md)
@@ -88,7 +88,7 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 #### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών 2](https://asciinema.org/a/403517)
 
-![Screenshot](cv-command-terminal2.png)
+![cv-command-terminal2](https://user-images.githubusercontent.com/79138374/119250520-4b2c6580-bba9-11eb-8dc4-60c1dfcb7768.png)
 
 ### <a name="Παραδοτέο 7">Παραδοτέο 7</a>
 ### ΒΙΟΓΡΑΦΙΚΟ
@@ -112,8 +112,8 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 
 #### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών - Μέρος Ι](https://asciinema.org/a/409898)
 #### [Σύνδεσμος asciinema Άσκησης γραμμής εντολών - Μέρος ΙΙ ](https://asciinema.org/a/409899)
-![Screenshot](slack.png)
 
+![slack](https://user-images.githubusercontent.com/79138374/119250528-5384a080-bba9-11eb-8a8c-7bfff8c6d7c5.png)
 
 ### <a name="Παραδοτέο 10">Παραδοτέο 10</a>
 ### Συμμετοχικό περιεχόμενο Παραδοτέα Β1 και Β2
@@ -145,3 +145,27 @@ Aλλαγές στο repository του βιογραφικού πού είχα φ
 #### [Αρχείο _includes/extras cs-simula.md](https://github.com/p09apos/extras/blob/master/cs-simula.md)
 #### [Αρχείο _case-study simula.md](https://github.com/p09apos/site/blob/master/_case-study/simula.md)
 
+### <a name="Παραδοτέο 11">Παραδοτέο 11</a>
+### Άσκηση γραμμής εντολών: performance monitoring
+Σκοπός της άσκησης είναι να απεικονίσουμε την απόδοση εκτέλεσης κάποιων  python scripts που έχουμε επιλέξει μέσω του hyperfine.
+#### hyperfine
+* [x] Εγκατάσταση hyperfine: sudo dpkg -i hyperfine_1.11.0_amd64.deb
+* [x] Δημιουργία python script που παράγει τυχαίους αριθμούς [rand.py](https://github.com/p09apos/photos/blob/main/rand.py)
+* [x] Εκτέλεση του αρχείου [bubblesort.py](https://github.com/p09apos/photos/blob/main/bubblesort.py) & [mergesort.py](https://github.com/p09apos/photos/blob/main/mergesort.py) για 500 αριθμούς και 1000 αριθμούς αντίστοιχα
+* [x] Εκτέλεση του hyperfine με warmup ώστε το αποτέλεσμα να μην επηρεαστεί απο την ταχύτητα I/O του μέσου ανάγνωσης
+* [x] Εξαγωγή των στατιστικών του benchmarking σε markdown 
+* [x] Εξαγωγή των στατιστικών του benchmarking σε json file
+* [x] Εκτέλεση  του benchmarking με εμφάνιση των βήματων εκτέλεσης στην οθόνη για εντοπισμό σφαλμάτων
+* [x] Εκτέλεση συγκριτικής αξιολόγησης(benchmarking) με χρήση της παραμέτρου -i για απόκρυψη τυχόν σφαμλάτων
+
+#### [Σύνδεσμος asciinema hyperfine ](https://asciinema.org/a/415719)
+[![asciicast](https://asciinema.org/a/415719.svg)](https://asciinema.org/a/415719)
+
+#### Συμπεράσματα
+Μέσω του hyperfine, εκτελέσαμε κώδικα που υλοποιεί τον αλγόριθμο bubblesort & mergesort και επιβεβαιώσαμε ότι ο mergesort υπερτερεί σε χρόνο εκτέλεσης. Με τη χρήση του εργαλείου hyperfine υπολογίζουμε το μέσο όρο εκτέλεσης ενός προγράμματος καθώς και άλλα στατιστικά, όπως ο συνολικός αριθμός εκτελέσεων, ο χρόνος που καταναλώνει η εφαρμογή για τον χρήστη και το σύστημα καθώς και το εύρος τιμών των εκτελέσεων.  Τέλος, το hyperfine δίνει στον χρήστη  την δυνατότητα εξαγωγής των δεδομένων σε αρχείο μορφής markdown, csv, json και asciidoc. 
+
+
+## ΣΥΜΠΕΡΑΣΜΑΤΑ
+
+
+---
