@@ -11,10 +11,10 @@
 2	| [Βιογραφικό](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2--%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [2ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CE%B4%CE%B5%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
 3	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3) | 3ο
 4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4) | [4ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%84%CE%AD%CF%84%CE%B1%CF%81%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
-5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | [5ο]
-6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | τεστ
-7	| Bιογραφικό | τεστ
-8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | τεστ
+5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | [5ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
+6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | 6ο
+7	| Bιογραφικό | 7ο
+8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | [8ο]
 9	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | τεστ
 10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | τεστ
 11	| Άσκηση γραμμής εντολών | τεστ
@@ -207,3 +207,16 @@ link asciinema:  https://asciinema.org/a/406670
 ##### 3) Γιατί το σύγχρονο λογισμικό έχει τόσες πολλές γραμμές κώδικα και πως θα μπορούσε να αλλάξει σε κάτι πιο συμπαγές;
 
 * Η αύξηση της πολυπλοκότητας των προβήμάτων είχε ως αποτέλεσμα την παραγωγή πολλών γραμμών κώδικα απο τους προγραμματιστές. Αυτό θα μπορούσε να αλλάξει αν είχαμε στην διαθεσή μας μια πολύ υψηλού επιπέδου γλώσσα προγραμματισμού.
+
+## Απάντήσεις στο quiz της όδοης εβδομάδας
+
+##### 1)Ποια είναι η τεχνολογική λύση για το πρόβλημα της οικονομικής ανισότητας που δημιουργεί η συγκέντρωση οικονομικού κεφαλαίου σε λίγους;
+
+* Σύμφωνα με τον jaron η δημιουργία ενός συστήματος μικροπληρομών όπου ο καθένας θα είχε αμοιβή ανάλογη με την συμβολή τους σε πληροφορίες που θα τις παρείχε σε ένο ψηφιακό οικοσύστημα που τις είχε ανάγκη, θα έλυνε το πρόβλημα της οικονομικής ανισότητας.
+
+##### 2)Για ποιο λόγο η τεχνολογία της αντιγραφής και επικόλλησης είναι ασύμβατη με τους δικτυωμένους υπολογιστές;
+
+* Η τεχνολογία της αντιγραφής και επικόλλησης είναι ασύμβατη με τους δικτυωμένους υπολογιστές αφού  η αρχική πληροφορία βρίσκεται στο  δίκυο και δεν χρειάζεται να ΄γινει αντιγραφή-επικόλληση.Επιπλέον με την διαδικασία αντιγραφής-επικόλησης χάνουμε πληροφορίες όπως το ιστορικό της πληροφορίας.
+
+##### 3)Ποιες είναι οι οικονομικές, πολιτισμικές, και πολιτικές επιπτώσεις της τεχνολογικής επιλογής των μονόδρομων υπερσυνδέσμων στα ψηφιακά έγγραφα;
+
