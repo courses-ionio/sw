@@ -15,7 +15,7 @@
 6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | 6ο
 7	| Bιογραφικό | 7ο
 8	| Αίτημα ενσωμάτωσης στην ιστοσελίδα | [8ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%8C%CE%B4%CE%BF%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82)
-9	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | [9ο]
+9	| Άσκηση γραμμής εντολών | [9ο]
 10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | τεστ
 11	| Άσκηση γραμμής εντολών | τεστ
 12	| Τελική αναφορά | τεστ 
@@ -220,7 +220,7 @@ link asciinema:  https://asciinema.org/a/406670
 
 ##### 3)Ποιες είναι οι οικονομικές, πολιτισμικές, και πολιτικές επιπτώσεις της τεχνολογικής επιλογής των μονόδρομων υπερσυνδέσμων στα ψηφιακά έγγραφα;
 
-### Απαντήσεις στο quiz της εβδομάδας
+### Απαντήσεις στο quiz της ένατης εβδομάδας
 
 ##### 1)Με ποιο τρόπο συνεργαστήκατε σε ιδέες δικές σας και άλλων σε αυτό το μάθημα;
 
