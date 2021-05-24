@@ -10,8 +10,8 @@
 1 |	[Fork του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#e%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1)  | [1ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%80%CF%81%CF%8E%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
 2	| [Βιογραφικό](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2--%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [2ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CE%B4%CE%B5%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
 3	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3) | 3ο
-4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4) | [4ο]
-5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | τεστ
+4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4) | [4ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%84%CE%AD%CF%84%CE%B1%CF%81%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
+5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | [5ο]
 6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | τεστ
 7	| Bιογραφικό | τεστ
 8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | τεστ
@@ -73,7 +73,7 @@
 
 Περιγραφή:Αρχικά έκανα fork τα αποθετήρια [site](https://github.com/p14ntot/site),  [images](https://github.com/p14ntot/images) και [gallery](https://github.com/p14ntot/_gallery). Στην συνέχεια και μέσω του τερματικού μου έκανα push και commit 2 φωτογραφίες σε πρώτο χρόνο στo submodule images και στην πορεία στο site repository. Οι φωτογραφίες είναι σχετικά με το mumble και το ubuntu και είναι εδω:  [mumble](https://github.com/p14ntot/images/blob/master/mumble.png), [ubuntu](https://github.com/p14ntot/images/blob/master/ubuntu.png).Στην συνέχεια με τον ίδιο τρόπο πρόσθεσα  τις thumbnails  φωτογραφίες. [mumble-thumb](https://github.com/p14ntot/images/blob/master/mumble-thumb.jpg), [ubuntu-thumb](https://github.com/p14ntot/images/blob/master/ubuntu-thumb.jpg).Έπειτα πραγματοποίηησα τις απαιτούμενες αλλαγές στο gallery repository προσθέτοντας τα [mumble.md](https://github.com/p14ntot/_gallery/blob/master/mumble.md) και [ubuntu.md](https://github.com/p14ntot/_gallery/blob/master/ubuntu.md).Στην πορεία τροποποίησα τo slides στο [archetypes.md](https://github.com/p14ntot/site/blob/master/_slides/archetypes.md) προσθέτοντας το  ubuntu και στο [models.md]( https://github.com/p14ntot/site/blob/master/_slides/models.md) προσθέτοντας το  mumble.Τέλος έκανα και τις απαραίτητες αλλαγές στο timeline  και πιο συγκεκριμένα στο [multimedia.md](https://github.com/p14ntot/site/blob/master/_timeline/multimedia.md) βάζοντας το mumble και ubuntu και στο [sytems.md](https://github.com/p14ntot/site/blob/master/_timeline/systems.md) βάζοντας το ubuntu 
 
-## Απάντήσεις στο quiz της εβδομάδας
+## Απάντήσεις στο quiz της πέμπτης εβδομάδας
 
 ##### 1) Ποια είναι η χρησιμότητα του προγραμματισμού στον συστημικό τρόπο σκέψης με παράδειγμα πέρα από αυτό που περιγράφει ο Άλαν Κέη;
 
@@ -193,3 +193,17 @@ link asciinema:  https://asciinema.org/a/406670
 
 * Εμείς οι ίδιοι οι  προγραμματιστες είμαστε υπεύθυνοι για το προγραμματιστικό δόγμα των ημερών  μας.Για να σκεφτούμε νέους τρόπους θα πρέπει να μην είμαστε αρνητικοί σε  οτιδήποτε νέο και να μην επαναπαυόμαστε τις ήδη υπάρχουσες τεχνολογίες με αποτέλεμα να είμαστε στάσιμοι
 
+
+## Απάντήσεις στο quiz της πέμπτης εβδομάδας
+
+##### 1) Ποια είναι η χρησιμότητα του προγραμματισμού στον συστημικό τρόπο σκέψης με παράδειγμα πέρα από αυτό που περιγράφει ο Άλαν Κέη;
+
+* Η εκμάθηση προγραμματισμού σε εξελίσσει τον τρόπο σκέψης και βοηθά στην ταχύτερη επίλυση προβλημάτων, δεξιότητες που είναι εξαιρετικά χρήσιμες σε όλες τις διεργασίες της καθημερινότητας μας.
+
+##### 2) Για ποιο λόγο κατασκευάζουμε συνήθως το λογισμικό σε επίπεδα και με ποια κριτήρια ορίζουμε τον προγραμματισμό σε κάθε ένα από αυτά;
+
+* Για να μπορούμε να αλληλεπιδρασουμε  με τον υπολογιστή με όσο τον δυνατο πιο απλό τρόπο γίνεται ανάλογα την φύση του προβλήματος.
+
+##### 3) Γιατί το σύγχρονο λογισμικό έχει τόσες πολλές γραμμές κώδικα και πως θα μπορούσε να αλλάξει σε κάτι πιο συμπαγές;
+
+* Η αύξηση της πολυπλοκότητας των προβήμάτων είχε ως αποτέλεσμα την παραγωγή πολλών γραμμών κώδικα απο τους προγραμματιστές. Αυτό θα μπορούσε να αλλάξει αν είχαμε στην διαθεσή μας μια πολύ υψηλού επιπέδου γλώσσα προγραμματισμού.
