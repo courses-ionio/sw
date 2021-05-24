@@ -38,6 +38,8 @@
 # Εβδομάδα 3 
 ### (	Αίτημα ενσωμάτωσης στην ιστοσελίδα)
 
+ΠΕΡΙΓΡΑΦΗ: Αρχικά άνοιξα ένα issue στο repository του site το οποίο έκανα  και fork στον δικό μου λογαριασμό. Στο issue αυτό έγραψα αναλυτικά τις αλλαγές που ήθελα να κάνω (προσθήκη καινούργιου post). Στην συνέχεια και  εφόσον πήρα το green light έφτιαξα λογαριασμό στο netlify και το σύνδεσα με  το github  repository μου. Αφού έφτιαξα το post μου, και είδα το αποτέλεσμα στο netlify, έκανα pull request το οποίο έγινε δεκτό.
+
 [link απο το issue](https://github.com/ioniodi/sitegr/issues/151)
 
 [netlify link](https://jovial-bardeen-80b084.netlify.app/posts/2021/04/30/eksetasi-mathimatwn-gia-tous-epi-ptyxio-foitites/)
