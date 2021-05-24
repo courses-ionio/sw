@@ -7,18 +7,18 @@
 
 Εβδομάδα |	Παραδοτέο  | video
 -------- | ----------
-1 |	[Fork του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#e%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1)  |
-2	| [Βιογραφικό](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2--%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C)
-3	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3)
-4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4)
-5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5)
-6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6)
-7	| Bιογραφικό
-8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8)
-9	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9)
-10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10)
-11	| Άσκηση γραμμής εντολών
-12	| Τελική αναφορά
+1 |	[Fork του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#e%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1)  | τεστ
+2	| [Βιογραφικό](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2--%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | τεστ
+3	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3) | τεστ
+4	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4) | τεστ
+5	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | τεστ
+6	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | τεστ
+7	| Bιογραφικό | τεστ
+8	| [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | τεστ
+9	| [Άσκηση γραμμής εντολών](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | τεστ
+10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | τεστ
+11	| Άσκηση γραμμής εντολών | τεστ
+12	| Τελική αναφορά | τεστ 
 
 # Eβδομάδα 1
 Στόχος για το μάθημα Τεχνολογίες Λογισμικού του ΣΤ' εξαμήνου είναι η γνωριμία και η αξιοποίηση εργαλίων ανάπτυξης λογισμικού με σκοπό την υλοποίηση των εργασιών. Παράλληλα στόχο αποτελεί και η ανάπτυξη μιας  ιστοσελίδας με την συμετοχή πολλών φοιτητών.Τέλος ένας απο τους στόχος είναι η εξοικείωση με το github, εργαλείο σημαντικό για τους προγραμματιστές.
