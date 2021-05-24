@@ -16,9 +16,9 @@
 7	| Bιογραφικό | 7ο
 8	| Αίτημα ενσωμάτωσης στην ιστοσελίδα | [8ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CF%8C%CE%B4%CE%BF%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82)
 9	| Άσκηση γραμμής εντολών | [9ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82)
-10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | τεστ
-11	| Άσκηση γραμμής εντολών | τεστ
-12	| Τελική αναφορά | τεστ 
+10	| [Συμμετοχικό περιεχόμενο](https://github.com/p14ntot/sw/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | [10ο](https://github.com/p14ntot/sw/blob/2014148/projects/2014148/README.md#%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-quiz-%CF%84%CE%B7%CF%82-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-1)
+11	| Άσκηση γραμμής εντολών | 
+12	| Τελική αναφορά | 
 
 # Eβδομάδα 1
 Στόχος για το μάθημα Τεχνολογίες Λογισμικού του ΣΤ' εξαμήνου είναι η γνωριμία και η αξιοποίηση εργαλίων ανάπτυξης λογισμικού με σκοπό την υλοποίηση των εργασιών. Παράλληλα στόχο αποτελεί και η ανάπτυξη μιας  ιστοσελίδας με την συμετοχή πολλών φοιτητών.Τέλος ένας απο τους στόχος είναι η εξοικείωση με το github, εργαλείο σημαντικό για τους προγραμματιστές.
