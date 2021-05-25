@@ -102,6 +102,14 @@
 | --- | --- | --- | --- |
 | [Andries van Dam](https://github.com/AlexisTsiranidis/site/blob/2018099/_biography/andries-van-dam.md) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam_thumb.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/extras/blob/2018099/bio-andries-van-dam.md) |
 
+### <a name="Ε11">Άσκηση γραμμής εντολών</a>
+Για την άσκηση γραμμής εντολών αποφάσισα να χρησημοποιήσω το εργαλείο py-spy. Χρησημοποιώντας έναν κώδικα Python ο οποίος αντιστρέφει έναν δοθέντα αριθμό απο τον χρήστη. Έτσι με την βοήθεια του py-spy κατάφερα να εξάγω ένα αρχείο .svg με τις καταγεγραμμένες πληροφορίες που κατέγραψε. Το αρχείο επισυνάπτω παρακάτω.
+| Άσκηση | Link Asciinema |
+| --- | --- |
+| Monitor the performance of your python scripts and visualize them with colors and/or spark lines | [Link Asciinema](https://asciinema.org/a/416162) |
+
+![profile.svg](https://github.com/AlexisTsiranidis/added_photos/blob/main/profile.svg)
+
 ### <a name="B01">Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'</a>
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
 | --- |
