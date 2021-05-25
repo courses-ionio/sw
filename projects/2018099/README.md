@@ -86,9 +86,10 @@
 | [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/gh-pages/cv.pdf) |
 
 ### <a name="Ε9">Άσκηση γραμμής εντολών</a>
-| Άσκηση | Link Asciinema |
+Για την άσκηση γραμμής εντολών αποφάσισα να χρησημοποιήσω το παρακάτω κομμάτι κώδικα στο Github Actions. Με αυτό καταφέρνω κάθε φορά που γίνεται μια αλλαγή στο αρχείο που περιέχει τα δεδομένα του βιογραφικού μου να παράγεται και ένα νεό και ενημερωμένο αρχείο Pdf της σελίδας του βιογραφικού.
+| Άσκηση | Script Link |
 | --- | --- |
-| Create an agent for news | [Link Asciinema]() |
+| Build and deploy your static site and your cv dynamically every time you make a small change in the source files | [Txt file Link](https://github.com/AlexisTsiranidis/added_photos/blob/main/pdf_generate.txt) |
 
 ### <a name="Ε10">Συμμετοχικό περιεχόμενο</a>
 Για το δεύτερο παραδοτέο του συμμετοχικού περιεχομένου Β1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου μια νέα μελέτη περίπτωσης. Το Hypertext Editing System του Andries van Dam βασισμένο στις ιδέες του Ted Nelson.
