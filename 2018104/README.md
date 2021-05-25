@@ -312,7 +312,7 @@ Dave Evans:πρώτες γραφικές διεπαφές με στοιχεία 
 |:---|---:|---:|---:|---:|
 | `python3 bubble.py 5` | 14.3 ± 0.5 | 13.6 | 16.8 | 1.00 | <br>
 
-Εικόνα από το [py-spy](https://github.com/giouliker/sw/blob/2018104/profile.svg)
+Εικόνα από το [py-spy](https://github.com/giouliker/image/blob/main/profile.svg)
 
 
 
