@@ -18,6 +18,23 @@
 | 10 | <a href="#Ε10">συμμετοχικό περιεχόμενο</a> |
 | 11 | <a href="#Ε11">Άσκηση γραμμής εντολών</a> |
 | 12 | <a href="#Ε12">Τελική αναφορά</a> |
+<br>
+
+**Πίνακας Περιεχομένων Βίντεο Κουίζ**
+| Εβδομάδα | Βίντεο |
+| --- | --- |
+| 1 | <a href="#B01"> Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'</a> |
+| 2 | <a href="#B02">Βίντεο κουίζ 2 'ted nelson computers for cynics'</a> |
+| 3 | <a href="#B03">Βίντεο κουίζ 3 'alan kay computing simply'</a> |
+| 4 | <a href="#B04">Βίντεο κουίζ 4  'Bret Victor - The Future of Programming'</a> |
+| 5 | <a href="#B05">Βίντεο κουίζ 5  'Alan Kay - Programming Languages & Programming'</a> |
+| 6 | <a href="#B06">Βίντεο κουίζ 6 'alan kay turing award lecture'</a> |
+| 7 | <a href="#B07">Βίντεο κουίζ 7  'alan kay invention'</a> |
+| 8 | <a href="#B08">Βίντεο κουίζ 8  'Jaron lanier at intertwingled'</a> |
+| 9 | <a href="#B09">Βίντεο κουίζ 9  'alan kay scaling'</a> |
+| 10 | <a href="#B10">Βίντεο κουίζ 10  'alan key Extracting Energy from the Turing Tarpit'</a> |
+| 11 | <a href="#B11">Βίντεο κουίζ 11</a> |
+| 12 | <a href="#B12">Βίντεο κουίζ 12</a> |
 
 ### <a name="Ε1">Εισαγωγή</a>
 Με την παρακολούθηση του μαθήματος Τεχνολογίες Λογισμικού στο Ε΄ Εξάμηνο θέλω να εξοικειωθώ με τις μεθόδους ανάπτυξης λογισμικού, την συλλογή και ανάλυση δεδομένων για την κατασκευή λογισμικού, να μπορώ να κατασκευάζω διεπαφή χρήστη και να μπορώ να παραδίδω αλλά και να συντηρώ συστήματα λογισμικού. Εργαλεία για την επίτευξη των παραπάνω στόχων και την εξάσκηση μου μπορούν να αποτελέσουν το τερματικό, προγραμματισμός σε Jekyll κ.α.
@@ -84,7 +101,7 @@
 | --- | --- | --- | --- |
 | [Andries van Dam](https://github.com/AlexisTsiranidis/site/blob/2018099/_biography/andries-van-dam.md) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam_thumb.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/extras/blob/2018099/bio-andries-van-dam.md) |
 
-### Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'
+### <a name="B01">Βίντεο κουίζ 1 'Video1-alan kay at MIT EECS'</a>
 | Ερώτηση/Απάντηση<br>*(Έχουν υποβήθεί μέσα στην προθεσμία τους μέσω της εφαρμογής. Συμπεριλαμβάνονται και εδώ για να είναι συγκεντρωμένες όλες οι ερωτήσεις)|
 | --- |
 |**(490)Ποια είναι σύμφωνα με τον Αλαν Κεη η μεγαλύτερη παγίδα σε ένα μάθημα υπολογιστών και ποια είναι κατά την γνώμη σας η αντίστοιχη της ΙΒΜ τεχνολογία λογισμικού στις μέρες μας;**|
@@ -98,7 +115,7 @@
 
 <br>
 
-### Βίντεο κουίζ 2 'ted nelson computers for cynics'
+### <a name="B02">Βίντεο κουίζ 2 'ted nelson computers for cynics'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -113,7 +130,7 @@
 
 <br>
 
-### Βίντεο κουίζ 3 'alan kay computing simply'
+### <a name="B03">Βίντεο κουίζ 3 'alan kay computing simply'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -128,7 +145,7 @@
 
 <br>
 
-### Βίντεο κουίζ 4  'Bret Victor - The Future of Programming'
+### <a name="B04">Βίντεο κουίζ 4  'Bret Victor - The Future of Programming'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -143,7 +160,7 @@
 
 <br>
 
-### Βίντεο κουίζ 5  'Alan Kay - Programming Languages & Programming'
+### <a name="B05">Βίντεο κουίζ 5  'Alan Kay - Programming Languages & Programming'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -158,7 +175,7 @@
 
 <br>
 
-### Βίντεο κουίζ 6 'alan kay turing award lecture'
+### <a name="B06">Βίντεο κουίζ 6 'alan kay turing award lecture'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -177,7 +194,7 @@
 
 <br>
 
-### Βίντεο κουίζ 7  'alan kay invention'
+### <a name="B07">Βίντεο κουίζ 7  'alan kay invention'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -194,7 +211,7 @@
 
 <br>
 
-### Βίντεο κουίζ 8  'Jaron lanier at intertwingled'
+### <a name="B08">Βίντεο κουίζ 8  'Jaron lanier at intertwingled'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -209,7 +226,7 @@
 
 <br>
 
-### Βίντεο κουίζ 9  'alan kay scaling'
+### <a name="B09">Βίντεο κουίζ 9  'alan kay scaling'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
@@ -228,7 +245,7 @@
 
 <br>
 
-### Βίντεο κουίζ 10  'alan key Extracting Energy from the Turing Tarpit'
+### <a name="B10">Βίντεο κουίζ 10  'alan key Extracting Energy from the Turing Tarpit'</a>
 
 | Ερώτηση/Απάντηση |
 | --- |
