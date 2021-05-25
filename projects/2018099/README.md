@@ -61,12 +61,12 @@
 ![blocklist_function](https://github.com/AlexisTsiranidis/added_photos/blob/main/twilio.jpg)
 
 ### <a name="Ε7">Bιογραφικό 2</a>
-Για την δημιουργία PDF χρησιμοποιόντας Pandoc και LaTeX ακολούθησα τα εξής βήματα:
-[Asciinema Link](https://asciinema.org/a/406582)
+Για την δημιουργία του PDF χρησιμοποίησα το εξής κομμάτι κώδικα στο Github Actions :
+[Txt file Link](https://github.com/AlexisTsiranidis/added_photos/blob/main/pdf_generate.txt)
 
 Εξαγώμενο PDF
 | --- |
-| [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/5e03d595cf40fc2d55b7b6788e4cbd3894f15648/cv.pdf) |
+| [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/gh-pages/cv.pdf) |
 
 ### <a name="Ε9">Άσκηση γραμμής εντολών</a>
 | Άσκηση | Link Asciinema |
