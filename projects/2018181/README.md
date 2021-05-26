@@ -69,7 +69,8 @@ My aim for this course is to break down the continuous process of software devel
 |Second Part|
 |:---------:|
 
-Για την παραγωγή του  [pdf](https://user-images.githubusercontent.com/56742258/117884603-8085a900-b2b5-11eb-9eb5-5046eea6246d.png) αρχείου του βιογραφικού, αξιοποίησα το `GitHub Actions` και δημιούργησα το απαραίτητο script. Αυτό έχει ως αποτέλεσμα, κάθε φόρα που τροποποιώ κάτι στο `data.yml` να παράγει ξανά το αρχείο (Continuous Intergration).
+In order to create a PDF version of my CV, I have used a custom Github Actions workflow with the necessary script that automates the process of making it.
+Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated PDF with the latest additions.
 </br>
 
 
