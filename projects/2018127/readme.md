@@ -257,8 +257,8 @@ Maybe, this is a small taste of what's to come.
 If it is, I need to know now and drop out.
 That's it. Hopefully, tata forever.
 
-
-# Video Quiz
+P.S. 
+3 course assistance meetings were held with mr. Patiniotis, on April 5th,May 10th and 24th. 
 ## Week 3:
 | Marker | Question | Answer |
 | --- | --- | --- |
