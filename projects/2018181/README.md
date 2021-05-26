@@ -156,10 +156,10 @@ The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e50
 
 </br>
 
-|First Part|
+|Second Part|
 |:---------:|
 
-- For the second part of this task (b1), I added to the forked repository Richard Stallman's biography and a case-study for the GNOME with the apropriate images and information. 
+- For the second part of this task (b1), I added to my forked repository Richard Stallman's biography and a case-study for GNOME with the apropriate images and information. 
 </br>
 
 |**Biography's Links** | **Case-Study's Links** | **Netlify Link** |
@@ -168,6 +168,14 @@ The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e50
 | [Image](https://github.com/mariachlkt/images/blob/P2018181/richard-stallman.jpg) | [Image](https://github.com/mariachlkt/images/blob/P2018181/gnome.png) | https://sad-spence-5715fa.netlify.app/ |
 | [Extras](https://github.com/mariachlkt/extras/blob/P2018181/bio-stallman.md) | [Extras](https://github.com/mariachlkt/extras/blob/P2018181/cs-gnome.md) | https://sad-spence-5715fa.netlify.app/ |
 
+**Images caching issue**: There's an underlying caching issue with image previews on my Netlify demo.
+
+[Site](https://github.com/mariachlkt/site/tree/P2018181) **is configured to point to my own submodule forks** but some images don't show up as previews during website navigation, at specific locations. For example, Stallman's image preview at [Biographies](https://sad-spence-5715fa.netlify.app/biography/) section doesn't work. The same applies for GNOME image preview at [Case Studies](https://sad-spence-5715fa.netlify.app/case-study/) section. On the contrary, all previews of newly added images (Irix OS & Vision) at [Gallery](https://sad-spence-5715fa.netlify.app/gallery/) section work as expected.
+
+In an attempt to fix this issue, I tried to start fresh by forking all the repositories again in hope that there was an underlying corrupted commit that prevented image previews from showing up at specific locations. Unfortunately, this didn't fix the issue and same troublesome image previews as before are still broken.
+
+Prior to forking the repositories all over again, I created copies of them in order to preserve the commit history for the purpose of meeting deadlines. **Original commits can be viewed at these duplicate repositories:**<br>
+(1) [site-history](https://github.com/mariachlkt/site-history), (2) [gallery-history](https://github.com/mariachlkt/_gallery-history) & (3) [images-history](https://github.com/mariachlkt/images-history)
 </br>
 
 <h2>Summary</h2>
