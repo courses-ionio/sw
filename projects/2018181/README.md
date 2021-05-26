@@ -69,7 +69,7 @@ My aim for this course is to break down the continuous process of software devel
 |Second Part|
 |:---------:|
 
-In order to create a PDF version of my CV, I have used a custom Github Actions workflow with the necessary script that automates the process of making it.
+In order to create a PDF version of my CV, I used a custom Github Actions workflow with the necessary script that automates the process of making it.
 Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated PDF with the latest additions.
 </br>
 
