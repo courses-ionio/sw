@@ -77,7 +77,8 @@
 Εργασία τερματικού με τίτλο create an agent for news.
 Για αυτό την εργασία έφτιαξα έναν νέο Website Agent, ο οποίος παίρνει τις ανακοινώσεις από τη σελίδα του Ιονίου Πανεπιστημίου.
 ![Screenshot_2021-05-26_10-04-48](https://user-images.githubusercontent.com/56274018/119679990-cf335700-be0e-11eb-87ed-50f2dee5cf8f.png)
-![Screenshot_2021-05-26_10-04-31](https://user-images.githubusercontent.com/56274018/119680072-dce8dc80-be0e-11eb-94ac-d2e992d9d5e7.png)
+![Screenshot_2021-05-26_10-04-31](https://user-images.githubusercontent.com/56274018/119680072-dce8dc80-be0e-11eb-94ac-d2e992d9d5e7.png)![VirtualBox_xunuibii_26_05_2021_17_14_23](https://user-images.githubusercontent.com/56274018/119680347-c8760580-be49-11eb-8fbe-075f4ff149ae.png)
+
 
 
 ### Παραδοτέο 10
