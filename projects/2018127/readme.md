@@ -14,11 +14,12 @@
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
 | 5 | [Collaborative Work #1](#collaborative-work-pibook-1) | Υποβολή μέσω εφαρμογής
 | 6 | [CLI Exercise #2](#cli-exercise-2) | [Answered Here](#week-6)
-| 7 | [CV pt2](#cv-part-2) |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Answered Here](#week-8)
-| 9 | [CLI Exercise #3](#cli-exercise-3) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | [CLI Exercise #5](#cli-exercise-5) |
+| 7 | [CV pt2](#cv-part-2) | [Answered Here](#week-7)
+| 8 | ~~Αίτημα ενσωμάτωσης στην ιστοσελίδα~~ |  [Answered Here](#week-8)
+| 9 | [CLI Exercise #3](#cli-exercise-3) | [Answered Here](#week-9)
+| 10 | [Collaborative Work #2](#collaborative-work-pibook-2) |
+| 11 | [CLI Exercise #4](#cli-exercise-4) | null | 
+| 12 | [Epilogue](#epilogue) | null |
 
 ### Σύνοψη/Εισαγωγή
 Σύντομη Περιγραφή:
@@ -131,9 +132,7 @@ For the 2nd CLI Assignment, I chose to work on Huginn. Following the simple inst
 Following mr. Patiniotis' prompt, I went ahead and asciicasted the manual installation process for Huginn which was a disaster at best. Various bugs were found, and while a lot were taken note of and corrected in-flight, there were always new ones poppinh up, and at the end of the day the installation never worked.
 Both Docker and CLI versions are the same, since both lead you to the same GUI, but the process was still documented and uploaded here so as to check the CLI part of the exercise.
 
-<a href="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y" width="400" target="_blank"><img src="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y.svg" /></a>
-
-
+<a href="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y" target="_blank"><img src="https://asciinema.org/a/6AeGkKLoIQsq7TqQfcue6FJ7Y.svg" width="400"/></a>
 ## CLI Exercise #3
 This time, I chose the twilio assignment. As vague as can be, the goal to "deploy an application that forwards a call depending on a white- and black- list of phone numbers" proved to be a tough one. That's on me and my app hosting choices though, but admittedly the twillio documentation is lacking to say the very very best of it.
 Jumping through hoops I made a simple SMS webhook which replies with a link to my resume on any message. 
@@ -162,7 +161,11 @@ And the proof that I really did receive a message:
 
 <img src="https://raw.githubusercontent.com/runtheorun-exe/swfiles/main/twilocal.jpg" width="400"/>
 
-# CLI Exercise 5
+Sources:
+* https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-python-amazon-lambda#configuring-our-api-gateway-response
+* https://github.com/twilio/twilio-python
+
+# CLI Exercise 4
 Hyperfine & PySpy profiling tools.
 Using 2 pretty simple python scripts, hello-world.py and randpass.py.
 #### hello-world.py
@@ -225,6 +228,36 @@ The actual asciicast outputs of py-spy and the hyperfine results can be found be
 
 <a href="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt" target="_blank"><img src="https://asciinema.org/a/2W8gRQXYkdEqAOmkSWN80UPUt.svg" title="hyperfine" width="400" /></a>
 
+Sources:
+* https://github.com/sharkdp/hyperfine
+* https://github.com/benfred/py-spy
+
+## Collaborative Work (pibook) #2
+
+After uploading the necessary files ([Dijkstra's biography @ site/_biography](https://github.com/runtheorun-exe/site/blob/master/_biography/e-dijkstra.md), 
+[the goto case study](https://github.com/runtheorun-exe/_gallery/blob/6f3b413c6fa8c0d277e909444a338b28a822f4f9/goto.md), [a photo of E. W. Dijkstra and a respective thumbnail photo](https://github.com/runtheorun-exe/images/blob/f031c23490c2e387cda506d588d1019e27bbb51b/dijkstra.jpg), [an example of GOTO use case](https://github.com/runtheorun-exe/images/blob/f031c23490c2e387cda506d588d1019e27bbb51b/goto.png), and finally [Dijkstra's biography again, @ extras submodule](https://github.com/runtheorun-exe/extras/blob/56fe63fb8d55b309dd23865c675d2389f616ae63/bio-dijkstra.md)) and a brief submodule installation demo (below) the final part of thw Collaborative Work assignment was done. 
+The topics chosen were GOTO's dangerous reputation and the biography of the man who gave GOTO its reputation. 
+Sources for the case study and the biography are as follows:
+* Dijkstra, E. W. (1968). Letters to the editor: go to statement considered harmful. Communications of the ACM, 11(3), 147–148. doi:10.1145/362929.362947 
+* Nagappan, M. (2018). Reconsidering Whether GOTO Is Harmful. IEEE Software, 35(3), 93–95. doi:10.1109/ms.2018.2141020 
+* https://www.britannica.com/biography/Edsger-Dijkstra
+* https://www.cs.utexas.edu/users/EWD/MemRes(USLtr).pdf
+
+Finally the demo asciicast:
+
+<a href="https://asciinema.org/a/bC8VEtnNgkfRB79JuZqDSPvJq" target="_blank"><img src="https://asciinema.org/a/bC8VEtnNgkfRB79JuZqDSPvJq.svg" width="400"/></a>
+
+## Epilogue
+
+This course started not quite well, and it kept on just like that. A very time-intensive course with all sorts of obstacles and irritating things to deal with. Tiny things, big things, things I chose to do the hard way (looking at you, Lambda Function Twilio), things I did the bare minimum for. Hours and hours of videos and quizzes to be watched and answered.
+All in all, this was a pain to complete. But,objectively, the experience gained may come in handy.
+Hundreds of commits later, months later, probably weeks spent researching and writing code and reports, more and more courses ignored and assignments dropped to do more here for this course, did eventualy cover the things I hoped to when this started: Learn to move around github, and maybe some extra tools along the way.
+Like AWS for instance. (I'll never shut up about that Lambda function, it was the most exhausting assignment I did, but damn did I like the things I learned.)
+Maybe, this is a small taste of what's to come.
+If it is, I need to know now and drop out.
+That's it. Hopefully, tata forever.
+
+
 # Video Quiz
 ## Week 3:
 | Marker | Question | Answer |
@@ -244,6 +277,14 @@ The actual asciicast outputs of py-spy and the hyperfine results can be found be
 | 2002 | Ποια είναι τα βασικά προβλήματα της 3βάθμιας εκπαίδευσης στην πληροφορική; | The lack of projects at universities, as understood by the museum example. Students need to be exposed to a lot of different ideas and projects before they find what suits them and follow that path.| 
 | 2749  | Πως διαφέρει ο αντικειμενοστραφής προγραμματισμός που περιγράφει από αυτόν που διδαχτήκατε στο αντίστοιχο μάθημα; | Object-oriented systems changed in regards to the way inheritance works, but my understanding of OOP is lacking.| 
 
+## Week 7
+| Question | Answer |
+| --- | --- |
+| Ποια πρέπει να είναι τα κριτήρια της αξιολόγησης στην εκπαίδευση και στο λογισμικό αν ο στόχος είναι η καινοτομία;| Όσο και αν η ανάγκη για καινοτομία μας προκαλεί να δράσουμε άμεσα, θα πρέπει οι κινήσεις μας να είναι αποτέλεσμα σκέψης και προσεκτικού σχεδιασμού.|
+| Πως μπορούμε να φτιάξουμε σήμερα το λογισμικό για τους υπολογιστές που θα έχουμε σε δέκα ή περισσότερα χρόνια;| Θα μπορούσαμε να αντλήσουμε έμπνευση από το πως δημιουργήθηκαν οι πρώτοι υπολογιστές, τι μας οδήγησε στη δημιουργία τους.|
+| Ποια είναι η αναλογία του ποδήλατου με βοηθητικές ρόδες για την περίπτωση του λογισμικού;| Όπως όταν κάνει κανείς ποδήλατο με βοηθητικές και δεν μαθαίνει πραγματικά ποδήλατο, έτσι και εδώ, δημιουργείται ένα πολύ αποστειρωμένο περιβάλλον στο οποίο είναι αδύνατο να δημιουργηθεί μια πραγματικά λειτουργική λύση.
+| Για ποιο λόγο είναι δύσκολη η κατασκευή λογισμικού διεπαφής με τον χρήστη; | Κάθε χρήστης έχει διαφορετικούς τρόπους να δουλεύει, άρα προφανώς είναι δύσκολο να δημιουργηθεί μια διεπαφή που θα εξυπηρετεί όλους τους χρήστες ή έστω μια μεγάλη μερίδα αυτών.|
+| Πως πρέπει να είναι οργανωμένη μια ομάδα για να αντιμετωπίσει με την βοήθεια της πληροφορικής δύσκολες αποφάσεις και τι σημαίνει αυτό για την οργάνωση μιας ομάδας που βρίσκεται στην διαδικασία της εκπαίδευσης; | Ο Kay συστήνει ομαδική συνεργασία και προσέγγιση λύσεων όπως το κάνουν οι υπολογιστές (με τη μέθοδο διαίρει και βασίλευε όπου ένα προβλημα σπαει σε υποπροβλήματα) |
 ## Week 8:
 | Question | Answer |
 | --- | --- |
@@ -251,3 +292,9 @@ The actual asciicast outputs of py-spy and the hyperfine results can be found be
 | Για ποιο λόγο η τεχνολογία της αντιγραφής και επικόλλησης είναι ασύμβατη με τους δικτυωμένους υπολογιστές;| Σύμφωνα με τον Jaron Lanier στην περίπτωση ενός τέτοιου συνδεδεμένου δικτύου υπολογιστών, δεν υπάρχει λόγος για copy-paste πληροφοριών, καθώς το πρωτότυπο θα βρίσκεται πάντα εκεί. Προτείνει την αναφορά και όχι κάποιο ανούσιο copy-paste.|
 | Ποιες είναι οι οικονομικές, πολιτισμικές, και πολιτικές επιπτώσεις της τεχνολογικής επιλογής των μονόδρομων υπερσυνδέσμων στα ψηφιακά έγγραφα;| Το κοινωνικό αντίκτυπο της παρούσας δομής του διαδικτύου είναι η αναγκαστική ιδιωτικοποίησή του ώστε να συντηρηθεί λόγω του σχεδιασμού του. Αυτό οδηγεί στο πολιτικό ζήτημα, όπου η δομή του διαδικτύου έχει σαν αποτέλεσμα την "αποδημοκρατικοποίηση" του διαδικτύου και της πληροφορίας. Θα πρέπει να υπάρχει κατανομή στη δυνατότητα χρήσης πληροφοριών, προς αποφυγή εισοδηματικής ανισότητας.
 | Ποιες είναι οι βασικές συνεισφορές του Ted Nelson στην τεχνολογία σύμφωνα με τον Jaron Lanier και πως διαφέρουν από την τεχνολογία που έχουμε τώρα; | Ο Ted Nelson συνείσφερε στη διαφορά μεταξύ της υποθετικής και της εξουσιοδοτημένης πρόσβασης πληροφοριών. Παραθέτει το παράδειγμα εξάλειψης ρόλων εξαιτίας των μηχανών, όπως στην περίπτωση των μεταφραστών. Τέλος αναφέρει πως κάθε μορφή τεχνητής νοημοσύνης αποτελεί τελικά μια μορφή αποδυνάμωσης του ανθρώπινου εγκεφάλου.|
+## Week 9
+| Question | Answer |
+| --- | --- |
+| Αν ο προγραμματισμός δεν είναι η βασική δραστηριότητα της τεχνολογίας λογισμικού, ποια είναι κάποια καλά παραδείγματα;| Ο Alan Kay παρουσιάζει ένα σύστημα το οποίο χρησιμοποιεί τη λογική των αντικειμένων και λειτουργεί ως οδηγός για άλλα συστήματα, ενώ παράλληλα περιέχει το δικό του λειτουργικό και δείγματα εφαρμογών.|
+| Γιατί θα πρέπει το λογισμικό να αναπτύσεται με την διαδοχική συγγραφή εικονικών μηχανών;|Η συγγραφή σε εικονικές μηχανές ευνοεί την ευελιξία του προγράμματος σε διάφορες πλατφόρμες.|
+| Ποια είναι η διαφορά του συστήματος που δείχνει από τα σύγχρονα λειτουργικά και τον παγκόσμιο ιστό;| Ο Alan Kay παρουσιάζει ένα σύστημα το οποίο διαθέτει όλα τα απαραίτητα εργαλεία για τη μεταφορά σε διάφορες πλατφόρμες και τονίζει πως τα σύγχρονα λειτουργικά συστήματα περιορίζουν σημαντικά την ελευθερία των χρηστών.|
