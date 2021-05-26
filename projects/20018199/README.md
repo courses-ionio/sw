@@ -37,6 +37,7 @@
 - Προχώρησα σε [pull request](https://github.com/ioniodi/sitegr/pull/129) 
 ---
 ### Παραδοτέο 4
+Εργασία τερματικού με τίτλο send notifications to your desktop-mobile.
 Πρώτη άσκηση γραμμής εντολών το ntfy λειτουργούσε κανονικά όμως μετά από κάποια installs έβγαζε προβλήματα σε κάποια αρχεία που δυστυχώς δεν έχω την γνώση για να τα διορθώσω 
 [ntfy video](https://asciinema.org/a/399405) 
 
@@ -57,6 +58,7 @@
 - Στον φάκελο _timeline, τροποποίησα τα αρχεία [_timeline/computer.md](https://github.com/polycarpos/site/commit/1232dc94541fe6dcdeb3cfe2490537ba3896a91c) έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου
 - Στον φάκελο _slides, τροποποίησα τα αρχεία [_slides/tools.md](https://github.com/polycarpos/site/commit/6ecb6469f5cbd3d61842acf10cb31fef82757071) έγραψα το όνομα του αρχείου μου ακριβώς όπως έπρεπε αλλά οι αλλαγές δεν φαίνονται στην ιστοσελίδα μου,επίσης το όνομα των αρχείων μου iphone.md και keyboard.md είναι ακριβώς ίδιο με αυτο που έγραψα στα αρχεία computer.md και tools.md 
 ### Παραδοτέο 6
+Εργασία τερματικού με τίτλο performance monitoring.
 Δεύτερη άσκηση γραμμής εντολών το py-spy και hyperfine [ntfy video](https://asciinema.org/a/405082)
 ### Παραδοτέο 7
 Για να παράξω σε αρχείο pdf την σελίδα του βιογραφικού μου χρησιμοποίησα τα εργαλεία pandoc και pdflatex.
