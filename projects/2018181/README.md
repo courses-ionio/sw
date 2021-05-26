@@ -170,7 +170,7 @@ The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e50
 
 **Images caching issue**: There's an underlying caching issue with image previews on my Netlify demo.
 
-[Site](https://github.com/mariachlkt/site/tree/P2018181) **is configured to point to my own submodule forks** but some images don't show up as previews during website navigation, at specific locations. For example, Stallman's image preview at [Biographies](https://sad-spence-5715fa.netlify.app/biography/) section doesn't work. The same applies for GNOME image preview at [Case Studies](https://sad-spence-5715fa.netlify.app/case-study/) section. On the contrary, all previews of newly added images (Irix OS & Vision) at [Gallery](https://sad-spence-5715fa.netlify.app/gallery/) section work as expected.
+[Site](https://github.com/mariachlkt/site/tree/P2018181) **is configured to point to my own submodule forks** but some images don't show up as previews during website navigation, at specific locations. For example, Stallman's image preview at [Biographies](https://sad-spence-5715fa.netlify.app/biography/) section doesn't work. The same applies for GNOME image preview at [Case Studies](https://sad-spence-5715fa.netlify.app/case-study/) section. **On the contrary, all previews of newly added images (Irix OS & Vision) at [Gallery](https://sad-spence-5715fa.netlify.app/gallery/) section work as expected.**
 
 In an attempt to fix this issue, I tried to start fresh by forking all the repositories again in hope that there was an underlying corrupted commit that prevented image previews from showing up at specific locations. Unfortunately, this didn't fix the issue and same troublesome image previews as before are still broken.
 
