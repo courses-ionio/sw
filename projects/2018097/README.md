@@ -15,7 +15,7 @@
 | 7 | <a href="#P7"> Βιογραφικό </a>|  Έγινε  |
 | 8 |  Αίτημα ενσωμάτωσης στην ιστοσελίδα |  ---  |
 | 9 | <a href="#P9"> Άσκηση γραμμής εντολών </a>|  Έγινε  |
-| 10 | <a href="#P10"> συμμετοχικό περιεχόμενο </a>|
+| 10 | <a href="#P10"> συμμετοχικό περιεχόμενο </a>|  Έγινε  |
 | 11 | <a href="#P11"> Άσκηση γραμμής εντολών </a>|
 | 12 | <a href="#P12"> Τελική αναφορά </a>|
 
@@ -91,8 +91,24 @@
 Για την μετατροπή του βιουργαφικού από την ιστοσελίδα σε pdf, είχα συναντήσει ένα κύριο εμπόδιο. Μέσω τερματικού με την εντολή pandoc, δεν μπορούσα να κάνω την μετατροπή λόγω ενός error. Το πρόβλημα λύθηκε όταν πρόσθεσα φωτογραφία προφίλ στον κώδικα του template. Έσι μπόρεσα να παράξω το pdf αρχείο.
 Με βάση ένα [script](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/.github/workflows/main.yml) γίνεται η αυτόματη μετατροπή του cv σε [pdf](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/cv.pdf).
 
+
 ### **<a name="P9">9η εβδομάδα:</a>** </br>
 <ins> Άσκηση γραμμής εντολών </ins> <br>
 Για την εργασία γραμμής εντολών αυτής της εβδομάδας, επέλεξα να κάνω την 7η προτεινόμενη εργασία και να γίνει παρακολούθηση των επιδώσεων. Έγραψα ένα αρχείο .py το οποίο δέχεται από τον χρήστη δυο ξεχωριστές μεταβλητές string και επιστρέφει τις μεταβλητές αυτές ως μια. Τα εργαλεία ήταν το pyinstrument και το py-spy. 
 Το link στο asciinema θα το βρείτε [εδώ](https://asciinema.org/a/416178)
 
+### **<a name="P10">10η εβδομάδα:</a>** </br>
+<ins> 	Συμμετοχικό περιεχόμενο </ins> <br>
+Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου έκανα <br>
+B1: μια νέα μελέτη περίπτωσης MS-DOS  που σχετίζεται  σχετίζεται με το [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md) <br>
+Β2: μια νέα βιογραφία για τον J. C. R. Licklider και το πως δημιούργησε το cloud computing και σχετίζεται  με το [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md). 
+- J. C. R. Licklider:
+  - [J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)
+
+Πηγές: <br>
+https://www.internethalloffame.org/inductees/jcr-licklider <br>
+http://art-history.flower-bunga.com/_lain.php?&_lain=19617 <br>
+https://worddisk.com/wiki/J._C._R._Licklider/ <br>
+http://www.ijasret.com/VolumeArticles/FullTextPDF/113_Three_Factor_Data_Sharing_Mechanism_for_Cloud_Storage_System.pdf <br>
