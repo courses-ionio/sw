@@ -101,6 +101,11 @@
 <ins> 	Συμμετοχικό περιεχόμενο </ins> <br>
 Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου έκανα <br>
 B1: μια νέα μελέτη περίπτωσης MS-DOS  που σχετίζεται  σχετίζεται με το [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md) <br>
+- MS DOS:
+  - [MS DOS Case Study]
+  - [Κανονική Φωτογραφία]
+  - [Thumbnail Φωτογραφία] <br>
+
 Β2: μια νέα βιογραφία για τον J. C. R. Licklider και το πως δημιούργησε το cloud computing και σχετίζεται  με το [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md). 
 - J. C. R. Licklider:
   - [J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
