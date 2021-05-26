@@ -73,6 +73,13 @@
 
 ![screen2](https://user-images.githubusercontent.com/56274018/114317376-c9d7b280-9ad5-11eb-8f50-68f09d60e66f.png)
 
+### Παραδοτέο 9
+Εργασία τερματικού με τίτλο create an agent for news.
+Για αυτό την εργασία έφτιαξα έναν νέο Website Agent, ο οποίος παίρνει τις ανακοινώσεις από τη σελίδα του Ιονίου Πανεπιστημίου.
+![Screenshot_2021-05-26_10-04-48](https://user-images.githubusercontent.com/56274018/119679990-cf335700-be0e-11eb-87ed-50f2dee5cf8f.png)
+![Screenshot_2021-05-26_10-04-31](https://user-images.githubusercontent.com/56274018/119680072-dce8dc80-be0e-11eb-94ac-d2e992d9d5e7.png)
+
+
 ### Παραδοτέο 10
 - Έκανα [fork](https://github.com/polycarpos/extras) το submodule _includes/extras
 - Άλλαξα το configuratio του submodule ώστε να δείχνει στο δικό μου
