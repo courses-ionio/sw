@@ -17,7 +17,7 @@
 | 7 |<a href="#P7"> Βιογραφικό </a>|
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
 | 9 |<a href="#P9"> Άσκηση γραμμής εντολών </a>|
-| 10 | Συμμετοχικό περιεχόμενο |
+| 10 |<a href="#P10"> Συμμετοχικό περιεχόμενο </a>|
 | 11 |<a href="#P11"> Άσκηση γραμμής εντολών </a>|
 | 12 | Τελική αναφορά* |
 
@@ -144,6 +144,17 @@ Monitor the performance of your python scripts and visualize them with colors an
 Στην εγγραφή τερματικού φαίνεται η χρήση του hyperfine όπως και τα αποτελέσματά του.
 
 Εγγραφή τερματικού: https://asciinema.org/a/415276
+
+## <a name="P10">Παραδοτέο 10 </a>
+
+### Συμμετοχικό περιεχόμενο 2
+
+pibook/site fork: https://github.com/p15bala/site
+
+### B2
+
+Αποθετήριο βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/john-mccarthy.md
+Αποθετήριο σύντομης βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/bio-mccarthy.md
 
 ## <a name="P11">Παραδοτέο 11 </a>
 
