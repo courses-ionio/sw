@@ -57,7 +57,8 @@
 
 ScreenShot Image | 
 --- |
-![](https://raw.githubusercontent.com/DIATSIGK/sw/2018218/projects/2018218/mobile%20screenshot.jpg) | 
+![](https://user-images.githubusercontent.com/56764193/119869483-f67e4700-bf28-11eb-91cf-5c4f3abe0aef.jpg) | 
+
 
 ###### [5]
 ## Eπεξεργασία των Submodules
