@@ -55,7 +55,7 @@
 Στην συνέχεια μέσω τερματικού με το εκτελέσιμο speedtest.sh στέλνω τις πληροφορίες downlodspeed & uploadspeed στο κινήτό.
 - [Αsciinema]( https://asciinema.org/a/62htan6hwFZcOju1AzxlqmxId)
 
-ScreenShot Image | 
+ScreenShot Mobile Image | 
 --- |
 ![](https://user-images.githubusercontent.com/56764193/119869483-f67e4700-bf28-11eb-91cf-5c4f3abe0aef.jpg) | 
 
