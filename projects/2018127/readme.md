@@ -8,7 +8,7 @@
 
 | Εβδομάδα* | Παραδοτέο |  Βίντεο |
 | --- | --- | --- |
-| 1 | [Intro](https://github.com/runtheorun-exe/sw/tree/2018127/projects/2018127#intro) | Υποβολή μέσω της εφαρμογής |
+| 1 | [Intro](#intro) | Υποβολή μέσω της εφαρμογής |
 | 2 | [The CV](#cv) | Υποβολή μέσω της εφαρμογής |
 | 3 | [Ionian University Site PR](#pull-request-1) | [Answered Here](#week-3) |
 | 4 | [CLI Exercise #1](#cli-exercise-1) | Υποβολή μέσω εφαρμογής
@@ -17,7 +17,7 @@
 | 7 | [CV pt2](#cv-part-2) | [Answered Here](#week-7)
 | 8 | ~~Αίτημα ενσωμάτωσης στην ιστοσελίδα~~ |  [Answered Here](#week-8)
 | 9 | [CLI Exercise #3](#cli-exercise-3) | [Answered Here](#week-9)
-| 10 | [Collaborative Work #2](#collaborative-work-pibook-2) |
+| 10 | [Collaborative Work #2](#collaborative-work-pibook-2) | [Answered Here](#week-9)
 | 11 | [CLI Exercise #4](#cli-exercise-4) | null | 
 | 12 | [Epilogue](#epilogue) | null |
 
