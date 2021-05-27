@@ -34,7 +34,8 @@
 
 #### Ενδεικτικό screeshot
 
-![](./images/skills.png)
+![skills](https://user-images.githubusercontent.com/43948505/119877945-4ca3b800-bf32-11eb-9bd0-c07d08b9366c.png)
+
 
 Επίσης,υλοποιήθηκε [πρόγραμμα](https://github.com/p17kots/cv/blob/main/when_changes.py) σε python το οποίο κάθε φορά που γίνεται αλλαγή στο YML αρχείο,κάνει επανεκκίνηση τον τοπικό εξυπηρετητή για να φανούν οι αλλαγές,χωρίς να χρειάζεται να το κάνω χειροκίνητα σε κάθε αλλαγή.Απλά τρέχω μία φορά το πρόγραμμα στην αρχή.
 
@@ -71,7 +72,8 @@ $ pandoc {link} -f html-native_divs -o cv.pdf --pdf-engine=xelatex
 
 Tο build στο Travis CI για το συγκεκριμένο commit που έγινε η εν λόγω αλλαγή:
 
-![](./images/cv-CI.png)
+![cv-ci](https://user-images.githubusercontent.com/43948505/119878003-54fbf300-bf32-11eb-9927-3ec7868dd98d.png)
+
 
 ### <a name="P-5">2η Άσκηση γραμμής εντολών</a>
 
@@ -81,7 +83,8 @@ Tο build στο Travis CI για το συγκεκριμένο commit που έ
 για να μου έρχεται ειδοποίηση όταν ολοκληρώνεται το κατέβασμα κάποιου μεγάλου πακέτου στο τερματικό.
 
 ##### Ενδεικτικό παράδειγμα
-![](https://github.com/p17kots/sw/blob/2017189/projects/2017189/gif/notification.gif)
+![notification](https://user-images.githubusercontent.com/43948505/119878638-0b5fd800-bf33-11eb-85ca-63661918808f.gif)
+
 
 ### <a name="#P-6"> 3η Άσκηση γραμμής εντολών </a>
 
@@ -95,7 +98,7 @@ Tο build στο Travis CI για το συγκεκριμένο commit που έ
 
 #### Γράφημα
 
-![](https://github.com/p17kots/sw/blob/2017189/projects/2017189/images/plot.svg)
+![plot](https://user-images.githubusercontent.com/43948505/119878426-c50a7900-bf32-11eb-917a-7570750259bc.jpg)
 
 
 ### <a name="P-7">4η Άσκηση γραμμής εντολών</a>
@@ -112,7 +115,8 @@ Tο build στο Travis CI για το συγκεκριμένο commit που έ
 
 [![asciicast](https://asciinema.org/a/xn7UL5piUp726t80DTilpcafp.png)](https://asciinema.org/a/xn7UL5piUp726t80DTilpcafp)
 
-![](./images/call.jpg)
+![call](https://user-images.githubusercontent.com/43948505/119877905-401f5f80-bf32-11eb-9eae-5c8d2824d879.jpg)
+
 
 ### <a name="P-4">Συμμετοχικό περιεχόμενο</a>
 
