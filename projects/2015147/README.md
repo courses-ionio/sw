@@ -154,6 +154,7 @@ pibook/site fork: https://github.com/p15bala/site
 ### B2
 
 Αποθετήριο βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/john-mccarthy.md
+
 Αποθετήριο σύντομης βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/bio-mccarthy.md
 
 ## <a name="P11">Παραδοτέο 11 </a>
