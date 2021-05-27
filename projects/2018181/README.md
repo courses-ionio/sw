@@ -22,16 +22,16 @@
 ### Table of Contents (II) 
 |**Video Quiz** | **Done** | 
 |:---------:| :--------: | 
-|[Alan Kay at MIT EECS](#Alan-Kay-at-MIT-EECS) | :ballot_box_with_check:|
-|[Τed Νelson-Computers for Cynics](#Τed-Νelson-Computers-for-Cynics) |:ballot_box_with_check: |
-|[Alan kay-Computing Simply](#Alan-kay-Computing-Simply)|:ballot_box_with_check: |
-|[Bret Victor-The Future of Programming](#Bret-Victor-The-Future-of-Programming) | :ballot_box_with_check:  |
-|[Alan Kay-Programming](#Alan-Kay-Programming) |:ballot_box_with_check:  |
-|[Alan Kay-Turing Award Lecture](#Alan-Kay-Turing-Award-Lecture) |:ballot_box_with_check:|  
-|[Alan Kay-Invention](#Alan-Kay-Invention) |:ballot_box_with_check:|
-|[Jaron Lanier-Intertwingled](#Jaron-Lanier-Intertwingled)|:ballot_box_with_check: |
-|[Alan Kay-Scaling](#Alan-Kay-Scaling)|:ballot_box_with_check:|
-|[Alan Kay-Turing Tarpit](#Alan-Kay-Turing-Tarpit)|:ballot_box_with_check:|
+|Alan Kay at MIT EECS | :ballot_box_with_check:|
+|Τed Νelson-Computers for Cynics |:ballot_box_with_check: |
+|Alan kay-Computing Simply|:ballot_box_with_check: |
+|Bret Victor-The Future of Programming | :ballot_box_with_check:  |
+|Alan Kay-Programming] |:ballot_box_with_check:  |
+|Alan Kay-Turing Award Lecture|:ballot_box_with_check:|  
+|Alan Kay-Invention|:ballot_box_with_check:|
+|Jaron Lanier-Intertwingled|:ballot_box_with_check: |
+|Alan Kay-Scaling |:ballot_box_with_check:|
+|Alan Kay-Turing Tarpit|:ballot_box_with_check:|
  
 </br>
 
@@ -61,8 +61,11 @@ My aim for this course is to break down the continuous process of software devel
 |First Part|
 |:---------:|
 
-Για την κατασκευή του  θέματος του [CV](https://user-images.githubusercontent.com/56742258/117883968-bfffc580-b2b4-11eb-9409-5c515e57810e.png) χρησιμοποίηθηκε κώδικας σε `HTML5` κ `CSS`. Στην συνέχεια, δημιούργησα ένα  data.yml αρχείο, το οποίο περιλαμβάνει τις πληροφορίες που αναπαριστόνται στο βιογραφικό. Μ' αυτό να σημαίνει πως, ο κώδικας σε HTML5 να διαθέτει τις μεταβλητές, στις οποίες καταχωρήσαμε τα προαναφερόμενα δεδομένα. Κατά την διάρκεια ανάπτυξης του CV χρησιμοποίησα τo `Jekyll` για τοπικό host και να είναι διαθέσιμο στο browser. 
-Ύστερα, από την πρώτη μορφή του (commit) συνέχισα να το τροποποιώ και να το εξελίσω, δημιουργώντας νέο repository , με αποτέλεσμα στο [Asciinema Video](https://asciinema.org/a/397011) να φαίνεται το upload των αρχικών αρχείων.
+A simple [CV](https://mariachlkt.github.io/resume-sw/) hosted online by `Github Pages` and built using `HTML5` and `CSS3`. Actual information are passed by as variables to `HTML` from a `.yaml` configuration file.
+CV was deployed locally with `Jekyll` and hosted online by Github Pages. It has received many updates over the course of time and the initial folder structure and setup was recorded live on [Asciinema](https://asciinema.org/a/397011).
+</br>
+
+![cv-image](https://github.com/mariachlkt/cli/blob/main/cv.png)
 
 </br>
 
@@ -73,6 +76,7 @@ In order to create a PDF version of my CV, I used a custom Github Actions workfl
 Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated PDF with the latest additions.
 </br>
 
+![pdf](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf)
 
 </br>
 
