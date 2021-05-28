@@ -54,9 +54,11 @@
 
 ### **<a name="P3">3η εβδομάδα</a>**<br/>
 <ins> Αίτημα ενσωμάτωσης στην ιστοσελίδα </ins> <br>
-Στο πρώτο αίτημα ενσωμάτωσης στην [ιστοσελίδα του τμήματος](https://epic-hamilton-da9ac8.netlify.app/), πρόσθεσα το [Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών"](https://epic-hamilton-da9ac8.netlify.app/courses/ccns/).<br>
-Μετά την έγκριση του [issue #43](https://github.com/ioniodi/sitegr/issues/43) που δημιούργησα, έκανα την προσθήκη του μαθήματος σε νέο αρχείο ενός νέου branch, το οποίο το σύνδεσα με το netlify. Εκεί δημιουργήθηκε ένα νέο link που μπορούσα να δω τις αλλαγές που πραγματοποίησα. Για τα στοιχεία του μαθήματος όπως την περιγραφή, τις μονάδες ects κ.ά. συμβουλεύτηκα την επίσημη ιστοσελίδα του τμήματος [του μαθήματος](https://di.ionio.gr/gr/studies/undergraduate-studies/courses/747/). Εφόσον το μάθημα εμφανίστηκε στην [λίστα των μαθημάτων](https://stupefied-johnson-a90660.netlify.app/courses/#%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-4), έκανα [pull request #73](https://github.com/ioniodi/sitegr/pull/73) προκειμένου να ενσωματωθούν οι αλλαγές στην κύρια ιστοσελίδα και μετά την έγκρισή του, το μάθημα μπορεί να εμφανιστεί στην [κύρια ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/courses/#%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-4) του τμήματος.
+Στο πρώτο αίτημα ενσωμάτωσης στην [ιστοσελίδα του τμήματος](https://compassionate-ride-87be7c.netlify.app/), πρόσθεσα το Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών".<br>
+Μετά την έγκριση του [issue #43](https://github.com/ioniodi/sitegr/issues/43) που δημιούργησα, έκανα την προσθήκη του μαθήματος σε νέο αρχείο ενός νέου branch, το οποίο το σύνδεσα με το netlify. Εκεί δημιουργήθηκε ένα νέο link που μπορούσα να δω τις αλλαγές που πραγματοποίησα. Για τα στοιχεία του μαθήματος όπως την περιγραφή, τις μονάδες ects κ.ά. συμβουλεύτηκα την επίσημη ιστοσελίδα του τμήματος [του μαθήματος](https://di.ionio.gr/gr/studies/undergraduate-studies/courses/747/). Εφόσον το μάθημα εμφανίστηκε στην [λίστα των μαθημάτων](https://stupefied-johnson-a90660.netlify.app/courses/#%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-4), έκανα [pull request #73](https://github.com/ioniodi/sitegr/pull/73) προκειμένου να ενσωματωθούν οι αλλαγές στην   κύρια ιστοσελίδα του τμήματος, μετά την έγκρισή του.<br>
 [Asciinema link](https://asciinema.org/a/403501)
+[Netlify link](https://epic-hamilton-da9ac8.netlify.app/)
+[Netlify Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών"](https://epic-hamilton-da9ac8.netlify.app/courses/ccns/)
 
 
 ### **<a name="P4">4η εβδομάδα</a>**<br/>
@@ -74,13 +76,13 @@
 
 - Microsoft Azure:
   - [Netlify Microsoft Azure](https://angry-golick-eb6341.netlify.app//gallery/microsoft-azure/)
-  - [GitHub Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
+  - [GitHub Microsoft Azure Gallery](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
   - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
   - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
   - [GitHub Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
 - Web Service Architecture:
   - [Netlify Web Service Architecture](https://angry-golick-eb6341.netlify.app//gallery/web-service-architecture/)
-  - [GitHub Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
+  - [GitHub Web Service Architecture Gallery](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
   - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
   - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
   - [GitHub Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
@@ -89,8 +91,7 @@
   - [GitHub Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
 
 Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097). Ολες οι προσθήκες ή οι αλλαγές έγιναν στο branch με όνομα "2018097".<br>
-[Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες, μέσω του Neltify. <br>
-Επίσης έγινε η προσθήκη των φωτογραφιών αυτών στα slides του μαθήματος [εδώ](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
+[Netlify Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες. <br>
 
 ### **<a name="P6">6η εβδομάδα</a>**<br/>
 <ins> Άσκηση γραμμής εντολών </ins> <br>
@@ -103,7 +104,7 @@
 Με βάση το [script](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/.github/workflows/main.yml) γίνεται η αυτόματη μετατροπή του cv σε [pdf](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/cv.pdf).
 
 
-### **<a name="P9">9η εβδομάδα:</a>** <br/>
+### **<a name="P9">9η εβδομάδα</a>** <br/>
 <ins> Άσκηση γραμμής εντολών </ins> <br>
 [Link για την εργασία στο asciinema](https://asciinema.org/a/416178) <br>
 Για την εργασία γραμμής εντολών αυτής της εβδομάδας, επέλεξα να κάνω την 7η προτεινόμενη εργασία και να γίνει παρακολούθηση των επιδώσεων. <br>
@@ -146,7 +147,7 @@ https://www.britannica.com/technology/MS-DOS <br>
 Για την άσκηση γραμμής εντολών αυτής της εβδομάδας, αποφάσισα να δημιουργήσω docker image, σε Ubuntu λειτουργικό σύστημα. 
 
 ### **<a name="P12">12η εβδομάδα:</a>** <br/>
-<ins> Τελική αναφορά </ins> <br><br>
+<ins> Τελική αναφορά </ins> <br>
 
 <ins>Συμπεράσματα: </ins> Το μάθημα "Τεχνολογίες Λογισμικού" έγινε με έναν αρκετά διαφορετικό τρόπο αυτό το εξάμηνο. Η εξ'αποστάσεως εκπαίδευση ήταν δύσκολη και οδήγησε στην αξιοποίηση νέων εφαρμογών και τεχνολογιών, που δεν ξέραμε. Για την παράδοση των διαλέξεων βρέθηκαν αρκετά εργαλεία που μπορούσαμε να χησιμοποιήσουμε. Άλλα πιο εύκολα και άλλα πιο δύσκολα. Δυστυχώς τα εξ' αποστάσεως εργστήρια δεν μπορούν να αντικατασταθούν με τα δια ζώσης και εκεί υπήρχαν περισσότερα προβλήματα κατά τη γνώμη μου. Παρ' όλα αυτά, οι διαλέξεις πραγματοποιήθηκαν και με χρήση άλλων εργαλείων, όπως το classtime. Η σύγχρονη συμμετοχή στην τάξη, κατά την γνώμη μου, ήταν καλύτερη απο την ασύγχρονη συμμετοχή στην τάξη. Μέσω των video-quiz παρακολουθήσαμε ομιλίες που σε άλλη περίπτωση δεν θα ξέραμε οτι υπάρχουν. Μπορέσαμε να καταλάβουμε τις ιδέες πίσω από εργαλεία η και προγράμματα, όπως το sketchpad. Μεταφερθήκαμε σε μια πιο παλιά εποχή όσο αφορά τα τεχνολογικά μέσα. Με τις εργασίες μέσω τερματικού, έμαθα εργαλεία και λειτουργίες που δεν τις γνώριζα. Έγινε η δημιουργία βιογραφικού με έναν εναλλακτικό τρόπο και όχι μέσα από μια έτοιμη ιστοσελίδα. Εντυπωσιακή ήταν η συνεισφορά που έγινε μέσω του συμμετοχικού περιεχομένου στην ανεπίσημη ιστοσελίδα του τμήμαατος. Συνεργατικά, έγιναν αλλαγές στο αποθετήριο του GitHub από όλους τους φοιτητές. Παρά, λοιπόν, τα προβλήματα που αντιμετώπισα, το συγκεκριμένο μάθημα και ο τρόπος που διαξέχθηκε με βοήθησε στο να δουλέψω με μια διαφορετική τεχνική. 
 
