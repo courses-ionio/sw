@@ -77,11 +77,13 @@
   - [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
   - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
   - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
+  - [Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
 - Web Service Architecture:
   - [Netlify Web Service Architecture](https://angry-golick-eb6341.netlify.app//gallery/web-service-architecture/)
   - [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
   - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) <br>
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
+  - [Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
 - Slides
   - [Netlify slides](https://angry-golick-eb6341.netlify.app//slides/tools/)
   - [Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
