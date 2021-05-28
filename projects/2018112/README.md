@@ -102,7 +102,13 @@ A2: Ένα σετ από θεματικές διαφάνειες και ένα �
  ## <a name="7">7. Βιογραφικό </a>
 
  Για το δεύτερο παραδοτέο του βιογραφικού, μετέτρεψα το αρχείο του βιογραφικού μου σε μορφή pdf με τη βοήθεια του εργαλείου weasyprint.
- [CV PDF Link](https://github.com/NikosKar23/online-cv/blob/gh-pages/online-cv-2018112-pdf.pdf)
+ 
+ [CV PDF Link](https://github.com/NikosKar23/online-cv/blob/gh-pages/online-cv2018112-PDF.pdf)
+ 
+ Update:
+ Επειδή στην αρχική υλοποιήση του βιογραφικού το βιογραφικό μου δεν έμοιαζε πολύ στο πρωτότυπο και ήθελα να το κάνω πιο καλαίσθητο και να δοκιμάσω και διαφορετικά εργαλεία, επιχείρησα να χρησιμοποιήσω το `pandoc` και το `engine=xelatex`. Με αυτόν τον τρόπο, το βιογραφικό εκτυπώθηκε σε μορφή pdf, πολύ κοντά στο πρωτότυπο.
+ 
+ [CV PDF pandoc](https://github.com/NikosKar23/online-cv/blob/gh-pages/cv-pandoc-2018112.pdf)
 
 ## <a name="9">9. Τρίτη Άσκηση γραμμής εντολών</a>
 
