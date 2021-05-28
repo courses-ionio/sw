@@ -165,7 +165,7 @@ send notifications on important server events
 
 <img src="https://github.com/p15kost/sw-images/blob/15c8d449af4fd1a0390a5cd0ce97e368558b6c45/Screenshot5.png" width="200" height="200"> 
 
-Στη συνέχεια έκανα εγκατάσταση το mqttwarn με pip3 install --upgrade και pip3 install mqttwarn. Δημιούργησα φάκελο στο /workspace/mqttwarn και έκανα: mqttwarn make-config > mqttwarn.ini και mqttwarn make-samplefuncs > samplefuncs.py. Έκανα τις απαραίτητες ενέργιες στο mqttwarn.ini ώστε να μπορώ να δημοσιεύω στο channel μέσω του mosquitto αρχικά μέσω των οδηγιών του εργαστηρίου και στη συνέχεια με πολύωρη προσωπική έρευνα όπως φαίνεται και στο asciinema rec 2. Δυστυχώς δεν λειτουργει ωστόσο σίγουρα έφτασα πολύ κοντα στην επίτευξη του στόχου.
+Στη συνέχεια έκανα εγκατάσταση το mqttwarn με pip3 install --upgrade και pip3 install mqttwarn. Δημιούργησα φάκελο στο /workspace/mqttwarn και έκανα: mqttwarn make-config > mqttwarn.ini και mqttwarn make-samplefuncs > samplefuncs.py. Έκανα τις απαραίτητες ενέργιες στο mqttwarn.ini ώστε να μπορώ να δημοσιεύω στο channel μέσω του mosquitto αρχικά μέσω των οδηγιών του εργαστηρίου όπως φαίνεται και στο asciinema rec 2 και στη συνέχεια με πολύωρη προσωπική έρευνα προσπάθησα να χρησιμοποιήσω pushovers εναλλακτικά χωρίς όμως επιτυχία. Δυστυχώς δεν λειτουργεί όπως και σε πολλούς συμφοιτητές μου ωστόσο σίγουρα έφτασα πολύ κοντα στην επίτευξη του στόχου.
 
 Asciinema εγγραφές: 
 
