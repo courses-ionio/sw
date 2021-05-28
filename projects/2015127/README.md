@@ -158,14 +158,19 @@ send notifications on important server events
 
 Έκανα εγκατάσταση το mosquitto με sudo apt-get install mosquitto και αφού τσάκαρα ότι το status του ήταν running  εγκατέστησα  και τους clients με sudo apt-get install mosquitto-clients. 
 Όπως φαίνεται και στο screenshot παρακάτω με την εντολή mosquitto_sub -t "notifications" & κάνω εγγραφή σε ένα topic και με mosquitto_pub -m "Hello World from mosquitto_pub client" -t "notifications" δημοσιεύω σε αυτό από άλλο τερματικό. Το μήνυμα εμφανίζεται στα τερματικά που έχουν κάνει subscribe στο topic.
+
 <img src="https://github.com/p15kost/sw-images/blob/220b73a955d7972f9ffbd24265eace88ef260d8c/screenshot4.png" width="200" height="200"> 
 
 Επιπρόσθετα δημιούργησα channels στο slack με όνομα coding, sw-notifications και μεσω των app webhooks κατάφερα να μπορώ να κάνω post από το τερματικό μου προς το channels στο slack. 
+
 <img src="https://github.com/p15kost/sw-images/blob/15c8d449af4fd1a0390a5cd0ce97e368558b6c45/Screenshot5.png" width="200" height="200"> 
 
 Στη συνέχεια έκανα εγκατάσταση το mqttwarn με pip3 install --upgrade και pip3 install mqttwarn. Δημιούργησα φάκελο στο /workspace/mqttwarn και έκανα: mqttwarn make-config > mqttwarn.ini και mqttwarn make-samplefuncs > samplefuncs.py. Έκανα τις απαραίτητες ενέργιες στο mqttwarn.ini ώστε να μπορώ να δημοσιεύω στο channel μέσω του mosquitto αρχικά μέσω των οδηγιών του εργαστηρίου και στη συνέχεια με πολύωρη προσωπική έρευνα. Δυστυχώς δεν λειτουργει ωστόσο σίγουρα έφτασα πολύ κοντα στην επίτευξη του στόχου.
 
-Asciinema εγγραφές: https://asciinema.org/a/416928
+Asciinema εγγραφές: 
+
+https://asciinema.org/a/416928
+
 https://asciinema.org/a/416930
 
 ## Απαντήσεις Video Quiz
