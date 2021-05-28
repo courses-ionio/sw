@@ -58,11 +58,11 @@
 
 ![screenshot1](https://i.imgur.com/OClyDgj.png)
 
-[Tails Gallery Link](https://github.com/p15anez/_gallery/blob/2015097/tails.md)
+[Tails Gallery Link](https://p15anez-pibook.netlify.app/gallery/tails/)
 
-[Tails Slides Link](https://github.com/p15anez/site/blob/2015097/_slides/models.md)
+[Tails Slides Link](https://p15anez-pibook.netlify.app/slides/models/)
 
-[Tails Timeline Link](https://github.com/p15anez/site/blob/2015097/_timeline/systems.md)
+[Tails Timeline Link](https://p15anez-pibook.netlify.app/timeline/systems/)
 
 ![screenshot2](https://i.imgur.com/nQW26SQ.jpg)
 
@@ -89,3 +89,6 @@
 # Συμμετοχικό περιεχόμενο 2
 
 Για την εκπόνηση του παραδοτέου δημιούργησα ένα νέο [case study](https://github.com/p15anez/site/blob/2015097/_case-study/zoom.md) και ένα καινούργιο [βιογραφικό](https://github.com/p15anez/site/blob/2015097/_biography/eric-yuan.md). Πρόθεσα την [εικόνα](https://github.com/p15anez/images/blob/2015097/eric-juan.jpg) που ήταν απαραίτητη για το βιογραφικό.Επίσης πρόσθεσα στο αποθετήριο extras το [αναλυτικό βιογραφικό](https://github.com/p15anez/extras/blob/2015097/bio-yuan.md) και την αναλυτική [μελέτη περίπτωσης](https://github.com/p15anez/extras/blob/2015097/cs-zoom.md).
+
+[Case Study Link](https://p15anez-pibook.netlify.app/case-study/zoom/)
+[Biography Link](
