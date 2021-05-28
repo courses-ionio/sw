@@ -113,7 +113,7 @@
 
 ### **<a name="P10">10η εβδομάδα:</a>** </br>
 <ins> 	Συμμετοχικό περιεχόμενο </ins> <br>
-[Link για την εργασία στο asciinema](https://asciinema.org/a/416904)<br>
+[Link για την εργασία στο asciinema](https://asciinema.org/a/416913)<br>
 Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου έκανα <br>
 B1: μια νέα μελέτη περίπτωσης MS-DOS, που δημιουργήθηκε από την Microsoft, σχετίζεται με το Α' μέρος του συμμετοχικού [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md). <br>
 - MS DOS:
