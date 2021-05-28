@@ -31,8 +31,8 @@
 | 8 | Έγινε |
 | 9 | Έγινε |
 | 10 | Έγινε |
-| 11 | - |
-| 12 | - |
+| 11 | Δεν έγινε |
+| 12 | Δεν έγινε |
 
 Τα video quiz απαντήθηκαν μέσω της πλατφόρμας https://pibook-video-quiz.epidro.me/sw. <br>
 Υπήρχε συμμετοχή στο σύγχρονο κουίζ κατά τη διάρκεια του μαθήματος και απαντήθηκαν οι ερωτήσεις μέσω του classtime. <br>
@@ -74,19 +74,19 @@
 
 - Microsoft Azure:
   - [Netlify Microsoft Azure](https://angry-golick-eb6341.netlify.app//gallery/microsoft-azure/)
-  - [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
-  - [Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
+  - [Github Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
+  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
+  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
+  - [Github Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
 - Web Service Architecture:
   - [Netlify Web Service Architecture](https://angry-golick-eb6341.netlify.app//gallery/web-service-architecture/)
-  - [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
-  - [Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
+  - [Github Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
+  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
+  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
+  - [Github Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
 - Slides
   - [Netlify slides](https://angry-golick-eb6341.netlify.app//slides/tools/)
-  - [Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
+  - [Github Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
 
 Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097). Ολες οι προσθήκες ή οι αλλαγές έγιναν στο branch με όνομα "2018097".<br>
 [Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες, μέσω του Neltify. <br>
@@ -118,18 +118,18 @@
 B1: μια νέα μελέτη περίπτωσης MS-DOS, που δημιουργήθηκε από την Microsoft, σχετίζεται με το Α' μέρος του συμμετοχικού [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md). <br>
 - MS DOS:
   - [Netlify MS-DOS](https://angry-golick-eb6341.netlify.app//case-study/ms-dos/)
-  - [MS DOS Case Study](https://github.com/rmfe/site/blob/2018097/_case-study/ms-dos.md)
-  - [MS DOS extras](https://github.com/rmfe/extras/blob/2018097/cs-ms-dos.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.jpg) 
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos-thumb.jpg)<br>
+  - [Github MS DOS Case Study](https://github.com/rmfe/site/blob/2018097/_case-study/ms-dos.md)
+  - [Github MS DOS Extras](https://github.com/rmfe/extras/blob/2018097/cs-ms-dos.md)
+  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.jpg) 
+  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos-thumb.jpg)<br>
 
 Β2: μια νέα βιογραφία για τον J. C. R. Licklider και το πως δημιούργησε το cloud computing και σχετίζεται  με το [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md). Στο Α' μέρος έγινε η ανάλυση της αρχιτεκτονικής των web services. Για το cloud computing χρησιμοποιούνται web services και αυτός ήταν ο λόγος που έκανα την βιογραφία του J. C. R. Licklider.
 - J. C. R. Licklider:
   - [Netlify J. C. R. Licklider](https://angry-golick-eb6341.netlify.app//biography/j-c-r-licklider/)
-  - [J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
-  - [J. C. R. Licklider extras](https://github.com/rmfe/extras/blob/2018097/bio-licklider.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
-  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)<br>
+  - [Github J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
+  - [Github J. C. R. Licklider Extras](https://github.com/rmfe/extras/blob/2018097/bio-licklider.md)
+  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
+  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)<br>
   
  Στο netlify εμφανίζονται όλες οι φωτογραφίες και για τα δυο μέρη του συμμετοχικού περιεχομένου, εκτός από αυτές του ms-dos.<br>
 
