@@ -173,6 +173,25 @@ https://asciinema.org/a/416928
 
 https://asciinema.org/a/416930
 
+## Παραδοτέο 11:
+
+Monitor the performance of your python scripts and visualize them with colors and/or spark lines
+
+Χρησιμοποιώντας το hyperfine μπορούμε να μετρήσουμε την ταχύτητα εκτέλεσης των python scripts μας. Για την επίδειξη της λειτουργικότητας του hyperfine χρησιμοποιήθηκαν δύο scripts. Το πρώτο υπολογίζει τους πρώτους αριθμούς από το 1 έως το 100 ενώ το δεύτερο από το 1 έως το 1000. Στην asciinema εγγραφή φαίνεται αρχικά η σύγκριση της ταχύτητας των δύο scripts. Στη συνέχεια δοκιμάζουμε το ίδιο με warm cache που επηρεάζει ώς ένα βαθμό το αποτέλεσμα. Στο τέλος κάνουμε export τα αποτελέσματα σε ένα αρχείο με όνομα output.
+
+<img src="https://github.com/p15kost/sw-images/blob/0abfe772c17a568895912319953113f92251a673/Screenshot_11.png"> 
+
+Asciinema rec: https://asciinema.org/a/416954
+
+Χρησιμοποιώντας το py-spy μπορούμε να κάνουμε το monitoring τα scripts μας από το command line, χρησιμοποιώντας είτε το όνομα του script είτε το pid του. Στη συνέχεια με τις εντολές record και top μπορούμε να δημιουργήσουμε ένα flame graph του python script μας και να δούμε μια live updating παρουσίαση των script μας αντίστοιχα. Στο παρακάτω asciinema rec πρώτα τρέχω  py-spy record -o profile.svg -- python3 prime100000.py και py-spy record -o profile.svg -- python3 prime1000000.py και δημιουργούνται 2 flame graphs με ονόματα profile και profile1 αντίστοιχα. Τέλος τρέχω py-spy top -- python3 prime100000.py και py-spy top -- python3 prime1000000.py με τα οποία βλέπουμε στο τερματικό πληροφορίες όπως total time και cpu-own% των λειτουργιών των script μας. Η επιλογή μεγαλύτερων αριθμών στο παράδειγμα με το py-spy έγινε διότι δεν λειτουργούσε σε μένα με αριθμούς μικρότερους του 100.000 και δεν δημιουργούσε τα flame graphs.
+
+Asciinema εγγραφή: https://asciinema.org/a/416976
+
+<img src="https://github.com/p15kost/sw-images/blob/f9e389ca6435053ed3b259dcfda56a05dafc7e0f/Screenshot_7.png"> 
+
+<img src="https://github.com/p15kost/sw-images/blob/f9e389ca6435053ed3b259dcfda56a05dafc7e0f/Screenshot_8.png"> 
+
+
 ## Απαντήσεις Video Quiz
 
 Στο κομμάτι αυτό της αναφοράς μου περιλαμβάνω τις απαντήσεις στις ερωτήσεις του ασύχρονου quiz καθώς αντιμετόπιζα προβλήματα με την ιστοσελίδα και αποφάσισα να τα έχω εδώ όλα συγκεντρωμένα.
