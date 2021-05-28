@@ -150,6 +150,12 @@ Screenshots: https://github.com/p15kost/sw-images
 
 <img src="https://github.com/p15kost/sw-images/blob/main/screenshot1.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot2.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot3.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot4.png" width="160" height="160">
 
+## Παραδοτέο 7:
+
+Στο παραδοτέο αυτό χρησιμοποίησα το weasyprint που είδαμε στο εργαστήριο με το οποίο μετατρέπουμε ιστοσελίδες σε pdf. Δημιούργησα το αρχείο cv.pdf το οποίο πρόσθεσα σε ένα φάκελο pdf στο αποθετήριο του βιογραφικού μου. 
+
+Asciinema εγγραφή: 
+
 ## Παραδοτέο 9:
 
 send notifications on important server events
