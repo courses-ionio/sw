@@ -2,7 +2,7 @@
 ### ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
  Ευδοξία Τσιώγκα <br>
  ΑΜ: Π2018097 <br>
-[Github Profile](https://github.com/rmfe)
+[GitHub Profile](https://github.com/rmfe)
 
 | Εβδομάδα* | Παραδοτέο |  |
 | --- | --- | --- |
@@ -74,19 +74,19 @@
 
 - Microsoft Azure:
   - [Netlify Microsoft Azure](https://angry-golick-eb6341.netlify.app//gallery/microsoft-azure/)
-  - [Github Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
-  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
-  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
-  - [Github Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
+  - [GitHub Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md)
+  - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure.jpg)
+  - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/microsoft-azure-thumb.jpg)
+  - [GitHub Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/multimedia.md)
 - Web Service Architecture:
   - [Netlify Web Service Architecture](https://angry-golick-eb6341.netlify.app//gallery/web-service-architecture/)
-  - [Github Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
-  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
-  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
-  - [Github Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
+  - [GitHub Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md)
+  - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture.jpg)
+  - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/web-service-architecture-thumb.jpg) 
+  - [GitHub Timeline](https://github.com/rmfe/site/blob/2018097/_timeline/collaboration.md)
 - Slides
   - [Netlify slides](https://angry-golick-eb6341.netlify.app//slides/tools/)
-  - [Github Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
+  - [GitHub Slides](https://github.com/rmfe/site/blob/2018097/_slides/tools.md)
 
 Το fork του αποθετηριού θα το βρείτε [εδώ](https://github.com/rmfe/site/tree/2018097). Ολες οι προσθήκες ή οι αλλαγές έγιναν στο branch με όνομα "2018097".<br>
 [Link](https://compassionate-ride-87be7c.netlify.app) για την ιστοσελίδα του βιβλίου μαζί με τις παραπάνω προσθήκες, μέσω του Neltify. <br>
@@ -95,6 +95,7 @@
 ### **<a name="P6">6η εβδομάδα</a>**<br/>
 <ins> Άσκηση γραμμής εντολών </ins> <br>
 Για την εργασία γραμμής εντολών αυτής της εβδομάδας, επέλεξα να κάνω την 1η προτεινόμενη εργασία του set-up continuous integration. 
+Το script που χρησιμοποιήθηκε είναι ανεβασμένο [εδώ](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/.github/workflows/main.yml) και παράγει αυτόματα το pdf. Σε κάθε αλλαγή που γίνεται στο αρχείο του GitHub με τα στοιχεία, [data.yml](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/_data/data.yml), ανανεώνεται και το [cv.pdf](https://github.com/rmfe/evdoxia-tsiogka-cv/blob/gh-pages/cv.pdf) αρχείο.
 
 ### **<a name="P7">7η εβδομάδα</a>**<br/>
 <ins> Βιογραφικό </ins> <br>
@@ -118,18 +119,18 @@
 B1: μια νέα μελέτη περίπτωσης MS-DOS, που δημιουργήθηκε από την Microsoft, σχετίζεται με το Α' μέρος του συμμετοχικού [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md). <br>
 - MS DOS:
   - [Netlify MS-DOS](https://angry-golick-eb6341.netlify.app//case-study/ms-dos/)
-  - [Github MS DOS Case Study](https://github.com/rmfe/site/blob/2018097/_case-study/ms-dos.md)
-  - [Github MS DOS Extras](https://github.com/rmfe/extras/blob/2018097/cs-ms-dos.md)
-  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.jpg) 
-  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos-thumb.jpg)<br>
+  - [GitHub MS DOS Case Study](https://github.com/rmfe/site/blob/2018097/_case-study/ms-dos.md)
+  - [GitHub MS DOS Extras](https://github.com/rmfe/extras/blob/2018097/cs-ms-dos.md)
+  - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.jpg) 
+  - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos-thumb.jpg)<br>
 
 Β2: μια νέα βιογραφία για τον J. C. R. Licklider και το πως δημιούργησε το cloud computing και σχετίζεται  με το [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md). Στο Α' μέρος έγινε η ανάλυση της αρχιτεκτονικής των web services. Για το cloud computing χρησιμοποιούνται web services και αυτός ήταν ο λόγος που έκανα την βιογραφία του J. C. R. Licklider.
 - J. C. R. Licklider:
   - [Netlify J. C. R. Licklider](https://angry-golick-eb6341.netlify.app//biography/j-c-r-licklider/)
-  - [Github J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
-  - [Github J. C. R. Licklider Extras](https://github.com/rmfe/extras/blob/2018097/bio-licklider.md)
-  - [Github Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
-  - [Github Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)<br>
+  - [GitHub J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
+  - [GitHub J. C. R. Licklider Extras](https://github.com/rmfe/extras/blob/2018097/bio-licklider.md)
+  - [GitHub Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
+  - [GitHub Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)<br>
   
  Στο netlify εμφανίζονται όλες οι φωτογραφίες και για τα δυο μέρη του συμμετοχικού περιεχομένου, εκτός από αυτές του ms-dos.<br>
 
