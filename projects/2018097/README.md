@@ -54,11 +54,11 @@
 
 ### **<a name="P3">3η εβδομάδα</a>**<br/>
 <ins> Αίτημα ενσωμάτωσης στην ιστοσελίδα </ins> <br>
+[Link για την εργασία στο asciinema](https://asciinema.org/a/403501)<br>
 Στο πρώτο αίτημα ενσωμάτωσης στην [ιστοσελίδα του τμήματος](https://compassionate-ride-87be7c.netlify.app/), πρόσθεσα το Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών".<br>
 Μετά την έγκριση του [issue #43](https://github.com/ioniodi/sitegr/issues/43) που δημιούργησα, έκανα την προσθήκη του μαθήματος σε νέο αρχείο ενός νέου branch, το οποίο το σύνδεσα με το netlify. Εκεί δημιουργήθηκε ένα νέο link που μπορούσα να δω τις αλλαγές που πραγματοποίησα. Για τα στοιχεία του μαθήματος όπως την περιγραφή, τις μονάδες ects κ.ά. συμβουλεύτηκα την επίσημη ιστοσελίδα του τμήματος [του μαθήματος](https://di.ionio.gr/gr/studies/undergraduate-studies/courses/747/). Εφόσον το μάθημα εμφανίστηκε στην [λίστα των μαθημάτων](https://stupefied-johnson-a90660.netlify.app/courses/#%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-4), έκανα [pull request #73](https://github.com/ioniodi/sitegr/pull/73) προκειμένου να ενσωματωθούν οι αλλαγές στην   κύρια ιστοσελίδα του τμήματος, μετά την έγκρισή του.<br>
-[Asciinema link](https://asciinema.org/a/403501)<br>
 [Netlify link](https://epic-hamilton-da9ac8.netlify.app/)<br>
-[Netlify Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών"](https://epic-hamilton-da9ac8.netlify.app/courses/ccns/)
+[Netlify link-Μάθημα Επιλογής του ΣΤ' Εξαμήνου "Ασφάλεια δικτύων Υπολογιστών και Επικοινωνιών"](https://epic-hamilton-da9ac8.netlify.app/courses/ccns/)
 
 
 ### **<a name="P4">4η εβδομάδα</a>**<br/>
