@@ -73,7 +73,7 @@ Link asciinema: https://asciinema.org/a/hp4OvuNGiWj9Xz1tdfcDmQAz3
 
 ![2021-04-14 (2)](https://user-images.githubusercontent.com/72922731/114713703-0c99c480-9d3a-11eb-8b92-13432c715e8f.png)
 
-## Παραδοτέο 5 (Δεν μπορουσα να καταλαβω την διαδικασια με τα submodules και μπερδευτηκα παρα πολυ και το εχασα)
+## Παραδοτέο 5 (Δεν μπορουσα να καταλαβω την διαδικασια με τα submodules και μπερδευτηκα παρα πολυ και το εχασα. Το προσπαθησα οσο μποσουσα.)
 
  Αντιμετωπισα πολλα προβληματα. Αρχικα εκανα fork τα repository site, images και _gallery. Στην συνεχεια αφου εκανα clone το forked pibook/site εκτελεσα τις εντολες με την σειρα 1) rm -rf _gallery images 2) git status 3) git add . 4) git commit -m "Removed Initial Submodules" για να διαγραψω τα submodules απο το _gallery και images. Στην συνεχεια με τις εντολες 1) git submodule add https://github.com/p16andr/_gallery.git και 2) git submodule add https://github.com/p16andr/images.git προσθεσα τα submodules που εχω κανει fork
  
