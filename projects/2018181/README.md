@@ -74,7 +74,7 @@ CV was deployed locally with `Jekyll` and hosted online by Github Pages. It has 
 |Second Part|
 |:---------:|
 
-In order to create a PDF version of my CV, I used a custom Github Actions workflow with the necessary script that automates the process of making it.
+In order to create a `PDF` version of my CV, I used a custom `Github Actions` workflow with the necessary script that automates the process of making it.
 Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated PDF with the latest additions.
 </br>
 
@@ -88,10 +88,17 @@ Evidently, whenever CV information gets modified via `det.yaml` the script creat
 |First Part|
 |:---------:|
 
+Για το πρώτο μέρος του αιτήματος ενσωμάτωσης στην ιστοσελίδα, προσέθεσα το μάθημα "Αναλυτική Δεδομένων Υγείας".  
+
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
 | **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
 </br>
+
+|First Part|
+|:---------:|
+
+Για το δεύτερο αίτημα ενσωμάτωσης, παρέθεσα την πρόταση για την προσθήκη κουμπιού, το οποίο θα πραγματοποιούσε την εναλλαγή της ιστοσελίδας από φωτεινό σε σκοτείνο θέμα. Ωστόσο, η το issue, αν και δέχτηκε πράσινο φως από τον κύριο Πατηνιώτη, ακυρώθηκε από τον κύριο Χωριανόπουλο, λόγω αυξημένης δυσκολίας και περιορισμένου χρόνου. 
 
 <h2>Command-line Exercise</h2>
 
@@ -139,6 +146,12 @@ and smartwatches.
    Note: The scripts run on `Python 3.0`. 
 
 The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif) represents the perfomance results of the first script (password generator) using the `CProfile`. 
+
+|Fourth Assignemt|
+|:---------:|
+
++ In the fourth task, I used a custom `GitHub Actions` workflow with the necessary `script` that automates the process of making a PDF version of my CV.
+Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated `PDF` with the latest additions.
 
 
 <h2>Participatory Content</h2>
