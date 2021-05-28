@@ -9,14 +9,14 @@
 | 1 | <a href="#Ε1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα</a> |
 | 2 | <a href="#Ε2">Bιογραφικό</a> |
 | 3 | <a href="#Ε3">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
-| 4 | <a href="#Ε4">Άσκηση γραμμής εντολών</a> |
-| 5 | <a href="#Ε5">Συμμετοχικό περιεχόμενο</a> |
-| 6 | <a href="#Ε6">Άσκηση γραμμής εντολών</a> |
+| 4 | <a href="#Ε4">Άσκηση γραμμής εντολών 1</a> |
+| 5 | <a href="#Ε5">Συμμετοχικό περιεχόμενο(Α)</a> |
+| 6 | <a href="#Ε6">Άσκηση γραμμής εντολών 2</a> |
 | 7 | <a href="#Ε7">Bιογραφικό</a> |
 | 8 | <a href="#Ε8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> |
-| 9 | <a href="#Ε9">Άσκηση γραμμής εντολών</a> |
-| 10 | <a href="#Ε10">συμμετοχικό περιεχόμενο</a> |
-| 11 | <a href="#Ε11">Άσκηση γραμμής εντολών</a> |
+| 9 | <a href="#Ε9">Άσκηση γραμμής εντολών 3</a> |
+| 10 | <a href="#Ε10">Συμμετοχικό περιεχόμενο(Β)</a> |
+| 11 | <a href="#Ε11">Άσκηση γραμμής εντολών 4</a> |
 | 12 | <a href="#Ε12">Τελική αναφορά</a> |
 <br>
 
@@ -48,7 +48,7 @@
 [Σύνδεσμος Αποθεητρίου](https://github.com/AlexisTsiranidis/sitegr/tree/2018099)<br>
 [Σύνδεσμος Demo](https://priceless-goldstine-674c39.netlify.app/timetables/sem_f/)
 
-### <a name="Ε4">Άσκηση γραμμής εντολών</a>
+### <a name="Ε4">Άσκηση γραμμής εντολών 1</a>
 | Άσκηση | Link Asciinema |
 | --- | --- |
 | Send notifications to your desktop-mobile | [Link Asciinema](https://asciinema.org/a/409830) |
@@ -57,17 +57,24 @@
 ![spotify_notification](https://github.com/AlexisTsiranidis/added_photos/blob/main/spotify_notification.png?raw=true)
 
 ### <a name="Ε5">Συμμετοχικό περιεχόμενο(A)</a>
+Αρχικά για να γίνει η διασύνδεση των Submodules έτρεξα στο τερματικό τις εξής εντολές: 
+| --- |
+| [Asciinema Link](https://asciinema.org/a/416906) | 
+
 Για το πρώτο παραδοτέο του συμμετοχικού περιεχομένου Α1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου δύο νέες φωτογραφίες. Η πρώτη αφορά το Hypertext και τα Hypermedia και η δεύτερη το Back Button.
-| Link Λεζάντας | Link Εικόνας | Link Thumb |
-| --- | --- | --- |
-| [Hypertext Hypermedia](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext-hypermedia.md) | [Hypertext Hypermedia Image](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia.jpg) | [Hypertext Hypermedia Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia-thumb.jpg) |
-| [Back Button](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/back-button.md) | [Back Button Image](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button.jpg) | [Back Button Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button-thumb.jpg) |
+| Link Λεζάντας | Link Εικόνας | Link Thumb | Link Netlify |
+| --- | --- | --- | --- |
+| [Hypertext Hypermedia](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext-hypermedia.md) | [Hypertext Hypermedia Image](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia.jpg) | [Hypertext Hypermedia Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext-hypermedia-thumb.jpg) | [Hypertext Hypermedia Netlify](https://epic-franklin-d3924e.netlify.app/gallery/hypertext-hypermedia/)
+| [Back Button](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/back-button.md) | [Back Button Image](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button.jpg) | [Back Button Thumb](https://github.com/AlexisTsiranidis/images/blob/2018099/back-button-thumb.jpg) | [Back Button Netlify](https://epic-franklin-d3924e.netlify.app/gallery/back-button/) |
 
 Για το δεύτερο παραδοτέο του συμμετοχικού περιεχομένου Α2 πρόσθεσα τις δύο παραπάνω φωτογραφίες στο ήδη υπάρχον σετ διαφανιών "Υπερμέσα" και δημιούργησα το χρονολόγιο "Επιλογές στο γραφικό περιβάλλον".
-| [Link Slides "Υπερμέσα"](https://github.com/AlexisTsiranidis/site/blob/2018099/_slides/hypermedia.md) | [Link Timeline "Επιλογές στο γραφικό περιβάλλον"](https://github.com/AlexisTsiranidis/site/blob/2018099/_timeline/gui.md) |
+| Repo Link | Netlify Link |
 | --- | --- |
+| [Repo Link Slides "Υπερμέσα"](https://github.com/AlexisTsiranidis/site/blob/2018099/_slides/hypermedia.md) | [Netlify Link Slides](https://epic-franklin-d3924e.netlify.app/slides/hypermedia/) |
+[Repo Link Timeline "Επιλογές στο γραφικό περιβάλλον"](https://github.com/AlexisTsiranidis/site/blob/2018099/_timeline/gui.md) | [Netlify Link Timeline](https://epic-franklin-d3924e.netlify.app/timeline/gui/) |
 
-### <a name="Ε6">Άσκηση γραμμής εντολών</a>
+
+### <a name="Ε6">Άσκηση γραμμής εντολών 2</a>
 | Άσκηση | Link Asciinema |
 | --- | --- |
 | Deploy an application that forwards a call depending on a white- and black- list of phone numbers | [Link Asciinema](https://asciinema.org/a/410001) |
@@ -85,24 +92,24 @@
 | --- |
 | [cv.pdf](https://github.com/AlexisTsiranidis/online-cv/blob/gh-pages/cv.pdf) |
 
-### <a name="Ε9">Άσκηση γραμμής εντολών</a>
+### <a name="Ε9">Άσκηση γραμμής εντολών 3</a>
 Για την άσκηση γραμμής εντολών αποφάσισα να χρησημοποιήσω το παρακάτω κομμάτι κώδικα στο Github Actions. Με αυτό καταφέρνω κάθε φορά που γίνεται μια αλλαγή στο αρχείο που περιέχει τα δεδομένα του βιογραφικού μου να παράγεται και ένα νεό και ενημερωμένο αρχείο Pdf της σελίδας του βιογραφικού.
 | Άσκηση | Script Link |
 | --- | --- |
 | Build and deploy your static site and your cv dynamically every time you make a small change in the source files | [Txt file Link](https://github.com/AlexisTsiranidis/added_photos/blob/main/pdf_generate.txt) |
 
-### <a name="Ε10">Συμμετοχικό περιεχόμενο</a>
+### <a name="Ε10">Συμμετοχικό περιεχόμενο(B)</a>
 Για το δεύτερο παραδοτέο του συμμετοχικού περιεχομένου Β1 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου μια νέα μελέτη περίπτωσης. Το Hypertext Editing System του Andries van Dam βασισμένο στις ιδέες του Ted Nelson.
-| Link Μελέτης περίπτωσης | Link gallery | Link images | Link images(thumb) | Link extras |
-| --- | --- | --- | --- | --- |
-| [Hypertext Editing System](https://github.com/AlexisTsiranidis/site/blob/2018099/_case-study/hypertext_editing_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_system_thumb.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/extras/blob/2018099/cs-hypertext_system.md) |
+| Link Repo Μελέτης περίπτωσης | Link Repo gallery | Link Repo images | Link Repo images(thumb) | Link Repo extras | Link Netlify |
+| --- | --- | --- | --- | --- | --- |
+| [Hypertext Editing System](https://github.com/AlexisTsiranidis/site/blob/2018099/_case-study/hypertext_editing_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/_gallery/blob/2018099/hypertext_system.md) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_editing_system.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/images/blob/2018099/hypertext_editing_system_thumb.jpg) | [Hypertext Editing System](https://github.com/AlexisTsiranidis/extras/blob/2018099/cs-hypertext_system.md) | [Hypertext Editing System Netlify](https://epic-franklin-d3924e.netlify.app/case-study/hypertext_editing_system/)
 
 Για το Β2 πρόσθεσα στο δικό μου αντίγραφο του αποθετηρίου της ιστοσελίδας του βιβλίου μια νέα Βιογραφία. Την βιογραφία του Andries van Dam συνδημιουργό του Hypertext Editing System.
-| Link Βιογραφίας | Link images | Link images(thumb) | Link extras |
-| --- | --- | --- | --- |
-| [Andries van Dam](https://github.com/AlexisTsiranidis/site/blob/2018099/_biography/andries-van-dam.md) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam_thumb.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/extras/blob/2018099/bio-andries-van-dam.md) |
+| Link Repo Βιογραφίας | Link Repo images | Link Repo images(thumb) | Link Repo extras | Link Netlify |
+| --- | --- | --- | --- | --- |
+| [Andries van Dam](https://github.com/AlexisTsiranidis/site/blob/2018099/_biography/andries-van-dam.md) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/images/blob/2018099/andries_van_dam_thumb.jpg) | [Andries van Dam](https://github.com/AlexisTsiranidis/extras/blob/2018099/bio-andries-van-dam.md) | [Andries van Dam Netlify](https://epic-franklin-d3924e.netlify.app/biography/andries-van-dam/)
 
-### <a name="Ε11">Άσκηση γραμμής εντολών</a>
+### <a name="Ε11">Άσκηση γραμμής εντολών 4</a>
 Για την άσκηση γραμμής εντολών αποφάσισα να χρησημοποιήσω το εργαλείο py-spy. Χρησημοποιώντας έναν κώδικα Python ο οποίος αντιστρέφει έναν δοθέντα αριθμό απο τον χρήστη. Έτσι με την βοήθεια του py-spy κατάφερα να εξάγω ένα αρχείο .svg με τις καταγεγραμμένες πληροφορίες που κατέγραψε. Το αρχείο επισυνάπτω παρακάτω.
 | Άσκηση | Link Asciinema |
 | --- | --- |
