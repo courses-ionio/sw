@@ -32,6 +32,8 @@
 |Jaron Lanier-Intertwingled|:ballot_box_with_check: |
 |Alan Kay-Scaling |:ballot_box_with_check:|
 |Alan Kay-Turing Tarpit|:ballot_box_with_check:|
+|Alan Kay-Future Software Development|:ballot_box_with_check:|
+|Ken Thompson and Unix at Bell Labs |:x:|
  
 </br>
 
