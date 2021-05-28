@@ -151,6 +151,12 @@ Monitor the performance of your python scripts and visualize them with colors an
 
 pibook/site fork: https://github.com/p15bala/site
 
+### B1
+
+Αποθετήριο μελέτης: https://github.com/p15bala/site/blob/master/_case-study/cs-arpanet.md
+
+Αποθετήριου αρχείου μελέτης: https://github.com/p15bala/site/blob/master/_case-study/arpanet.md
+
 ### B2
 
 Αποθετήριο βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/john-mccarthy.md
