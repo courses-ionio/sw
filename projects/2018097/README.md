@@ -110,12 +110,14 @@
 B1: μια νέα μελέτη περίπτωσης MS-DOS, που δημιουργήθηκε από την Microsoft, σχετίζεται με το Α' μέρος του συμμετοχικού [Microsoft Azure](https://github.com/rmfe/_gallery/blob/2018097/microsoft-azure.md). <br>
 - MS DOS:
   - [MS DOS Case Study](https://github.com/rmfe/site/blob/2018097/_case-study/ms-dos.md)
-  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.png) <br>
+  - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos.png) 
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/os-ms-dos-thumb.jpg)<br>
 
 Β2: μια νέα βιογραφία για τον J. C. R. Licklider και το πως δημιούργησε το cloud computing και σχετίζεται  με το [Web Service Architecture](https://github.com/rmfe/_gallery/blob/2018097/web-service-architecture.md). Στο Α' μέρος έγινε η ανάλυση της αρχιτεκτονικής των web services. Για το cloud computing χρησιμοποιούνται web services και αυτός ήταν ο λόγος που έκανα την βιογραφία του J. C. R. Licklider.
 - J. C. R. Licklider:
   - [J. C. R. Licklider Biography](https://github.com/rmfe/site/blob/2018097/_biography/j-c-r-licklider.md)
   - [Κανονική Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider.jpg)
+  - [Thumbnail Φωτογραφία](https://github.com/rmfe/images/blob/2018097/j_c_r_licklider-thumb.jpg)<br>
 
 Πηγές: <br>
 https://www.internethalloffame.org/inductees/jcr-licklider <br>
