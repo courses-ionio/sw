@@ -14,7 +14,7 @@
 | 6th | [Command-line exercise](#Command-line-exercises) |
 | 7th | [CV](#Curriculum-Vitae) |
 | 8th | Pull request @ CSCW website/other project |
-| 9th | Command-line exercise |
+| 9th | [Command-line exercise](#Command-line-exercises) |
 | 10th | [Participatory content](#Participatory-Content) |
 | 11th | [Command-line exercise](#Command-line-exercises) |
 | 12th | [Conclusion](#Conclusion) |
