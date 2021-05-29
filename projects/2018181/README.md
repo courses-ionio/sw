@@ -200,6 +200,41 @@ print('This is a message via Twilio Application')
    Python Libraries: `CProfile` & `PyInstrument`
 
    Note: The scripts run on `Python 3.0`. 
+   
+```
+# Import random module
+import random
+
+# Set the character list for generating the password
+characters = "01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ&*(){}[]|/\?!@#$%^abcdefghijklmnopqrstuvwxyz"
+# Take the length of the password from the user
+password_length = int(input('Enter the length of the password: '))
+# Generate the password
+password = "".join(random.sample(characters, password_length))
+# Print the generated password
+print("Gernerated password: %s" %password)
+```
+*Random Password Generator*   
+   
+   
+   
+   
+```
+#!/usr/bin/env python
+
+import socket
+
+def print_machine_info():
+    host_name = socket.gethostname()
+    ip_address = socket.gethostbyname(host_name)
+    print ("Host name: %s" % host_name)
+    print ("IP address: %s" % ip_address)
+
+if __name__ == '__main__':
+    print_machine_info()
+    
+```
+*Script for printing the hostname and IP address* 
 
 The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif) represents the perfomance results of the first script (password generator) using the `CProfile`. 
 
