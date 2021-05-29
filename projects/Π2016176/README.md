@@ -44,11 +44,13 @@
 # 
 
 # <b>Εβδομάδα 1η: Βιογραφικό</b><br>
-  - Github Repository Link: https://github.com/p16koub1/cv <br>
-  - Github Page Link: https://p16koub1.github.io/cv/ <br>
+  - [Github Repository Link](https://github.com/p16koub1/cv)
+  - [Github Page Link](https://p16koub1.github.io/cv/)
   - #### Asciinema Videos:<br>
-    - git push: https://asciinema.org/a/395323<br>
-    - latex: https://asciinema.org/a/395325
+    - #### Git Push:
+      [![asciicast](https://asciinema.org/a/395323.svg)](https://asciinema.org/a/395323)
+    - #### Latex:
+      [![asciicast](https://asciinema.org/a/395325.svg)](https://asciinema.org/a/395325)
 
 # 
 
@@ -77,10 +79,11 @@
 # 
 
 # Εργασία γραμμής εντολών 1 :
-  - send notifications to your desktop-mobile with ntfy.<br>
-  - asciinema: https://asciinema.org/a/399030 <br>
-  - notifications gif: https://gifyu.com/image/ajd4
-
+  - ### send notifications to your desktop-mobile with ntfy.
+    - #### [notifications gif](https://gifyu.com/image/ajd4)
+    - #### asciinema:
+      [![asciicast](https://asciinema.org/a/399030.svg)](https://asciinema.org/a/399030)
+    
 # 
 
 # Συμμετοχικό περιεχόμενο
