@@ -140,7 +140,7 @@ else
 	notify-send "The are no updates!" "Your system is up-to-date"
 fi
 ```
-*Script for Notify*
+*Desktop Notification via Notify*
 
 </br> 
 
@@ -149,7 +149,7 @@ fi
     <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg" alt="Mobile Notification"/>
   </a>
 </p>
-
+*Mobile Notification via Pushover*
 </br>
 
 <p>
@@ -157,8 +157,10 @@ fi
     <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.gif" alt="Mobile Notification-GIF"/>
   </a>
 </p>
+*Mobile Notification via Pushover*
 
 </br>
+
 
 |Sources|
 |:-----:|
@@ -252,7 +254,7 @@ print("Gernerated password: %s" %password)
     <img src="https://github.com/mariachlkt/cli/blob/main/password-generator.gif" alt="Password Generator-GIF"/>
   </a>
 </p>
-   
+*Script's performance by CProfile (password generator)*
    
 ```
 #!/usr/bin/env python
@@ -269,7 +271,7 @@ if __name__ == '__main__':
     print_machine_info()
     
 ```
-*Script for printing the hostname and IP address* 
+*Prints the hostname and IP address* 
 
 The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif) represents the perfomance results of the first script (password generator) using the `CProfile`. 
 
