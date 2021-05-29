@@ -224,8 +224,12 @@
     ```sh
     python3 forward_call.py
     ```
-
     >Executes forward_call script which makes calls, and redirects them based on white/black list
+
+    [Recorded Call](https://github.com/p16koub1/ForwardCalls/blob/main/record.mp3)
+    
+    #### Call Screenshot:
+    <img src="https://user-images.githubusercontent.com/43948039/120079060-ec8c4d80-c0ba-11eb-8538-aa6854c2d277.png" alt="drawing" width="300"/>
 
   - ### Scripts Repository:
 
