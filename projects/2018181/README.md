@@ -78,8 +78,12 @@ In order to create a `PDF` version of my CV, I used a custom `Github Actions` wo
 Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated PDF with the latest additions.
 </br>
 
-![pdf](https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf)
-
+<p>
+  <a href="https://github.com/mariachlkt/resume-sw/blob/main/cv.pdf" title="CV-PDF">
+    <img src="https://github.com/mariachlkt/cli/blob/main/cv-pdf.png" alt="CV-PDF"/>
+  </a>
+</p>
+   
 </br>
 
 <h2>PR-Site</h2>
@@ -118,6 +122,12 @@ Evidently, whenever CV information gets modified via `det.yaml` the script creat
   - The seond one, [Notify](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png), pushes notifications on desktop from terminal.
   - The last tool, [Pushover](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png), is an application which pushes notifications on Desktop, [smartphones](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
 and smartwatches.
+
+<p>
+  <a href="https://github.com/mariachlkt/cli/blob/main/desktop-notification.png" title="Desktop Notification">
+    <img src="https://github.com/mariachlkt/cli/blob/main/desktop-notification.png" alt="Desktop Notification"/>
+  </a>
+</p>
  
 ```
 #!/bin/bash
@@ -132,11 +142,30 @@ fi
 ```
 *Script for Notify*
 
+</br> 
+
+<p>
+  <a href="https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg" title="Mobile Notification">
+    <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg" alt="Mobile Notification"/>
+  </a>
+</p>
+
+</br>
+
+<p>
+  <a href="https://github.com/mariachlkt/cli/blob/main/mobile-notification.gif" title="Mobile Notification-GIF">
+    <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.gif" alt="Mobile Notification-GIF"/>
+  </a>
+</p>
+
+</br>
+
 |Sources|
 |:-----:|
     - https://www.unixmen.com/how-to-get-email-notifications-for-new-updates-on-debianubuntu/
     - https://docs.oracle.com/cd/E88353_01/html/E37839/notify-send-1.html
     - https://pushover.net/
+
 </br>
 
 |Second Assignemt|
@@ -215,8 +244,14 @@ password = "".join(random.sample(characters, password_length))
 print("Gernerated password: %s" %password)
 ```
 *Random Password Generator*   
-   
-   
+
+</br>
+
+<p>
+  <a href="https://github.com/mariachlkt/cli/blob/main/password-generator.gif" title="Password Generator-GIF">
+    <img src="https://github.com/mariachlkt/cli/blob/main/password-generator.gif" alt="Password Generator-GIF"/>
+  </a>
+</p>
    
    
 ```
