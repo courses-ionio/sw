@@ -118,7 +118,20 @@ Evidently, whenever CV information gets modified via `det.yaml` the script creat
   - The seond one, [Notify](https://github.com/mariachlkt/cli/blob/main/desktop-notification.png), pushes notifications on desktop from terminal.
   - The last tool, [Pushover](https://user-images.githubusercontent.com/56742258/117950825-413e7300-b31c-11eb-8635-0cacdf731a20.png), is an application which pushes notifications on Desktop, [smartphones](https://user-images.githubusercontent.com/56742258/117883250-dbb69c00-b2b3-11eb-84d2-98a3fad8b154.gif)
 and smartwatches.
-  
+ 
+```
+#!/bin/bash
+
+clear
+updates= $(apt list upgradeable)
+if [ -n ${updates} ]; then
+	notify-send "Updates are available"
+else
+	notify-send "The are no updates!" "Your system is up-to-date"
+fi
+```
+*Script for Notify*
+
 |Sources|
 |:-----:|
     - https://www.unixmen.com/how-to-get-email-notifications-for-new-updates-on-debianubuntu/
@@ -130,6 +143,49 @@ and smartwatches.
 |:---------:|
 
 + In the second task, I used Twilio Application, which is an American Cloud Communications Platform. More specific, I bought a trial number and i made a script in order to [make calls](https://user-images.githubusercontent.com/56742258/117950500-ead13480-b31b-11eb-84cc-2051f3c36f52.png) and [send messages](https://user-images.githubusercontent.com/56742258/117951523-ec4f2c80-b31c-11eb-9a66-5032bb9299ee.png) from the virtual one to mine. 
+
+```
+from twilio.rest import Client
+
+
+# Your Account Sid from twilio.com/console
+account_sid = 'AC8f5232d035e92fe246b32482189a0571'
+# Your Auth Token from twilio.com/console
+auth_token = '0f9509d92fdc53f4b0aaf93b49f692b5'
+client = Client(account_sid, auth_token)
+
+call = client.calls.create(
+                        url='http://demo.twilio.com/docs/voice.xml',
+                        to='+306977066162',
+                        from_='+17193451152'
+                    )
+
+print(call.sid)
+print('This is a call via Twilio Application')
+```
+*Making Calls via Twilio*
+
+```
+from twilio.rest import Client
+
+
+# Your Account Sid from twilio.com/console
+account_sid ='AC8f5232d035e92fe246b32482189a0571'
+# Your Auth Token from twilio.com/console
+auth_token = 'XXXXX'
+client = Client(account_sid, auth_token)
+
+message = client.messages.create(
+                              body='This is a message via Twilio Application!',
+                              from_='+17193451152',
+                              to='+306977066162'
+
+                          )
+
+print('This is a message via Twilio Application')
+```
+*Sending Messages via Twilio*
+
 
 |Sources|
 |:-----:| 
