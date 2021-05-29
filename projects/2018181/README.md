@@ -153,7 +153,64 @@ The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e50
 + In the fourth task, I used a custom `GitHub Actions` workflow with the necessary `script` that automates the process of making a PDF version of my CV.
 Evidently, whenever CV information gets modified via `det.yaml` the script creates an updated `PDF` with the latest additions.
 
+```
+# This is a basic workflow to help you get started with Actions
 
+name: AUTO GENERATE-PDF 
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+    paths:
+      - '_data/det.yaml'
+  #pull_request:
+    #branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-20.04
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      # Runs a single command using the runners shell
+      - name: Convert to PDF 
+        uses: docker://pandoc/latex:2.13
+        with:
+          args: >-
+            https://mariachlkt.github.io/resume-sw/
+            -f html-native_divs
+            --pdf-engine=xelatex
+            -o cv.pdf
+            
+      # Runs a set of commands using the runners shell
+      - name: Commit 
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Automatically generate PDF"
+      - name: Push amended CV
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+```
+
+</br>
 <h2>Participatory Content</h2>
 
 |First Part|
