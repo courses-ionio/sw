@@ -144,7 +144,7 @@ Send a notifcation when a big task completes, eg download, compiling, etc.
 
 Monitor the performance of your python scripts and visualize them with colors and/or spark lines
  
-Χρησιμοποιόντας το [hyperfine](https://github.com/sharkdp/hyperfine) μπρούμε να μετρήσουμε την απόδοση του κώδικα μας σε python.
+Χρησιμοποιώντας το [hyperfine](https://github.com/sharkdp/hyperfine) μπρούμε να μετρήσουμε την απόδοση του κώδικα μας σε python.
 Για το παραδοτέο αυτό μετρήθηκαν οι χρόνοι ενός python script,το οποίο βρίσκει όλους τους ζυγούς αριθμούς απο ένα range αριθμών που του δίνουμε.
 Το πρώτο παράδειγμα έγινε με αριθμούς απο το 1 έως το 100 και το δεύτερο παράδειγμα με αριθμούς απο το 1 έως το 10000.
 Στην εγγραφή τερματικού φαίνεται η χρήση του hyperfine όπως και τα αποτελέσματά του.
