@@ -109,6 +109,19 @@
  
 # 
 
+# Αιτήματα Ενσωμάτωσης στη Σελίδα:
+- ### [Repository sitegr](https://github.com/p16koub1/sitegr)
+- ### [Netlify App](https://eloquent-hermann-3a9305.netlify.app/)
+- ### Προσθήκες 1ου Παραδοτέου:
+  - [Authors: Σωτηροπούλου Άννα](https://github.com/p16koub1/sitegr/blob/master/_data/authors.yml)
+  - [People: Σωτηροπούλου Άννα](https://github.com/p16koub1/sitegr/blob/master/all_collections/_people/sotan.md)
+  - [Images: Σωτηροπούλου Άννα](https://github.com/p16koub1/sitegr/blob/master/assets/images/sotan.jpg)
+- ### Προσθήκες 2ου Παραδοτέου:
+  - [Fixed Main Menu](https://github.com/p16koub1/minimal-ionio/blob/master/_sass/minimal-mistakes/_masthead.scss)
+  
+
+# 
+
 # Εργασία γραμμής εντολών 2 :
 
 ## Comands
