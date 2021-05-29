@@ -2,46 +2,37 @@
 
 
 ## Προσωπικά στοιχεία:
-
-Ονοματεπώνυμο: Χαράλαμπος Κωστάντης
-
-ΑΜ: Π2015127
-
-email: p15kost@ionio.gr
-
+### Ονοματεπώνυμο: Χαράλαμπος Κωστάντης
+### ΑΜ: Π2015127
+### email: p15kost@ionio.gr
 [Προφίλ στο github](https://github.com/p15kost)
 
+| Εβδομάδα* | Παραδοτέο | Ολοκληρώθηκε |
+| --- | --- | --- |
+| 1 |<a href="#P1">Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων,  και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* </a>| :heavy_check_mark: |
+| 2 |<a href="#P2"> Βιογραφικό </a>| :heavy_check_mark: |
+| 3 |<a href="#P3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>| :heavy_check_mark: |
+| 4 |<a href="#P4"> Άσκηση γραμμής εντολών </a>| :heavy_check_mark: |
+| 5 |<a href="#P5"> Συμμετοχικό περιεχόμενο </a>| :heavy_check_mark: |
+| 6 |<a href="#P6"> Άσκηση γραμμής εντολών </a>| :heavy_check_mark: |
+| 7 |<a href="#P7"> Βιογραφικό </a>| :heavy_check_mark: |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | :x: |
+| 9 |<a href="#P9"> Άσκηση γραμμής εντολών </a>| :heavy_check_mark: |
+| 10 |<a href="#P10"> Συμμετοχικό περιεχόμενο </a>| :heavy_check_mark: |
+| 11 |<a href="#P11"> Άσκηση γραμμής εντολών </a>| :heavy_check_mark: |
+| 12 |<a href="#P12"> Τελική αναφορά* </a>| :heavy_check_mark: |
 
 
-## Πρόγραμμα Παραδοτέων 
-| Εβδομάδα | Παραδοτέο |
-| --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα |
-| 2 | βιογραφικό |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 4 | Άσκηση γραμμής εντολών |
-| 5 | Συμμετοχικό περιεχόμενο |
-| 6 | Άσκηση γραμμής εντολών |
-| 7 | βιογραφικό |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
-| 12 | Τελική αναφορά |
 
-
-## Στόχος: 
+## <a name="P1">Εισαγωγή - Παραδοτέο 1 </a>
 
 Στόχος μου για το μάθημα Τεχνολογία Λογισμικού είναι να ολοκληρώσω επιτυχώς τις εργασίες του μαθήματος. Με αυτόν τον τρόπο θα έχω αποκτήσει τις γνώσεις που χρειάζεται πάνω στο αντικείμενο του μαθήματος και θα βρίσκομαι πλέον πολύ κοντά στην απόκτηση του πτυχίου μου.
-
-
-## Παραδοτέο 1: 
 
 Έκανα fork το αποθετήριο courses-ionio/sw και έφτιαξα branch με το ΑΜ μου και έναν φάκελο μέσα στο φάκελο projects με το ίδιο όνομα. Μέσα στον φάκελο έχω προσθέσει ένα αρχείο README.md για τις αναφορές των εργασιών του μαθήματος.
 
 Εγγραφή Asciinema: https://asciinema.org/a/400989
 
-## Παραδοτέο 2:
+## <a name="P2">Παραδοτέο 2 </a>
 
 Λινκ Βιογραφικού Github Pages: https://p15kost.github.io/cv1/
 
@@ -52,7 +43,7 @@ email: p15kost@ionio.gr
 Εγγραφή Asciinema: https://asciinema.org/a/396063
 
 
-## Παραδοτέο 3:
+## <a name="P3">Παραδοτέο 3 </a>
 
 Για το πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα,αποφάσισα να προσθέσω μια ανακοίνωση με τίτλο "Τμήμα Πληροφορικής - Bi.H.E.Lab: Πρόγραμμα εξ Αποστάσεως Εκπαίδευσης «Ιατρική Ακριβείας με Χρήση Υπολογιστικών Βιοδεικτών»".
 Δημιούργησα ένα αρχείο .md με όνομα "2020-10-25-iatrikh_akriveia_me_xrhsh_biodeiktwn.md" και με τις απαραίτητες πληροφορίες [εδώ](https://github.com/p15kost/sitegr/tree/2015127/all_collections/_posts).Πήρα green light στο σχετικό issue που δημιούργησα και στη συνέχεια έκανα pull request.
@@ -66,7 +57,7 @@ Pull request: https://github.com/ioniodi/sitegr/pull/146
 Netlify Demo: https://jolly-nightingale-1c8cdd.netlify.app/posts/2020/10/25/iatrikh_akriveia_me_xrhsh_biodeiktwn/
 
 
-## Παραδοτέο 4:
+## <a name="P4">Παραδοτέο 4 </a>
 
 Fetch the weather forecast for your home city and one more city that you want to travel to.
 
@@ -74,8 +65,7 @@ Fetch the weather forecast for your home city and one more city that you want to
 
 Asciinema εγγραφή: https://asciinema.org/a/400995
 
-
-## Παραδοτέο 5:
+## <a name="P5">Παραδοτέο 5 </a>
 
 Fork τα απαραίτητα αποθετήρια: 
 
@@ -138,7 +128,7 @@ Netlify Demo διαφανιών: https://determined-jepsen-7f277c.netlify.app//s
 Netlify Demo χρονολογίου: https://determined-jepsen-7f277c.netlify.app//timeline/collaboration/
 
 
-## Παραδοτέο 6:
+## <a name="P6">Παραδοτέο 6 </a>
 
 send a notifcation to desktop-mobile when a big task completes, eg download, compiling, etc (ntfy)
 
@@ -150,13 +140,13 @@ Screenshots: https://github.com/p15kost/sw-images
 
 <img src="https://github.com/p15kost/sw-images/blob/main/screenshot1.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot2.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot3.png" width="160" height="160"> <img src="https://github.com/p15kost/sw-images/blob/main/screenshot4.png" width="160" height="160">
 
-## Παραδοτέο 7:
+## <a name="P7">Παραδοτέο 7 </a>
 
 Στο παραδοτέο αυτό χρησιμοποίησα το weasyprint που είδαμε στο εργαστήριο με το οποίο μετατρέπουμε ιστοσελίδες σε pdf. Δημιούργησα το αρχείο cv.pdf το οποίο πρόσθεσα σε ένα φάκελο pdf στο αποθετήριο του βιογραφικού μου. 
 
 Asciinema εγγραφή: 
 
-## Παραδοτέο 9:
+## <a name="P9">Παραδοτέο 9 </a>
 
 send notifications on important server events
 
@@ -179,7 +169,7 @@ https://asciinema.org/a/416928
 
 https://asciinema.org/a/416930
 
-## Παραδοτέο 11:
+## <a name="P11">Παραδοτέο 11 </a>
 
 Monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
@@ -196,6 +186,9 @@ Asciinema εγγραφή: https://asciinema.org/a/416976
 <img src="https://github.com/p15kost/sw-images/blob/f9e389ca6435053ed3b259dcfda56a05dafc7e0f/Screenshot_7.png"> 
 
 <img src="https://github.com/p15kost/sw-images/blob/f9e389ca6435053ed3b259dcfda56a05dafc7e0f/Screenshot_8.png"> 
+
+## <a name="P12">Τελική αναφορά</a>
+
 
 
 ## Απαντήσεις Video Quiz (12/12)
