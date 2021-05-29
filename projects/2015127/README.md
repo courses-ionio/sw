@@ -127,6 +127,12 @@ Netlify Demo διαφανιών: https://determined-jepsen-7f277c.netlify.app//s
 
 Netlify Demo χρονολογίου: https://determined-jepsen-7f277c.netlify.app//timeline/collaboration/
 
+#### Πηγές:
+
+[SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol).
+
+[DNS-TREE](https://el.m.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:DNS_Tree_el.svg).
+
 
 ## <a name="P6">Παραδοτέο 6 </a>
 
@@ -172,6 +178,14 @@ https://asciinema.org/a/416928
 https://asciinema.org/a/416930
 
 ## <a name="P10">Παραδοτέο 10 </a>
+
+pibook/site fork: https://github.com/p15kost/site
+
+### B1
+
+### B2
+
+### Πηγές:
 
 ## <a name="P11">Παραδοτέο 11 </a>
 
