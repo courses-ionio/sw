@@ -1,9 +1,11 @@
 
-#ΠΑΠΑΘΕΟΔΩΡΟΥ ΜΑΡΙΑ ΧΡΙΣΤΙΝΑ
+### ΠΑΠΑΘΕΟΔΩΡΟΥ ΜΑΡΙΑ ΧΡΙΣΤΙΝΑ
 
-#Π2018027
+### Π2018027
 
-#GITHUB PROFILE (https://github.com/MariaXristinaPapatheodwrou)
+### email: p18papa@ionio.gr
+
+### GITHUB PROFILE (https://github.com/MariaXristinaPapatheodwrou)
 
 
 | Εβδομάδα* | Παραδοτέο |
