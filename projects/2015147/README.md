@@ -163,6 +163,17 @@ pibook/site fork: https://github.com/p15bala/site
 
 Αποθετήριο σύντομης βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/bio-mccarthy.md
 
+
+
+Πηγές:
+
+[How the Internet was born: from the ARPANET to the Internet](https://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072)
+
+[Τζον Μακάρθι | Αμερικανός μαθηματικός και επιστήμονας υπολογιστών](https://delphipages.live/el/%CE%B4%CE%B9%CE%AC%CF%86%CE%BF%CF%81%CE%B1/john-mccarthy)
+
+[Wikipedia](https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CE%BD_%CE%9C%CE%B1%CE%BA%CE%AC%CF%81%CE%B8%CE%B9)
+
+
 ## <a name="P11">Παραδοτέο 11 </a>
 
 ### Άσκηση γραμμής εντολών 4
