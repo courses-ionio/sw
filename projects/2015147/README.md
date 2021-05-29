@@ -169,6 +169,8 @@ pibook/site fork: https://github.com/p15bala/site
 
 Αποθετήριο σύντομης βιογραφίας: https://github.com/p15bala/site/blob/master/_biography/bio-mccarthy.md
 
+Δυστυχώς η μελέτη περίπτωσης και η βιογραφία δεν φάνηκαν στο [netlify](https://quirky-cray-def8ee.netlify.app/).
+
 
 
 Πηγές:
