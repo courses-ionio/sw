@@ -82,20 +82,20 @@ Nα δώσετε παράδειγμα από την προσωπική σας ε
 <br>
 
 # Εργασία γραμμής εντολών 1 :
-send notifications to your desktop-mobile with ntfy.<br>
-asciinema: https://asciinema.org/a/399030 <br>
-notifications gif: https://gifyu.com/image/ajd4
+  - send notifications to your desktop-mobile with ntfy.<br>
+  - asciinema: https://asciinema.org/a/399030 <br>
+  - notifications gif: https://gifyu.com/image/ajd4
 
 # Συμμετοχικό περιεχόμενο
 
-## Link για το Repository:
-[Repository Site](https://github.com/p16koub1/site)
+  ### Link για το Repository:
+  [Repository Site](https://github.com/p16koub1/site)
 
-## Αλαγές:
- - [Image 1: Windows XP](https://github.com/p16koub1/images/tree/master/windows-xp.jpg)
- - [Image 2: macOS BigSur](https://github.com/p16koub1/images/tree/master/macOS-bigsur.png)
- - [Operating Systems Slides](https://github.com/p16koub1/site/tree/master/_slides/operating-systems.md)
- - [Operating Systems Timeline](https://github.com/p16koub1/site/tree/master/_timeline/operating-systems.md)
+  ### Αλαγές: Α' Μέρος
+  - [Image 1: Windows XP](https://github.com/p16koub1/images/tree/master/windows-xp.jpg)
+  - [Image 2: macOS BigSur](https://github.com/p16koub1/images/tree/master/macOS-bigsur.png)
+  - [Operating Systems Slides](https://github.com/p16koub1/site/tree/master/_slides/operating-systems.md)
+  - [Operating Systems Timeline](https://github.com/p16koub1/site/tree/master/_timeline/operating-systems.md)
  
 
 # Εργασία γραμμής εντολών 2 :
@@ -160,14 +160,50 @@ notifications gif: https://gifyu.com/image/ajd4
 
   >If you want to run a benchmark where only a single parameter is varied you can use the --parameteter-scan. For decimal numbers you can use the step -d.
 
-## asciinema Commands Execution:
+- ### asciinema Commands Execution:
 
-[![asciicast](https://asciinema.org/a/404980.svg)](https://asciinema.org/a/404980)
+  [![asciicast](https://asciinema.org/a/404980.svg)](https://asciinema.org/a/404980)
 
-[asciinema link](https://asciinema.org/a/404980)
+  [asciinema link](https://asciinema.org/a/404980)
 
-## Output Files:
+- ### Output Files:
 
-[Sorting Algorithms Output](_hyperfine/sortings.md)
+  [Sorting Algorithms Output](_hyperfine/sortings.md)
 
-[Number Of Loops Output](_hyperfine/loops.md)
+  [Number Of Loops Output](_hyperfine/loops.md)
+
+
+# Άσκηση γραμμής Εντολών 3:
+  - ### Start Local Server:
+
+    ```sh
+    python3 call_service.py
+    ```
+  
+    ![image](https://user-images.githubusercontent.com/43948039/120074406-631e5080-c0a5-11eb-8b90-21b22611b69c.png) 
+
+    >Twilio: Run Local Server
+
+  - ### Start ngrok Server:
+
+    ```sh
+    ./ngrok http 5000
+    ```
+  
+    ![image](https://user-images.githubusercontent.com/43948039/120074531-f0fa3b80-c0a5-11eb-9e95-11717e9c8b4d.png)
+
+    >Twilio: Run a Public Server on ngrok
+
+  - ### Start Call Service:
+
+    ```sh
+    python3 forward_call.py
+    ```
+
+    >Executes forward_call script which makes calls, and redirects them based on white/black list
+
+  - ### Scripts Repository:
+
+    [ForwardCalls](https://github.com/p16koub1/ForwardCalls)
+
+    >It contents all the scripts used above.
