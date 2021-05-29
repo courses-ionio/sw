@@ -144,7 +144,12 @@ https://www.britannica.com/technology/MS-DOS <br>
 
 ### **<a name="P11">11η εβδομάδα:</a>** <br/>
 <ins> Άσκηση γραμμής εντολών </ins> <br>
-Για την άσκηση γραμμής εντολών αυτής της εβδομάδας, αποφάσισα να δημιουργήσω docker image, σε Ubuntu λειτουργικό σύστημα. 
+[Link για την εργασία στο asciinema](https://asciinema.org/a/417071)<br>
+Για την άσκηση γραμμής εντολών αυτής της εβδομάδας, αποφάσισα να δημιουργήσω docker image, σε Ubuntu λειτουργικό σύστημα. Το html αρχείο είναι ένα απλό hello world. Για το docker image χρησιμοποιώ Alpine OS. Δυστυχώς δεν μπόρεσε να γίνει build. Προσπάθησα ανεπιτυχώς να λύσω το πρόβλημα με τις παρακάτω εντολές :<br>
+-sudo groupadd docker <br>
+-sudo usermod -aG docker ${USER}<br>
+-su -s ${USER}<br>
+
 
 ### **<a name="P12">12η εβδομάδα:</a>** <br/>
 <ins> Τελική αναφορά </ins> <br>
