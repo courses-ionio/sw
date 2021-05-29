@@ -144,7 +144,9 @@ Screenshots: https://github.com/p15kost/sw-images
 
 Στο παραδοτέο αυτό χρησιμοποίησα το weasyprint που είδαμε στο εργαστήριο με το οποίο μετατρέπουμε ιστοσελίδες σε pdf. Δημιούργησα το αρχείο [cv.pdf](https://github.com/p15kost/cv1/blob/master/pdf/cv.pdf) το οποίο πρόσθεσα σε ένα φάκελο pdf στο αποθετήριο του βιογραφικού μου. Στη συνέχεια πρόσθεσα την επιλογή για τη λήψη του αρχείου pdf στην [ιστοσελίδα του βιογραφικού](https://p15kost.github.io/cv1/).
 
-Asciinema εγγραφή: 
+Η Asciinema εγγραφή διαγράφτηκε καταλάθος. Η ροή εργασίας που έδειχνε είχε ως εξής:
+asciinema rec -> mkdir pdf -> weasyprint https://p15kost.github.io/cv1/ pdf/cv.pdf -> cd pdf -> ls(to see cv.pdf) -> cd .. ->git add. -> git commit -m "pdf added" -> git push ->exit
+
 
 ## <a name="P9">Παραδοτέο 9 </a>
 
