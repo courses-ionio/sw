@@ -17,7 +17,7 @@
 | 9 | <a name="te3top"  href="#te3"  >Άσκηση γραμμής εντολών</a>|
 | 10 |<a name="s2top"  href="#s2"> συμμετοχικό περιεχόμενο</a>|
 | 11 |<a name="te4top" href="#te4"> Άσκηση γραμμής εντολών</a>
-| 12 | Τελική αναφορά |
+| 12 |<a name="teliktop" href="#telik">Τελική αναφορά</a> |
 
 <h3>Video quiz τα οποία δεν μπορούσαν να παραδοθούν στο site λόγο τεχνικών προβλημάτων</h3>
 
@@ -30,7 +30,12 @@
 <li><a name="vq11top" href="#vq11"> video-quiz-11</a> </li>
 </ul>
 
+<h2>Σύνοψη:</h2>
+
+<p>Πραγματοποιήθηκαν όλα τα παραδοτέα στην προθεσμία και όσο ποιο κοντά στις οδηγίες και στα ζητούμενα γινόταν ,  εκτός από το αίτημα ενσωμάτωσης 2 . Τα video-quiz , εκτός από 3 που κατάφερα να τα κάνω στο site, βρίσκονται εδώ.<p>
+
 <h2> <a name="eisa" href="#eisatop"  >ΕΙΣΑΓΩΓΗ:</a> </h2>
+
 <p>Μεσω της τεχνολογίας λογισμικού ασχολουμαστε με την
 μελέτη και την εφαρμογή συστηματικών, μεθοδικών και ποσοτικοποιημένων προσεγγίσεων για την 
 ανάπτυξη, λειτουργία και συντήρηση του λογισμικού.
@@ -44,13 +49,25 @@
 
 <h2> <a name="cv" href="#cvtop" >Βιογραφικό:</a> </h2>
 
+<p>Δημιούργησα ένα repository και έφτιαξα ένα απλό στατικό site με το jekyll  στην συνεχεία χρησιμοποίησα το pandoc ώστε να μετατρέψω το index.html  σε μορφή latex και στην συνέχεια σε pdf και αφαιρώντας από το pdf το  λινκ για το pdf.</p>
+
+<p>Tο style της σελίδας γίνεται με την βοήθεια του <a href=https://latex.vercel.app/> LaTeX.css </a>.</p>
+
 <a href="https://asciinema.org/a/406042" target="_blank"><img src="https://asciinema.org/a/406042.svg" /></a>
 
 
 <h3><a href="https://github.com/DimitrisGrigoropoulosP2016099/cv">Cv Github</a></h3>
 
 
+<h2><a name="ai" href="#aitop"  >Αίτημα ενσωμάτωσης στην ιστοσελίδα:  </a> </h2>
 
+<p>Εδώ έκανα αλλαγές στο data προσθέτοντας μια φωτογραφία και κάνοντας αλλαγές στο authors.yml</p>
+
+<h3><a href="https://github.com/ioniodi/sitegr/issues/54">Issue</a> </h3>
+
+<h3><a href="https://github.com/ioniodi/sitegr/pull/81">Pull request</a> </h3>
+
+<h3><a href="https://epic-hamilton-da9ac8.netlify.app/people/riggas/">οι αλλαγες </a></h3>
 
 <h2><a name="vq3" href="#vq3top"> video-quiz 3 week : </a></h2>
 
@@ -81,6 +98,8 @@
 
 <h2><a name="te1" href="#te1top" >Άσκηση γραμμής εντολών 1: ntfy</a> </h2> 
 
+<p>Εδώ άλλαξα τα settings του ntfy ώστε να γράφει τις ειδοποιήσεις στο syslog και μετά έκανα ένα speed test που παίρνει ώρα ώστε να το τεστάρω.</p>
+
 <a href="https://asciinema.org/a/3M4J23MSPNAbKOyuVkVCHQh7n" target="_blank"><img src="https://asciinema.org/a/3M4J23MSPNAbKOyuVkVCHQh7n.svg" /></a>
 
 <h2><a name="vq4" href="#vq4top"> video-quiz 4:</a> </h2>
@@ -109,13 +128,18 @@
 
 <h2><a name="s1" href="#s1top">Συμμετοχικό περιεχόμενο</a></h2>
 
+<p>Εδώ αποφάσισα να προσθέσω το Doom & Space travel ,δυο αρκετά σημαντικά λογισμικά . Δουλεύοντας με submodules ήταν αρκετά δύσκολο στην αρχή αλλά μετά από λίγη εξάσκηση και μερικές αποτυχίες ήταν πολύ εύκολο.</p>
+
+
 <h3>added doom1 & space travel sto videogames.md </h3>  
 
 <a href=https://mystifying-newton-3844bc.netlify.app/slides/videogames/>slides</a>
 
 <a href=https://mystifying-newton-3844bc.netlify.app/timeline/videogames/>timeline</a>
 
-<h2 name="te2" href="#te2top">Άσκηση γραμμής εντολών 2: huginn </a> </h2>
+<h2> <a name="te2" href="#te2top">Άσκηση γραμμής εντολών 2: huginn </a> </h2>
+
+<p>Εδώ κατέβασα ένα docker image του huginn και δημιούργησα έναν απλό web scrapping agent (σε περίπτωση που δεν φαίνεται καλά στο τελευταίο frame του asciinema φαίνεται που επιστρέφει ο  agent).</p>
 
 <a href="https://asciinema.org/a/404614" target="_blank"><img src="https://asciinema.org/a/404614.svg" /></a>
 
@@ -176,10 +200,14 @@
 
 <h2><a name="te3" href="#te3top">Άσκηση γραμμής εντολών 3 : hyper-fine </a> </h2>
 
+<p>Το hyper-fine ήταν αρκετά εύκολο στην εγκατάσταση του αλλά επειδή δεν είχα κάποιο εύκαιρο script εκείνη την στιγμή αποφάσισα να δοκιμάσω το inbuilt benchmark που είχε</p>
+
 <a href="https://asciinema.org/a/408982" target="_blank"><img src="https://asciinema.org/a/408982.svg" /></a>
 
 
 <h2><a name="s2" href="#s2top">συμμετοχικό περιεχόμενο</a></h2>
+
+<p>Αποφάσισα να επεκτείνω την θεματολογία που είχα ξεκινήσει στο προηγούμενο παραδοτέο κάνοντας βιογραφία για τον John Romero δημιουργό του Doom και κάνοντας μια μελέτη περίπτωσης για το Tetris και πως ένα τόσο απλό λογισμικό έγινε τόσο διάσημο και τι έχει να μας διδάξει αυτό.</p>
 
 <h3><a href="https://mystifying-newton-3844bc.netlify.app/biography/john-romero/"> John Romero</a></h3>
 
@@ -197,7 +225,7 @@
 
 <p> Wikipedia contributors. (2021a, May 8). Tetris effect. Wikipedia. https://en.wikipedia.org/wiki/Tetris_effect</p>
 
-<p>αρχεια τα οποια προστεθηκαν/αλλαξαν : _biography/John-Romero.md , bio-romero.md // _case-study/tetris.md // _gallery/SpaceTravel.md , doom1.md // _includes/extras/cs-tetris.md  // slides/videogames.md // timeline/videogames.md // images/SpaceTravel-thump.png , SpaceTravel.png , doom1-thumb.png , doom1.png , romero.jpg ,tetris.png και τελος το config. </p>
+<p>αρχεια τα οποια προστεθηκαν/αλλαξαν : <a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_biography/John-Romero.md" >  biography/John-Romero.md </a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_biography/bio-romero.md"> bio-romero.md </a> //<a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_case-study/tetris.md">case-study/tetris.md </a>  // <a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/c91357b3a62b5d210f0c16ec0928708fde06a21a/SpaceTravel.md">gallery/SpaceTravel.md</a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/c91357b3a62b5d210f0c16ec0928708fde06a21a/doom1.md"> doom1.md </a> // <a href="https://github.com/DimitrisGrigoropoulosP2016099/extras/blob/c65c7669b35f5472333b9158b1f1e36752d215b7/cs-tetris.md">includes/extras/cs-tetris.md </a> // <a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_slides/videogames.md">slides/videogames.md </a> //<a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_timeline/videogames.md">timeline/videogames.md</a> //<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/SpaceTravel-thump.png"> images/SpaceTravel-thump.png </a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/SpaceTravel.png" > SpaceTravel.png </a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/doom1-thumb.png" > doom1-thumb.png</a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/doom1.png"> doom1.png </a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/romero.jpg">romero.jpg</a> ,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/9b4714b9d4320839e6bc154ce7a912601040d123/tetris.png" >tetris.png </a> και τελος το <a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_config.yml">config</a>.</p>
 
 <h2><a name="vq10" href="#vq10top"> video-quiz-10</a></h2>
 
@@ -219,6 +247,8 @@
 
 
 <h3><a name="te4" href="#te4top">Άσκηση γραμμής εντολών 4: Jenny</a> </h3>
+
+<p>Ακολουθώντας τις οδηγίες δημιούργησα ένα απλό blog με το Jenny εξολοκλήρου από το command line ,γενικά ήταν αρκετά εύκολο, και το εμφάνιζα στο lynx.</p>
 
 <a href="https://asciinema.org/a/414887" target="_blank"><img src="https://asciinema.org/a/414887.svg" /></a>
 
@@ -243,4 +273,6 @@
 
 <p>Για την μετάβαση ο Ken  Thompson χρειάστηκε να ξανά γράψει τα Unix σε μια νέα γλωσσά ανώτερου επίπεδου η οποία ήταν η C , επίσης χρειάστηκε να κατασκευαστεί ένας compiler για την C. Όλα έγιναν σε C γιατί η B η γλωσσά που αρχικά πήγαν να χρησιμοποιήσουν δεν μπορούσε να ανταπεξέλθει.</p>
 
+<h2><a name="telik" href="#teliktop" >Τελική αναφορά:</a></h2>
 
+<p>Κατάφερα να έρθω σε επαφή με νέες τεχνολογίες , ιδέες και τεχνικές που ευελπιστώ ότι θα έχω να την δυνατότητα να αξιοποιήσω στο μέλλον. Μέσω των video quiz κατάφερα έστω και για λίγο να δω πως σκέπτονται μεγάλα μυαλά που επηρέασαν τον κλάδο της πληροφορικής και μέσω των ασκήσεων κατάφερα να εξασκηθώ στην γραμμή εντολών και να δω πραγματικά παραδείγματα ανάπτυξης λογισμικού.</p>
