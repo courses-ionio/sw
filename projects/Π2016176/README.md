@@ -187,6 +187,13 @@
 
   >If you want to run a benchmark where only a single parameter is varied you can use the --parameteter-scan. For decimal numbers you can use the step -d.
 
+- ### Py-Spy Results:
+  ```sh
+  py-spy record -o profile.svg -- python3 tim_sort.py
+  ```
+  ![image](https://user-images.githubusercontent.com/43948039/120119016-15394380-c19e-11eb-89d0-77d4f94f203c.png)
+
+
 - ### asciinema Commands Execution:
 
   [![asciicast](https://asciinema.org/a/404980.svg)](https://asciinema.org/a/404980)
