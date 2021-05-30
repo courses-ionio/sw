@@ -16,7 +16,7 @@
 |**Ninth** |   [Command-line Exercise](#Command-line-Exercise) |
 |**Tenth** |   [Participatory Content](#Participatory-Content)|
 |**Eleventh** | [Command-line Exercise](#Command-line-Exercise) |  
-|**Twelth** | [Final Report](Final-Report) | 
+|**Twelth** | [Final Report](#Summary) | 
 </br>
 
 ### Table of Contents (II) 
@@ -68,6 +68,11 @@ CV was deployed locally with `Jekyll` and hosted online by Github Pages. It has 
 </br>
 
 ![cv-image](https://github.com/mariachlkt/cli/blob/main/cv.png)
+<p>
+  <a href="https://mariachlkt.github.io/resume-sw/" title="Resume">
+    <img src="https://github.com/mariachlkt/cli/blob/main/cv.png" alt="Resume"/>
+  </a>
+</p>
 
 </br>
 
@@ -92,17 +97,18 @@ Evidently, whenever CV information gets modified via `det.yaml` the script creat
 |First Part|
 |:---------:|
 
-Για το πρώτο μέρος του αιτήματος ενσωμάτωσης στην ιστοσελίδα, προσέθεσα το μάθημα "Αναλυτική Δεδομένων Υγείας".  
+For the first task of this assignement (Intergration into the website), I added the subject "Health Analytics". 
 
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
 | **#56** | **#100** | [Course](https://brave-hodgkin-c52527.netlify.app/courses/health-analytics/) | [mariachlkt:healthanalytics](https://github.com/mariachlkt/sitegr/blob/healthanalytics/all_collections/_courses/health-analytics.md) |
 </br>
 
-|First Part|
+|Second Part|
 |:---------:|
-
-Για το δεύτερο αίτημα ενσωμάτωσης, παρέθεσα την πρόταση για την προσθήκη κουμπιού, το οποίο θα πραγματοποιούσε την εναλλαγή της ιστοσελίδας από φωτεινό σε σκοτείνο θέμα. Ωστόσο, η το issue, αν και δέχτηκε πράσινο φως από τον κύριο Πατηνιώτη, ακυρώθηκε από τον κύριο Χωριανόπουλο, λόγω αυξημένης δυσκολίας και περιορισμένου χρόνου. 
+ 
+For the  second task, I opened an issue, which reported my suggestion for an addition in the website. More specifically, I suggested making a toggle button, which allows the user to switch from the light mode to dark mode and vice versa. Originally, my issue was green-lit from Mr. Patiniotis, but was later rejected by Mr. Chorianopoulos due to its difficulty and the time needed to be ready.
+</br>
 
 <h2>Command-line Exercise</h2>
 
