@@ -126,12 +126,12 @@ py-spy record -o merge.svg -- python3 sorting.py -m
 py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
-- Εικόνες (flame graph) με τα αποτελέσματα απο το py-spy
-[quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
+Εικόνες (flame graph) με τα αποτελέσματα απο το py-spy
+- [quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
 
-[merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
+- [merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
 
-[shell_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/shell.svg)
+- [shell_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/shell.svg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
