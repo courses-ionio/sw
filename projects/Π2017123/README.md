@@ -163,6 +163,9 @@ Asciinema Link: https://asciinema.org/a/412887
 3) hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'python3 quicksort.py'  
 
 Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα" (cold) cache.
+py-spy -o profile1.svg -- python3 num_of_loops.py
+![image](https://user-images.githubusercontent.com/44093798/120119802-6a775400-c1a2-11eb-9cd0-453cfe4e858d.png)
+
       
 ##### Ντέμο [asciinema](https://asciinema.org/a/412961)
 
