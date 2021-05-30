@@ -19,12 +19,12 @@
 
 ### 1. Πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-Δημιουργία σελίδας Erasmus
+#### Δημιουργία σελίδας Erasmus
 - Το αρχικό [issue](https://github.com/ioniodi/sitegr/issues/33)
 - Δημιουργία καινούργια σελίδας, εισαγωγή περιεχομένου και προσθήκη αυτής στο navigation.yml
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
 
-Μεταφορά - μετατροπή της σελίδας Erasmus σε ανακοίνωση
+#### Μεταφορά - μετατροπή της σελίδας Erasmus σε ανακοίνωση
 - Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλου καθώς αυτή η προσέγγιση είναι πιο σωστή
 - Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
@@ -57,7 +57,7 @@ git submodules change remote repository ([asciinema link](https://asciinema.org/
 
 ### 1. send notifications to your desktop-mobile
 
-Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
+#### Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
 - Για την εγκατάσταση του ntfy χρησιμοποιήθηκε η εντολή:
 ```
 pip3 install ntfy
@@ -82,7 +82,7 @@ ntfy -b telegram send 'Terminal window opened'
 
 ### 2. performance monitoring
 
-Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy
+#### Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy
 - Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
