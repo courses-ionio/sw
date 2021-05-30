@@ -6,7 +6,7 @@
 |**Week** | **Deliverable** | 
 |:---------:| :--------: | 
 |**First** |[Introduction](#Introduction) |
-|**Second** | [CV](#Curiculum-of-Vitae) |
+|**Second** | [CV](#Resume) |
 |**Third** |  [Integration Into Website](#PR-Site) |
 |**Fourth**|  [Command-line Exercise](#Command-line-Exercise) |
 |**Fifth** |  [Participatory Content](#Participatory-Content) |
@@ -58,7 +58,7 @@
 My aim for this course is to break down the continuous process of software development into discrete stages. Such a procedure involves making the appropriate decisions about the   software design strategy that will accompany the software architecture. Those decisions can determine the software requirements that can be implemented by the use of many programming languages and tools such as version control, development environments and software automation, all of which are an integral part of the software engineering principles and common practices.
 </br> 
 
-<h2>Curiculum of Vitae</h2>
+<h2>Resume</h2>
 
 |First Part|
 |:---------:|
@@ -403,7 +403,15 @@ In an attempt to fix this issue, I tried to start fresh by forking all the repos
 
 Prior to forking the repositories all over again, I created copies of them in order to preserve the commit history for the purpose of meeting deadlines. **Original commits can be viewed at these duplicate repositories:**<br>
 (1) [site-history](https://github.com/mariachlkt/site-history), (2) [gallery-history](https://github.com/mariachlkt/_gallery-history) & (3) [images-history](https://github.com/mariachlkt/images-history)
+
 </br>
+|Sources|
+|:-----:|
+    - http://toastytech.com/guis/irix.html
+    - http://toastytech.com/guis/vision.html
+    - https://www.britannica.com/biography/Richard-Stallman
+    - https://www.gnome.org/
+
 
 <h2>Summary</h2>
 Throughout the time spent in this course, we were introduced to many useful and established technologies used in Software Engineering.
