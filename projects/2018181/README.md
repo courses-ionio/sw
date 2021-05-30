@@ -67,7 +67,6 @@ A simple [CV](https://mariachlkt.github.io/resume-sw/) hosted online by `Github 
 CV was deployed locally with `Jekyll` and hosted online by Github Pages. It has received many updates over the course of time and the initial folder structure and setup was recorded live on [Asciinema](https://asciinema.org/a/397011).
 </br>
 
-![cv-image](https://github.com/mariachlkt/cli/blob/main/cv.png)
 <p>
   <a href="https://mariachlkt.github.io/resume-sw/" title="Resume">
     <img src="https://github.com/mariachlkt/cli/blob/main/cv.png" alt="Resume"/>
@@ -146,6 +145,7 @@ else
 	notify-send "The are no updates!" "Your system is up-to-date"
 fi
 ```
+
 *Desktop Notification via Notify*
 
 </br> 
@@ -155,7 +155,9 @@ fi
     <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.jpg" alt="Mobile Notification"/>
   </a>
 </p>
+
 *Mobile Notification via Pushover*
+
 </br>
 
 <p>
@@ -163,6 +165,7 @@ fi
     <img src="https://github.com/mariachlkt/cli/blob/main/mobile-notification.gif" alt="Mobile Notification-GIF"/>
   </a>
 </p>
+
 *Mobile Notification via Pushover*
 
 </br>
@@ -200,6 +203,7 @@ call = client.calls.create(
 print(call.sid)
 print('This is a call via Twilio Application')
 ```
+
 *Making Calls via Twilio*
 
 ```
@@ -221,6 +225,7 @@ message = client.messages.create(
 
 print('This is a message via Twilio Application')
 ```
+
 *Sending Messages via Twilio*
 
 
@@ -251,7 +256,8 @@ password = "".join(random.sample(characters, password_length))
 # Print the generated password
 print("Gernerated password: %s" %password)
 ```
-*Random Password Generator*   
+
+*Random Password Generator*
 
 </br>
 
@@ -260,6 +266,7 @@ print("Gernerated password: %s" %password)
     <img src="https://github.com/mariachlkt/cli/blob/main/password-generator.gif" alt="Password Generator-GIF"/>
   </a>
 </p>
+
 *Script's performance by CProfile (password generator)*
    
 </br>
@@ -279,9 +286,16 @@ if __name__ == '__main__':
     print_machine_info()
     
 ```
+
 *Prints the hostname and IP address* 
 
 </br>
+
+|Sources|
+|:-----:|
+    - https://github.com/joerick/pyinstrument
+    - https://docs.csc.fi/computing/cProfile/
+    
 
 |Fourth Assignemt|
 |:---------:|
