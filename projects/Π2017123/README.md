@@ -1,26 +1,27 @@
 # Τεχνολογία Λογισμικού
 
-#### Όνομα Φοιτητή: Αλέξανδρος-Γεώργιος Λουκάς
-#### Αμ Φοιτητή: Π2017123
-#####  Καθηγητής: Κωνσταντίνος Χωριανόπουλος
+### Όνομα Φοιτητή: Αλέξανδρος-Γεώργιος Λουκάς
+### ΑΜ Φοιτητή: Π2017123
+####  Καθηγητής: Κωνσταντίνος Χωριανόπουλος
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | βιογραφικό |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 4 | Άσκηση γραμμής εντολών |
-| 5 | Συμμετοχικό περιεχόμενο |
-| 6 | Άσκηση γραμμής εντολών |
-| 7 | βιογραφικό |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |
-| 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | Άσκηση γραμμής εντολών |
-| 12 | Τελική αναφορά* |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα*](#1η-εβδομάδα) |
+| 2 | [βιογραφικό](#2η-εβδομάδα) |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3η-εβδομάδα) |
+| 4 | [Άσκηση γραμμής εντολών](#4η-εβδομάδα) |
+| 5 | [Συμμετοχικό περιεχόμενο](#5η-εβδομάδα) |
+| 6 | [Άσκηση γραμμής εντολών](#6η-εβδομάδα) |
+| 7 | [βιογραφικό](#7η-εβδομάδα) |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8η-εβδομάδα) |
+| 9 | [Άσκηση γραμμής εντολών](#9η-εβδομάδα) |
+| 10 | [συμμετοχικό περιεχόμενο](#10η-εβδομάδα) |
+| 11 | [Άσκηση γραμμής εντολών](#11η-εβδομάδα) |
+| 12 | [Τελική αναφορά*](#12η-εβδομάδα) |
 
-link αποθετηρίου μου μετά από Fork: https://github.com/Axel12321/sw
+link [αποθετηρίου μου](https://github.com/Axel12321/sw).
 
+### 1η Εβδομάδα
 ### 1ο Παραδοτέο 22/2/2021:
 # Απαντήσεις στις ερωτήσεις του πρώτου βίντεο
 1η ερώτηση: Ποια είναι σύμφωνα με τον Αλαν Κεη η μεγαλύτερη παγίδα σε ένα μάθημα υπολογιστών και ποια είναι κατά την γνώμη σας η αντίστοιχη της ΙΒΜ τεχνολογία λογισμικού στις μέρες μας;
@@ -45,7 +46,13 @@ class structures και ήταν πιο δυνατό εργαλείο απο τ�
 αρχιτεκτονικής λύνεται δημιουργώντας κάτι το οποίο δεν αποτελείται από μια μονάδα στην οποία τα φορτώνεις όλα εκεί.
 Αντίθετα θες να φτιάξει κάτι που λειτουργεί και έπειτα να το βελτιώνει
 
+### Μαθησιακοί Στόχοι
+Κατά τη διάρκεια του μαθήματος "Τεχνολογία Λογιμικού" επιθυμώ να μελετήσω τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού. Για κάθε μία από αυτές να μελετήσω μία τουλάχιστον σχετική μεθοδολογία και γνωρίσω παραδείγματα εργαλείων υπολογιστή που την υποστηρίζουν. Μέσα από διαφόρων ειδών ασκήσεις να αποκτήσω τις απαραίτητες γνώσεις στην επίλυση πρακτικών προβλημάτων Τεχνολογίας Λογισμικού αλλά και όχι μόνο. Επίσης η πλήρης κατανόηση της λειτουργίας του Github/git είναι κάτι που μόνο θετικά μπορεί να προσφέρει στην επαγγελματική μου σταδιοδρομία.
+
+### 2η Εβδομάδα
+### 7η Εβδομάδα
 ### 2ο Παραδοτέο 28/2/2021:
+### ΒΙΟΓΡΑΦΙΚΟ
 #### link για το online-cv μου: https://axel12321.github.io/cv-1/
 
 #### link για το asciinema video: https://asciinema.org/a/395321 
@@ -55,48 +62,76 @@ class structures και ήταν πιο δυνατό εργαλείο απο τ�
 Όλα τα commits έγιναν με την χρήση του git από command line. Στο βίντεο έχω καταγράψει μόνο το τελικό add/commit/push καθώς έκανα πολλές αλλαγές μέχρι την τελική μορφή και δεν τις κατέγραψα. Η δημιουργία του αρχείου pdf αρχείου έγινε και αυτή από το command line με την εντολή pandoc https://axel12321.github.io/cv-1/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex αφού πρώτα έκανα install το latex και το pandoc με τις εντολές : sudo apt-get install texlive-xetex   sudo apt install lyx    sudo apt-get install pandoc.
 Η κατασκευή της ιστοσελίδας έγινε με την χρήση του template: https://github.com/sharu725/online-cv . Πέρα από την συμλήρωση των στοιχείων μου πραγματοποιήθηκαν αλλαγές σε μερικά css αρχεία για την αλλαγή των χρωμάτων και των font size.
 
-### 3o Παραδοτέο 07/03/2021:
-#### link για το netlify: https://hopeful-kirch-fdd868.netlify.app/
-Η αλλαγή αφορά την προσθήκη μιας ανακοίνωσης 
-link για το issue: https://github.com/ioniodi/sitegr/pull/135
 
-### 4o Παραδοτέο 14/03/2021
-#### asciinema link: https://asciinema.org/a/399104
-Εντολές που χρησιμοποιήθηκαν: Με την εντολή ntfy send "message" έρχεται μία ειδοποίηση με το μήνυμα message,  Ntfy -t Title προσθέτεις τίτλο στην ειδοποίηση , ntfy -b telegram send "message" έστειλε ένα μήνυμα "message" σε ένα bot που έφτιαξα στο telegram  και μου ήρθε  link για το bot: https://telegram.me/alexandrosLoukas_bot. Έπειτα φτιάχνω ένα αρχείο με όνομα test. Το περιχόμενό του εκτελέι την εντολή sudo apt-get install temux και δημιουργεί μία ειδοποίηση αφού εκτελεστεί. Τέλος εκτελώ speedtest-cli --simple | while read st_info; do ntfy send  "$st_info"; done.
+![image](https://user-images.githubusercontent.com/44093798/120099747-e1323400-c145-11eb-8528-c8f19e6e62da.png)
+
+### 3η Εβδομάδα
+### 3o Παραδοτέο Αίτημα ενσωμάτωσης στην ιστοσελίδα  07/03/2021:
+link για το [netlify](https://hopeful-kirch-fdd868.netlify.app/).
+
+Η αλλαγή αφορά την προσθήκη μιας ανακοίνωσης 
+link για το [issue](https://github.com/ioniodi/sitegr/pull/135).
+
+Οι αλλαγές έγιναν σε ξεχωριστό branch(demo-branch) σε αυτό το παραδοτέο.
+
+link για το [repo](https://github.com/Axel12321/sitegr/tree/demo-branch)
+
+Προσθήκη Ανακοίνωσης.
+![image](https://user-images.githubusercontent.com/44093798/120100029-3cb0f180-c147-11eb-8cc0-93d6c45e0614.png)
+
+### 4η Εβδομάδα
+### 4o Παραδοτέο 1η Άσκηση Γραμμής Εντολών 14/03/2021
+asciinema [link](https://asciinema.org/a/399104)
+
+Εντολές που χρησιμοποιήθηκαν: Με την εντολή ntfy send "message" έρχεται μία ειδοποίηση με το μήνυμα message,  Ntfy -t Title προσθέτεις τίτλο στην ειδοποίηση , ntfy -b telegram send "message" έστειλε ένα μήνυμα "message" σε ένα bot που έφτιαξα στο telegram  και μου ήρθε  link για το [bot](https://telegram.me/alexandrosLoukas_bot). Έπειτα φτιάχνω ένα αρχείο με όνομα test. Το περιχόμενό του εκτελέι την εντολή sudo apt-get install temux και δημιουργεί μία ειδοποίηση αφού εκτελεστεί. Τέλος εκτελώ speedtest-cli --simple | while read st_info; do ntfy send  "$st_info"; done.
+
+#### Η διαδικασία φένεται και από το παρακάτω GIF.
 ![LinuxGif](https://user-images.githubusercontent.com/44093798/111082776-accdb500-8512-11eb-965f-497119b5762b.gif)
 
+### 5η Εβδομάδα
+### 5ο Παραδοτέο Συμμετοχικό περιεχόμενο A1,A2 28/03/2021
 
-#### 5ο Παραδοτέο 28/03/2021
 Στο συγκεκριμένο παραδοτέο τροποποίησα το βιβλίο προσθέτωντας 2 εικόνες , βάζοντας αυτές τις εικόνες σε 2 διαφάνειες και σε ένα κοινό χρονολόγιο.
 Αφού έκανα fork το αποθετήριο του βιβλίου αλλά και τα αποθετήρια από τα submodules τα οποία συνδέονται με αυτό , πρόσθεσα 2 .md αρχεία στο forked _gallery, 2 εικόνες στο forked images , διέγραψα αυτά τα submodules από το δικό μου αποθετήριο 
 και πρόσθεσα 2 νέα submodules που δείχνουν στα 2 νέα forked αποθετήρια.Όλες οι αλλαγές πέρα από την προσθήκη εικόνων έγιναν με τη χρήση git. Τέλος έκανα deploy το αποθετήριο με το netlify.
-#### link βιβλιου: https://axel12321.netlify.app/
-#### link πρώτης εικόνας: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git2.png
-#### link δεύτερης εικόνας: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell.jpg
-#### link thumb1: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git-thumb.png
-#### link thumb2: https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell-thumb.jpg
-#### link timeline: https://github.com/Axel12321/site/blob/master/_timeline/collaboration.md
-#### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/git.md
-#### link gallery: https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/linuxShell.md
 
-#### 6ο Παραδοτέο 04/04/2021
-##### Άσκηση Γραμμής Εντολών: create notifications on your sever
+#### link [βιβλιου](https://axel12321.netlify.app/)
+#### link [πρώτης εικόνας](https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git2.png)
+#### link [δεύτερης εικόνας](https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell.jpg)
+#### link [thumb1](https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/git-thumb.png)
+#### link [thumb2](https://github.com/Axel12321/images/blob/c985d663d59ffe246e0dd9f704f102edd00a749b/shell-thumb.jpg)
+#### link [timeline](https://github.com/Axel12321/site/blob/master/_timeline/collaboration.md)
+#### link [gallery](https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/git.md)
+#### link [gallery](https://github.com/Axel12321/_gallery/blob/eba65dd0d1ee6805106bc2ce5ab1fd7061a3fa55/linuxShell.md)
+
+#### Τα παρακάτω είναι screenshots από τα αποτελέσματα.
+![image](https://user-images.githubusercontent.com/44093798/120100278-a1b91700-c148-11eb-9ab6-0225fbb3bdaf.png)
+![image](https://user-images.githubusercontent.com/44093798/120100289-b3022380-c148-11eb-9a13-5edc099259ec.png)
+![image](https://user-images.githubusercontent.com/44093798/120100301-c31a0300-c148-11eb-876f-76ad34db4b21.png)
+![image](https://user-images.githubusercontent.com/44093798/120100305-c8774d80-c148-11eb-8d71-a0bcc84b254f.png)
+
+### 6η Εβδομάδα
+### 6ο Παραδοτέο 2η Άσκηση Γραμμής Εντολών 04/04/2021
+#### create notifications on your sever
 Σε αυτό το παραδοτέο με την χρήση του προγράμματος mqttwarn στέλνω ένα notification στο telegram chat.
 Στο asciinema video δείχνω τα περιεχόμενα του mqttwarn.ini φακέλου που έφτιαξα για να συνδεθεί με το telegram bot.
 
 Σε ένα άλλο terminal εκτελώ την εντολή mosquitto_pub -t test/1 -m "message" για να στείλω το notification στο MQTT. Έπειτα το πρόγραμμα αφού είναι συνδεδεμένο με συγκεκριμένα plugins μεταφέρει το notification στο plugin που του έχω υποδείξει στο .ini αρχείο.
-###### asciinema link: https://asciinema.org/a/0u4vFDkAsj8215bfJK8NWKH4D
+ asciinema [link](https://asciinema.org/a/0u4vFDkAsj8215bfJK8NWKH4D)
+ 
+ Η λειτουργικότητα φένεται και από το παρακάτων GIF με τη ταυτόχρονη χρήση 2 terminal.
+ 
 ![Gif](/LinuxGif2.gif)
 
+### 9η Εβδομάδα
+### 7ο Παραδοτέο 3η Άσκηση Γραμμής Εντολών 09/05/2021
+#### create an agent for news
 
-#### 7ο Παραδοτέο 09/05/2021
-##### 3η Άσκηση Γραμμής Εντολών: create an agent for news
+Η συγκεκριμένη άσκηση υλοποιήθηκε με την χρήση του [Huginn](https://github.com/huginn/huginn).
 
-Στη συγκεικριμένη άσκηση υλοποιήθηκε με την χρήση του Huginn.
+Προκειμένου να κάνω set-up το Huginn ακολούθησα όλες τις σχετικές βοηθητικές [οδηγίες](https://gist.github.com/mjhea0/b6b58eefc38985380ff9) που παρέχει και από αυτό το [βίντεο]( https://www.youtube.com/watch?v=xJTwaRl2_Iw) .
 
-Προκειμένου να κάνω set-up το Huginn ακολούθησα όλες τις σχετικές βοηθητικές  οδηγίες που παρέχει: https://gist.github.com/mjhea0/b6b58eefc38985380ff9 και από αυτό το βίντεο: https://www.youtube.com/watch?v=xJTwaRl2_Iw .
-
-Αφού λοιπόν έκανα τα απαραίτητα install και επιλύοντας άπειρα errors με την εντολή "foreman start" το Huginn  Host-αρετε στο localHost.
+Αφού λοιπόν έκανα τα απαραίτητα install και επιλύοντας άπειρα errors, με την εντολή "foreman start" το Huginn  Host-αρετε στο localHost.
 
 Στο παρακάτω βίντεο asciinema δείχνω ένα ντεμο στο οποίο έχοντας φτιάξει 2 WebsiteAgents κάνουν fetch τους τίτλους των ειδήσεων στο πρώτο site και τα links για τις ειδήσεις στο δεύτερο.
 
@@ -104,7 +139,7 @@ link για το issue: https://github.com/ioniodi/sitegr/pull/135
 
 Ο χρήστης καταλαβαίνει πότε ο Agent κάνει fetch καινούργιο content από τις ιστοσελίδες όταν αυξάνεται ο αριθμός των events στο Huginn όπως φένεται στο πρώτο σκρινσοτ. Κάθε φορά δηλαδή που η ιστοτελίδα προσθέσει έναν καινούργιο τίτλο ή είδηση με την αύξηση του αριθμού των events μπορεί κανείς να καταλάβει ότι έγιναν αλλαγές στο συγκεκριμένο κομμάτι της ιστοσελίδας που έχεις ρυθμίσει τον Agent να παρακολουθεί. 
 
-Στην τρίτη εικόνα φένονται όλα τα διαφορετικά events που έκανε fetch ο  Agent.
+Στην τρίτη εικόνα φένονται όλα τα διαφορετικά events που έκανε fetch ο Agent.
 
 Στην δεύτερη εικόνα δείχνω το setup του πρώτου Agent καθώς ο δεύτερος έχει ρυθμιστεί με παρόμοιο τρόπο προσαρμοσμένος στον css κώδικα της συγκεκριμένης ιστοσελίδας.
 
@@ -113,10 +148,11 @@ Asciinema Link: https://asciinema.org/a/412887
 ![image](https://user-images.githubusercontent.com/44093798/117571625-0946ee00-b0d8-11eb-9d0b-9c02d5cef840.png)
 ![image](https://user-images.githubusercontent.com/44093798/117571638-1a8ffa80-b0d8-11eb-9c66-be071cd1c1fe.png)
 
-#### 8ο Παραδοτέο 09/05/2021
-##### 4η Άσκηση Γραμμής Εντολών: monitor the performance of your python scripts and visualize them with colors and/or spark lines
+### 11η Εβδομάδα
+### 8ο Παραδοτέο 4η Άσκηση Γραμμής Εντολών 09/05/2021
+#### monitor the performance of your python scripts and visualize them with colors and/or spark lines
 
-Σε αυτό το παραδοτέο για να παρακολουθήσω την λειτουργία των python-scripts χρησιμοποίησα τα προγράμματα py-spy && hyperfine.
+Σε αυτό το παραδοτέο για να παρακολουθήσω την λειτουργία των python-scripts χρησιμοποίησα τα προγράμματα [py-spy](https://github.com/benfred/py-spy) && [hyperfine](https://github.com/sharkdp/hyperfine).
 
 Με την εντολή "py-spy top" βλέπουμε ποια συνάρτηση του προγράμματος χρησιμοποιήθηκε περισσότερο χρόνο κατα την διάρκεια της εκτέλεσης.
 
@@ -126,7 +162,33 @@ Asciinema Link: https://asciinema.org/a/412887
 2)sync; echo 3 | sudo tee /proc/sys/vm/drop_caches      
 3) hyperfine --prepare 'sync; echo 3 | sudo tee /proc/sys/vm/drop_caches' 'python3 quicksort.py'  
 
-Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα"(cold) cache.
+Η πρώτη κάνει warmup τις κρυφές μνήμες. Η δεύτερη κάνει cleanup τις harddisk caches του linux. Η τρίτη εκτελεί το benchmark  σε "κρύα" (cold) cache.
       
-##### Ντέμο asciinema: https://asciinema.org/a/412961
+##### Ντέμο [asciinema](https://asciinema.org/a/412961)
+
+### 10η εβδομάδα
+### 9ο Παραδοτέο Συμμετοχικό Περιεχόμενο
+
+link για το [site](https://axel12321.netlify.app/)
+link για τα δικά μου repo [images](https://github.com/Axel12321/images) , [site](https://github.com/Axel12321/site).
+
+Σε αυτό το παραδοτέο με τη χρήση των Submodules πρόσθεσα το δικό μου repo των [extras](https://github.com/Axel12321/extras) στο οποίο πρόσθεσα μία βιογραφία για τον Linus Torvalds.
+![image](https://user-images.githubusercontent.com/44093798/120100862-b6e37500-c14b-11eb-9620-6dcc7b7e2a67.png)
+
+Επίσης πρόσθεσα ένα case-study για το κέλυφος του Unix.
+![image](https://user-images.githubusercontent.com/44093798/120100903-e85c4080-c14b-11eb-8b69-60b79509a7a0.png)
+
+### Bonus Άσκηση
+
+### 12η Εβδομάδα
+### 10o Παραδοτέο Τελική Αναφορά
+#### Σκέψεις για το εξάμηνο και το μάθημα.
+
+Τελειώνοντας αυτό το εξάμηνο αισθάνομαι αρκετά ικανοποιημένος με τις γνώσεις που απόκτησα κατα τη διάρκειά του από το συγκεκριμένο μάθημα.
+Έμαθα να χειρίζομαι πλήρως το Github/git το οποίο θα είναι σίγουρα σημαντικό εργαλείο για την μετέπειτα επαγγελματική μου σταδιοδρομία στον χώρο της πληροφορικής.
+Οι ασκήσεις γραμμής εντολών με έκαναν να εξικοιωθώ με τα Unix περιβάλλοντα καθώς προκειμένου να ολοκληρώσω τις ασκήσεις έλυσα αμέτρητα errors.
+Μέσα από το μάθημα γνώρισα διάφορα εργαλεία και τεχνικές που δεν πίστευα πως υπάρχουν( jekyll, huginn) και τα οποία όπως αποδείχθηκε είναι αρκετά χρήσιμα.
+Ο τρόπος διεξαγωγής του μαθήματος με τα εβδομαδιαία παραδοτέα θεωρώ πως είναι αρκετά επιτυχημένος και προσοδοφόρος προς τους μαθητές καθώς οργανώνει τους μαθητές και η γνώση είναι συνεχής.
+
+
 
