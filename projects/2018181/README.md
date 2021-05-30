@@ -96,7 +96,7 @@ Evidently, whenever CV information gets modified via `det.yaml` the script creat
 |First Part|
 |:---------:|
 
-For the first task of this assignement (Intergration into the website), I added the subject "Health Analytics". 
+For the first task of this assignment, I added the subject "Health Analytics". 
 
 |**Issue** | **Pull-Request** | **Demo** | **Branch** |
 |:---------:| :--------: |  :--------: |  :--------: | 
