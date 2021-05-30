@@ -121,6 +121,16 @@
 Για την δεύτερη άσκηση συμμετοχικού περιεχομένου προσέθεσα στην σελίδα του βιβλίου το [βιογραφικό της Joanna Rutkowska](https://github.com/p15xiar/site/blob/2015048/_biography/Joanna-Rutkowska.md) η οποία είναι η προγραμματίστρια που ανέπτυξε το Qubes OS το λογισμικό με το οποίο ασχολήθηκα στο πρώτο μέρος του συμμετοχικού περιεχομένου. Επίσης για την [μελέτη περίπτωσης](https://github.com/p15xiar/site/blob/2015048/_case-study/Qubes-OS.md) ασχολήθηκα με το Qubes OS με το οποίο είχα ασχολήθεί και στο πρώτο μέρος του συμμετοχικού περιεχομένου.
 
 [bio deploy link](https://p15xiar-pibook.netlify.app/biography/joanna-rutkowska/)
-[case study deploy link]()
+[case study deploy link](https://p15xiar-pibook.netlify.app/case-study/qubes-os/)
 
 # Άσκηση Γραμμής Εντολών 4
+Ως τελευταία άσκηση γραμμής εντολών επλέλεξα να ασχοληθώ με το ntfy. Αρχικά μελέτησα το documentation και στην συνέχεια έτρεξα μία εντολή ώστε να δοκιμάσω εάν το πρόγραμμα λειτουργεί σωστά (όπως φαίνεται και στην πρώτη εικόνα). Ύστερα χρησιμοποίησα το πρόγραμμα ώστε να στείλει μία ειδοποίηση στο κινητό μου μέσω της εφαρμογής Pushover μετά την εκτέλεση μίας εντολής όπως φαίνεται στην δεύτερη φωτογραφία.
+
+[asciinema link](https://asciinema.org/a/417215)
+
+
+![ubuntuscreenshot](https://i.imgur.com/JvDLF2D.png)
+
+
+![mobilescreenshot](https://i.imgur.com/R6TfJf4.jpg)
+
