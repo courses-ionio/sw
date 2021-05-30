@@ -92,7 +92,7 @@ sudo dpkg -i hyperfine_1.11.0_amd64.deb
 ```
 sudo pip3 install py-spy
 ```
-Επίσης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμης το οποίο βρήσκετε [εδώ](hhttps://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py)
+Επίσης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμης το οποίο βρήσκετε [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py)
 
 
 Για την σύγκριση των αλγορίθμων ταξηνόμισης χρησιμοποιήθηκε το hyperfine
