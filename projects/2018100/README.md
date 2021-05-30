@@ -82,7 +82,7 @@ ntfy -b telegram send 'Terminal window opened'
 
 ### 2. performance monitoring
 
-Για την ηλοποίηση της άσκησης χρησιμοποιήθηκαν τα εργαλεία hyperfine και py-spy
+Για την ηλοποίηση της άσκησης χρησιμοποιήθηκαν ένα πρόγραμμα με 3 αλγορίθμους ταξινόμης το οποίο βρήσκετε [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py), το εργαλείο hyperfine και py-spy
 - Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
