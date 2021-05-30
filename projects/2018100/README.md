@@ -93,7 +93,7 @@ sudo dpkg -i hyperfine_1.11.0_amd64.deb
 sudo pip3 install py-spy
 ```
 
-Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
+#### Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
 - Για την μέτρηση της απόδοσης ενός αλγορίθμου χρησιμοποιήθηκε η εντολή
 ```
 hyperfine 'python3 sorting.py -q'
@@ -116,7 +116,7 @@ hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -
 
 - [asciinema link](https://asciinema.org/a/jxD2W0mTO5t3GJJAZsMbSutJH)
 
-Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
+#### Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
 - Για την καταγραφή και την μετατροπή των δεδομένων σε flame graph χρησιμοποιήθηκαν οι εντολές
 ```
 py-spy record -o quick.svg -- python3 sorting.py -q
@@ -124,7 +124,7 @@ py-spy record -o merge.svg -- python3 sorting.py -m
 py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
-Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
+#### Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
 - [quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
 
 - [merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
