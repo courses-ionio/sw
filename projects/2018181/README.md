@@ -716,7 +716,7 @@ Issues that have occurred are covered in detail in each respective section of th
 <details>
   <summary>Αν ο προγραμματισμός δεν είναι η βασική δραστηριότητα της τεχνολογίας λογισμικού, ποια είναι κάποια καλά παραδείγματα;</summary>
 </br>
--
+--
 </details>
 </br>
 <details>
@@ -734,17 +734,18 @@ Issues that have occurred are covered in detail in each respective section of th
 <details>
   <summary>Ποιος είναι καλύτερος τρόπος για να έχουμε μικρά και εκφραστικά προγράμματα;</summary>
 </br>
--
+--
 </details>
 </br>
 
 |**Alan Kay-Future Software Development**|
 | :--------: | 
 </br>
+
 <details>
   <summary>Πως διαφέρουν οι προδιαγραφές στο σύστημα που δείχνει από τα σύγχρονα λειτουργικά και εφαρμογές;
-   </br>
- -
+</br>
+ --
 </summary>
 </details>
 </br>
