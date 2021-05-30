@@ -242,5 +242,76 @@
 
 # 
 
+# Άσκηση γραμμής Εντολών 4:
+  - ### Initialization:
+    ```sh
+    mqttwarn make-config > mqttwarn.ini
+    mqttwarn make-samplefuncs > samplefuncs.py
+    ```
+    >Δημιουργία απαραίτητων αρχείων
+    
+  - ### Edit ini file:
+    ```sh
+    [defaults]
+    hostname = 'localhost'
+    port = 1883
+
+    skipretained = True
+    cleansession = True
+    launch = telegram
+    protocol = 3
+
+    [config:telegram]
+    timeout = 60
+    parse_mode = 'Markdown'
+    token = '1848791128:AAHoGIBsrrVwDrWw_L9WJ7_ZICutSWv0LFM'
+    use_chat_id = True
+    targets = {
+      'j01' : [ '1577603920' ]
+    }
+
+    [test/+]
+    targets = telegram:j01
+    ```
+    > Σύνδεση με το telegram bot
+    
+  - ### Python Script
+    ```sh
+    import os
+    import time
+    
+    #Send message to telegram
+    def sendmessage(msg):
+      cmd = 'mosquitto_pub -t test/1 -m '
+      command = cmd + '"' + msg + '"'
+      os.system(command)
+
+    #Detect If there are changes in the selected file
+    def detectchange(file):
+      s_time = os.path.getmtime(file)
+      while True:
+        c_time = os.path.getmtime(file)
+        if(c_time != s_time):
+            print("File has changed")
+            sendmessage('file: ' + file + ' has changed')
+            s_time = c_time
+        time.sleep(5)
+
+    #Main
+    detectchange('file.txt')
+    ```
+    > Δημιουργία Python Script που αναγνωρίζει αλλαγές σε ένα αρχείο και στέλνει μήνυμα όταν γίνουν αυτές οι αλλαγές.
+    
+  - ### Καταγγεγραμένη διαδικασία
+
+    <img src="https://github.com/p16koub1/mqttwarn/blob/main/mqttsendntf.gif" alt="drawing" width="800"/>
+
+    
+  - ### Αποθετήριο
+    
+    [mqttwarn repo](https://github.com/p16koub1/mqttwarn)
+    
+#
+
 # Συμπεράσματα
   > Με τη συμετοχή μου στο μάθημα και ακολουθόντας το πρόγραμμα εργασιών του μαθήματος πιστεύω πως πέτυχα μερικούς απο τους προσωπικούς στόχους που είχα θέσει στα πλαίσια του μαθήματος. Εξοικειώθηκα με το λειτουργικό σύστημα των linux και με μερικές εντολές του terminal. Κατανόησα σε μεγάλο βαθμό τις λειτουργίες του Github, όπως και πως μπορώ να ανανεώνω το repository μου μέσω του git. Μέσω τον προγραμματιστικών εργασιών είδα και μελέτησα αρκετές εφαρμογές και API's. Μέσω των ασκήσεων του βιογραφικού εφάρμοσα μερικές γνώσεις που είχα σε HTML/CSS και έμαθα την χρήση του jeckyll, όπου φαίνεται ένα αρκετά χρήσιμο εργαλείο. Συνολικά τα πράγματα που έμαθα στα πλαίσια του μαθήματος ήταν αρκετά βοηθητικά. Επίσης η εμπειρία που απέκτησα μέσω των εργασιών συμετοχικού υλικού/αιτημάτων ενσωμάτωσης με βοηθήσε αρκετά στο να κατανοήσω τον τρόπο με τον οποίο λειτουργούν μεγάλα project στο github.
