@@ -19,12 +19,12 @@
 
 ### 1. Πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-#### Δημιουργία σελίδας Erasmus
+Δημιουργία σελίδας Erasmus
 - Το αρχικό [issue](https://github.com/ioniodi/sitegr/issues/33)
 - Δημιουργία καινούργια σελίδας, εισαγωγή περιεχομένου και προσθήκη αυτής στο navigation.yml
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
 
-#### Μεταφορά - μετατροπή της σελίδας Erasmus σε ανακοίνωση
+Μεταφορά - μετατροπή της σελίδας Erasmus σε ανακοίνωση
 - Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλου καθώς αυτή η προσέγγιση είναι πιο σωστή
 - Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
@@ -57,7 +57,7 @@ git submodules change remote repository ([asciinema link](https://asciinema.org/
 
 ### 1. send notifications to your desktop-mobile
 
-#### Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
+Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
 - Για την εγκατάσταση του ntfy χρησιμοποιήθηκε η εντολή:
 ```
 pip3 install ntfy
@@ -82,7 +82,7 @@ ntfy -b telegram send 'Terminal window opened'
 
 ### 2. performance monitoring
 
-#### Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy
+Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy
 - Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
@@ -93,7 +93,7 @@ sudo dpkg -i hyperfine_1.11.0_amd64.deb
 sudo pip3 install py-spy
 ```
 
-#### Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
+Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
 - Για την μέτρηση της απόδοσης ενός αλγορίθμου χρησιμοποιήθηκε η εντολή
 ```
 hyperfine 'python3 sorting.py -q'
@@ -116,7 +116,7 @@ hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -
 
 - [asciinema link](https://asciinema.org/a/jxD2W0mTO5t3GJJAZsMbSutJH)
 
-#### Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
+Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
 - Για την καταγραφή και την μετατροπή των δεδομένων σε flame graph χρησιμοποιήθηκαν οι εντολές
 ```
 py-spy record -o quick.svg -- python3 sorting.py -q
@@ -124,7 +124,7 @@ py-spy record -o merge.svg -- python3 sorting.py -m
 py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
-#### Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
+Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
 - [quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
 
 - [merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
