@@ -109,6 +109,7 @@ hyperfine -w 10 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting
 hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting.py -s'
 ```
 - Παρακάτω μπορείτε να δείτε και το περιεχόμενο του results αρχείου
+
 | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
 |:---|---:|---:|---:|---:|
 | `python3 main.py -q` | 174.1 ± 7.3 | 165.9 | 188.2 | 1.02 ± 0.05 |
@@ -126,11 +127,11 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
 - Εικόνες (flame graph) με τα αποτελέσματα απο το py-spy
-![quick_sort](./quick.svg)
+[quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
 
-![merge_sort](./merge.svg)
+[merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
 
-![shell_sort](./shell.svg)
+[shell_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/shell.svg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
