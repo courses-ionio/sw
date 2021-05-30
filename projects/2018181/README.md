@@ -106,7 +106,8 @@ For the first task of this assignement (Intergration into the website), I added 
 |Second Part|
 |:---------:|
  
-For the  second task, I opened an issue, which reported my suggestion for an addition in the website. More specifically, I suggested making a toggle button, which allows the user to switch from the light mode to dark mode and vice versa. Originally, my issue was green-lit from Mr. Patiniotis, but was later rejected by Mr. Chorianopoulos due to its difficulty and the time needed to be ready.
+For the second task, I opened an issue with my suggestion for an addition to the website.
+My proposal included implementing dark theme functionality across the website. While this case got initially approved by my supervisors, it was later cut short because the nature of implementing dark theme functionality is not standardized as far as Web Standards are concerned and a lot of custom styling should be involved to get it done correctly.
 </br>
 
 <h2>Command-line Exercise</h2>
