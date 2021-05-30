@@ -82,6 +82,58 @@ ntfy -b telegram send 'Terminal window opened'
 
 ### 2. performance monitoring
 
+Για την ηλοποίηση της άσκησης χρησιμοποιήθηκαν τα εργαλεία hyperfine και py-spy
+- Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
+```
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
+sudo dpkg -i hyperfine_1.11.0_amd64.deb
+```
+- Για την εγκατάσταση του py-spy χρησιμοποιήθηκε η εντολή
+```
+sudo pip3 install py-spy
+```
+Επίσης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμης το οποίο βρήσκετε [εδώ](hhttps://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py)
+
+
+Για την σύγκριση των αλγορίθμων ταξηνόμισης χρησιμοποιήθηκε το hyperfine
+- Για την μέτρηση της απόδοσης ενως αρχείου χρησιμοποιείθηκε η εντολή
+```
+hyperfine 'python3 sorting.py -q'
+```
+- Για την σύγκριση πολλών αρχείων χρησιμοποιείται η εντολή
+```
+hyperfine -w 10 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting.py -s'
+```
+- Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή
+```
+hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting.py -s'
+```
+- Παρακάτω μπορείτε να δείτε και το περιεχόμενο του results αρχείου
+| Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
+|:---|---:|---:|---:|---:|
+| `python3 main.py -q` | 174.1 ± 7.3 | 165.9 | 188.2 | 1.02 ± 0.05 |
+| `python3 main.py -m` | 175.5 ± 8.3 | 167.0 | 195.5 | 1.03 ± 0.05 |
+| `python3 main.py -s` | 170.4 ± 4.0 | 166.0 | 182.2 | 1.00 |
+
+- [asciinema link](https://asciinema.org/a/jxD2W0mTO5t3GJJAZsMbSutJH)
+
+Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
+- Για την καταγραφή και την μετατροπή των δεδομέννων σε flame graph χρησιμοποιήκαν οι εντολές
+```
+py-spy record -o quick.svg -- python3 sorting.py -q
+py-spy record -o merge.svg -- python3 sorting.py -m
+py-spy record -o shell.svg -- python3 sorting.py -s
+```
+
+- Εικόνες (flame graph) με τα αποτελέσματα απο το py-spy
+![quick_sort](./quick.svg)
+
+![merge_sort](./merge.svg)
+
+![shell_sort](./shell.svg)
+
+- [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
+
 ## Bίντεο Kουίζ
 
 ### 1. Βιντεο (alan-kay-mit-eecs)
