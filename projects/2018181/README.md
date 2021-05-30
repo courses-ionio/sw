@@ -262,6 +262,8 @@ print("Gernerated password: %s" %password)
 </p>
 *Script's performance by CProfile (password generator)*
    
+</br>
+
 ```
 #!/usr/bin/env python
 
@@ -279,7 +281,7 @@ if __name__ == '__main__':
 ```
 *Prints the hostname and IP address* 
 
-The [`.gif`](https://user-images.githubusercontent.com/56742258/117882127-af4e5000-b2b2-11eb-8c37-914f96fcf0d8.gif) represents the perfomance results of the first script (password generator) using the `CProfile`. 
+</br>
 
 |Fourth Assignemt|
 |:---------:|
