@@ -92,7 +92,6 @@ sudo dpkg -i hyperfine_1.11.0_amd64.deb
 ```
 sudo pip3 install py-spy
 ```
-
 Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
 - Για την μέτρηση της απόδοσης ενός αλγορίθμου χρησιμοποιήθηκε η εντολή:
 ```
@@ -134,6 +133,7 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
 ### 3. back-up your home online
+
 Για την υλοποίηση της άσκησης χρησιμοποιήθηκε το εργαλείο rclone και το cron.
 - Για την εγκατάσταση του rclone χρησιμοποιήθηκαν οι εντολές:
 ```
@@ -151,7 +151,7 @@ sudo mkdir -p /usr/local/share/man/man1
 sudo cp rclone.1 /usr/local/share/man/man1/
 sudo mandb 
 ```
-- Και για το configuration του rclone χρησιμοποιήθηκε η εντολή:
+- Για το configuration του rclone χρησιμοποιήθηκε η εντολή:
 ```
 rclone config
 ```
