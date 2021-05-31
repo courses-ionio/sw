@@ -174,6 +174,7 @@ py-spy -o profile1.svg -- python3 num_of_loops.py
 
 link για το [site](https://axel12321.netlify.app/)
 link για τα δικά μου repo [images](https://github.com/Axel12321/images) , [site](https://github.com/Axel12321/site).
+link για τις πηγές:[1](https://www.atlassian.com/git/tutorials/what-is-git),[2](https://www.welcometothejungle.com/en/articles/btc-history-git),[3](https://kb.iu.edu/d/agvf),[4](https://kb.iu.edu/d/agvf),[5](http://www.softpanorama.org/People/Shell_giants/introduction.shtml)
 
 Σε αυτό το παραδοτέο με τη χρήση των Submodules πρόσθεσα το δικό μου repo των [extras](https://github.com/Axel12321/extras) στο οποίο πρόσθεσα μία βιογραφία για τον Linus Torvalds.
 ![image](https://user-images.githubusercontent.com/44093798/120100862-b6e37500-c14b-11eb-9620-6dcc7b7e2a67.png)
