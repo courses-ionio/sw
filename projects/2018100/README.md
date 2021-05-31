@@ -8,7 +8,7 @@
 ### Links
 
 - [Repository](https://github.com/badwolfgr/resume)
-- [Βιογραφικό](https://cv.badwolf.icu/)
+- [Βιογραφικό](https://badwolfgr.github.io/resume/)
 - [PDF](https://cv.badwolf.icu/cv.pdf)
 
 ### Περιγραφή
