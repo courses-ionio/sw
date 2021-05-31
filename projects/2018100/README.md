@@ -171,6 +171,24 @@ crontab -e
 ```
 - [rclone cronjob asciinema](https://asciinema.org/a/OIXBqsJa3tsx9WyaX2mQKOjFy)
 
+### 4. transfer files to your phone
+Για την υλοποίηση της άσκησης χρησιμοποιήθηκε το εργαλείο qr-filetransfer.
+- Για την εγκατάσταση του qr-filetransfer χρησιμοποιήθηκε η εντολή:
+```
+pip3 install qr-filetransfer
+```
+- Για την αποστολή ενός αρχείου από τον υπολογιστή στο κινητό χρησιμοποιήθηκε η εντολή:
+```
+qr-filetransfer ~/Desktop/backup/sort/merge.svg
+```
+- Για την αποστολή ενός αρχείου από το κινητό στον υπολογιστή χρησιμοποιήθηκε η εντολή:
+```
+qr-filetransfer -r ~/Desktop
+```
+- [asciinema link](https://asciinema.org/a/lGrPY6NQkASFifMzser5I2qvw)
+- [gif smartphone send](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/qr-filetransfer-2.gif)
+- [gif smartphone receive](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/qr-filetransfer-1.gif)
+
 ## Bίντεο Kουίζ
 
 ### 1. Βιντεο (alan-kay-mit-eecs)
