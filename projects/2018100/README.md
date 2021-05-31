@@ -20,12 +20,6 @@
 
 ## Βιογραφικό
 
-### Links
-
-- [Repository](https://github.com/badwolfgr/resume)
-- [Βιογραφικό](https://badwolfgr.github.io/resume/)
-- [PDF](https://badwolfgr.github.io/resume/cv.pdf)
-
 ### Περιγραφή
 Για την υλοποίηση του βιογραφικού επιλέχθηκε ένα σχετικό μορφότυπο από τα προτεινόμενα της εργασίας.  
 Καθώς δεν ήμουν ικανοποιημένος με την σειρά που είχαν τα sections του βιογραφικού τροποποίησα το αρχείο resume.html το οποίο βρίσκεται στον φάκελο layouts.
@@ -36,6 +30,11 @@
 wkhtmltopdf https://badwolfgr.github.io/resume/ cv.pdf
 ```
 
+### Links
+
+- [Repository](https://github.com/badwolfgr/resume)
+- [Βιογραφικό](https://badwolfgr.github.io/resume/)
+- [PDF](https://badwolfgr.github.io/resume/cv.pdf)
 
 ## Αιτήματα ενσωμάτωσης στην επίσημη ιστοσελίδα του τμήματος
 
