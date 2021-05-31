@@ -25,8 +25,8 @@
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/89)
 
 Μεταφορά - μετατροπή της σελίδας Erasmus σε ανακοίνωση
-- Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλου καθώς αυτή η προσέγγιση είναι πιο σωστή
-- Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις
+- Συνεισφορά στο [issue](https://github.com/ioniodi/sitegr/issues/160) του κ. Χωριανόπουλου καθώς αυτή η προσέγγιση είναι πιο σωστή.
+- Αντί για νέες σελίδες που "βαραίνουν" το κεντρικό μενού θα ήταν σκόπιμο να έχουμε ανακοινώσεις.
 - Το αντίστοιχο [pull request](https://github.com/ioniodi/sitegr/pull/161)
 
 ### 2. Δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα
@@ -57,12 +57,12 @@ git submodules change remote repository ([asciinema link](https://asciinema.org/
 
 ### 1. send notifications to your desktop-mobile
 
-Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy
+Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε το εργαλείο ntfy.
 - Για την εγκατάσταση του ntfy χρησιμοποιήθηκε η εντολή:
 ```
 pip3 install ntfy
 ```
-- Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε η εφαρμογή Telegram
+- Για την αποστολή ειδοποίησης στο smartphone χρησιμοποιήθηκε η εφαρμογή Telegram.
 - Για την εγκατάσταση των πακέτων του Telegram χρησιμοποιήθηκε η εντολή:
 ```
 pip3 install ntfy[telegram]
@@ -73,7 +73,7 @@ pip3 install ntfy[telegram]
 ```
 wget [link] && ntfy -b telegram send 'Download Completed'
 ```
-- Κάθε φόρα που ανοίγει το terminal στέλνεται ειδοποίηση στο κινητό με την προσθήκη της παρακάτω εντολής στο τέλος του .bashrc αρχείου
+- Κάθε φόρα που ανοίγει το terminal στέλνεται ειδοποίηση στο κινητό με την προσθήκη της παρακάτω εντολής στο τέλος του .bashrc αρχείου.
 ```
 ntfy -b telegram send 'Terminal window opened'
 ```
@@ -158,6 +158,21 @@ sudo mandb
 ```
 rclone config
 ```
+- rclone configure [asciinema link](https://asciinema.org/a/9LQcH7C32s6POMDCcYfhF1MeI)
+- Για την εμφάνιση όλων των αρχείων που είναι διαθέσιμα στο google drive χρησιμοποιήθηκε η εντολή
+```
+rclone ls remote:
+```
+- Για την αποστολή αρχείων στο google drive αφού έχει γίνει το configure χρησιμοποιήθηκε η εντολή
+```
+rclone copy ~/Desktop remote:
+```
+- rclone copy [asciinema link](https://asciinema.org/a/nFtXjooz0jpmZTMFFN7zmuyD5)
+- Για να στέλνονται τα καινούργια αρχεία κάθε μέρα στις 12 το μεσημέρι στο google drive αυτόματα, χρησιμοποιήθηκε το εργαλείο cron με την κατάλληλη προσθήκη στο config αρχείο του με την εντολή
+```
+crontab -e
+```
+- rclone cronjob [asciinema link](https://asciinema.org/a/OIXBqsJa3tsx9WyaX2mQKOjFy)
 
 ## Bίντεο Kουίζ
 
