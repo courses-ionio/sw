@@ -201,10 +201,21 @@
   [asciinema link](https://asciinema.org/a/404980)
 
 - ### Output Files:
-
-  [Sorting Algorithms Output](_hyperfine/sortings.md)
-
-  [Number Of Loops Output](_hyperfine/loops.md)
+  #### Sortings:
+  | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
+  |:---|---:|---:|---:|---:|
+  | `python2 bubble_sort.py` | 398.8 ± 49.7 | 345.7 | 514.4 | 1.00 |
+  | `python2 insertion_sort.py` | 404.5 ± 96.5 | 336.2 | 669.0 | 1.01 ± 0.27 |
+  | `python2 merge_sort.py` | 405.9 ± 72.8 | 344.1 | 552.5 | 1.02 ± 0.22 |
+  | `python2 quick_sort.py` | 447.0 ± 100.8 | 379.4 | 707.6 | 1.12 ± 0.29 |
+  #### Number of loops
+  | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
+  |:---|---:|---:|---:|---:|
+  | `python2 num_of_loops 10` | 368.0 ± 32.2 | 319.1 | 419.0 | 1.00 ± 0.25 |
+  | `python2 num_of_loops 20` | 366.8 ± 87.2 | 311.9 | 586.3 | 1.00 |
+  | `python2 num_of_loops 30` | 369.9 ± 49.3 | 302.4 | 461.0 | 1.01 ± 0.27 |
+  | `python2 num_of_loops 40` | 376.3 ± 74.5 | 318.6 | 551.9 | 1.03 ± 0.32 |
+  | `python2 num_of_loops 50` | 373.1 ± 50.5 | 318.6 | 466.8 | 1.02 ± 0.28 |
 
 # 
 
