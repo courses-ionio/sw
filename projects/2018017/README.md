@@ -85,3 +85,10 @@ Software Engineering is an intricate process if one takes into account the requi
 
 After completing this course, I enriched my knowledge of Git by exploring and implementing advanced functionality such as the submodules tools. As far as continuous integration is concerned, I got a basic level of understanding from automating the process of document generation each time a variable factor gets amended (in that case, CV details). This has inspired me to look into other ways of systematizing procedures such as writing up scripts that automate the process of compiling applications from source code that aren't directly available to my Linux distribution of choice but have overall support for the Linux ecosystem.
 Finally, I got to work on a different operating environment (FreeBSD) which is more aligned to the Unix philosophy and thus required more configuring than the average Linux environment which is pre-configured with user-friendly defaults out of the box.
+
+### Sources
+* [The Deep History of Your Apps: Steve Jobs, NeXTSTEP, and Early Object-Oriented Programming](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
+* [Inventor of World Wide Web Receives ACM A.M. Turing Award](https://awards.acm.org/about/2016-turing)
+* [Tim Berners-Lee](https://www.sansimera.gr/biographies/2340)
+* Official documentation for each command-line tool used (i.e. https://github.com/tomschwarz/neix#clipboard-usage : neix)
+* Numerous threads/posts on Reddit and Stackoverflow for issues occurred throughout the duration of the course
