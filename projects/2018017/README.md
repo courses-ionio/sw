@@ -45,8 +45,7 @@ A minimalist curriculum vitae written in HTML & CSS which is hosted online by Gi
 
 The most prominent characteristic of this PDF automatic generation is that it **only** gets triggered once the above-mentioned configuration file gets amended. That creates less overhead in situations where other files need to updated as the [workflow event](https://github.com/provopoulos/swcv/actions/workflows/continuous-integration.yml) won't be activated in these cases.
 
-Local setup & push to Github record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).<br>
-Initial support for PDF, commit: [provopoulos/swcv@54370ec](https://github.com/provopoulos/swcv/commit/54370ec9f1270131191a5df1443295f854c5a5d5).<br>
+Initial setup (& push to Github) record is on [Asciinema](https://asciinema.org/a/SQxqbgae56nYsZAvxtEDeovRX).
 
 ### Collaborative-DEV
 #### [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITEGR](https://github.com/ioniodi/sitegr)
