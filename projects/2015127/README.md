@@ -183,9 +183,15 @@ pibook/site fork: https://github.com/p15kost/site
 
 ### B1
 
+Αποθετήριο μελέτης: https://github.com/p15kost/site/blob/master/_case-study/smtp-history.md
+Αποθετήριου αρχείου μελέτης: https://github.com/p15kost/site/blob/master/_case-study/cs-smtp-history.md
+
 ### B2
 
+
 ### Πηγές:
+
+[Modeling Network Security: Case Study of Email System](https://arxiv.org/ftp/arxiv/papers/2003/2003.13509.pdf)
 
 ## <a name="P11">Παραδοτέο 11 </a>
 
