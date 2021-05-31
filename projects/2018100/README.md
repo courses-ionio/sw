@@ -69,7 +69,7 @@ pip3 install ntfy[telegram]
 ```
 - Εγκατάσταση της εφαρμογής Telegram στο smartphone και μέσο αυτής δημιουργήθηκε ενα bot με όνομα linux_my_notification_bot
 - Εισαγωγή του API αριθμού (token) του bot
-- Αποστολή ειδοποίησης κατά την ολοκλήρωση μεταφόρτωσης ενός αρχείου με την εντολή
+- Αποστολή ειδοποίησης κατά την ολοκλήρωση μεταφόρτωσης ενός αρχείου με την εντολή:
 ```
 wget [link] && ntfy -b telegram send 'Download Completed'
 ```
@@ -83,26 +83,26 @@ ntfy -b telegram send 'Terminal window opened'
 ### 2. performance monitoring
 
 Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy.
-- Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
+- Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή:
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
 sudo dpkg -i hyperfine_1.11.0_amd64.deb
 ```
-- Για την εγκατάσταση του py-spy χρησιμοποιήθηκε η εντολή
+- Για την εγκατάσταση του py-spy χρησιμοποιήθηκε η εντολή:
 ```
 sudo pip3 install py-spy
 ```
 
 Για την σύγκριση των αλγορίθμων ταξινόμησης χρησιμοποιήθηκε το hyperfine
-- Για την μέτρηση της απόδοσης ενός αλγορίθμου χρησιμοποιήθηκε η εντολή
+- Για την μέτρηση της απόδοσης ενός αλγορίθμου χρησιμοποιήθηκε η εντολή:
 ```
 hyperfine 'python3 sorting.py -q'
 ```
-- Για την σύγκριση πολλών αλγορίθμων χρησιμοποιείται η εντολή
+- Για την σύγκριση πολλών αλγορίθμων χρησιμοποιείται η εντολή:
 ```
 hyperfine -w 10 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting.py -s'
 ```
-- Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή
+- Για την αποθήκευση των αποτελεσμάτων χρησιμοποιείται η εντολή:
 ```
 hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -m' 'python3 sorting.py -s'
 ```
@@ -117,7 +117,7 @@ hyperfine --export-mardown results 'python3 sorting.py -q' 'python3 sorting.py -
 - [asciinema link](https://asciinema.org/a/jxD2W0mTO5t3GJJAZsMbSutJH)
 
 Για την οπτικοποίηση των δεδομένων χρησιμοποιήθηκε το εργαλείο py-spy
-- Για την καταγραφή και την μετατροπή των δεδομένων σε flame graph χρησιμοποιήθηκαν οι εντολές
+- Για την καταγραφή και την μετατροπή των δεδομένων σε flame graph χρησιμοποιήθηκαν οι εντολές:
 ```
 py-spy record -o quick.svg -- python3 sorting.py -q
 py-spy record -o merge.svg -- python3 sorting.py -m
@@ -135,44 +135,41 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 
 ### 3. back-up your home online
 Για την υλοποίηση της άσκησης χρησιμοποιήθηκε το εργαλείο rclone και το cron.
-- Για την εγκατάσταση του rclone χρησιμοποιήθηκαν οι εντολές
-- Fetch and unpack
+- Για την εγκατάσταση του rclone χρησιμοποιήθηκαν οι εντολές:
 ```
 curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
 unzip rclone-current-linux-amd64.zip
 cd rclone-*-linux-amd64
 ```
-- Copy binary file
 ```
 sudo cp rclone /usr/bin/
 sudo chown root:root /usr/bin/rclone
 sudo chmod 755 /usr/bin/rclone
 ```
-- Install manpage
 ```
 sudo mkdir -p /usr/local/share/man/man1
 sudo cp rclone.1 /usr/local/share/man/man1/
 sudo mandb 
 ```
-- Και για το configuration του rclone χρησιμοποιήθηκε η εντολή
+- Και για το configuration του rclone χρησιμοποιήθηκε η εντολή:
 ```
 rclone config
 ```
-- rclone configure [asciinema link](https://asciinema.org/a/9LQcH7C32s6POMDCcYfhF1MeI)
-- Για την εμφάνιση όλων των αρχείων που είναι διαθέσιμα στο google drive χρησιμοποιήθηκε η εντολή
+- [rclone configure asciinema](https://asciinema.org/a/9LQcH7C32s6POMDCcYfhF1MeI)
+- Για την εμφάνιση όλων των αρχείων που είναι διαθέσιμα στο google drive χρησιμοποιήθηκε η εντολή:
 ```
 rclone ls remote:
 ```
-- Για την αποστολή αρχείων στο google drive αφού έχει γίνει το configure χρησιμοποιήθηκε η εντολή
+- Για την αποστολή αρχείων στο google drive αφού έχει γίνει το configure χρησιμοποιήθηκε η εντολή:
 ```
 rclone copy ~/Desktop remote:
 ```
-- rclone copy [asciinema link](https://asciinema.org/a/nFtXjooz0jpmZTMFFN7zmuyD5)
-- Για να στέλνονται τα καινούργια αρχεία κάθε μέρα στις 12 το μεσημέρι στο google drive αυτόματα, χρησιμοποιήθηκε το εργαλείο cron με την κατάλληλη προσθήκη στο config αρχείο του με την εντολή
+- [rclone copy asciinema](https://asciinema.org/a/nFtXjooz0jpmZTMFFN7zmuyD5)
+- Για να στέλνονται τα καινούργια αρχεία κάθε μέρα στις 12 το μεσημέρι στο google drive αυτόματα, χρησιμοποιήθηκε το εργαλείο cron με την κατάλληλη προσθήκη στο config αρχείο του με την εντολή:
 ```
 crontab -e
 ```
-- rclone cronjob [asciinema link](https://asciinema.org/a/OIXBqsJa3tsx9WyaX2mQKOjFy)
+- [rclone cronjob asciinema](https://asciinema.org/a/OIXBqsJa3tsx9WyaX2mQKOjFy)
 
 ## Bίντεο Kουίζ
 
