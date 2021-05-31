@@ -89,6 +89,8 @@ Finally, I got to work on a different operating environment (FreeBSD) which is m
 ### Sources
 * [The Deep History of Your Apps: Steve Jobs, NeXTSTEP, and Early Object-Oriented Programming](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [Inventor of World Wide Web Receives ACM A.M. Turing Award](https://awards.acm.org/about/2016-turing)
+* [Home of the first website](http://info.cern.ch/)
 * [Tim Berners-Lee](https://www.sansimera.gr/biographies/2340)
+* [The first website using the line-mode browser simulator](https://line-mode.cern.ch/www/hypertext/WWW/TheProject.html)
 * Official documentation for each command-line tool used (i.e. https://github.com/tomschwarz/neix#clipboard-usage : neix)
 * Numerous threads/posts on Reddit and Stackoverflow for issues occurred throughout the duration of the course
