@@ -82,7 +82,7 @@ ntfy -b telegram send 'Terminal window opened'
 
 ### 2. performance monitoring
 
-Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy
+Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy.
 - Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
@@ -132,6 +132,32 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 - [shell_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/shell.svg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
+
+### 3. back-up your home online
+Για την υλοποίηση της άσκησης χρησιμοποιήθηκε το εργαλείο rclone και το cron.
+- Για την εγκατάσταση του rclone χρησιμοποιήθηκαν οι εντολές
+- Fetch and unpack
+```
+curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
+unzip rclone-current-linux-amd64.zip
+cd rclone-*-linux-amd64
+```
+- Copy binary file
+```
+sudo cp rclone /usr/bin/
+sudo chown root:root /usr/bin/rclone
+sudo chmod 755 /usr/bin/rclone
+```
+- Install manpage
+```
+sudo mkdir -p /usr/local/share/man/man1
+sudo cp rclone.1 /usr/local/share/man/man1/
+sudo mandb 
+```
+- Και για το configuration του rclone χρησιμοποιήθηκε η εντολή
+```
+rclone config
+```
 
 ## Bίντεο Kουίζ
 
