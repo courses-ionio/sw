@@ -99,7 +99,7 @@ wget [link] && ntfy -b telegram send 'Download Completed'
 ntfy -b telegram send 'Terminal window opened'
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
-- [gif smartphone demo]![ntfy](https://github.com/badwolfgr/resume/blob/gh-pages/sw/ntfy.gif)
+- [gif smartphone demo](https://github.com/badwolfgr/resume/blob/gh-pages/sw/ntfy.gif)
 
 ### 2. performance monitoring
 
