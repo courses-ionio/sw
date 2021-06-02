@@ -99,7 +99,7 @@ wget [link] && ntfy -b telegram send 'Download Completed'
 ntfy -b telegram send 'Terminal window opened'
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
-- [gif smartphone demo](https://github.com/badwolfgr/resume/blob/gh-pages/sw/ntfy.gif)
+- [gif smartphone demo](https://raw.githubusercontent.com/badwolfgr/resume/gh-pages/sw/ntfy.gif)
 
 ### 2. performance monitoring
 
@@ -145,11 +145,11 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
 Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
-- [quick_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/quick.svg)
+- [quick_sort](https://raw.githubusercontent.com/badwolfgr/resume/33b5c791cb42b93b211d1af972f5d8af6514780b/sw/quick.svg)
 
-- [merge_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/merge.svg)
+- [merge_sort](https://raw.githubusercontent.com/badwolfgr/resume/33b5c791cb42b93b211d1af972f5d8af6514780b/sw/merge.svg)
 
-- [shell_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/shell.svg)
+- [shell_sort](https://raw.githubusercontent.com/badwolfgr/resume/33b5c791cb42b93b211d1af972f5d8af6514780b/sw/shell.svg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
@@ -207,8 +207,8 @@ qr-filetransfer ~/Desktop/backup/sort/merge.svg
 qr-filetransfer -r ~/Desktop
 ```
 - [asciinema link](https://asciinema.org/a/lGrPY6NQkASFifMzser5I2qvw)
-- [gif smartphone send](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-2.gif)
-- [gif smartphone receive](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-1.gif)
+- [gif smartphone send](https://raw.githubusercontent.com/badwolfgr/resume/gh-pages/sw/qr-filetransfer-2.gif)
+- [gif smartphone receive](https://raw.githubusercontent.com/badwolfgr/resume/gh-pages/sw/qr-filetransfer-1.gif)
 
 ## Bίντεο Kουίζ
 
