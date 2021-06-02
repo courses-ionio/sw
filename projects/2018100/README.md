@@ -145,11 +145,11 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
 Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
-- [quick_sort]![quick](https://github.com/badwolfgr/resume/blob/gh-pages/sw/quick.svg)
+- [quick_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/quick.svg)
 
-- [merge_sort]![merge](https://github.com/badwolfgr/resume/blob/gh-pages/sw/merge.svg)
+- [merge_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/merge.svg)
 
-- [shell_sort]![shell](https://github.com/badwolfgr/resume/blob/gh-pages/sw/shell.svg)
+- [shell_sort](https://github.com/badwolfgr/resume/blob/gh-pages/sw/shell.svg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
@@ -207,8 +207,8 @@ qr-filetransfer ~/Desktop/backup/sort/merge.svg
 qr-filetransfer -r ~/Desktop
 ```
 - [asciinema link](https://asciinema.org/a/lGrPY6NQkASFifMzser5I2qvw)
-- [gif smartphone send]![qr-filetransfer-2](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-2.gif)
-- [gif smartphone receive]![qr-filetransfer-1](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-1.gif)
+- [gif smartphone send](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-2.gif)
+- [gif smartphone receive](https://github.com/badwolfgr/resume/blob/gh-pages/sw/qr-filetransfer-1.gif)
 
 ## Bίντεο Kουίζ
 
