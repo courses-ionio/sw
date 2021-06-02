@@ -99,11 +99,11 @@ wget [link] && ntfy -b telegram send 'Download Completed'
 ntfy -b telegram send 'Terminal window opened'
 ```
 - [asciinema link](https://asciinema.org/a/PyM7sagRDIvsUEFHT3C5G4Z6e)
-- [gif smartphone demo](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/ntfy.gif)
+- [gif smartphone demo]![ntfy](https://user-images.githubusercontent.com/45536936/120556695-875f9180-c405-11eb-9bd5-8d5766ccfa9d.gif)
 
 ### 2. performance monitoring
 
-Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/sorting.py) καθώς και τα εργαλεία hyperfine και py-spy.
+Για την υλοποίηση της άσκησης χρησιμοποιήθηκε ένα πρόγραμμα με 3 αλγορίθμους ταξινόμησης το οποίο βρίσκεται [εδώ](https://pastebin.com/XuGGKsBZ) καθώς και τα εργαλεία hyperfine και py-spy.
 - Για την εγκατάσταση του hyperfine χρησιμοποιήθηκε η εντολή:
 ```
 wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
@@ -145,11 +145,11 @@ py-spy record -o shell.svg -- python3 sorting.py -s
 ```
 
 Εικόνες (flame graph) με τα αποτελέσματα από το py-spy
-- [quick_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/quick.svg)
+- [quick_sort]![quick](https://user-images.githubusercontent.com/45536936/120557013-f5a45400-c405-11eb-9f93-236fba9be293.jpg)
 
-- [merge_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/merge.svg)
+- [merge_sort]![merge](https://user-images.githubusercontent.com/45536936/120557018-f76e1780-c405-11eb-9108-726f2ad340c1.jpg)
 
-- [shell_sort](https://github.com/badwolfgr/sw/blob/2018100/projects/2018100/shell.svg)
+- [shell_sort]![shell](https://user-images.githubusercontent.com/45536936/120557021-f89f4480-c405-11eb-9e53-b8c4c10da7b9.jpg)
 
 - [asciinema link](https://asciinema.org/a/wtFyg800t0dXPZcjue1Y0Bwn1)
 
@@ -207,8 +207,8 @@ qr-filetransfer ~/Desktop/backup/sort/merge.svg
 qr-filetransfer -r ~/Desktop
 ```
 - [asciinema link](https://asciinema.org/a/lGrPY6NQkASFifMzser5I2qvw)
-- [gif smartphone send](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/qr-filetransfer-2.gif)
-- [gif smartphone receive](https://raw.githubusercontent.com/badwolfgr/sw/2018100/projects/2018100/qr-filetransfer-1.gif)
+- [gif smartphone send]![qr-filetransfer-2](https://user-images.githubusercontent.com/45536936/120556783-a5c58d00-c405-11eb-87e2-905a9792b447.gif)
+- [gif smartphone receive]![qr-filetransfer-1](https://user-images.githubusercontent.com/45536936/120556779-a3633300-c405-11eb-9cdf-ee2c8989cb3c.gif)
 
 ## Bίντεο Kουίζ
 
