@@ -178,9 +178,9 @@ reference [pushover](https://www.youtube.com/watch?v=e3tO9EHmrOQ&ab_channel=most
 
 [Asciinema Link](https://asciinema.org/a/RK9vwrv8JmRbt1pN4iygHH9sN)
 
-[ScreenShotPc](https://github.com/p16pyla/sw/blob/2016136/projects/screenshotpc.png)
+![ScreenShotPc](https://i.imgur.com/vZWPoIJ.png)
 
-[ScreenShootPhone](https://github.com/p16pyla/sw/blob/2016136/projects/screenshotphone.jpg)
+![ScreenShotPhone](https://i.imgur.com/bE6GoWY.jpg)
 
 
 
@@ -298,7 +298,7 @@ B1+B2) Αφού τέλειωσα με τα παραπάνω ρύθμισα κα�
 
 [AsciinemaLink](https://asciinema.org/a/6SprIxlTbRfFDSJiv7iSSxPV7) 
 
-[PhotoAgentsLink](https://github.com/p16pyla/sw/blob/2016136/projects/agents.png) 
+![PhotoAgents](https://i.imgur.com/yxHaU5s.png) 
 
 # Συμπεράσματα
 
