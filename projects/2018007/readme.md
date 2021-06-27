@@ -149,7 +149,7 @@ Aντιμετώπισα πολλά προβλήματα, κάποια από τ�
 * Αρχικά, έκανα [fork](https://github.com/panagiotismouts/extras) την σελίδα pibook/\_includes/extra ώστε να τη χρησιμοποιήσω ξεχωριστά.
 * Στη συνέχεια, τροποποίησα το submodule της ώστε να δείχνει στο δικό μου fork.
 * Έπειτα πρόσθεσα την μελέτη περίπτωσης στα αρχεία : [\_case-study/screen-projector-edu.md](https://github.com/panagiotismouts/site/blob/master/_case-study/screen-projector-edu.md) και [\_includes/extra/cs-screen-projector-edu.md](https://github.com/panagiotismouts/extras/blob/master/cs-screen-projector-edu.md)
-* Τα παραπάνω 2 αρχεία ένωσα με τη βοήθεια της προσθήκης της εντολής {% include extras/cs-screen-projector-edu.md %} στο τέλος του screen-projector.md. Η εντολή αυτή συναντάται και σε Django αλλά η μορφή της εδώ είναι αυτή της γλώσσας Liquid όπου είναι μια template γλώσσα γραμμένη σε Ruby.
+* Τα παραπάνω 2 αρχεία ένωσα με τη βοήθεια της προσθήκης της εντολής `{% include extras/cs-screen-projector-edu.md %}` στο τέλος του screen-projector.md. Η εντολή αυτή συναντάται και σε Django αλλά η μορφή της εδώ είναι αυτή της γλώσσας Liquid όπου είναι μια template γλώσσα γραμμένη σε Ruby.
 
 Ως βιογραφία επέλεξα την βιογραφία του Gene Dolgoff , ο οποίος ήταν ο πρώτος άνθρωπος που δημιούργησε τον LCD προτζέκτορα.
 
