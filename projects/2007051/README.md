@@ -37,7 +37,7 @@ Online Βιογραφικό/Bio: https://geopala.github.io/online-cv/
 
 Repository βιογραφικού: https://github.com/geopala/online-cv
 
-##Υλοποίηση:
+###Υλοποίηση:
 
 ###### [3]
 ###### [4]
