@@ -45,7 +45,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Αποτελέσματα:**
 
-![bio]()
+![bio](https://github.com/geopala/sw-images/blob/main/bio.png)
 
 **Πηγή:** https://github.com/sharu725/online-cv#installation
 
