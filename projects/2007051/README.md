@@ -38,7 +38,8 @@ Online Βιογραφικό/Bio: https://geopala.github.io/online-cv/
 Repository βιογραφικού: https://github.com/geopala/online-cv
 
 ## Υλοποίηση:
-Μετά την επιλογή του θέματος jekyll "Thunder" από **sharu725** προχώρησα σε fork του repository και αντικατέστησα το **gh-pages** branch με το δικό μου, ώστε να χρησιμοποίει ως root τις αλλαγές που θα πραγματοποιώ στο master branch. Το νέο branch **gh-pages** χρησιμεύει στο hosting του resume και μόνο.
+Μετά την επιλογή του θέματος jekyll "Thunder" από **sharu725** προχώρησα σε fork του repository και αντικατέστησα το **gh-pages** branch με το δικό μου, ώστε να χρησιμοποίει ως
+root τις αλλαγές που θα πραγματοποιώ στο master branch. Το νέο branch **gh-pages** χρησιμεύει στο hosting του resume και μόνο.
 Πραγματοποίησα εισαγωγή των στοιχείων, της εικόνας προφίλ στο φάκελο **assets/images** και στην αλλαγή του θέματος από ```blue``` σε ```ceramic```.
 Όλα τα παραπάνω πραγματοποιήθηκαν μέσω επεξεργασίας των αρχείων **data.yml** και **_config.yml**.
 
