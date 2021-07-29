@@ -60,11 +60,11 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 ## Υλοποίηση:
 ### Προσθήκη ανακοίνωσης "Επίσκεψη της Προέδρου της Δημοκρατίας Κατερίνας Σακελλαροπούλου στο Εργαστήριο Βιοπληροφορικής και Ανθρώπινης Ηλεκτροφυσιολογίας του Τμήματος Πληροφορικής του Ι.Π." με ημερομηνία δημοσίευσης 21-05-2021 στο site του τμήματος.
 
-**Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
-
 **Issue**: https://github.com/ioniodi/sitegr/issues/219
 
 green light: ❌
+
+**Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
 
 **Link με το αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_posts/2021-05-21-episkepsi-proedrou.md
 
