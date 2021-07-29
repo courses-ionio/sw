@@ -62,13 +62,13 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Issue**: https://github.com/ioniodi/sitegr/issues/219
 
-green light: ❌
+**green light**: ❌
 
 **Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
 
 **Αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_posts/2021-05-21-episkepsi-proedrou.md
 
-pull request: ❌
+**pull request**: ❌
 
 **Pull Request**:
 
