@@ -62,9 +62,9 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 αρχείο **.md**:
 
-green light:
+green light: ❌
 
-pull request:
+pull request: ❌
 
 **Αποθετήριο αιτήματος**:
 
