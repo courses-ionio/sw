@@ -66,7 +66,7 @@ green light: ❌
 
 **Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
 
-**Link με το αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_posts/2021-05-21-episkepsi-proedrou.md
+**Αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_posts/2021-05-21-episkepsi-proedrou.md
 
 pull request: ❌
 
