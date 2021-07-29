@@ -70,7 +70,7 @@ pull request:
 
 **Netlify**:
 
-**Issue**: 
+**Issue**: https://github.com/ioniodi/sitegr/issues/219
 
 **Link με το αρχείο ανακοίνωσης**:
 
