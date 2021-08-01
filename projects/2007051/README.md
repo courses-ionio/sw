@@ -103,6 +103,10 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Αποτελέσματα:**
 
+![mqtt-pub](https://github.com/geopala/sw-images/blob/main/mqtt-pub.png)
+
+![]()
+
 ![]()
 
 **Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
