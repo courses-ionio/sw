@@ -91,7 +91,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 • Ορισμός νέου topic στην εφαρμογή **MQTT Client** μέσω **+**(εικόνες).
 
-• Εντοπισμός IP terminal: ```ifconfig``` και πληκρολόγηση αυτής στην ενότητα **Host** του app.
+• Εντοπισμός IP terminal: ```ifconfig``` και πληκτρολόγηση αυτής στην ενότητα **Host** του app.
 
 • Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up"```.
 
