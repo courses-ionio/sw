@@ -76,6 +76,8 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ###### [4]
 
+## Άσκηση γραμμής εντολών: create notifications on your server
+
 Εκκίνηση mosquitto: https://asciinema.org/a/428255
 
 Παράδείγμα λήψης μηνύματος μέσω mosquitto: https://asciinema.org/a/428265
