@@ -76,9 +76,9 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ###### [4]
 
-Εκκίνηση mosquitto:
+Εκκίνηση mosquitto: https://asciinema.org/a/428255
 
-Παράδείγμα λήψης μηνύματος μέσω mosquitto:
+Παράδείγμα λήψης μηνύματος μέσω mosquitto: https://asciinema.org/a/428265
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```.
