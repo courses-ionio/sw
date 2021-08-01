@@ -95,7 +95,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 • Εντοπισμός IP terminal: ```ifconfig``` και πληκτρολόγηση αυτής στην ενότητα **Host** του app.
 
-• Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up"```.
+• Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up?"```.
 
 • Επιτυχής λήψη μηνύματων στη συσκευή μου.
 
