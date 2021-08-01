@@ -82,13 +82,21 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```.
+
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+
 • Εκκίνηση του mosquitto: ```mosquitto```.
+
 • Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+
 • Ορισμός νέου topic στην εφαρμογή **MQTT Client** μέσω **+**(εικόνες).
+
 • Εντοπισμός IP terminal: ```ifconfig``` και πληκρολόγηση αυτής στην ενότητα **Host** του app.
+
 • Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up"```.
+
 • Επιτυχής λήψη μηνύματων στη συσκευή μου.
+
 • Ολοκλήρωση asciicast: ```exit```.
 
 **Αποτελέσματα:**
