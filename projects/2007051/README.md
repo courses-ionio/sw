@@ -13,7 +13,7 @@
 | 1 | <sup><a href="#1"> Περιγραφή των αναγκών και των στόχων για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> βιογραφικό: Ιστοσελίδα με χρήση Jekyll </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης </a></sup> |
-| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: </a></sup> |
+| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
 | 5 | <sup><a href="#5">  </a></sup> |
 | 6 | <sup><a href="#6">  </a></sup> |
 | 7 | <sup><a href="#7">  </a></sup> |
@@ -75,6 +75,28 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 **Netlify**:
 
 ###### [4]
+
+Εκκίνηση mosquitto:
+
+Παράδείγμα λήψης μηνύματος μέσω mosquitto:
+
+## Υλοποίηση:
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```.
+• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+• Εκκίνηση του mosquitto: ```mosquitto```.
+• Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+• Ορισμός νέου topic στην εφαρμογή **MQTT Client** μέσω **+**(εικόνες).
+• Εντοπισμός IP terminal: ```ifconfig``` και πληκρολόγηση αυτής στην ενότητα **Host** του app.
+• Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up"```.
+• Επιτυχής λήψη μηνύματων στη συσκευή μου.
+• Ολοκλήρωση asciicast: ```exit```.
+
+**Αποτελέσματα:**
+
+![]()
+
+**Πηγή:**
+
 ###### [4]
 ###### [5]
 ###### [6]
