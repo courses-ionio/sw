@@ -119,7 +119,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 Παραδείγματα notification ntfy: https://asciinema.org/a/428638
 
-Telegram setup και παράδειγμα χρήσης:
+Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a/428738
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install pip``` και ```sudo pip install ntfy```.
