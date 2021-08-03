@@ -144,6 +144,8 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ![howru-low](https://github.com/geopala/sw-images/blob/main/howru-low.png)
 
+![ntfy-sleep](https://github.com/geopala/sw-images/blob/main/ntfy-sleep.png)
+
 ![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg)
 
 ![teleg-test](https://github.com/geopala/sw-images/blob/main/teleg-test.jpg)
