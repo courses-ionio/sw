@@ -14,8 +14,8 @@
 | 2 | <sup><a href="#2"> βιογραφικό: Ιστοσελίδα με χρήση Jekyll </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 5 | <sup><a href="#5">  </a></sup> |
-| 6 | <sup><a href="#6">  </a></sup> |
+| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 & A2 </a></sup> |
+| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
 | 9 | <sup><a href="#9">  </a></sup> |
@@ -111,9 +111,11 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
 
-###### [4]
 ###### [5]
 ###### [6]
+
+## Άσκηση γραμμής εντολών: create notifications on your server
+
 ###### [7]
 ###### [8]
 ###### [9]
