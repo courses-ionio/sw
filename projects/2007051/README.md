@@ -122,15 +122,15 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a/428643
 
 ## Υλοποίηση:
-• Εγκατάσταση των απαραίτητων πακέτων: `````` και ``````.
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install pip``` και ```sudo pip install ntfy```.
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Εκκίνηση του: ```1```.
+• Δοκιμή ειδοποιήσεων: ```ntfy send 'Hello world'```, ```notify-send --urgency=CRITICAL ""```.
 
-• Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+• Εγγραφή σε topic π.χ **test**: ```x```.
 
-• Ορισμός νέου bot στην εφαρμογή **Telegram** μέσω **BotFather**(εικόνες).
+• Ορισμός νέου bot στην εφαρμογή **Telegram** μέσω οδηγιών του **BotFather**(εικόνες).
 
 • Πληκτρολόγηση της εντολής ```1```.
 
