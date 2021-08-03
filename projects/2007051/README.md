@@ -126,7 +126,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Δοκιμή ειδοποιήσεων: ```ntfy send 'Hello world'```, ```notify-send --urgency=CRITICAL "Hello world"```, ```notify-send --urgency=LOW "Hello world"```.
+• Δοκιμή ειδοποιήσεων: ```notify-send --urgency=CRITICAL "Hello world"```, ```notify-send --urgency=LOW "How are you today?"```, ```ntfy done sleep 5```
 
 • Εγγραφή σε topic π.χ **test**: ```x```.
 
