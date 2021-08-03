@@ -128,11 +128,13 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 • Δοκιμή ειδοποιήσεων: ```notify-send --urgency=CRITICAL "Hello world"```, ```notify-send --urgency=LOW "How are you today?"``` & ```ntfy done sleep 5``` ως timer.
 
-• Εγγραφή σε topic π.χ **test**: ```x```.
+• Setup **ntfy** για **Telegram**: ```ntfy -b telegram send "Telegram configured for ntfy"```.
 
 • Ορισμός νέου bot στην εφαρμογή **Telegram** μέσω οδηγιών του **BotFather**(εικόνες).
 
 • Paste token στο terminal για σύνδεση με την εφαρμογή.
+
+• Δοκιμή αποστολής μηνύματος μέσω terminal: ```ntfy -b telegram send "Hello world!"```
 
 • Επιτυχής λήψη μηνύματων στη συσκευή μου.
 
