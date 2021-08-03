@@ -112,9 +112,37 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 **Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
 
 ###### [5]
+
 ###### [6]
 
-## Άσκηση γραμμής εντολών: create notifications on your server
+## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
+
+## Υλοποίηση:
+• Εγκατάσταση των απαραίτητων πακέτων: `````` και ``````.
+
+• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+
+• Εκκίνηση του: ```1```.
+
+• Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+
+• Ορισμός νέου bot στην εφαρμογή **Telegram** μέσω **BotFather**(εικόνες).
+
+• Πληκτρολόγηση της εντολής ```1```.
+
+• Επιτυχής λήψη μηνύματων στη συσκευή μου.
+
+• Ολοκλήρωση asciicast: ```exit```.
+
+**Αποτελέσματα:**
+
+![]()
+
+![]()
+
+![]()
+
+**Πηγή:** https://github.com/dschep/ntfy#telegram---telegram
 
 ###### [7]
 ###### [8]
