@@ -117,6 +117,10 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 
+Παραδείγματα notification ntfy: https://asciinema.org/a/428638
+
+Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a/428643
+
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: `````` και ``````.
 
@@ -136,11 +140,13 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Αποτελέσματα:**
 
-![]()
+![hello-crit](https://github.com/geopala/sw-images/blob/main/hellocrit.png)
 
-![]()
+![howru-low](https://github.com/geopala/sw-images/blob/main/howru-low.png)
 
-![]()
+![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg)
+
+![teleg-test](![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg))
 
 **Πηγή:** https://github.com/dschep/ntfy#telegram---telegram
 
