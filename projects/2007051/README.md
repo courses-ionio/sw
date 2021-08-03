@@ -146,7 +146,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg)
 
-![teleg-test](![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg))
+![teleg-test](https://github.com/geopala/sw-images/blob/main/teleg-test.jpg)
 
 **Πηγή:** https://github.com/dschep/ntfy#telegram---telegram
 
