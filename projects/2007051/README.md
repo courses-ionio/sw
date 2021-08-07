@@ -164,9 +164,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 Χρήση του hyperfine:
 
-Flamegraph profile.svg: 
+Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
 
-Output του hyperfine:
+Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
