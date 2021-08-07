@@ -160,9 +160,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ## Άσκηση γραμμής εντολών: performance monitoring
 
-Χρήση του py-spy:
+Χρήση του py-spy: https://asciinema.org/a/429431
 
-Χρήση του hyperfine:
+Χρήση του hyperfine: https://asciinema.org/a/429434
 
 Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
 
