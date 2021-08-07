@@ -18,7 +18,7 @@
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
-| 9 | <sup><a href="#9">  </a></sup> |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
 | 10 | <sup><a href="#10"> </a></sup> |
 | 11 | <sup><a href="#11"> </a></sup> |
 | 12 | <sup><a href="#12"> </a></sup> |
