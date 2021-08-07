@@ -157,6 +157,46 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 ###### [7]
 ###### [8]
 ###### [9]
+
+## Άσκηση γραμμής εντολών: performance monitoring
+
+Χρήση του py-spy:
+
+Χρήση του hyperfine:
+
+Flamegraph results.svg: 
+
+Output του hyperfine:
+
+## Υλοποίηση:
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
+
+• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+
+• Χρήση 2 script: **testscript.py** **testscript2.py**.
+
+• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o results.svg -- python3 testscript.py```.
+
+• Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
+
+• Benchmarking μέσω **hyperfine**: ```hyperfine 'python testscript.py' 'python testscript2.py'```.
+
+• Εξαγωγή αποτελέσματος: ```hyperfine -i --export-json output 'python testscript.py' 'python testscript2.py'```.
+
+• Ολοκλήρωση asciicast: ```exit```.
+
+**Αποτελέσματα:**
+
+![py-spy]()
+
+![hyperfine]()
+
+**Πηγές:**
+
+https://github.com/benfred/py-spy#usage
+
+https://github.com/sharkdp/hyperfine#usage
+
 ###### [10]
 ###### [11]
 ###### [12]
