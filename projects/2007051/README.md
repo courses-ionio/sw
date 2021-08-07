@@ -173,7 +173,8 @@ Output του hyperfine:
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Χρήση 2 print script: **testscript.py**(https://github.com/geopala/sw-images/blob/main/testscript.py) & **testscript2.py**(https://github.com/geopala/sw-images/blob/main/testscript2.py).
+• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
+  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
 
 • Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o results.svg -- python3 testscript.py```.
 
