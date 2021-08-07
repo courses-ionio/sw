@@ -188,9 +188,9 @@ Output του hyperfine:
 
 **Αποτελέσματα:**
 
-![py-spy]()
+![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
 
-![hyperfine]()
+![output](https://github.com/geopala/sw-images/blob/main/output.png)
 
 **Πηγές:**
 
