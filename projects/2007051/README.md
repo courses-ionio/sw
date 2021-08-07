@@ -164,7 +164,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 Χρήση του hyperfine:
 
-Flamegraph results.svg: 
+Flamegraph profile.svg: 
 
 Output του hyperfine:
 
@@ -176,7 +176,7 @@ Output του hyperfine:
 • Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
   & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
 
-• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o results.svg -- python3 testscript.py```.
+• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
 
 • Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
 
