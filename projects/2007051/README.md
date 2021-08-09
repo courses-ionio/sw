@@ -19,8 +19,8 @@
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
-| 11 | <sup><a href="#11"> </a></sup> |
+| 10 | <sup><a href="#10">  </a></sup> |
+| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
 | 12 | <sup><a href="#12"> </a></sup> |
 
 ###### [1]
@@ -193,6 +193,8 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ###### [10]
 
+###### [11]
+
 ## Άσκηση γραμμής εντολών: performance monitoring
 
 Χρήση του py-spy: https://asciinema.org/a/429431
@@ -233,5 +235,4 @@ https://github.com/benfred/py-spy#usage
 
 https://github.com/sharkdp/hyperfine#usage
 
-###### [11]
 ###### [12]
