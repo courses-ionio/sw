@@ -240,5 +240,26 @@ https://github.com/sharkdp/hyperfine#usage
 
 ###### [10]
 
+## Άσκηση γραμμής εντολών: create your own static site and blog generator
+
+Δημιουργία webpage με hugo:
+
+## Υλοποίηση:
+• Εγκατάσταση των απαραίτητων πακέτων:```sudo apt install hugo```.
+
+• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+
+• Πληκτρολόγηση εντολής για host: ```hugo server```.
+
+• Δημιουργία post: ```hugo .md```.
+
+• Ολοκλήρωση asciicast: ```exit```.
+
+**Αποτελέσματα:**
+
+![hugo]()
+
+**Πηγές:**
+
 ###### [11]
 ###### [12]
