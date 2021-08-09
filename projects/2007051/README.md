@@ -249,9 +249,19 @@ https://github.com/sharkdp/hyperfine#usage
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Πληκτρολόγηση εντολής για host: ```hugo server```.
+• Δημιουργία site: ```hugo new site quickstart```.
 
-• Δημιουργία post: ```hugo .md```.
+• Ορισμός location site: ```cd quickstart```, ```git init```.
+
+• Εγκατάσταση θέματος: ```git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke```
+
+• Πληκτρολόγηση εντολής hosting: ```hugo server -D```.
+
+• Δημιουργία post: ```hugo new posts/my-latest-post.md```.
+
+• Επεξεργασία post: ```nano content/posts/my-latest-post.md```.
+
+• Build site: ```hugo -D```.
 
 • Ολοκλήρωση asciicast: ```exit```.
 
@@ -259,7 +269,7 @@ https://github.com/sharkdp/hyperfine#usage
 
 ![hugo]()
 
-**Πηγές:**
+**Πηγή:** https://github.com/gohugoio/hugo
 
 ###### [11]
 ###### [12]
