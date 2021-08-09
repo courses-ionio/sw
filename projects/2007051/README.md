@@ -242,7 +242,7 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Άσκηση γραμμής εντολών: create your own static site and blog generator
 
-Δημιουργία webpage με hugo:
+Δημιουργία webpage με hugo: https://asciinema.org/a/429707
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων:```sudo apt install hugo```.
