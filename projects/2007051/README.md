@@ -13,13 +13,13 @@
 | 1 | <sup><a href="#1"> Περιγραφή των αναγκών και των στόχων για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> βιογραφικό: Ιστοσελίδα με χρήση Jekyll </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης </a></sup> |
-| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
+| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 & A2 </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
+| 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
 | 11 | <sup><a href="#11"> </a></sup> |
 | 12 | <sup><a href="#12"> </a></sup> |
 
@@ -76,45 +76,38 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ###### [4]
 
-## Άσκηση γραμμής εντολών: performance monitoring
+## Άσκηση γραμμής εντολών: create your own static site and blog generator
 
-Χρήση του py-spy: https://asciinema.org/a/429431
-
-Χρήση του hyperfine: https://asciinema.org/a/429434
-
-Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
-
-Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
+Δημιουργία webpage με hugo: https://asciinema.org/a/429707
 
 ## Υλοποίηση:
-• Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
+• Εγκατάσταση των απαραίτητων πακέτων:```sudo apt install hugo```.
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
-  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
+• Δημιουργία site: ```hugo new site quickstart```.
 
-• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
+• Ορισμός location site: ```cd quickstart```, ```git init```.
 
-• Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
+• Εγκατάσταση θέματος: ```git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke```
 
-• Benchmarking μέσω **hyperfine**: ```hyperfine 'python testscript.py' 'python testscript2.py'```.
+• Πληκτρολόγηση εντολής hosting: ```hugo server -D```.
 
-• Εξαγωγή αποτελέσματος: ```hyperfine -i --export-json output 'python testscript.py' 'python testscript2.py'```.
+• Δημιουργία post: ```hugo new posts/my-latest-post.md```.
+
+• Επεξεργασία post: ```nano content/posts/my-latest-post.md```.
+
+• Build site: ```hugo -D```.
 
 • Ολοκλήρωση asciicast: ```exit```.
 
 **Αποτελέσματα:**
 
-![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
+![quickstart](https://github.com/geopala/sw-images/blob/main/quickstart.png)
 
-![output](https://github.com/geopala/sw-images/blob/main/output.png)
+![hugo](https://github.com/geopala/sw-images/blob/main/hugo.png)
 
-**Πηγές:**
-
-https://github.com/benfred/py-spy#usage
-
-https://github.com/sharkdp/hyperfine#usage
+**Πηγή:** https://github.com/gohugoio/hugo
 
 ###### [5]
 
@@ -240,36 +233,45 @@ https://github.com/sharkdp/hyperfine#usage
 
 ###### [10]
 
-## Άσκηση γραμμής εντολών: create your own static site and blog generator
+## Άσκηση γραμμής εντολών: performance monitoring
 
-Δημιουργία webpage με hugo: https://asciinema.org/a/429707
+Χρήση του py-spy: https://asciinema.org/a/429431
+
+Χρήση του hyperfine: https://asciinema.org/a/429434
+
+Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
+
+Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
 
 ## Υλοποίηση:
-• Εγκατάσταση των απαραίτητων πακέτων:```sudo apt install hugo```.
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Δημιουργία site: ```hugo new site quickstart```.
+• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
+  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
 
-• Ορισμός location site: ```cd quickstart```, ```git init```.
+• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
 
-• Εγκατάσταση θέματος: ```git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke```
+• Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
 
-• Πληκτρολόγηση εντολής hosting: ```hugo server -D```.
+• Benchmarking μέσω **hyperfine**: ```hyperfine 'python testscript.py' 'python testscript2.py'```.
 
-• Δημιουργία post: ```hugo new posts/my-latest-post.md```.
-
-• Επεξεργασία post: ```nano content/posts/my-latest-post.md```.
-
-• Build site: ```hugo -D```.
+• Εξαγωγή αποτελέσματος: ```hyperfine -i --export-json output 'python testscript.py' 'python testscript2.py'```.
 
 • Ολοκλήρωση asciicast: ```exit```.
 
 **Αποτελέσματα:**
 
-![hugo]()
+![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
 
-**Πηγή:** https://github.com/gohugoio/hugo
+![output](https://github.com/geopala/sw-images/blob/main/output.png)
+
+**Πηγές:**
+
+https://github.com/benfred/py-spy#usage
+
+https://github.com/sharkdp/hyperfine#usage
 
 ###### [11]
 ###### [12]
