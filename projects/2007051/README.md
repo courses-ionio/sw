@@ -191,46 +191,6 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
 
-## Άσκηση γραμμής εντολών: performance monitoring
-
-Χρήση του py-spy: https://asciinema.org/a/429431
-
-Χρήση του hyperfine: https://asciinema.org/a/429434
-
-Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
-
-Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
-
-## Υλοποίηση:
-• Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
-
-• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
-
-• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
-  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
-
-• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
-
-• Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
-
-• Benchmarking μέσω **hyperfine**: ```hyperfine 'python testscript.py' 'python testscript2.py'```.
-
-• Εξαγωγή αποτελέσματος: ```hyperfine -i --export-json output 'python testscript.py' 'python testscript2.py'```.
-
-• Ολοκλήρωση asciicast: ```exit```.
-
-**Αποτελέσματα:**
-
-![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
-
-![output](https://github.com/geopala/sw-images/blob/main/output.png)
-
-**Πηγές:**
-
-https://github.com/benfred/py-spy#usage
-
-https://github.com/sharkdp/hyperfine#usage
-
 ###### [10]
 
 ## Άσκηση γραμμής εντολών: performance monitoring
