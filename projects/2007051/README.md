@@ -19,7 +19,7 @@
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 10 | <sup><a href="#10"> </a></sup> |
+| 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
 | 11 | <sup><a href="#11"> </a></sup> |
 | 12 | <sup><a href="#12"> </a></sup> |
 
@@ -239,5 +239,6 @@ https://github.com/benfred/py-spy#usage
 https://github.com/sharkdp/hyperfine#usage
 
 ###### [10]
+
 ###### [11]
 ###### [12]
