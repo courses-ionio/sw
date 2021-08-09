@@ -14,7 +14,7 @@
 | 2 | <sup><a href="#2"> βιογραφικό: Ιστοσελίδα με χρήση Jekyll </a></sup> | 
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
-| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 & A2 </a></sup> |
+| 5 | <sup><a href="#5">  </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7">  </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
