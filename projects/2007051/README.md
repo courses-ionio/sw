@@ -76,40 +76,45 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ###### [4]
 
-## Άσκηση γραμμής εντολών: create notifications on your server
+## Άσκηση γραμμής εντολών: performance monitoring
 
-Εκκίνηση mosquitto: https://asciinema.org/a/428255
+Χρήση του py-spy: https://asciinema.org/a/429431
 
-Παράδείγμα λήψης μηνύματος μέσω mosquitto: https://asciinema.org/a/428265
+Χρήση του hyperfine: https://asciinema.org/a/429434
+
+Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
+
+Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
 
 ## Υλοποίηση:
-• Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```.
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Εκκίνηση του mosquitto: ```mosquitto```.
+• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
+  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
 
-• Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+• Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
 
-• Ορισμός νέου topic στην εφαρμογή **MQTT Client** μέσω **+**(εικόνες).
+• Πληκτρολόγηση των εντολών: ```cat testscript.py``` και ```cat testscript2.py```.
 
-• Εντοπισμός IP terminal: ```ifconfig``` και πληκτρολόγηση αυτής στην ενότητα **Host** του app.
+• Benchmarking μέσω **hyperfine**: ```hyperfine 'python testscript.py' 'python testscript2.py'```.
 
-• Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up?"```.
-
-• Επιτυχής λήψη μηνύματων στη συσκευή μου.
+• Εξαγωγή αποτελέσματος: ```hyperfine -i --export-json output 'python testscript.py' 'python testscript2.py'```.
 
 • Ολοκλήρωση asciicast: ```exit```.
 
 **Αποτελέσματα:**
 
-![mqtt-pub](https://github.com/geopala/sw-images/blob/main/mqtt-pub.png)
+![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
 
-![mqtt-setup](https://github.com/geopala/sw-images/blob/main/mqtt-setup.jpg)
+![output](https://github.com/geopala/sw-images/blob/main/output.png)
 
-![mqtt-test](https://github.com/geopala/sw-images/blob/main/mqtt-test.jpg)
+**Πηγές:**
 
-**Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
+https://github.com/benfred/py-spy#usage
+
+https://github.com/sharkdp/hyperfine#usage
 
 ###### [5]
 
@@ -157,6 +162,41 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 ###### [7]
 ###### [8]
 ###### [9]
+
+## Άσκηση γραμμής εντολών: create notifications on your server
+
+Εκκίνηση mosquitto: https://asciinema.org/a/428255
+
+Παράδείγμα λήψης μηνύματος μέσω mosquitto: https://asciinema.org/a/428265
+
+## Υλοποίηση:
+• Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install mosquitto``` και ```sudo apt-get install mosquitto-clients```.
+
+• Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
+
+• Εκκίνηση του mosquitto: ```mosquitto```.
+
+• Εγγραφή σε topic π.χ **test**: ```mqtt_sub -h localhost -t test```.
+
+• Ορισμός νέου topic στην εφαρμογή **MQTT Client** μέσω **+**(εικόνες).
+
+• Εντοπισμός IP terminal: ```ifconfig``` και πληκτρολόγηση αυτής στην ενότητα **Host** του app.
+
+• Πληκτρολόγηση της εντολής ```mqtt_pub -h localhost -t test -m "What's up?"```.
+
+• Επιτυχής λήψη μηνύματων στη συσκευή μου.
+
+• Ολοκλήρωση asciicast: ```exit```.
+
+**Αποτελέσματα:**
+
+![mqtt-pub](https://github.com/geopala/sw-images/blob/main/mqtt-pub.png)
+
+![mqtt-setup](https://github.com/geopala/sw-images/blob/main/mqtt-setup.jpg)
+
+![mqtt-test](https://github.com/geopala/sw-images/blob/main/mqtt-test.jpg)
+
+**Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
 
 ## Άσκηση γραμμής εντολών: performance monitoring
 
