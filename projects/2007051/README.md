@@ -185,11 +185,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Αποτελέσματα:**
 
-![pdf]()
+![pdf](https://github.com/geopala/sw-images/blob/main/resume.png)
 
-![pandoc]()
-
-**Πηγές:**
+**Πηγή:** https://pandoc.org/getting-started.html#step-6-converting-a-file
 
 ###### [8]
 ###### [9]
