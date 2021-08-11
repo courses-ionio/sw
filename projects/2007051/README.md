@@ -164,9 +164,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 Αρχείο log:
 
-Δημιουργία αρχείου tex:
+Δημιουργία αρχείου tex: https://asciinema.org/a/430004
 
-Δημιουργία pdf:
+Δημιουργία pdf: https://asciinema.org/a/430005
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo apt-get install pandoc```&```sudo apt-get install texlive-latex-base```.
