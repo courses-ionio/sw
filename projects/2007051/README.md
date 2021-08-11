@@ -158,11 +158,11 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ## βιογραφικό: PDF με pandoc & latex
 
+Αρχείο tex:
+
 Αρχείο pdf:
 
 Αρχείο log:
-
-Αρχείο tex:
 
 Δημιουργία αρχείου tex:
 
@@ -177,23 +177,19 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 • Δημιουργία pdf location: ```mkdir pdf```
 
-Εκτέλεσα την εντολή ```pandoc https://apostoloskp.github.io/online-cv/ -o cv.tex -s``` για να κάνω generate τo αρχείο .tex του bio.
-Επανήλθα στο terminal και εφόσον κατευθύνθηκα με ```cd online-cv``` στο αντίστοιχο location για το νέο LaTex αρχείο, χρησιμοποίησα την εντολή ```pdflatex cv.tex``` για την τελική μετατροπή σε pdf, όπως φαίνεται και στο παραπάνω asciinema. Παρατίθενται όλα τα σχετικά αρχεία που προέκυψαν απο τη μετατροπή.
-Παρατήρησα πως στο τελικό pdf δεν εμφανίζονται οι εικόνες και το θέμα, παρά μόνο το κείμενο αυτού.
-Ολοκλήρωσα το asciicast με την εντολή ```exit```.
+• Δημιουργία αρχείου tex: ```pandoc https://geopala.github.io/online-cv/ -o cv.tex -s```
+
+• Μετατροπή σε pdf: ```pdflatex cv.tex```
+
+• Ολοκλήρωση asciicast: ```exit```.
 
 **Αποτελέσματα:**
 
-![pdf](https://github.com/apostoloskp/sw-images/blob/main/pdf.png)
+![pdf]()
 
-![pandoc](https://github.com/apostoloskp/sw-images/blob/main/pandoc.png)
+![pandoc]()
 
 **Πηγές:**
-
-https://pandoc.org/demos.html
-
-https://help.ubuntu.com/community/LaTeX
-
 
 ###### [8]
 ###### [9]
