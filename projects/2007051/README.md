@@ -158,11 +158,11 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ## βιογραφικό: PDF με pandoc & latex
 
-Αρχείο tex:
+Αρχείο tex: https://github.com/geopala/sw-images/blob/main/cv.tex
 
-Αρχείο pdf:
+Αρχείο pdf: https://github.com/geopala/sw-images/blob/main/cv.pdf
 
-Αρχείο log:
+Αρχείο log: https://github.com/geopala/sw-images/blob/main/cv.log
 
 Δημιουργία αρχείου tex: https://asciinema.org/a/430004
 
