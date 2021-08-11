@@ -33,6 +33,8 @@
 
 ###### [2]
 
+## βιογραφικό: Ιστοσελίδα με χρήση Jekyll
+
 Online Βιογραφικό/Bio: https://geopala.github.io/online-cv/
 
 Repository βιογραφικού: https://github.com/geopala/online-cv
