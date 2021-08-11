@@ -16,7 +16,7 @@
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
 | 5 | <sup><a href="#5">  </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
-| 7 | <sup><a href="#7"> βιογραφικό: pandoc & latex </a></sup> |
+| 7 | <sup><a href="#7"> βιογραφικό: PDF με pandoc & latex </a></sup> |
 | 8 | <sup><a href="#8">  </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
 | 10 | <sup><a href="#10">  </a></sup> |
@@ -156,7 +156,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ###### [7]
 
-## βιογραφικό: pandoc & latex
+## βιογραφικό: PDF με pandoc & latex
 
 
 ###### [8]
