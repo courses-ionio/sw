@@ -17,7 +17,7 @@
 | 5 | <sup><a href="#5">  </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7"> βιογραφικό: PDF με pandoc & latex </a></sup> |
-| 8 | <sup><a href="#8">  </a></sup> |
+| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη μαθήματος Η' εξαμήνου </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
 | 10 | <sup><a href="#10">  </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
@@ -190,6 +190,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 **Πηγή:** https://pandoc.org/getting-started.html#step-6-converting-a-file
 
 ###### [8]
+
+## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη μαθήματος Η' εξαμήνου
+
 ###### [9]
 
 ## Άσκηση γραμμής εντολών: create notifications on your server
