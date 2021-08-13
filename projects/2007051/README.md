@@ -193,6 +193,23 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ## Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη μαθήματος Η' εξαμήνου
 
+## Υλοποίηση:
+### Προσθήκη μαθήματος ελεύθερης επιλογής "Μουσείο & Κοινωνικά Δίκτυα" του Η' εξαμήνου.
+
+**Issue**: https://github.com/ioniodi/sitegr/issues/220
+
+**green light**: ❌
+
+**Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
+
+**Αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_courses/museum-and-social-networks.md
+
+**pull request**: ❌
+
+**Pull Request**:
+
+**Netlify**:
+
 ###### [9]
 
 ## Άσκηση γραμμής εντολών: create notifications on your server
