@@ -112,8 +112,10 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 **Πηγή:** https://github.com/gohugoio/hugo
 
 ###### [5]
+## Συμμετοχικό περιεχόμενο: A1 & A2
 
-# A1
+## A1
+
 ## WhatsApp
 
 Εικόνα: https://geopala.netlify.app/gallery/whatsapp/
