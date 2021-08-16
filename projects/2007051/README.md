@@ -21,7 +21,7 @@
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
 | 10 | <sup><a href="#10">  </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
-| 12 | <sup><a href="#12"> </a></sup> |
+| 12 | <sup><a href="#12"> Τελική αναφορά </a></sup> |
 
 ###### [1]
 
@@ -292,3 +292,5 @@ https://github.com/benfred/py-spy#usage
 https://github.com/sharkdp/hyperfine#usage
 
 ###### [12]
+
+## Τελική αναφορά
