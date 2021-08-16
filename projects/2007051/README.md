@@ -130,7 +130,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 ## Windows 11 
 
-Εικόνα: https://geopala.netlify.app/gallery/windows8/
+Εικόνα: https://geopala.netlify.app/gallery/windows11/
 
 Αποθετήριο εικόνας: https://github.com/geopala/_gallery/blob/2007051/windows11.md
 
