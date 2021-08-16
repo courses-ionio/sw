@@ -143,13 +143,13 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 # A2
 ## Διαφάνιες και Χρονολόγιο
 
-Διαφάνιες:
+Διαφάνιες: https://geopala.netlify.app/slides/gui/
 
-Αποθετήριο διαφανιών: 
+Αποθετήριο διαφανιών: https://github.com/geopala/site/blob/master/_slides/gui.md 
 
-Χρονολόγιο: 
+Χρονολόγιο: https://geopala.netlify.app/timeline/systems/
 
-Αποθετήριο χρονολογίου:
+Αποθετήριο χρονολογίου: https://github.com/geopala/site/blob/2007051/_timeline/systems.md
 
 ###### [6]
 
