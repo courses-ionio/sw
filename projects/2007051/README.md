@@ -306,19 +306,17 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 **Πηγή:** [Is WhatsApp safe?](https://parade.com/1201015/stephanieosmanski/is-whatsapp-safe/)
 
 # B2
-## Βιογραφία:
+## Βιογραφία: Jan Koum
 
-Αρχείο βιογραφίας:
+Αρχείο βιογραφίας: https://github.com/geopala/site/blob/2007051/_biography/jan-koum.md
 
-Αρχείο σύντομης βιογραφίας:
+Αρχείο σύντομης βιογραφίας: https://github.com/geopala/site/blob/2007051/_biography/bio-koum.md
 
-Βιογραφία:
+Βιογραφία: - (Δεν γινόταν deploy στο netlify, καθώς το fork του repo **images** μέσω branch **2007051** οδηγούσε στο **pibook/images** και όχι στο **geopala/images**)
 
 **Πηγές:**
 
-[]()
-
-[]()
+[Jan Koum Biography](https://www.thefamouspeople.com/profiles/jan-koum-7407.php)
 
 ###### [11]
 
