@@ -294,11 +294,11 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 # B1
 ## Μελέτη Περίπτωσης: WhatsApp
 
-Αρχείο μελέτης: 
+Αρχείο μελέτης: https://github.com/geopala/site/blob/2007051/_case-study/whatsapp.md
 
-Κείμενο μελέτης:
+Κείμενο μελέτης: https://github.com/geopala/site/blob/2007051/_case-study/cs-whatsapp.md
 
-Μελέτη περίπτωσης:
+Μελέτη περίπτωσης: https://geopala.netlify.app/case-study/whatsapp/
 
 ## Πληροφορίες:
 Αναφορά και σύντομη ανάλυση της ιδιωτικότητας και ασφάλειας που προσφέρει το WhatsApp Messenger ως μέσο ανταλλαγής μηνυμάτων και αρχείων.
