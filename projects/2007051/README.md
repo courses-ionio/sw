@@ -303,7 +303,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 ## Πληροφορίες:
 Αναφορά και σύντομη ανάλυση της ιδιωτικότητας και ασφάλειας που προσφέρει το WhatsApp Messenger ως μέσο ανταλλαγής μηνυμάτων και αρχείων.
 
-# Πηγή: [Is WhatsApp safe?](https://parade.com/1201015/stephanieosmanski/is-whatsapp-safe/)
+**Πηγή:** [Is WhatsApp safe?](https://parade.com/1201015/stephanieosmanski/is-whatsapp-safe/)
 
 # B2
 ## Βιογραφία:
