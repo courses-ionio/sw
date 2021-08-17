@@ -12,15 +12,15 @@
 | --- | --- |
 | 1 | <sup><a href="#1"> Περιγραφή των αναγκών και των στόχων για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> βιογραφικό: Σελίδα με jekyll </a></sup> | 
-| 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη ανακοίνωσης </a></sup> |
-| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
+| 3 | <sup><a href="#3"> Προσθήκη ανακοίνωσης </a></sup> |
+| 4 | <sup><a href="#4"> create your own static site and blog generator </a></sup> |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 & A2 </a></sup> |
-| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: send notifications to your desktop-mobile </a></sup> |
+| 6 | <sup><a href="#6"> send notifications to your desktop-mobile </a></sup> |
 | 7 | <sup><a href="#7"> βιογραφικό: PDF με pandoc & latex </a></sup> |
-| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη μαθήματος Η' εξαμήνου </a></sup> |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
+| 8 | <sup><a href="#8"> Προσθήκη μαθήματος Η' εξαμήνου </a></sup> |
+| 9 | <sup><a href="#9"> create notifications on your server </a></sup> |
 | 10 | <sup><a href="#10">  </a></sup> |
-| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: performance monitoring </a></sup> |
+| 11 | <sup><a href="#11"> performance monitoring </a></sup> |
 | 12 | <sup><a href="#12"> Τελική αναφορά </a></sup> |
 
 ###### [1]
