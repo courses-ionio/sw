@@ -6,6 +6,8 @@
 
 <h4>Προσωπικό site: https://geopala.netlify.app/ </h4>
 
+<h4>Προφίλ Asciinema: https://asciinema.org/~P2007051 </h4>
+
 # Παραδοτέα
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
@@ -316,7 +318,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Πηγές:**
 
-[Jan Koum Biography](https://www.thefamouspeople.com/profiles/jan-koum-7407.php)
+[Jan Koum](https://www.thefamouspeople.com/profiles/jan-koum-7407.php)
 
 ###### [11]
 
