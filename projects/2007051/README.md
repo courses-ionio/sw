@@ -78,7 +78,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **Pull Request**: https://github.com/ioniodi/sitegr/pull/222
 
-**Netlify**:
+**Netlify**: https://deploy-preview-222--epic-hamilton-da9ac8.netlify.app/posts/2021/05/21/episkepsi-proedrou/
 
 ###### [4]
 
