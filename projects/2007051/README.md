@@ -76,7 +76,7 @@ root τις αλλαγές που θα πραγματοποιώ στο master br
 
 **pull request**: ✔️ 
 
-**Pull Request**: https://github.com/ioniodi/sitegr/pull/221
+**Pull Request**: https://github.com/ioniodi/sitegr/pull/222
 
 **Netlify**:
 
