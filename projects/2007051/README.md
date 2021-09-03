@@ -240,11 +240,11 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Issue**: https://github.com/ioniodi/sitegr/issues/220
 
-**green light**: ❌
+**green light**: **good first issue**
 
 **Αποθετήριο αιτήματος**: https://github.com/geopala/sitegr/tree/2007051
 
-**Αρχείο .md ανακοίνωσης**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_courses/museum-and-social-networks.md
+**Αρχείο .md μαθήματος**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_courses/museum-and-social-networks.md
 
 **pull request**: ❌
 
