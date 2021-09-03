@@ -246,9 +246,9 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Αρχείο .md μαθήματος**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_courses/museum-and-social-networks.md
 
-**pull request**: ❌
+**pull request**: ✔️
 
-**Pull Request**:
+**Pull Request**: https://github.com/ioniodi/sitegr/pull/223
 
 **Netlify**:
 
