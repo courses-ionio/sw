@@ -376,4 +376,12 @@ Terminal (με το εργαλείο Oracle VM Virtualbox) και ήρθα σε 
 γνώσεων. Τέλος, θέλω να ευχαριστήσω τον καθηγητή και βοηθούς του μαθήματος για τη διδασκαλία και την άμεση ανταπόκριση, καθώς όταν χρειάστηκα την οποιαδήποτε βοήθεια/οδηγία 
 σχετικά με την εκπόνηση των παραδοτέων, με εξυπηρέτησαν άμεσα.
 
-## Βιβλιογραφία
+## Βιβλιογραφία:
+
+[Oracle VM Virtual Box](https://www.virtualbox.org/manual/ch01.html)
+
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
+
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
