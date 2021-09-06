@@ -379,6 +379,8 @@ Terminal (με το εργαλείο **Oracle VM Virtualbox**), ήρθα σε ε
 
 ## Βιβλιογραφία:
 
+[Ubuntu tutorials](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
 [Oracle VM Virtual Box](https://www.virtualbox.org/manual/ch01.html)
 
 [Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
