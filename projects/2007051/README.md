@@ -251,7 +251,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Pull Request**: https://github.com/ioniodi/sitegr/pull/224
 
-**Netlify**:
+**Netlify**: https://deploy-preview-224--epic-hamilton-da9ac8.netlify.app/courses/museum-and-social-networks/
 
 ###### [9]
 
