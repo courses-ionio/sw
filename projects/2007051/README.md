@@ -248,7 +248,7 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **pull request**: ✔️
 
-**Pull Request**: https://github.com/ioniodi/sitegr/pull/223
+**Pull Request**: https://github.com/ioniodi/sitegr/pull/224
 
 **Netlify**:
 
