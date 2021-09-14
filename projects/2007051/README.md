@@ -234,7 +234,11 @@ https://www.youtube.com/watch?v=bbdQXfReuG0&t=953s
 
 ![pdf](https://github.com/geopala/sw-images/blob/main/resume.png)
 
-**Πηγή:** https://pandoc.org/getting-started.html#step-6-converting-a-file
+**Πηγές:** 
+
+https://pandoc.org/getting-started.html#step-6-converting-a-file
+
+https://www.youtube.com/watch?v=JG4fqd8pEgE
 
 ###### [8]
 
