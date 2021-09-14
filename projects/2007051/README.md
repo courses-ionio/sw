@@ -406,6 +406,8 @@ Terminal (με το εργαλείο **Oracle VM Virtualbox**), ήρθα σε ε
 
 ## Βιβλιογραφία:
 
+[Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+
 [Ubuntu tutorials](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 [Oracle VM Virtual Box](https://www.virtualbox.org/manual/ch01.html)
