@@ -256,7 +256,9 @@ https://www.youtube.com/watch?v=JG4fqd8pEgE
 
 **Αρχείο .md μαθήματος**: https://github.com/geopala/sitegr/blob/2007051/all_collections/_courses/museum-and-social-networks.md
 
-**pull request**: ✔️
+*Το μάθημα αποτελεί course επιλογής από άλλο τμήμα του Ιονίου Πανεπιστημίου*
+
+**pull request**: not merged
 
 **Pull Request**: https://github.com/ioniodi/sitegr/pull/224
 
