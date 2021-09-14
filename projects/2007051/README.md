@@ -296,7 +296,11 @@ https://www.youtube.com/watch?v=JG4fqd8pEgE
 
 ![mqtt-test](https://github.com/geopala/sw-images/blob/main/mqtt-test.jpg)
 
-**Πηγή:** https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
+**Πηγές:** 
+
+https://www.arubacloud.com/tutorial/how-to-install-and-secure-mosquitto-on-ubuntu-20-04.aspx
+
+https://www.youtube.com/watch?v=8KiCUea0kxQ
 
 ###### [10]
 
@@ -420,8 +424,6 @@ Terminal (με το εργαλείο **Oracle VM Virtualbox**), ήρθα σε ε
 
 [Oracle VM Virtual Box](https://www.virtualbox.org/manual/ch01.html)
 
-[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
+[Συμμετοχικό Περιεχόμενο](https://courses-ionio.github.io/projects/social/)
 
-[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
-
-[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
+[Οδηγίες για δημιουργία, επεξεργασία, και αποστολή αναφοράς εργασίας](https://courses-ionio.github.io/help/guide/)
