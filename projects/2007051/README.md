@@ -195,7 +195,11 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 ![teleg-test](https://github.com/geopala/sw-images/blob/main/teleg-test.jpg)
 
-**Πηγή:** https://github.com/dschep/ntfy#telegram---telegram
+**Πηγές:** 
+
+https://github.com/dschep/ntfy#telegram---telegram
+
+https://www.youtube.com/watch?v=bbdQXfReuG0&t=953s
 
 ###### [7]
 
