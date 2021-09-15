@@ -57,7 +57,7 @@ Repository βιογραφικού: https://github.com/geopala/online-cv
 
 **Αποτελέσματα:**
 
-![bio](https://github.com/geopala/sw-images/blob/main/bio.png)
+![bio](https://github.com/geopala/swfiles/blob/main/bio.png)
 
 **Πηγή:** https://github.com/sharu725/online-cv#installation
 
@@ -111,9 +111,9 @@ Repository βιογραφικού: https://github.com/geopala/online-cv
 
 **Αποτελέσματα:**
 
-![quickstart](https://github.com/geopala/sw-images/blob/main/quickstart.png)
+![quickstart](https://github.com/geopala/swfiles/blob/main/quickstart.png)
 
-![hugo](https://github.com/geopala/sw-images/blob/main/hugo.png)
+![hugo](https://github.com/geopala/swfiles/blob/main/hugo.png)
 
 **Πηγή:** https://github.com/gohugoio/hugo
 
@@ -186,15 +186,15 @@ Telegram setup και παράδειγμα χρήσης: https://asciinema.org/a
 
 **Αποτελέσματα:**
 
-![hello-crit](https://github.com/geopala/sw-images/blob/main/hellocrit.png)
+![hello-crit](https://github.com/geopala/swfiles/blob/main/hellocrit.png)
 
-![howru-low](https://github.com/geopala/sw-images/blob/main/howru-low.png)
+![howru-low](https://github.com/geopala/swfiles/blob/main/howru-low.png)
 
-![ntfy-sleep](https://github.com/geopala/sw-images/blob/main/ntfy-sleep.png)
+![ntfy-sleep](https://github.com/geopala/swfiles/blob/main/ntfy-sleep.png)
 
-![teleg-setup](https://github.com/geopala/sw-images/blob/main/teleg-setup.jpg)
+![teleg-setup](https://github.com/geopala/swfiles/blob/main/teleg-setup.jpg)
 
-![teleg-test](https://github.com/geopala/sw-images/blob/main/teleg-test.jpg)
+![teleg-test](https://github.com/geopala/swfiles/blob/main/teleg-test.jpg)
 
 **Πηγές:** 
 
@@ -206,11 +206,11 @@ https://www.youtube.com/watch?v=bbdQXfReuG0&t=953s
 
 ## βιογραφικό: PDF με pandoc & latex
 
-Αρχείο tex: https://github.com/geopala/sw-images/blob/main/cv.tex
+Αρχείο tex: https://github.com/geopala/swfiles/blob/main/cv.tex
 
-Αρχείο pdf: https://github.com/geopala/sw-images/blob/main/cv.pdf
+Αρχείο pdf: https://github.com/geopala/swfiles/blob/main/cv.pdf
 
-Αρχείο log: https://github.com/geopala/sw-images/blob/main/cv.log
+Αρχείο log: https://github.com/geopala/swfiles/blob/main/cv.log
 
 Δημιουργία αρχείου tex: https://asciinema.org/a/430004
 
@@ -233,7 +233,7 @@ https://www.youtube.com/watch?v=bbdQXfReuG0&t=953s
 
 **Αποτελέσματα:**
 
-![pdf](https://github.com/geopala/sw-images/blob/main/resume.png)
+![pdf](https://github.com/geopala/swfiles/blob/main/resume.png)
 
 **Πηγές:** 
 
@@ -293,11 +293,11 @@ https://www.youtube.com/watch?v=JG4fqd8pEgE
 
 **Αποτελέσματα:**
 
-![mqtt-pub](https://github.com/geopala/sw-images/blob/main/mqtt-pub.png)
+![mqttpub](https://github.com/geopala/swfiles/blob/main/mqtt-pub.png)
 
-![mqtt-setup](https://github.com/geopala/sw-images/blob/main/mqtt-setup.jpg)
+![mqttsetup](https://github.com/geopala/swfiles/blob/main/mqtt-setup.jpg)
 
-![mqtt-test](https://github.com/geopala/sw-images/blob/main/mqtt-test.jpg)
+![mqtttest](https://github.com/geopala/swfiles/blob/main/mqtt-test.jpg)
 
 **Πηγές:** 
 
@@ -307,7 +307,7 @@ https://www.youtube.com/watch?v=8KiCUea0kxQ
 
 ###### [10]
 
-## Συμμετοχικό περιεχόμενο: Β1 και Β2
+## Συμμετοχικό περιεχόμενο: Β1 & Β2
 
 # B1
 ## Μελέτη Περίπτωσης: WhatsApp
@@ -344,17 +344,17 @@ https://www.youtube.com/watch?v=8KiCUea0kxQ
 
 Χρήση του hyperfine: https://asciinema.org/a/429434
 
-Flamegraph profile.svg: https://github.com/geopala/sw-images/blob/main/profile.png
+Flamegraph profile.svg: https://github.com/geopala/swfiles/blob/main/profile.png
 
-Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.png
+Output του hyperfine: https://github.com/geopala/swfiles/blob/main/output.png
 
 ## Υλοποίηση:
 • Εγκατάσταση των απαραίτητων πακέτων: ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```apt-get install wget```, ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``` & ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```.
 
 • Έναρξη καταγραφής terminal: ```asciinema rec -i 0.2```.
 
-• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/sw-images/blob/main/testscript.py]
-  & **testscript2.py**[https://github.com/geopala/sw-images/blob/main/testscript2.py].
+• Χρήση 2 print script: **testscript.py**[https://github.com/geopala/swfiles/blob/main/testscript.py]
+  & **testscript2.py**[https://github.com/geopala/swfiles/blob/main/testscript2.py].
 
 • Performance monitoring του **testscript.py** μέσω **py-spy**: ```py-spy record -o profile.svg -- python3 testscript.py```.
 
@@ -368,9 +368,9 @@ Output του hyperfine: https://github.com/geopala/sw-images/blob/main/output.p
 
 **Αποτελέσματα:**
 
-![profile](https://github.com/geopala/sw-images/blob/main/profile.png)
+![profile](https://github.com/geopala/swfiles/blob/main/profile.png)
 
-![output](https://github.com/geopala/sw-images/blob/main/output.png)
+![output](https://github.com/geopala/swfiles/blob/main/output.png)
 
 **Πηγές:**
 
