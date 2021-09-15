@@ -57,7 +57,7 @@ Repository βιογραφικού: https://github.com/geopala/online-cv
 
 **Αποτελέσματα:**
 
-![bio](https://github.com/geopala/swfiles/blob/main/bio.png)
+![bio](https://github.com/geopala/swfiles/blob/main/geopalabio.png)
 
 **Πηγή:** https://github.com/sharu725/online-cv#installation
 
