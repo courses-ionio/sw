@@ -49,9 +49,7 @@ Repository βιογραφικού: https://github.com/geopala/online-cv
 
 • Fork του repository.
 
-• Διαγραφή αρχικού **gh-pages** και δημιουργία νέου.
-
-*Το νέο **gh-pages** είναι υπεύθυνο για το hosting του βιογραφικού.*
+• Διαγραφή αρχικού **gh-pages** και δημιουργία νέου για το hosting του βιογραφικού.
 
 • Eισαγωγή στοιχείων, ανέβασμα profile image στο **assets/images** και αλλαγή θέματος από ```blue``` σε ```ceramic```στα **data.yml** & **_config.yml**.
 
