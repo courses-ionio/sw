@@ -29,7 +29,7 @@
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 & A2 </a></sup> | 100% |
 | 6 | <sup><a href="#6"> send notifications to your desktop-mobile </a></sup> | 100% |
 | 7 | <sup><a href="#7"> βιογραφικό: PDF με pandoc & latex </a></sup> | 100% |
-| 8 | <sup><a href="#8"> Προσθήκη μαθήματος Η' εξαμήνου </a></sup> | 80% |
+| 8 | <sup><a href="#8"> Προσθήκη μαθήματος Η' εξαμήνου </a></sup> | 70% |
 | 9 | <sup><a href="#9"> create notifications on your server </a></sup> | 100% |
 | 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο: Β1 & Β2  </a></sup> | 80% |
 | 11 | <sup><a href="#11"> performance monitoring </a></sup> | 100% |
@@ -417,7 +417,7 @@ Linux Terminal (με το εργαλείο **Oracle VM Virtualbox**), ήρθα �
 
 **Εβδομάδα 7)** βιογραφικό: PDF με pandoc & latex | ✔️ (100%)
 
-**Εβδομάδα 8)** Προσθήκη μαθήματος Η' εξαμήνου | ✔️ (80%)
+**Εβδομάδα 8)** Προσθήκη μαθήματος Η' εξαμήνου | ✔️ (70%)
 
 **Εβδομάδα 9)** create notifications on your server | ✔️ (100%)
 
