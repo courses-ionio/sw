@@ -115,16 +115,23 @@ sudo apt-get install texlive-fonts-extra.
                               ***[log file](https://github.com/P15KOUR/online-cv/blob/master/pdf/cv.log)***
                               
  # *Παραδοτέο 10*
-*συμμετοχικό περιεχόμενο 2*
+##*συμμετοχικό περιεχόμενο 2*
+Για αυτό το παραδοτέο προσθέσα στο site το βιογραφικό του roger tomlinson.
 
 
-
-
+β2
 
 ***[roger tomlinson bio](https://github.com/P15KOUR/site/blob/master/_biography/Roger_F_Tomlinson.md)***
 
+***[roger tomlinson image](https://github.com/P15KOUR/images/blob/master/Roger_Tomlinson_-_Father_of_GIS.jpg)***
 
+***[roger tomlinso thumb](https://github.com/P15KOUR/images/blob/master/Roger_Tomlinson_thumb.jpg)***
 
+# *παραδοτέο 12*
+## *τελική αναφορά*
+ ¨Ήρθα  σε επαφή με  τεχνολογίες και τεχνικές που δεν είχα ξανασυναντήσει και μου φάνηκαν αρκετά  ενδιαφέροντες .
+ Μέσω του συμμετοχικού περιεχομένου κατάφερα να αποκτήσω καινούργιες γνώσεις   ενώ  μέσω των  ασκήσεων προγραματισμού 
+ καταφερα να εξασκήσω τισ γνωσείς μου σε σχέση με το terminal αλλά και γενίκα με τα linux ενώ είδα ενδιαφέροντα  παραδείγματα ανάπτυξης λογισμικού.
 
 
 
