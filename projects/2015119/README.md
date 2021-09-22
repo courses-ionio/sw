@@ -33,9 +33,9 @@
 και τo βιογραφικό που δημιούργησα.το βιογραφικό το έκανα με τα gh-pages με το θέμα jekyl.Στην αρχή έκανα fork το repository που χρειαζόμουν
 και τροποποίισα το data.yml αρχεί για να το φτιάξω στην τορινή του κατάσταση.
 
-https://github.com/P15KOUR/online-cv
+***[online-cv](https://github.com/P15KOUR/online-cv)***
 
-https://p15kour.github.io/online-cv/
+***[cv](https://p15kour.github.io/online-cv/)***
 
 
 # *Παραδοτέο 4* 
@@ -43,28 +43,32 @@ https://p15kour.github.io/online-cv/
 
 create your own static site and blog generator 
 
-asciinema link: https://asciinema.org/a/yTSQk9PUOZr17VA5VRXdSNl54
+asciinema link: ***[static site](https://asciinema.org/a/yTSQk9PUOZr17VA5VRXdSNl54)***
 
 Για αυτήν την άσκηση γραμμής εντολών του μαθήματος χρησιμοποίισα το υπαρχόν cv που είχα κάνει στο πρώτο ερώτημα.Είχα ειδη συνδεδεμένο το git-hub λογαριασμό μου με το linux και είχα είδη κλειδί  SSH το οποίο ηταν συνδεδεμένω GitHub. Έπειτα  επεξεργάστηκα το αρχείο data.yml αλλάζοντας απλά μια φράση. Τέλος  έκανα add, commit και push των αλλαγών αυτών στο αποθετήριο του GitHub. 
+
+
 
 
 # *παραδοτέο 5*
 Στο πρώτο συμμετοχικό περιεχόμενο αποφάσισα να ασχοληθώ με το ArcGis και το Qgis.
 
 ArcGis:
-https://github.com/P15KOUR/_gallery/blob/master/ArcGis.md
 
-https://github.com/P15KOUR/images/blob/master/ArcGIS.png
+***[ArcGis gallery](https://github.com/P15KOUR/_gallery/blob/master/ArcGis.md)***
+
+***[ArcGis image](https://github.com/P15KOUR/images/blob/master/ArcGIS.png)***
 
 Qgis:
-https://github.com/P15KOUR/_gallery/blob/master/QGIS.md
 
-https://github.com/P15KOUR/images/blob/master/QGIS.png
+***[Qgis gallery](https://github.com/P15KOUR/_gallery/blob/master/QGIS.md)***
+
+***[Qgis image](https://github.com/P15KOUR/images/blob/master/QGIS.png)***
 
 
-https://github.com/P15KOUR/site/blob/master/_slides/visualization.md
+***[tags](https://github.com/P15KOUR/site/blob/master/_slides/visualization.md)***
 
-https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md
+***[tags](https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md)***
 
 # *παραδοτέο 6*
 Άσκηση γραμμής εντολών 
@@ -81,11 +85,11 @@ $ sudo apt install -f
 
 Στην συνέχεια εκτέλεσα τις παρακάτω εντολές που δείχνω στο  asciinema link 
 
-asciinema link :https://asciinema.org/a/6WKA1RTW3HNTi4FuuzwSTVgoo
+asciinema link :***[hyperfine](https://asciinema.org/a/6WKA1RTW3HNTi4FuuzwSTVgoo)***
 
-https://github.com/sharkdp/hyperfine
+***[hyperfine help](https://github.com/sharkdp/hyperfine)***
 
-https://ostechnix.com/how-to-benchmark-linux-commands-and-programs-from-commandline/
+***[hyperfine install](https://ostechnix.com/how-to-benchmark-linux-commands-and-programs-from-commandline/)***
 
 
 
