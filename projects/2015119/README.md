@@ -18,11 +18,30 @@
 | 12 | Τελική αναφορά* |
 
 
+Παραδοτέο 1
+Δημιουργία αποθετηρίου και στόχοι για το μάθημα
 
+Στόχος του μαθήματος τεχνολογία λογισμικού  είναι η  διάδραση του χρήστη με το λογισμικό του υπολογιστή μεσώ διάφορων εργαλίων και του commandline.Οι στόχοι μου για το 
+μάθημα είναι η εξοικείωση με τα έργαλια που θα χρειαστώ για την ολοκλήρωση των εργασιών αλλά και καλύτερη  εξοικείωση με  το git-hub .
+
+Παραδοτέο 2 
 
 βιογραφικό
 
+Τα παρακάτω 2 link είναι το link to repository του βιογραφικού μου 
+και τo βιογραφικό που δημιούργησα.το βιογραφικό το έκανα με τα gh-pages με το θέμα jekyl.Στην αρχή έκανα fork το repository που χρειαζόμουν
+και τροποποίισα το data.yml αρχεί για να το φτιάξω στην τορινή του κατάσταση.
+
+https://github.com/P15KOUR/online-cv
+
 https://p15kour.github.io/online-cv/
+
+
+Παραδοτέο 4 
+
+Άσκηση γραμμής εντολών 
+
+create your own static site and blog generator 
 
 
 
@@ -33,13 +52,17 @@ https://p15kour.github.io/online-cv/
 
 ArcGis:
 https://github.com/P15KOUR/_gallery/blob/master/ArcGis.md
+
 https://github.com/P15KOUR/images/blob/master/ArcGIS.png
 
 Qgis:
 https://github.com/P15KOUR/_gallery/blob/master/QGIS.md
+
 https://github.com/P15KOUR/images/blob/master/QGIS.png
 
+
 https://github.com/P15KOUR/site/blob/master/_slides/visualization.md
+
 https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md
 
 
