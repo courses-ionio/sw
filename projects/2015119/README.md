@@ -43,7 +43,9 @@ https://p15kour.github.io/online-cv/
 
 create your own static site and blog generator 
 
+asciinema link: https://asciinema.org/a/yTSQk9PUOZr17VA5VRXdSNl54
 
+Για αυτήν την άσκηση γραμμής εντολών του μαθήματος χρησιμοποίισα το υπαρχόν cv που είχα κάνει στο πρώτο ερώτημα.Είχα ειδη συνδεδεμένο το git-hub λογαριασμό μου με το linux και είχα είδη κλειδί  SSH το οποίο ηταν συνδεδεμένω GitHub. Έπειτα  επεξεργάστηκα το αρχείο data.yml αλλάζοντας απλά μια φράση. Τέλος  έκανα add, commit και push των αλλαγών αυτών στο αποθετήριο του GitHub. 
 
 
 # *παραδοτέο 5*
