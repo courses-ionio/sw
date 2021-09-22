@@ -92,6 +92,30 @@ asciinema link :***[hyperfine](https://asciinema.org/a/6WKA1RTW3HNTi4FuuzwSTVgoo
 ***[hyperfine install](https://ostechnix.com/how-to-benchmark-linux-commands-and-programs-from-commandline/)***
 
 
+# *παραδοτεο 7*
+## *βιογραφικό 2*
+Για την δημιουργία του βιογραφικού σαν pdf χρησιμοποισά το latex και το pandox.
+Αρχικά τα εγκατέστησα με τις παρακάτω εντολές :
+sudo apt-get install pandoc
+sudo apt-get install texlive-latex-base, 
+sudo apt-get install texlive-fonts-recommended
+sudo apt-get install texlive-fonts-extra. 
+ 
+ Εκανα git clone το  git@github.com:P15KOUR/online-cv.git για δημιουργία φακέλου online-cv. Στη συνέχεια, έκανα  ένα φάκελο με mkdir pdf . 
+ Εκτέλεσα την εντολή pandoc https://p15kour.github.io/online-cv/ -o cv.tex -s   για να δημιουργήσω τo αρχείο cv.tex. 
+ χρησιμοποίησα την εντολή pdflatex cv.tex για την τελική μετατροπή σε pdf.
+ 
+ Όλα τα παραπάνω φαίνονται στα παρακάτω video :
+ 
+ asciinema link: ***[cv.tex](https://asciinema.org/a/RRS2ekUD9TwSrv7Ny0N4G0JYB)***
+                 ***[cv.pdf](https://asciinema.org/a/gzLLVzn0Ou7hsjlNi1j1BjXFY)***
+                 
+Το αποτέλεσμα της διαδικασίας:***[cv pdf](https://github.com/P15KOUR/online-cv/blob/master/pdf/cv.pdf)***
+                              ***[tex file](https://github.com/P15KOUR/online-cv/blob/master/pdf/cv.tex)***
+                              ***[log file](https://github.com/P15KOUR/online-cv/blob/master/pdf/cv.log)***
+                              
+ # *Παραδοτέο 10*
+*συμμετοχικό περιεχόμενο 2*
 
 
 
