@@ -37,7 +37,7 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 30% [σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)* + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/): Η εργασία ανάπτυξης είναι υποχρεωτική για όποιον σκοπεύει να πάρει [πτυχιακή με την ομάδα μας](https://github.com/courses-ionio/thesis/wiki) και αντιστοιχεί σε 4 επιπλεόν αιτήματα ενσωμάτωσης τα οποία βαθμολογούνται στην θέση προηγούμενων ερωτημάτων και κρατάμε τον καλύτερο βαθμό.
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/)* + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/)* + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/)* + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)* + 30% [σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)* + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή 60% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/): Η εργασία ανάπτυξης είναι υποχρεωτική για όποιον σκοπεύει να πάρει [πτυχιακή με την ομάδα μας](https://github.com/courses-ionio/thesis/wiki) και αντιστοιχεί σε 4 επιπλεόν αιτήματα ενσωμάτωσης τα οποία βαθμολογούνται στην θέση προηγούμενων ερωτημάτων και κρατάμε τον καλύτερο βαθμό. 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/projects/bonus/)
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
@@ -45,6 +45,7 @@
 * Ανάγνωση κώδικα, 
 * Πρακτικός προγραμματιστής, 
 * [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές
+* [Computer Connections](https://computerhistory.org/blogs/computer-history-museum-license-agreement-for-the-kildall-manuscript/)
 * [Software: Art, Engineering, Mathematics, or Science?](http://worrydream.com/refs/Kay%20-%20Software%20-%20Art,%20Engineering,%20Mathematics,%20or%20Science%3F.html)
 * [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
 * [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
