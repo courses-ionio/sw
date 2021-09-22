@@ -66,8 +66,17 @@ https://github.com/P15KOUR/site/blob/master/_slides/visualization.md
 
 https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md
 
+# *παραδοτέο 6*
+Άσκηση γραμμής εντολών 
 
+performance monitoring
 
+Για αυτή την άσκηση γραμμής εντόλων χρησιμοποίησα το  hyperfine.Aρχικά το εγκατέστησα στο terminal  μου  με τις εντολές
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+sudo dpkg -i hyperfine_1.9.0_amd64.deb
+
+asciinema link :https://asciinema.org/a/6WKA1RTW3HNTi4FuuzwSTVgoo
+https://github.com/sharkdp/hyperfine
 
 
 
