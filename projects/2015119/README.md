@@ -1,8 +1,8 @@
-Ονοματεπώνυμο: Ξενοφών Κουρτζής
+**Ονοματεπώνημο** : **Ξενοφών Κουρτζής**
 
-Αριθμός Μητρώου: Π2015119
+**Αριθμός Μητρώου** : **π2015119**
 
-Git-hub name : P15KOUR
+**Git-hub λογαριασμός**:***[P15KOUR](https://github.com/P15KOUR)***
 
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
@@ -21,13 +21,13 @@ Git-hub name : P15KOUR
 
 
 # *Παραδοτέο 1*
-Δημιουργία αποθετηρίου και στόχοι για το μάθημα
+## *Δημιουργία αποθετηρίου και στόχοι για το μάθημα*
 
 Στόχος του μαθήματος τεχνολογία λογισμικού  είναι η  διάδραση του χρήστη με το λογισμικό του υπολογιστή μεσώ διάφορων εργαλίων και του commandline.Οι στόχοι μου για το 
 μάθημα είναι η εξοικείωση με τα έργαλια που θα χρειαστώ για την ολοκλήρωση των εργασιών αλλά και καλύτερη  εξοικείωση με  το git-hub .
 
 # *Παραδοτέο 2* 
-βιογραφικό
+## *βιογραφικό*
 
 Τα παρακάτω 2 link είναι το link to repository του βιογραφικού μου 
 και τo βιογραφικό που δημιούργησα.το βιογραφικό το έκανα με τα gh-pages με το θέμα jekyl.Στην αρχή έκανα fork το repository που χρειαζόμουν
@@ -39,7 +39,7 @@ https://p15kour.github.io/online-cv/
 
 
 # *Παραδοτέο 4* 
-Άσκηση γραμμής εντολών 
+##  *Άσκηση γραμμής εντολών*
 
 create your own static site and blog generator 
 
@@ -71,12 +71,21 @@ https://github.com/P15KOUR/site/blob/master/_timeline/multimedia.md
 
 performance monitoring
 
-Για αυτή την άσκηση γραμμής εντόλων χρησιμοποίησα το  hyperfine.Aρχικά το εγκατέστησα στο terminal  μου  με τις εντολές
-wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
-sudo dpkg -i hyperfine_1.9.0_amd64.deb
+Για αυτή την άσκηση γραμμής εντόλων χρησιμοποίησα το  hyperfine.Aρχικά το εγκατέστησα στο terminal  μου  με τις εντολές:
+
+$ wget https://github.com/sharkdp/hyperfine/releases/download/v1.4.0/hyperfine_1.4.0_amd64.deb
+
+$ sudo dpkg -i hyperfine_1.4.0_amd64.deb
+
+$ sudo apt install -f
+
+Στην συνέχεια εκτέλεσα τις παρακάτω εντολές που δείχνω στο  asciinema link 
 
 asciinema link :https://asciinema.org/a/6WKA1RTW3HNTi4FuuzwSTVgoo
+
 https://github.com/sharkdp/hyperfine
+
+https://ostechnix.com/how-to-benchmark-linux-commands-and-programs-from-commandline/
 
 
 
