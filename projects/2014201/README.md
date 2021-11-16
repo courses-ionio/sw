@@ -34,7 +34,10 @@
 **Link αποθετηρίου βιογραφικού:** https://github.com/p14pall/online-cv
 
 **Βήματα:**
+· Fork αποθετηρίου βιογραφικού https://github.com/sharu725/online-cv
+· Διαγραφή και δημιουργία νέου branch **gh-pages** για το hosting με βάση τις οδηγίες
+· Προσθήκη προσωπικών στοιχείων, εικόνας προφίλ και αλλαγή θέματος μέσω επεξεργασίας των **data.yml**, **config_yml**.
 
 **Αποτέλεσμα:**
 
-[bio]()
+![bio](https://github.com/p14pall/sw-files/blob/main/bio.png)
