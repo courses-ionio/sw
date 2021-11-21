@@ -59,10 +59,10 @@
 
 ◉
 
-**Aρχείο ανακοίνωσης**:
+**Aρχείο ανακοίνωσης**: https://github.com/p14pall/sitegr/blob/2014201/all_collections/_posts/2021-10-21-ekdilwsi-kalwsorisma.md
 
 **Issue**: https://github.com/ioniodi/sitegr/issues/225
 
-**Συνεισφορά στο Netlify**:
-
 **Pull request**:
+
+**Συνεισφορά στο Netlify**:
