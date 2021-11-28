@@ -101,3 +101,5 @@ Asciinema link: https://asciinema.org/a/451954
 ![hugo](https://github.com/p14pall/sw-files/blob/main/2014201_hugo.png)
 
 ## Πηγή: https://gohugo.io/getting-started/usage/
+
+## Συμμετοχικό περιεχόμενο: A1 και A2
