@@ -33,7 +33,7 @@
 
 **Link αποθετηρίου βιογραφικού:** https://github.com/p14pall/online-cv
 
-**Βήματα:**
+## Βήματα:
 
 ◉ Fork αποθετηρίου βιογραφικού https://github.com/sharu725/online-cv
 
@@ -41,7 +41,7 @@
 
 ◉ Προσθήκη προσωπικών στοιχείων, εικόνας προφίλ και αλλαγή θέματος μέσω επεξεργασίας των **data.yml**, **config_yml**.
 
-**Αποτέλεσμα:**
+## Αποτέλεσμα:
 
 ![bio](https://github.com/p14pall/sw-files/blob/main/bio.png)
 
@@ -66,3 +66,37 @@
 **Pull request**:
 
 **Συνεισφορά στο Netlify**:
+
+## Αποτέλεσμα:
+
+##### [4]
+
+## Άσκηση γραμμής εντολών: create your own static site and blog generator
+
+Asciinema link: https://asciinema.org/a/451954
+
+## Βήματα:
+
+◉ Εγκατάσταση απαραίτητων πακέτων ``sudo pacman -Syu hugo``
+
+◉ Έναρξη εγγραφής τερματικού ``asciinema rec -i 0.2``
+
+◉ Δημιουργία νέας ιστοσελίδας ``hugo new site quickstart``
+
+◉ Επιλογή νέου location ``git init``
+
+◉ Επιλογή και εγκατάσταση theme ``git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke``
+
+◉ Hosting της νέας ιστοσελίδας ``hugo server -D``
+
+◉ Δημιουργία νέας ανάρτησης ``hugo new posts/first-post.md``
+
+◉ Επεξεργασία ανάρτησης ``nano content/posts/first-post.md``
+
+◉ Χτίσιμο τελικής ιστοσελίδας ``hugo -D``
+
+◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
+
+## Αποτέλεσμα:
+
+## Πηγή:
