@@ -148,6 +148,6 @@ Windows Vista ήταν να βελτιώσει την κατάσταση ασφ�
 
 Αποθετήριο διαφανιών: https://github.com/p14pall/site/blob/master/_slides/gui.md
 
-Χρονολόγιο:
+Χρονολόγιο: https://p14pall.netlify.app//timeline/systems/
 
-Αποθετήριο χρονολογίου:
+Αποθετήριο χρονολογίου: https://github.com/p14pall/site/blob/master/_timeline/systems.md
