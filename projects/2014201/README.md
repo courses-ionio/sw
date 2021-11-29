@@ -112,7 +112,7 @@ Asciinema link: https://asciinema.org/a/451954
 
 Είκονα στο προσωπικό site:
 
-Αποθετήριο εικόνας:
+Αποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/master/wechat.md
 
 ## Πληροφορίες:
 
