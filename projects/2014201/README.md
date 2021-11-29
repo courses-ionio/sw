@@ -153,3 +153,7 @@ Windows Vista ήταν να βελτιώσει την κατάσταση ασφ�
 Χρονολόγιο: https://p14pall.netlify.app//timeline/systems/
 
 Αποθετήριο χρονολογίου: https://github.com/p14pall/site/blob/master/_timeline/systems.md
+
+##### [6]
+
+## Άσκηση γραμμής εντολών:
