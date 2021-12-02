@@ -2,8 +2,6 @@
 
 ### ΑΜ: Π2014201
 
-### OS: Arch Linux / Ubuntu
-
 ### [Github Profile](https://github.com/p14pall/)
 
 ### [Προσωπικό Site (Netlify)](https://p14pall.netlify.app/)
