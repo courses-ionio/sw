@@ -4,7 +4,7 @@
 
 ### [Github Profile](https://github.com/p14pall/)
 
-### [Προσωπικό Site](https://p14pall.netlify.app/)
+### [Προσωπικό Site (Netlify)](https://p14pall.netlify.app/)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
