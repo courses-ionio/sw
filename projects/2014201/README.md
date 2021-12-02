@@ -181,25 +181,13 @@ Asciinema link: https://asciinema.org/a/453096
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![mqqt-hithere](https://github.com/p14pall/my-sw/blob/main/mqtt-hithere.png)
+![mqtt-client](https://github.com/p14pall/my-sw/blob/main/mqtt-client.png)
+![mqtt-setup](https://github.com/p14pall/my-sw/blob/main/mqqt-setup.png)
+![mqtt-topic](https://github.com/p14pall/my-sw/blob/main/mqqt-topic.png)
+![mqtt-results](https://github.com/p14pall/my-sw/blob/main/mqtt-results.png)
 
 **Πηγή:** https://mosquitto.org/man/mosquitto-8.html
-
-
-
-
-
-
-
-
-
-
-
 
 
 
