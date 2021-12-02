@@ -45,7 +45,7 @@
 
 ## Αποτέλεσμα:
 
-![bio](https://github.com/p14pall/sw-files/blob/main/bio.png)
+![bio](https://github.com/p14pall/my-sw/blob/main/bio.png)
 
 ###### [3]
 
@@ -100,7 +100,7 @@ Asciinema link: https://asciinema.org/a/451954
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
-![hugo](https://github.com/p14pall/sw-files/blob/main/2014201_hugo.png)
+![hugo](https://github.com/p14pall/my-sw/blob/main/2014201_hugo.png)
 
 **Πηγή:** https://gohugo.io/getting-started/usage/
 
