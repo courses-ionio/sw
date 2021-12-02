@@ -14,7 +14,7 @@
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών: create your own static site and blog generator </a></sup> |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο: A1 και Α2 </a></sup> |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών: create notifications on your server </a></sup> |
-| 7 | βιογραφικό </a></sup> |
+| 7 | <sup><a href="#7"> βιογραφικό </a></sup> |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | Συμμετοχικό περιεχόμενο |
@@ -189,9 +189,10 @@ Asciinema link: https://asciinema.org/a/453096
 
 **Πηγή:** https://mosquitto.org/man/mosquitto-8.html
 
-
-
 ##### [7]
+
+## Βιογραφικό:
+
 ##### [8]
 ##### [9]
 ##### [10]
