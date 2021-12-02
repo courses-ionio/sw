@@ -102,7 +102,7 @@ Asciinema link: https://asciinema.org/a/451954
 ## Αποτέλεσμα:
 ![hugo](https://github.com/p14pall/sw-files/blob/main/2014201_hugo.png)
 
-## Πηγή: https://gohugo.io/getting-started/usage/
+**Πηγή:** https://gohugo.io/getting-started/usage/
 
 ##### [5]
 
@@ -156,4 +156,56 @@ Windows Vista ήταν να βελτιώσει την κατάσταση ασφ�
 
 ##### [6]
 
-## Άσκηση γραμμής εντολών:
+## Άσκηση γραμμής εντολών: create notifications on your server
+
+Asciinema link: https://asciinema.org/a/453096 
+
+## Βήματα:
+
+◉ Εγκατάσταση απαραίτητων πακέτων ``sudo apt-get install mosquitto-clients``
+
+◉ Έναρξη εγγραφής τερματικού ``asciinema rec -i 0.2``
+
+◉ Εκκίνηση mosquitto service ``mosquitto``
+
+◉ Subscribe σε νέο topic ``mosquitto_sub -h localhost -t example``
+
+◉ Αποστολή δοκιμαστικού μηνύματος σε δεύτερο παράθυρο terminal ``mqtt_pub -h localhost -t example -m "Hi there!"`` 
+
+◉ Εντοπισμός IP ``ifconfig``
+
+◉ Setup του παραπάνω topic στο **MQQT Client** app
+
+◉ Αποστολή μηνύματος στη συσκευή-server ``mqtt_pub -h localhost -t example -m "Hopefully this works :)"``
+
+◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
+
+## Αποτέλεσμα:
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+**Πηγή:** https://mosquitto.org/man/mosquitto-8.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### [7]
+##### [8]
+##### [9]
+##### [10]
+##### [11]
+##### [12]
