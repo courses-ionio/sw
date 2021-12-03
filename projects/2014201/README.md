@@ -195,21 +195,27 @@ Asciinema link: https://asciinema.org/a/453096
 
 Asciinema link:
 
+Αρχείο PDF:
+
+Αρχείο log:
+
+Αρχείο tex:
+
 ## Βήματα:
 
-◉ Εγκατάσταση απαραίτητων πακέτων ````
+◉ Εγκατάσταση απαραίτητων πακέτων ``sudo apt-get install pandoc``, ``sudo apt-get install texlive-latex-base``
 
 ◉ Έναρξη εγγραφής τερματικού ``asciinema rec -i 0.2``
 
-◉ 
+◉ Fork προσωπικού αποθετηρίου βιογραφικού ``git clone https://github.com/p14pall/online-cv.git``
 
-◉ 
+◉ Αλλαγή directory στο παραπάνω forked folder ``cd online-cv``
 
-◉ 
+◉ Δημιουργία φακέλου pdf ``mkdir pdf``
 
-◉  
+◉ Δημιουργία tex αρχείου ``pandoc https://p14pall.github.io/online-cv/ -o my-cv.tex -s`` 
 
-◉ 
+◉ Δημιουργία pdf αρχείου ``pdflatex my-cv.tex``
 
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
