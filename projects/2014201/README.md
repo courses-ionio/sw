@@ -193,13 +193,13 @@ Asciinema link: https://asciinema.org/a/453096
 
 ## Βιογραφικό: Δημιουργία PDF
 
-Asciinema link:
+Asciinema link: https://asciinema.org/a/453279
 
-Αρχείο PDF:
+Αρχείο PDF: https://github.com/p14pall/my-sw/blob/main/my-cv.pdf
 
-Αρχείο log:
+Αρχείο log: https://github.com/p14pall/my-sw/blob/main/my-cv.log
 
-Αρχείο tex:
+Αρχείο tex: https://github.com/p14pall/my-sw/blob/main/my-cv.tex
 
 ## Βήματα:
 
@@ -220,9 +220,9 @@ Asciinema link:
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
-![]()
+![my-cv](https://github.com/p14pall/my-sw/blob/main/my-cv.png)
 
-**Πηγή:**
+**Πηγή:** https://linuxhint.com/convert-tex-latex-file-to-pdf/
 
 ##### [8]
 ##### [9]
