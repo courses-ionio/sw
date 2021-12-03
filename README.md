@@ -37,7 +37,7 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
-**Κριτήρια βαθμολογίας:** 10% [κουίζ](https://courses-ionio.github.io/projects/quiz/) + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/) + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 20% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/projects/bonus/)
+**Κριτήρια βαθμολογίας:** 10% [κουίζ](https://courses-ionio.github.io/projects/quiz/) + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 10% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/projects/teamwork/) + 10% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/) + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 20% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 20% [δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/projects/bonus/)
 
 **Όλα τα κριτήρια βαθμολογίας έχουν υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση**
 
