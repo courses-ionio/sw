@@ -319,6 +319,7 @@ Asciinema link ntfy[telegram]: https://asciinema.org/a/454363
 ![telegram_text](https://github.com/p14pall/my-sw/blob/main/telegram_text.jpg)
 
 **Πηγή:**
+
 https://github.com/dschep/ntfy#telegram---telegram
 
 https://core.telegram.org/bots#3-how-do-i-create-a-bot
