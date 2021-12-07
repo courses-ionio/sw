@@ -232,13 +232,25 @@ Asciinema link: https://asciinema.org/a/453279
 
 ## Άσκηση γραμμής εντολών: performance monitoring
 
-Asciinema link:
+Asciinema link py-spy:
+
+Asciinema link hyperfine:
+
+Scripts που χρησιμοποιήθηκαν:
 
 ## Βήματα:
 
-◉ Εγκατάσταση απαραίτητων πακέτων ````
+◉ Εγκατάσταση απαραίτητων πακέτων ``pip3 install py-spy``, ``git clone --depth 1 https://github.com/brendangregg/FlameGraph``, ``apt-get install wget``, ``wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``, ``sudo dpkg -i hyperfine_1.11.0_amd64.deb``
 
 ◉ Έναρξη εγγραφής τερματικού ``asciinema rec -i 0.2``
+
+◉ Επιλογή ενός απλού multiprocessing script **main.py**
+
+◉ Αλλαγή location σε Desktop ``cd Desktop``
+
+◉ 
+
+◉
 
 ◉
 
