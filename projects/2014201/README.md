@@ -236,7 +236,11 @@ Asciinema link py-spy: https://asciinema.org/a/454328
 
 Asciinema link hyperfine: https://asciinema.org/a/454321
 
-Scripts που χρησιμοποιήθηκαν:
+Flamegraph: https://github.com/p14pall/my-sw/blob/main/result.svg
+
+Hyperfine output: https://github.com/p14pall/my-sw/blob/main/output
+
+**Scripts που χρησιμοποιήθηκαν:**
 
 https://github.com/p14pall/my-sw/blob/main/main.py
 
@@ -265,7 +269,7 @@ https://github.com/p14pall/my-sw/blob/main/script2.py
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
-![]()
+![flamegraph](https://github.com/p14pall/my-sw/blob/main/flamegraph.png)
 
 **Πηγή:** 
 
