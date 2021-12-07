@@ -238,6 +238,12 @@ Asciinema link hyperfine:
 
 Scripts που χρησιμοποιήθηκαν:
 
+https://github.com/p14pall/my-sw/blob/main/main.py
+
+https://github.com/p14pall/my-sw/blob/main/script1.py
+
+https://github.com/p14pall/my-sw/blob/main/script2.py
+
 ## Βήματα:
 
 ◉ Εγκατάσταση απαραίτητων πακέτων ``pip3 install py-spy``, ``git clone --depth 1 https://github.com/brendangregg/FlameGraph``, ``apt-get install wget``, ``wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb``, ``sudo dpkg -i hyperfine_1.11.0_amd64.deb``
