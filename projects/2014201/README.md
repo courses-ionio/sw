@@ -285,9 +285,9 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 
-Asciinema link ntfy: 
+Asciinema link ntfy: https://asciinema.org/a/454357
 
-Asciinema link ntfy[telegram]:
+Asciinema link ntfy[telegram]: https://asciinema.org/a/454363
 
 ## Βήματα:
 
@@ -306,13 +306,17 @@ Asciinema link ntfy[telegram]:
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
-![]()
-![]()
-![]()
+![ntfy_name](https://github.com/p14pall/my-sw/blob/main/ntfy_mynameis.png)
+![ntfy_weather](https://github.com/p14pall/my-sw/blob/main/ntfy_weather.png)
+![ntfy_umbrella](https://github.com/p14pall/my-sw/blob/main/ntfy_umbrella.png)
+![ntfy_sleep](https://github.com/p14pall/my-sw/blob/main/ntfy_sleep.png)
+![telegram_setup](https://github.com/p14pall/my-sw/blob/main/telegram_setup.jpg)
+![telegram_text](https://github.com/p14pall/my-sw/blob/main/telegram_text.jpg)
 
 **Πηγή:**
 https://github.com/dschep/ntfy#telegram---telegram
 
+https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 ##### [12]
 
