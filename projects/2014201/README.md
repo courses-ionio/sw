@@ -254,11 +254,13 @@ https://github.com/p14pall/my-sw/blob/main/script2.py
 
 ◉ Αλλαγή location σε Desktop ``cd Desktop``
 
-◉ 
+◉ Performance monitoring **main.py** ``py-spy record -o result.svg -- python3 main.py``
 
-◉
+◉ Επιλογή 2 νέων print script και εκτύπωση περιεχομένου αυτών ``cat script1``, ``cat script2``
 
-◉
+◉ Σύγκριση με hyperfine ``hyperfine 'python script1.py' 'python script2.py'``
+
+◉ Εξαγωγή αρχείου output ``hyperfine -i --export-json output 'python script1.py' 'python script2.py'
 
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
