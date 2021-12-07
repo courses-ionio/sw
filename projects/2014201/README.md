@@ -281,6 +281,14 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Συμμετοχικό περιεχόμενο: B1 και B2
 
+## B1
+
+**Πηγή:**
+
+## B2
+
+**Πηγή:**
+
 ##### [11]
 
 ## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
