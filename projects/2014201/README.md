@@ -267,7 +267,10 @@ https://github.com/p14pall/my-sw/blob/main/script2.py
 ## Αποτέλεσμα:
 ![]()
 
-**Πηγή:**
+**Πηγή:** 
+https://github.com/benfred/py-spy#usage
+
+https://github.com/sharkdp/hyperfine#usage
 
 ##### [10]
 
