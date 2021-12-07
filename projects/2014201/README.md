@@ -285,24 +285,34 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Άσκηση γραμμής εντολών: send notifications to your desktop-mobile
 
-Asciinema link: 
+Asciinema link ntfy: 
+
+Asciinema link ntfy[telegram]:
 
 ## Βήματα:
 
-◉ Εγκατάσταση απαραίτητων πακέτων ``sudo pip install ntfy``
+◉ Εγκατάσταση απαραίτητων πακέτων ``sudo pip install ntfy``, ``pip install ntfy[telegram]``
 
 ◉ Έναρξη εγγραφής τερματικού ``asciinema rec -i 0.2``
 
-◉ 
+◉ Testing του ntfy με διάφορα notifications ``notify-send --urgency=(critical, low) "text"``, ``ntfy done sleep 5``
 
-◉ 
+◉ Setup και configure του Telegram στο terminal ``ntfy -b telegram send "Telegram configured for ntfy"``
+
+◉ Setup και configure του Telegram στο κινητό μέσω token από **BotFather**
+
+◉ Αποστολή μηνύματος από terminal στο bot της συσκευής ``ntfy -b telegram send "text"``
 
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
 ## Αποτέλεσμα:
 ![]()
+![]()
+![]()
 
 **Πηγή:**
+https://github.com/dschep/ntfy#telegram---telegram
+
 
 ##### [12]
 
