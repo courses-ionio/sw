@@ -260,7 +260,7 @@ https://github.com/p14pall/my-sw/blob/main/script2.py
 
 ◉ Σύγκριση με hyperfine ``hyperfine 'python script1.py' 'python script2.py'``
 
-◉ Εξαγωγή αρχείου output ``hyperfine -i --export-json output 'python script1.py' 'python script2.py'
+◉ Εξαγωγή αρχείου output ``hyperfine -i --export-json output 'python script1.py' 'python script2.py'``
 
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
 
