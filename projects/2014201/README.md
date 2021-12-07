@@ -232,9 +232,9 @@ Asciinema link: https://asciinema.org/a/453279
 
 ## Άσκηση γραμμής εντολών: performance monitoring
 
-Asciinema link py-spy:
+Asciinema link py-spy: https://asciinema.org/a/454328
 
-Asciinema link hyperfine:
+Asciinema link hyperfine: https://asciinema.org/a/454321
 
 Scripts που χρησιμοποιήθηκαν:
 
