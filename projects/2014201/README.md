@@ -307,10 +307,15 @@ Asciinema link ntfy[telegram]: https://asciinema.org/a/454363
 
 ## Αποτέλεσμα:
 ![ntfy_name](https://github.com/p14pall/my-sw/blob/main/ntfy_mynameis.png)
+
 ![ntfy_weather](https://github.com/p14pall/my-sw/blob/main/ntfy_weather.png)
+
 ![ntfy_umbrella](https://github.com/p14pall/my-sw/blob/main/ntfy_umbrella.png)
+
 ![ntfy_sleep](https://github.com/p14pall/my-sw/blob/main/ntfy_sleep.png)
+
 ![telegram_setup](https://github.com/p14pall/my-sw/blob/main/telegram_setup.jpg)
+
 ![telegram_text](https://github.com/p14pall/my-sw/blob/main/telegram_text.jpg)
 
 **Πηγή:**
