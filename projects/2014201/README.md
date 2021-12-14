@@ -291,6 +291,8 @@ https://github.com/sharkdp/hyperfine#usage
 
 Μελέτη Περίπτωσης:
 
+Πληροφορίες:
+
 **Πηγή:**
 
 ## B2
