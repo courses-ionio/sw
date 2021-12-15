@@ -285,11 +285,11 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Μελέτη Περίπτωσης: Είναι το WeChat ασφαλές;
 
-Αποθετήριο μελέτης περίπτωσης:
+Αποθετήριο μελέτης περίπτωσης: https://github.com/p14pall/site/blob/master/_case-study/wechat.md
 
-Αποθετήριο κειμένου μελέτης:
+Αποθετήριο κειμένου μελέτης: https://github.com/p14pall/site/blob/master/_case-study/cs-wechat.md
 
-Μελέτη Περίπτωσης:
+Μελέτη Περίπτωσης: https://p14pall.netlify.app//case-study/wechat/
 
 ## Πληροφορίες:
 
