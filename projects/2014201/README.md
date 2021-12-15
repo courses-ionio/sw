@@ -292,6 +292,7 @@ https://github.com/sharkdp/hyperfine#usage
 Μελέτη Περίπτωσης: https://p14pall.netlify.app//case-study/wechat/
 
 ## Πληροφορίες:
+Την τελευταία δεκαετία, το WeChat έχει εγείρει μεγάλη ανησυχία για την ασφάλεια και το απόρρητο των χρηστών.
 
 **Πηγή:** https://foundation.mozilla.org/en/privacynotincluded/wechat/
 
@@ -299,7 +300,16 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Βιογραφία:
 
-**Πηγή:**
+Αποθετήριο βιογραφίας: https://github.com/p14pall/site/blob/master/_biography/allen-zhang.md
+
+Αποθετήριο κειμένου βιογραφίας: https://github.com/p14pall/site/blob/master/_biography/bio-zhang.md
+
+Βιογραφία: https://p14pall.netlify.app//biography/allen-zhang/
+
+## Πληροφορίες:
+Ο Allen Zhang είναι Κινέζος προγραμματιστής υπολογιστών και executive στέλεχος του WeChat και του Foxmail.
+
+**Πηγή:** https://supchina.com/2019/01/17/china-business-corner-wechat-founder-allen-zhang-and-the-tencent-conference/
 
 ##### [11]
 
