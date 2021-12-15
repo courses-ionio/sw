@@ -293,7 +293,7 @@ https://github.com/sharkdp/hyperfine#usage
 
 ## Πληροφορίες:
 
-**Πηγή:** https://switchvpn.net/blog/is-wechat-safe/
+**Πηγή:** https://foundation.mozilla.org/en/privacynotincluded/wechat/
 
 ## B2
 
