@@ -238,7 +238,7 @@ Asciinema link: https://asciinema.org/a/453279
 
 ◉
 
-**Aρχείο μαθήματος**:
+**Aρχείο μαθήματος**: https://github.com/p14pall/sitegr/blob/2014201/all_collections/_courses/spatial-databases-and-geographic-information-systems.md
 
 **Issue**:
 
