@@ -583,3 +583,11 @@ O Kay αναφέρει ως παράδειγμα τη Javascript και επιμ
 Έπειτα, έγινε συγγραφή σε ανώτερο επίπεδο με αποτέλεσμα να δημιουργηθεί η C. Με αυτό τον τρόπο οδηγηθήκαμε στη διάδοση μεταφοράς λογισμικού.
 
 #### Βιβλιογραφία:
+
+[Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
+
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
+
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
