@@ -71,6 +71,8 @@
 
 ## Αποτέλεσμα:
 
+![anakoinwsi](https://github.com/p14pall/my-sw/blob/main/anakoinwsi.png)
+
 ##### [4]
 
 ## Άσκηση γραμμής εντολών: create your own static site and blog generator
