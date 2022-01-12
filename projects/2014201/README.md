@@ -57,17 +57,17 @@
 
 ◉ Δημιουργία νέου issue
 
-◉
+◉ Έλαβα **green light**
 
-◉
+◉ Δημιουργία pull request
 
 **Aρχείο ανακοίνωσης**: https://github.com/p14pall/sitegr/blob/2014201/all_collections/_posts/2021-10-21-ekdilwsi-kalwsorisma.md
 
 **Issue**: https://github.com/ioniodi/sitegr/issues/225
 
-**Pull request**:
+**Pull request**: https://github.com/ioniodi/sitegr/pull/227
 
-**Συνεισφορά στο Netlify**:
+**Συνεισφορά στο Netlify**: https://deploy-preview-227--epic-hamilton-da9ac8.netlify.app/posts/2021/10/21/ekdilwsi-kalwsorisma/
 
 ## Αποτέλεσμα:
 
