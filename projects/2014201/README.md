@@ -247,7 +247,7 @@ Asciinema link: https://asciinema.org/a/453279
 
 ◉ Δε πραγματοποιήθηκε νέο pull request, το αρχείο ανέβηκε στο πρώτο αίτημα
 
-**Aρχείο μαθήματος**: https://github.com/p14pall/sitegr/blob/2014201/all_collections/_courses/spatial-databases-and-geographic-information-systems.md
+**Aρχείο μαθήματος**:
 
 **Issue**: https://github.com/ioniodi/sitegr/issues/226
 
