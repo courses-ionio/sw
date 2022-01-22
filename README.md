@@ -44,7 +44,7 @@
 **Βιβλίογραφία:** 
 * Ανάγνωση κώδικα, 
 * Πρακτικός προγραμματιστής, 
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές
+* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
 * [Computer Connections](https://computerhistory.org/blogs/computer-history-museum-license-agreement-for-the-kildall-manuscript/): Βιβλίο για μελέτη μπόνους
 * [Software: Art, Engineering, Mathematics, or Science?](http://worrydream.com/refs/Kay%20-%20Software%20-%20Art,%20Engineering,%20Mathematics,%20or%20Science%3F.html)
 * [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
