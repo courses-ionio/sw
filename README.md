@@ -39,7 +39,7 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Διογένης Αλεξανδράκης](https://github.com/diogenisAl)
 
-**Κριτήρια βαθμολογίας:** 10% [κουίζ](https://courses-ionio.github.io/help/quiz/) + 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) + 10% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/help/social/) + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/help/classroom/) + 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/dokey/) + 20% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή/και [στον οδηγό σπουδών του τμήματος](https://github.com/ioniodi/guide/) + 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/help/bonus/)
+**Κριτήρια βαθμολογίας:** 10% [κουίζ](https://courses-ionio.github.io/help/quiz/) + 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) + 10% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/help/social/) + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/help/classroom/) + 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/cli/) + 20% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) ή/και [στον οδηγό σπουδών του τμήματος](https://github.com/ioniodi/guide/) + 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/help/bonus/)
 
 **Όλα τα κριτήρια βαθμολογίας έχουν υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση**
 
