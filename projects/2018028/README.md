@@ -9,7 +9,7 @@
 
 | Εβδομάδα | Παραδοτέα | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/orgs/Kafeneio/teams/kafeneio/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link](https://github.com/orgs/Kafeneio/teams/kafeneio/discussions/2) | |
+| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link](https://github.com/courses-ionio/help/discussions/70) | |
 | <p align="center">2η | <p align="center">βιογραφικό και δημιουργία ομάδας</p> | | |
 | <p align="center">3η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα</p> | | |
 | <p align="center">4η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
