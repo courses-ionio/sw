@@ -17,7 +17,7 @@
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/69)</div> | - |
+| 1 | [Εισαγωγή](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/69)</div> | - |
 | 2 | βιογραφικό και δημιουργία ομάδας | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
