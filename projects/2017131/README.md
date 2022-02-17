@@ -1,2 +1,2 @@
-# Melidoniotis Giorgos
+# Γ
 ## AM: 2017131
