@@ -39,5 +39,21 @@
 
 ## Ο τρόπος που θα επεξεργάζομαι την αναφορά μου μέσα από το τερματικό.
 
+Αρχικά όπως είπα στην εισαγωγή θα έχω σαν main το arch linux και μέσα σε αυτό θα έχω ενα docker με archlinux image. <br>
+Επέλεξα να βάλω docker arch image μέσα στο arch γιατί αν κατά λάθος χαλάσει κάτι δεν θα επηρεάσει το main λειτουργικό σύστημα που το έχω στήσει και δεν θέλω να χαλάσει.
+Την ιδέα με το docker την πήρα στο εργαστήριο με τον κ.Ριγγα. <br>
+
+#### Πως δημιούργησα το arch docker image: 
+Αρχικά τρέχω το docker του δίνω όνομα sw_docker και του λέω στο τέλος να πάρει image για archlinux και το image είναι έτοιμο και full καθαρό<br>
+
+`sudo docker run --name sw_docker -it -p 8080:4000 archlinux`
+
+<br>
+
+Για την επεξεργασία πρέπει να εγκαταστήσω το `git` στο docker μου. <br>
+
+`pacman -S git`
+
+
 <img src="https://github.com/p19tzam/gifs/blob/main/eisagwgh.gif">
 
