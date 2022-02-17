@@ -56,13 +56,19 @@
 
 <br>
 
-Μετα θα πρέπει να κάνv git clone το repository μoy και να κάνω generate ενα token στα settings για να μπορώ να κάνω αλλαγές στο repo μου <br>
+Μετα θα πρέπει να κάνω git clone το repository μoy και να κάνω generate ενα token στα settings για να μπορώ να κάνω αλλαγές στο repo μου <br>
 
 `git clone https://github.com/p19tzam/sw.git` <br>
 
 Για να μπορέσω να κάνω αλλαγές πρέπει να αλλάξω branch <br>
 
 `git checkout 2019213` <br>
+
+Επίσης για να επικοινωνήσει το τερματικό μου με το github θα πρέπει να ορίσω μερικές μεταβλητές στο config του `git`.<br>
+
+`git config --global user.name "p19tzam"` <br>
+`git config --global user.email "p19tzam@ionio.gr"`<br>
+
 
 Και τέλος πρέπει να μπώ στο 2019213 φάκελο να κάνω αλλαγές και να στείλω τις αλλαγές με το `git push` όπως δείχνω στο παρακάτω παράδειγμα <br>
 Στο κομμάτι καταγραφής τερματικού αυτή την φορά επέλεξα να χρησιμοποιήσω το  `peek` μιας και το asciinema το έχω μάθει οπότε γιατί να μην μάθω κάτι καινούργιο; <br>
