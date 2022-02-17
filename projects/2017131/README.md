@@ -2,7 +2,7 @@
 
 ### Γιώργος Μελιδονιώτης
 ### ΑΜ: Π2017131
-### [Github Profile](https://github.com/andreaspappoutas/)
+### [Github Profile](https://github.com/p17meli)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
