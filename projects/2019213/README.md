@@ -73,3 +73,8 @@
 
 <img src="https://github.com/p19tzam/gifs/blob/main/eisagwgh.gif">
 
+
+
+## Συμμετοχή και ομαδικότητα
+
+[Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897)
