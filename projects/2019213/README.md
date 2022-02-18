@@ -11,7 +11,6 @@
 :email:: [Student Mail](mailto:p19tzam)<br>
 
 
-
 <h3> Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων</h3>
 
 
@@ -78,3 +77,4 @@
 ## Συμμετοχή και ομαδικότητα
 
 [Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897)
+
