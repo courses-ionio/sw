@@ -1,10 +1,12 @@
-# Πετρούλα Στυλιανού 
-### ΑΜ: Π2019223
+# Τεχνολογία Λογισμικού
+## Πετρούλα Στυλιανού 
+## ΑΜ: Π2019223
+#### Github profile: https://github.com/PetroulaStylianou
 
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | | |
+| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | |
 | 2 | βιογραφικό και δημιουργία ομάδας | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
