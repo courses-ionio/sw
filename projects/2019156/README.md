@@ -4,10 +4,9 @@
 >  
 
 
-
-
+| Εβδομάδα | [Παραδοτέα ](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Syllabus - Εισαγωγή](https://courses-ionio.github.io/help/guide/),
+| 1 | [Syllabus - Εισαγωγή](https://courses-ionio.github.io/help/guide/),  | | |
 | 2 | βιογραφικό | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
