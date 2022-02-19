@@ -1,6 +1,10 @@
+# Τεχνολογία Λογισμικού
+
 Φοιτήτρια : Στεφανή Αναστασία Μαρία
 
 ΑΜ : Π2019013
+
+Github Profile: https://github.com/AnastasiaMariaStefani
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
