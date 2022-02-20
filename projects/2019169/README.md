@@ -1,11 +1,12 @@
 <h4>Όνομα:</h4> Σουλτάνα Ανδριάνα
 <h4>Επίθετο:</h4>Στούπη
 <h4>ΑΜ:</h4> Π2019169
+<h4>Github Profile Link:</h4> https://github.com/TaniaStoupi
 
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:20/02/2022 | | |
+| 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:20/02/2022 |<a href="https://github.com/courses-ionio/help/discussions/122">Προόδος 1</a>| |
 | 2 | βιογραφικό και δημιουργία ομάδας | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
