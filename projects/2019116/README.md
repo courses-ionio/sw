@@ -3,7 +3,7 @@
 # GitHub Profile: https://github.com/rafael5gr2
 
 | Εβδομάδα | Παραδοτέα | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1 | [Εισαγωγή](#εισαγωγή) | [Link](https://github.com/courses-ionio/help/discussions/116) | |
 | 2 | βιογραφικό και δημιουργία ομάδας | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
