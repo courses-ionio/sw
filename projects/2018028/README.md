@@ -30,3 +30,4 @@
 
 Διορθώσεις ή παρατήρησεις σε συναδέλφους
 [Link](https://github.com/courses-ionio/help/discussions/109)
+[Link](https://github.com/courses-ionio/help/discussions/153)
