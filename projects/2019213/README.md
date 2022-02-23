@@ -76,5 +76,5 @@
 
 ## Συμμετοχή και ομαδικότητα
 
-[Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897)
+[Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897) <br>
 [Υπενθύμιση συναδέλφου να προσθέσει λινκ στην εισαγωγή του για την αναφορά](https://github.com/courses-ionio/help/discussions/158#discussioncomment-2238385)
