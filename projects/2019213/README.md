@@ -74,7 +74,30 @@
 
 
 
-## Συμμετοχή και ομαδικότητα
+## :pushpin:: Βιογραφικό Παραδοτέο Α
 
+| Ατομικό βιογραφικό | Webring ομάδας |
+| --- | --- |
+| [Link](https://p19tzam.github.io/online-cv/) | [Link](https://kafeneio-webring.netlify.app/) |   
+
+<br>
+Σε αυτό το παραδοτέο είχαμε να κάνουμε ένα βιογραφικό και ενα webring με την υπηρεσία Github Pages ή Netlify. <br> <br>
+Συγκεκριμένα εγω επέλεξα να κάνω το ατομικό βιογραφικό μου με github pages κάνοντας fork ένα έτοιμο 
+
+[template](https://github.com/sharu725/online-cv) αλλα τα χρώματα και το στυλ δεν μου άρεσε έτσι αποφάσισα να κάνω αρκετές μετατροπές στον κώδικα απο το έτοιμο template. <br>
+
+Στο template έχω αλλάξει τα εξής:
+- [x] Background color πίσω απο το main wrapper
+- [x] Προσθήκη shadows στο background του wrapper 
+- [x] Αλλαγή favicon με την προσθήκη ενός δικού μου
+- [x] Αλλαγή στις γωνίες το wrapper τις έκανα πιο στρογγυλές(περιλαμβάνει το main wrapper και το side wrapper)
+- [x] Διαγραφή σε περιττά πράγματα που περιείχε το template (διάφορα χαρακτηριστικά όπως about για το template κτλ)
+- [x] Έβαλα ένα καινούργιο skin το κόκκινο το οποίο δεν υπάρχει
+- [x] Έβγαλα το παλιό footer που προϋπήρχε και έβαλα κάτι δικό μου
+
+
+
+## Συμμετοχή και ομαδικότητα
+[](https://github.com/courses-ionio/help/discussions/165#discussion-3897013)
 [Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897) <br>
 [Υπενθύμιση συναδέλφου να προσθέσει λινκ στην εισαγωγή του για την αναφορά](https://github.com/courses-ionio/help/discussions/158#discussioncomment-2238385)
