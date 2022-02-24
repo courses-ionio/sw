@@ -1,6 +1,13 @@
 <h2 align=center>Τεχνολογία Λογισμικού</h2>
 
 <h3 align=center> ΣΟΥΡΒΙΝΟΣ ΑΛΚΙΒΙΑΔΗΣ | ΑΜ:Π2018028 </h3>
+<div align="center">
+  
+  <b> :coffee: [Team](https://github.com/Kafeneio) <br>
+   :performing_arts: [Github Profile](https://github.com/Alkissourvinos)</b>
+  </div>
+
+
 
 
 
@@ -9,8 +16,8 @@
 
 | Εβδομάδα | Παραδοτέα | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/orgs/Kafeneio/teams/kafeneio/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) | |
-| <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) | |
+| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) | <p align="center">10 |
+| <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/171) |<p align="center"> 10 |
 | <p align="center">3η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα</p> | | |
 | <p align="center">4η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | <p align="center">5η | <p align="center">Συμμετοχικό περιεχόμενο A1+A2 </p>| | |
