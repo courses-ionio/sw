@@ -10,7 +10,7 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Σύνοψη/Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/55) | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
-| <a href="#B">2</a> |<a href="#B">βιογραφικό και δημιουργία ομάδας </a> | [Βιογραφικό](vagelis1993.github.io/online-cv/) + [Repository](https://github.com/Vagelis1993/online-cv) | |
+| <a href="#B">2</a> |<a href="#B">βιογραφικό και δημιουργία ομάδας </a> | [Βιογραφικό](https://vagelis1993.github.io/online-cv/) + [Repository](https://github.com/Vagelis1993/online-cv) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
