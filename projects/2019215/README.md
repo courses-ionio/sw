@@ -40,6 +40,10 @@
 * [Link Webring](https://ionioi.netlify.app)
 * [Link Ομάδας](https://github.com/ionioi)
 
+
+Αυτό είναι ένα παράδειγμα για το πως θα επεξεργάζομαι τα αρχεία μέσω τέρμιναλ, στο συγκεκριμένω αλλάζω χρώμα στο βιογραφικό μου.
+<a href="https://asciinema.org/a/471786" target="_blank"><img src="https://asciinema.org/a/471786.svg" /></a>
+
 # Συμμετοχή και Ομαδικότητα
 
 | | Σχόλια |
