@@ -56,4 +56,4 @@ JAVASCRIPT REACT , έρευνα που πιστεύω οτι μπορώ να ε�
 
 ### Αποτέλεσμα : 
   
-![bio]()
+![bio](https://github.com/p18kout/sw-images/blob/main/bio.png)
