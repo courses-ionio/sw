@@ -45,6 +45,27 @@
   
 Έχοντας λάβει υπόψιν όσα ειπώθηκαν παραπάνω,υπάρχει σημαντικό όφελος για όποιον ασχοληθεί με το μάθημα.
   
-
-
+##### [2]
   
+### Βιογραφικό και δημιουργία ομάδας:
+
+Λινκ για την δημιουργία ομάδας: https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2247156
+
+Λινκ για τον οργανισμό: https://github.com/DevTeamIU
+
+Λινκ για το βιογραφικό: https://p18kana.github.io/online-cv/
+
+Λινκ για το αποθετήριο του βιογραφικού: https://github.com/p18kana/online-cv 
+
+### Βήματα:
+
+Κάνω fork το repository του παραδείγματος βιογραφικού 
+
+Διαγράφω και δημιουργώ απο την αρχή το brantch gh-pages για το hosting της σελίδας του βιογραφικού
+
+Κάνω εισαγωγή των στοιχείων μου και αλλαγή του theme μέσω των αρχείων ```config.yml``` και ```_data.yml```
+ 
+### Αποτελέσματα:
+  
+![cv](https://github.com/p18kana/SW-files/blob/main/cv.png)
+
