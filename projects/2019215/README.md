@@ -38,6 +38,7 @@
 
 * [Link Βιογραφικού](https://p19ntar.github.io/online-cv/)
 * [Link Webring](https://ionioi.netlify.app)
+* [Link Ομάδας](https://github.com/ionioi)
 
 # Συμμετοχή και Ομαδικότητα
 
