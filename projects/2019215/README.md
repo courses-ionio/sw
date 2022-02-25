@@ -37,3 +37,11 @@
 # Παραδοτέο 2
 
 * [Link Βιογραφικού](https://p19ntar.github.io/online-cv/)
+
+# Συμμετοχή και Ομαδικότητα
+
+| | Σχόλια |
+| --- | --- |
+| 1 | https://github.com/courses-ionio/help/discussions/147 |
+| 2 | https://github.com/courses-ionio/help/discussions/139 |
+| 3 | https://github.com/courses-ionio/help/discussions/120 |
