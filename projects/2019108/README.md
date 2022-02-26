@@ -62,6 +62,10 @@
 # Webring
 Πέρα από το βιογραφικό ανέλαβα και την κατασκευή του οργανισμού αλλά και webring της ομάδας μου στην οποία είμαι και ο head admin. Δημιούργησα τον οργανισμό της ομάδας και κάλεσα τα μέλη μέσα από τις συναντήσεις των εργαστηρίων του μαθήματος. Και σε αυτήν την περίπτωση αποφάσισα να του κάνω αρκετά modifications για να του δώσω ένα ξεχωριστό look. Του πρόσθεσα ένα πολύχρωμο background με animation κάνοντας χρήση του webkit, έγραψα την περιγραφή της ομάδας, τους κατάλληλους κανόνες στο code of conduct, αλλαγές στα stock κείμενα και forms, και φυσικά το έκανα set-up κατάλληλα με το netlify για να λειτουργούν όλα τα features του. Όπως είναι ξεκάθαρο για να επιτευχθούν όλα αυτά ασχολήθηκα ιδιαίτερα με την html και css. Η συνεισφορά μου μπορεί να φανεί και στα commit του αντίστοιχου repository.
 
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%202%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/JoinPopTeamEpic.png" width="380px">
+</p>
+
 #### Link προς το organization της ομάδας μου: [Git's PopTeamEpic GitHub Organization](https://github.com/Git-s-PopTeamEpic)<br>
 #### Link προς το webring της ομάδας μου: [Git's PopTeamEpic Webring](https://git-team-epic-webring.netlify.app/)<br>
 #### Link προς το repository του webring της ομάδας μου: [Git's PopTeamEpic Webring Repository](https://github.com/Git-s-PopTeamEpic/TeamWebring)<br>
