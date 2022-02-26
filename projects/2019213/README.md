@@ -98,9 +98,17 @@
 
 <br>
 Παραπάνω επεξεργασίες έγιναν πάνω στα υπάρχοντα αρχεία του template συγκεκριμένα στα scss και html.
+<br>
+Επίσης στο webring ομάδας αρχικά είμασταν οι πρώτοι που κάναμε το deploy 
+
+[αυτό](https://github.com/maxboeck/webring) το webring κάνοντας debug και με το που βρήκαμε την λύση αποφασίσαμε να κάνουμε share σε όλους του συναδέλφους μας.<br><br>
+
+Το συγκεκριμένο [webring](https://kafeneio-webring.netlify.app/) δεν το αφήσαμε όπως το βρήκαμε δηλαδή το αλλάξαμε σε εμφάνιση το προσαρμόσαμε και θα το προσαρμόσουμε και άλλο στο μέλλον. 
+
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
+[Απάντηση σε ερώτηση για συνάντησεις με ομάδες](https://github.com/courses-ionio/help/discussions/184)<br>
 [Συμβουλή βιογραφικου και webring σε συναδέλφους](https://github.com/courses-ionio/help/discussions/183#discussioncomment-2256805)<br>
 [Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897) <br>
 [Σχολιασμός βιογραγικού συναδέλφου](https://github.com/courses-ionio/help/discussions/166#discussioncomment-2239121)<br>
