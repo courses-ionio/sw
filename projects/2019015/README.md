@@ -24,6 +24,13 @@
 
 ## Βιογραφικό
 
-Για το βιογραφικό μου χρησιμοποίησα [αυτό](https://github.com/sharu725/online-cv) ως tamplate και το τροποποίησα ώστε να φαίνονται τα δικά μου στοιχεία και θα το τροποποιήσω και άλλο.
+Για το βιογραφικό μου χρησιμοποίησα [αυτό](https://github.com/sharu725/online-cv) ως tamplate και το τροποποίησα ώστε να φαίνονται τα δικά μου στοιχεία και θα το τροποποιήσω και άλλο στη συνέχεια.
 
 [Το CV μου](https://alexl14.github.io/online-cv/)<br/>[Η ομάδα μου](https://github.com/ionioi)<br/>[Webring](https://ionioi.netlify.app/)
+
+
+## Συμμετοχικότητα & Ομαδικότητα
+
+1.https://github.com/courses-ionio/help/discussions/162
+
+2.https://github.com/courses-ionio/help/discussions/143
