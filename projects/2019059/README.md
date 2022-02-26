@@ -30,4 +30,4 @@
 
 # Παραδοτέο 2
 
-* [Link Webring](https://github.com/Git-s-PopTeamEpic/TeamWebring)
+* [Link Ομάδας](https://github.com/Git-s-PopTeamEpic/TeamWebring)
