@@ -7,7 +7,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
-| 2 | [Βιογραφικό](#2-βιογραφικό) | | |
+| 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -30,5 +30,7 @@
 Έπειτα, δημιουργήσαμε το organization [LostMpodis](https://github.com/LostMpodis), και το αποθετήριο του webring, στο οποίο πρόσθεσα το link για το βιογραφικό μου.
 
 Βιογραφικό: [Repo](https://github.com/p17anto2/p17anto2.github.io) | [Site](https://p17anto2.github.io/)
+
 Organization : [LostMpodis](https://github.com/LostMpodis)
+
 Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpodis.github.io/webring/)
