@@ -51,6 +51,10 @@ link του βιογραφικού : https://p18kout.github.io/online-cv/
   
 Αποθετήριο βιογραφικού : https://github.com/p18kout/online-cv
   
+Δημιουργία Ομάδας : https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2247156
+  
+Οργανισμός : https://github.com/DevTeamIU 
+  
 ## Διαδικασία : 
 • Fork του repo του βιογραφικού από τα παραδείγματα που δίνονται στις οδηγίες
 
