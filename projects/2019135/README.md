@@ -41,4 +41,5 @@
 ## Συμμετοχικότητα & Ομαδικότητα
 
 1. https://github.com/courses-ionio/help/discussions/148
+2. https://github.com/courses-ionio/help/discussions/151
 
