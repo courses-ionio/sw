@@ -101,7 +101,7 @@
 <br>
 Επίσης στο webring ομάδας αρχικά είμασταν οι πρώτοι που κάναμε το deploy 
 
-[αυτό](https://github.com/maxboeck/webring) το webring κάνοντας debug και με το που βρήκαμε την λύση αποφασίσαμε να κάνουμε share σε όλους του συναδέλφους μας.<br><br>
+[αυτό](https://github.com/maxboeck/webring) το webring κάνοντας debug και με το που βρήκαμε την λύση αποφασίσαμε να κάνουμε [share](https://github.com/courses-ionio/help/discussions/165) σε όλους του συναδέλφους μας.<br><br>
 
 Το συγκεκριμένο [webring](https://kafeneio-webring.netlify.app/) δεν το αφήσαμε όπως το βρήκαμε δηλαδή το αλλάξαμε σε εμφάνιση το προσαρμόσαμε και θα το προσαρμόσουμε και άλλο στο μέλλον. 
 
