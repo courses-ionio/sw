@@ -101,6 +101,7 @@
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
+[Συμβουλή βιογραφικου και webring σε συναδέλφους](https://github.com/courses-ionio/help/discussions/183#discussioncomment-2256805)<br>
 [Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897) <br>
 [Σχολιασμός βιογραγικού συναδέλφου](https://github.com/courses-ionio/help/discussions/166#discussioncomment-2239121)<br>
 [Υπενθύμιση συναδέλφου να προσθέσει λινκ στην εισαγωγή του για την αναφορά](https://github.com/courses-ionio/help/discussions/158#discussioncomment-2238385)
