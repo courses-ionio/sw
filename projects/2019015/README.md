@@ -26,9 +26,7 @@
 
 Για το βιογραφικό μου χρησιμοποίησα [αυτό](https://github.com/sharu725/online-cv) ως tamplate και το τροποποίησα ώστε να φαίνονται τα δικά μου στοιχεία και θα το τροποποιήσω και άλλο στη συνέχεια. Οι περισσότερες τροποποιήσεις μέχρι στιγμής έχουν γίνει μέσω terminal σε έιτουργικό Ubuntu,παρακάτω υπάρχει και ένα asciinema link για αυτό.
 
-[Το CV μου](https://alexl14.github.io/online-cv/)<br/>[Η ομάδα μου](https://github.com/ionioi)<br/>[Webring](https://ionioi.netlify.app/)
-
-[Asciinema Link](https://asciinema.org/a/471799)
+[Το CV μου](https://alexl14.github.io/online-cv/)<br/>[Η ομάδα μου](https://github.com/ionioi)<br/>[Webring](https://ionioi.netlify.app/)<br/>[Asciinema Link](https://asciinema.org/a/471799)
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
