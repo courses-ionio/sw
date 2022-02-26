@@ -9,7 +9,7 @@
 
 :newspaper:: [GitHub Profile](https://github.com/p19tzam)<br>
 :email:: [Student Mail](mailto:p19tzam)<br>
-
+:video_camera:: edpuzzle.com: <b>p19tzam 2019213</b>
 
 <h3> Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων</h3>
 
