@@ -19,6 +19,20 @@
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
-Εισαγωγή
+**Εισαγωγή**
 
 Μέσα από το μάθημα, αποσκοπώ στο να μάθω να χρησιμοποιώ καλύτερα την πλατφόρμα του Github καθώς και άλλες εφαρμογές που σχετίζονται με αυτό. Επίσης θέλω να αποκτήσω μεγαλύτερη ευχέρεια πάνω στο τερματικό και στις εφαρμογές χωρίς γραφικό περιβάλλον, πράγμα που θα με βοηθήσει αργότερα στο αντικείμενο που θέλω να ασχοληθώ. Ακόμη πιστεύω πως μέσα από αυτό το μάθημα θα μάθω πως είναι να συνεργάζομαι με άλλα άτομα που ασχολούνται με το ίδιο αντικείμενο.
+
+
+**2. Δημιουργία βιογραφικού και δημιουργία ομάδας**
+
+Αρχικά δημιουργήσαμε την ομάδα μας η οποία ονομάζεται [Ionioi](https://github.com/ionioi). Στη συνέχεια δημιούργησα το βιογραφικό μου χρησιμοποιόντας ένα template από αυτά που προτείνονται στις οδηγίες του μαθήματος και τροποποιώντας το κατάλληλα για το προφίλ μου.
+ 
+
+| Git status Before adding | Git Status after adding | Git commit |
+|---------|---------|---------|
+| <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/status_before.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/status_after.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/commit.png?raw=true" width="300"/> |
+
+| Git Push |
+|---------|
+| <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/push.png?raw=true" width="300"/> |
