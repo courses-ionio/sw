@@ -8,7 +8,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στην περιοχή Discussions](https://github.com/courses-ionio/help/discussions/97) | |
-| 2 | βιογραφικό και δημιουργία ομάδας | | |
+| 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/240) & [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -29,8 +29,8 @@
 
 Για την δημιουργία του βιογραφικού μου χρησιμοποίησα ένα από τα ενδεικτικά templates που υπάρχουν στις οδηγίες. Και πιο συγκεκριμένα το το [template](https://github.com/Stavrospanakakis/jekyll-cv) ενός παλιού φοιτητή του Πανεπιστημίου. Αρχικά το έκανα clone local στον υπολογιστή, μετά έκανα τις κατάλληλες αλλαγές για να το προσαρμόσω στα δικά μου δεδομένα.
 
-Βιογραφικό :    [Repo](https://github.com/ApoLaz/my-cv)  |  [Site](https://apolaz.github.io/my-cv/)
-Organization :  [LostMpodis](https://github.com/LostMpodis)
-Webring :       [Repo](https://github.com/LostMpodis/webring)  |  [Site](https://lostmpodis.github.io/webring/)
-[asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN)
+ * Βιογραφικό :    [Repo](https://github.com/ApoLaz/my-cv)  |  [Site](https://apolaz.github.io/my-cv/)
+ * Organization :  [LostMpodis](https://github.com/LostMpodis)
+ * Webring :       [Repo](https://github.com/LostMpodis/webring)  |  [Site](https://lostmpodis.github.io/webring/)
+ * [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN)
 
