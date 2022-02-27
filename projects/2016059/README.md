@@ -27,9 +27,10 @@
 
 ## Βιογραφικό
 
-
+Για την δημιουργία του βιογραφικού μου χρησιμοποίησα ένα από τα ενδεικτικά templates που υπάρχουν στις οδηγίες. Και πιο συγκεκριμένα το το [template](https://github.com/Stavrospanakakis/jekyll-cv) ενός παλιού φοιτητή του Πανεπιστημίου. Αρχικά το έκανα clone local στον υπολογιστή, μετά έκανα τις κατάλληλες αλλαγές για να το προσαρμόσω στα δικά μου δεδομένα.
 
 Βιογραφικό :    [Repo](https://github.com/ApoLaz/my-cv)  |  [Site](https://apolaz.github.io/my-cv/)
 Organization :  [LostMpodis](https://github.com/LostMpodis)
-Webring :         [Repo](https://github.com/LostMpodis/webring)  |  [Site](https://lostmpodis.github.io/webring/)
+Webring :       [Repo](https://github.com/LostMpodis/webring)  |  [Site](https://lostmpodis.github.io/webring/)
+[asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN)
 
