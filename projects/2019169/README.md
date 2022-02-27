@@ -28,8 +28,9 @@
 
 <h2><span id="Personal CV.">Personal CV.</span></h2> 
 Για την υλοποίηση του 2ου παραδοτέου, δηλαδή την υλοποίηση του προσωπικού μου βιογραφικού χρησιμοποίησα το template 1. Ακολουθώντας τις οδηγίες του συγκεκριμένου αποθετηρίου και αλλάζοντας τα αρχεία data.yml βάζοντας τα προσωπικά μου στοιχεία και στο αρχείο images την φωτογραφία μου, υλοποιήθηκε επιτυχώς το βιογραφικό μου. 
-Link Βιογραφικού: https://taniastoupi.github.io/online-cv/
+<br>
+Link Βιογραφικού: https://taniastoupi.github.io/online-cv/ <br>
 Βιβλιογραφία:
-<a href="https://courses-ionio.github.io/help/cv/">Οδηγίες Μαθήματος</a>
-<a href="https://github.com/sharu725/online-cv">Template repo</a>
+<a href="https://courses-ionio.github.io/help/cv/">Οδηγίες Μαθήματος</a><br>
+<a href="https://github.com/sharu725/online-cv">Template repo</a><br>
 <hr></hr>
