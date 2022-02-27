@@ -54,4 +54,24 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Στο παραδοτέο αυτό μας ζητήθηκε να δημιουργήσουμε ένα Βιογραφικό με βάση τα 12 template που πας προτάθηκαν. Αρχικά ήταν απαραίτητη η χρήση του συστήματος Jekyll, όπου αξίζει να σημειώσω πως με δυσκόλεψε αρκετά η εγκατάσταση του bundler, όμως το πρόβλημα μου επιλύθηκε μέσω τ [post](https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory) 
+&nbsp;&nbsp;&nbsp;&nbsp;Στο παραδοτέο αυτό μας ζητήθηκε να δημιουργήσουμε ένα Βιογραφικό με βάση τα 12 template που πας προτάθηκαν. Αρχικά ήταν απαραίτητη η χρήση του συστήματος Jekyll, όπου αξίζει να σημειώσω πως με δυσκόλεψε αρκετά η εγκατάσταση του bundler, όμως το πρόβλημα μου επιλύθηκε μέσω της [ανάρτησης](https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory). Έπειτα επέλεξα να ασχοληθώ με [αυτό](https://github.com/sharu725/online-cv) το Βιογραφικό, αφού μου άρεσε πολύ το Template και είχα κάποιες ενδιαφέρον ιδέες για τη προσαρμογή του στις σχεδιαστικές προτιμήσεις μου.
+
+<br />
+
+![printscreen βιογραφικού](https://user-images.githubusercontent.com/72695605/155888791-b54267a5-c972-4158-8954-059fdd7be847.PNG)
+
+<br />
+
+#### Αλλαγές που πραγματοποιήθηκαν στο βασικό Template:
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Άλλαξα χρώμα στο Background
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Άλλαξα font-family με τη χρήση του [Google Fonts](https://fonts.google.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Άλλαξα χρώμα σε διάφορα κείμενα
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Άλλαξα favicon
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Δημιούργησα ένα νέο custom color skin που ονόμασα <b>lime</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Διέγραψα sections που δεν χρειαζόμουν
