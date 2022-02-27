@@ -105,7 +105,7 @@ Tρίτο βήμα
   
 | | Σύνδεσμοι του 2ου παραδοτέου |
 | --- | --- |
-| 1 | [Βιογραφικό](https://aimiliospavlidis2001.github.io/online-cv/) |
+| 1 | [Βιογραφικό](https://vasiliskampani.github.io/online-cv/) |
 | 2 | [Ομάδα](https://github.com/OompaLoompas) |
 | 3 | [Webring](https://oompaloompas-webring.netlify.app/) |
 
