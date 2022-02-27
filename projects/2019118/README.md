@@ -34,7 +34,7 @@
 
  <img src="https://i.imgur.com/phlIJPF.png" alt="Preview online βιογραφικού"> 
 
-Το βιογραφικό επίσης ενσωματόθηκε στο αποθετήριο της ομάδας και δίνει πρόσβαση (μέσω του / και στο) webring.
+Το βιογραφικό επίσης ενσωματώθηκε στο αποθετήριο της ομάδας και δίνει πρόσβαση (μέσω του / και στο) [webring](https://sybil-reisz.netlify.app/).
 
 Αποθετήριο ομάδας [Sybil Reisz](https://github.com/Sybil-Reisz)
 
