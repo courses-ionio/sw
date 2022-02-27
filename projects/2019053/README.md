@@ -95,9 +95,7 @@
 
 <br />
 
-### Συμμετοχή και Ομαδικότητα για τη 2η εβδομάδα
-
-| | |
+| | Συμμετοχή και Ομαδικότητα για τη 2η εβδομάδα |
 | --- | --- |
 | | Σχόλιο βοήθειας σε συμφοιτητή |
 | 1 | https://github.com/courses-ionio/help/discussions/185 |
@@ -105,4 +103,3 @@
 | 2 | https://github.com/courses-ionio/help/discussions/196 |
 | | Ανάρτηση απορίας στην ομάδα μου|
 | 3 | https://github.com/OompaLoompas/help/discussions/2 |
-| | |
