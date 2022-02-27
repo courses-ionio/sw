@@ -82,7 +82,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Εισαγωγή κειμένου ...
+&nbsp;&nbsp;&nbsp;&nbsp;Η δημιουργία της [ομάδας](https://github.com/OompaLoompas) μας, αποτέλεσε μια ενδιαφέρον διαδικασία αφού πολλοί συμφοιτητές έκαναν αίτηση για την εισαγωγή τους. Αυτή τη στιγμή που γράφεται το κείμενο αποτελούμαστε από 12 άτομα με τον καθένα μας να έχει υποβάλει την Εισαγωγή αναρτημένοι στα discussions. Όσον αφορά το Webring ακολουθήσαμε τη [συμβουλή](https://github.com/courses-ionio/help/discussions/165) του συμφοιτητή μας Δημοστέν Τζάμα για το ανέβασμα της ιστοσελίδας με τη χρήση του εργαλείου Netlify.
 
 <br /> <br />
 
@@ -91,7 +91,7 @@
 | --- | --- |
 | 1 | [Βιογραφικό (CV)](https://aimiliospavlidis2001.github.io/online-cv/) |
 | 2 | [Ομάδα](https://github.com/OompaLoompas) |
-| 3 | Webring (υπό ανάπτυξη) |
+| 3 | [Webring](https://oompaloompas-webring.netlify.app/) |
 
 <br />
 
