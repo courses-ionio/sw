@@ -34,4 +34,4 @@
 <br>[Η ομάδα μου](https://github.com/OompaLoompas)
 <br>[Το template που χρησιμοποίησα](https://github.com/sharu725/online-cv)
 <br>[Το βιογραφικό μου](https://u2nmd.github.io/online-cv/)
-<br>[Webring Ομάδας]()</h6> 
+<br>[Webring Ομάδας](https://oompaloompas-webring.netlify.app/)</h6> 
