@@ -51,6 +51,8 @@
 
 [Webring Ομάδας](https://cont1nental.netlify.app/)
 
+### Ως ομάδα είμαστε αρκετά παιδιά από παλαιότερα έτη και είπαμε πως θα ήταν καλύτερο, ως οργάνωση να έχουμε όλοι ισάξια δικαιώματα
+
 ![image](https://user-images.githubusercontent.com/22726730/155892605-dd2a50e6-6fa2-490f-a541-a20c7f636a01.png)
 ![image](https://user-images.githubusercontent.com/22726730/155892629-2e505430-417d-4383-89d0-3002f8d45269.png)
 
