@@ -34,5 +34,10 @@
 * [Link Webring](https://git-team-epic-webring.netlify.app/)
 * [Link Βιογραφικού](https://xar1sgeovlacp2019059.github.io/online-cv/)
 
+Git commands
+* [part1](https://asciinema.org/a/Jhrk8ZD77FtXYnkbc4CP4x1BV)
+* [part2](https://asciinema.org/a/0o1tLzUIXkR1eYnfP4N5PCB5u)
+* [part3](https://asciinema.org/a/xVZU0R6QFk5C4A1aGgzxFZC9H)
+
 Συνεργασία:
 https://github.com/courses-ionio/help/discussions/197
