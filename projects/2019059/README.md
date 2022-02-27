@@ -31,7 +31,7 @@
 # Παραδοτέο 2
 
 * [Link Ομάδας](https://github.com/Git-s-PopTeamEpic/TeamWebring)
-* [Link Webring](https://ionioi.netlify.app/)
+* [Link Webring](https://git-team-epic-webring.netlify.app/)
 * [Link Βιογραφικού](https://xar1sgeovlacp2019059.github.io/online-cv/)
 
 Συνεργασία:
