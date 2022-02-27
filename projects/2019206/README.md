@@ -26,13 +26,17 @@
 
 **2. Δημιουργία βιογραφικού και δημιουργία ομάδας**
 
-Αρχικά δημιουργήσαμε την ομάδα μας η οποία ονομάζεται [Ionioi](https://github.com/ionioi). Στη συνέχεια δημιούργησα το βιογραφικό μου χρησιμοποιόντας ένα template από αυτά που προτείνονται στις οδηγίες του μαθήματος και τροποποιώντας το κατάλληλα για το προφίλ μου.
+Αρχικά δημιουργήσαμε την ομάδα μας η οποία ονομάζεται [Ionioi](https://github.com/ionioi). Στη συνέχεια δημιούργησα το βιογραφικό μου χρησιμοποιόντας ένα [template](https://github.com/sharu725/online-cv) από αυτά που προτείνονται στις οδηγίες του μαθήματος και τροποποιώντας το κατάλληλα για το προφίλ μου. Πολλές από τις αλλαγές που έγιναν στον κώδικα του βιογραφικού, έγιναν μέσω του git και του terminal όπως φαίνεται στα screenshots που έχω βάλει παρακάτω (Μπορείτε να πατήσετε πάνω στις εικόνες για να τις ανοίξετε). Τέλος κάναμε το webring με την ομάδα μου και έχω βάλει το link και μια εικόνα παρακάτω.
  
 
 | Git status Before adding | Git Status after adding | Git commit |
 |---------|---------|---------|
 | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/status_before.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/status_after.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/commit.png?raw=true" width="300"/> |
 
-| Git Push |
-|---------|
-| <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/push.png?raw=true" width="300"/> |
+ | Git Push | [CV](https://mnlsvt.github.io/online-cv/) | [Webring](https://ionioi.netlify.app) |
+|---------|---------|---------|
+| <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/push.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/Screenshot%20from%202022-02-27%2019-51-35.png?raw=true" width="300"/> | <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/webring.png?raw=true" width="300"/> | 
+
+
+
+
