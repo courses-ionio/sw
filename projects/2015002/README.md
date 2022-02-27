@@ -9,7 +9,7 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | [1](#1ο-παραδοτέο---εισαγωγή) | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussion](https://github.com/courses-ionio/help/discussions/82) | Πλήρης Εκτέλεση |
-| 2 | βιογραφικό και δημιουργία ομάδας | [Σύνδεσμος](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) | Team Creation Left|
+| [2](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | βιογραφικό και δημιουργία ομάδας | [Βιογραφικό](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) - [Webring](https://cont1nental.netlify.app/) | Πλήρης Εκτέλεση|
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -31,3 +31,22 @@
 Αναμφισβήτητα η πλατφόρμα GitHub είναι ένα εξαιρετικά χρήσιμο και απαραίτητο εργαλείο και με χαροποιεί ιδιαίτερα που θα την ξανά χρησιμοποιήσω για αυτό το μάθημα και για μελλοντικά πρότζεκτ όπως η πτυχιακή μου εργασία!
 
 Πέρα από τις δεξιότητες που θα πάρω από το μάθημα στο κομμάτι του Linux και του programming, θεωρώ πως το πιο σημαντικό για εμένα είναι το exposure που θα πάρουμε ως μαθητές για το πως είναι να δουλεύει κάποιος μέσα σε μία ομάδα όπου οι πράξεις όλων, επηρεάζουν την ομάδα σαν σύνολο.
+
+## 2o Παραδοτέο - βιογραφικό και δημιουργία ομάδας
+
+Το theme που επέλεξα για βιογραφικό είναι αυτό. Έψαξα αρκετά και είδα διάφορα themes, αλλά κατέληξα σε αυτό. Μου φάνηκε αισθητικά απλό που είναι πολύ σημαντικό, και επίσης έδινε έμφαση εκεί που ήθελα. Η διαδικασία ήταν απλή, έκανα φορκ το Repo του theme και μετά έπαιξα με το _config.yml και το default.html για το Webring.
+
+[Βιογραφικό](https://mariosconsta.github.io/cv/) - [Repo](https://github.com/mariosconsta/cv)
+
+| # | ΑΜ | GitHub profile |
+| -- | -- | -- |
+| 1 | 2015002| [Μάριος Κωνσταντίνου](https://github.com/mariosconsta) |
+| 2 | 2014042| [Κοσμάς Τσιανατέλης](https://github.com/Sola1r3) |
+| 3 | 2014010| [Μιχαήλ Αχιλλέας Παναγιώτιδης](https://github.com/CptMike) |
+| 4 | 2017021| [Γεώργιος Ματθαιόπουλος](https://github.com/p17matt) |
+| 5 | 2014074| [Άγγελος Παρλαπανίδης](https://github.com/sosukesama) |
+| 6 | 2017186| [Ιωάννης Κωσταρελόπουλος](https://github.com/p17kost) |
+| 7 | 2017116| [Αντώνης Κωνσταντόπουλος](https://github.com/2antonisguccigang)|
+| 8 | 2015102| [Κωνσταντίνος Βλιώρας](https://github.com/p15vlio)
+
+[Webring Ομάδας](https://cont1nental.netlify.app/)
