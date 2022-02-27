@@ -30,6 +30,11 @@
 
 ## Παραδοτέο 2 / Βιογραφικό και δημιουργία ομάδας
 
+[Online Βιογραφικό - Πρώτο Παραδοτέο](https://vuxxs.github.io/online-cv/)
+
+ <img src="https://i.imgur.com/phlIJPF.png" alt="Preview online βιογραφικού"> 
+
+Το βιογραφικό επίσης ενσωματόθηκε στο αποθετήριο της ομάδας και δίνει πρόσβαση (μέσω του / και στο) webring.
 Αποθετήριο ομάδας [Sybil Reisz](https://github.com/Sybil-Reisz)
 
 Μέλη:
