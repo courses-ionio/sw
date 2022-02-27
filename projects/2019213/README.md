@@ -108,6 +108,7 @@
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
+[Απάντηση σε ερώτηση για command prompt και asciinema](https://github.com/courses-ionio/help/discussions/197#discussioncomment-2260252) <br>
 [Απάντηση σε ερώτηση για συνάντησεις με ομάδες](https://github.com/courses-ionio/help/discussions/184)<br>
 [Συμβουλή βιογραφικου και webring σε συναδέλφους](https://github.com/courses-ionio/help/discussions/183#discussioncomment-2256805)<br>
 [Σχολιασμός εισαγωγής 1](https://github.com/courses-ionio/help/discussions/75#discussioncomment-2203897) <br>
