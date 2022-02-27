@@ -14,7 +14,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, [συγγραφή της εισαγωγής](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-1%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF), αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/63) |
-| 2 | [Βιογραφικό και δημιουργία ομάδας](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ]() | |
+| 2 | [Βιογραφικό και δημιουργία ομάδας](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ]() | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
