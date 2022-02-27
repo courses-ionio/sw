@@ -29,12 +29,13 @@
 </br>
 
 # Παραδοτέο 2
-
+Σκοπός του παραδοτέου αυτού ήταν η δημιουργεία βιογρααγικού και η ενσωμάτωση του στο webring. Η διαδικασία αυτή μου φάνηκε ιδιαίτερα ενδιαφέρουσα και χρήσημη για την μελλόντική μου καριέρα ως προγραμματιστής. Σε αυτό το παραδοτέο χρειάσεικε να αλλάξουμε το .yml file ώστε να φτιάξουμε ένα βιογραφικό. Στο βιογραφικό για προσωπικούς λόγους δεν έχω βάλει φωτογραφία. Αυτό έγινε με την χρήση εντολών git τοπικά, και στην συνέχεια ανανέωσα το github repository.
 * [Link Ομάδας](https://github.com/Git-s-PopTeamEpic/TeamWebring)
 * [Link Webring](https://git-team-epic-webring.netlify.app/)
 * [Link Βιογραφικού](https://xar1sgeovlacp2019059.github.io/online-cv/)
 
 Git commands
+Εδώ φαίνονται οι εντολές git που χρησιμοποίησα.
 * [part1](https://asciinema.org/a/Jhrk8ZD77FtXYnkbc4CP4x1BV)
 * [part2](https://asciinema.org/a/0o1tLzUIXkR1eYnfP4N5PCB5u)
 * [part3](https://asciinema.org/a/xVZU0R6QFk5C4A1aGgzxFZC9H)
