@@ -30,5 +30,6 @@
 #### Σχετικά με το βιογραφικό μου(template 1) 
 
 Στο έτοιμο αυτό template η πρώτη μου σκέψη ήταν να δω ότι γίνεται host η ιστοσελίδα του, κάτι το οποίο έκανε αυτομάτως το **Github**.
+[post](https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory)
  
 ## Δημιουργία Ομάδας
