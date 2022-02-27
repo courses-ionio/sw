@@ -53,4 +53,4 @@
 ### Δημιουργία Βιογραφικού (CV)
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Στο παραδοτέο αυτό μας ζητήθηκε να δημιουργήσουμε ένα Βιογραφικό με βάση τα 12 template που πας προτάθηκαν. Αρχικά ήταν απαραίτητη η χρήση του συστήματος Jekyll, όπου αξίζει να σημειώσω πως με δυσκόλεψε αρκετά η εγκατάσταση του bundler, όμως το πρόβλημα μου επιλύθηκε μέσω του [post](https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory)
+&nbsp;&nbsp;&nbsp;&nbsp;Στο παραδοτέο αυτό μας ζητήθηκε να δημιουργήσουμε ένα Βιογραφικό με βάση τα 12 template που πας προτάθηκαν. Αρχικά ήταν απαραίτητη η χρήση του συστήματος Jekyll, όπου αξίζει να σημειώσω πως με δυσκόλεψε αρκετά η εγκατάσταση του bundler, όμως το πρόβλημα μου επιλύθηκε μέσω του [post] (https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory)
