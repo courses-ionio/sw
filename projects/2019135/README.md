@@ -29,8 +29,12 @@
 
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 2</h1>
 
-## ΒΙΟΓΡΑΦΙΚΟ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑ ΟΜΑΔΑΣ 
-Το βιογραφικό μου βασίζεται πάνω σ'αυτό το [template](https://github.com/sharu725/online-cv), το οποίο τροποποίησα στις ανάγκες μου. Παρακάτω υπάρχουν τα αντίστοιχα links για το βιογραφικό, την ομάδα και το Webring:
+## ΒΙΟΓΡΑΦΙΚΟ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑ ΟΜΑΔΑΣ  
+Το βιογραφικό μου βασίζεται πάνω σ'αυτό το [template](https://github.com/sharu725/online-cv), το οποίο τροποποίησα στις ανάγκες μου. Επίσης, δημιούργησα ένα asciinema στο οποίο φαίνεται η επεξεργασία του βιογραφικού μου μέσω γραμμής εντολών: https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY
+
+<a href="https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY" target="_blank"><img src="https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY.svg" /></a>
+
+Παρακάτω υπάρχουν τα αντίστοιχα links για το βιογραφικό, την ομάδα και το Webring:
 
 **[CV](https://p19biza.github.io/online-cv/)** 
 
