@@ -42,7 +42,9 @@
 
 Μετάβαση στην ιστοσελίδα του: [βιογραφικού](https://p19pasc.github.io/online-cv/) 
 
-<img align="center" width="600" height="500" src="https://postimg.cc/R3j53Bnv.png">
+<p align="center">
+<img width="700" height="500" src="https://i.postimg.cc/tTgXMRqn/cv-png.png">
+<p/>
 
 ## Δημιουργία Ομάδας
 
