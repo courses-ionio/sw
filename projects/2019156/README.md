@@ -7,7 +7,7 @@
 | Εβδομάδα | [Παραδοτέα ](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Syllabus - Εισαγωγή](https://courses-ionio.github.io/help/guide/) | [Discussions](https://github.com/courses-ionio/help/discussions/95)|  |
-| 2 | βιογραφικό | | |
+| 2 | [βιογραφικό](https://anastasia-rizou.github.io/online-cv/) | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
