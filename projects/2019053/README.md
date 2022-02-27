@@ -12,7 +12,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B7---%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/89) | |
-| 2 | βιογραφικό και δημιουργία ομάδας | | |
+| 2 | [Βιογραφικό](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-cv) και [δημιουργία ομάδας] | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -75,3 +75,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Δημιούργησα ένα νέο custom color skin που ονόμασα <b>lime</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Διέγραψα sections που δεν χρειαζόμουν
+
+<br /> <br />
+
+### Δημιουργία ομάδας και Webring
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Εισαγωγή κειμένου ...
+
+<br /> <br />
+
+### Συμμετοχή και Ομαδικότητα για τη 2η εβδομάδα
+
+| | |
+| --- | --- |
+| | Σχόλιο βοήθειας σε συμφοιτητή |
+| 1 | https://github.com/courses-ionio/help/discussions/185 |
+| | Ανάρτηση επίλυσης συχνού προβλήματος |
+| 2 | https://github.com/courses-ionio/help/discussions/196 |
+| | Ανάρτηση απορίας στην ομάδα μου|
+| 3 | https://github.com/OompaLoompas/help/discussions/2 |
+| | |
