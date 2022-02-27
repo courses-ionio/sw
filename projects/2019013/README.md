@@ -9,7 +9,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | |
-| 2 | βιογραφικό και δημιουργία ομάδας | | |
+| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -27,3 +27,8 @@ Github Profile: https://github.com/AnastasiaMariaStefani
   θα δίνονται και θα εφαρμόζονται διάφορες έξυπνες τεχνικές, που θα μου προσφέρουν τα απαραίτητα εργαλεία για εξέλιξη και βελτίωση αυτών των δεξιοτήτων. Ταυτόχρονα, μέσα από τα εβδομαδιαία κουίζ, 
   θα έρχομαι σε επαφή με θέματα λογισμικού, τα οποία θα έχουν πραγματικό αντίκτυπο τόσο την καθημερινή όσο και κοινωνική ζωή. Τέλος, το κομμάτι της ομαδικότητας που θα εφαρμοστεί σε αυτό το μάθημα, 
   θα μπορέσει να προσφέρει τα κατάλληλα εφόδια για την μετέπειτα επαγγελματική μου καριέρα.
+  
+<h2><span id="Βιογραφικό">Βιογραφικό</span></h2>
+
+  <i><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a></i>
+  
