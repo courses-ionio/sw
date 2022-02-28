@@ -58,3 +58,20 @@
 <p align="center">
 <img width="450" weight="300" src="https://i.postimg.cc/CL47R54q/webring.png">
 <p/>
+
+# Η ενεργή συμμετοχή μου στις ζητήσεις
+
+Τα discussions για εμένα ήταν κάτι που δεν έδινα μεγάλη σημασία, διότι θεωρούσα πως δεν έχουν κάτι να μου προσφέρουν. Η σκέψη μου όμως άλλαξε από τη στιγμή που έγινα μέλος μίας μεγάλης ομάδας και προβιβάστικα σε owner, που σημαίνει πως κρίνεται απαραίτητο να επικοινωνώ τόσο με τον αρχηγό της ομάδας και τους υπόλοιπους owners όσο και με τα members, αναρτόντας διαρκώς ενημερώσεις(anouncements). Μεγαλύτερο αντίκτυπο όμως είχε η λύση που έλαβα από έναν συμφοιτητή μου, όπως έχω αναφέρει στην αναφορά μου, σε ένα πρόβλημα σχετικά με το εργαλείο **asciinema**, αφού δεν κατάφερνα να βρω πουθενά τη λύση στο διαδίκτυο.
+
+* Βοήθεια -Παρατηρήσεις που έλαβα από τα discussions:  
+  * [Επιλογή βιογραφικού](https://github.com/courses-ionio/help/discussions/180#discussion-3902197)
+  * [Σχετικά με asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180)
+
+* Παρατηρήσεις - Βοήθεια που πρόσφερα στα discussions:
+  * [Διόρθωση link αναφοράς](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310)
+
+# Πηγές πληροφοριών
+
+* Βιογραφικό
+  * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)
+* [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
