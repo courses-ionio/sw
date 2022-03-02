@@ -69,7 +69,9 @@
 <br>
 Παραπάνω επεξεργασίες έγιναν πάνω στα υπάρχοντα αρχεία του template συγκεκριμένα στα scss και html.
 <br>
-#### Webring
+
+#### Webring 
+
 Επίσης στο webring ομάδας αρχικά είμασταν οι πρώτοι που κάναμε το deploy 
 
 [αυτό](https://github.com/maxboeck/webring) το webring κάνοντας debug και με το που βρήκαμε την λύση αποφασίσαμε να κάνουμε [share](https://github.com/courses-ionio/help/discussions/165) σε όλους του συναδέλφους μας.<br><br>
