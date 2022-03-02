@@ -74,6 +74,9 @@
 <img src="https://github.com/p19tzam/gifs/blob/main/eisagwgh.gif">
 
 
+[![asciicast](https://asciinema.org/a/473250.svg)](https://asciinema.org/a/473250)
+
+
 
 ## :pushpin:: Βιογραφικό Παραδοτέο Α
 
