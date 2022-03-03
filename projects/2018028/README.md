@@ -89,4 +89,5 @@
 
 Διορθώσεις ή παρατήρησεις σε συναδέλφους<br>
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
-[Link](https://github.com/courses-ionio/help/discussions/153)
+[Link](https://github.com/courses-ionio/help/discussions/153)<br>
+[Submodule guide Link](https://github.com/courses-ionio/help/discussions/287)
