@@ -19,7 +19,7 @@
 | 1 | [Εισαγωγή](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/69)</div> | <div align="center"> - </div> |
 | 2 | [βιογραφικό και δημιουργία ομάδας](https://github.com/p19tzam/sw/blob/2019213/projects/2019213/README.md#pushpin-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-%CE%B1) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/168#discussion-3897528) </div> | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Εγκατάσταση KISS Linux]() | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
