@@ -41,26 +41,54 @@
 
 ### KISS Linux distro 💋
 
+Η εγκατάσταση του Kiss Linux και ο τρόπος λειτουργίας του είναι κάτι πρωτόγνωρο για μένα λόγω ότι πρώτη φορά στην ενασχόληση μου με τα UNIX έκανα compile ενα ολόκληρο Linux kernel και όχι μόνο με έκανε να αποκτήσω την τεχνογνωσία και την δομή ενός Linux και την δομή και επιλογή configuration του kernel.
+Επιπλέον με έκανε να συνειδητοποιήσω την δουλειά που έχουν κάνει οι developers στα έτοιμα distro πχ ubuntu,arch,Kali Linux επειδή δυσκολεύτηκα σε μερικά κομμάτια και πιο συγκεκριμένα στο κομμάτι setup ενός window manager i3. Για να καταλάβετε πως λειτουργεί το κομμάτι εγκατάστασης: στο setup του kiss Linux πρέπει να πάρουμε τα official repo που περιέχει μέσα διαφορά dependencies για την λειτουργία του λειτουργικού εάν όμως θέλουμε να κατεβάσουμε παραπάνω binaries όπως το neofetch θα πρέπει να κάνουμε git clone repository από το community να το βάλουμε στο KISS_PATH και να κάνουμε build το neofetch λόγο ότι δεν περνούμε έτοιμο το binary αλλά παίρνουμε τον κώδικα και τον κάνουμε compile.  <br><br>
+
+Στην προσπάθεια εγκατάστασης i3 απέτυχα αρχικά στην εγκατάσταση του xorg-server καθώς ήταν πάρα πολύ σημαντικό για την λειτουργία του i3 το πρόβλημα ήταν ότι για κάποιο λόγο δεν λειτουργούσε το libepoxy και δεν έκανε compile ο κώδικας του  i3 οπότε αποφάσισα να δοκιμάσω να κατεβάσω και άλλο Linux παροιμία με το kiss Linux αλλά να καταφέρω να σεταρω το i3 window manager.<br>
+
 [![asciicast](https://asciinema.org/a/473250.svg)](https://asciinema.org/a/473250)
 
 ### Compile του kernel
+Ένα από τα πολύ βασικά πράγματα που έπρεπε να κάνω σύμφωνα με το documentation του kiss Linux ήταν το compile του kernel και το configuration του.
+<br>
+Μετά το compile του kernel χωρίς προβλήματα το επόμενο βήμα ήταν να κάνω τα σωστά configurations για να δουλέψει το σύστημα σωστα.
+<br>
+Στο κομμάτι του configuration ακολουθείται τα warnings που μου έβγαζε στα settings που δεν είχαν γίνει configured ακόμα.
+<br>
+Παρακάτω ακολουθεί μια εικόνα που δείχνει το compile του kernel.
+<br><br>
+<b>Btw παίρνει πολύ ώρα..</b>
+
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/compile.png">
 
 ### Εγκατάσταση DHCP και configuration για το δίκτυο 
+Μετά τo compile του kernel έπρεπε να εγκαταστήσω το DHCP και να το κάνω σωστό configuration.
+<br>
+Το DHCP είναι πάρα πολύ βασικό για την λειτουργία του δικτύου μας.
+<br>
+Η βασική λειτουργία του DHCP πρωτοκόλλου είναι η αυτόματη εκδοση IP στο Linux μας.
+<br><br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/dhcp.PNG">
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/dhcpcd.PNG">
 
 ### Εγκατάσταση grub loader
+Στο τελευταίο βήμα ήταν η εγκατάσταση grub loader που δεν ήταν τίποτα δύσκολο καθώς στο official repository υπάρχει και πατώντας την απλή εντολή για να γίνει build έχουμε το grub loader.
+<br>
+Μετα την επιτυχή εγκατάσταση κάνοντας exit από το kiss Linux και πατώντας την εντολή reboot στο host Linux πχ arch θα μας μεταφέρει στο login kiss
+<br><br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/grub.PNG">
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/gru1b.PNG">
-
-### Login στο compiled linux μας
+<br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/login.PNG">
 
 ### Εγκατάσταση vim μέσω community repo
+Ένα παράδειγμα εγκατάστασης vim μέσω του community repo.
+<br><br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/vim_install.PNG">
 
 ### Το PATH για τα repo του kiss package manager
+Πως ήταν η δομή του KISS_PATH μαζί με τα repo μου
+<br><br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/flags.PNG">
 
 
