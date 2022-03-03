@@ -6,8 +6,6 @@
 
 <h4>Edpuzzle profile : p18kout Π2018143<h4>
 
-<h4>Actively Learn profile : p18kout P2018143<h4>
-
 <h4>asciinema profile : https://asciinema.org/~p18kout<h4>
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
@@ -54,6 +52,8 @@ link του βιογραφικού : https://p18kout.github.io/online-cv/
 Δημιουργία Ομάδας : https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2247156
   
 Οργανισμός : https://github.com/DevTeamIU 
+  
+Webring Ομάδας : https://devteamiu.netlify.app
   
 ## Διαδικασία : 
 • Fork του repo του βιογραφικού από τα παραδείγματα που δίνονται στις οδηγίες
