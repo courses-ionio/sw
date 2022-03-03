@@ -28,7 +28,7 @@
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
-| 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/blob/2019213/projects/2019213/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | | |
+| 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | | |
 
 ## :pushpin:: Εισαγωγή
 
