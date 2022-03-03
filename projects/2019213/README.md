@@ -36,9 +36,34 @@
 Πέρα από το δικό μου distro να επεκτείνω τις γνώσεις μου πάνω στα github pages μέσα από τα παραδοτέα βιογραφικού μιας και έχω ασχοληθεί για προσωπική χρήση στο παρελθόν.Τέλος για τις ασκήσεις γραμμής εντολών θα ξεκινήσω το setup για το [kiss linux](https://kisslinux.org/install) με window manager όπως ανέφερα παραπάνω δηλαδή θα το προσαρμόσω στις δικές μου απαιτήσεις για να ολοκληρώσω τις ασκήσεις γραμμής εντολών ΚΑΙ πολύ σημαντικό να γράψω την αναφορά μου.
 
 
-## :pushpin:: Εκγατάσταση KISS Linux :kiss:
+## :pushpin:: Εκγατάσταση Linux distro
+
+
+### KISS Linux distro 💋
 
 [![asciicast](https://asciinema.org/a/473250.svg)](https://asciinema.org/a/473250)
+
+### Compile του kernel
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/compile.png">
+
+### Εγκατάσταση DHCP και configuration για το δίκτυο 
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/dhcp.PNG">
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/dhcpcd.PNG">
+
+### Εγκατάσταση grub loader
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/grub.PNG">
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/gru1b.PNG">
+
+### Login στο compiled linux μας
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/login.PNG">
+
+### Εγκατάσταση vim μέσω community repo
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/vim_install.PNG">
+
+### Το PATH για τα repo του kiss package manager
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/flags.PNG">
+
+
 
 ### Documentation KISS Linux
 [KISS Install](https://kisslinux.org/install) <br>
