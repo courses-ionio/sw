@@ -34,7 +34,11 @@
 
 # Βιογραφικό και δημιουργία ομάδας (2ο Παραδοτέο)
 [Το βιογραφικό μου βρίσκεται εδώ.](https://p19pasa.github.io/online-cv/)
+
+
 [Η ομάδα στην οποία ανήκω.](https://github.com/IonianUniversity2019)
+
+
 [Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
 
 
