@@ -36,3 +36,6 @@
 [Το βιογραφικό μου βρίσκεται εδώ.](https://p19pasa.github.io/online-cv/)
 [Η ομάδα στην οποία ανήκω.](https://github.com/IonianUniversity2019)
 [Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
+
+
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα (3ο Παραδοτέο)
