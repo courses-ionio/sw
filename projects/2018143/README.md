@@ -69,3 +69,24 @@ Webring Ομάδας : https://devteamiu.netlify.app
 ### Αποτέλεσμα : 
   
 ![bio](https://github.com/p18kout/sw-images/blob/main/bio.png)
+
+##### [3]
+  
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα :
+
+Link για το issue : https://github.com/ioniodi/sitegr/issues/241
+  
+Link για το pull request :
+  
+Link ανακοίνωσης στο site :
+  
+Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_collections/blob/master/_posts/2022-03-01-hackathon-part2.md
+  
+## Διαδικασία :
+• Επιλογή της ανακοίνωσης "ΙΕΕΕ Hackathon Part 2: Διήμερο coding!" από 01/03/2022 
+  
+• Δημιουργία κατάλληλου .md αρχείου στο repository all_collections
+  
+• Λήψη έγκρισης για την προσθήκη (green light)
+  
+• Δημιουργία pull request για ενσωμάτωση της προσθήκης
