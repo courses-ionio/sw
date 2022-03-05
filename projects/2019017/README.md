@@ -38,3 +38,8 @@
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
 
+## Links ομαδικότητας και συμμετοχής:
+Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
+Αξιολόγηση issue του συνεργάτη μου: https://github.com/ioniodi/sitegr/issues/230#issuecomment-1059802447
+Απαντηση σε ερωτηση στα discussions: https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458
+Δημιουργια guide στα discussions για Ruby version management: https://github.com/courses-ionio/help/discussions/200
