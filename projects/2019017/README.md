@@ -41,5 +41,6 @@
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
 Αξιολόγηση issue του συνεργάτη μου: https://github.com/ioniodi/sitegr/issues/230#issuecomment-1059802447
-Απαντηση σε ερωτηση στα discussions: https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458
-Δημιουργια guide στα discussions για Ruby version management: https://github.com/courses-ionio/help/discussions/200
+Απαντηση σε ερωτηση στα discussions του sitegr: https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458
+Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
+Βοηθεια σε προβλημα στα discussions του help: https://github.com/courses-ionio/help/discussions/304#discussioncomment-2301642
