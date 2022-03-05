@@ -128,3 +128,15 @@
 </p>
 
 Αξίζει να σημειωθεί πως ο συμφοιτητής μου Αλέξανδρος Καλαθάς είχε κάνει μία ανάρτηση στην ομαδική του τμήματος (στο Discord) τον Νοέμβρη του 2020 με κάποιες εντολές για να δουλέψουν τα submodules. Υιοθέτησα κάποιες από αυτές αλλά πρόσθεσα και τροποποίησα πολλές άλλες για να λειτουργήσουν ομαλά οι εντολές commit και push στο Terminal.
+
+<br />
+
+#### Λειτουργίες που χρησιμοποιήθηκαν για το αρχείο [2022-03-04-metaptuxiakoi-sitish.md](https://github.com/AimiliosPavlidis2001/all_collections/blob/master/_posts/2022-03-04-metaptuxiakoi-sitish.md):
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα bold text και headers
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα align
+
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Πρόσθεσα σύνδεσμο με το κατάλληλο αρχείο
+
+<br /> <br />
