@@ -5,6 +5,9 @@
 ### Ονοματεπώνυμο : Αιμίλιος Παυλίδης
 
 #### Προφίλ Github: https://github.com/AimiliosPavlidis2001
+
+#### Προφίλ Github Ομάδας: https://github.com/OompaLoompas
+
 #### Εξάμηνο : ΣΤ'
 <br />
 
@@ -103,3 +106,25 @@
 | 2 | https://github.com/courses-ionio/help/discussions/196 |
 | | Ανάρτηση απορίας στην ομάδα μου|
 | 3 | https://github.com/OompaLoompas/help/discussions/2 |
+
+<br /><br />
+
+## Εβδομάδα Τρίτη - Συνεισφορά στην ιστοσελίδα και Αίτημα ενσωμάτωσης
+
+<br />
+
+### Προσθήκη Περιεχομένου στην ιστοσελίδα
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το συγκεκριμένο παραδοτέο αρχικά προσπάθησα να καταλάβω όσο καλύτερα μπορούσα τη διαδικασία που έπρεπε να ακολουθήσω για να μπορέσω να συνεισφέρω επιτυχώς στην ιστοσελίδα του τμήματος. Κατανόησα τη τεχνολογία του [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) και έπειτα ασχολήθηκα με τα [github submodules](https://github.blog/2016-02-01-working-with-submodules/). Όταν σύνδεσα το submodule [all_collections](https://github.com/AimiliosPavlidis2001/all_collections) με το βασικό μου αποθετήριο [sitegr](https://github.com/AimiliosPavlidis2001/sitegr) και ακολούθησα τη διαδικασία που περιγράφεται στο [Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow), ήταν καιρός να εντοπίσω ένα εύκολο σημείο βελτίωσης όπου μετά από την έγκρισή του θα εκτελούσα το αίτημα ενσωμάτωσης. Το θέμα που επέλεξα ήταν η ανακοίνωση [Μεταπτυχιακοί φοιτητές δικαιούχοι δωρεάν σίτισης ακαδ.έτους 2021-2022, τμημάτων με έδρα την Κέρκυρα](https://di.ionio.gr/gr/news/23404/).
+
+<br />
+
+<b> Παρακάτω βλέπετε τη διαδικασία που ακολούθησα για την προώθηση των αλλαγών κυρίως στο αρχείο all_collections μέσω Terminal (σε σύστημα VM Ubuntu 20.04) </b>
+
+<p align="center">
+ <a href="https://asciinema.org/a/Uzcwk5fHyNFwIfsGqM2OHHhbB" target="_blank"><img src="https://asciinema.org/a/Uzcwk5fHyNFwIfsGqM2OHHhbB.svg" /></a>
+</p>
+
+Αξίζει να σημειωθεί πως ο συμφοιτητής μου Αλέξανδρος Καλαθάς είχε κάνει μία ανάρτηση στην ομαδική του τμήματος (στο Discord) τον Νοέμβρη του 2020 με κάποιες εντολές για να δουλέψουν τα submodules. Υιοθέτησα κάποιες από αυτές αλλά πρόσθεσα και τροποποίησα πολλές άλλες για να λειτουργήσουν ομαλά οι εντολές commit και push στο Terminal.
