@@ -36,5 +36,5 @@
 ## Pull Request
 Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
-- Asciinema: εχω κανει record αλλα δεν γινεται να κανω upload. Υπαρχει ενα bug με το πιστοποιητικο χωρις να εχει βρεθει λυση. ![image](https://user-images.githubusercontent.com/72458452/156880186-70602bd3-aaa4-4447-9614-18190dc8105c.png)
+- Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
 
