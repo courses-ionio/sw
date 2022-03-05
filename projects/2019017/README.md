@@ -34,7 +34,7 @@
 - Δεν κατεγραψα με asciinema τη δουλεια μου καθως ηταν ενας τεραστιος κοπος με trial and (many) errors που κρατησε πανω απο 5 ωρες, οποτε οταν εχω χρονο θα τραβηξω ενα βιντεο καποιες εντολες που εκανα και θα ανοιξω τα τροποποιημενα αρχεια με ενα `less`.
 
 ## Pull Request
-Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
+Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](https://github.com/ioniodi/sitegr/pull/285). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
 
