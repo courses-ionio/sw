@@ -68,4 +68,29 @@
 ### Αποτελέσματα:
   
 ![cv](https://github.com/p18kana/SW-files/blob/main/cv.png)
+  
+##### [3]
 
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα:
+
+Λινκ για το αρχειο md της ανακοινωσης: https://github.com/p18kana/all_collections/blob/master/_posts/2022-03-03-deltio-vivliothikis.md
+
+Λινκ για το issue: https://github.com/ioniodi/sitegr/issues/270
+
+Λινκ για το pull request: 
+
+Netlify link: 
+
+### Βηματα: 
+
+Επιλογη της ανακοινωσης "Δελτίο Βιβλιοθήκης για τις ερευνητικές δημοσιεύσεις Φεβρουαρίου 2022"
+
+Κανω fork το repository sitegr 
+
+Διαγράφω τον υπαρχων φακελο all_collections
+
+Δημιουργω νέο submodule ```git submodule add https://github.com/p18kana/all_collections.git```
+
+Ληψη green light για την προσθηκη 
+
+Δημιουργια pull request για την προσθηκη.
