@@ -3,15 +3,17 @@
 ### Ονοματεπώνυμο: ΔΗΜΗΤΡΗΣ ΚΩΣΤΑΔΗΜΑΣ
 ### Αριθμός Μητρώου: Π2019108
 ### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)
-### Netlify Site: (TBD)
-### Site Repository: (TBD)
+### Netlify Site (Ιστοσελίδα της σχολής): [epic-hamilton-p2019108.netlify.app](https://epic-hamilton-p2019108.netlify.app)
+### Site Repository (Ιστοσελίδα της σχολής): [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr)
+### Netlify Site (pibook): (TBD)
+### Site Repository (pibook): (TBD)
 <br />
 
 | Εβδομάδα | [Παραδοτέο](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης](#εισαγωγη) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/65#discussion-3883654) | |
-| 2 | [Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 2 | [Βιογραφικό](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) και [δημιουργία ομάδας](#webring-και-ομάδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης]() | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -59,13 +61,47 @@
 #### Link προς το site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Link](https://kuhakuneko.github.io/online-cv/)<br>
 #### Link προς το repository του site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Repository Link](https://github.com/KuhakuNeko/online-cv)<br>
 
-# Webring
-Πέρα από το βιογραφικό ανέλαβα και την κατασκευή του οργανισμού αλλά και webring της ομάδας μου στην οποία είμαι και ο head admin. Δημιούργησα τον οργανισμό της ομάδας και κάλεσα τα μέλη μέσα από τις συναντήσεις των εργαστηρίων του μαθήματος. Και σε αυτήν την περίπτωση αποφάσισα να του κάνω αρκετά modifications για να του δώσω ένα ξεχωριστό look. Του πρόσθεσα ένα πολύχρωμο background με animation κάνοντας χρήση του webkit, έγραψα την περιγραφή της ομάδας, τους κατάλληλους κανόνες στο code of conduct, αλλαγές στα stock κείμενα και forms, και φυσικά το έκανα set-up κατάλληλα με το netlify για να λειτουργούν όλα τα features του. Όπως είναι ξεκάθαρο για να επιτευχθούν όλα αυτά ασχολήθηκα ιδιαίτερα με την html και css. Η συνεισφορά μου μπορεί να φανεί και στα commit του αντίστοιχου repository.
+# Webring και Ομάδα
+Πέρα από το βιογραφικό ανέλαβα και ολόκληρη την κατασκευή του οργανισμού αλλά και webring της ομάδας μου στην οποία είμαι και ο head admin. Δημιούργησα τον οργανισμό της ομάδας και κάλεσα τα μέλη μέσα από τις συναντήσεις των εργαστηρίων του μαθήματος. Και σε αυτήν την περίπτωση αποφάσισα να του κάνω αρκετά modifications για να του δώσω ένα ξεχωριστό look. Του πρόσθεσα ένα πολύχρωμο background με animation κάνοντας χρήση του webkit, έγραψα την περιγραφή της ομάδας, τους κατάλληλους κανόνες στο code of conduct, αλλαγές στα stock κείμενα και forms, και φυσικά το έκανα set-up κατάλληλα με το netlify για να λειτουργούν όλα τα features του. Όπως είναι ξεκάθαρο για να επιτευχθούν όλα αυτά ασχολήθηκα ιδιαίτερα με την html και css. Η συνεισφορά μου μπορεί να φανεί και στα commit του αντίστοιχου repository.<br>
+
+Κάποια από τα βασικά πράγματα που έγιναν λοιπόν απο εμένα για το webring είναι:
+  - Προσθήκη του rainbow animation
+  - Μεγέθυνση του webring και του ανάλογου box ώστε τα ονόματά μας να μην πέφτουν το ένα πάνω στο άλλο και να είναι εμφανίσιμα
+  - Αλλαγή των προτάσεων και του form της σελίδας
+  - Αλλαγή του code of conduct
+  - Προσθήκη και έλεγχος όλων των pull request των μελών
+
+Όσων αφορά την ομάδα μου, αποτελούμαστε από 9 άτομα τα οποία ξαναγνωριστήκαμε μετά από 2 χρόνια lockdown στο μάθημα κυρίως στα εργαστήρια με τον κύριο Διογένη ακόμα γνωρίζουμε ο ένας τον άλλο. Εγώ ζήτησα η διαδικασία προσθήκης CV στο webring να γίνει με pull request ώστε να μην αφήσω τα μέλη άπραγα. Φροντίζω για την σωστή ιεραρχία και την ομαλή λειτουργία της και σύμφωνα με την καθοδήγηση θα κινηθούμε σε ένα ακόμα πιο δημοκρατικό μοντέλο ιεραρχίας που θα μας οδήγηση και σε καλύτερη ποιότητα commit. Όλοι οι ρόλοι και τα στοιχεία μπορούν να φανούν στο readme του οργανισμού καθώς και τα pull request στα ανάλογα αποθετήρια.
 
 <p align="center">
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%202%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/JoinPopTeamEpic.png" width="380px">
 </p>
 
+<!-- ΕΝΕΡΓΩΠΟΙΗΣΗ ΣΤΗΝ ΒΑΘΜΟΛΌΓΙΣΗ
+## Αντιγραφή / Κλοπή Webring!!!
+Το συγκεκριμένο Webring ήταν το πρώτο που είχε animation. Επιπλέων όπως ανέφερα μεγάλωσα και το μέγεθος του κύκλου και πρόσθεσα αρκετά feature. Αυτό κάποιοί αποφάσισαν να το εκμεταλλευτούν και χωρίς να κάνουν fork κατέβασαν τον κώδικα από το δικό μου αποθετήριο και τον χρησιμοποίησαν ως δικό τους αλλάζοντας μόνο κάποια css elements. Μάλιστα όπως ανέφερα και στο μάθημα μία από της ομάδες που φαίνετε να πήραν τον κώδικα είχαν αφήσει για αρκετό χρονικό διάστημα το ring "τους" να έχει 9 μέλη με όνομα "NAME NAME NAME NAME..." καθώς η ομάδα τους δεν είχε 9 μέλη αλλά ήταν κλεμμένο από την δική μου. Δηλαδή ο κόπος μου πήγε σε κάποιους που δεν ήξερα ούτε πώς να μειώσουν τα μέλη στο ring για να μην φαίνετε κλεμμένο μετά από καιρό απλός άλλαξαν του αριθμούς ελάχιστα. Υπάρχουν πολλά τέτοια περιστατικά και όχι μόνο για το webring. Όπως βλέπετε παρόλο που επισκέπτομαι την αναφορά μου περίπου 3-4 φορές την εβδομάδα αυτή έχει υπερβολικά πολλά hits, και γενικά υπάρχουν αποδείξεις για την αντιγραφή.
+-->
+
 #### Link προς το organization της ομάδας μου: [Git's PopTeamEpic GitHub Organization](https://github.com/Git-s-PopTeamEpic)<br>
 #### Link προς το webring της ομάδας μου: [Git's PopTeamEpic Webring](https://git-team-epic-webring.netlify.app/)<br>
 #### Link προς το repository του webring της ομάδας μου: [Git's PopTeamEpic Webring Repository](https://github.com/Git-s-PopTeamEpic/TeamWebring)<br>
+
+# 3ο Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
+Το τρίτο παραδοτέο απαιτούσε ένα αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος.  Η πρώτη μου συνεισφορά στο site του πανεπιστημίου ήταν να προσθέσω τον επίκουρο καθηγητή “Αριστείδη Βραχάτη” στην σελίδα με το προσωπικό όπως ανέφερα και στο [Issue #230](https://github.com/ioniodi/sitegr/issues/230).<br>
+
+Για να φέρω εις πέρας το παραδοτέα έκανα fork το sitegr και το all_collections submodule και το έκανα update. Τα κύρια αρχεία που άλλαξα είναι αυτά στο all_collections/_people, το data/authors.md, το assets/images αλλά πείραξα και το all_collections/_gourps ώστε να προσθέσω στο BiHeLab και τον κύριο Βραχάτη που φαίνετε να είναι επισκεπτόμενο μέλος.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%203%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/vrahatis_ionio.jpg" width="380px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%203%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/groups.png" width="380px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%203%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/author_yml.png" width="380px">
+</p>
+
+Πέρα από την προσθήκη στο BiHeLab πρόσθεσα και το email, το τηλέφωνο, το CV του αλλά και το προσωπικό του site. Θεωρώ ότι ήταν μια καλή επιλογή θέματος και με βοήθησε πολύ να κατανοήσω πως δουλεύει το site και πού βρίσκετε το κάθε τι. Αυτός είναι ο λόγος που προσπάθησα να προσθέσω και όσα περισσότερα μπορώ στον συγκεκριμένο καθηγητή. Ακόμη βοήθησα αρκετούς συμφοιτητές μου με τα issues τους και ήμουν και σχετικός συνεργάτης σε 2 άτομα της ομάδας μου στο συγκεκριμένο παραδοτέο.<br>
+
+Για να προσθέσω τον κύριο Βραχάτη επισκέφθηκα την [επίσημη ιστοσελίδα του τμήματος](https://di.ionio.gr/gr/department/staff/737-vrahatis/) καθώς και την ιστοσελίδα του [BiHeLab](https://bihelab.di.ionio.gr/) για να επαληθεύσω ότι πράγματι είναι μέλος του ανάλογου ερευνητικού εργαστηρίου.<br>
+
+#### Link προς το site της σχολής (δικό μου fork): [epic-hamilton-p2019108.netlify.app/people/vrahatis/](https://epic-hamilton-p2019108.netlify.app/people/vrahatis/)<br>
+#### Link προς το repository του site της σχολής: [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr/tree/2019108)<br>
+#### Link προς το ανάλογο issue: [sitegr/issues/230](https://github.com/ioniodi/sitegr/issues/230)<br>
+#### Link προς το ανάλογο pull request: [sitegr/pull/245#issue-1159921400](https://github.com/ioniodi/sitegr/pull/245#issue-1159921400)<br>
