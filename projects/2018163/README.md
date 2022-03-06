@@ -27,3 +27,4 @@
 
 - Αποθετήριο: https://github.com/Vasdekis/online-cv
 - GitHub Pages: https://vasdekis.github.io/online-cv/
+- WebRing Pages: https://ioniancombination.netlify.app/
