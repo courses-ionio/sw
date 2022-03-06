@@ -145,7 +145,7 @@
 | --- | --- |
 | 1 | [Δήλωση Θέματος](https://github.com/ioniodi/sitegr/issues/248) |
 | 2 | Αίτημα Ενσωμάτωσης |
-| 3 | [Demo Ιστοσελίδας](https://zealous-hypatia-89c1ea.netlify.app/posts/) |
+| 3 | [Demo Ιστοσελίδας](https://aimiliospavlidis2001-sitegr.netlify.app/posts/) |
 
 <br />
 
