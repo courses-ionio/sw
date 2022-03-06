@@ -40,5 +40,9 @@
 
 Για το παραδοτέο αυτό πρόσθεσα μια ανακοίνωση στην ιστοσελίδα sitegr. Οι προσθήκες που έκανα είναι στο [/assets/images/](https://github.com/alexpoulis/sitegr/tree/master/assets/images) και στο [/all-collections/_posts/](https://github.com/alexpoulis/all_collections/tree/d0f612298934a9dbfa0e92bd2b8f71e570030b5c/_posts) και εδώ φαίνεται το demo της σελίδας στο [netlify]( https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/).</br>
 Εδώ φαίνεται το [asciinema link επεξεργασίας sitegr μέσο terminal](https://asciinema.org/a/6beFcxOLpDlRYpz1TJY5Ax5MS)</br>
-![Και βάζω και το demo του sitegr σαν μία εικόνα.]()
+Και βάζω και το demo του sitegr σαν μία εικόνα.
+![image](https://user-images.githubusercontent.com/72515420/156942426-6478dda9-0161-46d6-a1ac-e4f9485a9c50.png)
+Να αναφέρω το ότι η εικόνα δεν φαίνεται τώρα γιατί δεν έχει δεχτεί το pull request το οποίο περιέχει και την εικόνα που πρόσθεσα και με το που δεχθεί το pull request θα πρέπει να φαίνεται κανονικά.
+
+
 
