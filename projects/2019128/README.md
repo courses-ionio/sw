@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Το Link εισαγωγή](https://github.com/courses-ionio/help/discussions/76)| 10 |
 | 2 | βιογραφικό και δημιουργία ομάδας | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/) | 8 |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/sitegr/pull/312)[, netlify demo](https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/) | 10 |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/sitegr/pull/312)[, netlify demo](https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
