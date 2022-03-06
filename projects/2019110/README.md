@@ -53,7 +53,7 @@
 Η εύρεση ομάδας **[OompaLoompas](https://github.com/OompaLoompas)** ήταν εύκολη και άμεση αφού είχε γίνει κατόπιν συνεννόησης με τον δημιουργό της, στον χώρο του πανεπιστημίου, μέσα στην οποία εντάχθηκαν άτομα που γνωρίζω σε προσωπικό επίπεδο αλλά και νέα μέλη που θα γνωρίσω στην πορεία. Κατά την άποψη μου, κατέχουμε κοινούς στόχους όπως αναφέρονται στις εισαγωγές μας και είμαστε πρόθυμοι να συνεργαστούμε για το καλύτερο αποτέλεσμα.<br>
 
 Από την πρώτη κιόλας εβδομάδα με μεγάλη συγκέντρωση και αποτελεσματικότητα οργανώσαμε το **[Webring](https://oompaloompas-webring.netlify.app/)** σε σύντομο χρονικό διάστημα έχοντας την βοήθεια από τα [discussions](https://github.com/courses-ionio/help/discussions/categories/q-a) και συγκεκριμένα [ενός συμφοιτητή μας](https://github.com/courses-ionio/help/discussions/165) σχετικά με το ανέβασμα του στο **[Netlify](https://www.netlify.com/)**. Οι βασικές αλλαγές που έπρεπε να κάνουμε ουσιαστικά αφορούσαν το αρχείο **webring/src/data/members.json** στο οποίο τοποθετήσαμε στα `"title":` και `"url":` τα ονόματα μας και τους συνδέσμους που οδηγούν στα βιογραφικά μας αντίστοιχα. Να τονίσω πως αυτό έγινε με **Pull Request** από το κάθε μέλος ξεχωριστά εφόσον είχε κάνει fork το κεντρικό μας Webring και αφού το ανανέωνε διαρκώς με διαδοχικά Fetch, ώστε να αποφύγουμε τις επικαλύψεις στο περιεχόμενο των αρχείων και τυχόν λάθη, τα οποία ήταν αναπόφεκτα αλλά επιλύσαμε. <br><br>
-Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull/2)<br>   
+Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull/2)  
 Μετάβαση στo Webring repository: [ατομικό](https://github.com/p19pasc/webring) <br>
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
