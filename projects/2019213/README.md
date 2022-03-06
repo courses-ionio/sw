@@ -18,8 +18,8 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/69)</div> | <div align="center"> - </div> |
 | 2 | [βιογραφικό και δημιουργία ομάδας](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-%CE%B1) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/168#discussion-3897528) </div> | <div align="center"> - </div> |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | | <div align="center"> - </div> |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα]() | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/313#discussion-3919300)</div> | <div align="center"> - </div> |
+| 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -131,6 +131,14 @@
 
 Το συγκεκριμένο [webring](https://kafeneio-webring.netlify.app/) δεν το αφήσαμε όπως το βρήκαμε δηλαδή το αλλάξαμε σε εμφάνιση το προσαρμόσαμε και θα το προσαρμόσουμε και άλλο στο μέλλον. 
 
+## :pushpin:: Αίτημα ενσωμάτωσης στην ιστοσελίδα 1
+Σε αυτό το παραδοτέο είχαμε να προσφέρουμε στην εξέλιξη της σελίδα του Ιονίου Πανεπιστημίου στο GitHub κάνοντας pull requests με μια μικρή αλλαγή για το πρώτο παραδοτέο.
+
+Σε αυτό το παραδοτέο εγώ επέλεξα να κάνω την αλλαγή στην διαγραφή ενός καθηγητή που ονομάζεται  Δημήτρης Τσουμάκος.
+
+[Demo Netlify](https://xenodochial-ritchie-674456.netlify.app/people/) <br>
+[PULL Request](https://github.com/ioniodi/sitegr/pull/277) <br>
+[Issue](https://github.com/ioniodi/sitegr/issues/233) <br>
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
