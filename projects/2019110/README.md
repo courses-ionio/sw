@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | **[Εισαγωγή](#Εισαγωγή)** | https://github.com/courses-ionio/help/discussions/57 | Ολοκλήρωση όλων των ζητουμένων σε εμπρόθεσμο χρόνο |
 | 2 | **[Βιογραφικό](#Βιογραφικό) - [Δημιουργία Oμάδας](#Δημιουργία-Ομάδας)** | [Κοινοποίηση Βιογραφικού](https://github.com/courses-ionio/help/discussions/248) <br>[Ομάδα στα Discussions](https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2215388) | Πολύωρη ενασχόληση με τροποποιήσεις στο template του βιογραφικού αλλά ελάχιστη χρήση terminal και αποτελεσματική συνεργασία με την ομάδα στην δημιουργία Webring   |
-| 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα ενσωμάτωσης στην ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | |
+| 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -69,7 +69,7 @@
   
 Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)
 
-<p align="center">
+<p align="right">
 <a href="https://asciinema.org/a/474124" target="_blank"><img src="https://asciinema.org/a/474124.svg" /></a>
 <p/>
 
