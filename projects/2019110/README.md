@@ -53,6 +53,7 @@
 Η εύρεση ομάδας **[OompaLoompas](https://github.com/OompaLoompas)** ήταν εύκολη και άμεση αφού είχε γίνει κατόπιν συνεννόησης με τον δημιουργό της, στον χώρο του πανεπιστημίου, μέσα στην οποία εντάχθηκαν άτομα που γνωρίζω σε προσωπικό επίπεδο αλλά και νέα μέλη που θα γνωρίσω στην πορεία. Κατά την άποψη μου, κατέχουμε κοινούς στόχους όπως αναφέρονται στις εισαγωγές μας και είμαστε πρόθυμοι να συνεργαστούμε για το καλύτερο αποτέλεσμα.<br>
 
 Από την πρώτη κιόλας εβδομάδα με μεγάλη συγκέντρωση και αποτελεσματικότητα οργανώσαμε το **[Webring](https://oompaloompas-webring.netlify.app/)** σε σύντομο χρονικό διάστημα έχοντας την βοήθεια από τα [discussions](https://github.com/courses-ionio/help/discussions/categories/q-a) και συγκεκριμένα [ενός συμφοιτητή μας](https://github.com/courses-ionio/help/discussions/165) σχετικά με το ανέβασμα του στο **[Netlify](https://www.netlify.com/)**. Οι βασικές αλλαγές που έπρεπε να κάνουμε ουσιαστικά αφορούσαν το αρχείο **webring/src/data/members.json** στο οποίο τοποθετήσαμε στα `"title":` και `"url":` τα ονόματα μας και τους συνδέσμους που οδηγούν στα βιογραφικά μας αντίστοιχα. Να τονίσω πως αυτό έγινε με **Pull Request** από το κάθε μέλος ξεχωριστά εφόσον είχε κάνει fork το κεντρικό μας Webring και αφού το ανανέωνε διαρκώς με διαδοχικά Fetch, ώστε να αποφύγουμε τις επικαλύψεις στο περιεχόμενο των αρχείων και τυχόν λάθη, τα οποία ήταν αναπόφεκτα αλλά επιλύσαμε. <br><br>
+Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull/2)
 Μετάβαση στo Webring repository: [ατομικό](https://github.com/p19pasc/webring) <br>
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
@@ -68,8 +69,8 @@
 ### Πρώτο αίτημα ενσωμάτωσης
 ------------------
 
-Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)
-Στο παρακάτω asciinema δείχνω τον τρόπο με τον οποίο πραγματοποίησα το πρώτο αίτημα ενσωμάτωσης με τη χρήση του τερματικού. Η κύρια δομή του που αφορά την σύνδεση του **sitegr** με το submodule **all_collections** βασίζεται στις οδηγίες του [συναδέλφου μου](https://github.com/courses-ionio/help/discussions/287). Κάνοντας `clone` λοιπόν το [sitegr μου](https://github.com/p19pasc/sitegr), αμέσως με `git checkout 2019110` δίνω την εντολή να εργάζομαι στο branch μου(2019110) και στην συνέχεια το ενώνω με το all_collections το οποίο έχει και αυτό το 2019110 branch. Ύστερα αναζητώ τους φακέλους όπου έχω ήδη αναφέρει παραπάνω ώστε να κάνω τις προσθήκες που επιθυμώ και στο τέλος κάνω τις τρεις βασικές εντολές `git add .` , `git commit -m "message"`, `git push`. Αυτό έχει ως αποτέλεσμα να κατωχηρωθούν οι τροποποιήσεις μου τόσο στα στατικά αρχεία του υπολογιστή μου, όσο και στα repositories μου που βρίσκονται πλατφμορμα του github και να δω τις αλλαγές στην ιστοσελίδα [demo](https://p19pasc-sitegr.netlify.app/) που κάνει host το netlify(https://www.netlify.com/).
+Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)<br>   
+Στο παρακάτω asciinema δείχνω τον τρόπο με τον οποίο πραγματοποίησα το [πρώτο αίτημα ενσωμάτωσης](https://github.com/ioniodi/sitegr/pull/299) με τη χρήση του τερματικού. Η κύρια δομή του που αφορά την σύνδεση του **sitegr** με το submodule **all_collections** βασίζεται στις οδηγίες του [συναδέλφου μου](https://github.com/courses-ionio/help/discussions/287). Κάνοντας `clone` λοιπόν το [sitegr μου](https://github.com/p19pasc/sitegr), αμέσως με `git checkout 2019110` δίνω την εντολή να εργάζομαι στο branch μου(2019110) και στην συνέχεια το ενώνω με το all_collections το οποίο έχει και αυτό το 2019110 branch. Ύστερα, αναζητώ τους φακέλους όπου έχω ήδη αναφέρει παραπάνω ώστε να κάνω τις προσθήκες που επιθυμώ και στο τέλος κάνω τις τρεις βασικές εντολές `git add .` , `git commit -m "message"`, `git push`. Αυτό έχει ως αποτέλεσμα να κατωχηρωθούν οι τροποποιήσεις μου τόσο στα στατικά αρχεία του υπολογιστή μου(αυτά που προέκυψαν από το clone), όσο και στα repositories μου που βρίσκονται στην πλατφμορμα του github και να δω τις αλλαγές στην ιστοσελίδα [Demo](https://p19pasc-sitegr.netlify.app/) που κάνει host το **Netlify**.
 <br><br>
 
 <p align="center">
@@ -90,6 +91,11 @@
 * Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions:
   * [Διόρθωση link αναφοράς](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310)
 
+* Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης
+   * [Issue Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784)
+   * [Issue Βασίλη Καμπάνι](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116)
+   * [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133)
+   * [Pull request Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/pull/304#issuecomment-1060032800)
 # Πηγές πληροφοριών
 
 * Βιογραφικό
@@ -97,3 +103,5 @@
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 * Git Submodules
   * [video1](https://www.youtube.com/results?search_query=git+submodules),[video2](https://www.youtube.com/watch?v=eJrh5IjWSGM&t=168s)
+  * [Discussion συναδέλφου](https://github.com/courses-ionio/help/discussions/287)
+ 
