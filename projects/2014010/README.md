@@ -84,8 +84,26 @@ TL;DR --> Ευελπιστώ να μάθω όσα περισσότερα γίν�
 
 Απο την άλλη πλευρά, βρήκα μερικές απο τις οδηγίες ασαφείς, με αποτέλεσμα να νιώσω μερικές στιγμές "χαμένος". Παρόλα αυτά, κατανοώντας τον απότερο σκοπό του παραδοτέου, δεν είχα περαιτέρω προβλήματα.
 
+## ΣΥΝΕΙΣΦΟΡΑ ΣΕ ΣΥΖΗΤΗΣΕΙΣ
 
+### "Marked as answer"
+https://github.com/courses-ionio/help/discussions/87  
+https://github.com/courses-ionio/help/discussions/177  
+https://github.com/courses-ionio/help/discussions/178  
+https://github.com/courses-ionio/help/discussions/263  
 
+### "General Questions"
+https://github.com/courses-ionio/help/discussions/231  
+https://github.com/courses-ionio/help/discussions/268  
+https://github.com/courses-ionio/help/discussions/311  
 
+### "Show and tell"
+https://github.com/courses-ionio/help/discussions/279  
+
+### "My Questions"
+https://github.com/courses-ionio/help/discussions/304  
+
+### "Σχολιασμός συμφοιτητών"
+https://github.com/ioniodi/sitegr/pull/301  
 
 
