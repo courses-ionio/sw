@@ -38,3 +38,10 @@ Link για το CV: [https://geoter711.github.io/online-cv/](https://geoter711.
 Repository ιστοσελίδας CV: [CV repo](https://github.com/Geoter711/online-cv)
 
 Link asciinema recording για την δημιουργία ιστοσελίδας CV: [Asciinema Rec](https://asciinema.org/a/472150)
+
+
+# Παραδοτέο 3
+
+Στο τρίτο παραδότεο, χρειάστηκε να γίνει η επιλογή ενός στοιχείου προς πρόσθεση ή αλλαγή στο repository (https://github.com/ioniodi/sitegr) του site (https://epic-hamilton-da9ac8.netlify.app/). Μέχρι στιγμής δεν έχει ολοκληρωθεί λόγω διαφόρων προβλημάτων.
+
+Αρχικά ανέβασα ένα issue (https://github.com/ioniodi/sitegr/issues/238) το οποίο απορριφθηκε καθώς οι αλλαγές που ήθελα να κάνω θεωρήθηκαν κατάλληλες για το δεύτερο παραδοτέο. Στην συνέχεια, ανέβασα το επόμενο issue (https://github.com/ioniodi/sitegr/issues/255) το οποίο έγινε δεκτό, αλλά ύστερα συνειδητοποίησα ότι δεν είναι εφικτό. Συγκεκριμένα, για την ολοκλήρωση του issue, ήταν αναγκαία η ολοκλήρωση άλλου issue πρώτα (https://github.com/ioniodi/sitegr/issues/257) το οποίο ακόμα δεν έχει γίνει δεκτό, άρα εγώ δεν μπορώ να προχωρήσω στις αλλαγές που ήθελα να πραγματοποιήσω. Έπειτα, ανέβασα άλλο ένα issue (https://github.com/ioniodi/sitegr/issues/300) το οποίο δεν έχει ακόμα λάβει απάντηση από κάποιον καθηγητή.
