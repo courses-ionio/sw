@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | **[Εισαγωγή](#Εισαγωγή)** | https://github.com/courses-ionio/help/discussions/57 | Ολοκλήρωση όλων των ζητουμένων σε εμπρόθεσμο χρόνο |
 | 2 | **[Βιογραφικό](#Βιογραφικό) - [Δημιουργία Oμάδας](#Δημιουργία-Ομάδας)** | [Κοινοποίηση Βιογραφικού](https://github.com/courses-ionio/help/discussions/248) <br>[Ομάδα στα Discussions](https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2215388) | Πολύωρη ενασχόληση με τροποποιήσεις στο template του βιογραφικού αλλά ελάχιστη χρήση terminal και αποτελεσματική συνεργασία με την ομάδα στην δημιουργία Webring   |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα ενσωμάτωσης στην ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -46,6 +46,7 @@
 <p align="center">
 <img width="700" height="500" src="https://i.postimg.cc/tTgXMRqn/cv-png.png">
 <p/>
+<br>
 
 ## Δημιουργία Ομάδας
 
@@ -57,6 +58,19 @@
 <br><br>
 <p align="center">
 <img width="450" weight="300" src="https://i.postimg.cc/CL47R54q/webring.png">
+<p/>
+<br>
+
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+Σχετικά με το πρώτο αίτημα ενσωμάτωσης στην ανεπίσημη [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/) όλοι προσθέσαμε το δικό μας μικρό κομμάτι, είτε πραγματοποίησαμε κάποιες αλλαγές σε επίπεδο δυσκολίας easy. Η πρώτη επαφή ήταν δύσκολη εφόσον έπρεπε να κατανοήσω την σύνδεση μεταξύ του [sitegr](https://github.com/ioniodi/sitegr) με το [minimal-ionio](https://github.com/ioniodi/minimal-ionio) και την λειτουργία των submodules. Ακόμη να κατανοήσω τις, σε μεγάλο όγκο οδηγίες, στις οποίες βασίστηκα στην αρχή της εβδομάδας, αλλά δεν πρόσφεραν απόλυτα σημαντικές πληροφορίες. Οι οδηγίες στις οποίες έδωσα μεγάλη έφμαση ήταν στο [Wiki](https://github.com/ioniodi/sitegr/wiki), όσον αφορά την [συμμετοχή](https://github.com/ioniodi/sitegr/wiki/Contributors-guide) και τις τροποποιήσεις των [αρχείων](https://github.com/ioniodi/sitegr/wiki/Workflow). Η επιλογή του θέματος μου προέκυψε από την επιλογή ενός από τα ήδη υπάρχων [κλειστά θέματα](https://github.com/ioniodi/sitegr/issues?q=is%3Aissue+is%3Aopen), εφόσον έλεγξα να ισχύουν οι προϋποθέσεις: 
+* Δεν το έχει αναλάβει κάποιος πριν από εμένα
+* Πράγματι υπάρχει έλλειψη στην ιστοσελίδα ή απαιτείται τροποποίηση   
+  
+Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)
+
+<p align="center">
+<a href="https://asciinema.org/a/474124" target="_blank"><img src="https://asciinema.org/a/474124.svg" /></a>
 <p/>
 
 # Η ενεργή συμμετοχή μου στις ζητήσεις
