@@ -57,21 +57,27 @@
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
 
-<script id="asciicast-474124" src="https://asciinema.org/a/474124.js" async></script>
-
-<br>
-
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
-
+### Πρώτη εντύπωση
+-----------------
 Σχετικά με το πρώτο αίτημα ενσωμάτωσης στην ανεπίσημη [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/) όλοι προσθέσαμε το δικό μας μικρό κομμάτι, είτε πραγματοποίησαμε κάποιες αλλαγές σε επίπεδο δυσκολίας easy. Η πρώτη επαφή ήταν δύσκολη εφόσον έπρεπε να κατανοήσω την σύνδεση μεταξύ του [sitegr](https://github.com/ioniodi/sitegr) με το [minimal-ionio](https://github.com/ioniodi/minimal-ionio) και την λειτουργία των submodules. Ακόμη να κατανοήσω τις, σε μεγάλο όγκο οδηγίες, στις οποίες βασίστηκα στην αρχή της εβδομάδας, αλλά δεν πρόσφεραν απόλυτα σημαντικές πληροφορίες. Οι οδηγίες στις οποίες έδωσα μεγάλη έφμαση ήταν στο [Wiki](https://github.com/ioniodi/sitegr/wiki), όσον αφορά την [συμμετοχή](https://github.com/ioniodi/sitegr/wiki/Contributors-guide) και τις τροποποιήσεις των [αρχείων](https://github.com/ioniodi/sitegr/wiki/Workflow). Η επιλογή του θέματος μου προέκυψε από την επιλογή ενός από τα ήδη υπάρχων [κλειστά θέματα](https://github.com/ioniodi/sitegr/issues?q=is%3Aissue+is%3Aopen), εφόσον έλεγξα να ισχύουν οι προϋποθέσεις: 
 * Δεν το έχει αναλάβει κάποιος πριν από εμένα
 * Πράγματι υπάρχει έλλειψη στην ιστοσελίδα ή απαιτείται τροποποίηση   
-  
-Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)
+<br>
 
-<p align="right">
+### Πρώτο αίτημα ενσωμάτωσης
+------------------
+
+Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμος με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτήζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο fork μου [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19)](https://github.com/p19pasc/all_collections/edit/2019110/_courses/applied-programming-python.md)
+Στο παρακάτω asciinema δείχνω τον τρόπο με τον οποίο πραγματοποίησα το πρώτο αίτημα ενσωμάτωσης με τη χρήση του τερματικού. Η κύρια δομή του που αφορά την σύνδεση του **sitegr** με το submodule **all_collections** βασίζεται στις οδηγίες του [συναδέλφου μου](https://github.com/courses-ionio/help/discussions/287). Κάνοντας `clone` λοιπόν το [sitegr μου](https://github.com/p19pasc/sitegr), αμέσως με `git checkout 2019110` δίνω την εντολή να εργάζομαι στο branch μου(2019110) και στην συνέχεια το ενώνω με το all_collections το οποίο έχει και αυτό το 2019110 branch. Ύστερα αναζητώ τους φακέλους όπου έχω ήδη αναφέρει παραπάνω ώστε να κάνω τις προσθήκες που επιθυμώ και στο τέλος κάνω τις τρεις βασικές εντολές `git add .` , `git commit -m "message"`, `git push`. Αυτό έχει ως αποτέλεσμα να κατωχηρωθούν οι τροποποιήσεις μου τόσο στα στατικά αρχεία του υπολογιστή μου, όσο και στα repositories μου που βρίσκονται πλατφμορμα του github και να δω τις αλλαγές στην ιστοσελίδα [demo](https://p19pasc-sitegr.netlify.app/) που κάνει host το netlify(https://www.netlify.com/).
+<br><br>
+
+<p align="center">
 <a href="https://asciinema.org/a/474124" target="_blank"><img src="https://asciinema.org/a/474124.svg" /></a>
 <p/>
+<br><br>
+
+
 
 # Η ενεργή συμμετοχή μου στις ζητήσεις
 
