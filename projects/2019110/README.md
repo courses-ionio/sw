@@ -56,9 +56,9 @@
 Μετάβαση στo Webring repository: [ατομικό](https://github.com/p19pasc/webring) <br>
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
-<p align="center">
-<img width="450" weight="300" src="https://i.postimg.cc/CL47R54q/webring.png">
-<p/>
+
+<script id="asciicast-474124" src="https://asciinema.org/a/474124.js" async></script>
+
 <br>
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
