@@ -31,3 +31,8 @@
 [Webring ομάδας](https://swkey.netlify.app/)
 
 [ομάδα](https://github.com/SWkey)
+#
+#
+## Παραδοτέο 3
+Έκανα αλλαγή του καθηγητή από το μάθημα βάσεις δεδομένων 1 και έβαλα τον κ. Μαραγκουδάκη στην θέση του κ. Σιούτα.
+[καταγραφή](https://asciinema.org/a/CAulq6sDGegavgMIlKuux4fmM)
