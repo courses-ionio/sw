@@ -35,4 +35,7 @@
 #
 ## Παραδοτέο 3
 Έκανα αλλαγή του καθηγητή από το μάθημα βάσεις δεδομένων 1 και έβαλα τον κ. Μαραγκουδάκη στην θέση του κ. Σιούτα.
+
 [καταγραφή](https://asciinema.org/a/CAulq6sDGegavgMIlKuux4fmM)
+
+[link αλλαγμένου μαθήματος](https://sitegrmeli.netlify.app/courses/databases1/)
