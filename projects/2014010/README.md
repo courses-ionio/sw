@@ -90,7 +90,8 @@ TL;DR --> Ευελπιστώ να μάθω όσα περισσότερα γίν�
 https://github.com/courses-ionio/help/discussions/87  
 https://github.com/courses-ionio/help/discussions/177  
 https://github.com/courses-ionio/help/discussions/178  
-https://github.com/courses-ionio/help/discussions/263  
+https://github.com/courses-ionio/help/discussions/263    
+https://github.com/courses-ionio/help/discussions/304
 
 ### "General Questions"
 https://github.com/courses-ionio/help/discussions/231  
@@ -99,9 +100,6 @@ https://github.com/courses-ionio/help/discussions/311
 
 ### "Show and tell"
 https://github.com/courses-ionio/help/discussions/279  
-
-### "My Questions"
-https://github.com/courses-ionio/help/discussions/304  
 
 ### "Σχολιασμός συμφοιτητών"
 https://github.com/ioniodi/sitegr/pull/301  
