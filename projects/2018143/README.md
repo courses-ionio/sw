@@ -78,7 +78,7 @@ Link για το issue : https://github.com/ioniodi/sitegr/issues/241
   
 Link για το pull request :
   
-Link ανακοίνωσης στο site :
+Link ανακοίνωσης στο site : https://elated-kare-9cb40d.netlify.app/posts/2022/03/01/hackathon-part2/
   
 Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_collections/blob/master/_posts/2022-03-01-hackathon-part2.md
   
@@ -90,3 +90,7 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
 • Λήψη έγκρισης για την προσθήκη (green light)
   
 • Δημιουργία pull request για ενσωμάτωση της προσθήκης
+  
+### Αποτελέσμα : 
+  
+![hackathon](https://github.com/p18kout/sw-images/blob/main/hackathon.png)
