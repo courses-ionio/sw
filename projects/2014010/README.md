@@ -78,7 +78,7 @@ TL;DR --> Ευελπιστώ να μάθω όσα περισσότερα γίν�
 
 | Issue | Pull Request | Live Demo |
 | -- | -- | -- |
-| [Link](https://github.com/ioniodi/sitegr/issues/265) | [Link](https://github.com/ioniodi/sitegr/pull/293) | [Link](https://sitegr-cptmike.netlify.app/courses/#%CE%B7-%CE%B5%CE%BE%CE%B1%CE%BC%CE%B7%CE%BD%CE%BF) |
+| [Link](https://github.com/ioniodi/sitegr/issues/265) | [Link](https://github.com/ioniodi/sitegr/pull/315) | [Link](https://sitegr-cptmike.netlify.app/courses/#%CE%B7-%CE%B5%CE%BE%CE%B1%CE%BC%CE%B7%CE%BD%CE%BF) |
 
 **Final thoughts about the task:** Βρήκα το παραδοτέο της συγκεκριμένης εβδομάδας εξαιρετικό! Προσωπικά θεωρώ πως η κατανόηση και χρήση των branches, μπορεί να φαίνεται απλή, αλλά είναι εξαιρετικά πολύπλοκη και δύσκολη. Πολλές φορές μάλιστα αν δε γίνει σωστά, ενδέχεται να αποτελέσει μεγάλο πρόβλημα. Χαίρομαι ιδιαίτερα λοιπόν που μπόρεσα να συνεργαστώ με μέλη της ομάδας μου και όχι μόνο, ώστε να φέρουμε εις πέρας **σωστά**, το task αυτής της εβδομάδας.
 
