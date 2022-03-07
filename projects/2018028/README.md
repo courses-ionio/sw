@@ -18,7 +18,7 @@
 | --- | --- | --- | --- |
 | <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) | <p align="center">10 |
 | <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/171) |<p align="center"> 10 |
-| <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> | | |
+| <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/327) |<p align="center"> 10 | |
 | <p align="center">4η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | <p align="center">5η | <p align="center">Συμμετοχικό περιεχόμενο A1+A2 </p>| | |
 | <p align="center">6η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
