@@ -88,9 +88,8 @@
 
 ## 3ο Παραδοτέο
 
-Οι αλλαγές σε πρώτη φάση είναι η αλλαγή των ranks για τους καθηγητές  Παναγιώτης Κουρουθανασης, Κωνσταντίνος Οικονόμου και Αδαμαντία Πατέλη οι οποίοι από αναπληρωτές καθηγητές ανέβηκαν σε καθηγητές και ο Βασίλειος Χρυσικόπουλος ο οποίος από καθηγητής έγινε ομότιμος καθηγητής
-![test5](https://user-images.githubusercontent.com/72436770/156651782-c6f17dcc-ede4-47f5-89b1-a4f2cde12f64.png)
-![test6](https://user-images.githubusercontent.com/72436770/156652444-5eabb3a7-f870-4d3a-a23d-d7e4676ec49c.png)
+Στο Παραδοτέο αυτό έπρεπε να βρούμε ένα "λάθος" στην ιστοσελίδα του αποθετηρίου [ioniodi](https://epic-hamilton-da9ac8.netlify.app/) να το διορθώσουμε και να κάνουμε αίτημα ενσωμάτωσης. Εγώ βρήκα ότι η βαθμίδα του καθηγητή Κουροθανάση Παναγίωτη ήταν λάθος οπότε την διόρθωσα και την έβαλα όπως είναι και στο [αρχικό site του ιονίου](https://di.ionio.gr/gr/department/staff/professors/). Οπότε άνοιξα το σχετικό [issue](https://github.com/ioniodi/sitegr/issues/232) και αφού πήρα το "πράσινο φως" έκανα τις απαραίτητες αλλαγές με τα παρακάτω αποτελέσματα ![git](https://user-images.githubusercontent.com/72436770/157086229-fbf3f2b9-32c3-41a1-997a-e2bf6a45d235.png)
+
 
 
 
@@ -101,4 +100,5 @@
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
 [Link](https://github.com/courses-ionio/help/discussions/153)<br>
 [Help link](https://github.com/courses-ionio/help/discussions/294)<br>
+[Help Link](https://github.com/courses-ionio/help/discussions/303)<br>
 [Submodule guide Link](https://github.com/courses-ionio/help/discussions/287)
