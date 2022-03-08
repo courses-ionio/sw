@@ -133,9 +133,9 @@
 
 #### Λειτουργίες που χρησιμοποιήθηκαν για το αρχείο [2022-03-05-metaptuxiakoi-sitish.md](https://github.com/AimiliosPavlidis2001/all_collections/blob/master/_posts/2022-03-05-metaptuxiakoi-sitish.md):
 
-&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα bold text και headers
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα heading
 
-&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα align
+&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα bold text και italics
 
 &nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Πρόσθεσα σύνδεσμο με το κατάλληλο αρχείο
 
@@ -153,4 +153,4 @@
 | --- | --- |
 | | Σχόλιασμός συνεισφοράς σε συμφοιτητές |
 | 1 | https://github.com/ioniodi/sitegr/issues/252 |
-| 2 | https://github.com/ioniodi/sitegr/pull/299 |
+| 2 | https://github.com/ioniodi/all_collections/pull/12 |
