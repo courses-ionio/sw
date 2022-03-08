@@ -64,7 +64,7 @@
 | Info | Links |
 | --- | --- |
 | Issue | [link](https://github.com/ioniodi/sitegr/issues/264) |
-| Pull Request | [link](https://github.com/ioniodi/sitegr/pull/303) |
+| Pull Request | [link](https://github.com/ioniodi/all_collections/pull/10) |
 | Demo | [link](https://site-demo-2015002.netlify.app/people/exarchos/) |
 
 
