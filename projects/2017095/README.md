@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
-| 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | | |
+| 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -51,4 +51,4 @@ Demo: [Προσωπικό](https://p17anto2-sitegr-demo.netlify.app/people/)
 
 Issue: [sitegr](https://github.com/ioniodi/sitegr/issues/249)
 
-Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/325) [all_collections](https://github.com/ioniodi/all_collections/pull/15)
+Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/325) | [all_collections](https://github.com/ioniodi/all_collections/pull/15)
