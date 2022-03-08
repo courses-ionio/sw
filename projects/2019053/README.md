@@ -144,12 +144,13 @@
 | | Βασικοί σύνδεσμοι για το 3ο παραδοτέο |
 | --- | --- |
 | 1 | [Δήλωση Θέματος](https://github.com/ioniodi/sitegr/issues/248) |
-| 2 | Αίτημα Ενσωμάτωσης |
-| 3 | [Demo Ιστοσελίδας](https://aimiliospavlidis2001-sitegr.netlify.app/posts/) |
+| 2 | [Αίτημα Ενσωμάτωσης](https://github.com/ioniodi/all_collections/pull/14) |
+| 3 | [Demo Ιστοσελίδας](https://aimiliospavlidis2001-sitegr.netlify.app/posts/2022/03/05/metaptuxiakoi-sitish/) |
 
 <br />
 
 | | Συμμετοχή και Ομαδικότητα για τη 3η εβδομάδα |
 | --- | --- |
-| | Σχόλιασμός συνεισφοράς σε συμφοιτητή |
+| | Σχόλιασμός συνεισφοράς σε συμφοιτητές |
 | 1 | https://github.com/ioniodi/sitegr/issues/252 |
+| 2 | https://github.com/ioniodi/sitegr/pull/299 |
