@@ -76,7 +76,7 @@ Webring Ομάδας : https://devteamiu.netlify.app
 
 Link για το issue : https://github.com/ioniodi/sitegr/issues/241
   
-Link για το pull request : https://github.com/ioniodi/sitegr/pull/318
+Link για το pull request : https://github.com/ioniodi/all_collections/pull/20
   
 Link ανακοίνωσης στο site μέσω Netlify : https://elated-kare-9cb40d.netlify.app/posts/2022/03/01/hackathon-part2/
   
