@@ -137,7 +137,7 @@
 Σε αυτό το παραδοτέο εγώ επέλεξα να κάνω την αλλαγή στην διαγραφή ενός καθηγητή που ονομάζεται  Δημήτρης Τσουμάκος.
 
 [Demo Netlify](https://xenodochial-ritchie-674456.netlify.app/people/) <br>
-[Pul Request](https://github.com/ioniodi/all_collections/pull/3) <br>
+[Pull Request](https://github.com/ioniodi/all_collections/pull/3) <br>
 [Issue](https://github.com/ioniodi/sitegr/issues/233) <br>
 
 ## Συμμετοχή και ομαδικότητα
