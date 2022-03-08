@@ -50,4 +50,4 @@
 
 ### Παραδοτέο 3 / Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
-[Πρόσθεσα έναν νέο καθηγητή](https://github.com/ioniodi/all_collections/compare/69aa69103dec23e4af42a28cf7b1c7438c38af7d...575173d555f432f498f31ca5161560ef0dbdbfcc#diff-f9611aebac705636842ebcce51ef384b7c286517a7f7df6ddf90a6762cb601b0) στο αποθετήριο της ιστοσελίδας και άνοιξα ένα νέο [issue](https://github.com/ioniodi/sitegr/issues/272) πριν κάνω το pull request μου.
+[Πρόσθεσα έναν νέο καθηγητή](https://github.com/ioniodi/all_collections/compare/69aa69103dec23e4af42a28cf7b1c7438c38af7d...575173d555f432f498f31ca5161560ef0dbdbfcc#diff-f9611aebac705636842ebcce51ef384b7c286517a7f7df6ddf90a6762cb601b0) στο αποθετήριο της ιστοσελίδας και άνοιξα ένα νέο [issue](https://github.com/ioniodi/sitegr/issues/272) πριν κάνω το [pull request](https://github.com/ioniodi/sitegr/pull/326) μου.
