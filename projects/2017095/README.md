@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
-| 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-1o-ενσωμάτωσης-στην-ιστοσελίδα) | | |
+| 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -35,7 +35,7 @@ Organization : [LostMpodis](https://github.com/LostMpodis)
 
 Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpodis.github.io/webring/)
 
-## 3. 1ο Αίτημα Ενσωμάτωσης Στην Ιστοσελίδα
+## 3. Αίτημα Ενσωμάτωσης Στην Ιστοσελίδα 1
 
 Για το πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα, αποφάσισα να προσθέσω τον Κ. Βόγκλη στους καθηγητές, ως Ακαδημαϊκό Υπότροφο. Για να το κάνω αυτό, έκανα fork το [ioniodi/sitegr](https://github.com/ioniodi/sitegr) και το [ioniodi/all_collections](https://github.com/ioniodi/all_collections), δημιούργησα demo-branch και στα δύο αποθετήρια, και με την εντολή
 
@@ -45,7 +45,10 @@ git submodule add -b demo-branch https://github.com/p17anto2/all_collections.git
 
 συνέδεσα το submodule του demo-branch του sitegr με το submodule του demo-branch του all_collections. Έπειτα, πρόσθεσα τις απαραίτητες πληροφορίες στα [_data/authors.yml](https://github.com/p17anto2/sitegr/blob/demo-branch/_data/authors.yml) στο sitegr και [_people/voglis.md](https://github.com/p17anto2/all_collections/blob/master/_people/voglis.md) στο all_collections, και συνέδεσα το demo-branch με το netlify. Αφού σιγουρεύτηκα ότι όλα είναι σωστά, έφερα τις αλλαγές στα master branch των αποθετηρίων με git checkout, και έκανα Pull Request και στα δύο αποθετήρια.
 
-Repos: [p17anto2/sitegr](https://github.com/p17anto2/sitegr) | [p17anto2/all_collections](https://github.com/p17anto2/all_collections) 
+Repos: [p17anto2/sitegr](https://github.com/p17anto2/sitegr) | [p17anto2/all_collections](https://github.com/p17anto2/all_collections)
+
 Demo: [Προσωπικό](https://p17anto2-sitegr-demo.netlify.app/people/)
-Issue: ioniodi/sitegr#249
-Pull Requests: ioniodi/sitegr#325 ioniodi/all_collections#15
+
+Issue: [sitegr](https://github.com/ioniodi/sitegr/issues/249)
+
+Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/325) [all_collections](https://github.com/ioniodi/all_collections/pull/15)
