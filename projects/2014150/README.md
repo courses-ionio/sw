@@ -10,8 +10,8 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Σύνοψη/Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/55) | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
-| <a href="#B">2</a> |<a href="#B">βιογραφικό και δημιουργία ομάδας </a> | [Βιογραφικό](https://vagelis1993.github.io/online-cv/) + [Repository](https://github.com/Vagelis1993/online-cv) | Στο παραδοτέο 2 ασχολήθηκα κυρίως με την δημιουργία του βιογραφικού μου ενώ παράλληλα εντάχθηκα σε μία ομάδα. |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/247) | Στο παραδοτέο 2 ασχολήθηκα κυρίως με την δημιουργία του βιογραφικού μου ενώ παράλληλα εντάχθηκα σε μία ομάδα. |
+| <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link]() | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -41,3 +41,30 @@
 Η ενασχόληση για την δημιουργία βιογραφικού ήταν αρκετά σημαντική διότι δεν είχα ξανακάνει κάτι παρόμοιο. Θα βελτιώνετε συνεχώς και σταδιακά θα ολοκληρωθεί.
 
 Η εύρεση της ομάδας ήταν αποτελεσματική διότι επικοινώνησα με άτομα που έχουν κοινούς στόχους με εμένα και αρκετά θετικοί για την αντιμετώπιση προβλημάτων και αποριών σχετικά με το μάθημα. Επίσης δημιουργήσαμε το [webring](https://devteamiu.netlify.app/) της ομάδας και βρισκόμαστε σε επικοινωνία με όλα τα μέλη για οποιαδήποτε θέμα προκύψει.
+
+# <a name="C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>
+
+Για την ολοκλήρωση του τρίτου παραδοτέου έγινε ένα αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος. Αρχικά επισκέφθηκα την [επίσημη σελίδα του τμήματος](https://di.ionio.gr/gr/) ώστε να εντοπίσω οτιδήποτε μπορώ να αλλάξω και να φέρω εις περας. Η πρώτη μου συνεισφορά στο site του πανεπιστημίου ήταν να προσθέσω την [ανακοίνωση](https://di.ionio.gr/gr/news/23484/) Δράση STEM - Ρομποτικής του Τμήματος Πληροφορικής όπως και έκανα με το άνοιγμα ενός issue[#228](https://github.com/ioniodi/sitegr/issues/228). 
+
+Αφού πήρα το Green Light απο τον αρμόδιο καθηγητή, αρχικά προσπάθησα να καταλάβω όσο καλύτερα μπορούσα τη διαδικασία που έπρεπε να ακολουθήσω διότι δεν είχα ασχοληθεί με κάτι παρόμοιο. Έπειτα ακολούθησα αναλύτικα τα βήματα που αναφέρει ο καθηγητής στο [wiki](https://github.com/ioniodi/sitegr/wiki) και προσπάθησα να καταλάβω καλύτερα την τεχνολογία του jekyll-remote-theme και να κατανοήσω περισσότερο πως ακριβώς δουλεύει το [submodule](https://github.blog/2016-02-01-working-with-submodules/).
+
+Αργότερα έκανα download to [git for windows](https://gitforwindows.org/) διότι δεν έχω ακόμη υπολογιστή με linux λογισμικό, για την ολοκλήρωση του παραδοτέου αυτού. Διάβασα αρκετές εντολές και [εδώ](https://github.com/joshnh/Git-Commands) ώστε να καταλάβω πως έπρεπε να γίνει η διαδικασία για fork των ζητούμενων respositories μέσω Terminal.
+
+Αφού έκανα fork το [sitegr](https://github.com/ioniodi/sitegr), το [minimal-ionio](https://github.com/ioniodi/minimal-ionio) και το [all_collections](https://github.com/ioniodi/all_collections), σύνδεσα το submodule all_collections με το βασικό μου αποθετήριο sitegr και ακολούθησα τη διαδικασία που περιγράφεται στο [Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow). Έπειτα δημιούργησα ένα [αρχείο .md](https://github.com/Vagelis1993/all_collections/blob/master/_posts/2022-02-23-drasi-stem-robotikis.md) μεσα στον φάκελο {all_collections/_posts/2022-02-23-drasi-stem-robotikis.md}, για να μπορέσω να προσθέσω την ανακοίνωση στο sitegr. 
+
+Αφού λοιπόν τελείωσα και με τη διαδικασία αυτή έκανα [pull request](https://github.com/ioniodi/all_collections/pull/16) και περίμενα να γίνει merged απο τον αρμόδιο καθηγητή.
+
+[Issue Link](https://github.com/ioniodi/sitegr/issues/228)
+
+[Pull Request Link](https://github.com/ioniodi/all_collections/pull/16)
+
+[Demo Link](https://friendly-noether-e6591d.netlify.app/posts/2022/02/23/drasi-stem-robotikis/)
+
+
+Παρακάτω αναγράφονται links στα οποία συμμετείχα αυτή τη βδομάδα.
+
+[Πως να φτιάξετε τα submodule για το sitegr - Guide #287](https://github.com/courses-ionio/help/discussions/287)
+
+[Netlify problem with sitegr #292](https://github.com/courses-ionio/help/discussions/292)
+
+[Παραδοτέο 3 - Αποθετήριο για το pull request #280](https://github.com/courses-ionio/help/discussions/280)
