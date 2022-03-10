@@ -7,7 +7,7 @@
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
-| 1 |<li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/56)|Εμπρόθεσμη παράδοση του παραδοτέου, fork αποθετηρίου του μαθήματος, εισαγωγή με προσδοκίες και στόχους, σύνδεσμος σε συζητήσεις |
+| 1 |<li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/56)|Εμπρόθεσμη παράδοση του παραδοτέου, fork αποθετηρίου του μαθήματος, εισαγωγή με προσδοκίες και στόχους, σύνδεσμος σε συζητήσεις|
 | 2 |<li><a href="#Βιογραφικό και δημιουργία ομάδας"><span class="toctext"></span>Βιογραφικό και δημιουργία ομάδας</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/191)|Εμπρόθεσμη παράδοση του παραδοτέου, δημιουργία βιογραφικού μου, οργάνωση ομάδας και δημιουργία webring γι' αυτήν|
 | 3 |<li><a href="#1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα"><span class="toctext"></span>1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/340)|Εμπρόθεσμη παράδοση του παραδοτέου, δημιουργία issue, υλοποίησή του έπειτα από green light, pull request|
 | 4 | Άσκηση Γραμμής Εντολών | | |
@@ -47,9 +47,20 @@
 <h2><span id="1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα">(3) 1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα</span></h2>
 Προς συμπλήρωση..
 
+#### Βήματα που ακολούθησα με την σειρά
+> - Εύρεση λάθους ή έλλειψης στην [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app)
+> - Δημιουργία [issue](https://github.com/ioniodi/sitegr/issues/252) για την ιδέα μου στο [sitegr](https://github.com/ioniodi/sitegr)
+> - [Υλοποίηση](https://github.com/u2nmd/all_collections/blob/demo-branch/_courses/bioinformatics.md) της ιδέας μου μέσα στο repository **all_collections** αφού έλαβα *green light*
+> - [Pull Request](https://github.com/ioniodi/all_collections/pull/12) αφότου τελείωσα
+> - [Live demo site](https://u2nmd-sitegr.netlify.app/courses/bioinformatics/) που φαίνεται η υλοποίηση
+
+<br><p align="center">
+<img width="724" height="450" src="https://i.postimg.cc/52X0hn8V/tritopar.png">
+<p/>  
+
 <br><br>
 # Συμμετοχή και Ομαδικότητα
-| | Βοήθεια προς συμφοιτητές |
+| # | Βοήθεια προς συμφοιτητές |
 | --- | --- |
 | 1 | https://github.com/courses-ionio/help/discussions/124 |
 | 2 | https://github.com/courses-ionio/help/discussions/122 |
