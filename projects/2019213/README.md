@@ -91,6 +91,7 @@
 <br><br>
 <img src="https://github.com/p19tzam/gifs/blob/main/kiss/flags.PNG">
 
+<img src="https://github.com/p19tzam/gifs/blob/main/kiss/flo.PNG">
 
 
 ### Documentation KISS Linux
