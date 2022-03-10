@@ -16,7 +16,7 @@
 | 1 | Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, [συγγραφή της εισαγωγής](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-1%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF), αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/63) |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/234) | |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/336) | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -51,3 +51,5 @@
 
 
 # Άσκηση γραμμής εντολών (4ο Παραδοτέο)
+
+Στο συγκεκριμένο παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών από την κατηγορία software. Εγώ επέλεξα την άσκηση 
