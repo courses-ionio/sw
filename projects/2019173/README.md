@@ -52,4 +52,12 @@
 
 # Άσκηση γραμμής εντολών (4ο Παραδοτέο)
 
-Στο συγκεκριμένο παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών από την κατηγορία [software](https://github.com/epidrome/dokey#software). Εγώ επέλεξα την πρώτη άσκηση, που ζητάει να στείλουμε notifications στο desktop-mobile μας. Συγκεκριμένα, ζητείται να στείλουμε ένα notification μέσω του ntfy στο desktop-mobile μας όταν τελειώσει ένα μεγάλο task, μία εγκατάσταση και ένα compile. Από την ιστοσελίδα [ntfy](https://github.com/dschep/ntfy) πήρα πολλές πληροφορίες και κατάλαβα αρκετά τον τρόπο λειτουργίας του ntfy. Έμαθα πως με την εντολή notify 'Phone notification' send 'Hi phone!' μπορώ να εμφανίσω οτιδήποτε επιθυμώ στο desktop-mobile μου, πως με την εντολή notify linux done zoom μπορώ να ξέρω πότε έχει ολοκληρωθεί το download μίας εφαρμογής και πως με την εντολή notify linux done compiling μπορώ να ξέρω πότε τελείωσε το compile. Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/FOUWac1JpGyjpe59VAPZbk4uA) της άσκησης. 
+Στο συγκεκριμένο παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών από την κατηγορία [software](https://github.com/epidrome/dokey#software). Εγώ επέλεξα την πρώτη άσκηση, που ζητάει να στείλουμε notifications στο desktop-mobile μας. Συγκεκριμένα, ζητείται να στείλουμε ένα notification μέσω του ntfy στο desktop-mobile μας όταν:
+1.τελειώσει ένα μεγάλο task, 
+2.μία εγκατάσταση και 
+3.ένα compile. 
+
+Από την ιστοσελίδα [ntfy](https://github.com/dschep/ntfy) πήρα πολλές πληροφορίες και κατάλαβα αρκετά τον τρόπο λειτουργίας του ntfy.
+Έμαθα πως με την εντολή notify 'Phone notification' send 'Hi phone!' μπορώ να εμφανίσω οτιδήποτε επιθυμώ στο desktop-mobile μου, πως με την εντολή notify linux done zoom μπορώ να ξέρω πότε έχει ολοκληρωθεί το download μίας εφαρμογής και πως με την εντολή notify linux done compiling μπορώ να ξέρω πότε τελείωσε το compile. 
+
+Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/FOUWac1JpGyjpe59VAPZbk4uA) της άσκησης. 
