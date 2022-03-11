@@ -66,4 +66,4 @@
 Από την ιστοσελίδα [ntfy](https://github.com/dschep/ntfy) πήρα πολλές πληροφορίες και κατάλαβα αρκετά τον τρόπο λειτουργίας του ntfy.
 Έμαθα πως με την εντολή notify 'Phone notification' send 'Hi phone!' μπορώ να εμφανίσω οτιδήποτε επιθυμώ στο desktop-mobile μου, πως με την εντολή notify linux done zoom μπορώ να ξέρω πότε έχει ολοκληρωθεί το download μίας εφαρμογής και πως με την εντολή notify linux done compiling μπορώ να ξέρω πότε τελείωσε το compile. 
 
-Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/FOUWac1JpGyjpe59VAPZbk4uA) της άσκησης. 
+Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/nsYjrCG8jcn8YcVHBloIIgGjt) της άσκησης. 
