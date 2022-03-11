@@ -17,7 +17,7 @@
 | 1 | [Εισαγωγή](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B7---%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/89) | |
 | 2 | [Βιογραφικό](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-cv) και [Δημιουργία ομάδας](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-%CE%BA%CE%B1%CE%B9-webring) | [Ανάρτηση Βιογραφικού και Δημιουργίας Ομάδας στο Discussions](https://github.com/courses-ionio/help/discussions/249) | |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Ανάρτηση Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/334)| |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Εγκατάσταση και Προσαρμογή FreeBSD + Warmup άσκηση | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -154,3 +154,33 @@
 | | Σχόλιασμός συνεισφοράς σε συμφοιτητές |
 | 1 | https://github.com/ioniodi/sitegr/issues/252 |
 | 2 | https://github.com/ioniodi/all_collections/pull/12 |
+
+<br /><br />
+
+## Εβδομάδα Τέταρτη - Εγκατάσταση και Προσαρμογή FreeBSD + Warmup άσκηση
+
+<br />
+
+### Εγκατάσταση και Προσαρμογή FreeBSD 13.0
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Θα ήθελα να ξεκινήσω με τις εντυπώσεις μου για το συγκεκριμένο παραδοτέο. Το παραδοτέο αυτό μου άρεσε πολύ αφού μας έδινε την ελευθερία να επιλέξουμε ένα λογισμικό **χωρίς systemd** με βάση τους στόχους μας και τις δυνατότητές μας. Ως πρώτη άσκηση γραμμής εντολών επέλεξα να κάνω μία ομαλή μετάβαση από τα Ubuntu που χρησιμοποιώ τον τελευταίο 1 με 1.5 χρόνο στο λογισμικό FreeBSD. Για την εγκατάστασή του και τη προσθήκη Desktop με κάποιες βασικές εφαρμογές ακολούθησα [αυτό](https://www.youtube.com/watch?v=Ch_ZN6BlChA) το βίντεο και έπειτα ασχολήθηκα τόσο με την επίλυση κάποιον βασικών προβλημάτων όσο και τη προσαρμογή του συστήματος στις αρέσκειές μου. Επέλεξα να κατεβάσω τη πιο πρόσφατη έκδοση 13.0 για την οποία η εγκατάστασή της σε εικονικά συστήματα (όπως το VMware και το Virtualbox) δεν χρησιμοποιεί τη λειτουργία fullscreen. Αυτό το πρόβλημα επιλύθηκε κατά βάση με τη [συγκεκριμένη](https://tilde.town/~kzimmermann/articles/fullscreen_freebsd_guest_virtualbox.html) ανάρτηση, από την οποία ακολούθησα τα βήματα που αναφέρω παρακάτω:
+
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Εγκατέστησα το πακέτο **virtualbox-ose-additions**
+
+&nbsp;&nbsp;&nbsp;&nbsp; 2. Στο αρχείο **/etc/rc.conf** πρόσθεσα τις γραμμές *vboxguest_enable="YES"* και *vboxservice_enable="YES"*
+
+&nbsp;&nbsp;&nbsp;&nbsp; 3. Έκανα τερματισμό λειτουργίας
+
+&nbsp;&nbsp;&nbsp;&nbsp; 4. Έκανα edit το VM μου και ενεργοποίησα την **επιτάχυνση 3D**
+
+<br /> <br />
+
+**Στην παρακάτω εικόνα αναπαρήστανται τα χαρακτηριστικά του λογισμικού μου με τη χρήση της εντολής neofetch**
+
+![FreeBSD neofetch v2](https://user-images.githubusercontent.com/72695605/157940819-b010a463-8c2f-4bf3-9769-c6e7d4a1d7a6.PNG)
+
+*Το λογισμικό αυτό τρέχει στο εικονικό σύστημα VMware*
+
+<br />
