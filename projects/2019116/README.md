@@ -23,8 +23,10 @@
 
 ## Παραδοτέο 2 (Βιογραφικό και δημιουργία ομάδας)
 
-Σε αυτο το παραδοτέο μας ζητήθηκε να δημιουργήσουμε ένα static website με την χρήση του εργαλείου jetyll το οποίο να περιέχει το βιογραφικό μας. Το link για το βιογραφικό μου είναι (https://rafael5gr2.github.io/online-cv/) και το theme το οποίο επέλεξα είναι το Orbit (https://github.com/sharu725/online-cv). Επιπλέον μας ζητήθηκε να δημιουργήσουμε ή να μπούμε σε μία ομάδα. Η ομάδα μου είναι η DevTeamIU, το link του οργανισμού μας είναι https://github.com/DevTeamIU και το link του webring μας είναι https://devteamiu.netlify.app/.
+Σε αυτό το παραδοτέο μας ζητήθηκε να δημιουργήσουμε ένα static website με την χρήση του εργαλείου jetyll το οποίο να περιέχει το βιογραφικό μας. Το link για το βιογραφικό μου είναι (https://rafael5gr2.github.io/online-cv/) και το theme το οποίο επέλεξα είναι το Orbit (https://github.com/sharu725/online-cv). Επιπλέον μας ζητήθηκε να δημιουργήσουμε ή να μπούμε σε μία ομάδα. Η ομάδα μου είναι η DevTeamIU, το link του οργανισμού μας είναι https://github.com/DevTeamIU και το link του webring μας είναι https://devteamiu.netlify.app/.
 
 ## Παραδοτέο 3 (Αίτημα ενσωμάτωσης στην ιστοσελίδα)
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε ένα pull request στην ανεπίσημη ιστοσελίδα του τμήματος με σκοπό να προσθέσουμε κάτι καινούριο ή να ενημερώσουμε κάτι υπάρχον. Εγώ αποφάσισα να ενημέρωσα το ωρολόγιο πρόγραμμα του Δ' Εαρινού Εξαμήνου στο [sitegr](https://github.com/ioniodi/sitegr). Μπορείτε να βρείτε το live demo [εδώ](https://rafael5gr2-sitegr.netlify.app/timetables/sem_d/). Την συγκεκριμένη αλλαγή την έκανα αφού πήρα το green light στο [issue](https://github.com/ioniodi/sitegr/issues/292) που άνοιξα και αμέσως μετά έκανα [pull request](https://github.com/ioniodi/all_collections/pull/19) στο repository [all_collections](https://github.com/ioniodi/all_collections) το οποίο χρησιμοποιείται ως submodule στο repository sitegr που ανέφερα πιο πάνω.
 
 ## Παραδοτέο 4 (Άσκηση γραμμής εντολών)
