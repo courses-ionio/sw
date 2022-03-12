@@ -77,9 +77,11 @@
 
 Λινκ για το issue: https://github.com/ioniodi/sitegr/issues/270
 
-Λινκ για το pull request: 
+Λινκ για το pull request: https://github.com/ioniodi/all_collections/pull/34
 
-Netlify link: 
+Netlify link απο το προσωπικο site: https://distracted-curran-ed99d3.netlify.app/posts/2022/03/03/deltio-vivliothikis/
+  
+Link στο site μαθηματος: 
 
 ### Βηματα: 
 
@@ -94,3 +96,7 @@ Netlify link:
 Ληψη green light για την προσθηκη 
 
 Δημιουργια pull request για την προσθηκη.
+
+### Αποτελεσματα: 
+
+![Live Demo]()
