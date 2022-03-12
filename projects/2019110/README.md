@@ -83,6 +83,17 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 1. Δημιούργησα ένα νέο demo-branch στο sitegr όπου έκανα την προσθήκη των βιβλίων στο references.bib και ύσερα [pull request](https://github.com/ioniodi/sitegr/pull/337)
 2. Δημιούργησα ένα νέο demo-branch στο all_collections όπου έκανα την προσθήκη των βιβλίων στο **applied-programming-python.md** και ύστερα [pull request](https://github.com/ioniodi/all_collections/pull/28)
 
+<br>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Με την αποδοχή των δύο διακριτών Pull request έγινε η προσθήκη μου στην επίσημη κεντρική ανεπίσημη ιστοσελίδα.**
+<br>
+<br>   
+<p align="center">
+<img width="900" height="350" src="https://i.postimg.cc/v8WM30L1/python-compare2.jpg">
+<p/>
+<br>
+
+
 # Η ενεργή συμμετοχή μου στις ζητήσεις
 
 Τα discussions για εμένα ήταν κάτι που δεν έδινα μεγάλη σημασία, διότι θεωρούσα πως δεν έχουν κάτι να μου προσφέρουν. Η σκέψη μου όμως άλλαξε από τη στιγμή που έγινα μέλος μίας μεγάλης ομάδας και προβιβάστικα σε owner, που σημαίνει πως κρίνεται απαραίτητο να επικοινωνώ τόσο με τον αρχηγό της ομάδας και τους υπόλοιπους owners όσο και με τα members, αναρτόντας διαρκώς ενημερώσεις(anouncements). Μεγαλύτερο αντίκτυπο όμως είχε η λύση που έλαβα από έναν συμφοιτητή μου, όπως έχω αναφέρει στην αναφορά μου, σε ένα πρόβλημα σχετικά με το εργαλείο **asciinema**, αφού δεν κατάφερνα να βρω πουθενά τη λύση στο διαδίκτυο.
