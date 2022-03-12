@@ -154,6 +154,8 @@
 | | Σχόλιασμός συνεισφοράς σε συμφοιτητές |
 | 1 | https://github.com/ioniodi/sitegr/issues/252 |
 | 2 | https://github.com/ioniodi/all_collections/pull/12 |
+| 3 | https://github.com/ioniodi/sitegr/pull/337 |
+| 4 | https://github.com/ioniodi/all_collections/pull/28 |
 
 <br /><br />
 
