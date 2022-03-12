@@ -85,7 +85,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 
 <br>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Με την αποδοχή των δύο διακριτών Pull request έγινε η προσθήκη μου στην επίσημη κεντρική ανεπίσημη ιστοσελίδα.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Με την αποδοχή των δύο διακριτών Pull request έγινε η προσθήκη μου στην κεντρική ανεπίσημη ιστοσελίδα.**
 <br>
 <br>   
 <p align="center">
