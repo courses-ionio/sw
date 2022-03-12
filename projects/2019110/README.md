@@ -80,7 +80,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <br><br>
 
 Όσον αφορά τα αιτήματα ενσωμάτωσης, έγινε μία [πρώτη προσπάθεια](https://github.com/ioniodi/sitegr/pull/299) η οποία όμως ήταν άκυρη λόγω των [νέων οδηγίων](https://github.com/courses-ionio/sw/discussions/1042#discussioncomment-2311233) που προέκυψαν. Επομένως:
-1. Δημιούργησα ένα νέο demo-branch στο sitegr όπου έκανα την προσθήκη των βιβλίων στο references.bib και ύσερα [pull request](https://github.com/ioniodi/sitegr/pull/337)
+1. Δημιούργησα ένα νέο demo-branch στο sitegr όπου έκανα την προσθήκη των βιβλίων στο references.bib και ύστερα [pull request](https://github.com/ioniodi/sitegr/pull/337)
 2. Δημιούργησα ένα νέο demo-branch στο all_collections όπου έκανα την προσθήκη των βιβλίων στο **applied-programming-python.md** και ύστερα [pull request](https://github.com/ioniodi/all_collections/pull/28)
 
 <br>
