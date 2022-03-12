@@ -53,3 +53,19 @@
 [Πρόσθεσα έναν νέο καθηγητή](https://github.com/ioniodi/all_collections/compare/69aa69103dec23e4af42a28cf7b1c7438c38af7d...575173d555f432f498f31ca5161560ef0dbdbfcc#diff-f9611aebac705636842ebcce51ef384b7c286517a7f7df6ddf90a6762cb601b0) στο αποθετήριο της ιστοσελίδας και άνοιξα ένα νέο [issue](https://github.com/ioniodi/sitegr/issues/272) πριν κάνω το [pull request](https://github.com/ioniodi/sitegr/pull/326) μου.
 
 Edit: [follow-up pull request στο all_collections](https://github.com/ioniodi/all_collections/pull/21)
+
+### Παραδοτέο 4 / Άσκηση γραμμής εντολών
+
+Για να ξεκινήσω με τις ασκήσεις γραμμές εντολών, έκανα εγκατάσταση το [Alpine Linux](https://alpinelinux.org/about/) επειδή φαίνεται το πιο κατάλληλο σύστημα χωρίς systemd για τους στόχους μου. Παρακάτω παρουσιάζω όλα τα βήματά μου pre & post εγκατάστασης:
+
+- Έτρεξα το installation script ( ```setup-alpine``` ) και έκανα τη πιο κενή εγκατάσταση ονομάζοντας τον εαυτό μου με το username του φοιτητικού email μου.
+
+- Στη συνέχεια, αφού έτρεξα ```reboot``` παρατήρησα ότι το ενοχλητικό μήνυμα που μου λέει να κάνω εγκατάσταση με το να τρέξω ```setup-alpine``` υπάρχει ακόμα οπότε έκανα edit με  ```vi etc/motd``` για να αρχίσω να προσαρμόζω στο 100% όπως θέλω το λειτουργικό μου σύστημα.
+
+<img src="https://i.imgur.com/BLfhrL6.png" alt="terminal screenshot">
+
+- Σε αυτό το σημείο σκέφτηκα να προσθέσω έναν νέο χρήστη τρέχοντας ```adduser``` ώστε να μη δουλεύω ως root όλη την ώρα αλλά προς το παρών δε θα το κάνω επειδή δεν έχω πρόβλημα στο να έχω πλήρη έλεγχο συνέχεια.
+
+- Έκανα edit τα repositories στο package manager των Alpine Linux με το να προσθέσω τα community repositories ώστε να έχω πολλά περισσότερα εργαλεία στη διάθεσή μου σε περίπτωση που χρειαστώ κάτι για τις ασκήσεις γραμμής εντολών και έτρεξα ```apk update``` ώστε να γίνει ενημέρωση του package manager για τις νέες αλλαγές.
+
+- Έκανα εγκατάσταση το asciinema από τα community repositories και έτρεξα ένα [test](https://asciinema.org/a/R3XmbwWjI10PzbZDAzKDenIhz).
