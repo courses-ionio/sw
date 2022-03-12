@@ -42,6 +42,12 @@
 
 **[Webring](https://ionioi.netlify.app/)** 
 
+<h1 align="center">ΠΑΡΑΔΟΤΕΟ 3</h1>
+
+## ΑΙΤΗΜΑ ΕΝΣΩΜΑΤΩΣΗΣ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ
+
+<h1 align="center">ΠΑΡΑΔΟΤΕΟ 4</h1>
+
 ## Συμμετοχικότητα & Ομαδικότητα
 
 1. https://github.com/courses-ionio/help/discussions/148
