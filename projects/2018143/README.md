@@ -80,7 +80,7 @@ Link για το pull request : https://github.com/ioniodi/all_collections/pull/
   
 Link ανακοίνωσης στο site μέσω Netlify : https://elated-kare-9cb40d.netlify.app/posts/2022/03/01/hackathon-part2/
   
-Link ανακοίνωσης στο site μετά το PR : https://deploy-preview-318--epic-hamilton-da9ac8.netlify.app/posts/2022/03/01/hackathon-part2/
+Link ανακοίνωσης στο site μετά το PR : https://epic-hamilton-da9ac8.netlify.app/posts/2022/03/01/hackathon-part2/
   
 Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_collections/blob/master/_posts/2022-03-01-hackathon-part2.md
   
