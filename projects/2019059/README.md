@@ -42,3 +42,9 @@ Git commands
 
 Συνεργασία:
 https://github.com/courses-ionio/help/discussions/197
+
+# Παραδοτέο 3
+
+Η αλλαγή έγινε [εδώ](https://github.com/xar1sgeovlacp2019059/all_collections/blob/demo-branch/_courses/computer-programming.md). Συγκερκιμένα, άλαξα τον author andronikos για αυτό το μάθημα με τον author voglis.
+
+εδώ είναι οι αλλαγές στο[netlify](https://romantic-poincare-94818b.netlify.app/courses/computer-programming/)
