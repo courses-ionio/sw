@@ -22,3 +22,6 @@
 --- UNDER CONSTRUCTION ---
 
 ![img1](./img/Screenshot%20from%202022-03-13%2019-12-56.png)
+![img2](./img/Screenshot%from%2022-03-13%19-16-57.png)
+![img3](./img/Screenshot%from%2022-03-13%19-32-25.png)
+![img4](./img/Screenshot%from%2022-03-13%20-42-34.png)
