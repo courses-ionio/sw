@@ -21,4 +21,4 @@
 
 --- UNDER CONSTRUCTION ---
 
-![img1](/blob/img/Screenshot%20from%202022-03-13%2019-12-56.png)
+![img1](./img/Screenshot%20from%202022-03-13%2019-12-56.png)
