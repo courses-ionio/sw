@@ -25,3 +25,4 @@
 ![img2](./img/Screenshot%20from%202022-03-13%2019-16-57.png)
 ![img3](./img/Screenshot%20from%202022-03-13%2019-32-25.png)
 ![img4](./img/Screenshot%20from%202022-03-13%2020-42-34.png)
+<img src="./img/Screenshot%20from%202022-03-13%2020-42-34.png" alt="drawing" width="200"/>
