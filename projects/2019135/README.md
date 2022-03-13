@@ -48,6 +48,12 @@
 
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 4</h1>
 
+## ΕΓΚΑΤΑΣΤΑΣΗ FREEBSD
+
+Σε αυτό το παραδοτεό εγκατέστησα το *FreeBSD* και παρακάτω υπάρχει το αντίστοιχο neofetch: https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp
+
+<a href="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp" target="_blank"><img src="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp.svg" /></a>
+
 ## Συμμετοχικότητα & Ομαδικότητα
 
 1. https://github.com/courses-ionio/help/discussions/148
