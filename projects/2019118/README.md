@@ -71,3 +71,5 @@ Edit: [follow-up pull request στο all_collections](https://github.com/ioniodi
 - Έκανα εγκατάσταση το asciinema από τα community repositories και έτρεξα ένα [test](https://asciinema.org/a/R3XmbwWjI10PzbZDAzKDenIhz).
 
 - Τέλος, ολοκλήρωσα την ομαδική άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)"
+
+<img src="https://i.imgur.com/cPxZO4t.png" alt="terminal screenshot">
