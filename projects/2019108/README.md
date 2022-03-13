@@ -14,7 +14,7 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης](#εισαγωγη) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/65#discussion-3883654) | |
 | 2 | [Βιογραφικό](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) και [δημιουργία ομάδας](#webring-και-ομάδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/314) | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης]() | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
@@ -71,14 +71,14 @@
   - Αλλαγή του code of conduct
   - Προσθήκη και έλεγχος όλων των pull request των μελών
 
-Όσων αφορά την ομάδα μου, αποτελούμαστε από 9 άτομα τα οποία ξαναγνωριστήκαμε μετά από 2 χρόνια lockdown στο μάθημα κυρίως στα εργαστήρια με τον κύριο Διογένη ακόμα γνωρίζουμε ο ένας τον άλλο. Εγώ ζήτησα η διαδικασία προσθήκης CV στο webring να γίνει με pull request ώστε να μην αφήσω τα μέλη άπραγα. Φροντίζω για την σωστή ιεραρχία και την ομαλή λειτουργία της και σύμφωνα με την καθοδήγηση θα κινηθούμε σε ένα ακόμα πιο δημοκρατικό μοντέλο ιεραρχίας που θα μας οδήγηση και σε καλύτερη ποιότητα commit. Όλοι οι ρόλοι και τα στοιχεία μπορούν να φανούν στο readme του οργανισμού καθώς και τα pull request στα ανάλογα αποθετήρια.
+Όσων αφορά την ομάδα μου, αποτελούμαστε από 9 άτομα, μερικά από τα οποία ξαναγνωριστήκαμε μετά από 2 χρόνια lockdown στο μάθημα κυρίως στα εργαστήρια με τον κύριο Διογένη ακόμα γνωρίζουμε ο ένας τον άλλο. Εγώ ζήτησα η διαδικασία προσθήκης CV στο webring να γίνει με pull request ώστε να μην αφήσω τα μέλη άπραγα και έκανα τους ανάλογους ελέγχους και υποδοχές παρέχοντας και βοήθεια. Φροντίζω για την σωστή ιεραρχία και την ομαλή λειτουργία της και σύμφωνα με την καθοδήγηση θα κινηθούμε σε ένα ακόμα πιο δημοκρατικό μοντέλο ιεραρχίας που θα μας οδήγηση και σε καλύτερη ποιότητα commit. Όλοι οι ρόλοι και τα στοιχεία μπορούν να φανούν στο readme του οργανισμού καθώς και τα pull request στα ανάλογα αποθετήρια.
 
 <p align="center">
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%202%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/JoinPopTeamEpic.png" width="380px">
 </p>
 
 <!-- ΕΝΕΡΓΩΠΟΙΗΣΗ ΣΤΗΝ ΒΑΘΜΟΛΌΓΙΣΗ
-## Αντιγραφή / Κλοπή Webring!!!
+## Αντιγραφή / Κλοπή Webring?!
 Το συγκεκριμένο Webring ήταν το πρώτο που είχε animation. Επιπλέων όπως ανέφερα μεγάλωσα και το μέγεθος του κύκλου και πρόσθεσα αρκετά feature. Αυτό κάποιοί αποφάσισαν να το εκμεταλλευτούν και χωρίς να κάνουν fork κατέβασαν τον κώδικα από το δικό μου αποθετήριο και τον χρησιμοποίησαν ως δικό τους αλλάζοντας μόνο κάποια css elements. Μάλιστα όπως ανέφερα και στο μάθημα μία από της ομάδες που φαίνετε να πήραν τον κώδικα είχαν αφήσει για αρκετό χρονικό διάστημα το ring "τους" να έχει 9 μέλη με όνομα "NAME NAME NAME NAME..." καθώς η ομάδα τους δεν είχε 9 μέλη αλλά ήταν κλεμμένο από την δική μου. Δηλαδή ο κόπος μου πήγε σε κάποιους που δεν ήξερα ούτε πώς να μειώσουν τα μέλη στο ring για να μην φαίνετε κλεμμένο μετά από καιρό απλός άλλαξαν του αριθμούς ελάχιστα. Υπάρχουν πολλά τέτοια περιστατικά και όχι μόνο για το webring. Όπως βλέπετε παρόλο που επισκέπτομαι την αναφορά μου περίπου 3-4 φορές την εβδομάδα αυτή έχει υπερβολικά πολλά hits, και γενικά υπάρχουν αποδείξεις για την αντιγραφή.
 -->
 
@@ -101,7 +101,49 @@
 
 Για να προσθέσω τον κύριο Βραχάτη επισκέφθηκα την [επίσημη ιστοσελίδα του τμήματος](https://di.ionio.gr/gr/department/staff/737-vrahatis/) καθώς και την ιστοσελίδα του [BiHeLab](https://bihelab.di.ionio.gr/) για να επαληθεύσω ότι πράγματι είναι μέλος του ανάλογου ερευνητικού εργαστηρίου.<br>
 
-#### Link προς το site της σχολής (δικό μου fork): [epic-hamilton-p2019108.netlify.app/people/vrahatis/](https://epic-hamilton-p2019108.netlify.app/people/vrahatis/)<br>
+#### Link προς το site της σχολής (κεντρικό μετά το merge): [epic-hamilton-da9ac8.netlify.app/people/vrahatis/](https://epic-hamilton-da9ac8.netlify.app/people/vrahatis/)<br>
 #### Link προς το repository του site της σχολής: [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr/tree/2019108)<br>
 #### Link προς το ανάλογο issue: [sitegr/issues/230](https://github.com/ioniodi/sitegr/issues/230)<br>
 #### Link προς το ανάλογο pull request: [sitegr/pull/245#issue-1159921400](https://github.com/ioniodi/sitegr/pull/245#issue-1159921400)<br>
+#### Link προς τα merged pull request μετά απο την λύση του γνωστού προβλήματος με το submodule: [sitegr/335](https://github.com/ioniodi/sitegr/pull/335) και [all_collections/27](https://github.com/ioniodi/all_collections/pull/27)
+
+<!--
+
+# 4ο Παραδοτέο - performance monitoring
+Για αυτό το παραδοτέο επέλεξα να κάνω την εργασία “performance monitoring” που ήθελε να παρακολουθήσουμε την επίδοση των python script μας και να γίνει ένα σχετικό visualize στην διαδικασία. Εγω συγκεκριμένα χρησιμοποίησα το εργαλείο Hyperfine και εξερεύνησα πολλά από τα feature του αλλά δημιούργησα και ένα shell script που εξηγώ παρακάτω και έχω ανεβασμένο και στο προσωπικό μου αποθετήριο.
+
+Το hyperfine σου επιτρέπει να κάνεις bench script αλλά και εντολές και εμφανίζει διάφορες πληροφορίες για την πορεία του bench με πολύχρωμα reports και loadbars. Στο asciinema μου δείχνω πολλές λειτουργίες του όπως:
+- Διεξαγωγή απλού bench αγνοώντας τα errors του script
+- Καθαρισμός του cache
+- Προετοιμασία του cache για να διεξαχθεί ένα πιο ρεαλιστικό benchmark
+- Έκανα bench με συγκεκριμένο αριθμό run
+- Έκανα bench ορίζοντας τον ελάχιστο αριθμό run
+- Έκανα 10 warmup runs και ακριβώς 200 run ενώ έκανα και εξαγωγή ενος CSV formatted report του bench
+- Έθεσα παραμέτρους για την πλήρη εμφάνιση χρωμάτων και ενεργοποίηση όλων των feature του hyperfine
+- Πέρα από python scripts έκανα benchmark και σε εντολές linux όπως το cat, κάτι που είναι ξεχωριστό στο hyperfine
+- Εμφάνιση των αποτελεσμάτων σε μονάδα χρόνου της επιλογής μου
+
+## Shell Scripting – HyperHakuBench.sh
+Θέλοντας, όπως πάντα φυσικά, να διευκολύνω την ζωή μου στο terminal και να το κάνω ακόμα πιο προσβάσιμο και ελκυστικό σε περισσότερο κόσμο δημιούργησα ένα shell script που κάνει χρίσει του hyperfine και επιτρέπει στον χρήστη να συγκρίνει scripts και commands και να κάνει συγκεκριμένες διεργασίες πολύ πιο αυτοματοποιημένα. Το script αυτό κάνει χρήση pipelining αλλά και πολλών άλλων τεχνικών και εντολών. Μπορείτε να βρείτε το script μου στο ιδικό repository που έχω για scripts φτιαγμένα από εμένα στο link που παρέχω παρακάτω. Δίνω ένα checklist με μερικά απο τα βασικά features που προσθέτει το script μου:
+- Μπορείς να επιλέξεις custom benchmarking modes φτιαγμένα από εμένα που είναι ουσιαστικά διάφορα standard test βάση παραμέτρων.
+- Επιτρέπει την εξαγωγή ξεχωριστών αλλά και εξαγωγή ενός μόνο συνενωμένου report για όλα τα benches που έχει επιτευχθεί με διάφορα pipeline στο cat
+- Αυτόματος καθαρισμός cache.
+- Αυτόματο warmup για cold cache start.
+- Επιλογή εξαγωγής markdown report.
+- Επιλογή αυτόματης διαγραφής των individual report και των leftover του benchmark.
+- Εμφάνιση version του hyperfine για επικύρωση.
+- Όλα τα παραπάνω είναι customizable και στα χέρια του χρήστη (π.χ. αν θέλει report ή όχι, επιλογή mode, διαγραφές κ.λπ.).
+Και στο script οπώς και στο asciinema της άσκησής μου κάνω χρήση των αλγορίθμων bubble sort και quick sort υλοποιημένους σε python.
+
+Εδώ έχω ένα embed του demo του shell script μου:
+[![asciicast](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu.svg)](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)
+
+#### Asciinema link "performance monitoring":  [Terminal Excersice - Performance Monitoring 2019108](https://asciinema.org/a/t4w9uDFtuE8GYKeyFbzadEJ6r)<br>
+#### Asciinema link για το shell script μου με όνομα "HyperHakuBench": [Demo for HyperHakuBench.sh by KuhakuNeko](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)<br>
+#### Link προς το HyperHakuBench shell script στο repository μου: [KuhakuNekoLinuxShellScripts/HyperHakuBench.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HyperHakuBench.sh)<br>
+
+-->
+
+# 4ο Παραδοτέο - Εγκατάσταση systemd less linux distro
+Να αναφέρω ότι ήδη έχω ξεκινήσει την εγκατάσταση ενός custom linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και θα δημιουργήσω και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει και θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
+Έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formating, file system management, portage, grep bootloader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και υπήρχε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "Άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
