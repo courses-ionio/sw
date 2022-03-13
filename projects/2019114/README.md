@@ -29,3 +29,5 @@
 
 Επίσης έκανα την εισαγωγή μου στην ομάδα [ionioi](https://github.com/ionioi) με το αντίστοιχο [webring](https://ionioi.netlify.app/).
 
+# Εγκατάσταση λογισμικού 
+Αποφάσισα να εγκαταστίσω το Freebsd που μπορείτε να δείτε στο αντίστοιχο [asciinema](https://asciinema.org/a/G4uKcF8vkRRzuZXpZu7k6A4Wq).
