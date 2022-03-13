@@ -69,3 +69,5 @@ Edit: [follow-up pull request στο all_collections](https://github.com/ioniodi
 - Έκανα edit τα repositories στο package manager των Alpine Linux με το να προσθέσω τα community repositories ώστε να έχω πολλά περισσότερα εργαλεία στη διάθεσή μου σε περίπτωση που χρειαστώ κάτι για τις ασκήσεις γραμμής εντολών και έτρεξα ```apk update``` ώστε να γίνει ενημέρωση του package manager για τις νέες αλλαγές.
 
 - Έκανα εγκατάσταση το asciinema από τα community repositories και έτρεξα ένα [test](https://asciinema.org/a/R3XmbwWjI10PzbZDAzKDenIhz).
+
+- Τέλος, ολοκλήρωσα την ομαδική άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)"
