@@ -147,3 +147,9 @@
 # 4ο Παραδοτέο - Εγκατάσταση systemd less linux distro
 Να αναφέρω ότι ήδη έχω ξεκινήσει την εγκατάσταση ενός custom linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και θα δημιουργήσω και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει και θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
 Έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formating, file system management, portage, grep bootloader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και υπήρχε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "Άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/EarlyInstallation1.jpg" width="340px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/TarVerification.jpg" width="400px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/WgetStage3.jpg" width="400px">
+</p>
