@@ -14,7 +14,7 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης](#εισαγωγη) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/65#discussion-3883654) | |
 | 2 | [Βιογραφικό](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) και [δημιουργία ομάδας](#webring-και-ομάδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/314) | |
-| 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης]() | |
+| 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/365) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
@@ -145,8 +145,8 @@
 -->
 
 # 4ο Παραδοτέο - Εγκατάσταση systemd less linux distro
-Να αναφέρω ότι ήδη έχω ξεκινήσει την εγκατάσταση ενός custom linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και θα δημιουργήσω και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει και θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
-Έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formating, file system management, portage, grep bootloader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και υπήρχε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "Άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
+Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και έχω δημιουργήσει και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει. Θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. Το [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
+Για το funtoo έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formatting, file system management, portage, grep boot-loader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και μας δόθηκε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
 
 <p align="center">
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/EarlyInstallation1.jpg" width="340px">
