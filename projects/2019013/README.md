@@ -8,10 +8,10 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | |
-| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | |
+| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | Επιτυχής δημιουργία της εισαγωγής και αναφορά των στόχων μου για το μάθημα  |
+| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -31,4 +31,8 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 <h2><span id="Βιογραφικό">Βιογραφικό</span></h2>
 
   <i><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a></i>
+  
+<h2><span id="Άσκηση Γραμμής Εντολων">Άσκηση Γραμμής Εντολων</span></h2>
+
+   Ολοκλήρωση 2 ασκήσεων γραμμής εντολών με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
   
