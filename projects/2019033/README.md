@@ -21,4 +21,4 @@
 
 --- UNDER CONSTRUCTION ---
 
-![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%20from%202022-03-13%2019-12-56.png)
+![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%20from%202022-03-13%2019-12-56.png =250x)
