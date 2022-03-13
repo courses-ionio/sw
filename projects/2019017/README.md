@@ -31,7 +31,7 @@
 - Προσθεσα επιπλεον ενοτητα "Programs & Proficiency" κατω απο τα "skills & proficiency" για να δειξω ποια προγραμματα γνωριζω και ποσο. Για να το κανω αυτο, αντεγραψα τον φακελο skills.html και δημιουργησα τον programs.html, αλλαζωντας ολα τα αντικειμενα "skills" με "programs". Επειτα πηγα στο index.html και προσθεσα τη γραμμη `{% include programs.html %}`.
 - Περασα την ενοτητα "graduation" απο το sidebar στο body της ιστοσελιδας για να φαινεται πιο εμπλουτισμενη καθως δεν ειχα δεξιοτητες να γραψω (και ετσι φαινονται τα details του education)
 - Προς το παρων xρησιμοποιωντας το raw content ενος pdf αρχειου που δημιουργησα, ο χρηστης πατωντας στο λινκ μπορει να κατεβασει το βιογραφικο μου σε pdf μορφη.
-- Δεν κατεγραψα με asciinema τη δουλεια μου καθως ηταν ενας τεραστιος κοπος με trial and (many) errors που κρατησε πανω απο 5 ωρες, οποτε οταν εχω χρονο θα τραβηξω ενα βιντεο καποιες εντολες που εκανα και θα ανοιξω τα τροποποιημενα αρχεια με ενα `less`.
+- Asciinema: https://asciinema.org/a/nfULxsiwhCHFN4VbcVqvPqMAD
 
 ## Pull Request
 Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](https://github.com/ioniodi/all_collections/pull/22). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
