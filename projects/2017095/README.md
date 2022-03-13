@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
-| 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | | |
+| 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -61,8 +61,10 @@ Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/325) | [all_colle
 
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/04_hyperfine_sim.png"> </p>
 
-Έπειτα, επειδή στην Python 3.10 προστέθηκε το match statement(περίπου σαν το switch σε άλλες γλώσσες), ήθελα να κάνω συγκρίνω ένα πρόγραμμα που χρησιμοποιεί αυτό το καινούριο feature με τα κλασικά if-else statement. Δημιούργησα λοιπόν δύο παρόμοια προγράμματα που για 100.000 επαναλήψεις επιλέγουν έναν τυχαίο ακέραιο από το 0 έως το 50, τον προσθέτουν σε μία μεταβλητή και κάνουν print την τελική τιμή της μεταβλητής (προκειμένου να αποφύγω σχετικά optimization που κάνει η python), χρησιμοποιώντας [Vim Magick](https://asciinema.org/a/476464). Έπειτα, χρησιμοποίησα το script welch_ttest.py για να τα συγκρίνω.
+Έπειτα, επειδή στην Python 3.10 προστέθηκε το match statement (περίπου σαν το switch σε άλλες γλώσσες), ήθελα να κάνω συγκρίνω ένα πρόγραμμα που χρησιμοποιεί αυτό το καινούριο feature με τα κλασικά if-else statement. Δημιούργησα λοιπόν δύο παρόμοια προγράμματα που για 100.000 επαναλήψεις επιλέγουν έναν τυχαίο ακέραιο από το 0 έως το 50, τον προσθέτουν σε μία μεταβλητή και κάνουν print την τελική τιμή της μεταβλητής (προκειμένου να αποφύγω σχετικά optimization που κάνει η python), χρησιμοποιώντας [Vim Magick](https://asciinema.org/a/476464). Έπειτα, χρησιμοποίησα το script welch_ttest.py για να τα συγκρίνω.
 
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/04_hyperfine_python.png"> </p>
 
+Python Scripts: [Match](https://github.com/p17anto2/LessonImages/blob/main/SW/04_match) | [If-Else](https://github.com/p17anto2/LessonImages/blob/main/SW/04_if_else)
 Asciinema Links: [My Project](https://asciinema.org/a/476462) | [Match vs. If-Else](https://asciinema.org/a/476463)
+Βοήθεια στις Συζητήσεις: https://github.com/courses-ionio/help/discussions/342
