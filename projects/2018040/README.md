@@ -100,3 +100,19 @@ Link στο site μαθηματος:
 ### Αποτελεσματα: 
 
 ![livedemo](https://github.com/p18kana/SW-files/blob/main/livedemo.png)
+
+##### [4]
+
+Εγκατάσταση artix linux:
+
+### Βηματα:
+
+Ξεκινώ με λήψη και εγκατάσταση του oracle vm. Επιλέγω στην συνέχεια το κατάλληλο αρχείο iso των artix linux και το θέτω ως boot option
+
+### Αποτελεσματα:
+
+![artix]()
+
+## Ασκηση γραμμης εντολων: send notifications to your desktop-mobile
+
+
