@@ -9,7 +9,7 @@
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
-| 4 | <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a>  | | |
+| 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a> <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>  | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -43,6 +43,14 @@
 Για πρώτη άσκηση γραμμής εντολών επέλεξα την δημιουργία μίας εφαρμογής cli για τον αγαπημένο μου ιστότοπο. Αρχικά, εγκατέστησα το <kbd>pip</kbd> με την εντολή <kbd>$ pip install -U click</kbd> και στην συνέχεια δημιούργησα ένα αρχείο python με όνομα Hello.py. Τέλος, στο τερματικό κάλεσα με την εντολή <kbd>$ python hello.py --count=3</kbd> το αρχείο που είχα δημιουργήσει.
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/476425)
+
+
+## Check the weather
+
+Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
+
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/USzd9XMgBzV3ekuJIDLox2Oyq)
 
 
 
