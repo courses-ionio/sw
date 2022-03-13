@@ -32,7 +32,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 
   <i><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a></i>
   
-<h2><span id="Άσκηση Γραμμής Εντολων">Άσκηση Γραμμής Εντολων</span></h2>
+<h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
    Ολοκλήρωση 2 ασκήσεων γραμμής εντολών με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
   
