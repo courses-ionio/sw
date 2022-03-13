@@ -21,4 +21,7 @@
 
 --- UNDER CONSTRUCTION ---
 
-![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%20from%202022-03-13%2019-12-56.png?raw=true =250x)
+![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%20from%202022-03-13%2019-12-56.png)
+![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%from%2022-03-13%19-16-57.png)
+![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%from%2022-03-13%19-32-25.png)
+![img1](https://github.com/Tsimpliarakis/sw/blob/2019033/projects/2019033/img/Screenshot%from%2022-03-13%20-42-34.png)
