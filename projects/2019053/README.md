@@ -203,3 +203,10 @@
 <p align="center">
 <a href="https://asciinema.org/a/RbrPBMmgt5n077ve1aZVtXas8" target="_blank"><img src="https://asciinema.org/a/RbrPBMmgt5n077ve1aZVtXas8.svg" /></a>
 </p>
+
+<br /> <br />
+
+| | Συμμετοχή και Ομαδικότητα για τη 4η εβδομάδα |
+| --- | --- |
+| | Σχόλιο βοήθειας σε συμφοιτήτρια |
+| 1 | https://github.com/courses-ionio/help/discussions/360 |
