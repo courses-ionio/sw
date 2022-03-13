@@ -11,7 +11,7 @@
 | 1 | Εισαγωγή | [#90](https://github.com/courses-ionio/help/discussions/90) | Παράδοση εντός προθεσμίας |
 | 2 | Βιογραφικό και δημιουργία ομάδας | [#206](https://github.com/courses-ionio/help/discussions/206) | Παράδοση εντός προθεσμίας |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [#310](https://github.com/courses-ionio/help/discussions/310) | Issue εντός προθεσμίας, αναμονή εκτός προθεσμίας για green light |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)" | [#367](https://github.com/courses-ionio/help/discussions/367) | Παράδοση εντός προθεσμίας |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
