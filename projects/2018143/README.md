@@ -96,3 +96,29 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
 ### Αποτελέσμα : 
   
 ![hackathon](https://github.com/p18kout/sw-images/blob/main/hackathon.png)
+  
+##### [4]
+  
+### Εγκατάσταση Artix linux :
+  
+Διαδικασία :
+  
+• Λήψη κατάλληλου αρχείου ISO των Artix Linux
+
+• Λήψη και setup του Oracle VM
+
+• Ενεργοποίηση VM και επιλογή του ISO ως boot option
+  
+•
+  
+•
+  
+•
+  
+•
+  
+## Αποτελέσματα :
+  
+![artixlinux]()
+  
+## Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
