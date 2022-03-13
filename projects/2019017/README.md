@@ -10,7 +10,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή)| https://github.com/courses-ionio/help/discussions/79 | Έκανα ο,τι απαιτείται για το παραδοτέο 1. |
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -37,6 +37,9 @@
 Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](https://github.com/ioniodi/all_collections/pull/22). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
+
+## Ασκηση Γραμμης Εντολων
+Προσπαθησα να κανω καποιες ασκησεις, αλλα ειχαν προβληματα. Συγκεκριμενα η πρωτη ασκηση με το ntfy, η λειτουργια pushover εμφανιζει http error και δεν δουλευει. Οταν εκανα την εντολη `ntfy -b pushover -o user_key t0k3n send 'Pushover test!'`, σταματησε να δουλευει και η default λειτουργια `ntfy send/done`. Ενα uninstall δεν το εφτιαξε και ξοδεψα αρκετη ωρα ωστε να καταληξω οτι πλεον το ntfy δεν δουλευει πλεον σε αυτο το λειτουργο, οποτε παει αυτο. Επειτα δοκιμασα το huginn. Υπαρχουν δυο τροποι να το κανεις install. Το docker εμφανιζει `error: cannot start container "container id"`. Ενα local install με git απαιτει να χρησιμοποιηθει η εντολη `rake` για να αλλαξω το APP_SECRET_TOKEN, αλλα εμφανιζει και αυτο error `rake aborted cannot load such file bundler/setup`. Θα προσπαθησω ξανα στο μελλον.
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
