@@ -53,5 +53,7 @@ Link προς το repository του site του βιογραφικού μου: 
  
  Πιο συγκεκριμένα :
  
+ https://asciinema.org/a/creFjIvzOfNkkh8Hne2yivuYy
+ 
  
 
