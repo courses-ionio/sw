@@ -9,7 +9,7 @@
 | 1 | **[Εισαγωγή](#Εισαγωγή)** | https://github.com/courses-ionio/help/discussions/57 | Ολοκλήρωση όλων των ζητουμένων σε εμπρόθεσμο χρόνο |
 | 2 | **[Βιογραφικό](#Βιογραφικό) - [Δημιουργία Oμάδας](#Δημιουργία-Ομάδας)** | [Κοινοποίηση Βιογραφικού](https://github.com/courses-ionio/help/discussions/248) <br>[Ομάδα στα Discussions](https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2215388) | Πολύωρη ενασχόληση με τροποποιήσεις στο template του βιογραφικού αλλά ελάχιστη χρήση terminal και αποτελεσματική συνεργασία με την ομάδα στην δημιουργία Webring   |
 | 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | Η επέκταση ενός αρχείου .bib και η προσθήκη βιβλίων στο μάθημα της python στο all_collections, ήταν μία καλή ιδέα όσον αφορά το 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα που έγινε με επιτυχία |
-| 4 | Άσκηση γραμμής εντολών | [Βασικές ασκήσεις warmup σε freebsd](https://github.com/courses-ionio/help/discussions/355#discussion-3934793) | Τα κριτήρια για τη πρώτη άσκηση γραμμής εντολών θεωρώ δεν απαιτούσαν ενασχόληση σε βάθος και σε συνδυασμό με το γεγονός ότι πραγματοποίησα εκκρεμότητες από την 3η εβδομάδα, οι ασκήσεις warmup σε freebsd είναι κάτι βατό |
+| 4 | **[Warmup με freebsd](#Warmup-με-freebsd)** | [Βασικές ασκήσεις warmup σε freebsd](https://github.com/courses-ionio/help/discussions/355#discussion-3934793) | Τα κριτήρια για τη πρώτη άσκηση γραμμής εντολών θεωρώ δεν απαιτούσαν ενασχόληση σε βάθος και σε συνδυασμό με το γεγονός ότι πραγματοποίησα εκκρεμότητες από την 3η εβδομάδα, οι ασκήσεις warmup σε freebsd είναι κάτι βατό |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -93,6 +93,68 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <p/>
 <br>
 
+# Ασκήσεις γραμμής εντολών
+
+### Warmup με freebsd
+------------------------
+
+Πρόκειται για την 4η εβδομάδα, στην ουσία η **πρώτη άσκηση γραμμής εντολών**, η οποία σύμφωνα με την [εβδομαδιαία ανακοίνωση](https://github.com/courses-ionio/sw/discussions/1049) είχε σκοπό την ομαλή μετάβαση από το σύστημα **Linux** που όλοι γνωρίζουμε σε διαφορετικά συστήματα που προσφέρουν μεγαλύτερη ελευθερία στον χρήστη αλλά απαιτούν και μεγαλύτερη γνώση εντολών. Λόγω της ολοκλήρωσης της 3ης εβδομάδας(αίτημα ενσωμάτωσης) ο χρόνος ήταν πιο περιορισμένος και γιαυτό πραγματοποίησα ασκήσεις warmup στο περιβάλλον freebsd([εγκατάσταση](https://www.freebsd.org/where/)) ώστε η εξοικείωση με συστήματα διαφορετικά από αυτό του linux να γίνεται με αργούς ρυθμούς. Αυτό που παρατήρησα είναι πως δεν διαφέρουν σημαντικά τα δύο αυτά λογισμικά επομένως, οι ασκήσεις έγιναν με προϋπάρχουν βασικές γνώσεις που κατέχω και με λίγες αναζητήσεις στο διαδίκτυο.
+
+<br>
+<p align="center">
+<img width="500" height="400" src="https://i.postimg.cc/zXVRRTCt/neofetch-freebsd.png">
+<p/>
+<br>
+
+**1. Set-up the main dependencies and demonstrate your base system**
+  * Εργαλεία που χρησιμοποιήθηκαν:
+    * [Neofetch](https://github.com/dylanaraps/neofetch)
+    * [Nano](https://linuxhint.com/install-nano-freebsd/)
+  * Σε αυτή την άσκηση:
+    * Παρουσίασα το hostname με την εντολή `hostname`, το οποίο μπορεί να αλλάξει από το config αρχείο του freebsd **rc.conf** με nano, vim ή κάποιον άλλο editor
+    * Με την εντολή `ls -a` παρουσιάζονται όλα τα ήδη αρχείων του directory στο οποίο βρισκόμαστε 
+    * Με την εντολή `nano simple.html` δημιούργησα ένα απλό html αρχείο με περιεχόμενο:
+      ```
+      <html>                                                                          
+         <h1>This is my tittle</h1>                                                      
+         <p> My text here</p>                                                            
+       </html>
+      ```
+     * Με την εντολή `ps aux` και με pipeline `less` δηλαδή `ps aux | less` παρουσιάζονται όλες οι διεργασίες με τη δυνατότητα scroll up-down
+     * Με την εντολή `neofetch` παρουσιάζονται το λειτουργικό σύστημα και software-hardware
+     <br>
+   &ensp;&ensp;&ensp;**Όλα αυτά βρίσκονται στο συγκεκριμένο [asciinema](https://asciinema.org/a/QxbSdb4yO47Ndf60IteOSb6QY)**
+   <br> <br> 
+   
+  **2. Check the weather**
+   * Εργαλεία που χρησιμοποιήθηκαν: 
+     * [Wttr.in](https://github.com/chubin/wttr.in.git)
+   * Σε αυτή την άσκηση:
+     * Παρουσίασα τη πρόγνωση του καιρού στην Κέρκυρα με την εντολή `curl wttr.in/Greece+Corfu`
+     * Παρουσίασα τη πρόγωνση του καιρού μαζί με αστρονομικά δεδομένα στην περιοχή Corfu της Αμερικής με την εντολή `curl v2.wttr.in/America:Corfu`
+     * Παρουσίασα σε μία γραμμή τον καιρό που επικρατεί μαζί με τη θερμοκρασία στην Ελλάδα μόνο με την εντολή `curl -s 'wttr.in/{Greece}?format=3'`
+     * Παρουσίασα την φάση στην οποία βρίσκεται η σελήνη με την εντολή `curl wttr.in/Moon`   
+ 
+   &ensp;&ensp;**Όλα αυτά βρίσκονται στο συγκεκριμένο [asciinema](https://asciinema.org/a/AphZdd6OKj9gNwYj4IDwKXz9O)**    
+     <br><br>
+   
+   **3. Try different text-based web browsers and get used to the keyboard shortcuts for one**  
+   * Εργαλεία που χρησιμοποιήθηκαν: 
+     * [Lynx](https://www.freshports.org/www/lynx/) 
+     * [W3m](https://www.freshports.org/www/w3m/)
+   * Σε αυτή την άσκηση:     
+      * Επισκέφτηκα μία [ιστοσελίδα](https://quiz-pliroforikis.netlify.app/) που είχα δημιουργήσει σε άλλο μάθημα σε συνεργασία με τον [Αιμίλιο Παυλίδη](https://github.com/AimiliosPavlidis2001) βασισμένη σε απλή HTML, CSS, JS. Αυτό έγινε με δύο διαφορετικά εργαλεία **Lynx** και **W3m**, αναλυτικά με τις εντολές 
+        `lynx quiz-pliroforikis.netlify.app` και `w3m quiz-pliroforikis.netlify.app`.
+      * Εμφάνισα τον κώδικα του simple.html αρχείου σε μορφή κειμένου με την εντολή `cat simple.html | w3m -T text/html` και με μια μικρή επέκταση `cat simple.html | w3m -dump -         T text/html>file.txt` το κείμενο αυτό αποθηκεύεται σε ένα νέο .txt αρχείο που δημιουργούμε.  
+      
+   &ensp;&ensp;&ensp;**Όλα αυτά βρίσκονται στο συγκεκριμένο [asciinema](https://asciinema.org/a/bDoU1tSwvtReQFhYFzXItZMw2)**    
+    <br><br>  
+    
+### Συμπέρασμα  
+
+Κάτι το οποίο θέλω να τονίσω είναι, πως τα εργαλεία που χρησιμοποίησα παρόλο που φαίνονται απλά και ανούσια κατάλαβα ότι διαδραματίζουν έναν σημαντικό ρόλο. Σε συστήματα         όπως αυτό που χρησιμοποίησα, στο οποίο δεν υπήρχε γραφικό περιβάλλον, στην περίπτωση που αποτελούσε το βασικό μου σύστημα με κάποιο τρόπο θα έπρεπε να αντλήσω πληροφορίες       από το διαδίκτυο και να επισκεφτώ ιστοσελίδες, κάτι το οποίο γίνεται με τα παραπάνω εργαλεία σε καθημερινή βάση. Ακόμη με την απλή χρήση του pipeline που έκανα κατάλαβα ότι     έχει μεγάλη αξία και μπορούν να γίνουν πολύ καλοί συνδυασμοί εργαλείων και εντολών.
+
+***Περισσότερες ιστοσελίδες από τις οποίες άντλησα πληροφορίες βρίσκονται στο τέλος***
 
 # Η ενεργή συμμετοχή μου στις ζητήσεις
 
@@ -110,12 +172,26 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
    * [Issue Βασίλη Καμπάνι](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116)
    * [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133)
    * [Pull request Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/pull/304#issuecomment-1060032800)
+  
 # Πηγές πληροφοριών
 
 * Βιογραφικό
   * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)
-* [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
+* [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
+  * [Fenced code blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)  
 * Git Submodules
   * [video1](https://www.youtube.com/results?search_query=git+submodules),[video2](https://www.youtube.com/watch?v=eJrh5IjWSGM&t=168s)
   * [Discussion συναδέλφου](https://github.com/courses-ionio/help/discussions/287)
- 
+ * Ασκήσεις γραμμής εντολών
+   * [Εγκατάσταση Freebsd](https://www.freebsd.org/where/)
+   1. Άσκηση
+     * [Εγκατάσταση nano command](https://linuxhint.com/install-nano-freebsd/)
+     * [Εγκατάσταση neofetch](https://github.com/dylanaraps/neofetch/wiki/Installation#freebsd) 
+     * [Εγκατάσταση wttr.in(με git clone)](https://github.com/chubin/wttr.in.git)
+     * [Εγκατάσταση Lynx](https://www.freshports.org/www/lynx/)
+     * [Εγκατάσταση W3m](https://www.freshports.org/www/w3m/)
+       * [Εντολές για wttr.in](https://github.com/chubin/wttr.in)
+       * [Εντολή για config file](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
+       * [Εντολή για στοιχεία διεργασιών](https://linuxize.com/post/less-command-in-linux/)
+       * [Εντολές για w3m](https://www.commandlinux.com/man-page/man1/w3m.1.html)
+       * [Εντολή για lynx](https://kb.iu.edu/d/afik) 
