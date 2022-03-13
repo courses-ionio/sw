@@ -53,7 +53,7 @@ Link προς το repository του site του βιογραφικού μου: 
  
  Πιο συγκεκριμένα :
  
- https://asciinema.org/a/creFjIvzOfNkkh8Hne2yivuYy
+ [Η άσκηση που έκανα περασμένη σε video στο asciinema](https://asciinema.org/a/creFjIvzOfNkkh8Hne2yivuYy)
  
  
 
