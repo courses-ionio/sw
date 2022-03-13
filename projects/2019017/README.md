@@ -10,7 +10,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή)| https://github.com/courses-ionio/help/discussions/79 | Έκανα ο,τι απαιτείται για το παραδοτέο 1. |
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | | |
+| 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | https://github.com/courses-ionio/help/discussions/363 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -39,7 +39,9 @@
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
 
 ## Ασκηση Γραμμης Εντολων
-Προσπαθησα να κανω καποιες ασκησεις, αλλα ειχαν προβληματα. Συγκεκριμενα η πρωτη ασκηση με το ntfy, η λειτουργια pushover εμφανιζει http error και δεν δουλευει. Οταν εκανα την εντολη `ntfy -b pushover -o user_key t0k3n send 'Pushover test!'`, σταματησε να δουλευει και η default λειτουργια `ntfy send/done`. Ενα uninstall δεν το εφτιαξε και ξοδεψα αρκετη ωρα ωστε να καταληξω οτι  το ntfy δεν δουλευει πλεον σε αυτο το λειτουργο, οποτε παει αυτο. Επειτα δοκιμασα το huginn. Υπαρχουν δυο τροποι να το κανεις install. Το docker εμφανιζει `error: cannot start container "container id"`. Ενα local install με git απαιτει να χρησιμοποιηθει η εντολη `rake` για να αλλαξω το APP_SECRET_TOKEN, αλλα εμφανιζει και αυτο error `rake aborted cannot load such file bundler/setup`. Θα προσπαθησω ξανα στο μελλον, ισως στο kiss linux (αν καταφερω να το εγκαταστησω).
+Για την ασκηση γραμμης εντολων επελεξα να στειλω ενα desktop notification μετα απο download, με τη χρηση του εργαλειου [ntfy](https://github.com/dschep/ntfy). Χρησιμοποιησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για να κατεβασω ενα βιντεο, με τη χρηση του `--no-check-certificate` καθως πετουσε SSL certificate error. Η καταγραφη εγινε με το εργαλειο kazam, καθως το notification ειναι εκτος του terminal και επειτα μετατροπη σε gif. Σταματησα το recording λιγο μετα την εναρξη του download γιατι εδειχνε πως θα παρει 1 λεπτο, ετσι ωστε το βιντεο να μην ειναι πολυ μεγαλο χωρις καμια ουσιωδες αλλαγη στο περιεχομενο.
+
+![AltText](https://i.imgur.com/rBVf9cJ.gif)
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
