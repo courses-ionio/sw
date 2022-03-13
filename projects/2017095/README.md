@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -52,3 +52,17 @@ Demo: [Προσωπικό](https://p17anto2-sitegr-demo.netlify.app/people/)
 Issue: [sitegr](https://github.com/ioniodi/sitegr/issues/249)
 
 Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/325) | [all_collections](https://github.com/ioniodi/all_collections/pull/15)
+
+## 4. Hyperfine
+
+Για άσκηση γραμμής εντολών, ασχολήθηκα με την εφαρμογή hyperfine, καθώς είναι ένα εργαλείο για το οποίο δε γνώριζα, αλλά φαίνεται πάρα πολύ χρήσιμο στη δημιουργία λογισμικού.
+
+Αρχικά, για να το δω στην πράξη, το χρησιμοποίησα σε [μία εφαρμογή που είχα δημιουργήσει στα πλαίσια ενός άλλου μαθήματος](https://github.com/p17anto2/queue_sim), και είναι γραμμένη σε C. Κατέβασα τα αρχεία από το github, έκανα build το πρόγραμμα και έτρεξα το hyperfine με την παράμετρο --export-json, για να χρησιμοποιήσω και τα python script που προσφέρει.
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/04_hyperfine_sim.png"> </p>
+
+Έπειτα, επειδή στην Python 3.10 προστέθηκε το match statement(περίπου σαν το switch σε άλλες γλώσσες), ήθελα να κάνω συγκρίνω ένα πρόγραμμα που χρησιμοποιεί αυτό το καινούριο feature με τα κλασικά if-else statement. Δημιούργησα λοιπόν δύο παρόμοια προγράμματα που για 100.000 επαναλήψεις επιλέγουν έναν τυχαίο ακέραιο από το 0 έως το 50, τον προσθέτουν σε μία μεταβλητή και κάνουν print την τελική τιμή της μεταβλητής (προκειμένου να αποφύγω σχετικά optimization που κάνει η python), χρησιμοποιώντας [Vim Magick](https://asciinema.org/a/476464). Έπειτα, χρησιμοποίησα το script welch_ttest.py για να τα συγκρίνω.
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/04_hyperfine_python.png"> </p>
+
+Asciinema Links: [My Project](https://asciinema.org/a/476462) | [Match vs. If-Else](https://asciinema.org/a/476463)
