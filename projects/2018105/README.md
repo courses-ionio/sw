@@ -33,5 +33,5 @@
 Η αλλαγή έπρεπε να γίνει [εδώ](https://github.com/DimitrisTzer/all_collections/blob/master/_courses/big-data-management-technologies.md)
 Καθώς έκανα την αλλαγή στο πεδίο author σε atsipis,η αλλαγή αυτή δεν εμφανιζόταν μετά στο demo site και το όνομα του καθηγητή κ.Τσουμάκου παρέμενε.
 Επίσης σκέφτηκα ως λύση να προσθέσω εγώ τον κ.Τσίπη στους καθηγητές ώστε να υπάρχει, αλλά δεν το έκανα διότι είδα ότι ένας άλλος συμφοιτητής επέλεξε να τον προσθέσει στους καθηγητές.
-Παραθέτω και λινκ απο το [demo site](https://dimitristzer.netlify.app/courses/big-data-management-technologies/)
+Παραθέτω και λινκ απο το [demo site](https://dimitristzer.netlify.app/courses/big-data-management-technologies/).
 Τέλος να προσθέσω πως δεν έστειλα το pull request το οποίο απαιτούσε το παραδοτέο.
