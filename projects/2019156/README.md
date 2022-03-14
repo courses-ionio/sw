@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Syllabus - Εισαγωγή](https://courses-ionio.github.io/help/guide/) | [Discussions](https://github.com/courses-ionio/help/discussions/95)|  |
 | 2 | [βιογραφικό](https://anastasia-rizou.github.io/online-cv/) |[Discussions](https://github.com/courses-ionio/help/discussions/226) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[αρχικό αίτημα](https://github.com/courses-ionio/help/discussions/391) | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
