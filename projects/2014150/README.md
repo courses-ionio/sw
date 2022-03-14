@@ -91,7 +91,7 @@
 
 Στη συνέχεια προσπαθώ να ανοίξω το browser του συστήματος με όνομα Abaco χωρις επιτυχία και την εύρεση της IP μου![image3](https://user-images.githubusercontent.com/63341157/158228425-6651adaa-86bc-4528-860c-d70931cebdb4.png)
 
-Και τέλος οι αλλαγές που έκανα και τα αποτελέσματα απο τα πακέτα που έλαβα. Έτσι ήταν αρχικά![image4](https://user-images.githubusercontent.com/63341157/158228932-1883b8f1-a218-4e1c-8bc1-67c711dee400.png)![image5](https://user-images.githubusercontent.com/63341157/158228964-df8020af-3b5a-4776-8c4c-beb78d7b1b2e.png)
+Και τέλος οι αλλαγές που έκανα και τα αποτελέσματα απο τα πακέτα που έλαβα. Έτσι ήταν αρχικά απο το VM![image4](https://user-images.githubusercontent.com/63341157/158228932-1883b8f1-a218-4e1c-8bc1-67c711dee400.png)![image5](https://user-images.githubusercontent.com/63341157/158228964-df8020af-3b5a-4776-8c4c-beb78d7b1b2e.png)
 Τα αποτελέσματα!![image7](https://user-images.githubusercontent.com/63341157/158229227-aab0a212-1c57-4773-acf0-a1c3737840dc.png)
 
 
