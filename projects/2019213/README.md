@@ -19,7 +19,7 @@
 | 1 | [Εισαγωγή](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/69)</div> | <div align="center"> - </div> |
 | 2 | [βιογραφικό και δημιουργία ομάδας](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-%CE%B1) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/168#discussion-3897528) </div> | <div align="center"> - </div> |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-1) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/313#discussion-3919300)</div> | <div align="center"> - </div> |
-| 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | <div align="center"> - </div> | <div align="center"> - </div> |
+| 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/384#discussion-3936542) </div> | <div align="center"> - </div> |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
