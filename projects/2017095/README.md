@@ -74,4 +74,4 @@ Asciinema Links: [My Project](https://asciinema.org/a/476462) | [Match vs. If-El
 
 ## Σύστημα
 
-Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc, εγκατέστησα μέσω του xbps το Xorg και το i3, και έκανα compile το [st](https://st.suckless.org/) για terminal με μερικά patches και δικό μου theme (εμπνευσμένο από το [Azu του Guake](https://github.com/Guake/guake/blob/master/guake/palettes.py) και το [surf](https://surf.suckless.org/) για browser.
+Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc, εγκατέστησα μέσω του xbps το Xorg και το i3, και έκανα compile το [st](https://st.suckless.org/) για terminal με μερικά patches και δικό μου theme (εμπνευσμένο από το [Azu του Guake](https://github.com/Guake/guake/blob/master/guake/palettes.py)) και το [surf](https://surf.suckless.org/) για browser.
