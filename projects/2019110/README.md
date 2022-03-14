@@ -159,20 +159,74 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 # Η ενεργή συμμετοχή μου στις ζητήσεις
 
 Τα discussions για εμένα ήταν κάτι που δεν έδινα μεγάλη σημασία, διότι θεωρούσα πως δεν έχουν κάτι να μου προσφέρουν. Η σκέψη μου όμως άλλαξε από τη στιγμή που έγινα μέλος μίας μεγάλης ομάδας και προβιβάστικα σε owner, που σημαίνει πως κρίνεται απαραίτητο να επικοινωνώ τόσο με τον αρχηγό της ομάδας και τους υπόλοιπους owners όσο και με τα members, αναρτόντας διαρκώς ενημερώσεις(anouncements). Μεγαλύτερο αντίκτυπο όμως είχε η λύση που έλαβα από έναν συμφοιτητή μου, όπως έχω αναφέρει στην αναφορά μου, σε ένα πρόβλημα σχετικά με το εργαλείο **asciinema**, αφού δεν κατάφερνα να βρω πουθενά τη λύση στο διαδίκτυο.
+<br>
+<br>
+<details>
+<summary><b>Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions</b></summary>
+ <p>
+  <ul>
+   <li><a href="https://github.com/courses-ionio/help/discussions/180#discussion-3902197">Επιλογή βιογραφικού</a></li>
+   <li><a href="https://github.com/courses-ionio/help/discussions/197#discussion-3904180">Σχετικά με asciinema</a></li>
+  </ul>
+ </p>
+</details>
 
-* Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions:  
+<details>
+ <summary><b>Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions</b></summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310">Διόρθωση link αναφοράς</a></li>
+   </ul>
+  </p>
+</details>
+
+<details>
+ <summary><b>Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης αναφερόμενος ως "σχετικός συνεργάτης"</b></summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue Αιμίλιου Παυλίδη</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116">Issue Βασίλη Καμπάνι</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133">Issue u2nmd</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600">Pull request Αιμίλιου Παυλίδη</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319">Pull request u2nmd</a></li>
+   </ul>
+ </p>
+</details>
+
+<details>
+ <summary><b>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα αιτήματα ενσωμάτωσης</b></summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
+   </ul> 
+ </p>
+</details>
+<br>
+<br>
+
+<!-- * Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions:  
   * [Επιλογή βιογραφικού](https://github.com/courses-ionio/help/discussions/180#discussion-3902197)
   * [Σχετικά με asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180)
 
 * Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions:
   * [Διόρθωση link αναφοράς](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310)
 
-* Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης
+* Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης αναφερόμενος ως "σχετικός συνεργάτης":
    * [Issue Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784)
    * [Issue Βασίλη Καμπάνι](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116)
    * [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133)
-   * [Pull request Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/pull/304#issuecomment-1060032800)
-  
+   * [Pull request Αιμίλιου Παυλίδη](https://github.com/ioniodi/all_collections/pull/14)
+   * [Pull request u2nmd](https://github.com/ioniodi/all_collections/pull/12)
+ 
+ * Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα αιτήματα ενσωμάτωσης:
+    * [Έλλειψη περιγραφής](https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872)
+    * [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759)
+    * [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233)
+    * [Μικρή διόρθωση για closes #](https://github.com/ioniodi/all_collections/pull/1) -->
+    
 # Πηγές πληροφοριών
 
 * Βιογραφικό
