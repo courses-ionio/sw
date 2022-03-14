@@ -10,7 +10,7 @@
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Παρουσίαση Προόδου 1](https://github.com/courses-ionio/help/discussions/86)|  |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Παρουσίαση Πρόοδου 2](https://github.com/courses-ionio/help/discussions/208) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/308) | |
-| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/308) | |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/388) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
