@@ -10,7 +10,7 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Το Link εισαγωγή](https://github.com/courses-ionio/help/discussions/76)| 10 |
 | 2 | βιογραφικό και δημιουργία ομάδας | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 8 |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Άσκηση γραμμής εντολών | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -51,7 +51,7 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 4
 
-Για το παραδοτέο αυτό άρχισα να δοκιμάζω να κάνω μία από τις ασκήσεις γραμμών εντολών με την χρήση του [ntfy](https://github.com/dschep/ntfy). Από την αρχή έχω αντιμετοποίσει πολλά προβλήματα τα οποία δεν έχω καταφέρει να λύσω με το testing και συγκεκριμένα με την εντολή ntfy send test το οποίο μου πετάει το παρακάτω error:
+Για το παραδοτέο αυτό άρχισα να δοκιμάζω να κάνω μία από τις ασκήσεις γραμμών εντολών με την χρήση του [ntfy](https://github.com/dschep/ntfy). Από την αρχή έχω αντιμετοποίσει πολλά προβλήματα τα οποία δεν έχω καταφέρει να λύσω με το testing και συγκεκριμένα με την εντολή ```ntfy send test``` το οποίο μου πετάει το παρακάτω error:
 ![image](https://user-images.githubusercontent.com/72515420/158076612-cbf829c4-4b28-4d3b-8e9f-e4cb98629f69.png)</br>
 Δεν κατάφερα να βρω για την ώρα κάποιο τρόπο να το κάνω να δουλέψει και το άφησα εκεί καθώς ξόδεψα περίπου μισή μέρα όλο ψάξιμο για λύση.
 Επίσης δοκίμασα να κάνω μερικά από τα άλλα καθώς είδα πως δεν μου δούλευε και δοκίμασα το performance monitoring και το [click](https://github.com/pallets/click) με παρόμοια προβλήματα τα οποία θα δουλέψω στην συνέχεια να λύσω για το επόμενο παραδοτέο.
