@@ -4,7 +4,7 @@
 
 ### Github: [p17anto2](https://github.com/p17anto2)
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | https://github.com/courses-ionio/help/discussions/72 | |
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
@@ -18,6 +18,7 @@
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
+| - | [Λειτουργικό Υλοποίησης Ασκήσεων Γραμμής Εντολών](#σύστημα) | | |
 
 ## 1. Εισαγωγή
 
@@ -70,3 +71,7 @@ Python Scripts: [Match](https://github.com/p17anto2/LessonImages/blob/main/SW/04
 Asciinema Links: [My Project](https://asciinema.org/a/476462) | [Match vs. If-Else](https://asciinema.org/a/476463)
 
 Βοήθεια στις Συζητήσεις: https://github.com/courses-ionio/help/discussions/342
+
+## Σύστημα
+
+Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc, εγκατέστησα μέσω του xbps το Xorg και το i3, και έκανα compile το [st](https://st.suckless.org/) για terminal με μερικά patches και δικό μου theme (εμπνευσμένο από το [Azu του Guake](https://github.com/Guake/guake/blob/master/guake/palettes.py) και το [surf](https://surf.suckless.org/) για browser.
