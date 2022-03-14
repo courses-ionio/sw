@@ -181,7 +181,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 </details>
 
 <details>
- <summary><b>Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης αναφερόμενος ως "σχετικός συνεργάτης"</b></summary>
+ <summary><b>Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></b></summary>
   <p>
    <ul>
     <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue Αιμίλιου Παυλίδη</a></li>
