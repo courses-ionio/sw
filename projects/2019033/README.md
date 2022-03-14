@@ -5,7 +5,7 @@
 >> Μπορείτε να βρείτε τον πηγαίο κώδικα για τον παρακάτω πίνακα στο κουμπί `Raw` και μετά να τον αντιγράψετε στην αναφορά σας
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | |
 | 2 | [Βιογραφικό & Webring](#2-βιογραφικό--webring) | [Βιογραφικό](https://tsimpliarakis.github.io/online-cv/) - [Webring](https://kafeneio-webring.netlify.app/) | |
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#3-αίτημα-ενσωμάτωσης-sitegr) | [Pull Request](https://github.com/ioniodi/sitegr/pull/282) - [Demo](https://zealous-chandrasekhar-3a7ca4.netlify.app/) | |
