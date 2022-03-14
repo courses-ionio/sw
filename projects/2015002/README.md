@@ -72,6 +72,6 @@
 
 Παρακάτω θα ακολουθήσει ένα απλό asciinema που δείχνει τα χαρακτηριστικά του συστήματος.
 
-<script id="asciicast-yARxu36Z4m7vR4HCuaiK1YspY" src="https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY.js" async></script>
+[![asciicast](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY.svg)](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY)
 
 ---
