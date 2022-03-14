@@ -6,18 +6,18 @@
 
 | Εβδομάδα | Παραδοτέο | Show & Tell Link | Αυτοαξιολόγηση |
 | :-: | :-: | :-: | :-: |
-| 1 | [Εισαγωγή](#1-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | |
-| 2 | [Βιογραφικό & Webring](#2-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | |
-| 3 | [Αίτημα ενσωμάτωσης sitegr](#3-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | |
-| 4 | [Void Linux](#4-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 1 | [Εισαγωγή](#1-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | - |
+| 2 | [Βιογραφικό & Webring](#2-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | - |
+| 3 | [Αίτημα ενσωμάτωσης sitegr](#3-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
+| 4 | [Void Linux](#4-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | - | - |
+| 6 | Άσκηση γραμμής εντολών | - | - |
+| 7 | βιογραφικό | - | - |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
+| 9 | Άσκηση γραμμής εντολών | - | - |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | - | - |
+| 11 | Άσκηση γραμμής εντολών | - | - |
+| 12 | Τελική αναφορά* | - | - |
   
 </div>
 <br>
