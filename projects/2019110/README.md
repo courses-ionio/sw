@@ -231,8 +231,11 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 
 * Βιογραφικό
   * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)
-* [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
+* Επεξεργασία README  
+  * [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
+  * [Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
   * [Fenced code blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)  
+  * [HTML lists](https://www.w3schools.com/html/html_lists.asp)
 * Git Submodules
   * [video1](https://www.youtube.com/results?search_query=git+submodules),[video2](https://www.youtube.com/watch?v=eJrh5IjWSGM&t=168s)
   * [Discussion συναδέλφου](https://github.com/courses-ionio/help/discussions/287)
