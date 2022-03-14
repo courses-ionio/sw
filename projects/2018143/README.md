@@ -109,16 +109,22 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
 
 • Ενεργοποίηση VM και επιλογή του ISO ως boot option
   
-•
+• Επιλογή γλώσσας και τοποθεσίας
   
-•
+• Επιλογή κατάλληλου timezone
   
-•
+• Επιλογή κατάλληλου partition για την εγκατάσταση λειτουργικού
   
-•
+• Πληκτρολόγηση της εντολής ```sudo pacman -Syu``` για την ενημέρωση του λειτουργικού
+  
+• Αναμονή για λήψη και εγκατάσταση πακέτων
+  
+• Πληκτρολόγηση της εντολής ```sudo vim /etc/pacman.conf``` για την ενεργοποίηση δυνατότητας εγκατάστασης τρίτων πακέτων
+  
+• Πρώτο boot ως root user και εγκατάσταση απαραίτητων πακέτων για τα ζητούμενα των ασκήσεων sudo pacman -Sy git, asciinema
   
 ## Αποτελέσματα :
   
-![artixlinux]()
+![neofetch](https://github.com/p18kout/sw-images/blob/main/neofetch.png)
   
 ## Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
