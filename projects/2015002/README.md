@@ -11,7 +11,7 @@
 | [1](#1ο-παραδοτέο---εισαγωγή) | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussion](https://github.com/courses-ionio/help/discussions/82) | Πλήρης Εκτέλεση |
 | [2](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | βιογραφικό και δημιουργία ομάδας | [Βιογραφικό](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) - [Webring](https://cont1nental.netlify.app/) | Πλήρης Εκτέλεση|
 | [3](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Discussion](https://github.com/courses-ionio/help/discussions/307) - [Live Demo](https://site-demo-2015002.netlify.app/people/exarchos/) | Πλήρης Εκτέλεση |
-| [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion]() | Πλήρης Εκτέλεση |
+| [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
