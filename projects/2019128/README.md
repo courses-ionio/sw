@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Το Link εισαγωγή](https://github.com/courses-ionio/help/discussions/76)| 10 |
 | 2 | βιογραφικό και δημιουργία ομάδας | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/) | 8 |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -38,11 +38,11 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3
 
-Για το παραδοτέο αυτό πρόσθεσα μια ανακοίνωση στην ιστοσελίδα sitegr. Οι προσθήκες που έκανα είναι στο [/assets/images/](https://github.com/alexpoulis/sitegr/tree/master/assets/images) και στο [/all-collections/_posts/](https://github.com/alexpoulis/all_collections/tree/d0f612298934a9dbfa0e92bd2b8f71e570030b5c/_posts) και εδώ φαίνεται το demo της σελίδας στο [netlify]( https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/).</br>
+Για το παραδοτέο αυτό πρόσθεσα μια ανακοίνωση στην ιστοσελίδα sitegr. Οι προσθήκη που έκανα είναι στο [/all-collections/_posts/](https://github.com/alexpoulis/all_collections/tree/d0f612298934a9dbfa0e92bd2b8f71e570030b5c/_posts) και εδώ φαίνεται το demo της σελίδας στο [netlify]( https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/).</br>
 Εδώ φαίνεται το [asciinema link επεξεργασίας sitegr μέσο terminal](https://asciinema.org/a/6beFcxOLpDlRYpz1TJY5Ax5MS)</br>
 Και βάζω και το demo του sitegr σαν μία εικόνα.
-![image](https://user-images.githubusercontent.com/72515420/156942426-6478dda9-0161-46d6-a1ac-e4f9485a9c50.png)
-Να αναφέρω το ότι η εικόνα δεν φαίνεται τώρα γιατί δεν έχει δεχτεί το pull request το οποίο περιέχει και την εικόνα που πρόσθεσα και με το που δεχθεί το pull request θα πρέπει να φαίνεται κανονικά.
+![image](https://user-images.githubusercontent.com/72515420/158195135-ced57a34-f546-4664-beed-cf3f19c610e1.png)
+
 
 
 ## ΠΑΡΑΔΟΤΕΟ 4
