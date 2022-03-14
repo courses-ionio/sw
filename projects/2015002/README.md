@@ -11,7 +11,7 @@
 | [1](#1ο-παραδοτέο---εισαγωγή) | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussion](https://github.com/courses-ionio/help/discussions/82) | Πλήρης Εκτέλεση |
 | [2](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | βιογραφικό και δημιουργία ομάδας | [Βιογραφικό](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) - [Webring](https://cont1nental.netlify.app/) | Πλήρης Εκτέλεση|
 | [3](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Discussion](https://github.com/courses-ionio/help/discussions/307) - [Live Demo](https://site-demo-2015002.netlify.app/people/exarchos/) | Πλήρης Εκτέλεση |
-| 4 | Άσκηση γραμμής εντολών | | |
+| [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion]() | Πλήρης Εκτέλεση |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -56,7 +56,6 @@
 ![image](https://user-images.githubusercontent.com/22726730/155892605-dd2a50e6-6fa2-490f-a541-a20c7f636a01.png)
 ![image](https://user-images.githubusercontent.com/22726730/155892629-2e505430-417d-4383-89d0-3002f8d45269.png)
 
-
 ## 3o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
 Προσθήκη περιεχομένου για καθηγητή Θεμιστοκλή Έξαρχου
@@ -67,5 +66,12 @@
 | Pull Request | [link](https://github.com/ioniodi/all_collections/pull/10) |
 | Demo | [link](https://site-demo-2015002.netlify.app/people/exarchos/) |
 
+## 4o Παραδοτέο - Άσκηση γραμμής εντολών
+
+Για το 4ο παραδοτέο αποφάσισα να εγκαταστήσω το GhostBSD, το οποίο είναι βασισμένο πάνω στο FreeBSD, μέσο VirtualBox. Κοίταξα διάφορες επιλογές για λογισμικά και αποφάσισα να πάω με το GhostBSD διότι μου φάνηκε απλό και λειτουργικό. Με την πάροδο του χρόνου ίσος δοκιμάσω και άλλα, αλλά για την ώρα θα παίξω με αυτό.
+
+Παρακάτω θα ακολουθήσει ένα απλό asciinema που δείχνει τα χαρακτηριστικά του συστήματος.
+
+<script id="asciicast-yARxu36Z4m7vR4HCuaiK1YspY" src="https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY.js" async></script>
 
 ---
