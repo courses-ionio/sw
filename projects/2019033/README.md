@@ -1,7 +1,7 @@
 <h1 align=center> Τεχνολογία Λογισμικού </h1>
 <h2 align=center> Τσιμπλιαράκης Μιχαήλ | ΑΜ:Π2019033 </h2>
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέο | Show & Tell Link | Αυτοαξιολόγηση |
 | :-: | :-: | :-: | :-: |
 | 1 | [Εισαγωγή](#1-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | |
 | 2 | [Βιογραφικό & Webring](#2-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | |
