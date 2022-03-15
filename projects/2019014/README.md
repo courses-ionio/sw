@@ -13,9 +13,9 @@
 | Εβδομάδα | Παραδοτέα  | Εβδομαδιαία παρουσίαση προόδου συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> | [Link της παρουσίασης](https://github.com/courses-ionio/help/discussions/66/) |
-| 2 | <li><a href="#Βιογραφικό και Δημιουργία ομάδας"><span class="toctext">Βιογραφικό και Δημιουργία ομάδας</span></a> | [Link του βιογραφικου](https://github.com/courses-ionio/help/discussions/194/)|
-| 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | [Link του αιτήματος ενσωμάτωσης](|
-| 4 | Άσκηση γραμμής εντολών | | |
+| 2 | <li><a href="#Βιογραφικό και Δημιουργία ομάδας"><span class="toctext">Βιογραφικό και Δημιουργία ομάδας</span></a> | [Link της αναφοράς του βιογραφικου](https://github.com/courses-ionio/help/discussions/194/)|
+| 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | [Link της αναφοράς του αιτήματος ενσωμάτωσης στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/400/) |
+| 4 | <li><a href="#Άσκηση γραμμής εντολών σε FreeBSD"><span class="toctext">Άσκηση γραμμής εντολών σε FreeBSD</span></a>  | [Link της αναφοράς της άσκησης γραμμής εντολών σε FreeBSD](https://github.com/courses-ionio/help/discussions/400/) |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
@@ -145,11 +145,27 @@ Tρίτο βήμα
   &#10004; [Αίτημα ενσωμάτωσης](https://github.com/ioniodi/all_collections/pull/41/) γιά την ανεπίσιμη ιστοσελίδα του τμήματος <br />
 
   <br />
+ <b> Στο παρακάτω rec απο asciinema που βλέπετε δείχνω τις αλλαγές που πραγματοποιήθηκαν μέσω τερματικού   <br />
+   <br />
+<a href="https://asciinema.org/a/XaP1igQj8siAtdTU1rMzpwl9m" target="_blank"><img src="https://asciinema.org/a/XaP1igQj8siAtdTU1rMzpwl9m.svg" /></a>
+</p>
+
+  <br />
+  
+#### Παρουσίαση του demo μου
+  
+  <br />
   
 <p align="center">
-<a href="https://asciinema.org/a/XaP1igQj8siAtdTU1rMzpwl9m" target="_blank"><img src="https://asciinema.org/a/XaP1igQj8siAtdTU1rMzpwl9m" /></a>
+<img width="900" height="350" src="https://i.postimg.cc/Bv4V1prV/10.png">
 <p/>
-<br><br>
+<br>
+  
+<p align="center">
+<img width="900" height="350" src="https://i.postimg.cc/NF9JwzX5/11.png">
+<p/>
+<br>
+  
   
 ## Συμμετοχή και Ομαδικότητα
   
