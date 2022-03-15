@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παρουσίαση προόδου 1](https://github.com/courses-ionio/help/discussions/119)| |
 | 2 | βιογραφικό και δημιουργία ομάδας | [Παρουσίαση προόδου 2](https://github.com/courses-ionio/help/discussions/243)| |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Παρουσίαση προόδου 3(https://github.com/courses-ionio/help/discussions/404)| |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Παρουσίαση προόδου 3](https://github.com/courses-ionio/help/discussions/404)| |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
