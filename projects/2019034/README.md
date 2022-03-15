@@ -72,3 +72,6 @@
 | 2 | https://github.com/courses-ionio/help/discussions/122 |
 | 3 | https://github.com/courses-ionio/help/discussions/148 |
 | 4 | https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458 |
+| 5 | https://github.com/ioniodi/sitegr/pull/337 |
+| 6 | https://github.com/ioniodi/all_collections/pull/14 |
+| 7 | https://github.com/ioniodi/all_collections/pull/28 |
