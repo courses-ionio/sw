@@ -10,7 +10,7 @@
 | 1 |<li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/56)|Εμπρόθεσμη παράδοση του παραδοτέου, fork αποθετηρίου του μαθήματος, εισαγωγή με προσδοκίες και στόχους, σύνδεσμος σε συζητήσεις|
 | 2 |<li><a href="#Βιογραφικό και δημιουργία ομάδας"><span class="toctext"></span>Βιογραφικό και δημιουργία ομάδας</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/191)|Εμπρόθεσμη παράδοση του παραδοτέου, δημιουργία βιογραφικού μου, οργάνωση ομάδας και δημιουργία webring γι' αυτήν|
 | 3 |<li><a href="#1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα"><span class="toctext"></span>1o Αίτημα Ενσωμάτωσης στην Ιστοσελίδα</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/340)|Εμπρόθεσμη παράδοση του παραδοτέου, δημιουργία issue, υλοποίησή του έπειτα από green light, pull request|
-| 4 | Άσκηση Γραμμής Εντολών | | |
+| 4 |<li><a href="#Εγκατάσταση λογισμικού και εξάσκηση"><span class="toctext"></span>Εγκατάσταση λογισμικού και εξάσκηση</a>|[Σύνδεσμος Συζητήσεων]()| |
 | 5 | Συμμετοχικό Περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση Γραμμής Εντολών | | |
 | 7 | Βιογραφικό | | |
@@ -68,10 +68,14 @@
 # Συμμετοχή και Ομαδικότητα
 | # | Βοήθεια προς συμφοιτητές |
 | --- | --- |
-| 1 | https://github.com/courses-ionio/help/discussions/124 |
-| 2 | https://github.com/courses-ionio/help/discussions/122 |
-| 3 | https://github.com/courses-ionio/help/discussions/148 |
-| 4 | https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458 |
-| 5 | https://github.com/ioniodi/sitegr/pull/337 |
-| 6 | https://github.com/ioniodi/all_collections/pull/14 |
-| 7 | https://github.com/ioniodi/all_collections/pull/28 |
+| 1 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/124) |
+| 2 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/122) |
+| 3 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/148) |
+| 4 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/402) |
+| 5 | [Βοήθεια σε συμφοιτητή](https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458) |
+| 6 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/254) |
+| 7 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/280) |
+| 8 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/281) |
+| 9 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
+| 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
+| 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
