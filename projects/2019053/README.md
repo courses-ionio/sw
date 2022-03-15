@@ -156,6 +156,7 @@
 | 2 | https://github.com/ioniodi/all_collections/pull/12 |
 | 3 | https://github.com/ioniodi/sitegr/pull/337 |
 | 4 | https://github.com/ioniodi/all_collections/pull/28 |
+| 5 | https://github.com/ioniodi/all_collections/pull/41 |
 
 <br /><br />
 
