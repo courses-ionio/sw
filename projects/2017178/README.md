@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link](https://github.com/courses-ionio/help/discussions/173) | |
 | 2 | βιογραφικό και δημιουργία ομάδας | [link](https://github.com/courses-ionio/help/discussions/290) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[link](https://github.com/courses-ionio/help/discussions/403) | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
