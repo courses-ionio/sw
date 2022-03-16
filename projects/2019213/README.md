@@ -141,6 +141,10 @@
 [Pull Request](https://github.com/ioniodi/all_collections/pull/3) <br>
 [Issue](https://github.com/ioniodi/sitegr/issues/233) <br>
 
+
+
+## :pushpin:: Συμμετοχικό περιεχόμενο A1+A2
+
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
 [Απάντηση σε ερώτηση για command prompt και asciinema](https://github.com/courses-ionio/help/discussions/197#discussioncomment-2260252) <br>
