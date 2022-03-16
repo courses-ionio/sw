@@ -89,7 +89,7 @@
   
 <br><br>
 # Ομαδικότητα και Συνεργασία
-| # | Βοήθεια προς συμφοιτητές |
+| # | Η συνεισφορά μου |
 | --- | --- |
 | 1 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/124) |
 | 2 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/122) |
