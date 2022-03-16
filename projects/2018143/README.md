@@ -66,7 +66,7 @@ Webring Ομάδας : https://devteamiu.netlify.app
 
 • Επεξεργασία των αρχείων data.yml , _config.yml
 
-### Αποτέλεσμα : 
+## Αποτέλεσμα : 
   
 ![bio](https://github.com/p18kout/sw-images/blob/main/bio.png)
 
@@ -93,7 +93,7 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
   
 • Δημιουργία pull request για ενσωμάτωση της προσθήκης
   
-### Αποτελέσμα : 
+## Αποτελέσμα : 
   
 ![hackathon](https://github.com/p18kout/sw-images/blob/main/hackathon.png)
   
@@ -101,7 +101,7 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
   
 ### Εγκατάσταση Artix linux :
   
-Διαδικασία :
+## Διαδικασία :
   
 • Λήψη κατάλληλου αρχείου ISO των Artix Linux
 
@@ -127,13 +127,13 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
   
 ![neofetch](https://github.com/p18kout/sw-images/blob/main/neofetch.png)
   
-## Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
+### Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
   
 asciinema link για ειδoποιήσεις στο desktop :
   
 asciinema link για ειδοποιήσεις στο Telegram :
   
-Διαδικασία :
+## Διαδικασία :
   
 • Έναρξη εγγραφής terminal asciinema rec -i 0.2
 
@@ -153,11 +153,17 @@ asciinema link για ειδοποιήσεις στο Telegram :
   
 • Τέλος εγγραφής terminal ```exit```
   
-### Αποτελέσμα :
+## Αποτελέσμα :
   
 ![newbot](https://github.com/p18kout/sw-images/blob/main/newbot.jpg)
 
 ![botready](https://github.com/p18kout/sw-images/blob/main/botready.jpg)
   
 ![notif](https://github.com/p18kout/sw-images/blob/main/notif.jpg)
+  
+##### [5]
+  
+### Συμμετοχικό περιεχόμενο A1+A2
+  
+
   
