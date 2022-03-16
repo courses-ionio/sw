@@ -155,10 +155,9 @@ asciinema link για ειδοποιήσεις στο Telegram :
   
 ### Αποτελέσμα :
   
-![]()
+![newbot](https://github.com/p18kout/sw-images/blob/main/newbot.jpg)
 
-![]()
+![botready](https://github.com/p18kout/sw-images/blob/main/botready.jpg)
   
-![]()
+![notif](https://github.com/p18kout/sw-images/blob/main/notif.jpg)
   
-![]()
