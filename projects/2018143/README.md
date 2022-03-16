@@ -128,3 +128,37 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
 ![neofetch](https://github.com/p18kout/sw-images/blob/main/neofetch.png)
   
 ## Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
+  
+asciinema link για ειδoποιήσεις στο desktop :
+  
+asciinema link για ειδοποιήσεις στο Telegram :
+  
+Διαδικασία :
+  
+• Έναρξη εγγραφής terminal asciinema rec -i 0.2
+
+• Εγκατάσταση πακέτου ntfy με την εντολή ```pip install ntfy```
+  
+• Εγκατάσταση πακέτου ntfy για Telegram με την εντολή ```pip install ntfy[telegram]```
+  
+• Δοκιμή ειδοποιήσεων στο Desktop μέσω ntfy ```notify-send "Kalhspera", notify-send --urgency=LOW "ti kanete"``` (δεν εμφανίζεται pop up notification)
+  
+• Set up του Telegram για ntfy με την εντολή ```ntfy -b telegram send "Telegram configured for ntfy"```
+  
+• Δημιουργία νέου Bot μέσω BotFather με την εντολή ```/newbot```
+  
+• Ενεργοποίηση νέου Bot με εισαγωγή του κατάλληλου Token
+  
+• Αποστολή μηνύματος-ειδοποίηση στην συσκευή μου μέσω Τerminal
+  
+• Τέλος εγγραφής terminal ```exit```
+  
+### Αποτελέσμα :
+  
+![]()
+
+![]()
+  
+![]()
+  
+![]()
