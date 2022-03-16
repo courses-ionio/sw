@@ -62,7 +62,7 @@
 
 Την εβδομάδα αυτή ασχολήθηκα με την εγκατάσταση λειτουργικού χωρίς systemd και πιο συγκεκριμένα το KISS Linux. Ήταν μία πρωτόγνωρη εμπειρία και η αλήθεια είναι πως με δυσκόλεψε αρκετά κατά την εγκατάσταση καθώς πρώτη φορά χρειάστηκε να κάνω configuration τον kernel. Η εγκατάσταση έγινε σε virtual machine και σαν host για το KISS χρησιμοποίησα ArchLinux. 
 
-<a href="https://asciinema.org/a/477031" target="_blank"><img src="https://asciinema.org/a/477031.svg" /></a>
+<a href="https://asciinema.org/a/477460" target="_blank"><img src="https://asciinema.org/a/477460.svg" /></a>
 
 </br>
 
