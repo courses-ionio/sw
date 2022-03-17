@@ -16,7 +16,7 @@
 | 2 | [Βιογραφικό και Δημιουργία Ομάδας](#2ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/176</br></br>https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2211841 | Ολοκλήρωσα το βιογραφικό μου και επίσης δημιούργησα και την ομάδα στην οποία ολοκλήρωσα και το webring. Επίσης όλα έγιναν πριν την λήξη της προθεσμίας του παραδοτέου οπότε πιστεύω πως τα πήγα πολύ καλα. |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/410 | |
 | 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/411 | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/414 | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -63,6 +63,19 @@
 Την εβδομάδα αυτή ασχολήθηκα με την εγκατάσταση λειτουργικού χωρίς systemd και πιο συγκεκριμένα το KISS Linux. Ήταν μία πρωτόγνωρη εμπειρία και η αλήθεια είναι πως με δυσκόλεψε αρκετά κατά την εγκατάσταση καθώς πρώτη φορά χρειάστηκε να κάνω configuration τον kernel. Η εγκατάσταση έγινε σε virtual machine και σαν host για το KISS χρησιμοποίησα ArchLinux. 
 
 <a href="https://asciinema.org/a/477460" target="_blank"><img src="https://asciinema.org/a/477460.svg" /></a>
+
+</br>
+
+# 5ο Παραδοτέο
+
+Για το 5ο παραδοτέο πρόσθεσα φωτογραφίες και λεζάντα για τα λειτουργικά Plan 9 και AmigaOS, για timeline ενημέρωσα το υπάρχον με τα λειτουργικά που πρόσθεσα και συγκέντρωσα ένα σύνολο από slides για τις επιφάνειες εργασίων κάποιων λειτουργικών συστημάτων.
+
+| repo links | site links |
+| --- | --- |
+| [plan 9](https://github.com/p19ntar/_gallery/blob/2019215/plan-9.md) | [plan 9](https://epic-goodall-89990a.netlify.app/gallery/plan-9/) |
+| [AmigaOS](https://github.com/p19ntar/_gallery/blob/2019215/amiga-os.md) | [AmigaOS](https://epic-goodall-89990a.netlify.app/gallery/amiga-os/) |
+| [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) |
+| [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) |
 
 </br>
 
