@@ -74,8 +74,8 @@
 | --- | --- | --- |
 | [plan 9](https://github.com/p19ntar/_gallery/blob/2019215/plan-9.md) | [plan 9](https://epic-goodall-89990a.netlify.app/gallery/plan-9/) | [plan9](https://ionioi-site.netlify.app/gallery/plan-9/)
 | [AmigaOS](https://github.com/p19ntar/_gallery/blob/2019215/amiga-os.md) | [AmigaOS](https://epic-goodall-89990a.netlify.app/gallery/amiga-os/) | [AmigaOS](https://ionioi-site.netlify.app/gallery/amiga-os/)
-| [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) | |
-| [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | |
+| [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) | [timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
+| [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | [slides](https://ionioi-site.netlify.app/slides/os/) |
 
 </br>
 
@@ -87,3 +87,4 @@
 | 2 | https://github.com/courses-ionio/help/discussions/139 |
 | 3 | https://github.com/courses-ionio/help/discussions/120 |
 | 4 | https://github.com/courses-ionio/help/discussions/268 |
+| 5 | https://github.com/courses-ionio/help/discussions/413 |
