@@ -16,7 +16,7 @@
 | 2 | [Βιογραφικό και Δημιουργία Ομάδας](#2ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/176</br></br>https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2211841 | Ολοκλήρωσα το βιογραφικό μου και επίσης δημιούργησα και την ομάδα στην οποία ολοκλήρωσα και το webring. Επίσης όλα έγιναν πριν την λήξη της προθεσμίας του παραδοτέου οπότε πιστεύω πως τα πήγα πολύ καλα. |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/410 | Στο παραδοτέο αυτό έκανα το αίτημα ενσωμάτωσης το οποίο περιείχε μία μικρή προσθήκη στο site και έγινε μέσα στο χρονικό περιθώριο του παραδοτέου |
 | 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/411 | Αυτήν την εβδομάδα ολοκλήρωσα την εγκατάσταση του λειτουργικού KISS Linux το οποίο δεν περιέχει systemd κάτι που ήταν αναγκαίο σύμφωνα με το παραδοτέο |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/414 | Για το συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό plan 9 και το AmigaOS κάτι που πιστεύω ταιριάζει με το μάθημα, επίσης, δεν έκανα δικό μου timeline γιατί αυτό που ήθελα να κάνω ήταν ένα timeline με λειτουργικά συστήματα αλλα υπήρχε ήδη γιαυτό πρόσθεσα κάποια πράματα σε αυτό, κάτι που παίρνει μικρότερο βαθμό και τέλος συγκέντρωσα ένα σύνολο από slides που περιέχει επιφάνειες εργασιών διάφορων λειτουργικών |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/414 | Για το συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό plan 9 και το AmigaOS κάτι που πιστεύω ταιριάζει με το μάθημα, επίσης, δεν έκανα δικό μου timeline γιατί αυτό που ήθελα να κάνω ήταν ένα timeline με λειτουργικά συστήματα αλλα υπήρχε ήδη γιαυτό πρόσθεσα κάποια πράματα σε αυτό, κάτι που παίρνει μικρότερο βαθμό και ακόμα συγκέντρωσα ένα σύνολο από slides που περιέχει επιφάνειες εργασιών διάφορων λειτουργικών. Τέλος άνοιξα αίτημα ενσωμάτωσης και περάστηκαν στο site της ομάδας |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -70,12 +70,12 @@
 
 Για το 5ο παραδοτέο πρόσθεσα φωτογραφίες και λεζάντα για τα λειτουργικά Plan 9 και AmigaOS, για timeline ενημέρωσα το υπάρχον με τα λειτουργικά που πρόσθεσα και συγκέντρωσα ένα σύνολο από slides για τις επιφάνειες εργασίων κάποιων λειτουργικών συστημάτων.
 
-| repo links | site links |
-| --- | --- |
-| [plan 9](https://github.com/p19ntar/_gallery/blob/2019215/plan-9.md) | [plan 9](https://epic-goodall-89990a.netlify.app/gallery/plan-9/) |
-| [AmigaOS](https://github.com/p19ntar/_gallery/blob/2019215/amiga-os.md) | [AmigaOS](https://epic-goodall-89990a.netlify.app/gallery/amiga-os/) |
-| [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) |
-| [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) |
+| repo links | site links | team's site links |
+| --- | --- | --- |
+| [plan 9](https://github.com/p19ntar/_gallery/blob/2019215/plan-9.md) | [plan 9](https://epic-goodall-89990a.netlify.app/gallery/plan-9/) | [plan9](https://ionioi-site.netlify.app/gallery/plan-9/)
+| [AmigaOS](https://github.com/p19ntar/_gallery/blob/2019215/amiga-os.md) | [AmigaOS](https://epic-goodall-89990a.netlify.app/gallery/amiga-os/) | [AmigaOS](https://ionioi-site.netlify.app/gallery/amiga-os/)
+| [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) | |
+| [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | |
 
 </br>
 
