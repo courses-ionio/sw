@@ -147,6 +147,8 @@
 
 
 ## :pushpin:: Συμμετοχικό περιεχόμενο A1+A2
+
+Σε αυτό το παραδοτέο έπρεπε να προσφέρουμε στον pibook με ένα δικό μας θέμα. Εγω επέλεξα να κάνω για το backtrack και για το Linux distro Knoppix επειδη μιας και ασχολούμαι με την ασφάλεια είπα να ξαναθυμηθώ τα παλιά χρόνια δηλαδή το backtrack. Το backtrack χρησιμοποιουνταν απο πάρα πολλούς στον τομέα της ασφάλεια από τους ηθικούς χακερς τους επαγγελματίες τα script kiddies μέχρι και τους black hat.
 | Netlify | MarkDown |
 | --- | --- |
 | [Backtrack Gallery](https://suspicious-bell-d055d6.netlify.app/gallery/backtrack/) | [Backtrack Gallery MD](https://github.com/p19tzam/_gallery/blob/35162df987c3c58b0aed16982b9d46d60543ffe7/backtrack.md) |
