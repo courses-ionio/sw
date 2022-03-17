@@ -34,8 +34,15 @@
 #
 #
 ## Παραδοτέο 3
-Έκανα αλλαγή του καθηγητή από το μάθημα βάσεις δεδομένων 1 και έβαλα τον κ. Μαραγκουδάκη στην θέση του κ. Σιούτα.
+Έκανα αλλαγή του καθηγητή από το μάθημα βάσεις δεδομένων 1 και έβαλα τον κ. Μαραγκουδάκη στην θέση του κ. Σιούτα. Η αλλαγή έγινε στον φάκελο _courses στο αρχείο databases1.md
 
 [καταγραφή](https://asciinema.org/a/CAulq6sDGegavgMIlKuux4fmM)
 
 [link αλλαγμένου μαθήματος](https://sitegrmeli.netlify.app/courses/databases1/)
+#
+#
+## Παραδοτέο 4
+Η άσκηση γραμμής εντολώv που επέλεξα να κάνω είναι η "send notifications to your desktop-mobile". Δηλαδή από το terminal έδωσα εντολή και πήγε ειδοποίηση στο κινητό μου μέσω της εφαρμογής telegram. Η καταγραφή των εντολών στο τερματικό είναι στο [asciinema](https://asciinema.org/a/o8kD79JRFTWGAvMV3ImQsORdy) και η καταγραφή απο το κινητό όταν ήρθε το notification:
+
+![telegram2](https://user-images.githubusercontent.com/43935718/158906102-4ccff74c-6e0b-4894-bcd1-ff75d2e05c31.gif)
+
