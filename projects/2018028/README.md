@@ -20,7 +20,7 @@
 | <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/171) |<p align="center">  |
 | <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/327) |<p align="center">  | |
 | <p align="center">4η | <p align="center">[Άσκηση γραμμής εντολών]((#4ο-παραδοτέο))</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/375) | |
-| <p align="center">5η | <p align="center">Συμμετοχικό περιεχόμενο A1+A2 </p>| | |
+| <p align="center">5η | <p align="center">[Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) </p>| <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/416) | |
 | <p align="center">6η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | <p align="center">7η | <p align="center">βιογραφικό</p> | | |
 | <p align="center">8η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα </p>| | |
@@ -95,6 +95,14 @@
 Στο παραδοτέο αυτό έπρεπε να κατεβάσουμε ένα Linux χωρίς systemd. Εγώ βρήκα το void linux και το έβαλα σε virtual Box. Δεν έχει GUI για την ώρα αλλά θα εγκαταστήσω για το επόμενο παραδοτέο
 ![image](https://user-images.githubusercontent.com/72436770/158079252-9d5e8123-145f-413a-9d42-2939f9dcef04.png)
 
+## 5ο Παραδοτέο
+
+Για το 5ο παραδοτέο επέλεξα να παρουσιάσω την [Amiga](https://hci-p2018028.netlify.app/gallery/commodore-amiga/) από την Commodore, στην οποία αναφέρομαι στο κομμάτι του Hardware της και για ένα λογισμικό που ήταν διαθέσιμο σε αυτή που ονομάζεται [Ultimate Soundtracker](https://hci-p2018028.netlify.app/gallery/ultimate-soundtracker/). Το δεύτερο είναι ο παππούς όλων των λογισμικών δημιουργίας μουσικής και χρησιμοποιήθηκε αρχικά από την Commodore για την παραγωγή μουσικών κομματιών για παιχνίδια. Επίσης, έκανα ένα σύνολο από [διαφάνειες](https://hci-p2018028.netlify.app/slides/commodore-amiga-slides/) σχετικές με αυτά που προσέθεσα και τέλος ένα [χρονολόγιο](https://hci-p2018028.netlify.app/timeline/commodore-amiga-home-computing/) στο οποίο απεικονίζονται αυτά σε χρονική σειρα. Με τα παρακάτω αποτέλεσματα
+
+![Screenshot_1](https://user-images.githubusercontent.com/72436770/158847265-aa6224cf-13a3-4526-acd5-f60d0920123c.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72436770/158847301-69821a22-6fb3-407d-8a61-683b1228ad13.png)
+![Screenshot_3](https://user-images.githubusercontent.com/72436770/158847341-c223f9f5-0947-43ff-86dc-e24664e4950a.png)
+![Screenshot_4](https://user-images.githubusercontent.com/72436770/158847389-9b6ccfc1-6cb8-4597-8911-524842ed4777.png)
 
 
 
@@ -102,6 +110,7 @@
 Διορθώσεις ή παρατήρησεις σε συναδέλφους<br>
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
 [Link](https://github.com/courses-ionio/help/discussions/153)<br>
+[Link](https://github.com/courses-ionio/help/discussions/414)<br>
 [Help link](https://github.com/courses-ionio/help/discussions/294)<br>
 [Help Link](https://github.com/courses-ionio/help/discussions/303)<br>
 [Submodule guide Link](https://github.com/courses-ionio/help/discussions/287)
