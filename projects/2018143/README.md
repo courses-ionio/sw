@@ -129,9 +129,9 @@ Link αρχείου ανακοίνωσης : https://github.com/p18kout/all_coll
   
 ### Άσκηση γραμμής εντολών : send notifications to your desktop-mobile
   
-asciinema link για ειδoποιήσεις στο desktop :
+asciinema link για ειδoποιήσεις στο desktop : https://asciinema.org/a/477273
   
-asciinema link για ειδοποιήσεις στο Telegram :
+asciinema link για ειδοποιήσεις στο Telegram : https://asciinema.org/a/477267
   
 ## Διαδικασία :
   
