@@ -14,10 +14,10 @@
   
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Λινκ στις συζητήσεις](https://github.com/courses-ionio/help/discussions/103) | |
-| 2 | βιογραφικό και δημιουργία ομάδας | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/181) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346) | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 1 | <sup><a href="#1"> Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Λινκ στις συζητήσεις](https://github.com/courses-ionio/help/discussions/103) </a></sup> | |
+| 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/181) </a></sup> | |
+| 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346)</a></sup> | |
+| 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις]() </a></sup> | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -123,4 +123,38 @@ Tελος, εκανα εγκατασταση των απαραιτητων πα�
 
 ## Ασκηση γραμμης εντολων: send notifications to your desktop-mobile
 
+asciinema link για το ntfy:
 
+asciinema link για το telegram:
+
+### Βηματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ```pip install ntfy```, ```pip install ntfy[telegram]```
+
+Με το ```asciinema rec -i 0.2```  ξεκιναω το record του terminal
+
+Δοκιμαστικη αποστολη ειδοποιησεων μεσω της εντολης ```notify-send "message"```, ```notify-send --urgency=CRITICAL "message"```
+
+Ρυθμιση του telegram για ntfy μεσω της εντολης ```ntfy -b telegram send "Telegram configured for ntfy"```
+
+Δημιουργια νεου bot μεσου BotFather μεσω της εντολης ```/newbot```
+
+Εισαγωγη token για την ενεργοποιηση του bot 
+
+Δοκιμαστικη αποστολη μηνυματος στην συσκευη μου 
+
+Με την εντολή ```exit``` ολοκλήρωσα το recording του terminal
+
+### Αποτελεσματα:
+
+![newbot](https://github.com/p18kana/SW-files/blob/main/newbot.png)
+
+![tconfigured](https://github.com/p18kana/SW-files/blob/main/tconfigured.png)
+
+![popup](https://github.com/p18kana/SW-files/blob/main/popup.png)
+
+Πηγη: https://github.com/dschep/ntfy
+
+##### [5]
+
+## Συμμετοχικό περιεχόμενο A1+A2
