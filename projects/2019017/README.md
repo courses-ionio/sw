@@ -48,7 +48,7 @@
 ![AltText](https://i.imgur.com/rBVf9cJ.gif)
 
 ## Συμμετοχικο
-Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [site](https://github.com/p19kala/site/commit/c4b97bc7e3ab7784d4befed041d471dd09108746), [images](https://github.com/p19kala/images/commit/32dbb8d4ec1b1fed23adc97962e4a26f5a99103e), [\_gallery](https://github.com/p19kala/_gallery/commit/c12001c9e56d1ac720d7af740040f0e92bbeb300).
+Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017/_timeline/os-apps.md), [images](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65), [gallery](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md).
 Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), [gallery](https://p19kala-pibook.netlify.app/gallery/freebsd/).
 
 ## Links ομαδικότητας και συμμετοχής:
