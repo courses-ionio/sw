@@ -39,6 +39,7 @@
 * [Link Βιογραφικού](https://p19ntar.github.io/online-cv/)
 * [Link Webring](https://ionioi.netlify.app)
 * [Link Ομάδας](https://github.com/ionioi)
+* [Link Αποθετήριου](https://github.com/p19ntar/online-cv/tree/gh-pages)
 
 Στο [template](https://github.com/sharu725/online-cv) που διάλεξα ώστε να κάνω το βιογραφικό μου έκανα κάποιες custom αλλαγές για αισθητικούς λόγους ο οποίες είναι οι εξής:
 * Αλλαγή χρώματος σε ένα της επιλογής μου το οποίο δεν υπήρχε ως επιλογή εξαρχής
@@ -78,6 +79,7 @@
 | [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | [slides](https://ionioi-site.netlify.app/slides/os/) |
 
 </br>
+
 
 # Συμμετοχή και Ομαδικότητα
 
