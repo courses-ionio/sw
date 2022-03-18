@@ -10,7 +10,7 @@
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α1-α2) | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -71,6 +71,22 @@ Python Scripts: [Match](https://github.com/p17anto2/LessonImages/blob/main/SW/04
 Asciinema Links: [My Project](https://asciinema.org/a/477369) | [Match vs. If-Else](https://asciinema.org/a/477375)
 
 Βοήθεια στις Συζητήσεις: https://github.com/courses-ionio/help/discussions/342
+
+## 5. Συμμετοχικό Περιεχόμενο Α
+
+Για το πέμπτο παραδοτέο, αποφάσισα να προσθέσω στο site το λειτουργικό σύστημα Inferno OS, την εξέλιξη του Plan 9, καθώς και το toolkit ανάπτυξης GUI εφαρμογών GTK.
+
+Για την οργάνωση της ομάδας, έκανα fork τα αποθετήρια που σχετίζονται με το site, και αποφασίσαμε να κάνουμε τις αλλαγές στο βασικό αποθετήριο μέσω Pull Request, όπου δύο μέλη με write access (που έχουν όλοι) θα πρέπει να ελέγξουν και να δεχτούν τις αλλαγές, με εξαίρεση εμένα, ως συντονιστή, για τις αλλαγές που έχουν να κάνουν με τις οδηγίες που έγραψα και τη σύνδεση με το Netlify.
+
+Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https://github.com/LostMpodis/site)
+
+| | Repository | Netlify | Διαφάνεια | Χρονολόγιο |
+| --- | --- | --- | --- | --- |
+| Inferno | [inferno.md](https://github.com/p17anto2/_gallery-1/blob/demo-branch/inferno.md) \| [Image](https://github.com/p17anto2/images-1/blob/demo-branch/inferno.png) \| [Thumbnail](https://github.com/p17anto2/images-1/blob/demo-branch/inferno-thumb.png) | [Inferno OS](https://p17anto2-site.netlify.app/gallery/inferno/) | [Εργαλεία και Τεχνικές](https://p17anto2-site.netlify.app//slides/tools/) | [Λειτουργικά Συστήματα και Εφαρμογές](https://p17anto2-site.netlify.app//timeline/os-apps/) |
+| GTK | [gtk.md](https://github.com/p17anto2/_gallery-1/blob/f89b28cb9b20a6e09ff9b8bc31fbdf0ac5082059/gtk.md) \| [Image](https://github.com/p17anto2/images-1/blob/9235ed38cea076d2350ff0795d1ad85dadabccb4/gtk.png) \| [Thumbnail](https://github.com/p17anto2/images-1/blob/9235ed38cea076d2350ff0795d1ad85dadabccb4/gtk-thumb.png) | [GTK](https://p17anto2-site.netlify.app/gallery/gtk/) | [Εργαλεία και Τεχνικές](https://p17anto2-site.netlify.app//slides/tools/) | [Λειτουργικά Συστήματα και Εφαρμογές](https://p17anto2-site.netlify.app//timeline/os-apps/) |
+
+### Πηγές
+[GTK (Wikipedia](https://en.wikipedia.org/wiki/GTK) | [Desktop Environments based on GTK](https://en.wikipedia.org/wiki/Category:Desktop_environments_based_on_GTK) | GTK [Redhat](https://people.redhat.com/mclasen/Usenix04/notes/x29.html) | [Inferno OS](https://en.wikipedia.org/wiki/Inferno_(operating_system)) | [Inferno OS site](https://www.inferno-os.org/)
 
 ## Σύστημα
 
