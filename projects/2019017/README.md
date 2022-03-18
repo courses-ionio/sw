@@ -49,6 +49,7 @@
 
 ## Συμμετοχικο
 Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [site](https://github.com/p19kala/site/commit/c4b97bc7e3ab7784d4befed041d471dd09108746), [images](https://github.com/p19kala/images/commit/32dbb8d4ec1b1fed23adc97962e4a26f5a99103e), [\_gallery](https://github.com/p19kala/_gallery/commit/c12001c9e56d1ac720d7af740040f0e92bbeb300).
+Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), [gallery](https://p19kala-pibook.netlify.app/gallery/freebsd/).
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
