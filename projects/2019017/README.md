@@ -11,7 +11,7 @@
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | https://github.com/courses-ionio/help/discussions/363 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο) | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -46,6 +46,9 @@
 Για την ασκηση γραμμης εντολων επελεξα να στειλω ενα desktop notification μετα απο download, με τη χρηση του εργαλειου [ntfy](https://github.com/dschep/ntfy). Χρησιμοποιησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για να κατεβασω ενα βιντεο, με τη χρηση του `--no-check-certificate` καθως πετουσε SSL certificate error. Η καταγραφη εγινε με το εργαλειο kazam, καθως το notification ειναι εκτος του terminal και επειτα μετατροπη σε gif. Σταματησα το recording λιγο μετα την εναρξη του download γιατι εδειχνε πως θα παρει 1 λεπτο, ετσι ωστε το βιντεο να μην ειναι πολυ μεγαλο χωρις καμια ουσιωδες αλλαγη στο περιεχομενο. Στο μελλον θα κανω την ασκηση στο FreeBSD.
 
 ![AltText](https://i.imgur.com/rBVf9cJ.gif)
+
+## Συμμετοχικο
+Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [site](https://github.com/p19kala/site/commit/c4b97bc7e3ab7784d4befed041d471dd09108746), [images](https://github.com/p19kala/images/commit/32dbb8d4ec1b1fed23adc97962e4a26f5a99103e), [\_gallery](https://github.com/p19kala/_gallery/commit/c12001c9e56d1ac720d7af740040f0e92bbeb300).
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
