@@ -48,7 +48,7 @@ git submodule add -b demo-branch https://github.com/p17anto2/all_collections.git
 
 Repos: [p17anto2/sitegr](https://github.com/p17anto2/sitegr) | [p17anto2/all_collections](https://github.com/p17anto2/all_collections)
 
-Demo: [Προσωπικό](https://p17anto2-sitegr-demo.netlify.app/people/)
+Demo: [Προσωπικό](https://p17anto2-sitegr.netlify.app/people/)
 
 Issue: [sitegr](https://github.com/ioniodi/sitegr/issues/249)
 
