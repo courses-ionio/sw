@@ -10,7 +10,7 @@
 | 2 | [Βιογραφικό](#2-βιογραφικό) | https://github.com/courses-ionio/help/discussions/183 | |
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
-| 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α1-α2) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α) | https://github.com/courses-ionio/help/discussions/423 | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -86,7 +86,7 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 | GTK | [gtk.md](https://github.com/p17anto2/_gallery-1/blob/f89b28cb9b20a6e09ff9b8bc31fbdf0ac5082059/gtk.md) \| [Image](https://github.com/p17anto2/images-1/blob/9235ed38cea076d2350ff0795d1ad85dadabccb4/gtk.png) \| [Thumbnail](https://github.com/p17anto2/images-1/blob/9235ed38cea076d2350ff0795d1ad85dadabccb4/gtk-thumb.png) | [GTK](https://p17anto2-site.netlify.app/gallery/gtk/) | [Εργαλεία και Τεχνικές](https://p17anto2-site.netlify.app//slides/tools/) | [Λειτουργικά Συστήματα και Εφαρμογές](https://p17anto2-site.netlify.app//timeline/os-apps/) |
 
 ### Πηγές
-[GTK (Wikipedia](https://en.wikipedia.org/wiki/GTK) | [Desktop Environments based on GTK](https://en.wikipedia.org/wiki/Category:Desktop_environments_based_on_GTK) | GTK [Redhat](https://people.redhat.com/mclasen/Usenix04/notes/x29.html) | [Inferno OS](https://en.wikipedia.org/wiki/Inferno_(operating_system)) | [Inferno OS site](https://www.inferno-os.org/)
+[GTK (Wikipedia)](https://en.wikipedia.org/wiki/GTK) | [Desktop Environments based on GTK (Wikipedia)](https://en.wikipedia.org/wiki/Category:Desktop_environments_based_on_GTK) | [GTK (Redhat)](https://people.redhat.com/mclasen/Usenix04/notes/x29.html) | [Inferno OS (Wikipedia)](https://en.wikipedia.org/wiki/Inferno_(operating_system)) | [Inferno OS site](https://www.inferno-os.org/)
 
 ## Σύστημα
 
