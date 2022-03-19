@@ -11,7 +11,7 @@
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | https://github.com/courses-ionio/help/discussions/363 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο-1) | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -47,9 +47,13 @@
 
 ![AltText](https://i.imgur.com/rBVf9cJ.gif)
 
-## Συμμετοχικο
-Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017/_timeline/os-apps.md), [images](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65), [gallery](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md).
-Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), [gallery](https://p19kala-pibook.netlify.app/gallery/freebsd/).
+## Συμμετοχικο 1
+Για το συμμετοχικο περιεχομενο Α1 και Α2 επελεξα να ασχοληθω με συγκεντρωση πληροφοριας πανω σε systemd-less λειτουργικα. Για αυτο διαλεξα τα freebsd και void.
+
+Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/7861ab3004ac2aed90efad440048e125d7e5703d), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/artix.md).
+
+Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://p19kala-pibook.netlify.app/gallery/freebsd/) και [Void](https://p19kala-pibook.netlify.app/gallery/artix/).
+Issue πριν κανω pull request στο organization της ομαδας: https://github.com/Git-s-PopTeamEpic/site/issues/2
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
