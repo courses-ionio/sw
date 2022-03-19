@@ -10,7 +10,7 @@
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
 | 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>  <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -51,6 +51,34 @@
 
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/USzd9XMgBzV3ekuJIDLox2Oyq)
+
+
+# Συμμετοχικό περιεχόμενο A1+A2
+
+Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το βιντεοπαιχνίδι Sonic και για προσωπικό υπολογιστή iMac.
+
+## Βιοντεοπαιχνίδι (Sonic)
+[1η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic-%20thumb.jpeg)
+[, 2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic.jpeg)
+
+[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/Sonic.md)
+
+[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/videogames.md)
+
+[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/videogames.md)
+
+
+## Προσωπικός Yπολογιστής (iMac)
+[1η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac-%20thumb.png)
+[, 2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac.png)
+
+[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/iMac.md)
+
+[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/prototyping.md)
+
+[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/personal.md)
+
+
 
 
 
