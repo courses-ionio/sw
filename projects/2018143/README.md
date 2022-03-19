@@ -14,7 +14,7 @@
 | 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/179) </a></sup> | |
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/331) </a></sup> | |
 | 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού/Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
-| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις]() </a></sup> | |
+| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
