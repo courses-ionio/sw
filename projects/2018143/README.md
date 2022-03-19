@@ -14,7 +14,7 @@
 | 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/179) </a></sup> | |
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/331) </a></sup> | |
 | 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού/Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις]() </a></sup> | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -169,7 +169,7 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
   
 #### Εικόνα 1 : Matlab
   
-Εικόνα από προσωπικό site :
+Εικόνα από προσωπικό site : https://p18kout.netlify.app/gallery/matlab/
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/matlab.md
 
@@ -183,7 +183,7 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
 
 #### Εικόνα 2 : Perl 
   
-Εικόνα από προσωπικό site :
+Εικόνα από προσωπικό site : https://p18kout.netlify.app/gallery/perl/
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/perl.md
 
@@ -196,12 +196,12 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
   
 ### Α2 :
   
-#### Διαφάνειες και Χρονολόγιο :
+#### Διαφάνειες και Χρονολόγιο : 
 
-Διαφάνειες στο προσωπικό site :
+Διαφάνειες στο προσωπικό site : https://p18kout.netlify.app/slides/programming/
 
-Αποθετήριο διαφανειών :
+Αποθετήριο διαφανειών : https://github.com/p18kout/site/blob/master/_slides/programming.md
 
-Χρονολόγιο στο προσωπικό site :
+Χρονολόγιο στο προσωπικό site : https://p18kout.netlify.app/timeline/programming/
 
-Αποθετήριο χρονολογίου :
+Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/master/_timeline/programming.md
