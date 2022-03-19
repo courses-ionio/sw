@@ -94,6 +94,28 @@
 Και τέλος οι αλλαγές που έκανα και τα αποτελέσματα απο τα πακέτα που έλαβα. Έτσι ήταν αρχικά απο το VM![image4](https://user-images.githubusercontent.com/63341157/158228932-1883b8f1-a218-4e1c-8bc1-67c711dee400.png)![image5](https://user-images.githubusercontent.com/63341157/158228964-df8020af-3b5a-4776-8c4c-beb78d7b1b2e.png)
 Τα αποτελέσματα!![image7](https://user-images.githubusercontent.com/63341157/158229227-aab0a212-1c57-4773-acf0-a1c3737840dc.png)
 
+Κατα τη διάρκεια της εβδομάδας, αποφάσισα να εγκαταστήσω άλλο ένα λογισμικό χωρίς systemd, με όνομα Artix Linux.
+
+Η εγκατάσταση έχει γίνει εξολοκλήρου στο laptop μου, για τη μελέτη και ενασχόληση πάνω σε αυτο το λογισμικό.
+Ακολούθησα τα παρακάτω βήματα για την επιτυχή εγκατάσταση:
+
+-Λήψη κατάλληλου αρχείου ISO των Artix Linux
+
+-Επιλογή γλώσσας και τοποθεσίας
+
+-Επιλογή κατάλληλου timezone
+
+-Πληκτρολόγηση της εντολής sudo pacman -Syu για την ενημέρωση του λειτουργικού
+
+-git clone https://github.com/asciinema/asciinema.git
+
+ cd asciinema
+ 
+ python3 -m asciinema --version
+ 
+ -neofetch
+ 
+![275843035_5349895718367621_6505561177077777406_n](https://user-images.githubusercontent.com/63341157/159129193-56ff738f-0efc-40c1-8088-80df34a42232.png)
 
 
 
