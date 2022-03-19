@@ -8,9 +8,9 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/help/discussions/59) | |
-| 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/182) | 	Γι'αυτό το παραδοτέο, έχει γίνει η εμπρόθεσμη παράδοση του, η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring.
+| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) |[Discussions](https://github.com/courses-ionio/help/discussions/182) | 	Γι'αυτό το παραδοτέο, έχει γίνει η εμπρόθεσμη παράδοση του, η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring.
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | [Discussions](https://github.com/courses-ionio/help/discussions/381)|Σε αυτό το παραδοτέο, έγινε η εγκατάσταση του FreeBSD λογισμικού και η εμπρόθεσμη παράδοση του |
+| 4 | [Εγκατάσταση λειτουργικού](#παραδοτεο-4) | [Discussions](https://github.com/courses-ionio/help/discussions/381)|Σε αυτό το παραδοτέο, έγινε η εγκατάσταση του FreeBSD λογισμικού και η εμπρόθεσμη παράδοση του |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -29,7 +29,7 @@
 
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 2</h1>
 
-## ΒΙΟΓΡΑΦΙΚΟ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑ ΟΜΑΔΑΣ  
+## ΒΙΟΓΡΑΦΙΚΟ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑ ΟΜΑΔΑΣ
 Το βιογραφικό μου βασίζεται πάνω σ'αυτό το [template](https://github.com/sharu725/online-cv), το οποίο τροποποίησα στις ανάγκες μου. Επίσης, δημιούργησα ένα asciinema στο οποίο φαίνεται η επεξεργασία του βιογραφικού μου μέσω γραμμής εντολών: https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY
 
 <a href="https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY" target="_blank"><img src="https://asciinema.org/a/73efUnRZf4gPaXVn1QiXVkAGY.svg" /></a>
