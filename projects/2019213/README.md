@@ -151,12 +151,12 @@
 Σε αυτό το παραδοτέο έπρεπε να προσφέρουμε στον pibook με ένα δικό μας θέμα. Εγω επέλεξα να κάνω για το backtrack και για το Linux distro Knoppix επειδη μιας και ασχολούμαι με την ασφάλεια είπα να ξαναθυμηθώ τα παλιά χρόνια δηλαδή το backtrack. Το backtrack χρησιμοποιουνταν απο πάρα πολλούς στον τομέα της ασφάλεια από τους ηθικούς χακερς τους επαγγελματίες τα script kiddies μέχρι και τους black hat.
 | Netlify | MarkDown |
 | --- | --- |
-| [Backtrack Gallery](https://suspicious-bell-d055d6.netlify.app/gallery/backtrack/) | [Backtrack Gallery MD](https://github.com/p19tzam/_gallery/blob/35162df987c3c58b0aed16982b9d46d60543ffe7/backtrack.md) |
-| [Knoppix Gallery](https://suspicious-bell-d055d6.netlify.app/gallery/knoppix/) | [Knoppix Gallery MD](https://github.com/p19tzam/_gallery/blob/35162df987c3c58b0aed16982b9d46d60543ffe7/knoppix.md) |
-| [Backtrack Slides](https://suspicious-bell-d055d6.netlify.app/slides/backtrack/) | [Backtrack Slides MD](https://github.com/p19tzam/site/blob/master/_slides/backtrack.md) |
-| [Knoppix Slides](https://suspicious-bell-d055d6.netlify.app/slides/knoppix/) | [Knoppix Slides MD](https://github.com/p19tzam/site/blob/master/_slides/knoppix.md) |
-| [Backtrack Timeline](https://suspicious-bell-d055d6.netlify.app/timeline/backtrack/) | [Backtrack Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/backtrack.md) |
-| [Knoppix Timeline](https://suspicious-bell-d055d6.netlify.app/timeline/knoppix/) | [Knoppix Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/knoppix.md) | 
+| [Backtrack Gallery](https://p2019213.netlify.app/gallery/backtrack/) | [Backtrack Gallery MD](https://github.com/p19tzam/_gallery/blob/2650394b35551b8dfc4605ba2d233cc19b0c2760/backtrack.md) |
+| [Knoppix Gallery](https://p2019213.netlify.app/gallery/knoppix/) | [Knoppix Gallery MD](https://github.com/p19tzam/_gallery/blob/2650394b35551b8dfc4605ba2d233cc19b0c2760/knoppix.md) |
+| [Backtrack Slides](https://p2019213.netlify.app/slides/backtrack/) | [Backtrack Slides MD](https://github.com/p19tzam/site/blob/master/_slides/backtrack.md) |
+| [Knoppix Slides](https://p2019213.netlify.app/slides/knoppix/) | [Knoppix Slides MD](https://github.com/p19tzam/site/blob/master/_slides/knoppix.md) |
+| [Backtrack Timeline](https://p2019213.netlify.app/timeline/backtrack/) | [Backtrack Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/backtrack.md) |
+| [Knoppix Timeline](https://p2019213.netlify.app/timeline/knoppix/) | [Knoppix Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/knoppix.md) | 
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
