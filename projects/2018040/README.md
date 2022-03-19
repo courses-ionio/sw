@@ -161,7 +161,7 @@ asciinema link για το telegram: https://asciinema.org/a/478007
 
 ### A1:
 
-Εικονα απο προσωπικο σαιτ: 
+Εικονα απο προσωπικο σαιτ: https://p18kana.netlify.app//gallery/uml/
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/uml.md
 
@@ -175,7 +175,7 @@ Aναπτύχθηκε για να βοηθήσει τους προγραμματ
 
 ### Α2:
 
-Εικονα απο προσωπικο σαιτ: 
+Εικονα απο προσωπικο σαιτ: https://p18kana.netlify.app//gallery/lisp/
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/lisp.md
 
@@ -191,11 +191,11 @@ Aναπτύχθηκε για να βοηθήσει τους προγραμματ
 
 ### Διαφάνιες και Χρονολόγιο:
 
-Διαφανειες στο προσωπικο site: 
+Διαφανειες στο προσωπικο site: https://p18kana.netlify.app//slides/programming/
 
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
-Χρονολογιο στο προσωπικο site:
+Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
