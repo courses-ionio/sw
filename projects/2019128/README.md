@@ -59,5 +59,6 @@
 ![image](https://user-images.githubusercontent.com/72515420/158201679-aa179e25-2b0e-4626-9872-c36511049bce.png)
 
 
-
+## Συμμέτοχή και ομαδικότητα
+[Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
 
