@@ -69,3 +69,5 @@ Pull requests στο organization: [site](https://github.com/Git-s-PopTeamEpic/s
 Βοηθεια σε προβλημα στα discussions του help: https://github.com/courses-ionio/help/discussions/304#discussioncomment-2301642
 
 Βοηθεια σε guide στα discussions του help: https://github.com/courses-ionio/help/discussions/344#discussioncomment-2342616
+
+Βοηθεια σε ερωτηση στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513
