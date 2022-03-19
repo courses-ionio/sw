@@ -124,10 +124,11 @@
 | 2 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/122) |
 | 3 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/148) |
 | 4 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/402) |
-| 5 | [Βοήθεια σε συμφοιτητή](https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458) |
-| 6 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/254) |
-| 7 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/280) |
-| 8 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/281) |
-| 9 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
-| 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
-| 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
+| 5 | [Βοήθεια σε συμφοιτητή](https://github.com/ioniodi/sitegr/discussions/229) |
+| 6 | [Βοήθεια σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/406) |
+| 7 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/254) |
+| 8 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/280) |
+| 9 | [Σχόλιο σε issue](https://github.com/ioniodi/sitegr/issues/281) |
+| 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
+| 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
+| 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
