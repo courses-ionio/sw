@@ -50,7 +50,7 @@
 ## Συμμετοχικο 1
 Για το συμμετοχικο περιεχομενο Α1 και Α2 επελεξα να ασχοληθω με συγκεντρωση πληροφοριας πανω σε systemd-less λειτουργικα. Για αυτο διαλεξα τα freebsd και void.
 
-Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/7861ab3004ac2aed90efad440048e125d7e5703d), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/artix.md).
+Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017_sw/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/7861ab3004ac2aed90efad440048e125d7e5703d), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017_sw/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/artix.md).
 
 Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://p19kala-pibook.netlify.app/gallery/freebsd/) και [Void](https://p19kala-pibook.netlify.app/gallery/artix/).
 Issue πριν κανω pull request στο organization της ομαδας: https://github.com/Git-s-PopTeamEpic/site/issues/2
