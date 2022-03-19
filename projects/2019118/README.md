@@ -73,3 +73,16 @@ Edit: [follow-up pull request στο all_collections](https://github.com/ioniodi
 - Τέλος, ολοκλήρωσα την ομαδική άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)"
 
 <img src="https://i.imgur.com/cPxZO4t.png" alt="terminal screenshot">
+
+### Παραδοτέο 5 / Συμμετοχικό περιεχόμενο A1+A2
+
+Πρόσθεσα δύο εικόνες με τα thumbnail τους και έγραψα και τις ιστορίες τους.
+
+Επέλεξα τα Windows 11 επειδή είναι το πιο σύγχρονο mainstream σύστημα αλλά και το TempleOS επειδή έχει πίσω του πολύ ιστορία και είναι εντυποσιακό αν σκεφτούμε ότι το έφτιαξε ένας άνθρωπος.
+
+<img src="https://miro.medium.com/max/643/0*GA8O_SsKGf0BDJKu.png" alt="TempleOS preview">
+
+Pull requests:
+- [images](https://github.com/Sybil-Reisz/images/pull/1)
+- [_gallery](https://github.com/Sybil-Reisz/_gallery/pull/1)
+- [site](https://github.com/Sybil-Reisz/site/pull/1)
