@@ -40,7 +40,7 @@
 
 ## Ασκηση Γραμμης Εντολων
 Εκανα εγκατασταση FreeBSD, αλλαξα το shell και το prompt μου: 
-![image](https://user-images.githubusercontent.com/72458452/158074687-40428982-ff05-4054-95f8-d39e3a8bbea4.png)
+![image](https://user-images.githubusercontent.com/72458452/158074687-40428982-ff05-4054-95f8-d39e3a8bbea4.png)<br>
 Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 
 
