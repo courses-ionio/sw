@@ -12,7 +12,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/55) | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/247) | Στο παραδοτέο 2 ασχολήθηκα κυρίως με την δημιουργία του βιογραφικού μου ενώ παράλληλα εντάχθηκα σε μία ομάδα. |
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/338) | Κατανόηση εντολών μέσω git για το επιτυχές αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος, με κάποια προβληματα στο submodule και η κατανόηση αυτών |
-| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM |
+| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
