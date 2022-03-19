@@ -48,9 +48,9 @@
 
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 4</h1>
 
-## ΕΓΚΑΤΑΣΤΑΣΗ FREEBSD
+## ΕΓΚΑΤΑΣΤΑΣΗ ΛΕΙΤΟΥΡΓΙΚΟΥ
 
-Σε αυτό το παραδοτεό εγκατέστησα το *FreeBSD* και παρακάτω υπάρχει το αντίστοιχο neofetch: https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp
+Σε αυτό το παραδοτεό ασχολήθηκα με την εγκατάσταση του λειτουργικού, χωρίς systemd, `FreeBSD` και παρακάτω υπάρχει το αντίστοιχο neofetch: https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp
 
 <a href="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp" target="_blank"><img src="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp.svg" /></a>
 
