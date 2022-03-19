@@ -99,6 +99,8 @@
 
 Για το 5ο παραδοτέο επέλεξα να παρουσιάσω την [Amiga](https://hci-p2018028.netlify.app/gallery/commodore-amiga/) από την Commodore, στην οποία αναφέρομαι στο κομμάτι του Hardware της και για ένα λογισμικό που ήταν διαθέσιμο σε αυτή που ονομάζεται [Ultimate Soundtracker](https://hci-p2018028.netlify.app/gallery/ultimate-soundtracker/). Το δεύτερο είναι ο παππούς όλων των λογισμικών δημιουργίας μουσικής και χρησιμοποιήθηκε αρχικά από την Commodore για την παραγωγή μουσικών κομματιών για παιχνίδια. Επίσης, έκανα ένα σύνολο από [διαφάνειες](https://hci-p2018028.netlify.app/slides/commodore-amiga-slides/) σχετικές με αυτά που προσέθεσα και τέλος ένα [χρονολόγιο](https://hci-p2018028.netlify.app/timeline/commodore-amiga-home-computing/) στο οποίο απεικονίζονται αυτά σε χρονική σειρα. Με τα παρακάτω αποτέλεσματα
 
+[pull request Kafeneio](https://github.com/Kafeneio/site/commit/5a791e32e58f76e788b06f55a7cc15d3ffcde830)
+
 ![Screenshot_1](https://user-images.githubusercontent.com/72436770/158847265-aa6224cf-13a3-4526-acd5-f60d0920123c.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/72436770/158847301-69821a22-6fb3-407d-8a61-683b1228ad13.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/72436770/158847341-c223f9f5-0947-43ff-86dc-e24664e4950a.png)
