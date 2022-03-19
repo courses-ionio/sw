@@ -103,7 +103,7 @@ Link στο site μαθηματος:
 
 ##### [4]
 
-Εγκατάσταση artix linux:
+## Εγκατάσταση artix linux: 
 
 ### Βηματα:
 
@@ -123,9 +123,9 @@ Tελος, εκανα εγκατασταση των απαραιτητων πα�
 
 ## Ασκηση γραμμης εντολων: send notifications to your desktop-mobile
 
-asciinema link για το ntfy:
+asciinema link για το ntfy: https://asciinema.org/a/477980
 
-asciinema link για το telegram:
+asciinema link για το telegram: https://asciinema.org/a/478007
 
 ### Βηματα:
 
