@@ -8,8 +8,8 @@
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:20/02/2022 |<a href="https://github.com/courses-ionio/help/discussions/122">Προόδος 1</a>| |
 | 2 | <li><a href="#Personal CV."><span class="toctext">Personal CV.</span></a> Commit:27/02/2022 | | |
-  | 3 | <li><a href="Pull request at the site."><span class="toctext">Pull request at the site.</span></a> Commit:19/03/2022| | |
-    | 4 | <li><a href="FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> Commit:19/03/2022 | | |
+  | 3 | <li><a href="#Pull request at the site."><span class="toctext">Pull request at the site.</span></a> Commit:19/03/2022| | |
+    | 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> Commit:19/03/2022 | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -29,6 +29,7 @@
 <h2><span id="Personal CV.">Personal CV.</span></h2> 
 Για την υλοποίηση του 2ου παραδοτέου, δηλαδή την υλοποίηση του προσωπικού μου βιογραφικού χρησιμοποίησα το template 1. Ακολουθώντας τις οδηγίες του συγκεκριμένου αποθετηρίου και αλλάζοντας τα αρχεία data.yml βάζοντας τα προσωπικά μου στοιχεία και στο αρχείο images την φωτογραφία μου, υλοποιήθηκε επιτυχώς το βιογραφικό μου. <br>
 <h3>CV</h3>
+
 ![2022-03-19 (2)](https://user-images.githubusercontent.com/72350589/159134702-3c96aeef-6605-4037-abba-ee8310c3534b.png)
 
 <br>
@@ -50,6 +51,7 @@ Link Βιογραφικού: https://taniastoupi.github.io/online-cv/ <br>
 <h2><span id="FreeBSD/Check weather.">FreeBSD/Check weather.</span></h2>
 Για την υλοποίση του 4ου παραδοτέου έπρεπε να κατεβάσουμε ένα λειτουργικό σύστημα της επιλογής μας, το οποίο να μην διαθέτει systemmd. Το λειτουργικό σύστημα που επέλεξα να κατεβάσω εγώ ήταν το FreeBSD το οποίο είναι πιο φιλικό και λειτουργεί μέσα στο VM. Επίσης έπρεπε να υλοποίησουμε και μια άσκηση γραμμής εντολών της επιλογής μας για την καλύτερη εξοικίωση μας με το σύστημα.<br>
 <h3>FreeBSD</h3>
+
 ![2022-03-19 (1)](https://user-images.githubusercontent.com/72350589/159134639-b460ff86-4d64-4252-af5d-a54a0b5776fb.png)
 
 <br> <a href="https://asciinema.org/a/478478">Asciinema Link</a><br>
