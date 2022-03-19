@@ -41,6 +41,7 @@
 ## Ασκηση Γραμμης Εντολων
 Εκανα εγκατασταση FreeBSD, αλλαξα το shell και το prompt μου: 
 ![image](https://user-images.githubusercontent.com/72458452/158074687-40428982-ff05-4054-95f8-d39e3a8bbea4.png)
+Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 
 
 Για την ασκηση γραμμης εντολων επελεξα να στειλω ενα desktop notification μετα απο download, με τη χρηση του εργαλειου [ntfy](https://github.com/dschep/ntfy). Χρησιμοποιησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για να κατεβασω ενα βιντεο, με τη χρηση του `--no-check-certificate` καθως πετουσε SSL certificate error. Η καταγραφη εγινε με το εργαλειο kazam, καθως το notification ειναι εκτος του terminal και επειτα μετατροπη σε gif. Σταματησα το recording λιγο μετα την εναρξη του download γιατι εδειχνε πως θα παρει 1 λεπτο, ετσι ωστε το βιντεο να μην ειναι πολυ μεγαλο χωρις καμια ουσιωδες αλλαγη στο περιεχομενο. Στο μελλον θα κανω την ασκηση στο FreeBSD.
