@@ -18,7 +18,7 @@
 | 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/181) </a></sup> | |
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346)</a></sup> | |
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | |
-| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις] </a></sup> | |
+| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -161,6 +161,8 @@ asciinema link για το telegram: https://asciinema.org/a/478007
 
 ### A1:
 
+#### Εικονα 1: UML 
+
 Εικονα απο προσωπικο σαιτ: https://p18kana.netlify.app//gallery/uml/
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/uml.md
@@ -173,7 +175,7 @@ Aναπτύχθηκε για να βοηθήσει τους προγραμματ
 
 Πηγη: https://www.uml.org/what-is-uml.htm
 
-### Α2:
+#### Εικονα 2: LISP
 
 Εικονα απο προσωπικο σαιτ: https://p18kana.netlify.app//gallery/lisp/
 
