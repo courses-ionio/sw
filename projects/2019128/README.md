@@ -77,5 +77,6 @@ A2:</br>
 
 
 ## Συμμέτοχή και ομαδικότητα
-[Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
+- [Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
+- [Suggested changes in pull request](https://github.com/Git-s-PopTeamEpic/site/pull/11)
 
