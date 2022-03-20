@@ -12,7 +12,7 @@
 | 2 | βιογραφικό και δημιουργία ομάδας | [LINK](https://github.com/courses-ionio/help/discussions/275) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [LINK](https://github.com/courses-ionio/help/discussions/322) | |
 | 4 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/374) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [LINK](https://github.com/courses-ionio/help/discussions/438) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
