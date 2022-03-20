@@ -52,3 +52,8 @@ https://github.com/courses-ionio/help/discussions/197
 # Παραδοτέο 4
 
 Κάποια στιγμή στο μέλλον θα ασχοληθώ με αυτό
+
+# Παραδοτέο 5
+
+[slides](https://nervous-hypatia-c85454.netlify.app/slides/programming/)
+[timeline](https://nervous-hypatia-c85454.netlify.app/timeline/programming-code/)
