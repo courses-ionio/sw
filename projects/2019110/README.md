@@ -103,8 +103,10 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 2. Προσθήκη των 4 εικόνων σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) στο [images](https://github.com/p19pasc/images/tree/demo_2019110) και συγκεκριμένα [Linux-from-scratch](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch.jpg), [Linux-from-scratch-thumb](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch-thumb.jpg), [Bliss](https://github.com/p19pasc/images/blob/demo_2019110/bliss.png), [Bliss-thumb](https://github.com/p19pasc/images/blob/demo_2019110/bliss-thumb.png) οι οποίες έχουν τα απαραίτητα δικαιώματα.
 3. Προσθήκη δύο αρχείων στο [_gallery](https://github.com/p19pasc/_gallery/tree/demo_2019110) και συγκεκριμένα [linux-from-scratch.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/linux-from-scratch.md), [BLISS.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/bliss.md) μέσα στα οποία υπάρχουν τα κατάλληλα categories,license(τόσο για τις φωτογραφίες όσο και για το text),tags κλπ.
 4. Όσον αφορά τις τροποποιήσεις που έγιναν στο [site](https://github.com/p19pasc/site/tree/demo_2019110).
-[Netlify](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/)
-[Netlify](https://p19pasc-site.netlify.app/gallery/bliss/)
+ 
+[Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) 
+[BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
+
 links για pull requests στον οργανισμό:
 [Site](https://github.com/OompaLoompas/site/pull/7)
 [_gallery](https://github.com/OompaLoompas/_gallery)
