@@ -115,7 +115,8 @@
  
  -neofetch
  
-![275843035_5349895718367621_6505561177077777406_n](https://user-images.githubusercontent.com/63341157/159129193-56ff738f-0efc-40c1-8088-80df34a42232.png)
+![275902693_1015693295695314_7128871605494466481_n](https://user-images.githubusercontent.com/63341157/159173938-7dd3a1e2-76a4-4b13-b713-a2ceba64ced2.png)
+
 
 
 # <a name="E"> Συμμετοχικό περιεχόμενο A1+A2 </a>
