@@ -96,22 +96,30 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 # Συμμετοχικό περιεχόμενο
 ### Συμμετοχικό περιεχόμενο Α1+Α2
 ------------------------
-Στο συγκεκριμένο παραδοτέο κληθήκαμε να κάνουμε δύο προσθήκες στο κεντρικό pibook του οργανισμού μας. Εφόσον το μάθημα μας αναφέρεται στην Τενχολογία Λογισμικού προσπάθησα να βρω κοντινά θέματα με τον όρο αυτό. Συγκεκριμένα ανέφερα το **Linux From Scratch** ένα λειτουργικό σύστημα με το οποίο οι χρήστες φτιάχνουν από την αρχή ένα σύστημα Linux και την προγραμματιστική γλώσσα για λειτουργικά συστήματα **BLISS**. 
+Στο συγκεκριμένο παραδοτέο κληθήκαμε να κάνουμε δύο προσθήκες στο κεντρικό pibook του οργανισμού μας. Εφόσον το μάθημα μας αναφέρεται στην Τενχολογία Λογισμικού, προσπάθησα να βρω κοντινά θέματα με τον όρο αυτό. Συγκεκριμένα ανέφερα το **Linux From Scratch** ένα λειτουργικό σύστημα με το οποίο οι χρήστες φτιάχνουν από την αρχή ένα σύστημα Linux και την προγραμματιστική γλώσσα για λειτουργικά συστήματα **BLISS** η οποία ήταν πολύ γνωστή μέχρι να εμφανιστεί η γλώσσα C. Κάποιες ιδέες ακόμα που είχα βέβαια, ήταν το λειτουργικό σύστημα **System 6** όμως έκανα την επιλογή να βάλω 2 διαφορετικα θέματα και η γλώσσα **Modula 2** που ήταν ήδη στην ιστοσελίδα.<br>
 
-Η διαδικασία που ακολούθησα σχετικά με την προσθήκη των κατάλληλων αρχείων ήταν η εξής:
+Ύστερα από την αναζήτη, σύλλεξη πληροφοριών και εύρεση εικόνων με τα κατάλληλα πνευματικά δικαιώματα οδηγήθηκα στην δημιουργία του demo μου. Η διαδικασία που ακολούθησα σχετικά με την προσθήκη των κατάλληλων αρχείων ήταν η εξής:
 1. Fork των απαραίτητων repositories από το OompaLoopas(site,_gallery,images) και δημιουργία demo branch
-2. Προσθήκη των 4 εικόνων σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) στο [images](https://github.com/p19pasc/images/tree/demo_2019110) και συγκεκριμένα [Linux-from-scratch](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch.jpg), [Linux-from-scratch-thumb](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch-thumb.jpg), [Bliss](https://github.com/p19pasc/images/blob/demo_2019110/bliss.png), [Bliss-thumb](https://github.com/p19pasc/images/blob/demo_2019110/bliss-thumb.png) οι οποίες έχουν τα απαραίτητα δικαιώματα.
-3. Προσθήκη δύο αρχείων στο [_gallery](https://github.com/p19pasc/_gallery/tree/demo_2019110) και συγκεκριμένα [linux-from-scratch.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/linux-from-scratch.md), [BLISS.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/bliss.md) μέσα στα οποία υπάρχουν τα κατάλληλα categories,license(τόσο για τις φωτογραφίες όσο και για το text),tags κλπ.
-4. Όσον αφορά τις τροποποιήσεις που έγιναν στο [site](https://github.com/p19pasc/site/tree/demo_2019110).
- 
-[Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
-[BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
+2. Προσθήκη των 4 εικόνων σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) στο **[images μου](https://github.com/p19pasc/images/tree/demo_2019110)** και συγκεκριμένα: 
+   * [Linux-from-scratch](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch.jpg) 
+   * [Linux-from-scratch-thumb](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch-thumb.jpg)
+   * [Bliss](https://github.com/p19pasc/images/blob/demo_2019110/bliss.png)
+   * [Bliss-thumb](https://github.com/p19pasc/images/blob/demo_2019110/bliss-thumb.png)   
+ οι οποίες έχουν τα απαραίτητα πνευματικά δικαιώματα(τα οποία βρίσκονται σε λινκ στα κατάλληλο column στο _gallery).
+3. Προσθήκη δύο αρχείων στο **[_gallery](https://github.com/p19pasc/_gallery/tree/demo_2019110)** και συγκεκριμένα [linux-from-scratch.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/linux-from-scratch.md), [BLISS.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/bliss.md) μέσα στα οποία υπάρχουν τα κατάλληλα categories,license(τόσο για τις φωτογραφίες όσο και για το text),tags κλπ.
+4. Όσον αφορά τις τροποποιήσεις που έγιναν στο **[site](https://github.com/p19pasc/site/tree/demo_2019110)**, δημιούργησα ένα σετ διαφανειών με όνομα [operating-systems](https://github.com/p19pasc/site/blob/demo_2019110/_slides/operating-systems.md) στο οποίο αρμόζει το Linux From scratch, ενώ το κατάλληλο timeline του είναι το [os-apss](https://github.com/p19pasc/site/blob/demo_2019110/_timeline/os-apps.md). Για το BLISS το slide που άρμοζε είναι το [programming](https://github.com/p19pasc/site/blob/demo_2019110/_slides/programming.md) και το αντίστοιχο timeline [programming](https://github.com/p19pasc/site/blob/demo_2019110/_timeline/programming.md). Ανεξάρτητα από τις δύο προσθήκες, επιπλέον, διαμόρφωσα τα [submodules](https://github.com/p19pasc/site/blob/demo_2019110/.gitmodules) ώστε να οδηγούν στα δικά μου repositories και καίρια αλλαγή η γραμμη 17 του config αρχείου με το δικό μου url.
+5. Τέλος, με κατάλληλες εντολές όπως αυτές που αναφέρονται στο repository του site για παράδειγμα `git submodule update --init --recursive --remote` , `git submodule sync --recursive
+` , `git submodule update --remote --merge
+` και φυσικά τις απλές εντολές `git add .` , `git commit -m`, `git push` έφτασα στο αποτέλεσμα που ήθελα.
 
-links για pull requests στον οργανισμό:
-[Site](https://github.com/OompaLoompas/site/pull/7)
-[_gallery](https://github.com/OompaLoompas/_gallery)
-[images](https://github.com/OompaLoompas/images)
+Οι προσθήκες μου στο Netlify:
+1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
+2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
+Pull Requests στον οργανισμό:
+* [Site](https://github.com/OompaLoompas/site/pull/7)
+* [_gallery](https://github.com/OompaLoompas/_gallery)
+* [images](https://github.com/OompaLoompas/images)
 
 # Ασκήσεις γραμμής εντολών
 
@@ -249,8 +257,6 @@ links για pull requests στον οργανισμό:
     
 # Πηγές πληροφοριών
 
-* Βιογραφικό
-  * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)
 * Επεξεργασία README  
   * [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
   * [Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
@@ -259,16 +265,25 @@ links για pull requests στον οργανισμό:
 * Git Submodules
   * [video1](https://www.youtube.com/results?search_query=git+submodules),[video2](https://www.youtube.com/watch?v=eJrh5IjWSGM&t=168s)
   * [Discussion συναδέλφου](https://github.com/courses-ionio/help/discussions/287)
- * Ασκήσεις γραμμής εντολών
-   * [Εγκατάσταση Freebsd](https://www.freebsd.org/where/)
-   1. Άσκηση
-     * [Εγκατάσταση nano command](https://linuxhint.com/install-nano-freebsd/)
-     * [Εγκατάσταση neofetch](https://github.com/dylanaraps/neofetch/wiki/Installation#freebsd) 
-     * [Εγκατάσταση wttr.in(με git clone)](https://github.com/chubin/wttr.in.git)
-     * [Εγκατάσταση Lynx](https://www.freshports.org/www/lynx/)
-     * [Εγκατάσταση W3m](https://www.freshports.org/www/w3m/)
-       * [Εντολές για wttr.in](https://github.com/chubin/wttr.in)
-       * [Εντολή για config file](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
-       * [Εντολή για στοιχεία διεργασιών](https://linuxize.com/post/less-command-in-linux/)
-       * [Εντολές για w3m](https://www.commandlinux.com/man-page/man1/w3m.1.html)
-       * [Εντολή για lynx](https://kb.iu.edu/d/afik) 
+* [Ανέβασμα εικόνων σε cloud](https://postimages.org/)
+  * [Image converter](https://image.online-convert.com/convert-to-jpg)
+* Βιογραφικό
+  * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)  
+* Συμμετοχικό Περιεχόμενο   
+  * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+   * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
+  * [BLISS text](https://en.wikipedia.org/wiki/BLISS)
+   * [BLISS image](https://en.wikipedia.org/wiki/BLISS)   
+* Ασκήσεις γραμμής εντολών
+  * [Εγκατάσταση Freebsd](https://www.freebsd.org/where/)
+  1. Άσκηση
+    * [Εγκατάσταση nano command](https://linuxhint.com/install-nano-freebsd/)
+    * [Εγκατάσταση neofetch](https://github.com/dylanaraps/neofetch/wiki/Installation#freebsd) 
+    * [Εγκατάσταση wttr.in(με git clone)](https://github.com/chubin/wttr.in.git)
+    * [Εγκατάσταση Lynx](https://www.freshports.org/www/lynx/)
+    * [Εγκατάσταση W3m](https://www.freshports.org/www/w3m/)
+      * [Εντολές για wttr.in](https://github.com/chubin/wttr.in)
+      * [Εντολή για config file](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
+      * [Εντολή για στοιχεία διεργασιών](https://linuxize.com/post/less-command-in-linux/)
+      * [Εντολές για w3m](https://www.commandlinux.com/man-page/man1/w3m.1.html)
+      * [Εντολή για lynx](https://kb.iu.edu/d/afik) 
