@@ -62,17 +62,17 @@
 Για το παραδοτέο αυτό αρχικά σαν ομάδα αποφασίσαμε σε μία διαδικασία για το πώς θα γίνουν τα νέα issue για το τι θα προσθέσει ο καθένας και το πώς θα γίνουν τα pull requests το οποίο φαίνεται [εδώ]( https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10). </br>
 Στην συνέχεια ο καθένας αποφάσισε το θέμα των διαφανειών και του timeline του οποίου θα προσθέσει και δημιουργούμε ένα issue σχετικά με αυτό το οποίο μπορεί να βρεθεί [εδώ]( https://github.com/Git-s-PopTeamEpic/site/issues/4).</br>
 Στην συνέχεια μετά από αυτό εφόσον το θέμα δεν το έχει δηλώσει κάποιος άλλος και δεν υπάρχει καμία διαφωνία για το θέμα κάνουμε τις προσθήκες και ανοίγουμε 3 pull requests 1 σε κάθε repo [site]( https://github.com/Git-s-PopTeamEpic/site/pull/7), [images]( https://github.com/Git-s-PopTeamEpic/images/pull/3) και [_gallery]( https://github.com/Git-s-PopTeamEpic/_gallery/pull/3).</br>
-Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεις:</br>
+Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεθούν:</br>
 Α1:</br>
 [Unity](https://alexpoulis.netlify.app/gallery/unity/)</br>
-![image](https://user-images.githubusercontent.com/72515420/159159337-1f7f8a22-881c-406f-8be3-fb4a08a7b021.png)
+![image](https://user-images.githubusercontent.com/72515420/159159337-1f7f8a22-881c-406f-8be3-fb4a08a7b021.png)</br>
 [Unreal Engine](https://alexpoulis.netlify.app/gallery/unreal-engine/)</br>
-![image](https://user-images.githubusercontent.com/72515420/159159354-d1038c1a-4772-4f44-a797-1ecaa2ab9a02.png)
+![image](https://user-images.githubusercontent.com/72515420/159159354-d1038c1a-4772-4f44-a797-1ecaa2ab9a02.png)</br>
 A2:</br>
 [Timeline](https://alexpoulis.netlify.app/timeline/game-engine/)</br>
-![image](https://user-images.githubusercontent.com/72515420/159159319-fdaf2170-e7dd-4c5e-8f8f-c1e8b0d9da07.png)
+![image](https://user-images.githubusercontent.com/72515420/159159319-fdaf2170-e7dd-4c5e-8f8f-c1e8b0d9da07.png)</br>
 [Slides](https://alexpoulis.netlify.app/slides/game-engines/)</br>
-![image](https://user-images.githubusercontent.com/72515420/159159306-818108e8-050f-4e26-9783-eb76e1e15664.png)
+![image](https://user-images.githubusercontent.com/72515420/159159306-818108e8-050f-4e26-9783-eb76e1e15664.png)</br>
 
 
 
