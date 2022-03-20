@@ -5,8 +5,10 @@
 ### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)
 ### Netlify Site (Ιστοσελίδα της σχολής): [epic-hamilton-p2019108.netlify.app](https://epic-hamilton-p2019108.netlify.app)
 ### Site Repository (Ιστοσελίδα της σχολής): [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr)
-### Netlify Site (pibook): (TBD)
-### Site Repository (pibook): (TBD)
+### Netlify Site (pibook) ομάδας: [gits-team-epic-pibook.netlify.app](https://gits-team-epic-pibook.netlify.app/)
+### Site Repository (pibook) ομάδας: [Git-s-PopTeamEpic/site](https://github.com/Git-s-PopTeamEpic/site)
+### Netlify Site (pibook) πρωσοπικό: [p2019108-sw-pibook.netlify.app](https://p2019108-sw-pibook.netlify.app/)
+### Site Repository (pibook) πρωσοπικό: [Kuhakuneko/site](https://github.com/KuhakuNeko/site)
 <br />
 
 | Εβδομάδα | [Παραδοτέο](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
@@ -15,7 +17,7 @@
 | 2 | [Βιογραφικό](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) και [δημιουργία ομάδας](#webring-και-ομάδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/314) | |
 | 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/365) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/444) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -38,7 +40,7 @@
 Όπως πάντα θα κάνω ότι καλύτερο μπορώ στον χρόνο και τις συνθήκες που μας δίνονται, και ελπίζω με το πέρας του μαθήματος να έχω αποκτήσει την πλειοψηφία των παραπάνω, ώστε να μπορέσω να τα εφαρμόσω στα μελλοντικά μου project και να εξελιχθώ έστω και λίγο στον τομέα της δημιουργίας λογισμικού.<br>
 
 # 2ο Παραδοτέο - Βιογραφικό Α και Δημιουργία Oμάδας
-# Βιογραφικό Α
+## Βιογραφικό Α
 Για το δεύτερο παραδοτέο μας ανατέθηκε να δημιουργήσουμε μία σελίδα για το βιογραφικό μας που θα την κάνουμε host είτε μέσο του netlify είτε μέσο του github-pages και θα κάνει χρήση του Jekyll. Για την συγκεκριμένη εργασία επέλεξα ως βάση το συγκεκριμένο [template](https://github.com/sharu725/online-cv/), και το κάνω host με github-pages. Το netlify ήταν μία πλατφόρμα που είχα ξαναχρησιμοποιήσει επομένως αποφάσισα να δοκιμάσω κάτι διαφορετικό.<br>
 
 Μέσω της άσκησης έμαθα αρκετά για το yaml καθώς και το Jekyll και εφάρμοσα αρκετά από τα πράγματα που έμαθα και στο προηγούμενο μάθημα αλλά και σε άλλα μαθήματα. Πιστεύω ότι έχω ένα πολύ ωραίο τελικό αποτέλεσμα καθώς πρόσθεσα  αρκετά παραπάνω πράγματα και έκανα το template να φαίνετε δικό μου.<br>
@@ -61,7 +63,7 @@
 #### Link προς το site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Link](https://kuhakuneko.github.io/online-cv/)<br>
 #### Link προς το repository του site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Repository Link](https://github.com/KuhakuNeko/online-cv)<br>
 
-# Webring και Ομάδα
+## Webring και Ομάδα
 Πέρα από το βιογραφικό ανέλαβα και ολόκληρη την κατασκευή του οργανισμού αλλά και webring της ομάδας μου στην οποία είμαι και ο head admin. Δημιούργησα τον οργανισμό της ομάδας και κάλεσα τα μέλη μέσα από τις συναντήσεις των εργαστηρίων του μαθήματος. Και σε αυτήν την περίπτωση αποφάσισα να του κάνω αρκετά modifications για να του δώσω ένα ξεχωριστό look. Του πρόσθεσα ένα πολύχρωμο background με animation κάνοντας χρήση του webkit, έγραψα την περιγραφή της ομάδας, τους κατάλληλους κανόνες στο code of conduct, αλλαγές στα stock κείμενα και forms, και φυσικά το έκανα set-up κατάλληλα με το netlify για να λειτουργούν όλα τα features του. Όπως είναι ξεκάθαρο για να επιτευχθούν όλα αυτά ασχολήθηκα ιδιαίτερα με την html και css. Η συνεισφορά μου μπορεί να φανεί και στα commit του αντίστοιχου repository.<br>
 
 Κάποια από τα βασικά πράγματα που έγιναν λοιπόν απο εμένα για το webring είναι:
@@ -107,44 +109,7 @@
 #### Link προς το ανάλογο pull request: [sitegr/pull/245#issue-1159921400](https://github.com/ioniodi/sitegr/pull/245#issue-1159921400)<br>
 #### Link προς τα merged pull request μετά απο την λύση του γνωστού προβλήματος με το submodule: [sitegr/335](https://github.com/ioniodi/sitegr/pull/335) και [all_collections/27](https://github.com/ioniodi/all_collections/pull/27)
 
-<!--
-
-# 4ο Παραδοτέο - performance monitoring
-Για αυτό το παραδοτέο επέλεξα να κάνω την εργασία “performance monitoring” που ήθελε να παρακολουθήσουμε την επίδοση των python script μας και να γίνει ένα σχετικό visualize στην διαδικασία. Εγω συγκεκριμένα χρησιμοποίησα το εργαλείο Hyperfine και εξερεύνησα πολλά από τα feature του αλλά δημιούργησα και ένα shell script που εξηγώ παρακάτω και έχω ανεβασμένο και στο προσωπικό μου αποθετήριο.
-
-Το hyperfine σου επιτρέπει να κάνεις bench script αλλά και εντολές και εμφανίζει διάφορες πληροφορίες για την πορεία του bench με πολύχρωμα reports και loadbars. Στο asciinema μου δείχνω πολλές λειτουργίες του όπως:
-- Διεξαγωγή απλού bench αγνοώντας τα errors του script
-- Καθαρισμός του cache
-- Προετοιμασία του cache για να διεξαχθεί ένα πιο ρεαλιστικό benchmark
-- Έκανα bench με συγκεκριμένο αριθμό run
-- Έκανα bench ορίζοντας τον ελάχιστο αριθμό run
-- Έκανα 10 warmup runs και ακριβώς 200 run ενώ έκανα και εξαγωγή ενος CSV formatted report του bench
-- Έθεσα παραμέτρους για την πλήρη εμφάνιση χρωμάτων και ενεργοποίηση όλων των feature του hyperfine
-- Πέρα από python scripts έκανα benchmark και σε εντολές linux όπως το cat, κάτι που είναι ξεχωριστό στο hyperfine
-- Εμφάνιση των αποτελεσμάτων σε μονάδα χρόνου της επιλογής μου
-
-## Shell Scripting – HyperHakuBench.sh
-Θέλοντας, όπως πάντα φυσικά, να διευκολύνω την ζωή μου στο terminal και να το κάνω ακόμα πιο προσβάσιμο και ελκυστικό σε περισσότερο κόσμο δημιούργησα ένα shell script που κάνει χρίσει του hyperfine και επιτρέπει στον χρήστη να συγκρίνει scripts και commands και να κάνει συγκεκριμένες διεργασίες πολύ πιο αυτοματοποιημένα. Το script αυτό κάνει χρήση pipelining αλλά και πολλών άλλων τεχνικών και εντολών. Μπορείτε να βρείτε το script μου στο ιδικό repository που έχω για scripts φτιαγμένα από εμένα στο link που παρέχω παρακάτω. Δίνω ένα checklist με μερικά απο τα βασικά features που προσθέτει το script μου:
-- Μπορείς να επιλέξεις custom benchmarking modes φτιαγμένα από εμένα που είναι ουσιαστικά διάφορα standard test βάση παραμέτρων.
-- Επιτρέπει την εξαγωγή ξεχωριστών αλλά και εξαγωγή ενός μόνο συνενωμένου report για όλα τα benches που έχει επιτευχθεί με διάφορα pipeline στο cat
-- Αυτόματος καθαρισμός cache.
-- Αυτόματο warmup για cold cache start.
-- Επιλογή εξαγωγής markdown report.
-- Επιλογή αυτόματης διαγραφής των individual report και των leftover του benchmark.
-- Εμφάνιση version του hyperfine για επικύρωση.
-- Όλα τα παραπάνω είναι customizable και στα χέρια του χρήστη (π.χ. αν θέλει report ή όχι, επιλογή mode, διαγραφές κ.λπ.).
-Και στο script οπώς και στο asciinema της άσκησής μου κάνω χρήση των αλγορίθμων bubble sort και quick sort υλοποιημένους σε python.
-
-Εδώ έχω ένα embed του demo του shell script μου:
-[![asciicast](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu.svg)](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)
-
-#### Asciinema link "performance monitoring":  [Terminal Excersice - Performance Monitoring 2019108](https://asciinema.org/a/t4w9uDFtuE8GYKeyFbzadEJ6r)<br>
-#### Asciinema link για το shell script μου με όνομα "HyperHakuBench": [Demo for HyperHakuBench.sh by KuhakuNeko](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)<br>
-#### Link προς το HyperHakuBench shell script στο repository μου: [KuhakuNekoLinuxShellScripts/HyperHakuBench.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HyperHakuBench.sh)<br>
-
--->
-
-# 4ο Παραδοτέο - Εγκατάσταση systemd less linux distro
+# 4ο Παραδοτέο - Εγκατάσταση systemd-less linux distro
 Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και έχω δημιουργήσει και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει. Θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. Το [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
 Για το funtoo έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formatting, file system management, portage, grep boot-loader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και μας δόθηκε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
 
@@ -153,3 +118,40 @@
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/TarVerification.jpg" width="400px">
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/WgetStage3.jpg" width="400px">
 </p>
+
+
+# 5ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
+## Set-up ομάδας
+Για άλλη μία φορά πήρα την πρωτοβουλία να κατασκευάσω template, να κάνω post για την διαδικασία, να κάνω fork και update όλα τα submodule, deploy στο netlify, και να ρυθμίσω απαραίτητα τις σελίδες μας στο github για να λειτουργούν με κανόνες και αυτοματισμούς. Για να γίνει τόσο καλή δουλεία (που πιστεύω πως κατάφερα να κάνω) δυστυχώς δεν έχω τόσο χρόνο για να απαντάω στο κεντρικό discussion ερωτήσεων. Νιώθω πως αυτή η διαδικασία πείρε παραπάνω χρόνο σε σχέση με το φόρτο των υπολοίπων μελών, και δυστυχώς δεν μπορώ να είμαι όσο ενεργός όσο θα ήθελα να είμαι στο κεντρικό discussion αλλά θεωρώ οτι είμαι πέρα από ικανοποιητικά ενεργός στα discussion τις ομάδας στα αποθετήριά μας.<br>
+
+Αυτή την φορά, παίρνοντας παράδειγμα και από τις διαδικασίες στο μάθημα τις προηγούμενες εβδομάδες αποφάσισα να αλλάξω λίγο τα πράγματα για να ακολουθήσουμε ένα πιο δημοκρατικό πρότυπο. Συγκεκριμένα ενεργοποίησα μηχανισμούς ώστε τα PR να χρειάζονται τουλάχιστον 3 review για να είναι mergable (σκεπτόμενος και το μέγεθος της ομάδας μας), ακόμη έκανα set-up διάφορα issue και pull request templates ώστε η ομάδα να έχει ένα έτοιμο και οργανωμένο format όταν πάει να ανοίξει κάτι αντίστοιχο. Πριν από τα PR απαιτείτε επίσης να ανοιχθεί ένα issue που θα περιγράφεται το θέμα και οι αλλαγές ώστε να ενημερώσουμε έγκαιρα αν κάποιο μέλος έχει επιλέξει κάτι που είναι εκτός θέματος και φυσικά να έχουν εικόνα όλα τα μέλη το τι κάνουν τα υπόλοιπα με μία απλή μάτια ώστε να μην συμπέσουν εντελώς τα θέματα τους. Φυσικά έκανα set-up και όλα τα απαραίτητα submodule για την ομάδα και έκανα και ένα σχετικά μεγάλο [post](https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10) με οδηγίες για το πως θα οργανώσουμε την διαδικασία στο οποίο όλοι μπορούσαν να συνεισφέρουν. Αυτό το thread ανάλογα και με τις υποδείξεις και τις οδηγίες μπορεί να το μεταφέρουμε στο αποθετήριο του site του οργανισμού μας ώστε να εντοπιστεί πιο εύκολα κατά την βαθμολογική διαδικασία διότι προς το παρών στην ομάδα έχω φτιάξει ένα custom repository που κάνουμε όλες της συζητήσεις μας χωρίς να ανεβάζουμε κώδικα εκεί.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/IssueTemplatebyKuhakuNeko.png" width="340px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/PRTemplatebyKuhakuNeko.png" width="380px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/UpdatingSubmodulesWithHakUpdateSubmodules.png" width="400px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/EnablingProtectionRulesKuhakuNeko.png" width="320px">
+</p>
+
+## H δική μου συνεισφορά (Α1 + Α2)
+Για το Α μέρος του συμμετοχικού περιεχομένου αποφάσισα να βρω φωτογραφίες και να κάνω διαφάνειες και ένα χρονολόγιο για 2 παιχνίδια που έπαιξαν μεγάλο ρόλο για εμένα προσωπικά αλλά θεωρώ και πρότυπα για το κόσμο του προγραμματισμού και της ανάπτυξης ψυχαγωγικού λογισμικού καθώς έχουν να προσφέρουν πολλά από τον τρόπο τον οποίο κατασκευάζονται. Αυτά τα παιχνίδια είναι το VRChat και το Osu! και η ιστορία τους (αν και τα τελευταία χρόνια γνωρίσαν την μεγαλύτερη άνοδό τους) ξεκίνησε από πολύ παλιά. Το κοινό αυτών των παιχνιδιών είναι ότι είναι ιδιαίτερα συνδεδεμένα με τις κοινότητες τους καθώς πρόκειται για παιχνίδια που οποιοσδήποτε θα μπορούσε να συνεισφέρει στο ανοικτό λογισμικό τους (π.χ. [official Osu! στο github](https://github.com/ppy/osu)). Το υλικό και το οικοσύστημά τους βασίζετε στις κοινότητές τους με τους παίκτες να μπαίνουν στην θέση του προγραμματιστή-δημιουργού χωρίς να μένουν άπραγοι σε ένα μεγάλο εγχείρημα/project. Με την απερχόμενη άνοδο εικονικών κόσμων όπως το metaverse που κατά πάσα πιθανότητα φαίνεται να καταλήξει να βρίσκετε υπό την πλήρη επήρεια του κολοσσού της πληροφορικής, Facebook, θεώρησα ότι είναι σημαντικό να σημειώσω την σημαντικότητα του ανοικτού λογισμικού και ότι τα ανοικτά λογισμικά έχουν μία πολύ πιο μακροχρόνια πορεία και διάρκεια ζωής αφήνοντας τους χρήστες πολύ πιο ελεύθερους χωρίς την επίβλεψη και τον εγκλεισμό τους από τις ιδέες και τους στόχους των μεγάλων εταιριών.<br>
+
+Επέλεξα ένα τέτοιο θέμα γιατί θεωρώ ότι και εφαρμόζω γνώσεις μου από το μάθημα (είχα την ευκαιρία να ξανά-αναφερθώ στον πατέρα της εικονικής πραγματικότητας και αγαπημένο μου πρόσωπο της πληροφορικής Jaron Lanier), να είναι κάτι κοντά σε αυτά που πραγματικά ενδιαφέρομε και μου αρέσουν όπως φαίνετε και στο προφίλ μου στο github και στην εισαγωγή μου, και να μπορέσω να εστιάσω σε κάτι ουσιώδες που αυτά τα κομμάτια λογισμικού έχουν προσφέρει και συνεχίζουν να προσφέρουν εστιάζοντας στον τρόπο δημιουργίας του λογισμικού τους, το οικοσύστημά τους και την δομή τους.<br>
+
+#### Ο πίνακας με τις συνεισφορές μου:
+| Περιγραφή | Προσωπικό Repository Link | Πρωσοπικό Netlify Link | Netlify Link Ομάδας |
+| --- | --- | --- | --- |
+| Gallery VRChat | [vrchat.md](https://github.com/KuhakuNeko/_gallery/blob/2019108_SW/vrchat.md) | [VRChat Summary](https://p2019108-sw-pibook.netlify.app//gallery/vrchat/) | [VRChat Summary](https://gits-team-epic-pibook.netlify.app//gallery/vrchat/) |
+| Images VRChat | [Full Quality](https://github.com/KuhakuNeko/images/blob/2019108_SW/vrchat.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/2019108_SW/vrchat-thumb.jpg) |  |  |
+| Gallery Osu! | [osu.md](https://github.com/KuhakuNeko/_gallery/blob/2019108_SW/osu.md) | [Osu! Summary](https://p2019108-sw-pibook.netlify.app//gallery/osu/) | [Osu! Summary](https://gits-team-epic-pibook.netlify.app//gallery/osu/) |
+| Images Osu! | [Full Quality](https://github.com/KuhakuNeko/images/blob/2019108_SW/osu.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/2019108_SW/osu-thumb.jpg) |  |  |
+| Slides | [Βιντεοπαιχνίδια και community drive (Slides)](https://github.com/KuhakuNeko/site/blob/2019108_SW/_slides/videogamesandcommunitydrive.md) | [Διαφάνειες βιντεοπαιχνίδια και community drive](https://p2019108-sw-pibook.netlify.app//slides/videogamesandcommunitydrive/) | [Διαφάνειες βιντεοπαιχνίδια και community drive](https://gits-team-epic-pibook.netlify.app//slides/videogamesandcommunitydrive/) |
+| Timeline | [Βιντεοπαιχνίδια και community drive (Timeline)](https://github.com/KuhakuNeko/site/blob/2019108_SW/_timeline/videogamesandcommunitydrive.md) | [Χρονολόγιο βιντεοπαιχνίδια και community drive](https://p2019108-sw-pibook.netlify.app//timeline/videogamesandcommunitydrive/) | [Χρονολόγιο βιντεοπαιχνίδια και community drive](https://gits-team-epic-pibook.netlify.app//timeline/videogamesandcommunitydrive/) |
+
+<i>*Τα link προς το site της ομάδας μας θα ανανεωθούν μόλις γίνει δεκτό το pull request.</i>
+
+Με τα παραπάνω παιχνίδια ασχολούμαι πάρα πολύ καιρό και έχω δοκιμάσει να συνεισφέρω ο ίδιο επομένως δεν χρησιμοποίησα κάποια συγκεκριμένη πηγή online για αυτά που γράφω και για αυτό δεν προσθέτω συνδέσμους.
+
+#### Link προς το repository του site στο προσοπικό μου αποθετίριο: [KuhakuNeko/site](https://github.com/KuhakuNeko/site)<br>
+#### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/1](https://github.com/Git-s-PopTeamEpic/site/issues/1)<br>
+#### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/5](https://github.com/Git-s-PopTeamEpic/site/pull/5)<br>
