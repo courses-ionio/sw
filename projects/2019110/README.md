@@ -10,7 +10,7 @@
 | 2 | **[Βιογραφικό](#Βιογραφικό) - [Δημιουργία Oμάδας](#Δημιουργία-Ομάδας)** | [Κοινοποίηση Βιογραφικού](https://github.com/courses-ionio/help/discussions/248) <br>[Ομάδα στα Discussions](https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2215388) | Πολύωρη ενασχόληση με τροποποιήσεις στο template του βιογραφικού αλλά ελάχιστη χρήση terminal και αποτελεσματική συνεργασία με την ομάδα στην δημιουργία Webring   |
 | 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | Η επέκταση ενός αρχείου .bib και η προσθήκη βιβλίων στο μάθημα της python στο all_collections, ήταν μία καλή ιδέα όσον αφορά το 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα που έγινε με επιτυχία |
 | 4 | **[Warmup με freebsd](#Warmup-με-freebsd)** | [Βασικές ασκήσεις warmup σε freebsd](https://github.com/courses-ionio/help/discussions/355#discussion-3934793) | Τα κριτήρια για τη πρώτη άσκηση γραμμής εντολών θεωρώ δεν απαιτούσαν ενασχόληση σε βάθος και σε συνδυασμό με το γεγονός ότι πραγματοποίησα εκκρεμότητες από την 3η εβδομάδα, οι ασκήσεις warmup σε freebsd είναι κάτι βατό |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | **[Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικό-περιεχόμενο)** | [Οι προσθήκες μου στο help](https://github.com/OompaLoompas/site/issues/3) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -92,6 +92,24 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <img width="900" height="350" src="https://i.postimg.cc/v8WM30L1/python-compare2.jpg">
 <p/>
 <br>
+
+# Συμμετοχικό περιεχόμενο
+### Συμμετοχικό περιεχόμενο Α1+Α2
+------------------------
+Στο συγκεκριμένο παραδοτέο κληθήκαμε να κάνουμε δύο προσθήκες στο κεντρικό pibook του οργανισμού μας. Εφόσον το μάθημα μας αναφέρεται στην Τενχολογία Λογισμικού προσπάθησα να βρω κοντινά θέματα με τον όρο αυτό. Συγκεκριμένα ανέφερα το **Linux From Scratch** ένα λειτουργικό σύστημα με το οποίο οι χρήστες φτιάχνουν από την αρχή ένα σύστημα Linux και την προγραμματιστική γλώσσα για λειτουργικά συστήματα **BLISS**. 
+
+Η διαδικασία που ακολούθησα σχετικά με την προσθήκη των κατάλληλων αρχείων ήταν η εξής:
+1. Fork των απαραίτητων repositories από το OompaLoopas(site,_gallery,images) και δημιουργία demo branch
+2. Προσθήκη των 4 εικόνων σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) στο [images](https://github.com/p19pasc/images/tree/demo_2019110) και συγκεκριμένα [Linux-from-scratch](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch.jpg), [Linux-from-scratch-thumb](https://github.com/p19pasc/images/blob/demo_2019110/linux-from-scratch-thumb.jpg), [Bliss](https://github.com/p19pasc/images/blob/demo_2019110/bliss.png), [Bliss-thumb](https://github.com/p19pasc/images/blob/demo_2019110/bliss-thumb.png) οι οποίες έχουν τα απαραίτητα δικαιώματα.
+3. Προσθήκη δύο αρχείων στο [_gallery](https://github.com/p19pasc/_gallery/tree/demo_2019110) και συγκεκριμένα [linux-from-scratch.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/linux-from-scratch.md), [BLISS.md](https://github.com/p19pasc/_gallery/blob/demo_2019110/bliss.md) μέσα στα οποία υπάρχουν τα κατάλληλα categories,license(τόσο για τις φωτογραφίες όσο και για το text),tags κλπ.
+4. Όσον αφορά τις τροποποιήσεις που έγιναν στο [site](https://github.com/p19pasc/site/tree/demo_2019110).
+[Netlify](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/)
+[Netlify](https://p19pasc-site.netlify.app/gallery/bliss/)
+links για pull requests στον οργανισμό:
+[Site](https://github.com/OompaLoompas/site/pull/7)
+[_gallery](https://github.com/OompaLoompas/_gallery)
+[images](https://github.com/OompaLoompas/images)
+
 
 # Ασκήσεις γραμμής εντολών
 
