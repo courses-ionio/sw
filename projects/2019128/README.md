@@ -11,7 +11,7 @@
 | 2 | βιογραφικό και δημιουργία ομάδας | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 8 |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
 | 4 | Άσκηση γραμμής εντολών | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -57,6 +57,23 @@
 Επίσης δοκίμασα να κάνω μερικά από τα άλλα καθώς είδα πως δεν μου δούλευε και δοκίμασα το performance monitoring και το [click](https://github.com/pallets/click) με παρόμοια προβλήματα τα οποία θα δουλέψω στην συνέχεια να λύσω για το επόμενο παραδοτέο.
 Και για λειτουργικό προσπάθησα να κατεβάσω τα λογισμικά χωρίς systemd αλλά δεν τα κατάφερα και κατέβασα το free-bsd για την ώρα.
 ![image](https://user-images.githubusercontent.com/72515420/158201679-aa179e25-2b0e-4626-9872-c36511049bce.png)
+
+## ΠΑΡΑΔΟΤΕΟ 5
+Για το παραδοτέο αυτό αρχικά σαν ομάδα αποφασίσαμε σε μία διαδικασία για το πώς θα γίνουν τα νέα issue για το τι θα προσθέσει ο καθένας και το πώς θα γίνουν τα pull requests το οποίο φαίνεται [εδώ]( https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10). </br>
+Στην συνέχεια ο καθένας αποφάσισε το θέμα των διαφανειών και του timeline του οποίου θα προσθέσει και δημιουργούμε ένα issue σχετικά με αυτό το οποίο μπορεί να βρεθεί [εδώ]( https://github.com/Git-s-PopTeamEpic/site/issues/4).</br>
+Στην συνέχεια μετά από αυτό εφόσον το θέμα δεν το έχει δηλώσει κάποιος άλλος και δεν υπάρχει καμία διαφωνία για το θέμα κάνουμε τις προσθήκες και ανοίγουμε 3 pull requests 1 σε κάθε repo [site]( https://github.com/Git-s-PopTeamEpic/site/pull/7), [images]( https://github.com/Git-s-PopTeamEpic/images/pull/3) και [_gallery]( https://github.com/Git-s-PopTeamEpic/_gallery/pull/3).</br>
+Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεις:</br>
+Α1:</br>
+[Unity](https://alexpoulis.netlify.app/gallery/unity/)</br>
+![image](https://user-images.githubusercontent.com/72515420/159159337-1f7f8a22-881c-406f-8be3-fb4a08a7b021.png)
+[Unreal Engine](https://alexpoulis.netlify.app/gallery/unreal-engine/)</br>
+![image](https://user-images.githubusercontent.com/72515420/159159354-d1038c1a-4772-4f44-a797-1ecaa2ab9a02.png)
+A2:</br>
+[Timeline](https://alexpoulis.netlify.app/timeline/game-engine/)</br>
+![image](https://user-images.githubusercontent.com/72515420/159159319-fdaf2170-e7dd-4c5e-8f8f-c1e8b0d9da07.png)
+[Slides](https://alexpoulis.netlify.app/slides/game-engines/)</br>
+![image](https://user-images.githubusercontent.com/72515420/159159306-818108e8-050f-4e26-9783-eb76e1e15664.png)
+
 
 
 ## Συμμέτοχή και ομαδικότητα
