@@ -137,6 +137,7 @@ A1 :
 Πηγή : 
 
 Εικόνα 2 : C++
+
 Εικόνα από προσωπικό site : 
 
 Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/_gallery/blob/master/c%2B%2B.md) 
