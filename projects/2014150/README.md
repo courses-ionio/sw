@@ -128,7 +128,7 @@ A1 :
 
 Εικόνα 1 : Python
 
-Εικόνα από προσωπικό site : 
+Εικόνα από προσωπικό site : [Netlify Link](https://suspicious-williams-bb8c9f.netlify.app/gallery/python/)
 
 Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/_gallery/blob/master/python.md)
 
@@ -140,7 +140,7 @@ A1 :
 
 Εικόνα 2 : C++
 
-Εικόνα από προσωπικό site : 
+Εικόνα από προσωπικό site : [Netlify Link](https://suspicious-williams-bb8c9f.netlify.app/gallery/c++/)
 
 Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/_gallery/blob/master/c%2B%2B.md) 
 
