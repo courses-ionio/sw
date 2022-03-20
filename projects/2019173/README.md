@@ -89,4 +89,7 @@
 
 Για τη γλώσσα προγραμματισμού: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/programming/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1980](https://p19pasa.netlify.app//timeline/programming/).
 
+
+[Εδώ]() θα βρείτε το pull request μου.
+
 [Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
