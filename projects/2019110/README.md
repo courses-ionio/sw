@@ -112,7 +112,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 ` , `git submodule update --remote --merge
 ` και φυσικά τις απλές εντολές `git add .` , `git commit -m`, `git push` έφτασα στο αποτέλεσμα που ήθελα.
 
-Οι προσθήκες μου στο Netlify:
+Οι προσθήκες μου όπως φαίνονται στην ιστοσελίδα του Netlify:
 1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
 2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
@@ -120,6 +120,7 @@ Pull Requests στον οργανισμό:
 * [Site](https://github.com/OompaLoompas/site/pull/7)
 * [_gallery](https://github.com/OompaLoompas/_gallery)
 * [images](https://github.com/OompaLoompas/images)
+
 
 # Ασκήσεις γραμμής εντολών
 
