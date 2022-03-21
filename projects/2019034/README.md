@@ -115,7 +115,7 @@
 <br><br>
 <h1><span id="Συμμετοχικό Περιεχόμενο A1+A2">(5) Συμμετοχικό Περιεχόμενο A1+A2</span></h1>
 
-Το πέμπτο παραδοτέο είχε να κάνει με το συμμετοχικό περιεχόμενο Α1 και Α2. Έπρεπε να κάνουμε κάποιες προσθήκες που θα σχετίζονταν με την τεχνολογία λογισμικού στο [forked site](https://github.com/OompaLoompas/site) από την [ομάδα μας](https://github.com/OompaLoompas), το κάθε μέλος ξεχωριστά.
+Το πέμπτο παραδοτέο είχε να κάνει με το συμμετοχικό περιεχόμενο Α1 και Α2. Έπρεπε να κάνουμε κάποιες προσθήκες που θα σχετίζονταν με την τεχνολογία λογισμικού στο [forked site](https://github.com/OompaLoompas/site) από την [ομάδα μας](https://github.com/OompaLoompas), το κάθε μέλος ξεχωριστά. Για αρχή έπρεπε να κάνω `git clone` το fork μου του forked site και να διαγράψω τα ήδη υπάρχον submodules *images* και *_gallery* με `git rm` και να το συνδέσω με τα δικά μου fork αυτών με `git submodule add`. Ύστερα κλασικά `git add .`, `git commit -m`, `git push` και `git pull`.
 <br>
   
 Για το Α1 μέρος του παραδοτέου έπρεπε να προσθέσουμε δύο νέες εικόνες (ελεύθερα πνευματικά δικαιώματα ή επιτρεπτή εμπορική χρήση) στο submodule [images](https://github.com/OompaLoompas/images/tree/master) με μια λεζάντα σύντομης περιγραφής με σημαντικά στοιχεία γι' αυτές στο submodule [_gallery](https://github.com/OompaLoompas/_gallery/tree/master). Έτσι λοιπόν πρόσθεσα **τέσσερεις φωτογραφίες** (δύο κανονικού μεγέθους και δύο πλάτους 160 πίξελ για thumbnail), δηλαδή δύο για το **Manjaro Linux** που είναι μια επαγγελματική Linux διανομή που βασίζεται στο Arch Linux και είναι ένα ιδανικό λειτουργικό σύστημα για όσους επιθυμούν να αντικαταστήσουν αυτό που χρησιμοποιούν, και δύο για το **Scikit-Learn** που αποτελεί μία βιβλιοθήκη μηχανικής εκμάθησης λογισμικού για τη γλώσσα προγραμματισμού Python.
@@ -145,6 +145,12 @@
 | [στο images](https://github.com/OompaLoompas/images/pull/3) |
 | [στο _gallery](https://github.com/OompaLoompas/_gallery/pull/3) |
 | [στο site](https://github.com/OompaLoompas/site/pull/8) |
+
+<br><h5>Εργαλεία που χρησιμοποίησα:
+* **[Netlify](https://www.netlify.com/)**
+* **[Git](https://git-scm.com/)**
+* **[Manjaro Linux](https://en.wikipedia.org/wiki/Manjaro)**
+* **[Scikit-Learn](https://en.wikipedia.org/wiki/Scikit-learn)**</h5>
 
 <br><br>
 # Ομαδικότητα και Συνεργασία
