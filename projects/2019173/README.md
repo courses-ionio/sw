@@ -52,7 +52,7 @@
 
 [Εδώ θα βρείτε το θέμα που άνοιξα για την συνεισφορά(δηλαδή, το issue μου).](https://github.com/ioniodi/sitegr/issues/251)
 
-[Εδώ θα βρείτε το pull request μου.]()
+[Εδώ]()  θα βρείτε το pull request μου στο sitegr.
 
 [Εδώ](https://tender-saha-e93d2d.netlify.app/) είναι η ιστοσελίδα που έκανα μέσω του Netlify.
 
@@ -92,8 +92,8 @@
 Για τη γλώσσα προγραμματισμού: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/programming/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1991](https://p19pasa.netlify.app//timeline/programming/).
 
 
-[Εδώ]() θα βρείτε το pull request μου.
+[Εδώ]() θα βρείτε το pull request μου στην ομάδα μου.
 
 [Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
 
-
+[Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
