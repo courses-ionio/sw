@@ -211,7 +211,7 @@ Pull Requests στον οργανισμό:
 </details>
 
 <details>
- <summary><b>Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></b></summary>
+ <summary><b>Η επίβλεψη μου σχετικά με το παραδοτέα αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></b></summary>
   <p>
    <ul>
     <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue Αιμίλιου Παυλίδη</a></li>
@@ -224,13 +224,25 @@ Pull Requests στον οργανισμό:
 </details>
 
 <details>
- <summary><b>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα αιτήματα ενσωμάτωσης</b></summary>
+ <summary><b>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα παραδοτέα αιτήματα ενσωμάτωσης</b></summary>
   <p>
    <ul>
     <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
     <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
     <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
     <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
+   </ul> 
+ </p>
+</details>
+
+<details>
+ <summary><b>Σχετικά με τον οργανισμό</b></summary>
+  <p>
+   <ul>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href="></a></li>
+    <li><a href=""></a></li>
    </ul> 
  </p>
 </details>
