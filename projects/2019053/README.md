@@ -230,7 +230,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Η [ομάδα](https://github.com/OompaLoompas) μας αποτελείται από 12 άτομα, οπότε η ανάθεση ρόλων ήταν αναγκαία για την ομαλή λειτουργία του μικρού οργανισμού μας. Ο ιδρυτής της ομάδας Ιάκωβος έπειτα από εποικινωνία με τους owners (εμένα, τον Θωμά Σπυρίδων Πασχάλη και τον Βασίλη Καμπάνι) ανέβασε [αυτή](https://github.com/OompaLoompas/help/discussions/8) την ανάρτηση στην οποία έδωσε βασικές οδηγίες για την διαδικασία ενσωμάτωσης των αιτημάτων στην ομάδα και ανέθεσε ως reviewers εμένα και τον Θωμά. Το κάθε μέλος της ομάδας που επιθυμεί την ένταξη του περιεχομένου του, ωφείλει να κάνει issue στο αποθετήριο [OompaLoompas/site](https://github.com/OompaLoompas/site) και αφού λάβει έγκρυση μέσω των κατάλληλων σχολίων να υλοποιήσει τα 3 αιτήματα ενσωμάτωσης στα αποθετήρια ([images](https://github.com/OompaLoompas/images), [gallery](https://github.com/OompaLoompas/_gallery) και [site](https://github.com/OompaLoompas/site)). Οι οδηγίες συγκεκριμένα για την υλοποίηση των issues περιγράφονται στην [ανάρτηση](https://github.com/OompaLoompas/help/discussions/10) του συμφοιτητή μου Θωμά.
+&nbsp;&nbsp;&nbsp;&nbsp;Η [ομάδα](https://github.com/OompaLoompas) μας αποτελείται από 12 άτομα, οπότε η ανάθεση ρόλων ήταν αναγκαία για την ομαλή λειτουργία του μικρού οργανισμού μας. Ο ιδρυτής της ομάδας Ιάκωβος έπειτα από εποικινωνία με τους owners (εμένα, τον Θωμά Σπυρίδων Πασχάλη και τον Βασίλη Καμπάνι) ανέβασε [αυτή](https://github.com/OompaLoompas/help/discussions/8) την ανάρτηση στην οποία έδωσε βασικές οδηγίες για την διαδικασία ενσωμάτωσης των αιτημάτων στην ομάδα και ανέθεσε ως reviewers εμένα και τον Θωμά. Το κάθε μέλος της ομάδας που επιθυμεί την ένταξη του περιεχομένου του, ωφείλει να κάνει issue στο αποθετήριο [OompaLoompas/site](https://github.com/OompaLoompas/site) και αφού λάβει έγκρυση μέσω των κατάλληλων σχολίων να υλοποιήσει τα 3 αιτήματα ενσωμάτωσης στα αποθετήρια ([images](https://github.com/OompaLoompas/images), [gallery](https://github.com/OompaLoompas/_gallery) και [site](https://github.com/OompaLoompas/site)). Οι οδηγίες συγκεκριμένα για την υλοποίηση των issues περιγράφονται στην [ανάρτηση](https://github.com/OompaLoompas/help/discussions/10) του συμφοιτητή μου Θωμά. Κάτι που θα ήθελα να προσθέσω είναι πως η ένωση των submodules με το βασικό αποθετήριο υλοποιήθηκε από εμένα.
 
 <br /> <br />
 
@@ -238,4 +238,19 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Όπως προανέφερα οι εικόνες του συμμετοχικού περιεχομένου είναι δημιουργημένες από εμένα και συγκεκριμένα τραβήχτηκαν στο περιβάλλον Ubuntu 20.04. Αρχικά αξίζει να σημειωθεί πως το εργαλείο gedit ήταν ήδη εγκατεστημένο στο λειτουργικό μου σύστημα και η εικόνα σχετικά με το markdown είναι παρμένη από το αρχείο που πρόσθεσα ως 3ο παραδοτέο στο αίτημα ενσωμάτωσης στην [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/). Τα κείμενα που χρησιμοποιήθηκαν για τα αρχεία στο αποθετήριο [gallery](https://github.com/AimiliosPavlidis2001/_gallery) βασίστηκαν κυρίως σε πληροφορίες που βρέθηκαν στο [wikipedia](https://www.wikipedia.org/). Όσον αφορά τα [timelines](https://pibook.epidro.me/timeline/) και [slides](https://pibook.epidro.me/slides), δημιούργησα ένα [νέο timeline](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) το οποίο ονόμασα **γλώσσες σήμανσης** και περιλαμβάνει τη τεχνολογία markdown. Επίσης πρόσθεσα στο timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/) το εργαλείο gedit και τέλος ακολούθησε η προσθήκη του gedit και της markdown στο slide [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/).
+&nbsp;&nbsp;&nbsp;&nbsp;Όπως προανέφερα οι εικόνες του συμμετοχικού περιεχομένου είναι δημιουργημένες από εμένα και συγκεκριμένα τραβήχτηκαν στο περιβάλλον Ubuntu 20.04. Αρχικά αξίζει να σημειωθεί πως το εργαλείο gedit ήταν ήδη εγκατεστημένο στο λειτουργικό μου σύστημα και η εικόνα σχετικά με το markdown είναι παρμένη από το αρχείο που πρόσθεσα ως 3ο παραδοτέο στο αίτημα ενσωμάτωσης στην [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/). Τα κείμενα που χρησιμοποιήθηκαν για τα αρχεία στο αποθετήριο [gallery](https://github.com/AimiliosPavlidis2001/_gallery) βασίστηκαν κυρίως σε πληροφορίες που βρέθηκαν στο [wikipedia](https://www.wikipedia.org/). Όσον αφορά τα [timelines](https://pibook.epidro.me/timeline/) και [slides](https://pibook.epidro.me/slides), δημιούργησα ένα [νέο timeline](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) το οποίο ονόμασα **γλώσσες σήμανσης** και περιλαμβάνει τη τεχνολογία markdown. Επίσης πρόσθεσα στο timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/) το εργαλείο gedit και τέλος ακολούθησε η προσθήκη του gedit και της markdown στο slide [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/). Παρακάτω παραθέτω τους κατάλληλους συνδέσμους του πέμπτου παραδοτέου σε μορφή πίνακα για την εύκολη πλόηγησή τους.
+
+<br /> <br />
+
+|Demo-site | Pull requests | Issue |
+| --- | --- | --- |
+| Timeline [markup-languages](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) |  Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/4) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/4) |
+| Timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/)|  Αίτημα ενσωμάτωσης για [gallery](https://github.com/OompaLoompas/_gallery/pull/4) |  |
+|  Slides [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/6)|  |
+
+<br />
+
+| | Συμμετοχή και Ομαδικότητα για τη 5η εβδομάδα |
+| --- | --- |
+| 1 | **Reviewer** στην ομάδα μου |
+| 2 | Ένωση των submodules με το βασικό αποθετήριο της ομάδας |
