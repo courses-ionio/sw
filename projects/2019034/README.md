@@ -111,10 +111,40 @@
 <p align="center">
 <a href="https://asciinema.org/a/477076" target="_blank"><img src="https://asciinema.org/a/477076.svg" /></a>
 <p/>
-<br><br>
 
+<br><br>
 <h1><span id="Συμμετοχικό Περιεχόμενο A1+A2">(5) Συμμετοχικό Περιεχόμενο A1+A2</span></h1>
-Προς συμπλήρωση...
+
+Το πέμπτο παραδοτέο είχε να κάνει με το συμμετοχικό περιεχόμενο Α1 και Α2. Έπρεπε να κάνουμε κάποιες προσθήκες που θα σχετίζονταν με την τεχνολογία λογισμικού στο [forked site](https://github.com/OompaLoompas/site) από την [ομάδα μας](https://github.com/OompaLoompas), το κάθε μέλος ξεχωριστά.
+<br>
+  
+Για το Α1 μέρος του παραδοτέου έπρεπε να προσθέσουμε δύο νέες εικόνες (ελεύθερα πνευματικά δικαιώματα ή επιτρεπτή εμπορική χρήση) στο submodule [images](https://github.com/OompaLoompas/images/tree/master) με μια λεζάντα σύντομης περιγραφής με σημαντικά στοιχεία γι' αυτές στο submodule [_gallery](https://github.com/OompaLoompas/_gallery/tree/master). Έτσι λοιπόν πρόσθεσα **τέσσερεις φωτογραφίες** (δύο κανονικού μεγέθους και δύο πλάτους 160 πίξελ για thumbnail), δηλαδή δύο για το **Manjaro Linux** που είναι μια επαγγελματική Linux διανομή που βασίζεται στο Arch Linux και είναι ένα ιδανικό λειτουργικό σύστημα για όσους επιθυμούν να αντικαταστήσουν αυτό που χρησιμοποιούν, και δύο για το **Scikit-Learn** που αποτελεί μία βιβλιοθήκη μηχανικής εκμάθησης λογισμικού για τη γλώσσα προγραμματισμού Python.
+<br>
+<p align="center">
+<img width="724" height="450" src="https://i.postimg.cc/t4T7cXgH/Merged-Images.png">
+<p/>
+  
+Για το Α2 μέρος έπρεπε να εισάγω τις παραπάνω προσθήκες μου σε σχετικές διαφάνειες και χρονολόγια της ιστοσελίδας. Συγκεκριμένα, το **Manjaro Linux** το πρόσθεσα σε ένα σετ διαφανειών με όνομα **Λειτουργικά Συστήματα** που δημιούργησα εγώ, καθώς δεν υπήρχε άλλο που να ταίριαζε. Ύστερα, το εισήγαγα στο χρονολόγιο **Λειτουργικά Συστήματα και Εφαρμογές** καθώς εκεί ταίριαζε. Το **Scikit-Learn** το πρόσθεσα στο σετ διαφανειών με όνομα **Εργαλεία και Τεχνικές** καθώς σαν βιβλιοθήκη αποτελεί εργαλείο για τον προγραμματισμό και μετά το εισήγαγα στο χρονολόγιο **Γλώσσες Προγραμματισμού** γιατί συνδέεται άμεσα με τον προγραμματισμό.
+<br>
+<p align="center">
+<img width="956" height="274" src="https://i.postimg.cc/8cNzmGY9/Merged-Imagesman.png">
+<img width="840" height="311" src="https://i.postimg.cc/8km5PFJS/Merged-Imagessci.png">
+<p/>
+  
+Στο τέλος της όλης διαδικασίας έκανα **pull request** στην ομάδα μου ξεχωριστά στα **site, images και _gallery**, έχοντας θέσει reviewers ώστε να ελέγξουν για τυχόν λάθη στις υλοποιήσεις μου. Όλα τα παραπάνω φαίνονται στον παρακάτω πίνακα:
+ 
+|**Manjaro Linux demo site**|**Scikit-Learn demo site**|
+| --- | --- |
+|[Manjaro Linux](https://u2nmd-site.netlify.app/gallery/manjaro/)|[Scikit-Learn](https://u2nmd-site.netlify.app/gallery/scikit-learn/)|
+|[Λειτουργικά Συστήματα](https://u2nmd-site.netlify.app//slides/operating-systems/)|[Εργαλεία και Τεχνικές](https://u2nmd-site.netlify.app//slides/tools/)|
+|[Λειτουργικά Συστήματα και Εφαρμογές](https://u2nmd-site.netlify.app//timeline/os-apps/)|[Γλώσσες Προγραμματισμού](https://u2nmd-site.netlify.app//timeline/programming/)|
+<br>
+
+|**Pull Requests**|
+| --- |
+| [στο images](https://github.com/OompaLoompas/images/pull/3) |
+| [στο _gallery](https://github.com/OompaLoompas/_gallery/pull/3) |
+| [στο site](https://github.com/OompaLoompas/site/pull/8) |
 
 <br><br>
 # Ομαδικότητα και Συνεργασία
