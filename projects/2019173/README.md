@@ -92,7 +92,9 @@
 Για τη γλώσσα προγραμματισμού: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/programming/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1991](https://p19pasa.netlify.app//timeline/programming/).
 
 
-[Εδώ]() θα βρείτε το pull request μου στην ομάδα μου.
+[Εδώ](https://github.com/IonianUniversity2019/site/pull/2) θα βρείτε το pull request μου στην ομάδα μου.
+
+[Εδώ](https://github.com/IonianUniversity2019/site/issues/1) θα βρείτε το issue μου.
 
 [Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
 
