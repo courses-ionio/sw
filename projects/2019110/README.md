@@ -1,8 +1,9 @@
 # Τεχνολογία λογισμικού
 **Ονοματεπώνυμο:** Θωμάς-Σπυρίδων Πασχάλης   
 **ΑΜ:** Π2019110      
-**profile:** https://github.com/p19pasc  
-**Ομάδα:** [OompaLoompas](https://github.com/OompaLoompas)
+**profile:** [p19pasc](https://github.com/p19pasc)  
+**Ομάδα:** [OompaLoompas](https://github.com/OompaLoompas)  
+**Ιδιότητα ομάδας:** Owner
 <br>
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
