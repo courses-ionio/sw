@@ -113,7 +113,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 ` , `git submodule update --remote --merge
 ` και φυσικά τις απλές εντολές `git add .` , `git commit -m`, `git push` έφτασα στο αποτέλεσμα που ήθελα.
 
-Οι προσθήκες μου όπως φαίνονται στην ιστοσελίδα του Netlify:
+Οι προσθήκες μου όπως φαίνονται στην προσωπική ντέμο ιστοσελίδα του Netlify:
 1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
 2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
@@ -122,6 +122,8 @@ Pull Requests στον οργανισμό:
 * [_gallery](https://github.com/OompaLoompas/_gallery)
 * [images](https://github.com/OompaLoompas/images)
 
+Η ιστοσελίδα του οργανισμού:
+* [εδω](https://test-oompas.netlify.app/)
 
 # Ασκήσεις γραμμής εντολών
 
@@ -192,7 +194,7 @@ Pull Requests στον οργανισμό:
 <br>
 <br>
 <details>
-<summary><b>Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions</b></summary>
+<summary>Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions(help)</summary>
  <p>
   <ul>
    <li><a href="https://github.com/courses-ionio/help/discussions/180#discussion-3902197">Επιλογή βιογραφικού</a></li>
@@ -202,7 +204,7 @@ Pull Requests στον οργανισμό:
 </details>
 
 <details>
- <summary><b>Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions</b></summary>
+ <summary>Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions(help)</summary>
   <p>
    <ul>
     <li><a href="https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310">Διόρθωση link αναφοράς</a></li>
@@ -211,7 +213,7 @@ Pull Requests στον οργανισμό:
 </details>
 
 <details>
- <summary><b>Η επίβλεψη μου σχετικά με το παραδοτέα αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></b></summary>
+ <summary>Η επίβλεψη μου σχετικά με τα παραδοτέα: αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></summary>
   <p>
    <ul>
     <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue Αιμίλιου Παυλίδη</a></li>
@@ -224,7 +226,7 @@ Pull Requests στον οργανισμό:
 </details>
 
 <details>
- <summary><b>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα παραδοτέα αιτήματα ενσωμάτωσης</b></summary>
+ <summary>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα παραδοτέα: αιτήματα ενσωμάτωσης</summary>
   <p>
    <ul>
     <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
@@ -237,12 +239,20 @@ Pull Requests στον οργανισμό:
 
 <details>
  <summary><b>Σχετικά με τον οργανισμό</b></summary>
-  <p>
+  <p><br>
+   Ως <b>owner</b> υπάρχουν κάποιες σημαντικές ανακοινώσεις από εμένα προς την ομάδα στα παρακάτω λινκ
+   <details>
+   <summary>test</summary>
+    <p>
+     <ul>
+      <li><a href=""></a></li>
+    </ul>
+    </p>
+    </details>
    <ul>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href="></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/OompaLoompas/help/discussions/3">Ανακοίνωση για την δημιουργία του webring</a></li>
+    <li><a href="https://github.com/OompaLoompas/help/discussions/10">Σχετικά με τον τρόπο δέσμευσης θέματος στον οργνανισμό στο συμμετοχικό περιεχόμενο Α1+Α2</a></li>
+    <li><a href="https://github.com/OompaLoompas/help/discussions/13">Γενική οδηγία για το πως να εργαστούν τα μέλη της ομάδας με σκοπό την ομαλότητα στα PR και δημιουργία της ιστοσελίδας</a></li>
    </ul> 
  </p>
 </details>
