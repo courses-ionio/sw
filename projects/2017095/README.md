@@ -11,7 +11,7 @@
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
 | 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α) | https://github.com/courses-ionio/help/discussions/423 | |
-| 6 | [Άσκηση γραμμής εντολών 2](#6-ntfy) | | |
+| 6 | [Άσκηση γραμμής εντολών 2](#6-ntfy) |  https://github.com/courses-ionio/help/discussions/457 | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
