@@ -48,7 +48,25 @@
 <img width="700" height="500" src="https://i.postimg.cc/tTgXMRqn/cv-png.png">
 <p/>
 <br>
-
+<details>
+<summary>Σχετικά με τις συζητήσεις</summary>
+ <p>
+  <ul>
+   <li><a href="https://github.com/courses-ionio/help/discussions/180#discussion-3902197">Απορία για επιλογή βιογραφικού</a></li>
+   <li><a href="https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310">Διόρθωση link αναφοράς</a></li>
+  </ul>
+ </p>
+</details>
+<details>
+ <summary>Ανακοίνωση στον οργανισμό</summary>
+ <p>
+  <ul>
+   <li><a href="https://github.com/OompaLoompas/help/discussions/3">Ανακοίνωση - δημιουργία του webring</a></li>
+ </ul>
+ </p>
+ </summary>
+</details>
+ 
 ## Δημιουργία Ομάδας
 
 Η εύρεση ομάδας **[OompaLoompas](https://github.com/OompaLoompas)** ήταν εύκολη και άμεση αφού είχε γίνει κατόπιν συνεννόησης με τον δημιουργό της, στον χώρο του πανεπιστημίου, μέσα στην οποία εντάχθηκαν άτομα που γνωρίζω σε προσωπικό επίπεδο αλλά και νέα μέλη που θα γνωρίσω στην πορεία. Κατά την άποψη μου, κατέχουμε κοινούς στόχους όπως αναφέρονται στις εισαγωγές μας και είμαστε πρόθυμοι να συνεργαστούμε για το καλύτερο αποτέλεσμα.<br>
@@ -93,8 +111,34 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <img width="900" height="350" src="https://i.postimg.cc/v8WM30L1/python-compare2.jpg">
 <p/>
 <br>
-
-# Συμμετοχικό περιεχόμενο
+<br>
+<details>
+ <summary>Η επίβλεψη μου σχετικά με το πρώτο αίτημα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue AimiliosPavlidis2001</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116">Issue vasilikampani</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133">Issue u2nmd</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600">Pull request AimiliosPavlidis2001</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/49#issuecomment-1074988877">Pull request vasiliskampani</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319">Pull request u2nmd</a></li>
+   </ul>
+ </p>
+</details>
+<details>
+ <summary>Παρατηρήσεις και υπενθυμίσεις σε issues</summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
+    <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
+    <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
+   </ul> 
+  </p>
+</details>
+<br>
+    
+# Συμμετοχικό περιεχόμενο 
 ### Συμμετοχικό περιεχόμενο Α1+Α2
 ------------------------
 Στο συγκεκριμένο παραδοτέο κληθήκαμε να κάνουμε δύο προσθήκες στο κεντρικό pibook του οργανισμού μας. Εφόσον το μάθημα μας αναφέρεται στην Τενχολογία Λογισμικού, προσπάθησα να βρω κοντινά θέματα με τον όρο αυτό. Συγκεκριμένα ανέφερα το **Linux From Scratch** ένα λειτουργικό σύστημα με το οποίο οι χρήστες φτιάχνουν από την αρχή ένα σύστημα Linux και την προγραμματιστική γλώσσα για λειτουργικά συστήματα **BLISS** η οποία ήταν πολύ γνωστή μέχρι να εμφανιστεί η γλώσσα C. Κάποιες ιδέες ακόμα που είχα βέβαια, ήταν το λειτουργικό σύστημα **System 6** όμως έκανα την επιλογή να βάλω 2 διαφορετικα θέματα και η γλώσσα **Modula 2** που ήταν ήδη στην ιστοσελίδα.<br>
@@ -124,9 +168,19 @@ Pull Requests στον οργανισμό:
 
 Η ιστοσελίδα του οργανισμού:
 * [εδω](https://test-oompas.netlify.app/)
+<br>
+<details>
+ <summary>Δημιουργία ανακοινώσεων στον οργανισμό</summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/OompaLoompas/help/discussions/10">Σχετικά με τον τρόπο δέσμευσης θέματος στον οργνανισμό στο συμμετοχικό περιεχόμενο Α1+Α2</a></li>
+    <li><a href="https://github.com/OompaLoompas/help/discussions/13">Γενική οδηγία για το πως να εργαστούν τα μέλη της ομάδας με σκοπό την ομαλότητα στα PR και δημιουργία της ιστοσελίδας</a></li>
+   </ul> 
+ </p>
+</details>
+<br> 
 
 # Ασκήσεις γραμμής εντολών
-
 ### Warmup με freebsd
 ------------------------
 
@@ -180,8 +234,15 @@ Pull Requests στον οργανισμό:
       * Εμφάνισα τον κώδικα του simple.html αρχείου σε μορφή κειμένου με την εντολή `cat simple.html | w3m -T text/html` και με μια μικρή επέκταση `cat simple.html | w3m -dump -         T text/html>file.txt` το κείμενο αυτό αποθηκεύεται σε ένα νέο .txt αρχείο που δημιουργούμε.  
       
    &ensp;&ensp;&ensp;**Όλα αυτά βρίσκονται στο συγκεκριμένο [asciinema](https://asciinema.org/a/bDoU1tSwvtReQFhYFzXItZMw2)**    
-    <br><br>  
-    
+    <br>
+<details>
+ <summary>Απορία στο help</summary>
+  <p>
+   <li><a href="https://github.com/courses-ionio/help/discussions/197#discussion-3904180">Σχετικά με asciinema</a></li>
+  </p>
+ </summary>
+</details>
+
 ### Συμπέρασμα  
 
 Κάτι το οποίο θέλω να τονίσω είναι, πως τα εργαλεία που χρησιμοποίησα παρόλο που φαίνονται απλά και ανούσια κατάλαβα ότι διαδραματίζουν έναν σημαντικό ρόλο. Σε συστήματα         όπως αυτό που χρησιμοποίησα, στο οποίο δεν υπήρχε γραφικό περιβάλλον, στην περίπτωση που αποτελούσε το βασικό μου υπολογιστικό σύστημα με κάποιο τρόπο θα έπρεπε να αντλήσω πληροφορίες       από το διαδίκτυο και να επισκεφτώ ιστοσελίδες(οι οποίες όμως βασίζονται σε απλό κώδικα html), κάτι το οποίο γίνεται με τα παραπάνω εργαλεία σε καθημερινή βάση. Ακόμη με την απλή χρήση του pipeline που έκανα κατάλαβα ότι     έχει μεγάλη αξία και μπορούν να γίνουν πολύ καλοί συνδυασμοί εργαλείων και εντολών.
@@ -191,71 +252,6 @@ Pull Requests στον οργανισμό:
 # Η ενεργή συμμετοχή μου στις ζητήσεις
 
 Τα discussions για εμένα ήταν κάτι που δεν έδινα μεγάλη σημασία, διότι θεωρούσα πως δεν έχουν κάτι να μου προσφέρουν. Η σκέψη μου όμως άλλαξε από τη στιγμή που έγινα μέλος μίας μεγάλης ομάδας και προβιβάστικα σε owner, που σημαίνει πως κρίνεται απαραίτητο να επικοινωνώ τόσο με τον αρχηγό της ομάδας και τους υπόλοιπους owners όσο και με τα members, αναρτόντας διαρκώς ενημερώσεις(anouncements). Μεγαλύτερο αντίκτυπο όμως είχε η λύση που έλαβα από έναν συμφοιτητή μου, όπως έχω αναφέρει στην αναφορά μου, σε ένα πρόβλημα σχετικά με το εργαλείο **asciinema**, αφού δεν κατάφερνα να βρω πουθενά τη λύση στο διαδίκτυο.
-<br>
-<br>
-<details>
-<summary>Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions(help)</summary>
- <p>
-  <ul>
-   <li><a href="https://github.com/courses-ionio/help/discussions/180#discussion-3902197">Επιλογή βιογραφικού</a></li>
-   <li><a href="https://github.com/courses-ionio/help/discussions/197#discussion-3904180">Σχετικά με asciinema</a></li>
-  </ul>
- </p>
-</details>
-
-<details>
- <summary>Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions(help)</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310">Διόρθωση link αναφοράς</a></li>
-   </ul>
-  </p>
-</details>
-
-<details>
- <summary>Η επίβλεψη μου σχετικά με τα παραδοτέα: αιτήματα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue Αιμίλιου Παυλίδη</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116">Issue Βασίλη Καμπάνι</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133">Issue u2nmd</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600">Pull request Αιμίλιου Παυλίδη</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319">Pull request u2nmd</a></li>
-   </ul>
- </p>
-</details>
-
-<details>
- <summary>Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα παραδοτέα: αιτήματα ενσωμάτωσης</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
-   </ul> 
- </p>
-</details>
-
-<details>
- <summary><b>Σχετικά με τον οργανισμό</b></summary>
-  <p><br>
-   Ως <b>owner</b> υπάρχουν κάποιες σημαντικές ανακοινώσεις από εμένα προς την ομάδα στα παρακάτω λινκ
-   <details>
-   <summary>test</summary>
-    <p>
-     <ul>
-      <li><a href=""></a></li>
-    </ul>
-    </p>
-    </details>
-   <ul>
-    <li><a href="https://github.com/OompaLoompas/help/discussions/3">Ανακοίνωση για την δημιουργία του webring</a></li>
-    <li><a href="https://github.com/OompaLoompas/help/discussions/10">Σχετικά με τον τρόπο δέσμευσης θέματος στον οργνανισμό στο συμμετοχικό περιεχόμενο Α1+Α2</a></li>
-    <li><a href="https://github.com/OompaLoompas/help/discussions/13">Γενική οδηγία για το πως να εργαστούν τα μέλη της ομάδας με σκοπό την ομαλότητα στα PR και δημιουργία της ιστοσελίδας</a></li>
-   </ul> 
- </p>
-</details>
 <br>
 <br>
 
