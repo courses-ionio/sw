@@ -8,12 +8,12 @@
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτέο-2-βιογραφικό-και-δημιουργία-ομάδας) | [Link](https://github.com/courses-ionio/help/discussions/282) | |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link](https://github.com/courses-ionio/help/discussions/345) | |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4-άσκηση-γραμμής-εντολών) | [Link](https://github.com/courses-ionio/help/discussions/371) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5-συμμετοχικό-περιεχόμενο-a1a2) | [Link]() | |
+| 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Link]() | |
+| 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
 
@@ -27,7 +27,7 @@
 
 ## Παραδοτέο 3 (Αίτημα ενσωμάτωσης στην ιστοσελίδα)
 
-Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε ένα pull request στην ανεπίσημη ιστοσελίδα του τμήματος με σκοπό να προσθέσουμε κάτι καινούριο ή να ενημερώσουμε κάτι υπάρχον. Εγώ αποφάσισα να ενημέρωσα το ωρολόγιο πρόγραμμα του Δ' Εαρινού Εξαμήνου στο [sitegr](https://github.com/ioniodi/sitegr). Μπορείτε να βρείτε το live demo [εδώ](https://rafael5gr2-sitegr.netlify.app/timetables/sem_d/). Την συγκεκριμένη αλλαγή την έκανα αφού πήρα το green light στο [issue](https://github.com/ioniodi/sitegr/issues/292) που άνοιξα και αμέσως μετά έκανα [pull request](https://github.com/ioniodi/all_collections/pull/19) στο repository [all_collections](https://github.com/ioniodi/all_collections) το οποίο χρησιμοποιείται ως submodule στο repository sitegr που ανέφερα πιο πάνω.
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε ένα pull request στην ανεπίσημη ιστοσελίδα του τμήματος με σκοπό να προσθέσουμε κάτι καινούριο ή να ενημερώσουμε κάτι υπάρχον. Εγώ αποφάσισα να ενημέρωσα το ωρολόγιο πρόγραμμα του Δ' Εαρινού Εξαμήνου στο [sitegr](https://github.com/ioniodi/sitegr). Μπορείτε να βρείτε το live demo [εδώ](https://rafael5gr2-sitegr.netlify.app/timetables/sem_d/). Την συγκεκριμένη αλλαγή την έκανα αφού πήρα το green light στο [issue](https://github.com/ioniodi/sitegr/issues/292) που άνοιξα και αμέσως μετά έκανα [pull request](https://github.com/ioniodi/all_collections/pull/19) στο repository [all_collections](https://github.com/ioniodi/all_collections) το οποίο χρησιμοποιείται ως submodule στο repository sitegr που ανέφερα πιο πάνω. Επιπλέον μπορείτε να βρείτε παρακάτω μερικά asciinema videos (**Προειδοποίηση:** Επειδή έκανα copy-paste τα ονόματα των καθηγητών στο sem_d.md, το asciinema δείχνει περίεργα τα περιεχόμενα του αρχείου.): [Asciinema Video 1](https://asciinema.org/a/474149), [Asciinema Video 2](https://asciinema.org/a/474158) και [Asciinema Video 3](https://asciinema.org/a/475372).
 
 ## Παραδοτέο 4 (Άσκηση γραμμής εντολών)
 
@@ -39,3 +39,10 @@
 
 ![unknown3](https://user-images.githubusercontent.com/58133603/158073329-faa0f695-2116-4cb3-b57c-19ff41907e93.png)
 
+## Παραδοτέο 5 (Συμμετοχικό περιεχόμενο A1+A2)
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε δύο εικόνες και μία λεζάντα για καθεμία από αυτή στο βιβλίο του μαθήματος και στη συνέχεια να δημιουργήσουμε ένα καινούργιο σετ διαφανειών και ένα καινούργιο χρονολόγιό στα οποία θα εμπεριέχονται οι δύο εικόνες με τις λεζάντες τους. Εγώ αποφάσισα να ασχοληθώ με δύο λειτουργικά συστήματα το [Plan9](https://9p.io/plan9/) και το [Devuan](https://www.devuan.org/). Στα παρακάτω link μπορείτε να βρείτε τα repositories του βιβλίου, ένα asciinema video και ένα live demo του βιβλίου με τις προσθήκες που έχω κάνει: [Repository site](https://github.com/rafael5gr2/site/tree/2019116), [Repository images](https://github.com/rafael5gr2/images/tree/2019116), [Repository _gallery](https://github.com/rafael5gr2/_gallery/tree/2019116), [Asciinema Video](https://asciinema.org/a/479763) και [Live Demo](https://rafael5gr2-site.netlify.app/).
+
+## Παραδοτέο 6 (Άσκηση γραμμής εντολών)
+
+TODO
