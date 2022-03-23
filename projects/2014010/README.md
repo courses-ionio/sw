@@ -8,10 +8,10 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Παρουσίαση Προόδου 1](https://github.com/courses-ionio/help/discussions/86)|  |
-| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Παρουσίαση Πρόοδου 2](https://github.com/courses-ionio/help/discussions/208) |  |
+| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Παρουσίαση Προόδου 2](https://github.com/courses-ionio/help/discussions/208) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/308) | |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 4](https://github.com/courses-ionio/help/discussions/388) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Παρουσίαση Προόδου 5](https://github.com/courses-ionio/help/discussions/453) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -98,6 +98,32 @@ TL;DR --> Ευελπιστώ να μάθω όσα περισσότερα γίν�
 Ένα πρόβλημα που αντιμετώπισα, αν και δε σχετίζεται με το λογισμικό, παρά με το Oracle Virtual Box, είναι ότι αδυνατούσα να ενσωματώσω τον κέρσορα μέσα σε αυτό, με αποτέλεσμα να χρειαστεί να γράφω όλες τις εντολές γράμμα προς γράμμα, χωρίς τη χρήση του Copy&Paste. Αυτό με καθυστέρησε αρκετά και ενδεχομένως στο μέλλον λόγω απροσεξίας ή typo, να γίνει κάποιο λάθος. Προσπάθησα να το κάνω fix, αλλά προς το παρόν δεν έχω βρεί λύση. Θα συνεχίσω να το ψάχνω και ελπίζω κάποια στιγμή αυτό το πρόβλημα να γίνει resolve γιατί είναι το λιγότερο ενοχλητικό. 
 
 [Asciinema Screenfetch](https://asciinema.org/a/1oNY6s0xUMVE4V41kyfwT04TF)
+
+## ΠΑΡΑΔΟΤΕΟ 5
+
+### Συμμετοχικό περιεχόμενο Α1 & Α2
+
+Για το Α1 του πέμπτου παραδοτέου επέλεξα να ασχοληθώ με τα λειτουργικά συστήματα Windows XP και MidnightBSD. Καθώς στην αρχή έπρεπε να δουλέψουμε ατομικά, έγινε fork όρισα των αποθετηρίων [images](https://github.com/CptMike/images), [gallery](https://github.com/CptMike/_gallery), [site](https://github.com/CptMike/site) και στη συνέχεια, οι δυο πρώτοι ορίστηκαν ως submodules του site. Αρχικά βρήκα δυο φωτογραφίες και τις προσέθεσα στον φάκελο images. Στη συνέχεια δημιούργησα δυο αντίστοιχα σχετικά md αρχεία στο gallery. Αφού έγιναν αυτές οι αλλαγές, συνέδεσα το Netlify με το προσωπικό μου site, ώστε να φαίνονται εκεί οι αλλαγές.
+
+Για το Α2, αποφάσισα να εντάξω τα Windows XP σε ένα προυπάρχον [timeline](https://github.com/CptMike/site/blob/master/_timeline/microsoft.md), καθώς πιστεύω ότι ταίριαζε απόλυτα. Ωστόσο, όσον αφορά το MidnightBSD, καθώς δε βρήκα πολλά παρόμοια λειτουργικά συστήματα, έκανα ένα βήμα πίσω και το συμπεριέλαβα σε μια ευρύτερη κατηγορία λειτουργικών συστημάτων, απο όπου προκύπτουν και τα [slides](https://github.com/CptMike/site/blob/master/_slides/operating-systems.md).
+Βλέποντας τις αλλαγές να εφαρμόζονται στο netlify, βεβαιώθηκα πως όλα δουλεύουν. Για το τελευταίο στάδιο, οφείλαμε να κάνουμε Pull Request στα αντίστοιχα αποθετήρια της [ομάδας](https://github.com/Cont1nental) μας. Σε αντίθεση με την προηγούμενη φορά, έδωσα ιδιαίτερη προσοχή στο ΠΟΥ θα γίνει το Pull Request, καθώς και στα αρχεία που αλλάζουν, ώστε να μην επιφέρω πρόβλημα στα υπόλοιπα μέλη της ομάδας.
+
+### A1
+
+| Θέμα | Live Demo |
+| -- | -- |
+| Windows XP Gallery | [Link](https://site-cptmike.netlify.app/gallery/windows-xp/) |
+| MidnightBSD Gallery | [Link](https://site-cptmike.netlify.app/gallery/midnight-bsd/) |
+| Operating Systems Slides | [Link](https://site-cptmike.netlify.app/slides/operating-systems/) |
+| Microsoft Timeline | [Link](https://site-cptmike.netlify.app/timeline/microsoft/) |
+
+### A2
+
+| Target | Pull Request |
+| -- | -- |
+| [Cont1nental/site](https://github.com/Cont1nental/site) | [Link](https://github.com/Cont1nental/site/pull/4) |
+| [Cont1nental/gallery](https://github.com/Cont1nental/_gallery/tree/6bff6ec01bc7df7bf9a53bff34bc879579e01337) | [Link](https://github.com/Cont1nental/_gallery/pull/2) |
+| [Cont1nental/images](https://github.com/Cont1nental/images/tree/ba2e155c3d73462923d8edc6fb5172c78eac99b5) | [Link](https://github.com/Cont1nental/images/pull/2) |
 
 ## ΣΥΝΕΙΣΦΟΡΑ ΣΕ ΣΥΖΗΤΗΣΕΙΣ
 
