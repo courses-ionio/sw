@@ -13,7 +13,7 @@
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/247) | Στο παραδοτέο 2 ασχολήθηκα κυρίως με την δημιουργία του βιογραφικού μου ενώ παράλληλα εντάχθηκα σε μία ομάδα. |
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/338) | Κατανόηση εντολών μέσω git για το επιτυχές αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος, με κάποια προβληματα στο submodule και η κατανόηση αυτών |
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
-| <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας Python, C++ και χρήση Netlify για το ανέβασμα τους |
+| <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας MAME32, ATARI-DOS και χρήση Netlify για το ανέβασμα τους |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -125,37 +125,43 @@
 
 A1  
 
-Εικόνα 1 : Python
+Εικόνα 1 : Mame32
 
-Εικόνα από προσωπικό site : [Netlify Link](https://suspicious-williams-bb8c9f.netlify.app/gallery/python/)
+Εικόνα από προσωπικό site : [Netlify Link](https://vagelis1993.netlify.app/gallery/mame32/)
 
-Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/_gallery/blob/master/python.md)
+Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/images/blob/master/Mame32.png)
 
-Λεπτομέρειες :
-Η Python είναι μια υψηλού επιπέδου γλώσσα προγραμματισμού γενικής χρήσης. Η σχεδιαστική φιλοσοφία του δίνει έμφαση στην αναγνωσιμότητα του κώδικα με τη χρήση σημαντικών εσοχών. Οι δομές γλώσσας και η αντικειμενοστραφής προσέγγιση έχουν ως στόχο να βοηθήσουν τους προγραμματιστές να γράψουν σαφή, λογικό κώδικα για έργα μικρής και μεγάλης κλίμακας.
-
-
-Πηγή : [Python Link](https://en.wikipedia.org/wiki/Python_(programming_language))
-
-Εικόνα 2 : C++
-
-Εικόνα από προσωπικό site : [Netlify Link](https://suspicious-williams-bb8c9f.netlify.app/gallery/c++/)
-
-Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/_gallery/blob/master/c%2B%2B.md) 
+Αρχειο MD : [Link](https://github.com/Vagelis1993/_gallery/blob/master/Mame32.md)
 
 Λεπτομέρειες :
-Η C++ είναι μια γλώσσα προγραμματισμού γενικής χρήσης που δημιουργήθηκε από τον Bjarne Stroustrup ως επέκταση της γλώσσας προγραμματισμού C, ή "C με κλάσεις". Η γλώσσα έχει επεκταθεί σημαντικά με την πάροδο του χρόνου και η σύγχρονη C++ έχει πλέον αντικειμενοστραφή, γενικά και λειτουργικά χαρακτηριστικά, εκτός από τις εγκαταστάσεις για χαμηλού επιπέδου χειρισμό της μνήμης
+Το MAME (αρχικά ακρωνύμιο του Multiple Arcade Machine Emulator) είναι ένας ελεύθερος και ανοικτού κώδικα εξομοιωτής σχεδιασμένος για την αναδημιουργία του υλικού των συστημάτων arcade παιχνιδιών σε λογισμικό σε σύγχρονους προσωπικούς υπολογιστές και άλλες πλατφόρμες. Η πρόθεσή του είναι να διατηρήσει την ιστορία των τυχερών παιχνιδιών, εμποδίζοντας την απώλεια ή την λησμονιά παλαιών παιχνιδιών. Αυτό γίνεται με την προσομοίωση των εσωτερικών λειτουργιών των εξομοιωμένων μηχανών arcade. η ικανότητα να παίξει πραγματικά τα παιχνίδια θεωρείται "μια ωραία παρενέργεια".Joystiq έχει κατατάξει MAME ως μια εφαρμογή που κάθε Windows και Mac gamer θα πρέπει να έχει.
+Η πρώτη δημόσια κυκλοφορία MAME έγινε από τον Nicola Salmoria στις 5 Φεβρουαρίου 1997. Τώρα υποστηρίζει πάνω από 7.000 μοναδικά παιχνίδια και 10.000 πραγματικά σύνολα εικόνων ROM, αν και δεν είναι όλα τα παιχνίδια playable. Το MESS, ένας εξομοιωτής για πολλές κονσόλες βιντεοπαιχνιδιών και συστήματα υπολογιστών, που βασίζονται στον πυρήνα του MAME, ενσωματώθηκε στο MAME το 2015.
 
 
-Πηγή : [C++ Link](https://en.wikipedia.org/wiki/C%2B%2B)
+Πηγή : [Mame32 Link](https://en.wikipedia.org/wiki/MAME)
+
+Εικόνα 2 : ATARI-DOS
+
+Εικόνα από προσωπικό site : [Netlify Link](https://vagelis1993.netlify.app/gallery/atari-dos/)
+
+Αποθετήριο εικόνας : [Link](https://github.com/Vagelis1993/images/blob/master/Atari-dos.png) 
+
+Αρχείο MD : [Link](https://github.com/Vagelis1993/_gallery/blob/master/Atari-dos.md)
+
+Λεπτομέρειες :
+Το Atari DOS είναι το λειτουργικό σύστημα δίσκου που χρησιμοποιείται με την οικογένεια υπολογιστών Atari 8-bit. Απαιτούνται επεκτάσεις λειτουργικού συστήματος φορτωμένες στη μνήμη για να μπορεί ένας υπολογιστής Atari να διαχειρίζεται αρχεία αποθηκευμένα σε μονάδα δίσκου. Αυτές οι επεκτάσεις στο λειτουργικό σύστημα πρόσθεσαν το πρόγραμμα χειρισμού δίσκου και άλλα χαρακτηριστικά διαχείρισης αρχείων.
+Η πιο σημαντική επέκταση είναι ο χειριστής του δίσκου. Στο Atari DOS 2.0, αυτό ήταν το Σύστημα Διαχείρισης Αρχείων (FMS), μια υλοποίηση ενός συστήματος αρχείων φορτωμένου από μια δισκέτα. Αυτό σήμαινε ότι χρειαζόταν τουλάχιστον επιπλέον μνήμη RAM 32 KB για την εκτέλεση με φορτωμένο DOS.
+
+
+Πηγή : [ATARI-DOS Link](https://en.wikipedia.org/wiki/Atari_DOS)
 
 Α2 
 
-Διαφάνειες και Χρονολόγιο : [Διαφάνειες repo](https://github.com/Vagelis1993/site/blob/master/_slides/programming.md)  [Χρονολόγιο repo](https://github.com/Vagelis1993/site/blob/master/_timeline/programming.md)
+Διαφάνειες και Χρονολόγιο : [Διαφάνειες repo ATARI-DOS](https://github.com/Vagelis1993/site/blob/master/_slides/method.md), [Διαφάνειες repo MAME32](https://github.com/Vagelis1993/site/blob/master/_slides/videogames.md)  [Χρονολόγιο repo ATARI-DOS](https://github.com/Vagelis1993/site/blob/master/_timeline/os-apps.md), [Χρονολόγιο repo MAME32](https://github.com/Vagelis1993/site/blob/master/_timeline/videogames.md)
 
-Διαφάνειες στο προσωπικό site : [Link](https://suspicious-williams-bb8c9f.netlify.app/slides)
+Διαφάνειες στο προσωπικό site : [Link MAME32](https://vagelis1993.netlify.app//slides/videogames/), [Link ATARI-DOS](https://vagelis1993.netlify.app//slides/method/)
 
-Χρονολόγιο στο προσωπικό site : [Link](https://suspicious-williams-bb8c9f.netlify.app/timeline/)
+Χρονολόγιο στο προσωπικό site : [Link MAME32](https://vagelis1993.netlify.app//timeline/videogames/), [Link ATARI-DOS](https://vagelis1993.netlify.app//timeline/os-apps/)
 
 
 
