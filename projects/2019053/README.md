@@ -85,7 +85,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Η δημιουργία της [ομάδας](https://github.com/OompaLoompas) μας, αποτέλεσε μια ενδιαφέρον διαδικασία αφού πολλοί συμφοιτητές έκαναν αίτηση για την ένταξή τους σε αυτή. Αυτή τη στιγμή που γράφεται το κείμενο αποτελούμαστε από 12 άτομα με τον καθένα μας να έχει υποβάλει την Εισαγωγή αναρτημένοι στα discussions. Όσον αφορά το [Webring](https://oompaloompas-webring.netlify.app/) ακολουθήσαμε τη [συμβουλή](https://github.com/courses-ionio/help/discussions/165) του συμφοιτητή μας Δημοστέν Τζάμα για το ανέβασμα της ιστοσελίδας με τη χρήση του εργαλείου Netlify. Έπειτα για την εισαγωγή του ονόματος και του βιογραφικού μου στο Webring έκανα pull request με σκοπό την ένταξη των στοιχείων μου.
+&nbsp;&nbsp;&nbsp;&nbsp;Η δημιουργία της [ομάδας](https://github.com/OompaLoompas) μας, αποτέλεσε μια ενδιαφέρον διαδικασία αφού πολλοί συμφοιτητές έκαναν αίτηση για την ένταξή τους σε αυτή. Αυτή τη στιγμή που γράφεται το κείμενο αποτελούμαστε από 12 άτομα με τον καθένα μας να έχει υποβάλει την Εισαγωγή αναρτημένοι στα discussions. Όσον αφορά το [Webring](https://oompaloompas-webring.netlify.app/) ακολουθήσαμε τη [συμβουλή](https://github.com/courses-ionio/help/discussions/165) του συμφοιτητή μας Δημοστέν Τζάμα για το ανέβασμα της ιστοσελίδας με τη χρήση του εργαλείου Netlify. Έπειτα για την εισαγωγή του ονόματος και του βιογραφικού μου στο Webring έκανα [pull request](https://github.com/OompaLoompas/webring/pull/1) με σκοπό την ένταξη των στοιχείων μου.
 
 <br /> <br />
 
@@ -138,6 +138,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Χρησιμοποίησα bold text και italics
 
 &nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: Πρόσθεσα σύνδεσμο με το κατάλληλο αρχείο
+
+<br />
+
+<p align="center">
+ <b>Παρουσία της προσθήκης μου στην ιστοσελίδα</b>
+</p>
+
+<p align="center">
+ <a><img src="https://user-images.githubusercontent.com/72695605/159782885-6cf208ad-9361-42cb-851b-016091c26fc8.jpeg" /></a>
+</p>
+
+
 
 <br /> <br />
 
@@ -254,3 +266,41 @@
 | --- | --- |
 | 1 | **Reviewer** στην ομάδα μου |
 | 2 | Ένωση των submodules με το βασικό αποθετήριο της ομάδας |
+
+<br /> <br />
+
+-----
+
+## Βιβλιογραφία και Πηγές βοήθειας
+
+<br />
+
+#### Πρώτο Παραδοτέο
+ - [markdown Syntax 1](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ - [markdown Syntax 2](https://www.markdownguide.org/basic-syntax/)
+
+#### Δεύτερο Παραδοτέο
+ - [bundler fix](https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory)
+ - [google fonts](https://fonts.google.com/)
+ - [html color codes](https://htmlcolorcodes.com/)
+ - [become root in linux](https://www.wikihow.com/Become-Root-in-Linux)
+
+#### Τρίτο Παραδοτέο 
+ - [git problem 1](https://stackoverflow.com/questions/12898278/issue-with-adding-common-code-as-git-submodule-already-exists-in-the-index)
+ - [git problem 2](https://stackoverflow.com/questions/24603563/error-with-git-already-exists-and-is-not-a-valid-git-repo)
+ - [change git remote](https://careerkarma.com/blog/git-change-remote/#:~:text=You%20can%20change%20a%20Git,and%20the%20new%20repository%20URL.)
+
+#### Τέταρτο Παραδοτέο
+ - [install ports on FreeBSD](https://www.cyberciti.biz/faq/install-ports-in-freebsd/)
+ - [installation guide FreeBSD](https://www.youtube.com/watch?v=Ch_ZN6BlChA)
+ - [enable fullscreen VM](https://tilde.town/~kzimmermann/articles/fullscreen_freebsd_guest_virtualbox.html)
+ - [install sudo (not used it)](https://www.cyberciti.biz/faq/freebsd-install-sudo-command/)
+ - [ddgr man page](https://www.mankier.com/1/ddgr)
+
+#### Πέμπτο Παραδοτέο
+ - [remove submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
+ - [git detached head](https://stackoverflow.com/questions/10228760/how-do-i-fix-a-git-detached-head)
+ - [markdown text source](https://en.wikipedia.org/wiki/Markdown)
+ - [gedit text source](https://en.wikipedia.org/wiki/Gedit)
+
+#### Έκτο Παραδοτέο
