@@ -12,7 +12,7 @@
 | [2](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | βιογραφικό και δημιουργία ομάδας | [Βιογραφικό](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) - [Webring](https://cont1nental.netlify.app/) | Πλήρης Εκτέλεση|
 | [3](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Discussion](https://github.com/courses-ionio/help/discussions/307) - [Live Demo](https://site-demo-2015002.netlify.app/people/exarchos/) | Πλήρης Εκτέλεση |
 | [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
-| [5](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | Συμμετοχικό περιεχόμενο A1+A2 | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
+| [5](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | Συμμετοχικό περιεχόμενο A1+A2 | [Discussion](https://github.com/courses-ionio/help/discussions/454) | Πλήρης Εκτέλεση |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
