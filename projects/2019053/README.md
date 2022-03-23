@@ -149,8 +149,6 @@
  <a><img src="https://user-images.githubusercontent.com/72695605/159782885-6cf208ad-9361-42cb-851b-016091c26fc8.jpeg" /></a>
 </p>
 
-
-
 <br /> <br />
 
 | | Βασικοί σύνδεσμοι για το 3ο παραδοτέο |
