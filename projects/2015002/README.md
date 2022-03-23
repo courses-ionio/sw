@@ -12,7 +12,7 @@
 | [2](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | βιογραφικό και δημιουργία ομάδας | [Βιογραφικό](https://mariosconsta.github.io/cv/) - [Discussion](https://github.com/courses-ionio/help/discussions/166) - [Webring](https://cont1nental.netlify.app/) | Πλήρης Εκτέλεση|
 | [3](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Discussion](https://github.com/courses-ionio/help/discussions/307) - [Live Demo](https://site-demo-2015002.netlify.app/people/exarchos/) | Πλήρης Εκτέλεση |
 | [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| [5](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | Συμμετοχικό περιεχόμενο A1+A2 | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -22,6 +22,9 @@
 | 12 | Τελική αναφορά* | | |
 
 ---
+
+# TODO:
+ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 ## 1ο Παραδοτέο - Εισαγωγή
 
@@ -73,5 +76,33 @@
 Παρακάτω θα ακολουθήσει ένα απλό asciinema που δείχνει τα χαρακτηριστικά του συστήματος.
 
 [![asciicast](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY.svg)](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY)
+
+## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
+
+Για το 5ο παραδοτέο αποφάσισα να μιλήσω για το DirectX εργαλείο της Microsoft και για το GhostBSD λογισμικό. Παράλληλα έχω δημιουργήσει ένα slide με διάφορα Unix-Like λογισμικά και έβαλα το DirectX στο timeline που αφορούσε την Microsoft.
+
+- [Forked site](https://github.com/mariosconsta/site)
+- [Forked _gallery](https://github.com/mariosconsta/_gallery/tree/master)
+- [Forked images](https://github.com/mariosconsta/images/tree/master)
+
+Άλλαξα τα link για να δείχνουν στα δικά μου submodules και URL.
+
+- Link για το [προσωπικό site](https://p2015002.netlify.app/)
+- Link για [site ομάδας](https://continental-site.netlify.app/)
+
+Τα demo για τις εικόνες, timeline και slide βρίσκονται στα παρακάτω link:
+
+| Εικόνα| Link | --- | Timeline + Slide |
+| --- | --- | --- | --- |
+| DirectX | [link](https://p2015002.netlify.app/gallery/directx/) | | [Microsoft Timeline](https://p2015002.netlify.app//timeline/microsoft/) |
+| GhostBSD | [link](https://p2015002.netlify.app/gallery/ghostbsd/) | | [Unix Like Software Slide](https://p2015002.netlify.app/slides/unix-like-systems/) |
+
+
+| Info | Links | --- | Forked Repos | Link |
+| --- | --- | --- | --- | --- |
+| Issue | [link](https://github.com/Cont1nental/site/issues/2) |  | DirectX | [Image](https://github.com/mariosconsta/images/blob/master/directX.png) - [Gallery](https://github.com/mariosconsta/_gallery/blob/master/directX.md)
+| Pull Request / site | [link](https://github.com/Cont1nental/site/pull/3) | | GhostBSD | [Image](https://github.com/mariosconsta/images/blob/master/ghostBSD.png) - [Gallery](https://github.com/mariosconsta/_gallery/blob/master/ghostBSD.md)
+| Pull Request / _gallery | [link](https://github.com/Cont1nental/_gallery/pull/1) | | Timeline | [microsoft](https://github.com/mariosconsta/site/blob/master/_timeline/microsoft.md)
+| Pull Request / images | [link](https://github.com/Cont1nental/images/pull/1) | | Slide | [Unix Like Software](https://github.com/mariosconsta/site/blob/master/_slides/Unix-Like-Systems.md)
 
 ---
