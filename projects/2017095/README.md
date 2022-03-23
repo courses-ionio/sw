@@ -11,7 +11,7 @@
 | 3 | [Αίτημα Eνσωμάτωσης 1](#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα-1) | https://github.com/courses-ionio/help/discussions/335 | |
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
 | 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α) | https://github.com/courses-ionio/help/discussions/423 | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών 2](#6-ntfy) | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -88,6 +88,29 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 ### Πηγές
 [GTK (Wikipedia)](https://en.wikipedia.org/wiki/GTK) | [Desktop Environments based on GTK (Wikipedia)](https://en.wikipedia.org/wiki/Category:Desktop_environments_based_on_GTK) | [GTK (Redhat)](https://people.redhat.com/mclasen/Usenix04/notes/x29.html) | [Inferno OS (Wikipedia)](https://en.wikipedia.org/wiki/Inferno_(operating_system)) | [Inferno OS site](https://www.inferno-os.org/)
 
+## 6. Ntfy
+
+Για το έκτο παραδοτέο, αποφάσισα να στήσω το ntfy. Για την αποστολή ειδοποιήσεων στο κινητό μου χρησιμοποίησα ως backend του ntfy το Simplepush, καθώς η δωρεάν έκδοσή του είχε περισσότερες λειτουργίες από άλλα. Έπειτα,
+έγραψα ένα Posix Shell Script χρησιμοποιώντας τα προγράμματα md5sum και wget το οποίο ελέγχει αν έχει γίνει κάποια αλλαγή σε κάποια σελίδα (από url που έχω ορίσει εγώ) και, αν έχει γίνει, στέλνει ειδοποίηση στο κινητό
+μου μέσω του ntfy. Για να το δοκιμάσω και ως παράδειγμα στο Asciinema κοιτάει αυτό το url.
+
+Το script χρησιμοποιεί αρχικά διαβάζει το $HOME/.config/grabber/urls αρχείο που περιέχει μια σειρά από url χωρισμένα με newline. Έπειτα, χρησιμοποιεί τον αλγόριθμο hash MD5 (μέσω του md5sum) για να δημιουργήσει το hash του url 
+και κοιτάει αν υπάρχει υπολογισμένο hash για αυτή τη σελίδα (τα url περνάνε από hash για να μπορούν να είναι ονόματα αρχείων. Η ιδέα μου ήρθε από την ονομασία των git commit). Αν δεν υπάρχει, κατεβάζει το html αρχείο της
+σελίδας μέσω του wget, το κάνει hash (πάλι με MD5), και το αποθηκεύει (στο $HOME/.config/grabber/hashes/). Αν υπάρχει, κατεβάζει πάλι το html αρχείο και το κάνει hash, αλλά αυτή τη φορά το συγκρίνει με το αποθηκευμένο hash και,
+αν δεν είναι ίδιο, στέλνει την ειδοποίηση.
+
+Σε site που φορτώνουν δυναμικά και δεν είναι απλά html αρχεία, τα πράγματα είναι πιο περίπλοκα. Για την ώρα, κατέβασα μερικές φορές με το wget τη σελίδα και βρήκα μέσω του vimdiff αλλαγές που υπάρχουν, τις οποίες το md5 αγνοεί
+(μέσω του grep), αλλά και πάλι δεν δουλεύει τέλεια. Ίσως στην πορεία το φτιάξω καλύτερα. Ίσως και όχι.
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/06_simplepush.png"> </p>
+
+[Asciinema Link](https://asciinema.org/a/480044) | [Posix Shell Script (Grabber)](https://github.com/p17anto2/grabber)
+
 ## Σύστημα
 
-Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc, εγκατέστησα μέσω του xbps το Xorg και το i3, και έκανα compile το [st](https://st.suckless.org/) για terminal με μερικά patches και δικό μου theme (εμπνευσμένο από το [Azu του Guake](https://github.com/Guake/guake/blob/master/guake/palettes.py)) και το [surf](https://surf.suckless.org/) για browser.
+Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc,
+εγκατέστησα μέσω του xbps το Xorg και το i3, και έκανα compile το [st](https://st.suckless.org/) για terminal με μερικά patches και δικό μου theme (εμπνευσμένο από το
+[Azu του Guake](https://github.com/Guake/guake/blob/master/guake/palettes.py)) και το [surf](https://surf.suckless.org/) για browser.
+
+Επειδή στο 6ο παραδοτέο έγραψα το shell script στο vm με vim, εγκατέστησα το [ALE (Asynchronous Linting Engine)](https://github.com/dense-analysis/ale), ένα plugin για το vim που λειτουργεί ως interface για linters (βρίσκουν πού
+υπάρχουν λάθη στον κώδικα) και fixers (διορθώνουν τα λάθη του κώδικά). Ως linter χρησιμοποίησα το shellcheck, καθώς είναι για posix shell και το χρησιμοποιώ και στο δικό μου σύστημα.
