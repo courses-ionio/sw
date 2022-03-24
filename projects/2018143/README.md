@@ -15,7 +15,7 @@
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/331) </a></sup> | |
 | 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού/Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις]() | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -210,17 +210,17 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
   
 ### Άσκηση γραμμής εντολών : performance monitoring
   
-asciinema link για py-spy : 
+asciinema link για py-spy : https://asciinema.org/a/480260
   
-asciinema link για hyperfine : 
+asciinema link για hyperfine : https://asciinema.org/a/480264
   
-test1.py :
+test1.py : https://github.com/p18kout/sw-images/blob/main/test1.py
   
-test2.py :
+test2.py : https://github.com/p18kout/sw-images/blob/main/test2.py
   
-Αρχέιο output : 
+Αρχέιο output : https://github.com/p18kout/sw-images/blob/main/output.asc
   
-Αρχείο profile.svg : 
+Αρχείο profile.svg : https://github.com/p18kout/sw-images/blob/main/profile.svg
   
 ## Διαδικασία :
   
@@ -245,7 +245,7 @@ test2.py :
   
 ## Αποτελέσμα :
   
-![flamegraph]()
+![flamegraph](https://github.com/p18kout/sw-images/blob/main/flamegraph.png)
 
-![output]()
+![output](https://github.com/p18kout/sw-images/blob/main/output.png)
   
