@@ -8,7 +8,7 @@
 | 2 | [Βιογραφικό](https://p19zing.github.io/online-cv) και δημιουργία ομάδας |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης αμέσως μόλις έγινε δεκτό το δεύτερο Issue) |
 | 4 | <a href="#Παραδοτέο 4">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) και [Link στο Asciinema](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0) | Εντός προθεσμίας |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) | Εντός προθεσμίας το Α1 |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
