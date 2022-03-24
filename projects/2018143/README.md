@@ -205,3 +205,47 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
 Χρονολόγιο στο προσωπικό site : https://p18kout.netlify.app/timeline/programming/
 
 Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/master/_timeline/programming.md
+  
+##### [6]
+  
+### Άσκηση γραμμής εντολών : performance monitoring
+  
+asciinema link για py-spy : 
+  
+asciinema link για hyperfine : 
+  
+test1.py :
+  
+test2.py :
+  
+Αρχέιο output : 
+  
+Αρχείο profile.svg : 
+  
+## Διαδικασία :
+  
+• Εγκατάσταση πακέτων ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph```, ```sudo pacman -S wget```, 
+ ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb```
+  
+• Αποσυμπίεση του πακέτου hyperfine με την εντολή ```sudo dpkg -i hyperfine_1.11.0_amd64.deb```
+  
+• Έναρξη εγγραφής terminal asciinema rec -i 0.2
+  
+• Επιλογή φακέλου Downloads όπου βρίσκονται 2 scripts της επιλογής μου με την εντολή ```cd Downloads```
+  
+• Performance monitoring του script test1.py με την εντολή ```py-spy record -o profile.svg -- python3 test1.py```, και εξαγωγή αρχείου flameqraph
+  
+• Εκτύπωση των περιεχομένων των script με την εντολή ```cat test1.py```, ```cat test2.py```
+  
+• Σύγκριση χρόνου εκτέλεσης μεταξύ των δύο script με την εντολή ```hyperfine 'python test1.py' 'python test2.py'```
+  
+• Εξαγωγή αποτελέσματος σύγκρισης με την εντολή ```hyperfine -i --export-json output 'python test1.py' 'python test2.py'```
+  
+• Τέλος εγγραφής terminal ```exit```
+  
+## Αποτελέσμα :
+  
+![flamegraph]()
+
+![output]()
+  
