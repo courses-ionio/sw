@@ -201,6 +201,8 @@ Aναπτύχθηκε για να βοηθήσει τους προγραμματ
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
+##### [6]
+
 ### Άσκηση γραμμής εντολών : performance monitoring
 
 asciinema link για το py-spy: https://asciinema.org/a/480561
