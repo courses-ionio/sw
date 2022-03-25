@@ -50,9 +50,9 @@
 
 ## ΕΓΚΑΤΑΣΤΑΣΗ ΛΕΙΤΟΥΡΓΙΚΟΥ
 
-Σε αυτό το παραδοτεό ασχολήθηκα με την εγκατάσταση του λειτουργικού, χωρίς systemd, `FreeBSD` και παρακάτω υπάρχει το αντίστοιχο neofetch: https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp
+Σε αυτό το παραδοτεό ασχολήθηκα με την εγκατάσταση του λειτουργικού, χωρίς systemd, `FreeBSD` και παρακάτω υπάρχει το αντίστοιχο dmesg και neofetch: https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd
 
-<a href="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp" target="_blank"><img src="https://asciinema.org/a/eolpX3A3QWKSXg85LagLFclrp.svg" /></a>
+<a href="https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd" target="_blank"><img src="https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd.svg" /></a>
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
