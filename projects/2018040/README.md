@@ -201,3 +201,35 @@ Aναπτύχθηκε για να βοηθήσει τους προγραμματ
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
+### Άσκηση γραμμής εντολών : performance monitoring
+
+asciinema link για το py-spy: https://asciinema.org/a/480561
+
+asciinema link για το hyperfine: https://asciinema.org/a/480563
+
+### Βηματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph``` , ```sudo pacman -S 
+wget``` , ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb```
+
+Εκανα αποσυμπιεση του πακεtου hyperfine με την εντολη ```sudo dpkg -i hyperfine_1.11.0_amd64.deb``` 
+
+Με το ```asciinema rec -i 0.2```  ξεκιναω το record του terminal
+
+Με την εντολη ```cd Downloads``` κατευθυνομαι στο φακελοοπου βρισκονται τα 2 scripts 
+
+Με την εντολη ```py-spy record -o results.svg -- python3 dokimi.py``` κανω monitor το performance του script και εξαγω αρχειο flamegraph αυτου
+
+Τρεχω τις εντολες ```cat dokimi.py``` , ```cat dokimiv2.py``` για να εκτυπωσω το περιεχομενο των script
+
+Με την εντολη ```hyperfine 'python dokimi.py' 'python dokimiv2.py'``` συγκρινω την διαρκεια εκτελεσης μεταξυ των 2 script
+
+Με την εντολη ```hyperfine -i --export-json output 'python dokimi.py' 'python dokimiv2.py'``` εξαγω το αποτελεσμα της παραπανω συγκρισης σε ενα αρχειο json
+
+Με την εντολή ```exit``` ολοκλήρωσα το recording του terminal
+
+### Αποτελεσματα:
+
+![flamegraph]
+
+![output]
