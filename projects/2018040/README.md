@@ -19,7 +19,7 @@
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346)</a></sup> | |
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/460) </a></sup> | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -207,6 +207,14 @@ asciinema link για το py-spy: https://asciinema.org/a/480561
 
 asciinema link για το hyperfine: https://asciinema.org/a/480563
 
+Αρχειο results: https://github.com/p18kana/SW-files/blob/main/results.svg
+ 
+Αρχειο output: https://github.com/p18kana/SW-files/blob/main/output.asc
+
+Script dokimi.py: https://github.com/p18kana/SW-files/blob/main/dokimi.py
+
+Sxript dokimiv2.py: https://github.com/p18kana/SW-files/blob/main/dokimiv2.py
+
 ### Βηματα:
 
 Κάνω εγκατάσταση των απαραίτητων πακέτων ```sudo pip3 install py-spy```, ```git clone --depth 1 https://github.com/brendangregg/FlameGraph``` , ```sudo pacman -S 
@@ -230,6 +238,12 @@ wget``` , ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0
 
 ### Αποτελεσματα:
 
-![flamegraph]
+![flamegraph](https://github.com/p18kana/SW-files/blob/main/flamegraph.png)
 
-![output]
+![output](https://github.com/p18kana/SW-files/blob/main/output.png)
+
+Πηγη:
+
+hyperfine: https://github.com/sharkdp/hyperfine
+
+py-spy: https://github.com/benfred/py-spy
