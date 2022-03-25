@@ -249,3 +249,9 @@ test2.py : https://github.com/p18kout/sw-images/blob/main/test2.py
 
 ![output](https://github.com/p18kout/sw-images/blob/main/output.png)
   
+Πηγή:
+  
+https://github.com/benfred/py-spy
+  
+https://github.com/sharkdp/hyperfine
+  
