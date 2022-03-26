@@ -8,12 +8,12 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή | [#90](https://github.com/courses-ionio/help/discussions/90) | Παράδοση εντός προθεσμίας |
-| 2 | Βιογραφικό και δημιουργία ομάδας | [#206](https://github.com/courses-ionio/help/discussions/206) | Παράδοση εντός προθεσμίας |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [#310](https://github.com/courses-ionio/help/discussions/310) | Issue εντός προθεσμίας, αναμονή εκτός προθεσμίας για green light |
-| 4 | Άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)" | [#367](https://github.com/courses-ionio/help/discussions/367) | Παράδοση εντός προθεσμίας |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [#445](https://github.com/courses-ionio/help/discussions/445) | Παράδοση εντός προθεσμίας |
-| 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | | Παράδοση εντός προθεσμίας |
+| 1 | Εισαγωγή | courses-ionio/help/discussions/90 | Παράδοση εντός προθεσμίας |
+| 2 | Βιογραφικό και δημιουργία ομάδας | courses-ionio/help/discussions/206 | Παράδοση εντός προθεσμίας |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/310| Issue εντός προθεσμίας, αναμονή εκτός προθεσμίας για green light |
+| 4 | Άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)" | courses-ionio/help/discussions/367 | Παράδοση εντός προθεσμίας |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας |
+| 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
