@@ -24,7 +24,7 @@
 | 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-cli) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
@@ -205,10 +205,23 @@ Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.net
 
 <br>
 
-## :pushpin:: Άσκηση γραμμής εντολών CLI 
+## :pushpin:: Άσκηση γραμμής εντολών 1 CLI 
+Σε αυτό το παραδοτέο είχαμε να παραδώσουμε μια άσκηση γραμμής εντολών. Αυτή την εβδομάδα λοιπόν αποφάσισα αρχικά να εγκαταστήσω το void linux γιατί στο kiss linux δεν κατάφερα να εγκαταστήσω το i3wm λόγο ότι είχε πάρα πολλά broken packages και ήθελε πάρα πολύ χρόνο για να το fixαρω. Μετά την εγκατάσταση του void linux με αφορμή τις προπονήσεις στο ECSC-GR(Hellenic Cyber Security Team) αποφάσισα να κάνω μια αρκετά custom άσκηση γραμμής εντολών(κατα την γνώμη μου πολύ περίπλοκη για το συγκεκριμένο μάθημα) σε python η οποία ζητάει από τον χρήστη το URL του ευάλωτου site(πχ του ιονίου πανεπιστημίου upsss!) που το συγκεκριμένο URL θα πρέπει να είναι ευάλωτο σε επιθέσεις SQL Injection που σε αυτή την επίθεση ενας “attacker” μπορεί με διάφορες εντολές(SQL Queries η αλλιώς SQL payloads) να τροποποιήσει την βάση δεδομένων του συστήματος πχ να διαβάσει δεδομένα να κάνει delete δεδομένα και γενικότερα να πάρει πρόσβαση με λίγα λόγια. Για να μην πολυλογώ για άσχετα του μαθήματος το “cli’ αυτό κάνει τους εξής αυτοματοποιησμούς:
+
+- [x] Encrypt/Decrypt Laravel Cookies with developed AES cryptofunctions 
+- [x] Webscrape [fetch data from webpage]
+- [x] Laravel(PHP) serialization/deserialization
+- [x] Custom SQL payloads for exfiltrate data from database includes tables names, coluns names, columns data
+- [x] Uses bit shifting & binary searching ascii bruteforce technic
+- [x] Based on Error based SQL injection
+
+<br>
+Σε αυτό το asciinema βλέπουμε πώς κανει exfiltrate data από μία βάση δεδομένων
 
 [![asciicast](https://asciinema.org/a/480839.svg)](https://asciinema.org/a/480839)
 
+
+## Κώδικας 
 ```python
 import os
 import re
