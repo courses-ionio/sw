@@ -24,7 +24,7 @@
 | 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-cli) | <div align="center"> - </div> | <div align="center"> - </div> |
+| 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1-cli) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
