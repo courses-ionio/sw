@@ -21,7 +21,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-1) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/313#discussion-3919300)</div> | <div align="center"> - </div> |
 | 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/384#discussion-3936542) </div> | <div align="center"> - </div> |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/439#discussion-3950186) </div> | <div align="center"> - </div> |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](#) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -37,20 +37,30 @@
 
 
 ## :pushpin:: Προβλήματα που αντιμετώπισα
+
 ### βιογραφικό και δημιουργία ομάδας
-Στο πρώτ
+Σε αυτό το παραδοτέο το μόνο πρόβλημα που αντιμετώπισα ήταν στο κομμάτι του webring. <br>
+Στο webring λοιπόν ήθελα να κάνω deploy το webring του maxboeck αλλα επειδή το version της node που γινόταν το default deploy απο το netlify υπήρχε ενα θέμα οπότε έπρεπε να βρώ έναν τρόπο να το φτιάξω. <br>
+Για να το φτιαξω το έκανα deploy στο localhost μου με διαφορετικό node version και σταδιακά άλλαζα version μέχρι που δούλεψε. Μετά απο αυτό το ανέβασα στο show & tell για να βοηθήσω και τους άλλους συμφοιτητές μου μιας και απο οτι είχα δει κανέναν δεν το είχε κάνει deploy ακόμα. [Το σχετικό show & tell](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
+
 
 ### Αίτημα ενσωμάτωσης στην ιστοσελίδα
-dasda
-dsadasdas
+Σε αυτό το παραδοτέο δεν αντιμετώπισα κάποιο “σοβαρό” πρόβλημα στο τεχνικό κομμάτι.
+Το μόνο λάθος που είχε προκύψει από δική μου απροσεξία και της ομάδας μου ηταν οτι το στο pull request μας είχαμε αλλάξει τα submodules στα δικά μας forked repositories και το pull request είχε γίνει στο main(sitegr) ενώ έπρεπε να γίνει στο all_collection για να απλοποιηθούν τα πράγματα. Κατα τα άλλα αυτό το παραδοτέο ήταν η εισαγωγή στο κομμάτι συνεργασία μέσω του github και γενικά contributing σε ενα project με πολλά άτομα για αυτό υπήρχαν και πολύ αυστηροί κανόνες.
 
-### Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux
-dsadas
-fdsfsd
+
+### Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux + Void Linux
+
+#### KISS Linux
+Στις ασκήσεις γραμμής εντολών έχουμε στο πίνακα περιεχομένων 4 παραδοτέα από τα οποία τα 2 είναι για την εγκατάσταση του Linux distro μας. Εγω αρχικά επέλεξα να κατεβάσω το KISS LINUX γιατί με μια πρώτη ματιά η εγκατασταση του σε βάζει σε μεγάλο μπελά(kernel configuration,compile,etc) που μέσα από αυτόν τον μπέλα μαθαίνεις πραγματικά πααααααάρα πολλά πράγματα για το πως είναι δομημένο ένα linux σύστημα και μαθαίνεις να εκτιμάς τα ήδη υπάρχοντα Linux distro που πίσω από αυτά κρύβονται developers που έχει ρίξει απίστευτη δουλειά έχοντας πάρει ένα Linux kernel και το έχουν κάνει develop σε ενα αυτόνομα Linux σύστημα και ένα σημαντικό θεωρώ πως είναι ότι είναι και φιλικό προς τον χρήστη.
+
+Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι στην 1η προσπάθεια εγκατάστασης του KISS LINUX στο κομμάτι του kernel configuration δηλαδή στις ρυθμίσεις του πύρηνα μου είχε βγάλει μερικά warnings που δεν τα έδωσα σημασία και προχώρησα παρακάτω και απλος μετά στο reboot κολλάει η οθόνη στο μήνυμα του kernel is loading με αποτέλεσμα να κάνω την εγκατάσταση και το compile απο την αρχή. Τέλος το πρόβλημα ήταν ο κερνελ έπρεπε να ρυθμιστεί στη ΑΠΟ ΤΗΝ ΑΡΧΉ απο το keyboard μεχρι την οθόνη. Η διαδικασία αυτή  κράτησε πάρα πολύ ώρα και research γιατί κάποια από τα settings δεν τα γνώριζα. 
+#### Void Linux Linux
+Στην εγκατάσταση του Void Linux distro δεν αντιμετώπισα κάποιος σημαντικό πρόβλημα στην εγκατάσταση του καθώς ήταν πάαααρα πολύ πιο εύκολο από το KISS Linux. 
+Το μόνο πρόβλημα ηταν στα tools απο το vmware δηλαδή έπρεπε να τα εγκαταστήσω manually καθώς δεν τα αναγνωρίζει απο το official repository. Στην προσπάθεια εγκατάστασης του vm tool έπρεπε να δημιουργίσω 6 directories για τα init files του vm tool στο /etc directory αυτό το error το είχα κάνει search στο google το documentation που χρησιμοποίησα online το έχω κάνει link παρακάτω
 
 ### Συμμετοχικό περιεχόμενο A1+A2
-dassda
-dsadsa
+Στο συμμετοχικό περιεχόμενο Α1+Α2 επέλεξα να κάνω για το backtrack και για το knoppix που είναι η βάση του backtrack σε αυτή την φάση τα προβλήματα που αντιμετωπσαι εγω και η ομάδα μου ήτας η σκέψη το πώς θα το κάνουμε για να έχουμε ένα σωστό flow δηλαδή το αν θα κάνουμε ενα deploy ο κάθε ένας η αν θα γίνει το fork απο το repo του pibook η απο το repo της ομάδας μας κτπ. Στην διαδικασία αυτή αντιμετωπίσαμε και μερικά conflicts στα pull requests μας που για ακόμη μια φορά είχαν γίνει από δικό μας λάθος και βιασύνη.
 
 
 ## :pushpin:: Εκγατάσταση Linux distro
@@ -115,8 +125,24 @@ dsadsa
 [KISS Wiki](https://kisslinux.org/wiki/) <br>
 [KISS Official Repo](https://github.com/kisslinux/repo/)
 
-### Void Linux distro
+<hr>
 
+### Void Linux distro
+[![asciicast](https://asciinema.org/a/480769.svg)](https://asciinema.org/a/480769)
+
+![image](https://user-images.githubusercontent.com/92382586/160240201-6e8cb212-75b6-4d32-bd52-ca34965d5eaa.png)
+
+
+![image](https://user-images.githubusercontent.com/92382586/160241215-13b1243b-4fa0-4534-b60c-40ca024dc1e3.png)
+
+
+![image](https://user-images.githubusercontent.com/92382586/160241897-fa2f5282-87b8-4349-a37f-a8cc9899c345.png)
+
+
+### Documentation 
+
+[How to install vm-open-tools manually](https://docs.vmware.com/en/VMware-Workstation-Player-for-Linux/16.0/com.vmware.player.linux.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html) <br>
+[How to fix init files for vmware-open-tools](https://www.linuxquestions.org/questions/linux-software-2/vmware-can%27t-find-init-directories-246482/) <br>
 
 ## :pushpin:: Βιογραφικό Παραδοτέο Α
 
@@ -156,9 +182,8 @@ dsadsa
 
 Σε αυτό το παραδοτέο εγώ επέλεξα να κάνω την αλλαγή στην διαγραφή ενός καθηγητή που ονομάζεται  Δημήτρης Τσουμάκος.
 
-|  |  | |
-| --- | --- | --- |
 | [Demo Netlify](https://xenodochial-ritchie-674456.netlify.app/people/) | [Pull Request](https://github.com/ioniodi/all_collections/pull/3) | [Issue](https://github.com/ioniodi/sitegr/issues/233) |
+| --- | --- | --- |
  <br>
  <br>
  <br>
@@ -178,11 +203,11 @@ dsadsa
 | [Knoppix Timeline](https://p2019213.netlify.app/timeline/knoppix/) | [Knoppix Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/knoppix.md) | 
 
 Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.netlify.app/): <br>
-[Images pull](https://github.com/Kafeneio/images/pull/4) <Br>
-[Gallery pull](https://github.com/Kafeneio/_gallery/pull/4) <Br>
-[site pull](https://github.com/Kafeneio/site/pull/8) <Br>
-
-
+ 
+| [Images pull](https://github.com/Kafeneio/images/pull/4) | [Gallery pull](https://github.com/Kafeneio/_gallery/pull/4) | [site pull](https://github.com/Kafeneio/site/pull/8) |
+| --- | --- | --- |
+  
+  
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
 [Απάντηση σε ερώτηση για command prompt και asciinema](https://github.com/courses-ionio/help/discussions/197#discussioncomment-2260252) <br>
