@@ -1,5 +1,5 @@
-### Ονοματεπώνυμο: <strong>Κυριάκος Μπαλτατζίδης</strong>
-### Αριθμός Μητρώου: <strong>Π2018176</srtong>
+### Ονοματεπώνυμο: Κυριάκος Μπαλτατζίδης
+### Αριθμός Μητρώου: Π2018176
 ### Edpuzzle: p18balt
 ### [Github profile link](https://github.com/p18balt)
 ### [Asciinema profile link](https://asciinema.org/~p18balt)
