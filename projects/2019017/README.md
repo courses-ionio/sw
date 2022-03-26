@@ -10,9 +10,9 @@
 | 1 | [Εισαγωγή](#Εισαγωγή)| https://github.com/courses-ionio/help/discussions/79 | Έκανα ο,τι απαιτείται για το παραδοτέο 1. |
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων) | https://github.com/courses-ionio/help/discussions/363 | Η ασκηση γραμμης εντολων δεν εγινε σε συστημα χωρις systemd και το custom λειτουργικο συστημα ηταν το FreeBSD. Θα τη βελτιωσω στο μελλον και μαλλον θα βαλω Void Linux. |
+| 4 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων-1) | https://github.com/courses-ionio/help/discussions/363 | Η ασκηση γραμμης εντολων δεν εγινε σε συστημα χωρις systemd και το custom λειτουργικο συστημα ηταν το FreeBSD. Θα τη βελτιωσω στο μελλον και μαλλον θα βαλω Void Linux. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο-1) | https://github.com/courses-ionio/help/discussions/428 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων-2) | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -38,7 +38,7 @@
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
 
-## Ασκηση Γραμμης Εντολων
+## Ασκηση Γραμμης Εντολων 1
 Εκανα εγκατασταση FreeBSD, αλλαξα το shell και το prompt μου: 
 ![image](https://user-images.githubusercontent.com/72458452/158074687-40428982-ff05-4054-95f8-d39e3a8bbea4.png)<br>
 Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
@@ -54,8 +54,13 @@ Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017_sw/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017_sw/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/c89d4d7aa0b9d8f61594a1c627a2bb9d2ee5fe52), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/voidlinux.md).
 
 Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://p19kala-pibook.netlify.app/gallery/freebsd/) και [Void](https://p19kala-pibook.netlify.app/gallery/voidlinux/).<br>
+Site του οργανισμου με τις αλλαγες μου: [slides](https://gits-team-epic-pibook.netlify.app/slides/operating-systems/), [timeline](https://gits-team-epic-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://gits-team-epic-pibook.netlify.app/gallery/freebsd/) και [Void](https://gits-team-epic-pibook.netlify.app/gallery/voidlinux/).<br>
 Issue πριν κανω pull request στο organization: https://github.com/Git-s-PopTeamEpic/site/issues/2 <br>
 Pull requests στο organization: [site](https://github.com/Git-s-PopTeamEpic/site/pull/3), [images](https://github.com/Git-s-PopTeamEpic/images/pull/1), [gallery](https://github.com/Git-s-PopTeamEpic/_gallery/pull/1).
+
+## Ασκηση Γραμμης Εντολων 2
+Για αυτη την εβδομαδα στην ασκηση γραμμης εντολων εγκατεστησα το void linux στο virtualbox. Εκανα neofetch και dmesg και δοκιμασα να κανω την ασκηση  ntfy αλλα ειχε προβλημα το python-dbus (το κατεβασα, αλλα εβγαζε error `No module named dbus`) και δεν δουλευαν τα notifications.<br>
+Asciinema: https://asciinema.org/a/jWM3qlAttXOdKan7X3oI57La5
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
