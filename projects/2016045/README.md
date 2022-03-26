@@ -13,9 +13,9 @@
 | 1 | Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων,[Εισαγωγή](#ΕΙΣΑΓΩΓΗ) , αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell)|[Συζήτηση για Παραδοτέο1](https://github.com/courses-ionio/help/discussions/118) |Fork του αποθετηρίου,Δημιουργία branch,Συγγραφή της εισαγωγής. |
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Παραδοτέο-2) |[Συζήτηση για 2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/225) |Δημιουργία βιογραφικού με jekyll,Δημοσίευση με github pages,Συμμετοχή σε ομάδα και δημιουργία webring |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) |[Συζήτηση για 3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/316) |Ένα μικρό λάθος στα issues,και ένα λάθος στο αρχικό pull request επειδή άλλαξα το .gitmodules url |
-| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |[Συζήτηση για 4ο Παραδοτέο]() |Set up huginn locally,Didn't create news feed on time|
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Παραδοτέο-5) |[Συζήτηση για 5ο Παραδοτέο]() | |
-| 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) |[Συζήτηση για 6ο Παραδοτέο]() | |
+| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) |[Συζήτηση για 4ο Παραδοτέο]()|Installed Kiss Linux, Άργησα σε αυτό το παραδοτέο επειδή το έκανα με FreeBsd στην αρχή και μετά το εγκατέστησα λάθος|
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Παραδοτέο-5) |[Συζήτηση για 5ο Παραδοτέο]() |Πρόσθεσα το Lisp και το Cuseeme σαν θεματικές ενότητες με καθυστέρηση|
+| 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) |[Συζήτηση για 6ο Παραδοτέο]() |Set up huggin locally,Hosted but didnt create fully functional news agent(done in docker for now) |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -39,13 +39,14 @@
 
 # Παραδοτέο-4
 
-Σε αυτό το παραδοτέο έγκατέστησα το Kiss Linux σε ένα virtual machine. Αφού διάβασα τις οδηγίες στην επίσημη σελίδα και έψαξα περαιτέρω σε archived irc chats και στο subreddit η πρώτη προσπάθεια μου ήταν αποτυχημένη λόγω λάθος configuration του kernel έπειτα βρήκα ένα guide που με διευκόλυνε αρκετά και το εγκατέστησα με επιτυχία.
+Σε αυτό το παραδοτέο εγκατέστησα το Kiss Linux σε ένα virtual machine. Αφού διάβασα τις οδηγίες στην [επίσημη σελίδα](https://kisslinux.org/install) και έψαξα περαιτέρω σε archived irc chats και στο subreddit η πρώτη προσπάθεια μου ήταν αποτυχημένη λόγω λάθος configuration του kernel έπειτα βρήκα ένα guide που με διευκόλυνε αρκετά και το εγκατέστησα με επιτυχία. [asciinema link](https://asciinema.org/a/479734)
 
 <img src="https://user-images.githubusercontent.com/32684212/160250827-4833e978-a39d-47d5-8504-cdcdf4f6d72e.PNG" width=300 height=300>
 
 # Παραδοτέο-5
 
+Ο σκοπός αυτού του παραδοτέου ήταν να ενσωματόσουμε δύο εικόνες και τα ανάλογα θέματα τους στο εικονικό βιβλίο ο Προγραμματισμός της Διάδρασης. Αφού παρατήρησα τα περιεχόμενα του βιβλίου αποφάσισα να προσθέσω τη γλώσσα προγραμματισμού Lisp και το λογισμικό cuseeme. Έκανα fork και clone τα απαραίτητα repositories και σύνδεσα τα forked submodules μου στο local repository μου. Έπειτα έκανα τις απαραίτητες αλλαγές και deploy την demo έκδοση στο netlify.[CuseeMe](https://stavros16site.netlify.app/gallery/cuseeme/) [Lisp](https://stavros16site.netlify.app/gallery/lisp/) [Site Repo](https://github.com/Stavros16/site/tree/demo-branch) [Added my submodules to my repo](https://asciinema.org/a/479950)
 
 # Παραδοτέο-6
 
-Σε αυτό το παραδοτέο έκανα clone το huginn repository και αφού εγκατέστησα τα απαραίτητα dependecies, έτρεξα το huginn locally και προσπάθησα να δημιουργήσω ένα news feed από το subreddit WorldNews όπου θα φίλτραρει τα posts και θα μου εμφανίζει μόνο ότι έχει να κάνει με τα νέα σχετικά με τον πόλεμο στην Ουκρανία. Αρχικά έφτιαξα έναν Rss Agent μετά έναν TriggerAgent για να φιλτράρω τα posts που έχουν στον τίτλο τους τη λέξη Ουκρανία, έπειτα έφτιαξα έναν Website agent για να πάρω το περιεχόμενο από το reddit και τέλος έφτιαξα έναν DataOutputAgent όπου παράγει το customized rss feed
+Σε αυτό το παραδοτέο έκανα clone το huginn repository και αφού εγκατέστησα τα απαραίτητα dependecies, έτρεξα το huginn locally και προσπάθησα να δημιουργήσω ένα news feed από το subreddit WorldNews όπου θα φίλτραρει τα posts και θα μου εμφανίζει μόνο ότι έχει να κάνει με τα νέα σχετικά με τον πόλεμο στην Ουκρανία. Αρχικά έφτιαξα έναν Rss Agent μετά έναν TriggerAgent για να φιλτράρω τα posts που έχουν στον τίτλο τους τη λέξη Ουκρανία, έπειτα έφτιαξα έναν Website agent για να πάρω το περιεχόμενο από το reddit και τέλος έφτιαξα έναν DataOutputAgent όπου παράγει το customized rss feed. [Asciinema link](https://asciinema.org/a/476422) 
