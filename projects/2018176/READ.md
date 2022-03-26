@@ -13,7 +13,7 @@
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/351) | Προσθήκη ανακοίνωσης στο site της σχολής|
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -51,3 +51,8 @@
 
 [Asciinema Link] (https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
 
+#<a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
+Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
+Πήρα 2 σκριπτάκια και χρησιμοποίησα στο py-spy και στο hyperfine για να συγκρίνω της αποδόσεις των δύο:
+[Asciinema Py spy](https://asciinema.org/a/8WTOiCNQxP6aPcirkvvNm554W)
+[Asciinema Hyperfine](https://asciinema.org/a/yJvsvxnk2DcHLcO1MEGzB55fN)
