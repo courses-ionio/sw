@@ -21,10 +21,10 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-1) | <div align="center">[Link](https://github.com/courses-ionio/help/discussions/313#discussion-3919300)</div> | <div align="center"> - </div> |
 | 4 | [Άσκηση γραμμής εντολών Εγκατάσταση KISS Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#kiss-linux-distro-) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/384#discussion-3936542) </div> | <div align="center"> - </div> |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/439#discussion-3950186) </div> | <div align="center"> - </div> |
-| 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) | <div align="center"> - </div> | <div align="center"> - </div> |
+| 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/463#discussion-3965517) </div> | <div align="center"> - </div> |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1-cli) | <div align="center"> - </div> | <div align="center"> - </div> |
+| 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1-cli) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/463#discussion-3965517) </div> | <div align="center"> - </div> |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
