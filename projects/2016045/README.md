@@ -41,7 +41,7 @@
 
 Σε αυτό το παραδοτέο έγκατέστησα το Kiss Linux σε ένα virtual machine. Αφού διάβασα τις οδηγίες στην επίσημη σελίδα και έψαξα περαιτέρω σε archived irc chats και στο subreddit η πρώτη προσπάθεια μου ήταν αποτυχημένη λόγω λάθος configuration του kernel έπειτα βρήκα ένα guide που με διευκόλυνε αρκετά και το εγκατέστησα με επιτυχία.
 
-<a href="https://asciinema.org/a/479734?autoplay=1" target="_blank"><img src="https://asciinema.org/a/479734.svg" width="400" /></a>
+<img src="https://user-images.githubusercontent.com/32684212/160250827-4833e978-a39d-47d5-8504-cdcdf4f6d72e.PNG" width=300 height=300>
 
 # Παραδοτέο-5
 
