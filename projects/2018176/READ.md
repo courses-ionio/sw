@@ -46,6 +46,8 @@
 
 # <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .
+
 [Link Αναφοράς](https://github.com/courses-ionio/help/discussions/434)
-https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS
+
+[Asciinema Link] (https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
 
