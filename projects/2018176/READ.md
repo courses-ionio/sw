@@ -58,3 +58,6 @@
 [Asciinema Py spy](https://asciinema.org/a/8WTOiCNQxP6aPcirkvvNm554W)
 
 [Asciinema Hyperfine](https://asciinema.org/a/yJvsvxnk2DcHLcO1MEGzB55fN)
+
+py-spy script2
+![script2py](https://user-images.githubusercontent.com/93882637/160260805-def13df3-a6d8-40ee-8e72-4552f4ab754d.svg)
