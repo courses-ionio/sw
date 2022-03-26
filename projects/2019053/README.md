@@ -180,13 +180,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Θα ήθελα να ξεκινήσω με τις εντυπώσεις μου για το συγκεκριμένο παραδοτέο. Το παραδοτέο αυτό μου άρεσε πολύ αφού μας έδινε την ελευθερία να επιλέξουμε ένα λογισμικό **χωρίς systemd** με βάση τους στόχους μας και τις δυνατότητές μας. Ως πρώτη άσκηση γραμμής εντολών επέλεξα να κάνω μία ομαλή μετάβαση από τα Ubuntu που χρησιμοποιώ τον τελευταίο 1 με 1.5 χρόνο στο λογισμικό FreeBSD. Για την εγκατάστασή του και τη προσθήκη Desktop με κάποιες βασικές εφαρμογές ακολούθησα [αυτό](https://www.youtube.com/watch?v=Ch_ZN6BlChA) το βίντεο και έπειτα ασχολήθηκα τόσο με την επίλυση κάποιον βασικών προβλημάτων όσο και τη προσαρμογή του συστήματος στις αρέσκειές μου. Επέλεξα να κατεβάσω τη πιο πρόσφατη έκδοση 13.0 για την οποία η εγκατάστασή της σε εικονικά συστήματα (όπως το VMware και το Virtualbox) δεν χρησιμοποιεί τη λειτουργία fullscreen. Αυτό το πρόβλημα επιλύθηκε κατά βάση με τη [συγκεκριμένη](https://tilde.town/~kzimmermann/articles/fullscreen_freebsd_guest_virtualbox.html) ανάρτηση, από την οποία ακολούθησα τα βήματα που αναφέρω παρακάτω:
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Εγκατέστησα το πακέτο **virtualbox-ose-additions**
+1. Εγκατέστησα το πακέτο **virtualbox-ose-additions**
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2. Στο αρχείο **/etc/rc.conf** πρόσθεσα τις γραμμές *vboxguest_enable="YES"* και *vboxservice_enable="YES"*
+2. Στο αρχείο **/etc/rc.conf** πρόσθεσα τις γραμμές *vboxguest_enable="YES"* και *vboxservice_enable="YES"*
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3. Έκανα τερματισμό λειτουργίας
+3. Έκανα τερματισμό λειτουργίας
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4. Έκανα edit το VM μου και ενεργοποίησα την **επιτάχυνση 3D**
+4. Έκανα edit το VM μου και ενεργοποίησα την **επιτάχυνση 3D**
 
 <br /> <br />
 
@@ -267,6 +267,32 @@
 
 <br /> <br />
 
+## Εβδομάδα Έκτη - Εγκατάσταση και Προσαρμογή Void Linux + Software άσκηση
+
+<br />
+
+### Εγκατάσταση και Προσαρμογή Void Linux
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο έθεσα ως βασική προτεραιότητα την εγκατάσταση ενός νέου λογισμικού **χωρίς systemd** που να ανήκει στην οικογένεια των Linux. Έπειτα από αρκετή έρευνα εντόπισα το λογισμικό **Void Linux** το οποίο μου τράβηξε το ενδιαφέρον λόγω της απλότητάς του και του ελαφρύ λογισμικού του. Η εγκατάσταση έγινε με τη χρήση [αυτού](https://www.youtube.com/watch?v=wiP38mNXujE&t=488s) του βίντεο και πήγε ομαλά, όμως έπειτα από το reboot δεν μπόρεσα να κάνω login στο σύστημα. Με τη βοήθεια [αυτής](https://www.reddit.com/r/voidlinux/comments/kt6ipg/cant_login_after_install/) της ανάρτησης το πρόβλημά μου λύθηκε επιτυχώς. Έπειτα όταν συνδέθηκα στο σύστημα πρόσεξα τρία βασικά πράγματα που έκρινα ως άμεσης διόρθωσης.
+
+1. Το XFCE desktop μου βρισκόταν σε windowed μορφή με ένα μαύρο πλαίσιο γύρω του. Αυτό λύθηκε με τη χρήση της εντολής <kbd>xrandr</kbd> που πληροφορήθηκα από [αυτή](https://askubuntu.com/questions/377937/how-do-i-set-a-custom-resolution) την ανάρτηση
+
+2. Η επιφάνεια εργασίας μου είχε ως γλώσσα την Ελληνική όπου τροποποίησα στην Αγγλική.
+
+3. Τέλος, δεν υπήρχε ήχος στο σύστημα αυτό και εγκατέστησα τα πακέτα <kbd>alsa-utils</kbd> και <kbd>apulse</kbd> για την προσθήκη του ήχου. Πέρα από αυτό έτρεξα την εντολή <kbd>alsamixer</kbd> και πρόσθεσα τον χρήστη στην ομάδα **audio group**.
+
+<br />
+
+**Παρακάτω με τη χρήση της εντολής <kbd>neofetch</kbd> παρουσιάζονται τα χαρακτηριστικά του λειτουργικού συστήματος**
+
+![neofetch void linux](https://user-images.githubusercontent.com/72695605/160250419-921a7058-bf43-4943-b869-41dd1cdd1c7b.PNG)
+
+*Το λογισμικό αυτό τρέχει στο εικονικό σύστημα VMware*
+
+<br /> <br />
+
 -----
 
 ## Βιβλιογραφία και Πηγές βοήθειας
@@ -302,7 +328,12 @@
  - [gedit text source](https://en.wikipedia.org/wiki/Gedit)
 
 #### Έκτο Παραδοτέο
+ - [installation guide Void Linux](https://www.youtube.com/watch?v=wiP38mNXujE&t=488s)
  - [custom resolution](https://askubuntu.com/questions/377937/how-do-i-set-a-custom-resolution)
  - [set LANG](https://docs.voidlinux.org/config/locales.html)
  - [login problem](https://www.reddit.com/r/voidlinux/comments/kt6ipg/cant_login_after_install/)
  - [add user to sudoers](https://phoenixnap.com/kb/how-to-create-add-sudo-user-centos)
+ - [install pip source](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/)
+ - [fixed audio problem 1](https://docs.voidlinux.org/config/media/alsa.html)
+ - [fixed audio problem 2](https://www.youtube.com/watch?v=P3J1MPyiJkY)
+ - [helping video click](https://www.youtube.com/watch?v=kNke39OZ2k0)
