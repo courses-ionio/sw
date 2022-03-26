@@ -1,8 +1,9 @@
 ### Ονοματεπώνυμο: <strong>Κυριάκος Μπαλτατζίδης</strong>
-
 ### Αριθμός Μητρώου: <strong>Π2018176</srtong>
-
+### Edpuzzle: p18balt
 ### [Github profile link](https://github.com/p18balt)
+### [Asciinema profile link](https://asciinema.org/~p18balt)
+
 
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Σύνοψη/Αυτοαξιολόγηση |
