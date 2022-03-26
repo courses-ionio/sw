@@ -19,7 +19,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Ανάρτηση Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/334)| |
 | 4 | [Εγκατάσταση και Προσαρμογή FreeBSD](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-freebsd-130) + [Warmup άσκηση ddgr](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#warmup-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---ddgr) | [Ανάρτηση πρώτης άακησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/364) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) | [Ανάρτηση πρώτης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/447) | |
-| 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click] | | |
+| 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -278,7 +278,7 @@
 
 1. Το XFCE desktop μου βρισκόταν σε windowed μορφή με ένα μαύρο πλαίσιο γύρω του. Αυτό λύθηκε με τη χρήση της εντολής <kbd>xrandr</kbd> που πληροφορήθηκα από [αυτή](https://askubuntu.com/questions/377937/how-do-i-set-a-custom-resolution) την ανάρτηση
 
-2. Η επιφάνεια εργασίας μου είχε ως γλώσσα την Ελληνική όπου τροποποίησα στην Αγγλική.
+2. Η επιφάνεια εργασίας μου είχε ως γλώσσα την Ελληνική όπου τροποποίησα σε Αγγλική.
 
 3. Τέλος, δεν υπήρχε ήχος στο σύστημα αυτό και εγκατέστησα τα πακέτα <kbd>alsa-utils</kbd> και <kbd>apulse</kbd> για την προσθήκη του ήχου. Πέρα από αυτό έτρεξα την εντολή <kbd>alsamixer</kbd> και πρόσθεσα τον χρήστη στην ομάδα **audio group**.
 
@@ -300,7 +300,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Για πρώτη βασική άσκηση γραμμής εντολών επέλεξα την [click](https://github.com/pallets/click) **(Κιτ δημιουργίας διεπαφής γραμμής εντολών)**, όπου όπως λέει και το όνομα της χρησιμοποιείται για τη δημιουργία όμορφων και ελκυστικών διεπαφών γραμμής εντολών. Η click είναι ένα πακέτο της python που ενσωματώνεται στον κώδικα με τη χρήση της εντολής *import click*. Έχει πάρα πολλά πρότυπα χρήσης, αλλά εγώ επικεντρώθηκα στο πιο βασικό της το [options](https://click.palletsprojects.com/en/8.0.x/options/). Για το συγκεκριμένο project ήταν απαραίτητη η εγκατάσταση ενός text editor για τη δημιουργία του κώδικα της python. Για text editor επέλεξα το [gedit](https://wiki.gnome.org/Apps/Gedit) και έπειτα ξεκίνησα με την εξοικίωσή μου με το εργαλείο click. Η βασική διαδικασία που ακολουθήθηκε για το στήσιμο του project αυτού ήταν:
+&nbsp;&nbsp;&nbsp;&nbsp;Για πρώτη βασική άσκηση γραμμής εντολών επέλεξα την [click](https://github.com/pallets/click) **(Κιτ δημιουργίας διεπαφής γραμμής εντολών)**, όπου όπως λέει και το όνομά της χρησιμοποιείται για τη δημιουργία όμορφων και ελκυστικών διεπαφών γραμμής εντολών. Η click είναι ένα πακέτο της python που ενσωματώνεται στον κώδικα με τη χρήση της εντολής *import click*. Έχει πάρα πολλά πρότυπα χρήσης, αλλά εγώ επικεντρώθηκα στο πιο βασικό της το [options](https://click.palletsprojects.com/en/8.0.x/options/). Για το συγκεκριμένο project ήταν απαραίτητη η εγκατάσταση ενός text editor για τη δημιουργία του κώδικα της python. Για text editor επέλεξα το [gedit](https://wiki.gnome.org/Apps/Gedit) και έπειτα ξεκίνησα με την εξοικίωσή μου με το εργαλείο click. Η βασική διαδικασία που ακολουθήθηκε για το στήσιμο του project αυτού ήταν:
 
 1. Η **εγκατάσταση** του πακέτου **click**
 
