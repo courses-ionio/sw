@@ -212,7 +212,7 @@ Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.net
 - [x] Webscrape [fetch data from webpage]
 - [x] Laravel(PHP) serialization/deserialization
 - [x] Custom SQL payloads for exfiltrate data from database includes tables names, coluns names, columns data
-- [x] Uses bit shifting & binary searching ascii bruteforce technic
+- [x] Uses bit shifting & binary searching ascii bruteforce techniques
 - [x] Based on Error based SQL injection
 
 <br>
