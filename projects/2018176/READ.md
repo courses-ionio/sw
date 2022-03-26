@@ -51,8 +51,10 @@
 
 [Asciinema Link] (https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
 
-#<a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
+# <a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
 Πήρα 2 σκριπτάκια και χρησιμοποίησα στο py-spy και στο hyperfine για να συγκρίνω της αποδόσεις των δύο:
+
 [Asciinema Py spy](https://asciinema.org/a/8WTOiCNQxP6aPcirkvvNm554W)
+
 [Asciinema Hyperfine](https://asciinema.org/a/yJvsvxnk2DcHLcO1MEGzB55fN)
