@@ -11,7 +11,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/348) | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/349) | Στο παραδοτέο 2 Δημιούργησα το Βιογραφικό και παράλληλα εντάχθηκα σε μία ομάδα. |
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/351) | Προσθήκη ανακοίνωσης στο site της σχολής|
-| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux |
+| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -43,6 +43,9 @@
 [Issue Link](https://github.com/ioniodi/sitegr/issues/269),
 [Pull Request](https://github.com/ioniodi/all_collections/pull/18),
 [Link Αναφοράς](https://github.com/courses-ionio/help/discussions/351)
+
 # <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .
 [Link Αναφοράς](https://github.com/courses-ionio/help/discussions/434)
+https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS
+
