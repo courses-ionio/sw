@@ -17,9 +17,9 @@
 | 1 | [Εισαγωγή](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B7---%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/89) | |
 | 2 | [Βιογραφικό](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-cv) και [Δημιουργία ομάδας](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82-%CE%BA%CE%B1%CE%B9-webring) | [Ανάρτηση Βιογραφικού και Δημιουργίας Ομάδας στο Discussions](https://github.com/courses-ionio/help/discussions/249) | |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%80%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Ανάρτηση Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/334)| |
-| 4 | [Εγκατάσταση και Προσαρμογή FreeBSD](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-freebsd-130) + [Warmup άσκηση](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#warmup-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---ddgr) | [Ανάρτηση πρώτης άακησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/364) | |
+| 4 | [Εγκατάσταση και Προσαρμογή FreeBSD](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-freebsd-130) + [Warmup άσκηση ddgr](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#warmup-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---ddgr) | [Ανάρτηση πρώτης άακησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/364) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) | [Ανάρτηση πρώτης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/447) | |
-| 6 | [Εγκατάσταση και Προσαρμογή Void Linux] + [Software άσκηση] | | |
+| 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click] | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -170,7 +170,7 @@
 
 <br /><br />
 
-## Εβδομάδα Τέταρτη - Εγκατάσταση και Προσαρμογή FreeBSD + Warmup άσκηση
+## Εβδομάδα Τέταρτη - Εγκατάσταση και Προσαρμογή FreeBSD + Warmup άσκηση ddgr
 
 <br />
 
@@ -196,8 +196,7 @@
 
 *Το λογισμικό αυτό τρέχει στο εικονικό σύστημα VMware*
 
-<br /> <br />
-
+<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;Έπειτα από αυτή τη προσάρμοση είχα σκοπό να τροποποιήσω την εμφάνιση και την αισθητική του λογισμικού μου. Το εργαλείο <kbd>portsnap</kbd> ήταν αναγκαίο για την υλοποίηση αυτή, το οποίο επιτρέπει την ανάκτηση και εξαγωγή snapshot από μία μεγάλη λίστα με ports. Σκοπός μου ήταν να χρησιμοποιήσω το εργαλείο [conky](https://github.com/brndnmtthws/conky) το οποίο θα μου επέτρεπε να έχω σε ένα προσαρμοσμένο μέρος της επιφάνειας εργασίας μου βασικές πληροφορίες για το σύστημά μου. Οι πληροφορίες που βρήκα στο διαδίκτυο αφορούσαν κύριως τα συστήματα Linux, παρ' όλα αυτά προσπάθησα πολύ ώρα και διάβασα πολλούς οδηγούς χωρίς να καταφέρω να το κάνω να λειτουργήσει.
 
@@ -267,7 +266,7 @@
 
 <br /> <br />
 
-## Εβδομάδα Έκτη - Εγκατάσταση και Προσαρμογή Void Linux + Software άσκηση
+## Εβδομάδα Έκτη - Εγκατάσταση και Προσαρμογή Void Linux + Software άσκηση click
 
 <br />
 
@@ -291,7 +290,59 @@
 
 *Το λογισμικό αυτό τρέχει στο εικονικό σύστημα VMware*
 
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Έπειτα από αυτή τη διαδικασία ακολούθησε η εξοικείωσή μου με την εντολή <kbd>xbps</kbd> την οποία χρησιμοποιεί αποκλειστικά το Void Linux για την εγκατάσταση πακέτων. Ακόμη θα ήθελα να προσθέσω πως από τα *settings* τροποποίησα την εμφάνιση της επιφάνειας εργασίας με σκοπό την προσαρμογή της στις προτιμήσεις μου.
+
 <br /> <br />
+
+### Software Άσκηση - click
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για πρώτη βασική άσκηση γραμμής εντολών επέλεξα την [click](https://github.com/pallets/click) **(Κιτ δημιουργίας διεπαφής γραμμής εντολών)**, όπου όπως λέει και το όνομα της χρησιμοποιείται για τη δημιουργία όμορφων και ελκυστικών διεπαφών γραμμής εντολών. Η click είναι ένα πακέτο της python που ενσωματώνεται στον κώδικα με τη χρήση της εντολής *import click*. Έχει πάρα πολλά πρότυπα χρήσης, αλλά εγώ επικεντρώθηκα στο πιο βασικό της το [options](https://click.palletsprojects.com/en/8.0.x/options/). Για το συγκεκριμένο project ήταν απαραίτητη η εγκατάσταση ενός text editor για τη δημιουργία του κώδικα της python. Για text editor επέλεξα το [gedit](https://wiki.gnome.org/Apps/Gedit) και έπειτα ξεκίνησα με την εξοικίωσή μου με το εργαλείο click. Η βασική διαδικασία που ακολουθήθηκε για το στήσιμο του project αυτού ήταν:
+
+1. Η **εγκατάσταση** του πακέτου **click**
+
+2. Δημιουργία φακέλου **6assignment**
+
+3. Τρέξιμο εντολής **virtualenv venv**
+
+4. Τρέξιμο εντολής **. venv/bin/activate**
+
+5. Δημιουργία αρχείου **setup.py**
+
+6. Δημιουργία βασικού αρχείου **calculate.py**
+
+7. Τρέξιμο εντολής **pip install --editable .**
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Στο project αυτό ο χρήστης επιλέγει 2 αριθμούς με τη χρήση της <kbd>--int1</kbd> και <kbd>--int2</kbd> και έπειτα διαλέγει μία από τις τέσσερις βασικές αριθμητικές πράξεις (πρόσθεση, αφαίρεση, πολλαπλασιασμός, διαίρεση). Σκοπός μου ήταν να έχω μία ήπια πρώτη επαφή με το πολύ σημαντικό εργαλείο **click** και για αυτό επέλεξα ως πρώτη εφαρμογή κάτι απλό, αλλά ταυτοχρόνως χρήσιμο. Το πακέτο αυτό της python έχει πάρα πολλά πρότυπα χρήσης που δίνουν μεγάλη ελευθερία στον δημιουργό και σίγουρα αξίζει κανείς να πειραματιστεί μαζί τους.
+
+<br />
+<p align="center">
+ <b>Παρακάτω παρουσιάζονται οι λειτουργίες της μικρής εφαρμογής μου (σε σύστημα VM Void Linux)</b>
+</p>
+ 
+<p align="center">
+ <a href="https://asciinema.org/a/L8hq4rmrvmv7RdcWGN4485U5W" target="_blank"><img src="https://asciinema.org/a/L8hq4rmrvmv7RdcWGN4485U5W.svg" /></a>
+</p>
+
+<br />
+
+<p align="center">
+ <b>Εικόνες των setup.py και calculate.py αντίστοιχα</b>
+</p>
+
+<p align="center">
+ 
+ ![setup-calculate](https://user-images.githubusercontent.com/72695605/160257587-318787aa-b8ef-4414-bce0-b565b4a4935e.png)
+ 
+</p>
+
+<br /> <br />
+
 
 -----
 
@@ -337,3 +388,5 @@
  - [fixed audio problem 1](https://docs.voidlinux.org/config/media/alsa.html)
  - [fixed audio problem 2](https://www.youtube.com/watch?v=P3J1MPyiJkY)
  - [helping video click](https://www.youtube.com/watch?v=kNke39OZ2k0)
+ - [click documentation - options](https://click.palletsprojects.com/en/8.0.x/options/)
+ - [merge images](https://products.aspose.app/imaging/image-merge)
