@@ -55,7 +55,6 @@ dsadsa
 
 ## :pushpin:: Εκγατάσταση Linux distro
 
-
 ### KISS Linux distro 💋
 
 Η εγκατάσταση του Kiss Linux και ο τρόπος λειτουργίας του είναι κάτι πρωτόγνωρο για μένα λόγω ότι πρώτη φορά στην ενασχόληση μου με τα UNIX έκανα compile ενα ολόκληρο Linux kernel και όχι μόνο με έκανε να αποκτήσω την τεχνογνωσία και την δομή ενός Linux και την δομή και επιλογή configuration του kernel.
@@ -115,6 +114,9 @@ dsadsa
 [KISS Install](https://kisslinux.org/install) <br>
 [KISS Wiki](https://kisslinux.org/wiki/) <br>
 [KISS Official Repo](https://github.com/kisslinux/repo/)
+
+### Void Linux distro
+
 
 ## :pushpin:: Βιογραφικό Παραδοτέο Α
 
