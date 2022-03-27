@@ -5,16 +5,12 @@
 
 
 
-
-
-
-
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#εισαγωγή)|[Discussion](https://github.com/courses-ionio/help/discussions/60) |
-| 2 | [Bιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/193) |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/471) | |
-| 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | | |
+| 1 | [Εισαγωγή](#εισαγωγή)|[Discussion](https://github.com/courses-ionio/help/discussions/60) | Ολοκλήρωσα τα ζητούμενα του πρώτου παραδοτέου στην ώρα τους.
+| 2 | [Bιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/193) | Ολοκλήρωσα το βιογραφικό μου και εντάχθηκα σε ομάδα πριν τη λήξη της προθεσμίας
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/471) |  Αυτό το παραδοτέο ολοκληρώθηκε αλλά εκπρόθεσμα
+| 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) |[Discussion](https://github.com/courses-ionio/help/discussions/483) | Ολοκλήρωσα το παραδοτέο όμως εκπρόθεσμα |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
