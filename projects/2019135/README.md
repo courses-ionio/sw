@@ -45,9 +45,9 @@
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 3</h1>
 
 ## ΑΙΤΗΜΑ ΕΝΣΩΜΑΤΩΣΗΣ ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ
-Το [issue](https://github.com/ioniodi/sitegr/issues/343) για την ενσωμάτωση στην ιστοσελίδα. Η πρώτη αλλαγή που πραγματοποίησα ήταν η προσθήκη του εκπαιδευτικού υποβάθρου του καθηγητή Αθανάσιου Τσίπη. Όταν η αλλαγή μου πήρε το green light, προχώρησα στη διαδικασία του [pull request](https://github.com/ioniodi/all_collections/pull/51). Παρακάτω υπάρχει και το demo που δημιούργησα: 
+Το [issue](https://github.com/ioniodi/sitegr/issues/343) για την ενσωμάτωση στην ιστοσελίδα. Η πρώτη αλλαγή που πραγματοποίησα ήταν η προσθήκη του εκπαιδευτικού υποβάθρου του καθηγητή Αθανάσιου Τσίπη. Όταν η αλλαγή μου πήρε το green light, προχώρησα στη διαδικασία του [pull request](https://github.com/ioniodi/all_collections/pull/54). Παρακάτω υπάρχει και το demo που δημιούργησα: 
 
-- [Demo](https://singular-horse-ad6b9c.netlify.app//people/atsipis/)
+- [Demo](https://fancy-dieffenbachia-dba4f9.netlify.app//people/atsipis/)
 
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 4</h1>
 
