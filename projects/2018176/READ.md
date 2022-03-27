@@ -57,14 +57,14 @@
 
 [Asciinema Py spy](https://asciinema.org/a/8WTOiCNQxP6aPcirkvvNm554W)
 
-py-spy [apotelesma](https://github.com/p18balt/things/blob/main/apotelesma) 
+py-spy [script2py.svg](https://github.com/p18balt/things/blob/main/apotelesma) 
 
 py-spy script2
 ![script2py](https://user-images.githubusercontent.com/93882637/160260805-def13df3-a6d8-40ee-8e72-4552f4ab754d.svg)
 
 [Asciinema Hyperfine](https://asciinema.org/a/yJvsvxnk2DcHLcO1MEGzB55fN)
 
-hyperfine benchmark [Results:](https://github.com/p18balt/things/blob/main/apotelesma)
+hyperfine benchmark [Results:(apotelesma)](https://github.com/p18balt/things/blob/main/apotelesma)
 
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
