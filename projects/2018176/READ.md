@@ -13,7 +13,7 @@
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/351) | Προσθήκη ανακοίνωσης στο site της σχολής|
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> | | |
+| <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> | https://github.com/courses-ionio/help/discussions/469| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
