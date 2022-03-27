@@ -172,7 +172,7 @@
 #### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/1](https://github.com/Git-s-PopTeamEpic/site/issues/1)<br>
 #### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/5](https://github.com/Git-s-PopTeamEpic/site/pull/5)<br>
 
-## EXTRA: Shell Script για αυτόματο update των submodule "HakUpdateModules.sh"
+## Extra: Shell Script για αυτόματο update των submodule "HakUpdateModules.sh"
 Να αναφέρω ότι για να κάνω την ζωή μου πιο εύκολη και καθώς δεν ήθελα συνεχώς πλέων να κουράζομε με την αποδοχή, μετά το merge και μετά το update των submodule ώστε να πιάνουν οι αλλαγές τόπο αποφάσισα να φτιάξω ένα shell script που να με βοηθάει να γίνονται όλα αυτά γρήγορα. Το script δέχεται 4 βασικά inputs και κάνει την δουλεία του update των modules για εσένα προστατεύοντάς σε από επίμονους πονοκεφάλους. Μιας και αυτό δεν είναι εντελώς εντός μαθήματος μπορεί να του κάνω και διάφορα update στο μέλλον για διάφορες κατηγορίες χρηστών, που μπορεί να αναζητούν κάτι διαφορετικό.<br>
 
 <p align="center">
