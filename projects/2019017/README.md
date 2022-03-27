@@ -59,8 +59,12 @@ Issue πριν κανω pull request στο organization: https://github.com/Git
 Pull requests στο organization: [site](https://github.com/Git-s-PopTeamEpic/site/pull/3), [images](https://github.com/Git-s-PopTeamEpic/images/pull/1), [gallery](https://github.com/Git-s-PopTeamEpic/_gallery/pull/1).
 
 ## Ασκηση Γραμμης Εντολων 2
-Για αυτη την εβδομαδα στην ασκηση γραμμης εντολων εγκατεστησα το void linux στο virtualbox. Εκανα neofetch και dmesg και δοκιμασα να κανω την ασκηση  ntfy αλλα ειχε προβλημα το python-dbus (το κατεβασα, αλλα εβγαζε error `No module named dbus`) και δεν δουλευαν τα notifications. Προσπαθησα να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn) (το οποιο φαινεται να ειναι παρατημενο απο τον ιδιοκτητη του repo) για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.<br>
-Asciinema: https://asciinema.org/a/jWM3qlAttXOdKan7X3oI57La5
+Για αυτη την εβδομαδα στην ασκηση γραμμης εντολων εγκατεστησα το void linux στο virtualbox. Εκανα neofetch και dmesg και χρησιμοποιησα το εργαλειο ntfy οπως στην ασκηση 1 (ωστε αυτη τη φορα να μετρησει στο βαθμο, καθως ειναι σε systemd-less OS). Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn) (το οποιο φαινεται να ειναι παρατημενο απο τον ιδιοκτητη του repo) για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.<br>
+
+Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
+
+Χρησιμοποιησα ενα recording application για να δειξω το desktop notification που εμφανιστηκε μετα το download (καθως το asciinema δεν μπορει να το δειξει):<br>
+![image](https://user-images.githubusercontent.com/72458452/160300105-4cfe2aed-af6f-45c1-8499-89d6e66bea97.gif)
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
