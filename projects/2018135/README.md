@@ -61,7 +61,7 @@
 | Thumb | [link](https://github.com/initialelizah/images/blob/81e5a9a7bf2ebad4009219d2f7710a7ff4cb65b8/orbisos-thumb.jpg) | [link](https://github.com/initialelizah/images/blob/81e5a9a7bf2ebad4009219d2f7710a7ff4cb65b8/besys-thumb.jpg) |
 | Demo Link | [link](https://initialelizah.netlify.app/gallery/orbisos/) | [link](https://initialelizah.netlify.app/gallery/besys/) |
 
-Ακόμα πρόσθεσα τα παραπάνω σε σετ διαφανειών και χρονολόγιο. Για τις διαφάνειες τα πρόσθεσα στο ήδη υπάρχων "methods" ενώ για το χρονολόγιο σημιούργησα ένα δικό μου που ονόμασα "os".
+Ακόμα πρόσθεσα τα παραπάνω σε σετ διαφανειών και χρονολόγιο. Για τις διαφάνειες τα πρόσθεσα στο ήδη υπάρχων "methods" ενώ για το χρονολόγιο δημιούργησα ένα δικό μου που ονόμασα "os".
 
 | Αρχεία | Διαφάνειες | Χρονολόγιο | 
 | --- | --- | --- | 
