@@ -45,4 +45,12 @@
 
 ## Παραδοτέο 6 (Άσκηση γραμμής εντολών)
 
-TODO
+Σε αυτό το παραδοτέο μας ζητήθηκε να εγκαταστήσουμε ένα λειτουργικό σύστημα το οποίο να μην κάνει χρήση του υποσυστήματος systemd και να κάνουμε μία άσκηση γραμμής εντολών. Ως λειτουργικό σύστημα χρησιμοποίησα το [Devuan](https://www.devuan.org/) το οποίο είναι ένα fork του λειτουργικού συστήματος [Debian](https://www.debian.org/index.el.html) με την σημαντική αλλαγή ότι δεν χρησιμοποιεί systemd. Η άσκηση που επέλεξα, ήθελε να στείλουμε ένα notification στο κινητό μας με την βοήθεια του εργαλείου [ntfy](https://ntfy.sh/) όταν τελειώσει κάποιο μεγάλο task. Αυτό που έκανα ήταν να στείλω ένα notification όταν τελείωσε να κάνει update το σύστημα. Δυστυχώς είχα κάνει ήδη update, οπότε το task δεν ήταν μεγάλο, αλλά συνήθως παίρνει αρκετό χρόνο(τουλάχιστον με την σύνδεση που έχω). Παρακάτω μπορείτε να βρείτε κάποια screenshots και ένα asciinema video.
+
+**Το notification στην mobile εφαρμογή του ntfy.**
+![Screenshot_20220327_215622_io heckel ntfy](https://user-images.githubusercontent.com/58133603/160297154-cfe3f79a-be9f-4771-be3d-ede3c8519679.jpg)
+
+**Το notification στην broser εκδοχή του ntfy.**
+![unknown](https://user-images.githubusercontent.com/58133603/160297146-88a32e83-0ca6-4f40-b5b1-cb4f2229293d.png)
+
+[Asciinema Video](https://asciinema.org/a/481118)
