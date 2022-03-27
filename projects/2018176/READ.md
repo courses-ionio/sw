@@ -55,7 +55,7 @@
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
 Πήρα 2 σκριπτάκια και χρησιμοποίησα στο py-spy και στο hyperfine για να συγκρίνω της αποδόσεις των δύο:
 
-[Asciinema Py spy](https://asciinema.org/a/8WTOiCNQxP6aPcirkvvNm554W)
+[Asciinema Py spy](https://asciinema.org/a/jc1vyK2KVHLwfKUyEkvWPhalH)
 
 py-spy [script2py.svg](https://github.com/p18balt/things/blob/main/apotelesma) 
 
