@@ -65,9 +65,9 @@ Pull requests στο organization: [site](https://github.com/Git-s-PopTeamEpic/s
 Επιπλεον, εγκατεστησα την εφαρμογη "pushbullet" σε android simulator και εγραψα το αρχειο `~/.ntfy.yml`ωστε να εχει ως backends το pushbullet και να μπορει να στειλει ειδοποιησεις στο "κινητο" μου. Ετσι, οποιαδηποτε εντολη κανω και διαρκεσει παραπανω απο 10 δευτερολεπτα (default setting), οταν τελειωσει θα σταλθει ειδοποιηση _και_ στο "κινητο" μου _και_ στο desktop του Void.<br>
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/72458452/160302752-3c10e38f-5241-470d-a06b-69419020abdf.gif)
 
-<br>
-Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn) (το οποιο φαινεται να ειναι παρατημενο απο τον ιδιοκτητη του repo) για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.<br>
-Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
+
+Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn), το οποιο φαινεται να ειναι παρατημενο απο τον ιδιοκτητη του repo για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.
+<br>Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
