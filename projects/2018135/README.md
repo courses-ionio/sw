@@ -13,7 +13,7 @@
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [LINK](https://github.com/courses-ionio/help/discussions/322) | |
 | 4 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/374) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | [LINK](https://github.com/courses-ionio/help/discussions/438) | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/486)| |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -75,3 +75,5 @@
 | gallery | [link](https://github.com/DevTeamIU/_gallery/pull/2) | 
 | images | [link](https://github.com/DevTeamIU/images/pull/2) |
 | site | [link](https://github.com/DevTeamIU/site/pull/3) |
+
+# ✧ Παραδοτέο 6 
