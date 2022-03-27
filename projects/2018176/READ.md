@@ -64,7 +64,9 @@ py-spy script2
 
 [Asciinema Hyperfine](https://asciinema.org/a/yJvsvxnk2DcHLcO1MEGzB55fN)
 
-hyperfine benchmark [Results:(apotelesma)](https://github.com/p18balt/things/blob/main/apotelesma)
+hyperfine benchmark 
+
+[Results:(apotelesma)](https://github.com/p18balt/things/blob/main/apotelesma)
 
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
