@@ -167,8 +167,8 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 
 Pull Requests στον οργανισμό:
 * [Site](https://github.com/OompaLoompas/site/pull/7)
-* [_gallery](https://github.com/OompaLoompas/_gallery)
-* [images](https://github.com/OompaLoompas/images)
+* [_gallery](https://github.com/OompaLoompas/_gallery/pull/6)
+* [images](https://github.com/OompaLoompas/images/pull/6)
 
 Όσον αφορά την ιστοσελίδα του οργανισμού, δημιουργήθηκε από εμένα σε ένα νέο branch και όχι στο master. Αυτό διότι, δεν ήθελα στην περίπτωση που κάνω κάποιο καίριο λάθος να καταστραφεί το master. Επομένως ενώ τα Pull Request έγιναν στο master, κάποια αρχεία που έλειπαν από το νέο branch τα μετέφερα με Pull Request master->2019110.
 Ύστερα ακολούθησα παρόμοια διαδικασία με αυτήν που δημιούργησα την προσωπική ιστοσελίδα, ώστε να έχουμε αυτή των OompaLoopas όπως φαίνεται [εδω](https://test-oompas.netlify.app/).
