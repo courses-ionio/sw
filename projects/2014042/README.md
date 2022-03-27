@@ -9,9 +9,9 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής και καταγραφή του συνδέσμου συζήτησης δίπλα -->](#εισαγωγή) |[Παρουσίαση Προόδου 1](https://github.com/courses-ionio/help/discussions/84) | |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτέο-2-βιογραφικό-και-δημιουργία-ομάδας) |[Παρουσίαση Προόδου 2](https://github.com/courses-ionio/help/discussions/218) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Παρουσίαση Πρόοδου 3](https://github.com/courses-ionio/help/discussions/472) | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |[Παρουσίαση Πρόοδου 3](https://github.com/courses-ionio/help/discussions/472) | |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4-άσκηση-γραμμής-εντολών) |[Παρουσίαση Πρόοδου 4](https://github.com/courses-ionio/help/discussions/470) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5-συμμετοχικό-περιεχόμενο-α1α2) | [Παρουσίαση Πρόοδου 5](https://github.com/courses-ionio/help/discussions/480) | |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -73,4 +73,18 @@
 
 ![alt text](https://raw.githubusercontent.com/Sola1r3/pictures/main/kiss5-1.jpg)
 
+<br />
+
+## Παραδοτέο 5: Συμμετοχικό Περιεχόμενο Α1+Α2
+
+Για συμμετοχικό περιεχόμενο επέλεξα για εικόνες τον Yukihiro Matsumoto, δημιουργός της γλώσσας Ruby και την Margaret Hamilton εγκεκριμένη στον χώρο και υπεύθυνη γα την δημιουργία του όρου Software Engineering.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Images Yukihiro Matsumoto | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/yukihiro-matsumoto.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/yukihiro-matsumoto-thumb.jpg) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/gallery/yukihiro-matsumoto/) |
+| Gallery Yukihiro Matsumoto | [Στοιχεία Εικόνας](hhttps://github.com/Sola1r3/_gallery/blob/master/yukihiro-matsumoto.md) | |
+| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/gallery/margaret-hamilton/) |
+| Gallery Margaret Hamilton | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/margaret-hamilton.md) | |
+| Slides Σημαντικές Προσωπικότητες | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/influential-people.md) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/slides/influential-people/) |
+| Timeline Προγραμματιστικές Γλώσσες | [Timeline](https://github.com/Sola1r3/site/blob/master/_timeline/programming-languages.md) | |
 <br />
