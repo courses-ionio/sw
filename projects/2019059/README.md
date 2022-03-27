@@ -61,3 +61,9 @@ https://github.com/courses-ionio/help/discussions/197
 # Παραδοτέο 6
 
 Για το παραδοτέο αυτό χρησιμοποίησα το λειτουργικό Void-linux.Αύριο θα στείλω τις εικόνες σε screenshot.
+Για το παραδοτέο αυτό αποφάσησα να κάνω την άσκηση γραμμής εντολών για με την χρήση της βιβλιοθήκης twilio της python. Εδώ φαίνεται ένας απλός κώδικας σε python που χρειάστηκε για να στείλω μια κλίση στο δικό μου τηλέφωνο.
+![Inkedαπλός κώδικας_LI](https://user-images.githubusercontent.com/72515596/160277283-6d73e24d-eca8-4f82-b258-8da0fd21c742.jpg)
+Απλή εκτέλεση του αρχείου.
+![picture1 - Αντιγραφή](https://user-images.githubusercontent.com/72515596/160277297-1e62cff8-72da-4739-a1fa-857003d3f9e6.png)
+Δώστε προσωχή στο τηλέφωνο είναι ίδιο με την τιμή της μεταβλητής from_ στον κώδικα python πιο πάνω.
+![alabama](https://user-images.githubusercontent.com/72515596/160277305-0ae48bb6-583d-446f-84fe-b742578afe98.jpg)
