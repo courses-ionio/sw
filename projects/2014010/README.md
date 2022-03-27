@@ -12,7 +12,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/308) | |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 4](https://github.com/courses-ionio/help/discussions/388) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Παρουσίαση Προόδου 5](https://github.com/courses-ionio/help/discussions/453) | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/482) | |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -124,6 +124,29 @@ TL;DR --> Ευελπιστώ να μάθω όσα περισσότερα γίν�
 | [Cont1nental/site](https://github.com/Cont1nental/site) | [Link](https://github.com/Cont1nental/site/pull/4) |
 | [Cont1nental/gallery](https://github.com/Cont1nental/_gallery/tree/6bff6ec01bc7df7bf9a53bff34bc879579e01337) | [Link](https://github.com/Cont1nental/_gallery/pull/2) |
 | [Cont1nental/images](https://github.com/Cont1nental/images/tree/ba2e155c3d73462923d8edc6fb5172c78eac99b5) | [Link](https://github.com/Cont1nental/images/pull/2) |
+
+## ΠΑΡΑΔΟΤΕΟ 6
+
+### Άσκηση γραμμής εντολών
+
+Για το 6ο παραδοτέα κληθήκαμε να επιλέξουμε ανάμεσα σε μερικές απο τις παρακάτω [ασκήσεις](https://github.com/epidrome/dokey#software).
+Επέλεξα να ασχοληθώ με το [ntfy](https://github.com/dschep/ntfy), το οποίο είναι ένα πρόγραμματάκι το οποίο στέλνει notifications σε ένα μέρος της επιλογής του χρήστη. Η αρχική μου σκέψη και η πιο πρακτική ήταν να το προγραμματίσω ώστε να δέχομαι τα μηνύματα στο κινητό μου τηλέφωνο, όμως το λογισμικό δεν το υποστήριζε. Οπότε επέλεξα μια Desktop εφαρμογή, το Telegram. 
+
+Αρχικά έπρεπε να γίνει η λήψη της Python, καθώς το πρόγραμμα είναι προγραμματισμένο και δέχεται εντολές σε αυτή τη γλώσσα. Επειδή χρησιμοποιώ FreeBSD, οι εντολές που έτρεξα ήταν οι εξής:  
+Για τα ports: ```cd /usr/ports/devel/py-pip/ && make install clean```   
+Για τα packages: ```pkg install devel/py-pip``` και ```pkg install py38-pip```  
+
+Στη συνέχεια έκανα contact με το ntfy-bot στο Telegram, το οποίο μου έδωσε ένα token ώστε να συνδέσω το terminal μου με το bot.
+Στο τελικό στάδιο, το μόνο που έπρεπε να γίνει, είναι να επικοινωνήσω μαζί του μέσω terminal με την εντολή ```ntfy -b telegram send "message"```.
+
+[Asciinema](https://asciinema.org/a/hAkIlyOYKvH41y3NJ86Pd0M4r) στο οποίο στέλνω εντολές στο nfty-bot  
+
+Screenshots απο το Telegram, στο οποίο φαίνεται ότι οι εντολές έρχονται κανονικά.
+![image](https://user-images.githubusercontent.com/46355073/160297737-4256847b-353b-4265-b2dc-d0336167a179.png)
+
+
+
+
 
 ## ΣΥΝΕΙΣΦΟΡΑ ΣΕ ΣΥΖΗΤΗΣΕΙΣ
 
