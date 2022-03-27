@@ -33,14 +33,20 @@
 
 [Το αποφθετήριο](https://github.com/initialelizah/online-cv)
 
+![bio](https://github.com/initialelizah/imagestoadd/blob/main/bio.jpg)
+
 Ακόμα, έγινε η δημιουργία ομάδων
 
 [webring ομάδας μου](https://devteamiu.netlify.app)
+
+![webring](https://github.com/initialelizah/imagestoadd/blob/main/webring.jpg)
 
 # ✧ Παραδοτέο 3 - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Για το αίτημα ενσωμάτωσης στην ιστοσελίδα αποφάσισα να προσθέσω μια ανακοίνωση, συγκεκριμένα "Ημερίδα Ενημέρωσης - "Έξυπνες ψηφιακές εφαρμογές και εργαλεία για την αποτελεσματική προώθηση και ανάδειξη της βιοποικοιλότητας των Ιονίων Νήσων - ΕΡΜΗΣ"" από την επίσημη ιστοσελίδα του πανεπιστημίου και άνοιξα ένα [issue](https://github.com/ioniodi/sitegr/issues/275). Αφού πήρα το green light, προχώρησα στην προσθήκη της ανακοίνωσης στα "post" του repository "all_collections", και τέλος έκανα [pull request](https://github.com/ioniodi/all_collections/pull/17) στο repository. Μέσω terminal έκανα αρχικά αφαίρεση του submodule "all_collections" και μετά πρόσθεσα το δικό μου forked με τις αλλαγές. 
 
 [Link του Live Demo](https://initialelizahsitegr.netlify.app/posts/2022/01/26/hmerida-enhmerwshs/)
+
+![post](https://github.com/initialelizah/imagestoadd/blob/main/post.jpg)
 
 # ✧ Παραδοτέο 4 - Εγκατάσταση Λογισμικού
 
