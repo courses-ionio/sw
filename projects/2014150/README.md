@@ -14,7 +14,7 @@
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/338) | Κατανόηση εντολών μέσω git για το επιτυχές αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος, με κάποια προβληματα στο submodule και η κατανόηση αυτών |
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
 | <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας MAME32, ATARI-DOS και χρήση Netlify για το ανέβασμα τους |
-| 6 | Άσκηση γραμμής εντολών | | |
+| <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link]() | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
