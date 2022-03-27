@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή)|[Discussion](https://github.com/courses-ionio/help/discussions/60) |
 | 2 | [Bιογραφικό και δημιουργία ομάδας](#βιογραφικό)|[Discussion](https://github.com/courses-ionio/help/discussions/193) |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)| | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -27,6 +27,16 @@
 Για το βιογραφικό μου χρησιμοποίησα [αυτό](https://github.com/sharu725/online-cv) ως tamplate και το τροποποίησα ώστε να φαίνονται τα δικά μου στοιχεία και θα το τροποποιήσω και άλλο στη συνέχεια. Οι περισσότερες τροποποιήσεις μέχρι στιγμής έχουν γίνει μέσω terminal σε λειτουργικό Ubuntu,παρακάτω υπάρχει και ένα asciinema link για ένα σύντομο demo.
 
 [Το CV μου](https://alexl14.github.io/online-cv/)<br/>[Η ομάδα μου](https://github.com/ionioi)<br/>[Webring](https://ionioi.netlify.app/)<br/>[Asciinema Link](https://asciinema.org/a/471799)
+
+## 3ο Παραδοτέο
+
+Για το 3ο παραδοτέο πρόσθεσα ένα ακόμα ερευνητικό ενδιαφέρον στον κύριο Βλάμο.
+
+[Issue](https://github.com/ioniodi/sitegr/issues/345)
+
+Αφού πήρα το green light προχώρησα σε [pull request](https://github.com/ioniodi/all_collections/pull/47) που μετά τις απαραίτητες αλλαγές έγινε merge.
+
+[Netlify Demo](https://heuristic-tereshkova-ead94e.netlify.app//people/vlamos/)
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
