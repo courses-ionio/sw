@@ -9,9 +9,9 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/help/discussions/59) | |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) |[Discussions](https://github.com/courses-ionio/help/discussions/182) | 	Γι'αυτό το παραδοτέο, έχει γίνει η εμπρόθεσμη παράδοση του, η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring.
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | | |
 | 4 | [Εγκατάσταση λειτουργικού](#παραδοτεο-4) | [Discussions](https://github.com/courses-ionio/help/discussions/381)|Σε αυτό το παραδοτέο, έγινε η εγκατάσταση του FreeBSD λογισμικού και η εμπρόθεσμη παράδοση του |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -53,6 +53,10 @@
 Σε αυτό το παραδοτεό ασχολήθηκα με την εγκατάσταση του λειτουργικού, χωρίς systemd, `FreeBSD` και παρακάτω υπάρχει το αντίστοιχο dmesg και neofetch: https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd
 
 <a href="https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd" target="_blank"><img src="https://asciinema.org/a/SJcwfQE4hZ4esWWO2cu3rTgSd.svg" /></a>
+
+<h1 align="center">ΠΑΡΑΔΟΤΕΟ 5</h1>
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 + Α2
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
