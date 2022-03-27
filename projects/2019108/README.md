@@ -18,7 +18,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/314) | |
 | 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/365) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/444) | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών: installing systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -110,15 +110,33 @@
 #### Link προς τα merged pull request μετά απο την λύση του γνωστού προβλήματος με το submodule: [sitegr/335](https://github.com/ioniodi/sitegr/pull/335) και [all_collections/27](https://github.com/ioniodi/all_collections/pull/27)
 
 # 4ο Παραδοτέο - Εγκατάσταση systemd-less linux distro
-Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Έχω ήδη δοκιμάσει και το kiss και το funtoo και έχω δημιουργήσει και ένα αποθετήριο με μερικές εικόνες για να δείξω προς το παρών την δουλεία που έχει γίνει. Θα ανανεώσω την αναφορά μου μεταφέροντας αυτό το section σε ένα πιο αναλυτικό που θα δημιουργήσω σε επόμενα παραδοτέα γραμμής εντολών. Το [Προσωρινό link](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo) repo εικόνων.
-Για το funtoo έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formatting, file system management, portage, grep boot-loader και άλλα. Υπήρξε μία ασυνεννοησία με τα εργαστήρια και μας δόθηκε η ιδέα ότι θα έπρεπε να κάνουμε ότι γράφει και ο πίνακας περιεχομένων που είναι "άσκηση γραμμής εντολών". Παρόλο που έκανα μία άσκηση γραμμής εντολών αποφάσισα να μην την ανεβάσω επίσημα εδώ και να την βελτιώσω αφού δεν χεριάζετε ακόμα.
+Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Αυτήν την εβδομάδα δοκίμασα το kiss και το funtoo αναζητώντας ένα σύστημα που θα μου ταιριάζει, με ένα καλό community και μου θα είναι αρκετά ευλύγιστο.<br>
+
+Για το funtoo έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formatting, file system management, portage, grep boot-loader και άλλα. Μέσα από αυτήν την διαδικασία έμαθα πολλά για την διαδικασία εγκατάστασης των systemd-less distro και ακόμα περισσότερα για την δομή τους. Έμαθα διάφορους αντικαταστάτες τους systemd όπως το openrc, το s6, το runnit, το suite66 και πολλά άλλα και έψαξα για τις διαφορές τους.<br>
+
+Την ίδια εβδομάδα ασχολήθηκα ελαφρός και με το BSD, μαθαίνοντας για το τί ακριβώς είναι και μου κίνησε το ενδιαφέρον ένα indie distribution του με το όνομα MidnightBSD όπου ο δημιουργός του του έχει δώσει ένα ενδιαφέρον look. Το λογότυπο του είναι απο την γάτα του δημιουργό και ψάχνοντας γι' αυτόν παρατήρησα στο [twitter](https://twitter.com/midnightbsd?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3Amidnightbsd%7Ctwgr%5EeyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NrZWxldG9uX2xvYWRpbmdfMTMzOTgiOnsiYnVja2V0IjoiY3RhIiwidmVyc2lvbiI6bnVsbH0sInRmd19zcGFjZV9jYXJkIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&ref_url=https%3A%2F%2Fwww.midnightbsd.org%2F) του την ενασχόλησή του στην δημιουργία αυτού του BSD και μου φάνηκε ιδιαίτερα ενδιαφέρον. Δεν πρόκριτε για κάποια διάσημη παραλλαγή του BSD αλλά η διερεύνηση του behind the scene αυτής της δημιουργίας ήταν σίγουρα ενδιαφέρουσα. Παρόλα αυτά θα το αποφύγω ως το τελικό μου σύστημα.<br>
 
 <p align="center">
-  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/EarlyInstallation1.jpg" width="340px">
-  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/TarVerification.jpg" width="400px">
-  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/WgetStage3.jpg" width="400px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/EarlyInstallation1.jpg" width="320px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/TarVerification.jpg" width="380px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/WgetStage3.jpg" width="360px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Funtoo/FuntooFinalKernelEmerge.jpg" width="340px">
+</p>
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/MidnightBSD/MidnightBSD3CustomPartitioning.jpg" width="340px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/MidnightBSD/MidnightBSD8DmesgAndDependenciesInstall.jpg" width="320px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/MidnightBSD/MidnightBSD10Done.jpg" width="300px">
 </p>
 
+Πέρα από αυτό επισκέφθηκα και διάφορα forum για να μάθω περισσότερα για την οπτική και την νοοτροπία των ατόμων μου επιλέγουν τέτοια συστήματα και να μάθω τι προσδοκούν μέσα από αυτό αλλά και τις δυνατότητες και τις διαφορές αυτών των συστημάτων. Μου έκανε εντύπωση το πείσμα και η οπτική μερικών όπως και το σύνθημα " If this is the solution, I want my problem back." αναφερόμενοι στα συστήματα με systemd, είναι ενδιαφέρον.<br>
+
+Οι εγκαταστάσεις ολοκληρώθηκαν αλλά δέν έχω αποφασίσει ακόμα το τελικό μου σύστημα καθώς εξερευνώ διάφορα ωστόσω αποφάσισα να κάνω ένα φάκελο που θα κρατάω μερικές εικόνες απο τις εγκαταστάσεις των συστημάτων μου (τουλάχιστων απο αυτά που θυμήθικα να τραβίξω φωτογραφίες, είναι περισσότερες από ότι δείχνω εδώ) και θεώρισα οτι θα ήταν καλή ιδέα να τα παρέχω και στην αναφορά μου.<br>
+
+#### Link με μερικές εικόνες απο την εγκατάσταση του funtoo: [PicturesForLessons/CustomLinuxDistro/Funtoo](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo)<br>
+#### Link με μερικές εικόνες απο την εγκατάσταση του MidnightBSD: [PicturesForLessons/CustomLinuxDistro/MidnightBSD](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/MidnightBSD)<br>
+
+#### Link από μερικές πηγές που ερεύνησα (επίσεις ενδιαφέρον οτι τα περισσότερα link είναι .org):
+[funtoo.org/Install](https://www.funtoo.org/Install/Introduction) | [The systemd-less forum](https://www.linuxquestions.org/questions/linux-general-1/systemd-less-4175534946/) | [Project:OpenRC](https://wiki.gentoo.org/wiki/Project:OpenRC) | [skarnet.org/software/s6](https://skarnet.org/software/s6/) | [smarden.org/runit/](http://smarden.org/runit/) | [kisslinux.org/install](https://kisslinux.org/install) | [www.midnightbsd.org](https://www.midnightbsd.org/download/) | [nosystemd.org](https://nosystemd.org/) | [More about being systemd-less](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) | [en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd) | [Reddit talk: what_is_systemd_and_why_is_it_so](https://www.reddit.com/r/linux4noobs/comments/1wznfr/eli5_what_is_systemd_and_why_is_it_so/) | [Reddit talk: why_dont_you_like_systemd](https://www.reddit.com/r/linuxmasterrace/comments/sfz4qm/why_dont_you_like_systemd/)
 
 # 5ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
 ## Set-up ομάδας
@@ -148,10 +166,48 @@
 | Slides | [Βιντεοπαιχνίδια και community drive (Slides)](https://github.com/KuhakuNeko/site/blob/2019108_SW/_slides/videogamesandcommunitydrive.md) | [Διαφάνειες βιντεοπαιχνίδια και community drive](https://p2019108-sw-pibook.netlify.app//slides/videogamesandcommunitydrive/) | [Διαφάνειες βιντεοπαιχνίδια και community drive](https://gits-team-epic-pibook.netlify.app//slides/videogamesandcommunitydrive/) |
 | Timeline | [Βιντεοπαιχνίδια και community drive (Timeline)](https://github.com/KuhakuNeko/site/blob/2019108_SW/_timeline/videogamesandcommunitydrive.md) | [Χρονολόγιο βιντεοπαιχνίδια και community drive](https://p2019108-sw-pibook.netlify.app//timeline/videogamesandcommunitydrive/) | [Χρονολόγιο βιντεοπαιχνίδια και community drive](https://gits-team-epic-pibook.netlify.app//timeline/videogamesandcommunitydrive/) |
 
-<i>*Τα link προς το site της ομάδας μας θα ανανεωθούν μόλις γίνει δεκτό το pull request.</i>
-
 Με τα παραπάνω παιχνίδια ασχολούμαι πάρα πολύ καιρό και έχω δοκιμάσει να συνεισφέρω ο ίδιο επομένως δεν χρησιμοποίησα κάποια συγκεκριμένη πηγή online για αυτά που γράφω και για αυτό δεν προσθέτω συνδέσμους.
 
 #### Link προς το repository του site στο προσοπικό μου αποθετίριο: [KuhakuNeko/site](https://github.com/KuhakuNeko/site)<br>
 #### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/1](https://github.com/Git-s-PopTeamEpic/site/issues/1)<br>
 #### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/5](https://github.com/Git-s-PopTeamEpic/site/pull/5)<br>
+
+## EXTRA: Shell Script για αυτόματο update των submodule "HakUpdateModules.sh"
+Να αναφέρω ότι για να κάνω την ζωή μου πιο εύκολη και καθώς δεν ήθελα συνεχώς πλέων να κουράζομε με την αποδοχή, μετά το merge και μετά το update των submodule ώστε να πιάνουν οι αλλαγές τόπο αποφάσισα να φτιάξω ένα shell script που να με βοηθάει να γίνονται όλα αυτά γρήγορα. Το script δέχεται 4 βασικά inputs και κάνει την δουλεία του update των modules για εσένα προστατεύοντάς σε από επίμονους πονοκεφάλους. Μιας και αυτό δεν είναι εντελώς εντός μαθήματος μπορεί να του κάνω και διάφορα update στο μέλλον για διάφορες κατηγορίες χρηστών, που μπορεί να αναζητούν κάτι διαφορετικό.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/UpdatingSubmodulesWithHakUpdateSubmodulesMini.png" width="320px">
+</p>
+
+#### Asciinema demo for "HakUpdateModules.sh shell script by KuhakuNeko": [Demo for HakUpdateModules.sh](https://asciinema.org/a/RTtCf7KaDVtCMtWL4G6wH7dsO)<br>
+#### HakUpdateModules.sh shell script by KuhakuNeko": [KuhakuNekoLinuxShellScripts/HakUpdateModules.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HakUpdateModules.sh)<br>
+
+# 6ο Παραδοτέο - Συνέχεια εγκατάστασης systemd-less linux distro
+Συνεχίζοντας την αναζήτηση ενός συστήματος που να μην κάνει χρήση του systemd αυτην την εβδομάδα κατάφερα να καταλήξω σε ένα σύστημα που μου φαίνετε πως πραγματικά μου ταιριάζει. Αυτό που έψαχνα είναι ένα σύστημα που να μην είναι εύκολα birckable (όπως κατέλιξε τελικά το funtoo μου), να έχει ένα ενεργό και φιλικό community, να είναι ιδιαίτερα εύκαμπτο για να έχει νόημα αυτή η αλλαγή, να τρέχει ικανοποιητικά σε έναν υπολογιστή μέτριων επιδόσεων, να είναι πραγματικά ενεργό, και να μου επιτρέπει να προσθέτω καλλιτεχνικές πινελιές που αναφέρω και στην εισαγωγή μου. Αυτό το σύστημα είναι το Artix Linux. Ένα σύστημα με χαρακτηριστικά από το Arch που έρχεται σε διάφορα πακέτα χωρίς systemd, (οι επιλογές είναι πολλές όπως αυτές του openrc και του s6), και σε αφήνει να προσθέσεις εσύ την δική σου γραφική διεπαφή αν την χρειαστείς. Το Artix αυτοαποκαλείται "The Art of Linux Simple. Fast. Systemd-free." και αυτό είναι κάτι που με τράβηξε, φαίνονταν πολλά υποσχόμενο και κοντά σε αυτό που έψαχνα και όπως θα δείτε παρακάτω δεν απογοητεύει.<br>
+
+Έχοντας κατακτήσει πλέων πολλές γνώσεις από τις προηγούμενες εβδομάδες για την εγκατάσταση των συστημάτων και τα βήματα που χρειάζονται (κυρίως μέσω του funtoo), η εγκατάσταση του Artix Linux ήταν "σχετικά ανώδυνη" πλέων. Φαίνετε ότι η εγκατάσταση τέτοιων τύπων συστημάτων είναι σχετικά "universal" καθώς εγώ κατάφερα να το εγκαταστήσω ακολουθώντας πρακτικά το [guide](https://www.funtoo.org/Install) της σελίδας του funtoo και με λίγη βοήθεια από τα forum του Artix. Επομένως έκανα βήματα όπως manual partitioning, file system management, εγκατάσταση dependencies κ.α.. Και έτσι κατέληξα στην γραμμή εντολών έχοντας ένα systemd-less σύστημα!<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Artix/MyArtixCommandLine.png">
+</p>
+
+Όμως αυτό εμένα προσωπικά δεν μου ήταν αρκετό οπότε επέλεξα μια ξεχωριστή προσθήκη για το Artix distro μου. Το ξεχωριστό του Artix είναι ότι σου επιτρέπει να επιλέξει την δική σου γραφική διεπαφή/Περιβάλλον επιφάνειας εργασίας. Το terminal είναι πραγματικά πολύ δυνατό αλλά ένοιωθα ότι πρέπει να προσθέσω ένα περιβάλλον επιφάνειας εργασίας και να το κάνω να φαίνετε δικό μου. Έτσι ψάχνωντάς διάβασα για διάφορα standalone desktop envirioments που μπορούν να "κουμπώσουν" πάνω σε διάφορα συστήματα όπως το mate, lxde, lxqt, plasma κ.α.. Αυτό μου μου άρεσε περισσότερο ήταν το περιβάλλον που προσφέρει το xfce το οποίο εγκατέστησα.<br>
+
+Έχοντας πλέων και μία επιφάνεια εργασίας πέρα της μαύρης οθόνης του terminal άρχισα να προσθέτω διάφορα στοιχεία και να κάνω εγκαταστάσεις. Παρακάτω βλέπετε ένα custom theme που έφτιαξα για το Artix το οποίο είναι λευκό, του έχω βάλει ένα σετ custom εικονιδίων που βρήκα, κατασκέυασα το δικό μου Artix Wallpaper στο photoshop και το πρόσθεσα στο πακέτο του theme αλλά πρόσθεσα και διάφορα widget που παρέχει το Artix.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Artix/MyArtixCustomIcons.jpg" width="380px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Artix/MyArtixXcfe.jpg" width="380px">
+</p>
+
+Έκανα επίσης εγκατάσταση διάφορων εφαρμογών και dependency που χρειάζομαι μέσω του pacman καθώς το Artix δεν χρησιμοποιεί apt-get που είναι μάλλον μέρος του systemd. Το Artix έχει πραγματικά πολλές δυνατότητες που δεν έχουν πολλά συστήματα και κάλυπτε τα περισσότερα κουτάκια από αυτά που έψαχνα επομένως αποφάσισα ότι είναι το σύστημα με το οποίο θα προχωρήσω. Παρακάτω παρέχω φωτογραφίες και ένα neofetch και dmesg log από το νέο μου σύστημα το οποίο θα χρησιμοποιώ και στις εργασίες μου.<br>
+
+#### Asciinema link για το neofetch + dmesg του Artix distro μου: [Proof that Artix Linux is installed on my computer - p2019108](https://asciinema.org/a/CfATveHNcoH23fTjl5mewkYIj)
+#### Link με μερικές εικόνες απο την εγκατάσταση του Artix: [PicturesForLessons/CustomLinuxDistro/Artix](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Artix)<br>
+
+## Άσκηση γραμμής εντολών - Check the Weather
+Για να "εγκαινιάσω" το σύστημά μου αποφάσισα να κάνω και μία άσκηση γραμμής εντολών τύπου warmup, μόνο για προθέρμανσή. Η άσκηση που επέλεξα ήταν η "Check the Weather", και ζητούσε να δούμε το δελτίο καιρού της πόλης που γεννηθήκαμε και μιας πόλης που θέλουμε να ταξιδέψουμε μέσα από το terminal.<br>
+
+Εγώ χρησιμοποίησα πέρα από το wttr που ήταν το προτεινόμενο και ένα άλλο εργαλείο που έχω βρει και παρέχει πόλη λεπτομερής πληροφορίες καιρού. Για παράδειγμα το inxi μπορεί να δήξει πολλές πληροφορίες για τον καιρό και όχι μόνο βάσει γεωγραφικών συντεταγμένων.<br>
+
+#### Asciinema link για την άσκηση γραμμής εντολών "Check the Weather": [Παραδοτέο 6 / Εργασία Terminal (SW Π2019108)](https://asciinema.org/a/GNTOw8UhEPIryXIpntm9yiaRj)
