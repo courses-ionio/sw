@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή)|[Discussion](https://github.com/courses-ionio/help/discussions/60) |
 | 2 | [Bιογραφικό και δημιουργία ομάδας](#βιογραφικό)|[Discussion](https://github.com/courses-ionio/help/discussions/193) |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)| | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/471) | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
