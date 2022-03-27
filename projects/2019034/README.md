@@ -1,13 +1,13 @@
 <h1 align="center">:computer: Τεχνολογία Λογισμικού :ok_hand:</h1>
 <br>
 
-**ΑΜ:** Π2019034
-<br>**Ονοματεπώνυμο:** Ιάκωβος Ιάσων Τούντας
-<br>**Προφίλ:** [u2nmd](https://github.com/u2nmd)
-<br>**Ομάδα:** [OompaLoompas](https://github.com/OompaLoompas)
+**Ονοματεπώνυμο:** Ιάκωβος Ιάσων Τούντας
+<br>**ΑΜ:** Π2019034
+<br>**Προσωπικό προφίλ:** [u2nmd](https://github.com/u2nmd)
+<br>**Προφίλ ομάδας:** [OompaLoompas](https://github.com/OompaLoompas)
 <br><br>
 
-| Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
+| Εβδομάδα | Παραδοτέα | [Εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
 | 1 |<li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/56)|Εμπρόθεσμη παράδοση του παραδοτέου, fork αποθετηρίου του μαθήματος, εισαγωγή με προσδοκίες και στόχους, σύνδεσμος σε συζητήσεις|
 | 2 |<li><a href="#Βιογραφικό και δημιουργία ομάδας"><span class="toctext"></span>Βιογραφικό και δημιουργία ομάδας</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/191)|Εμπρόθεσμη παράδοση του παραδοτέου, δημιουργία βιογραφικού μου, οργάνωση ομάδας και δημιουργία webring γι' αυτήν|
