@@ -167,14 +167,27 @@ Tρίτο βήμα
 <br>
   
   
+<br /> <br/>
+  
+  
+
+  
+
+  
+  
 ## Συμμετοχή και Ομαδικότητα
   
   
-[Υπενθύμιση του συνάδελφού μου να διορθώσει το link της αναφοράς του](https://github.com/courses-ionio/help/discussions/244/)
+[Υπενθύμιση συνάδελφού μου να διορθώσει το link της αναφοράς του](https://github.com/courses-ionio/help/discussions/244/)
   <br />
   
 
 [Σχολιασμός παραδοτέου 2 σε συνάδελφό μου](https://github.com/courses-ionio/help/discussions/191/)
+  <br />
+  
+[Λύση σχετικά με πρόβλημα στο deploy του Netlify](https://github.com/courses-ionio/help/discussions/344/)
+  
+[Υπενθύμιση συνάδελφού να διορθώσει το link της αναφοράς του](https://github.com/courses-ionio/help/discussions/477/)
   
   
   
