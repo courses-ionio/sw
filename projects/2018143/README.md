@@ -259,13 +259,13 @@ https://github.com/sharkdp/hyperfine
   
 ### Βιογραφικό : 
   
-Αποθετήριο του pdf  του βιογραφικού : 
+Αποθετήριο του pdf  του βιογραφικού : https://github.com/p18kout/sw-images/blob/main/cv.pdf
   
-Αποθετήριο του tex του βιογραφικού : 
+Αποθετήριο του tex του βιογραφικού : https://github.com/p18kout/sw-images/blob/main/cv.tex
   
-Αποθετήριο του log του βιογραφικού :
+Αποθετήριο του log του βιογραφικού : https://github.com/p18kout/sw-images/blob/main/cv.log
   
-asciinema link για μετατροπή σε pdf και tex :
+asciinema link για μετατροπή σε pdf και tex : https://asciinema.org/a/481400
   
 ## Διαδικασία :
     
@@ -286,6 +286,10 @@ asciinema link για μετατροπή σε pdf και tex :
 • Τέλος εγγραφής terminal ```exit```
   
 ## Αποτέλεσμα : 
+  
+![cv1](https://github.com/p18kout/sw-images/blob/main/cv1.png)
+
+![cv2](https://github.com/p18kout/sw-images/blob/main/cv2.png)
   
 Πηγή : 
   
