@@ -69,7 +69,7 @@ Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/72458452/160302752-3c10e38f-5241-470d-a06b-69419020abdf.gif)
 
 
-Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn), το οποιο φαινεται να ειναι παρατημενο απο τον ιδιοκτητη του repo για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.
+Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn) για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.
 <br>
 
 ## Links ομαδικότητας και συμμετοχής:
