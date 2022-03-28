@@ -4,15 +4,15 @@
 ### ΑΜ: Π2019128
 ### [Το Profile μου](https://github.com/alexpoulis)
 ### <br/>
-
+[kekw](#παραδοτεο-1)
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Το Link εισαγωγή](https://github.com/courses-ionio/help/discussions/76)| 10 |
-| 2 | βιογραφικό και δημιουργία ομάδας | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 8 |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
-| 4 | Άσκηση γραμμής εντολών | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 1 | [Εισαγωγή](#παραδοτεο-1) | [Το Link εισαγωγή](https://github.com/courses-ionio/help/discussions/76)| 10 |
+| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 8 |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
+| 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -20,7 +20,8 @@
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
-## ΠΑΡΑΔΟΤΕΟ 1
+
+# ΠΑΡΑΔΟΤΕΟ 1
 
 ### ΕΙΣΑΓΩΓΗ
 
@@ -79,11 +80,18 @@ A2:</br>
 </br>     ```--form-string "token=APP_TOKEN" \```
 </br>     ```--form-string "user=USER_KEY" \```
 </br>     ```--form-string "message=hello world" \```
-</br>     ```https://api.pushover.net/1/messages.json``` 
-αλλά έχω κλίσει σε αυτό το σημείο και για αυτό θα τελειώσω το παραδοτέο αυτό ιδανικά μέσα στην επόμενη εβδομάδα.
+</br>     ```https://api.pushover.net/1/messages.json``` </br> 
+Μετά από μερικά ακόμα προβλήματα κατάφερα να κάνω τα commands όπως για παράδειγμα ```ntfy –b linux send “message”``` να δουλεύουν και στην συνέχεια έκανα τα commands που φαίνονται και στο asciinema παρακάτω.
+Εδώ είναι το [link για το asciinema](https://asciinema.org/a/qIihZg1maPOwOSFq9Vlysg4xp), αν και δέν φαίνεται τίποτα εκτώς των commands, και στην συνέχεια υπάρχουν μερικά screenshots και ένα gif που φαίνεται η διαδικασία του asciinema.</br> 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72515420/160306974-db6c0f9f-4332-4b5f-b030-7a9c82c3ff0c.gif)</br>
+Τα παρακάτω screenshots δείχνουν τα μυνήματα που φαίνονται να στάλθηκαν και στο asciinema 
+![image](https://user-images.githubusercontent.com/72515420/160304711-eba780ac-2e9b-4f8e-9215-f0c4a9590807.png)
+![image](https://user-images.githubusercontent.com/72515420/160304717-48a66d10-e1ed-4b3e-99a0-14b765bc26d8.png)</br>
+Δίστιχός όμως δεν  κατάφερα να κάτω το shell-integration αν και όπως φαίνεται και εδώ έχω κάνει τις απαραίτητες προσθήκες στο ```~/.bashrc```</br>
+![image](https://user-images.githubusercontent.com/72515420/160303457-0dae474d-b3a3-4c3d-8f03-154e0af0e460.png)
+
 
 
 ## Συμμέτοχή και ομαδικότητα
 - [Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
 - [Suggested changes in pull request](https://github.com/Git-s-PopTeamEpic/site/pull/11)
-
