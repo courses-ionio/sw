@@ -16,7 +16,7 @@
 | 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού/Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/459) | |
-| 7 | βιογραφικό | | |
+| 7 | <sup><a href="#7"> βιογραφικό </a></sup> | [Link στις συζητήσεις]() | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -255,3 +255,40 @@ https://github.com/benfred/py-spy
   
 https://github.com/sharkdp/hyperfine
   
+##### [7]
+  
+### Βιογραφικό : 
+  
+Αποθετήριο του pdf  του βιογραφικού : 
+  
+Αποθετήριο του tex του βιογραφικού : 
+  
+Αποθετήριο του log του βιογραφικού :
+  
+asciinema link για μετατροπή σε pdf και tex :
+  
+## Διαδικασία :
+    
+• Εγκατάσταση πακέτων ```sudo pacman -Sy pandoc``` , ```sudo pacman -S texlive-most texlive-lang```
+  
+• Έναρξη εγγραφής terminal asciinema rec -i 0.2
+   
+• Fork του αποθετηριού βιογραφικού με την εντολή ```git clone https://github.com/p18kout/online-cv.git```
+  
+• Επιλογή του φακέλου online-cv με την εντολή ```cd online-cv```
+  
+• Δημιουργία φακέλου pdf για αποθήκευση του αρχείου μετά την μετατροπή με την εντολή ```mkdir pdf```
+  
+• Μετατροπή του βιογραφικού σε tex με την εντολή ```pandoc https://p18kout.github.io/online-cv/ -o cv.tex -s```
+  
+• Μετατροπή του αρχείου tex σε pdf με την εντολή ```pdflatex cv.tex```
+  
+• Τέλος εγγραφής terminal ```exit```
+  
+## Αποτέλεσμα : 
+  
+Πηγή : 
+  
+https://lukesmith.xyz/c/wanna-learn-latex#install
+  
+https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
