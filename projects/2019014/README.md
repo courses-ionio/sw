@@ -15,9 +15,9 @@
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> | [Link της παρουσίασης](https://github.com/courses-ionio/help/discussions/66/) |
 | 2 | <li><a href="#Βιογραφικό και Δημιουργία ομάδας"><span class="toctext">Βιογραφικό και Δημιουργία ομάδας</span></a> | [Link της αναφοράς του βιογραφικου](https://github.com/courses-ionio/help/discussions/194/)|
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | [Link της αναφοράς του αιτήματος ενσωμάτωσης στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/400/) |
-| 4 | <li><a href="#Άσκηση γραμμής εντολών σε FreeBSD"><span class="toctext">Άσκηση γραμμής εντολών σε FreeBSD</span></a>  | [Link της αναφοράς της άσκησης γραμμής εντολών σε FreeBSD](https://github.com/courses-ionio/help/discussions/402/) |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 4 | <li><a href="#Εγκατάσταση του FreeBSD και warmup άσκηση γραμμής εντολών"><span class="toctext">Εγκατάσταση του FreeBSD και warmup άσκηση γραμμής εντολών</span></a>  | [Link της αναφοράς της άσκησης γραμμής εντολών και της εγκατάστασης του FreeBSD](https://github.com/courses-ionio/help/discussions/402/) |
+| 5 | <li><a href="#Συμμετοχικό περιεχόμενο Α1 + Α2"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 +Α2</span></a>  | [Link της αναφοράς της πρώτης άσκησης συμμετοχικού περιεχομένου](https://github.com/courses-ionio/help/discussions/452/) |
+| 6 | <li><a href="#Εγκατάσταση του Void Linux και warmup άσκηση γραμμής εντολών"><span class="toctext">Εγκατάσταση του Void Linux και warmup άσκηση γραμμής εντολών</span></a>  | [Link της αναφοράς της εγκατάστασης του Void Linux και της warmup άσκησης γραμμής εντολών](https://github.com/courses-ionio/help/discussions/488/) |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -226,7 +226,7 @@ Tρίτο βήμα
   
 <br />
   
-## A1 / Fedora-Linux
+##  Fedora-Linux
   
 <br />
   
@@ -234,8 +234,90 @@ Tρίτο βήμα
     
 <br />
   
- &#10004; Ενημέρωσα το submodule [/images](https://github.com/vasiliskampani/images/tree/p2019014/) μια [εικόνα](https://en.wikipedia.org/wiki/Fedora_Linux#/media/File:Fedora_Silverblue_v35_(2021-10)_%E2%80%94_fresh_install.png/) απο το wikipedia ***με τα κατάλληλα πνευματικά δικαιώματα*** 
+ &#10004; Ενημέρωσα το submodule [/images](https://github.com/vasiliskampani/images/tree/p2019014/) με μια [εικόνα](https://en.wikipedia.org/wiki/Fedora_Linux#/media/File:Fedora_Silverblue_v35_(2021-10)_%E2%80%94_fresh_install.png/) απο το wikipedia ***με ελεύθερα πνευματικά δικαιώματα*** και την ίδια resized με πλάτος 160 pixels ως **thumbnail**.
+  
+  * [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/fedora-linux.png/)
+  * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/fedora-linux-thumb.png/)
+  <br />
+  
+&#10004; Ενημέρωσα το submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/p2019014/fedora-linux.md/) με το θέμα μου 
+  
+  <br />
+  
+&#10004; Δημιούργησα το αρχείο [operating-systems.md](https://github.com/vasiliskampani/site/blob/p2019014/_slides/operating-systems.md/) στον φάκελο [slides](https://github.com/vasiliskampani/site/tree/p2019014/_slides/) και πρόσθεσα δικό μου **caption**, το **image_url** της εικόνας fedora-linux και ενα **slide** fedora-linux
+  
+  <br />
 
+&#10004; Ενημέρωσα το αρχείο [os-apps.md](https://github.com/vasiliskampani/site/blob/p2019014/_timeline/os-apps.md/) στον φάκελο [timeline](https://github.com/vasiliskampani/site/tree/p2019014/_timeline/) τοποθετώντας το fedora-linux στα **events**
+  
+  <br />
+  
+| | Demo του Fedora-Linux |
+| --- | --- |
+| 1 | [Demo link στο gallery](https://vasiliskampani-site.netlify.app/gallery/fedora-linux/) |
+| 2 | [Demo link στο slides](https://vasiliskampani-site.netlify.app/slides/operating-systems/) |
+| 3 | [Demo link στο timeline](https://vasiliskampani-site.netlify.app/timeline/os-apps/) |
+  
+  <br />
+    
+ 
+  
+![Στιγμιότυπο οθόνης (16)](https://user-images.githubusercontent.com/72518208/160475689-2cedc428-2d16-4f44-aa5a-316d6a44a127.png)
+  
+  <br />
+  
+## ΕverQuest  
+  
+<br />
+  
+Το δεύτερο θέμα που επέλεξα αφορά ενα πρωτοποριακό παιχνίδι που έμελλε να αλλάξει τα δεδομένα του massively multiplayer online role-playing game (MMORPG) για πάντα. Το παιχνίδι αυτό ονομάζεται **EverQuest** και είναι ένα αρκετά παλίο παιχνιδι. Κυκλοφόρησε το 1999 αρχικά στο λειτουργικό σύστημα Microsoft και το 2003 ήταν διαθέσιμο και για macOS. Eίναι το πρώτο παιχνίδι που χρησιμοποίησε με επιτυχία λογισμικό τρισδιάστατης μηχανής παιχνιδίων την ***True3D***. Για το συγκεκριμένο θέμα υλοποίησα τα εξής:
+  
+<br />
+  
+ &#10004; Ενημέρωσα το submodule [/images](https://github.com/vasiliskampani/images/blob/p2019014/everquest.jpg/) με μια [εικόνα](https://en.wikipedia.org/w/index.php?curid=12992048/) απο το wikipedia ***με ελεύθερα πνευματικά δικαιώματα*** και την ίδια resized με πλάτος 160 pixels ως **thumbnail**. 
+  
+* [Κανονικά εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/everquest.jpg/)
+* [thumb εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/everquest-thumb.jpg/)
+  
+
+<br />
+  
+&#10004; Ενημέρωσα το submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/p2019014/everquest.md/) με το θέμα μου
+  
+  <br />
+  
+&#10004; Ενημέρωσα το αρχείο [videogames.md](https://github.com/vasiliskampani/site/blob/p2019014/_slides/videogames.md/) στον φάκελο [slides](https://github.com/vasiliskampani/site/tree/p2019014/_slides/) προσθέτοντας το everquest στα **slides**
+  
+  <br />
+  
+&#10004; Ενημέρωσα το αρχείο [videogames.md](https://github.com/vasiliskampani/site/blob/p2019014/_timeline/videogames.md/) στον φάκελο [timeline](https://github.com/vasiliskampani/site/tree/p2019014/_timeline/) τοποθετώντας το everquest στα **events**
+  
+ 
+  <br />
+  
+| | Demo του EverQuest |
+| --- | --- |
+| 1 | [Demo link στο gallery](https://vasiliskampani-site.netlify.app/gallery/everquest/) |
+| 2 | [Demo link στο slides](https://vasiliskampani-site.netlify.app/slides/videogames/) |
+| 3 | [Demo link στο timeline](https://vasiliskampani-site.netlify.app/timeline/videogames/) |
+  
+  <br />
+
+![Στιγμιότυπο οθόνης (19)](https://user-images.githubusercontent.com/72518208/160482502-05ac90fd-3bfe-4325-b393-000291a53913.png)
+  
+   
+  
+   <br />
+  
+
+| | Links για τα Pull request και το issue |
+| --- | --- |
+| 1 | [Pull request στο site](https://github.com/OompaLoompas/site/pull/10/) |
+| 2 | [Pull reuquest στο gallery](https://github.com/OompaLoompas/_gallery/pull/7/) |
+| 3 | [Pull request στο images](https://github.com/OompaLoompas/images/pull/7/) |
+| 4 | [Ιssue](https://github.com/OompaLoompas/site/issues/9/)
+  
+   <br />
   
 
   
