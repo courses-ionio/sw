@@ -31,9 +31,9 @@
 
 Για το τρίτο παραδότεο έπρεπε να κάνουμε μια μικρή αλλαγή στην ιστοσελίδα του τμήματος. Επέλεξα να δουλέψω στον φάκελο των καθηγητών και να προσθέσω το email του κ.Ανδρόνικου, καθώς αυτό έλειπε. 
 
-Issue:  
+Issue:  https://github.com/ioniodi/sitegr/issues/366
 Pull Request:  
-Live Demo:  
+Live Demo:  https://iridescent-meerkat-2da523.netlify.app/people/andronikos/
 
 ### Άσκηση γραμμής εντολών
 
