@@ -54,7 +54,7 @@
 
 [Εδώ](https://github.com/ioniodi/sitegr/pull/368)  θα βρείτε το pull request μου στο sitegr.
 
-[Εδώ]()  θα βρείτε το pull request μου στο all_collections.
+[Εδώ](https://github.com/ioniodi/all_collections/pull/56)  θα βρείτε το pull request μου στο all_collections.
 
 [Εδώ](https://github.com/p19pasa/all_collections/blob/2019173/_courses/Distributed-Network-Centered-Systems.md) θα βρείτε την επεξεργασία που έκανα, δηλαδή, την προσθήκη του μαθήματος επιλογής Κατανεμημένα Δικτυοκεντρικά Συστήματα.
 
