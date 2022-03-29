@@ -86,6 +86,10 @@
 
 <a href="https://asciinema.org/a/481861" target="_blank"><img src="https://asciinema.org/a/481861.svg" /></a>
 
+![pdf1](https://github.com/p19ntar/online-cv/blob/gh-pages/assets/images/pdf1.png)
+![pdf2](https://github.com/p19ntar/online-cv/blob/gh-pages/assets/images/pdf2.png)
+
+
 # Συμμετοχή και Ομαδικότητα
 
 | | Σχόλια |
