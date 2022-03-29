@@ -49,7 +49,7 @@
 
 [Link Αναφοράς](https://github.com/courses-ionio/help/discussions/434)
 
-[Asciinema Link] (https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
+[Asciinema Link](https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
 
 # <a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
