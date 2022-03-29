@@ -73,6 +73,8 @@ hyperfine benchmark
 # <a name="G">Βιογραφικό - 7ο παραδοτέο </a>
 Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf.
 
+[Asciinema Link](https://asciinema.org/a/jcdSKp6uMe9XMijjXntdIlh2U)
+
 Το online CV μου.
 ![onlinecv](https://user-images.githubusercontent.com/93882637/160689957-eb55ed06-e572-4e0e-8daf-e54aebb78bf7.png)
 
