@@ -39,7 +39,7 @@
 | σειρά που έγινε η άσκηση | Όνομα άσκησης |
 | ---- | ---- |
 | 1 | [check the weather](https://asciinema.org/a/rh5NNkx2v0yOGuW71iO7wEJg3) |
-| 2 | check the weather |
-| 3 | check the weather |
-| 4 | check the weather |
-| 5 | check the weather |
+| 2 | [try different text-based web browsers and get used to the keyboard shortcuts for onε](https://asciinema.org/a/1kiTO6Z68fFisrNFykFx82agb) |
+| 3 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/aMUPQahP5B4MpGUpWAFSH1xSy) |
+| 4 | [track your expenses](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
+| 5 | [search the web from the terminal](https://asciinema.org/a/70lO37sgkrORc6fJhiDNmSs0Q) |
