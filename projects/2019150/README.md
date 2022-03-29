@@ -38,7 +38,7 @@
 
 | σειρά που έγινε η άσκηση | Όνομα άσκησης |
 | ---- | ---- |
-| 1 | check the weather |
+| 1 | [check the weather](https://asciinema.org/a/rh5NNkx2v0yOGuW71iO7wEJg3) |
 | 2 | check the weather |
 | 3 | check the weather |
 | 4 | check the weather |
