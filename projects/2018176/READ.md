@@ -14,7 +14,7 @@
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/469)| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
-| 7 | βιογραφικό | | |
+| <a href="G">7</a> |<a href="G"> βιογραφικό</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/498) |Εγκατάσταση κατάλληλων εργαλείων για μετατροπή tex αρχείου σε pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -70,4 +70,14 @@ hyperfine benchmark
 
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
+# <a name="G">Βιογραφικό - 7ο παραδοτέο </a>
+Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf.
 
+Το online CV μου.
+![onlinecv](https://user-images.githubusercontent.com/93882637/160689957-eb55ed06-e572-4e0e-8daf-e54aebb78bf7.png)
+
+Το βιογραφικό μου σε μορφή pdf.
+
+![cvpdf](https://user-images.githubusercontent.com/93882637/160690088-3492c3be-10e8-4808-a50a-8a399b25eb24.png)
+
+(Προφανώς και γνωριζώ ότι αν αλλάξω όνομα στην φωτογραφία στον φάκελο /assets/images σε αυτό profile.png θα εμφανίζεται)
