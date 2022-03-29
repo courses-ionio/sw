@@ -1,6 +1,6 @@
 <h3> Α.Μ.: Π2019150
 <br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
-<h3>
+<h2>
   
 | Εβδομάδα | [παραδοτέα-τελικής αναφορά](https://courses-ionio.github.io/help/deliverables/)            | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | ---- | ---- | ---- | ---- |
@@ -36,7 +36,7 @@
     
 <h4>
 
-| σειρά που έγινε η άσκηση | Όνομα άσκησης |
+|Η σειρά που έγινε η άσκηση | Όνομα άσκησης |
 | ---- | ---- |
 | 1 | [check the weather](https://asciinema.org/a/rh5NNkx2v0yOGuW71iO7wEJg3) |
 | 2 | [try different text-based web browsers and get used to the keyboard shortcuts for onε](https://asciinema.org/a/1kiTO6Z68fFisrNFykFx82agb) |
