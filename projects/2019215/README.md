@@ -80,6 +80,11 @@
 
 </br>
 
+# 7ο Παραδοτέο
+
+Στο 7ο παραδοτέο αρχικά εγκατέστησα το pandoc και το texlive, έπειτα έκανα φορκ το αποθετήριο του online-cv μου, στη συνέχεια το μετέτρεψα σε tex και το tex σε pdf
+
+<a href="https://asciinema.org/a/481861" target="_blank"><img src="https://asciinema.org/a/481861.svg" /></a>
 
 # Συμμετοχή και Ομαδικότητα
 
