@@ -54,6 +54,8 @@
 
 [Εδώ]()  θα βρείτε το pull request μου στο sitegr.
 
+[Εδώ](https://github.com/p19pasa/all_collections/tree/2019173/_courses) θα βρείτε την επεξεργασία που έκανα, δηλαδή, την προσθήκη του μαθήματος επιλογής Κατανεμημένα Δικτυοκεντρικά Συστήματα.
+
 [Εδώ](https://tender-saha-e93d2d.netlify.app/) είναι η ιστοσελίδα που έκανα μέσω του Netlify.
 
 [Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
