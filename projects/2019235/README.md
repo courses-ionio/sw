@@ -27,6 +27,7 @@ asciinema σχετικο
 template απο συμφοιτητες
 σκοπευω να πειραξω και τα στοιχεια και τον source html κωδικα
 αρχικα εκανα jekyll bundle οπως στις οδηγιες του Ριγγα και εκανα deploy μεσα απο το terminal με lynx!
+Να κάνω show and tell
 
 ## 3η Εβδομάδα
 
