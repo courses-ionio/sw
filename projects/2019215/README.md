@@ -82,10 +82,12 @@
 
 # 7ο Παραδοτέο
 
-Στο 7ο παραδοτέο αρχικά εγκατέστησα το pandoc και το texlive, έπειτα έκανα φορκ το αποθετήριο του online-cv μου, στη συνέχεια το μετέτρεψα σε tex και το tex σε pdf
+Στο 7ο παραδοτέο αρχικά εγκατέστησα το pandoc και το texlive, έπειτα έκανα φορκ το αποθετήριο του online-cv μου, στη συνέχεια το μετέτρεψα σε tex και το tex σε pdf. Έπειτα για Continuous Integration χρησιμοποίησα git hooks
 
 <a href="https://asciinema.org/a/481861" target="_blank"><img src="https://asciinema.org/a/481861.svg" /></a>
-
+<br>
+<a href="https://asciinema.org/a/482337" target="_blank"><img src="https://asciinema.org/a/482337.svg" /></a>
+<br>
 ![pdf1](https://github.com/p19ntar/online-cv/blob/gh-pages/assets/images/pdf1.png)
 ![pdf2](https://github.com/p19ntar/online-cv/blob/gh-pages/assets/images/pdf2.png)
 
