@@ -57,7 +57,7 @@
 
 
 
-Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
+Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link:
 
 
 [Το βιογραφικό μου βρίσκεται εδώ.](https://p19pasa.github.io/online-cv/)
@@ -179,3 +179,34 @@
 Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/SQydmOxTkjM7fTv2sNGJf2A3B) της άσκησης. 
 
 # Βιογραφικό (7ο Παραδοτέο)
+
+Για την ολοκλήρωση του 7ου παραδοτέου έπρεπε να δημιουργήσουμε ένα αρχείο PDF για εκτύπωση (σε σελίδα Α4), με την βοήθεια των εργαλείων pandoc και latex. Επίσης, έπρεπε να το τοποθετήσουμε στην ιστοσελίδα του βιογραφικού. 
+Έτσι, επέλεξα να πραγματοποιήσω το παραδοτέο με τη γραμμή εντολών. Αρχικά, χρειάστηκε να κατεβάσω το pacman με την εντολή sudo apt intall pacman. Έπειτα, έπρεπε να κατεβάσω τα πακέτα sudo pacman -Sy pandoc και sudo pacman -S texlive-most texlive-lang. Τέλος, έβαλα τις απαραίτητες εντολές στην γραμμή εωτολών και βγήκε το επιθυμητό αποτέλεσμα.
+
+Το βιογραφικό μου:
+
+<br><p align="center">
+<img width="670" height="600" src="https://i.postimg.cc/xCTKkNcV/image.png">
+<p/>
+
+
+Το webring της ομάδας μου:
+
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/6p25YWGJ/webring.png">
+<p/>
+
+
+
+Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link:
+
+[Εδώ](https://asciinema.org/a/juJmJVG9EggiwMqB7u7kXVKiv) θα βρείτε το asciinema.
+
+[Το βιογραφικό μου βρίσκεται εδώ.](https://p19pasa.github.io/online-cv/)
+
+[Η ομάδα στην οποία ανήκω.](https://github.com/IonianUniversity2019)
+
+
+[Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
+
+[Η επεξεργασία του βιογραφικού έγινε από εδώ.](https://github.com/p19pasa/online-cv/blob/master/_data/data.yml)
