@@ -39,7 +39,7 @@
 Η επεξεργασία του βιογραφικού έγινε από εδώ:
 
 <br><p align="center">
-<img width="670" height="600" src="https://i.postimg.cc/QMVfPzJT/image.png">
+<img width="750" height="600" src="https://i.postimg.cc/QMVfPzJT/image.png">
 <p/>
 
 Το βιογραφικό μου:
@@ -52,7 +52,7 @@
 Το webring της ομάδας μου:
 
 <br><p align="center">
-<img width="670" height="600" src="https://i.postimg.cc/6p25YWGJ/webring.png">
+<img width="750" height="600" src="https://i.postimg.cc/6p25YWGJ/webring.png">
 <p/>
 
 
