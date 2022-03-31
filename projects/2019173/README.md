@@ -39,7 +39,7 @@
 Η επεξεργασία του βιογραφικού έγινε από εδώ:
 
 <br><p align="center">
-<img width="670" height="600" src="https://i.postimg.cc/SKmZrsJD/image.png">
+<img width="670" height="600" src="https://i.postimg.cc/QMVfPzJT/image.png">
 <p/>
 
 Το βιογραφικό μου:
