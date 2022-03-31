@@ -147,7 +147,7 @@
 Εδώ βλέπετε την εικόνα του λογισμικού COMSOL Multiphysics:
 
 <br><p align="center">
-<img width="750" height="600" src="">
+<img width="750" height="600" src="https://i.postimg.cc/kXKrSKPS/Comsol-Multiphysics.png">
 <p/>
 
 Η εικόνα που σχετίζεται με το λογισμικό Abaqus βρίσκεται [εδώ](https://p19pasa.netlify.app//gallery/assassin-s-creed/). 
@@ -177,3 +177,5 @@
 Έτσι, χρειάστηκε να κατεβάσω το πακέτο με την εντολή pip install -U click, μετά να δημιουργήσω τον απαραίτητο κώδικα σε python, να ορίσω ένα όνομα και να τρέξω το πρόγραμμα.  
 
 Εδώ θα βρείτε το [asciinema](https://asciinema.org/a/SQydmOxTkjM7fTv2sNGJf2A3B) της άσκησης. 
+
+# Βιογραφικό (7ο Παραδοτέο)
