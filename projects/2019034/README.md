@@ -153,9 +153,9 @@
 
 |**Pull Requests**|
 | --- |
-| [images](https://github.com/OompaLoompas/images/pull/3) |
-| [_gallery](https://github.com/OompaLoompas/_gallery/pull/3) |
-| [site](https://github.com/OompaLoompas/site/pull/8) |
+| [images](https://github.com/OompaLoompas/images/pull/10) |
+| [_gallery](https://github.com/OompaLoompas/_gallery/pull/11) |
+| [site](https://github.com/OompaLoompas/site/pull/15) |
 
 <br><h5>Εργαλεία που χρησιμοποίησα:
 * **[Netlify](https://www.netlify.com/)**
@@ -163,6 +163,7 @@
 * **[Manjaro Linux](https://en.wikipedia.org/wiki/Manjaro)**
 * **[Scikit-Learn](https://en.wikipedia.org/wiki/Scikit-learn)**</h5>
 
+**Disclaimer: Άλλαξα τις εικόνες που είχα προσθέσει ύστερα από συμβουλή του καθηγητή**
 <br><br>
 <h1><span id="Άσκηση Γραμμής Εντολών">(6) Άσκηση Γραμμής Εντολών</span></h1>
 
