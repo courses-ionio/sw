@@ -40,7 +40,7 @@
 Το webring της ομάδας μου:
 
 <br><p align="center">
-<img width="600" height="513" src="https://i.postimg.cc/6p25YWGJ/webring.png">
+<img width="670" height="600" src="https://i.postimg.cc/6p25YWGJ/webring.png">
 <p/>
 
 
