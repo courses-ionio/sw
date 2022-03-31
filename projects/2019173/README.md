@@ -39,6 +39,12 @@
 
 Το webring της ομάδας μου:
 
+<br><p align="center">
+<img width="510" height="513" src="https://postimg.cc/qNrT7dLj/webring.png">
+<p/>
+<br><p align="center">
+<img width="510" height="513" src="https://postimg.cc/qNrT7dLj/webring.png">
+<p/>
 
 
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
