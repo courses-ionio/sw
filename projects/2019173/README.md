@@ -38,6 +38,9 @@
 
 Η επεξεργασία του βιογραφικού έγινε από εδώ:
 
+<br><p align="center">
+<img width="670" height="600" src="https://i.postimg.cc/SKmZrsJD/image.png">
+<p/>
 
 Το βιογραφικό μου:
 
@@ -65,7 +68,7 @@
 
 [Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
 
-[Η επεξεργασία του βιογραφικού έγινε από εδώ.]()
+[Η επεξεργασία του βιογραφικού έγινε από εδώ.](https://github.com/p19pasa/online-cv/blob/master/_data/data.yml)
 
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα (3ο Παραδοτέο)
