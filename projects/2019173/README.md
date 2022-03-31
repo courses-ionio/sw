@@ -147,7 +147,7 @@
 Εδώ βλέπετε την εικόνα του λογισμικού COMSOL Multiphysics:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/RC6fJBX8/all-collections-pull-request.png">
+<img width="750" height="600" src="">
 <p/>
 
 Η εικόνα που σχετίζεται με το λογισμικό Abaqus βρίσκεται [εδώ](https://p19pasa.netlify.app//gallery/assassin-s-creed/). 
