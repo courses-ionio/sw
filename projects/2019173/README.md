@@ -90,7 +90,9 @@
 
 Εδώ βλέπετε το στο pull request μου all_collections:
 
-
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/RC6fJBX8/all-collections-pull-request.png">
+<p/>
 
 
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
