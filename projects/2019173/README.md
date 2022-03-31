@@ -77,10 +77,14 @@
 Εδώ βλέπετε το issue που άνοιξα:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/9fnw88Lz/issue.png">
+<img width="750" height="600" src="https://i.postimg.cc/HnKST9WL/issue.png">
 <p/>
 
 Εδώ βλέπετε την προσθήκη του μαθήματος στο all_collections:
+
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/9MwbJqY5/image.png">
+<p/>
 
 Εδώ βλέπετε το pull request μου στο sitegr:
 
