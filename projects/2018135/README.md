@@ -89,3 +89,6 @@
 ![Artix](https://github.com/initialelizah/imagestoadd/blob/main/artix.jpg)
 
 ![Artix](https://github.com/initialelizah/imagestoadd/blob/main/Screenshot%202022-03-27%20174017.jpg)
+
+# ✧ Παραδοτέο 7
+
