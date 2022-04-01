@@ -20,7 +20,7 @@
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/460) </a></sup> | |
-| 7 | <sup><a href="#7"> Βιογραφικό | [Λινκ στις συζητησεις]() </a></sup> | |
+| 7 | <sup><a href="#7"> Βιογραφικό | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/509) </a></sup> | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -253,6 +253,14 @@ py-spy: https://github.com/benfred/py-spy
 ##### [7]
 
 ### Βιογραφικο:
+
+Αποθετηριο του tex του βιογραφικου: 
+
+Αποθετηριο του pdf του βιογραφικου:
+
+Αποθετηριο του log του βιογραφικου:
+
+asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
 ### Βηματα:
 
