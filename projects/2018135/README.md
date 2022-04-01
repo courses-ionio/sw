@@ -31,7 +31,7 @@
 
 [Το βιογραφικό](https://initialelizah.github.io/online-cv/)
 
-[Το αποφθετήριο](https://github.com/initialelizah/online-cv)
+[Το αποθετήριο](https://github.com/initialelizah/online-cv)
 
 ![bio](https://github.com/initialelizah/imagestoadd/blob/main/bio.jpg)
 
