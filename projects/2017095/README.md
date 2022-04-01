@@ -118,6 +118,8 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 
 [PDF Βιογραφικού](https://github.com/p17anto2/p17anto2.github.io/blob/main/resume.pdf)
 
+[Pre-Commit Hook](https://github.com/p17anto2/p17anto2.github.io/blob/main/pre-commit-hook)
+
 [Asciinema](https://asciinema.org/a/483264)
 
 ## Σύστημα
