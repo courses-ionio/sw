@@ -270,7 +270,7 @@ asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
 Κανω fork του αποθετηριου του βιογραφικου μου απο το 2ο παραδοτεο με την εντολη ```git clone https://github.com/p18kana/online-cv.git```
 
-Κατευθυνομαι στο locatio του fork με την εντολη ```cd online-cv``` 
+Κατευθυνομαι στο location του fork με την εντολη ```cd online-cv``` 
 
 Μεσα σε αυτο δημιουργο εναν νεο φακελο για το αποτελεσμα της μετατροπης με την εντολη ```mkdir bio```
 
