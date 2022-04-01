@@ -12,7 +12,7 @@
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
 | 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α) | https://github.com/courses-ionio/help/discussions/423 | |
 | 6 | [Άσκηση γραμμής εντολών 2](#6-ntfy) |  https://github.com/courses-ionio/help/discussions/457 | |
-| 7 | [Βιογραφικό](#7-Βιογραφικό) | | |
+| 7 | [Βιογραφικό](#7-Βιογραφικό) | https://github.com/courses-ionio/help/discussions/507 | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
