@@ -20,7 +20,7 @@
 | 4 | <sup><a href="#4"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/460) </a></sup> | |
-| 7 | βιογραφικό | | |
+| 7 | <sup><a href="#7" βιογραφικό | [Λινκ στις συζητησεις]() </a></sup> | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -249,3 +249,38 @@ wget``` , ```wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0
 hyperfine: https://github.com/sharkdp/hyperfine
 
 py-spy: https://github.com/benfred/py-spy
+
+##### [7]
+
+### Βιογραφικο:
+
+### Βηματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ```sudo pacman -Sy pandoc``` , ```sudo pacman -S texlive-most texlive-lang```
+
+Με το ```asciinema rec -i 0.2```  ξεκιναω το record του terminal
+
+Κανω fork του αποθετηριου του βιογραφικου μου απο το 2ο παραδοτεο με την εντολη ```git clone https://github.com/p18kana/online-cv.git```
+
+Κατευθυνομαι στο locatio του fork με την εντολη ```cd online-cv``` 
+
+Μεσα σε αυτο δημιουργο εναν νεο φακελο για το αποτελεσμα της μετατροπης με την εντολη ```mkdir bio```
+
+Μετατρεπω το βιογραφικο σε μορφη tex με την εντολη ```pandoc https://p18kana.github.io/online-cv/ -o bio.tex -s```
+
+Μετατρεπω το παραπανω αρχειο tex σε pdf με την εντολη ```pdflatex bio.tex```
+
+Με την εντολή ```exit``` ολοκλήρωσα το recording του terminal
+
+### Αποτελεσματα:
+
+![]()
+
+![]()
+
+Πηγη:
+
+https://lukesmith.xyz/c/wanna-learn-latex#install
+
+
+
