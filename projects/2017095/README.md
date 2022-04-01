@@ -12,7 +12,7 @@
 | 4 | [Άσκηση γραμμής εντολών 1](#4-hyperfine) | https://github.com/courses-ionio/help/discussions/379 | |
 | 5 | [Συμμετοχικό περιεχόμενο A](#5-συμμετοχικό-περιεχόμενο-α) | https://github.com/courses-ionio/help/discussions/423 | |
 | 6 | [Άσκηση γραμμής εντολών 2](#6-ntfy) |  https://github.com/courses-ionio/help/discussions/457 | |
-| 7 | βιογραφικό | | |
+| 7 | [Βιογραφικό](#7-Βιογραφικό) | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -105,6 +105,18 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/06_simplepush.png"> </p>
 
 [Asciinema Link](https://asciinema.org/a/480044) | [Posix Shell Script (Grabber)](https://github.com/p17anto2/grabber)
+
+## 7. Βιογραφικό
+
+Για τη δημιουργία του βιογραφικού ως PDF, αρχικά έπρεπε να κάνω deploy τοπικά το site. Κατέβασα μέσω xbps την τελευταία έκδοση της Ruby, αλλά προέκυψαν μερικά προβήματα. Αρχικά, [το Github Pages χρησιμοποιεί Jekyll 3.9, που δεν είναι συμβατή με την Ruby 3](https://talk.jekyllrb.com/t/error-no-implicit-conversion-of-hash-into-integer/5890). [Η Jekyll 3.9.2 είναι συμβατή με τη Ruby 3.0 και 3.1](https://jekyllrb.com/news/2022/03/27/jekyll-3-9-2-released/), αλλά μέσω του bundle update δε γινόταν ανανέωση, μάλλον επειδή η καινούρια έκδοση είναι πολύ πρόσφατη (πέντε μέρες πριν τη συγγραφή - 27 Μαρτίου). Επειδή στο xbps μόνο η τελευταία έκδοση της Ruby είναι διαθέσιμη, κατέβασα και έκανα compile τον κώδικα για τη [Ruby 2.7](https://github.com/ruby/ruby/tree/ruby_2_7).
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/SW/07_local.png"> </p>
+
+Έπειτα, δημιούρησα ένα pre-commit hook στο git που κάνει build το site και δημιουργεί pdf από το index.html και το main.css μέσω του pandoc και του wkhtmltopdf ως pdf engine. Τέλος, πρόσθεσα ένα download link στην ιστοσελίδα, το οποίο κατεβάζει από το github το resume.pdf. Το pre-commit hook υπάρχει στο αποθετήριο της ιστοσελίδας (τοπικά είναι συμβολικά συνδεδεμένο με ένα αρχείο pre-commit μέσα στο φάκελο .git/hooks).
+
+Βιογραφικό: [Site](https://p17anto2.github.io/) | [Repo](https://github.com/p17anto2/p17anto2.github.io)
+[PDF Βιογραφικού](https://github.com/p17anto2/p17anto2.github.io/blob/main/resume.pdf)
+[Asciinema](https://asciinema.org/a/483264)
 
 ## Σύστημα
 
