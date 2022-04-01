@@ -115,7 +115,9 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 Έπειτα, δημιούρησα ένα pre-commit hook στο git που κάνει build το site και δημιουργεί pdf από το index.html και το main.css μέσω του pandoc και του wkhtmltopdf ως pdf engine. Τέλος, πρόσθεσα ένα download link στην ιστοσελίδα, το οποίο κατεβάζει από το github το resume.pdf. Το pre-commit hook υπάρχει στο αποθετήριο της ιστοσελίδας (τοπικά είναι συμβολικά συνδεδεμένο με ένα αρχείο pre-commit μέσα στο φάκελο .git/hooks).
 
 Βιογραφικό: [Site](https://p17anto2.github.io/) | [Repo](https://github.com/p17anto2/p17anto2.github.io)
+
 [PDF Βιογραφικού](https://github.com/p17anto2/p17anto2.github.io/blob/main/resume.pdf)
+
 [Asciinema](https://asciinema.org/a/483264)
 
 ## Σύστημα
