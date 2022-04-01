@@ -254,11 +254,11 @@ py-spy: https://github.com/benfred/py-spy
 
 ### Βιογραφικο:
 
-Αποθετηριο του tex του βιογραφικου: 
+Αποθετηριο του tex του βιογραφικου: https://github.com/p18kana/SW-files/blob/main/bio.tex
 
-Αποθετηριο του pdf του βιογραφικου:
+Αποθετηριο του pdf του βιογραφικου: https://github.com/p18kana/SW-files/blob/main/bio.pdf
 
-Αποθετηριο του log του βιογραφικου:
+Αποθετηριο του log του βιογραφικου: https://github.com/p18kana/SW-files/blob/main/bio.log
 
 asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
@@ -282,9 +282,9 @@ asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
 ### Αποτελεσματα:
 
-![]()
+![bio1](https://github.com/p18kana/SW-files/blob/main/bio1.png)
 
-![]()
+![bio2](https://github.com/p18kana/SW-files/blob/main/bio2.png)
 
 Πηγη:
 
