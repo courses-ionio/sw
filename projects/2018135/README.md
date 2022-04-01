@@ -92,3 +92,11 @@
 
 # ✧ Παραδοτέο 7
 
+Για το παραδοτέο 7 έγινε μετατροπή του βιογραφικού του παραδοτέου 2 σε pdf με τα εργαλεία pandoc και latex. Αφού έγινε η εγκατάστασή τους ακολούθησαν τα βήματα που φαίνονται στο [asciinema link](https://asciinema.org/a/483368) 
+
+Το αποτέλεσμα είναι το εξής:
+
+![cv1](https://github.com/initialelizah/imagestoadd/blob/main/1.jpg)
+
+![cv2](https://github.com/initialelizah/imagestoadd/blob/main/2.jpg)
+
