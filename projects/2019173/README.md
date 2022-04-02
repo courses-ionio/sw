@@ -181,6 +181,19 @@
 <img width="950" height="800" src="https://i.postimg.cc/nVgzsL0Q/gal-com.png">
 <p/>
 
+Εδώ βλέπετε την επεξεργασία του _timeline:
+
+<br><p align="center">
+<img width="950" height="800" src="https://i.postimg.cc/26mWK71v/timeline.png">
+<p/>
+
+
+Εδώ βλέπετε την επεξεργασία του _slides:
+
+<br><p align="center">
+<img width="950" height="800" src="https://i.postimg.cc/gkfWpSmC/slides.png">
+<p/>
+
 
 Για το λογισμικό Abaqus: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/styles/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1978](https://p19pasa.netlify.app//timeline/systems/).
 
@@ -190,6 +203,10 @@
 [Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
 
 [Εδώ](https://github.com/IonianUniversity2019/site/issues/1) θα βρείτε το issue μου.
+
+[Εδώ](https://github.com/p19pasa/site/blob/master/_slides/visualization.md) έγινε η επεξεργασία στο _slides.
+
+[Εδώ](https://github.com/p19pasa/site/blob/2019173/_timeline/systems.md) έγινε η επεξεργασία στο _timeline.
 
 [Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
 
