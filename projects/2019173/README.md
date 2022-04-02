@@ -187,7 +187,7 @@
 Για το λογισμικό COMSOL Multiphysics: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/definition/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1986](https://p19pasa.netlify.app//timeline/computer/).
 
 
-[Εδώ](https://github.com/IonianUniversity2019/site/pull/2) θα βρείτε το pull request μου στην ομάδα μου.
+[Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
 
 [Εδώ](https://github.com/IonianUniversity2019/site/issues/1) θα βρείτε το issue μου.
 
