@@ -13,7 +13,7 @@
 | [3](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Discussion](https://github.com/courses-ionio/help/discussions/307) - [Live Demo](https://site-demo-2015002.netlify.app/people/exarchos/) | Πλήρης Εκτέλεση |
 | [4](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/387) | Πλήρης Εκτέλεση |
 | [5](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | Συμμετοχικό περιεχόμενο A1+A2 | [Discussion](https://github.com/courses-ionio/help/discussions/454) | Πλήρης Εκτέλεση |
-| 6 | Άσκηση γραμμής εντολών | | |
+| [6](#6ο-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/512) | Πλήρης Εκτέλεση |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -101,8 +101,15 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 | Info | Links | --- | Forked Repos | Link |
 | --- | --- | --- | --- | --- |
 | Issue | [link](https://github.com/Cont1nental/site/issues/2) |  | DirectX | [Image](https://github.com/mariosconsta/images/blob/master/directX.png) - [Gallery](https://github.com/mariosconsta/_gallery/blob/master/directX.md)
-| Pull Request / site | [link](https://github.com/Cont1nental/site/pull/3) | | GhostBSD | [Image](https://github.com/mariosconsta/images/blob/master/ghostBSD.png) - [Gallery](https://github.com/mariosconsta/_gallery/blob/master/ghostBSD.md)
-| Pull Request / _gallery | [link](https://github.com/Cont1nental/_gallery/pull/1) | | Timeline | [microsoft](https://github.com/mariosconsta/site/blob/master/_timeline/microsoft.md)
-| Pull Request / images | [link](https://github.com/Cont1nental/images/pull/1) | | Slide | [Unix Like Software](https://github.com/mariosconsta/site/blob/master/_slides/Unix-Like-Systems.md)
+| Pull Request / site | [link](https://github.com/Cont1nental/site/pull/6) | | GhostBSD | [Image](https://github.com/mariosconsta/images/blob/master/ghostBSD.png) - [Gallery](https://github.com/mariosconsta/_gallery/blob/master/ghostBSD.md)
+| Pull Request / _gallery | [link](https://github.com/Cont1nental/_gallery/pull/4) | | Timeline | [microsoft](https://github.com/mariosconsta/site/blob/master/_timeline/microsoft.md)
+| Pull Request / images | [link](https://github.com/Cont1nental/images/pull/4) | | Slide | [Unix Like Software](https://github.com/mariosconsta/site/blob/master/_slides/Unix-Like-Systems.md)
 
+## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
+
+Για το 6ο παραδοτέο ολοκλήρωσα την εγκατάσταση του λογισμικού κάνοντας install κάποια απαραίτητα προγράμματα που θα χρειαστώ για την ολοκλήρωση των επόμενων ασκήσεων γραμμής εντολών.
+
+Παράλληλα ρύθμισα το location και time-zone του συστήματος, όπως και το keyboard layout.
+
+Μερικά προγράμματα είναι neofetch, asciinima, zsh, ntfy, pandoc και texlive.
 ---
