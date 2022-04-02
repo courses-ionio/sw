@@ -171,14 +171,14 @@
 Εδώ βλέπετε την προσθήκη του file abaqus.md στο _gallery:
 
 <br><p align="center">
-<img width="950" height="800" src="https://i.postimg.cc/PJ1ZN8sT/gal-aba.png">
+<img width="950" height="800" src="https://i.postimg.cc/J76XpmK1/gal-aba.png">
 <p/>
 
 
 Εδώ βλέπετε την προσθήκη του file comsol-Multiphysics.md στο _gallery:
 
 <br><p align="center">
-<img width="950" height="800" src="https://i.postimg.cc/zfwk2MPq/gal-com.png">
+<img width="950" height="800" src="https://i.postimg.cc/nVgzsL0Q/gal-com.png">
 <p/>
 
 
