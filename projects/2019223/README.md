@@ -1,7 +1,7 @@
 # Τεχνολογία Λογισμικού
-## Πετρούλα Στυλιανού 
-## ΑΜ: Π2019223
-#### Github profile: https://github.com/PetroulaStylianou
+### Πετρούλα Στυλιανού 
+### ΑΜ: Π2019223
+#### [Github profile](https://github.com/PetroulaStylianou)
 
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
@@ -37,6 +37,12 @@
 
 [Το issue που άνοιξα](https://github.com/ioniodi/sitegr/issues/271)
 
+Οι αλλαγές που έγιναν:
+[Αλλαγή ονόματος,](https://github.com/PetroulaStylianou/all_collections/blob/master/_courses/pattern-recognition.md)
+[Προσθήκη στοιχείων καθηγητή](https://github.com/PetroulaStylianou/all_collections/blob/master/_people/vlamos.md) 
+
+
+
 # Άσκηση γραμμής εντολών 
 ## Create a cli app for your favorite site
 
@@ -58,8 +64,8 @@
 Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το βιντεοπαιχνίδι Sonic και για προσωπικό υπολογιστή iMac.
 
 ## Βιοντεοπαιχνίδι (Sonic)
-[1η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic-%20thumb.jpeg)
-[, 2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic.jpeg)
+[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/Sonic-%20thumb.jpeg)
+[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic.jpeg)
 
 [Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/Sonic.md)
 
@@ -69,8 +75,8 @@
 
 
 ## Προσωπικός Yπολογιστής (iMac)
-[1η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac-%20thumb.png)
-[, 2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac.png)
+[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/iMac-%20thumb.png)
+[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac.png)
 
 [Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/iMac.md)
 
