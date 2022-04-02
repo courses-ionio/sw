@@ -141,20 +141,26 @@
 Εδώ βλέπετε την προσθήκη της εικόνα του λογισμικού Abaqus στο images:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/gjcfjGRt/pic-aba.png">
+<img width="800" height="600" src="https://i.postimg.cc/gjcfjGRt/pic-aba.png">
 <p/>
 
 Εδώ βλέπετε την προσθήκη της εικόνα (160x160 pixels) του λογισμικού Abaqus στο images:
 
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/wxJVyCF0/abaqus-thumb.png">
+<p/>
 
 Εδώ βλέπετε την προσθήκη της εικόνα του λογισμικού COMSOL Multiphysics στο images:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/kXKrSKPS/Comsol-Multiphysics.png">
+<img width="750" height="600" src="https://i.postimg.cc/wT476vJP/pic-cos.png">
 <p/>
 
 Εδώ βλέπετε την προσθήκη της εικόνα (160x160 pixels) του λογισμικού COMSOL Multiphysics στο images:
 
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/G3JD1dXw/pic-costhum.png">
+<p/>
 
 Η εικόνα που σχετίζεται με το λογισμικό Abaqus βρίσκεται [εδώ](https://p19pasa.netlify.app//gallery/assassin-s-creed/). 
 
