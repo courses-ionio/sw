@@ -147,7 +147,7 @@
 Εδώ βλέπετε την προσθήκη της εικόνα (160x160 pixels) του λογισμικού Abaqus στο images:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/wxJVyCF0/abaqus-thumb.png">
+<img width="750" height="600" src="https://i.postimg.cc/VvVmcJTW/pic-abathum.png">
 <p/>
 
 Εδώ βλέπετε την προσθήκη της εικόνα του λογισμικού COMSOL Multiphysics στο images:
