@@ -15,7 +15,7 @@
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
 | <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας MAME32, ATARI-DOS και χρήση Netlify για το ανέβασμα τους |
 | <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
-| 7 | βιογραφικό | | |
+| <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link]() | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -117,7 +117,11 @@
  
  -neofetch
  
-![275902693_1015693295695314_7128871605494466481_n](https://user-images.githubusercontent.com/63341157/159173983-268c6e40-64fd-401f-834f-6626e82add62.png)
+ -[asciinema link](https://asciinema.org/a/483325)
+ 
+ ![Screenshot_8](https://user-images.githubusercontent.com/63341157/161386724-4f11a887-6ad6-4481-ac33-d871ffca52d3.png)
+
+ 
 
 
 
@@ -166,5 +170,21 @@ A1
 Χρονολόγιο στο προσωπικό site : [Link MAME32](https://vagelis1993.netlify.app//timeline/videogames/), [Link ATARI-DOS](https://vagelis1993.netlify.app//timeline/os-apps/)
 
 
+# <a name="F">Βιογραφικό</a>
 
 
+Αποθετήριο του pdf του βιογραφικού : https://github.com/Vagelis1993/cv-pdf/blob/main/pdf/cv.pdf
+
+Αποθετήριο του tex του βιογραφικού : https://github.com/Vagelis1993/cv-pdf/blob/main/pdf/cv.tex
+
+Αποθετήριο του log του βιογραφικού : https://github.com/Vagelis1993/cv-pdf/blob/main/pdf/cv.log
+
+asciinema link για μετατροπή σε pdf και tex : https://asciinema.org/a/Ho73qQ2VI8PZhDJD95kR7rHAx
+
+Εγκατάσταση πακέτων : sudo pacman -Sy pandoc , sudo pacman -S texlive-most texlive-lang
+
+Πηγές : 
+
+https://lukesmith.xyz/c/wanna-learn-latex#install
+
+https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
