@@ -61,28 +61,29 @@
 
 # Συμμετοχικό περιεχόμενο A1+A2
 
-Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το βιντεοπαιχνίδι Sonic και για προσωπικό υπολογιστή iMac.
+Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για δύο λογισμικά, το MSC και το Ansys.
 
-## Βιοντεοπαιχνίδι (Sonic)
-[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/Sonic-%20thumb.jpeg)
-[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Sonic.jpeg)
-
-[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/Sonic.md)
-
-[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/videogames.md)
-
-[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/videogames.md)
+## Λογισμικό (MSC)
+[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/MSC.png)
+[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/MSC-%20thumb%20.png)
 
 
-## Προσωπικός Yπολογιστής (iMac)
-[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/iMac-%20thumb.png)
-[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/iMac.png)
+[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/MSC.md)
 
-[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/iMac.md)
+[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
 
-[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/prototyping.md)
+[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
 
-[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/personal.md)
+
+## Λογισμικό (Anasys)
+[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/Ansys.jpeg)
+[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Ansys-%20thumb%20.jpeg)
+
+[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/Ansys.md)
+
+[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
+
+[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
 
 
 
