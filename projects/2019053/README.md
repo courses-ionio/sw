@@ -371,7 +371,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Το pdf λειτούργουσε κανονικά αλλά στη θέση της εικόνας μου υπήρχε ένα κενό πλαίσιο. Για την **εμφάνιση της εικόνας** μου ακολούθησα τα παρακάτω βήματα:
 
-1. Χρησιμοποίησα την εντολή **\usepackage{graphicsx}** που πληροφορήθηκα από [αυτή](https://tex.stackexchange.com/questions/324751/how-to-add-install-the-graphicx-package-to-latex) την ανάρτηση πως είναι σημαντική για τη προβολή εικόνων στα αρχεία .tex.
+1. Χρησιμοποίησα την εντολή **\usepackage{graphicx}** που πληροφορήθηκα από [αυτή](https://tex.stackexchange.com/questions/324751/how-to-add-install-the-graphicx-package-to-latex) την ανάρτηση πως είναι σημαντική για τη προβολή εικόνων στα αρχεία .tex.
 
 2. Πρόσθεσα την εικόνα στον φάκελο myPDF
 
