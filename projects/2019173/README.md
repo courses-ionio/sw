@@ -170,7 +170,7 @@
 
 Για το λογισμικό Abaqus: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/videogames/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1978](https://p19pasa.netlify.app//timeline/videogames/).
 
-Για το λογισμικό COMSOL Multiphysics: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/programming/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1991](https://p19pasa.netlify.app//timeline/programming/).
+Για το λογισμικό COMSOL Multiphysics: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/programming/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1986](https://p19pasa.netlify.app//timeline/programming/).
 
 
 [Εδώ](https://github.com/IonianUniversity2019/site/pull/2) θα βρείτε το pull request μου στην ομάδα μου.
