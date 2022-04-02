@@ -15,7 +15,7 @@
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
 | <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας MAME32, ATARI-DOS και χρήση Netlify για το ανέβασμα τους |
 | <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
-| <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link]() | Δημιουργία αρχείου pdf tou CV, pdflatex |
+| <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
