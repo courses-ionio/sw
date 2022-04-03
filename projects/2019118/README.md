@@ -111,3 +111,9 @@ Pull requests:
 - Το αρχείο φαίνεται να μην άλλαξε επειδή μετά το demonstration της άσκησης έκανε overwrite με σκοπό το ίδιο αρχείο να έχει το catch phrase "Τι κάνεις Τάσο; Κουκιά σπέρνω." αλλά είχε την ίδια γραμμή αντί αυτού τελικά.
 
 - Ίσως γίνει κάποια επανάληψη της άσκησης από εμένα και τον συμφοιτητή μου για καλύτερο εικονικό αποτέλεσμα.
+
+## Παραδοτέο 7 / Βιογραφικό
+
+Έκανα εγκατάσταση του Pandoc & Latex και χρησιμοποίησα ένα [template](https://github.com/john-bokma/resume-pandoc) που μου άρεσε για να δημιουργήσω το βιογραφικό μου και σε [PDF](https://vuxxs.github.io/online-cv/resume-pandoc-master/2019118-cv.pdf).
+
+<img src="https://i.imgur.com/84rzYBT.png" alt="PDF preview">
