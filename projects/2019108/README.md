@@ -16,10 +16,10 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης](#εισαγωγη) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/65#discussion-3883654) | |
 | 2 | [Βιογραφικό](#2ο-παραδοτέο---βιογραφικό-α-και-δημιουργία-oμάδας) και [δημιουργία ομάδας](#webring-και-ομάδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/186) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/314) | |
-| 4 | [Άσκηση γραμμής εντολών: installing systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/365) | |
+| 4 | [Άσκηση γραμμής εντολών: Ιnstalling systemd less distro](#4ο-παραδοτέο---εγκατάσταση-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/365) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/444) | |
-| 6 | [Άσκηση γραμμής εντολών: installing systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
-| 7 | Βιογραφικό | | |
+| 6 | [Άσκηση γραμμής εντολών: Ιnstalling systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) και [Άσκηση γραμμής εντολών - Check the Weather](#άσκηση-γραμμής-εντολών---check-the-weather) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
+| 7 | [Βιογραφικό: PDF με pandoc και LaTeX + CI](#7ο-παραδοτέο---βιογραφικό-pdf-με-pandoc-και-latex--ci) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/523#discussion-3983966) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -180,7 +180,7 @@
 </p>
 
 #### Asciinema demo for "HakUpdateModules.sh shell script by KuhakuNeko": [Demo for HakUpdateModules.sh](https://asciinema.org/a/RTtCf7KaDVtCMtWL4G6wH7dsO)<br>
-#### HakUpdateModules.sh shell script by KuhakuNeko": [KuhakuNekoLinuxShellScripts/HakUpdateModules.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HakUpdateModules.sh)<br>
+#### HakUpdateModules.sh shell script by KuhakuNeko": [KuhakuNekoLinuxShellScripts/HakUpdateSubmodules.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HakUpdateSubmodules.sh)<br>
 
 # 6ο Παραδοτέο - Συνέχεια εγκατάστασης systemd-less linux distro
 Συνεχίζοντας την αναζήτηση ενός συστήματος που να μην κάνει χρήση του systemd αυτην την εβδομάδα κατάφερα να καταλήξω σε ένα σύστημα που μου φαίνετε πως πραγματικά μου ταιριάζει. Αυτό που έψαχνα είναι ένα σύστημα που να μην είναι εύκολα birckable (όπως κατέλιξε τελικά το funtoo μου), να έχει ένα ενεργό και φιλικό community, να είναι ιδιαίτερα εύκαμπτο για να έχει νόημα αυτή η αλλαγή, να τρέχει ικανοποιητικά σε έναν υπολογιστή μέτριων επιδόσεων, να είναι πραγματικά ενεργό, και να μου επιτρέπει να προσθέτω καλλιτεχνικές πινελιές που αναφέρω και στην εισαγωγή μου. Αυτό το σύστημα είναι το Artix Linux. Ένα σύστημα με χαρακτηριστικά από το Arch που έρχεται σε διάφορα πακέτα χωρίς systemd, (οι επιλογές είναι πολλές όπως αυτές του openrc και του s6), και σε αφήνει να προσθέσεις εσύ την δική σου γραφική διεπαφή αν την χρειαστείς. Το Artix αυτοαποκαλείται "The Art of Linux Simple. Fast. Systemd-free." και αυτό είναι κάτι που με τράβηξε, φαίνονταν πολλά υποσχόμενο και κοντά σε αυτό που έψαχνα και όπως θα δείτε παρακάτω δεν απογοητεύει.<br>
@@ -210,4 +210,38 @@
 
 Εγώ χρησιμοποίησα πέρα από το wttr που ήταν το προτεινόμενο και ένα άλλο εργαλείο που έχω βρει και παρέχει πόλη λεπτομερής πληροφορίες καιρού. Για παράδειγμα το inxi μπορεί να δήξει πολλές πληροφορίες για τον καιρό και όχι μόνο βάσει γεωγραφικών συντεταγμένων.<br>
 
-#### Asciinema link για την άσκηση γραμμής εντολών "Check the Weather": [Παραδοτέο 6 / Εργασία Terminal (SW Π2019108)](https://asciinema.org/a/GNTOw8UhEPIryXIpntm9yiaRj)
+Να αναφέρω επίσεις ότι πάνω στο αντικείμενο του καιρού έχω δημιουργήσει ένα shell script με το οποίο μπορείς να πάρεις εκτεταμένες μετεωρολογικές πληροφορίες από τις αγαπημένες σου περιοχές. Σε αυτό αξιοποιώ προγράμματα όπως το wttr.in, το inxi και το finger για να παρέχει πολλές χρήσιμές μετεωρολογικές πληροφορίες στον χρήστη πολύ γρήγορα. Στο script έχω κατασκευάσει 2 πίνακες οι οποίοι περιέχουν τις τοποθεσίες από τις αγαπημένες περιοχές του χρήστη. Ο καθένας "πειράζοντας" λίγο τον πίνακα (μπορεί άνετα να βάλει και άλλες θέσεις χωρίς να χαλάσει το πρόγραμμα) μπορεί να δει μετεωρολογικά δεδομένα για μια από τις αγαπημένες του περιοχές, οι ακόμα και για όλες με μία επιλογή!<br>
+
+#### Asciinema link για την άσκηση γραμμής εντολών "Check the Weather": [Παραδοτέο 6 / Εργασία Terminal (SW Π2019108)](https://asciinema.org/a/GNTOw8UhEPIryXIpntm9yiaRj)<br>
+#### TermWeather.sh Demo: [Demo for TermWeather.sh by KuhakuNeko](https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P)<br>
+#### TermWeather.sh shell script: [TermWeather.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/TermWeather.sh)<br>
+
+# 7ο Παραδοτέο - Βιογραφικό: PDF με pandoc και LaTeX + CI
+
+Στο συγκεκριμένο παραδοτέο μας ζητήθηκε να κάνουμε μετατροπή του online βιογραφικού μας σε pdf με την χρήση των εργαλείων LaTeX και pandoc. Ακόμη αφού κάνουμε αυτό να αυτοματοποιήσουμε την διαδικασία κάνοντας set-up ένα continuous integration deploy με εργαλεία της επιλογής μας.<br>
+
+Στο **πρώτο** asciinema link δίχνω την διαδικασία μετατροπής του CV μου σε PDF. Συγκεκριμένα με το pandoc δημιουργώ ένα tex αρχείο (δηλαδή latex) που είναι ιδικά φορμαρισμένο. Μετά με την εντολή pdflatex γίνετε η μετατροπή από tex σε pdf. Επειδή αυτό παράγει και διάφορα άλλα αρχεία που μου είναι άχρηστα για την ιστοσελίδα με το CV μου τα κάνω rm.<br>
+
+Στο **δεύτερο** asciinema link δείχνω ολόκληρη την διαδικασία που ακολουθώ για την μετατροπή μέσω CI. Για να κάνω set-up το coninuous integration χρησιμοποιώ git hooks που είναι ένας πολύ έξυπνος, ευέλικτος και χρήσιμος μηχανισμός. Τα hooks βρίσκονται εντός του .git φακέλου που βρίσκετε στο repository του CV μου το οποίο έχω κάνει clone και έιναι κρυφός. Ουσιαστικά τα hooks είναι scripts που εκτελούνται κάποιες συγκεκριμένες στιγμες, το github παρέχει ευελιξία σε αυτό. Εγω χρησιμοποίησα hooks που ενεργοποιούνται πριν και μετά το commit. Έτσι φαίνετε οτι πειράζω τα αρχεία pre-commit και post-commit τα οποία βρίσκονται στην τοποθεσία ~/online-cv/.git/hooks.<br>
+
+Τα scripts μου φαίνονται ξεκάθαρα στο asciinema μου. Συγκεκριμένα το pre-commit κάνει touch το αρχείο .commit δημιουργώντας το απο την αρχή άδειο. Μετά το post-commit τρέχει την εντολή pandoc για μετατροπή σε tex και το pdflatex αναλαμβάνει την μετατροπή σε pdf από tex. Σε αυτό το σημείο να αναφέρω ότι ασχολήθηκα ακόμα περισσότερο ψάχνοντας alternative μηχανές pdf και βρίκα άλλη μία με το όνομα wkhtmltopdf. Η συγκεκριμένη μηχανή παράγει επίσης αξιόλογα αποτελέσματα και απλά αποφάσισα να την προσθέσω στο script ως έξτρα, η χρήση της έγινε μέσω του pandoc. Στο τέλος του script κάνω επίσης rm όλα τα άχρηστα αρχεία που προανέφερα καθώς δεν θέλω να τα κάνω push στο repo μου. Για να τρέξουν τα script αποφάσισα να αφαιρέσω από το yml αρχείο μου τον ψεύτικο αριθμό τηλεφώνου που είχα βάλει στην αρχή. Όπως βλέπετε και στο repo αλλά και στο commit history οι αλλαγή έπιασε και τα 2 pdf μου ανέβηκαν μαζί με την αλλαγή.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%207%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Dimitris%20Kostadimas%20CV%20LaTeXPDFs.png" width="180px">
+</p>
+
+Επειδή έχω δουλέψει αρκετά στο CV μου και στο layout του yaml, πιστεύω ότι έχει γίνει αρκετά καλή δουλεία κάνοντας την φωτογραφία μου να εμφανίζεται καθώς και αντί για μπάρες να έχω ποσοστά που είναι πιο ευανάγνωστα και πιο lightweight για μία εκτύπωση σε χαρτί. Γενικά θεωρώ το τελικό αποτέλεσμα πολύ ευανάγνωστό. Τέλος να αναφέρω ότι στην σελίδα μου πρόσθεσα και ανάλογα κουμπιά/links στο sidebar ώστε τα PDF αυτά να μπορούν να κατεβάσουν μέσω της σελίδας μου.<br>
+
+#### Ωστόσο να αναφέρω ότι κατά την διαδικασία συνάντησα μερικά προβλήματα...
+Αρχικά είχα ένα πρόβλημα με την χρήση της εντολής pdflatex εντός του hook script. Το pdflatex όταν βλέπει κάποιο error ζητάει από τον χρήστη να πατήσει enter για να παραλείψει το error όμως το user input δέν είναι επιτρεπτό κατα το hook. Ευτυχώς για εμένα αυτό το error ήταν πολύ εύκολο να λυθεί ανανεώνοντας λίγο το path στο yml αρχείο μου ώστε να παράγετε σωστά μετά στο tex αρχείο και να μην υπάρχουν προβλήματα.<br>
+Άλλο πρόβλημα είναι οτι για κάποιο λόγο στο Artix Linux που είναι το σύστημα που χρησιμοποιώ υπήρχαν πολλά προβλήματα με την εγκατάσταση των πακέτων του LaTeX και του pandoc όμως αυτό το έλυσα χαρίς την καταπληκτική δουλειά του community αυτού του συστήματος. Συγκεκριμένα το pacman -S texlive-most texlive-lang μου έβγαζε διάφορα errors όπως not-found το οποίο είναι κάτι που ερεύνησα. με το pacman -Syy είχα καλύτερη τύχη και επειδή χρειαζόμουν κάτι άλλα πακέτα γλώσσας, engines και αρχεία μετατροπών όπως το wkhtmltopdf και το murrine τα community repositories του arch που έχουν άμεση σχέση με το artix κάνουν χρυσές δουλείες και με την βοήθεια του yaourt με βγάζουν από δύσκολες καταστάσεις εγκατάστασης κακό-συντηρημένων πακέτων για ακόμα μία φορά.<br>
+
+#### Link προς το site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Link](https://kuhakuneko.github.io/online-cv/)<br>
+#### Link προς το repository του site του βιογραφικού μου: [KuhakuNeko/Dimitris Kostadimas CV Repository Link](https://github.com/KuhakuNeko/online-cv)<br>
+#### Link προς το pandoc + LaTeX PDF: [DK_Latex_CV.pdf](https://github.com/KuhakuNeko/online-cv/blob/gh-pages/assets/pdf/DK_Latex_CV.pdf)<br>
+#### Link προς το PDF με χρήση της μηχανής wkhtmltopdf: [DK_RichLatex_CV.pdf](https://github.com/KuhakuNeko/online-cv/blob/gh-pages/assets/pdf/DK_RichLatex_CV.pdf)
+#### Asciinema link για την μετατροπή σε pdf με pandoc + LaTeX: [Creating pdf for my CV with pandoc and latex - Π2019108](https://asciinema.org/a/Ly90hzqzI19dndx5zdYINimCu)<br>
+#### Asciinema link για ολόκληρη την διαδικασία των αυτόματων μετατροπών και του continuous integration: [Creating pdf for my CV with pandoc and latex + Setting up Continuous Integration - Π2019108](https://asciinema.org/a/WlrkjroiU82uHrLJx1ac7tt3m)<br>
+
+#### Link από μερικές πηγές που ερεύνησα:
+[starbeamrainbowlabs LaTeX-Round-2](https://starbeamrainbowlabs.com/blog/article.php?article=posts/277-LaTeX-Round-2.html) | [archlinux wiki: TeX_Live](https://wiki.archlinux.org/title/TeX_Live) | [command-not-found.com/xelatex](https://command-not-found.com/xelatex) | [markdown2pdf_pandoc](https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/) | [stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592) | [archlinux community repositories: murrine](https://archlinux.org/packages/community/x86_64/gtk-engine-murrine/) | [a-markdown-to-pdf-workflow-on-linux](https://blog.scottlowe.org/2018/09/27/a-markdown-to-pdf-workflow-on-linux/) | [wkhtmltopdf.org](https://wkhtmltopdf.org/) | [digitalocean tutorials how-to-use-git-hooks-to-automate-development-and-deployment-tasks](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
