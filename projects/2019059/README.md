@@ -72,3 +72,16 @@ https://github.com/courses-ionio/help/discussions/197
 Δώστε προσωχή στο τηλέφωνο είναι ίδιο με την τιμή της μεταβλητής from_ στον κώδικα python πιο πάνω.
 <br>
 ![alabama](https://user-images.githubusercontent.com/72515596/160277305-0ae48bb6-583d-446f-84fe-b742578afe98.jpg)
+
+# Παραδοτέο 7
+
+Στο παραδοτέο αυτό ζητήθηκε να φτοιάξουμε ένα αρχείο pdf απο το βιογραφικό του δεύτερου παραδοτέου με την χρήση των εργαλείων pandoc και latex.
+
+Το [βιογραφικό](https://xar1sgeovlacp2019059.github.io/online-cv/)
+link για την διαδικασία στο [asciinema](https://asciinema.org/a/EdLIyszaIbTZxnsSQ2JTy98oD)
+
+Προβλήματα:
+Το πρόβλημα που υπήρχε ήταν ότι δεν αναγνωριζόταν η εντολή pdflatex ακόμα και αν είχε εγκταστεθή το texlive
+To πρόβλημα λύθικε με την εντολή: sudo apt install texlive-latex-extra
+Πολύ χρονοβόρα διαδικασία μέχρι να κατέβουν όλα τα πακέτα.
+Τώρα αντιμετοπίζω ένα πρόβλημμα με το push στο github
