@@ -78,7 +78,7 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 | Pull Request | [link](https://github.com/ioniodi/all_collections/pull/10) |
 | Demo | [link](https://site-demo-2015002.netlify.app/people/exarchos/) |
 
-**IMAGE HERE**
+![image](https://user-images.githubusercontent.com/22726730/161424897-0feda2cf-f4e1-4fb3-afe4-dad3f31eb5fb.png)
 
 ### Δυσκολίες
 
