@@ -98,6 +98,11 @@
 <img width="750" height="600" src="https://i.postimg.cc/RC6fJBX8/all-collections-pull-request.png">
 <p/>
 
+Εδώ βλέπετε την αλλαγή που έγινε στο sitegr:
+
+<br><p align="center">
+<img width="750" height="600" src="https://i.postimg.cc/PxCn8yj8/pic-A1-A2.png">
+<p/>
 
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
 
@@ -106,6 +111,8 @@
 [Εδώ](https://github.com/ioniodi/sitegr/pull/371)  θα βρείτε το pull request μου στο sitegr.
 
 [Εδώ](https://github.com/ioniodi/all_collections/pull/56)  θα βρείτε το pull request μου στο all_collections.
+
+[Εδώ](https://tender-saha-e93d2d.netlify.app/courses/distributed-network-systems/) φαίνεται η αλλαγή που έγινε στο sitegr.
 
 [Εδώ](https://github.com/p19pasa/all_collections/blob/2019173/_courses/Distributed-Network-Centered-Systems.md) θα βρείτε την επεξεργασία που έκανα, δηλαδή, την προσθήκη του μαθήματος επιλογής Κατανεμημένα Δικτυοκεντρικά Συστήματα.
 
