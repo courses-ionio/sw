@@ -18,7 +18,7 @@
 | 4 | <li><a href="#Εγκατάσταση του FreeBSD και warmup άσκηση γραμμής εντολών"><span class="toctext">Εγκατάσταση του FreeBSD και warmup άσκηση γραμμής εντολών</span></a>  | [Link της αναφοράς της άσκησης γραμμής εντολών και της εγκατάστασης του FreeBSD](https://github.com/courses-ionio/help/discussions/402/) |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο Α1 + Α2"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 +Α2</span></a>  | [Link της αναφοράς της πρώτης άσκησης συμμετοχικού περιεχομένου](https://github.com/courses-ionio/help/discussions/452/) |
 | 6 | <li><a href="#Εγκατάσταση του Void Linux και warmup άσκηση γραμμής εντολών"><span class="toctext">Εγκατάσταση του Void Linux και warmup άσκηση γραμμής εντολών</span></a>  | [Link της αναφοράς της εγκατάστασης του Void Linux και της warmup άσκησης γραμμής εντολών](https://github.com/courses-ionio/help/discussions/488/) |
-| 7 | Βιογραφικό | | |
+| 7 | <li><a href="#Δημιουργία του βιογραφικού σε μορφή pdf"><span class="toctext">Δημιουργία του βιογραφικού σε μορφή pdf</span></a>  | [Link της αναφοράς της δημιουργίας του βιογραφικού σε μορφή pdf](https://github.com/courses-ionio/help/discussions/513/) |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -390,13 +390,85 @@ Tρίτο βήμα
 </p>
   
 <br />
-
   
-
   
 
+
+# Έβδομη εβδομάδα / Βιογραφικό
+  
+<br />
+  
+### Δημιουργία pdf του βιογραφικού μου και ενημέρωση των git hooks
+  
+<br />
+  
+Για την 7η εβομάδα του μαθήματος μάς ζητήθηκε να δημιουργήσουμε το βιογραφικό μας σε μορφη pdf και με εντολές μέσω τερματικού να εκτυπώνεται σε αρχείο το όποιο θα ενημερώσουμε εμείς στο [online-cv](https://github.com/vasiliskampani/online-cv/). Πρέπει επίσης να ενημερωσουμε τα ***git hooks*** ώστε κάθε φορα που θα γίνεται μια αλλαγή στο **online-cv** να ενημερώνεται αυτόματα και το pdf που θα δημιουργήσουμε. Γιαυτό και εγώ υλοποίησα τα εξής:
+  
+
+<br />
+  
+#### Εργαλεία για την δημιουργία του pdf
+
+ &#10004; Κατέβασα το πακέτο **pandoc** με την εντολή `sudo apt-get install pandoc`
+  
+<br />
+  
+&#10004; Κατέβασα το πακέτο **latex** με την εντολή `sudo apt-get install texlive-latex-base` 
+
+<br />
+  
+#### Εργαλεία για τα git hooks
+  
+&#10004; Κατέβασα το πακέτο **vim** για τα ***git hooks*** με την εντολή `sudo apt-get install vim`
   
   
+
+<br />
+  
+  
+Στο παρακάτω asciinema δείχνω την διαδικασία που ακολούθησα για να δημιουργήσω το βιογραφικό μου σε μορφή pdf
+  
+<br />
+  
+
+<p align="center">
+<a href="https://asciinema.org/a/3tTemquDxJwrjEHgAyzNjvGFr" target="_blank"><img src="https://asciinema.org/a/3tTemquDxJwrjEHgAyzNjvGFr.svg" /></a>
+</p>
+  
+  
+<br />
+  
+
+Στο παρακάτω asciinema δείχνω την διαδικασία που ακολούθησα για να ενημέρωσω τον φάκελο post-commit και pre-commit με τα git hooks
+ 
+<br />
+  
+<p align="center">
+<a href="https://asciinema.org/a/IsA40LaXNW61ZzvBmITE88cKI" target="_blank"><img src="https://asciinema.org/a/IsA40LaXNW61ZzvBmITE88cKI.svg" /></a>
+</p> 
+  
+  
+<br />
+  
+  
+### Το pdf του βιογραφικού μου
+  
+<br />
+  
+
+![Στιγμιότυπο οθόνης (26)](https://user-images.githubusercontent.com/72518208/161444631-dd394de9-4abf-4d3e-a261-9e077fb89c96.png)
+  
+  
+![Στιγμιότυπο οθόνης (25)](https://user-images.githubusercontent.com/72518208/161444640-b17ef0f6-e017-4e32-a16d-92e226b4e6d9.png)
+  
+  
+![Στιγμιότυπο οθόνης (24)](https://user-images.githubusercontent.com/72518208/161444651-eb281870-e9d8-4660-9cdd-13fb77a4c642.png)
+
+
+<br />
+  
+
+
 # :pushpin:: Προβλήματα που αντιμετώπισα
 
 
