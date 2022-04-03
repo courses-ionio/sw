@@ -117,3 +117,6 @@ Pull requests:
 Έκανα εγκατάσταση του Pandoc & Latex και χρησιμοποίησα ένα [template](https://github.com/john-bokma/resume-pandoc) που μου άρεσε για να δημιουργήσω το βιογραφικό μου και σε [PDF](https://vuxxs.github.io/online-cv/resume-pandoc-master/2019118-cv.pdf).
 
 <img src="https://i.imgur.com/84rzYBT.png" alt="PDF preview">
+
+### Σημειώσεις:
+- Παρατήρησα ότι πολλοί συμφοιτητές μου έχουν παραδώσει asciinema link για τη διαδικασία και θεωρώ πως είναι καλή ιδέα για να το προσθέσω όταν κάνω επανάληψη της αναφοράς μου.
