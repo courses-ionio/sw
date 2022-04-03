@@ -101,7 +101,7 @@
 Εδώ βλέπετε την αλλαγή που έγινε στο sitegr:
 
 <br><p align="center">
-<img width="950" height="600" src="https://i.postimg.cc/PxCn8yj8/pic-A1-A2.png">
+<img width="750" height="800" src="https://i.postimg.cc/PxCn8yj8/pic-A1-A2.png">
 <p/>
 
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
