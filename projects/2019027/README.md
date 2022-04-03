@@ -10,7 +10,7 @@
 | 4 | <a href="#Παραδοτέο 4">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) και [Link στο Asciinema](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0) | Εντός προθεσμίας |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
-| 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
+| 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
