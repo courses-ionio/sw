@@ -364,18 +364,36 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Έπειτα από μία μικρή αναζήτηση στο διαδίκτυο συνάντησα το εργαλείο [pdflatex](https://linux.die.net/man/1/pdflatex) και ακολούθησα [αυτόν](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d) τον οδηγό για την εγκατάστασή του. Έπειτα με τη χρήση μόνο των 2 εντολών που αναπαρίστανται παρακάτω στο asciinema recording μου, υλοποιήθηκε η δημιουργία του pdf. 
 
-*Αξίζει να σημειωθεί πως όταν εκτελούσα την εντολή <kbd>pdflatex --shell-escape myCV.tex</kbd> συνάντησα ένα πρόβλημα **Package babel Error: Unknown option 'english'** που έπειτα από την εύρεση ποικίλων αναρτήσεων συνάντησα [αυτή](https://tex.stackexchange.com/questions/309002/lyx-package-babel-error-you-havent-specified-a-language-option) την οποία και προσάρμοσα στο πρόβλημά μου. Έπειτα από κάποιες εγκαταστάσεις που έκανα το μόνο που χρειάστηκε ήταν <kbd>enter</kbd> για τη συνέχιση 
-της διαδικασίας και όλα λειτούργησαν ομαλά.*
-
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;Το pdf λειτούργουσε κανονικά αλλά στη θέση της εικόνας μου υπήρχε ένα κενό πλαίσιο. Για την **εμφάνιση της εικόνας** μου ακολούθησα τα παρακάτω βήματα:
 
-1. Χρησιμοποίησα την εντολή **\usepackage{graphicx}** που πληροφορήθηκα από [αυτή](https://tex.stackexchange.com/questions/324751/how-to-add-install-the-graphicx-package-to-latex) την ανάρτηση πως είναι σημαντική για τη προβολή εικόνων στα αρχεία .tex.
+1. Χρησιμοποίησα την εντολή **\usepackage{graphicx}** που πληροφορήθηκα από [αυτή](https://tex.stackexchange.com/questions/324751/how-to-add-install-the-graphicx-package-to-latex) την ανάρτηση πως είναι σημαντική για τη προβολή εικονών στα αρχεία .tex
 
-2. Πρόσθεσα την εικόνα στον φάκελο myPDF
+2. Πρόσθεσα την εικόνα στον φάκελο **myPDF**
 
-3. Άλλαξα τη προηγούμενη γραμμή \includegraphics{/online-cv/assets/images/aimilios-prof-1-1.jpg} σε **\includegraphics{aimilios-prof-1-1.jpg}** (όπου αντλεί την εικόνα από τον φάκελο myPDF).
+3. Άλλαξα τη προηγούμενη γραμμή \includegraphics{/online-cv/assets/images/aimilios-prof-1-1.jpg} σε **\includegraphics{aimilios-prof-1-1.jpg}** (όπου αντλεί την εικόνα από τον φάκελο myPDF)
+
+<br />
+
+#### Σημαντικό Error που συνάντησα (Package babel Error)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Κατά την εκτέλεση της εντολής <kbd>pdflatex --shell-escape myCV.tex</kbd> προέκυψε ένα αναπάντεχο error και συγκεκριμένα το **Package babel Error: Unknown option 'english'**. Στην αρχή θεώρησα πως είναι κάτι απλό οπότε κατέβασα διάφορα texlive πακέτα για την αντιμετώπισή του. Κάποια από αυτά αποτέλεσαν τα <kbd>texlive-lang-english</kbd>, <kbd>texlive-lang-european</kbd>, <kbd>tmlgr install babel-english</kbd> και άλλα. Έπειτα ακολούθησα 2 αναρτήσεις ([αυτή](https://tex.stackexchange.com/questions/97814/package-babel-error-you-havent-loaded-the-option-english-yet) και [αυτή](https://tex.stackexchange.com/questions/188009/unknown-language-selectlanguageenglish)) στις οποίες άλλοι χρήστες είχαν παρόμοια προβλήματα, αλλά δίχως αποτέλεσμα. Έπειτα αποφάσησα ως τελευταία προσπάθεια να ανοίξω μία συζήτηση στο [Discussions](https://github.com/courses-ionio/help/discussions) όπου εκεί ανέβασα μία σχετική [ανάρτηση](https://github.com/courses-ionio/help/discussions/510) για το πρόβλημα αυτό.
+
+<br /> <br />
+
+### Continuous Integration με Git Hooks
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για την αυτόματη τοπόθετηση του αρχείου PDF με Continuous Integration χρησιμοποίησα την τεχνολογία [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) όπου πληροφορήθηκα για αυτήν από το [sw-lab-2021](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021) του κυρίου Ρίγγα. Εκεί παρατήρησα 2 αναρτήσεις ([1](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit) και [2](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)) σχετικές με τα αρχεία pre-commit και post-commit των git hooks. Οι σύνδεσμοι αυτοί βοήθησαν πολύ στη κατανόηση της διαδικασίας δημιουργίας μικρών script. Για αυτό το κομμάτι της εργασίας θα ήθελα να αναφέρω πως είχα κάποιο μικρό αποτέλεσμα αλλά όχι ολοκληρωτική επιτυχία. Λόγω πιθανώς του error που ανέφερα η εκτέλεση του **commit** έκανε **Emergency stop**. Αυτό είχε ως αποτέλεσμα την μετατροπή των 2 από τα 5 αρχεία του pdf (συγκεκριμένα του **.log** και **.tex**). Το .tex αρχείο επέστρεφε στην αρχική του μορφή.
+
+*Στο Resume PDF του [CV](https://aimiliospavlidis2001.github.io/online-cv/) μου έχω προσθέσει το PDF*
+
+
+
+
+
 
 <br /> <br />
 
@@ -431,3 +449,4 @@
  - [add graphicsx](https://tex.stackexchange.com/questions/324751/how-to-add-install-the-graphicx-package-to-latex)
  - [install pdflatex guide](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d)
  - [package babel lang error](https://tex.stackexchange.com/questions/309002/lyx-package-babel-error-you-havent-specified-a-language-option)
+ - [sw-lab git hooks info](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021#cv-2-pdf)
