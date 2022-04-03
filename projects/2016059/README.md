@@ -10,7 +10,7 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στην περιοχή Discussions](https://github.com/courses-ionio/help/discussions/97) | |
 | 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/240) & [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Discussions](https://github.com/courses-ionio/help/discussions/422) | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Άσκηση γραμμής εντολών |[Discussions]() | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -43,3 +43,8 @@
  * Pull Request: [all_collections#13](https://github.com/ioniodi/all_collections/pull/13)
  * [netlify demo](https://apolaz-2016059.netlify.app/people/)
  * [asciinema](https://asciinema.org/a/sy4hbLkTr7TdL8xRtnvUFXEko)
+
+## Άσκηση γραμμής εντολών (4ο Παραδοτέο)
+
+Για το 4ο Παραδοτέο έστησα και έκανα επιτυχώς compile τα KISS Linux.
+* [Asciinema](https://asciinema.org/a/vy2TfJaFLs0Iy8xiRdQytTRKS)
