@@ -132,7 +132,7 @@ exit
 Μετάβαση στο repository σχετικά με το **pdf-hooks**:[my_cv_pdf στο pdf-hook branch](https://github.com/p19pasc/online-cv/tree/pdf-hook/my_cv_pdf)
 <br>  
 
-Στο gif που ακολουθεί φαίνεται ότι, τα αρχεία που πρόσθεσα στο dir `hooks` εκτελούνται κάθε φορά που γίνεται οποιαδήποτε αλλαγή αλλά λόγο του error(που ανέφερα και πριν) **Package babel Error: Unknown option 'english'. Either you misspelled it (babel)or the language definition file english.ldf was not found** που δημιουργείται δεν ανανεώνονται όλα τα αρχεία με αποτέλεσμα να εμφανίζεται και το μήνυμα **==> Fatal error occurred, no output PDF file produced!**._(Στο παρελθόν όταν πρωτοδοκίμαζα γίνοταν αλλαγές και στο .tex αρχείο και στο log, όμως λόγο της διαγραφής του test-branch και επειδή έπρεπε να το κάνω σε κάποιο επίσημο και να κάνω asciinema η μόνη αλλαγή που γίνεται είναι το log αρχείο.)_  
+Στο gif που ακολουθεί φαίνεται ότι, τα αρχεία που πρόσθεσα στο dir `hooks` εκτελούνται κάθε φορά που γίνεται οποιαδήποτε αλλαγή αλλά λόγο του error(που ανέφερα και πριν) **Package babel Error: Unknown option 'english'. Either you misspelled it (babel)or the language definition file english.ldf was not found** που δημιουργείται δεν ανανεώνονται όλα τα αρχεία με αποτέλεσμα να εμφανίζεται και το μήνυμα **==> Fatal error occurred, no output PDF file produced!**._(Στο παρελθόν όταν πρωτοδοκίμαζα γίνοταν αλλαγές και στο .tex αρχείο και στο log, όμως λόγο της διαγραφής του test-branch και επειδή έπρεπε να το κάνω σε κάποιο επίσημο και να κάνω asciinema η μόνη αλλαγή που γίνεται με αυτή τη προσπάθεια είναι το log αρχείο.)_  
 
 <br>
 <br>
