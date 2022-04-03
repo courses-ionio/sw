@@ -101,14 +101,14 @@
 Εδώ βλέπετε την αλλαγή που έγινε στο sitegr:
 
 <br><p align="center">
-<img width="750" height="600" src="https://i.postimg.cc/PxCn8yj8/pic-A1-A2.png">
+<img width="950" height="600" src="https://i.postimg.cc/PxCn8yj8/pic-A1-A2.png">
 <p/>
 
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
 
 [Εδώ](https://github.com/ioniodi/sitegr/issues/251) θα βρείτε το θέμα που άνοιξα για την συνεισφορά(δηλαδή, το issue μου).
 
-[Εδώ](https://github.com/ioniodi/sitegr/pull/371)  θα βρείτε το pull request μου στο sitegr.
+[Εδώ](https://github.com/ioniodi/sitegr/pull/374) θα βρείτε το pull request μου στο sitegr.
 
 [Εδώ](https://github.com/ioniodi/all_collections/pull/56)  θα βρείτε το pull request μου στο all_collections.
 
