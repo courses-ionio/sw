@@ -90,6 +90,8 @@ A2:</br>
 Δίστιχός όμως δεν  κατάφερα να κάτω το shell-integration αν και όπως φαίνεται και εδώ έχω κάνει τις απαραίτητες προσθήκες στο ```~/.bashrc```</br>
 ![image](https://user-images.githubusercontent.com/72515420/160303457-0dae474d-b3a3-4c3d-8f03-154e0af0e460.png)
 
+## ΠΑΡΑΔΟΤΕΟ 7
+[link asciinema](https://asciinema.org/a/omfhtmaEyUttmA9dEdlwc6Ir0)
 
 
 ## Συμμέτοχή και ομαδικότητα
