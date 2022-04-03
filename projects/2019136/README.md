@@ -60,3 +60,10 @@ Link προς το repository του site του βιογραφικού μου: 
  link για το images : https://github.com/Git-s-PopTeamEpic/images/pull/6
  
  link για το gallery : https://github.com/Git-s-PopTeamEpic/_gallery/pull/5
+ 
+ ## <a name="P-6">7ο Παραδοτέο 
+
+Για αυτήν την εβδομάδα έπρεπε να μετατρέψουμε το online cv μας σε pdf μορφή.
+ 
+ λινκ για asciinema: https://asciinema.org/a/aEr9cEAF16D4g46ZLWFLd7zeM
+ λινκ για pdf: https://raw.githubusercontent.com/gordthrow/online-cv/gh-pages/pdf/cv.pdf
