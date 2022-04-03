@@ -350,19 +350,19 @@
 
 <br />
 
-### Δημιουργία PDF με τα εργαλεία Pandoc και Latex
-
-<br />
-
-#### Εξοικείωση με τη βοήθεια των lab 3&4
-
-&nbsp;&nbsp;&nbsp;&nbsp;Θα ήθελα αρχικά να ξεκινήσω με το γεγονός ότι το πρώτο βήμα που ακολούθησα στην εισαγωγή μου στη δημιιουργία pdf αποτέλεσαν τα [lab 3&4](https://github.com/courses-ionio/sw-lab/blob/master/README.md#lab3--4-github-submodule). Με τις οδηγίες εκείνες εξοικειώθηκα με το εργαλείο [pandoc](https://github.com/jgm/pandoc) και κατάλαβα με ποιο τρόπο παράγονται τα αρχεία **.tex**, **.log** και το σημαντικότερο αρχείο **.pdf**. Επίσης κατά τη διάρκεια ενασχόλησης με τα lab εγκατέστησα διάφορα πακέτα και λογισμικά που μετέπειτα αποδείχθηκαν χρήσιμα για τη μετατροπή του προσωπικού μου Βιογραφικού σε μορφή pdf.
+### Δημιουργία PDF με τα εργαλεία Pandoc και LaTeX
 
 <br />
 
 #### Διαδικασία για τη δημιουργία PDF και ενσωμάτωσης εικόνας
 
-&nbsp;&nbsp;&nbsp;&nbsp;Έπειτα από μία μικρή αναζήτηση στο διαδίκτυο συνάντησα το εργαλείο [pdflatex](https://linux.die.net/man/1/pdflatex) και ακολούθησα [αυτόν](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d) τον οδηγό για την εγκατάστασή του. Έπειτα με τη χρήση μόνο των 2 εντολών που αναπαρίστανται παρακάτω στο asciinema recording μου, υλοποιήθηκε η δημιουργία του pdf. 
+&nbsp;&nbsp;&nbsp;&nbsp;Το πρώτο κομμάτι του παραδοτέου σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/cv/) ήταν η δημιουργία ενός αρχείου PDF με τη χρήση των εργαλείων [pandoc](https://github.com/jgm/pandoc) και [LaTeX](https://www.latex-project.org/). Έπειτα από την εγκατάσταση του pandoc μετέβηκα σε μία μικρή αναζήτηση στο διαδίκτυο, όπου συνάντησα το εργαλείο [pdflatex](https://linux.die.net/man/1/pdflatex) και ακολούθησα [αυτόν](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d) τον οδηγό για την εγκατάστασή του. Έπειτα με τη χρήση μόνο των 2 εντολών που αναπαρίστανται παρακάτω στο **asciinema recording** μου, υλοποιήθηκε η δημιουργία του pdf. 
+
+<br />
+
+<p align="center">
+ <a href="https://asciinema.org/a/lgoXXqAkgXSlG1a1do8QaI9hH" target="_blank"><img src="https://asciinema.org/a/lgoXXqAkgXSlG1a1do8QaI9hH.svg" /></a>
+</p>
 
 <br />
 
@@ -386,14 +386,48 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Για την αυτόματη τοπόθετηση του αρχείου PDF με Continuous Integration χρησιμοποίησα την τεχνολογία [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) όπου πληροφορήθηκα για αυτήν από το [sw-lab-2021](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021) του κυρίου Ρίγγα. Εκεί παρατήρησα 2 αναρτήσεις ([1](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit) και [2](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)) σχετικές με τα αρχεία pre-commit και post-commit των git hooks. Οι σύνδεσμοι αυτοί βοήθησαν πολύ στη κατανόηση της διαδικασίας δημιουργίας μικρών script. Για αυτό το κομμάτι της εργασίας θα ήθελα να αναφέρω πως είχα κάποιο μικρό αποτέλεσμα αλλά όχι ολοκληρωτική επιτυχία. Λόγω πιθανώς του error που ανέφερα η εκτέλεση του **commit** έκανε **Emergency stop**. Αυτό είχε ως αποτέλεσμα την μετατροπή των 2 από τα 5 αρχεία του pdf (συγκεκριμένα του **.log** και **.tex**). Το .tex αρχείο επέστρεφε στην αρχική του μορφή.
+&nbsp;&nbsp;&nbsp;&nbsp;Για την αυτόματη τοπόθετηση του αρχείου PDF με Continuous Integration χρησιμοποίησα την τεχνολογία [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) όπου πληροφορήθηκα για αυτήν από το [sw-lab-2021](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021) του κυρίου Ρίγγα. Εκεί παρατήρησα 2 αναρτήσεις ([1](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit) και [2](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)) σχετικές με τα αρχεία pre-commit και post-commit των git hooks. Οι σύνδεσμοι αυτοί βοήθησαν πολύ στη κατανόηση της διαδικασίας δημιουργίας μικρών script. Για αυτό το κομμάτι της εργασίας θα ήθελα να αναφέρω πως είχα κάποιο μικρό αποτέλεσμα αλλά όχι ολοκληρωτική επιτυχία. Λόγω πιθανώς του error που ανέφερα, η εκτέλεση του **commit** έκανε **Emergency stop**. Αυτό είχε ως αποτέλεσμα την μετατροπή των 2 από τα 5 αρχεία του pdf (συγκεκριμένα του **.log** και **.tex**). Το .tex αρχείο επέστρεφε στην αρχική του μορφή.
 
 *Στο Resume PDF του [CV](https://aimiliospavlidis2001.github.io/online-cv/) μου έχω προσθέσει το PDF*
 
+<br />
 
+<p align="center">
+ <b>Διαδικασία υλοποίησης των pre-commit και post-commit αρχείων</b>
+</p>
 
+<p align="center">
+ <a href="https://asciinema.org/a/JKIvCAdIISseZ2IZDW7bH8vAG" target="_blank"><img src="https://asciinema.org/a/JKIvCAdIISseZ2IZDW7bH8vAG.svg" /></a>
+</p>
 
+<br />
 
+<p align="center">
+ <b>Οι 3 σελίδες που αποτελούν το PDF</b>
+</p>
+
+<p align="center">
+ 
+ ![merge_pdf](https://user-images.githubusercontent.com/72695605/161440207-b6429d18-d2b4-4f8d-998b-3b0468ec901f.png)
+
+</p>
+
+<br />
+
+| | Βασικοί σύνδεσμοι για το 7ο παραδοτέο |
+| --- | --- |
+| 1 | [PDF](https://drive.google.com/file/d/1FBQI5wmB7xP1_o9ynTIDTYtP6s1AcLL5/view) |
+| 2 | [Βιογραφικό](https://aimiliospavlidis2001.github.io/online-cv/) |
+| 3 | [Asciinema για δημιουργία PDF](https://asciinema.org/a/lgoXXqAkgXSlG1a1do8QaI9hH) |
+| 4 | [Asciinema για Continuous Integration με git hooks](https://asciinema.org/a/JKIvCAdIISseZ2IZDW7bH8vAG) |
+| 5 | [Ανάρτηση βοήθειας στο Discussions](https://github.com/courses-ionio/help/discussions/510) |
+
+<br />
+
+| | Συμμετοχή και Ομαδικότητα για την 7η εβδομάδα |
+| --- | --- |
+| 1 | Ανάρτηση βοήθειας στο Discussions |
+|  | https://github.com/courses-ionio/help/discussions/510 |
 
 <br /> <br />
 
@@ -450,3 +484,6 @@
  - [install pdflatex guide](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d)
  - [package babel lang error](https://tex.stackexchange.com/questions/309002/lyx-package-babel-error-you-havent-specified-a-language-option)
  - [sw-lab git hooks info](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021#cv-2-pdf)
+ - [git hooks (1)](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit)
+ - [git hooks (2)](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
+
