@@ -79,6 +79,7 @@ https://github.com/courses-ionio/help/discussions/197
 
 Το [βιογραφικό](https://xar1sgeovlacp2019059.github.io/online-cv/)
 link για την διαδικασία στο [asciinema](https://asciinema.org/a/EdLIyszaIbTZxnsSQ2JTy98oD)
+link για το [pdf](https://github.com/xar1sgeovlacp2019059/online-cv/blob/master/pdf/cv.pdf)
 
 Προβλήματα:
 Το πρόβλημα που υπήρχε ήταν ότι δεν αναγνωριζόταν η εντολή pdflatex ακόμα και αν είχε εγκταστεθή το texlive
