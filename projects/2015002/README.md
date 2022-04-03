@@ -147,9 +147,10 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 ### Πηγές
 
-[Διαδικασία PR #6](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/6)
-[Δημιουργία Code of Conduct #5](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/5)
-[Διαφάνεια #3](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/3)
+- [Διαδικασία PR #6](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/6)
+- [Δημιουργία Code of Conduct #5](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/5)
+- [Διαφάνεια #3](https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/3)
+- [Create CODE_OF_CONDUCT.md #1](https://github.com/Cont1nental/.github/pull/1)
 
 ## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
 
