@@ -17,7 +17,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/410 | Στο παραδοτέο αυτό έκανα το αίτημα ενσωμάτωσης το οποίο περιείχε μία μικρή προσθήκη στο site και έγινε μέσα στο χρονικό περιθώριο του παραδοτέου |
 | 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/411 | Αυτήν την εβδομάδα ολοκλήρωσα την εγκατάσταση του λειτουργικού KISS Linux το οποίο δεν περιέχει systemd κάτι που ήταν αναγκαίο σύμφωνα με το παραδοτέο |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/414 | Για το συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό plan 9 και το AmigaOS κάτι που πιστεύω ταιριάζει με το μάθημα, επίσης, δεν έκανα δικό μου timeline γιατί αυτό που ήθελα να κάνω ήταν ένα timeline με λειτουργικά συστήματα αλλα υπήρχε ήδη γιαυτό πρόσθεσα κάποια πράματα σε αυτό, κάτι που παίρνει μικρότερο βαθμό και ακόμα συγκέντρωσα ένα σύνολο από slides που περιέχει επιφάνειες εργασιών διάφορων λειτουργικών. Τέλος άνοιξα αίτημα ενσωμάτωσης και περάστηκαν στο site της ομάδας |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών](#6ο-παραδοτέο) | | |
 | 7 | [βιογραφικό](#7ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/501 | Εγκατέστησα το pandoc και το latex και μετέτρεψα το cv μου σε pdf όπως έλεγαν και οι οδηγίες, επίσης έκανα μία προσπάθεια ώστε μέσω git hooks να κάνω continuous integration |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -79,6 +79,14 @@
 | [AmigaOS](https://github.com/p19ntar/_gallery/blob/2019215/amiga-os.md) | [AmigaOS](https://epic-goodall-89990a.netlify.app/gallery/amiga-os/) | [AmigaOS](https://ionioi-site.netlify.app/gallery/amiga-os/)
 | [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) | [timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
 | [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | [slides](https://ionioi-site.netlify.app/slides/os/) |
+
+</br>
+
+# 6ο Παραδοτέο
+
+Για το 6ο παραδοτέο αποφάσισα να εγκαταστήσω το Alpine Linux καθώς το KISS Linux με δυσκόλεψε αρκετά στην χρήση του για τις ασκήσεις του μαθήματος λόγω package manager.
+
+<a href="https://asciinema.org/a/482401" target="_blank"><img src="https://asciinema.org/a/482401.svg" /></a>
 
 </br>
 
