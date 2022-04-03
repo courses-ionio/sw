@@ -73,7 +73,7 @@
 
 ## Μέρος Β
 
-Το τελευταίο παραδοτέο του βιογραφικού δηλαδή η μετατροπή του σε pdf τοπικά, έγινε με τα εργαλεία [Pandoc](https://pandoc.org/) και [Latex](https://www.latex-project.org/) σύμφωνα με τις οδηγίες του [Μέρους Β](https://courses-ionio.github.io/help/cv/). Για αρχή με σκοπό να πειραματιστώ με τα εργαλεία δημιούργησα ένα νέο test-branch και εφόσον έμαθα την διαδικασία την πραγματοποίησα στο βασικό μου branch **gh-pages**. Η διαδικασία που ακολούθησα ήταν η εξής:
+Το τελευταίο παραδοτέο του βιογραφικού δηλαδή η μετατροπή του σε pdf τοπικά, έγινε με τα εργαλεία [Pandoc](https://pandoc.org/) και [Latex](https://www.latex-project.org/) σύμφωνα με τις οδηγίες του [Μέρους Β](https://courses-ionio.github.io/help/cv/) στο βασικό μου branch **[gh-pages](https://github.com/p19pasc/online-cv)**. Για αρχή με σκοπό να πειραματιστώ με τα εργαλεία δημιούργησα ένα νέο test-branch(το οποίο έχω διαγράψει) και εφόσον έμαθα το τρόπο κατασκευής βιογραφικού τον πραγματοποίησα στο βασικό μου branch. Η διαδικασία που ακολούθησα ήταν η εξής:
 * Φυσικά `git clone` το [repository του βιογραφικού μου](https://github.com/p19pasc/online-cv)
 * Δημιουργία ενός φακέλου που θα τοποθετηθεί το pdf `mkdir my_cv_pdf`
 * Εκτέλεση εντολής pandoc `https://p19pasc.github.io/online-cv/ -o cv.tex -s` , ώστε να έχω το βιογραφικό της ιστοσελίδας locally σε μορφή .tex 
@@ -81,12 +81,76 @@
 * Εκτέλεση της εντολής `pdflatex cv.tex` για την δημιουργία του pdf
 * Εκτέλεση της σειράς εντολών `git add .`, `git commit -m`, `git push` για την εφμάνιση τους στο github.
 
+<br>
 
 **Τα βήματα αυτά είναι εμφανής στο asciinema: [Μετατροπή cv σε pdf](https://asciinema.org/a/aHGqpIQmi47vIdr9zxFNEwBAB)**
 
-Με την πραγματοποίηση αυτού του βασικού μέρους προσπάθησα στη συνέχεια να κάνω τις απαραίτητες προσθήκες αρχείων στο κατάλογο `.git/hooks` με σκοπό την αυτόματη ανανέωση του βιογραφικού. Η διαδικασία που ακολούθησα πραγματοποιήθηκε στο κατάλληλο [εργαστήριο(branch του 2021)](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021) της Πέμπτης και link τα οποία ακολούθησα βρίσκονται στο **CV 2 PDF** όπως για τα αρχεία [pre-commit](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit) και [post-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592), καθώς και η λήψη των απαραίτητων εργαλείων pandoc και texlive που ανέφερα ότι χρησιμοποίησα προηγουμένως [εδώ(sw-lab)](https://github.com/courses-ionio/sw-lab/tree/master). Δυστυχώς λόγο κάποιων error που εμφανίζοταν κατά τη διάρκεια δημιουργίας του pdf, είχαν σοβαρή επίπτωση στο σημείο του `git commit` με αποτέλεσμα να μην είναι εφικτή η αυτοματοποιημένη ανανέωση του pdf. Πραγματοποιήθηκε αρκετή αναζήτηση για την επίλυση αυτού του θέματος, πολλές προσπάθειες και μεγάλος [διάλογος](https://github.com/courses-ionio/help/discussions/510) που τελικά δεν είχαν αίσιο αποτέλεσμα. Τα πρώτα βήματα που πραγματοποίησα δεν διαφέρουν από την απλή 
+Μετάβαση στο pdf σε online url: [Βιογραφικό σε pdf](https://pdfhost.io/v/GXHEi9lTm_My_Resume)
+Το pdf στο repository μου στο **βασικό branch: gh-pages**: [cv.pdf](https://github.com/p19pasc/online-cv/blob/gh-pages/my_cv_pdf/cv.pdf)
+Το repository **gh-pages** μου που περιλαμβάνει όλα τα αρχεία(.tex , .pdf , .log): [my_cv_pdf](https://github.com/p19pasc/online-cv/tree/gh-pages/my_cv_pdf)
 
 
+<br>
+
+Με την πραγματοποίηση αυτού του βασικού μέρους προσπάθησα στη συνέχεια να κάνω τις απαραίτητες προσθήκες αρχείων στο κατάλογο `.git/hooks` με σκοπό την αυτόματη ανανέωση του βιογραφικού. Η διαδικασία που ακολούθησα πραγματοποιήθηκε στο κατάλληλο [εργαστήριο(branch του 2021)](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021) της Πέμπτης και link τα οποία ακολούθησα βρίσκονται στο **CV 2 PDF** όπως για τα αρχεία [pre-commit](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit) και [post-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592), καθώς και η λήψη των απαραίτητων εργαλείων pandoc και texlive που ανέφερα ότι χρησιμοποίησα προηγουμένως [εδώ(sw-lab)](https://github.com/courses-ionio/sw-lab/tree/master). Δυστυχώς λόγο κάποιων error που εμφανίζοταν κατά τη διάρκεια δημιουργίας του pdf, είχαν σοβαρή επίπτωση στο σημείο του `git commit` με αποτέλεσμα να μην είναι εφικτή η αυτοματοποιημένη ανανέωση του pdf. Πραγματοποιήθηκε αρκετή αναζήτηση για την επίλυση αυτού του θέματος, πολλές προσπάθειες και μεγάλος **[διάλογος](https://github.com/courses-ionio/help/discussions/510)** που τελικά δεν είχαν αίσιο αποτέλεσμα. **Για τον λόγο αυτό η διαδικασία έγινε σε ένα νεό branch με όνομα pdf-hook**. **Τα πρώτα βήματα που πραγματοποίησα δεν διαφέρουν από την απλή δημιουργία του pdf**:
+* Git clone το repository
+* Δημιουργία φακέλου για το pdf 
+* Εκτέλεση της εντολής Pandoc και Latex 
+* Cd στον φάκελο .git/hooks
+* Δημιουργία του αρχείου `pre-commit` 
+
+```
+#!/bin/sh 
+echo 
+touch .commit 
+exit
+```
+
+* Δημιουργία του αρχείου `post-commit`
+
+```
+#!/bin/sh 
+echo
+if [ -e .commit ]
+    then
+    rm .commit
+    cd my_cv_pdf
+    pandoc https://p19pasc.github.io/online-cv/ -o cv.tex -s
+    pdflatex cv.tex
+    git add .
+    git commit --amend -C HEAD --no-verify
+fi
+exit
+```
+
+* Απόδοση δικαιώματος εκτέλεσης `chmod +x pre-commit`, `chmod +x post-commit`
+
+<br> 
+
+**Τα βήματα αυτά είναι εμφανής στο asciinema: [Μετατροπή cv σε pdf και hook](https://asciinema.org/a/jSI6pOaguoKFRI11MBxMna3Vy)**
+
+Μετάβαση στο repository σχετικά με το **pdf-hooks**:[my_cv_pdf στο pdf-hook branch](https://github.com/p19pasc/online-cv/tree/pdf-hook/my_cv_pdf)
+<br>  
+
+Στο gif που ακολουθεί φαίνεται ότι, τα αρχεία που πρόσθεσα στο dir `hooks` εκτελούνται κάθε φορά που γίνεται οποιαδήποτε αλλαγή αλλά λόγο του error(που ανέφερα και πριν) **Package babel Error: Unknown option 'english'. Either you misspelled it (babel)or the language definition file english.ldf was not found** που δημιουργείται δεν ανανεώνονται όλα τα αρχεία με αποτέλεσμα να εμφανίζεται και το μήνυμα **==> Fatal error occurred, no output PDF file produced!**._(Στο παρελθόν όταν πρωτοδοκίμαζα γίνοταν αλλαγές και στο .tex αρχείο και στο log, όμως λόγο της διαγραφής του test-branch και επειδή έπρεπε να το κάνω σε κάποιο επίσημο και να κάνω asciinema η μόνη αλλαγή που γίνεται είναι το log αρχείο.)_  
+
+<br>
+<br>
+
+<p align="center">
+<img width="950" height="550" src="https://user-images.githubusercontent.com/72496151/161442991-7536830b-ff58-45fd-8543-720af6ec0eb2.gif">
+<p/>
+
+<br><br>
+<details>
+<summary>Βοήθεια στο help</summary>
+ <p>
+  <ul>
+   <li><a href="https://github.com/courses-ionio/help/discussions/510">Προσπάθεια επίλυσης bable error</a></li>
+  </ul>
+ </p>
+</details><br>
+ 
 ## Δημιουργία Ομάδας
 
 Η εύρεση ομάδας **[OompaLoompas](https://github.com/OompaLoompas)** ήταν εύκολη και άμεση αφού είχε γίνει κατόπιν συνεννόησης με τον δημιουργό της, στον χώρο του πανεπιστημίου, μέσα στην οποία εντάχθηκαν άτομα που γνωρίζω σε προσωπικό επίπεδο αλλά και νέα μέλη που θα γνωρίσω στην πορεία. Κατά την άποψη μου, κατέχουμε κοινούς στόχους όπως αναφέρονται στις εισαγωγές μας και είμαστε πρόθυμοι να συνεργαστούμε για το καλύτερο αποτέλεσμα.<br>
@@ -323,6 +387,20 @@ Pull Requests στον οργανισμό:
   * [Image converter](https://image.online-convert.com/convert-to-jpg)
 * Βιογραφικό
   * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)  
+  * [Εργαλεία και οδηγίες για Μέρος Β από sw-lab](https://github.com/courses-ionio/sw-lab)
+  * [Pandoc](https://pandoc.org/) 
+    * [Pandoc Guide](https://pandoc.org/MANUAL.html) 
+    * [Latex](https://www.latex-project.org/)
+    * [Εγκατάσταση texlive-full](https://milq.github.io/install-latex-ubuntu-debian/)
+    * [Eγκατάσταση texlive-full](http://www1.coe.neu.edu/~jkimani/Latex1.html)
+    * [Εγκατάσταση zip babel-english](https://www.ctan.org/pkg/babel-english)    * [Εγκατάσταση texlive-lang-english](https://jeka.by/ask/159/latext-package-babel-error-unknown-option-latin/)
+    * [Ολική διαγραφή του Latex](https://tex.stackexchange.com/questions/95483/how-to-remove-everything-related-to-tex-live-for-fresh-install-on-ubuntu)
+    * [Διαγραφή Latex](https://askubuntu.com/questions/35155/how-to-uninstall-latex)
+    * [Option για Latex](https://tex.stackexchange.com/questions/401464/generating-pdf-from-xelatex)
+  * [Git hook](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit)
+  * [Git hook pre-post-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
+    * [Git push --force](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)
+  * [PDF host](https://pdfhost.io/)
 * Συμμετοχικό Περιεχόμενο   
   * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
    * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
