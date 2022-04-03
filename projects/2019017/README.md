@@ -14,7 +14,7 @@
 | 4 | [Άσκηση γραμμής εντολών 1](#Ασκηση-Γραμμης-Εντολων-1) | https://github.com/courses-ionio/help/discussions/363 | Η ασκηση γραμμης εντολων δεν εγινε σε συστημα χωρις systemd και το custom λειτουργικο συστημα ηταν το FreeBSD. Θα τη βελτιωσω στο μελλον και μαλλον θα βαλω Void Linux. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο-1) | https://github.com/courses-ionio/help/discussions/428 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 6 | [Άσκηση γραμμής εντολών 2](#Ασκηση-Γραμμης-Εντολων-2) | https://github.com/courses-ionio/help/discussions/474 | Εκανα εγκατασταση το void linux σε VM απο iso image. Ηταν σχετικα ευκολη διαδικασια, αλλα κολλαει αρκετα στο terminal οποτε η εμπειρια εκει ηταν κουραστικη. |
-| 7 | βιογραφικό | | |
+| 7 | [Βιογραφικό](#Βιογραφικό) | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -72,6 +72,19 @@ Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
 
 Προσπαθησα επισης να δουλεψω με το εργαλειο [huginn](https://github.com/huginn/huginn) για να δημιουργησω εναν agent που θα "τραβαει" τα τελευταια news απο [αυτη την ιστοσελιδα](https://m.naftemporiki.gr/liveblog/1835606#top) την οποια ακολουθω, αλλα υπηρξε προβλημα στο bundle και θα χρειαστω χρονο να το λυσω.
 <br>
+
+## Βιογραφικό
+Δημιουργησα [αλλο ενα pdf αρχειο](https://github.com/p19kala/online-cv/blob/gh-pages/assets/pdf/cv.pdf) με το pandoc και το latex. Η εντολη `pandoc https://p19kala.github.io/online-cv/ -o cv.tex -s` παιρνει τη σελιδα και τη μετατρεπει σε .tex αρχειο. Επειτα χρησιμοποιωντας την εντολη `pdflatex cv.tex`, δημιουργειται το pdf αρχειο με το εργαλειο latex. Πηγα στον φακελο \_includes και πειραξα το αρχειο [contact.html](https://github.com/p19kala/online-cv/blob/gh-pages/_includes/contact.html#:~:text=%3Ca%20href%3D%22%7B%7B%20sidebar.pdf2%20%7D%7D%22%20target%3D%22_blank%22%3EResume%20(LaTeX)%20PDF%3C/a%3E) ωστε να εχω [2 ξεχωριστους downloadable συνδεσμους](https://github.com/p19kala/online-cv/blob/gh-pages/_data/data.yml#:~:text=pdf2%3A%20https%3A//raw.githubusercontent.com/p19kala/online%2Dcv/gh%2Dpages/assets/pdf/cv.pdf) για τα pdf μου. Επιπλεον, εφτιαξα 2 αρχεια pre-commit και post-commit στο path ".git/hooks" τα οποια διαχειριζονται τη συνεχή ενσωμάτωση του pdf. Δημιουργει καινουργιο pdf απο τη τροποποιημενη σελιδα, ωστε να ειναι παντα ενημερωμενο.
+
+Asciinema: https://asciinema.org/a/bZVTBuvyCW8J2vL6l8NUpkhrV
+
+Επισης βελτιωσα λιγο παραπανω την ιστοσελιδα. Εβαλα τα ποσοστα σε text μορφη κατω απο τα sliders στις [Skills](https://github.com/p19kala/online-cv/blob/gh-pages/_includes/skills.html#:~:text=div%3E%3C!%2D%2D//level%2Dbar%2D%2D%3E-,%7B%7B%20skill.level%20%7D%7D,-%3C/div%3E%3C!%2D%2D//item%2D%2D%3E) / [Programs](https://github.com/p19kala/online-cv/blob/gh-pages/_includes/programs.html#:~:text=div%3E%3C!%2D%2D//level%2Dbar%2D%2D%3E-,%7B%7B%20skill.level%20%7D%7D,-%3C/div%3E%3C!%2D%2D//item%2D%2D%3E) ενοτητες μου.
+
+Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
+
+**Προβληματα που αντιμετωπισα:**
+- Δεν ηταν εγκατεστημενο ενα πακετο με διαφορα fonts. Μου εβγαζε καποια errors οταν εκανα την εντολη `pdflatex` και δημιουργουσε ενα missfont.log αρχειο το οποιο περιειχε το ονομα του error. Συγκεκριμενα, το error ηταν "mktextfm ecrm1000" και το διορθωσα με την εντολη `sudo apt-get install texlive-fonts-recommended`, η οποια κατεβαζει καποια προτεινομενα fonts για το texlive.
+- 
 
 ## Links ομαδικότητας και συμμετοχής:
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
