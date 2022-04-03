@@ -12,7 +12,7 @@
 | <a href="#P-3">4</a>  | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/477) | |
 | <a href="#P-4">5</a> | Συμμετοχικό περιεχόμενο A1+A2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/478) | |
 | 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
+| <a href="#P-6">7</a> | βιογραφικό | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/525)| |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
