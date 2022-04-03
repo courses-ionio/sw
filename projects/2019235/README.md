@@ -56,3 +56,12 @@
 Παρακάτω φαίνεται η διαδικασία της αλλαγής.
 
 [![asciicast](https://asciinema.org/a/np3ZmphUQAheVyWnvzu8SONHv.svg)](https://asciinema.org/a/np3ZmphUQAheVyWnvzu8SONHv)
+
+## 7η Εβδομάδα
+
+- Προσπάθησα να παραδώσω εμπρόθεσμα
+
+Έφτιαξα ένα format.yml με βάση το [παράδειγμα χωρίς Jekyll](https://github.com/plain-plain-text/simple-cv)
+Καταλαβαίνω ότι βοηθάει το latex να μετατρέψει το βιογραφικό μου σε .tex αρχείο, μέσω του pandoc. Μετά με το .tex αρχείο θα μπορέσω να χρησιμοποιήσω ένα εργαλείο όπως το Travis για continuous integration. 
+
+[![asciicast](https://asciinema.org/a/rUvMM244ZyZlq4nzKQV1cQfwc.svg)](https://asciinema.org/a/rUvMM244ZyZlq4nzKQV1cQfwc)
