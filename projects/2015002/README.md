@@ -104,7 +104,9 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 [![asciicast](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY.svg)](https://asciinema.org/a/yARxu36Z4m7vR4HCuaiK1YspY)
 
-**IMAGE HERE**
+![image](https://user-images.githubusercontent.com/22726730/161425148-0bb26111-ed6c-42f3-b7b3-24fbb6cc3ea6.png)
+
+![image](https://user-images.githubusercontent.com/22726730/161425170-30e63371-44ad-45cb-9aa3-cbc20e21d5f8.png)
 
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 
