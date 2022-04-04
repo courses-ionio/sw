@@ -418,7 +418,57 @@ print("Flag message send successfully")
 
 ## :pushpin:: βιογραφικό μετατροπή online βιογραφικού σε pdf μέσω pandoc και latex
 
+Σε αυτό το παραδοτέο είχαμε να συνεχίσουμε το παραδοτέο του Α βιογραφικού και  να κάνουμε μετατροπή του αρχικού που είχαμε κάνει deploy απο yaml σε pdf με χρήση του pandoc.
+<br><br>
+Εγώ σε αυτό το παραδοτέο επέλεξα να κάνω την άσκηση με την χρήση της γλώσσα προγραμματισμού bash ετσι ώστε να γίνει λίγο πιο αυτοματοποιημένα και να μπορώ για κάθε αλλαγή που κάνω στο online βιογραφικό μου να “τρέχω” το bash script να περνάω απλά το URL και
+Να μου το κάνει extract σε pdf.  
+<br>
+Παρακάτω έχω το pdf,online bio που περιέχει το pdf στην επιλογή PDF Resume και το  asciinama link που δείχνει το neofetch και το πώς λειτουργεί γενικά ολο το script.
+<br><br>
 
+| [PDF Bio](https://github.com/p19tzam/online-cv/blob/gh-pages/tzama_bio.pdf) | [Website Bio iclude PDF bio](https://p19tzam.github.io/online-cv/) |
+| --- | --- |
+
+[![asciicast](https://asciinema.org/a/484321.svg)](https://asciinema.org/a/484321)
+
+
+### Κώδικας
+```bash
+#!/bin/bash
+#Author Dhmosten Tzama P2019213
+#Define some variables for later..
+
+regex='^(https?|ftp|file)://[-A-Za-z0-9\+&@#/%?=~_|!:,.;]*[-A-Za-z0-9\+&@#/%=~_|]\.[-A-Za-z0-9\+&@#/%?=~_|!:,.;]*[-A-Za-z0-9\+&@#/%=~_|]$'
+
+neofetch
+
+if ! command -v pandoc &> /dev/null
+then
+    echo "Pandoc binary could not be found.. Trying to install automated"
+    sudo xbps-install -S pandoc
+else
+    echo "Pandoc is installed!"
+fi
+
+echo ""
+read -p "Please insert a Bio URL: " URL
+
+
+
+if [[ $URL =~ $regex ]]
+then
+    echo "Valid Link"
+else
+    echo "Invalid Link"
+fi
+
+echo "Starting CV extract"
+
+pandoc -f html -t latex --pdf-engine=xelatex $URL -s -o tzama_bio.pdf
+
+echo ""
+echo "Bio extracted successfully!"
+```
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
