@@ -46,6 +46,17 @@
 
 Αρχικά, για να κάνω τις αλλαγές που ήταν απαραίτητες έκανα fork δυο repository, το [sitegr](https://github.com/ioniodi/sitegr) που είναι το βασικό repo και το και το submodule [all_collections](https://github.com/ioniodi/all_collections) όπου εργάστηκα στον φάκελο [timetables](https://github.com/p17simt/all_collections/tree/master/_timetables) που εχει όλα τα προγράμματα του εξαμήνου σε μορφη markdown. Μεσα στο αρχείο αυτό, επέλεξα τον φάκελο [sem_b.md](https://github.com/p17simt/all_collections/blob/master/_timetables/sem_b.md) και ενημέρωσα το πρόγραμμα καθώς παρατήρησα ότι το αρχείο είχε παραμείνει στο περσινό πρόγραμμα. Μόλις ολοκλήρωσα τις απαραίτητες αλλαγές στο sem_b.md, συγχρόνισα στο δικό μου repo [site.gr](https://github.com/p17simt/sitegr) και [all_collections](https://github.com/p17simt/all_collections) το submodule και έκανα build στο netlify και έβαλα το [link του netlify](https://epic-hamilton-da9ac8.netlify.app/timetables/sem_b/) στο issue που άνοιξα [Ενημέρωση ωρολόγιου προγράμματος Β' Εξαμήνου #235](https://github.com/ioniodi/sitegr/issues/235). Στην συνέχεια δημιούργησα 2 pull requests, ένα στο site.gr (που εν τέλη δεν χρειαζόταν) και ένα στο all_collections [(pull request link)](https://github.com/ioniodi/all_collections/pull/5?fbclid=IwAR35meNLpr_pNxY4hBv6ENwa4BKAaJbAcJ6YUke_WJHqVRSnGkeEeKGy4Hc) το οποίο έγινε δεκτό μετά τις απαραίτητες αλλαγές που μου ζητήθηκάν.
 
+# 5ο Παραδοτέο: Συμμετοχικό υλικό Α1+Α2 
+
+Για το συμμετοχικό περιεχόμενο επέλεξα να μελετήσω την Swift , μια γλώσσα προγραμματισμού της Αpple και το λογισμικό Debian, καθώς και να ενημερώσω τα αντίστοιχα _slides και _timeline.
+
+|Περιγραφή | Εικόνες | Gallery | Netlify Deploy|
+| --- | --- | --- | --- |
+| Swift |  [Normal](https://github.com/ionioteam/images/blob/2017178/swift-logo.png) & [Thumbnail](https://github.com/ionioteam/images/blob/2017178/swift-logo-thumb.png)  |  [Gallery file](https://github.com/ionioteam/_gallery/blob/2017178/swift.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/gallery/swift/)
+| Debian | [Normal](https://github.com/ionioteam/images/blob/2017178/debian.png) & [Thumb](https://github.com/ionioteam/images/blob/2017178/debian-thumb.png) | [Gallery File](https://github.com/ionioteam/_gallery/blob/2017178/debian.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/gallery/debian/)
+| Updated slides | - | [Programming Slides](https://github.com/ionioteam/site/blob/2017178/_slides/programming.md) | [Netlify](https://elegant-goldstine-b4ac31.netlify.app//slides/programming/)
+| Updated timelines | - |  [Programming Timeline](https://github.com/ionioteam/site/blob/2017178/_timeline/programming.md) & [Systems Timeline](https://github.com/ionioteam/site/blob/2017178/_timeline/systems.md)| [Netlify - Programming](https://elegant-goldstine-b4ac31.netlify.app//timeline/programming/) & [Netlify - Systems](https://elegant-goldstine-b4ac31.netlify.app//timeline/systems)
+
 # 6ο Παραδοτέο: γραμμή Εντολών
 
 Στο συγκεκριμένο παραδοτέο, είχαμε δύο προκλήσεις:
