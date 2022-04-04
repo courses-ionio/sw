@@ -12,7 +12,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
-| 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
+| 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
