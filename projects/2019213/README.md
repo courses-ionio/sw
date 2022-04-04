@@ -479,4 +479,4 @@ echo "Bio extracted successfully!"
 [Σχολιασμός βιογραγικού συναδέλφου](https://github.com/courses-ionio/help/discussions/166#discussioncomment-2239121)<br>
 [Υπενθύμιση συναδέλφου να προσθέσει λινκ στην εισαγωγή του για την αναφορά](https://github.com/courses-ionio/help/discussions/158#discussioncomment-2238385) <br>
 [Υπενθύμιση συναδέλφου για να αλλάξει το bash username του για να γίνει δεκτό στην τελική βαθμολόγηση 1](https://github.com/courses-ionio/help/discussions/402#discussioncomment-2366801)
-[Υπενθύμιση συναδέλφου για να αλλάξει το bash username του για να γίνει δεκτό στην τελική βαθμολόγηση 1](https://github.com/courses-ionio/help/discussions/536#discussioncomment-2503716)
+[Υπενθύμιση συναδέλφου για να αλλάξει το bash username του για να γίνει δεκτό στην τελική βαθμολόγηση 2](https://github.com/courses-ionio/help/discussions/536#discussioncomment-2503716)
