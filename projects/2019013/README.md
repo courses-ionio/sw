@@ -12,7 +12,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -30,9 +30,29 @@ Github Profile: https://github.com/AnastasiaMariaStefani
   
 <h2><span id="Βιογραφικό">Βιογραφικό</span></h2>
 
-  <i><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a></i>
+  Για το 2ο παραδοτέο ζητήθηκε η δημιουργία του βιογραφικού μας και η συμμετοχή μας σε ομάδα.
+  
+  <li><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a>
+  <li><a href="https://github.com/IonianUniversity2019" title="Η ομάδα μας">Η ομάδα μας</a>
+  
+  
+   Βιβλιογραφία:
+     <li>[Template](https://github.com/sharu725/online-cv)
   
 <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
-   Ολοκλήρωση 2 ασκήσεων γραμμής εντολών με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
-  
+  Για το 4ο παραδοτέο απαιτούνταν η ολοκλήρωση 2 ασκήσεων γραμμής εντολών, η οποία έγινε με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
+   
+   Βιβλιογραφία:
+     <li>[Asciinema](https://asciinema.org/)
+     <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
+   
+<h2><span id="Συμμετοχικό περιεχόμενο A1&A2">Συμμετοχικό περιεχόμενο Α1&Α2</span></h2>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/JavaScript.png" title="1η εικόνα">1η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/JavaScript.md" title="Πληροφορίες για την 1η εικόνα">Πληροφορίες για την 1η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/programming.md" title="Σετ διαφανειών 1ης εικόνας">Σετ διαφανειών 1ης εικόνας</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/programming.md" title="Χρονολόγιο 1ης εικόνας">Χρονολόγιο 1ης εικόνας</a><li>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/OpenBSD.png" title="2η εικόνα">2η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/OpenBSD.md" title="Πληροφορίες για την 2η εικόνα">Πληροφορίες για την 2η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md" title="Σετ διαφανειών 2ης εικόνας">Σετ διαφανειών 2ης εικόνας</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/systems.md" title="Χρονολόγιο 2ης εικόνας">Χρονολόγιο 2ης εικόνας</a>
