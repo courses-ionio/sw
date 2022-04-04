@@ -9,13 +9,13 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link](https://github.com/courses-ionio/help/discussions/173) | |
-| 2 | βιογραφικό και δημιουργία ομάδας | [link](https://github.com/courses-ionio/help/discussions/290) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[link](https://github.com/courses-ionio/help/discussions/403) | |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link](https://github.com/courses-ionio/help/discussions/173) | Προβληματισμός και ανάθεση στόχων προς επίτευξη κατα την διαρκει του μαθήματος |
+| 2 | βιογραφικό και δημιουργία ομάδας | [link](https://github.com/courses-ionio/help/discussions/290) | πρώτη επαφ΄ξ με την δημιουργία online βιογραφικού και επιτυχής ένταξη σε ομάδα εργασίας|
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[link](https://github.com/courses-ionio/help/discussions/403) |  Επιτυχής ενημέρωση ωρολογίου προγράμματος Β' εξαμήνου και ορθό σεταρισμα και build στο  Netlify|
 | 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [link](https://github.com/courses-ionio/help/discussions/492) | |
-| 6 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/536) | |
-| 7 | βιογραφικό | [link](https://github.com/courses-ionio/help/discussions/535) | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [link](https://github.com/courses-ionio/help/discussions/492) | αναζήτηση και εύρεση 2 σχετικών εικόνων και προσθήκη τους στο images και το gallery. Επιτυχής προσθήκητους στο Netlify |
+| 6 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/536) | Επιτυχής εγκατάσταση των Apline Linuχ και σωστό σετάρισμα του Ntfy με το Telegram. Ανεπιτυχής ολοκλήρωση λογω σφαλμάτων.|
+| 7 | βιογραφικό | [link](https://github.com/courses-ionio/help/discussions/535) | με την βοήθεια των Github Actions κατάφερα να μετατρέψω το βιογραφικό μου σε pdf και να αυτοματοποιήθει η διαδικασία ενημέρωσης του αρχείου |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
