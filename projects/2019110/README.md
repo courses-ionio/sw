@@ -403,6 +403,7 @@ Pull Requests στον οργανισμό:
   * [Git hook pre-post-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
     * [Git push --force](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)
   * [PDF host](https://pdfhost.io/)
+  * [Καταγραφή οθόνης Kazam](https://democreator.wondershare.com/screen-recorder/linux-screen-recorder.html)
 * Συμμετοχικό Περιεχόμενο   
   * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
    * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
