@@ -44,4 +44,4 @@
 
 [![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
 
-![notification](https://gfycat.com/breakablepopulargadwall.gif)
+![notification](https://imgur.com/a/dawO52m.gif)
