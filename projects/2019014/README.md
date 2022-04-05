@@ -499,5 +499,7 @@ Tρίτο βήμα
   
 [Υπενθύμιση συνάδελφού να διορθώσει το link της αναφοράς του](https://github.com/courses-ionio/help/discussions/477/)
   
+[Συνεισφορά σε πρόβλημα που αντιμετώπιζε συνάδελφός μου](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2491614/)
+  
   
   
