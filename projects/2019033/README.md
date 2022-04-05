@@ -11,7 +11,7 @@
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#3-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
 | 4 | [Void Linux](#4-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
-| 6 | [Άσκηση γραμμής εντολών - Ntfy](#6-άσκηση-γραμμής-εντολών---ntfy) | - | - |
+| 6 | [Άσκηση γραμμής εντολών - Ntfy](#6-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
 | 7 | βιογραφικό | - | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
