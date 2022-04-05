@@ -44,4 +44,4 @@
 
 [![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
 
-![notification](https://imgur.com/5Fy0jrO.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="5Fy0jrO" data-context="false" ><a href="//imgur.com/5Fy0jrO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
