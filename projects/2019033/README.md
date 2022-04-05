@@ -11,7 +11,7 @@
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#3-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
 | 4 | [Void Linux](#4-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
-| 6 | Άσκηση γραμμής εντολών | - | - |
+| 6 | [Άσκηση γραμμής εντολών - Ntfy](#6-άσκηση-γραμμής-εντολών---ntfy) | - | - |
 | 7 | βιογραφικό | - | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
@@ -39,3 +39,8 @@
 <img src="./img/Screenshot%20from%202022-03-13%2019-12-56.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-16-57.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-32-25.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2020-42-34.png" alt="drawing" width="400" height="300"/>
 
 ## (5) Συμμετοχικό περιεχόμενο A1+A2
+
+## (6) Άσκηση γραμμής εντολών - Ntfy
+
+[![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
+
