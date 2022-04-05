@@ -52,7 +52,7 @@
 
 **5. Συμμετοχικό περιεχόμενο A1+A2**
 
-Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan (του πρώτου από τα δύο λειτουργικά).
+Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
 
 
 
