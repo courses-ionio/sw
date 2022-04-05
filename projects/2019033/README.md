@@ -43,5 +43,5 @@
 ## (6) Άσκηση γραμμής εντολών - Ntfy
 
 [![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
-![notification](https://gfycat.com/breakablepopulargadwall.gif)
+<iframe src='https://gfycat.com/ifr/BreakablePopularGadwall' frameborder='0' scrolling='no' allowfullscreen width='640' height='1466'></iframe>
 
