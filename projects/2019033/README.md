@@ -42,6 +42,4 @@
 
 ## (6) Άσκηση γραμμής εντολών - Ntfy
 
-[![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
-
-<img src="https://i.imgur.com/Fcl1qQ1.gif" height="350"/>
+<a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
