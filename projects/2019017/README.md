@@ -10,14 +10,14 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή)| https://github.com/courses-ionio/help/discussions/79 | Έκανα ο,τι απαιτείται για το παραδοτέο 1. |
 | 2 | [βιογραφικό και δημιουργία ομάδας](#Ιστοσελίδα-βιογραφικού-και-ένταξη-σε-ομάδα) | https://github.com/courses-ionio/help/discussions/230 | Ακολούθησα τα κριτήρια για την άριστη βαθμολόγηση, αλλά κατά τη γνώμη μου υπάρχει πολύ χώρος για βελτίωση. Έχω ιδέες, άλλα όχι χρόνο προς το παρών. Θα το επεξεργαστώ περαιτέρω στη πορεία.|
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request-1)| https://github.com/courses-ionio/help/discussions/326 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 4 | [Άσκηση γραμμής εντολών 1](#Ασκηση-Γραμμης-Εντολων-1) | https://github.com/courses-ionio/help/discussions/363 | Η ασκηση γραμμης εντολων δεν εγινε σε συστημα χωρις systemd και το custom λειτουργικο συστημα ηταν το FreeBSD. Θα τη βελτιωσω στο μελλον και μαλλον θα βαλω Void Linux. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικο-1) | https://github.com/courses-ionio/help/discussions/428 | Ακολούθησα τις οδηγίες και βγήκε άριστη. |
 | 6 | [Άσκηση γραμμής εντολών 2](#Ασκηση-Γραμμης-Εντολων-2) | https://github.com/courses-ionio/help/discussions/474 | Εκανα εγκατασταση το void linux σε VM απο iso image. Ηταν σχετικα ευκολη διαδικασια, αλλα κολλαει αρκετα στο terminal οποτε η εμπειρια εκει ηταν κουραστικη. |
 | 7 | [Βιογραφικό](#Βιογραφικό) |  |  |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request-2) | | |
+| 9 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων-3) | | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#Συμμετοχικο-2-με-αλλαγες-στο-συμμετοχικο-1)| | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -34,7 +34,7 @@
 - Προς το παρων xρησιμοποιωντας το raw content ενος pdf αρχειου που δημιουργησα, ο χρηστης πατωντας στο λινκ μπορει να κατεβασει το βιογραφικο μου σε pdf μορφη.
 - Asciinema: https://asciinema.org/a/nfULxsiwhCHFN4VbcVqvPqMAD
 
-## Pull Request
+## Pull Request 1
 Σύνδεσμος στο [issue](https://github.com/ioniodi/sitegr/issues/237) και στο [pull request](https://github.com/ioniodi/all_collections/pull/22). Πρόσθεσα ένα μάθημα στο Ζ' εξάμηνο στις Σπουδές στο φάκελο [\_courses](https://github.com/p19kala/all_collections/tree/2019017/_courses), το οποίο είναι η "Πτυχιακή Εργασία" όπως φαίνεται στο live demo μου [εδώ](https://p19kalasw.netlify.app/courses/thesis/). 
 - Αποθετήριο του sitegr και του all_collections με branch το ΑΜ μου: [sitegr](https://github.com/p19kala/sitegr/tree/2019017), [all_collections](https://github.com/p19kala/all_collections/tree/2019017)
 - Asciinema: https://asciinema.org/a/Lcb6l2CcGAastdRxuYVKVwrLu
@@ -85,14 +85,22 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 **Προβληματα που αντιμετωπισα:**
 - Δεν ηταν εγκατεστημενο ενα πακετο με διαφορα fonts. Μου εβγαζε καποια errors οταν εκανα την εντολη `pdflatex` και δημιουργουσε ενα missfont.log αρχειο το οποιο περιειχε το ονομα του error. Συγκεκριμενα, το error ηταν "mktextfm ecrm1000" και το διορθωσα με την εντολη `sudo apt-get install texlive-fonts-recommended`, η οποια κατεβαζει καποια προτεινομενα fonts για το texlive.
 
+## Αιτημα Ενσωματωσης 2
+
+## Ασκηση Γραμμης Εντολων 3
+
+## Συμμετοχικο 2 με αλλαγες στο συμμετοχικο 1
+Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το void, εγραψα συγκεκριμενα για το runit init συστημα που χρησιμοποιει και το πλεονέκτημά του να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
+More to be added...
+
 ## Links ομαδικότητας και συμμετοχής:
+Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
+
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
 
 Αξιολόγηση issue του συνεργάτη μου: https://github.com/ioniodi/sitegr/issues/230#issuecomment-1059802447
 
 Απαντηση σε ερωτηση στα discussions του sitegr: https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458
-
-Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
 
 Βοηθεια σε προβλημα στα discussions του help: https://github.com/courses-ionio/help/discussions/304#discussioncomment-2301642
 
