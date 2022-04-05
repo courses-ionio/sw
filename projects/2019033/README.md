@@ -44,4 +44,4 @@
 
 [![asciicast](https://asciinema.org/a/484634.svg)](https://asciinema.org/a/484634)
 
-![notification](https://i.imgur.com/Fcl1qQ1.gif)
+<img src="https://i.imgur.com/Fcl1qQ1.gif" height="350"/>
