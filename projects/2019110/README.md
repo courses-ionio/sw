@@ -227,6 +227,9 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 # Συμμετοχικό περιεχόμενο 
 ### Συμμετοχικό περιεχόμενο Α1+Α2
 ------------------------
+
+**Στο Α1+Α2 πρόκεται να αναφέρω αναλυτικά τις προσθηκές μου που έκανα μέσα στην διάρκεια της αντίστοιχης εβδομάδας ενώ, στην συνέχεια αναφέρω την προσθήκη άλλων δύο θεμάτων που στην ουσία είναι βελτειώσεις που πραγματοποίησα αφότου βρέθηκα στην ενδιάμεση αξιολόγηση και σε meetings.**
+
 Στο συγκεκριμένο παραδοτέο κληθήκαμε να κάνουμε δύο προσθήκες στο κεντρικό pibook του οργανισμού μας. Εφόσον το μάθημα μας αναφέρεται στην Τενχολογία Λογισμικού, προσπάθησα να βρω κοντινά θέματα με τον όρο αυτό. Συγκεκριμένα ανέφερα το **Linux From Scratch** ένα λειτουργικό σύστημα με το οποίο οι χρήστες φτιάχνουν από την αρχή ένα σύστημα Linux και την προγραμματιστική γλώσσα για λειτουργικά συστήματα **BLISS** η οποία ήταν πολύ γνωστή μέχρι να εμφανιστεί η γλώσσα C. Κάποιες ιδέες ακόμα που είχα βέβαια, ήταν το λειτουργικό σύστημα **System 6**, όμως έκανα την επιλογή να βάλω 2 διαφορετικα θέματα και η γλώσσα **Modula 2** που ήταν ήδη στην ιστοσελίδα.<br>
 
 Ύστερα από την αναζήτη, σύλλεξη πληροφοριών και εύρεση εικόνων με τα κατάλληλα πνευματικά δικαιώματα οδηγήθηκα στην δημιουργία του demo μου. Η διαδικασία που ακολούθησα σχετικά με την προσθήκη των κατάλληλων αρχείων ήταν η εξής:
@@ -243,11 +246,11 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 ` , `git submodule update --remote --merge
 ` και φυσικά τις απλές εντολές `git add .` , `git commit -m`, `git push` έφτασα στο αποτέλεσμα που ήθελα.
 
-Οι προσθήκες μου όπως φαίνονται στην προσωπική ντέμο ιστοσελίδα του Netlify:
+**Οι προσθήκες μου όπως φαίνονται στην προσωπική ντέμο ιστοσελίδα του Netlify:**
 1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
 2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
-Pull Requests στον οργανισμό:
+**Pull Requests στον οργανισμό:**
 * [Site](https://github.com/OompaLoompas/site/pull/7)
 * [_gallery](https://github.com/OompaLoompas/_gallery/pull/6)
 * [images](https://github.com/OompaLoompas/images/pull/6)
@@ -261,6 +264,37 @@ Pull Requests στον οργανισμό:
 <img width="900" height="500" src="https://i.postimg.cc/C5MnvMbX/summetoxiko-A12.jpg">
 <p/><br>
 
+
+Αποφάσισα μετά από την αξιολόγηση του συμμετοχικού μου Α1+Α2 σε meeting να το **βελτειώσω** και να ασχοληθώ με δύο νέα θέματα που προτιμούσα περισσότερο για τα οποία μπροούσα να αναζητήσω αρκετές πληροφορίες και συνδέοταν άμεσα με τα λειτουργικά συστήματα. Το **Alpine Linux** και **OpenRC**. Επομένως δημιούργησα ένα ακόμα branch στα αποθετήρια site, gallery, images ονομαζόμενο **demo2_2019110** που έχει τις δύο νέες και βασικές μου προσθήκες, ενώ διατηρώ και το παλιό **demo_2019110** που έχω τις πρώτες προσθήκες(Linux From scratch , BLISS) οι οποίες δεν ανταποκρίνονται στις απαιτήσεις του παραδοτέου. Είναι σημαντικό να αναφέρω πως στο φάκελο slides στο site δημιούργησα ένα νέο με όνομα **init-systems** για το OpenRC και ένα αντίστοιχο timeline , καθώς για το Alpine ένα νέο slide **operating systems** αλλά χρησιμοποίησα ως timeline το ήδη υπάρχον με ονομασία **os**
+
+<br>
+<p align="center">
+<img width="900" height="500" src="https://user-images.githubusercontent.com/72496151/161824021-6844d5ea-9a86-411d-86ca-4f279d15a4c2.jpg">
+<p/><br>
+
+* Link στο [netlify](https://p19pasc-site-alpine-openrc.netlify.app/):
+  * [Alpine Linux](https://p19pasc-site-alpine-openrc.netlify.app/gallery/alpine-linux/)
+  * [OpenRC](https://p19pasc-site-alpine-openrc.netlify.app/gallery/openrc/) 
+
+* **Site** [repository](https://github.com/p19pasc/site/tree/demo2_2019110)(branch: demo2_2019110):
+  * Slides: 
+    * [operating-systems(Alpine)](https://github.com/p19pasc/site/blob/demo2_2019110/_slides/operating-systems.md)
+    * [init-systems(OpenRC)](https://github.com/p19pasc/site/blob/demo2_2019110/_slides/init-systems.md) 
+  * Timeline:
+    * [os-apps(Alpine)](https://github.com/p19pasc/site/blob/demo2_2019110/_timeline/os-apps.md)
+    * [init-systems(OpenRC)](https://github.com/p19pasc/site/blob/demo2_2019110/_timeline/init-systems.md)
+
+* **Gallery** [repository](https://github.com/p19pasc/_gallery/tree/demo2_2019110)(branch demo2_2019110): 
+  * [Alpine Linux](https://github.com/p19pasc/_gallery/blob/demo2_2019110/alpine-linux.md)  
+  * [OpenRC](https://github.com/p19pasc/_gallery/blob/demo2_2019110/openrc.md)
+ 
+* **Images**[repository](https://github.com/p19pasc/images/tree/demo2_2019110)(branch: demo2_2019110):
+  * [Alpine-Linux.png](https://github.com/p19pasc/images/blob/demo2_2019110/alpine-linux.png) (δικό μου printscreen)
+  * [Alpine-Linux-thumb.png](https://github.com/p19pasc/images/blob/demo2_2019110/alpine-linux-thumb.png) (δικό μου printscreen)
+  * [OpenRC.png](https://github.com/p19pasc/images/blob/demo2_2019110/openrc.png)
+  * [OpenRc-thumb.png](https://github.com/p19pasc/images/blob/demo2_2019110/openrc-thumb.png)
+
+
 <details>
  <summary>Δημιουργία ανακοινώσεων στον οργανισμό</summary>
   <p>
@@ -271,6 +305,7 @@ Pull Requests στον οργανισμό:
  </p>
 </details>
 <br> 
+
 
 # Ασκήσεις γραμμής εντολών
 ### Warmup με freebsd
