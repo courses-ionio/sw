@@ -49,3 +49,5 @@
 Εντολ
 pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o cv.pdf
 
+Για το automization θα κανουμε git hook για post-commit
+
