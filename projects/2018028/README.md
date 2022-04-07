@@ -93,7 +93,8 @@
 ## 4ο Παραδοτέο
 
 Στο παραδοτέο αυτό έπρεπε να κατεβάσουμε ένα Linux χωρίς systemd. Εγώ βρήκα το void linux και το έβαλα σε virtual Box. Δεν έχει GUI για την ώρα αλλά θα εγκαταστήσω για το επόμενο παραδοτέο
-![image](https://user-images.githubusercontent.com/72436770/158079252-9d5e8123-145f-413a-9d42-2939f9dcef04.png)
+[![asciicast](https://asciinema.org/a/cDW2TMUFf9Olc1nNH0ECxDVJc.svg)](https://asciinema.org/a/cDW2TMUFf9Olc1nNH0ECxDVJc)
+
 
 ## 5ο Παραδοτέο
 
@@ -106,6 +107,9 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/72436770/158847341-c223f9f5-0947-43ff-86dc-e24664e4950a.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/72436770/158847389-9b6ccfc1-6cb8-4597-8911-524842ed4777.png)
 
+## 6ο Παραδοτέο
+Σε αυτο το παραδοτέο έχοντας ήδη εγκαταστήσει το Void Linux επέλεξα ένα από τα πολλά γραφικά περιβάλλοντα που προσφέρει και το εγκατέστηκα! Το αποτέλεσμα είναι το παρακάτω
+![image](https://user-images.githubusercontent.com/72436770/162275689-304fd077-5f88-4680-9e2d-0e5aa88a417f.png)
 
 
 
