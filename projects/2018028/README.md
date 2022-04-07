@@ -21,7 +21,7 @@
 | <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/327) |<p align="center">  | |
 | <p align="center">4η | <p align="center">[Άσκηση γραμμής εντολών]((#4ο-παραδοτέο))</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/375) | |
 | <p align="center">5η | <p align="center">[Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) </p>| <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/416) | |
-| <p align="center">6η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
+| <p align="center">6η | <p align="center">[Άσκηση γραμμής εντολών](#6ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/543)| |
 | <p align="center">7η | <p align="center">βιογραφικό</p> | | |
 | <p align="center">8η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα </p>| | |
 | <p align="center">9η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
