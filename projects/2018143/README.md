@@ -17,7 +17,7 @@
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/459) | |
 | 7 | <sup><a href="#7"> βιογραφικό </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/494) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> | [Link στις συζητήσεις]() | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -313,7 +313,7 @@ https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
      
 Link για το αποθετήριο του μαθήματος : https://github.com/p18kout/all_collections/blob/master/_courses/museum-and-social-media.md
   
-Link για το Issue :
+Link για το Issue : https://github.com/ioniodi/sitegr/issues/378
   
 Link για το Pull Request : 
   
