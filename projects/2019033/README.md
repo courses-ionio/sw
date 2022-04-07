@@ -46,5 +46,6 @@
 
 ## (7) Βιογραφικό-PDF
 
-pandoc https://tsimpliarakis.github.io/online-cv -f html-native_divs -o cv.pdf --pdf-engine=xelatex
+Εντολ
+pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o cv.pdf
 
