@@ -301,3 +301,23 @@ asciinema link για μετατροπή σε pdf και tex : https://asciinema
 https://lukesmith.xyz/c/wanna-learn-latex#install
   
 https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
+  
+##### [8]
+    
+### Αίτημα ενσωμάτωσης στην ιστοσελίδα: Προσθήκη μαθήματος
+
+## Διαδικασία :  
+
+Ως αντικείμενο για το 8ο παραδοτέο επέλεξα την προσθήκη του μαθήματος "Μουσεία και Κοινωνικά Δίκτυα" του Η' εξαμήνου στο site του τμήματος.
+Προχώρησα σε δημιουργία νέου issue .
+     
+Link για το αποθετήριο του μαθήματος : https://github.com/p18kout/all_collections/blob/master/_courses/museum-and-social-media.md
+  
+Link για το Issue :
+  
+Link για το Pull Request : 
+  
+Link συνεισφοράς στο netlify : 
+  
+
+  
