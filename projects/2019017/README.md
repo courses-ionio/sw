@@ -85,7 +85,11 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 **Προβληματα που αντιμετωπισα:**
 - Δεν ηταν εγκατεστημενο ενα πακετο με διαφορα fonts. Μου εβγαζε καποια errors οταν εκανα την εντολη `pdflatex` και δημιουργουσε ενα missfont.log αρχειο το οποιο περιειχε το ονομα του error. Συγκεκριμενα, το error ηταν "mktextfm ecrm1000" και το διορθωσα με την εντολη `sudo apt-get install texlive-fonts-recommended`, η οποια κατεβαζει καποια προτεινομενα fonts για το texlive.
 
-## Αιτημα Ενσωματωσης 2
+## Pull Request 2
+Υλοποιησα μια λειτουργια να μενει το navigation bar menu στο πανω μερος της σελιδας, οταν ο χρηστης κανει scroll προς τα κατω. Ετσι, δεν χρειαζεται να επιστρεψει πανω για να περιηγηθει σε αλλη σελιδα. Αυτο θα βοηθησει ιδιαιτερα στις σελιδες που ειναι πολυ μεγαλες (σελιδες "Σπουδες", "Προσωπικο"). Η ιδεα της υλοποιησης ηρθε μετα απο δικια μου αναγκη οταν επισκεπτομουν συχνα τη σελιδα "Σπουδες" και ηθελα να μπορω να αλλαζω γρηγορα σε αλλη σελιδα.
+Σχετικο issue: https://github.com/ioniodi/sitegr/issues/382
+Συνδεσμος στο αρχειο με τις αλλαγες: [στη γραμμη 6, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/_sass/minimal-mistakes/_masthead.scss)
+Συνδεσμος στο demo: https://p19kalasw.netlify.app/
 
 ## Ασκηση Γραμμης Εντολων 3
 
@@ -107,3 +111,5 @@ More to be added...
 Βοηθεια σε guide στα discussions του help: https://github.com/courses-ionio/help/discussions/344#discussioncomment-2342616
 
 Βοηθεια σε ερωτηση στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513
+
+Βοηθεια διδακτικης ομαδας στο template των issues του sitegr: https://github.com/ioniodi/sitegr/discussions/383
