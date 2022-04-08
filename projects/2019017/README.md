@@ -102,7 +102,9 @@ More to be added...
 
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
 
-Αξιολόγηση issue του συνεργάτη μου: https://github.com/ioniodi/sitegr/issues/230#issuecomment-1059802447
+Αξιολόγηση issue ενός άλλου συνεργάτη για το 1ο αιτημα: https://github.com/ioniodi/sitegr/issues/230#issuecomment-1059802447
+
+Αξιολογηση issue ενός συνεργάτη για το 2ο αιτημα: https://github.com/ioniodi/sitegr/issues/386#issuecomment-1092695663
 
 Απαντηση σε ερωτηση στα discussions του sitegr: https://github.com/ioniodi/sitegr/discussions/229#discussioncomment-2295458
 
