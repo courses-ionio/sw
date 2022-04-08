@@ -278,7 +278,7 @@
 Εδώ βλέπετε το issue που άνοιξα:
 
 <br><p align="center">
-<img width="750" height="750" src="https://i.postimg.cc/cHqZ2801/image.png">
+<img width="850" height="750" src="https://i.postimg.cc/cHqZ2801/image.png">
 <p/>
 
 Εδώ βλέπετε την προσθήκη του μαθήματος στο all_collections:
