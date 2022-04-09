@@ -21,7 +21,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) | [Ανάρτηση πρώτης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/447) | |
 | 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) | [Ανάρτηση δεύτερης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/467)| |
 | 7 | [Βιογραφικό δημιουργία PDF](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-pdf-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CE%B1-pandoc-%CE%BA%CE%B1%CE%B9-latex) και [Continuous Integration](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#continuous-integration-%CE%BC%CE%B5-git-hooks) | [Ανάρτηση Βιογραφικού Β μέρους στο Discussions](https://github.com/courses-ionio/help/discussions/524) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα μέρος Β| | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -431,6 +431,69 @@
 
 <br /> <br />
 
+## Εβδομάδα Όγδοη - Αίτημα ενσωμάτωσης στην Ιστοσελίδα μέρος Β
+
+<br />
+
+### Αλλαγή και στα δύο αποθετήρια - Παρατήρηση αλλαγών χωρίς Commit
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Πρώτο βήμα που ακολούθησα ήταν η επανεπίσκεψη του [Wiki](https://github.com/ioniodi/sitegr/wiki) της σελίδας με σκοπό τη προσθήκη του section ["Αλλαγή και στα δύο αποθετήρια"](https://github.com/ioniodi/sitegr/wiki/Workflow#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%83%CF%84%CE%B1-%CE%B4%CF%8D%CE%BF-%CE%B1%CF%80%CE%BF%CE%B8%CE%B5%CF%84%CE%AE%CF%81%CE%B9%CE%B1) του [Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow) για πιο αποδοτική προσέγγιση στην υλοποίηση του παραδοτέου αυτού. Για την υλοποίηση του section αυτού χρειάστηκαν οι οδηγίες και [αυτό](https://github.com/lavas-project/jekyll-pwa) το github repo για την ολοκληρωτική κατανόηση. Η διαδικασία ήταν εύκολη και υλοποίηθηκε σε σύντομο χρονικό διάστημα. Συγκεκριμένα θα ήθελα να πω πως έχω ένα branch το **2019053** το οποίο χρησιμοποιείται για να βλέπω άμεσα τις αλλαγές με τη διαδικασία που περιγράφω παραπάνω, και το branch **pull-branch** όπου χρησιμοποιείται σε συνδιασμό με το netlify και είναι το τελικό branch μου που σκοπεύω να κάνω και το pull request μου.
+
+<br />
+
+<p align="center">
+ <b>Διαδικασία υλοποίησης της αλλαγής και των δύο αποθετηρίων με τη χρήση του <kbd>bundle exec jekyll serve</kbd></b>
+</p>
+
+<p align="center">
+ <a href="https://asciinema.org/a/ACNM6Q7XVztiup9zxJmy7FWxh" target="_blank"><img src="https://asciinema.org/a/ACNM6Q7XVztiup9zxJmy7FWxh.svg" /></a>
+</p>
+
+<br /> <br />
+
+### Τροποποίηση σχεδιαστικού περιεχομένου στην ιστοσελίδα
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Το βασικό γνώρισμα του παραδοτέου αυτού ήταν η τροποποίηση της ιστοσελίδας και όχι απλώς η προσθήκη περιεχομένου. Σύμφωνα με τις οδηγίες η τροποποίηση αυτή θα πρέπει να βελτιώνει την εμπειρία του χρήστη, να είναι σημαντική και να είναι πιο δύσκολη η διαδικασία υλοποίησης από το πρώτο αίτημα ενσωμάτωσης. Για την τροποποίηση της σελίδας στον αισθητικό και σχεδιαστικό τομέα ήταν απαραίτητη η χρήση του αποθετηρίου [minimal-ionio](https://github.com/ioniodi/minimal-ionio). Εγώ προσωπικά έκανα μία αλλαγή που καλύπτει τα κριτήρια που τέθηκαν πέρα του επιπέδου δυσκολίας, αφού η ιδέα μου ήταν αρκετά εύκολη στην κατασκευή της. Πρόσεξα πως στην ιστοσελίδα οι βασικοί τίτλοι των καρτελών δεν ξεχώριζαν από τις υποκεφαλίδες της κάθε ενότητας. Αυτό είχε ως άμεση συνέπεια την απορία του χρήστη για τις πληροφορίες που του παρουσιάζονται και την ύπαρξη ενός μη φιλικού περιβάλλοντος. Γνωρίζοντας πως είναι πολύ απλό, επέλεξα να κάνω ένα [Issue](https://github.com/ioniodi/sitegr/issues/380) λόγω της σημαντικότητάς του.
+
+<br />
+
+**Η αλλαγή που υλοποίθηκε στο αρχείο [page.scss](https://github.com/AimiliosPavlidis2001/minimal-ionio/blob/pull-branch/_sass/minimal-mistakes/_page.scss) μου**
+
+![change in minimal-ionio](https://user-images.githubusercontent.com/72695605/162578534-bd7d95ca-cfd3-49d7-945b-38176c9d0754.PNG)
+
+<br />
+
+**Αριστερά αναπαρίσταται η καρτέλα "Προσωπικό" πρίν την τροποποίηση, ενώ δεξιά μετά την τροποποίηση**
+
+![proswpiko-before-after](https://user-images.githubusercontent.com/72695605/162578850-f6bbc5a0-750b-4ff8-9868-f21dca2117e3.png)
+
+<br />
+
+**Αριστερά αναπαρίσταται η καρτέλα "Σπουδές" πρίν την τροποποίηση, ενώ δεξιά μετά την τροποποίηση**
+
+![spoudes-before-after](https://user-images.githubusercontent.com/72695605/162578977-41424c0b-168e-48bd-8dcd-ebf700d6b9b5.png)
+
+<br />
+
+**Αριστερά αναπαρίσταται η καρτέλα "Ανακοινώσεις" πρίν την τροποποίηση, ενώ δεξιά μετά την τροποποίηση**
+
+![anakoinwseis-before-after](https://user-images.githubusercontent.com/72695605/162578734-3346271e-b452-462e-bb22-23cf2393b970.png)
+
+<br />
+
+| | Βασικοί σύνδεσμοι για το 8ο παραδοτέο |
+| --- | --- |
+| 1 | [Issue](https://github.com/ioniodi/sitegr/issues/380) |
+| 2 | [Demo Ιστοσελίδας](https://aimiliospavlidis2001-sitegr-pr2.netlify.app/) |
+| 3 | [my minimal-ionio repo](https://github.com/AimiliosPavlidis2001/minimal-ionio) |
+| 4 | [my sitegr repo](https://github.com/AimiliosPavlidis2001/sitegr) |
+
+<br /> <br />
+
 -----
 
 ## Βιβλιογραφία και Πηγές βοήθειας
@@ -486,4 +549,5 @@
  - [sw-lab git hooks info](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021#cv-2-pdf)
  - [git hooks (1)](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit)
  - [git hooks (2)](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
-
+#### Όγδοο Παραδοτέο
+ - [jekyll pwa plugin](https://github.com/lavas-project/jekyll-pwa)
