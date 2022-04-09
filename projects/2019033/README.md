@@ -12,7 +12,7 @@
 | 4 | [Void Linux](#4-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
 | 6 | [Άσκηση γραμμής εντολών - Ntfy](#6-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
-| 7 | [Βιογραφικό PDF](#7-βιογραφικό-pdf) | - | - |
+| 7 | [Βιογραφικό PDF](#7-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | - | - |
@@ -46,8 +46,9 @@
 
 ## (7) Βιογραφικό-PDF
 
-Εντολ
-pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o cv.pdf
+Δημιουργήθηκε αρχείο git hook με για pre-commit ενέργεια με ρτον παρακάτω κώδικα:
 
-Για το automization θα κανουμε git hook για post-commit
+- pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
+- git add ./pdf/resume.pdf
+
 
