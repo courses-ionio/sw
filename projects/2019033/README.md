@@ -105,8 +105,8 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 Δημιουργήθηκε αρχείο git hook για pre-commit ενέργεια με τον παρακάτω κώδικα:
 
-- pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
-- git add ./pdf/resume.pdf
+1. pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
+2.  git add ./pdf/resume.pdf
 
 <br/>
 
