@@ -9,12 +9,12 @@
 | --- | --- | --- | --- |
 | 1 | **[Εισαγωγή](#Εισαγωγή)** | https://github.com/courses-ionio/help/discussions/57 | Ολοκλήρωση όλων των ζητουμένων σε εμπρόθεσμο χρόνο |
 | 2 | **Βιογραφικό [Μέρος Α](#Μέρος-Α) - [Δημιουργία Oμάδας](#Δημιουργία-Ομάδας)** | [Κοινοποίηση Βιογραφικού](https://github.com/courses-ionio/help/discussions/248) <br>[Ομάδα στα Discussions](https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-2215388) | Πολύωρη ενασχόληση με τροποποιήσεις στο template του βιογραφικού αλλά ελάχιστη χρήση terminal και αποτελεσματική συνεργασία με την ομάδα στην δημιουργία Webring   |
-| 3 | **[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | Η επέκταση ενός αρχείου .bib και η προσθήκη βιβλίων στο μάθημα της python στο all_collections, ήταν μία καλή ιδέα όσον αφορά το 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα που έγινε με επιτυχία |
+| 3 | **[Πρώτο αίτημα ενσωμάτωσης](#Πρώτο-αίτημα-ενσωμάτωσης)** |[Αναφορά της προσθήκης μου στην ανεπίσημη ιστοσελίδα του πανεπιστημίου](https://github.com/courses-ionio/help/discussions/309) | Η επέκταση ενός αρχείου .bib και η προσθήκη βιβλίων στο μάθημα της python στο all_collections, ήταν μία καλή ιδέα όσον αφορά το 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα που έγινε με επιτυχία |
 | 4 | **[Warmup με freebsd](#Warmup-με-freebsd)** | [Βασικές ασκήσεις warmup σε freebsd](https://github.com/courses-ionio/help/discussions/355#discussion-3934793) | Τα κριτήρια για τη πρώτη άσκηση γραμμής εντολών θεωρώ δεν απαιτούσαν ενασχόληση σε βάθος και σε συνδυασμό με το γεγονός ότι πραγματοποίησα εκκρεμότητες από την 3η εβδομάδα, οι ασκήσεις warmup σε freebsd είναι κάτι βατό |
 | 5 | **[Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικό-περιεχόμενο)** | [Οι προσθήκες μου στο help](https://github.com/courses-ionio/help/discussions/449) | Όλες οι προσθήκες και το ντεμο έγιναν με επιτυχία, εκτός από κάποιο Pull Request στο κεντρικό site της ομάδας καθώς χρειάζονται κάποιες βελτιώσεις οι οποίες αναμένεται να γίνουν |
 | 6 | **[Εκγατάσταση Alpine Linux](#Εγκατάσταση-Alpine-Linux)** | [Ανακοίνωση εγκατάστασης του Alpine Linux](https://github.com/courses-ionio/help/discussions/481) | Σε αυτή την άσκηση γραμμής εντολών απλώς εγκατέστησα ένα λειτουργικό σύστημα χωρίς systemd, δίχως να κάνω κάτι ιδιαίτερο |
 | 7 | **Bιογραφικό [Μέρος Β](#Μέρος-Β)** | [Ανάρτηση Β' μέρους βιογραφικού](https://github.com/courses-ionio/help/discussions/521) | Το παραδοτέο πραγματοποιήθηκε εμπρόθεσμα και σχεδόν κάλυψε όλα τα απαιτούμενα, αυτό διότι εμφανίστηκε ένα error που μετά από πολύ κόπο και συζήτηση στο help δεν βρέθηκε λύση. Αυτό σημαίνει ότι αφιερώθηκαν πολλές ώρες ενασχόλησης |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | **[Δεύτερο αίτημα ενσωμάτωσης](#Δεύτερο-αίτημα-ενσωμάτωσης)** | [Ανάρτηση της επιλογής μου για το δεύτερο αίτημα ενσωμάτωσης](https://github.com/courses-ionio/help/discussions/550) | Είμαι ικανοποιημένος από την προσπάθεια μου για το δεύτερο αίτημα ενσωμάτωσης, αφού έψαξα αρκετά παλαιά θέματα και προσπάθησα αρκετά για να προσθέσω ένα κουμπί για το Facebook, ενώ σε αυτό το χρονικό διάστημα καταλάθος πραγματοποίησα πολύ γρήγορα ένα [easy closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -163,7 +163,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
 
-# Αίτημα ενσωμάτωσης στην ιστοσελίδα
+# Αιτήματα ενσωμάτωσης στην ιστοσελίδα
 ### Πρώτη εντύπωση
 -----------------
 Σχετικά με το πρώτο αίτημα ενσωμάτωσης στην [ανεπίσημη ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/) όλοι προσθέσαμε το δικό μας μικρό κομμάτι, είτε πραγματοποιήσαμε κάποιες αλλαγές σε επίπεδο δυσκολίας easy. Η πρώτη επαφή ήταν δύσκολη εφόσον έπρεπε να κατανοήσω την σύνδεση μεταξύ του [sitegr](https://github.com/ioniodi/sitegr) με το [minimal-ionio](https://github.com/ioniodi/minimal-ionio) και την λειτουργία των submodules. Ακόμη να κατανοήσω τις, σε μεγάλο όγκο οδηγίες, στις οποίες βασίστηκα στην αρχή της εβδομάδας, αλλά δεν πρόσφεραν απόλυτα σημαντικές πληροφορίες σχετικά με το τεχνικό μέρος της εργασίας, παρά αφοσιώνοταν στο τρόπο με τον οποίο αναρτούμε το issue και το pull request με την επίβλεψη συνεργατών. Οι οδηγίες στις οποίες έδωσα μεγάλη έμφαση ήταν στο [Wiki](https://github.com/ioniodi/sitegr/wiki), όσον αφορά την [συμμετοχή(How to contribute)](https://github.com/ioniodi/sitegr/wiki/Contributors-guide) και τις τροποποιήσεις των [αρχείων(Workflow)](https://github.com/ioniodi/sitegr/wiki/Workflow). 
@@ -219,6 +219,31 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
     <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
     <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
     <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
+   </ul> 
+  </p>
+</details>
+<br>
+
+### Δεύτερο αίτημα ενσωμάτωσης
+------------------------
+Μετά από αρκετό πάξιμο στην ιστοσελίδα και στα κλειστά issue για την αναζήτηση θέματος αποφάσισα να επιλέξω από το [Wiki-Δυσκολα](https://github.com/ioniodi/sitegr/wiki/Archived-issues#%CE%94%CF%8D%CF%83%CE%BA%CE%BF%CE%BB%CE%B1) την προσθήκη ενώς button που θα οδηγούσε στην ιστοσελίδα του Πανεπιστημίου στο Facebook. Το κουμπί αυτό όμως κατάφερα να το κάνω να εμφανίζεται σε όλες τις υποσελίδες εκτός από την κεντρική και τις ανακοινώσεις.
+
+* Στο repository του sitegr μου τροποποίησα στο [_config.yml](https://github.com/p19pasc/sitegr/blob/aitima2-facebook/_config.yml) τα `share: false` σε `share: true` γραμμές 289,302 
+* Στο minimal-ionio στο αρχείο [social-share.html](https://github.com/p19pasc/minimal-ionio/blob/aitima2-facebook/_includes/social-share.html) έφτιαξα την εντολή `<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>` δίνοντας το κατάλληλο facebook url και σβήνοντας το κομμάτι της JS το οποίο θεωρούσα ότι δεν χρειαζόταν, διότι όταν θα κλικάραμε στο button, θα μας έκανε pop up ένα νέο παράρθυρο του browser, με αποτέλεσμα να διαμορφωθεί σε `<a href="https://www.facebook.com/di.ionian.university?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>`.
+
+Σύνδεσμος της ιστοσελίδας του: [Netlify](https://p19pasc-aitima2-facebook.netlify.app/)
+<br>
+<br>
+<p align="center">
+<img width="700" height="250" src="https://user-images.githubusercontent.com/72496151/162635854-a39b858f-d088-463d-873a-26da58b6833a.png">
+<p/><br>
+
+<br>
+<details>
+ <summary>Αίτημα ενσωμάτωσης 2</summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997">Σχόλιο βελτείωσης ενός closed issue</a></li>
    </ul> 
   </p>
 </details>
@@ -430,7 +455,8 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
     * [Latex](https://www.latex-project.org/)
     * [Εγκατάσταση texlive-full](https://milq.github.io/install-latex-ubuntu-debian/)
     * [Eγκατάσταση texlive-full](http://www1.coe.neu.edu/~jkimani/Latex1.html)
-    * [Εγκατάσταση zip babel-english](https://www.ctan.org/pkg/babel-english)    * [Εγκατάσταση texlive-lang-english](https://jeka.by/ask/159/latext-package-babel-error-unknown-option-latin/)
+    * [Εγκατάσταση zip babel-english](https://www.ctan.org/pkg/babel-english)    
+    * [Εγκατάσταση texlive-lang-english](https://jeka.by/ask/159/latext-package-babel-error-unknown-option-latin/)
     * [Ολική διαγραφή του Latex](https://tex.stackexchange.com/questions/95483/how-to-remove-everything-related-to-tex-live-for-fresh-install-on-ubuntu)
     * [Διαγραφή Latex](https://askubuntu.com/questions/35155/how-to-uninstall-latex)
     * [Option για Latex](https://tex.stackexchange.com/questions/401464/generating-pdf-from-xelatex)
@@ -439,6 +465,9 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
     * [Git push --force](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)
   * [PDF host](https://pdfhost.io/)
   * [Καταγραφή οθόνης Kazam](https://democreator.wondershare.com/screen-recorder/linux-screen-recorder.html)
+* Αίτημα ενσωμάτωσης στην ιστοσελίδα
+  * [minimal-mistakes-layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)  
+  * [Structure-Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/structure/)
 * Συμμετοχικό Περιεχόμενο   
   * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
    * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
