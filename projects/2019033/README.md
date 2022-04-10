@@ -13,7 +13,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
 | 6 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
 | 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
-| 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Issue](https://github.com/ioniodi/sitegr/issues/395) (Pending) | - |
+| 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Show & Tell](https://github.com/courses-ionio/help/discussions/552) | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | - | - |
 | 11 | Άσκηση γραμμής εντολών | - | - |
