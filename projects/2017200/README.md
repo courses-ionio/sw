@@ -57,17 +57,17 @@
 
 Για το τρίτο παραδοτέο μας ζητήθηκε να κάνουμε αίτηση για μια αλλαγή στην ανεπίσημη [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/) του τμήματος Πληροφορικής, και στη συνέχεια να κάνουμε αίτημα ενσωματώσης στο κύριο [αποθετήριο του μαθήματος](https://github.com/ioniodi/sitegr).
 
-Αρχικά άνοιξα το παρακάτω [issue](https://github.com/ioniodi/sitegr/issues/287).Αφού πήρα το greenlight, διάβασα αναλυτικά τις οδηγίες του παραδοτεόυ και ξεκίνησα την υλοποίηση. Έκανα fork τα αποθετήρια [sitegr](https://github.com/vivikara/sitegr),[all_collections](https://github.com/vivikara/all_collections),[minimal-ionio.](https://github.com/vivikara/minimal-ionio). Αφότου έγιναν τα forks δημιουργήθηκαν και τα κατάλληλα branches με στόχο να κάνω τις απαραίτητες αλλαγές. 
+Αρχικά άνοιξα το παρακάτω [issue](https://github.com/ioniodi/sitegr/issues/392).Αφού πήρα το greenlight, διάβασα αναλυτικά τις οδηγίες του παραδοτεόυ και ξεκίνησα την υλοποίηση. Έκανα fork τα αποθετήρια [sitegr](https://github.com/vivikara/sitegr),[all_collections](https://github.com/vivikara/all_collections),[minimal-ionio.](https://github.com/vivikara/minimal-ionio). Αφότου έγιναν τα forks δημιουργήθηκαν και τα κατάλληλα branches με στόχο να κάνω τις απαραίτητες αλλαγές. 
 
 
 
-Επέλεξα η δική μου προσθήκη στην ιστοσελίδα να είναι η ενσωμάτωση του μαθήματος επιλογής " Έξυπνα Περιβάλλοντα και Εφαρμογές στο Ή Εξάμηνο.Όλες οι αλλαγές πραγματοποίηθηκαν στο [all_collections](https://github.com/vivikara/all_collections) στο φάκελο [_coures](https://github.com/vivikara/all_collections/tree/p2017200/_courses).
+Επέλεξα η δική μου προσθήκη στην ιστοσελίδα να είναι η ανακοίνωση "Διαδικτυακό σεμινάριο της IEEE για συγγραφείς/ερευνητές στις 30 Μαρτίου" .Όλες οι αλλαγές πραγματοποίηθηκαν στο [all_collections](https://github.com/vivikara/all_collections/tree/p2017200).
 
-[Issue](https://github.com/ioniodi/sitegr/issues/287) 
+[Issue](https://github.com/ioniodi/sitegr/issues/392) 
 
 [Pull request]
 
-[Live demo](https://623762c21ce5767ca1865d26--boring-jones-b3f37a.netlify.app/courses/#%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82-6)
+[Live demo](https://625000b24dad485759dd0367--adorable-medovik-d1a20a.netlify.app/posts/2022/03/28/diadiktiako-seminario-tis-ieee-gia-sygrafis-stis-30-martiou/)
 
 
 
