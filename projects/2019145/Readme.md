@@ -15,7 +15,7 @@ Github profile: [Geoter711](https://github.com/Geoter711)
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/489) | |
 | 7 | βιογραφικό | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/533) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/553) | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
