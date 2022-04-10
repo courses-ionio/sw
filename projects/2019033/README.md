@@ -37,6 +37,9 @@
 ## 👉 Αίτημα ενσωμάτωσης sitegr
 
   [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
+  
+  <img src="./img/prin1.png" alt="resume" width="500"/>  
+  <img src="./img/meta1.png" alt="resume" width="500"/>
 
 ## 👉 Void Linux
 
