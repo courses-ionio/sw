@@ -30,6 +30,16 @@
 
 [Βιογραφικό](https://tsimpliarakis.github.io/online-cv/) - [Webring](https://kafeneio-webring.netlify.app/)
 
+
+**Αλλαγές που πραγματοποιήθηκαν:** <br/>
+
+✅ Μεταφορά sidebar στα αριστερά
+✅ Αλλαγή χρώματος sidebar σε γκρι
+✅ Διαγραφή φωτογραφίας (Πλέον στα βιογραφικά δεν απαιτείται φωτογραφία)
+✅ Προσθήκη δικών μου στοιχείων
+✅ Αφαίρεση διαφημιστικών θέματος (footer)
+✅ Προσθήκη πιστοποιητικών (Certificates)
+
 <img src="./img/resume.png" alt="resume" width="400"/>   
 
 ## 👉 Αίτημα ενσωμάτωσης sitegr
