@@ -20,7 +20,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/444) | |
 | 6 | [Άσκηση γραμμής εντολών: Ιnstalling systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) και [Άσκηση γραμμής εντολών - Check the Weather](#άσκηση-γραμμής-εντολών---check-the-weather) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
 | 7 | [Βιογραφικό: PDF με pandoc και LaTeX + CI](#7ο-παραδοτέο---βιογραφικό-pdf-με-pandoc-και-latex--ci) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/523#discussion-3983966) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | [2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8ο-παραδοτέο---2ο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης]() | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -245,3 +245,8 @@
 
 #### Link από μερικές πηγές που ερεύνησα:
 [starbeamrainbowlabs LaTeX-Round-2](https://starbeamrainbowlabs.com/blog/article.php?article=posts/277-LaTeX-Round-2.html) | [archlinux wiki: TeX_Live](https://wiki.archlinux.org/title/TeX_Live) | [command-not-found.com/xelatex](https://command-not-found.com/xelatex) | [markdown2pdf_pandoc](https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/) | [stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592) | [archlinux community repositories: murrine](https://archlinux.org/packages/community/x86_64/gtk-engine-murrine/) | [a-markdown-to-pdf-workflow-on-linux](https://blog.scottlowe.org/2018/09/27/a-markdown-to-pdf-workflow-on-linux/) | [wkhtmltopdf.org](https://wkhtmltopdf.org/) | [digitalocean tutorials how-to-use-git-hooks-to-automate-development-and-deployment-tasks](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
+
+# 8ο Παραδοτέο - 2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα
+Το όγδοο παραδοτέο απαιτούσε ένα νέο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος. Ήμουν από τους πρώτους που άνοιξαν issue γι' αυτό το παραδοτέο (από Τετάρτη της εβδομάδας του παραδοτέου) αλλά και πάλι ούτε εγώ ούτε κανένας συμφοιτητής φαίνετε να μπόρεσε να πάρει greenlight στην ώρα του αυτήν την εβδομάδα. Το issue μου αφορούσε την προσθήκη ακαδημαϊκού ημερολογίου στην σελίδα (κάτι εντός κανόνων και είναι νέα λειτουργία), έχω ήδη ξεκινήσει την υλοποίησή του. Για κάποιο λόγο, που δεν μου διευκρινίστηκε ξεκάθαρα (παρόλο που έδωσα ακόμα περισσότερες διευκρινίσεις στο θέμα μου), μου δόθηκαν πολλές ετικέτες στο issue συμπεριλαμβανομένης της wontfix, και έτσι οι συνεργάτες μου δεν μπόρεσαν να προχωρήσουν σε review και εγώ με την σειρά μου σε pull request παίρνοντας green light. Παρόλο που δεν βρήκα το λόγο που κρατιέται πίσω το issue φαίνετε ότι απαιτείτε να γίνει συζήτηση από κοντά για να λυθούν τα θέματα, επομένως θα ενημερώσω αυτό το κεφάλαιο της αναφοράς μου μετά από την συζήτηση.<br>
+
+#### Link προς το ανάλογο issue: [sitegr/issues/376](https://github.com/ioniodi/sitegr/issues/376)<br>
