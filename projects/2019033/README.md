@@ -1,8 +1,6 @@
 <h1 align=center> Τεχνολογία Λογισμικού </h1>
 <h2 align=center> Τσιμπλιαράκης Μιχαήλ | ΑΜ:Π201903 </h2>
 
-- Edpuzzle: p19tsib 2019033
-
 <br>
 <div align="center">
 
@@ -66,6 +64,11 @@
 - pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
 - git add ./pdf/resume.pdf
 
+## 📹 Video Quiz
+**Edpuzzle** <br/>
+  Username: p19tsib 2019033 <br/>
+  Video: 9/12 <br/>
+  In time: 8/12 <br/>
 
 ## ‼️ Προβλήματα που αντιμετωπίστηκαν
 
