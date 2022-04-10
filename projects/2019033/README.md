@@ -101,7 +101,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 <a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
 
-## 👉 Βιογραφικό-PDF
+## 👉 Βιογραφικό PDF
 
 Δημιουργήθηκε αρχείο git hook για pre-commit ενέργεια με τον παρακάτω κώδικα:
 
