@@ -228,6 +228,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 ------------------------
 Μετά από αρκετό πάξιμο στην ιστοσελίδα και στα κλειστά issue για την αναζήτηση θέματος αποφάσισα να επιλέξω από το [Wiki-Δυσκολα](https://github.com/ioniodi/sitegr/wiki/Archived-issues#%CE%94%CF%8D%CF%83%CE%BA%CE%BF%CE%BB%CE%B1) την προσθήκη ενώς button που θα οδηγούσε στην ιστοσελίδα του Πανεπιστημίου στο Facebook. Το κουμπί αυτό όμως κατάφερα να το κάνω να εμφανίζεται σε όλες τις υποσελίδες εκτός από την κεντρική και τις ανακοινώσεις.
 
+* Σύνδεσα το sitegr με το gallery και το minimal-ionio ακολουθόντας τις οδηγίες που βρήκα σε ένα [issue](https://github.com/ioniodi/site-gr/issues/82) και [Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow)
 * Στο repository του sitegr μου τροποποίησα στο [_config.yml](https://github.com/p19pasc/sitegr/blob/aitima2-facebook/_config.yml) τα `share: false` σε `share: true` γραμμές 289,302 
 * Στο minimal-ionio στο αρχείο [social-share.html](https://github.com/p19pasc/minimal-ionio/blob/aitima2-facebook/_includes/social-share.html) έφτιαξα την εντολή `<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>` δίνοντας το κατάλληλο facebook url και σβήνοντας το κομμάτι της JS το οποίο θεωρούσα ότι δεν χρειαζόταν, διότι όταν θα κλικάραμε στο button, θα μας έκανε pop up ένα νέο παράρθυρο του browser, με αποτέλεσμα να διαμορφωθεί σε `<a href="https://www.facebook.com/di.ionian.university?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>`.
 
@@ -468,6 +469,8 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 * Αίτημα ενσωμάτωσης στην ιστοσελίδα
   * [minimal-mistakes-layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)  
   * [Structure-Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/structure/)
+  * [Οδηγίες σύνδεσης minimal-ionio από παλιό issue](https://github.com/ioniodi/site-gr/issues/82)
+  * [Οδηγίες Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow)
 * Συμμετοχικό Περιεχόμενο   
   * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
    * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
