@@ -53,6 +53,21 @@
 
 ## 👉 Συμμετοχικό περιεχόμενο A1+A2
 
+Α1:<br/>
+[Systemd](https://affectionate-lalande-dd24f3.netlify.app/gallery/systemd/)<br/>
+[Gnome](https://affectionate-lalande-dd24f3.netlify.app/gallery/gnome/)<br/><br/>
+Α2:<br/>
+Timelines:<br/>
+[Desktop Environments](https://affectionate-lalande-dd24f3.netlify.app/timeline/desktop-environments/)<br/>
+[Init Daemons](https://affectionate-lalande-dd24f3.netlify.app/timeline/init/)<br/>
+Slides:<br/>
+[Γραφική διεπαφή χρήστη](https://affectionate-lalande-dd24f3.netlify.app/slides/gui/)<br/>
+[Εργαλεία και Τεχνικές ](https://affectionate-lalande-dd24f3.netlify.app/slides/tools/)<br/>
+<br/>
+[Αρχική σελίδα](https://affectionate-lalande-dd24f3.netlify.app/)<br/>
+[Αρχική σελίδα ομάδας](https://kafeneio-site-pibook.netlify.app/)<br/>
+Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2)
+
 ## 👉 Άσκηση γραμμής εντολών - Ntfy
 
 <a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
@@ -76,5 +91,5 @@
 
 ## 🧡 Συνσεισφορά
 
-https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295
+[Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
 
