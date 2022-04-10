@@ -122,10 +122,13 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 Δυσκολεύτηκα αρκετά για να βρω κάτι στο οποίο μπορώ να συνεισφέρω για το site του τμήματός μας, ωστόσο παρατήρησα ότι δεν υπάρχει κάπου κάποια καρτέλα που να δίνει πληροφορίες για τις δύο κατευθύνσεις που προσφέρει το τμήμα. Έτσι επέλεξα να φτιάξω μία τέτοια καρτέλα και να την ενσωματώσω στο header του site. Επίσης με την δημιουργία της καρτέλας αυτής, ανοίγουν και νέες βελτιώσεις στις οποίες μπορούν να συνσεισφέρουν οι συμφοιτητές μου.
 
-Πριν:<br/>
+Πριν:
 
-Μετά:<br/>
+<img src="./img/prin2.png" alt="prin2" width="100%"/>
+Μετά:
 
+<img src="./img/meta2.png" alt="meta2" width="100%"/><br/>
+<img src="./img/directions.png" alt="directions"/>
 
 [Demo](https://zealous-chandrasekhar-3a7ca4.netlify.app/)
 [Issue](https://github.com/ioniodi/sitegr/issues/395)
