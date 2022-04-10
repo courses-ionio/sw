@@ -112,9 +112,9 @@
 ![image](https://user-images.githubusercontent.com/72436770/162275689-304fd077-5f88-4680-9e2d-0e5aa88a417f.png)
 
 ##  🚀7ο Παραδοτέο
-Στο παραδοτέο αυτό δημιούργησα το pdf από το βιογραφικό του 2ου παραδοτέου. Χρησιμοποιήσα το pandoc και το latex τα οποία παρόλο που με δυσκόλεψαν μου έμαθαν πολλά
-[![asciicast](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6.svg)](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6)
-[Το pdf](https://github.com/Alkissourvinos/online-cv/blob/master/cv-pdf/cv.pdf)
+Στο παραδοτέο αυτό δημιούργησα το pdf από το βιογραφικό του 2ου παραδοτέου. Χρησιμοποιήσα το pandoc και το latex τα οποία παρόλο που με δυσκόλεψαν μου έμαθαν πολλά [Το pdf](https://github.com/Alkissourvinos/online-cv/blob/master/cv-pdf/cv.pdf)
+[![asciicast](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6.svg)](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6)<br>
+
 ## ✔️ Ομαδικότητα στο μάθημα<br>
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
 [Link](https://github.com/courses-ionio/help/discussions/153)<br>
