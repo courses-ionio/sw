@@ -88,7 +88,7 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 ## Pull Request 2
 Υλοποιησα μια λειτουργια να μενει το navigation bar menu στο πανω μερος της σελιδας, οταν ο χρηστης κανει scroll προς τα κατω. Ετσι, δεν χρειαζεται να επιστρεψει πανω για να περιηγηθει σε αλλη σελιδα. Αυτο θα βοηθησει ιδιαιτερα στις σελιδες που ειναι πολυ μεγαλες (σελιδες "Σπουδες", "Προσωπικο"). Η ιδεα της υλοποιησης ηρθε μετα απο δικια μου αναγκη οταν επισκεπτομουν συχνα τη σελιδα "Σπουδες" και ηθελα να μπορω να αλλαζω γρηγορα σε αλλη σελιδα.<br>
 Σχετικο issue: https://github.com/ioniodi/sitegr/issues/382 <br>
-Συνδεσμος στο αρχειο με τις αλλαγες: [στη γραμμη 6, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/_sass/minimal-mistakes/_masthead.scss) <br>
+Συνδεσμος στο αρχειο με τις αλλαγες: [γραμμες 6 με 9, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/_sass/minimal-mistakes/_masthead.scss) <br>
 Συνδεσμος στο demo: https://p19kalasw.netlify.app/ <br>
 
 ## Ασκηση Γραμμης Εντολων 3
