@@ -30,7 +30,9 @@
 
 ## 👉 Βιογραφικό & Webring
 
-  [Βιογραφικό](https://tsimpliarakis.github.io/online-cv/) - [Webring](https://kafeneio-webring.netlify.app/)
+[Βιογραφικό](https://tsimpliarakis.github.io/online-cv/) - [Webring](https://kafeneio-webring.netlify.app/)
+
+<img src="./img/resume.png" alt="resume" width="400"/>   
 
 ## 👉 Αίτημα ενσωμάτωσης sitegr
 
