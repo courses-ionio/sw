@@ -106,3 +106,11 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 [Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
 
+## 🏢 Οργανισμός
+
+Τέλος να πω ένα μεγάλο ευχαριστώ στην ομάδα μου [Kafeneio](https://github.com/Kafeneio).
+- [Τζάμα Δημοσθένης](https://github.com/p19tzam)
+- [Αλκιβιάδης Σουρβίνος](https://github.com/alkissourvinos)
+- [Γραμμένος Γεράσιμος](https://github.com/makisgrammenos)
+- [Κοντός Θεόδωρος](https://github.com/theodorosKontos)
+
