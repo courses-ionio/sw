@@ -85,6 +85,20 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 👉 Άσκηση γραμμής εντολών - Ntfy
 
+**Steps:**
+*Προϋπόθεση ότι έχουμε ήδη εγκατεστημένη python & pip*
+1. pip install ntfy
+2. pip install ntfy[telegram]
+3. echo 'eval "$(ntfy shell-integration)"' >> ~/.bashrc
+4. ntfy -b telegram send “Initializing notification”
+   - Εδώ θα μας ζητήσει να κάνουμε add ένα bot στο telegram και να βάλουμε το token που θα μας δώσει.
+5. echo 'source ~/.local/share/ntfy/auto-ntfy-done.sh' >> ~/.bashrc
+6. echo 'source ~/.local/share/ntfy/bash-preexec.sh' >> ~/.bashrc
+7. Στο αρχείο /root/.local/share/ntfy/auto-ntfy-done.sh αλλάζουμε την επιλογή 
+   - **AUTO_NTFY_DONE_OPTS='-b default'** ➡️ **AUTO_NTFY_DONE_OPTS='-b telegram'**
+
+<br/>
+
 <a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
 
 ## 👉 Βιογραφικό-PDF
