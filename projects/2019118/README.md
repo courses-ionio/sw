@@ -15,7 +15,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας |
 | 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
 | 7 | Βιογραφικό Β' | courses-ionio/help/discussions/518 | Παράδοση εντός προθεσμίας |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
