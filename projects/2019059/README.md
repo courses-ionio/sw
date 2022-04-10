@@ -86,3 +86,7 @@ link για το [pdf](https://github.com/xar1sgeovlacp2019059/online-cv/blob/ma
 To πρόβλημα λύθικε με την εντολή: sudo apt install texlive-latex-extra
 Πολύ χρονοβόρα διαδικασία μέχρι να κατέβουν όλα τα πακέτα.
 Τώρα αντιμετοπίζω ένα πρόβλημμα με το push στο github
+
+# Παραδοτέο 8
+
+[εδώ](https://github.com/ioniodi/sitegr/issues/393) είναι το issue μου με τις αλλαγές  που θέλω να κάνω
