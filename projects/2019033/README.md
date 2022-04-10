@@ -66,6 +66,8 @@
 
 ## 👉 Συμμετοχικό περιεχόμενο A1+A2
 
+Για το συμμετοχικό περιεχόμενο πήρα έμπνευση από τις απαιτήσεις του μαθήματος και πρόσθεσα το Systemd καθώς και το Gnome.
+
 Α1:<br/>
 [Systemd](https://affectionate-lalande-dd24f3.netlify.app/gallery/systemd/)<br/>
 [Gnome](https://affectionate-lalande-dd24f3.netlify.app/gallery/gnome/)<br/><br/>
@@ -104,9 +106,27 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## ℹ️ Πηγές βοήθειας
 
-## 🧡 Συνσεισφορά
+## 🧡 Συνεισφορά
 
 [Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
+
+Συνεισφορά στην ομάδα:
+Συντονισμός, έλεγχος και merge από pull request συναδέλφων:
+
+Site:
+- [site-makis](https://github.com/Kafeneio/site/pull/14)
+- [site-dimos](https://github.com/Kafeneio/site/pull/8)
+- [site-alkis](https://github.com/Kafeneio/site/pull/13)
+
+Gallery:
+- [_gallery-makis](https://github.com/Kafeneio/_gallery/pull/3)
+- [_gallery-dimos](https://github.com/Kafeneio/_gallery/pull/4)
+- [_gallery-alkis](https://github.com/Kafeneio/_gallery/pull/5)
+
+Images:
+- [images-makis](https://github.com/Kafeneio/images/pull/3)
+- [images-dimos](https://github.com/Kafeneio/images/pull/4)
+- [images-alkis](https://github.com/Kafeneio/images/pull/5)
 
 ## 🏢 Οργανισμός
 
