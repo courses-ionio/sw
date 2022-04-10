@@ -291,4 +291,6 @@ asciinema link για την μετατροπη: https://asciinema.org/a/483436
 https://lukesmith.xyz/c/wanna-learn-latex#install
 
 
+##### [8]
 
+Αιτημα Ενσωματωσης στην ιστοσελιδα: Προσθήκη μαθήματος
