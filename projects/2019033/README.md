@@ -36,10 +36,18 @@
 
 ## 👉 Αίτημα ενσωμάτωσης sitegr
 
-  [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
+Παρατήρησα ότι στο site της σχολής δεν είχε ενημερωθεί το Gramweb το οποίο έχει αντικατασταθεί από το πιο σύγχρονο και ασφαλές [Dias](https://dias.ionio.gr).
+Επομένως ενημέρωσα το text αλλά και το url πίσω απο αυτό για να κρατηθεί το site up to date.
   
-  <img src="./img/prin1.png" alt="resume" width="500"/>  
-  <img src="./img/meta1.png" alt="resume" width="500"/>
+  Πριν:
+  
+  <img src="./img/prin1.png" alt="resume" width="600"/>
+  Μετά:
+  
+  <img src="./img/meta1.png" alt="resume" width="600"/>
+  
+  
+  - [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
 
 ## 👉 Void Linux
 
