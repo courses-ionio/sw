@@ -115,7 +115,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 <img src="./img/resume-1.jpg" alt="resume-1" width="33%"/><img src="./img/resume-2.jpg" alt="resume-2" width="33%"/><img src="./img/resume-3.jpg" alt="resume-3" width="33%"/>
 
 
-***Disclaimer***
+***Disclaimer:***<br/>
 *Με την συγκεκριμένη εντολή το pandoc αντλεί τα δεδομένα για το PDF απο την ιστοσελίδα του βιογραφικού. Αυτό σημαίνει πως κάθε φορά που θα τρέχει το script θα παίρνει τα δεδομένα απο το προηγούμενο compile της σελίδας και όχι της τρέχουσας. Για να διορθωθεί αυτό θα πρέπει:*<br/>
 *- ή να αντλεί τα δεδομένα από τα τοπικά αρχεία*<br/>
 *- ή να ξανακάνουμε commit & push λίγα λεπτά μετά τις αλλαγές μας (ώστε να πάρει το καινούριο compiled site)*
