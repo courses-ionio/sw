@@ -9,11 +9,11 @@
 | 1 | [Εισαγωγή](#-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | - |
 | 2 | [Βιογραφικό & Webring](#-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | - |
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
-| 4 | [Void Linux](#-void-linux) *CLI* | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
+| 4 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
 | 6 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
 | 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
+| 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Issue](https://github.com/ioniodi/sitegr/issues/395) (Pending) | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | - | - |
 | 11 | Άσκηση γραμμής εντολών | - | - |
@@ -87,10 +87,12 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 👉 Βιογραφικό-PDF
 
-Δημιουργήθηκε αρχείο git hook με για pre-commit ενέργεια με ρτον παρακάτω κώδικα:
+Δημιουργήθηκε αρχείο git hook με για pre-commit ενέργεια με τον παρακάτω κώδικα:
 
 - pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
 - git add ./pdf/resume.pdf
+
+## 👉 Αίτημα ενσωμάτωσης sitegr
 
 ## 📹 Video Quiz
 **Edpuzzle** <br/>
