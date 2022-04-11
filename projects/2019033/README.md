@@ -149,6 +149,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 [Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
 [Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/398#issuecomment-1095484863)
+https://github.com/ioniodi/sitegr/issues/397#issuecomment-1095489958
 
 Συνεισφορά στην ομάδα:
 Συντονισμός, έλεγχος και merge από pull request συναδέλφων:
