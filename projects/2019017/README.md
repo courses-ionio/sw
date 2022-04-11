@@ -22,9 +22,7 @@
 | 12 | Τελική αναφορά* | | |
 
 ## Εισαγωγή
-Για την ασκηση γραμμής εντολών 2 έβαλα το ntfy με backend το Pushbullet το οποίο θα με ειδοποιεί για οποιαδήποτε εντολή άνω των 10 δευτερολέπτων στο τερματικό. Έτσι, θα γνωρίζω αν κάποιος έχει μπει στο λινουξ μου και χρησιμοποιεί το τερματικό. Επίσης το μήνυμα που στέλνεται μου γράφει την εντολή και τη διάρκεια της
-
-Αποσκοπώ να αντλήσω όση πληροφορία γίνεται μέσα από τα πληροφοριακά βίντεο και να εξετάσω τον εαυτό μου σε υλικό του Linux μέσα από τα εβδομαδιαία παραδοτέα. Έχω παρατηρήσει ότι η πλειοψηφία προγραμματιστών στο κόσμο χρησιμοποιεί (και προτιμάει) ένα περιβάλλον Linux για ανάπτυξη και χρησιμοποίηση εφαρμογών, οπότε σκέφτηκα ότι θα ήταν καλό να επεκτείνω τις γνώσεις και δεξιότητές μου κάποια στιγμή και αυτό το μάθημα είναι ιδανικό. Μέσα από τις ομάδες του μαθήματος ευελπιστώ να μάθω να συνεργάζομαι σε μια ομάδα για επίλυση προβλημάτων και έπειτα να χρησιμοποιήσω την εμπειρία αυτή για την ομαλή και επαγγελματική συνεργασία με άλλους πάνω σε συστήματα ασφάλειας δικτύων.
+Καθως το ενδιαφερον μου ειναι για την ασφαλεια, για αρχη εβαλα το ntfy να με ειδοποιει στο κινητο οταν το τερματικο στο λινουξ μου τρεχει μια εντολη. Ειτε ειναι με τον φυσικο υπολογιστη μου, ειτε καποιος επιτιθεμενος με ενα κακοβουλο λογισμικο, θα γνωριζω ποτε εκτελει ενεργειες, ποιες εντολες και ποση διαρκεια ειχαν.
 
 ## Ιστοσελίδα βιογραφικού και ένταξη σε ομάδα
 Σύνδεσμοι στο [αποθετήριο](https://github.com/p19kala/online-cv/tree/gh-pages) του κώδικα της ιστοσελίδας, στην [ομάδα](https://github.com/Git-s-PopTeamEpic) και το [webring](https://git-team-epic-webring.netlify.app/) της. Το βιογραφικό μου: https://p19kala.github.io/online-cv/
@@ -68,7 +66,7 @@ Asciinema: https://asciinema.org/a/M2Mr7PfLmd4XkLkQvuvwTjwrb <br>
 Χρησιμοποιησα ενα recording application για να δειξω το desktop notification που εμφανιστηκε μετα το download (καθως το asciinema δεν μπορει να το δειξει):<br>
 ![image](https://user-images.githubusercontent.com/72458452/160300105-4cfe2aed-af6f-45c1-8499-89d6e66bea97.gif)<br>
 
-Επιπλεον, εγκατεστησα την εφαρμογη "pushbullet" σε android simulator και εγραψα το αρχειο `~/.ntfy.yml`ωστε να εχει ως backends το pushbullet και να μπορει να στειλει ειδοποιησεις στο "κινητο" μου. Ετσι, οποιαδηποτε εντολη κανω και διαρκεσει παραπανω απο 10 δευτερολεπτα (default setting), οταν τελειωσει θα σταλθει ειδοποιηση _και_ στο "κινητο" μου _και_ στο desktop του Void.<br>
+Επιπλεον, εγκατεστησα την εφαρμογη "pushbullet" σε android emulator και εγραψα το αρχειο `~/.ntfy.yml`ωστε να εχει ως backends το pushbullet και να μπορει να στειλει ειδοποιησεις στο "κινητο" μου. Ετσι, οποιαδηποτε εντολη κανω και διαρκεσει παραπανω απο 10 δευτερολεπτα (default setting), οταν τελειωσει θα σταλθει ειδοποιηση _και_ στο "κινητο" μου _και_ στο desktop του Void.<br>
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/72458452/160302752-3c10e38f-5241-470d-a06b-69419020abdf.gif)
 
 
@@ -88,6 +86,8 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 - Δεν ηταν εγκατεστημενο ενα πακετο με διαφορα fonts. Μου εβγαζε καποια errors οταν εκανα την εντολη `pdflatex` και δημιουργουσε ενα missfont.log αρχειο το οποιο περιειχε το ονομα του error. Συγκεκριμενα, το error ηταν "mktextfm ecrm1000" και το διορθωσα με την εντολη `sudo apt-get install texlive-fonts-recommended`, η οποια κατεβαζει καποια προτεινομενα fonts για το texlive.
 
 ## Pull Request 2
+Σημειωση: Η αλλαγη αυτη ειναι στο minimal-mistakes φακελο του αποθετηριου minimal-ionio.
+
 Υλοποιησα μια λειτουργια να μενει το navigation bar menu στο πανω μερος της σελιδας, οταν ο χρηστης κανει scroll προς τα κατω. Ετσι, δεν χρειαζεται να επιστρεψει πανω για να περιηγηθει σε αλλη σελιδα. Αυτο θα βοηθησει ιδιαιτερα στις σελιδες που ειναι πολυ μεγαλες (σελιδες "Σπουδες", "Προσωπικο"). Η ιδεα της υλοποιησης ηρθε μετα απο δικια μου αναγκη οταν επισκεπτομουν συχνα τη σελιδα "Σπουδες" και ηθελα να μπορω να αλλαζω γρηγορα σε αλλη σελιδα.<br>
 Σχετικο issue: https://github.com/ioniodi/sitegr/issues/382 <br>
 Συνδεσμος στο αρχειο με τις αλλαγες: [γραμμες 6 με 9, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/_sass/minimal-mistakes/_masthead.scss) <br>
@@ -96,7 +96,9 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 ## Ασκηση Γραμμης Εντολων 3
 
 ## Συμμετοχικο 2 με αλλαγες στο συμμετοχικο 1
-Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το void, εγραψα συγκεκριμενα για το [runit init](https://github.com/p19kala/_gallery/blob/P2019017/voidlinux.md) συστημα που χρησιμοποιει και το πλεονέκτημά του να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
+Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το Void, εγραψα συγκεκριμενα για το [runit](https://github.com/p19kala/_gallery/blob/P2019017/runit.md) init συστημα που χρησιμοποιει το Void και το πλεονέκτημά του ειναι να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Ενω κανει boot, ταυτοχρονα τρεχει startup services για να γλιτωσει χρονο. Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
+Revised Gallery (demo): https://p19kala-pibook.netlify.app/gallery/runit
+
 More to be added...
 
 ## Links ομαδικότητας και συμμετοχής:
@@ -115,5 +117,3 @@ More to be added...
 Βοηθεια σε guide στα discussions του help: https://github.com/courses-ionio/help/discussions/344#discussioncomment-2342616
 
 Βοηθεια σε ερωτηση στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513
-
-Βοηθεια διδακτικης ομαδας στο template των issues του sitegr: https://github.com/ioniodi/sitegr/discussions/383
