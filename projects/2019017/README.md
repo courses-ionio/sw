@@ -96,7 +96,7 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 ## Ασκηση Γραμμης Εντολων 3
 
 ## Συμμετοχικο 2 με αλλαγες στο συμμετοχικο 1
-Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το void, εγραψα συγκεκριμενα για το runit init συστημα που χρησιμοποιει και το πλεονέκτημά του να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
+Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το void, εγραψα συγκεκριμενα για το [runit init](https://github.com/p19kala/_gallery/blob/P2019017/voidlinux.md) συστημα που χρησιμοποιει και το πλεονέκτημά του να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
 More to be added...
 
 ## Links ομαδικότητας και συμμετοχής:
