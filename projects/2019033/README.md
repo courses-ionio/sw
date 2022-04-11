@@ -135,6 +135,10 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 [Demo](https://zealous-chandrasekhar-3a7ca4.netlify.app/)
 [Issue](https://github.com/ioniodi/sitegr/issues/395)
 
+<br/>
+
+Μετά απο εκτενή συζήτηση στην συνάντηση με τον κ. Χωριανόπουλο κατάλαβα πως η συγκεκριμένη αλλαγή δεν συμβαδίζει με τις απαιτήσεις του 2ου παραδοτέου οπότε και έλαβε τέλος από εμένα.
+
 ## 📹 Video Quiz
 **Edpuzzle** <br/>
   Username: p19tsib 2019033 <br/>
@@ -147,9 +151,9 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 🧡 Συνεισφορά
 
-[Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
-[Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/398#issuecomment-1095484863)
-https://github.com/ioniodi/sitegr/issues/397#issuecomment-1095489958
+- [Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
+- [Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/398#issuecomment-1095484863)
+- [Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/397#issuecomment-1095489958)
 
 Συνεισφορά στην ομάδα:
 Συντονισμός, έλεγχος και merge από pull request συναδέλφων:
