@@ -111,3 +111,5 @@
 `sudo pip install ntfy`
 
 `pip install ntfy[telegram]`
+
+![ntfy](https://github.com/initialelizah/imagestoadd/blob/main/signal-2022-04-12-161540.png)
