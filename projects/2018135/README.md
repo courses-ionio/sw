@@ -90,7 +90,7 @@
 
 ![Artix](https://github.com/initialelizah/imagestoadd/blob/main/Screenshot%202022-03-27%20174017.jpg)
 
-# ✧ Παραδοτέο 7
+# ✧ Παραδοτέο 7 - Βιογραφικό
 
 Για το παραδοτέο 7 έγινε μετατροπή του βιογραφικού του παραδοτέου 2 σε pdf με τα εργαλεία pandoc και latex. Αφού έγινε η εγκατάστασή τους ακολούθησαν τα βήματα που φαίνονται στο [asciinema link](https://asciinema.org/a/483368) 
 
@@ -100,3 +100,14 @@
 
 ![cv2](https://github.com/initialelizah/imagestoadd/blob/main/2.jpg)
 
+# ✧ Παραδοτέο 9 - Άσκηση γραμμής εντολών
+
+Για το 9ο παραδοτέο στην άσκηση γραμμής εντολών χρησιμοποίησα σε Artix Linux το εργαλείο [ntfy](https://github.com/dschep/ntfy) με ένα από τα [extras](https://github.com/dschep/ntfy#extras) του στο Telegram για αποστολή ειδοποιήσεων και στο κινητό. Μετά την εγκατάσταση του ntfy και του πακέτου telegram, έγινε η δημιουργία bot και η σύνδεση του μέσω token στο terminal. Από εκεί μπορούν να σταλθούν οι ειδοποιήσεις. 
+
+[asciinema link](https://asciinema.org/a/486581) με κάποια τεστ.
+
+Οι εντολές εγκατάστασης που δεν φαίνονται στο asciinema:
+
+`sudo pip install ntfy`
+
+`pip install ntfy[telegram]`
