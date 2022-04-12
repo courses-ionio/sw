@@ -21,7 +21,7 @@
 | 6 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/461)| |
 | 7 | [Βιογραφικό](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/506) | Στο έβδομο παραδοτέο μας ζητήθηκε να κάνουμε ένα αρχείο PDF για εκτύπωση σε σελίδα Α4. Δυσκολεύτηκα λίγο, ωστόσο, μετά από μελέτη των εργαλείων pandoc και latex τα κατάφερα. |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | | | 
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | [Άσκηση γραμμής εντολών]() | [Καταγραφή του συνδέσμου συζήτησης εδώ]() | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -307,3 +307,19 @@
 [Εδώ](https://tender-saha-e93d2d.netlify.app/) είναι η ιστοσελίδα που έκανα μέσω του Netlify.
 
 [Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
+
+
+# Άσκηση γραμμής εντολών (9ο Παραδοτέο)
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών. Εγώ επέλεξα να κάνω και αυτήν την άσκηση μέσω του τερματικού του Void Linux. Η άσκηση που ακολουθεί είναι η check the weather, που είναι από τις ασκήσεις που υπάρχουν στο [warmup](https://github.com/epidrome/dokey#warmup). Με βοήθησαν ιδιαίτερα η ιστοσελίδα [Usage](https://github.com/chubin/wttr.in#usage), καθώς πληροφορήθηκα για το πως λειτουργεί ο καιρός, πως θα έπρεπε να τον μελετήσω και να ψάξω για αυτόν. Έτσι, έκανα την αναζήτηση με βάση τον καιρό στην κέρκυρα και τις καταστάσεις που επικρατούν σε αυτήν με βάση του Πανεπιστήμιό της και γενικά τί θα εμφανίσει για τον καιρό της κέρκυρας αν θα κάνω αναζήτηση για τον κόσμο, χωρίς να περιλαμβάνω την λέξη κέρκυρα ή καιρός. Για να πραγματοποιηθούν, ωστόσο, αυτά θα έπρεπε να κατεβάσω κάποια εραγλεία μέσω του τερματικού όπως: sudo xbps-install apt, sudo xbps-install googler, sudo xbps-install ddgr, sudo xbps-install hyperfine και sudo pip install py-spy.
+
+Παρακάτω βλέπετε το Neofetch μου:
+
+<br><p align="center">
+<img width="850" height="750" src="https://i.postimg.cc/tgKN2Nrg/neofetch.png">
+<p/>
+
+Παρακάτω είναι χρήσιμοι σύνδεσμοι:
+
+[Εδώ](https://asciinema.org/a/uKpEm3z3APGI43GcjrFtpFwrn) είναι το link για το asciinema.
+[Εδώ](https://github.com/chubin/wttr.in) είναι το link της ιστοσελίδας που με βοήθησε.
