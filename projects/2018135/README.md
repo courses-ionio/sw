@@ -16,7 +16,7 @@
 | 6 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/486)| |
 | 7 | βιογραφικό | [LINK](https://github.com/courses-ionio/help/discussions/508) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/559) | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
