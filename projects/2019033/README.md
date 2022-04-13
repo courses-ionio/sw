@@ -134,26 +134,28 @@ jobs:
         branch: ${{ github.ref }}
 ```
 
-Πρωηγούμενη (λάθος λύση):
-
-Δημιουργήθηκε αρχείο git hook για pre-commit ενέργεια με τον παρακάτω κώδικα:
-
-1. pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
-2.  git add ./pdf/resume.pdf
-
-<br/>
-
 Το αποτέλεσμα:
 
 <img src="./img/resume-1.jpg" alt="resume-1" width="33%"/><img src="./img/resume-2.jpg" alt="resume-2" width="33%"/><img src="./img/resume-3.jpg" alt="resume-3" width="33%"/>
 
 
+Πρωηγούμενη (λάθος) λύση:
+
+Δημιουργήθηκε αρχείο git hook για pre-commit ενέργεια με τον παρακάτω κώδικα:
+
+```
+ pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
+  git add ./pdf/resume.pdf
+```
+
+<br/>
+
 ***Disclaimer:***<br/>
-*Με την συγκεκριμένη εντολή το pandoc αντλεί τα δεδομένα για το PDF απο την ιστοσελίδα του βιογραφικού. Αυτό σημαίνει πως κάθε φορά που θα τρέχει το script θα παίρνει τα δεδομένα απο το προηγούμενο compile της σελίδας και όχι της τρέχουσας. Για να διορθωθεί αυτό θα πρέπει:*<br/>
+*Με την συγκεκριμένη (λάθος) λύση το pandoc αντλεί τα δεδομένα για το PDF απο την ιστοσελίδα του βιογραφικού. Αυτό σημαίνει πως κάθε φορά που θα τρέχει το script θα παίρνει τα δεδομένα απο το προηγούμενο compile της σελίδας και όχι της τρέχουσας. Για να διορθωθεί αυτό θα πρέπει:*<br/>
 *- ή να αντλεί τα δεδομένα από τα τοπικά αρχεία*<br/>
 *- ή να ξανακάνουμε commit & push λίγα λεπτά μετά τις αλλαγές μας (ώστε να πάρει το καινούριο compiled site)*
 
-Με το Github Action λύθηκαν και τα δύο προβλήματα που είχαμε πριν, επιτυγχάνοντας έτσι Continuous integration όπως μας ζητήθηκε.
+**Με το Github Action λύθηκαν και τα δύο προβλήματα που είχαμε πριν, επιτυγχάνοντας έτσι Continuous integration όπως μας ζητήθηκε.**
 
 ## 👉 Αίτημα ενσωμάτωσης sitegr
 
