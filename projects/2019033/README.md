@@ -103,6 +103,39 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 👉 Βιογραφικό PDF
 
+Δημιουργήθηκε Github Action που κάθε φορά που γίνεται push δημιουργεί νέο και ενημερωμένο PDF
+Κώδικας:
+```
+name: Create PDF
+
+on: push
+     
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Create local changes
+      run: |
+        sudo apt-get install pandoc texlive-xetex
+        pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Add changes" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+```
+
+Πρωηγούμενη (λάθος λύση):
+
 Δημιουργήθηκε αρχείο git hook για pre-commit ενέργεια με τον παρακάτω κώδικα:
 
 1. pandoc https://tsimpliarakis.github.io/online-cv --pdf-engine=xelatex -o ./pdf/resume.pdf
@@ -119,6 +152,8 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 *Με την συγκεκριμένη εντολή το pandoc αντλεί τα δεδομένα για το PDF απο την ιστοσελίδα του βιογραφικού. Αυτό σημαίνει πως κάθε φορά που θα τρέχει το script θα παίρνει τα δεδομένα απο το προηγούμενο compile της σελίδας και όχι της τρέχουσας. Για να διορθωθεί αυτό θα πρέπει:*<br/>
 *- ή να αντλεί τα δεδομένα από τα τοπικά αρχεία*<br/>
 *- ή να ξανακάνουμε commit & push λίγα λεπτά μετά τις αλλαγές μας (ώστε να πάρει το καινούριο compiled site)*
+
+Με το Github Action λύθηκαν και τα δύο προβλήματα που είχαμε πριν, επιτυγχάνοντας έτσι Continuous integration όπως μας ζητήθηκε.
 
 ## 👉 Αίτημα ενσωμάτωσης sitegr
 
