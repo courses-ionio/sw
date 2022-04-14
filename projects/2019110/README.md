@@ -15,7 +15,7 @@
 | 6 | **[Εκγατάσταση Alpine Linux](#Εγκατάσταση-Alpine-Linux)** | [Ανακοίνωση εγκατάστασης του Alpine Linux](https://github.com/courses-ionio/help/discussions/481) | Σε αυτή την άσκηση γραμμής εντολών απλώς εγκατέστησα ένα λειτουργικό σύστημα χωρίς systemd, δίχως να κάνω κάτι ιδιαίτερο |
 | 7 | **Bιογραφικό [Μέρος Β](#Μέρος-Β)** | [Ανάρτηση Β' μέρους βιογραφικού](https://github.com/courses-ionio/help/discussions/521) | Το παραδοτέο πραγματοποιήθηκε εμπρόθεσμα και σχεδόν κάλυψε όλα τα απαιτούμενα, αυτό διότι εμφανίστηκε ένα error που μετά από πολύ κόπο και συζήτηση στο help δεν βρέθηκε λύση. Αυτό σημαίνει ότι αφιερώθηκαν πολλές ώρες ενασχόλησης |
 | 8 | **[Δεύτερο αίτημα ενσωμάτωσης](#Δεύτερο-αίτημα-ενσωμάτωσης)** | [Ανάρτηση της επιλογής μου για το δεύτερο αίτημα ενσωμάτωσης](https://github.com/courses-ionio/help/discussions/550) | Είμαι ικανοποιημένος από την προσπάθεια μου για το δεύτερο αίτημα ενσωμάτωσης, αφού έψαξα αρκετά παλαιά θέματα και προσπάθησα αρκετά για να προσθέσω ένα κουμπί για το Facebook, ενώ σε αυτό το χρονικό διάστημα καταλάθος πραγματοποίησα πολύ γρήγορα ένα [easy closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
-| 9 | **[Άσκηση γραμμής εντολών(ntfy)] | | |
+| 9 | **[Άσκηση γραμμής εντολών(ntfy)](#Ntfy)** | [Ανακοίνωση στο help](https://github.com/courses-ionio/help/discussions/561) |  |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -416,7 +416,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 Ξεκίνησα με την εγκατάσταση του εργαλείου με την εντολή `pip install ntfy[telegram]` και για να προσαρμοστώ έτρεξα απλώς `ntfy -b telegram send "Telegram configured for ntfy"` με την οποία εμφανίζεται notification στο **Telegram** στο κινητό, όπου το εγκατέστησα. (ακολουθώντας τις οδηγίες που ανέφερε για την δημιουργία του bot της εφαρμογής, ώστε να γίνει η κατάλληλη σύνδεση πρώτα). Σκεπτόμενος πως να αξιοποιήσω τις ειδοποιήσεις δημιούργησα έναν απλό κώδικα C **code.c** που τυπώνει μηνύματα με printf(), αλλά απαιτείται να γίνει compile πρώτα και πιο ορθά με τη μέθοδο του makefile που μάθαμε στα Λειτουργικά Συστήματα. Ως αποτέλεσμα το executable αρχείο που παράγει **myprogram** επιθυμούσα να καταφέρω να περάσω αυτά που επιστρέφει μέσω pipeline στο telegram. Τη λύση μου εξασφάλισε το **shell scripting** αφού οι συμβολοσειρές που τυπώνοταν μπορούσαν πλέον να αποθηκευτούν σε μία μεταβλητή **strings** η οποία θα αποτελεί και το μήνυμα που θα περαστεί στην εφαρμογή `./myprogram | while read strings; do ntfy -b telegram send "$strings"; done`. Ακόμη, επειδή συνηθίζω να κατεβάζω mp3 τραγούδια από το youtube και να τα έχω στη συσκευή μου έτρεξα `youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=YHl8coS7c9E`. Όλα αυτά τα τοποθέτησα σε ένα script αρχείο .sh **notifications.sh** απονέμοντας δικαίωμα εκτέλεσης, που αυτό σημαίνει ότι οι αναφερόμενες εντολές εκτελούνται αυτομάτως με το `./notifications.sh`.  
 <br>
 
-<p align="center"> Hello 
+<p align="center"> Οδηγία Telegram 
 </p>
    
 <br>
@@ -425,6 +425,9 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <p/>
 <br>
 
+<p align="center"> Code.c
+</p>
+<br>
 
 ```
 #include <stdio.h>
@@ -435,7 +438,34 @@ int main(){
   }
 ```
 
+<br>
+<p align="center"> Notifications.sh
+</p>
 
+```
+#!/bin/bash
+
+make
+
+./myprogram | while read strings; do ntfy -b telegram send "$strings"; done 
+
+youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=YHl8coS7c9E
+
+ntfy -b telegram send "youtube Download completed"
+```
+
+<br>
+<p align="center"> Τα notifications που λαμβάνω στο Telegram
+</p>
+
+<br>
+<p align="center">
+<img width="300" height="600" src="https://user-images.githubusercontent.com/72496151/163424911-cfa3b9d8-595f-401e-b593-9494330a1269.jpg">
+<p/>
+<br>
+<br>
+
+Η δημιουργία των αρχείων και η εκτέλεση των εντολών φαίνονται στο **[asciinema](https://asciinema.org/a/1TlWxRr0BgZEOy54RJ2Tq0jPc)**
 <br>
 <br>
 
