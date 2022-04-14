@@ -13,8 +13,8 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Link παραδοτέου 6 στις συζητήσεις](https://github.com/courses-ionio/help/discussions/490) | 9 |
-| 7 | [βιογραφικό](#παραδοτεο-7) | [Link παραδοτέου 7 στι συζητήσεισ](https://github.com/courses-ionio/help/discussions/531) | 10 |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 7 | [βιογραφικό](#παραδοτεο-7) | [Link παραδοτέου 7 στις συζητήσεις](https://github.com/courses-ionio/help/discussions/531) | 10 |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link παραδοτέου 8 στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | 10 |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -94,6 +94,9 @@ A2:</br>
  Για αυτό το παραδοτέο έκανα κανονικά μετατροπή του βιογραφικού με την χρήση του pandoc και latex και το Continuous Integration μεσο hooks.(θα γίνει περισσότερη ανάληση του παραδοτέου αργότερα)
 [link asciinema](https://asciinema.org/a/omfhtmaEyUttmA9dEdlwc6Ir0)
 
+## ΠΑΡΑΔΟΤΕΟ 8
+Για το παραδοτέο αυτό έκανα μια αλλαγή στα sidebars στα ects-calculator και courses της ιστοσελίδας. Το pull request φαίνεται [εδώ](https://github.com/ioniodi/minimal-ionio/pull/43) και το issue το οποίο πείρε green light είναι [εδώ](https://github.com/ioniodi/sitegr/issues/386). Το παραδοτέο αυτό έγινε έγκυρα όπως φαίνεται και από το πότε ανέβηκε το issue και απλός άργησε να ανεβεί στα discussions 
+![image](https://user-images.githubusercontent.com/72515420/163468033-6875d7e4-09d5-48a2-bb6a-cf1215c09215.png)
 
 ## Συμμέτοχή και ομαδικότητα
 - [Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
