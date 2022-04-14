@@ -17,7 +17,7 @@
 | <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
 | <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link]() | Assignment: send notifications to your desktop-mobile |
+| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
