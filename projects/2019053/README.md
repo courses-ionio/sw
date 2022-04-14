@@ -22,7 +22,7 @@
 | 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) | [Ανάρτηση δεύτερης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/467)| |
 | 7 | [Βιογραφικό δημιουργία PDF](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-pdf-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CE%B1-pandoc-%CE%BA%CE%B1%CE%B9-latex) και [Continuous Integration](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#continuous-integration-%CE%BC%CE%B5-git-hooks) | [Ανάρτηση Βιογραφικού Β μέρους στο Discussions](https://github.com/courses-ionio/help/discussions/524) | |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα μέρος Β](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-%CE%BC%CE%AD%CF%81%CE%BF%CF%82-%CE%B2)| [Ανάρτηση δεύτερου Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/547) | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | Software άσκηση ntfy - χρήση Simplepush | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -495,7 +495,67 @@
 
 <br /> <br />
 
------
+## Εβδομάδα Ένατη - Software άσκηση ntfy
+
+<br />
+
+### Πληροφορίες παραδοτέου
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το παραδοτέο αυτό ήθελα να πειραματιστώ για ακόμη μία φορά με τη [Python](https://www.python.org/), διότι αποτελεί μία ευρέως γνωστή γλώσσα προγραμματισμού στον επαγγελματικό τομέα της κατεύθυνσης της Πληροφορικής όπου εγώ θα προτιμούσα να αναπτύξω περαιτέρω τις δεξιότητες μου σε αυτή. Παρ' όλα αυτά ήθελα επίσης πολύ να υλοποιήσω την άσκηση γραμμής εντολών [ntfy](https://github.com/dschep/ntfy). Κύριος λόγος για αυτό είναι πως όταν χρησιμοποιώ τον υπολογιστή, το κινητό μου βρίσκεται σε άλλο δωμάτιο με αποτέλεσμα όταν σκεφτώ μία υποχρέωση συχνά να τη ξεχνώ.
+
+<br />
+
+### Εγκατάσταση ntfy, Simplepush
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την εγκατάσταση της εφαρμογής ntfy και των ανάλογων εργαλείων για την ολοκληρωτική υλοποίηση του παραδοτέου ακολούθησα τα βήματα που περιγράφω παρακάτω.
+
+&nbsp;&nbsp;&nbsp;**ntfy**
+
+ 1. Eγκατέστησα το ntfy με την εντολή <kbd>sudo pip install ntfy</kbd>
+
+ &nbsp;&nbsp;&nbsp;**Simplepush**
+ 
+ 1. Για την υποστήριξη του simplepush <kbd>pip install ntfy[simplepush]</kbd>
+ 
+ 2. Εγκατέστησα την εφαρμογή simplepush στο κινητό μου
+ 
+ 3. Απόκτησα **Key** και δημιούργησα **Event**
+ 
+ 4. Δημιούργησα το scipt <kbd>simplepush-script.py</kbd> με τη βοήθεια της [ιστοσελίδας](https://simplepush.io/)
+ 
+ 5. Τροποποίησα κάποιους παραμέτρους όπως αναπαρίσταται στο **asciinema recording** μου
+ 
+ 6. Έτρεξα το script <kbd>python3 simplepush-script.py</kbd>
+
+<br />
+
+<p align="center">
+ <b>Διαδικασία υλοποίησης ειδοποίησης με το εργαλείο Simplepush</b>
+</p>
+
+<p align="center">
+ <a href="https://asciinema.org/a/YaClCpwVxUX1x9YXZjfgi3PtT" target="_blank"><img src="https://asciinema.org/a/YaClCpwVxUX1x9YXZjfgi3PtT.svg" /></a>
+</p>
+
+<br />
+
+<p align="center">
+ <b>Το αποτέλεσμα σύμφωνα με το παραπάνω asciinema recording</b>
+</p>
+
+<p align="center">
+ 
+ ![simplepush-merge](https://user-images.githubusercontent.com/72695605/163454503-ecc65f30-70b8-4c01-923a-6a638c62ad93.png)
+
+</p>
+
+<br /> <br />
+
+---
 
 ## Βιβλιογραφία και Πηγές βοήθειας
 
