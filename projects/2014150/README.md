@@ -17,7 +17,7 @@
 | <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
 | <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link]() | Assignment: send notifications to your desktop-mobile |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -188,3 +188,70 @@ asciinema link για μετατροπή σε pdf και tex : https://asciinema
 https://lukesmith.xyz/c/wanna-learn-latex#install
 
 https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
+
+
+# <a name="G">Άσκηση Γραμμης Εντολών</a>
+
+Η πρώτη άσκηση επιλέχθηκε από τα θέματα του [software](https://github.com/epidrome/dokey#software)
+
+Assignment: send notifications to your desktop-mobile
+
+Deliverables: send a notification when a big task completes, eg download, compiling, etc
+
+Η υλοποίηση αυτής της άσκησης πραγματοποιήθηκε με το ntfy, αλλά και την εφαρμογή Telegram. Επίσης, υπάρχουν αντίστοιχες εικόνες που αποδεικνύουν την αποστολή ειδοποιήσεων και στο τέλος της άσκησης.
+
+Διαδικασία : 
+
+• Εγκατάσταση πακέτου ntfy με την εντολή pip install ntfy
+
+• Εγκατάσταση πακέτου ntfy για Telegram με την εντολή pip install ntfy[telegram]
+
+• Εγκατάσταση πακέτου sudo pip3 install ntfy
+
+Για τη σύνδεση με το Telegram δημιουργήθηκε, αρχικά, μια εφαρμογή (bot) μέσα από την ίδια την εφαρμογή. Στην συνέχεια, παραχωρήθηκε το απαραίτητο authentication token και με τον κατάλληλο κωδικό, καταφέρνει το Telegram να επικοινωνεί με το τερματικό της συσκευής μου. Παρακάτω παραθέτω τη διαδικασία και τις εντολές που χρησιμοποίησα.
+
+• Set up του Telegram για ntfy με την εντολή ntfy -b telegram send "Telegram configured for ntfy"
+
+• Δημιουργία νέου Bot μέσω BotFather με την εντολή /newbot
+
+• Ενεργοποίηση νέου Bot με εισαγωγή του κατάλληλου Token
+
+• Αποστολή μηνύματος-ειδοποίηση στην συσκευή μου μέσω Τerminal
+
+• Εγκατάσταση πακέτων [asciinema link](https://asciinema.org/a/487074)
+
+• Παρακάτω φαίνονται οι εντολές για την ένδειξη των notifications στο Telegram, καθώς και τα screenshots.
+![278378975_3240115399601951_3569195557833504044_n](https://user-images.githubusercontent.com/63341157/163454905-4599c838-0586-407d-8915-e84634b6d74d.jpg)
+![278208106_554177852662865_5742664591350557874_n](https://user-images.githubusercontent.com/63341157/163453225-6514712c-89e0-48c3-8023-7703cd3272e6.jpg)
+
+
+
+Ειδοποιήσεις όταν έχει τελειώσει κάποιο μεγάλο task
+
+Αρχικά, δημιούργησα ενα updates.sh αρχείο, ώστε να μπορώ να προσθέσω αντίστοιχες εντολές για updates και να αυτοματοποιήσω την διαδικασία με μια εντολή. Τελειώνοντας τα updates θα στέλνει ένα επιπλέον notification στο Telegram.
+
+Με την εντολή :
+
+vi updates.sh
+
+Γράφοντας : 
+
+sudo apt update
+
+ntfy -b telegram send "Updates Done!"
+
+Να γίνει executable:
+
+chmod +x updates.sh
+
+Για να εκτελεστεί:
+
+./updates.sh
+
+Τo link για το asciinema για την εκτέλεση του .sh αρχείου και το αντίστοιχο screenshot: [asciinema link](https://asciinema.org/a/487096)
+
+![278357747_342537314398886_7165485016237685194_n](https://user-images.githubusercontent.com/63341157/163453251-6689433e-e99b-43fe-8ea4-45ee6bdf7e20.jpg)
+![278316806_280126897653812_8595335887920609050_n](https://user-images.githubusercontent.com/63341157/163453289-6adf6a5b-ddae-4087-a008-eca4cf192b0a.jpg)
+
+
+
