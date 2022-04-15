@@ -15,7 +15,7 @@
 | 6 | **[Εκγατάσταση Alpine Linux](#Εγκατάσταση-Alpine-Linux)** | [Ανακοίνωση εγκατάστασης του Alpine Linux](https://github.com/courses-ionio/help/discussions/481) | Σε αυτή την άσκηση γραμμής εντολών απλώς εγκατέστησα ένα λειτουργικό σύστημα χωρίς systemd, δίχως να κάνω κάτι ιδιαίτερο |
 | 7 | **Bιογραφικό [Μέρος Β](#Μέρος-Β)** | [Ανάρτηση Β' μέρους βιογραφικού](https://github.com/courses-ionio/help/discussions/521) | Το παραδοτέο πραγματοποιήθηκε εμπρόθεσμα και σχεδόν κάλυψε όλα τα απαιτούμενα, αυτό διότι εμφανίστηκε ένα error που μετά από πολύ κόπο και συζήτηση στο help δεν βρέθηκε λύση. Αυτό σημαίνει ότι αφιερώθηκαν πολλές ώρες ενασχόλησης |
 | 8 | **[Δεύτερο αίτημα ενσωμάτωσης](#Δεύτερο-αίτημα-ενσωμάτωσης)** | [Ανάρτηση της επιλογής μου για το δεύτερο αίτημα ενσωμάτωσης](https://github.com/courses-ionio/help/discussions/550) | Είμαι ικανοποιημένος από την προσπάθεια μου για το δεύτερο αίτημα ενσωμάτωσης, αφού έψαξα αρκετά παλαιά θέματα και προσπάθησα αρκετά για να προσθέσω ένα κουμπί για το Facebook, ενώ σε αυτό το χρονικό διάστημα καταλάθος πραγματοποίησα πολύ γρήγορα ένα [easy closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
-| 9 | **[Άσκηση γραμμής εντολών(ntfy)](#Ntfy)** | [Ανακοίνωση στο help](https://github.com/courses-ionio/help/discussions/561) |  |
+| 9 | **[Άσκηση γραμμής εντολών(ntfy)](#Ntfy)** | [Ανακοίνωση στο help](https://github.com/courses-ionio/help/discussions/561) | Η πιο ενδιαφέρουσα για εμένα άσκηση γραμμής εντολών, καθώς έκανα πολλές συνδέσεις με τις δυνατότητες της σχετικά με άλλα εργαλεία και εργασίες, ενώ πραγματοποίησα και βελτειώσεις στο βιογραφικό μέρος Β αυτή την εβδομάδα |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -152,10 +152,17 @@ exit
   </ul>
  </p>
 </details><br>
- 
- ![success](https://user-images.githubusercontent.com/72496151/163611208-5b2add37-7944-4394-b67a-63c018a18365.gif)
 
- 
+Μια τελική βελτείωση σχετικά με τα githooks έγινε στο λειτουργικό μου Alpine-Linux όπου, εγκαθηστώντας τα εργαλεία από την αρχή δεν εμφανίζοταν το **bable error** πλέον, ενώ το πρόβλημα με το path της φωτογραφίας του βιογραφικού παραλήφθηκε. Η ακριβής εγκατάσταση των εργαλείων και τα βασικά commands που χρησιμοποίησα τα ανέφερα [εδώ](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) στην ουσία την σημαντική δουλειά έκανε το option `--interaction=nonstopmode` στην εντολή `pdflatex`. Πλέον τα githooks λειτούργησαν κανονικά.
+<br><br>
+
+![success](https://user-images.githubusercontent.com/72496151/163611208-5b2add37-7944-4394-b67a-63c018a18365.gif)
+
+<br>
+
+Η βελτείωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
+Τα githooks αρχεία και ένα commit μίας αλλαγής είναι φανερά στο **[asciinema](https://asciinema.org/a/dLQd7Z8pi13lzesRhOGbC1OHo)**
+<br><br> 
  
 ## Δημιουργία Ομάδας
 
@@ -558,3 +565,7 @@ ntfy -b telegram send "youtube Download completed"
     *  [Εγκατάσταση του iso για Alpine Linux](https://alpinelinux.org/downloads/)
     *  [Tutorial εγκατάστασης και προσθήκης γραφικού περιβάλλοντος](https://www.youtube.com/watch?v=8WYgynP8VJ8) 
     *  [Προσθήκη Firefox](https://wiki.alpinelinux.org/wiki/Firefox)
+  3. Άσκηση γραμμής εντολών(ntfy)
+    *  [Προσθήκη εργαλείου ntfy(κυρίως telegram)](https://github.com/dschep/ntfy)
+    *  [Χρήσιμο video youtube](https://www.youtube.com/watch?v=bbdQXfReuG0&t=469s)
+    *  [Εργαλείο youtube-dl](https://itsfoss.com/youtube-dl-audio-only/)
