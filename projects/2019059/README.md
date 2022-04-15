@@ -90,3 +90,13 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 # Παραδοτέο 8
 
 [εδώ](https://github.com/ioniodi/sitegr/issues/393) είναι το issue μου με τις αλλαγές  που θέλω να κάνω
+
+# Παραδοτέο 9
+
+![hello smile](https://user-images.githubusercontent.com/72515596/163600301-3a4d8245-16a6-43c0-b9ae-3a1851a1bdfe.png)
+![ntfyapp1](https://user-images.githubusercontent.com/72515596/163606134-34e7e736-2c63-42d1-ac94-f1759dd6cfc1.jpg)
+
+![another message](https://user-images.githubusercontent.com/72515596/163600314-d0086180-3e86-46fe-8b8f-40f1f42a69fd.png)
+
+![ntfyapp](https://user-images.githubusercontent.com/72515596/163606149-f9636316-cd78-4a32-bbdb-8fa44f66ebd4.jpg)
+
