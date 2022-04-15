@@ -319,5 +319,7 @@ Link για το Pull Request :
   
 Link συνεισφοράς στο netlify : 
   
-
+##### [9]
+  
+### Άσκηση γραμμής εντολών : create your own static site and blog generator
   
