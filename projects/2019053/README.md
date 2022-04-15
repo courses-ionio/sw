@@ -659,3 +659,5 @@
  - [git hooks (2)](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
 #### Όγδοο Παραδοτέο
  - [jekyll pwa plugin](https://github.com/lavas-project/jekyll-pwa)
+#### Ένατο Παραδοτέο
+ - [simplepush info](https://simplepush.io/)
