@@ -62,6 +62,14 @@
 <h1 align="center">ΠΑΡΑΔΟΤΕΟ 5</h1>
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 + Α2
+Για το 5ο παραδοτέο αποφάσισα να προσθέσω 2 λειτουργικά συστήματα, το Archbang και το Austrumi Linux. Τα 2 αυτά λειτουργικά συστήματα δεν έχουν systemd. Παρακάτω υπάρχουν τα αντίστοιχα λίνκς για τις φωτογραφίες, τις λεζάντες, το timeline και τα slides στο δικό μου site αλλά και στο site της ομάδας μου [(ionioi)](https://github.com/ionioi)
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [Archbang](https://github.com/p19biza/_gallery/blob/2019135/archbang.md) | [Archbang](https://peaceful-clafoutis-11f22f.netlify.app//gallery/archbang/) | [Archbang](https://ionioi-site.netlify.app/gallery/archbang/)
+| [Austrumi](https://github.com/p19biza/_gallery/blob/2019135/austrumi.md) | [Austrumi](https://peaceful-clafoutis-11f22f.netlify.app//gallery/austrumi/) | [Austrumi](https://ionioi-site.netlify.app/gallery/austrumi/)
+| [timeline](https://github.com/p19biza/site/blob/2019135/_timeline/os-apps.md) | [timeline](https://peaceful-clafoutis-11f22f.netlify.app//timeline/os-apps/) | [timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
+| [slides](https://github.com/p19biza/site/blob/2019135/_slides/os.md) | [slides](https://peaceful-clafoutis-11f22f.netlify.app//slides/os/) | [slides](https://ionioi-site.netlify.app/slides/os/) |
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
