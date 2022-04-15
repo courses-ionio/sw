@@ -21,7 +21,7 @@
 | 6 | [Άσκηση γραμμής εντολών: Ιnstalling systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) και [Άσκηση γραμμής εντολών - Check the Weather](#άσκηση-γραμμής-εντολών---check-the-weather) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
 | 7 | [Βιογραφικό: PDF με pandoc και LaTeX + CI](#7ο-παραδοτέο---βιογραφικό-pdf-με-pandoc-και-latex--ci) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/523#discussion-3983966) | |
 | 8 | [2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8ο-παραδοτέο---2ο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/560) | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | [Άσκηση γραμμής εντολών: performance monitoring](#9ο-παραδοτέο---performance-monitoring) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/565) | |
 | 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -258,7 +258,7 @@
 Πέρα από αυτό η συνεισφορά αυτή δείχνει το πόσα πολλά έμαθα για την δομή του site και όχι μόνο καθώς η υλοποίηση γίνετε με html, css/scss, και κώδικα liquid και χρειάστηκαν αλλαγές σε πολλά διαφορετικά αρχεία όπως θα φανεί και στο pull request μου. Έμαθα διάφορα tricks με τον κώδικα liquid, έκανα χρίση css και scss και δημιούργησα και δικά μου themes, κατανόησα τις κλάσεις που υπάρχουν στο site και το πώς όλα τα αρχεία συνδέονται και πρόσθεσα δικά μου και τα συμπεριέλαβα σε άλλα με εντολές όπως το @import, έφτιαξα δικές μου κλάσεις και έθεσα διάφορες μεταβλητές, έδωσα ιδιαίτερη προσοχή στην εμφάνιση και αντί για παράδειγμα να αφήσω ένα απλό κουμπί πρόσθεσα το δικό μου svg path ώστε να έχω ένα όμορφο αποτέλεσμα. Μου πείρε αρκετές ώρες για να το τελειοποιήσω αλλά είναι ξεκάθαρο ότι η προσθήκη αυτή με έκανε να κατανοήσω καλά τι κάνω, το τι προσθέτω και γενικότερα όλη την δομή του site ώστε να κάνω το κουμπί να νοιώθει μέρος του, επιπρόσθετα έμαθα καινούρια πράγματα όπως κώδικα liquid και jekyll. Ο τρόπος υλοποίησης μου ακολουθεί την μορφή του αποθετηρίου και είναι modular και αναβαθμίσιμη προσθήκη.<br>
 
 <p align="center">
-  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%208%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/DemoGIF.gif" width="340px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%208%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/DemoGIF.gif" width="380px">
 </p>
 
 Όταν πάρω green light θα προσθέσω και τα ανάλογα pull requests.<br>
@@ -269,3 +269,47 @@
 
 #### Link από μερικές πηγές που ερεύνησα:
 [shopify.github.io/liquid](https://shopify.github.io/liquid/) | [Jekyll tutorial #2 | How to use Jekyll layouts](https://www.youtube.com/watch?v=sYR26cfwzio) | [Introduction to liquid in Jekyll - CloudCannon Casts](https://www.youtube.com/watch?v=6pCdOh_I4EM) | [svg circle path](https://codepen.io/jakob-e/pen/bgBegJ) | [svg sprites font awesome](https://fontawesome.com/docs/web/add-icons/svg-sprites)
+
+
+# 9ο Παραδοτέο - performance monitoring
+Για αυτό το παραδοτέο επέλεξα να κάνω την εργασία “performance monitoring” που ήθελε να παρακολουθήσουμε την επίδοση των python script μας και να γίνει ένα σχετικό visualize στην διαδικασία. Εγω συγκεκριμένα χρησιμοποίησα το εργαλείο Hyperfine και εξερεύνησα πολλά από τα feature του αλλά δημιούργησα και ένα shell script που εξηγώ παρακάτω και έχω ανεβασμένο και στο προσωπικό μου αποθετήριο.
+
+Το hyperfine σου επιτρέπει να κάνεις bench script αλλά και εντολές και εμφανίζει διάφορες πληροφορίες για την πορεία του bench με πολύχρωμα reports και loadbars. Στο asciinema μου δείχνω πολλές λειτουργίες του όπως:
+- Διεξαγωγή απλού bench αγνοώντας τα errors του script
+- Καθαρισμός του cache
+- Προετοιμασία του cache για να διεξαχθεί ένα πιο ρεαλιστικό benchmark
+- Έκανα bench με συγκεκριμένο αριθμό run
+- Έκανα bench ορίζοντας τον ελάχιστο αριθμό run
+- Έκανα 10 warmup runs και ακριβώς 200 run ενώ έκανα και εξαγωγή ενος CSV formatted report του bench
+- Έθεσα παραμέτρους για την πλήρη εμφάνιση χρωμάτων και ενεργοποίηση όλων των feature του hyperfine
+- Πέρα από python scripts έκανα benchmark και σε εντολές linux όπως το cat, κάτι που είναι ξεχωριστό στο hyperfine
+- Εμφάνιση των αποτελεσμάτων σε μονάδα χρόνου της επιλογής μου
+
+Πέρα από το hyperfine δοκίμασα και το py-spy το οποίο είναι ένα πολύ ενδιαφέρον πρόγραμμα για να κάνεις benchmark διάφορα scripts και να ρίψεις μία πιο βαθιά ματιά στις διεργασίες που δημιουργεί στο σύστημά σου. Συγκεκριμένα όπως φαίνετε και στα ανάλογα asciinema links δοκίμασα τόσο την εντολή record όσο και την top. Με την εντολή record κατέγραψα την απόδοση του script μου (στην περίπτωση μου ένα script bubble sort) και έκανα export τα αποτελέσματα σε ένα svg αρχείο με όνομα BubbleFlameProf. Αυτό το αρχείο είναι κάτι παραπάνω από μία απλή εικόνα και σου επιτρέπει να δεις αναλυτικά το τί έγινε από την στιγμή που έτρεξες το script παρέχοντας διάφορες πληροφορίες. Πατώντας αυτό το [link](https://raw.githubusercontent.com/KuhakuNeko/PicturesForLessons/cf818e6636a32b35cd5a0e6caca7713c76155e54/SW%209%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/BubbleFlameProf.svg) μπορεί να γίνει προβολή του interactive svg στον browser ενώ παρακάτω φαίνετε απλά ως εικόνα.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%209%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/BubbleFlameProf.svg">
+</p>
+
+Η εντολή top επιτρέπει την προβολή πληροφοριών για το script εντός του terminal όμως για κάποιο λόγο παρόλο που εγώ έβλεπα τα δεδομένα στο terminal το asciinema δεν τα κατέγραφε επομένως παρέχω και την παρακάτω φωτογραφία εκτός από το asciinema.<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%209%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/py-spy-top%20command%20screenshot.jpg" width="740px">
+</p>
+
+## Shell Scripting – HyperHakuBench.sh
+Θέλοντας, όπως πάντα φυσικά, να διευκολύνω την ζωή μου και των άλλων στο terminal και να το κάνω ακόμα πιο προσβάσιμο και ελκυστικό σε περισσότερο κόσμο δημιούργησα ένα shell script που κάνει χρίσει του hyperfine. Αυτό επιτρέπει στον χρήστη να συγκρίνει scripts και commands κάνωντας συγκεκριμένες διεργασίες πολύ πιο αυτοματοποιημένα. Το script αυτό κάνει χρήση pipelining αλλά και πολλών άλλων τεχνικών και εντολών. Μπορείτε να βρείτε το script μου στο ιδικό repository που έχω για scripts φτιαγμένα από εμένα στο link που παρέχω παρακάτω. Δίνω ένα checklist με μερικά απο τα βασικά features που προσθέτει το script μου:
+- Μπορείς να επιλέξεις custom benchmarking modes φτιαγμένα από εμένα που είναι ουσιαστικά διάφορα standard test βάση παραμέτρων.
+- Επιτρέπει την εξαγωγή ξεχωριστών αλλά και εξαγωγή ενός μόνο συνενωμένου report για όλα τα benches που έχει επιτευχθεί με διάφορα pipeline στο cat
+- Αυτόματος καθαρισμός cache.
+- Αυτόματο warmup για cold cache start.
+- Επιλογή εξαγωγής markdown report.
+- Επιλογή αυτόματης διαγραφής των individual report και των leftover του benchmark.
+- Εμφάνιση version του hyperfine για επικύρωση.
+- Όλα τα παραπάνω είναι customizable και στα χέρια του χρήστη (π.χ. αν θέλει report ή όχι, επιλογή mode, διαγραφές κ.λπ.).
+Και στο script οπώς και στο asciinema της άσκησής μου κάνω χρήση των αλγορίθμων bubble sort και quick sort υλοποιημένους σε python.
+
+#### Asciinema link "performance monitoring" εκδοχή με Hyperfine:  [Terminal Excersice 2019108 - Performance Monitoring VER.Hyperfine](https://asciinema.org/a/oTZNiz8XHuRxiYLobUQ1aGX6p)<br>
+#### Asciinema link "performance monitoring" εκδοχή με py-spy (1+2):  [Terminal Excersice 2019108 - Performance Monitoring VER.py-spy 1](https://asciinema.org/a/3DaOskEWTZaOiFLKRN4enGQ4H) | [Terminal Excersice 2019108 - Performance Monitoring VER.py-spy 2](https://asciinema.org/a/9qWsTIGgk5ZFiek7O3e36I44t)<br>
+#### Asciinema link για το shell script μου με όνομα "HyperHakuBench": [Demo for HyperHakuBench.sh by KuhakuNeko](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)<br>
+#### Link προς το HyperHakuBench shell script στο repository μου: [KuhakuNekoLinuxShellScripts/HyperHakuBench.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HyperHakuBench.sh)<br>
