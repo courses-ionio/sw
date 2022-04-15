@@ -22,7 +22,7 @@
 | 6 | [Εγκατάσταση και Προσαρμογή Void Linux](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE-void-linux) + [Software άσκηση click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) | [Ανάρτηση δεύτερης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/467)| |
 | 7 | [Βιογραφικό δημιουργία PDF](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-pdf-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CE%B1-pandoc-%CE%BA%CE%B1%CE%B9-latex) και [Continuous Integration](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#continuous-integration-%CE%BC%CE%B5-git-hooks) | [Ανάρτηση Βιογραφικού Β μέρους στο Discussions](https://github.com/courses-ionio/help/discussions/524) | |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα μέρος Β](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-%CE%BC%CE%AD%CF%81%CE%BF%CF%82-%CE%B2)| [Ανάρτηση δεύτερου Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/547) | |
-| 9 | [Software άσκηση ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy) - [χρήση Simplepush](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-ntfy-simplepush) | | |
+| 9 | [Software άσκηση ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy) - [χρήση Simplepush](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-ntfy-simplepush) - [χρήση ntfy με την click] | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -511,7 +511,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την εγκατάσταση της εφαρμογής ntfy και των ανάλογων εργαλείων για την ολοκληρωτική υλοποίηση του παραδοτέου ακολούθησα τα βήματα που περιγράφω παρακάτω.
+&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την εγκατάσταση της εφαρμογής ntfy και του εργαλείου [Simplepush](https://simplepush.io/) για την ολοκληρωτική υλοποίηση του παραδοτέου ακολούθησα τα βήματα που περιγράφω παρακάτω. Επέλεξα το εργαλείο Simplepush επειδή δίνει τη δυνατότητα της ενσωμάτωσης [event](https://simplepush.io/features) όπου καθιστά δυνατή τη τροποποίηση του ήχου και της δόνησης της ειδοποίησης.
 
 &nbsp;&nbsp;&nbsp;**ntfy**
 
@@ -552,6 +552,53 @@
  ![simplepush-merge](https://user-images.githubusercontent.com/72695605/163454503-ecc65f30-70b8-4c01-923a-6a638c62ad93.png)
 
 </p>
+
+<br />
+
+### Χρήση ntfy με το πακέτο click
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Η αποστολή μηνυμάτων στο κινητό ήταν αρκετά εύκολη, αλλά παρατηρήσα πως η συγγραφή του μηνύματος αποδείχθηκε σε πολλές περιπτώσεις χρονοβόρα. Αυτό συνέβαινε επειδή συχνά επιθυμούσα να στείλω ένα μήνυμα που ήδη είχα στείλει στο παρελθόν και έπρεπε να το επανασυντάξω από την αρχή. Με αυτό κατά νού θυμήθηκα τη [πρώτη άσκηση γραμμής εντολών](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) που υλοποίησα και σκέφτηκα να δημιουργήσω μία εφαρμογή όπου με τη χρήση μίας εντολής που θα έχω ορίσει θα στέλνεται από τον υπολογιστή μου αυτοματοποιημένα η ειδοποίηση που επιθυμώ στο κινητό!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Την εφαρμογή αυτή την ονόμασα <kbd>automsg</kbd> και πρόσθεσα τρείς βασικές επιλογές. Την <kbd>--university</kbd> που περιέχει το εβδομαδιαίο ωρολόγιο πρόγραμμα μαθημάτων που παρακολουθώ για το τρέχον εξάμηνο. Την <kbd>--volleyball</kbd> που περιέχει το εβδομαδιαίο πρόγραμμα για το φοιτητικό τμήμα βόλεϊ και τέλος την επιλογή <kbd>--doctor</kbd> που έχω αυτοματοποιήσει την υπενθύμιση για τη συνάντηση με το γιατρό. Στο **asciinema recording** μου παρακάτω αναπαρίσταται η μικρή αυτή εφαρμογή αυτοματοποίησης που υλοποίησα με σκοπό την εξοικονόμηση χρόνου.
+
+<br />
+
+<p align="center">
+ <a href="https://asciinema.org/a/qe8Jx1Ub8HNrfyThYRexkvCrc" target="_blank"><img src="https://asciinema.org/a/qe8Jx1Ub8HNrfyThYRexkvCrc.svg" /></a>
+</p>
+
+<br />
+
+<p align="center">
+ <b>Το αποτέλεσμα σύμφωνα με το παραπάνω asciinema recording</b>
+</p>
+
+<p align="center">
+ 
+ ![simplepush-automsg-merge](https://user-images.githubusercontent.com/72695605/163589060-471aa1fb-0802-4982-a9f8-0afab8facabc.png)
+
+</p>
+
+<br />
+
+<p align="center">
+ <b>Εικόνες των setup.py και automsg.py αντίστοιχα</b>
+</p>
+
+<p align="center">
+ 
+ ![setup-automsg](https://user-images.githubusercontent.com/72695605/163590176-468bc3fa-26f6-44d5-bbf1-150ca59aded2.png)
+
+</p>
+
+<br />
+
+| | Βασικοί σύνδεσμοι για το 9ο παραδοτέο |
+| --- | --- |
+| 1 | [Asciinema για Simplepush](https://asciinema.org/a/YaClCpwVxUX1x9YXZjfgi3PtT) |
+| 2 | [Asciinema για Automated messages με χρήση click](https://asciinema.org/a/qe8Jx1Ub8HNrfyThYRexkvCrc) |
 
 <br /> <br />
 
