@@ -162,8 +162,17 @@ exit
 
 Η βελτείωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
 Τα githooks αρχεία και ένα commit μίας αλλαγής είναι φανερά στο **[asciinema](https://asciinema.org/a/dLQd7Z8pi13lzesRhOGbC1OHo)**
-<br><br> 
- 
+
+<br>
+<details>
+<summary>Βοήθεια στο help</summary>
+ <p>
+  <ul>
+   <li><a href="https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828">Προσθήκη comment σχετικά με τον τρόπο που έφτιαξα για εμένα τα errors στο hooks</a></li>
+  </ul>
+ </p>
+</details><br>
+
 ## Δημιουργία Ομάδας
 
 Η εύρεση ομάδας **[OompaLoompas](https://github.com/OompaLoompas)** ήταν εύκολη και άμεση αφού είχε γίνει κατόπιν συνεννόησης με τον δημιουργό της, στον χώρο του πανεπιστημίου, μέσα στην οποία εντάχθηκαν άτομα που γνωρίζω σε προσωπικό επίπεδο αλλά και νέα μέλη που θα γνωρίσω στην πορεία. Κατά την άποψη μου, κατέχουμε κοινούς στόχους όπως αναφέρονται στις εισαγωγές μας και είμαστε πρόθυμοι να συνεργαστούμε για το καλύτερο αποτέλεσμα.<br>
@@ -480,6 +489,15 @@ ntfy -b telegram send "youtube Download completed"
 <br>
 <br>
 
+Η χρήση του Ntfy μπορεί να επεκταθεί ακόμα και στο αρχείο **.git/hooks/post-commit** του Β μέρους του βιογραφικού επομένως, κάθε φορά που γίνεται commit στο [αντίστοιχο repository](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook) στο branch **alpine-pdfhook**, λαμβάνω ειδοποίηση στο Telegram.
+
+<br>
+<p align="center">
+<img width="900" height="500" src="https://user-images.githubusercontent.com/72496151/163684520-8948cd93-0048-4b77-87e8-8be7a7f56def.jpg">
+</p>
+<br>
+<br>
+
 ***Περισσότερες ιστοσελίδες από τις οποίες άντλησα πληροφορίες γενικά για όλες τις ασκήσεις γραμμής εντολών βρίσκονται στο τέλος***
 
 # Η ενεργή συμμετοχή μου στις ζητήσεις
@@ -524,8 +542,10 @@ ntfy -b telegram send "youtube Download completed"
   * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)  
   * [Εργαλεία και οδηγίες για Μέρος Β από sw-lab](https://github.com/courses-ionio/sw-lab)
   * [Pandoc](https://pandoc.org/) 
+    * [Pandoc για Alpine Linux](https://pandoc.org/installing.html)
     * [Pandoc Guide](https://pandoc.org/MANUAL.html) 
     * [Latex](https://www.latex-project.org/)
+    * [Ignore missing image με Latex](https://tex.stackexchange.com/questions/140736/how-to-ignore-missing-images-when-compiling)
     * [Εγκατάσταση texlive-full](https://milq.github.io/install-latex-ubuntu-debian/)
     * [Eγκατάσταση texlive-full](http://www1.coe.neu.edu/~jkimani/Latex1.html)
     * [Εγκατάσταση zip babel-english](https://www.ctan.org/pkg/babel-english)    
