@@ -8,7 +8,12 @@
 
 #### Προφίλ Github Ομάδας: https://github.com/OompaLoompas
 
+#### Ρόλος Ομάδας: Owner / Reviewer
+
+#### Προφίλ Edpuzzle: AimiliosPavlidis Π2019053
+
 #### Εξάμηνο : ΣΤ'
+
 <br />
 
 
