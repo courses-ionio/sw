@@ -84,6 +84,8 @@
 
 - Τέλος, ολοκλήρωσα την ομαδική άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)"
 
+<a href="https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh" target="_blank"><img src="https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh.svg" /></a>
+
 <img src="https://i.imgur.com/cPxZO4t.png" alt="terminal screenshot">
 
 ### Σημειώσειςαναδιαμόρφωση
@@ -105,6 +107,8 @@ Pull requests:
 ## Παραδοτέο 6 / Άσκηση γραμμής εντολών
 
 Ολοκλήρωσα την άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)"
+
+<a href="https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc" target="_blank"><img src="https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc.svg" /></a>
 
 Χρησιμοποίησα το [ffsend](https://github.com/timvisee/ffsend) για να κρυπτογραφίσω ένα αρχείο κειμένου που είχα δημιουργήσει πριν με την εντολή ``touch [filename]`` και έπειτα το [weechat](https://weechat.org/) για να συνδεθώ στο chat room της προηγούμενης άσκησης και να μοιραστώ το link μου, αλλά και να πάρω ένα νέο, με κάποιον άλλο.
 
@@ -137,3 +141,7 @@ Pull requests:
 
 Σε αυτό το παραδοτέο αποφάσισα να ασχοληθώ με το λειτουργικό μου και να εγκαταστήσω περισσότερα πράγματα για να μη χρειάζομαι scripts όπως στη προηγούμενη άσκηση γραμμής εντολών για να μοιραστώ απλά ένα link. Παρόλο που είναι από τις τελευταίες ασκήσεις γραμμής εντολών έχω ακόμα να αναδιατυπώσω κάποια προηγούμενη άσκηση, ή αλλιως: κάλιο αργά παρά ποτέ.
 
+- Επέλεξα να κάνω την εργασία ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU)
+<a href="https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU" target="_blank"><img src="https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU.svg" /></a>
+
+- Σε αυτό το σημείο κατάλαβα πόσο καλή ιδέα ήταν οι αλλαγές που έκανα πριν στο Alpine Linux για να μπορώ να έχω εικόνα του site χωρίς να χρειάζεται να το περάσω σε κάποιον server (τοπικό ή μη). 
