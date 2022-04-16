@@ -16,7 +16,7 @@
 | 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
 | 7 | Βιογραφικό Β' | courses-ionio/help/discussions/518 | Παράδοση εντός προθεσμίας |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
