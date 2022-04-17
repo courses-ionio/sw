@@ -89,5 +89,7 @@ hyperfine benchmark
 NTFY TELEGRAM
 "$(ntfy shell-integration)"
 
-https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e2763e9170.mp4
+https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e!
+
+![Screenshot 2022-04-17 at 12 34 53](https://user-images.githubusercontent.com/93882637/163709778-28488c04-a5f8-4ed7-a58f-94ac192f8c17.png)
 
