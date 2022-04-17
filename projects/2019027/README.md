@@ -11,7 +11,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
 | 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
-| 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio]()  | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης έγινε δεκτό) |
+| 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης έγινε δεκτό) |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -49,13 +49,15 @@
 
 <h2 id="Παραδοτέο 8">Παραδοτέο 8 - Δεύτερο Αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος (κατηγορία hard)</h2>
   
-  [Συζήτηση](https://github.com/courses-ionio/help/discussions/396) 
+  [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) 
+  
+  [Issue](https://github.com/ioniodi/sitegr/issues/396) 
   
   [Ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) 
   
   [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) 
   
-  [Pull Request στο minimal-ionio]()
+  [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)
   
   Μπαίνοντας κάποιος στο site του τμήματος βλέπει την 3D παρουσίαση μέσω iframe/youtube.
   Ο στόχος μου ήταν όταν κάποιος μπαίνει με κινητό να βλέπει μια πιο light έκδοση, που αντικαθιστά
