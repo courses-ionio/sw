@@ -16,7 +16,7 @@
 | <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/469)| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
 | <a href="G">7</a> |<a href="G"> βιογραφικό</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/498) |Εγκατάσταση κατάλληλων εργαλείων για μετατροπή tex αρχείου σε pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+|<a href="#H"> 9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -83,3 +83,11 @@ hyperfine benchmark
 ![cvpdf](https://user-images.githubusercontent.com/93882637/160690088-3492c3be-10e8-4808-a50a-8a399b25eb24.png)
 
 (Προφανώς και γνωριζώ ότι αν αλλάξω όνομα στην φωτογραφία στον φάκελο /assets/images σε αυτό profile.png θα εμφανίζεται)
+
+# <a name="H">Άσκηση Γραμμής Εντολών - 9ο παραδοτέο </a>
+
+NTFY TELEGRAM
+"$(ntfy shell-integration)"
+
+https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e2763e9170.mp4
+
