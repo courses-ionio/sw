@@ -294,3 +294,7 @@ https://lukesmith.xyz/c/wanna-learn-latex#install
 ##### [8]
 
 Αιτημα Ενσωματωσης στην ιστοσελιδα: Προσθήκη μαθήματος
+
+#### [9]
+
+### Άσκηση γραμμής εντολών : create your own static site and blog generator
