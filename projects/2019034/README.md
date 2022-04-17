@@ -202,7 +202,7 @@
 Για το έβδομο παραδοτέο έπρεπε να μετατρέψω το βιογραφικό μου από το δεύτερο παραδοτέο σε μορφή pdf. Για να το υλοποιήσω αυτό χρησιμοποίησα τα εργαλεία **pandoc** και **latex** όπως πρότεινε ο καθηγητής στις οδηγίες του, τα οποία εγκατέστησα μέσω τερματικού. Για το asciinema της διαδικασίας χρησιμοποίησα το *ubuntu* μέσω *windows terminal*, κάτι που φαίνεται μέσω της εντολής `neofetch`.
 <br>
   
-Για αρχή, έκανα `git clone` το fork του repository του βιογραφικού μου στον υπολογιστή μου. Αφού δημιουργήθηκε ο φάκελος με όνομα **online-cv** έκανα `cd online-cv` για να μπω σε αυτόν και ύστερα `mkdir pdf` για να δημιουργηθεί ο φάκελος στον οποίο θα προστεθούν τα νέα αρχεία (μετά `cd pdf`). Ύστερα, χρησιμοποίησα το εργαλείο **pandoc** ώστε να μετατραπεί η σελίδα του [βιογραφικού](https://u2nmd.github.io/online-cv/) μου σε μορφή αρχείου `.tex` με την εντολή `pandoc https://u2nmd.github.io/online-cv/ -o cv.tex -s` και το εργαλείο **latex** για να μετατραπεί σε `.pdf` με την εντολή `pdflatex cv.tex`. Μέσα στον φάκελο mkdir δημιουργήθηκαν πέντε αρχεία τα `cv.aux  cv.log  cv.out  cv.pdf  cv.tex`. Τέλος, τα πρόσθεσα στο github με `git add .`, `git commit -m "added pdf"` και `git push`. Η παραπάνω διαδικασία φαίνεται στο παρακάνω asciinema μου:
+Για αρχή, έκανα `git clone` το fork του repository του βιογραφικού μου στον υπολογιστή μου. Αφού δημιουργήθηκε ο φάκελος με όνομα **online-cv** έκανα `cd online-cv` για να μπω σε αυτόν και ύστερα `mkdir pdf` για να δημιουργηθεί ο φάκελος στον οποίο θα προστεθούν τα νέα αρχεία (μετά `cd pdf`). Ύστερα, χρησιμοποίησα το εργαλείο **pandoc** ώστε να μετατραπεί η σελίδα του [βιογραφικού](https://u2nmd.github.io/online-cv/) μου σε μορφή αρχείου `.tex` με την εντολή `pandoc https://u2nmd.github.io/online-cv/ -o cv.tex -s` και το εργαλείο **latex** για να μετατραπεί σε `.pdf` με την εντολή `pdflatex cv.tex`. Μέσα στον φάκελο mkdir δημιουργήθηκαν πέντε αρχεία τα `cv.aux  cv.log  cv.out  cv.pdf  cv.tex`. Τέλος, τα πρόσθεσα στο github με `git add .`, `git commit -m "added pdf"` και `git push`. Η παραπάνω διαδικασία φαίνεται στο παρακάτω asciinema μου:
 <p align="center">
 <a href="https://asciinema.org/a/483618" target="_blank"><img src="https://asciinema.org/a/483618.svg" /></a>
 <p/>
@@ -256,8 +256,42 @@
   
 Αρχικά, για να επικοινωνήσω με το bot του Telegram που θα χρησιμοποιούσα έτρεξα την εντολή `ntfy -b telegram send "Telegram configured for ntfy"`. Αφού έτρεξα την εντολή, με οδήγησε στο προφίλ **BotFather** στο Telegram όπου έστειλα το μήνυμα `/start` και ύστερα `/newbot` ώστε να δημιουργήσω το bot με όνομα `slave2019034_bot` που θα επικοινωνούσα μαζί. Μου δόθηκε το token που έδωσα στο τερματικό ώστε να συνδεθώ με το bot μου και στην συνέχεια μου ζήτησε να προσθέσω το προσθέσω στο Telegram και να του στείλω τον πενταψήφιο κωδικό που μου εμφανίστηκε στο τερματικό. Οι συνομιλίες φαίνονται παρακάτω:
 <p align="center">
-<img width="800" height="322" src="https://i.postimg.cc/XvYm70Vp/Merged-Images-Bot.png">
+<img width="1169" height="464" src="https://i.postimg.cc/XvYm70Vp/Merged-Images-Bot.png">
 <p/>
+<br><br>
+  
+Για να μην περιοριστώ σε αυτή την διαδικασία και για να ολοκληρώσω τα ζητούμενα της άσκησης, αποφάσισα να την συνδέσω με μια διαδικασία που πολύ συχνά ακολουθώ δηλαδή την εγκατάσταση αρχείων mp3 από youtube downloader και κάθε φορά που ολοκληρωνόταν μια λήψη να λαμβάνω ειδοποιήση από το bot στο Telegram. Γι'αυτό τον λόγο, εγκατέστησα το εργαλείο **youtube-dl** με `pip install youtube-dl` και δημιούργησα ένα αρχείο `.sh` με την εντολή `vi mp3downloader.sh` και μέσα έγραψα δύο εντολές. Την `youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=ZEcqHA7dbwM` ώστε να κατεβάζει το αγαπημένο μου τραγούδι σε μορφή mp3 (αναζητήστε τον σύνδεσμο αν θέλετε να μάθετε) και την `ntfy -b telegram send "The selected song has been downloaded!"` ώστε να λαμβάνω ειδοποίηση όταν ολοκληρώνεται η διαδικασία. 
+<p align="center">
+<img width="724" height="362" src="https://i.postimg.cc/8Pr1NMZq/shfile.png">
+<p/>
+<br><br>
+  
+Για να γίνει εκτελέσιμο το αρχείο έτρεξα την εντολή `chmod +x mp3downloader.sh` και `./mp3downloader.sh` για να εκτελεστεί. Πράγματι αφού ολοκληρώθηκε η εγκατάσταση έλαβα ειδοποίηση από την εφαρμογή στον υπολογιστή και στο κινητό μου. Το μήνυμα που έλαβα φαίνεται παρακάτω.
+<p align="center">
+<img width="1156" height="675" src="https://i.postimg.cc/tT39Fjxp/Merged-Images-Bot1.png">
+<p/>
+<br><br>
+
+Όλη η παραπάνω διαδικασία φαίνεται στο παρακάνω asciinema μου:
+<p align="center">
+<a href="https://asciinema.org/a/488157" target="_blank"><img src="https://asciinema.org/a/488157.svg" /></a>
+<p/>
+
+<br><h5>Εντολές που έτρεξα:
+* `asciinema rec -i 0.5` για να κάνω εγγραφή σε συγκεκριμένη ταχύτητα τις εντολές που θα έτρεχα
+* `neofetch` για να εμφανίσω τις πληροφορίες του συστήματος
+* `ntfy -b telegram send "Telegram configured for ntfy"` για να επικοινωνήσω με το bot του Telegram που θα χρησιμοποιούσα
+* `vi mp3downloader.sh` για να δημιουργήσω ένα αρχείο .sh για να κάνει την διαδικασία
+* `youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=ZEcqHA7dbwM` για να κατεβάζει το τραγούδι
+* `ntfy -b telegram send "The selected song has been downloaded!"` για να λαμβάνω ειδοποίηση όταν εγκατασταθεί
+* `chmod +x mp3downloader.sh` για να γίνει εκτελέσιμο το αρχείο
+* `./mp3downloader.sh` για να εκτελεστεί</h5>
+
+<br><h5>Εργαλεία που χρησιμοποίησα:
+* **[ntfy](https://github.com/dschep/ntfy)**
+* **[Alpine Linux](https://alpinelinux.org/downloads/)**
+* **[Telegram](https://desktop.telegram.org/)**
+* **[Asciinema](https://asciinema.org/)**</h5>
 
 <br><br>
 # Ομαδικότητα και Συνεργασία
