@@ -272,7 +272,7 @@
 <p/>
 <br><br>
 
-Όλη η παραπάνω διαδικασία φαίνεται στο παρακάνω asciinema μου:
+Όλη η παραπάνω διαδικασία φαίνεται στο παρακάτω asciinema μου:
 <p align="center">
 <a href="https://asciinema.org/a/488157" target="_blank"><img src="https://asciinema.org/a/488157.svg" /></a>
 <p/>
