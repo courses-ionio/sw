@@ -190,6 +190,7 @@ jobs:
 - [Επιλογή distro](https://github.com/courses-ionio/help/discussions/548#discussioncomment-2540295)
 - [Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/398#issuecomment-1095484863)
 - [Σχόλιο σε Issue](https://github.com/ioniodi/sitegr/issues/397#issuecomment-1095489958)
+- [Βοήθεια σε ερώτηση](https://github.com/ioniodi/sitegr/discussions/329#discussioncomment-2584574)
 
 Συνεισφορά στην ομάδα:
 Συντονισμός, έλεγχος και merge από pull request συναδέλφων:
