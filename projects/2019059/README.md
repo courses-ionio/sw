@@ -34,6 +34,8 @@
 * [Link Ομάδας](https://github.com/Git-s-PopTeamEpic/TeamWebring)
 * [Link Webring](https://git-team-epic-webring.netlify.app/)
 * [Link Βιογραφικού](https://xar1sgeovlacp2019059.github.io/online-cv/)
+![git-team-epik](https://user-images.githubusercontent.com/72515596/165078991-6f3b47db-c731-4043-95cd-df25b88e2f68.png)
+![biography](https://user-images.githubusercontent.com/72515596/165079009-1298ad88-f012-4c15-a8c6-d9b2d54bd451.png)
 
 Git commands
 Εδώ φαίνονται οι εντολές git που χρησιμοποίησα.
