@@ -53,6 +53,9 @@ https://github.com/courses-ionio/help/discussions/197
 εδώ είναι οι αλλαγές στο [netlify](https://coruscating-trifle-ee1a79.netlify.app/courses/computer-programming/)
 ![Boglis](https://user-images.githubusercontent.com/72515596/165079353-f59d427f-31bc-43e7-967b-3b88763c829a.png)
 
+Εδώ είναι το [pull-repquest](https://github.com/ioniodi/all_collections/pull/35)
+[issue](https://github.com/ioniodi/sitegr/issues/260)
+
 # Παραδοτέο 4
 
 Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον που είναι μόνο γραμμή ενοτλών.
