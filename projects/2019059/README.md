@@ -55,6 +55,11 @@ https://github.com/courses-ionio/help/discussions/197
 
 Εδώ είναι το [pull-repquest](https://github.com/ioniodi/all_collections/pull/35)
 [issue](https://github.com/ioniodi/sitegr/issues/260)
+##update
+
+Επειδή η αλλαγή αυτή που ανέφερα προηγουμένος έγινε από άλλο άτομο παρόλο που τα δικά μου issue και pull request υπήρχαν αποφάσησα να φτιάξω άλλο [issue](https://github.com/ioniodi/sitegr/issues/393).
+[all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)
+[site](https://splendorous-blini-4f4825.netlify.app/timetables/sem_f/)
 
 # Παραδοτέο 4
 
