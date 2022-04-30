@@ -18,4 +18,7 @@ https://github.com/P17mits1/online-cv
 
 # 3ο Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 To 3o έκανα ενσωμάτωση στην σελίδα του τμήματος καθώς ανέβασα μια ανακοίνωση που δεν υπήρχε.
-#### Link προς το ανάλογο issue:https://github.com/ioniodi/sitegr/issues/364
+#### Link προς το issue:https://github.com/ioniodi/sitegr/issues/391
+#### Link προς το pull request:https://github.com/ioniodi/sitegr/pull/402
+
+# 5ο Παραδοτέο - Αιτήματα ενσωμάτωσης στην ιστοσελίδα
