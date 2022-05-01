@@ -12,7 +12,7 @@
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
 | 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
 | 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης έγινε δεκτό) |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/) και [Link στο Asciinema](https://asciinema.org/a/I3x6Rr7gVXfrHZCHSwoze3Tew) | Εντός προθεσμίας |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -66,3 +66,11 @@
   το καταλαβαίνει και αντικαθιστά το iframe με img.
   Για να έχω παρόμοιο styling με το iframe έκανα αλλαγή και στο theme (minimal-ionio) για αυτό έκανα και δύο pull requests.
   H διαφορά φαίνεται αν φορτωθεί η σελίδα από κινητό από κινητό
+  
+<h2 id="Παραδοτέο 9">Παραδοτέο 9 - Άσκηση γραμμής εντολών</h2>
+  link στο Asciinema https://asciinema.org/a/I3x6Rr7gVXfrHZCHSwoze3Tew
+  
+  Κατ' αρχήν εγκατέστησα το Devuan Chimaera linux που είναι μια έκδοση debian *χωρίς systemd*. 
+  Στη συνέχεια επέλεξα να εγκαταστήσω το **Jenny** που είναι ένας απλός static site generator.
+  Ακολούθησα τις οδηγίες και δημιούργησα επιτυχώς ένα mini blog. 
+  Για να το δημοσιεύσω εγκατέστησα Apache web server και για να φανεί στο asciinema χρησιμοποίησα το lynx
