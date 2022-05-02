@@ -323,7 +323,7 @@ Link συνεισφοράς στο netlify :
   
 ### Άσκηση γραμμής εντολών : create your own static site and blog generator
   
-asciinema link για hugo: 
+asciinema link για hugo: https://asciinema.org/a/487765
 
 ## Διαδικασία :
 
