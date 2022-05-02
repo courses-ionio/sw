@@ -343,6 +343,6 @@ asciinema link για hugo:
 
 ## Αποτελέσμα :
 
-![]()
+![hugo](https://github.com/p18kout/sw-images/blob/main/hugo.png)
 
 Πηγή: 
