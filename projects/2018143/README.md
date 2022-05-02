@@ -18,7 +18,7 @@
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/459) | |
 | 7 | <sup><a href="#7"> βιογραφικό </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/494) | |
 | 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> | [Link στις συζητήσεις]() | |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Link στις συζητήσεις]() | |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/575) | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
