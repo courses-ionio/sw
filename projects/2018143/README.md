@@ -17,8 +17,8 @@
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/459) | |
 | 7 | <sup><a href="#7"> βιογραφικό </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/494) | |
-| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> | [Link στις συζητήσεις]() </a></sup> | |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | | |
+| 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα </a></sup> | [Link στις συζητήσεις]() | |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Link στις συζητήσεις]() [Link στις συζητήσεις]() | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -357,4 +357,6 @@ asciinema link για hugo: https://asciinema.org/a/487765
   
 ![hugo](https://github.com/p18kout/sw-images/blob/main/hugo.png)
   
-Πηγή: https://gohugo.io/getting-started/usage/
+Πηγή: 
+  
+https://gohugo.io/getting-started/usage/
