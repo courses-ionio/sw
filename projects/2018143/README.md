@@ -323,3 +323,26 @@ Link συνεισφοράς στο netlify :
   
 ### Άσκηση γραμμής εντολών : create your own static site and blog generator
   
+asciinema link για hugo: 
+
+## Διαδικασία :
+
+• Εγκατάσταση πακέτων sudo pacman -Syu hugo
+
+• Επιλογή location Desktop με την εντολή cd Desktop
+
+• Δημιουργία site στο φάκελο quickstart με την εντολή hugo new site quickstart
+
+• Επιλογή location quickstart με την εντολή d quickstart
+
+• Δημιουργία κενού repo με την εντολή git init 
+
+• Cloning του ρεπο του theme με την εντολή git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.γιτ themes/ananke
+
+• Τέλος εγγραφής terminal exit
+
+## Αποτελέσμα :
+
+![]()
+
+Πηγή: 
