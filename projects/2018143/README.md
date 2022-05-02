@@ -326,23 +326,35 @@ Link συνεισφοράς στο netlify :
 asciinema link για hugo: https://asciinema.org/a/487765
 
 ## Διαδικασία :
+  
+• Εγκατάσταση πακέτων ```sudo pacman -Syu hugo```
+  
+• Επιλογή location Desktop με την εντολή ```cd Desktop```
+  
+• Δημιουργία site στο φάκελο quickstart με την εντολή ```hugo new site quickstart```
+  
+• Επιλογή location quickstart με την εντολή ```cd quickstart```
+  
+• Δημιουργία κενού repo με την εντολή ```git init``` 
+  
+• Cloning του repo του theme με την εντολή ```git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.γιτ themes/ananke
+  
+• Χτίσιμο και hosting του site με την εντολή ```hugo server -D```
 
-• Εγκατάσταση πακέτων sudo pacman -Syu hugo
+• Ανακατεύθυνση εξόδου δεδομένων στο αρχείο config.toml με την εντολή ```echo 'theme = "ananke"' >> config.toml```
 
-• Επιλογή location Desktop με την εντολή cd Desktop
+• Δημιουργία νέου post με την εντολή ```hugo new posts/test-post.md```
 
-• Δημιουργία site στο φάκελο quickstart με την εντολή hugo new site quickstart
+• Επεξεργασία περιεχομένου νέου post με την εντολή ```vim content/posts/test-post.md```
 
-• Επιλογή location quickstart με την εντολή d quickstart
+• Χτίσιμο του site με τις νέες προσθήκες με την εντολή ```hugo -D```
 
-• Δημιουργία κενού repo με την εντολή git init 
-
-• Cloning του ρεπο του theme με την εντολή git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.γιτ themes/ananke
-
-• Τέλος εγγραφής terminal exit
-
+• Hosting του site με τις νέες προσθήκες με την εντολή ```hugo server -D```
+  
+• Τέλος εγγραφής terminal ```exit```
+  
 ## Αποτελέσμα :
-
+  
 ![hugo](https://github.com/p18kout/sw-images/blob/main/hugo.png)
-
-Πηγή: 
+  
+Πηγή: https://gohugo.io/getting-started/usage/
