@@ -65,7 +65,7 @@
 
 [Issue](https://github.com/ioniodi/sitegr/issues/392) 
 
-[Pull request]
+[Pull request](https://github.com/ioniodi/all_collections/pull/63)
 
 [Live demo](https://625000b24dad485759dd0367--adorable-medovik-d1a20a.netlify.app/posts/2022/03/28/diadiktiako-seminario-tis-ieee-gia-sygrafis-stis-30-martiou/)
 
