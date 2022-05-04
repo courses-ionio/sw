@@ -5,6 +5,8 @@
 ### [github profile](https://github.com/p19kala)
 ### edpuzzle name: p19kala P2019017
 
+[Μεταβαση στην ενοτητα "Ομαδικοτητα και συνεργασια"](#Links-ομαδικότητας-και-συμμετοχής).
+
 ## Πίνακας Περιεχομένων:
 | Εβδομάδα | Παραδοτεά | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -103,7 +105,7 @@ Revised Gallery (demo): https://p19kala-pibook.netlify.app/gallery/runit
 
 More to be added...
 
-## Links ομαδικότητας και συμμετοχής:
+## Links ομαδικότητας και συμμετοχής
 Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
 
 Βοήθεια σε issue για το 1o pull request: https://github.com/ioniodi/sitegr/issues/281#issuecomment-1059838232
