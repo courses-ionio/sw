@@ -86,12 +86,14 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 - Δεν ηταν εγκατεστημενο ενα πακετο με διαφορα fonts. Μου εβγαζε καποια errors οταν εκανα την εντολη `pdflatex` και δημιουργουσε ενα missfont.log αρχειο το οποιο περιειχε το ονομα του error. Συγκεκριμενα, το error ηταν "mktextfm ecrm1000" και το διορθωσα με την εντολη `sudo apt-get install texlive-fonts-recommended`, η οποια κατεβαζει καποια προτεινομενα fonts για το texlive.
 
 ## Pull Request 2
-Σημειωση: Η αλλαγη αυτη ειναι στο minimal-mistakes φακελο του αποθετηριου minimal-ionio.
+Σημειωση: Η αλλαγη αυτη ειναι στο path assets/css/main.scss του αποθετηριου minimal-ionio.
 
 Υλοποιησα μια λειτουργια να μενει το navigation bar menu στο πανω μερος της σελιδας, οταν ο χρηστης κανει scroll προς τα κατω. Ετσι, δεν χρειαζεται να επιστρεψει πανω για να περιηγηθει σε αλλη σελιδα. Αυτο θα βοηθησει ιδιαιτερα στις σελιδες που ειναι πολυ μεγαλες (σελιδες "Σπουδες", "Προσωπικο"). Η ιδεα της υλοποιησης ηρθε μετα απο δικια μου αναγκη οταν επισκεπτομουν συχνα τη σελιδα "Σπουδες" και ηθελα να μπορω να αλλαζω γρηγορα σε αλλη σελιδα.<br>
 Σχετικο issue: https://github.com/ioniodi/sitegr/issues/382 <br>
-Συνδεσμος στο αρχειο με τις αλλαγες: [γραμμες 6 με 9, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/_sass/minimal-mistakes/_masthead.scss) <br>
+Συνδεσμος στο αρχειο με τις αλλαγες: [γραμμες 12 με 15, η κλαση .masthead](https://github.com/p19kala/minimal-ionio/blob/demo-branch/assets/css/main.scss) <br>
 Συνδεσμος στο demo: https://p19kalasw.netlify.app/ <br>
+Συνδεσμος σε παλιο issue που πηρε το οκ απο τον καθηγητη αλλα αυτος που ανοιξε το issue τελικα δεν το εκανε PR: https://github.com/ioniodi/sitegr/issues/206#issuecomment-825857093
+Εχω λυσει το προβλημα που αναφερθηκε εδω: https://github.com/ioniodi/sitegr/issues/206#issuecomment-822429411. Χρειαζεται το z-index να ειναι πιο υψηλο απο το z-index καθε αλλου αντικειμενου, οποτε το εβαλα μια ακραια τιμη.
 
 ## Ασκηση Γραμμης Εντολων 3
 
@@ -116,4 +118,4 @@ More to be added...
 
 Βοηθεια σε guide στα discussions του help: https://github.com/courses-ionio/help/discussions/344#discussioncomment-2342616
 
-Βοηθεια σε ερωτηση στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513
+Βοηθεια σε ερωτησεις στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513, https://github.com/courses-ionio/help/discussions/576#discussioncomment-2685800
