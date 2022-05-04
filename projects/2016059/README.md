@@ -54,6 +54,8 @@
 ## Άσκηση γραμμής εντολών (6ο Παραδοτέο)
 Για το 6ο Παραδοτέο εγκατέστησα στο notify και το ρύθμισα να μπορώ να στείλω ειδοποιήσεις είτε στην εφαρμογή του που εγκατέστησα στο κινητό μου, είτε σε ένα bot που έφτιαξα στο telegram.
  * [Asciinema](https://asciinema.org/a/qTbpLnKcm5kT9eu1k6WCa5kP2)
+![ntfy app notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-32-911_io.heckel.ntfy.jpg)
+![telegram notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-48-620_org.telegram.messenger.jpg)
 
 ## PDF Βιογραφικού (7ο Παραδοτέο)
 Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και xelatex
