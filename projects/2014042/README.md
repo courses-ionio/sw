@@ -35,7 +35,7 @@
 
 [Βιογραφικό](https://sola1r3.github.io/online-cv/)
 
-Παράλληλα προσπάθησα να κατασκευάσω κάτι δικό μου από την αρχή μέ Jekyll και Ruby χρησιμοποιώντας το terminal με αποτέλεσμα την κατασκευή μιας ιστοσελίδας που χρησιμοποιεί το default minima theme και είναι σε στυλ blog. Σκέφτομαι αργότερα να αντικαταστήσω το παραπάνω βιογραφικό με κάτι που θα έχω φτιάξει εγώ και να δείξω και μέσω asciinema την διαδικασία που ακολούθησα.
+Παράλληλα προσπάθησα να κατασκευάσω κάτι δικό μου από την αρχή μέ Jekyll και Ruby χρησιμοποιώντας το terminal με αποτέλεσμα την κατασκευή μιας ιστοσελίδας που χρησιμοποιεί το default minima theme και είναι σε στυλ blog.
 
 [Jekyll project Repo](https://github.com/Sola1r3/cv)
 
@@ -63,6 +63,8 @@
 
 [Issue](https://github.com/ioniodi/sitegr/issues/273)
 
+[Pull Request](https://github.com/ioniodi/all_collections/pull/52)
+
 ## Παραδοτέο 4: Άσκηση Γραμμής Εντολών
 
 Για το 4ο παραδοτέο ασχολήθηκα με την εγκατάσταση του Linux distribution "Kiss Linux". Το Kiss δίνει μεγάλη έμφαση στην απλότητα και στην υπέρμετρη ελευθερία του χρήστη, να τροποποιήσει το σύστημα όπως αυτός επιθυμεί, ενώ το KISS είναι ακρονύμιο "Keep It Simple Stupid". Το λογισμικό αυτό δεν είναι πακεταρισμένο, δίνεται μόνο η απαραίτητη βάση για το σύστημα και ότι ξεφεύγει από αυτό το σκεπτικό δεν παρέχεται. Γενικά είναι ένα σύστημα που πρεσβεύει τον μινιμαλισμό. Η εγκατάσταση γίνεται μέσω ενός άλλου Linux συστήματος και ακολουθώντας τα πρώτα βήματα και αφού παραχωρήσουμε το επιθυμητό μέγεθος στον σκληρό καταλήγουμε στα Kiss Linux όπως φαίνεται παρακάτω.
@@ -88,3 +90,5 @@
 | Slides Σημαντικές Προσωπικότητες | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/influential-people.md) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/slides/influential-people/) |
 | Timeline Προγραμματιστικές Γλώσσες | [Timeline](https://github.com/Sola1r3/site/blob/master/_timeline/programming-languages.md) | |
 <br />
+
+## Παραδοτέο 6: Άσκηση Γραμμής Εντολών
