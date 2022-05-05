@@ -88,6 +88,8 @@ hyperfine benchmark
 
 NTFY TELEGRAM
 "$(ntfy shell-integration)"
+https://github.com/courses-ionio/help/discussions/570
+(Το βίντεο λειτουργεί στο Discussions)
 
 https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e!
 
