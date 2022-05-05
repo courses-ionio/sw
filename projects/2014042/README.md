@@ -79,12 +79,12 @@
 
 ## Παραδοτέο 5: Συμμετοχικό Περιεχόμενο Α1+Α2
 
-Για συμμετοχικό περιεχόμενο επέλεξα για εικόνες τον Yukihiro Matsumoto, δημιουργός της γλώσσας Ruby και την Margaret Hamilton εγκεκριμένη στον χώρο και υπεύθυνη γα την δημιουργία του όρου Software Engineering.
+Για συμμετοχικό περιεχόμενο επέλεξα για εικόνες το λειτουργικό σύστημα της Microsoft τα Windows Vista, διάδοχος των Windows XP και την Margaret Hamilton εγκεκριμένη στον χώρο και υπεύθυνη γα την δημιουργία του όρου Software Engineering.
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
-| Images Yukihiro Matsumoto | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/yukihiro-matsumoto.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/yukihiro-matsumoto-thumb.jpg) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/gallery/yukihiro-matsumoto/) |
-| Gallery Yukihiro Matsumoto | [Στοιχεία Εικόνας](hhttps://github.com/Sola1r3/_gallery/blob/master/yukihiro-matsumoto.md) | |
+| Images Windows Vista | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/windows-vista.png) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/windows-vista-thumb.png) | [Netlify]() |
+| Gallery Windows Vista | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/windows-vista.md) | |
 | Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/gallery/margaret-hamilton/) |
 | Gallery Margaret Hamilton | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/margaret-hamilton.md) | |
 | Slides Σημαντικές Προσωπικότητες | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/influential-people.md) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/slides/influential-people/) |
