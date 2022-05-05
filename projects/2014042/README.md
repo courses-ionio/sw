@@ -85,10 +85,10 @@
 | --- | --- | --- |
 | Images Windows Vista | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/windows-vista.png) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/windows-vista-thumb.png) | [Netlify]() |
 | Gallery Windows Vista | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/windows-vista.md) | |
-| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/gallery/margaret-hamilton/) |
+| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify]() |
 | Gallery Margaret Hamilton | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/margaret-hamilton.md) | |
-| Slides Σημαντικές Προσωπικότητες | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/influential-people.md) | [Netlify](https://eloquent-tanuki-08ee94.netlify.app/slides/influential-people/) |
-| Timeline Προγραμματιστικές Γλώσσες | [Timeline](https://github.com/Sola1r3/site/blob/master/_timeline/programming-languages.md) | |
+| Slides Σημαντικές Πρόσωπα | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/important-people.md) | [Netlify]() |
+| Timeline Λογισμικά Microsoft | [Timeline](https://github.com/Sola1r3/site/blob/master/_timeline/microsoft.md) | [Netlify]() |
 <br />
 
 ## Παραδοτέο 6: Άσκηση Γραμμής Εντολών
