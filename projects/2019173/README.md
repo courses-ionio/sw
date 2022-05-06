@@ -341,7 +341,7 @@
 Πηγές ήταν: [Assassin's Creed Odyssey](https://www.ubisoft.com/en-us/game/assassins-creed/odyssey) και [Assassin's Creed® Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/).
 
 
-# Άσκηση γραμμής εντολών (11ο παραδοτεό)
+# Άσκηση γραμμής εντολών (11ο Παραδοτεό)
 
 
 # Τελική Αναφορά
