@@ -347,7 +347,7 @@
 Εδώ βλέπετε το issue μου:
 
 <br><p align="center">
-<img width="950" height="800" src="https://i.postimg.cc/ZR5Mpz70/iSSue.png">
+<img width="1000" height="700" src="https://i.postimg.cc/ZR5Mpz70/iSSue.png">
 <p/>
 
 Εδώ βλέπετε την επεξεργασία του _case-study:
