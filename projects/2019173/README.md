@@ -343,6 +343,33 @@
 
 Πηγές ήταν: [The COMSOL Product Suite](https://www.comsol.com/products), [COMSOL Multiphysics 5.6](https://www.istem.gov.in/istem-comsol), [How to Use COMSOL Multiphysics, a Tutorial Video](https://www.comsol.com/blogs/how-to-use-comsol-multiphysics-a-tutorial-video/), [Introduction to COMSOL Multiphysics Software](https://www.researchgate.net/publication/320336407_Introduction_to_COMSOL_Multiphysics_Software), [COMSOL Multiphysics Pricing, Features, Reviews and Alternatives](https://www.getapp.com/it-management-software/a/comsol-multiphysics/) και [ COMSOL AB COMSOL, Inc. Mail and visit Tegnprgatan 23 8 New England SE 111 40 STOCKHOLM Executive Park Sweden Burlington, MA 01803 USA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.4964&rep=rep1&type=pdf).
 
+
+Εδώ βλέπετε το issue μου:
+
+<br><p align="center">
+<img width="950" height="800" src="">
+<p/>
+
+Εδώ βλέπετε την επεξεργασία του _case-study:
+
+<br><p align="center">
+<img width="950" height="800" src="">
+<p/>
+
+
+Εδώ βλέπετε την επεξεργασία του _biography:
+
+<br><p align="center">
+<img width="950" height="800" src="">
+<p/>
+
+Εδώ βλέπετε το pull request μου:
+
+<br><p align="center">
+<img width="950" height="800" src="">
+<p/>
+
+
 Για την μελέτη περίπτωσης:
 Το λογισμικό COMSOL Multiphysics® δημιουργήθηκε από την εταιρεία COMSOL Inc και η πιο πρόσφατη έκδοσή της, δηλαδή η 6, εκδόθηκε 14 Δεκεμβρίου το 2021. Περιέχει λειτουργικό σύστημα Cross-platform τύπου Computer-aided engineering, Finite element analysis(Μηχανική με τη βοήθεια υπολογιστή). Είναι ένα λογισμικό που χαρακτηρίζεται από την προσομοίωση και χρησιμοποιείται σε τομείς της μηχανικής, της κατασκευής, καθώς και της επιστημονικής έρευνας. Το συγκεκριμένο λογισμικό έχει την δυνατότητα μοντελοποίησης και πολυφυσικής και απλής φυσικής. Επίσης, περιλαμβάνονται εργαλεία όπως το Model Builder, το Application Builder και το Model Manager. Αναλυτικότερα, το Model Builder περιέχει λειτουργίες για υλοποίηση, επίλυση και μετεπεξεργασία των μοντέλων που δημιουργείται. Έπειτα, το Application Builder πρέχει την δυνατότητα δημιουργίας εφαρμογώς προσομοίωσης από την αρχή. Τέλος, με το Model Manager μπορείται να διαχειρίζεστε δεδομένα προσομοίωσης. Το COMSOL Multiphysics είναι ασφαλές, καθώς φιλοξενείται σε ένα ασφαλές Azure Cloud και έχει αποδειχθεί ότι μπορεί να χρησιμοποιηθεί ταυτόχρονα από έως και 60 χρήστες σε διαφορετικά μέρη της χώρας. 
 
@@ -358,9 +385,9 @@
 
 [Εδώ](https://github.com/IonianUniversity2019/site/issues/7) θα βρείτε το issue μου.
 
-[Εδώ](https://github.com/p19pasa/site/blob/master/_slides/visualization.md) έγινε η επεξεργασία στο _case-study.
+[Εδώ]() έγινε η επεξεργασία στο _case-study.
 
-[Εδώ](https://github.com/p19pasa/site/blob/2019173/_timeline/systems.md) έγινε η επεξεργασία στο _biography.
+[Εδώ]() έγινε η επεξεργασία στο _biography.
 
 [Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
 
