@@ -20,8 +20,8 @@
 | 6 | [Άσκηση γραμμής εντολών](#6ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/520 | Στο 2ο παραδοτέο γραμμής εντολών αποφάσισα να εγκαταστήσω και να χρησιμοποιήσω το alpine linux και όχι το KISS linux που είχα εγκαταστήσει αρχικά καθώς με δυσκόλεψε αρκετά με το packet manager |
 | 7 | [βιογραφικό](#7ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/501 | Εγκατέστησα το pandoc και το latex και μετέτρεψα το cv μου σε pdf όπως έλεγαν και οι οδηγίες, επίσης έκανα μία προσπάθεια ώστε μέσω git hooks να κάνω continuous integration |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών](#9ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/557 | Εγκατέστησα και έτρεξα το hyperlink στο alpine linux το οποίο είναι ένα benchmark tool αλλά δεν το δοκίμασα σε κάποιο δικό μου script αλλά σε κάποιο του συστήματος. Η υλοποίηση του παραδοτέου έγινε εμπροθεσμα |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο) | | |
+| 9 | [Άσκηση γραμμής εντολών](#9ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/557 | Εγκατέστησα και έτρεξα το hyperlink στο alpine linux το οποίο είναι ένα benchmark tool αλλά δεν το δοκίμασα σε κάποιο δικό μου script αλλά σε κάποιο του συστήματος. Η υλοποίηση του παραδοτέου έγινε εμπρόθεσμα. |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο) | https://github.com/courses-ionio/help/discussions/579 | Πρόσθεσα ένα biography και ένα casestudy σχετικά με το systemd. Η υλοποίηση έγινε πριν την λήξη της προθεσμίας οπότε πιστεύω πως έκανα όλα τα ζητούμενα. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -80,6 +80,11 @@
 | [timeline](https://github.com/p19ntar/site/blob/2019215/_timeline/os-apps.md) | [timeline](https://epic-goodall-89990a.netlify.app/timeline/os-apps/) | [timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
 | [slides](https://github.com/p19ntar/site/blob/2019215/_slides/os.md) | [slides](https://epic-goodall-89990a.netlify.app/slides/os/) | [slides](https://ionioi-site.netlify.app/slides/os/) |
 
+[pull request images](https://github.com/ionioi/images/pull/1/files) <br>
+[pull request gallery](https://github.com/ionioi/_gallery/pull/1/files) <br>
+[pull request timeline&slides](https://github.com/ionioi/site/pull/2)
+
+
 </br>
 
 # 6ο Παραδοτέο
@@ -119,6 +124,7 @@
 | [Lennart Poettering](https://github.com/p19ntar/site/blob/2019215/_biography/lennart-poettering.md) | [Lennart Poettering](https://epic-goodall-89990a.netlify.app/biography/lennart-poettering/) | [Lennart Poettering](https://ionioi-site.netlify.app/biography/lennart-poettering/)
 | [systemd](https://github.com/p19ntar/site/blob/2019215/_case-study/systemd.md) | [systemd](https://epic-goodall-89990a.netlify.app/case-study/systemd/) | [systemd](https://ionioi-site.netlify.app/case-study/systemd/)
 
+[pull request](https://github.com/ionioi/images/pull/5)
 
 # Συμμετοχή και Ομαδικότητα
 
