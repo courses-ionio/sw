@@ -387,7 +387,7 @@
 
 [Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
 
-[Εδώ](https://github.com/IonianUniversity2019/site/issues/1) θα βρείτε το issue μου.
+[Εδώ](https://github.com/IonianUniversity2019/site/issues/7) θα βρείτε το issue μου.
 
 [Εδώ](https://github.com/p19pasa/site/blob/master/_slides/visualization.md) έγινε η επεξεργασία στο _slides.
 
