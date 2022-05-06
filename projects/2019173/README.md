@@ -366,14 +366,14 @@
 Εδώ βλέπετε το pull request μου:
 
 <br><p align="center">
-<img width="950" height="800" src="">
+<img width="950" height="800" src="https://i.postimg.cc/k4q81WLp/pull2.png">
 <p/>
 
 
 Παρακάτω θα βρείτε χρήσιμους συνδέσμους:
 
 
-[Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
+[Εδώ](https://github.com/p19pasa/site/pull/1) θα βρείτε το pull request μου στην ομάδα μου.
 
 [Εδώ](https://github.com/IonianUniversity2019/site/issues/7) θα βρείτε το issue μου.
 
