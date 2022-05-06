@@ -206,6 +206,8 @@
 
 Για το λογισμικό COMSOL Multiphysics: [στο σετ με τις διαφάνειες βρίσκεται εδώ](https://p19pasa.netlify.app//slides/styles/) και [στο χρονολόγιο αυτό βρίσκεται στο έτος 1986](https://p19pasa.netlify.app//timeline/systems/).
 
+Παρακάτω θα βρείτε χρήσιμους συνδέσμους:
+
 
 [Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
 
@@ -333,10 +335,11 @@
 
 # Συμμετοχικό περιεχόμενο B1+B2 (10ο Παραδοτέο)
 
-Το παραδοτέο της 11ης εβδομάδας ζητούσε, αρχικά, να βρεθεί μία νέα έρευνα παρόμοιας περίπτωσης με τις θεματικές του 6ου παραδοτέου, καθώς και μία νέα αντίστοιχη βιογραφία. Επέλεξα να αναλύσω το βιντεοπαιχνίδι Assassin's Creed, καθώς πιστεύω ότι η Ubisoft Quebec έκανε μία εξαιρετική δουλειά πάνω στον τομέα των βιντεοπαιχνιδιών. 
+Στο συγκεκριμένο παραδοτέο μας ζητήθηκε μία νέα έρευνα παρόμοιας περίπτωσης με τις θεματικές που διαλέξαμε στο 5ο παραδοτέο και μία νέα αντίστοιχη βιογραφία. Έτσι, επέλεξα να αναλύσω το λογισμικό COMSOL Multiphysics και να ψάξω περισσότερα για την εταιρελια που το έφτιαξε, δηλαδή την COMSOL, Inc. 
 
-Η Βιογραφία της Ubisoft Quebec είναι: [εδώ](https://p19pasa.netlify.app/biography/).
-Η Μελέτη Περίπτωσης του Assassin's Creed είναι: [εδώ](https://p19pasa.netlify.app/case-study/).
+
+Η Βιογραφία της COMSOL, Inc είναι: [εδώ](https://p19pasa.netlify.app/biography/).
+Η Μελέτη Περίπτωσης του COMSOL Multiphysics είναι: [εδώ](https://p19pasa.netlify.app/case-study/).
 
 Πηγές ήταν: [The COMSOL Product Suite](https://www.comsol.com/products), [COMSOL Multiphysics 5.6](https://www.istem.gov.in/istem-comsol), [How to Use COMSOL Multiphysics, a Tutorial Video](https://www.comsol.com/blogs/how-to-use-comsol-multiphysics-a-tutorial-video/), [Introduction to COMSOL Multiphysics Software](https://www.researchgate.net/publication/320336407_Introduction_to_COMSOL_Multiphysics_Software), [COMSOL Multiphysics Pricing, Features, Reviews and Alternatives](https://www.getapp.com/it-management-software/a/comsol-multiphysics/) και [ COMSOL AB COMSOL, Inc. Mail and visit Tegnprgatan 23 8 New England SE 111 40 STOCKHOLM Executive Park Sweden Burlington, MA 01803 USA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.4964&rep=rep1&type=pdf).
 
@@ -378,6 +381,21 @@
 λαμβάνει χώρα σε έναν από τους τοίχους του αντιδραστήρα. Το μοντέλο ορίζει και ζευγαρώνει αυτόματα
 ισοζύγια μάζας και ορμής για ένα διάλυμα με τρία διαφορετικά είδη στο
 Ενότητα Χημικής Μηχανικής
+
+Παρακάτω θα βρείτε χρήσιμους συνδέσμους:
+
+
+[Εδώ](https://github.com/pibook/site/pull/104) θα βρείτε το pull request μου στην ομάδα μου.
+
+[Εδώ](https://github.com/IonianUniversity2019/site/issues/1) θα βρείτε το issue μου.
+
+[Εδώ](https://github.com/p19pasa/site/blob/master/_slides/visualization.md) έγινε η επεξεργασία στο _slides.
+
+[Εδώ](https://github.com/p19pasa/site/blob/2019173/_timeline/systems.md) έγινε η επεξεργασία στο _timeline.
+
+[Εδώ](https://p19pasa.netlify.app/) θα βρείτε το βιβλίο που έκανα git clone με την γραμμή εντολών για να μην πειράξω το αρχικό βιβλίο.
+
+[Το webring της ομάδας μου.](https://adoring-babbage-272b71.netlify.app/)
 
 # Άσκηση γραμμής εντολών (11ο Παραδοτεό)
 
