@@ -51,7 +51,7 @@
 
 ## Παραδοτέο 3: Αίτημα Ενσωμάτωσης στην Ιστοσελίδα
 
-Για το πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα επέλεξα να προσθέσω μια ανακοίνωση από την ιστοσελίδα του τμήματος για την οποία και άνοιξα νέο issue το οποίο και πήρε green light. Έκανα λοιπόν σε πρώτο στάδιο fork των αποθετηρίων sitegr, all_collections και minimal-ionio. Δημιούργησα ένα νέο branch με τον ΑΜ μου στο minimal-ionio και έπειτα έκανα τις απαραίτητες αλλαγές στο config.yml αρχείο. Έπειτα με χρήση του git από terminal και αφού είχα δημιουργήσει demo-branch έκανα git clone όρισα ως branch το επιθυμητό, έσβησα το submodule (git rm all_collections), και έκανα εκ νέου submodule το δικό μου forked repo. Έκανα set up το netlify πρόσθεσα στην ανακοίνωση μου στα posts έκανα pull και push τις αλλαγές μου φτάνοντας έτσι στο επιθυμητό αποτέλεσμα, με το μόνο να μένει να είναι το τελικό pull-request.
+Για το πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα επέλεξα να προσθέσω μια ανακοίνωση από την ιστοσελίδα του τμήματος για την οποία και άνοιξα νέο issue το οποίο και πήρε green light. Έκανα λοιπόν σε πρώτο στάδιο fork των αποθετηρίων sitegr, all_collections και minimal-ionio. Δημιούργησα ένα νέο branch με τον ΑΜ μου στο minimal-ionio και έπειτα έκανα τις απαραίτητες αλλαγές στο config.yml αρχείο. Έπειτα με χρήση του git από terminal και αφού είχα δημιουργήσει demo-branch έκανα git clone όρισα ως branch το επιθυμητό, έσβησα το submodule (git rm all_collections), και έκανα εκ νέου submodule το δικό μου forked repo. Έκανα set up το netlify πρόσθεσα στην ανακοίνωση μου στα posts έκανα pull και push τις αλλαγές μου φτάνοντας έτσι στο επιθυμητό αποτέλεσμα, με το μόνο να μένει να είναι το τελικό pull-request. Έπειτα από την έγκριση της συνεισφοράς μου  η ανακοίνωση μου φαίνεται στην ιστοσελίδα του μαθήματος.
 
 [sitegr](https://github.com/Sola1r3/sitegr/tree/demo-branch)
 
@@ -59,11 +59,13 @@
 
 [minimal-ionio](https://github.com/Sola1r3/minimal-ionio/tree/2014042)
 
-[netlify link](https://cheerful-dusk-58b6de.netlify.app/posts/2022/02/08/anakoinwsh-grafeiou-erasmus/)
+[Προσωπικό netlify link](https://cheerful-dusk-58b6de.netlify.app/posts/2022/02/08/anakoinwsh-grafeiou-erasmus/)
 
 [Issue](https://github.com/ioniodi/sitegr/issues/273)
 
 [Pull Request](https://github.com/ioniodi/all_collections/pull/52)
+
+[Netlify Link Μαθήματος](https://epic-hamilton-da9ac8.netlify.app/posts/2022/02/08/anakoinwsh-grafeiou-erasmus/)
 
 ## Παραδοτέο 4: Άσκηση Γραμμής Εντολών
 
@@ -79,16 +81,26 @@
 
 ## Παραδοτέο 5: Συμμετοχικό Περιεχόμενο Α1+Α2
 
-Για συμμετοχικό περιεχόμενο επέλεξα για εικόνες το λειτουργικό σύστημα της Microsoft τα Windows Vista, διάδοχος των Windows XP και την Margaret Hamilton εγκεκριμένη στον χώρο και υπεύθυνη γα την δημιουργία του όρου Software Engineering.
+Για συμμετοχικό περιεχόμενο επέλεξα για εικόνες το λειτουργικό σύστημα της Microsoft τα Windows Vista και την Margaret Hamilton εγκεκριμένη στον χώρο και υπεύθυνη γα την δημιουργία του όρου Software Engineering. Στο κομμάτι, Slides, δημιούργησα ένα νέο θέμα με πρόσωπα που έχουν παίξει ρόλο στον τομέα της τεχνολογίας λογισμικού, ενώ για timeline πρόσθεσα στο υπάρχον σχετικό με τα λογισμικά της Microsoft. Για την συνεισφορά στην ομάδα ακολουθούμε παρόμοια διαδικασία με αυτήν στο παραδοτέο 3, δηλαδή ανοίγουμε νέο issue, και έπειτα προχωράμε σε pull request.
 
-| Περιγραφή | Repository Link | Netlify Link |
+[Σχετικό Issue στο site της ομάδας](https://github.com/Cont1nental/site/issues/7)
+
+[Pull στο Site](https://github.com/Cont1nental/site/pull/8)
+
+[Pull στο images](https://github.com/Cont1nental/images/pull/5)
+
+[Pull στο gallery](https://github.com/Cont1nental/_gallery/pull/5)
+
+Για τα pull request τοσο στο images και στο gallery όσο και στο site ανοίγω νέο branch για τις αλλαγές μου ώστε να αποφεύγονται λάθη.
+
+| Περιγραφή | Repository Link | Netlify Link Ομάδας |
 | --- | --- | --- |
-| Images Windows Vista | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/windows-vista.png) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/windows-vista-thumb.png) | [Netlify]() |
+| Images Windows Vista | [Κανονική Εικόνα](https://github.com/Cont1nental/images/blob/master/windows-vista.png) Και [Thumbnail](https://github.com/Cont1nental/images/blob/master/windows-vista-thumb.png) | [Netlify](https://continental-site.netlify.app//gallery/windows-vista/) |
 | Gallery Windows Vista | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/windows-vista.md) | |
-| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify]() |
+| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Cont1nental/images/blob/master/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Cont1nental/images/blob/master/margaret-hamilton-thumb.jpg) | [Netlify](https://continental-site.netlify.app//gallery/margaret-hamilton/) |
 | Gallery Margaret Hamilton | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/margaret-hamilton.md) | |
-| Slides Σημαντικές Πρόσωπα | [Slides](https://github.com/Sola1r3/site/blob/master/_slides/important-people.md) | [Netlify]() |
-| Timeline Λογισμικά Microsoft | [Timeline](https://github.com/Sola1r3/site/blob/master/_timeline/microsoft.md) | [Netlify]() |
+| Slides Σημαντικά Πρόσωπα | [Slides](https://github.com/Cont1nental/site/blob/master/_slides/important-people.md) | [Netlify](https://continental-site.netlify.app//slides/important-people/) |
+| Timeline Η εξέλιξη των συστημάτων της Microsoft | [Timeline](https://github.com/Cont1nental/site/blob/master/_timeline/microsoft.md) | [Netlify](https://continental-site.netlify.app//timeline/microsoft/) |
 <br />
 
 ## Παραδοτέο 6: Άσκηση Γραμμής Εντολών
