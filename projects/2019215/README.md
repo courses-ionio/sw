@@ -108,6 +108,18 @@
 Στο 9ο παραδοτέο που ήταν άσκηση γραμμής εντολών εγκατέστησα και έτρεξα το hyperfine το οποίο είναι ένα benchmark tool
 <a href="https://asciinema.org/a/482412" target="_blank"><img src="https://asciinema.org/a/482412.svg" /></a>
 
+</br>
+
+# 10ο Παραδοτέο
+
+Για το 10 παραδοτέο πρόσθεσα τη βιογραφία του Lennart Poettering και επίσης πρόσθεσα μία μελέτη περίπτωσης για το systemd
+
+| repo links | site links | team's site links |
+| --- | --- | --- |
+| [Lennart Poettering](https://github.com/p19ntar/site/blob/2019215/_biography/lennart-poettering.md) | [Lennart Poettering](https://epic-goodall-89990a.netlify.app/biography/lennart-poettering/) | [Lennart Poettering](https://ionioi-site.netlify.app/biography/lennart-poettering/)
+| [systemd](https://github.com/p19ntar/site/blob/2019215/_case-study/systemd.md) | [systemd](https://epic-goodall-89990a.netlify.app/case-study/systemd/) | [systemd](https://ionioi-site.netlify.app/case-study/systemd/)
+
+
 # Συμμετοχή και Ομαδικότητα
 
 | | Σχόλια |
