@@ -59,10 +59,10 @@ Tο συγκεκριμένο παραδοτέο απαιτούσε την δημ
 
 ### Άσκηση γραμμής εντολών
 Για το 9ο παραδοτέο επέλεξα από τις διαθέσημες ασκήσεις γραμμής εντολών το performance monitoring χρησιμοποιόντας τα εργαλεία py-spy και hyperfine.
-Δημιούργησα 2 προγράμματα σε python με ονόμα main1.py και main2.py τα οποία χρησιμοποιήθηκαν απο τα δύο εργαλεία.
+Δημιούργησα 2 προγράμματα σε python με ονόμα main1.py και main2.py τα οποία χρησιμοποιήθηκαν από τα δύο εργαλεία.
 
 Το εργαλείο py-spy το εγκατέστησα με την εντολή pip install py-spy εφόσον πρώτα εγκατέστησα το pip.
-Ενώ για το hyperfine τις εντολές wget https://github.com/sharkdp/hyperfine/releases/download/v1.13.0/hyperfine_1.13.0_amd64.deb 
+Ενώ για το hyperfine χρησιμοποίησα τις εντολές wget https://github.com/sharkdp/hyperfine/releases/download/v1.13.0/hyperfine_1.13.0_amd64.deb 
 και sudo dpkg -i hyperfine_1.13.0_amd64.deb
 
 Κατά την διάρκεια της εγκατάστασης των py-spy και hyperfine δεν προέκυψε κάποιο πρόβλημα και η εγκατάσταση έγινε με επιτυχία.
