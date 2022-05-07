@@ -18,7 +18,7 @@
 | <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link]() | Βογραφικο, Case-study ATARI-DOS, bio Nolan Bushnell |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -253,5 +253,8 @@ chmod +x updates.sh
 ![278357747_342537314398886_7165485016237685194_n](https://user-images.githubusercontent.com/63341157/163453251-6689433e-e99b-43fe-8ea4-45ee6bdf7e20.jpg)
 ![278316806_280126897653812_8595335887920609050_n](https://user-images.githubusercontent.com/63341157/163453289-6adf6a5b-ddae-4087-a008-eca4cf192b0a.jpg)
 
+# <a name="H">Συμμετοχικό περιεχόμενο B1+B2</a>
+
+Για την ολοκλήρωση του 2ου παραδοτέου συμμετοχικού περιεχομένου, ασχολήθηκα με το [case study](https://github.com/Vagelis1993/site/blob/master/_case-study/atari_dos.md) του Atari-DOS που είχα ασχοληθεί και στο πρώτο παραδοτέο. Επίσης, πρόσθεσα [αναλυτική περιγραφή του case study](https://github.com/Vagelis1993/extras/blob/master/cs-atari_dos.md) στο αποθετήριο extras. Για το [βιογραφικό](https://github.com/Vagelis1993/site/blob/master/_biography/nolan-bushnell.md) επέλεξα να ασχοληθώ με τον Nolan Bushnell που ήταν ο ιδρυτής της Atari. Πρόσθεσα, επίσης, το [αναλυτικό βιογραφικό](https://github.com/Vagelis1993/extras/blob/master/bio-nolan.md) του.
 
 
