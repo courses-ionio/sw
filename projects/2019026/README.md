@@ -47,3 +47,14 @@
 **Παραδοτέο 7**
 
 Στο 7ο παραδοτέο, πρέπει να δημιουργηθεί ένα PDF αρχείο βιογραφικού χρησιμοποιόντας pandoc, latex εργαλεία και να τοποθετηθουν αυτόματα στην ιστοσελίδα. όπως φαίνεται από το παραδοτέο στην συζήτηση, όλα τα tasks ολοκληρώθηκαν με επιτυχία.
+
+**Παραδοτέο 8**
+
+**Παραδοτέο 9**
+
+**Παραδοτέο 10**
+
+Στο 10ο παραδοτέο, ζητήθηκαν τα Β1 & Β2 συμμετοχικά περιεχόμενα του μαθήματος και το αντίστοιχο [Pull Request](https://github.com/Sybil-Reisz/site/pull/10) στο αποθετήρο της ομάδας. Για το Β1 επέλεξα να αναγράψω την βιογραφία του ιδρυτή της Nintendo, Fusajiro Yamauchi. Ανέβασα στο biography την [βιογραφία](https://github.com/p19vrou/site/blob/master/_biography/Fusajiro-Yamauchi.md) του καθώς και το [κείμενό](https://github.com/p19vrou/site/blob/master/_includes/bio-Yamauchi.md) της. Μαζί ανέβηκαν στο images, η [προφιλ](https://github.com/p19vrou/images/blob/master/Fusajiro_Yamauchi-profile.jpg) του Yamauchi σε κανονικό και σε [thumbnail version](https://github.com/p19vrou/images/blob/master/Fusajiro_Yamauchi-profile-thumb.jpg)
+Για το Β2, παραμένοντας στο ίδιο θέμα, έκανα [μελέτη περίπτωσης για την Nintendo](https://github.com/p19vrou/site/blob/master/_case-study/Nintendo.md), όπου έκανα include το αντίστοιχο [κέιμενο](https://github.com/p19vrou/site/blob/master/_includes/cs-nintendo.md) που δημιούργησα.
+Για τις ανάγκες του Case study ανέβηκαν στο images οι εξής εικόνες: [Nintendo logo](https://github.com/p19vrou/images/blob/master/Nintendo.png),
+[HANAFUDA](https://github.com/p19vrou/images/blob/master/HANAFUDA.jpg), [Gunpei Yokoi & Ultra Hand](https://github.com/p19vrou/images/blob/master/YOKOI_ULTRAHAND.jpg), [GameBoy](https://github.com/p19vrou/images/blob/master/GameBoy.jpg), [Nintendo Switch](https://github.com/p19vrou/images/blob/master/Nintendo_Switch.jpg)
