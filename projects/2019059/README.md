@@ -53,13 +53,15 @@ https://github.com/courses-ionio/help/discussions/197
 εδώ είναι οι αλλαγές στο [netlify](https://coruscating-trifle-ee1a79.netlify.app/courses/computer-programming/)
 ![Boglis](https://user-images.githubusercontent.com/72515596/165079353-f59d427f-31bc-43e7-967b-3b88763c829a.png)
 
+[All collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)
 Εδώ είναι το [pull-repquest](https://github.com/ioniodi/all_collections/pull/35)
-[issue](https://github.com/ioniodi/sitegr/issues/260)
+[issue](https://github.com/ioniodi/sitegr/issues/260)<br>
 ##update
 
 Επειδή η αλλαγή αυτή που ανέφερα προηγουμένος έγινε από άλλο άτομο παρόλο που τα δικά μου issue και pull request υπήρχαν αποφάσησα να φτιάξω άλλο [issue](https://github.com/ioniodi/sitegr/issues/393).
 [all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)
 [site](https://splendorous-blini-4f4825.netlify.app/timetables/sem_f/)
+[pull request](https://github.com/ioniodi/all_collections/pull/64)
 
 # Παραδοτέο 4
 
@@ -67,8 +69,10 @@ https://github.com/courses-ionio/help/discussions/197
 
 # Παραδοτέο 5
 
-[slides](https://nervous-hypatia-c85454.netlify.app/slides/programming/)
-[timeline](https://nervous-hypatia-c85454.netlify.app/timeline/programming-code/)
+[slides](https://stupendous-tiramisu-14710d.netlify.app/slides/browsers/)
+[timeline](https://stupendous-tiramisu-14710d.netlify.app/timeline/browsers/)
+[gallery: opera](https://stupendous-tiramisu-14710d.netlify.app/gallery/opera/)
+[gallery: google chrome](https://stupendous-tiramisu-14710d.netlify.app/gallery/google-chrome/)
 
 # Παραδοτέο 6
 
@@ -87,7 +91,7 @@ https://github.com/courses-ionio/help/discussions/197
 
 # Παραδοτέο 7
 
-Στο παραδοτέο αυτό ζητήθηκε να φτοιάξουμε ένα αρχείο pdf απο το βιογραφικό του δεύτερου παραδοτέου με την χρήση των εργαλείων pandoc και latex.
+Στο παραδοτέο αυτό ζητήθηκε να φτιάξουμε ένα αρχείο pdf απο το βιογραφικό του δεύτερου παραδοτέου με την χρήση των εργαλείων pandoc και latex.
 
 Το [βιογραφικό](https://xar1sgeovlacp2019059.github.io/online-cv/)
 link για την διαδικασία στο [asciinema](https://asciinema.org/a/EdLIyszaIbTZxnsSQ2JTy98oD)
@@ -112,3 +116,6 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 
 ![ntfyapp](https://user-images.githubusercontent.com/72515596/163606149-f9636316-cd78-4a32-bbdb-8fa44f66ebd4.jpg)
 
+# Παραδοτέο 10
+
+Σε αυτό το παραδοτέο θα ασχοληθώ με την Βιογραφία του Sir Timothy John Berners-Lee και ως μελέτη περίπτωσης θα γράψω για το world wide web
