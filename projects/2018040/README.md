@@ -298,3 +298,7 @@ https://lukesmith.xyz/c/wanna-learn-latex#install
 #### [9]
 
 ### Άσκηση γραμμής εντολών : create your own static site and blog generator
+
+#### [10]
+
+### Συμμετοχικό περιεχόμενο Β1 και Β2
