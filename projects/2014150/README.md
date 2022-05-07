@@ -18,7 +18,7 @@
 | <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
-| <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link]() | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS |
+| <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
