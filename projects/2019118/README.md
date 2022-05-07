@@ -15,9 +15,9 @@
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας |
 | 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
 | 7 | Βιογραφικό Β' | courses-ionio/help/discussions/518 | Παράδοση εντός προθεσμίας |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας, Απόρριψη αλλαγής, Αδυναμία εύρεσης καλής αλλαγής |
 | 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | Συμμετοχικό περιεχόμενο B1+B2 | | Παράδοση εντός προθεσμίας |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -144,4 +144,13 @@ Pull requests:
 - Επέλεξα να κάνω την εργασία ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU)
 <a href="https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU" target="_blank"><img src="https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU.svg" /></a>
 
-- Σε αυτό το σημείο κατάλαβα πόσο καλή ιδέα ήταν οι αλλαγές που έκανα πριν στο Alpine Linux για να μπορώ να έχω εικόνα του site χωρίς να χρειάζεται να το περάσω σε κάποιον server (τοπικό ή μη). 
+- Σε αυτό το σημείο κατάλαβα πόσο καλή ιδέα ήταν οι αλλαγές που έκανα πριν στο Alpine Linux για να μπορώ να έχω εικόνα του site χωρίς να χρειάζεται να το περάσω σε κάποιον server (τοπικό ή μη).
+
+## Παραδοτέο 10 / Συμμετοχικό περιεχόμενο B1+B2
+
+Σε αυτό το παραδοτέο έκανα τη μελέτη που από το ντοκιμαντέρ του [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w) στο Down the Rabbit Hole για να αναπτύξω το προηγούμενο TempleOS που πέρασα στο Α1 + Α2. Παρόλο που έχει ενδιαφέρον η ιστορία του Terry A. Davis δεν αναφέρθηκα πολύ στα ψυχολογικά του προβλήματα επειδή πιστεύω ότι το σημαντικό σε αυτή την ιστορία είναι η καινοτομία που προσπάθησε να κάνει, άσχετα με το ποιος ήταν.
+
+Τα pull requests που χρειάστηκα ήταν:
+
+- [images](https://github.com/Sybil-Reisz/images/pull/7)
+- [site](https://github.com/Sybil-Reisz/site/pull/9)
