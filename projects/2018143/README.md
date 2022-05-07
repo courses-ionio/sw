@@ -360,3 +360,7 @@ asciinema link για hugo: https://asciinema.org/a/487765
 Πηγή: 
   
 https://gohugo.io/getting-started/usage/
+
+##### [10]
+  
+## Συμμετοχικό περιεχόμενο B1+B2
