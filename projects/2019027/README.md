@@ -87,3 +87,5 @@
 Case study προσθήκη [1](https://github.com/p19zing/site/blob/master/_case-study/wii-controller.md) και [2](https://github.com/p19zing/site/blob/master/_includes/cs-wii-controller.md)
   
 Biography προσθήκη [1](https://github.com/p19zing/site/blob/master/_biography/shigeru-miyamoto.md) και [2](https://github.com/p19zing/site/blob/master/_includes/bio-shigeru-miyamoto.md)
+
+[Συζήτηση](https://github.com/courses-ionio/help/discussions/587)
