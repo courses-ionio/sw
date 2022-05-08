@@ -10,7 +10,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | Επιτυχής δημιουργία της εισαγωγής και αναφορά των στόχων μου για το μάθημα  |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | <li><a href="#Αίτημα Ενσωμάτωσης"></span> <span class="toctext">Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
 | 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
 | 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -38,6 +38,17 @@ Github Profile: https://github.com/AnastasiaMariaStefani
   
    Βιβλιογραφία:
      <li>[Template](https://github.com/sharu725/online-cv)
+       
+<h2><span id="Αίτημα Ενσωμάτωσης">Αίτημα Ενσωμάτωσης</span></h2>
+       Στο 3ο παραδοτέο μας ζητήθηκε η αλλαγή/προσθήκη ενός θέματος με βάση την ιστοσελίδα του τμήματος. Εγώ επέλεξα ως θέμα την προσθήκη του καθηγητή κ. Δουκάκη στο μάθημα "Οργάνωση και Διοικηση Επιχειρήσεων" του Β΄ εξαμήνου. Μετα την δημιουργία του issue, έγιναν οι απαραίτητες αλλαγές στο αποθετήριο της ιστοσελίδας, με αποτέλεσμα να δημιουργηθεί τελικά το κατάλληλο pull request.
+       
+[Demo](https://famous-empanada-b13f80.netlify.app/courses/ba/)
+       
+       
+[Issue](https://github.com/ioniodi/sitegr/issues/336)
+       
+       
+[Pull Request](https://github.com/ioniodi/sitegr/pull/403)
   
 <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
