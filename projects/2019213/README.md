@@ -23,9 +23,9 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/439#discussion-3950186) </div> | <div align="center"> - </div> |
 | 6 | [Άσκηση γραμμής εντολών Εγκατάσταση Void Linux](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#void-linux-distro) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/463#discussion-3965517) </div> | <div align="center"> - </div> |
 | 7 | [βιογραφικό](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%81%CE%BF%CF%80%CE%AE-online-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CF%83%CE%B5-pdf-%CE%BC%CE%AD%CF%83%CF%89-pandoc-%CE%BA%CE%B1%CE%B9-latex) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/539#discussion-3986669) </div> | <div align="center"> - </div> |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | <div align="center"> - </div> | <div align="center"> - </div> |
 | 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1-cli) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/463#discussion-3965517) </div> | <div align="center"> - </div> |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | <div align="center"> [Link](https://google.com) </div>  | <div align="center"> - </div> |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
 | 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | | |
