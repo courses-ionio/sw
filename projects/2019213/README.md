@@ -192,12 +192,12 @@
 Σε αυτό το παραδοτέο έπρεπε να προσφέρουμε στον pibook με ένα δικό μας θέμα. Εγω επέλεξα να κάνω για το backtrack και για το Linux distro Knoppix επειδη μιας και ασχολούμαι με την ασφάλεια είπα να ξαναθυμηθώ τα παλιά χρόνια δηλαδή το backtrack. Το backtrack χρησιμοποιουνταν απο πάρα πολλούς στον τομέα της ασφάλεια από τους ηθικούς χακερς τους επαγγελματίες τα script kiddies μέχρι και τους black hat.
 | Netlify | MarkDown |
 | --- | --- |
-| [Backtrack Gallery](https://p2019213.netlify.app/gallery/backtrack/) | [Backtrack Gallery MD](https://github.com/p19tzam/_gallery/blob/2566d651ce57a8ecb9798e8ca22dc3126e4eca1f/backtrack.md) |
-| [Knoppix Gallery](https://p2019213.netlify.app/gallery/knoppix/) | [Knoppix Gallery MD](https://github.com/p19tzam/_gallery/blob/2566d651ce57a8ecb9798e8ca22dc3126e4eca1f/knoppix.md) |
-| [Backtrack Slides](https://p2019213.netlify.app/slides/backtrack/) | [Backtrack Slides MD](https://github.com/p19tzam/site/blob/master/_slides/backtrack.md) |
-| [Knoppix Slides](https://p2019213.netlify.app/slides/knoppix/) | [Knoppix Slides MD](https://github.com/p19tzam/site/blob/master/_slides/knoppix.md) |
-| [Backtrack Timeline](https://p2019213.netlify.app/timeline/backtrack/) | [Backtrack Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/backtrack.md) |
-| [Knoppix Timeline](https://p2019213.netlify.app/timeline/knoppix/) | [Knoppix Timeline MD](https://github.com/p19tzam/site/blob/master/_timeline/knoppix.md) | 
+| [Backtrack Gallery](https://p2019213.netlify.app/gallery/backtrack/) | [Backtrack Gallery MD](https://github.com/Kafeneio/_gallery/blob/48b6a7c748c9b7598806c39deeeffdfd7d05182c/backtrack.md) |
+| [Knoppix Gallery](https://p2019213.netlify.app/gallery/knoppix/) | [Knoppix Gallery MD](https://github.com/Kafeneio/_gallery/blob/48b6a7c748c9b7598806c39deeeffdfd7d05182c/knoppix.md) |
+| [Backtrack Slides](https://p2019213.netlify.app/slides/backtrack/) | [Backtrack Slides MD](https://github.com/Kafeneio/site/blob/master/_slides/backtrack.md) |
+| [Knoppix Slides](https://p2019213.netlify.app/slides/knoppix/) | [Knoppix Slides MD](https://github.com/Kafeneio/site/blob/master/_slides/knoppix.md) |
+| [Backtrack Timeline](https://p2019213.netlify.app/timeline/backtrack/) | [Backtrack Timeline MD](https://github.com/Kafeneio/site/blob/master/_timeline/backtrack.md) |
+| [Knoppix Timeline](https://p2019213.netlify.app/timeline/knoppix/) | [Knoppix Timeline MD](https://github.com/Kafeneio/site/blob/master/_timeline/knoppix.md) | 
 
 Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.netlify.app/): <br>
  
