@@ -257,4 +257,23 @@ chmod +x updates.sh
 
 Για την ολοκλήρωση του 2ου παραδοτέου συμμετοχικού περιεχομένου, ασχολήθηκα με το [case study](https://github.com/Vagelis1993/site/blob/master/_case-study/atari_dos.md) του Atari-DOS που είχα ασχοληθεί και στο πρώτο παραδοτέο. Επίσης, πρόσθεσα [αναλυτική περιγραφή του case study](https://github.com/Vagelis1993/extras/blob/master/cs-atari_dos.md) στο αποθετήριο extras. Για το [βιογραφικό](https://github.com/Vagelis1993/site/blob/master/_biography/nolan-bushnell.md) επέλεξα να ασχοληθώ με τον Nolan Bushnell που ήταν ο ιδρυτής της Atari. Πρόσθεσα, επίσης, το [αναλυτικό βιογραφικό](https://github.com/Vagelis1993/extras/blob/master/bio-nolan.md) του.
 
+[Netlify Link Bio](https://vagelis1993.netlify.app/biography/nolan-bushnell/)
+
+[Netlify Link Case - Study](https://vagelis1993.netlify.app/case-study/atari_dos/)
+
+-ΠΗΓΕΣ
+
+[Usefull Link 1](https://www.atariarchives.org/creativeatari/Atari_DOS.php)
+
+[Usefull Link 2](https://www.atariarchives.org/iad/chapter1.php)
+
+[Usefull Link 3](http://www.atarimania.com/documents/Inside_Atari_DOS.pdf)
+
+[Usefull Link 4](https://en.wikipedia.org/wiki/Atari_DOS)
+
+[Usefull Link 5](https://lemelson.mit.edu/resources/nolan-bushnell)
+
+[Usefull Link 6](https://en.wikipedia.org/wiki/Nolan_Bushnell)
+
+
 
