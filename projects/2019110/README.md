@@ -16,7 +16,7 @@
 | 7 | **Bιογραφικό [Μέρος Β](#Μέρος-Β)** | [Ανάρτηση Β' μέρους βιογραφικού](https://github.com/courses-ionio/help/discussions/521) | Το παραδοτέο πραγματοποιήθηκε εμπρόθεσμα και σχεδόν κάλυψε όλα τα απαιτούμενα, αυτό διότι εμφανίστηκε ένα error που μετά από πολύ κόπο και συζήτηση στο help δεν βρέθηκε λύση. Αυτό σημαίνει ότι αφιερώθηκαν πολλές ώρες ενασχόλησης |
 | 8 | **[Δεύτερο αίτημα ενσωμάτωσης](#Δεύτερο-αίτημα-ενσωμάτωσης)** | [Ανάρτηση της επιλογής μου για το δεύτερο αίτημα ενσωμάτωσης](https://github.com/courses-ionio/help/discussions/550) | Είμαι ικανοποιημένος από την προσπάθεια μου για το δεύτερο αίτημα ενσωμάτωσης, αφού έψαξα αρκετά παλαιά θέματα και προσπάθησα αρκετά για να προσθέσω ένα κουμπί για το Facebook, ενώ σε αυτό το χρονικό διάστημα καταλάθος πραγματοποίησα πολύ γρήγορα ένα [easy closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
 | 9 | **[Άσκηση γραμμής εντολών(ntfy)](#Ntfy)** | [Ανακοίνωση στο help](https://github.com/courses-ionio/help/discussions/561) | Η πιο ενδιαφέρουσα για εμένα άσκηση γραμμής εντολών, καθώς έκανα πολλές συνδέσεις με τις δυνατότητες της σχετικά με άλλα εργαλεία και εργασίες, ενώ πραγματοποίησα και βελτειώσεις στο βιογραφικό μέρος Β αυτή την εβδομάδα |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | **[Συμμετοχικό περιεχόμενο B1+B2](#Συμμετοχικό-περιεχόμενο-Β1+Β2)** | | Τα θέματα που επέλεξα θεωρώ ότι είναι αρκετά καλά, αλλά οι πληροφορίες που σύλλεξα και τα κείμενα που ανέπτυξα δεν με άφησαν πολύ ευχαριστημένο. Η διαδικασία με τα submodules και το netlify έχει πολύ σύντομα και εύκολα. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 <br>
@@ -318,7 +318,7 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <img width="900" height="500" src="https://user-images.githubusercontent.com/72496151/161824021-6844d5ea-9a86-411d-86ca-4f279d15a4c2.jpg">
 <p/><br>
 
-* Link στο [netlify](https://p19pasc-site-alpine-openrc.netlify.app/):
+* Link στο [netlify](https://p19pasc-site-alpine-openrc.netlify.app/)(το οποίο δημιουργείται από το Site repository):
   * [Alpine Linux](https://p19pasc-site-alpine-openrc.netlify.app/gallery/alpine-linux/)
   * [OpenRC](https://p19pasc-site-alpine-openrc.netlify.app/gallery/openrc/) 
 
@@ -352,7 +352,55 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 </details>
 <br> 
 
+### Συμμετοχικό περιεχόμενο Β1+Β2
 
+Ως θέματα προς ανάπτυξη επέλεξα να είναι σχετικά με τις ιδέες μου από το πρώτο συμμετοχικό περιεχόμενο. Για μελέτη περίπτωσης ανέλαβα το **BusyBox** ένα γνωστό software suite μου κέντρισε πάρα πολύ το ενδιαφέρον λόγω των δυνατοτήτων που παρέχει, δεδομένου ότι αποτελεί ένα απλό δυαδικό αρχείο, ενώ το συναντάμε και στο Alpine Linux. Από την άλλη πλευρά έχοντας το OpenRc σκέφτηκα να ενημερωθώ για αυτόν που εδραίωσε για πρώτη φορά τον όρο του κεφλύφους το οποίο συναντάμε σε όλα τα λειτουργικά συστήματα, οπότε η βιογραφία μου αναφέρεται στον Γάλλο επιστήμονα **Louis Pouzin**.
+
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72496151/167298730-ba75e0d0-9ab4-4254-a029-5ea4b45d5d72.jpg">
+<p/><br>
+
+Για το μέρος Β εργάστηκα σε διαφορετικό branch από αυτό του Α1+Α2 με όνομα **B_meros**.Όσον αφορά το BusyBox δημιούργησα αρχεία στο repository **site** στο `_case-study` και `_includes` , ύστερα στο repository **extras** και πρόσθεσα 2 εικόνες στο repository **images**. Παρομοίως για τον Louis Pouzin δημιούργησα ααρχεία στο `_biography` και `_includes`, ύστερα στο **extras** και πρόσθεσα 6 εικόνες στο **images**. Ύστερα για να συνδεθούν τα αρχεία αυτά ένωσα τα submodules με τη γραμμή εντολών για να εμφανιστεί και το αποτέλεσμα στην ιστοσελίδα.
+
+* Link στο [netlify](https://p19pasc-b-meros.netlify.app/)(το οποίο δημιουργείται από το Site repository):
+  * [BusyBox](https://p19pasc-b-meros.netlify.app/case-study/busybox/)
+  * [Louis Pouzin](https://p19pasc-b-meros.netlify.app//biography/louis-pouzin/) 
+
+* **Site** [repository](https://github.com/p19pasc/site/tree/B_meros)(branch B_meros):
+  * _case-study:
+    * [busybox](https://github.com/p19pasc/site/blob/B_meros/_case-study/busybox.md)
+  * _biography:
+    * [louis-pouzin](https://github.com/p19pasc/site/blob/B_meros/_biography/louis-pouzin.md)
+  * _includes:
+    * [cs-busybox](https://github.com/p19pasc/site/blob/B_meros/_includes/cs-busybox.md)   
+    * [bio-pouzin](https://github.com/p19pasc/site/blob/B_meros/_includes/bio-pouzin.md)
+* **extras** [repository](https://github.com/p19pasc/extras/tree/B_meros)(branch B_meros):
+  * [cs-busybox](https://github.com/p19pasc/extras/blob/B_meros/cs-busybox.md)
+  * [bio-pouzin](https://github.com/p19pasc/extras/blob/B_meros/bio-pouzin.md)
+* **Images** [repository](https://github.com/p19pasc/images/tree/B_meros)(branch B_meros):
+  * BusyBox:
+    * [BusyBox](https://github.com/p19pasc/images/blob/B_meros/busybox.png)
+    * [BusyBox-thumb](https://github.com/p19pasc/images/blob/B_meros/busybox-thumb.png)
+  * Louis Pouzin:
+    * [louis-pouzin](https://github.com/p19pasc/images/blob/92393a7912cb0bcccadb5bff29125a4b611e5c8d/louis-pouzin.png)
+    * [louiz-pouzin-thumb](https://github.com/p19pasc/images/blob/92393a7912cb0bcccadb5bff29125a4b611e5c8d/louis-pouzin-thumb.png)
+    * [ctss-scheduler](https://github.com/p19pasc/images/blob/B_meros/ctss-scheduler.png)
+    * [ctss-scheduler-thumb](https://github.com/p19pasc/images/blob/B_meros/ctss-scheduler-thumb.png)
+    * [mail](https://github.com/p19pasc/images/blob/B_meros/mail.png)
+    * [mail-thumb](https://github.com/p19pasc/images/blob/B_meros/mail.png)
+  
+<details>
+ <summary>Δημιουργεία νέου branch για συμμετοχικό Β</summary>
+  <p>
+   <ul>
+    <li><a href="https://github.com/courses-ionio/help/discussions/576">Μία απλή απορία για το συμμετοχικό Β σε νέο branch</a></li>
+   </ul> 
+ </p>
+</details>
+  
+  
 # Ασκήσεις γραμμής εντολών
 ### Warmup με freebsd
 ------------------------
@@ -563,11 +611,31 @@ ntfy -b telegram send "youtube Download completed"
   * [Structure-Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/structure/)
   * [Οδηγίες σύνδεσης minimal-ionio από παλιό issue](https://github.com/ioniodi/site-gr/issues/82)
   * [Οδηγίες Workflow](https://github.com/ioniodi/sitegr/wiki/Workflow)
-* Συμμετοχικό Περιεχόμενο   
-  * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
-   * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
-  * [BLISS text](https://en.wikipedia.org/wiki/BLISS)
-   * [BLISS image](https://en.wikipedia.org/wiki/BLISS)   
+* Συμμετοχικό Περιεχόμενο 
+  * Μέρος Α1+Α2
+    * [Linux From Scratch text](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+     * [Linux From Scratch image](https://www.flickr.com/photos/133825397@N08/43769468704)
+    * [BLISS text](https://en.wikipedia.org/wiki/BLISS)
+     * [BLISS image](https://en.wikipedia.org/wiki/BLISS)   
+  * Μέρος Β1+Β2
+    * [BusyBox site](https://busybox.net/about.html)
+    * [BusyBox image](https://www.busybox.net/screenshot.html)
+      * [Copyright](https://busybox.net/copyright.txt )
+    * [Web archieve busybox](https://web.archive.org/web/20081209025021/http://www-128.ibm.com/developerworks/library/l-busybox/index.html) 
+    * [Web archeive busybox shell compatibility](https://web.archive.org/web/20100310193527/http://www.in-ulm.de/~mascheck/various/ash/#busybox)
+      * [license](https://archive.org/about/terms.php)
+    * [BusyBox GPL v2](https://lwn.net/Articles/202113/)
+    * [Wikipedia](https://en.wikipedia.org/wiki/BusyBox)  
+    * [what is ctss](https://padakuu.com/what-is-ctss-158-article)
+    * [Multics-shell official](https://multicians.org/shell.html)
+    * [Wikipedia Louis Pouzin](https://en.wikipedia.org/wiki/Louis_Pouzin)
+    * [wikipedia Ctss](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System)
+    * [Wikipedia RUNCOM](https://en.wikipedia.org/wiki/RUNCOM)
+    * [Wikipedia Multics](https://en.wikipedia.org/wiki/Multics)
+    * [Macrogenerator ορισμός](https://macrogenerator.azurewebsites.net/)
+    * [Mail image](https://www.multicians.org/thvv/mail-details.html)
+    * [Louis Pouzin image](https://en.wikipedia.org/wiki/Louis_Pouzin#/media/File:M._Louis_POUZIN_2013.jpg)
+    * [CTSS image](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System#/media/File:CTSS_Scheduler_in_MAD_and_FAP.png)
 * Ασκήσεις γραμμής εντολών
   * [Εγκατάσταση Freebsd](https://www.freebsd.org/where/)
   1. Άσκηση γραμμής εντολών
