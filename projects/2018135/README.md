@@ -56,7 +56,7 @@
 
 ![Plan9](https://github.com/initialelizah/imagestoadd/blob/main/plan9.png)
 
-# ✧ Παραδοτέο 5 - Συμμετοχικό Υλικό 
+# ✧ Παραδοτέο 5 - Συμμετοχικό  περιεχόμενο Α
 
 Για το 5ο παραδοτέο επέλεξα να προσθέσω τα λειτουργικά συστήματα "Orbis OS" και "BESYS". Βρήκα τις πληροφορίες και τις φωτογραφίες από Wikipedia, όπως φαίνεται και από το link δικαιωμάτων στα αρχεία .md του "_gallery", και πρόσθεσα και τις αντίστοιχες thumb. Μέσω terminal αφαίρεσα αρχικά τα submodules "_gallery" και "images" και στη συνέχεια πρόσθεσα τα δικά μου με τις αλλαγές. 
 
@@ -113,3 +113,5 @@
 `pip install ntfy[telegram]`
 
 ![ntfy](https://github.com/initialelizah/imagestoadd/blob/main/signal-2022-04-12-161540.png)
+
+# ✧ Παραδοτέο 10 - Συμμετοχικό περιεχόμενο B
