@@ -118,7 +118,7 @@
 
 Για το 10ο παραδοτέο με βάση τις προηγούμενες προσθήκες μου "Orbis OS" και "BESYS" αποφάσισα να προσθέσω τη μελέτη περίπτωσης FreeBSD καθώς είναι η βάση του Orbit OS και το βιογραφικό του Ken Thompson που σχετίζεται με τη δημιουργία του Unix, εξέλιξη του FreeBSD. Προσπάθησα όσο γίνεται οι πληροφορίες να ταιριάζουν με το πνεύμα και την αισθητική του βιβλιού. 
 
-| Αρχεία | Ken Thompson | FreeBSD | 
+| - | Ken Thompson | FreeBSD | 
 | --- | --- | --- | 
 | extras | [link](https://github.com/initialelizah/extras/blob/master/bio-thompson.md) | [link](https://github.com/initialelizah/extras/blob/master/cs-freebsd.md) |
 | _biography | [link](https://github.com/initialelizah/site/blob/master/_biography/kenthompson.md) | - 
