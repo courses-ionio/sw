@@ -78,12 +78,12 @@
 <h2 id="Παραδοτέο 10">Παραδοτέο 10 - συμμετοχικό περιεχόμενο B1+B2</h2>
 Στο συγκεκριμένο παραδοτέο πρόσθεσα ένα case study παρόμοιο με τις θεματικές του 5ου παραδοτέου και μία νέα αντίστοιχη βιογραφία.
 
-[Το pull request μου στην ομάδα μου]()
+[Pull request στην ομάδα μου, με τα αρχεία .md](https://github.com/Sybil-Reisz/site/pull/11)
   
-[Το issue μου στην ομάδα](https://github.com/Sybil-Reisz/site/issue/10)
+[Pull request εικόνας](https://github.com/Sybil-Reisz/images/pull/8)  
   
 [Ομάδα - Sybil-Reisz](https://sybil-reisz.netlify.app/)
   
-[Προσθήκη στο _case-study](https://github.com/p19zing/site/blob/master/_case-study/wii-controller.md)
+Case study προσθήκη [1](https://github.com/p19zing/site/blob/master/_case-study/wii-controller.md) και [2](https://github.com/p19zing/site/blob/master/_includes/cs-wii-controller.md)
   
-[Προσθήκη στο _biography](https://github.com/p19zing/site/blob/master/_biography/shigeru-miyamoto.md)
+Biography προσθήκη [1](https://github.com/p19zing/site/blob/master/_biography/shigeru-miyamoto.md) και [2](https://github.com/p19zing/site/blob/master/_includes/bio-shigeru-miyamoto.md)
