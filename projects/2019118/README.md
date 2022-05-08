@@ -154,3 +154,7 @@ Pull requests:
 
 - [images](https://github.com/Sybil-Reisz/images/pull/7)
 - [site](https://github.com/Sybil-Reisz/site/pull/9)
+
+Preview links:
+- [case study](https://hungry-villani-11b334.netlify.app/case-study/templeos/)
+- [biography](https://hungry-villani-11b334.netlify.app/biography/terry-a-davis/)
