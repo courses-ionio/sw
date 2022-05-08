@@ -17,7 +17,7 @@
 | 7 | βιογραφικό | [LINK](https://github.com/courses-ionio/help/discussions/508) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | [LINK](https://github.com/courses-ionio/help/discussions/559) | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | [LINK](https://github.com/courses-ionio/help/discussions/585) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά | | |
 
@@ -115,3 +115,14 @@
 ![ntfy](https://github.com/initialelizah/imagestoadd/blob/main/signal-2022-04-12-161540.png)
 
 # ✧ Παραδοτέο 10 - Συμμετοχικό περιεχόμενο B
+
+Για το 10ο παραδοτέο με βάση τις προηγούμενες προσθήκες μου "Orbis OS" και "BESYS" αποφάσισα να προσθέσω τη μελέτη περίπτωσης FreeBSD καθώς είναι η βάση του Orbit OS και το βιογραφικό του Ken Thompson που σχετίζεται με τη δημιουργία του Unix, εξέλιξη του FreeBSD. Προσπάθησα όσο γίνεται οι πληροφορίες να ταιριάζουν με το πνεύμα και την αισθητική του βιβλιού. 
+
+| Αρχεία | Ken Thompson | FreeBSD | 
+| --- | --- | --- | 
+| extras | [link](https://github.com/initialelizah/extras/blob/master/bio-thompson.md) | [link](https://github.com/initialelizah/extras/blob/master/cs-freebsd.md) |
+| _biography | [link](https://github.com/initialelizah/site/blob/master/_biography/kenthompson.md) | - 
+| _case-study | - | [link](https://github.com/initialelizah/site/blob/master/_case-study/freebsd.md) |
+| Demo Link | [link](https://initialelizah.netlify.app/biography/kenthompson/) | [link](https://initialelizah.netlify.app/case-study/freebsd/) |
+| Αναφορές | [wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson) | [wikipedia](https://en.wikipedia.org/wiki/FreeBSD) |
+
