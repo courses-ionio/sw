@@ -42,14 +42,10 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 <h2><span id="Αίτημα Ενσωμάτωσης">Αίτημα Ενσωμάτωσης</span></h2>
        Στο 3ο παραδοτέο μας ζητήθηκε η αλλαγή/προσθήκη ενός θέματος με βάση την ιστοσελίδα του τμήματος. Εγώ επέλεξα ως θέμα την προσθήκη του καθηγητή κ. Δουκάκη στο μάθημα "Οργάνωση και Διοικηση Επιχειρήσεων" του Β΄ εξαμήνου. Μετα την δημιουργία του issue, έγιναν οι απαραίτητες αλλαγές στο αποθετήριο της ιστοσελίδας, με αποτέλεσμα να δημιουργηθεί τελικά το κατάλληλο pull request.
        
-[Demo](https://famous-empanada-b13f80.netlify.app/courses/ba/)
-       
-       
-[Issue](https://github.com/ioniodi/sitegr/issues/336)
-       
-       
-[Pull Request](https://github.com/ioniodi/sitegr/pull/403)
-  
+ <li><a href="https://famous-empanada-b13f80.netlify.app/courses/ba/" title="Demo">Demo</a>
+ <li><a href="https://github.com/ioniodi/sitegr/issues/336" title="Issue">Issue</a>
+ <li><a href="https://github.com/ioniodi/sitegr/pull/403" title="Pull Request">Pull Request</a>
+      
 <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
   Για το 4ο παραδοτέο απαιτούνταν η ολοκλήρωση 2 ασκήσεων γραμμής εντολών, η οποία έγινε με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
