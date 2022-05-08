@@ -25,7 +25,7 @@
 | <p align="center">7η | <p align="center">[Bιογραφικό](#7ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/554) | |
 | <p align="center">8η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα </p>| | |
 | <p align="center">9η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
-| <p align="center">10η | <p align="center">συμμετοχικό περιεχόμενο B1+B2</p> | | |
+| <p align="center">10η | <p align="center">συμμετοχικό περιεχόμενο B1+B2</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/592) | |
 | <p align="center">11η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | <p align="center">12η | <p align="center">Τελική αναφορά*</p> |
 
@@ -114,6 +114,11 @@
 ##  🚀7ο Παραδοτέο
 Στο παραδοτέο αυτό δημιούργησα το pdf από το βιογραφικό του 2ου παραδοτέου. Χρησιμοποιήσα το pandoc και το latex τα οποία παρόλο που με δυσκόλεψαν μου έμαθαν πολλά [Το pdf](https://github.com/Alkissourvinos/online-cv/blob/master/cv-pdf/cv.pdf)
 [![asciicast](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6.svg)](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6)<br>
+
+
+## 10ο Παραδοτέο
+[Biography](https://kafeneio-site-pibook.netlify.app/biography/wozniak/)
+[Case Study](https://kafeneio-site-pibook.netlify.app/case-study/iphone-os1/)
 
 ## ✔️ Ομαδικότητα στο μάθημα<br>
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
