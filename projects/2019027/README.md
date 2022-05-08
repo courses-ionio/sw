@@ -13,7 +13,7 @@
 | 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
 | 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας |
 | 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) και [Link στο Asciinema](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2) | Εντός προθεσμίας |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | <a href="#Παραδοτέο 10">συμμετοχικό περιεχόμενο B1+B2</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/) | Εντός προθεσμίας |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -74,3 +74,16 @@
   Στη συνέχεια επέλεξα να εγκαταστήσω το **Jenny** που είναι ένας απλός static site generator.
   Ακολούθησα τις οδηγίες και δημιούργησα επιτυχώς ένα mini blog. 
   Για να το δημοσιεύσω εγκατέστησα Apache web server και για να φανεί στο asciinema χρησιμοποίησα το lynx
+  
+<h2 id="#Παραδοτέο 10">Παραδοτέο 10 - συμμετοχικό περιεχόμενο B1+B2</h2>
+Στο συγκεκριμένο παραδοτέο πρόσθεσα ένα case study παρόμοιο με τις θεματικές του 5ου παραδοτέου και μία νέα αντίστοιχη βιογραφία.
+
+[Το pull request μου στην ομάδα μου]()
+  
+[Το issue μου στην ομάδα](https://github.com/Sybil-Reisz/site/issue/10)
+  
+[Ομάδα - Sybil-Reisz](https://sybil-reisz.netlify.app/)
+  
+[Προσθήκη στο _case-study](https://github.com/p19zing/site/blob/master/_case-study/wii-controller.md)
+  
+[Προσθήκη στο _biography](https://github.com/p19zing/site/blob/master/_biography/shigeru-miyamoto.md)
