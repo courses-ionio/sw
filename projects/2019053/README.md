@@ -607,6 +607,21 @@
 
 <br /> <br />
 
+## Εβδομάδα Δέκατη - Συμμετοχικό περιεχόμενο Β1 + Β2
+
+<br />
+
+Στο [Συμμετοχικό Περιεχόμενο (Α1 + Α2)](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) είχα ασχοληθεί με τα θέματα [gedit](https://en.wikipedia.org/wiki/Gedit) και [Markdown](https://www.markdownguide.org/). Τα θέματα που επέλεξα τόσο για τη μελέτη περίπτωσης όσο και για τη βιογραφία σχετίζονται με το Περιεχόμενο της Markdown. Συγκεκριμένα για μελέτη περίπτωσης ασχολήθηκα με το [Github](https://github.com/) και για βιογραφία επέλεξα να γράψω για τον [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz).
+
+<br />
+
+|Demo-site |
+| --- |
+| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) | 
+| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| 
+
+<br /> <br />
+
 ---
 
 ## Βιβλιογραφία και Πηγές βοήθειας
@@ -662,7 +677,20 @@
  - [sw-lab git hooks info](https://github.com/courses-ionio/sw-lab/tree/sw-lab-2021#cv-2-pdf)
  - [git hooks (1)](https://stackoverflow.com/questions/30376741/run-script-before-commit-and-include-the-update-in-this-commit)
  - [git hooks (2)](https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit/12802592#12802592)
+
 #### Όγδοο Παραδοτέο
  - [jekyll pwa plugin](https://github.com/lavas-project/jekyll-pwa)
+
 #### Ένατο Παραδοτέο
  - [simplepush info](https://simplepush.io/)
+
+#### Δέκατο Παραδοτέο
+ - [Aaron Swartz source 1](https://www.internethalloffame.org/inductees/aaron-swartz)
+ - [Aaron Swartz source 2](https://newrepublic.com/article/112418/aaron-swartz-suicide-why-he-broke-jstor-and-mit)
+ - [Aaron Swartz source 3](https://openlibrary.org/authors/OL7167953A/Aaron_Swartz)
+ - [Aaron Swartz source 4](https://creativecommons.org/2013/01/12/remembering-aaron-swartz/)
+ - [Aaron Swartz source 5](https://en.wikipedia.org/wiki/Aaron_Swartz)
+ - [Aaron Swartz Movie](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+ - [git source](https://www.welcometothejungle.com/en/articles/btc-history-git)
+ - [github source](https://nira.com/github-history/)
+ - [github logo source](https://smhatre59.medium.com/the-untold-story-of-github-132840f72f56#:~:text=Github%20is%20a%20web%20based%20Git%20repository%20hosting%20service%20which,code%20management%20functionality%20of%20git.)
