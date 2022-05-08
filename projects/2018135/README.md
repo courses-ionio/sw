@@ -124,5 +124,5 @@
 | _biography | [link](https://github.com/initialelizah/site/blob/master/_biography/kenthompson.md) | - 
 | _case-study | - | [link](https://github.com/initialelizah/site/blob/master/_case-study/freebsd.md) |
 | Demo Link | [link](https://initialelizah.netlify.app/biography/kenthompson/) | [link](https://initialelizah.netlify.app/case-study/freebsd/) |
-| Αναφορές | [wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson) | [wikipedia](https://en.wikipedia.org/wiki/FreeBSD) |
+| Πηγές | [wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson) | [wikipedia](https://en.wikipedia.org/wiki/FreeBSD) |
 
