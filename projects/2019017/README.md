@@ -102,7 +102,15 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 
 ## Συμμετοχικο 2 με αλλαγες στο συμμετοχικο 1
 Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το Void, εγραψα συγκεκριμενα για το [runit](https://github.com/p19kala/_gallery/blob/P2019017/runit.md) init συστημα που χρησιμοποιει το Void και το πλεονέκτημά του ειναι να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Ενω κανει boot, ταυτοχρονα τρεχει startup services για να γλιτωσει χρονο. Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
-Revised Gallery (demo): https://p19kala-pibook.netlify.app/gallery/runit
+Revised Gallery (demo): https://p19kala-pibook.netlify.app/gallery/runit <br>
+Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-manage/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-manage.md) <br>
+Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
+
+Αντικατασταση της εγγραφης για το FreeBSD με το XBPS package manager του Void. Δημιουργηθηκε απο το μηδεν απο την ομαδα του Void και συντηρειται μεχρι σημερα. Υλοποιηθηκε για πρωτη φορα στο λειτουργικο του Void, το οποιο με τη σειρα του δημιουργηθηκε αποκλειστικα ως testing grounds για το XBPS. Ο κωδικας βρισκεται στο [github](https://github.com/void-linux/xbps). Περισσοτερα εδω:<br>
+Εικονα με λεζαντα: https://p19kala-pibook.netlify.app/gallery/xbps/ <br>
+Εικονα [full](https://github.com/p19kala/images/commit/dcd60635e92d270f8ee43408fa52a01e0b35bfb4) και [thumbnail](https://github.com/p19kala/images/commit/6096a01c608b82c0e88b48e9cf44bc319aa9890a). <br>
+Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-manage/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-manage.md) <br>
+Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
 More to be added...
 
