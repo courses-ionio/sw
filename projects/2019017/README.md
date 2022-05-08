@@ -107,7 +107,7 @@ Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-manage/), [git
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
 Αντικατασταση της εγγραφης για το FreeBSD με το XBPS package manager του Void. Δημιουργηθηκε απο το μηδεν απο την ομαδα του Void και συντηρειται μεχρι σημερα. Υλοποιηθηκε για πρωτη φορα στο λειτουργικο του Void, το οποιο με τη σειρα του δημιουργηθηκε αποκλειστικα ως testing grounds για το XBPS. Ο κωδικας βρισκεται στο [github](https://github.com/void-linux/xbps). Περισσοτερα εδω:<br>
-Εικονα με λεζαντα: https://p19kala-pibook.netlify.app/gallery/xbps-manager/ <br>
+Εικονα με λεζαντα: https://p19kala-pibook.netlify.app/gallery/void-xbps/ <br>
 Εικονα [full](https://github.com/p19kala/images/commit/dcd60635e92d270f8ee43408fa52a01e0b35bfb4) και [thumbnail](https://github.com/p19kala/images/commit/6096a01c608b82c0e88b48e9cf44bc319aa9890a). <br>
 Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-manage/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-manage.md) <br>
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
