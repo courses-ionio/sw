@@ -22,7 +22,7 @@
 | 7 | [Βιογραφικό: PDF με pandoc και LaTeX + CI](#7ο-παραδοτέο---βιογραφικό-pdf-με-pandoc-και-latex--ci) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/523#discussion-3983966) | |
 | 8 | [2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8ο-παραδοτέο---2ο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/560) | |
 | 9 | [Άσκηση γραμμής εντολών: performance monitoring](#9ο-παραδοτέο---performance-monitoring) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/565) | |
-| 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-και-β2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/589) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -168,6 +168,7 @@
 
 Με τα παραπάνω παιχνίδια ασχολούμαι πάρα πολύ καιρό και έχω δοκιμάσει να συνεισφέρω ο ίδιο επομένως δεν χρησιμοποίησα κάποια συγκεκριμένη πηγή online για αυτά που γράφω και για αυτό δεν προσθέτω συνδέσμους.
 
+#### Link προς το post μου για την διαδικασία συνησφοράς: [post](https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10)
 #### Link προς το repository του site στο προσοπικό μου αποθετίριο: [KuhakuNeko/site](https://github.com/KuhakuNeko/site)<br>
 #### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/1](https://github.com/Git-s-PopTeamEpic/site/issues/1)<br>
 #### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/5](https://github.com/Git-s-PopTeamEpic/site/pull/5)<br>
@@ -313,3 +314,37 @@
 #### Asciinema link "performance monitoring" εκδοχή με py-spy (1+2):  [Terminal Excersice 2019108 - Performance Monitoring VER.py-spy 1](https://asciinema.org/a/3DaOskEWTZaOiFLKRN4enGQ4H) | [Terminal Excersice 2019108 - Performance Monitoring VER.py-spy 2](https://asciinema.org/a/9qWsTIGgk5ZFiek7O3e36I44t)<br>
 #### Asciinema link για το shell script μου με όνομα "HyperHakuBench": [Demo for HyperHakuBench.sh by KuhakuNeko](https://asciinema.org/a/H0haHd26Ne2yXspp8zjun3ZLu)<br>
 #### Link προς το HyperHakuBench shell script στο repository μου: [KuhakuNekoLinuxShellScripts/HyperHakuBench.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HyperHakuBench.sh)<br>
+
+# 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1 και Β2
+#### Set-up ομάδας
+Και αυτήν την φορά κατασκευάσα ένα καινούριο issue template για την ομάδα και την συνησφορά τύπου B1+B2 και ανανέωσα το post τις διαδικασίας.
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%2010%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Add%20an%20issue%20template%20to%20Git-s-PopTeamEpic_siteB1B2.png" width="340px">
+</p>
+
+### Η δική μου συνεισφορά (B1 + B2)
+Για αυτήν την εβδομάδα αποφάσισα να γράψω ένα βιογραφικό για τον Myron W. Kruger τον καλλιτέχνη των υπολογιστών και να κάνω μία μελέτη περίπτωσης πάνω στα metaverses εφόσον ήδη μου είχε δοθεί βάση από τα προηγούμενα και μου προτάθηκε ότι θα ταίριαζαν σε μία μελέτη περίπτωσης. Πρόσθεσα επίσης μία φωτογραφία με λεζάντας για τον Myron Krueger ώστε να την χρησιμοποιήσω ως thumbnail για την βιογραφία του.<br>
+
+Αυτό που προσπάθησα να επιτύχω με τις επιλογές μου είναι να γράψω για κάτι που πραγματικά με ενδιαφέρει και είναι κοντά στην εισαγωγή μου, να είναι κοντά σε αυτά που έγραψα στην συνεισφορά Α1+Α2, να χρησιμοποιήσω όσες περισσότερες γνώσεις έχω αντλήσει από τα μάθημα και το βιβλίο και να της προσθέσω/συνδέσω, και να ικανοποιώντας όλα τα παραπάνω να τα φέρω και κοντά στην τεχνολογία λογισμικού. Μελετώντας καλά τις πηγές, το βιβλίο και συγκεντρώνοντας τις γνώσεις μου πιστεύω ότι κατέληξα σε ένα πολύ αναλυτικό και καλό αποτέλεσμα.<br>
+
+#### Ο πίνακας με τις συνεισφορές μου:
+| Περιγραφή | Προσωπικό Repository Link | Πρωσοπικό Netlify Link | Netlify Link Ομάδας |
+| --- | --- | --- | --- |
+| Biography Myron Krueger | [myron-krueger.md](https://github.com/KuhakuNeko/site/blob/2019108_SW/_biography/myron-krueger.md) | [Myron Krueger Bio](https://p2019108-sw-pibook.netlify.app//biography/myron-krueger/) | [Myron Krueger Bio](https://gits-team-epic-pibook.netlify.app//biography/myron-krueger/) |
+| Include Myron Krueger bio | [bio-krueger.md](https://github.com/KuhakuNeko/site/blob/2019108_SW/_includes/bio-krueger.md)  |  |  |
+| Case study metaverses | [metaverses.md](https://github.com/KuhakuNeko/site/blob/2019108_SW/_case-study/metaverses.md) | [Metaverses cs](https://p2019108-sw-pibook.netlify.app//case-study/metaverses/) | [Metaverses cs](https://gits-team-epic-pibook.netlify.app//case-study/metaverses/) |
+| Include metaverses cs | [cs-metaverses.md](https://github.com/KuhakuNeko/site/blob/2019108_SW/_includes/cs-metaverses.md) |  |  |
+| Myron Krueger image | [Full Quality](https://github.com/KuhakuNeko/images/blob/2019108_SW/krueger-profile.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/2019108_SW/krueger-profile-thumb.jpg) |  |  |
+| Myron Krueger gallery | [krueger-profile.md](https://github.com/KuhakuNeko/_gallery/blob/2019108_SW/krueger-profile.md) | [Myron Krueger gallery](https://p2019108-sw-pibook.netlify.app//gallery/krueger-profile/) | [Myron Krueger gallery](https://gits-team-epic-pibook.netlify.app//gallery/krueger-profile/) |
+
+* Τα links προς το site της ομάδας θα λειτουργήσουν όταν γίνει αποδεκτό το pull request μου.
+
+#### Links προς μερικές από τις πηγές που ερεύνησα:
+[videoplace_paper.pdf](http://dada.compart-bremen.de/docUploads/videoplace_paper.pdf) | [dada.compart-bremen.de/item/agent/527](http://dada.compart-bremen.de/item/agent/527) | [4f009e4a82bc69a494733b4156cca80f.pdf](https://archive.aec.at/media/assets/4f009e4a82bc69a494733b4156cca80f.pdf) | [medienkunstnetz.de/works/videoplace/](http://www.medienkunstnetz.de/works/videoplace/) | [medienkunstnetz.de/artist/krueger/biography/](http://www.medienkunstnetz.de/artist/krueger/biography/) | [wikipedia/Myron_Krueger](https://en.wikipedia.org/wiki/Myron_W._Krueger) | [aboutmyronkrueger.weebly.com](https://aboutmyronkrueger.weebly.com/) | [/thedigitalage.pbworks.com/w/page/22039083/Myron%20Krueger](http://thedigitalage.pbworks.com/w/page/22039083/Myron%20Krueger) | [historyofinformation.com entryid=4699](https://www.historyofinformation.com/detail.php?entryid=4699) | [elmcip.net/creative-work/videoplace](https://elmcip.net/creative-work/videoplace) | [wikipedia/Videoplace](https://en.wikipedia.org/wiki/Videoplace) | [dada.compart-bremen.de/item/artwork/1346](http://dada.compart-bremen.de/item/artwork/1346) | [aboutmyronkrueger.weebly.com/videoplace](https://aboutmyronkrueger.weebly.com/videoplace.html) | [dl.acm.org/doi/10.1145/1165385.317463](https://dl.acm.org/doi/10.1145/1165385.317463) | [aboutmyronkrueger.weebly.com/metaplay](https://aboutmyronkrueger.weebly.com/metaplay.html) | [dada.compart-bremen.de/item/artwork/1348](http://dada.compart-bremen.de/item/artwork/1348) | [Myron Krueger - Videoplace, Responsive Environment, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo) | [Myron Krueger's Critter](https://www.youtube.com/watch?v=VdrujesfIBQ) | [Videoplace (1985)](https://www.youtube.com/watch?v=d4DUIeXSEpk) 
+
+[academy-binance What Is the Metaverse?](https://academy.binance.com/en/articles/what-is-the-metaverse?utm_campaign=googleadsxacademy&utm_source=googleadwords_int&utm_medium=cpc&ref=HDYAHEES&gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CImigCbWhs1xUJL8i2wwpfB_2JE6YFziAMJui5-RABqyi-Tn8pgTvQaAhOFEALw_wcB) | [carmen-chu-metaverse-and-posthuman-society](https://coinyuppie.com/carmen-chu-metaverse-and-posthuman-society/) | [wikipedia/Metaverse](https://en.wikipedia.org/wiki/Metaverse) | [metaverse-what-is-it-explained-facebook-microsoft-meta-vr](https://eu.usatoday.com/story/tech/2021/11/10/metaverse-what-is-it-explained-facebook-microsoft-meta-vr/6337635001/) | [vice what-is-the-metaverse-internet-technology-vr](https://www.vice.com/en/article/93bmyv/what-is-the-metaverse-internet-technology-vr) | [merriam-webster.com/words-at-play/meaning-of-metaverse](https://www.merriam-webster.com/words-at-play/meaning-of-metaverse) | [](https://www.dictionary.com/browse/metaverse) | [dictionary.cambridge.org/dictionary/english/metaverse](https://dictionary.cambridge.org/dictionary/english/metaverse) | [virtual-reality/what-is-facebooks-metaverse/](https://www.xrtoday.com/virtual-reality/what-is-facebooks-metaverse/) |
+
+#### Link προς το repository του site στο προσοπικό μου αποθετίριο: [KuhakuNeko/site](https://github.com/KuhakuNeko/site)<br>
+#### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/17](https://github.com/Git-s-PopTeamEpic/site/issues/17)<br>
+#### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/18](https://github.com/Git-s-PopTeamEpic/site/pull/18)<br>
