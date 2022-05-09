@@ -170,7 +170,25 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 | Repo | [link](https://github.com/mariosconsta/cv) |
 | PDF Download | [link](https://github.com/mariosconsta/cv/raw/main/pdf/cv.pdf) |
 
-IMAGE HERE
+## 8o Παραδοτέο - 	Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
+## 9o Παραδοτέο - Άσκηση γραμμής εντολών
+
+## 10o Παραδοτέο - Συμμετοχικό Περιεχόμενο B1+B2
+
+| Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
+| --- | --- | --- |
+| Case Study | [cs-directx.md](https://github.com/mariosconsta/site/blob/netlify/_includes/cs-directx.md) Και [directx.md](https://github.com/mariosconsta/site/blob/netlify/_case-study/directx.md) | [Netlify](https://p2015002.netlify.app/case-study/directx/) |
+| Biography | [bio-engstrom.md](https://github.com/mariosconsta/site/blob/netlify/_includes/bio-engstrom.md) Και [eric-engstrom.md](https://github.com/mariosconsta/site/blob/netlify/_biography/eric-engstrom.md) | [Netlify](https://p2015002.netlify.app/biography/eric-engstrom/) |
+
+### Πηγές
+
+- [Friends remember Microsoft renegade Eric Engstrom, who suggested a DirectX console](https://venturebeat.com/2020/12/07/friends-remember-microsoft-renegade-eric-engstrom-who-suggested-a-directx-console/)
+- [Eric Engstrom](https://en.wikipedia.org/wiki/Eric_Engstrom)
+- [DirectX](https://www.techopedia.com/definition/4971/directx)
+- [DirectX_Wiki](https://en.wikipedia.org/wiki/DirectX)
+- [DirectX](https://www.pcmag.com/encyclopedia/term/directx)
+- [What is DirectX, and why does it matter for gaming?](https://www.windowscentral.com/what-directx-why-does-matter-gaming)
+- [What is DirectX, and why is it important for PC games?](https://www.digitaltrends.com/computing/what-is-directx/)
 
 ---
