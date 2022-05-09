@@ -337,15 +337,20 @@ asciinema link για hugo:
   
 ## Μελέτη περίπτωσης : Σχεδίαση διαδραστικών εφαρμογών με το Matlab App Designer 
   
-Αποθετήριο μελέτης περίπτωσης : 
+Αποθετήριο μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/appdesigner.md
   
-Αποθετήριο κειμένου μελέτης περίπτωσης : 
+Αποθετήριο κειμένου μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/cs-appdesigner.md
   
 Μελέτη περίπτωσης : 
   
 **Λεπτομέρειες** : 
   
+Το Matlab App Designer είναι μια πλατφόρμα που σας επιτρέπει να προγραμματίζετε και να αναπτύσσετε εφαρμογές χωρίς να χρειάζεται να είστε προγραμματιστής 
+υπολογιστών.
+  
 **Πηγή** : 
+  
+https://www.mathworks.com/products/matlab/app-designer.html
   
 ## Β2
   
