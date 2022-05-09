@@ -13,10 +13,10 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4-άσκηση-γραμμής-εντολών) |[Παρουσίαση Πρόοδου 4](https://github.com/courses-ionio/help/discussions/470) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5-συμμετοχικό-περιεχόμενο-α1α2) | [Παρουσίαση Πρόοδου 5](https://github.com/courses-ionio/help/discussions/480) | |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/580) | |
-| 7 | βιογραφικό | | |
+| 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 <br />
@@ -93,7 +93,7 @@
 
 Για τα pull request τοσο στο images και στο gallery όσο και στο site ανοίγω νέο branch για τις αλλαγές μου ώστε να αποφεύγονται λάθη.
 
-| Περιγραφή | Repository Link | Netlify Link Ομάδας |
+| Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
 | --- | --- | --- |
 | Images Windows Vista | [Κανονική Εικόνα](https://github.com/Cont1nental/images/blob/master/windows-vista.png) Και [Thumbnail](https://github.com/Cont1nental/images/blob/master/windows-vista-thumb.png) | [Netlify](https://continental-site.netlify.app//gallery/windows-vista/) |
 | Gallery Windows Vista | [Στοιχεία Εικόνας](https://github.com/Cont1nental/_gallery/blob/master/windows-vista.md) | |
@@ -103,15 +103,16 @@
 | Timeline Η εξέλιξη των συστημάτων της Microsoft | [Timeline](https://github.com/Cont1nental/site/blob/master/_timeline/microsoft.md) | [Netlify](https://continental-site.netlify.app//timeline/microsoft/) |
 <br />
 
-Εδώ παραθέτω και τα προσωπικά μου αποθετήρια όπως επίσης και το δικό μου Netlify.
+Εδώ παραθέτω και τα προσωπικά μου αποθετήρια όπως επίσης και το πρροσωπικό μου Netlify.
 
-[Site](https://github.com/Sola1r3/site)
-
-[Images](https://github.com/Sola1r3/images)
-
-[Gallery](https://github.com/Sola1r3/_gallery)
-
-[Netlify](https://jocular-custard-b601cf.netlify.app/)
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Images Windows Vista | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/A1A2/windows-vista.png) Και [Thumbnail](https://github.com/Sola1r3/images/blob/A1A2/windows-vista-thumb.png) | [Netlify](https://jocular-custard-b601cf.netlify.app/gallery/windows-vista/) |
+| Gallery Windows Vista | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/A1A2/windows-vista.md) | |
+| Images Margaret Hamilton | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/A1A2/margaret-hamilton.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/A1A2/margaret-hamilton-thumb.jpg) | [Netlify](https://jocular-custard-b601cf.netlify.app/gallery/margaret-hamilton/) |
+| Gallery Margaret Hamilton | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/A1A2/margaret-hamilton.md) | |
+| Slides Σημαντικά Πρόσωπα | [Slides](https://github.com/Sola1r3/site/blob/netlify/_slides/important-people.md) | [Netlify](https://jocular-custard-b601cf.netlify.app//slides/important-people/) |
+| Timeline Η εξέλιξη των συστημάτων της Microsoft | [Timeline](https://github.com/Sola1r3/site/blob/netlify/_timeline/microsoft.md) | [Netlify](https://jocular-custard-b601cf.netlify.app//timeline/microsoft//) |
 
 ## Παραδοτέο 6: Άσκηση Γραμμής Εντολών
 
@@ -120,3 +121,28 @@
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/freeBSD-installation.PNG)
 
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/freebsd-neofetch%20-%20resize.png)
+
+<br />
+
+## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο Β1+Β2
+
+Για το δεύτερο παραδοτέο συμμετοχικού περιεχομένου ασχολήθηκα στο κομμάτι της μελέτης περίπτωσης με την ανάπτυξη του λειτουργικού συστήματος Windows Vista από την Microsoft
+ενώ για το κομμάτι της βιογραφίας εξέτασα την περίπτωση της Margaret Hamilton. Παρακάτω παραθέτω όλους τους σχετικούς συνδέσμους.
+
+[Σχετικό Issue στο Site της ομάδας](https://github.com/Cont1nental/site/issues/9)
+
+[Pull στο Site]()
+
+| Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
+| --- | --- | --- |
+| Μελέτη Περίπτωσης | [Case Study Κείμενο]() Και [Case Study αρχείο]() | [Netlify]() |
+| Βιογραφία | [Biography Κείμενο]() Και [Biography αρχείο]() | [Netlify]() |
+
+Παρακάτω οι σύνδεσμοι από τα προσωπικά αποθετήρια και Netlify
+
+| Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
+| --- | --- | --- |
+| Μελέτη Περίπτωσης | [Case Study Κείμενο]() Και [Case Study αρχείο]() | [Netlify]() |
+| Βιογραφία | [Biography Κείμενο]() Και [Biography αρχείο]() | [Netlify]() |
+
+### Πηγές: 
