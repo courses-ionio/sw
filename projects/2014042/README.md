@@ -15,8 +15,8 @@
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/580) | |
 | 7 | Βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | | |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/596) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 <br />
@@ -131,18 +131,18 @@
 
 [Σχετικό Issue στο Site της ομάδας](https://github.com/Cont1nental/site/issues/9)
 
-[Pull στο Site]()
+[Pull στο Site](https://github.com/Cont1nental/site/pull/12)
 
 | Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
 | --- | --- | --- |
-| Μελέτη Περίπτωσης | [Case Study Κείμενο]() Και [Case Study αρχείο]() | [Netlify]() |
-| Βιογραφία | [Biography Κείμενο]() Και [Biography αρχείο]() | [Netlify]() |
+| Μελέτη Περίπτωσης | [Case Study Κείμενο](https://github.com/Cont1nental/site/blob/master/_includes/cs-vista.md) Και [Case Study αρχείο](https://github.com/Cont1nental/site/blob/master/_case-study/vista.md) | [Netlify](https://continental-site.netlify.app//case-study/vista/) |
+| Βιογραφία | [Biography Κείμενο](https://github.com/Cont1nental/site/blob/master/_includes/bio-hamilton.md) Και [Biography αρχείο](https://github.com/Cont1nental/site/blob/master/_biography/margaret-hamilton.md) | [Netlify](https://continental-site.netlify.app//biography/margaret-hamilton/) |
 
 Παρακάτω οι σύνδεσμοι από τα προσωπικά αποθετήρια και Netlify
 
 | Περιγραφή | Repository Link Ομάδας | Netlify Link Ομάδας |
 | --- | --- | --- |
-| Μελέτη Περίπτωσης | [Case Study Κείμενο]() Και [Case Study αρχείο]() | [Netlify]() |
-| Βιογραφία | [Biography Κείμενο]() Και [Biography αρχείο]() | [Netlify]() |
+| Μελέτη Περίπτωσης | [Case Study Κείμενο](https://github.com/Sola1r3/site/blob/netlify/_includes/cs-vista.md) Και [Case Study αρχείο](https://github.com/Sola1r3/site/blob/netlify/_case-study/vista.md) | [Netlify](https://jocular-custard-b601cf.netlify.app/case-study/vista/) |
+| Βιογραφία | [Biography Κείμενο](https://github.com/Sola1r3/site/blob/netlify/_includes/bio-hamilton.md) Και [Biography αρχείο](https://github.com/Sola1r3/site/blob/netlify/_biography/margaret-hamilton.md) | [Netlify](https://jocular-custard-b601cf.netlify.app/biography/margaret-hamilton/) |
 
-### Πηγές: 
+Πηγές: [Vista 1](https://news.microsoft.com/2007/01/17/microsoft-unveils-new-ways-for-consumers-to-get-windows-vista/), [Vista 2](https://en-academic.com/dic.nsf/enwiki/2126277), [Vista 3](https://web.archive.org/web/20140127195804/http://www.informationweek.com/microsofts-vista-had-major-mac-envy-company-e-mails-reveal/d/d-id/1051287), [Vista 4](https://medium.com/techtalkers/windows-vista-why-did-it-fail-b3ba4bd08a74), [Vista 5](https://www.wsj.com/articles/SB112743680328349448), [Vista 6](https://web.archive.org/web/20040102183707/http://www.forbes.com/free_forbes/2003/0526/147.html), [Vista 7](https://www.pastemagazine.com/tech/windows/rip-windows-vista-remembering-microsofts-biggest-b/), [Hamilton 1](https://computerhistory.org/blog/2017-chm-fellow-margaret-hamilton/?key=2017-chm-fellow-margaret-hamilton), [Hamilton 2](http://authors.library.caltech.edu/5456/1/hrst.mit.edu/hrs/apollo/public/conference1/hamilton-intro.htm), [Hamilton 3](https://www.computer.org/publications/tech-news/events/what-to-know-about-the-scientist-who-invented-the-term-software-engineering), [Hamilton 4](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
