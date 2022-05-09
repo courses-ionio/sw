@@ -356,9 +356,9 @@ https://www.mathworks.com/products/matlab/app-designer.html
   
 ## Βιογραφία : 
   
-Αποθετήριο βιογραφίας : 
+Αποθετήριο βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/cleve-moler.md
   
-Αποθετήριο κειμένου βιογραφίας :
+Αποθετήριο κειμένου βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/bio-moler.md
   
 Βιογραφία : 
   
@@ -367,5 +367,7 @@ https://www.mathworks.com/products/matlab/app-designer.html
 Ο Cleve Barry Moler είναι ένας Αμερικανός μαθηματικός και προγραμματιστής υπολογιστών που ειδικεύεται στην αριθμητική ανάλυση.
   
 **Πηγή** :
+  
+https://www.mathworks.com/company/aboutus/founders/clevemoler.html
   
 
