@@ -341,7 +341,7 @@ asciinema link για hugo:
   
 Αποθετήριο κειμένου μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/cs-appdesigner.md
   
-Μελέτη περίπτωσης : 
+Μελέτη περίπτωσης : https://p18kout.netlify.app/case-study/appdesigner/
   
 **Λεπτομέρειες** : 
   
@@ -360,7 +360,7 @@ https://www.mathworks.com/products/matlab/app-designer.html
   
 Αποθετήριο κειμένου βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/bio-moler.md
   
-Βιογραφία : 
+Βιογραφία : https://p18kout.netlify.app/biography/cleve-moler/
   
 **Λεπτομέρειες** :
   
