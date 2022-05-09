@@ -24,7 +24,7 @@
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/558) | Στο ένατο παραδοτέο ζητήθηκε μία άσκηση γραμμής εντολών. Εγώ επέλεξα την check the weather και όπως στα προηγούμενα παραδοτέα άσκησης γραμμής εντολών την υλοποίησα με το τερματικό του Void Linux, καθώς από τα προηγούμενα παραδοτέα κατάλαβα πως με βολεύει πολύ σαν λογισμικό.|
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2-10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/578)| |
 | 11 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-11%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CF%8C) | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | [Τελική αναφορά*](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | | |
 
 
 # Εισαγωγή (1ο Παραδοτέο)
