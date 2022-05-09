@@ -26,7 +26,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | <div align="center"> - </div> | <div align="center"> - </div> |
 | 9 | [Άσκηση γραμμής εντολών CLI](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1-cli) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/463#discussion-3965517) </div> | <div align="center"> - </div> |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | <div align="center"> [Link](https://google.com) </div>  | <div align="center"> - </div> |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Άσκηση γραμμής εντολών hyperfine](https://github.com/p19tzam) | <div align="center"> - </div> | <div align="center"> - </div> |
 | 12 | Τελική αναφορά | | |
 | 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | | |
 
@@ -469,6 +469,19 @@ pandoc -f html -t latex --pdf-engine=xelatex $URL -s -o tzama_bio.pdf
 echo ""
 echo "Bio extracted successfully!"
 ```
+
+
+
+## :pushpin:: Άσκηση γραμμής εντολών 2 hyperfine python script benchmark
+Στην δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την άσκηση με το hyperfine το οποίο hyperfine είναι ενα command line tool για benchmarking στο λειτουργικό πχ σε μια εντολή.
+
+για την εγκατάσταση του τρέχουμε εξής εντολές
+```bash
+xbps-install -S hyperfine
+```
+### Asciinema
+[![asciicast](https://asciinema.org/a/493040.svg)](https://asciinema.org/a/493040)
+
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
