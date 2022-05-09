@@ -214,6 +214,7 @@ Images:
 - [images-makis](https://github.com/Kafeneio/images/pull/3)
 - [images-dimos](https://github.com/Kafeneio/images/pull/4)
 - [images-alkis](https://github.com/Kafeneio/images/pull/5)
+- [images-alkis](https://github.com/Kafeneio/images/pull/8)
 
 ## 🏢 Οργανισμός
 
