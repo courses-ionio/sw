@@ -482,6 +482,24 @@ xbps-install -S hyperfine
 ### Asciinema
 [![asciicast](https://asciinema.org/a/493040.svg)](https://asciinema.org/a/493040)
 
+## :pushpin:: Συμμετοχικό περιεχόμενο B1+B2
+Σε αυτό το παραδοτέο είχαμε να κάνουμε το συμμετοχικό Β το οποίο είναι και ομαδικό σε αυτό το κομμάτι ακολουθήσαμε τα ίδια βήματα με το πρώτο.
+
+<br>Για βιογραφία έκανα για τον Klaus Knopper ο οποίος είναι υπεύθυνος για την δημιουργία του knoppix που στο οποίο βασίστηκε το πρώτο “specialized os”.
+
+Και για case study έκανα για τις Δοκιμές διείσδυσης και Specialized Λειτουργικά συστήματα και πως βοηθούν στο κόσμο της πληροφορικής
+
+
+| Netlify | 
+| --- |
+| [Biography ](https://kafeneio-site-pibook.netlify.app/biography/klaus_knopper/) | 
+| [Case Study](https://kafeneio-site-pibook.netlify.app/case-study/pen_test_os/) | 
+
+Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.netlify.app/): <br>
+ 
+| [Images pull](https://github.com/Kafeneio/images/pull/8)  | [site pull](https://github.com/Kafeneio/site/pull/18) |
+| --- | --- |
+
 
 ## Συμμετοχή και ομαδικότητα
 [Show & tell μια λύση που είχα για το πως μπορούμε να κάνουμε deploy το “σπασμένο” webring του maxboeck](https://github.com/courses-ionio/help/discussions/165#discussion-3897013) <br>
