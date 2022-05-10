@@ -30,7 +30,7 @@
 Για την δημιουργία του βιογραφικού μου χρησιμοποίησα ένα από τα ενδεικτικά templates που υπάρχουν στις οδηγίες. Και πιο συγκεκριμένα το το [template](https://github.com/Stavrospanakakis/jekyll-cv) ενός παλιού φοιτητή του Πανεπιστημίου. Αρχικά το έκανα clone local στον υπολογιστή, μετά έκανα τις κατάλληλες αλλαγές για να το προσαρμόσω στα δικά μου δεδομένα.
 
  * Βιογραφικό :    [Repo](https://github.com/ApoLaz/my-cv)  |  [Site](https://apolaz.github.io/my-cv/)
- * Organization :  [LostMpodis](https://github.com/LostMpodis)
+ * Organisation :  [LostMpodis](https://github.com/LostMpodis)
  * Webring :       [Repo](https://github.com/LostMpodis/webring)  |  [Site](https://lostmpodis.github.io/webring/)
  * [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN)
 
@@ -50,7 +50,7 @@
 * [Asciinema](https://asciinema.org/a/vy2TfJaFLs0Iy8xiRdQytTRKS)
 
 ## Συμμετοχικό περιεχόμενο A1+A2 (5ο Παραδοτέο)
-Για το 5ο Παραδοτέο ανέβασα στο site του organization για το βιβλίο εικόνες και πληροφορίες για ένα από τα πιο γνωστά IDE το Spyder και για τον Travis Oliphant data scientist και για έναν εκ των δυο ιδρυτών της Anaconda. Οι φωτογραφίες προστέθηκαν στο submodule images και τα .md αρχεία στο _gallery.
+Για το 5ο Παραδοτέο ανέβασα στο site του organisation για το βιβλίο εικόνες και πληροφορίες για ένα από τα πιο γνωστά IDE το Spyder και για τον Travis Oliphant data scientist και για έναν εκ των δυο ιδρυτών της Anaconda. Οι φωτογραφίες προστέθηκαν στο submodule images και τα .md αρχεία στο _gallery.
 Στο κεντρικό αποθετήριο του site έγιναν οι κατάλληλες προσθήκες στα _slides και στα _timelines. Παρακάτω παραθέτω και τα αντίστοιχα pull requests :
  * [Pull Request - images](https://github.com/LostMpodis/images/pull/3)
  * [Pull Request - _gallery](https://github.com/LostMpodis/_gallery/pull/3)
