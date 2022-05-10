@@ -10,10 +10,10 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στην περιοχή Discussions](https://github.com/courses-ionio/help/discussions/97) | |
 | 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/240) & [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Discussions](https://github.com/courses-ionio/help/discussions/422) | |
-| 4 | Άσκηση γραμμής εντολών |[Discussions]() | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
+| 4 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/538) | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Discussions](https://github.com/courses-ionio/help/discussions/599) | |
+| 6 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/600) | |
+| 7 | βιογραφικό |[Discussions](https://github.com/courses-ionio/help/discussions/601) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
