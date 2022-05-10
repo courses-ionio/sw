@@ -45,9 +45,9 @@
 [Link Discussions](https://github.com/courses-ionio/help/discussions/351)
 
 # <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
-Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .
+Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux . Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
-[Link Αναφοράς](https://github.com/courses-ionio/help/discussions/434)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/434)
 
 [Asciinema Link](https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
 
@@ -60,7 +60,7 @@
 
 # <a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
-Πήρα 2 σκριπτάκια και χρησιμοποίησα στο py-spy και στο hyperfine για να συγκρίνω της αποδόσεις των δύο:
+Πήρα 2 σκριπτάκια που έγραψα εγώ ίσα ίσα για την χρήση των παραπάνω εργαλείων και χρησιμοποίησα το py-spy και το hyperfine για να συγκρίνω της αποδόσεις των δύο:
 
 [Asciinema Py spy](https://asciinema.org/a/jc1vyK2KVHLwfKUyEkvWPhalH)
 
