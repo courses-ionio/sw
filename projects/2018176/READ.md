@@ -25,7 +25,7 @@
 
 # <a name="A">Εισαγωγή</a>
  Πιστεύω πως η Τεχνολογία Λογισμικού θα με βοηθήσει σε  ζητήματα σχεδιασμού, διαχείρισης και διοίκησης λογισμικού που ανακύπτουν κατά την ανάπτυξη σύνθετων έργων λογισμικού.Επιπλέον αποσκοπώ να αποκτήσω γνώσεις πάνω σε εργαλεία που χρησιμοποιούνται στην δημιουργία λογισμικού όπως είναι το Github. Τέλος πιστεύω πως το συνεργατικό κομμάτι θα με βοηθήσει να αναπτύξω περαιτέρω τις συνεργατικές μου ικανότητες κατανοώντας το τι είναι να λειτουργείς σαν ομάδα και την σημασία της συλλογικής προσπάθειας.
-[Link Αναφοράς](https://github.com/p18balt/sw/blob/2018176/projects/README.md)
+
 
 
 # <a name="B">Βιογραφικό </a>
@@ -34,7 +34,7 @@
 Το [αποθετήριο](https://github.com/p18balt/online-cv-3/tree/master) του βιογραφικού μου
 Η [ομάδα](https://github.com/DevTeamIU) μας
 [Webring](https://devteamiu.netlify.app/) ομάδας
-[Link Αναφοράς](https://github.com/p18balt/sw/blob/2018176/projects/README.md)	
+
 
 
 # <a name="C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>
@@ -42,7 +42,7 @@
 [Live Demo](https://optimistic-kilby-7fd188.netlify.app/posts/2021/11/12/covid19-case/),
 [Issue Link](https://github.com/ioniodi/sitegr/issues/269),
 [Pull Request](https://github.com/ioniodi/all_collections/pull/18),
-[Link Αναφοράς](https://github.com/courses-ionio/help/discussions/351)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/351)
 
 # <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .
