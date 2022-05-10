@@ -17,7 +17,7 @@
 | 8 | **[Δεύτερο αίτημα ενσωμάτωσης](#Δεύτερο-αίτημα-ενσωμάτωσης)** | [Ανάρτηση της επιλογής μου για το δεύτερο αίτημα ενσωμάτωσης](https://github.com/courses-ionio/help/discussions/550) | Είμαι ικανοποιημένος από την προσπάθεια μου για το δεύτερο αίτημα ενσωμάτωσης, αφού έψαξα αρκετά παλαιά θέματα και προσπάθησα αρκετά για να προσθέσω ένα κουμπί για το Facebook, ενώ σε αυτό το χρονικό διάστημα καταλάθος πραγματοποίησα πολύ γρήγορα ένα [easy closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
 | 9 | **[Άσκηση γραμμής εντολών(ntfy)](#Ntfy)** | [Ανακοίνωση στο help για 3η γραμμή εντολών](https://github.com/courses-ionio/help/discussions/561) | Η πιο ενδιαφέρουσα για εμένα άσκηση γραμμής εντολών, καθώς έκανα πολλές συνδέσεις με τις δυνατότητες της σχετικά με άλλα εργαλεία και εργασίες, ενώ πραγματοποίησα και βελτειώσεις στο βιογραφικό μέρος Β αυτή την εβδομάδα |
 | 10 | **[Συμμετοχικό περιεχόμενο B1+B2](#Συμμετοχικό-περιεχόμενο-Β)** | [Ανακοίνωση στο help για συμμετοχικό Β](https://github.com/courses-ionio/help/discussions/583) | Τα θέματα που επέλεξα θεωρώ ότι είναι αρκετά καλά, αλλά οι πληροφορίες που σύλλεξα και τα κείμενα που ανέπτυξα δεν με άφησαν πολύ ευχαριστημένο. Η διαδικασία με τα submodules και το netlify έχει πολύ σύντομα και εύκολα. |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | **[Άσκηση γραμμής εντολών](#Hyperfine)** | | Το τελευταίο παραδοτέο άσκησης γραμμής εντολών πραγματοποιήθηκε σε σύντομο χρόνο με την 2ρη άσκηση software, με ένα χρήσιμο εργαλείο που ανταποκρίνεται στη πεποίθηση μου να παρακολουθώ την απόδοση από scripts που πραγματοποιώ σε διάφορα μαθήματα. |
 | 12 | Τελική αναφορά* | | |
 <br>
 
@@ -546,6 +546,54 @@ ntfy -b telegram send "youtube Download completed"
 <br>
 <br>
 
+### Hyperfine
+----------------------------
+
+Ως 4ο και τελευταίο παραδοτέο γραμμής εντολών είναι η 2η άσκηση software που πραγματοποίησα. Για άλλη μία φορά αποδείχτηκε ότι υπάρχει ένα εργαλείο **hyperfine** το οποίο ανταποκρίνεται στην επιθυμία μου να μετρήσω την απόδηση από python scripts τα οποία έχω χρησιμοποιήσει σε άλλα μαθήματα όπως Ψηφιακή επεξεργασία εικόνας `erwtima3.py' και Αναγνώριση προτύπων 'HW1.py', αφού πραγματοποιούν πράξεις υψηλού κόστους όπως επεξεργασία των bit μίας εικόνας και εκπαίδευση ενός αλγορίθμου.
+
+Η [εγκατάσταση](https://repology.org/project/hyperfine/versions) ήταν πολύ απλή και το εργαλείο διαθέτει κάποια options όπως να προετοιμάσει την μνήμη cache με δεδομένα, για να τρέξει πιο γρήγορα η εντολή(`--warmup`), πόσες φορές να ελεγχτεί η εκτέλεση της, ώστε να έχουμε πιο ακριβές αποτέλεσμα μέτρησης(`--runs`). Επειδή όμως  δεν πρόσφεραν κάποια χρησιμότητα δεν χρησιμοποίησα τα συγκεκριμένα options. 
+
+Μέτρησα την απόδοση και των δύο script με την εντολή `hyperfine 'python3 HW1.py' 'python3 erwtima3.py'` η οποία σύγκρινε τα αποτελέσματα τους και έκανα εξαγωγή τις επιδόσεις τους, τόσο ξεχωριστά σε αρχεία json `HW1.json`, `erwtima3.json`, όσο και σε κοινό αρχείο `combined.json`(ανάλογα με το τρόπο που θέλουμε να μελετήσουμε τις επιδόσεις στα plot στη συνέχεια) με την εντολή `hyperfine --export-json HW1.json 'python3 HW1.py'`. Έτσι τα έδωσα ως input σε [συναρτήσεις](https://github.com/sharkdp/hyperfine/tree/master/scripts) που εμφανίζουν και συγκρίνουν τις επιδόσεις αναλυτικά, όπως μέγιστος και ελάχιστος χρόνος εκτέλεσης `python3 plots/advanced_statistics.py combined.json` ή δημιουργούν plot όπως ιστόγραμμα `python3 plots/plot_histogram.py combined.json`. Ακόμα η πιο σημαντική συνάρτηση για εμένα είναι η plot_progression.py, που προτιμώ να δίνω ως είσοδο ξεχωριστά τα HW1, erwtima3 .json αρχεία, παρά το combined.json, ώστε να μελετώ τις γραφικές τους παραστάσεις ξεχωριστά κάθε χρονική στιγμή `python3 plots/plot_progression.py HW1.json`. Να προσθέσω πως, βλέποντας τις δυνατότητες του εργαλείου πρόσθεσα μία μικρή εντολή που υποστηρίζει ακόμα και εντολές shell με το otpion `--shell (shell name)`, στην περίπτωση μου `hyperfine --shell sh 'echo "Shell"'`.
+
+<br>
+<p align="center"> Συναρτήσεις για plot
+</p>
+<br>
+<p align="center">
+<img width="1000" height="400" src="https://user-images.githubusercontent.com/72496151/167731004-f1e081ef-a50d-4b50-b82b-681f6afc6f6b.png">
+<p/>
+<br>
+<br>
+
+<p align="center"> Συνάρτηση plot_histogram.py 
+</p>
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72496151/167739065-50b8d820-501b-4b91-8087-92e0189c548d.png">
+<p/>
+<br>
+<br>
+
+<p align="center"> Συνάρτηση plot_progression.py 
+</p>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72496151/167732839-0034b825-17d4-4786-91d4-e763be45e6f1.png">
+<p/>
+<br>
+
+<p align="center"> Συνάρτηση plot_whisker.py(δεν υπάρχει στο asciinema παρακάτω) 
+</p>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72496151/167739256-ad4fdc35-625c-4393-a331-4aeee67cc946.png">
+<p/>
+<br>
+
+
+Η εντολές που έτρεξα παραπάνω για την σύγκριση και την μελέτη των επιδόσεων, η δημιουργία των γραφημάτων και των json αρχείων είναι καταγεγραμμένα σε [asciinema](https://asciinema.org/a/kRkZ9njHA1QTw6OSMfbaFVZit). Να σημειώσω πως έχει αρκετή διάρκεια σε σχέση με τα υπόλοιπα που έχω πραγματοποιήσει, αλλά έκανα όσο τον δυνατόν πιο περιορισμένες εντολές για να αποφύγω χρόνους που απαιτεί η κάθε εντολή του hyperfine για τα runs, διότι δεν μπορούν να συντομεύσουν ή να παραληφθούν.
+
 ***Περισσότερες ιστοσελίδες από τις οποίες άντλησα πληροφορίες γενικά για όλες τις ασκήσεις γραμμής εντολών βρίσκονται στο τέλος***
 
 # Η ενεργή συμμετοχή μου στις ζητήσεις
@@ -657,3 +705,12 @@ ntfy -b telegram send "youtube Download completed"
     *  [Προσθήκη εργαλείου ntfy(κυρίως telegram)](https://github.com/dschep/ntfy)
     *  [Χρήσιμο video youtube](https://www.youtube.com/watch?v=bbdQXfReuG0&t=469s)
     *  [Εργαλείο youtube-dl](https://itsfoss.com/youtube-dl-audio-only/)
+  4. Άσκηση γραμμής εντολών(hyperfine)
+    * [Repository hyperfine](https://github.com/sharkdp/hyperfine)
+    * [Plot scripts hyperfine](https://github.com/sharkdp/hyperfine/tree/master/scripts)
+    * [Download Hyperfine](https://repology.org/project/hyperfine/versions)
+    * [Βοηθητικό βίντεο](https://www.youtube.com/watch?v=dMko2TcCS3Y)
+    * [Ορισμός warm,cold cache για το option --warmpup](https://stackoverflow.com/questions/22756092/what-does-it-mean-by-cold-cache-and-warm-cache-concept)
+    * [Βιβλιοθήκη Matplotlib για τους κώδικες python](https://pkgs.alpinelinux.org/packages?name=py3-matplotlib)
+    * [Βιβλιοθήκη Numpy](https://pkgs.alpinelinux.org/packages?name=py3-numpy&branch=edge)
+    * [Βιβλιοθήκη scipy](https://pkgs.alpinelinux.org/packages?name=py3-scipy&branch=edge)
