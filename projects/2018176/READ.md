@@ -11,7 +11,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/348) | Fork του αποθετηρίου, δημιουργία δικού μου branch,τελικής αναφοράς και συγγραφή εισαγωγής |
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/349) | Στο παραδοτέο 2 Δημιούργησα το Βιογραφικό και παράλληλα εντάχθηκα σε μία ομάδα. |
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/351) | Προσθήκη ανακοίνωσης στο site της σχολής|
-| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
+| <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux + καιρός μέσω γραμμής εντολών|
 | <a href= "#E">5</a> | <a href= "#E"> Συμμετοχικό περιεχόμενο A1+A2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/603)|Προσθήκη artixlinux , runit στο site |
 | <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/469)| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
 | <a href="G">7</a> |<a href="G"> βιογραφικό</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/498) |Εγκατάσταση κατάλληλων εργαλείων για μετατροπή tex αρχείου σε pdf |
