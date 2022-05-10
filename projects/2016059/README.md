@@ -50,14 +50,20 @@
 * [Asciinema](https://asciinema.org/a/vy2TfJaFLs0Iy8xiRdQytTRKS)
 
 ## Συμμετοχικό περιεχόμενο A1+A2 (5ο Παραδοτέο)
+Για το 5ο Παραδοτέο ανέβασα στο site του organization για το βιβλίο εικόνες και πληροφορίες για ένα από τα πιο γνωστά IDE το Spyder και για τον Travis Oliphant data scientist και για έναν εκ των δυο ιδρυτών της Anaconda. Οι φωτογραφίες προστέθηκαν στο submodule images και τα .md αρχεία στο _gallery.
+Στο κεντρικό αποθετήριο του site έγιναν οι κατάλληλες προσθήκες στα _slides και στα _timelines. Παρακάτω παραθέτω και τα αντίστοιχα pull requests :
+ * [Pull Request - images](https://github.com/LostMpodis/images/pull/3)
+ * [Pull Request - _gallery](https://github.com/LostMpodis/_gallery/pull/3)
+ * [Pull Request - site](https://github.com/LostMpodis/site/pull/4)
 
 ## Άσκηση γραμμής εντολών (6ο Παραδοτέο)
 Για το 6ο Παραδοτέο εγκατέστησα στο notify και το ρύθμισα να μπορώ να στείλω ειδοποιήσεις είτε στην εφαρμογή του που εγκατέστησα στο κινητό μου, είτε σε ένα bot που έφτιαξα στο telegram.
  * [Asciinema](https://asciinema.org/a/qTbpLnKcm5kT9eu1k6WCa5kP2)
+
 ![ntfy app notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-32-911_io.heckel.ntfy.jpg)
 ![telegram notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-48-620_org.telegram.messenger.jpg)
 
 ## PDF Βιογραφικού (7ο Παραδοτέο)
-Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και xelatex
- * [CV]()
- * [PDF-CV]()
+Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και xelatex.
+ * [CV](https://apolaz.github.io/my-cv/)
+ * [PDF-CV](https://github.com/ApoLaz/my-cv/blob/master/_data/my-cv.pdf)
