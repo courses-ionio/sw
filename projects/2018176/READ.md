@@ -8,7 +8,7 @@
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Σύνοψη/Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/348) | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
+| <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/348) | Fork του αποθετηρίου, δημιουργία δικού μου branch,τελικής αναφοράς και συγγραφή εισαγωγής |
 | <a href="#B">2</a> |<a href="#B">Βιογραφικό και δημιουργία ομάδας </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/349) | Στο παραδοτέο 2 Δημιούργησα το Βιογραφικό και παράλληλα εντάχθηκα σε μία ομάδα. |
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/351) | Προσθήκη ανακοίνωσης στο site της σχολής|
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/434) | Εγκατάσταση artixlinux|
