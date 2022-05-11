@@ -191,13 +191,19 @@ https://affectionate-lalande-dd24f3.netlify.app/biography/lennart-poettering/
 - [ ] Θετικά/Αρνητικά systemd
 - [ ] Αφαίρεση ιστορικής αναδρομής systemd και περισσότερες πληροφορίες για την τεχνολογία του
 - [ ] Αλλαγή εικονών σε systemd & gnome
+
 <br/>
+
 - **Επιλογή Distro**
 - [ ] Λόγοι επιλογής συγκεκριμένης διανομής
+
 <br/>
+
 - **Άσκηση γραμμής εντολών - Ntfy**
 - [ ] Παραμετροποίηση ntfy ώστε να έρχονται μόνο σημαντικές ειδοποιήσεις (π.χ. απο συγκεκριμένα tasks)
+
 <br/>
+
 - **Βιογραφικό PDF**
 - [x] Να γίνεται αυτόματα & online
 
@@ -260,7 +266,7 @@ Images:
 
 Τέλος να πω ένα μεγάλο ευχαριστώ στην ομάδα μου [Kafeneio](https://github.com/Kafeneio).
 - [Τζάμα Δημοσθένης](https://github.com/p19tzam)
-- [Αλκιβιάδης Σουρβίνος](https://github.com/alkissourvinos)
+- [Σουρβίνος Αλκιβιάδης](https://github.com/alkissourvinos)
 - [Γραμμένος Γεράσιμος](https://github.com/makisgrammenos)
 - [Κοντός Θεόδωρος](https://github.com/theodorosKontos)
 
