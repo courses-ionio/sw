@@ -15,7 +15,7 @@
 | 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
 | 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Show & Tell](https://github.com/courses-ionio/help/discussions/552) | - |
 | 9 | Άσκηση γραμμής εντολών | - | - |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Show & Tell](https://github.com/courses-ionio/help/discussions/608) | - |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#-συμμετοχικό-περιεχόμενο-b1b2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/608) | - |
 | 11 | Άσκηση γραμμής εντολών | - | - |
 | 12 | Τελική αναφορά* | - | - |
   
