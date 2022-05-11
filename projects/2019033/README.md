@@ -60,6 +60,10 @@
   
   - [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
 
+## 👉 Kiss Linux
+
+[Video Guide](https://www.youtube.com/watch?v=igKm0evvFsc)
+
 ## 👉 Συμμετοχικό περιεχόμενο A1+A2
 
 Για το συμμετοχικό περιεχόμενο πήρα έμπνευση από τις απαιτήσεις του μαθήματος και πρόσθεσα το Systemd καθώς και το Gnome.
