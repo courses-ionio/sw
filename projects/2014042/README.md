@@ -13,7 +13,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4-άσκηση-γραμμής-εντολών) |[Παρουσίαση Πρόοδου 4](https://github.com/courses-ionio/help/discussions/470) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5-συμμετοχικό-περιεχόμενο-α1α2) | [Παρουσίαση Πρόοδου 5](https://github.com/courses-ionio/help/discussions/480) | |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/580) | |
-| 7 | Βιογραφικό | | |
+| 7 | [Βιογραφικό](#παραδοτέο-7-βιογραφικό) | [Παρουσίαση Προόδου 7](https://github.com/courses-ionio/help/discussions/607) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/596) | |
@@ -123,6 +123,20 @@
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/freebsd-neofetch%20-%20resize.png)
 
 <br />
+
+## Παραδοτέο 7: Βιογραφικό
+
+Για αυτό το παραδοτέο μέσω των εργαλείων LaTeX και Pandoc εκτυπώνω ένα αρχείο pdf με το βιογραφικό του παραδοτέου 2. Μέσω του εργαλείου git στο cloned online-cv repository μου δημιουργώ ένα νέο directory pdf και μέσα σε αυτό εκτελώ τις εντολές: 
+
+`pandoc https://Sola1r3.github.io/online-cv/ -o cv.tex -s`
+`pdflatex cv.tex`
+
+Από τα παραπάνω προκύπτει το επιθυμητό pdf.
+
+[pdf](https://github.com/Sola1r3/online-cv/blob/master/pdf/cv.pdf)
+
+<br />
+
 
 ## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο Β1+Β2
 
