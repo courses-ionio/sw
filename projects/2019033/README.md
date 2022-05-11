@@ -9,12 +9,12 @@
 | 1 | [Εισαγωγή](#-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | - |
 | 2 | [Βιογραφικό & Webring](#-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | - |
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
-| 4 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
+| 4 | [Kiss Linux](#-kiss-linux) | - | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
-| 6 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
+| 6 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
 | 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Show & Tell](https://github.com/courses-ionio/help/discussions/552) | - |
-| 9 | Άσκηση γραμμής εντολών | - | - |
+| 9 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#-συμμετοχικό-περιεχόμενο-b1b2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/608) | - |
 | 11 | Άσκηση γραμμής εντολών | - | - |
 | 12 | [Τελική αναφορά](#-επίλογος--συμπεράσματα) | - | - |
@@ -60,10 +60,6 @@
   
   - [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
 
-## 👉 Void Linux
-
-<img src="./img/Screenshot%20from%202022-03-13%2019-12-56.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-16-57.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-32-25.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2020-42-34.png" alt="drawing" width="400" height="300"/>
-
 ## 👉 Συμμετοχικό περιεχόμενο A1+A2
 
 Για το συμμετοχικό περιεχόμενο πήρα έμπνευση από τις απαιτήσεις του μαθήματος και πρόσθεσα το Systemd καθώς και το Gnome.
@@ -83,24 +79,9 @@ Slides:<br/>
 [Αρχική σελίδα ομάδας](https://kafeneio-site-pibook.netlify.app/)<br/>
 Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2)
 
-## 👉 Άσκηση γραμμής εντολών - Ntfy
+## 👉 Void Linux
 
-**Steps:**
-*Προϋπόθεση ότι έχουμε ήδη εγκατεστημένη python & pip*
-```
-1. pip install ntfy
-2. pip install ntfy[telegram]
-3. echo 'eval "$(ntfy shell-integration)"' >> ~/.bashrc
-4. ntfy -b telegram send “Initializing notification”
-   - Εδώ θα μας ζητήσει να κάνουμε add ένα bot στο telegram και να βάλουμε το token που θα μας δώσει.
-5. echo 'source ~/.local/share/ntfy/auto-ntfy-done.sh' >> ~/.bashrc
-6. echo 'source ~/.local/share/ntfy/bash-preexec.sh' >> ~/.bashrc
-7. Στο αρχείο /root/.local/share/ntfy/auto-ntfy-done.sh αλλάζουμε την επιλογή 
-   - **AUTO_NTFY_DONE_OPTS='-b default'** ➡️ **AUTO_NTFY_DONE_OPTS='-b telegram'**
-```
-<br/>
-
-<a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
+<img src="./img/Screenshot%20from%202022-03-13%2019-12-56.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-16-57.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-32-25.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2020-42-34.png" alt="drawing" width="400" height="300"/>
 
 ## 👉 Βιογραφικό PDF
 
@@ -174,6 +155,25 @@ jobs:
 [Issue](https://github.com/ioniodi/sitegr/issues/395)
 
 ***Μετά απο εκτενή συζήτηση στην συνάντηση με τον κ. Χωριανόπουλο κατάλαβα πως η συγκεκριμένη αλλαγή δεν συμβαδίζει με τις απαιτήσεις του 2ου παραδοτέου οπότε και έλαβε τέλος από εμένα.***
+
+## 👉 Άσκηση γραμμής εντολών - Ntfy
+
+**Steps:**
+*Προϋπόθεση ότι έχουμε ήδη εγκατεστημένη python & pip*
+```
+1. pip install ntfy
+2. pip install ntfy[telegram]
+3. echo 'eval "$(ntfy shell-integration)"' >> ~/.bashrc
+4. ntfy -b telegram send “Initializing notification”
+   - Εδώ θα μας ζητήσει να κάνουμε add ένα bot στο telegram και να βάλουμε το token που θα μας δώσει.
+5. echo 'source ~/.local/share/ntfy/auto-ntfy-done.sh' >> ~/.bashrc
+6. echo 'source ~/.local/share/ntfy/bash-preexec.sh' >> ~/.bashrc
+7. Στο αρχείο /root/.local/share/ntfy/auto-ntfy-done.sh αλλάζουμε την επιλογή 
+   - **AUTO_NTFY_DONE_OPTS='-b default'** ➡️ **AUTO_NTFY_DONE_OPTS='-b telegram'**
+```
+<br/>
+
+<a href="https://asciinema.org/a/484634" target="_blank"><img src="https://asciinema.org/a/484634.svg" height="400"/></a> <img src="https://i.imgur.com/Fcl1qQ1.gif" height="400"/>
 
 ## 👉 Συμμετοχικό περιεχόμενο B1+B2
 
