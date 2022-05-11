@@ -207,7 +207,7 @@ https://affectionate-lalande-dd24f3.netlify.app/biography/lennart-poettering/
 [GeeksForGeeks](https://www.geeksforgeeks.org/),<br/>
 [Οδηγίες του μαθήματος](https://courses-ionio.github.io/help/),<br/>
 Guides παιδιών μέσω των discussions του μαθήματος και του οργανισμού μας,<br/>
-[Youtube](https://www.youtube.com/), [Google](https://www.google.com/), Discord <br/>
+[Youtube](https://www.youtube.com/), [Google](https://www.google.com/), [Discord](https://discord.com/) <br/>
 και πολύ ψάξιμο!
 
 ## 🧡 Συνεισφορά
