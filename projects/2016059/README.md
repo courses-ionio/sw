@@ -64,6 +64,10 @@
 ![telegram notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-48-620_org.telegram.messenger.jpg)
 
 ## PDF Βιογραφικού (7ο Παραδοτέο)
-Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και xelatex.
+Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και latex.
+Για να έχει το pdf την μορφή που είχε και το template που χρησιμοποίησα για το cv μου (δηλαδή με title, sidebar στα αριστερά για τα στοιχεία μου και στα δεξιά για της πληροφορίες για εμένα) και να μην φαίνονται όλα τα δεδομένα σε μια απλή μορφή κειμένου, δηλαδή το ένα κάτω από το άλλο.
+Χώρισα το αρχείο σε minipages για να καταφέρω να έχω το επιθυμητό αποτέλεσμα.
  * [CV](https://apolaz.github.io/my-cv/)
  * [PDF-CV](https://github.com/ApoLaz/my-cv/blob/master/_data/my-cv.pdf)
+ * [asciinema template](https://asciinema.org/a/48MrlNT78UpaZyQh9iAANY80x)
+ * [asciinema pdf](https://asciinema.org/a/yggBl4hFZzK0i4FLC3d5TbJp4)
