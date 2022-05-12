@@ -59,7 +59,7 @@
 ![Screenshot 2022-05-10 at 22 52 39](https://user-images.githubusercontent.com/93882637/167710952-6f01033d-a950-434d-af3e-d3d5ccd20057.png)
 
 
-# <a name="F">Άσκηση γραμμής εντολών - 6ο παραδοτέο</a>
+# <a name="F">Άσκηση γραμμής εντολών </a>
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
 Πήρα 2 σκριπτάκια που έγραψα εγώ ίσα ίσα για την χρήση των παραπάνω εργαλείων και χρησιμοποίησα το py-spy και το hyperfine για να συγκρίνω της αποδόσεις των δύο:
 
@@ -78,7 +78,7 @@ hyperfine benchmark
 
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
-# <a name="G">Βιογραφικό - 7ο παραδοτέο </a>
+# <a name="G">Βιογραφικό  </a>
 Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf.
 
 [Asciinema Link](https://asciinema.org/a/jcdSKp6uMe9XMijjXntdIlh2U)
@@ -92,7 +92,7 @@ hyperfine benchmark
 
 (Προφανώς και γνωριζώ ότι αν αλλάξω όνομα στην φωτογραφία στον φάκελο /assets/images σε αυτό profile.png θα εμφανίζεται)
 
-# <a name="H">Άσκηση Γραμμής Εντολών - 9ο παραδοτέο </a>
+# <a name="H">Άσκηση Γραμμής Εντολών </a>
 
 NTFY TELEGRAM
 https://github.com/courses-ionio/help/discussions/570
