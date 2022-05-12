@@ -16,8 +16,8 @@
 | <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/469)| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
 | <a href="G">7</a> |<a href="G"> βιογραφικό</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/498) |Εγκατάσταση κατάλληλων εργαλείων για μετατροπή tex αρχείου σε pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-|<a href="#H"> 9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+|<a href="#H">9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM |
+|<a href="I">10</a> |<a href="#I"> συμμετοχικό περιεχόμενο B1+B2</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/609) |ArtixLinux case study DJB Biography |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
