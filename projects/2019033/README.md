@@ -95,6 +95,20 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 👉 Void Linux
 
+Μετά την αποτυχία εγκατάστασης του KISS στράφηκα προς το Void. Γιατί όμως επέλεξα αυτή την διανομή ανάμεσα σε πολλές άλλες;
+- Είναι αυτόνομη διανομή (Δεν βασίζεται σε κάποια άλλη).
+- Συντηρείται από εθελοντές developers/enthousiasts και όχι από κάποια εταιρία.
+- Έχει τον **δικό της** package manager, ο οποίο είναι ο πιο γρήγορος που έχω συναντήσει (Πιο γρήγορος και από τον pacman).
+- Υποστηρίζει πολλά προγράμματα μέσω των repositories του (Γλυτώνουμε δηλαδή να κάνουμε μόνοι μας download & compile το εκάστοτε πρόγραμμα)
+- Είναι rolling distribution (Αν και αυτό για κάποιους μπορεί να θεωρηθεί μείον).
+- Υποστηρίζει και την βιβλιοθήκη glibc και την musl.
+- Ελαφρύ, γρήγορο αλλά και full featured.
+- Πολύ δυνατό και αφοσιωμένο community.
+- Και βεβαίως χρησιμοποιεί Runit και όχι Systemd.
+
+Η διαδικασία εγκατάστασής του ήτανε πολύ εύκολη και δεν απαιτεί την προΰπαρξη άλλης διανομής όπως ήθελε το KISS.
+Ακόμη το εγκατέστησα και "κανονικά" στο laptop μου, πέραν του Virtual Machine για να το δοκιμάσω και προσωπικά, όντας Linux enthousiast. 
+
 <img src="https://i.imgur.com/R18f2cj.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/phFHnYq.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/Ipf39Ui.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/RPuxw5p.png" alt="drawing" width="400" height="300"/>
 
 ## 👉 Βιογραφικό PDF
@@ -221,7 +235,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/17) [images](https:/
 <br/>
 
 - **Επιλογή Distro**
-- [ ] Λόγοι επιλογής συγκεκριμένης διανομής
+- [x] Λόγοι επιλογής συγκεκριμένης διανομής
 
 <br/>
 
