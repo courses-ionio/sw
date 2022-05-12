@@ -94,7 +94,6 @@ hyperfine benchmark
 # <a name="H">Άσκηση Γραμμής Εντολών - 9ο παραδοτέο </a>
 
 NTFY TELEGRAM
-"$(ntfy shell-integration)"
 https://github.com/courses-ionio/help/discussions/570
 (Το βίντεο λειτουργεί στο Discussions)
 
