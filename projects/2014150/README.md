@@ -19,7 +19,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
 | <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS |
-| 11 | Άσκηση γραμμής εντολών | | |
+| <a href="#I">11</a> | <a href="#I">Άσκηση γραμμής εντολών </a> | [Discussion Link]() | Εγκατάσταση py-spy, hyperfine και κατάλληλα πακέτα για την εκτέλεση της άσκησης |
 | 12 | Τελική αναφορά* | | |
 
 
@@ -274,6 +274,61 @@ chmod +x updates.sh
 [Usefull Link 5](https://lemelson.mit.edu/resources/nolan-bushnell)
 
 [Usefull Link 6](https://en.wikipedia.org/wiki/Nolan_Bushnell)
+
+
+# <a name="Ι">Άσκηση Γραμμής Εντολών</a>
+
+## Άσκηση γραμμής εντολών: performance monitoring
+Σκοπός της άσκησης είναι να απεικονίσουμε την απόδοση εκτέλεσης κάποιων python scripts που έχουμε επιλέξει μέσω του hyperfine και του py-spy.
+
+Εγκατάσταση πακέτων:
+
+sudo pip3 install py-spy,
+
+git clone --depth 1 https://github.com/brendangregg/FlameGraph,
+
+sudo pacman -S wget,
+
+wget https://github.com/sharkdp/hyperfine/releases/download/v1.11.0/hyperfine_1.11.0_amd64.deb
+
+pacman -S --needed git base-devel
+
+git clone https://aur.archlinux.org/yay.git
+
+sudo pacman -U --noconfirm hyperfine-1.11.0-1-x86_64.pkg.tar.zst
+
+--Διαδικασία
+
+Επιλογή φακέλου Downloads όπου βρίσκονται 2 scripts της επιλογής μου με την εντολή 
+
+cd Downloads
+
+Performance monitoring του script script1.py με την εντολή 
+
+py-spy record -o profile.svg -- python3 script1.py, και εξαγωγή αρχείου flameqraph
+
+Σύγκριση χρόνου εκτέλεσης μεταξύ των δύο script με την εντολή
+
+hyperfine 'python script1.py' 'python script2.py'
+
+Εξαγωγή αποτελέσματος σύγκρισης με την εντολή
+
+hyperfine -i --export-json output 'python test1.py' 'python test2.py'
+
+--Αποτελέσματα
+
+![Screenshot_2](https://user-images.githubusercontent.com/63341157/168153395-f5110a4a-2e61-48d6-8eb5-d23e30ce2c68.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/63341157/168153420-106b2698-fa6f-4bba-9f9f-985e74140646.png)
+
+[asciinema link](https://asciinema.org/a/17NRiZ3ALnDwJuairD4cZPz4v)
+
+
+[Πηγε py-spy](https://github.com/benfred/py-spy)
+
+[Πηγή hyperfine](https://github.com/sharkdp/hyperfine)
+
+[Πηγή για deb πακέτα](https://low-orbit.net/arch-linux-how-to-install-deb-package)
 
 
 
