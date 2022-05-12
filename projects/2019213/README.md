@@ -28,7 +28,7 @@
 | 10 | [συμμετοχικό περιεχόμενο B1+B2](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/597#discussion-4062559) </div>  | <div align="center"> - </div> |
 | 11 | [Άσκηση γραμμής εντολών hyperfine](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-2-hyperfine-python-script-benchmark) | <div align="center"> [Link](https://github.com/courses-ionio/help/discussions/593#discussion-4061236) </div> | <div align="center"> - </div> |
 | 12 | Τελική αναφορά | | |
-| 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | | |
+| 13 | [Συμμετοχή και ομαδικότητα](https://github.com/p19tzam/sw/tree/2019213/projects/2019213#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | <div align="center"> - </div> | <div align="center"> - </div> |
 
 ## :pushpin:: Εισαγωγή
 
@@ -499,6 +499,13 @@ Pull requests στο [site της ομάδας](https://kafeneio-site-pibook.net
  
 | [Images pull](https://github.com/Kafeneio/images/pull/8)  | [site pull](https://github.com/Kafeneio/site/pull/18) |
 | --- | --- |
+
+
+
+## :pushpin:: Τελική αναφορά
+Έφτασε και το τελευταίο παραδοτέο που είναι η τελική αναφορά.. Μετα απο μια πάρα πολύ δυνατή αρχή σαν ομάδα καφενείο σε ατομικό και ομαδικό επίπεδο μετά από τόσα guides και βοηθώντας ο ένας τον άλλον μέσα στα discussions ήταν μια πολύ καλή προσομοίωση(απο τα λίγα μαθήματα που το προσφέρουν) στο τι θα συναντήσουμε στο έξω κόσμο όπως τους διαφορετικούς χαρακτήρες ανθρώπων και διαφορετικα πρότζεκτ και τι παρεξηγίσεις που μπορούν να προκύψουν μιας και ονλινε.
+Το επόμενο που θελω να αναφέρω είναι ότι το συγκεκριμένο μάθημα μου επέτρεψε να προσθέσω τα ενδιαφέροντα μου στην αναφορά μου και ετσι έκανα, προσπάθησα να κάνω μια σύνδεση με τα ενδιαφέροντα μου και το μάθημα.
+Το επόμενο που μου άρεσε και είναι από τα καλύτερα που μπορεί να συναντήσει ένασ φοιτητης στην σχολή του είναι ότι έχουμε πάρα πολύ καλή σύνδεση με τον καθηγητή  ο οποίος δεν κάνει το συνηθισμένο μάθημα στο αμφιθέατρο αλλα κάνει συζήτηση με μια μικρή ομαδα φοιτητων κάθε φορά και ανταλλάσουν ιδέες και απόψεις. 
 
 
 ## Συμμετοχή και ομαδικότητα
