@@ -181,7 +181,18 @@ jobs:
 
 ## 👉 Συμμετοχικό περιεχόμενο B1+B2
 
-https://affectionate-lalande-dd24f3.netlify.app/biography/lennart-poettering/
+Για την δεύτερη φάση του συμμετοχικού περιεχομένου επέλεξα να κάνω την βιογραφία του Lennart Poettering, του ανθρώπου που δημιούργησε το systemd (το οποίο αναλύθηκε στην Α φάση του συμμετοχικού), ο οποίος έχει κάποιες ιδιαίτερες απόψεις για την τεχνολογία λογισμικού. 
+<br/>
+Όσο για μελέτη περίπτωσης επέλεξα να μιλήσω για την διανομή Linux Fedora, η οποία ήταν η πρώτη διανομή που εισήγαγε το systemd, όπως και πολλές άλλες τεχνολογίες(προϊόντα;).
+
+<img src="https://i.imgur.com/t6kAqEM.png" height="350"/> <img src="https://i.imgur.com/7mm87Cd.png" height="350"/>
+
+[Βιογραφία](https://affectionate-lalande-dd24f3.netlify.app/biography/lennart-poettering/)<br/>
+[Μελέτη Περίπτωσης](https://affectionate-lalande-dd24f3.netlify.app/case-study/fedora/)<br/>
+
+[Αρχική σελίδα](https://affectionate-lalande-dd24f3.netlify.app/)<br/>
+[Αρχική σελίδα ομάδας](https://kafeneio-site-pibook.netlify.app/)<br/>
+Pull Requests: [Site](https://github.com/Kafeneio/site/pull/17) [images](https://github.com/Kafeneio/images/pull/7)
 
 ## 👉 Άσκηση γραμμής εντολών 2
 
