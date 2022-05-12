@@ -30,7 +30,6 @@
 
 [Βιογραφικό](https://tsimpliarakis.github.io/online-cv/) - [Webring](https://kafeneio-webring.netlify.app/)
 
-
 **Αλλαγές που πραγματοποιήθηκαν:** <br/>
 
 - [x] Μεταφορά sidebar στα αριστερά
@@ -95,7 +94,7 @@ Slides:<br/>
 <br/>
 [Αρχική σελίδα](https://affectionate-lalande-dd24f3.netlify.app/)<br/>
 [Αρχική σελίδα ομάδας](https://kafeneio-site-pibook.netlify.app/)<br/>
-Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2)
+Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2) [PR αλλαγών στο Kafeneio](https://github.com/Kafeneio/images/pull/9)
 
 ## 👉 Void Linux
 
@@ -227,14 +226,14 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/17) [images](https:/
 Σε αυτό το παραδοτέο έκανα χρήση του Hyperfine για να κάνω benchmark ενός bash script που εμφανίζει 10.000 τυχαίους αριθμούς.
 Η άσκηση αυτή ήταν πολύ εύκολη διότι έγινε χρήση ενός έτοιμου εργαλείου, όπως είδα ότι σχολίασε ο κ.Χωριανόπουλος σε Show & Tell άλλων παιδιών.
 
-<a href="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ" target="_blank"><img src="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ.svg" height="400"/>
+<a href="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ" target="_blank"/><img src="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ.svg" height="400"/>
 
 ## 🔁 Αλλαγές που πραγματοποιήθηκαν
 
 - **Συμμετοχικό Α'**
 - [ ] Θετικά/Αρνητικά systemd
 - [ ] Αφαίρεση ιστορικής αναδρομής systemd και περισσότερες πληροφορίες για την τεχνολογία του
-- [x] Αλλαγή εικονών σε systemd & gnome [Pull request link στο site της ομάδας](https://github.com/Kafeneio/images/pull/9)
+- [x] Αλλαγή εικονών σε systemd & gnome
 
 <br/>
 
