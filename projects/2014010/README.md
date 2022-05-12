@@ -10,12 +10,12 @@
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Παρουσίαση Προόδου 1](https://github.com/courses-ionio/help/discussions/86)|  |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Παρουσίαση Προόδου 2](https://github.com/courses-ionio/help/discussions/208) |  |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Παρουσίαση Προόδου 3](https://github.com/courses-ionio/help/discussions/308) | |
-| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 4](https://github.com/courses-ionio/help/discussions/388) | |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Παρουσίαση Προόδου 4](https://github.com/courses-ionio/help/discussions/612) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Παρουσίαση Προόδου 5](https://github.com/courses-ionio/help/discussions/453) | |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/482) | |
 | 7 | [Βιογραφικό](#παραδοτεο-7) | [Παρουσίαση Προόδου 7](https://github.com/courses-ionio/help/discussions/517) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) | [Παρουσίαση Προόδου 9](https://github.com/courses-ionio/help/discussions/388) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/595) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -155,6 +155,18 @@ Screenshots απο το Telegram, στο οποίο φαίνεται ότι οι
 Τα αρχεία που δημιουργήθηκαν είναι [εδω](https://github.com/CptMike/online-cv/tree/master/pdf)
 
 [Asciinema](https://asciinema.org/a/s4lVKbDBuSlbMGb3uaW4AIFQJ)
+
+## ΠΑΡΑΔΟΤΕΟ 9
+
+### Άσκηση γραμμής εντολών
+
+Για το 9ο παραδοτέo επέλεξα την άσκηση με το performance monitoring. Επι της ουσίας κληθήκαμε να τεστάρουμε ένα python script με τα εργαλεία hyperfine και py-spy.
+Προσωπικά επέλεξα ένα python script το οποίο κάνει generate ένα τυχαίο password.
+Η εγκατάσταση και η εκτέλεση έγινε στο FreeBSD που χρησιμοποιώ. Όπως φαίνεται στο παρακάτω asciinema, πρώτα δείχνω τον κώδικα του script, μετά το τρέχω και στο τέλος χρησιμοποιώ το hyperfine για να δείξω το performance του. 
+
+Δυσκολίες που αντιμετώπισα: Απο ότι φαίνεται κάτι πέρα απο την python version, στεκόταν εμπόδιο στην εγκατάσταση του hyperfine. Δε μπόρεσα να το κάνω resolve, οπότε δε το συμπεριέλαβα στο asciinema.  
+
+[Script asciinema](https://asciinema.org/a/kyCFJLoUuikV1Ez2GXd8nxlPn)
 
 ## ΠΑΡΑΔΟΤΕΟ 10
 
