@@ -206,9 +206,10 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/17) [images](https:/
 
 ## 👉 Άσκηση γραμμής εντολών 2
 
+Σε αυτό το παραδοτέο έκανα χρήση του Hyperfine για να κάνω benchmark ενός bash script που εμφανίζει 10.000 τυχαίους αριθμούς.
+Η άσκηση αυτή ήταν πολύ εύκολη διότι έγινε χρήση ενός έτοιμου εργαλείου, όπως είδα ότι σχολίασε ο κ.Χωριανόπουλος σε Show & Tell άλλων παιδιών.
 
-
-
+<a href="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ" target="_blank"><img src="https://asciinema.org/a/PjWl3wbCABwDaoU8sBY5RR5BZ.svg" height="400"/>
 
 ## 🔁 Αλλαγές που πραγματοποιήθηκαν
 
