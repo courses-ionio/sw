@@ -611,7 +611,11 @@
 
 <br />
 
-Στο [Συμμετοχικό Περιεχόμενο (Α1 + Α2)](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) είχα ασχοληθεί με τα θέματα [gedit](https://en.wikipedia.org/wiki/Gedit) και [Markdown](https://www.markdownguide.org/). Τα θέματα που επέλεξα τόσο για τη μελέτη περίπτωσης όσο και για τη βιογραφία σχετίζονται με το Περιεχόμενο της Markdown. Συγκεκριμένα για μελέτη περίπτωσης ασχολήθηκα με το [Github](https://github.com/) και για βιογραφία επέλεξα να γράψω για τον [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz).
+### Επιλογή θεμάτων μελέτης περίπτωσης και βιογραφίας
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το [5ο παραδοτέο](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) προτίμησα να ασχοληθώ με τα θέματα [gedit](https://en.wikipedia.org/wiki/Gedit) και [Markdown](https://www.markdownguide.org/), όπου αναλυτικές πληροφορίες τόσο για την απόφαση αυτή όσο και για τη διαδικασία που ακολούθησα υπάρχουν παραπάνω. Για το Β μέρος του συμμετοχικού περιεχομένου σκέφτηκα να επιλέξω θέματα τόσο για τη μελέτη περίπτωσης όσο και για τη βιογραφία που να σχετίζονται με τη γλώσσα σήμανσης Markdown. Κύριος λόγος που συντέλεσε σε αυτή την απόφαση ήταν η συμφιλίωσή μου με τη χρήση της γλώσσας αυτής, αλλά ένα ακόμη μεγάλο αίτιο ήταν η επιθυμία μου για την εύρεση πληροφοριών σχετικά με τη πλατφόρμα του Github. Αξίζει να σημειωθεί πως στην ενδιάμεση παρουσίαση ο κύριος Χωριανόπουλος πρότεινε να ασχοληθώ για το θέμα της βιογραφίας με τον δημιουργό της Markdown, τον Aaron Swartz. Έπειτα από την παρακολούθηση της βιογραφικής ταινίας [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) που δημιουργήθηκε προς τιμήν του αποφάσισα να γράψω για αυτόν, αφού συνειδητοποίησα τη μεγάλη του συνεισφορά στην εξασφάλιση της διαδικτυακής ελευθερίας. Με αυτόν τον τρόπο λοιπόν για το συμμετοχικό περιεχόμενο Β1 + Β2 κατέληξα στα θέματα [Github](https://github.com/) και [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) αντίστοιχα.
 
 <br />
 
