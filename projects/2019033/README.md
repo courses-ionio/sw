@@ -6,18 +6,18 @@
 
 | Εβδομάδα | Παραδοτέο | Show & Tell Link | Αυτοαξιολόγηση |
 | :-: | :-: | :-: | :-: |
-| 1 | [Εισαγωγή](#-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | - |
-| 2 | [Βιογραφικό & Webring](#-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | - |
-| 3 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
-| 4 | [Kiss Linux](#-kiss-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/610) | - |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
-| 6 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
-| 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
-| 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Show & Tell](https://github.com/courses-ionio/help/discussions/552) | - |
-| 9 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | - |
-| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#-συμμετοχικό-περιεχόμενο-b1b2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/608) | - |
+| 1 | [Εισαγωγή](#-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | Μία σύντομη εισαγωγή για το τι περιμένω από το μάθημα |
+| 2 | [Βιογραφικό & Webring](#-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | Δημιούργησα το βιογραφικό μου χρησιμοποιόντας ένα θέμα Jekyll |
+| 3 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | Μικρή αλλαγή στο Site για να εξοικειωθώ με την διαδικασία συνεισφοράς |
+| 4 | [Kiss Linux](#-kiss-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/610) | Προσπάθησα να εγκαταστήσω το KISS Linux (όχι επιτυχώς) |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | Έκανα το συμμετοχικό περιεχόμενο, εμπνευσμένος απο τις αρχές του μαθήματος |
+| 6 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | Εγκατάσταση (& review) Void Linux |
+| 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | Github Action για την αυτοματοποίηση μετατροπής του βιογραφικού σε PDF |
+| 8 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr-1) | [Show & Tell](https://github.com/courses-ionio/help/discussions/552) | Προσθήκη νέας καρτέλας στο Sitegr, όχι όμως όπως έπρεπε για την 2η ενσωμάτωση |
+| 9 | [Άσκηση γραμμής εντολών - Ntfy](#-άσκηση-γραμμής-εντολών---ntfy) | [Show & Tell](https://github.com/courses-ionio/help/discussions/541) | Χρησιμοποίησα το ntfy για να μου έρχονται ειδοποιήσεις για ολοκληρωμένα tasks στο Telegram |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#-συμμετοχικό-περιεχόμενο-b1b2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/608) | Δημιουργία βιογραφίας και μελέτης περίπτωσης, τα οποία συνδέονται με το Α μέρος του συμμετοχικού |
 | 11 | Άσκηση γραμμής εντολών | - | - |
-| 12 | [Τελική αναφορά](#-επίλογος--συμπεράσματα) | - | - |
+| 12 | [Τελική αναφορά](#-επίλογος--συμπεράσματα) | - | Τελικά συμπεράσματα απο την εμπειρία του μαθήματος, καθώς και ιδέες για την βελτίωσή του |
   
 </div>
 <br>
