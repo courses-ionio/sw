@@ -78,7 +78,7 @@ hyperfine benchmark
 
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
-# <a name="G">Βιογραφικό  </a>
+# <a name="G">Βιογραφικό#2  </a>
 Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf.
 
 [Asciinema Link](https://asciinema.org/a/jcdSKp6uMe9XMijjXntdIlh2U)
