@@ -17,7 +17,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/596) | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 11](https://github.com/courses-ionio/help/discussions/616)| |
 | 12 | Τελική αναφορά* | | |
 <br />
 
@@ -160,3 +160,29 @@
 | Βιογραφία | [Biography Κείμενο](https://github.com/Sola1r3/site/blob/netlify/_includes/bio-hamilton.md) Και [Biography αρχείο](https://github.com/Sola1r3/site/blob/netlify/_biography/margaret-hamilton.md) | [Netlify](https://jocular-custard-b601cf.netlify.app/biography/margaret-hamilton/) |
 
 Πηγές: [Vista 1](https://news.microsoft.com/2007/01/17/microsoft-unveils-new-ways-for-consumers-to-get-windows-vista/), [Vista 2](https://en-academic.com/dic.nsf/enwiki/2126277), [Vista 3](https://web.archive.org/web/20140127195804/http://www.informationweek.com/microsofts-vista-had-major-mac-envy-company-e-mails-reveal/d/d-id/1051287), [Vista 4](https://medium.com/techtalkers/windows-vista-why-did-it-fail-b3ba4bd08a74), [Vista 5](https://www.wsj.com/articles/SB112743680328349448), [Vista 6](https://web.archive.org/web/20040102183707/http://www.forbes.com/free_forbes/2003/0526/147.html), [Vista 7](https://www.pastemagazine.com/tech/windows/rip-windows-vista-remembering-microsofts-biggest-b/), [Hamilton 1](https://computerhistory.org/blog/2017-chm-fellow-margaret-hamilton/?key=2017-chm-fellow-margaret-hamilton), [Hamilton 2](http://authors.library.caltech.edu/5456/1/hrst.mit.edu/hrs/apollo/public/conference1/hamilton-intro.htm), [Hamilton 3](https://www.computer.org/publications/tech-news/events/what-to-know-about-the-scientist-who-invented-the-term-software-engineering), [Hamilton 4](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+
+<br />
+
+## Παραδοτέο 11: Άσκηση Γραμμής Εντολών
+
+Για την τελευταία άσκηση γραμμής εντολών έστειλα notifications μέσω του ntfy στην εφαρμογή telegram. Το λειτουργικό που χρησιμοποίησα στην αρχή είναι το FreeBSD, ωστόσο μετά από ένα σημειο συνάντησα προβλήματα τα οποία θα αναφέρω πιο αναλυτικά αργότερα. Αρχικά λοιπόν εγκατέστησα στο σύστημα μου `pip` καθώς πολλά από τα packages που χρειαζόμουνα δεν μπορούσα να τα βρω με το `pkg` των FreeBSD αλλά γιατί έτσι και αλλιώς μου χρειάζεται. Αφού λοιπόν έπειτα έκανα install το `ntfy` και το `telegram-send`, μέσω bot father στο telegram δημιούργησα ένα bot με ονομασία kosmas2014042 το οποίο συνδέοντας το με το σύστημα μου θα λαμβάνει τα notifications μου. Όπως φαίνεται και στην παρακάτω εικόνα έρχονται ως notificationσ ο αριθμός μητρώου μου "2014042" και μια λέξη σχετική με το βίντεο της εβδομάδας "Smalltalk".
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/bot_telegram_resized.png)
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/Smalltalk%20message-resized.png)
+
+Παρακάτω φαίνεται η εντολή από το terminal μέσω της οποίας στέλνεται το notification στο telegram.
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/ntfy%20message-resized.png)
+
+Μετά από αυτό το σημείο εγκατέστησα nano για να γράψω ένα σύντομο script και με την ολοκλήρωση του να στέλνεται notification ότι ολοκληρώθηκε. Ωστόσο δεν κατάφερα να το κάνω να λειτουργήσει και είναι κάτι που θέλω να το ψάξω παραπάνω. Γενικότερα με τo FreeBSD συνάντησα πολλά θέματα, έχω χάσει το σύστημα 3 φορές. Για παράδειγμα όταν έτρεξα το pandoc του παραδοτέου 7 το σύστημα μπήκε σε μια λούπα και έκανε συνέχεια reboot. Θα μπορούσα να το αφήσω εδώ το παραδοτέο αλλά αφού είδα ότι αυτή την στιγμή δεν μπορώ να το λύσω χρησιμοποίησα άλλο terminal.
+
+Έτσι δημιούργησα ένα σύντομο script που να σβήνει το `Lynx` και στέλνει notification ότι έγινε remove. Παρακάτω φαίνεται ένα asciinema από την διαδικασία και μια εικόνα.
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/removelynx-resized.png)
+
+[Asciinema](https://asciinema.org/a/493866)
+
+Τέλος το notification που προκύπτει ως αποτέλεσμα.
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/screenshot%20phone-resized.jpg)
