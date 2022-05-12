@@ -16,7 +16,7 @@
 | 7 | βιογραφικό |[Παρουσίαση προόδου 7](https://github.com/courses-ionio/help/discussions/522)| |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών |[Παρουσίαση προόδου 9](https://github.com/courses-ionio/help/discussions/581)| |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 |[Παρουσίαση προόδου](https://github.com/courses-ionio/help/discussions/613) | |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 |[Παρουσίαση προόδου 10](https://github.com/courses-ionio/help/discussions/613) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
