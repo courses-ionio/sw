@@ -45,7 +45,7 @@
 [Link Discussions](https://github.com/courses-ionio/help/discussions/351)
 
 
-# <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
+# <a name="D">Άσκηση γραμμής εντολών </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux . Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/434)
