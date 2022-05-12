@@ -80,6 +80,8 @@
 
 Για το συμμετοχικό περιεχόμενο πήρα έμπνευση από τις απαιτήσεις του μαθήματος και πρόσθεσα το Systemd καθώς και το Gnome.
 
+*Πραγματοποιήθηκαν [αλλαγές](#-αλλαγές-που-πραγματοποιήθηκαν)*
+
 Α1:<br/>
 [Systemd](https://affectionate-lalande-dd24f3.netlify.app/gallery/systemd/)<br/>
 [Gnome](https://affectionate-lalande-dd24f3.netlify.app/gallery/gnome/)<br/><br/>
