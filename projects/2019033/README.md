@@ -232,7 +232,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/17) [images](https:/
 - **Συμμετοχικό Α'**
 - [ ] Θετικά/Αρνητικά systemd
 - [ ] Αφαίρεση ιστορικής αναδρομής systemd και περισσότερες πληροφορίες για την τεχνολογία του
-- [ ] Αλλαγή εικονών σε systemd & gnome
+- [x] Αλλαγή εικονών σε systemd & gnome [Pull request link στο site της ομάδας](https://github.com/Kafeneio/images/pull/9)
 
 <br/>
 
