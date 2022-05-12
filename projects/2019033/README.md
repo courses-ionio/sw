@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#-εισαγωγή) | [Show & Tell](https://github.com/courses-ionio/help/discussions/71) | - |
 | 2 | [Βιογραφικό & Webring](#-βιογραφικό--webring) | [Show & Tell](https://github.com/courses-ionio/help/discussions/170) | - |
 | 3 | [Αίτημα ενσωμάτωσης sitegr](#-αίτημα-ενσωμάτωσης-sitegr) | [Show & Tell](https://github.com/courses-ionio/help/discussions/385) | - |
-| 4 | [Kiss Linux](#-kiss-linux) | - | - |
+| 4 | [Kiss Linux](#-kiss-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/610) | - |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#-συμμετοχικό-περιεχόμενο-a1a2) | [Show & Tell](https://github.com/courses-ionio/help/discussions/413) | - |
 | 6 | [Void Linux](#-void-linux) | [Show & Tell](https://github.com/courses-ionio/help/discussions/372) | - |
 | 7 | [Βιογραφικό PDF](#-βιογραφικό-pdf) | [Show & Tell](https://github.com/courses-ionio/help/discussions/546) | - |
