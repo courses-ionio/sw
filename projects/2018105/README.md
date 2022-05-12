@@ -94,7 +94,7 @@ https://en.wikipedia.org/wiki/AWK
 
 Ο Brian Wilson Kernighan είναι Καναδός επιστήμονας υπολογιστών και δημιουργός του AWK.
 
-(Biography)(https://snazzy-douhua-80b0bf.netlify.app/biography/brian-kernighan/)
+[Biography](https://snazzy-douhua-80b0bf.netlify.app/biography/brian-kernighan/)
 
 Πηγές:
 
