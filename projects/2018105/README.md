@@ -71,3 +71,38 @@ Tο συγκεκριμένο παραδοτέο απαιτούσε την δημ
 Η μόνη διαφορά στα 2 προγράμματα main1.py και main2.py είναι στην συνάρτηση f η οποία στο main1.py χρησιμοποιεί την πράξη ύψωση σε δύναμη με το 10 ενώ στο main2.py πολλαπλασιάζει επί 10. Για το λόγο αυτό το main1.py χρειάζεται περισσότερο χρόνο για να εκτελεστεί σε σύγκριση με το main2.py, πράγμα το οποίο επιβεβαιώνεται από το εργαλείο hyperfine.
 
 [Asciinema Link](https://asciinema.org/a/492657)
+
+
+### Συμμετοχικό περιεχόμενο B1 και Β2
+
+#### Β1 Μελέτη Περίπτωσης: AWK
+
+Το AWK είναι μια γλώσσα η οποία χρησιμοποιείται κυρίως για επεξεργασία κειμένου, αναφορά και ανάλυση δεδομένων.
+
+[Case study](https://snazzy-douhua-80b0bf.netlify.app/case-study/awk/)
+
+Πηγές:
+
+https://www.baeldung.com/linux/awk-guide 
+
+https://www.linode.com/docs/guides/introduction-to-awk/
+
+https://en.wikipedia.org/wiki/AWK
+
+
+### B2 Βιογραφία: Brian Kernighan
+
+Ο Brian Wilson Kernighan είναι Καναδός επιστήμονας υπολογιστών και δημιουργός του AWK.
+
+(Biography)(https://snazzy-douhua-80b0bf.netlify.app/biography/brian-kernighan/)
+
+Πηγές:
+
+https://en.wikipedia.org/wiki/Brian_Kernighan
+
+https://www.cs.princeton.edu/people/profile/bwk
+
+
+
+
+
