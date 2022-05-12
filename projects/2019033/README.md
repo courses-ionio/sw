@@ -41,7 +41,7 @@
 - [x] Προσθήκη πιστοποιητικών (Certificates)
 <br/>
 
-<img src="./img/resume.png" alt="resume" width="400"/>  
+<img src="https://i.imgur.com/QzjA9Mt.png" alt="resume" width="400"/>  
 
 *Υ.Γ. Το συγκεκριμένο βιογραφικό το χρησιμοποίησα σε πραγματικές εταιρείες*
 
@@ -52,10 +52,10 @@
   
   Πριν:
   
-  <img src="./img/prin1.png" alt="resume" width="600"/>
+  <img src="https://i.imgur.com/N74Hlc0.png" alt="resume" width="600"/>
   Μετά:
   
-  <img src="./img/meta1.png" alt="resume" width="600"/>
+  <img src="https://i.imgur.com/8faP7N2.png" alt="resume" width="600"/>
   
   
   - [Pull Request](https://github.com/ioniodi/sitegr/pull/282)
@@ -95,7 +95,7 @@ Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://
 
 ## 👉 Void Linux
 
-<img src="./img/Screenshot%20from%202022-03-13%2019-12-56.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-16-57.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2019-32-25.png" alt="drawing" width="400"/> <img src="./img/Screenshot%20from%202022-03-13%2020-42-34.png" alt="drawing" width="400" height="300"/>
+<img src="https://i.imgur.com/R18f2cj.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/phFHnYq.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/Ipf39Ui.png" alt="drawing" width="400"/> <img src="https://i.imgur.com/RPuxw5p.png" alt="drawing" width="400" height="300"/>
 
 ## 👉 Βιογραφικό PDF
 
@@ -132,7 +132,7 @@ jobs:
 
 Το αποτέλεσμα:
 
-<img src="./img/resume-1.jpg" alt="resume-1" width="33%"/><img src="./img/resume-2.jpg" alt="resume-2" width="33%"/><img src="./img/resume-3.jpg" alt="resume-3" width="33%"/>
+<img src="https://i.imgur.com/9qgwQn6.png" alt="resume-1" width="33%"/><img src="https://i.imgur.com/4hLlMTw.png" alt="resume-2" width="33%"/><img src="https://i.imgur.com/RBYfbVx.png" alt="resume-3" width="33%"/>
 
 
 Πρωηγούμενη (λάθος) λύση:
@@ -159,11 +159,11 @@ jobs:
 
 Πριν:
 
-<img src="./img/prin2.png" alt="prin2" width="100%"/>
+<img src="https://i.imgur.com/aPguzMK.png" alt="prin2" width="100%"/>
 Μετά:
 
-<img src="./img/meta2.png" alt="meta2" width="100%"/><br/>
-<img src="./img/directions.png" alt="directions"/>
+<img src="https://i.imgur.com/37K9xz9.png" alt="meta2" width="100%"/><br/>
+<img src="https://i.imgur.com/xdCQpno.png" alt="directions"/>
 
 [Demo](https://zealous-chandrasekhar-3a7ca4.netlify.app/)
 [Issue](https://github.com/ioniodi/sitegr/issues/395)
