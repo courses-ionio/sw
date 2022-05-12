@@ -38,11 +38,12 @@
 
 
 # <a name="C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a>
-
+Στο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος έγινε προσθήκη ανακοίνωσης .
 [Live Demo](https://optimistic-kilby-7fd188.netlify.app/posts/2021/11/12/covid19-case/),
 [Issue Link](https://github.com/ioniodi/sitegr/issues/269),
 [Pull Request](https://github.com/ioniodi/all_collections/pull/18),
 [Link Discussions](https://github.com/courses-ionio/help/discussions/351)
+
 
 # <a name="D">Άσκηση γραμμής εντολών -εξάσκηση 4ο παραδοτέο </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux . Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
@@ -100,4 +101,10 @@ https://github.com/courses-ionio/help/discussions/570
 https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e!
 
 ![Screenshot 2022-04-17 at 12 34 53](https://user-images.githubusercontent.com/93882637/163709778-28488c04-a5f8-4ed7-a58f-94ac192f8c17.png)
+
+# <a name="I">συμμετοχικό περιεχόμενο B1+B2</a>
+
+Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein((deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
+[ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ](https://p18balt.netlify.app/case-study/artixlinux/)
+[ΒΙΟΓΡΑΦΙΑ](https://p18balt.netlify.app/biography/bernstein/)
 
