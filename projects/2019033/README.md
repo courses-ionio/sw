@@ -280,6 +280,7 @@ Site:
 - [site-makis](https://github.com/Kafeneio/site/pull/14)
 - [site-dimos](https://github.com/Kafeneio/site/pull/8)
 - [site-alkis](https://github.com/Kafeneio/site/pull/13)
+- [site-dimos](https://github.com/Kafeneio/site/pull/18)
 
 Gallery:
 - [_gallery-makis](https://github.com/Kafeneio/_gallery/pull/3)
@@ -290,7 +291,7 @@ Images:
 - [images-makis](https://github.com/Kafeneio/images/pull/3)
 - [images-dimos](https://github.com/Kafeneio/images/pull/4)
 - [images-alkis](https://github.com/Kafeneio/images/pull/5)
-- [images-alkis](https://github.com/Kafeneio/images/pull/8)
+- [images-dimos](https://github.com/Kafeneio/images/pull/8)
 
 ## 🏢 Οργανισμός
 
