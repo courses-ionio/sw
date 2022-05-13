@@ -615,14 +615,60 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Για το [5ο παραδοτέο](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) προτίμησα να ασχοληθώ με τα θέματα [gedit](https://en.wikipedia.org/wiki/Gedit) και [Markdown](https://www.markdownguide.org/), όπου αναλυτικές πληροφορίες τόσο για την απόφαση αυτή όσο και για τη διαδικασία που ακολούθησα υπάρχουν παραπάνω. Για το Β μέρος του συμμετοχικού περιεχομένου σκέφτηκα να επιλέξω θέματα τόσο για τη μελέτη περίπτωσης όσο και για τη βιογραφία που να σχετίζονται με τη γλώσσα σήμανσης Markdown. Κύριος λόγος που συντέλεσε σε αυτή την απόφαση ήταν η συμφιλίωσή μου με τη χρήση της γλώσσας αυτής, αλλά ένα ακόμη μεγάλο αίτιο ήταν η επιθυμία μου για την εύρεση πληροφοριών σχετικά με τη πλατφόρμα του Github. Αξίζει να σημειωθεί πως στην ενδιάμεση παρουσίαση ο κύριος Χωριανόπουλος πρότεινε να ασχοληθώ για το θέμα της βιογραφίας με τον δημιουργό της Markdown, τον Aaron Swartz. Έπειτα από την παρακολούθηση της βιογραφικής ταινίας [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) που δημιουργήθηκε προς τιμήν του αποφάσισα να γράψω για αυτόν, αφού συνειδητοποίησα τη μεγάλη του συνεισφορά στην εξασφάλιση της διαδικτυακής ελευθερίας. Με αυτόν τον τρόπο λοιπόν για το συμμετοχικό περιεχόμενο Β1 + Β2 κατέληξα στα θέματα [Github](https://github.com/) και [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) αντίστοιχα.
+&nbsp;&nbsp;&nbsp;&nbsp;Για το [5ο παραδοτέο](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1--a2) προτίμησα να ασχοληθώ με τα θέματα [gedit](https://en.wikipedia.org/wiki/Gedit) και [Markdown](https://www.markdownguide.org/), όπου αναλυτικές πληροφορίες τόσο για την απόφαση αυτή όσο και για τη διαδικασία που ακολούθησα υπάρχουν παραπάνω. Για το Β μέρος του συμμετοχικού περιεχομένου σκέφτηκα να επιλέξω θέματα που να σχετίζονται με τη γλώσσα σήμανσης Markdown. Κύριος λόγος που συντέλεσε σε αυτή την απόφαση ήταν η συμφιλίωσή μου με τη χρήση της γλώσσας αυτής, αλλά ένας ακόμη μεγάλος λόγος ήταν η επιθυμία μου για την εύρεση πληροφοριών σχετικά με τη πλατφόρμα του Github. Αξίζει να σημειωθεί πως στην ενδιάμεση παρουσίαση ο κύριος Χωριανόπουλος πρότεινε να ασχοληθώ για το θέμα της βιογραφίας με τον δημιουργό της Markdown, τον Aaron Swartz. Έπειτα από την παρακολούθηση της βιογραφικής ταινίας [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) που δημιουργήθηκε προς τιμήν του αποφάσισα να γράψω για αυτόν, αφού συνειδητοποίησα τη μεγάλη του συνεισφορά στην εξασφάλιση της διαδικτυακής ελευθερίας. Με αυτόν τον τρόπο λοιπόν για το συμμετοχικό περιεχόμενο Β1 + Β2 κατέληξα στα θέματα [Github](https://github.com/) και [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) αντίστοιχα.
 
 <br />
 
-|Demo-site |
-| --- |
-| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) | 
-| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| 
+### Δημιουργία αιτημάτων ενσωμάτωσης στην Ομάδα
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την κατάθεση των Pull request μου, αντιμετώπισα ένα μεγάλο πρόβλημα λόγω ενός λάθους που έκανα κατά τη διάρκεια του 5ου παραδοτέου. Το λάθος αυτό ήταν να πειράξω το branch **master** και με αυτόν τον τρόπο να χάσω ένα **back-up** κλαδί. Στο repository μου [AimiliosPavlidis2001/site](https://github.com/AimiliosPavlidis2001/site) προσπάθησα πολύ να δημιουργήσω ένα branch όσο πιο καθαρό γίνεται χωρίς καμία αλλαγή, αλλά δεν μπόρεσα. Για τα submodules [images](https://github.com/AimiliosPavlidis2001/images) και [extras](https://github.com/AimiliosPavlidis2001/extras) δημιούργησα ένα νέο branch με το όνομα **pull-branch-v2** στο οποίο πέρασα μόνο τις απαραίτητες αλλαγές για την ομαλή ενσωμάτωση στη κεντρική ιστοσελίδα της ομάδας.
+
+<br />
+
+### Διαδικασία αναζήτησης πηγών για εικόνες και κείμενα
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Αρχικά ξεκίνησα με την επιμόρφωσή μου σχετικά με τον Aaron Swartz και παρακολούθησα την ταινία [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ). Από την ταινία αυτή κράτησα κάποιες σημειώσεις και έπειτα μετέβηκα στην [wikipedia](https://en.wikipedia.org/wiki/Aaron_Swartz) για να συμπληρώσω και να κατανοήσω περαιτέρω κάποιες βασικές πληροφορίες σχετικά με το πρόσωπο αυτό. Στη βιβλιογραφία, που βρίσκεται στο τέλος της αναφοράς, αναγράφονται όλες οι πηγές που συντέλεσαν στην υλοποίηση του παραδοτέου. Μεγάλη σημασία έδωσα στις εικόνες που επέλεξα αφού ήταν σημαντικό οι εικόνες να είναι **free commercial use** ή να μπορούμε να τις χρησιμοποιήσουμε δίνοντας **attribution** στον δημιουργό τους. Η μόνη εικόνα που είχε ως απαραίτητη προυπόθεση την απόδοση credit για την άδεια χρήσης της ήταν αυτή του Swartz, που ενσωμάτωσα στο τέλος της βιβλιογραφικής μου έρευνας σύμφωνα με την άδεια [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en).
+
+<br /> <br />
+
+<p align="center">
+ <b>Μέρος της μελέτης περίπτωσης (Github)</b>
+</p>
+
+<p align="center">
+ 
+ ![github2photos](https://user-images.githubusercontent.com/72695605/168268512-1422d69b-2bec-452b-8e9c-a94ffe162e0a.png)
+
+</p>
+
+<br />
+
+<p align="center">
+ <b>Μέρος της βιογραφίας (Aaron Swartz)</b>
+</p>
+
+<p align="center">
+ 
+ ![aaron2photos](https://user-images.githubusercontent.com/72695605/168269634-6af8f32f-9898-4e8e-a5ff-077ed85db815.png)
+
+</p>
+
+<br /> <br />
+
+|Demo-site | Pull requests |
+| --- | --- |
+| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) |
+| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) |
+
+<br />
+
+| | Συμμετοχή και Ομαδικότητα για τη 10η εβδομάδα |
+| --- | --- |
+| 1 | **Reviewer** στην ομάδα μου |
 
 <br /> <br />
 
