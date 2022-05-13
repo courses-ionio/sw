@@ -89,6 +89,8 @@ https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC
 [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6)
 
 
+![Screenshot Telegram](file:///C:/Users/%CE%92%CE%99%CE%92%CE%97%20%CE%9A%CE%91%CE%A1%CE%91%CE%93%CE%9A%CE%9F%CE%A5%CE%9D%CE%97/Downloads/280750209_1428300000931801_670954090871778045_n.png)
+
 ## Συνεισφορά σε συζητήσεις
 
 ### Σχολιασμός 
