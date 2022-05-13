@@ -94,7 +94,7 @@ Slides:<br/>
 <br/>
 [Αρχική σελίδα](https://affectionate-lalande-dd24f3.netlify.app/)<br/>
 [Αρχική σελίδα ομάδας](https://kafeneio-site-pibook.netlify.app/)<br/>
-Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2) [PR αλλαγών στο Kafeneio](https://github.com/Kafeneio/images/pull/9)
+Pull Requests: [Site](https://github.com/Kafeneio/site/pull/5) [images](https://github.com/Kafeneio/images/pull/2) [_gallery](https://github.com/Kafeneio/_gallery/pull/2) [PR αλλαγών στο Kafeneio](https://github.com/Kafeneio/site/pull/19)
 
 ## 👉 Void Linux
 
