@@ -107,6 +107,7 @@ https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-
 Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein((deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
 [ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ](https://p18balt.netlify.app/case-study/artixlinux/)
 [ΒΙΟΓΡΑΦΙΑ](https://p18balt.netlify.app/biography/bernstein/)
+ΠΗΓΗ: Wikipedia
 
 # <a name="J">'Ασκηση Γραμμής Εντολών </a>
 Εγκατάσταση rainbowstream δημιουργία twitter λογαριασμού και προβολή home-newsfeed στο Terminal
