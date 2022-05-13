@@ -276,7 +276,7 @@ chmod +x updates.sh
 [Usefull Link 6](https://en.wikipedia.org/wiki/Nolan_Bushnell)
 
 
-# <a name="Ι">Άσκηση Γραμμής Εντολών</a>
+# <a name="I"> Άσκηση Γραμμής Εντολών </a>
 
 Άσκηση γραμμής εντολών: performance monitoring
 Σκοπός της άσκησης είναι να απεικονίσουμε την απόδοση εκτέλεσης κάποιων python scripts που έχουμε επιλέξει μέσω του hyperfine και του py-spy.
