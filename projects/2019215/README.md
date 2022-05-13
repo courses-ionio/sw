@@ -157,3 +157,8 @@
 | 3 | https://github.com/courses-ionio/help/discussions/120 |
 | 4 | https://github.com/courses-ionio/help/discussions/268 |
 | 5 | https://github.com/courses-ionio/help/discussions/413 |
+
+| | Οδηγίες στη ομάδα |
+| --- | --- |
+| 1 | https://github.com/ionioi/members/discussions/3 |
+| 2 | https://github.com/ionioi/members/discussions/4 |
