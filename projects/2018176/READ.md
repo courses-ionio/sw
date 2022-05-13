@@ -15,7 +15,7 @@
 | <a href= "#E">5</a> | <a href= "#E"> Συμμετοχικό περιεχόμενο A1+A2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/603)|Προσθήκη artixlinux , runit στο site |
 | <a href="F">6</a>|<a href="F">Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/469)| Εγκατάσταση - Χρήση py-spy και hyperfine σε Artix Linux|
 | <a href="G">7</a> |<a href="G"> βιογραφικό</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/498) |Εγκατάσταση κατάλληλων εργαλείων για μετατροπή tex αρχείου σε pdf |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 |<a href="#H">9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM |
 |<a href="I">10</a> |<a href="#I"> συμμετοχικό περιεχόμενο B1+B2</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/609) |ArtixLinux case study DJB Biography |
 |<a href="J">11</a> |<a href="#J"> Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/619) | rainbowstream twitter|
