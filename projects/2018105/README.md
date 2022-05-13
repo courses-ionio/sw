@@ -107,7 +107,7 @@ https://www.cs.princeton.edu/people/profile/bwk
 
 Για το 11ο παραδοτέο ασχολήθηκα με το εργαλείο mqttwarn. Η εγκατάσταση έγινε με την εντολή pip install --upgrade mqttwarn. Για την χρήση αυτού του εργαλείου απαιτείται και η χρήση ενός MQTT broker. Ως mqtt broker επέλεξα το Mosquitto και χρησιμοποίησα την εντολή apt install mosquitto για την εγκατάσταση.
 
-Θα ήθελα να τονίσω πως για το συγκεκριμένο παραδοτέο δεν χρησιμοποιήσα το devuan linux αλλά ubuntu, και αυτό διότι στο devuan αφού έγινε με επιτυχία η εγκατάσταση του Mosquitto δεν μπορέσα να τρέξω σωστά αυτό το πρόγρομμα και όταν έλεχγα την κατάσταση του broker με την εντολή /etc/init.d/mosquitto status το αποτέλεσμα ήταν failed.
+Θα ήθελα να τονίσω πως για το συγκεκριμένο παραδοτέο δεν χρησιμοποιήσα το devuan linux αλλά ubuntu, και αυτό διότι στο devuan αφού έγινε με επιτυχία η εγκατάσταση του Mosquitto,όταν έλεγχα την κατάσταση του broker με την εντολή /etc/init.d/mosquitto status το αποτέλεσμα ήταν failed.
 
 Τροποποίησα κατάλληλα το αρχείο mqttwarn.ini έτσι ώστε κάθε φόρά που το mqttwarn δέχεται ένα message από τον broker να δημιουργεί ένα νέο αρχείο στο directory /tmp .
 
