@@ -278,7 +278,7 @@ chmod +x updates.sh
 
 # <a name="Ι">Άσκηση Γραμμής Εντολών</a>
 
-## Άσκηση γραμμής εντολών: performance monitoring
+Άσκηση γραμμής εντολών: performance monitoring
 Σκοπός της άσκησης είναι να απεικονίσουμε την απόδοση εκτέλεσης κάποιων python scripts που έχουμε επιλέξει μέσω του hyperfine και του py-spy.
 
 Εγκατάσταση πακέτων:
