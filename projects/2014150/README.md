@@ -19,7 +19,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
 | <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS |
-| <a href="#I">11</a> | <a href="#I">Άσκηση γραμμής εντολών </a> | [Discussion Link]() | Εγκατάσταση py-spy, hyperfine και κατάλληλα πακέτα για την εκτέλεση της άσκησης |
+| <a href="#I">11</a> | <a href="#I">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/620) | Εγκατάσταση py-spy, hyperfine και κατάλληλα πακέτα για την εκτέλεση της άσκησης |
 | 12 | Τελική αναφορά* | | |
 
 
@@ -263,17 +263,17 @@ chmod +x updates.sh
 
 -ΠΗΓΕΣ
 
-[Usefull Link 1](https://www.atariarchives.org/creativeatari/Atari_DOS.php)
+[Usefull-CS Link 1](https://www.atariarchives.org/creativeatari/Atari_DOS.php)
 
-[Usefull Link 2](https://www.atariarchives.org/iad/chapter1.php)
+[Usefull-CS Link 2](https://www.atariarchives.org/iad/chapter1.php)
 
-[Usefull Link 3](http://www.atarimania.com/documents/Inside_Atari_DOS.pdf)
+[Usefull-CS Link 3](http://www.atarimania.com/documents/Inside_Atari_DOS.pdf)
 
-[Usefull Link 4](https://en.wikipedia.org/wiki/Atari_DOS)
+[Usefull-CS Link 4](https://en.wikipedia.org/wiki/Atari_DOS)
 
-[Usefull Link 5](https://lemelson.mit.edu/resources/nolan-bushnell)
+[Usefull-BIO Link 5](https://lemelson.mit.edu/resources/nolan-bushnell)
 
-[Usefull Link 6](https://en.wikipedia.org/wiki/Nolan_Bushnell)
+[Usefull-BIO Link 6](https://en.wikipedia.org/wiki/Nolan_Bushnell)
 
 
 # <a name="I"> Άσκηση Γραμμής Εντολών </a>
