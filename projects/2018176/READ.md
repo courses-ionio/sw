@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 |<a href="#H">9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM |
 |<a href="I">10</a> |<a href="#I"> συμμετοχικό περιεχόμενο B1+B2</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/609) |ArtixLinux case study DJB Biography |
-| 11 | Άσκηση γραμμής εντολών | | |
+|<a href="J">11</a> |<a href="#J"> Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/619) | rainbowstream twitter|
 | 12 | Τελική αναφορά* | | |
 
 
@@ -107,4 +107,8 @@ https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-
 Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein((deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
 [ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ](https://p18balt.netlify.app/case-study/artixlinux/)
 [ΒΙΟΓΡΑΦΙΑ](https://p18balt.netlify.app/biography/bernstein/)
+
+# <a name="J">'Ασκηση Γραμμής Εντολών </a>
+Εγκατάσταση rainbowstream δημιουργία twitter λογαριασμού και προβολή home-newsfeed στο Terminal
+[Asciinema](https://asciinema.org/a/n9UmP01fCNX45KSYtEoViTV9l)
 
