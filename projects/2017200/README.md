@@ -9,9 +9,9 @@
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα -->| [Ανάρτηση και link εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/109) | | 
 | 2 | βιογραφικό και δημιουργία ομάδας | [link παραδοτέου(Discussions)](https://github.com/courses-ionio/help/discussions/235) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Αλλαγή στην ιστοσελιδα](https://github.com/ioniodi/sitegr/issues/392) | |
-| 4 | Άσκηση γραμμής εντολών | [asciinema](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC) | |
+| 4 | Άσκηση γραμμής εντολών | [Asciinema](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | Άσκηση γραμμής εντολών | ntfy, [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6) | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -82,7 +82,11 @@ https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC
 
 
 
+## ΠΑΡΑΔΟΤΕΟ 6
 
+Για το 6ο παραδοτέο έχω κάνει το NTFY TELEGRAM και το έβλα να στέλνει μήνυμα στο κινητό
+
+[Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6)
 
 
 ## Συνεισφορά σε συζητήσεις
