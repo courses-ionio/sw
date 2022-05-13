@@ -623,7 +623,7 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την κατάθεση των Pull request μου, αντιμετώπισα ένα μεγάλο πρόβλημα λόγω ενός λάθους που έκανα κατά τη διάρκεια του 5ου παραδοτέου. Το λάθος αυτό ήταν να πειράξω το branch **master** και με αυτόν τον τρόπο να χάσω ένα **back-up** κλαδί. Στο repository μου [AimiliosPavlidis2001/site](https://github.com/AimiliosPavlidis2001/site) προσπάθησα πολύ να δημιουργήσω ένα branch όσο πιο καθαρό γίνεται χωρίς καμία αλλαγή, αλλά δεν μπόρεσα. Για τα submodules [images](https://github.com/AimiliosPavlidis2001/images) και [extras](https://github.com/AimiliosPavlidis2001/extras) δημιούργησα ένα νέο branch με το όνομα **pull-branch-v2** στο οποίο πέρασα μόνο τις απαραίτητες αλλαγές για την ομαλή ενσωμάτωση στη κεντρική ιστοσελίδα της ομάδας.
+&nbsp;&nbsp;&nbsp;&nbsp;Όσον αφορά την κατάθεση των Pull request μου, αντιμετώπισα ένα πρόβλημα λόγω ενός λάθους που έκανα κατά τη διάρκεια του 5ου παραδοτέου. Το λάθος αυτό ήταν να πειράξω το branch **master** και με αυτόν τον τρόπο να χάσω ένα **back-up** κλαδί. Στο repository μου [AimiliosPavlidis2001/site](https://github.com/AimiliosPavlidis2001/site) προσπάθησα πολύ να δημιουργήσω ένα branch χωρίς καμία αλλαγή, αλλά δεν μπόρεσα. Παρ' όλα αυτά **βρέθηκε λύση** κατά τη διάρκεια της συνάντησης με τον κύριο Διογένη από τον συμφοιτητή μου Θωμά Πασχάλη (@p19pasc). Μου πρότεινε να χρησιμοποιήσω την εντολή <kbd> git rebase </kbd> με την οποία τελικά κατάφερα να επαναφέρω ένα κλαδί στην αρχική του μορφή. Από εκεί δημιούργησα ένα νέο κλαδί το **pull-branch-v2** στο οποίο πέρασα μόνο τις απαραίτητες αλλαγές για την ομαλή ενσωμάτωση του [αιτήματός μου](https://github.com/OompaLoompas/site/pull/26) στην ιστοσελίδα της ομάδας. Για τα submodules [images](https://github.com/AimiliosPavlidis2001/images) και [extras](https://github.com/AimiliosPavlidis2001/extras) δε συνάντησα κανένα πρόβλημα και απλώς δημιούργησα για ακόμη μία φορά ένα νέο branch με το όνομα **pull-branch-v2** για να πραγματοποιηθούν τα ανάλογα αιτήματα ενσωμάτωσης.
 
 <br />
 
@@ -659,16 +659,18 @@
 
 <br /> <br />
 
-|Demo-site | Pull requests |
-| --- | --- |
-| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) |
-| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) |
+|Demo-site | Pull requests | Issue |
+| --- | --- | --- |
+| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/26) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/19) |
+| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) | |
+| | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) | |
 
 <br />
 
 | | Συμμετοχή και Ομαδικότητα για τη 10η εβδομάδα |
 | --- | --- |
 | 1 | **Reviewer** στην ομάδα μου |
+| 2 | [Συγγραφή οδηγιών](https://github.com/OompaLoompas/help/discussions/14) για 10ο παραδοτέο με @p19pasc |
 
 <br /> <br />
 
