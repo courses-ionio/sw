@@ -21,9 +21,9 @@
 | 6 | [Άσκηση γραμμής εντολών: Ιnstalling systemd less distro 2](#6ο-παραδοτέο---συνέχεια-εγκατάστασης-systemd-less-linux-distro) και [Άσκηση γραμμής εντολών - Check the Weather](#άσκηση-γραμμής-εντολών---check-the-weather) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/473#discussion-3967041) | |
 | 7 | [Βιογραφικό: PDF με pandoc και LaTeX + CI](#7ο-παραδοτέο---βιογραφικό-pdf-με-pandoc-και-latex--ci) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/523#discussion-3983966) | |
 | 8 | [2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8ο-παραδοτέο---2ο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/560) | |
-| 9 | [Άσκηση γραμμής εντολών: performance monitoring](#9ο-παραδοτέο---performance-monitoring) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/565) | |
+| 9 | [Άσκηση γραμμής εντολών: Performance monitoring](#9ο-παραδοτέο---performance-monitoring) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/565) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-και-β2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/589) | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Άσκηση γραμμής εντολών: Create your own static site and blog generator](#11ο-παραδοτέο---create-your-own-static-site-and-blog-generator) | [Link Συζήτησης]() | |
 | 12 | Τελική αναφορά* | | |
 
 # ΕΙΣΑΓΩΓΗ
@@ -272,7 +272,7 @@
 [shopify.github.io/liquid](https://shopify.github.io/liquid/) | [Jekyll tutorial #2 | How to use Jekyll layouts](https://www.youtube.com/watch?v=sYR26cfwzio) | [Introduction to liquid in Jekyll - CloudCannon Casts](https://www.youtube.com/watch?v=6pCdOh_I4EM) | [svg circle path](https://codepen.io/jakob-e/pen/bgBegJ) | [svg sprites font awesome](https://fontawesome.com/docs/web/add-icons/svg-sprites)
 
 
-# 9ο Παραδοτέο - performance monitoring
+# 9ο Παραδοτέο - Performance monitoring
 Για αυτό το παραδοτέο επέλεξα να κάνω την εργασία “performance monitoring” που ήθελε να παρακολουθήσουμε την επίδοση των python script μας και να γίνει ένα σχετικό visualize στην διαδικασία. Εγω συγκεκριμένα χρησιμοποίησα το εργαλείο Hyperfine και εξερεύνησα πολλά από τα feature του αλλά δημιούργησα και ένα shell script που εξηγώ παρακάτω και έχω ανεβασμένο και στο προσωπικό μου αποθετήριο.
 
 Το hyperfine σου επιτρέπει να κάνεις bench script αλλά και εντολές και εμφανίζει διάφορες πληροφορίες για την πορεία του bench με πολύχρωμα reports και loadbars. Στο asciinema μου δείχνω πολλές λειτουργίες του όπως:
@@ -348,3 +348,38 @@
 #### Link προς το repository του site στο προσοπικό μου αποθετίριο: [KuhakuNeko/site](https://github.com/KuhakuNeko/site)<br>
 #### Link προς το ανάλογο issue στο site της ομάδας: [Git-s-PopTeamEpic/site/issues/17](https://github.com/Git-s-PopTeamEpic/site/issues/17)<br>
 #### Link προς το ανάλογο pull request στο site της ομάδας: [Git-s-PopTeamEpic/site/pull/18](https://github.com/Git-s-PopTeamEpic/site/pull/18)<br>
+
+# 11ο Παραδοτέο - Create your own static site and blog generator
+Για την συγκεκριμένη εβδομάδα επέλεξα την άσκηση γραμμής εντολών "Create your own static site and blog generator". Το νόημα της εργασίας είναι να φτιάξουμε ένα δημιουργό στατικού site/blog ο οποίος θα μπορεί να διαχειριστεί τουλάχιστον post, σελίδες, και templates. Θεωρώ την συγκεκριμένη άσκηση πολύ δημιουργική και με ενθουσίασε ιδιαιτέρως διότι πάντοτε σκεπτόμουν να ανοίξω ένα δικό μου blog αλλά σελίδες όπως το blogger δεν μου κινούσαν πολύ το ενδιαφέρων οπότε ήθελα να δοκιμάσω ένα ξεχωριστώ εργαλείο με περισσότερη ελευθερία και να έχω άμεση πρόσβαση στα αρχεία μου.<br>
+
+Μιας και μου αρέσει η λειτουργικότητα και οι αυτοματισμοί των shell script αλλά και το γεγονός οτι μπορώ να το χρησιμοποιήσω σε οποιοδήποτε unix μηχάνημα με bash, επέλεξα να χτίσω το δικό μου shell script έχοντας ως βάση το BashBlog του cfenollosa. Φυσικά το συγκεκριμένο shell script είναι σχετικά απλοϊκό και δημιουργεί μία απλή λευκή σελίδα, επομένως το διαμόρφωσα κατάλληλα και πρόσθεσα και μερικά πράγματα για να έχω το επιθυμητό αποτέλεσμα.<br>
+
+- Αρχικά άλλαξα πολλά στον τομέα της css στο ανάλογο κομμάτι του script για να ταιριάζει στο δικό μου στυλ που ακολουθώ στα προφίλ μου, αποθετήρια και σελίδες. Φυσικά αυτό αφορά χρώματα, γραμματοσειρές, εφέ link κ.α.
+- Πρόσθεσα μερικά έξτρα κουμπιά/links στο πάνω μέρος της σελίδας διότι μου φαίνονταν λίγο δύσχρηστο να βρίσκονται μόνο στο κάτω μέρος.
+- Πρόσθεσα εικόνες.
+- Μεγάλωσα πολύ περισσότερο το μέγεθος της σελίδας (κομμάτι χαρτιού) και πείραξα λίγο την σειρά εμφανίσεις των αντικειμένων.
+<br>
+
+Μετά από τις αλλαγές στο script πείρα το παρακάτω αποτέλεσμα (υπάρχει και link προς το blog μου παρακάτω):<br>
+
+<p align="center">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%2011%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Screenshot%202022-05-14%20Kuhaku%20Blog.png" width="640px">
+</p>
+
+Στο asciinema κάνω ένα απλό showcase του Hakubb.sh (που είναι η παραλλαγή μου πάνω στο BashBlog)
+- Πρόσθεσα στο script διάφορα κουμπιά, links, έκανα αλλαγές στην css και την τοποθέτηση δημιουργώντας το δικό μου template.
+- Κάνω 3 πρώτα post για το νέο μου blog.
+- Τα διαμορφώνω κατάλληλα και κάνω αλλαγές.
+- Δημιουργώ ένα φάκελο εικόνων.
+- Εμφανίζω όλα τα post μου (δείχνοντας την δυνατότητα του script να κάνει track τις δημιουργίες).
+- Εμφανίζω όλα τα tags μου.
+- Το κάνω push στο repository μου στο GitHub.
+- Και το blog μου είναι έτοιμο καθώς η δουλεία γίνετε από τις αλλαγές μου στο script.
+Πράγματι αυτό το generator μπορεί να δημιουργήσει νέες σελίδες και posts μέσα από των συγκεκριμένων template που του δίνω και τα διατηρεί σε όλο το οικοσύστημα της σελίδας.
+
+Το script είναι απλοϊκό από την έννοια ότι κάνει χρίση διάφορων μεταβλητών και κυρίως "χτίζει" τα αρχεία για το blog μέσα από echo. Φυσικά δεν είναι εύκολο να γίνουν αλλαγές χωρίς την πλήρη κατανόηση του κώδικά του. Το κύριο αρνητικό είναι η έκταση του λόγο της οποίας χρειάστηκε αρκετό διάβασμα για την πλήρη κατανόηση του αλλά μόλις κατάλαβα πώς δουλεύει η αλλαγές ήταν εύκολες και στο μέλλον σκοπεύω να το εμπλουτίσω ακόμα περισσότερο. Αυτή η εργασία μου έδωσε μάλιστα ένα κίνητρο για να συνεχίσω παράλληλα στην χρίση του unix συστήματος.<br>
+
+#### Link προς το repository του HakuBlog: [KuhakuNeko/HakuBlog](https://github.com/KuhakuNeko/HakuBlog)
+#### Link προς το Hakubb.sh shell script στο repository μου: [HakuBlog/Hakubb.sh](https://github.com/KuhakuNeko/HakuBlog/blob/main/Hakubb.sh)<br>
+#### Asciinema link "Create your own static site and blog generator": [Terminal Excersice 2019108 - Create your own static site and blog generator ](https://asciinema.org/a/7wSVwbqSzq6AIzuOifUv9TVhA)<br>
+#### Link προς το blog μου: [kuhakuneko.github.io/HakuBlog!](https://kuhakuneko.github.io/HakuBlog/)
