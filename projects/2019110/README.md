@@ -284,7 +284,7 @@ exit
    
    <br>
    
-  **Pull Requests και issue στον οργανισμό:**
+  **Pull Requests και issue στον οργανισμό για το Συμμετοχικό Α1+Α2:**
    * **[issue](https://github.com/OompaLoompas/site/issues/22)**
    * **[site](https://github.com/OompaLoompas/site/pull/25)**
    * **[_gallery](https://github.com/OompaLoompas/_gallery/pull/14)**
