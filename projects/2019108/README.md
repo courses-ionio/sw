@@ -23,7 +23,7 @@
 | 8 | [2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8ο-παραδοτέο---2ο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/560) | |
 | 9 | [Άσκηση γραμμής εντολών: Performance monitoring](#9ο-παραδοτέο---performance-monitoring) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/565) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-και-β2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/589) | |
-| 11 | [Άσκηση γραμμής εντολών: Create your own static site and blog generator](#11ο-παραδοτέο---create-your-own-static-site-and-blog-generator) | [Link Συζήτησης]() | |
+| 11 | [Άσκηση γραμμής εντολών: Create your own static site and blog generator](#11ο-παραδοτέο---create-your-own-static-site-and-blog-generator) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/622) | |
 | 12 | Τελική αναφορά* | | |
 
 # ΕΙΣΑΓΩΓΗ
