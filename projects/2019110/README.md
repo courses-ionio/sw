@@ -540,31 +540,20 @@ ntfy -b telegram send "youtube Download completed"
 <br>
 
 
-Η εντολές που έτρεξα παραπάνω για την σύγκριση και την μελέτη των επιδόσεων, η δημιουργία των γραφημάτων και των json αρχείων είναι καταγεγραμμένα σε [asciinema](https://asciinema.org/a/kRkZ9njHA1QTw6OSMfbaFVZit). Να σημειώσω πως έχει αρκετή διάρκεια σε σχέση με τα υπόλοιπα που έχω πραγματοποιήσει, αλλά έκανα όσο τον δυνατόν πιο περιορισμένες εντολές για να αποφύγω χρόνους που απαιτεί η κάθε εντολή του hyperfine για τα runs, διότι δεν μπορούν να συντομεύσουν ή να παραληφθούν.
+Η εντολές που έτρεξα παραπάνω για την σύγκριση και την μελέτη των επιδόσεων, η δημιουργία των γραφημάτων και των json αρχείων είναι καταγεγραμμένα σε **[asciinema](https://asciinema.org/a/kRkZ9njHA1QTw6OSMfbaFVZit)**. Να σημειώσω πως έχει αρκετή διάρκεια σε σχέση με τα υπόλοιπα που έχω πραγματοποιήσει, αλλά έκανα όσο τον δυνατόν πιο περιορισμένες εντολές για να αποφύγω χρόνους που απαιτεί η κάθε εντολή του hyperfine για τα runs, διότι δεν μπορούν να συντομεύσουν ή να παραληφθούν.
+
+<br>
+
+| Repository | Σύνδεσμος στη συζήτηση |
+|---|---|
+| [courses-ionio/help](https://github.com/courses-ionio/help) | [Σχετικά με asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180) |
+
+<br>
 
 ***Περισσότερες ιστοσελίδες από τις οποίες άντλησα πληροφορίες γενικά για όλες τις ασκήσεις γραμμής εντολών βρίσκονται στο τέλος***
 
+<br>
 
-<!-- * Βοήθεια - Παρατηρήσεις που <ins>έλαβα</ins> από τα discussions:  
-  * [Επιλογή βιογραφικού](https://github.com/courses-ionio/help/discussions/180#discussion-3902197)
-  * [Σχετικά με asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180)
-
-* Βοήθεια - Παρατηρήσεις που <ins>πρόσφερα</ins> στα discussions:
-  * [Διόρθωση link αναφοράς](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310)
-
-* Η επίβλεψη μου σχετικά με αιτήματα ενσωμάτωης αναφερόμενος ως "σχετικός συνεργάτης":
-   * [Issue Αιμίλιου Παυλίδη](https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784)
-   * [Issue Βασίλη Καμπάνι](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116)
-   * [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133)
-   * [Pull request Αιμίλιου Παυλίδη](https://github.com/ioniodi/all_collections/pull/14)
-   * [Pull request u2nmd](https://github.com/ioniodi/all_collections/pull/12)
- 
- * Παρατηρήσεις και υπενθυμίσεις όσον αφορά τα αιτήματα ενσωμάτωσης:
-    * [Έλλειψη περιγραφής](https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872)
-    * [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759)
-    * [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233)
-    * [Μικρή διόρθωση για closes #](https://github.com/ioniodi/all_collections/pull/1) -->
-    
 # Πηγές πληροφοριών
 
 * Επεξεργασία README  
