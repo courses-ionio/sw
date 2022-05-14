@@ -242,22 +242,18 @@ exit
 1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
 2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
-**Pull Requests στον οργανισμό:**
+**Pull Requests και issue στον οργανισμό(τα οποία έγιναν revert, καθώς στη συνέχεια υπήρξε βελτείωση των ιδεών μου):**
+* [issue](https://github.com/OompaLoompas/site/issues/3)
 * [Site](https://github.com/OompaLoompas/site/pull/7)
 * [_gallery](https://github.com/OompaLoompas/_gallery/pull/6)
 * [images](https://github.com/OompaLoompas/images/pull/6)
-
-Όσον αφορά την ιστοσελίδα του οργανισμού, δημιουργήθηκε από εμένα σε ένα νέο branch και όχι στο master. Αυτό διότι, δεν ήθελα στην περίπτωση που κάνω κάποιο καίριο λάθος να καταστραφεί το master. Επομένως ενώ τα Pull Request έγιναν στο master, κάποια αρχεία που έλειπαν από το νέο branch τα μετέφερα με Pull Request master->2019110.
-Ύστερα ακολούθησα παρόμοια διαδικασία με αυτήν που δημιούργησα την προσωπική ιστοσελίδα, ώστε να έχουμε αυτή των OompaLoopas όπως φαίνεται [εδω](https://oompa-loompas.netlify.app/).
-
 
 <br>
 <p align="center">
 <img width="900" height="500" src="https://i.postimg.cc/C5MnvMbX/summetoxiko-A12.jpg">
 <p/><br>
 
-
-Αποφάσισα μετά από την αξιολόγηση του συμμετοχικού μου Α1+Α2 σε meeting να το **βελτειώσω** και να ασχοληθώ με δύο νέα θέματα που προτιμούσα περισσότερο για τα οποία μπροούσα να αναζητήσω αρκετές πληροφορίες και συνδέοταν άμεσα με τα λειτουργικά συστήματα. Το **Alpine Linux** και **OpenRC**. Επομένως δημιούργησα ένα ακόμα branch στα αποθετήρια site, gallery, images ονομαζόμενο **demo2_2019110** που έχει τις δύο νέες και βασικές μου προσθήκες, ενώ διατηρώ και το παλιό **demo_2019110** που έχω τις πρώτες προσθήκες(Linux From scratch , BLISS) οι οποίες δεν ανταποκρίνονται στις απαιτήσεις του παραδοτέου. Είναι σημαντικό να αναφέρω πως στο φάκελο slides στο site δημιούργησα ένα νέο με όνομα **init-systems** για το OpenRC και ένα αντίστοιχο timeline , καθώς για το Alpine ένα νέο slide **operating systems** αλλά χρησιμοποίησα ως timeline το ήδη υπάρχον με ονομασία **os**
+Αποφάσισα μετά από την αξιολόγηση του συμμετοχικού μου Α1+Α2 σε meeting να το **βελτιώσω** και να ασχοληθώ με δύο νέα θέματα που προτιμούσα περισσότερο για τα οποία μπροούσα να αναζητήσω αρκετές πληροφορίες και συνδέοταν άμεσα με τα λειτουργικά συστήματα. Το **Alpine Linux** και **OpenRC**. Επομένως δημιούργησα ένα ακόμα branch στα αποθετήρια site, gallery, images ονομαζόμενο **demo2_2019110** που έχει τις δύο νέες και βασικές μου προσθήκες, ενώ διατηρώ και το παλιό **demo_2019110** που έχω τις πρώτες προσθήκες(Linux From scratch , BLISS) οι οποίες δεν ανταποκρίνονται στις απαιτήσεις του παραδοτέου. Είναι σημαντικό να αναφέρω πως στο φάκελο slides στο site δημιούργησα ένα νέο με όνομα **init-systems** για το OpenRC και ένα αντίστοιχο timeline , καθώς για το Alpine ένα νέο slide **operating systems** αλλά χρησιμοποίησα ως timeline το ήδη υπάρχον με ονομασία **os**
 
 <br>
 <p align="center">
@@ -285,18 +281,18 @@ exit
   * [Alpine-Linux-thumb.png](https://github.com/p19pasc/images/blob/demo2_2019110/alpine-linux-thumb.png) (δικό μου printscreen)
   * [OpenRC.png](https://github.com/p19pasc/images/blob/demo2_2019110/openrc.png)
   * [OpenRc-thumb.png](https://github.com/p19pasc/images/blob/demo2_2019110/openrc-thumb.png)
-
-
-<details>
- <summary>Δημιουργία ανακοινώσεων στον οργανισμό</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/OompaLoompas/help/discussions/10">Σχετικά με τον τρόπο δέσμευσης θέματος στον οργνανισμό στο συμμετοχικό περιεχόμενο Α1+Α2</a></li>
-    <li><a href="https://github.com/OompaLoompas/help/discussions/13">Γενική οδηγία για το πως να εργαστούν τα μέλη της ομάδας με σκοπό την ομαλότητα στα PR και δημιουργία της ιστοσελίδας</a></li>
-   </ul> 
- </p>
-</details>
-<br>     
+   
+   <br>
+   
+  **Pull Requests και issue στον οργανισμό:**
+   * **[issue](https://github.com/OompaLoompas/site/issues/22)**
+   * **[site](https://github.com/OompaLoompas/site/pull/25)**
+   * **[_gallery](https://github.com/OompaLoompas/_gallery/pull/14)**
+   * **[images](https://github.com/OompaLoompas/images/pull/14)**
+   
+  **Οι προσθήκες μου στο Netlify του οργανισμου:**
+   * **[Alpine-Linux](https://oompa-loompas.netlify.app/gallery/alpine-linux/)**
+   * **[OpenRc](https://oompa-loompas.netlify.app/gallery/openrc/)**
    
 ### Συμμετοχικό περιεχόμενο Β 
 ---------------------------------------  
