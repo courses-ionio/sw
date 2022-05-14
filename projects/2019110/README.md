@@ -42,11 +42,17 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
 
+| Repository | Σύνδεσμος στη συζήτηση |
+|---|---|
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Ανακοίνωση δημιουργίας Wering ομάδας](https://github.com/OompaLoompas/help/discussions/3) |
+
+<br>
+
 ## Βιογραφικό 
 
 ### Μέρος Α
 
-Ξεκινώντας την δεύτερη εβδομάδα πρώτος στόχος ήταν να ενταχθώ σε μία ομάδα μέσα στην οποία θα υπάρχουν μέλη με κοινούς στόχους και κοινά ενδιαφέροντα. Ύστερα αποφάσισα να ασχοληθώ με το Βιογραφικό, που αποτελεί προφανώς το χρονοβόρο κομμάτι αυτής της εβδομάδας. Πρώτα από όλα υπήρχε μία [αμφιβολία](https://github.com/courses-ionio/help/discussions/180), γενικότερα μέσα στην ομάδα, για την επιλογή του template η οποία επιβεβαιώθηκε με την αντιπροσωπευτική συμμετοχή μου στα discussions του μαθήματος. Πραγματοποίησα την εγκατάσταση του **[Jekyll](https://jekyllrb.com/)** μέσα στο docker που έχουμε δημιουργήσει από το [εργαστήριο1](https://github.com/courses-ionio/sw-lab) και έχοντας επιλέξει ένα από τα [προτεινόμενα templates](https://courses-ionio.github.io/help/cv/), το [5](https://github.com/jglovier/resume-template), προσπάθησα να το χρησιμοποιήσω ακολουθώντας τις εντολές του αντίστοιχου repository(όπου μάλλον αναφέρονταν για windows και όχι για Ubuntu γιαυτό δεν ήταν επιτυχής) σε συνδυασμό με αυτές που διδαχτήκαμε στο δεύτερο εργαστήριο, για να κάνω host το βιογραφικό. Παρ' όλα αυτά δεν τα κατάφερα και οδηγήθηκα στην επιλογή του template [1](https://github.com/sharu725/online-cv) το οποίο κάνει χρήση του **Jekyll** και περιέχει απλές και κατανοητές οδηγίες στο αρχείο README του. 
+Πρώτα από όλα υπήρχε μία [αμφιβολία](https://github.com/courses-ionio/help/discussions/180), γενικότερα μέσα στην ομάδα, για την επιλογή του template η οποία επιβεβαιώθηκε με την αντιπροσωπευτική συμμετοχή μου στα discussions του μαθήματος. Πραγματοποίησα την εγκατάσταση του **[Jekyll](https://jekyllrb.com/)** μέσα στο docker που έχουμε δημιουργήσει από το [εργαστήριο1](https://github.com/courses-ionio/sw-lab) και έχοντας επιλέξει ένα από τα [προτεινόμενα templates](https://courses-ionio.github.io/help/cv/), το [5](https://github.com/jglovier/resume-template), προσπάθησα να το χρησιμοποιήσω ακολουθώντας τις εντολές του αντίστοιχου repository(όπου μάλλον αναφέρονταν για windows και όχι για Ubuntu γιαυτό δεν ήταν επιτυχής) σε συνδυασμό με αυτές που διδαχτήκαμε στο δεύτερο εργαστήριο, για να κάνω host το βιογραφικό. Παρ' όλα αυτά δεν τα κατάφερα και οδηγήθηκα στην επιλογή του template [1](https://github.com/sharu725/online-cv) το οποίο κάνει χρήση του **Jekyll** και περιέχει απλές και κατανοητές οδηγίες στο αρχείο README του. 
 
 #### Σχετικά με το βιογραφικό μου(template 1) 
 
@@ -67,24 +73,6 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 <img width="700" height="500" src="https://i.postimg.cc/tTgXMRqn/cv-png.png">
 <p/>
 <br>
-<details>
-<summary>Σχετικά με τις συζητήσεις</summary>
- <p>
-  <ul>
-   <li><a href="https://github.com/courses-ionio/help/discussions/180#discussion-3902197">Απορία για επιλογή βιογραφικού</a></li>
-   <li><a href="https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310">Διόρθωση link αναφοράς</a></li>
-  </ul>
- </p>
-</details>
-<details>
- <summary>Ανακοίνωση στον οργανισμό</summary>
- <p>
-  <ul>
-   <li><a href="https://github.com/OompaLoompas/help/discussions/3">Ανακοίνωση - δημιουργία του webring</a></li>
- </ul>
- </p>
- </summary>
-</details><br>
 
 ## Μέρος Β
 
@@ -156,16 +144,6 @@ exit
 <img width="950" height="550" src="https://user-images.githubusercontent.com/72496151/161442991-7536830b-ff58-45fd-8543-720af6ec0eb2.gif">
 <p/>
 
-<br><br>
-<details>
-<summary>Βοήθεια στο help</summary>
- <p>
-  <ul>
-   <li><a href="https://github.com/courses-ionio/help/discussions/510">Προσπάθεια επίλυσης bable error</a></li>
-  </ul>
- </p>
-</details><br>
-
 Μια τελική βελτείωση σχετικά με τα githooks έγινε στο λειτουργικό μου Alpine-Linux όπου, εγκαθηστώντας τα εργαλεία από την αρχή δεν εμφανίζοταν το **bable error** πλέον, ενώ το πρόβλημα με το path της φωτογραφίας του βιογραφικού παραλήφθηκε. Η ακριβής εγκατάσταση των εργαλείων και τα βασικά commands που χρησιμοποίησα τα ανέφερα [εδώ](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) στην ουσία την σημαντική δουλειά έκανε το option `--interaction=nonstopmode` στην εντολή `pdflatex`. Πλέον τα githooks λειτούργησαν κανονικά.
 <br><br>
 
@@ -176,15 +154,14 @@ exit
 Η βελτείωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
 Τα githooks αρχεία και ένα commit μίας αλλαγής είναι φανερά στο **[asciinema](https://asciinema.org/a/dLQd7Z8pi13lzesRhOGbC1OHo)**
 
+| Repository | Σύνδεσμος στη συζήτηση |
+|---|---|
+| [courses-ionio/help](https://github.com/courses-ionio/help) | [Απορία για την επιλογή βιογραφικού](https://github.com/courses-ionio/help/discussions/180#discussion-3902197)  |
+| [courses-ionio/help](https://github.com/courses-ionio/help) | [Διόρθωση link αναφοράς σε συμφοιτήτρια](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310) |
+| [courses-ionio/help](https://github.com/courses-ionio/help) | [Προσπάθεια επίλυσης bable error](https://github.com/courses-ionio/help/discussions/510) |
+| [courses-ionio/help](https://github.com/courses-ionio/help)| [Προσθήκη comment σχετικά με τον τρόπο που έφτιαξα για εμένα τα errors στο hooks](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) |
+
 <br>
-<details>
-<summary>Βοήθεια στο help</summary>
- <p>
-  <ul>
-   <li><a href="https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828">Προσθήκη comment σχετικά με τον τρόπο που έφτιαξα για εμένα τα errors στο hooks</a></li>
-  </ul>
- </p>
-</details><br>
 
 # Αιτήματα ενσωμάτωσης στην ιστοσελίδα
 ### Πρώτη εντύπωση
@@ -200,51 +177,14 @@ exit
 
 Προσωπικά ασχολήθηκα με τη **[Προσθήκη Βιβλίων για το μάθημα "Εφαρμοσμένος προγραμματισμός με Python](https://github.com/ioniodi/sitegr/issues/234)** προσθέτοντας τις πληροφορίες που απαρτίζουν τα βιβλία στο αρχείο [sitegr/_bibliography/references.bib](https://github.com/ioniodi/sitegr/blob/master/_bibliography/references.bib) και με τη χρήση submodules τα isbn τους στο αρχείο [all_collections/_courses/ applied-programming-python.md](https://github.com/ioniodi/all_collections/blob/master/_courses/applied-programming-python.md). Έτσι η τελική διαμόρφωση τους φαίνεται στο **fork μου** [sitegr/_bibliography/references.bib γραμμές (1788-τέλος)](https://github.com/p19pasc/sitegr/blob/99248fcdef47a8faec12c6de31570911021cfcef/_bibliography/references.bib#L1788) και [all_collections/_courses/applied-programming-python.md (γραμμές 14 έως και 19 ή στην στήλη books)](https://github.com/p19pasc/all_collections/blob/2019110/_courses/applied-programming-python.md)<br>   
 Στο παρακάτω asciinema δείχνω τον τρόπο με τον οποίο πραγματοποίησα την **[Demo ιστσελίδα](https://p19pasc-sitegr.netlify.app/courses/applied-programming-python/)** με τη χρήση του τερματικού. Η κύρια δομή του που αφορά την σύνδεση του **sitegr** με το submodule **all_collections** βασίζεται στις οδηγίες του [συναδέλφου μου](https://github.com/courses-ionio/help/discussions/287). Κάνοντας `clone` λοιπόν το [sitegr μου](https://github.com/p19pasc/sitegr), αμέσως με `git checkout 2019110` δίνω την εντολή να εργάζομαι στο branch μου(2019110) και στην συνέχεια το ενώνω με το all_collections το οποίο έχει και αυτό το 2019110 branch. Ύστερα, αναζητώ τους φακέλους όπου έχω ήδη αναφέρει παραπάνω ώστε να γίνουν οι προσθήκες που επιθυμώ και στο τέλος κάνω τις τρεις βασικές εντολές `git add .` , `git commit -m "message"`, `git push`. Αυτό έχει ως αποτέλεσμα να κατοχηρωθούν οι τροποποιήσεις μου τόσο στα στατικά αρχεία του υπολογιστή μου(αυτά που προέκυψαν από το clone), όσο και στα repositories μου που βρίσκονται στην πλατφμόρμα του github και να δω τις αλλαγές στην ιστοσελίδα Demo που κάνει host το **Netlify**.
-<br><br>
+<br>
 
-<p align="center">
-<a href="https://asciinema.org/a/474124" target="_blank"><img src="https://asciinema.org/a/474124.svg" /></a>
-<p/>
-<br><br>
+* Link για **[asciinema](https://asciinema.org/a/474124)** στο οποίο, κάνω πλήρως αναλυτικά ολόκληρη την διαδικασία.
 
 Όσον αφορά τα αιτήματα ενσωμάτωσης, έγινε μία [πρώτη προσπάθεια](https://github.com/ioniodi/sitegr/pull/299) η οποία όμως ήταν άκυρη λόγω των [νέων οδηγίων](https://github.com/courses-ionio/sw/discussions/1042#discussioncomment-2311233) που προέκυψαν. Επομένως:
 1. Δημιούργησα ένα νέο demo-branch στο sitegr όπου έκανα την προσθήκη των βιβλίων στο references.bib και ύστερα [pull request](https://github.com/ioniodi/sitegr/pull/337)
 2. Δημιούργησα ένα νέο demo-branch στο all_collections όπου έκανα την προσθήκη των βιβλίων στο **applied-programming-python.md** και ύστερα [pull request](https://github.com/ioniodi/all_collections/pull/28)
 
-<br>
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Με την αποδοχή των δύο διακριτών Pull request έγινε η προσθήκη μου στην κεντρική ανεπίσημη ιστοσελίδα.**
-<br>
-<br>   
-<p align="center">
-<img width="900" height="350" src="https://i.postimg.cc/v8WM30L1/python-compare2.jpg">
-<p/>
-<br>
-<br>
-<details>
- <summary>Η επίβλεψη μου σχετικά με το πρώτο αίτημα ενσωμάτωσης <ins>αναφερόμενος ως "σχετικός συνεργάτης"</ins></summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784">Issue AimiliosPavlidis2001</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116">Issue vasilikampani</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133">Issue u2nmd</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600">Pull request AimiliosPavlidis2001</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/49#issuecomment-1074988877">Pull request vasiliskampani</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319">Pull request u2nmd</a></li>
-   </ul>
- </p>
-</details>
-<details>
- <summary>Παρατηρήσεις και υπενθυμίσεις σε issues</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872">Έλλειψη περιγραφής</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759">Διόρθωση για .gitmodules</a></li>
-    <li><a href="https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233">Διόρθωση για .gitmodules</a></li>
-    <li><a href="https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546">Μικρή διόρθωση για closes #</a></li>
-   </ul> 
-  </p>
-</details>
 <br>
 
 ### Δεύτερο αίτημα ενσωμάτωσης
@@ -255,22 +195,25 @@ exit
 * Στο repository του sitegr μου τροποποίησα στο [_config.yml](https://github.com/p19pasc/sitegr/blob/aitima2-facebook/_config.yml) τα `share: false` σε `share: true` γραμμές 289,302 
 * Στο minimal-ionio στο αρχείο [social-share.html](https://github.com/p19pasc/minimal-ionio/blob/aitima2-facebook/_includes/social-share.html) έφτιαξα την εντολή `<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>` δίνοντας το κατάλληλο facebook url και σβήνοντας το κομμάτι της JS το οποίο θεωρούσα ότι δεν χρειαζόταν, διότι όταν θα κλικάραμε στο button, θα μας έκανε pop up ένα νέο παράρθυρο του browser, με αποτέλεσμα να διαμορφωθεί σε `<a href="https://www.facebook.com/di.ionian.university?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>`.
 
-Σύνδεσμος της ιστοσελίδας του: [Netlify](https://p19pasc-aitima2-facebook.netlify.app/)
-<br>
-<br>
-<p align="center">
-<img width="700" height="250" src="https://user-images.githubusercontent.com/72496151/162635854-a39b858f-d088-463d-873a-26da58b6833a.png">
-<p/><br>
+Σύνδεσμος της ιστοσελίδας μου demo, του **[Netlify](https://p19pasc-aitima2-facebook.netlify.app/)**      
+Το **[issue](https://github.com/ioniodi/sitegr/issues/394)** που πραγματοποίησα.  
 
 <br>
-<details>
- <summary>Αίτημα ενσωμάτωσης 2</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997">Σχόλιο βελτείωσης ενός closed issue</a></li>
-   </ul> 
-  </p>
-</details>
+
+| Repository | Σύνδεσμος στη συζήτηση|
+|---|---|
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue AimiliosPavlidis2001](https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784)|
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue vasilikampani](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116) |
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133) |
+| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request AimiliosPavlidis2001](https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600)|
+| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request vasiliskampani](https://github.com/ioniodi/all_collections/pull/49#issuecomment-1074988877)|
+| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request u2nmd](https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319) |
+| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Έλλειψη περιγραφής](https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872) |
+| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Μικρή διόρθωση για closes #](https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546)
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759) |
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233) |
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Σχόλιο βελτείωσης ενός closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
+
 <br>
     
 # Συμμετοχικό περιεχόμενο 
@@ -393,17 +336,19 @@ exit
     * [ctss-scheduler-thumb](https://github.com/p19pasc/images/blob/B_meros/ctss-scheduler-thumb.png)
     * [mail](https://github.com/p19pasc/images/blob/B_meros/mail.png)
     * [mail-thumb](https://github.com/p19pasc/images/blob/B_meros/mail.png)
-  
-<details>
- <summary>Δημιουργεία νέου branch για συμμετοχικό Β</summary>
-  <p>
-   <ul>
-    <li><a href="https://github.com/courses-ionio/help/discussions/576">Μία απλή απορία για το συμμετοχικό Β σε νέο branch</a></li>
-   </ul> 
- </p>
-</details>
-  
-  
+ 
+ | Repository | Σύνδεσμος στη συζήτηση |
+ |---|---|
+ | [courses-ionio/help](https://github.com/courses-ionio/help)| [Μία απλή απορία για το συμμετοχικό Β σε νέο branch](https://github.com/courses-ionio/help/discussions/576) |
+ | [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [θέλω τη γνώμη σας για τη προσθήκη θέματος στις διαφάνειες στο συμμετοχικό περιεχόμενο](https://github.com/OompaLoompas/help/discussions/7) |
+ | [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 5, Συμμετοχικό Περιεχόμενο Α1 + Α2](https://github.com/OompaLoompas/help/discussions/8)
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Σημαντική πρόταση για 5ο παραδοτέο!](https://github.com/OompaLoompas/help/discussions/9) |
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 5 - Σχετικά με την επιλογή θέματος για το συμμετοχικό Α1 και Α2](https://github.com/OompaLoompas/help/discussions/10) |
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο-5 Σχετικά με την προσθήκη των ιδεών σας στα repository σας και το τελικό Pull Request στον οργανισμό](https://github.com/OompaLoompas/help/discussions/13) |
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 10 - Οδηγίες αιτήματος ενσωμάτωσης (Pull request)](https://github.com/OompaLoompas/help/discussions/14) |
+
+<br> 
+
 # Ασκήσεις γραμμής εντολών
 ### Warmup με freebsd
 ------------------------
