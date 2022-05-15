@@ -29,7 +29,7 @@
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα μέρος Β](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-%CE%BC%CE%AD%CF%81%CE%BF%CF%82-%CE%B2)| [Ανάρτηση δεύτερου Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/547) | |
 | 9 | [Software άσκηση ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy) - [χρήση Simplepush](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-ntfy-simplepush) - [χρήση ntfy με την click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%87%CF%81%CE%AE%CF%83%CE%B7-ntfy-%CE%BC%CE%B5-%CF%84%CE%BF-%CF%80%CE%B1%CE%BA%CE%AD%CF%84%CE%BF-click) | [Ανάρτηση τρίτης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/568) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21--%CE%B22) | [Ανάρτηση δεύτερης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/584) | |
-| 11 | [Software άσκηση py-spy]() | | |
+| 11 | [Software άσκηση py-spy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B5%CE%BD%CF%84%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-py-spy) | | |
 | 12 | Τελική αναφορά* | | |
 
  
@@ -692,11 +692,78 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Η εγκατάσταση ήταν πολύ απλή και πραγματοποιήθηκε με τη χρήση της εντολής <kbd>pip install py-spy</kbd>. Για ακόμη μία φορά χρησιμοποίησα το Λειτουργικό Σύστημα [Void Linux](https://voidlinux.org/), αλλά παρατήρησα ένα μικρό πρόβλημα που τελικά επιλύθηκε γρήγορα με τη βοήθεια [αυτής](https://github.com/benfred/py-spy/issues/236) της ανάρτησης. Το πρόβλημα αυτό ήταν πως το py-spy είχε αποθηκευτεί στον φάκελο **site-packages** και για να μπορέσω να το χρησιμοποιήσω έπρεπε να κάνω access στη τοποθεσία <kbd>/home/p2019053/.local/bin/py-spy</kbd>. Αυτό μπορεί να φανεί και από το [asciinema recording](https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN) που ακολουθεί παρακάτω στην αναφορά μου. Επόμενο βήμα έπειτα από την ομαλή εγκατάσταση ήταν η συμφιλίωσή μου με τις επιλογές οπτικοποιήσης των προγραμμάτων μου. Το py-spy έχει κατά κόρον 3 βασικές λειτουργίες την **record**, την **dump** και την **top**. Έγω επέλεξα να ασχοληθώ με την record και την top αφού αυτές είναι που μου κέντρισαν περισσότερο το ενδιαφέρον. Επίσης ήρθα σε πρώτη επαφή με τα <kbd>options</kbd> που προσφέρει το εργαλείο αυτό και εν τέλει χρησιμοποίησα το <kbd>--format</kbd> για την δημιουργία γραφήματος [speedscope](https://github.com/jlfwong/speedscope) και το <kbd>--subprocesses</kbd> για τη λειτουργία top. Οι πηγές που με βοήθησαν για την υλοποίηση του παραδοτέου ήταν [αυτή](https://coderzcolumn.com/tutorials/python/py-spy-sampling-profiler-for-python-code) για γενικά παραδείγματα και μεθοδολογίες και [αυτή](https://github.com/jlfwong/speedscope/wiki/Importing-from-py-spy-(python)) για τη παραγωγή του γραφήματος speedscope.
 
+<br />
+
+<p align="center">
+ <b>Asciinema παρουσίασης των λειτουργιών του py-spy</b>
+</p>
+
+<p align="center">
+ <a href="https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN" target="_blank"><img src="https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN.svg" /></a>
+</p>
+
+<br />
+
+<p align="center">
+ <b>Flame graph για το calculate.py (6ο παραδοτέο)</b>
+</p>
+
+<p align="center">
+ 
+ ![6assignment_flame](https://user-images.githubusercontent.com/72695605/168488826-33dc2c9a-e1a5-4596-ae76-cd24b20fb089.svg)
+
+</p>
+
+<br />
+
+<p align="center">
+ <b>Flame graph για το automsg.py (9ο παραδοτέο)</b>
+</p>
+
+<p align="center">
+ 
+ ![9assignment_flame](https://user-images.githubusercontent.com/72695605/168488909-db2cdb39-2a89-4b62-b484-b17a21765a14.svg)
+
+</p>
+
+<br />
+
+<p align="center">
+ <b>Speedscope graph για το automsg.py (9ο παραδοτέο)</b>
+</p>
+
+<p align="center">
+ 
+ ![speedscope-automsg](https://user-images.githubusercontent.com/72695605/168488991-efaed050-17c4-4f9c-95eb-9fa0809e2bf8.PNG)
+
+</p>
+
+<br />
 
 
+<p align="center">
+ <b>Αποτελέσματα top για το automsg.py (9ο παραδοτέο)</b>
+</p>
+
+<p align="center">
+ 
+ ![py-spy-top](https://user-images.githubusercontent.com/72695605/168489055-ec7e3ac7-8dd3-4ece-a380-2942d24977bf.PNG)
 
 
+</p>
 
+<br /> <br />
+
+| | Βασικοί σύνδεσμοι για το 11ο παραδοτέο |
+| --- | --- |
+| 1 | [Asciinema για py-spy](https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN) |
+
+<br />
+
+| | Συμμετοχή και Ομαδικότητα για την 11η εβδομάδα |
+| --- | --- |
+| | Σχόλιο βοήθειας σε συμφοιτητή |
+| 1 | https://github.com/courses-ionio/help/discussions/619 |
 
 <br /> <br />
 
@@ -772,3 +839,8 @@
  - [git source](https://www.welcometothejungle.com/en/articles/btc-history-git)
  - [github source](https://nira.com/github-history/)
  - [github logo source](https://smhatre59.medium.com/the-untold-story-of-github-132840f72f56#:~:text=Github%20is%20a%20web%20based%20Git%20repository%20hosting%20service%20which,code%20management%20functionality%20of%20git.)
+
+#### Εντέκατο Παραδοτέο
+ - [py-spy guide](https://coderzcolumn.com/tutorials/python/py-spy-sampling-profiler-for-python-code)
+ - [fixed py-spy problem](https://github.com/benfred/py-spy/issues/236)
+ - [create speedscope](https://github.com/jlfwong/speedscope/wiki/Importing-from-py-spy-(python))
