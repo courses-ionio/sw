@@ -21,8 +21,8 @@
 | 7 | <li><a href="#Δημιουργία του βιογραφικού σε μορφή pdf"><span class="toctext">Δημιουργία του βιογραφικού σε μορφή pdf</span></a>  | [Link της αναφοράς της δημιουργίας του βιογραφικού σε μορφή pdf](https://github.com/courses-ionio/help/discussions/513/) |
 | 8 | <li><a href="#2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | [Link της αναφοράς για το 2ο αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/courses-ionio/help/discussions/555/) |
 | 9 | <li><a href="#;Υλοποίηση της πρώτης άσκησης γραμμής εντολών (software)"><span class="toctext">Υλοποίηση της πρώτης άσκησης γραμμής εντολών (software)</span></a>  | [Link της αναφοράς για την πρώτη άσκηση γραμμής εντολών (software)](https://github.com/courses-ionio/help/discussions/571/) |
-| 10 | Συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 10 | <li><a href="#;Συμμετοχικό περιεχόμενο Β1 + Β2"><span class="toctext">Συμμετοχικό περιεχόμενο Β1 + Β2</span></a>  | [Link της αναφοράς της δεύτερης άσκησης συμμετοχικού περιεχομένου](https://github.com/courses-ionio/help/discussions/605/) |
+| 11 | <li><a href="#;Υλοποίηση της δεύτερης άσκησης γραμμής εντολών (software)"><span class="toctext">Υλοποίηση της δεύτερης άσκησης γραμμής εντολών (software)</span></a>  | [Link της αναφοράς για την δεύτερη άσκηση γραμμής εντολών (software)](https://github.com/courses-ionio/help/discussions/623/) |
 | 12 | Τελική αναφορά | | |
   
   <br /><br />
@@ -134,7 +134,7 @@ Tρίτο βήμα
   
   <br />
   
-  Για την 3η εβδομάδα του μαθήματος μας ζητήθηκε να προσθέσουμε, τροποποιήσουμε ή να αφαιρέσουμε κάτι απο την ανεπίσημη ιστοσελίδα του τμήματος ωστε να την κάνουμε όσο πιο λειτουργική και ενημερώμενη σωστά γίνεται. Παράλληλα με την αναζήτηση μου στο site να βρώ μια καλή και σημαντική αλλαγή, προσπάθησα να εξοικειωθώ με το [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme/) και τα [git submodules](https://github.blog/2016-02-01-working-with-submodules/) όπως ακριβώς και μας ζητήθηκε στις [οδηγίες](https://github.com/ioniodi/sitegr/) και κάνωντας τα απαραίτητα βήματα στο [workflow](https://github.com/ioniodi/sitegr/wiki/Workflow/) Μετά απο αρκετό ψάξιμο στην ιστοσελίδα κατέληξα στο θέμα ["Προσθήκη  του μαθήματος επιλογής «Θεωρία Γραφημάτων και Εφαρμογές» στο ΣΤ’ εξάμηνο"](https://github.com/ioniodi/sitegr/issues/254/) αφού παρατήρησα οτι έλειπε από το site και ολοκλήρωσα τα παρακάτω:
+  Για την 3η εβδομάδα του μαθήματος μας ζητήθηκε να προσθέσουμε, τροποποιήσουμε ή να αφαιρέσουμε κάτι απο την ανεπίσημη ιστοσελίδα του τμήματος ωστε να την κάνουμε όσο πιο λειτουργική και ενημερώμενη σωστά γίνεται. Παράλληλα με την αναζήτηση μου στο site να βρώ μια καλή και σημαντική αλλαγή, προσπάθησα να εξοικειωθώ με το [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme/) και τα [git submodules](https://github.blog/2016-02-01-working-with-submodules/) όπως ακριβώς και μας ζητήθηκε στις [οδηγίες](https://github.com/ioniodi/sitegr/) και κάνωντας τα απαραίτητα βήματα στο [workflow](https://github.com/ioniodi/sitegr/wiki/Workflow/) Μετά απο αρκετό ψάξιμο στην ιστοσελίδα κατέληξα στο θέμα ["Τροποποίηση του αρχείου του μαθήματος "Εξυπνα περιβαλλοντα και εφαρμογές" για να προστεθεί στην ιστοσελίδα"](https://github.com/ioniodi/sitegr/issues/388/) αφού παρατήρησα οτι έλειπε από το site και ολοκλήρωσα τα παρακάτω:
   
   <br />
   
@@ -232,29 +232,29 @@ Tρίτο βήμα
     
 <br />
   
- &#10004; Ενημέρωσα το submodule [/images](https://github.com/vasiliskampani/images/tree/p2019014/) με μια [εικόνα](https://en.wikipedia.org/wiki/Fedora_Linux#/media/File:Fedora_Silverblue_v35_(2021-10)_%E2%80%94_fresh_install.png/) απο το wikipedia ***με ελεύθερα πνευματικά δικαιώματα*** και την ίδια resized με πλάτος 160 pixels ως **thumbnail**.
+ &#10004; Ενημέρωσα το submodule **/images** με 2 προσθήκες εικόνων:
   
-  * [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/fedora-linux.png/)
-  * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/fedora-linux-thumb.png/)
+  * [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/fedora-linux.png/)
+  * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/fedora-linux-thumb.png/)
   <br />
   
-&#10004; Ενημέρωσα το submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/p2019014/fedora-linux.md/) με το θέμα μου 
+&#10004; Δημιούργησα νέο αρχείο στο submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/fedora-linux.md/) με το θέμα μου 
   
   <br />
   
-&#10004; Δημιούργησα το αρχείο [operating-systems.md](https://github.com/vasiliskampani/site/blob/p2019014/_slides/operating-systems.md/) στον φάκελο [slides](https://github.com/vasiliskampani/site/tree/p2019014/_slides/) και πρόσθεσα δικό μου **caption**, το **image_url** της εικόνας fedora-linux και ενα **slide** fedora-linux
+&#10004; Δημιούργησα το αρχείο [operating-systems.md](https://github.com/vasiliskampani/site/blob/prwto_meros/_slides/operating-systems.md/) στο slides και πρόσθεσα δικό μου **caption**, το **image_url** της εικόνας fedora-linux και ενα **slide** fedora-linux
   
   <br />
 
-&#10004; Ενημέρωσα το αρχείο [os-apps.md](https://github.com/vasiliskampani/site/blob/p2019014/_timeline/os-apps.md/) στον φάκελο [timeline](https://github.com/vasiliskampani/site/tree/p2019014/_timeline/) τοποθετώντας το fedora-linux στα **events**
+&#10004; Ενημέρωσα το αρχείο [os-apps.md](https://github.com/vasiliskampani/site/blob/prwto_meros/_timeline/os-apps.md/) στο timeline τοποθετώντας το fedora-linux στα **events**
   
   <br />
   
 | | Demo του Fedora-Linux |
 | --- | --- |
-| 1 | [Demo link στο gallery](https://vasiliskampani-site.netlify.app/gallery/fedora-linux/) |
-| 2 | [Demo link στο slides](https://vasiliskampani-site.netlify.app/slides/operating-systems/) |
-| 3 | [Demo link στο timeline](https://vasiliskampani-site.netlify.app/timeline/os-apps/) |
+| 1 | [Demo link στο gallery](https://vasiliskampani-fedora-kernel.netlify.app/gallery/fedora-linux/) |
+| 2 | [Demo link στο slides](https://vasiliskampani-fedora-kernel.netlify.app/slides/operating-systems/) |
+| 3 | [Demo link στο timeline](https://vasiliskampani-fedora-kernel.netlify.app/timeline/os-apps/) |
   
   <br />
     
@@ -307,13 +307,67 @@ Tρίτο βήμα
   
    <br />
   
+### Βελτιωμένο συμμετοχικό περιεχόμενο Α1 +Α2
+  
+   <br />
+  
+  
+Ύστερα απο σχολιασμό στις εβδομαδιαίες συζητήσεις με τον καθηγητή αποφασιστήκε πως τα βιντεοπαιχνίδια δεν έχουν κάποια άμεση σχέση με το λογισμικό και με το μάθημα αυτου του εξαμήνου γιαύτο και έγω αποφάσισα να δημιουργήσω ένα νέο βελτιωμένο συμμετοχικο περιεχόμενο για το 5ο παραδοτέο. To πρώτο μου θέμα με το λειτουργικό σύστημα **Fedora Linux** το άφησα όπως ήταν καθώς ήταν εντός θέματος και αντικατέστησα το βιντεοπαιχνίδι με ενα νέο θέμα το **Linux kernel**
+  
+  <br />
+  
+## Linux kernel 
+  
+<br />
+  
+Το δεύτερο θέμα που επέλεξα στο βελτιωμένο περιεχόμενο αφορά τον μονολιθικό πυρήνα των linux. Ο πυρήνας Linux είναι το κύριο συστατικό ενός λειτουργικού συστήματος Linux και είναι η βασική διεπαφή μεταξύ του υλικού ενός υπολογιστή και των διαδικασιών του. Επικοινωνεί μεταξύ των 2, διαχειριζόμενος πόρους όσο το δυνατόν πιο αποτελεσματικά. Ο πυρήνας επιτρέπει σε πολλαπλές εφαρμογές να μοιράζονται πόρους υλικού παρέχοντας πρόσβαση σε CPU, μνήμη, είσοδο/έξοδο δίσκου και δικτύωση. Για το συγκεκριμένο θέμα υλοποίησα τα εξής:
+  
+<br />
+  
+&#10004; Ενημέρωσα το submodule **/images** με 2 προσθήκες εικόνων:
+  
+* [Κανονικά εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/linux-kernel.png/)
+* [thumb εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/linux-kernel-thumb.png/)
+  
+
+<br />
+  
+&#10004; Δημιούργησα νέο αρχείο στο submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/linux-kernel.md/) με το θέμα μου
+  
+  <br />
+  
+&#10004; Δημιούργησα νέο αρχείο slides με όνομα [kernel.md](https://github.com/vasiliskampani/site/blob/prwto_meros/_slides/kernel.md/) 
+  
+  <br />
+  
+&#10004; Δημιούργησα νέο αρχείο timeline με όνομα [kernel.md](https://github.com/vasiliskampani/site/blob/prwto_meros/_timeline/kernel.md/) 
+  
+  <br />
+  
+| | Demo του Linmux kernel |
+| --- | --- |
+| 1 | [Demo link στο gallery](https://vasiliskampani-fedora-kernel.netlify.app/gallery/linux-kernel/) |
+| 2 | [Demo link στο slides](https://vasiliskampani-fedora-kernel.netlify.app/slides/kernel/) |
+| 3 | [Demo link στο timeline](https://vasiliskampani-fedora-kernel.netlify.app/timeline/kernel/) | 
+  
+  
+  <br />
+  
+  
+![Στιγμιότυπο οθόνης (31)](https://user-images.githubusercontent.com/72518208/168489343-2ea9a8e1-c6ea-4598-b7ef-5170d820d38c.png)
+
+  
+  
+  <br />
+  
+ 
 
 | | Links για τα Pull request και το issue |
 | --- | --- |
-| 1 | [Pull request στο site](https://github.com/OompaLoompas/site/pull/10/) |
-| 2 | [Pull reuquest στο gallery](https://github.com/OompaLoompas/_gallery/pull/7/) |
-| 3 | [Pull request στο images](https://github.com/OompaLoompas/images/pull/7/) |
-| 4 | [Ιssue](https://github.com/OompaLoompas/site/issues/9/)
+| 1 | [Pull request στο site](https://github.com/OompaLoompas/site/pull/33) |
+| 2 | [Pull reuquest στο gallery](https://github.com/OompaLoompas/_gallery/pull/17/) |
+| 3 | [Pull request στο images](https://github.com/OompaLoompas/images/pull/21/) |
+| 4 | [Ιssue](https://github.com/OompaLoompas/site/issues/28/)
   
    <br />
   
