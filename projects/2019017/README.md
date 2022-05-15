@@ -20,7 +20,7 @@
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Pull-Request-2) | https://github.com/courses-ionio/help/discussions/549 | Δυσκολη διαδικασια παρολο που ηταν μονο 3 γραμμες, αλλα φοβερη εξασκηση σε html/css/javascript και πως να δουλευω με το inspect του chrome, το οποιο με βοηθησε αργοτερα σε αλλες δουλειες. |
 | 9 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων-3) | | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#Συμμετοχικο-2-με-αλλαγες-στο-συμμετοχικο-1)| | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Άσκηση γραμμής εντολών](#Ασκηση-Γραμμης-Εντολων-4) | | |
 | 12 | Τελική αναφορά* | | |
 
 ## Εισαγωγή
@@ -113,6 +113,8 @@ Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-managers/), [g
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
 More to be added...
+
+## Ασκηση Γραμμης Εντολων 4
 
 ## Links ομαδικότητας και συμμετοχής
 Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
