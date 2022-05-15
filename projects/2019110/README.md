@@ -144,14 +144,14 @@ exit
 <img width="950" height="550" src="https://user-images.githubusercontent.com/72496151/161442991-7536830b-ff58-45fd-8543-720af6ec0eb2.gif">
 <p/>
 
-Μια τελική βελτείωση σχετικά με τα githooks έγινε στο λειτουργικό μου Alpine-Linux όπου, εγκαθηστώντας τα εργαλεία από την αρχή δεν εμφανίζοταν το **bable error** πλέον, ενώ το πρόβλημα με το path της φωτογραφίας του βιογραφικού παραλήφθηκε. Η ακριβής εγκατάσταση των εργαλείων και τα βασικά commands που χρησιμοποίησα τα ανέφερα [εδώ](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) στην ουσία την σημαντική δουλειά έκανε το option `--interaction=nonstopmode` στην εντολή `pdflatex`. Πλέον τα githooks λειτούργησαν κανονικά.
+Μια τελική βελτίωση σχετικά με τα githooks έγινε στο λειτουργικό μου Alpine-Linux όπου, εγκαθηστώντας τα εργαλεία από την αρχή δεν εμφανίζοταν το **bable error** πλέον, ενώ το πρόβλημα με το path της φωτογραφίας του βιογραφικού παραλήφθηκε. Η ακριβής εγκατάσταση των εργαλείων και τα βασικά commands που χρησιμοποίησα τα ανέφερα [εδώ](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) στην ουσία την σημαντική δουλειά έκανε το option `--interaction=nonstopmode` στην εντολή `pdflatex`. Πλέον τα githooks λειτούργησαν κανονικά.
 <br><br>
 
 ![success](https://user-images.githubusercontent.com/72496151/163611208-5b2add37-7944-4394-b67a-63c018a18365.gif)
 
 <br>
 
-Η βελτείωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
+Η βελτίωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
 Τα githooks αρχεία και ένα commit μίας αλλαγής είναι φανερά στο **[asciinema](https://asciinema.org/a/dLQd7Z8pi13lzesRhOGbC1OHo)**
 
 | Repository | Σύνδεσμος στη συζήτηση |
@@ -212,7 +212,7 @@ exit
 | [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Μικρή διόρθωση για closes #](https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546)
 | [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759) |
 | [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233) |
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Σχόλιο βελτείωσης ενός closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
+| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Σχόλιο βελτίωσης ενός closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
 
 <br>
     
@@ -242,7 +242,7 @@ exit
 1. [Linux From Scratch](https://p19pasc-site.netlify.app/gallery/linux-from-scratch/) <br>
 2. [BLISS](https://p19pasc-site.netlify.app/gallery/bliss/) 
 
-**Pull Requests και issue στον οργανισμό(τα οποία έγιναν revert, καθώς στη συνέχεια υπήρξε βελτείωση των ιδεών μου):**
+**Pull Requests και issue στον οργανισμό(τα οποία έγιναν revert, καθώς στη συνέχεια υπήρξε βελτίωση των ιδεών μου):**
 * [issue](https://github.com/OompaLoompas/site/issues/3)
 * [Site](https://github.com/OompaLoompas/site/pull/7)
 * [_gallery](https://github.com/OompaLoompas/_gallery/pull/6)
@@ -290,7 +290,7 @@ exit
    * **[_gallery](https://github.com/OompaLoompas/_gallery/pull/14)**
    * **[images](https://github.com/OompaLoompas/images/pull/14)**
    
-  **Οι προσθήκες μου στο Netlify του οργανισμου:**
+  **Οι προσθήκες μου στο [Netlify του οργανισμου](https://oompa-loompas.netlify.app/):**
    * **[Alpine-Linux](https://oompa-loompas.netlify.app/gallery/alpine-linux/)**
    * **[OpenRc](https://oompa-loompas.netlify.app/gallery/openrc/)**
    
@@ -401,15 +401,6 @@ exit
       * Εμφάνισα τον κώδικα του simple.html αρχείου σε μορφή κειμένου με την εντολή `cat simple.html | w3m -T text/html` και με μια μικρή επέκταση `cat simple.html | w3m -dump -         T text/html>file.txt` το κείμενο αυτό αποθηκεύεται σε ένα νέο .txt αρχείο που δημιουργούμε.  
       
    &ensp;&ensp;&ensp;**Όλα αυτά βρίσκονται στο συγκεκριμένο [asciinema](https://asciinema.org/a/bDoU1tSwvtReQFhYFzXItZMw2)**    
-      
-<br>
-<details>
- <summary>Απορία στο help</summary>
-  <p>
-   <li><a href="https://github.com/courses-ionio/help/discussions/197#discussion-3904180">Σχετικά με asciinema</a></li>
-  </p>
- </summary>
-</details><br>
 
 ### Συμπέρασμα  
 
@@ -552,6 +543,12 @@ ntfy -b telegram send "youtube Download completed"
 
 <br>
 
+# Συμπέρασμα
+
+Εκπληρώνοντας όλα τα παραδοτέα εμπρόθεσμα, τα βίντεο quiz και συμμετέχοντας στα εβδομαδιαία meetings νιώθωτην ανάγκη να εκφράσω τις τελικές μου απόψεις. Σε όλα τα παραδοτέα αφιέρωσα όσο τον δυνατόν περισσότερο χρόνο μπορούσα, με σκοπό να έχω ένα ικανοποιητικό αποτέλεσμα τόσο για τις ανάγκες του μαθήματος, όσο και για τις δικές μου. Πιστεύω πως εκπληρώθηκαν και οι δύο, ενώ οι δυνατότητες που μας πρόσφερε το μάθημα κάλυπταν τις δικές μου, ανακαλύπτονας νέα εργαλεία που πραγματοποίησαν κάποιες επιθυμίες μου, καθώς δεν γνώριζα ότι υπήρχαν, ειδικά στις ασκήσεις γραμμής εντολών. Η επαφή με ένα διαφορετικό, απλό λειτουργικό σύστημα που οι απαιτήσεις του είναι ελάχιστες, ήταν μία εμπειρία που οφείλω να πω πως δεν θα την είχα βιώσει, είτε στην επαγγελματική καριέρα, είτε από προσωπική θέληση.
+
+Όσον αφορά την συνεργατικότητα, από τα πρώτα κιόλας παραδοτέα φαίνεται πως ενώ τα μέλη μίας ομάδας έχουν κοινούς στόχους και δυνατότητες, είναι αναπόφεκτα δύκολη ακόμα για μικρές προσθήκες ή αλλαγές σε ένα αποθετήριο. Η θέση μου ως owner με έκανε να καταλάβω ότι, έχω κάποια παραπάνω ευθύνη για τις υποχρεώσεις μου στον οργανισμό, όμως με επικοινωνία και προθυμία για συνεργασία και από τα υπόλοιπα μέλη το έργο μας ήταν πιο εύκολο να πραγματοποιηθεί. Ακόμη, καθώς αντιμετόπιζα δυσκολίες στις ατομικές εργασίες όσο και στις ομαδικές, ήταν θέμα χρόνου να είμαι πλέον στη θέση που να θεωρώ πως τις έχω κατανοήσει.  
+
 # Πηγές πληροφοριών
 
 * Επεξεργασία README  
@@ -565,7 +562,7 @@ ntfy -b telegram send "youtube Download completed"
 * [Ανέβασμα εικόνων σε cloud](https://postimages.org/)
   * [Image converter](https://image.online-convert.com/convert-to-jpg)
 * Βιογραφικό
-  * [Επιλογή χρωμάτων για βελτείωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)  
+  * [Επιλογή χρωμάτων για βελτίωση εμφάνισης](https://www.designwizard.com/blog/design-trends/colour-combination)  
   * [Εργαλεία και οδηγίες για Μέρος Β από sw-lab](https://github.com/courses-ionio/sw-lab)
   * [Pandoc](https://pandoc.org/) 
     * [Pandoc για Alpine Linux](https://pandoc.org/installing.html)
