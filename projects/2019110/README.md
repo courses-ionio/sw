@@ -335,6 +335,20 @@ exit
     * [mail](https://github.com/p19pasc/images/blob/B_meros/mail.png)
     * [mail-thumb](https://github.com/p19pasc/images/blob/B_meros/mail.png)
  
+   **Pull Requests και issue στον οργανισμό για το Συμμετοχικό Β:**
+   * **[issue](https://github.com/OompaLoompas/site/issues/23)**
+   * **[site](https://github.com/OompaLoompas/site/pull/27)**
+   * **[extras](https://github.com/OompaLoompas/extras/pull/2)**
+   * **[images](https://github.com/OompaLoompas/images/pull/16)**
+   
+  **Οι προσθήκες μου στο [Netlify του οργανισμου](https://oompa-loompas.netlify.app/):**
+   * **[BusyBox](https://oompa-loompas.netlify.app//case-study/busybox/)**
+   * **[Louis Pouzin](https://oompa-loompas.netlify.app//biography/louis-pouzin/)**
+ 
+ ### Pull Request και Deploy ιστοσελίδας του οργανισμού
+ 
+ Σε αυτό το σημείο θα ήθελα να αναφέρω, καθώς ανέλαβα κυρίως εγώ την διαχείριση δημιουργίας της ιστοσελίδας με βοήθεια από τον @AimiliosPavlidis2001, πως αποτελούσε πολύ χρονοβόρα και επίπονη διαδικασία. Στην ουσία, έγινε ο ίδιος τρόπος που πραγματοποιούταν στο sitegr από τον καθηγητή του μαθήματος με τα PR και αναλάμβανα να τα ενώσω και να κάνω host την ιστοσελίδα στο netlify. Υπήρχαν πολλές δυσκολίες με τα revert και το γεγονός ότι πολλές φορές δεν είχαμε κάποιο κενό κλαδί στα προσωπικά μας αποθετήρια ώστε να περαστούν αποκλειστικά τα αρχεία που θέλαμε. Σε αυτό έδωσε την πραγματικά χρήσιμη βοήθεια ο συμφοιτητής μας, με την εντολή `git rebase -i "hash"`, όπου πλέον είχαμε κλαδία χωρίς άχρηστα commits. Στα αποθετήρια του οργανισμού θα μπορούσε να είχε γίνει καλύτερη διαχείριση, διότι πραγματοποιείται ένα ανούσιο βήμα, δηλαδή, ενώ τα PR των μελών γίνονται στο master από το master τα περνούσα στο Netlify branch το οποίο κάνει host την ιστοσελίδα. Παρ' όλα αυτά όμως το αποτέλεσμα ήταν επιτυχής. 
+ 
  | Repository | Σύνδεσμος στη συζήτηση |
  |---|---|
  | [courses-ionio/help](https://github.com/courses-ionio/help)| [Μία απλή απορία για το συμμετοχικό Β σε νέο branch](https://github.com/courses-ionio/help/discussions/576) |
