@@ -31,7 +31,7 @@ _AM_ : **Π2017060**
 και τον βοηθήσω αντίστοιχα. Κλείνοντας θεωρώ ότι το συγκεκριμένο μάθημα θα με βοηθήσει σε αυτό το πράγμα και ότι θα γνωρίσω έτσι νέους ανθρώπους μέσω των ομάδων, που
 μπορεί στην μετέπειτα ζωή μας να συνεργαστούμε και σε επαγγελματικό επίπεδο.
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#%CE%BF-%CF%83%CF%85%CE%B3%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CF%89%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
 -------------------------------------------
   
@@ -39,7 +39,7 @@ _AM_ : **Π2017060**
 --------------------------------------------  
 Στην αρχή δημιούργησα το [βιογραφικό ](https://p17gera1.github.io/online-cv/) μου και μετά εντάχθηκα στην ομάδα ([SWkey](https://github.com/SWkey)). Στην συνέχεια πρόσθεσα το βιογραφικό μου στην ομάδα και τέλος έκανα κάτι αλλαγές στο βιογραφικό μου.
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#%CE%BF-%CF%83%CF%85%CE%B3%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CF%89%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
 -------------------------------------------
   
@@ -47,4 +47,4 @@ _AM_ : **Π2017060**
 --------------------------------------------  
 Για το τρίτο παραδοτέο έκανα και εγώ με την σειρά μου μία συνεισφορά στο [sitegr ](https://github.com/ioniodi/sitegr) όπου αποφάσισα να είναι μία [ανακοίνωση ](https://di.ionio.gr/gr/news/23978/) του τμήματος μας. Το πρώτο βήμα που έκανα ήταν να ανοίξω το [issue ](https://github.com/ioniodi/sitegr/issues/404) και περίμενα να πάρω το *greenlight*. Το δεύτερο βήμα που έκανα ήταν να κάνω forks τα αποθετήρια [sitegr ](https://github.com/p17gera1/sitegr), [all_collections ](https://github.com/p17gera1/all_collections/) και [minimal-ionio ](https://github.com/p17gera1/minimal-ionio) που όταν έγιναν όλα έκανα τα αντίστοιχα forks. 
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#%CE%BF-%CF%83%CF%85%CE%B3%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CF%89%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
