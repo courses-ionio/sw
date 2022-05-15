@@ -29,7 +29,7 @@
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα μέρος Β](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-%CE%BC%CE%AD%CF%81%CE%BF%CF%82-%CE%B2)| [Ανάρτηση δεύτερου Αιτήματος Ενσωμάτωσης στην ιστοσελίδα στο Discussions](https://github.com/courses-ionio/help/discussions/547) | |
 | 9 | [Software άσκηση ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy) - [χρήση Simplepush](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-ntfy-simplepush) - [χρήση ntfy με την click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%87%CF%81%CE%AE%CF%83%CE%B7-ntfy-%CE%BC%CE%B5-%CF%84%CE%BF-%CF%80%CE%B1%CE%BA%CE%AD%CF%84%CE%BF-click) | [Ανάρτηση τρίτης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/568) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21--%CE%B22) | [Ανάρτηση δεύτερης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/584) | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Software άσκηση py-spy]() | | |
 | 12 | Τελική αναφορά* | | |
 
  
@@ -671,6 +671,32 @@
 | --- | --- |
 | 1 | **Reviewer** στην ομάδα μου |
 | 2 | [Συγγραφή οδηγιών](https://github.com/OompaLoompas/help/discussions/14) για 10ο παραδοτέο με @p19pasc |
+
+<br /> <br />
+
+## Εβδομάδα Εντέκατη - Software άσκηση py-spy
+
+<br />
+
+### Πληροφορίες για επιλογή άσκησης performance monitoring
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το παραδοτέο 11, σκέφτηκα να υλοποιήσω μία άσκηση που θα χρησιμοποιεί τους ήδη υπάρχων κώδικες που δημιούργησα κατά τη διάρκεια υλοποιήσης των προηγούμενων παραδοτέων ([click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7---click) και [ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy)). Με αυτά κατά νου σκέφτηκα να ασχοληθώ με την κατηγορία performance monitoring, ώστε να δω ποικίλα χαρακτηριστικά για τις διεργασίες που εκτελούνται κατα τη διάρκεια λειτουργίας των script μου. Το πρόγραμμα που επέλεξα για την ανάλυση των προγραμμάτων μου ήταν το [py-spy](https://github.com/benfred/py-spy) ενός sampling profiler που όπως υποδεικνύει και το όνομά του χρησιμοποιείται αποκλειστικά για προγράμματα python. Έπειτα από αρκετή εξοικείωση με το εργαλείο αυτό, κατέληξα πως είναι αρκετά εύκολο στη χρήση του και δίνει μεγάλη ελευθερία στον χρήστη για εξατομικευμένη οπτικοποίηση.
+
+<br />
+
+### Εγκατάσταση και χρήση εντολών για το εργαλείο py-spy
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Η εγκατάσταση ήταν πολύ απλή και πραγματοποιήθηκε με τη χρήση της εντολής <kbd>pip install py-spy</kbd>. Για ακόμη μία φορά χρησιμοποίησα το Λειτουργικό Σύστημα [Void Linux](https://voidlinux.org/), αλλά παρατήρησα ένα μικρό πρόβλημα που τελικά επιλύθηκε γρήγορα με τη βοήθεια [αυτής](https://github.com/benfred/py-spy/issues/236) της ανάρτησης. Το πρόβλημα αυτό ήταν πως το py-spy είχε αποθηκευτεί στον φάκελο **site-packages** και για να μπορέσω να το χρησιμοποιήσω έπρεπε να κάνω access στη τοποθεσία <kbd>/home/p2019053/.local/bin/py-spy</kbd>. Αυτό μπορεί να φανεί και από το [asciinema recording](https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN) που ακολουθεί παρακάτω στην αναφορά μου. Επόμενο βήμα έπειτα από την ομαλή εγκατάσταση ήταν η συμφιλίωσή μου με τις επιλογές οπτικοποιήσης των προγραμμάτων μου. Το py-spy έχει κατά κόρον 3 βασικές λειτουργίες την **record**, την **dump** και την **top**. Έγω επέλεξα να ασχοληθώ με την record και την top αφού αυτές είναι που μου κέντρισαν περισσότερο το ενδιαφέρον. Επίσης ήρθα σε πρώτη επαφή με τα <kbd>options</kbd> που προσφέρει το εργαλείο αυτό και εν τέλει χρησιμοποίησα το <kbd>--format</kbd> για την δημιουργία γραφήματος [speedscope](https://github.com/jlfwong/speedscope) και το <kbd>--subprocesses</kbd> για τη λειτουργία top. Οι πηγές που με βοήθησαν για την υλοποίηση του παραδοτέου ήταν [αυτή](https://coderzcolumn.com/tutorials/python/py-spy-sampling-profiler-for-python-code) για γενικά παραδείγματα και μεθοδολογίες και [αυτή](https://github.com/jlfwong/speedscope/wiki/Importing-from-py-spy-(python)) για τη παραγωγή του γραφήματος speedscope.
+
+
+
+
+
+
 
 <br /> <br />
 
