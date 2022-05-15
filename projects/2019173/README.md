@@ -20,7 +20,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2-5%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/429) | Στο πέμπτο παραδοτέο μας ζητήθηκε να προσθέσουμε δύο εικόνες και να τις βάλουμε σωστά χρονολογικά και στο σωστό σετ με τις διαφάνειες. Έτσι, επέλεξα δύο εικόνες οι οποίες έχουν να κάνουν με τα λογισμικά Abaqus και COMSOL Multiphysics. |
 | 6 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/461)| Στο έκτο παραδοτέο ζητήθηκε να γίνει μία άσκηση γραμμής εντολών και εγώ επέλεξα την search the web from the terminal. Την έκανα με το τερματικό του λογισμικού Void Linux.|
 | 7 | [Βιογραφικό](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/506) | Στο έβδομο παραδοτέο μας ζητήθηκε να κάνουμε ένα αρχείο PDF για εκτύπωση σε σελίδα Α4. Δυσκολεύτηκα λίγο, ωστόσο, μετά από μελέτη των εργαλείων pandoc και latex και κατάλαβα τι πρέπει να κάνω. |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | | | 
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | | Στο όγδοο παραδοτέο μας ζητήθηκε ένα ακόμα αίτημα ενδσωμάτωσης στην ιστοσελίδα sitegr. Δυστυχώς, δεν κατάφερα να ολοκληρώσω το συγκεκριμένο παραδοτέο γιατί περίμενα το green light αλλά δεν το πήρα. | 
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/558) | Στο ένατο παραδοτέο ζητήθηκε μία άσκηση γραμμής εντολών. Εγώ επέλεξα την check the weather και όπως στα προηγούμενα παραδοτέα άσκησης γραμμής εντολών την υλοποίησα με το τερματικό του Void Linux, καθώς από τα προηγούμενα παραδοτέα κατάλαβα πως με βολεύει πολύ σαν λογισμικό.|
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2-10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/578)| |
 | 11 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/sw/blob/2019173/projects/2019173/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-11%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CF%8C) | [Καταγραφή του συνδέσμου συζήτησης εδώ](https://github.com/courses-ionio/help/discussions/617)| Στο ενδέκατο παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών. Στο σημείο που έχουμε φτάσει μετά από αρκετές ασκήσεις γραμμής εντολών έχω πλέον εξοικειωθεί με το τερματικό και γενικά με το λογισμικό Void Linux, οπότε δεν δυσκολεύτηκα ιδιαίτερα στην ολοκλήρωση του συγκεκριμένου παραδοτέου. |
@@ -278,28 +278,9 @@
 <img width="850" height="750" src="https://i.postimg.cc/cHqZ2801/image.png">
 <p/>
 
-Εδώ βλέπετε την προσθήκη του μαθήματος στο all_collections:
-
-Εδώ βλέπετε το pull request μου στο sitegr:
-
-Εδώ βλέπετε το στο pull request μου all_collections:
-
-Εδώ βλέπετε την αλλαγή που έγινε στο sitegr:
-
-
 Παρακάτω θα βρείτε τα αντίστοιχα βοηθητικά link. 
 
 [Εδώ](https://github.com/ioniodi/sitegr/issues/385) θα βρείτε το θέμα που άνοιξα για την συνεισφορά(δηλαδή, το issue μου).
-
-[Εδώ]() θα βρείτε το pull request μου στο sitegr.
-
-[Εδώ]()  θα βρείτε το pull request μου στο all_collections.
-
-[Εδώ]() φαίνεται η αλλαγή που έγινε στο sitegr.
-
-[Εδώ]() θα βρείτε την επεξεργασία που έκανα, δηλαδή, την προσθήκη του μαθήματος επιλογής Κατανεμημένα Δικτυοκεντρικά Συστήματα στο προφίλ της κ. Χριστοπούλου.
-
-[Εδώ]() έκανα την προσθήκη του μαθήματος επιλογής Κατανεμημένα Δικτυοκεντρικά Συστήματα στο προφίλ της κ. Χριστοπούλου.
 
 [Εδώ](https://tender-saha-e93d2d.netlify.app/) είναι η ιστοσελίδα που έκανα μέσω του Netlify.
 
