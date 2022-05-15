@@ -46,7 +46,9 @@
 
 
 # <a name="D">Άσκηση γραμμής εντολών </a>
-Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux . Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
+Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το artixlinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.
+
+Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/434)
 
@@ -104,7 +106,7 @@ https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-
 
 # <a name="I">συμμετοχικό περιεχόμενο B1+B2</a>
 
-Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein((deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
+Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein(deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
 
 [ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ](https://p18balt.netlify.app/case-study/artixlinux/)
 
