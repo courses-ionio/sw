@@ -16,7 +16,7 @@
 | 7 | [βιογραφικό](#παραδοτεο-7) | [Link παραδοτέου 7 στις συζητήσεις](https://github.com/courses-ionio/help/discussions/531) | 10 |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link παραδοτέου 8 στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | 10 |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9) | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | | |
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -105,6 +105,13 @@ A2:</br>
 ![call phone code twilio](https://user-images.githubusercontent.com/72515420/168670391-37337d98-18a5-47f8-87f8-581367a36030.png)
 ![sent messages to phone](https://user-images.githubusercontent.com/72515420/168670332-b9edf124-6073-4de3-87e1-53bbe2d60ef5.png)</br>
 ![image](https://user-images.githubusercontent.com/72515420/168670850-d101336e-c258-4d15-9366-daf609938d06.png)
+
+## ΠΑΡΑΔΟΤΕΟ 10
+Για το Συμετοχικό περιεχόμενο B1+B2, και εφόσον έιχα ασχολοθεί με game engines και με το προηγούμενο συμετοχικο(Α1+Α2), ασχολήθικα με ένα case study πάνω στα game engines και με τήν βιογραφία του Tim Sweeney ο οποίος είναι ο CEO της Epic Games και ο δημιουργός εnός από τα ποιό δiάσιμα και δυνατά game engines των ημερών μας. Επύσης είχε γίνει παρατήρηση στο προηγούμενο συμετοχικό περιεχόμενο για την χρήση εικόνων Logo και για αυτόν τον λόγο τα έκανα και αυτά update με screenshots μέσα από τα game engines. Η διαδικασία έχεινε με ίδιο τρόπο όπως και με το προηγούμενο συμετοχικό από την ομάδα οπότε είχαμε 1 [issue](https://github.com/Git-s-PopTeamEpic/site/issues/19) και 3 pull requests([sitegr](https://github.com/Git-s-PopTeamEpic/site/pull/20#pullrequestreview-973190908), [_gallery](https://github.com/Git-s-PopTeamEpic/_gallery/pull/9) & [imgaes](https://github.com/Git-s-PopTeamEpic/images/pull/10)).</br>
+Τα αποτελέσματα φαίνονται στα παρακάτω links:
+-  [Case study link](https://alexpoulisb.netlify.app/case-study/game-engines/)
+- [Biography link](https://alexpoulisb.netlify.app/biography/tim-sweeney/)
+- [gallery link](https://alexpoulisb.netlify.app/gallery/tim-profile/)
 
 
 ## ΠΑΡΑΔΟΤΕΟ 11
