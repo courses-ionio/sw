@@ -21,6 +21,8 @@
 | 10 |<li><a href="#Συμμετοχικό Περιεχόμενο Β1+Β2"><span class="toctext"></span>Συμμετοχικό Περιεχόμενο Β1+Β2</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/625)|Λίγο εκπρόθεσμη παράδοση, δημιουργία μίας βιογραφίας, δημιουργία μίας μελέτης περίπτωσης, προσθήκη εικονών απαραίτητων γι' αυτά|
 | 11 |<li><a href="#Άσκηση γραμμής εντολών software 2"><span class="toctext"></span>Άσκηση γραμμής εντολών software 2</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/638)|Εμπρόθεσμη παράδοση του παραδοτέου, υλοποίηση άσκησης με το εργαλείο twilio, λήψη κλήσης και μηνύματος από twilio μέσω python scripts|
 | 12 |<li><a href="#Τελική Αναφορά και Συμπεράσματα"><span class="toctext"></span>Τελική Αναφορά και Συμπεράσματα</a>|[Σύνδεσμος Συζητήσεων]()| |
+|  |<li><a href="#Ομαδικότητα και Συνεργασία"><span class="toctext"></span>Ομαδικότητα και Συνεργασία</a>|||
+|  |<li><a href="#Βίντεο Κουίζ"><span class="toctext"></span>Βίντεο Κουίζ</a>|||
 
 <br><br>
 <h1><span id="Εισαγωγή">(1) Εισαγωγή</span></h1>
@@ -306,7 +308,8 @@
 Προς συμπλήρωση..
   
 <br><br>
-# Ομαδικότητα και Συνεργασία
+<h1><span id="Ομαδικότητα και Συνεργασία">Ομαδικότητα και Συνεργασία</span></h1>
+
 | # | Η συνεισφορά μου |
 | --- | --- |
 | 1 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/124) |
@@ -323,7 +326,8 @@
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
   
 <br><br>
-# Βίντεο Κουίζ
+<h1><span id="Βίντεο Κουίζ">Βίντεο Κουίζ</span></h1>
+
 | # | Τίτλος | Πραγματοποιήθηκαν |
 | --- | --- | --- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: |
