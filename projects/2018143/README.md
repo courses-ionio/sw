@@ -321,14 +321,72 @@ Link συνεισφοράς στο netlify :
   
 ##### [9]
   
-### Άσκηση γραμμής εντολών : 
+### Άσκηση γραμμής εντολών : create your own static site and blog generator
+
+A' Μέθοδος : hugo  
   
-asciinema link για hugo: 
+asciinema link για hugo: https://asciinema.org/a/487765
 
 ## Διαδικασία :
   
+• Εγκατάσταση πακέτων ```sudo pacman -Syu hugo```
+  
+• Επιλογή location Desktop με την εντολή ```cd Desktop```
+  
+• Δημιουργία site στο φάκελο quickstart με την εντολή ```hugo new site quickstart```
+  
+• Επιλογή location quickstart με την εντολή ```cd quickstart```
+  
+• Δημιουργία κενού repo με την εντολή ```git init``` 
+  
+• Cloning του repo του theme με την εντολή ```git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.γιτ themes/ananke
+  
+• Χτίσιμο και hosting του site με την εντολή ```hugo server -D```
 
+• Ανακατεύθυνση εξόδου δεδομένων στο αρχείο config.toml με την εντολή ```echo 'theme = "ananke"' >> config.toml```
 
+• Δημιουργία νέου post με την εντολή ```hugo new posts/test-post.md```
+
+• Επεξεργασία περιεχομένου νέου post με την εντολή ```vim content/posts/test-post.md```
+
+• Χτίσιμο του site με τις νέες προσθήκες με την εντολή ```hugo -D```
+
+• Hosting του site με τις νέες προσθήκες με την εντολή ```hugo server -D```
+  
+• Τέλος εγγραφής terminal ```exit```
+  
+## Αποτελέσμα :
+  
+![hugo](https://github.com/p18kout/sw-images/blob/main/hugo.png)
+  
+Πηγή: https://gohugo.io/getting-started/usage/
+  
+B' Μέθοδος : bashblog
+  
+## Διαδικασία :
+  
+• Λήψη script bb.sh από https://github.com/cfenollosa/bashblog#usage
+  
+• Επιλογή location εγκατάστασης με την εντολή ```cd test_blog/blog```
+  
+• Δημιουργία νέου blog post με την εντολή ```EDITOR="vim" ./bb.sh post```
+  
+• Είσοδος σε mode επεξεργασίας (INSERT) με το πλήκτρο ```Ι```
+  
+• Αποθήκευση κειμένου πληκτολογώντας ```:w``` 
+  
+• Έξοδος απο το bash αρχείο πληκτολογώντας ```:q```
+  
+• Χτίσιμο του post με το πλήκτρο ```p```
+  
+• Τέλος εγγραφής terminal ```exit```
+  
+## Αποτελέσμα :
+  
+![bashblog](https://github.com/p18kout/sw-images/blob/main/bashblog.png)
+  
+Πηγή: https://github.com/cfenollosa/bashblog#usage
+    
 ##### [10]
   
 ## Συμμετοχικό περιεχόμενο B1+B2
