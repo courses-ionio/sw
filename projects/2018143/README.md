@@ -13,7 +13,7 @@
 | 1 | <sup><a href="#1"> Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/61) </a></sup> | |
 | 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/179) </a></sup> | |
 | 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/331) </a></sup> | |
-| 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού/Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
+| 4 | <sup><a href="#4"> Εγκατάσταση λογισμικού </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/409) | |
 | 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/427) </a></sup> | |
 | 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/459) | |
 | 7 | <sup><a href="#7"> βιογραφικό </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/494) | |
