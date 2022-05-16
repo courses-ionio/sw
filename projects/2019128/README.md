@@ -8,16 +8,16 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Link 1ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/76)| 10 |
-| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631)[Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 8 |
+| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631)[Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 6 |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Link 6ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/490) | 9 |
 | 7 | [βιογραφικό](#παραδοτεο-7) | [Link 7ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/531) | 10 |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link 8ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | 10 |
-| 9 |  [Άσκηση γραμμής εντολών](#παραδοτέο-9) | [Link 9ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/632)| |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Link 10ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/633)| |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Link 11ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/635)| |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link 8ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | 8 |
+| 9 |  [Άσκηση γραμμής εντολών](#παραδοτέο-9) | [Link 9ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/632)| 7 |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Link 10ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/633)| 10 |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Link 11ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/635)| 10 |
 | 12 | Τελική αναφορά* | | |
 
 
