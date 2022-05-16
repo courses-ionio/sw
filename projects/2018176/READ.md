@@ -30,6 +30,7 @@
 
 # <a name="B">Βιογραφικό </a>
 Σε αυτό το παραδοτέο δημιούργησα το βιογραφικό μου και εντάχθηκα στην ομάδα DevTeamIU.(Η φωτογραφία δεν λειτουργεί εσκεμμένα). 
+Επιπλέον έχω αφαιρέση όλες τις διαφημίσεις του webjeda ακόμη και το about theme.
 Το [βιογραφικό](https://p18balt.github.io/online-cv-3/) μου
 Το [αποθετήριο](https://github.com/p18balt/online-cv-3/tree/master) του βιογραφικού μου
 Η [ομάδα](https://github.com/DevTeamIU) μας
@@ -46,16 +47,18 @@
 
 
 # <a name="D">Άσκηση γραμμής εντολών </a>
-Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το artixlinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.
+Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.
 
 Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/434)
 
-[Asciinema Link](https://asciinema.org/a/CcGCK1v4tZIApqe3p3L7EOKvS)
+
 
 # <a name="E">Συμμετοχικό περιεχόμενο A1+A2 </a>
 Σε αυτό το παραδοτέο πρόσθεσα το λειτουργικό σύστημα artixlinux και το runit στο site.
+Το ArtixLinux δεν χρησιμοποιεί systemd και χρησιμοποιεί άλλες λειτουργίες όπως το runit.
+
 ![Screenshot 2022-05-10 at 22 51 35](https://user-images.githubusercontent.com/93882637/167710828-cc1771c7-b545-4267-b1f3-a6ba46c22359.png)
 ![Screenshot 2022-05-10 at 22 51 17](https://user-images.githubusercontent.com/93882637/167710844-ff746d63-8d35-4dd3-b96a-c9afccfd8dc6.png)
 ![Screenshot 2022-05-10 at 22 52 39](https://user-images.githubusercontent.com/93882637/167710952-6f01033d-a950-434d-af3e-d3d5ccd20057.png)
@@ -107,6 +110,7 @@ https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-
 # <a name="I">συμμετοχικό περιεχόμενο B1+B2</a>
 
 Στο συγκεκριμένο παραδοτέο παρουσιάζεται μία μελέτη περίπτωσης για το λειτουργικό σύστημα ArtixLinux και η βιογραφία του Daniel J. Bernstein(deamontools,djbdns,qmail,ezmlm,ucspi-tcp,publicfile,ChaCha20 κτλ).
+Το δέκατο παραδοτέο συνδέεται πλήρως με το 5ο παραδοτέο καθώς το runit(χρησιμοποιείται από το ArtixLinux) είναι μια reimplementation του deamontools και δημιουργός του παραπάνω εργαλείου είναι ο Daniel J Bernstein ο οποίος υπάρχει και σαν παραπομπή στο αρχικό site.
 
 [ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ](https://p18balt.netlify.app/case-study/artixlinux/)
 
