@@ -238,7 +238,7 @@ Tρίτο βήμα
   * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/fedora-linux-thumb.png/)
   <br />
   
-&#10004; Δημιούργησα νέο αρχείο στο submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/fedora-linux.md/) με το θέμα μου 
+&#10004; Δημιούργησα νέο αρχείο στο submodule **/_gallery** με όνομα [fedora-linux.md](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/fedora-linux.md/) με το θέμα μου 
   
   <br />
   
@@ -274,7 +274,7 @@ Tρίτο βήμα
   
  &#10004; Ενημέρωσα το submodule [/images](https://github.com/vasiliskampani/images/blob/p2019014/everquest.jpg/) με μια [εικόνα](https://en.wikipedia.org/w/index.php?curid=12992048/) απο το wikipedia ***με ελεύθερα πνευματικά δικαιώματα*** και την ίδια resized με πλάτος 160 pixels ως **thumbnail**. 
   
-* [Κανονικά εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/everquest.jpg/)
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/everquest.jpg/)
 * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/p2019014/everquest-thumb.jpg/)
   
 
@@ -326,13 +326,13 @@ Tρίτο βήμα
   
 &#10004; Ενημέρωσα το submodule **/images** με 2 προσθήκες εικόνων:
   
-* [Κανονικά εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/linux-kernel.png/)
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/linux-kernel.png/)
 * [thumb εικόνα](https://github.com/vasiliskampani/images/blob/prwto_meros/linux-kernel-thumb.png/)
   
 
 <br />
   
-&#10004; Δημιούργησα νέο αρχείο στο submodule [/_gallery](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/linux-kernel.md/) με το θέμα μου
+&#10004; Δημιούργησα νέο αρχείο στο submodule **/_gallery** με όνομα [linux-kernel.md](https://github.com/vasiliskampani/_gallery/blob/prwto_meros/linux-kernel.md/) με το θέμα μου
   
   <br />
   
@@ -559,7 +559,7 @@ Tρίτο βήμα
 <br />
  
   
-&#10004; Εγκατέστησα το **ntfy** με την εντολή `sudo pip install ntfy`
+&#10004; Εγκατέστησα το **ntfy** με την εντολή `pip install ntfy`
   
 <br />
   
@@ -614,15 +614,116 @@ Tρίτο βήμα
 <br>
 
 
-# Δεκατη εβδομάδα / Συμμετοχικό περιεχόμενο Β1 + Β2
-                                                                                                                                 
-  
+# Δέκατη εβδομάδα / Συμμετοχικό περιεχόμενο Β1 + Β2
 
+                                                                                                                                            
+<br>
+                                                                                                                                            
+Για την 10η εβδομάδα μας ζητήθηκε να ενσωματόσουμε μία βιογραφία και μία νέα μελέτη περίπτωσης που να αφορούν το λογισμικό. Η διαδικάσια της ενσωμάτωσης θα γινόταν ακριβώς με τον ίδιο τρόπο όπως στο πρώτο συμμετοχικό περιεχόμενο. Αποφάσισα να ασχολήθω με τον Μεξικανό προγραμματιστή **Miguel de lcaza** για την βιογραφία του και ως νέα μελέτη περίπτωσης το σύστημα διαχείρισης δυαδικών πακέτων **RPM package manager**. Οπότε και υλοποίησα τα εξής:
+                                                                                                                                            
+<br>
+                                                                                                                                            
+## Miguel de lcaza
+                                                                                                                                            
+<br>
+                                                                                                                                            
+O Miguel de lcaza είναι μεξικανός προγραμματιστής γνωστός κυρίως για τα έργα του στο λογισμικό όπως το GNOME, το Mono και το Xamarin. Για την ενσωμάτωση της βιογραφίας του στην ιστοσελίδα ***Προγραμματισμός της διάδρασης*** εφάρμοσα τα εξής:
+                                                                                                                                            
+<br> 
 
+&#10004; Ενημέρωσα το submodule **/images** με 3 προσθήκες εικόνων:
+
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/miguel-de-lcaza.jpg/)
+* [thumb εικόνα](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/miguel-de-lcaza-thumb.jpg/)
+* [Μία έξτρα είκονα το gnome όπου προστέθηκε στο includes](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/gnome.png/)
+
+<br> 
+
+&#10004; Δημιούργησα ένα αρχείο στο submodule **extras** με όνομα [bio-de-lcaza.md](https://github.com/vasiliskampani/extras/blob/deutero_meros/bio-de-lcaza.md/) με το θέμα μου  
+                                                                                                                                            
+<br>                                                                                                                                             
+                                                                                                                                            
+&#10004; Δημιούργησα νέο αρχείο στο _biography με όνομα [miguel-de-lcaza.md](https://github.com/vasiliskampani/site/blob/deutero_meros_PR/_biography/miguel-de-lcaza.md/)
+                                                                                                                                            
+<br>  
+                                                                                                                                            
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [bio-de-lcaza.md](https://github.com/vasiliskampani/site/blob/deutero_meros_PR/_includes/bio-de-lcaza.md/)                                                                                                                                     
+                                                                                                                                            
+<br>
+                                                                                                                                            
+| | Demo του Miguel de lcaza |
+| --- | --- |
+| 1 | [Demo link στο biography](https://vasiliskampani-rpm-miguel-de-lcaza.netlify.app//biography/miguel-de-lcaza/) |
+                                                                                                                                            
+<br> 
+                                                                                                                                           
+![Στιγμιότυπο οθόνης (36)](https://user-images.githubusercontent.com/72518208/168568469-508dbb34-ab1b-4b1e-aea7-4f05c50ef4d4.png)
+![Στιγμιότυπο οθόνης (37)](https://user-images.githubusercontent.com/72518208/168568483-88168cf7-bda4-41cd-9995-c181d9bf39c9.png)
+                                                                                                                                
+  <br />
+                                                                                                                                            
+## RPM package manager
+                                                                                                                                            
+  <br />
+                                                                                                                                            
+To RPM package manager είναι ένα σύστημα διαχείρισης δυαδικών πακέτων ή πακέτων πηγαίου κώδικα για να δημιουργηθούν τα δυαδικά πακέτα, όπου περιέχουν λογισμικό και η λειτουργία τους είναι ο χρήστης να μπορεί να διαχειρίζεται με όποιον τρόπο θέλει το λογισμικό μέσω αυτών. 
+                                                                                                                                            
+<br>
+                                                                                                                                            
+&#10004; Ενημέρωσα το submodule **/images** με 3 προσθήκες εικόνων:
+
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/rpm.png/)
+* [thumb εικόνα](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/rpm-thumb.png/)
+* [Μία έξτρα είκονα το rpm-database όπου προστέθηκε στο includes](https://github.com/vasiliskampani/images/blob/deutero_meros_PR/rpm-database.png/)
+                                                                                                                                            
+<br>
+                                                                                                                                            
+&#10004; Δημιούργησα ένα αρχείο στο submodule **extras** με όνομα [cs-rpm.md](https://github.com/vasiliskampani/extras/blob/deutero_meros/cs-rpm.md/) με το θέμα μου  
+                                                                                                                                            
+<br>                                                                                                                                             
+                                                                                                                                            
+&#10004; Δημιούργησα νέο αρχείο στο _case-study με όνομα [rpm.md](https://github.com/vasiliskampani/site/blob/deutero_meros_PR/_case-study/rpm.md/)
+                                                                                                                                            
+<br>  
+                                                                                                                                            
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [cs-rpm.md](https://github.com/vasiliskampani/site/blob/deutero_meros_PR/_includes/cs-rpm.md/)                                                                                                                                     
+                                                                                                                                            
+<br>
+                                                                                                                                            
+| | Demo του RPM package manager |
+| --- | --- |
+| 1 | [Demo link στο case-study](https://vasiliskampani-rpm-miguel-de-lcaza.netlify.app//case-study/rpm/) |
+                                                                                                                                            
+<br> 
+                                                                                                                                            
+![Στιγμιότυπο οθόνης (39)](https://user-images.githubusercontent.com/72518208/168571441-b1459d96-ffe2-4c41-b91c-22d7129ace68.png)
+![Στιγμιότυπο οθόνης (40)](https://user-images.githubusercontent.com/72518208/168571523-174f3fe4-0f7d-4200-a3e9-8bb94572640f.png)
+    
+                                                                                                                                            
+<br>   
+    
+                                                                                                                                            
+| | Links για τα Pull request και το issue |
+| --- | --- |
+| 1 | [Pull request στο site](https://github.com/OompaLoompas/site/pull/35/) |
+| 2 | [Pull reuquest στο extras](https://github.com/OompaLoompas/extras/pull/5/) |
+| 3 | [Pull request στο images](https://github.com/OompaLoompas/images/pull/23/) |
+| 4 | [Ιssue](https://github.com/OompaLoompas/site/issues/21/) 
+                                                                                                                                            
+  <br />     
+      
+                                                                                                                                            
+                                                                                                                                            
+
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
 # :pushpin:: Προβλήματα που αντιμετώπισα
 
 
 ### Τρίτο Παραδοτέο / 1ο αίτημα ενσωμάτωσης στην ιστοσελίδα
+                                                                                                                                            
 <br>
   
 Σε αυτο το παραδοτέο αντιμετώπισα αρκετά προβλήματα τόσο με το deploy του demo μου στο netlify, όσο και με το ίδιο το θέμα και τις προυποθέσεις του. Αρχικά το πρώτο πρόβλημα που αντιμετώπισα ήταν ότι το θέμα που επέλεξα το είχε ήδη προσθέσει προηγούμενως συνάδελφος παρ'ολ'αυτά εντόπισα ήδη καποιά λάθη μαζί με την βοήθεια του καθήγητη κ.Xωριανόπουλου όπως την κατάληξη του αρχείου .markdown αντί για .md, το κείμενο δεν ήταν γραμμένο σε μια ενιαία σείρα αλλά χωρίζοταν σε 2-3 κατι που το καθιστούσε μη λειτουργικό στο site και περα από αυτά είχα ο ίδιος ένα συντακτικό λάθος στο [/config.yml](https://github.com/vasiliskampani/sitegr/blob/demo/_config.yml/) στην εντολή `remote_theme : ioniodi/minimal-ionio σε remote_theme : "your-username"/minimal-ionio@"your-minimal-ionio-branch-name"` το όποιο εβγάζε άκομα ενα πρόβλημα στο netlify όπως θα δείτε παρακάτω.
