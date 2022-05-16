@@ -13,7 +13,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 3 | <li><a href="#Αίτημα Ενσωμάτωσης"></span> <span class="toctext">Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
 | 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
 | 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση γραμμής εντολών από την κατηγορία warmup. |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -64,4 +64,14 @@ Github Profile: https://github.com/AnastasiaMariaStefani
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md" title="Σετ διαφανειών 2ης εικόνας">Σετ διαφανειών 2ης εικόνας</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/systems.md" title="Χρονολόγιο 2ης εικόνας">Χρονολόγιο 2ης εικόνας</a><li>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/3" title="Issue">Issue</a>
+       
+       
+
+ <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
+
+  Για το 6ο παραδοτέο ολοκλήρωσα την εκτέλεση μίας άσκησης γραμμής εντολών με την βοήθεια του Void Linux.
+   
+   Βιβλιογραφία:
+     <li>[Asciinema](https://asciinema.org/)
+     <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
        
