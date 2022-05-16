@@ -159,7 +159,11 @@ Preview links:
 - [case study](https://hungry-villani-11b334.netlify.app/case-study/templeos/)
 - [biography](https://hungry-villani-11b334.netlify.app/biography/terry-a-davis/)
 
-# Παραδοτέο 11 / Άσκηση γραμμής εντολών
+## Παραδοτέο 11 / Άσκηση γραμμής εντολών
+
+Ολοκλήρωσα την άσκηση γραμμής εντολών ["create notifications on your sever"](https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn). Το μόνο εμπόδιο που είχα είναι ότι δεν έχω κάποιον remote server για να κάνω fully demonstrate τα αποτελέσματα (συν τα limitations του asciinema) οπότε άνοιξα τον server τοπικά αλλά πριν το κάνω έδειξα και στο recording πως γίνεται.
+
+<a href="https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn" target="_blank"><img src="https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn.svg" /></a>
 
 ### Σημειώσεις
 - Αυτή την εβδομάδα ήταν η πρώτη φορά που δε μπόρεσα να κάνω κάτι πριν τη προθεσμία. Πέρα από προσωπικούς παράγοντες, είδα πολύ αργά ότι υπάρχει ένα εξωτερικό error για το οποίο δεν ευθύνομαι εγώ αλλά ίσως έκαναν κάποια αλλαγή στο asciinema. Έκανα πολλές ώρες troubleshoot νομίζοντας ότι κάτι πάει λάθος με το Alpine installation μου όμως τίποτα. Η Δευτέρα μετά τη προθεσμία ήταν η μόνη μέρα που μπορούσα να δοκιμάσω να εγκαταστήσω το Alpine σε άλλο μηχάνημα αλλά είχα αυτό το error που φαίνεται να είναι και server-side error σύμφωνα με τις αναζητήσεις μου.
