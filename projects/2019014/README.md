@@ -849,6 +849,8 @@ To πρόβλημα τελικά παρέμεινε άλυτο κάθως δεν
 
 [Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/ioniodi/sitegr/issues/378/)
   
-[Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/OompaLoompas/site/issues/22)  
+[Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/OompaLoompas/site/issues/22/)  
 
-[Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/OompaLoompas/site/issues/23) 
+[Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/OompaLoompas/site/issues/23/) 
+  
+[Σχόλιο ως reviewer σε issue συναδέλφου](https://github.com/ioniodi/sitegr/issues/294/)   
