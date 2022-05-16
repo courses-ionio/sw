@@ -321,3 +321,20 @@
 | 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
+  
+<br><br>
+# Βίντεο Κουίζ
+| # | Τίτλος | Πραγματοποιήθηκαν |
+| --- | --- | --- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: |
+| 4 | Bret Victor - The Future of Programming | :heavy_check_mark: |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: |
+| 6 | Alan Kay Turing Lecture with dynamic content | :heavy_check_mark: |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_check_mark: |
+| 8 | Alan Kay - Programming and Scaling | :heavy_check_mark: |
+| 9 | Extracting Energy from the Turing Tarpit | :heavy_check_mark: |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark: |
