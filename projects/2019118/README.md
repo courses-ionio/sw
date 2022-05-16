@@ -164,3 +164,6 @@ Preview links:
 ### Σημειώσεις
 - Αυτή την εβδομάδα ήταν η πρώτη φορά που δε μπόρεσα να κάνω κάτι πριν τη προθεσμία. Πέρα από προσωπικούς παράγοντες, είδα πολύ αργά ότι υπάρχει ένα εξωτερικό error για το οποίο δεν ευθύνομαι εγώ αλλά ίσως έκαναν κάποια αλλαγή στο asciinema. Έκανα πολλές ώρες troubleshoot νομίζοντας ότι κάτι πάει λάθος με το Alpine installation μου όμως τίποτα. Η Δευτέρα μετά τη προθεσμία ήταν η μόνη μέρα που μπορούσα να δοκιμάσω να εγκαταστήσω το Alpine σε άλλο μηχάνημα αλλά είχα αυτό το error που φαίνεται να είναι και server-side error σύμφωνα με τις αναζητήσεις μου.
 <img src="https://i.imgur.com/dm9mM7P.png" alt="asciinema server error">
+
+- Το bug φαίνεται να είναι συγκεκριμένα στα Alpine Linux οπότε εγκατέστησα Artix.
+<a href="https://asciinema.org/a/xKRLQGQ78qGoEcc9vKBFOxs6L" target="_blank"><img src="https://asciinema.org/a/xKRLQGQ78qGoEcc9vKBFOxs6L.svg" /></a>
