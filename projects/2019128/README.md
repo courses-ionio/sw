@@ -3,8 +3,8 @@
 ### ΠΟΥΛΗΣ ΑΛΕΞΑΝΔΡΟΣ
 ### ΑΜ: Π2019128
 ### [Το Profile μου](https://github.com/alexpoulis)
+### [Το Profile τις ομάδας μου](https://github.com/Git-s-PopTeamEpic)
 ### <br/>
-[kekw](#παραδοτεο-1)
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Link 1ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/76)| 10 |
