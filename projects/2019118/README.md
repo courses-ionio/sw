@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας, Απόρριψη αλλαγής, Αδυναμία εύρεσης καλής αλλαγής |
 | 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας |
 | 10 | Συμμετοχικό περιεχόμενο B1+B2 | courses-ionio/help/discussions/591 | Παράδοση εντός προθεσμίας, Δυναμική έρευνα με κατάλληλα θέματα |
-| 11 | Άσκηση γραμμής εντολών | courses-ionio/help/discussions/627 | Εκπρόθεσμη παράδοση (1 μέρα, asciinema server issues) |
+| 11 | Άσκηση γραμμής εντολών ["create notifications on your sever"](https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn) | courses-ionio/help/discussions/627 | Εκπρόθεσμη παράδοση (1 μέρα, asciinema server issues) |
 | 12 | Τελική αναφορά* | | |
 
 
