@@ -329,8 +329,8 @@ exit
     * [BusyBox](https://github.com/p19pasc/images/blob/B_meros/busybox.png)
     * [BusyBox-thumb](https://github.com/p19pasc/images/blob/B_meros/busybox-thumb.png)
   * Louis Pouzin:
-    * [louis-pouzin](https://github.com/p19pasc/images/blob/92393a7912cb0bcccadb5bff29125a4b611e5c8d/louis-pouzin.png)
-    * [louiz-pouzin-thumb](https://github.com/p19pasc/images/blob/92393a7912cb0bcccadb5bff29125a4b611e5c8d/louis-pouzin-thumb.png)
+    * [louis-pouzin](https://github.com/p19pasc/images/blob/B_meros/louis-pouzin.png)
+    * [louiz-pouzin-thumb](https://github.com/p19pasc/images/blob/B_meros/louis-pouzin-thumb.png)
     * [ctss-scheduler](https://github.com/p19pasc/images/blob/B_meros/ctss-scheduler.png)
     * [ctss-scheduler-thumb](https://github.com/p19pasc/images/blob/B_meros/ctss-scheduler-thumb.png)
     * [mail](https://github.com/p19pasc/images/blob/B_meros/mail.png)
