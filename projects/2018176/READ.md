@@ -47,7 +47,7 @@
 
 
 # <a name="D">Άσκηση γραμμής εντολών </a>
-Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.
+Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.Επιπλέον η φωτογραφία αποτελεί screenshot.
 
 Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
@@ -101,9 +101,9 @@ hyperfine benchmark
 
 NTFY TELEGRAM
 https://github.com/courses-ionio/help/discussions/570
-(Το βίντεο λειτουργεί στο Discussions)
+Αναλυτικό Βίντεο στο παραπάνω λινκ που γίνεται η αποστολή μηνυμάτων μέσω Terminal στο Telegram.
 
-https://user-images.githubusercontent.com/93882637/163709349-c08ed67e-ff4e-4859-b100-51e!
+
 
 ![Screenshot 2022-04-17 at 12 34 53](https://user-images.githubusercontent.com/93882637/163709778-28488c04-a5f8-4ed7-a58f-94ac192f8c17.png)
 
