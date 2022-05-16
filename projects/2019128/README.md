@@ -125,5 +125,12 @@ A2:</br>
 https://user-images.githubusercontent.com/72515420/168668010-b72c9cad-12f9-44e0-b7a7-517ef49fab74.mp4
 
 ## Συμμέτοχή και ομαδικότητα
-- [Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο ](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
-- [Suggested changes in pull request](https://github.com/Git-s-PopTeamEpic/site/pull/11)
+- [Αξιολόγηση και παρατήρηση σε βάση με τις παρατηρήσεις που μου είχαν γίνει και εμένα στο αντίστοιχο παραδοτέο](https://github.com/ioniodi/sitegr/issues/355#issuecomment-1073060188)
+- [Έκανα request changes το pull request στην ομάδα @xar1sgeovlacp2019059(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/11)
+- [Έκανα approve το pull request στην ομάδα @Geoter711(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/14)
+- [Έκανα approve το pull request στην ομάδα @gordthrow}(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/13)
+- [Έκανα approve το νεο pull request στην ομάδα @gordthrow(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/16)
+- [Έκανα approve το νεο pull request στην ομάδα @p19kala(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/3)
+- [Έκανα approve το pull request στην ομάδα @KuhakuNeko(παραδοτέο-5)](https://github.com/Git-s-PopTeamEpic/site/pull/5)
+- [Έκανα approve το pull request στην ομάδα @KuhakuNeko(παραδοτέο-10)](https://github.com/Git-s-PopTeamEpic/site/pull/18)
+
