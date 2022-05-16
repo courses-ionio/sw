@@ -14,11 +14,11 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5-συμμετοχικό-περιεχόμενο-α1α2) | [Παρουσίαση Πρόοδου 5](https://github.com/courses-ionio/help/discussions/480) | |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/580) | |
 | 7 | [Βιογραφικό](#παραδοτέο-7-βιογραφικό) | [Παρουσίαση Προόδου 7](https://github.com/courses-ionio/help/discussions/607) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Παρουσίαση Προόδου 8]() | |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 9](https://github.com/courses-ionio/help/discussions/628) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/596) | |
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 11](https://github.com/courses-ionio/help/discussions/616)| |
-| 12 | Τελική αναφορά* | | |
+| 12 | [Τελική αναφορά](#επίλογος) | [Παρουσίαση Προόδου 12]() | |
 <br />
 
 # Εισαγωγή
@@ -34,12 +34,6 @@
 Για την δημιουργία βιογραφικού χρησιμοποίησα ένα από τα προτεινόμενα templates του μαθήματος το οποίο κάνει χρήση της τεχνολογίας Jekyll και παράγει μια στατική ιστοσελίδα μέσω github pages. Η διαδικασία ήταν πολύ απλή καθώς απαιτούσε μόνο την αλλαγή στοιχείων στο αρχείο .yml και παρακάτω φαίνεται το βιογραφικό μου.
 
 [Βιογραφικό](https://sola1r3.github.io/online-cv/)
-
-Παράλληλα προσπάθησα να κατασκευάσω κάτι δικό μου από την αρχή μέ Jekyll και Ruby χρησιμοποιώντας το terminal με αποτέλεσμα την κατασκευή μιας ιστοσελίδας που χρησιμοποιεί το default minima theme και είναι σε στυλ blog.
-
-[Jekyll project Repo](https://github.com/Sola1r3/cv)
-
-[Site](https://sola1r3.github.io/cv/)
 
 Σε ότι έχει να κάνει με την ομάδα είμαι μέλος της ομάδας Continental και παρακάτω παραθέτω τους συνδέσμους του οργανισμού μας καθώς και του webring.
 
@@ -137,6 +131,23 @@
 
 <br />
 
+## Παραδοτέο 8: Αίτημα Ενσωμάτωσης στην Ιστοσελίδα
+
+
+
+## Παραδοτέο 9: Άσκηση Γραμμής Εντολών
+
+Για την τρίτη άσκηση γραμμής εντολών έφτιαξα ένα static site generator μέσω Jekyll. Το συγκεκριμένο site το κατασκεύασα στο παραδοτέο 2 όταν ασχολήθηκα με το βιογραφικό. Τότε χωρίς βέβαια να είναι το ζητούμενο ασχολήθηκα και με το jekyll και την δημιουργία μιας νέας ιστοσελίδας. Η δημιουργία της σελίδας για πρώτη φορά ήταν μια διαδικασία που παρόλο που είχε μεγάλη διάρκεια ήταν ευχάριστη με αγαπημένο feature το live reload που επιτρέπει να βλέπεις τις αλλαγές σου στην σελίδα σε πραγματικό χρόνο. Το αποτέλεσμα είναι ένα blog το οποίο ονόμασα cv τότε χωρίς ιδιαίτερο λόγο απλά και μόνο επειδή ήταν το παραδοτέο της βδομάδας σχετικό με CVs. Πρακτικά οι αλλαγές που πραγματοποίησα φαίνονται στο Commit History.
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/commit-res.png)
+
+Η ιστοσελίδα χρησιμοποιεί το default Minima theme και παρακάτω παραθέτω τους συνδέσμους του αποθετηρίου και της ιστοσελίδας που λειτουργεί μέσω github pages.
+
+[Repository Jekyll](https://github.com/Sola1r3/cv)
+
+[Static Site](https://sola1r3.github.io/cv/)
+
+<br />
 
 ## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο Β1+Β2
 
@@ -186,3 +197,29 @@
 Τέλος το notification που προκύπτει ως αποτέλεσμα.
 
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/screenshot%20phone-resized.jpg)
+
+<br />
+
+# Επίλογος
+
+
+<br />
+
+## Σύνδεσμοι Ομαδικότητας και Συμμετοχή στις Συζητήσεις
+
+1. https://github.com/courses-ionio/help/discussions/164#discussioncomment-2235922
+2. https://github.com/courses-ionio/help/discussions/83
+3. https://github.com/courses-ionio/help/discussions/241
+4. https://github.com/courses-ionio/help/discussions/456
+5. https://github.com/courses-ionio/help/discussions/466
+6. https://github.com/courses-ionio/help/discussions/468#discussioncomment-2446671
+7. https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/2
+8. https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/3
+9. https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/4
+10. https://github.com/Cont1nental/Cont1nental_Discussion_Repository/discussions/7
+11. https://github.com/Cont1nental/site/issues/1
+12. https://github.com/Cont1nental/site/issues/2
+13. https://github.com/ioniodi/sitegr/issues/362
+14. https://github.com/ioniodi/sitegr/issues/366
+15. https://github.com/Cont1nental/site/issues/10
+16. https://github.com/Cont1nental/site/issues/13
