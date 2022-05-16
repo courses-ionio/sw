@@ -13,8 +13,8 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 3 | <li><a href="#Αίτημα Ενσωμάτωσης"></span> <span class="toctext">Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
 | 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
 | 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
-| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση γραμμής εντολών από την κατηγορία warmup. |
-| 7 | βιογραφικό | | |
+| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση γραμμής εντολών από την κατηγορία warmup. |
+| 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Επιτυχής μετατροπή του βιογραφικού μου σε μορφη pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -74,4 +74,17 @@ Github Profile: https://github.com/AnastasiaMariaStefani
    Βιβλιογραφία:
      <li>[Asciinema](https://asciinema.org/)
      <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
+       
+       
+       
+ <h2><span id="Βιογραφικό 2o">Βιογραφικό 2o</span></h2>
+
+  Για το 7ο παραδοτέο ζητήθηκε η μετατροπή του βιογραφικού μου σε μορφή pdf, η οποία πραγματοποιήθηκε με την βοήθεια του Ubuntu και των εντολών pandoc και pdflatex.
+  
+  <li><a href="https://anastasiamariastefani.github.io/online-cv/" title="Το βιογραφικό μου">Το βιογραφικό μου</a>
+  <li><a href="https://github.com/AnastasiaMariaStefani/online-cv/blob/master/cv.pdf" title="PDF">PDF</a>
+  
+  
+   Βιβλιογραφία:
+     <li>[Template](https://github.com/sharu725/online-cv)
        
