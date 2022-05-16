@@ -30,7 +30,7 @@
 | 9 | [Software άσκηση ntfy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-ntfy) - [χρήση Simplepush](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-ntfy-simplepush) - [χρήση ntfy με την click](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CF%87%CF%81%CE%AE%CF%83%CE%B7-ntfy-%CE%BC%CE%B5-%CF%84%CE%BF-%CF%80%CE%B1%CE%BA%CE%AD%CF%84%CE%BF-click) | [Ανάρτηση τρίτης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/568) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21--%CE%B22) | [Ανάρτηση δεύτερης άσκησης συμμετοχικού περιεχομένου στο Discussions](https://github.com/courses-ionio/help/discussions/584) | |
 | 11 | [Software άσκηση py-spy](https://github.com/AimiliosPavlidis2001/sw/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B5%CE%BD%CF%84%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---software-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-py-spy) | [Ανάρτηση τέταρτης άσκησης γραμμής εντολών στο Discussions](https://github.com/courses-ionio/help/discussions/626) | |
-| 12 | Τελική αναφορά* | | |
+| 12 | [Τελική αναφορά* - εντυπώσεις και συμπεράσματα] | | |
 
  
 <br /><br />
@@ -772,6 +772,25 @@
 | --- | --- |
 | | Σχόλιο βοήθειας σε συμφοιτητή |
 | 1 | https://github.com/courses-ionio/help/discussions/619 |
+
+<br /> <br />
+
+## Εβδομάδα Δωδέκατη - Τελική Αναφορά, Εντυπώσεις και Συμπεράσματα
+
+<br />
+
+### Εντυπώσεις 
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Όταν ξεκίνησαν τα πρώτα παραδοτέα θυμάμαι χαρακτηριστικά πόσο χαμένος ένιωθα. Τη πρώτη εβδομάδα κληθήκαμε να γράψουμε για τις προσδοκίες και τις γνώσεις που θέλουμε να αποκτήσουμε με την ενασχόληση με το μάθημα αυτό και ενώ δεν κατάλαβα το ρόλο του παραδοτέου, έπειτα συνειδητοποίησα τη σημασία του. Σκοπός του σύμφωνα με τη δική μου οπτική γωνία, ήταν να παρατηρούμε την εξέλιξή μας στο πεδίο της τεχνολογίας λογισμικού και μέσα από τα παραδοτέα να βρούμε ένα **βαθύτερο νόημα** από απλώς ικανότητες και δεξιότητες. Το θεματικό κέντρο του συγκεκριμένου μαθήματος ήταν να μας θέσει κάποια **θεμελιώδη ερωτήματα**, ώστε να αφυπνιστεί η κρητική μας ικανότητα και να αναδομίσουμε τις ιδέες που μας είχαν περαστεί στο παρελθόν. Πολλές φορές κατά τη διάρκεια του εξαμήνου, ειδικά στα αρχικά του στάδια, η συμφιλίωση μου με τις νέες τεχνολογίες ήταν δύσβατη, αλλά με επιμονή όσο προχωρούσαν τα παραδοτέα και το γνωστικό μου υπόβαθρο μεγάλωνε η διαδικασία γινόταν ολοένα και ευκολότερη.
+
+
+
+
+
+
+
 
 <br /> <br />
 
