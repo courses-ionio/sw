@@ -23,7 +23,7 @@
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/575) | Επιτυχή δημιουργία blog post με την χρήση δύο μεθόδων |
 | 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο B1+B2 </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/594) | Προχώρησα στην συγγραφή ενός βιογραφικού και μίας μελέτης περίπτωσης με βάση τις εικόνες πρώτου συμμετοχικού |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/630) | Ολοκλήρωσα επιτυχώς την αποστολή μηνυμάτων απο το terminal σε συσκευή της επιλογής μου |
-| 12 | <sup><a href="#12"> Τελική αναφορά* </a></sup> | | Ανακεφαλαίωση των παραδοτέων και καταγραφή εντυπώσεων και συμπερασμάτων |
+| 12 | <sup><a href="#12"> Τελική αναφορά* </a></sup> | [Link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/634) | Ανακεφαλαίωση των παραδοτέων και καταγραφή εντυπώσεων και συμπερασμάτων |
 
 ##### [1]
   
@@ -465,6 +465,9 @@ deploy του προσωπικού site στα παραδοτέα συμμετο
 ### Βιβλιογραφία : 
 
 [Artix Linux Forum](https://forum.artixlinux.org)
+
 [Updating a Submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
+
 [Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
+
 [Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
