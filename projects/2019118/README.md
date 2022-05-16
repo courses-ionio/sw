@@ -8,17 +8,17 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή | courses-ionio/help/discussions/90 | Παράδοση εντός προθεσμίας |
+| 1 | Εισαγωγή | courses-ionio/help/discussions/90 | Παράδοση εντός προθεσμίας, Τακτική ενημέρωση |
 | 2 | Βιογραφικό Α' και δημιουργία ομάδας | courses-ionio/help/discussions/206 | Παράδοση εντός προθεσμίας |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/310| Issue εντός προθεσμίας |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/310| Issue εντός προθεσμίας, Good first issue, Reverted |
 | 4 | Άσκηση γραμμής εντολών "[use irc to chat with your friends](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh)" | courses-ionio/help/discussions/367 | Παράδοση εντός προθεσμίας |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας, Κατάλληλα θέματα |
 | 6 | Άσκηση γραμμής εντολών "[upload and share files](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc)" | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
 | 7 | Βιογραφικό Β' | courses-ionio/help/discussions/518 | Παράδοση εντός προθεσμίας |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας, Απόρριψη αλλαγής, Αδυναμία εύρεσης καλής αλλαγής |
 | 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας |
-| 10 | Συμμετοχικό περιεχόμενο B1+B2 | courses-ionio/help/discussions/591 | Παράδοση εντός προθεσμίας |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 10 | Συμμετοχικό περιεχόμενο B1+B2 | courses-ionio/help/discussions/591 | Παράδοση εντός προθεσμίας, Δυναμική έρευνα με κατάλληλα θέματα |
+| 11 | Άσκηση γραμμής εντολών | | Εκπρόθεσμη παράδοση (1 μέρα, asciinema issues) |
 | 12 | Τελική αναφορά* | | |
 
 
