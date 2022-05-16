@@ -2,14 +2,17 @@
 
 ### Ονοματεπώνυμο: ΔΗΜΗΤΡΗΣ ΚΩΣΤΑΔΗΜΑΣ
 ### Αριθμός Μητρώου: Π2019108
-### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)
+### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)<br><br>
+
 ### Netlify Site (Ιστοσελίδα της σχολής): [epic-hamilton-p2019108.netlify.app](https://epic-hamilton-p2019108.netlify.app)
-### Site Repository (Ιστοσελίδα της σχολής): [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr)
+### Site Repository (Ιστοσελίδα της σχολής): [KuhakuNeko/sitegr](https://github.com/KuhakuNeko/sitegr)<br><br>
+
 ### Netlify Site (pibook) ομάδας: [gits-team-epic-pibook.netlify.app](https://gits-team-epic-pibook.netlify.app/)
-### Site Repository (pibook) ομάδας: [Git-s-PopTeamEpic/site](https://github.com/Git-s-PopTeamEpic/site)
+### Site Repository (pibook) ομάδας: [Git-s-PopTeamEpic/site](https://github.com/Git-s-PopTeamEpic/site)<br><br>
+
 ### Netlify Site (pibook) πρωσοπικό: [p2019108-sw-pibook.netlify.app](https://p2019108-sw-pibook.netlify.app/)
 ### Site Repository (pibook) πρωσοπικό: [Kuhakuneko/site](https://github.com/KuhakuNeko/site)
-<br />
+<br/>
 
 | Εβδομάδα | [Παραδοτέο](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -25,6 +28,7 @@
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-και-β2) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/589) | |
 | 11 | [Άσκηση γραμμής εντολών: Create your own static site and blog generator](#11ο-παραδοτέο---create-your-own-static-site-and-blog-generator) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/622) | |
 | 12 | Τελική αναφορά* | | |
+<br>
 
 # ΕΙΣΑΓΩΓΗ
 
@@ -73,7 +77,9 @@
   - Αλλαγή του code of conduct
   - Προσθήκη και έλεγχος όλων των pull request των μελών
 
-Όσων αφορά την ομάδα μου, αποτελούμαστε από 9 άτομα, μερικά από τα οποία ξαναγνωριστήκαμε μετά από 2 χρόνια lockdown στο μάθημα κυρίως στα εργαστήρια με τον κύριο Διογένη ακόμα γνωρίζουμε ο ένας τον άλλο. Εγώ ζήτησα η διαδικασία προσθήκης CV στο webring να γίνει με pull request ώστε να μην αφήσω τα μέλη άπραγα και έκανα τους ανάλογους ελέγχους και υποδοχές παρέχοντας και βοήθεια. Φροντίζω για την σωστή ιεραρχία και την ομαλή λειτουργία της και σύμφωνα με την καθοδήγηση θα κινηθούμε σε ένα ακόμα πιο δημοκρατικό μοντέλο ιεραρχίας που θα μας οδήγηση και σε καλύτερη ποιότητα commit. Όλοι οι ρόλοι και τα στοιχεία μπορούν να φανούν στο readme του οργανισμού καθώς και τα pull request στα ανάλογα αποθετήρια.
+Πέρα από αυτό να αναφέρω ότι έφτιαξα και ένα αποθετήριο που είναι αποκλειστικά για discussion που κάνω την βασική διαχείριση και τα μέλη της ομάδας μπορούν να ανοίξουν το δικό τους θέμα και να συζητηθεί αλλά εκεί γίνονται και διάφορες ανακοινώσεις. Είναι απλά γενικός χώρος συζητήσεων για να μέλη της ομάδας ώστε να είναι όλα πιο οργανωμένα αντί σκορπισμένα σε διάφορα αποθετήρια και να είναι σε ένα μέσω που όλοι χρησιμοποιούν στα πλαίσια της εργασίας.<br>
+
+Όσων αφορά την ομάδα μου, αποτελούμαστε από 9 άτομα, μερικά από τα οποία ξαναγνωριστήκαμε μετά από 2 χρόνια lockdown στο μάθημα κυρίως στα εργαστήρια με τον κύριο Διογένη ακόμα γνωρίζουμε ο ένας τον άλλο. Εγώ ζήτησα η διαδικασία προσθήκης CV στο webring να γίνει με pull request ώστε να μην αφήσω τα μέλη άπραγα και έκανα τους ανάλογους ελέγχους και υποδοχές παρέχοντας και βοήθεια. Φροντίζω για την σωστή ιεραρχία και την ομαλή λειτουργία της και σύμφωνα με την καθοδήγηση θα κινηθούμε σε ένα ακόμα πιο δημοκρατικό μοντέλο ιεραρχίας που θα μας οδήγηση και σε καλύτερη ποιότητα commit. Όλοι οι ρόλοι και τα στοιχεία μπορούν να φανούν στο readme του οργανισμού καθώς και τα pull request στα ανάλογα αποθετήρια.<br>
 
 <p align="center">
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%202%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/JoinPopTeamEpic.png" width="380px">
@@ -81,10 +87,12 @@
 
 <!-- ΕΝΕΡΓΩΠΟΙΗΣΗ ΣΤΗΝ ΒΑΘΜΟΛΌΓΙΣΗ
 ## Αντιγραφή / Κλοπή Webring?!
-Το συγκεκριμένο Webring ήταν το πρώτο που είχε animation. Επιπλέων όπως ανέφερα μεγάλωσα και το μέγεθος του κύκλου και πρόσθεσα αρκετά feature. Αυτό κάποιοί αποφάσισαν να το εκμεταλλευτούν και χωρίς να κάνουν fork κατέβασαν τον κώδικα από το δικό μου αποθετήριο και τον χρησιμοποίησαν ως δικό τους αλλάζοντας μόνο κάποια css elements. Μάλιστα όπως ανέφερα και στο μάθημα μία από της ομάδες που φαίνετε να πήραν τον κώδικα είχαν αφήσει για αρκετό χρονικό διάστημα το ring "τους" να έχει 9 μέλη με όνομα "NAME NAME NAME NAME..." καθώς η ομάδα τους δεν είχε 9 μέλη αλλά ήταν κλεμμένο από την δική μου. Δηλαδή ο κόπος μου πήγε σε κάποιους που δεν ήξερα ούτε πώς να μειώσουν τα μέλη στο ring για να μην φαίνετε κλεμμένο μετά από καιρό απλός άλλαξαν του αριθμούς ελάχιστα. Υπάρχουν πολλά τέτοια περιστατικά και όχι μόνο για το webring. Όπως βλέπετε παρόλο που επισκέπτομαι την αναφορά μου περίπου 3-4 φορές την εβδομάδα αυτή έχει υπερβολικά πολλά hits, και γενικά υπάρχουν αποδείξεις για την αντιγραφή.
+Το συγκεκριμένο Webring ήταν το πρώτο που είχε animation. Επιπλέων όπως ανέφερα μεγάλωσα και το μέγεθος του κύκλου και πρόσθεσα αρκετά features. Αυτό κάποιοί αποφάσισαν να το εκμεταλλευτούν και χωρίς να κάνουν fork κατέβασαν τον κώδικα από το δικό μου αποθετήριο και τον χρησιμοποίησαν ως δικό τους αλλάζοντας μόνο κάποια css elements. Μάλιστα όπως ανέφερα και στο μάθημα μία από της ομάδες που φαίνετε να πήραν τον κώδικα είχαν αφήσει για αρκετό χρονικό διάστημα το ring "τους" να έχει 9 μέλη με όνομα "NAME NAME NAME NAME..." καθώς η ομάδα τους δεν είχε 9 μέλη αλλά ήταν κλεμμένο από την δική μου. Δηλαδή ο κόπος μου πήγε σε κάποιους που δεν ήξεραν ούτε πώς να μειώσουν τα μέλη στο ring για να μην φαίνετε κλεμμένο. Μετά από καιρό απλός άλλαξαν του αριθμούς ελάχιστα. Υπάρχουν πολλά τέτοια περιστατικά και όχι μόνο για το webring αλλα και στο bio μου. Όπως βλέπετε παρόλο που επισκέπτομαι την αναφορά μου περίπου 3-4 φορές την εβδομάδα αυτή έχει υπερβολικά πολλά hits, και γενικά υπάρχουν αποδείξεις για την αντιγραφή.
+[link στοιχείων](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/temp)
 -->
 
 #### Link προς το organization της ομάδας μου: [Git's PopTeamEpic GitHub Organization](https://github.com/Git-s-PopTeamEpic)<br>
+#### Link προς το repository συνομιλίας που διοργάνωσα στην ομάδα: [Pop-Discussion-Repo](https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions)
 #### Link προς το webring της ομάδας μου: [Git's PopTeamEpic Webring](https://git-team-epic-webring.netlify.app/)<br>
 #### Link προς το repository του webring της ομάδας μου: [Git's PopTeamEpic Webring Repository](https://github.com/Git-s-PopTeamEpic/TeamWebring)<br>
 
@@ -110,7 +118,7 @@
 #### Link προς τα merged pull request μετά απο την λύση του γνωστού προβλήματος με το submodule: [sitegr/335](https://github.com/ioniodi/sitegr/pull/335) και [all_collections/27](https://github.com/ioniodi/all_collections/pull/27)
 
 # 4ο Παραδοτέο - Εγκατάσταση systemd-less linux distro
-Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Αυτήν την εβδομάδα δοκίμασα το kiss και το funtoo αναζητώντας ένα σύστημα που θα μου ταιριάζει, με ένα καλό community και μου θα είναι αρκετά ευλύγιστο.<br>
+Σε αυτό το παραδοτέο ξεκίνησα την εγκατάσταση ενός systemd less linux distro. Αυτήν την εβδομάδα δοκίμασα το kiss και το funtoo αναζητώντας ένα σύστημα που θα μου ταιριάζει, με ένα καλό community και μου θα είναι αρκετά ευλύγιστο. Μεγάλο μέρος του παραδοτέου ήταν η έρευνα.<br>
 
 Για το funtoo έγιναν διεργασίες όπως εγκατάσταση dependencies, kernel, stage 3, disk and partition formatting, file system management, portage, grep boot-loader και άλλα. Μέσα από αυτήν την διαδικασία έμαθα πολλά για την διαδικασία εγκατάστασης των systemd-less distro και ακόμα περισσότερα για την δομή τους. Έμαθα διάφορους αντικαταστάτες τους systemd όπως το openrc, το s6, το runnit, το suite66 και πολλά άλλα και έψαξα για τις διαφορές τους.<br>
 
@@ -128,15 +136,22 @@
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/MidnightBSD/MidnightBSD10Done.jpg" width="300px">
 </p>
 
-Πέρα από αυτό επισκέφθηκα και διάφορα forum για να μάθω περισσότερα για την οπτική και την νοοτροπία των ατόμων μου επιλέγουν τέτοια συστήματα και να μάθω τι προσδοκούν μέσα από αυτό αλλά και τις δυνατότητες και τις διαφορές αυτών των συστημάτων. Μου έκανε εντύπωση το πείσμα και η οπτική μερικών όπως και το σύνθημα " If this is the solution, I want my problem back." αναφερόμενοι στα συστήματα με systemd, είναι ενδιαφέρον.<br>
+Πέρα από αυτό επισκέφθηκα και διάφορα forum για να μάθω περισσότερα για την οπτική και την νοοτροπία των ατόμων μου επιλέγουν τέτοια συστήματα και να μάθω τι προσδοκούν μέσα από αυτό αλλά και τις δυνατότητες και τις διαφορές αυτών των συστημάτων. Μου έκανε εντύπωση το πείσμα και η οπτική μερικών όπως και το σύνθημα " If this is the solution, I want my problem back." αναφερόμενοι στα συστήματα με systemd, είναι ενδιαφέρον. Δεν μπορώ να διανοηθώ ότι άνθρωποι έχουν φτάσει μέχρι και να [απειλήσουν την ζωή άλλων για το systemD](https://web.archive.org/web/20141007181442/https://plus.google.com/app/basic/stream/z13rdjryqyn1xlt3522sxpugoz3gujbhh04) και η κατάσταση γύρο από αυτό μου φαίνετε όλο και πιο γελοία όσο το ερευνώ.<br>
 
-Οι εγκαταστάσεις ολοκληρώθηκαν αλλά δέν έχω αποφασίσει ακόμα το τελικό μου σύστημα καθώς εξερευνώ διάφορα ωστόσω αποφάσισα να κάνω ένα φάκελο που θα κρατάω μερικές εικόνες απο τις εγκαταστάσεις των συστημάτων μου (τουλάχιστων απο αυτά που θυμήθικα να τραβίξω φωτογραφίες, είναι περισσότερες από ότι δείχνω εδώ) και θεώρισα οτι θα ήταν καλή ιδέα να τα παρέχω και στην αναφορά μου.<br>
+### Τι παίζει με system[X] και άλλα πακέτα...
+Παράλληλα έχω ήδη ξεκινήσει και την αναζήτηση άλλων συστημάτων και τείνω προς το Artix. Μου έγινε γνωστό πως η βασική αρχή στα unix συστήματα ήταν το system V με το sysinit όπου στόχευε σε ένα στατικό περιβάλλον. Το στατικό προφανώς δεν βόλευε επομένως έγινε η κίνησε σε κάτι πιο δυναμικό. Διάβασα ότι το Upstart είχε έρθει για να αντιμετώπιση μερικά από τα βασικά εμπόδια του systemV αλλά του έλλειπε ο παραλληλισμός κάτι που άνοιξε την ευκαιρία για το systemD να έρθει και να καλύψει αυτό το κενό. Το systemD φαίνεται να προέρχεται από ένα daemon της Apple με όνομα LaunchD εξου και το D. Το systemd προσπαθεί να χρησιμοποιήσει τα πάντα παράλληλα για να μην αφήνει αχρησιμοποίητο υλικό ενώ το systemV ήταν σειριακό. Όλα παίζονταν στο PID 1. Φαίνετε το όραμα για το SystemD ήταν να είναι ένα πακέτο δημιουργίας λειτουργικών. Πολύ απλά μισούν τον Lennart Poettering ο οποίος δεν έχει φοβηθεί να πεί διμόσια για το πόσο τοξικη είναι η κοινότιτα του linux (και συμγωνω).<br>
+
+Ένα άλλο πολύ σημαντικό κομμάτι είναι ότι το systemD ξεφεύγει από την φιλοσοφία του Unix, πάνω στην οποίο έχουμε ακούσει να λέει παρόμοια ο Kay στα αμέτρητα βίντεο. Είναι ότι κάτι πρέπει να επικεντρώνετε μόνο σε ένα πράγμα και να το κάνει καλά. Όχι πολλά και με μη αποδοτικά. Σίγουρα όμως όσοι είχαν βολευτεί και εντρυφήσει στα παλιά συστήματα μπορεί απλός να μην τους άρεσε που τόσο καιρό που έγραφαν scripts και hacks για να επιτύχουν μία ρύθμιση και να κάνουν το σύστημα τους δικό τους, και τώρα ξαφνικά να είναι όλα έτοιμα σε ένα αχανές πακέτο… Ή μάλλον καλύτερα “πακέτα”. Διότι ένα άλλο παράπονο που διαβάζω είναι για τα άπειρα dependencies που είναι πραγματικά κάτι πολύ ενοχλητικό και μου έχει δημιουργήσει και εμένα προβλήματα. Είναι πρακτικά ένα μεγάλο κομμάτι πιθανής βλάβης. Πραγματή το σύστημα Artix που έχω πλέων είναι πολύ πιο “ακομπλεξάριστο” με το ότι κάνω. Και φύσικα άλλος ένας λόγος είναι η πολυπλοκότητα του και ο σχεδιασμός του, που φαίνετε να απέχει από αυτά που ακούγαμε στα βίντεο. Το systemD βασίζετε σε πάρα πολλά binaries (69 μάλιστα) και σύμφωνα με πιγές ο κώδικας του ξεπερνάει τις 1 εκατομμύριο γραμμές, πράγμα μη διαχειρίσιμο και γι' αυτό έχω δεί κόσμο να το αποκαλεί και bloatware.<br>
+
+Σύμφωνα με τα παραπάνω καταλαβαίνω απόλυτα την στροφή σε κάτι systemd-less για ένα προγραμματιστή στο μάθημα της τεχνολογίας λογισμικού ωστόσο δεν μπορώ να παραβλέψω ότι το systemd προσφέρει μία άνεση σε όχι τόσο έμπυρους χρήστες. Φυσικά και σε προγραμματιστές που δεν ασπάζονται τέτοια πρότυπα ούτε ακολουθούμε όλοι το ίδιο design. Όλα υπάρχουν για κάποιο λόγο. Στο επόμενο παραδοτέο εγκατάστασης θα εξηγήσω γιατί επέλεξα το πακέτο που επέλεξα.<br>
+
+Επιστρέφοντας στο κλίμα του παραδοτέου να αναφέρω ότι οι εγκαταστάσεις ολοκληρώθηκαν αλλά δέν έχω αποφασίσει ακόμα το τελικό μου σύστημα καθώς εξερευνώ διάφορα ωστόσω αποφάσισα να κάνω ένα φάκελο που θα κρατάω μερικές εικόνες απο τις εγκαταστάσεις των συστημάτων μου (τουλάχιστων απο αυτά που θυμήθικα να τραβίξω φωτογραφίες, είναι περισσότερες από ότι δείχνω εδώ) και θεώρισα οτι θα ήταν καλή ιδέα να τα παρέχω και στην αναφορά μου.<br>
 
 #### Link με μερικές εικόνες απο την εγκατάσταση του funtoo: [PicturesForLessons/CustomLinuxDistro/Funtoo](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Funtoo)<br>
 #### Link με μερικές εικόνες απο την εγκατάσταση του MidnightBSD: [PicturesForLessons/CustomLinuxDistro/MidnightBSD](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/MidnightBSD)<br>
 
 #### Link από μερικές πηγές που ερεύνησα (επίσεις ενδιαφέρον οτι τα περισσότερα link είναι .org):
-[funtoo.org/Install](https://www.funtoo.org/Install/Introduction) | [The systemd-less forum](https://www.linuxquestions.org/questions/linux-general-1/systemd-less-4175534946/) | [Project:OpenRC](https://wiki.gentoo.org/wiki/Project:OpenRC) | [skarnet.org/software/s6](https://skarnet.org/software/s6/) | [smarden.org/runit/](http://smarden.org/runit/) | [kisslinux.org/install](https://kisslinux.org/install) | [www.midnightbsd.org](https://www.midnightbsd.org/download/) | [nosystemd.org](https://nosystemd.org/) | [More about being systemd-less](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) | [en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd) | [Reddit talk: what_is_systemd_and_why_is_it_so](https://www.reddit.com/r/linux4noobs/comments/1wznfr/eli5_what_is_systemd_and_why_is_it_so/) | [Reddit talk: why_dont_you_like_systemd](https://www.reddit.com/r/linuxmasterrace/comments/sfz4qm/why_dont_you_like_systemd/)
+[funtoo.org/Install](https://www.funtoo.org/Install/Introduction) | [The systemd-less forum](https://www.linuxquestions.org/questions/linux-general-1/systemd-less-4175534946/) | [Project:OpenRC](https://wiki.gentoo.org/wiki/Project:OpenRC) | [skarnet.org/software/s6](https://skarnet.org/software/s6/) | [smarden.org/runit/](http://smarden.org/runit/) | [kisslinux.org/install](https://kisslinux.org/install) | [www.midnightbsd.org](https://www.midnightbsd.org/download/) | [nosystemd.org](https://nosystemd.org/) | [More about being systemd-less](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) | [en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd) | [Everyone Hates systemd](https://betterprogramming.pub/why-most-linux-users-hate-systemd-c591eef3d034) | [Reddit talk: what_is_systemd_and_why_is_it_so](https://www.reddit.com/r/linux4noobs/comments/1wznfr/eli5_what_is_systemd_and_why_is_it_so/) | [Reddit talk: why_dont_you_like_systemd](https://www.reddit.com/r/linuxmasterrace/comments/sfz4qm/why_dont_you_like_systemd/) | [Pwnies Awards systemd bugs](https://pwnies.com/systemd-bugs/)
 
 # 5ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
 ## Set-up ομάδας
@@ -150,6 +165,8 @@
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/UpdatingSubmodulesWithHakUpdateSubmodules.png" width="400px">
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%20F2/EnablingProtectionRulesKuhakuNeko.png" width="320px">
 </p>
+
+#### Link προς το post μου για την διαδικασία συνησφοράς: [post](https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10)
 
 ## H δική μου συνεισφορά (Α1 + Α2)
 Για το Α μέρος του συμμετοχικού περιεχομένου αποφάσισα να βρω φωτογραφίες και να κάνω διαφάνειες και ένα χρονολόγιο για 2 παιχνίδια που έπαιξαν μεγάλο ρόλο για εμένα προσωπικά αλλά θεωρώ και πρότυπα για το κόσμο του προγραμματισμού και της ανάπτυξης ψυχαγωγικού λογισμικού καθώς έχουν να προσφέρουν πολλά από τον τρόπο τον οποίο κατασκευάζονται. Αυτά τα παιχνίδια είναι το VRChat και το Osu! και η ιστορία τους (αν και τα τελευταία χρόνια γνωρίσαν την μεγαλύτερη άνοδό τους) ξεκίνησε από πολύ παλιά. Το κοινό αυτών των παιχνιδιών είναι ότι είναι ιδιαίτερα συνδεδεμένα με τις κοινότητες τους καθώς πρόκειται για παιχνίδια που οποιοσδήποτε θα μπορούσε να συνεισφέρει στο ανοικτό λογισμικό τους (π.χ. [official Osu! στο github](https://github.com/ppy/osu)). Το υλικό και το οικοσύστημά τους βασίζετε στις κοινότητές τους με τους παίκτες να μπαίνουν στην θέση του προγραμματιστή-δημιουργού χωρίς να μένουν άπραγοι σε ένα μεγάλο εγχείρημα/project. Με την απερχόμενη άνοδο εικονικών κόσμων όπως το metaverse που κατά πάσα πιθανότητα φαίνεται να καταλήξει να βρίσκετε υπό την πλήρη επήρεια του κολοσσού της πληροφορικής, Facebook, θεώρησα ότι είναι σημαντικό να σημειώσω την σημαντικότητα του ανοικτού λογισμικού και ότι τα ανοικτά λογισμικά έχουν μία πολύ πιο μακροχρόνια πορεία και διάρκεια ζωής αφήνοντας τους χρήστες πολύ πιο ελεύθερους χωρίς την επίβλεψη και τον εγκλεισμό τους από τις ιδέες και τους στόχους των μεγάλων εταιριών.<br>
@@ -186,7 +203,11 @@
 # 6ο Παραδοτέο - Συνέχεια εγκατάστασης systemd-less linux distro
 Συνεχίζοντας την αναζήτηση ενός συστήματος που να μην κάνει χρήση του systemd αυτην την εβδομάδα κατάφερα να καταλήξω σε ένα σύστημα που μου φαίνετε πως πραγματικά μου ταιριάζει. Αυτό που έψαχνα είναι ένα σύστημα που να μην είναι εύκολα birckable (όπως κατέλιξε τελικά το funtoo μου), να έχει ένα ενεργό και φιλικό community, να είναι ιδιαίτερα εύκαμπτο για να έχει νόημα αυτή η αλλαγή, να τρέχει ικανοποιητικά σε έναν υπολογιστή μέτριων επιδόσεων, να είναι πραγματικά ενεργό, και να μου επιτρέπει να προσθέτω καλλιτεχνικές πινελιές που αναφέρω και στην εισαγωγή μου. Αυτό το σύστημα είναι το Artix Linux. Ένα σύστημα με χαρακτηριστικά από το Arch που έρχεται σε διάφορα πακέτα χωρίς systemd, (οι επιλογές είναι πολλές όπως αυτές του openrc και του s6), και σε αφήνει να προσθέσεις εσύ την δική σου γραφική διεπαφή αν την χρειαστείς. Το Artix αυτοαποκαλείται "The Art of Linux Simple. Fast. Systemd-free." και αυτό είναι κάτι που με τράβηξε, φαίνονταν πολλά υποσχόμενο και κοντά σε αυτό που έψαχνα και όπως θα δείτε παρακάτω δεν απογοητεύει.<br>
 
-Έχοντας κατακτήσει πλέων πολλές γνώσεις από τις προηγούμενες εβδομάδες για την εγκατάσταση των συστημάτων και τα βήματα που χρειάζονται (κυρίως μέσω του funtoo), η εγκατάσταση του Artix Linux ήταν "σχετικά ανώδυνη" πλέων. Φαίνετε ότι η εγκατάσταση τέτοιων τύπων συστημάτων είναι σχετικά "universal" καθώς εγώ κατάφερα να το εγκαταστήσω ακολουθώντας πρακτικά το [guide](https://www.funtoo.org/Install) της σελίδας του funtoo και με λίγη βοήθεια από τα forum του Artix. Επομένως έκανα βήματα όπως manual partitioning, file system management, εγκατάσταση dependencies κ.α.. Και έτσι κατέληξα στην γραμμή εντολών έχοντας ένα systemd-less σύστημα!<br>
+Στο προηγούμενο παραδοτέο εγκατάστασης εξηγώ τον λόγο της επιλογής και μερικά προτερήματα του γιατί να θες systemd-less σύστημα. Συγκεκριμένα με το Artix είχα την επιλογή να έχω είτε s6, runit, suite66, και openrc. Μετά από όσα είδα και στο funtoo κατέληξα στο openrc μετά από συνέχεια της έρευνάς μου, διότι μου φάνηκε ξεχωριστό και κατάληλο. Αρχικά όπως ανάφερα ήθελα κάτι με ένα καλό και ενεργό community πέρα ότι το Artix έχει, έμαθα ότι το runit παρόλο που είναι μία δημοφιλής επιλογή έχει να ενημερωθεί από το 2014, πράγμα που με έκανε να το αποφύγω άμεσα. Δυστυχώς το s6 παρόλο που έχει καλό documentation και πολύ λίγες γραμμές κώδικα δεν έχει κερδίσει ακόμα πολύ traction και φαίνετε να στοχεύει σε πολύ χαμηλό επίπεδο επομένως λόγο και του λίγου χρόνου δεν το επέλεξα αλλά θεωρώ ότι έχει πολύ μέλλον και είναι πολύ καλό επομένως έρχεται δεύτερο. Το suite66 είναι επίσης ένα warpper πάνω στο s6 επομένως προφανώς πρώτα θα επέλεγα το s6 και μετά το suite66 και έτσι δεν το επέλεξα.<br>
+
+Το openrc βασίζετε και στην C και σε Shell σε σχέση με τα υπόλοιπα, είναι γρήγορο μου φαίνετε πολύ αξιόπιστο, τρέχει σε όλα τα POSIX συστήματα, και έχει άδεια BSD-2-Clause ενώ συνεχίζετε να υπάρχει υποστήριξη. Επίσης εγώ προσωπικά μπόρεσα να συνηθίσω της εντολές του πιο εύκολα από τα υπόλοιπα μάλλον κυρίως και από τις προσπάθειές μου στο funtoo, και ήθελα να ξεφύγω λίγο από το κλασσικό τρόπο αντιμετώπισης για να νοιώσω την διαφορά. Το openrc εξάλλου έχει γραφτεί από την Gentoo, είναι φυσικά dependency based και προσπαθούσε να διατηρήσει συμβατότητα με το sysvinit, που είναι κάτι που ήθελα να δω εφόσον έμαθα την ιστορία του που ανέλυσα στο προηγούμενο παραδοτέο. Πραγματικά μου φαίνετε η πιο σωστή επιλογή και δεν έχω μετανιώσει ως τώρα, θα ήθελα όμως να δοκιμάσω κάποια στιγμή και το s6 που φαντάζομε θα γίνει πιο pop τα επόμενα χρόνια διότι φαίνετε πολύ καλή επιλογή.<br>
+
+Έχοντας κατακτήσει πλέων πολλές γνώσεις από τις προηγούμενες εβδομάδες για την εγκατάσταση των συστημάτων και τα βήματα που χρειάζονται (κυρίως μέσω του funtoo), η εγκατάσταση του Artix Linux ήταν "σχετικά ανώδυνη" πλέων. Φαίνετε ότι η εγκατάσταση τέτοιων τύπων συστημάτων είναι σχετικά "universal" (Λογικό διότι το OpenRC είναι από την Gentoo οπότε πίγε καλα) καθώς εγώ κατάφερα να το εγκαταστήσω ακολουθώντας πρακτικά το [guide](https://www.funtoo.org/Install) της σελίδας του funtoo και με λίγη βοήθεια από τα forum του Artix. Επομένως έκανα βήματα όπως manual partitioning, file system management, εγκατάσταση dependencies κ.α.. Και έτσι κατέληξα στην γραμμή εντολών έχοντας ένα systemd-less σύστημα!<br>
 
 <p align="center">
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/CustomLinuxDistro/Artix/MyArtixCommandLine.png">
@@ -205,6 +226,18 @@
 
 #### Asciinema link για το neofetch + dmesg του Artix distro μου: [Proof that Artix Linux is installed on my computer - p2019108](https://asciinema.org/a/CfATveHNcoH23fTjl5mewkYIj)
 #### Link με μερικές εικόνες απο την εγκατάσταση του Artix: [PicturesForLessons/CustomLinuxDistro/Artix](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/CustomLinuxDistro/Artix)<br>
+
+### Update:
+Μετά από προτροπή και στις συναντήσεις να ασχοληθώ και με κάτι πιο καλλιτεχνικό πάνω στο σύστημα το οποίο είναι κάτι που γράφω και στην εισαγωγή μου, μου προτάθηκε να επισκεφτώ διάφορα forum με skins για διάφορα window managers. Ήδη είχα τροποποίηση ελαφρός τον xcfe και δοκίμασα διάφορους άλλους αλλά θέλοντας να ασχοληθώ και λίγο με τα dot files που φαίνετε να μπορούν να κάνουν εξαιρετικά πράγματα αποφάσισα να εφαρμόσω πάνω στο ίδιο σύστημα του artix τον windows manager "ice wm". Έχω μία αγάπη για την παλιά εμφάνιση και ιδικά των windows, επόμενος κάποια στιγμή με περίσσευμα χρόνου δοκίμασα να μετατρέψω στο artix σε μία παλιά μηχανή windows δίνοντας του την παρακάτω εμφάνιση:<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuhakuNeko/PicturesForLessons/main/CustomLinuxDistro/Artix/IceWM_WindowsLike.jpg" width="560px">
+</p>
+
+Επέλεξα αυτό διότι ταιριάζει και με παλιές μου δημιουργίες skin όπως αυτό που είχα δημιουργήσει για τον TMUX που είναι ένας πολυπλέκτης με εξαιρετικές δυνατότητες. Για τον συγκεκριμένο έχω δημιουργήσει και διάφορα shell script με στόχο την ταχύτερη λειτουργία του και μεγαλύτερη άνεση. Επιπλέων για τον TMUX συγκεκριμένα έχω δημιουργήσει ένα ξεχωριστώ skin που ανανέωσα πρόσφατα το οποίο έχει στυλ Windows95 και ταίριαζε πάρα πολύ με την νέα εμφάνιση του συστήματός μου.<br>
+
+#### Link προς το skin config αρχείο και το script: [MyTmuxWindows95BIOSColorTheme.conf](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/MyTmuxWindows95BIOSColorTheme.conf) + [Περισσότερα στο KuhakuNekoLinuxShellScripts repository](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+#### Link εμφάνισης του skin του TMUX μου (παλιό): [Demo for My Tmux config files by KuhakuNeko](https://asciinema.org/a/ial2U20oFMhc2i3IFFupJ2Ipn)
 
 ## Άσκηση γραμμής εντολών - Check the Weather
 Για να "εγκαινιάσω" το σύστημά μου αποφάσισα να κάνω και μία άσκηση γραμμής εντολών τύπου warmup, μόνο για προθέρμανσή. Η άσκηση που επέλεξα ήταν η "Check the Weather", και ζητούσε να δούμε το δελτίο καιρού της πόλης που γεννηθήκαμε και μιας πόλης που θέλουμε να ταξιδέψουμε μέσα από το terminal.<br>
@@ -250,19 +283,20 @@
 # 8ο Παραδοτέο - 2ο Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Το όγδοο παραδοτέο απαιτούσε ένα νέο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος. Ήμουν από τους πρώτους που άνοιξαν issue γι' αυτό το παραδοτέο (από Τετάρτη της εβδομάδας του παραδοτέου) αλλά και πάλι ούτε εγώ ούτε κανένας συμφοιτητής φαίνετε να μπόρεσε να πάρει greenlight στην ώρα του αυτήν την εβδομάδα.
 
-#### 1o issue:
+### 1o issue:
 Για αυτό το παραδοτέο χρειάστηκε να ανοίξω 2 issues. Το πρώτο issue μου αφορούσε την προσθήκη ακαδημαϊκού ημερολογίου στην σελίδα (κάτι εντός κανόνων και είναι νέα λειτουργία), είχα ήδη ξεκινήσει την υλοποίησή του. Για κάποιο λόγο, που δεν μου διευκρινίστηκε ξεκάθαρα (παρόλο που έδωσα ακόμα περισσότερες διευκρινίσεις στο θέμα μου), μου δόθηκαν πολλές ετικέτες στο issue συμπεριλαμβανομένης της wontfix, και έτσι οι συνεργάτες μου δεν μπόρεσαν να προχωρήσουν σε review και εγώ με την σειρά μου σε pull request παίρνοντας green light. Μετά και από συζήτηση δια ζώσης καταλήξαμε ότι τελικά τέτοιου είδους προτάσεις δεν θα γίνονται αποδεκτά παρόλο που διαφωνώ με αυτό και το λόγο τον οποίο κόβονται και έδωσα παραδείγματα και λόγους.<br>
 
-#### 2o issue:
+### 2o issue:
 Έτσι χρειάστηκε να σκεφτώ κάτι καινούριο και ξεχωριστό και πάλι, και έτσι κατέληξα στο δεύτερο μου issue που αφορά την προσθήκη ενός theme switch button. Tο κουμπί αυτό επιτρέπει στο χρήστη την εναλλαγή μεταξύ χρωματικών θεμάτων του site ώστε να μην περιορίζετε στο ήδη υπάρχον mint theme. Κάνοντας κλικ στο κουμπί θα γίνετε εναλλαγή από το default θέμα σε ένα άλλο. Πιστεύω ότι αυτή η προσθήκη είναι σημαντική και δίνει στον χρήστη μεγαλύτερη ελευθερία όπως είδαμε και στο πρόγραμμα παρουσιάσεων του Alan Key με τα διάφορα χρώματα. Ακόμα, η σελίδα ξεφεύγει από το στατικό που είναι αυτό που σου προσφέρει το jekyll και νοιώθει λες και είναι live και πιο διαδραστική, αλλάζοντας θέμα on the fly! Με την προσθήκη αυτής της λειτουργίας το site ξεφεύγει από την χρήση του έτοιμου, συν ότι η αλλαγή σχετίζεται πολύ με την εισαγωγή μου.<br>
 
-Πέρα από αυτό η συνεισφορά αυτή δείχνει το πόσα πολλά έμαθα για την δομή του site και όχι μόνο καθώς η υλοποίηση γίνετε με html, css/scss, και κώδικα liquid και χρειάστηκαν αλλαγές σε πολλά διαφορετικά αρχεία όπως θα φανεί και στο pull request μου. Έμαθα διάφορα tricks με τον κώδικα liquid, έκανα χρίση css και scss και δημιούργησα και δικά μου themes, κατανόησα τις κλάσεις που υπάρχουν στο site και το πώς όλα τα αρχεία συνδέονται και πρόσθεσα δικά μου και τα συμπεριέλαβα σε άλλα με εντολές όπως το @import, έφτιαξα δικές μου κλάσεις και έθεσα διάφορες μεταβλητές, έδωσα ιδιαίτερη προσοχή στην εμφάνιση και αντί για παράδειγμα να αφήσω ένα απλό κουμπί πρόσθεσα το δικό μου svg path ώστε να έχω ένα όμορφο αποτέλεσμα. Μου πείρε αρκετές ώρες για να το τελειοποιήσω αλλά είναι ξεκάθαρο ότι η προσθήκη αυτή με έκανε να κατανοήσω καλά τι κάνω, το τι προσθέτω και γενικότερα όλη την δομή του site ώστε να κάνω το κουμπί να νοιώθει μέρος του, επιπρόσθετα έμαθα καινούρια πράγματα όπως κώδικα liquid και jekyll. Ο τρόπος υλοποίησης μου ακολουθεί την μορφή του αποθετηρίου και είναι modular και αναβαθμίσιμη προσθήκη.<br>
+Πέρα από αυτό η συνεισφορά αυτή δείχνει το πόσα πολλά έμαθα για την δομή του site και όχι μόνο καθώς η υλοποίηση γίνετε με html, css/scss, και κώδικα liquid και χρειάστηκαν αλλαγές σε πολλά διαφορετικά αρχεία όπως θα φανεί και στο pull request μου. Έμαθα διάφορα tricks με τον κώδικα liquid, έκανα χρίση css και scss και δημιούργησα και δικά μου themes, κατανόησα τις κλάσεις που υπάρχουν στο site και το πώς όλα τα αρχεία συνδέονται και πρόσθεσα δικά μου και τα συμπεριέλαβα σε άλλα με εντολές όπως το @import, έφτιαξα δικές μου κλάσεις και έθεσα διάφορες μεταβλητές, έδωσα ιδιαίτερη προσοχή στην εμφάνιση και αντί για παράδειγμα να αφήσω ένα απλό κουμπί πρόσθεσα το δικό μου svg path ώστε να έχω ένα όμορφο αποτέλεσμα. Μου πείρε αρκετές ώρες για να το τελειοποιήσω αλλά είναι ξεκάθαρο ότι η προσθήκη αυτή με έκανε να κατανοήσω καλά τι κάνω, το τι προσθέτω και γενικότερα όλη την δομή του site ώστε να κάνω το κουμπί να νοιώθει μέρος του, επιπρόσθετα έμαθα καινούρια πράγματα όπως κώδικα liquid και jekyll, και νοιώθω ότι μπορώ να ανταποκριθώ πολύ καλύτερα σε μελλοντικές προκλήσεις. Ο τρόπος υλοποίησης μου ακολουθεί την μορφή του αποθετηρίου και είναι modular και αναβαθμίσιμη προσθήκη.<br>
 
 <p align="center">
   <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%208%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/DemoGIF.gif" width="380px">
 </p>
 
-Όταν πάρω green light θα προσθέσω και τα ανάλογα pull requests.<br>
+### Συμαντικό Update:
+Σύμφωνα με το τελευταίο σχόλιο το οποίο συζητήθηκε και σε συνάντηση ούτε το νέο issue Θα γίνει δεκτό παρόλο που καλύπτει όλα τα παραπάνω που αναφέρω. Όπως είπαμε και στην συνάντηση του μαθήματος δεν προβλήθηκε καν ο κώδικας μάς στο οποίο σε [αυτό](https://github.com/ioniodi/sitegr/issues/398#issuecomment-1111147556) το σχόλιο γίνετε αναφορά σε διπλασιασμό του, επομένως το θεωρώ εντελώς παράλογο γιατί πραγματικά ο κώδικας δεν ξεπερνάει το σύνολο του έργου ούτε κατά διάνυα και υπάρχουν ήδη πολύ χειρότερες προσθήκες εντός του που κάνουν ακριβώς αυτό και τις δείξαμε και στην συνάντηση. Πέρα από αυτό θεωρώ πως δεν είναι σωστό να γίνονται εικασίες χωρίς καν να έχουμε ρίξει μια ματιά στον κώδικά μου ο οποίο είναι modular εύκολα μπορούνε να γίνουν αλλαγές και έχει βλέψεις στο μέλλον ενώ υλοποιεί κάτι το ξεχωριστώ το οποίο φαίνεται δυναμικό ενώ δουλεύουμε με στατικά εργαλεία. Τέλος να αναφέρω ότι δεν θεωρώ τον Key κακό αλλά σίγουρα δεν είναι ο μόνος που έχει γνώμη πάνω στο πώς χτίζετε ένα λογισμικό, αλλά και πάλι αν μόνο ασπαζόμαστε αυτών στο συγκεκριμένο έργο δεν νομίζω ότι ισχύουν η αναφορές σε αυτό το σχόλιο. Δεν μπορώ να δω πώς διπλασιάζετε ο κώδικας και εξήγησα γιατί και επίσης δεν μπορώ να δω γιατί δεν υπάρχει όφελός σε κάτι τέτοιο διότι είναι μία λειτουργία με μέλλον και κάνει κάτι παρόμοιο με αυτά που έδειξε ο Key σε βίντεο. Επιπλέον στο μέλλον μπορεί από φοιτητές να μεταμορφωθεί πέρα από ένα κουμπί εμφάνισης σε κουμπί αλλαγής δομής και τοποθέτησης διότι θεωρώ ότι ο κώδικας είναι τίμιος και ήταν δύσκολος στην υλοποίηση. Επιπλέων απέδειξα που παρόλο που είναι δύσκολη η εύρεση δεύτερου θέματος εγώ μπόρεσα να βρω 2 πράγματα από το 0 που λείπουν και μπορούν να ενθουσιάσουν και να προσφέρουν και τα δικαιολόγησα σε όλες τις συναντήσεις. Παρόλο ότι μου διευκρινίστηκε ότι το παραδοτέο θα πάρει άριστο βαθμό το θεωρώ κρίμα να χάνονται τίμιες συνεισφορές για πράγματα που δεν ισχύουν ούτε έχουν μελετηθεί εις βάθος.<br>
 
 #### Link προς το 1ο issue: [sitegr/issues/376](https://github.com/ioniodi/sitegr/issues/376)<br>
 #### Link προς το 2ο issue: [sitegr/issues/398](https://github.com/ioniodi/sitegr/issues/398)<br>
@@ -316,7 +350,7 @@
 #### Link προς το HyperHakuBench shell script στο repository μου: [KuhakuNekoLinuxShellScripts/HyperHakuBench.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/HyperHakuBench.sh)<br>
 
 # 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1 και Β2
-#### Set-up ομάδας
+### Set-up ομάδας
 Και αυτήν την φορά κατασκευάσα ένα καινούριο issue template για την ομάδα σχετικά με την συνησφορά τύπου B1+B2, και ανανέωσα το post της διαδικασίας.
 
 <p align="center">
@@ -337,8 +371,6 @@
 | Include metaverses cs | [cs-metaverses.md](https://github.com/KuhakuNeko/site/blob/2019108_SW/_includes/cs-metaverses.md) |  |  |
 | Myron Krueger image | [Full Quality](https://github.com/KuhakuNeko/images/blob/2019108_SW/krueger-profile.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/2019108_SW/krueger-profile-thumb.jpg) |  |  |
 | Myron Krueger gallery | [krueger-profile.md](https://github.com/KuhakuNeko/_gallery/blob/2019108_SW/krueger-profile.md) | [Myron Krueger gallery](https://p2019108-sw-pibook.netlify.app//gallery/krueger-profile/) | [Myron Krueger gallery](https://gits-team-epic-pibook.netlify.app//gallery/krueger-profile/) |
-
-* Τα links προς το site της ομάδας θα λειτουργήσουν όταν γίνει αποδεκτό το pull request μου.
 
 #### Links προς μερικές από τις πηγές που ερεύνησα:
 [videoplace_paper.pdf](http://dada.compart-bremen.de/docUploads/videoplace_paper.pdf) | [dada.compart-bremen.de/item/agent/527](http://dada.compart-bremen.de/item/agent/527) | [4f009e4a82bc69a494733b4156cca80f.pdf](https://archive.aec.at/media/assets/4f009e4a82bc69a494733b4156cca80f.pdf) | [medienkunstnetz.de/works/videoplace/](http://www.medienkunstnetz.de/works/videoplace/) | [medienkunstnetz.de/artist/krueger/biography/](http://www.medienkunstnetz.de/artist/krueger/biography/) | [wikipedia/Myron_Krueger](https://en.wikipedia.org/wiki/Myron_W._Krueger) | [aboutmyronkrueger.weebly.com](https://aboutmyronkrueger.weebly.com/) | [/thedigitalage.pbworks.com/w/page/22039083/Myron%20Krueger](http://thedigitalage.pbworks.com/w/page/22039083/Myron%20Krueger) | [historyofinformation.com entryid=4699](https://www.historyofinformation.com/detail.php?entryid=4699) | [elmcip.net/creative-work/videoplace](https://elmcip.net/creative-work/videoplace) | [wikipedia/Videoplace](https://en.wikipedia.org/wiki/Videoplace) | [dada.compart-bremen.de/item/artwork/1346](http://dada.compart-bremen.de/item/artwork/1346) | [aboutmyronkrueger.weebly.com/videoplace](https://aboutmyronkrueger.weebly.com/videoplace.html) | [dl.acm.org/doi/10.1145/1165385.317463](https://dl.acm.org/doi/10.1145/1165385.317463) | [aboutmyronkrueger.weebly.com/metaplay](https://aboutmyronkrueger.weebly.com/metaplay.html) | [dada.compart-bremen.de/item/artwork/1348](http://dada.compart-bremen.de/item/artwork/1348) | [Myron Krueger - Videoplace, Responsive Environment, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo) | [Myron Krueger's Critter](https://www.youtube.com/watch?v=VdrujesfIBQ) | [Videoplace (1985)](https://www.youtube.com/watch?v=d4DUIeXSEpk) 
@@ -363,7 +395,7 @@
 Μετά από τις αλλαγές στο script πείρα το παρακάτω αποτέλεσμα (υπάρχει και link προς το blog μου παρακάτω):<br>
 
 <p align="center">
-  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%2011%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Screenshot%202022-05-14%20Kuhaku%20Blog.png" width="640px">
+  <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/SW%2011%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Screenshot%202022-05-14%20Kuhaku%20Blog.png" width="680px">
 </p>
 
 Στο asciinema κάνω ένα απλό showcase του Hakubb.sh (που είναι η παραλλαγή μου πάνω στο BashBlog)
@@ -373,6 +405,7 @@
 - Δημιουργώ ένα φάκελο εικόνων.
 - Εμφανίζω όλα τα post μου (δείχνοντας την δυνατότητα του script να κάνει track τις δημιουργίες).
 - Εμφανίζω όλα τα tags μου.
+- Δείχνω την δυνατότης rebuild που σου επιτρέπει σε περίπτωση που αλλάξεις κάτι στο script να "ξανακτίσεις" όλες τις σελίδες για να διατηρηθεί ομοιόμορφο στυλ.
 - Το κάνω push στο repository μου στο GitHub.
 - Και το blog μου είναι έτοιμο καθώς η δουλεία γίνετε από τις αλλαγές μου στο script.
 Πράγματι αυτό το generator μπορεί να δημιουργήσει νέες σελίδες και posts μέσα από των συγκεκριμένων template που του δίνω και τα διατηρεί σε όλο το οικοσύστημα της σελίδας.
