@@ -83,3 +83,6 @@
 
 ## Άσκηση γραμμής εντολών (11ο Παραδοτέο)
 Για το 11ο Παραδοτέο ανέπτυξα και άλλο την χρήση του ntfy που είχα εγκαταστήσει στο 6ο παραδοτέο. Κατασκεύασα κάποια scripts για το update και το upgrade του συστήματος οπού όταν τελειώσουν το ntfy με ειδοποιεί μέσο της εφαρμογής του και του telegram αντίστοιχα. Επίσης έκανα και ένα script για speedtest οπου το ntfy μου αποστέλλει τα αποτελέσματα της μέτρησης (download, upload, ..) και ένα με για το youtube-dl στο οποίο ο χρήστης με την χρήση flag δίνει το url του βίντεο που θέλει να κατεβάσει και το format (mp4, audio-only) που επιθυμεί.
+
+![ntfy scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/ntfy_up_speed_yt.jpg)
+![telegram scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/telegram_upgrade_yt.jpg)
