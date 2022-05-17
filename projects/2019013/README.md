@@ -17,7 +17,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Επιτυχής μετατροπή του βιογραφικού μου σε μορφη pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία software. |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | <li><a href="#Συμμετοχικό περιεχόμενο Β1&Β2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο Β1&Β2</span></a> |  <i><a href="https://github.com/courses-ionio/help/discussions/642" title="Discussions">Discussions</a></i> |  Επιλογή μελέτη περίπτωσης και βιογραφία. Δυσκολία στην προσθήκη τους στο Netlify. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -112,5 +112,12 @@ Github Profile: https://github.com/AnastasiaMariaStefani
    
    Βιβλιογραφία:
      <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
+       
+       
+       
+  <h2><span id="Συμμετοχικό περιεχόμενο Β1&Β2">Συμμετοχικό περιεχόμενο Β1&Β2</span></h2>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/OpenBSB.md" title="Μελέτη Περίπτωσης">Μελέτη Περίπτωσης</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Theo%20de%20Raadt.md" title="Βιογραφία">Βιογραφία</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/issues/8" title="Issueς">Issue</a>
        
        
