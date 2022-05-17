@@ -48,7 +48,13 @@ Github Profile: https://github.com/AnastasiaMariaStefani
       
 <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
-  Για το 4ο παραδοτέο απαιτούνταν η ολοκλήρωση 2 ασκήσεων γραμμής εντολών, η οποία έγινε με την βοήθεια του terminal του Ubuntu. Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema.
+  Για το 4ο παραδοτέο χρειάστηκε να γίνει η εγκατάσταση ενός νέου λογισμικού χωρίς systemd. Επέλεξα να χρησιμοποιήσω το Void Linux, καθώς είδα την εφαρμογή του και από άλλους συμφοιτητές μου, ενώ μου φάνηκε και αρκετά εύκολο, από την στιγμή που δεν είχα ξανά δουλέψει με κάτι παρόμοιο. Παρά τις κάποιες δυσκολίες που αντιμετώπισα κατά την διαδικασία της εγκτατάστασής του, τελικά ολοκληρώθηκε με επιτυχία. Για περαιτέρω εξάσκηση, έτρεξα και μια άσκηση γραμμής εντολών.
+   
+   <br><p aligh="center">
+   <img width="1000" height="518" src="https://postimg.cc/SJZT8D6R">
+   </p>
+   
+   Asciinema: [Check the weather](https://asciinema.org/a/pa7PLJU4W2SEd36MA07Q2fTZs)
    
    Βιβλιογραφία:
      <li>[Asciinema](https://asciinema.org/)
@@ -70,6 +76,8 @@ Github Profile: https://github.com/AnastasiaMariaStefani
  <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
   Για το 6ο παραδοτέο ολοκλήρωσα την εκτέλεση μίας άσκησης γραμμής εντολών με την βοήθεια του Void Linux.
+       
+  Asciinema: [Search the web from the terminal](https://asciinema.org/a/2z1gP3f9kk43wlhRWlchiQou0)
    
    Βιβλιογραφία:
      <li>[Asciinema](https://asciinema.org/)
