@@ -364,8 +364,43 @@
 
 <br><br>
 <h1><span id="Άσκηση γραμμής εντολών software 2">(11) Άσκηση γραμμής εντολών software 2</span></h1> 
-Προς συμπλήρωση..
+Για το ενδέκατο παραδοτέο έπρεπε να υλοποιήσουμε μια άσκηση γραμμής εντολών από την κατηγορία software στην [λίστα](https://github.com/epidrome/dokey) με τις ασκήσεις. Επέλεξα να κάνω αυτή με το εργαλείο **twilio** καθώς έμοιαζε με την προηγούμενη άσκηση που επέλεξα να κάνω (με το ntfy) και ήταν λίγο πιο περίπλοκη γιατί σε συνεργασία με την **python** ζητούσε την λήψη μηνύματος ή/και κλήσης στο κινητό τηλέφωνο.
   
+<br>Αρχικά, δημιούργησα έναν λογαριασμό στο [Twilio](https://www.twilio.com/), συνέδεσα τον προσωπικό μου αριθμό με τον λογαριασμό και μου δόθηκαν ένας *αριθμός twilio* από τον οποίο θα λάμβανα μήνυμα/κλήση, ένα προσωπικό *account_sid* και ένα *auth_token* που θα μου φαινόντουσαν χρήσιμα κατά την δημιουργία των python scripts για message και call. Ύστερα, εγκατέστησα το twilio μέσω τερματικού (στο Alpine Linux) με την εντολή `pip install twilio`.
+
+<br>Αφού ολοκληρώθηκε η εγκατάσταση δημιούργησα δύο python scripts με την εντολή `vi file_name.py`, ένα για την λήψη μηνύματος και ένα για κλήση. Τα scripts που δημιούργησα ήταν τα παρακάτω:  
+
+**Για το μήνυμα** όπου στο body έβαλα τι μήνυμα ήθελα να λάβω
+<p align="center">
+<img width="664" height="268" src="https://i.postimg.cc/cCzJmZLR/twilio-message.png">
+<p/>
+<br>
+
+**Για την κλήση** όπου στο url έβαλα ένα default που βρήκα στην ιστοσελίδα του twilio
+<p align="center">
+<img width="607" height="268" src="https://i.postimg.cc/HxxHPKKB/twilio-call.png">
+<p/>
+<br>
+
+Έπειτα από την εκτέλεση των python scripts με την εντολή `python3 file_name.py` τα αποτελέσματα ήταν τα παρακάτω:
+  
+**Το μήνυμα που έλαβα**
+<p align="center">
+<img width="405" height="835" src="https://i.postimg.cc/J7pKLFFj/message.jpg">
+<p/>
+<br>
+
+**Η κλήση που έλαβα**
+<p align="center">
+<img width="405" height="819" src="https://i.postimg.cc/xTq5TRrh/call.jpg">
+<p/>
+<br>
+
+Η παραπάνω διαδικασία φαίνεται στο παρακάτω asciinema μου:
+<p align="center">
+<a href="https://asciinema.org/a/495040" target="_blank"><img src="https://asciinema.org/a/495040.svg" /></a>
+<p/>
+
 <br><br>
 <h1><span id="Τελική Αναφορά και Συμπεράσματα">(12) Τελική Αναφορά και Συμπεράσματα</span></h1> 
 Προς συμπλήρωση..
@@ -387,7 +422,21 @@
 | 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
-  
+
+<br><h5>Εντολές που έτρεξα:
+* `asciinema rec -i 0.5` για να κάνω εγγραφή σε συγκεκριμένη ταχύτητα τις εντολές που θα έτρεχα
+* `neofetch` για να εμφανίσω τις πληροφορίες του συστήματος
+* `vi twilio_message.py` για να δείξω το python script για το μήνυμα
+* `python3 twilio_message.py` για να τρέξει το script μηνύματος
+* `vi twilio_call.py` για να δείξω το python script για την κλήση
+* `python3 twilio_call.py` για να τρέξει το script κλήσης</h5>
+
+<br><h5>Εργαλεία που χρησιμοποίησα:
+* **[twilio-python](https://github.com/twilio/twilio-python)**
+* **[Alpine Linux](https://alpinelinux.org/downloads/)**
+* **[Twilio Website](https://www.twilio.com/)**
+* **[Asciinema](https://asciinema.org/)**</h5>
+
 <br><br>
 <h1><span id="Βίντεο Κουίζ">Βίντεο Κουίζ</span></h1>
 
