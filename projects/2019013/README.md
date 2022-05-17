@@ -55,12 +55,12 @@ Github Profile: https://github.com/AnastasiaMariaStefani
      <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
    
 <h2><span id="Συμμετοχικό περιεχόμενο A1&A2">Συμμετοχικό περιεχόμενο Α1&Α2</span></h2>
-     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/JavaScript.png" title="1η εικόνα">1η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/JavaScript.md" title="Πληροφορίες για την 1η εικόνα">Πληροφορίες για την 1η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/javascript.png" title="1η εικόνα">1η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/javascript.md" title="Πληροφορίες για την 1η εικόνα">Πληροφορίες για την 1η εικόνα</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/programming.md" title="Σετ διαφανειών 1ης εικόνας">Σετ διαφανειών 1ης εικόνας</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/programming.md" title="Χρονολόγιο 1ης εικόνας">Χρονολόγιο 1ης εικόνας</a><li>
-     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/OpenBSD.png" title="2η εικόνα">2η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/OpenBSD.md" title="Πληροφορίες για την 2η εικόνα">Πληροφορίες για την 2η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/openbsd.png" title="2η εικόνα">2η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/openbsd.md" title="Πληροφορίες για την 2η εικόνα">Πληροφορίες για την 2η εικόνα</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md" title="Σετ διαφανειών 2ης εικόνας">Σετ διαφανειών 2ης εικόνας</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/systems.md" title="Χρονολόγιο 2ης εικόνας">Χρονολόγιο 2ης εικόνας</a><li>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/3" title="Issue">Issue</a>
