@@ -401,6 +401,20 @@
 <a href="https://asciinema.org/a/495040" target="_blank"><img src="https://asciinema.org/a/495040.svg" /></a>
 <p/>
 
+<br><h5>Εντολές που έτρεξα:
+* `asciinema rec -i 0.5` για να κάνω εγγραφή σε συγκεκριμένη ταχύτητα τις εντολές που θα έτρεχα
+* `neofetch` για να εμφανίσω τις πληροφορίες του συστήματος
+* `vi twilio_message.py` για να δείξω το python script για το μήνυμα
+* `python3 twilio_message.py` για να τρέξει το script μηνύματος
+* `vi twilio_call.py` για να δείξω το python script για την κλήση
+* `python3 twilio_call.py` για να τρέξει το script κλήσης</h5>
+
+<br><h5>Εργαλεία που χρησιμοποίησα:
+* **[twilio-python](https://github.com/twilio/twilio-python)**
+* **[Alpine Linux](https://alpinelinux.org/downloads/)**
+* **[Twilio Website](https://www.twilio.com/)**
+* **[Asciinema](https://asciinema.org/)**</h5>
+
 <br><br>
 <h1><span id="Τελική Αναφορά και Συμπεράσματα">(12) Τελική Αναφορά και Συμπεράσματα</span></h1> 
 Προς συμπλήρωση..
@@ -422,20 +436,6 @@
 | 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
-
-<br><h5>Εντολές που έτρεξα:
-* `asciinema rec -i 0.5` για να κάνω εγγραφή σε συγκεκριμένη ταχύτητα τις εντολές που θα έτρεχα
-* `neofetch` για να εμφανίσω τις πληροφορίες του συστήματος
-* `vi twilio_message.py` για να δείξω το python script για το μήνυμα
-* `python3 twilio_message.py` για να τρέξει το script μηνύματος
-* `vi twilio_call.py` για να δείξω το python script για την κλήση
-* `python3 twilio_call.py` για να τρέξει το script κλήσης</h5>
-
-<br><h5>Εργαλεία που χρησιμοποίησα:
-* **[twilio-python](https://github.com/twilio/twilio-python)**
-* **[Alpine Linux](https://alpinelinux.org/downloads/)**
-* **[Twilio Website](https://www.twilio.com/)**
-* **[Asciinema](https://asciinema.org/)**</h5>
 
 <br><br>
 <h1><span id="Βίντεο Κουίζ">Βίντεο Κουίζ</span></h1>
