@@ -9,14 +9,14 @@
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/126 | Fork του αποθετηρίου, δημιουργία δικού μου branch και τελικής αναφοράς και συγγραφή εισαγωγής |
 | 2 | [Βιογραφικό και Δημιουργία Ομάδας](#Παραδοτέο-2) | https://github.com/courses-ionio/help/discussions/202 | Δημειουργεία ομάδας,δημιουργεία Βιογραφικού με jekyll, ενσωμάτωση βιογραφικού στο webring|
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό |https://github.com/courses-ionio/help/discussions/532 | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-3) | | Απλή αν και περίπλοκη Διαδικασία, πάνω απ'ολα απαιτεί πολύ χρόνο. Αρχικά οι αλλαγές στο submodule πρέπει να γίνουν τοπικά, δεκτό όμως γιατί να μην γίνονται δυναμικά, αντι να χρησιμοποιούνται στιγμιότυπα απο αποθετήρια; Το netlify αργεί να κάνει αλλαγές. Αν κάνεις ένα λάθος(π.χ. ξέχασες ένα τόνο) πρέπει να επαναλάβεις όλη την διαδικασία απο την αρχή.|
+| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) | | Προσοπικά πιστεύω πως θα βοηθούσαν πολύ διαφάνεις για να εγκαταστήσουμε τα συγκεκριμένα λογισμικά, αντί για έναν οδηγό. |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Παραδοτέο-5) | | Η διαδικασία είναι παρόμοια με το παραδοτέο 3. Μόνο που αυτή την φορά γίνεται μέσω ενός αποθετηρίου της ομάδας μας.|
+| 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) | | Αφού εγκατέστησα το void linux έκανα την άσκηση με το twilio |
+| 7 | [βιογραφικό](#Παραδοτέο-7) |https://github.com/courses-ionio/help/discussions/532 | Απλή διαδικασία αλλά χρειάστηκε αρκετό χρόνο ώστε να εγκατασταθούν ορισμένα πακέτα |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-8) | | Μακάρι να μπορόυσα να ήξερα τι θα ήθελε ο καθηγητής για να το φτιάξω. |
+| 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) | | Εδώ επέλεξα την άσκηση ntfy |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#Παραδοτέο-10) | | Έχω καταφέρει να βρώ αρκετές πληροφορίες απο άρθρα και πηγές σχετικά με τον δημιουργό του Παγκόδμιου ιστού |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -59,10 +59,10 @@ https://github.com/courses-ionio/help/discussions/197
 [issue](https://github.com/ioniodi/sitegr/issues/260)<br>
 ##update
 
-Επειδή η αλλαγή αυτή που ανέφερα προηγουμένος έγινε από άλλο άτομο παρόλο που τα δικά μου issue και pull request υπήρχαν αποφάσησα να φτιάξω άλλο [issue](https://github.com/ioniodi/sitegr/issues/393).
-[all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)
-[site](https://splendorous-blini-4f4825.netlify.app/timetables/sem_f/)
-[pull request](https://github.com/ioniodi/all_collections/pull/64)
+Επειδή η αλλαγή αυτή που ανέφερα προηγουμένος έγινε από άλλο άτομο παρόλο που τα δικά μου issue και pull request υπήρχαν αποφάσησα να φτιάξω άλλο [issue](https://github.com/ioniodi/sitegr/issues/393).<br>
+[all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)<br>
+[site](https://peppy-biscuit-9157d9.netlify.app/timetables/sem_f/)<br>
+[pull request](https://github.com/ioniodi/all_collections/pull/64)<br>
 
 # Παραδοτέο 4
 
@@ -70,10 +70,10 @@ https://github.com/courses-ionio/help/discussions/197
 
 # Παραδοτέο 5
 
-[slides](https://stupendous-tiramisu-14710d.netlify.app/slides/browsers/)
-[timeline](https://stupendous-tiramisu-14710d.netlify.app/timeline/browsers/)
-[gallery: opera](https://stupendous-tiramisu-14710d.netlify.app/gallery/opera/)
-[gallery: google chrome](https://stupendous-tiramisu-14710d.netlify.app/gallery/google-chrome/)
+[slides](https://gleeful-sherbet-3d7f9f.netlify.app/slides/browsers/)
+[timeline](https://gleeful-sherbet-3d7f9f.netlify.app/timeline/browsers/)
+[gallery: opera](https://gleeful-sherbet-3d7f9f.netlify.app/gallery/opera/)
+[gallery: google chrome](https://gleeful-sherbet-3d7f9f.netlify.app/gallery/google-chrome/)
 
 # Παραδοτέο 6
 
