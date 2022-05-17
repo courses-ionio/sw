@@ -77,12 +77,19 @@
 
 ## Άσκηση γραμμής εντολών (9ο Παραδοτέο)
 Για το 9ο Παραδοτέο εγκατέστησα το py-spy και το hyperfine σύμφωνα με το documedation τους. Και τα χρησιμοποίησα για να ελέγξω την απόδοση σε 2 scripts που έφτιαξα για την στοίχιση ενός εκατομμυρίου αριθμών τυχαίων αριθμών σε αύξουσα σειρά. Το ένα ήταν με την μέθοδο της quicksort και το άλλο με την μέθοδο της bubblesoft. Τα αποτέλεσμα είναι αυτά που θα περιμέναμε και σύμφωνα με την βιβλιογραφία.
+ * [Asciinema](https://asciinema.org/a/Z0HbjbEfBss4GKvDLMWkJJ1U8) 
 
 ## Συμμετοχικό περιεχόμενο Β1 (10ο Παραδοτέο)(Βελτίωση του 5ου Παραδοτέο)
 Για το 10ο Παραδοτέο πρόσθεσα αλλά και βελτίωσα τα ήδη υπάρχοντα δεδομένα που είχα ανεβάσει στο 5ο παραδοτέο. Έτσι μετέφερα τον Travis Oliphant στην βιογραφία και τον αντικατέστησα με τον NES-Zapper. Το οποίο κυκλοφόρησε από την Nitento το 1984 για την παιχνιδοκονσόλα της το NES. Αυτό ήταν μια ρέπλικα πιστολιού με το οποίο ο χρήστης σημάδευε του στόχους που περνάγανε στην οθόνη της τηλεόρασής του. Λειτουργούσε με έναν οπτικό αισθητήρα ο οποίος υπήρχε στο πιστόλι. Και κάθε φορά που πατιόταν η σκανδάλη του η οθόνη για κάποια miliseconds, τα οποία δεν ήταν αντιληπτά στο ανθρώπινο μάτι, γινόταν μαύρη με λευκά τετράγωνα στους στόχους που έπρεπε να πετύχεις και καταλάβαινε αν είναι το πιστόλι προς τον στόχο ή όχι. Και για την μελέτη περίπτωση πρόσθεσα το Unicos ένα λειτουργικό σύστημα φτιαγμένο σε UNIX, και ήταν το πρώτο 64-bit OS. Το οποίο κατασκευάστηκε για να χρησιμοποιηθεί στον υπερυπολογιστή της εταιρίας που το κατασκεύασε αλλά και σε άλλες πλατφόρμες της.
+ * [Asciinema](https://asciinema.org/a/F5aSWhNGEem62deeLjufm7pyq)
+ * [netlify demo Travis Oliphant](https://apolaz-demo3.netlify.app/biography/travis-oliphant/)
+ * [netlify demo Unicos OS](https://apolaz-demo3.netlify.app/case-study/unicos/)
+ * [NETLIFY DEMO NES-Zapper](https://apolaz-demo3.netlify.app/gallery/nes-zapper/)
 
 ## Άσκηση γραμμής εντολών (11ο Παραδοτέο)
 Για το 11ο Παραδοτέο ανέπτυξα και άλλο την χρήση του ntfy που είχα εγκαταστήσει στο 6ο παραδοτέο. Κατασκεύασα κάποια scripts για το update και το upgrade του συστήματος οπού όταν τελειώσουν το ntfy με ειδοποιεί μέσο της εφαρμογής του και του telegram αντίστοιχα. Επίσης έκανα και ένα script για speedtest οπου το ntfy μου αποστέλλει τα αποτελέσματα της μέτρησης (download, upload, ..) και ένα με για το youtube-dl στο οποίο ο χρήστης με την χρήση flag δίνει το url του βίντεο που θέλει να κατεβάσει και το format (mp4, audio-only) που επιθυμεί.
+ * [Asciinema update/upgrade](https://asciinema.org/a/0RmuiN1qxMLjmUtSRn5OaNuKq)
+ * [Asciinema speedtest youtube](https://asciinema.org/a/moyZClMR7an6rruFDqdlGRt7E)
 
 ![ntfy scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/ntfy_up_speed_yt.jpg)
 ![telegram scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/telegram_upgrade_yt.jpg)
