@@ -51,7 +51,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
   Για το 4ο παραδοτέο χρειάστηκε να γίνει η εγκατάσταση ενός νέου λογισμικού χωρίς systemd. Επέλεξα να χρησιμοποιήσω το Void Linux, καθώς είδα την εφαρμογή του και από άλλους συμφοιτητές μου, ενώ μου φάνηκε και αρκετά εύκολο, από την στιγμή που δεν είχα ξανά δουλέψει με κάτι παρόμοιο. Παρά τις κάποιες δυσκολίες που αντιμετώπισα κατά την διαδικασία της εγκτατάστασής του, τελικά ολοκληρώθηκε με επιτυχία. Για περαιτέρω εξάσκηση, έτρεξα και μια άσκηση γραμμής εντολών.
    
    <br><p aligh="center">
-   <img width="1000" height="518" src="https://postimg.cc/SJZT8D6R">
+   <img width="1000" height="518" src="https://i.postimg.cc/L8SrcWht/2.png">
    </p>
    
    Asciinema: [Check the weather](https://asciinema.org/a/pa7PLJU4W2SEd36MA07Q2fTZs)
