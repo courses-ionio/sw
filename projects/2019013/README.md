@@ -96,3 +96,21 @@ Github Profile: https://github.com/AnastasiaMariaStefani
    Βιβλιογραφία:
      <li>[Template](https://github.com/sharu725/online-cv)
        
+       
+       
+  <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
+
+  Για το 9ο παραδοτέο απαιτούνατν η ολοκλήρωση μίας άσκησης γραμμής εντολών. Ειδικότερα, επέλεξα μία άσκηση από την κατηγορία software, η οποία ήταν η "programmable voice". Για να καταφέρω να εκτελέσω σωστά αυτή την άσκηση χρειάστηκε να χρησιμοποιήσω το twilio. Με τη βοήθεια ενός μικρού προγράμματος σε python κατάφερα να στείλω μήνυμα στον αριθμό του κινητού μου. (Αντί για φωνητική κλήση, επέλεξα να μου σταλεί μηνύμα.)
+       
+       
+   <p aligh="center">
+   <img width="1000" height="518" src="https://i.postimg.cc/Qx12nDNN/4.png">
+   </p>
+   <p aligh="right">
+   <img width="1000" height="518" src="https://i.postimg.cc/QVGqWvv0/Screenshot-20220517-114404-Messages.jpg">
+   </p>
+   
+   Βιβλιογραφία:
+     <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
+       
+       
