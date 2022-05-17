@@ -296,9 +296,72 @@
 * **[Asciinema](https://asciinema.org/)**</h5>
 
 <br><br>
-<h1><span id="Συμμετοχικό Περιεχόμενο Β1+Β2">(10) Συμμετοχικό Περιεχόμενο Β1+Β2</span></h1>  
-Προς συμπλήρωση..
+<h1><span id="Συμμετοχικό Περιεχόμενο Β1+Β2">(10) Συμμετοχικό Περιεχόμενο Β1+Β2</span></h1>
+
+Για το δέκατο παραδοτέο έπρεπε να προσθέσουμε μία βιογραφία και μια μελέτη περίπτωσης στο βιβλίο του καθηγητή (συμμετοχικό περιεχόμενο). Αφού λοιπόν έλεγξα τις ήδη υπάρχον βιογραφίες και μελέτες περίπτωσης που υπήρχαν ήδη στο [βιβλίο](https://pibook.epidro.me/) και τα [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) που κατέθεσαν οι συνάδελφοι από την ομάδα μου, αποφάσισα να προσθέσω μελέτη περίπτωσης για το λειτουργικό σύστημα **Linux** και την βιογραφία του **Linus Torvalds** ο οποίος είναι ο δημιουργός αυτού. Έτσι δημιούργησα το [issue](https://github.com/OompaLoompas/site/issues/2) μου και αδού μου δόθηκε έγκριση από του reviewers που όρισα, ξεκίνησα την εκτέλεση.
+<br>
   
+Αρχικά, για την βιογραφία, μέσα στον φάκελο [`_biography`](https://github.com/u2nmd/site/tree/master/_biography) του `site` δημιούργησα ένα αρχείο με όνομα [`linus-torvalds.md`](https://github.com/u2nmd/site/blob/master/_biography/linus-torvalds.md). Εκεί έγραψα ένα μικρό *caption* γι' αυτόν και πρόσθεσα μια εικόνα προφίλ του όπως αντίστοιχα είχαν όλες οι υπόλοιπες βιογραφίες. Το αρχείο αυτό το συνέδεσα μέσω του `{% include file_name %}` με ένα νέο αρχείο που δημιούργησα μέσα στον φάκελο [`_includes`](https://github.com/u2nmd/site/tree/master/_includes). Αυτό το νέο αρχείο με όνομα `bio-torvalds.md` ήταν μία εκτεταμένη βιογραφία του Linus Torvalds βασισμένη σε άρθρα/κείμενα σχετικά με αυτόν που βρήκα στο διαδίκτυο. Επιπλέον, πρόσθεσα δύο εικόνες με λεζάντες που έκρινα απαραίτητες να συμπεριληφθούν καθώς αφορούσαν σημαντικά χαρακτηριστικά της βιογραφίας του. Στο τέλος της βιογραφίας πρόσθεσα και τις πηγές στις οποίες βασίστηκα αφού τις διάβασα για να γράψω το κείμενο. Το επόμενο και τελευταίο βήμα ήταν να προσθέσω αυτό το αρχείο και στο submodule [`extras`](https://github.com/u2nmd/extras/tree/master) που βρίσκεται μέσα στον φάκελο `_includes` με την διαφορά ότι δεν περιλάμβανε λεζάντες και εικόνες. Όλες οι εικόνες που μου χρειάστηκαν τις πρόσθεσα στο submodule [`images`](https://github.com/u2nmd/images/tree/master).
+  
+**Το τελικό αποτέλεσμα έπειτα από την διαδικασία είναι το παρακάτω:**
+  
+<p align="center">
+<img width="789" height="473" src="https://i.postimg.cc/Dw2w2kh2/Linusmerged.png">
+<p/>
+<br>
+
+Ύστερα, για την μελέτη περίπτωσης, μέσα στον φάκελο [`_case-study`](https://github.com/u2nmd/site/tree/master/_case-study) του `site` δημιούργησα ένα αρχείο με όνομα [`linux.md`](https://github.com/u2nmd/site/blob/master/_case-study/linux.md). Εκεί έγραψα ένα μικρό *caption* γι' αυτό και πρόσθεσα μια εικόνα που το αντιπροσωπεύει όπως αντίστοιχα είχαν όλες οι υπόλοιπες μελέτες περίπτωσης. Όπως και για την βιογραφία, το αρχείο αυτό το συνέδεσα μέσω του `{% include file_name %}` με ένα νέο αρχείο που δημιούργησα μέσα στον φάκελο [`_includes`](https://github.com/u2nmd/site/tree/master/_includes). Αυτό το νέο αρχείο με όνομα `cs-linux.md` ήταν μία εκτεταμένη μελέτη περίπτωσης του λειτουργικού συστήματος Linux βασισμένη σε άρθρα/κείμενα σχετικά με αυτό που βρήκα στο διαδίκτυο. Επιπλέον, πρόσθεσα τέσσερις εικόνες με λεζάντες που έκρινα απαραίτητες να συμπεριληφθούν καθώς αφορούσαν σημαντικά χαρακτηριστικά του Linux. Στο τέλος της μελέτης περίπτωσης πρόσθεσα και τις πηγές στις οποίες βασίστηκα αφού τις διάβασα για να γράψω το κείμενο. Το επόμενο και τελευταίο βήμα ήταν να προσθέσω αυτό το αρχείο και στο submodule [`extras`](https://github.com/u2nmd/extras/tree/master) που βρίσκεται μέσα στον φάκελο `_includes` με την διαφορά ότι δεν περιλάμβανε λεζάντες και εικόνες. Όλες οι εικόνες που μου χρειάστηκαν τις πρόσθεσα στο submodule [`images`](https://github.com/u2nmd/images/tree/master).
+
+**Το τελικό αποτέλεσμα έπειτα από την διαδικασία είναι το παρακάτω:**
+  
+<p align="center">
+<img width="814" height="384" src="https://i.postimg.cc/SsFMfS3W/linuxmerged.png">
+<p/>
+<br>
+
+Για να περαστεί κάθε αλλαγή που έκανα στο demo site, κλασικά έκανα `git add .`, `git commit -m "comment"`, `git push` και `git pull` όταν χρειαζόταν. Στο τέλος της όλης διαδικασίας έκανα **pull request** στην ομάδα μου ξεχωριστά στα **site, images και extras**, έχοντας θέσει reviewers ώστε να ελέγξουν για τυχόν λάθη στις υλοποιήσεις μου. Όλα τα παραπάνω φαίνονται στον παρακάτω πίνακα:
+ 
+| Προσθήκη | Linus Torvalds | Linux |
+| --- | ---| ---|
+| link | [demo site](https://u2nmd-site.netlify.app/biography/linus-torvalds/) | [demo site](https://u2nmd-site.netlify.app/case-study/linux/) |
+
+<br>
+
+|**Pull Requests**|
+| --- |
+| [images](https://github.com/OompaLoompas/images/pull/22) |
+| [extras](https://github.com/OompaLoompas/extras/pull/4) |
+| [site](https://github.com/OompaLoompas/site/pull/34) |
+
+<br><h4>Πηγές που βασίστηκα για να γράψω τα κείμενα: 
+* Για την βιογραφία:
+* [Linus Torvalds Encyclopedia Britannica](https://www.britannica.com/biography/Linus-Torvalds)
+* [Linus Torvalds Lemelson-MIT](https://lemelson.mit.edu/resources/linus-torvalds)
+* [Linus Torvalds Internet Hall of Fame](https://www.internethalloffame.org/inductees/linus-torvalds)
+* [Git Wikipedia](https://en.wikipedia.org/wiki/Git)
+<br>
+
+* Για την μελέτη περίπτωσης:
+* [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
+* [Linux on Android](https://www.makeuseof.com/tag/how-to-linux-on-android/)
+* [Linux Distributions](https://www.suse.com/suse-defines/definition/linux-distribution/)
+* [Linux Distrowatch](https://distrowatch.com/)</h4>
+
+<br><h4>Αρχεία που δημιούργησα: 
+* [`linus-torvalds.md`](https://github.com/u2nmd/site/blob/master/_biography/linus-torvalds.md) στον φάκελο `_biography`
+* [`linux.md`](https://github.com/u2nmd/site/blob/master/_case-study/linux.md) στον φάκελο `_case-study`
+* [`bio-torvalds.md`](https://github.com/u2nmd/site/blob/master/_includes/bio-torvalds.md) στον φάκελο `_includes`
+* [`cs-linux.md`](https://github.com/u2nmd/site/blob/master/_includes/cs-linux.md) στον φάκελο `_includes`
+* [`bio-torvalds.md`](https://github.com/u2nmd/extras/blob/master/bio-torvalds.md) στο submodule `extras`
+* [`cs-linux.md`](https://github.com/u2nmd/extras/blob/master/cs-linux.md) στο submodule `extras`</h4>
+<br>  
+
+<br><h4>Άλλοι σημαντικοί σύνδεσμοι: 
+* [Το issue μου](https://github.com/OompaLoompas/site/issues/20)
+* [Το demo site μου](https://u2nmd-site.netlify.app/)
+* [Οδηγίες καθηγητή](https://courses-ionio.github.io/help/social/)</h4>
+<br>
+
 <br><br>
 <h1><span id="Άσκηση γραμμής εντολών software 2">(11) Άσκηση γραμμής εντολών software 2</span></h1> 
 Προς συμπλήρωση..
