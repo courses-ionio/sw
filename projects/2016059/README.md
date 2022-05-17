@@ -84,7 +84,7 @@
  * [Asciinema](https://asciinema.org/a/F5aSWhNGEem62deeLjufm7pyq)
  * [netlify demo Travis Oliphant](https://apolaz-demo3.netlify.app/biography/travis-oliphant/)
  * [netlify demo Unicos OS](https://apolaz-demo3.netlify.app/case-study/unicos/)
- * [NETLIFY DEMO NES-Zapper](https://apolaz-demo3.netlify.app/gallery/nes-zapper/)
+ * [netlify demo NES-Zapper](https://apolaz-demo3.netlify.app/gallery/nes-zapper/)
 
 ## Άσκηση γραμμής εντολών (11ο Παραδοτέο)
 Για το 11ο Παραδοτέο ανέπτυξα και άλλο την χρήση του ntfy που είχα εγκαταστήσει στο 6ο παραδοτέο. Κατασκεύασα κάποια scripts για το update και το upgrade του συστήματος οπού όταν τελειώσουν το ntfy με ειδοποιεί μέσο της εφαρμογής του και του telegram αντίστοιχα. Επίσης έκανα και ένα script για speedtest οπου το ntfy μου αποστέλλει τα αποτελέσματα της μέτρησης (download, upload, ..) και ένα με για το youtube-dl στο οποίο ο χρήστης με την χρήση flag δίνει το url του βίντεο που θέλει να κατεβάσει και το format (mp4, audio-only) που επιθυμεί.
