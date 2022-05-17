@@ -11,12 +11,12 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | Επιτυχής δημιουργία της εισαγωγής και αναφορά των στόχων μου για το μάθημα  |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
 | 3 | <li><a href="#Αίτημα Ενσωμάτωσης"></span> <span class="toctext">Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
-| 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Σωστή ολοκλήρωση των ασκήσεων με το Ubuntu. Εφαρμογή του Asciinema για καταγραφή |
+| 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Εγκατάσταση του Void Linux και εκτέλεση άσκησης γραμμής εντολών για εξάσκηση  |
 | 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
-| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση γραμμής εντολών από την κατηγορία warmup. |
+| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία warmup. |
 | 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Επιτυχής μετατροπή του βιογραφικού μου σε μορφη pdf |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία software. |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
