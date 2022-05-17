@@ -89,6 +89,13 @@ Link asciinema recording για την δημιουργία ιστοσελίδα
 Update: Το pull request έχει γίνει, με το demo να δουλεύει όπως πρέπει. <br>
 [Link Pull Request](https://github.com/Git-s-PopTeamEpic/site/pull/14)
 
+[Διαφάνειες](https://geoter.netlify.app/slides/game-engines/)
+
+[Gallery Ren'Py](https://geoter.netlify.app/gallery/renpy/)
+
+[Gallery Toy-Con Garage](https://geoter.netlify.app/gallery/toy-con-garage/)
+
+[Timeline](https://geoter.netlify.app/timeline/game-engine/)
 
 
 # Παραδοτέο 6
@@ -116,6 +123,12 @@ Update: Το pull request έχει γίνει, με το demo να δουλεύ�
 # Παραδοτέο 10
 
 Για το δεύτερο συμμετοχικό περιεχόμενο, αναπτύχθηκα περαίτερω στο θέμα μου από προηγουμένως, τα game engines. Αναφέρθηκα στον John Cormack με τις καταπληκτικές του ενέργεις στον χώρο των βιντεοπαιχνιδιών και τρισδιάστατων γραφικών, και στο GameMaker, μία σειρά από game engines που δίνει έμφαση στο να βοηθήσει αρχάριους χρήστες να δημιουργήσουν παιχνίδια και στην συνέχεια να εξελιχθούν σε πιο έμπειρους χρήστες αξιοποιώντας και block-based συστήματα αλλά και την χρήση IDE.
+
+[Pull Request](https://github.com/Git-s-PopTeamEpic/site/pull/23)
+
+[Case Study](https://geoter.netlify.app/case-study/gamemaker/)
+
+[Biography](https://geoter.netlify.app/biography/john-carmack/)
 
 # Παραδοτέο 11
 
