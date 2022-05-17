@@ -8,7 +8,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#παραδοτεο-1) | [Link 1ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/76)| 10 |
-| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631)[Link Βιοραφικού](https://alexpoulis.github.io/online-cv/), [Webring](https://git-team-epic-webring.netlify.app) | 6 |
+| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631), [Webring](https://git-team-epic-webring.netlify.app) | 6 |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
@@ -36,7 +36,7 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 2
 
-Για το παραδοτέο αυτό έκανα το βιογραφικό μέσω terminal και κατέγραψα την πρώτη φορά που επεξεργάστηκα το [βιογραφικό](https://asciinema.org/a/VxmFl99X64MCyEPIWXhWYsr5e)
+Για το παραδοτέο αυτό έκανα το βιογραφικό μέσω terminal και κατέγραψα την πρώτη φορά που επεξεργάστηκα το [βιογραφικό](https://asciinema.org/a/VxmFl99X64MCyEPIWXhWYsr5e) μέσο terminal και [εδώ](https://alexpoulis.github.io/online-cv/) είναι το link demo του Βιοραφικού.</br>
 ![image](https://user-images.githubusercontent.com/72515420/158197396-f3307909-d1b7-49b3-8cd2-e104ebed924d.png)</br>
 Επίσης μπήκα στην ομάδα “Git’s Pop Team Epic” την οποία μπορείτε να δείτε και [εδώ]( https://git-team-epic-webring.netlify.app)
 ![image](https://user-images.githubusercontent.com/72515420/158197715-8325ad2b-441b-4e15-9416-43b2bad817ee.png)
@@ -64,7 +64,7 @@
 Για το παραδοτέο αυτό αρχικά σαν ομάδα αποφασίσαμε σε μία διαδικασία για το πώς θα γίνουν τα νέα issue για το τι θα προσθέσει ο καθένας και το πώς θα γίνουν τα pull requests το οποίο φαίνεται [εδώ]( https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10). </br>
 Στην συνέχεια ο καθένας αποφάσισε το θέμα των διαφανειών και του timeline του οποίου θα προσθέσει και δημιουργούμε ένα issue σχετικά με αυτό το οποίο μπορεί να βρεθεί [εδώ]( https://github.com/Git-s-PopTeamEpic/site/issues/4).</br>
 Στην συνέχεια μετά από αυτό εφόσον το θέμα δεν το έχει δηλώσει κάποιος άλλος και δεν υπάρχει καμία διαφωνία για το θέμα κάνουμε τις προσθήκες και ανοίγουμε 3 pull requests 1 σε κάθε repo [site]( https://github.com/Git-s-PopTeamEpic/site/pull/7), [images]( https://github.com/Git-s-PopTeamEpic/images/pull/3) και [_gallery]( https://github.com/Git-s-PopTeamEpic/_gallery/pull/3).</br>
-Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεθούν:</br>
+Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεθούν(εδώ φαίνεται η χρήση εικόνων logo το οποίο διορθώθηκε στο επόμενο συμμετοχικό):</br>
 Α1:</br>
 [Unity](https://alexpoulis.netlify.app/gallery/unity/)</br>
 ![image](https://user-images.githubusercontent.com/72515420/159159337-1f7f8a22-881c-406f-8be3-fb4a08a7b021.png)</br>
@@ -92,7 +92,9 @@ A2:</br>
 ![image](https://user-images.githubusercontent.com/72515420/160303457-0dae474d-b3a3-4c3d-8f03-154e0af0e460.png)
 
 ## ΠΑΡΑΔΟΤΕΟ 7
-Για αυτό το παραδοτέο έκανα κανονικά μετατροπή του βιογραφικού με την χρήση του pandoc και latex και το Continuous Integration μεσο hooks.(θα γίνει περισσότερη ανάληση του παραδοτέου αργότερα)
+Για αυτό το παραδοτέο έκανα κανονικά μετατροπή του βιογραφικού με την χρήση του pandoc και latex και το Continuous Integration μεσώ hooks. Αρχικά έτρεξα το command ```pandoc "bio_demo_url" -o cv.tex -s``` και μετά μετέτρεψα το νέο αυτό αρχείο σε pdf με την χρήση του command ```pdflatex cv.tex```(cv.tex είναι το αρχείο που δημιούργησα με το πρώτο command).</br>
+Υστέρα με την χρήση hooks, όπως φαίνεται και στο asciinema link παρακάτω, έκανα το pdf να ξανακτίζεται αυτόματα μετά από ένα commit το οποίο αλλάξει το demo του cv.</br>
+
 [link asciinema](https://asciinema.org/a/omfhtmaEyUttmA9dEdlwc6Ir0)
 
 ## ΠΑΡΑΔΟΤΕΟ 8
@@ -101,9 +103,9 @@ A2:</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 9
 
-Για το 9ο παραδοτέο άρχισα να ασχολούμαι με το py-spy/hyperfine καθώς με ενδιάφερε να μάθω να κάνω monitoring τα python προγράμματα μου(η python είναι η αγαπημένη μου γλώσσα) αλλά αντιμετώπισα προβλήματα τύπου, τρέχω την εντολή με sudo αλλά μου το κάνει denie γιατί δεν είχα δικαιώματα. Μετά από κάμποσο ψάξιμο και με λίγο χρόνο να σκεφτώ συνειδητοποίησα ότι αυτό δεν θα ταίριαζε με το παραπάνω παραδοτέο(ntfy) οπότε αποφάσισα να ξεχάσω το monitring για το μάθημα και να ασχοληθώ με κάτι άλλο.</br>
-Τελικά κατέληξα στο twilio-python καθώς έχει και αυτό να κάνει με python αλλά έχει και να κάνει με μηνύματα/κλήσεις στο κινητό κάτι, κατά που την γνώμη μου είναι πολύ ποιο κοντά στο ntfy, και έκανα λίγο warmup με τα απλά πράγματα όπως να πάρω κλήση μέσω python κώδικα και να στείλω μηνύματα στο κινητό με τον ίδιο τρόπο(κώδικες παρακάτω).
-
+Για το 9ο παραδοτέο άρχισα να ασχολούμαι με το py-spy/hyperfine καθώς με ενδιάφερε να μάθω να κάνω monitoring τα python προγράμματα μου(η python είναι η αγαπημένη μου γλώσσα) αλλά αντιμετώπισα προβλήματα τύπου, τρέχω την εντολή με sudo αλλά μου το κάνει denie γιατί δεν είχα δικαιώματα(το error αυτό ανέβασα και παρακάτω). Μετά από κάμποσο ψάξιμο και με λίγο χρόνο να σκεφτώ συνειδητοποίησα ότι αυτό δεν θα ταίριαζε με το παραπάνω παραδοτέο(ntfy) οπότε αποφάσισα να ξεχάσω το monitring για το μάθημα και να ασχοληθώ με κάτι άλλο.</br>
+![problem with deliverable 9](https://user-images.githubusercontent.com/72515420/168751027-9447f509-4cff-4a1c-af63-0069cb53f69d.png)</br>
+Τελικά κατέληξα στο twilio-python καθώς έχει και αυτό να κάνει με python αλλά έχει και να κάνει με μηνύματα/κλήσεις στο κινητό κάτι, κατά που την γνώμη μου είναι πολύ ποιο κοντά στο ntfy, και έκανα λίγο warmup με τα απλά πράγματα όπως να πάρω κλήση μέσω python κώδικα και να στείλω μηνύματα στο κινητό με τον ίδιο τρόπο(κώδικες παρακάτω).</br>
 ![call phone code twilio](https://user-images.githubusercontent.com/72515420/168670391-37337d98-18a5-47f8-87f8-581367a36030.png)
 ![sent messages to phone](https://user-images.githubusercontent.com/72515420/168670332-b9edf124-6073-4de3-87e1-53bbe2d60ef5.png)</br>
 ![image](https://user-images.githubusercontent.com/72515420/168670850-d101336e-c258-4d15-9366-daf609938d06.png)
