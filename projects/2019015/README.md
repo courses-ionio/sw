@@ -12,7 +12,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)|[Discussion](https://github.com/courses-ionio/help/discussions/471) |  Αυτό το παραδοτέο ολοκληρώθηκε αλλά εκπρόθεσμα
 | 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) |[Discussion](https://github.com/courses-ionio/help/discussions/483) | Ολοκλήρωσα το παραδοτέο όμως εκπρόθεσμα |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών](#6ο-παραδοτέο) | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -59,11 +59,17 @@
 
 |Repo links | Site links | Team's site links |
 | --- | --- | --- | 
-|[Alpine Linux](https://github.com/alexl14/_gallery/blob/master/alpine-linux.md)|[Alpine Linux](https://genuine-rugelach-10086a.netlify.app/gallery/alpine-linux/)
-|[Absolute Linux](https://github.com/alexl14/_gallery/blob/master/absolute-linux.md)|[Absolute Linux](https://genuine-rugelach-10086a.netlify.app/gallery/absolute-linux/)
-|[timeline](https://github.com/alexl14/site/blob/2019015/_timeline/os-apps.md)|[timeline](https://genuine-rugelach-10086a.netlify.app/timeline/os-apps/)
-|[slides](https://github.com/alexl14/site/blob/2019015/_slides/os.md)|[slides](https://genuine-rugelach-10086a.netlify.app/slides/os/)
+|[Alpine Linux](https://github.com/alexl14/_gallery/blob/master/alpine-linux.md)|[Alpine Linux](https://genuine-rugelach-10086a.netlify.app/gallery/alpine-linux/)|[Alpine Linux](https://ionioi-site.netlify.app/gallery/alpine-linux/)|
+|[Absolute Linux](https://github.com/alexl14/_gallery/blob/master/absolute-linux.md)|[Absolute Linux](https://genuine-rugelach-10086a.netlify.app/gallery/absolute-linux/)|[Absolute Linux](https://ionioi-site.netlify.app/gallery/absolute-linux/)
+|[timeline](https://github.com/alexl14/site/blob/2019015/_timeline/os-apps.md)|[timeline](https://genuine-rugelach-10086a.netlify.app/timeline/os-apps/)|[timeline](https://ionioi-site.netlify.app/timeline/os-apps/)|
+|[slides](https://github.com/alexl14/site/blob/2019015/_slides/os.md)|[slides](https://genuine-rugelach-10086a.netlify.app/slides/os/)|[slides](https://ionioi-site.netlify.app/slides/os/)
 
+
+## 6ο Παραδοτέο
+
+Για το 6ο παραδοτέο αποφάσισα να εγκαταστήσω ένα άλλο λειτουργικό σύστημα, το Artix Linux το οποίο, όπως και το Alpine που είχα εγκαταστήσει δεν έχει systemd. Συγκεκριμένα βασίζεται στο Arch Linux και χρησιμοποιεί OpenRC, runit, s6, suite66 ή Dinit init αντί για systemd. 
+
+[Neofetch & dmesg](https://asciinema.org/a/495537)
 
 ## Συμμετοχικότητα & Ομαδικότητα
 
