@@ -116,7 +116,7 @@
 
 ◉ Deploy site στο netlify με το γνωστό τρόπο 
  
-[asciinema link]()
+[asciinema link](https://asciinema.org/a/495446)
 
 
 
