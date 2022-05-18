@@ -10,7 +10,7 @@
 | 2 | βιογραφικό και δημιουργία ομάδας | [link παραδοτέου(Discussions)](https://github.com/courses-ionio/help/discussions/235) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Αλλαγή στην ιστοσελιδα](https://github.com/ioniodi/sitegr/issues/392) | |
 | 4 | Άσκηση γραμμής εντολών | [Asciinema](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Asciinema]() | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Asciinema](https://asciinema.org/a/495446) | |
 | 6 | Άσκηση γραμμής εντολών | ntfy, [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6) | |
 | 7 | βιογραφικό | pdf βιογραφικό [asciinema link](https://asciinema.org/a/495286) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
