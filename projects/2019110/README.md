@@ -44,12 +44,6 @@ Pull request στο Webring: [link](https://github.com/OompaLoompas/webring/pull
 Μετάβαση στο Webring repository: [ομαδικό](https://github.com/OompaLoompas/webring)
 <br><br>
 
-| Repository | Σύνδεσμος στη συζήτηση |
-|---|---|
-| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Ανακοίνωση δημιουργίας Wering ομάδας](https://github.com/OompaLoompas/help/discussions/3) |
-
-<br>
-
 ## Βιογραφικό 
 
 ### Μέρος Α
@@ -155,14 +149,6 @@ exit
 
 Η βελτίωση έγινε στο branch: **[alpine_pdfhook](https://github.com/p19pasc/online-cv/tree/alpine_pdfhook)**   
 Τα githooks αρχεία και ένα commit μίας αλλαγής είναι φανερά στο **[asciinema](https://asciinema.org/a/dLQd7Z8pi13lzesRhOGbC1OHo)**
-
-| Repository | Σύνδεσμος στη συζήτηση |
-|---|---|
-| [courses-ionio/help](https://github.com/courses-ionio/help) | [Απορία για την επιλογή βιογραφικού](https://github.com/courses-ionio/help/discussions/180#discussion-3902197)  |
-| [courses-ionio/help](https://github.com/courses-ionio/help) | [Διόρθωση link αναφοράς σε συμφοιτήτρια](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310) |
-| [courses-ionio/help](https://github.com/courses-ionio/help) | [Προσπάθεια επίλυσης bable error](https://github.com/courses-ionio/help/discussions/510) |
-| [courses-ionio/help](https://github.com/courses-ionio/help)| [Προσθήκη comment σχετικά με τον τρόπο που έφτιαξα για εμένα τα errors στο hooks](https://github.com/courses-ionio/help/discussions/510#discussioncomment-2569828) |
-
 <br>
 
 # Αιτήματα ενσωμάτωσης στην ιστοσελίδα
@@ -199,23 +185,6 @@ exit
 
 Σύνδεσμος της ιστοσελίδας μου demo, του **[Netlify](https://p19pasc-aitima2-facebook.netlify.app/)**      
 Το **[issue](https://github.com/ioniodi/sitegr/issues/394)** που πραγματοποίησα.  
-
-<br>
-
-| Repository | Σύνδεσμος στη συζήτηση|
-|---|---|
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue AimiliosPavlidis2001](https://github.com/ioniodi/sitegr/issues/248#issuecomment-1059812784)|
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue vasilikampani](https://github.com/ioniodi/sitegr/issues/254#issuecomment-1059811116) |
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Issue u2nmd](https://github.com/ioniodi/sitegr/issues/252#issuecomment-1059812133) |
-| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request AimiliosPavlidis2001](https://github.com/ioniodi/all_collections/pull/14#issuecomment-1061983600)|
-| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request vasiliskampani](https://github.com/ioniodi/all_collections/pull/49#issuecomment-1074988877)|
-| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Pull request u2nmd](https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319) |
-| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Έλλειψη περιγραφής](https://github.com/ioniodi/all_collections/pull/7#issuecomment-1061180872) |
-| [ionidi/all_collections](https://github.com/ioniodi/all_collections) | [Μικρή διόρθωση για closes #](https://github.com/ioniodi/all_collections/pull/1#issuecomment-1061964546)
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759) |
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Διόρθωση για .gitmodules](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233) |
-| [ionidi/sitegr](https://github.com/ioniodi/sitegr) | [Σχόλιο βελτίωσης ενός closed issue](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) |
-
 <br>
     
 # Συμμετοχικό περιεχόμενο 
@@ -351,20 +320,7 @@ exit
  
  Σε αυτό το σημείο θα ήθελα να αναφέρω, καθώς ανέλαβα κυρίως εγώ την διαχείριση δημιουργίας της ιστοσελίδας με βοήθεια από τον [AimiliosPavlidis2001](https://github.com/AimiliosPavlidis2001), πως αποτελούσε πολύ χρονοβόρα και επίπονη διαδικασία. Στην ουσία, έγινε ο ίδιος τρόπος που πραγματοποιούταν στο sitegr από τον καθηγητή του μαθήματος με τα PR και αναλάμβανα να τα ενώσω και να κάνω host την ιστοσελίδα στο netlify. Υπήρχαν πολλές δυσκολίες με τα revert και το γεγονός ότι πολλές φορές δεν είχαμε κάποιο κενό κλαδί στα προσωπικά μας αποθετήρια ώστε να περαστούν αποκλειστικά τα αρχεία που θέλαμε. Σε αυτό έδωσε την πραγματικά χρήσιμη βοήθεια ο συμφοιτητής μας [p17anto2](https://github.com/p17anto2), με την εντολή `git rebase -i "hash"`, όπου πλέον είχαμε κλαδιά χωρίς άχρηστα commits. Στα αποθετήρια του οργανισμού θα μπορούσε να είχε γίνει καλύτερη διαχείριση, διότι πραγματοποιήθηκε ένα ανούσιο βήμα, δηλαδή, ενώ τα PR των μελών γινόταν στο master, από το master τα περνούσα στο [netlify branch](https://github.com/OompaLoompas/site/tree/netlify) το οποίο έκανε host την ιστοσελίδα. Τελικά σταμάτησα να κάνω το περιττό αυτό βήμα, έκανα τις κατάλληλες ρυθμίσεις και η [ιστοσελίδα](https://oompa-loompas.netlify.app/) γίνεται host από το [master branch](https://github.com/OompaLoompas/site/tree/master).   
  **[Ανακοίνωση](https://github.com/OompaLoompas/help/discussions/15)**
- 
- <br>
- 
- | Repository | Σύνδεσμος στη συζήτηση |
- |---|---|
- | [courses-ionio/help](https://github.com/courses-ionio/help)| [Μία απλή απορία για το συμμετοχικό Β σε νέο branch](https://github.com/courses-ionio/help/discussions/576) |
- | [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [θέλω τη γνώμη σας για τη προσθήκη θέματος στις διαφάνειες στο συμμετοχικό περιεχόμενο](https://github.com/OompaLoompas/help/discussions/7) |
- | [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 5, Συμμετοχικό Περιεχόμενο Α1 + Α2](https://github.com/OompaLoompas/help/discussions/8)
-| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Σημαντική πρόταση για 5ο παραδοτέο!](https://github.com/OompaLoompas/help/discussions/9) |
-| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 5 - Σχετικά με την επιλογή θέματος για το συμμετοχικό Α1 και Α2](https://github.com/OompaLoompas/help/discussions/10) |
-| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο-5 Σχετικά με την προσθήκη των ιδεών σας στα repository σας και το τελικό Pull Request στον οργανισμό](https://github.com/OompaLoompas/help/discussions/13) |
-| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Παραδοτέο 10 - Οδηγίες αιτήματος ενσωμάτωσης (Pull request)](https://github.com/OompaLoompas/help/discussions/14) |
-
-<br> 
+<br>
 
 # Ασκήσεις γραμμής εντολών
 ### Warmup με freebsd
@@ -549,13 +505,6 @@ ntfy -b telegram send "youtube Download completed"
 
 
 Η εντολές που έτρεξα παραπάνω για την σύγκριση και την μελέτη των επιδόσεων, η δημιουργία των γραφημάτων και των json αρχείων είναι καταγεγραμμένα σε **[asciinema](https://asciinema.org/a/kRkZ9njHA1QTw6OSMfbaFVZit)**. Να σημειώσω πως έχει αρκετή διάρκεια σε σχέση με τα υπόλοιπα που έχω πραγματοποιήσει, αλλά έκανα όσο τον δυνατόν πιο περιορισμένες εντολές για να αποφύγω χρόνους που απαιτεί η κάθε εντολή του hyperfine για τα runs, διότι δεν μπορούν να συντομεύσουν ή να παραληφθούν.
-
-<br>
-
-| Repository | Σύνδεσμος στη συζήτηση |
-|---|---|
-| [courses-ionio/help](https://github.com/courses-ionio/help) | [Σχετικά με asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180) |
-
 <br>
 
 ***Περισσότερες ιστοσελίδες από τις οποίες άντλησα πληροφορίες γενικά για όλες τις ασκήσεις γραμμής εντολών βρίσκονται στο τέλος***
