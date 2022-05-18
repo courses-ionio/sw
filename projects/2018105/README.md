@@ -26,8 +26,9 @@
   
 ### Βιογραφικό
   Για την δημιουργία του βιογραφικού επέλεξα το ακόλουθο [template](https://github.com/sharu725/online-cv). Στην συνέχεια έκανα όλες τις απαραίτητες αλλαγές βάζοντας τα δικά μου στοιχεία.
-  [Link Βιογραφικού](https://dimitristzer.github.io/online-cv/)
   
+  [Βιογραφικό](https://dimitristzer.github.io/online-cv/)
+  [Ομάδα](https://github.com/IonianCombination)
 
 
   
@@ -48,6 +49,28 @@
 Για το τέταρτο παραδοτέο μας ζητήθηκε να εγκαταστήσουμε ένα λειτουργικό σύστημα το οποίο δεν διαθέτει systemd. Για τον λόγο αυτό επέλεξα για λειτουργικό σύστημα το Devuan Linux το οποίο το εγκατέστησα σε VirtualBox. Ο λόγος για το οποίο διάλεξα στο συγκεκριμένο λειτουργικό σύστημα, το οποίο βασίζεται στο Debian ειναι διότι διαθέτω μια εξοικείωση με Debian συστήματα. Η εγκατάσταση του λειτουργικού απετούσε αρκετά βήματα ωστόσο ήταν σχετικά εύκολη.
 
 [Asciinema Link](https://asciinema.org/a/478722)
+
+
+### Συμμετοχικό περιεχόμενο A1 + A2
+
+Για το συμμετοχικό περιεχόμενο επέλεξα για εικόνες να προσθέσω το λειτουργικό σύστημα True Os καθώς επίσης το Ipod Shuffle της Apple.
+
+### A1
+
+[True Os image](https://snazzy-douhua-80b0bf.netlify.app/gallery/true-os/)
+[Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os.png)
+[Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os-thumb.png)
+
+[Ipod Shuffle](https://snazzy-douhua-80b0bf.netlify.app/gallery/ipod-shuffle/)
+[Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle.jpg)
+[Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle-thumb.jpg)
+
+### Α2
+
+[Timeline Os apps](https://snazzy-douhua-80b0bf.netlify.app/timeline/os-apps/)
+
+[Timeline Apple](https://snazzy-douhua-80b0bf.netlify.app/timeline/apple/)
+
 
 
 ### Bιογραφικό
