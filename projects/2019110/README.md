@@ -570,8 +570,22 @@ ntfy -b telegram send "youtube Download completed"
 
 # Συμμετοχή στην τάξη και ομαδικότητα
 
-Σχεδόν σε όλες τις συναντήσεις στην τάξη υπήρχε η παρουσία μου, παράλληλα και στο github. Θέλω να τονίσω ότι είχα συμμετοχή σε αναρτήσεις συναδέλφων, απλά σπάνια ήταν καίριες οι διορθώσεις που απαιτούνταν ή οι βελτιώσεις με σκοπό να μην υπάρχει μεγάλη συζήτηση. Επιπρόσθετα πολλές φορές χρειάστηκε να ζητήσω βοήθεια στο Help του μαθήματος και αντιθέτως να προσφέρω στο Help του οργιανισμού στον οποίο είμαι μέλος, ενώ έχω σχολιάσει σχεδόν σε όλα τα issue και PR.
+Σχεδόν σε όλες τις συναντήσεις στην τάξη υπήρχε η παρουσία μου, παράλληλα και στο github. Θέλω να τονίσω ότι είχα συμμετοχή σε αναρτήσεις συναδέλφων, απλά σπάνια ήταν καίριες οι διορθώσεις που απαιτούνταν ή οι βελτιώσεις με σκοπό να μην υπάρχει μεγάλη συζήτηση. Επιπρόσθετα πολλές φορές χρειάστηκε να ζητήσω βοήθεια στο Help του μαθήματος και αντιθέτως να προσφέρω στο Help του οργανισμού στον οποίο είμαι μέλος, ενώ έχω σχολιάσει σχεδόν σε όλα τα issue και PR. Τα πιο σημαντικά που θεωρώ είναι τα παρακάτω link: 
 
+<br>
+
+| Repository | Σύνδεσμος στη συζήτηση |
+|---|---|
+| [courses-ionio-help](https://github.com/courses-ionio/help) | [βοήθεια που ζήτησα για cmd prompt και asciinema](https://github.com/courses-ionio/help/discussions/197#discussion-3904180) |
+| [courses-ionio-help](https://github.com/courses-ionio/help) | [απορία για επιλογή template](https://github.com/courses-ionio/help/discussions/180) |
+| [courses-ionio-help](https://github.com/courses-ionio/help) | [μεγάλη συζήτηση σχετικά με το latex](https://github.com/courses-ionio/help/discussions/510) |
+| [courses-ionio-help](https://github.com/courses-ionio/help) | [προσθήκες στην εβδομαδίαια ανάρτηση](https://github.com/courses-ionio/help/discussions/252#discussioncomment-2265310)
+| [ioniodi/sitegr](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233)| [διόρθωση στο πέρασμα αρχείου .gitmodules σε PR](https://github.com/ioniodi/sitegr/pull/316#issuecomment-1061142233) / [διόρθωση σε .gitmodules](https://github.com/ioniodi/sitegr/pull/318#issuecomment-1061136759) |
+| [ioniodi/sitegr](https://github.com/ioniodi/sitegr) | [σχόλιο διαμόρφωσης σωστού tag σε closed issue από τα παρελθόν](https://github.com/ioniodi/sitegr/issues/205#issuecomment-1094296997) 
+| [ioniodi/all_collections](https://github.com/ioniodi/all_collections) | [πρόταση βελτιώσης σε PR](https://github.com/ioniodi/all_collections/pull/12#issuecomment-1061952319) |
+| [ioniodi/all_collections](https://github.com/ioniodi/all_collections) | [pull request το οποίο δεν εκπλήρωνε κανένα ζητούμενο των οδηγιών](https://github.com/ioniodi/all_collections/pull/7) |
+| [OompaLoompas/site](https://github.com/OompaLoompas/site) | [διευκρίνηση θέματος](https://github.com/OompaLoompas/site/issues/16) / [duplicate θέματος](https://github.com/OompaLoompas/site/issues/9#issuecomment-1073345298) / [μη αποδεκτά θέματα](https://github.com/OompaLoompas/site/issues/12#issuecomment-1075424591)|
+| [OompaLoompas/help](https://github.com/OompaLoompas/help/discussions) | [Discussions](https://github.com/OompaLoompas/help/discussions) |
 
 # Πηγές πληροφοριών
 
