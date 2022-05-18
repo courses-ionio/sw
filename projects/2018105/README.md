@@ -20,8 +20,11 @@
 | 11 | Άσκηση γραμμής εντολών |[Παρουσίαση προόδου 11](https://github.com/courses-ionio/help/discussions/618)| |
 | 12 | Τελική αναφορά* | | |
 
+
+
 ### Εισαγωγή
   Οι στόχοι του μαθήματος είναι να μπορέσω να καταλάβω όλη την απαιτούμενη διαδικασία η οποία χρειάζεται απο την καταγραφή των απαιτήσεων ενός λογισμικού, την σχεδίαση έως την ανάπτυξή του. Επιπλέον στοχεύω στο πλαίσιο του μαθήματος να εξοικειωθώ καλύτερα με την πλατφόρα του github,εργαλείο το όποιο κάθε επαγγελματίας προγραμματιστής χρησιμοποιεί. Τέλος θεωρώ πως μέσα απο τις ασκήσεις γραμμής εντολών θα μπορέσω να αποκτίσω νέες γνώσεις και εξοικείωση με καινούργια εργαλεία.
+  
   
   
 ### Βιογραφικό
@@ -29,6 +32,7 @@
   
   [Βιογραφικό](https://dimitristzer.github.io/online-cv/)
   [Ομάδα](https://github.com/IonianCombination)
+
 
 
   
@@ -45,25 +49,28 @@
 Τέλος να προσθέσω πως δεν έστειλα το pull request το οποίο απαιτούσε το παραδοτέο.
 
 
+
 ### Άσκηση γραμμής εντολών
 Για το τέταρτο παραδοτέο μας ζητήθηκε να εγκαταστήσουμε ένα λειτουργικό σύστημα το οποίο δεν διαθέτει systemd. Για τον λόγο αυτό επέλεξα για λειτουργικό σύστημα το Devuan Linux το οποίο το εγκατέστησα σε VirtualBox. Ο λόγος για το οποίο διάλεξα στο συγκεκριμένο λειτουργικό σύστημα, το οποίο βασίζεται στο Debian ειναι διότι διαθέτω μια εξοικείωση με Debian συστήματα. Η εγκατάσταση του λειτουργικού απετούσε αρκετά βήματα ωστόσο ήταν σχετικά εύκολη.
 
 [Asciinema Link](https://asciinema.org/a/478722)
 
 
+
 ### Συμμετοχικό περιεχόμενο A1 + A2
 
-Για το συμμετοχικό περιεχόμενο επέλεξα για εικόνες να προσθέσω το λειτουργικό σύστημα True Os καθώς επίσης το Ipod Shuffle της Apple.
+Για το συμμετοχικό περιεχόμενο επέλεξα για εικόνες να προσθέσω το λειτουργικό σύστημα True Os καθώς επίσης το iPod Shuffle της Apple.
+
 
 ### A1
 
-[True Os image](https://snazzy-douhua-80b0bf.netlify.app/gallery/true-os/)
-[Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os.png)
-[Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os-thumb.png)
+| [True Os image](https://snazzy-douhua-80b0bf.netlify.app/gallery/true-os/) 
+| [Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os.png) 
+| [Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/true-os-thumb.png) 
 
-[Ipod Shuffle](https://snazzy-douhua-80b0bf.netlify.app/gallery/ipod-shuffle/)
-[Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle.jpg)
-[Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle-thumb.jpg)
+| [iPod Shuffle](https://snazzy-douhua-80b0bf.netlify.app/gallery/ipod-shuffle/)
+| [Κανονική Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle.jpg)
+| [Μικρή Εικόνα](https://github.com/DimitrisTzer/images/blob/master/ipod-shuffle-thumb.jpg)
 
 ### Α2
 
@@ -73,12 +80,14 @@
 
 
 
+
 ### Bιογραφικό
 Tο συγκεκριμένο παραδοτέο απαιτούσε την δημιουργία του βιογραφικού σε μορφή pdf χρησιμοποιόντας τα εργαλεία pandoc και latex. Όλη η διαδικασία ήταν σχετικά εύκολη. Το μόνο πρόβλημα που αντιμετώπισα ήταν για την δημιουργία του pdf από το αρχείο .tex μου εμφανιζόντουσαν αρκετά error. Για τον λόγο αυτό χρειάστηκε να εγκαταστήσω κάτι επιπλέον για να λυθεί το πρόβλημα τα οποία είναι τα εξής: texlive-fonts-recommended και texlive-latex-extra
 
 [Asciinema Link](https://asciinema.org/a/483822)
 
 [Αρχεία τα οποία δημιουργήθηκαν](https://github.com/DimitrisTzer/online-cv/tree/master/bio_pdf)
+
 
 
 ### Άσκηση γραμμής εντολών
@@ -94,6 +103,8 @@ Tο συγκεκριμένο παραδοτέο απαιτούσε την δημ
 Η μόνη διαφορά στα 2 προγράμματα main1.py και main2.py είναι στην συνάρτηση f η οποία στο main1.py χρησιμοποιεί την πράξη ύψωση σε δύναμη με το 10 ενώ στο main2.py πολλαπλασιάζει επί 10. Για το λόγο αυτό το main1.py χρειάζεται περισσότερο χρόνο για να εκτελεστεί σε σύγκριση με το main2.py, πράγμα το οποίο επιβεβαιώνεται από το εργαλείο hyperfine.
 
 [Asciinema Link](https://asciinema.org/a/492657)
+
+
 
 
 ### Συμμετοχικό περιεχόμενο B1 και Β2
@@ -124,6 +135,8 @@ https://en.wikipedia.org/wiki/AWK
 https://en.wikipedia.org/wiki/Brian_Kernighan
 
 https://www.cs.princeton.edu/people/profile/bwk
+
+
 
 
 ### Άσκηση γραμμής εντολών
