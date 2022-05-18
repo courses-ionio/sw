@@ -44,7 +44,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
        
  <li><a href="https://famous-empanada-b13f80.netlify.app/courses/ba/" title="Demo">Demo</a>
  <li><a href="https://github.com/ioniodi/sitegr/issues/336" title="Issue">Issue</a>
- <li><a href="https://github.com/ioniodi/sitegr/pull/403" title="Pull Request">Pull Request</a>
+ <li><a href="https://github.com/ioniodi/all_collections/pull/65" title="Pull Request">Pull Request</a>
       
 <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
 
