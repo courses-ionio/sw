@@ -12,7 +12,7 @@
 | 4 | Άσκηση γραμμής εντολών | [Asciinema](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | ntfy, [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6) | |
-| 7 | βιογραφικό | | |
+| 7 | βιογραφικό | pdf βιογραφικό [asciinema link](https://asciinema.org/a/495286) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -92,19 +92,48 @@ https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC
 ![screenshot telegram](https://github.com/vivikara/image/blob/main/280750209_1428300000931801_670954090871778045_n%20(1).jpg)
 ## Συνεισφορά σε συζητήσεις
 
+
+
+## ΠΑΡΑΔΟΤΕΟ 7
+
+## PDF 
+
+Για το 7ο παραδοτέο έπρεπε να μετατέψουμε το βιογραφικό μας σε pdf μορφή.Αρχικά όπως φαίνεται και στο asciinema αρχικά έκανα εγκατάσταση το pandoc και το latex με της εξής εντολές: ``sudo apt-get install pandoc``, ``sudo apt-get install texlive-latex-base``
+
+Το [pdf](https://github.com/vivikara/online-cv/blob/master/assets/pdf/Vivi-resume.md) 
+
+Το [cv](https://vivikara.github.io/online-cv/)
+
+Το [link asciinema](https://asciinema.org/a/495286)
+
+
+
+## ΒΗΜΑΤΑ 
+◉ Έναρξη εγγραφής τερματικού ``python3 -m asciinema rec -i ``
+
+◉ Fork προσωπικού αποθετηρίου βιογραφικού ``git clone https://github.com/vivikara/online-cv``
+
+◉ Αλλαγή directory στο παραπάνω forked folder ``cd online-cv``
+
+◉ Δημιουργία φακέλου pdf ``mkdir pdf``
+
+◉ Δημιουργία tex αρχείου ``pandoc https://vivikara.github.io/online-cv/ -o cv.tex -s`` 
+
+◉ Δημιουργία pdf αρχείου ``pdflatex cv.tex``
+
+◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
+
+
+
+
+
+
+
+
 ### Σχολιασμός 
 https://github.com/ioniodi/sitegr/issues/355
 
 https://github.com/ioniodi/sitegr/issues/257
-
-
-
-
-
-
-
-
-
 
 
 
