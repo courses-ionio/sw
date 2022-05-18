@@ -82,9 +82,52 @@ https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC
 
 
 
+## ΠΑΡΑΔΟΤΕΟ 5
+
+Για το 5ο παραδοτέο έπρεπε να βρούμε δυο είκονες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image 
+
+Αρχικά έκανα fork τα repo [site](https://github.com/vivikara/site),[_gallery](https://github.com/vivikara/_gallery),[image](https://github.com/vivikara/images)
+
+[_gallery](https://github.com/vivikara/_gallery/blob/master/commodore128.md) Δημιουργία του αρχείου commodore128.md 
+
+[images](https://github.com/vivikara/images/blob/master/commodore128.png) Τοποθέτηση φωτογραφίας στο images κανονικού μεγέθους.  
+
+[images-thumb](https://github.com/vivikara/images/blob/master/commodore%20thumb.png) Τοποθέτηση φωτογραφίας πλάτους 160 pixel thumbnail.
+
+
+Έπειτα με τερματικό έκανα την διαδικασία για τα submodule. 
+
+## ΒΗΜΑΤΑ
+
+◉ fork του [pibook/site](https://github.com/vivikara/site)
+
+◉ git clone https://github.com/vivikara/site.git
+
+◉ cd site
+
+◉ ls
+
+◉ rm -rf _gallery images
+
+◉ git rm -r --cached _gallery
+ 
+◉ git rm -r --cached images
+
+◉ git submodule add https://github.com/vivikara/_gallery.git _gallery
+
+◉ git submodule add https://github.com/vivikara/images.git images
+
+◉ Deploy site στο netlify με το γνωστό τρόπο 
+ 
+[asciinema link]()
+
+
+
+
+
 ## ΠΑΡΑΔΟΤΕΟ 6
 
-Για το 6ο παραδοτέο έχω κάνει το NTFY TELEGRAM και το έβλα να στέλνει μήνυμα στο κινητό
+Για το 6ο παραδοτέο έχω κάνει το NTFY TELEGRAM και το έβαλα να στέλνει μήνυμα στο κινητό
 
 [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6)
 
