@@ -16,18 +16,18 @@
 
 | Εβδομάδα | Παραδοτέα | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/orgs/Kafeneio/teams/kafeneio/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) | <p align="center"> |
-| <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/171) |<p align="center">  |
-| <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/327) |<p align="center">  | |
-| <p align="center">4η | <p align="center">[Άσκηση γραμμής εντολών]((#4ο-παραδοτέο))</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/375) | |
-| <p align="center">5η | <p align="center">[Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) </p>| <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/416) | |
-| <p align="center">6η | <p align="center">[Άσκηση γραμμής εντολών](#6ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/543)| |
-| <p align="center">7η | <p align="center">[Bιογραφικό](#7ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/554) | |
-| <p align="center">8η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα </p>| | |
-| <p align="center">9η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
-| <p align="center">10η | <p align="center">συμμετοχικό περιεχόμενο B1+B2</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/592) | |
-| <p align="center">11η | <p align="center">Άσκηση γραμμής εντολών</p> | | |
-| <p align="center">12η | <p align="center">Τελική αναφορά*</p> |
+| <p align="center">1η | <p align="center"> [1ο Παραδοτέο-Εισαγωγή](#1ο-παραδοτέο) | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/70) |  <p align="center"> Έγιναν όλα βάση οδηγιών|
+| <p align="center">2η | <p align="center">[Βιογραφικό και δημιουργία ομάδας](#2ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/171) |<p align="center">   Έγιναν όλα βάση οδηγιών, Το Webring ήταν αρκετά δύσκολο |
+| <p align="center">3η | <p align="center">[Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/327) |<p align="center"> Αρκετά εύκολη υλοποίηση. |
+| <p align="center">4η | <p align="center">[Άσκηση γραμμής εντολών]((#4ο-παραδοτέο))</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/375) |<p align="center"> Η εγκατάσταση ήταν πολύ δύσκολή και κάτι καινούργιο για μένα αλλα όλα έγιναν βάση οδηγιών στο τέλος |
+| <p align="center">5η | <p align="center">[Συμμετοχικό περιεχόμενο A1+A2](#5ο-παραδοτέο) </p>| <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/416) | <p align="center">Μετά από συζήτηση με τον κ. Χωριανόπουλο άλλαξε το amiga για το macOS. Με έκανε να καταλάβω πραγματικά περιτίνος πρόκειται το υλικό και οι στόχοι του μαθήματος |
+| <p align="center">6η | <p align="center">[Άσκηση γραμμής εντολών](#6ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/543)|<p align="center"> Έγινε προσπάθεια για να χρησιμοποιήσω το void linux που εγκατέστησα προηγουμένος. Παρόλο που δεν μου άρεσε πάρα πολύ πρέπει να ομολογήσω ότι ήταν πολύ ωραία και εκπαιδευτικά σημαντική εμπειρία |
+| <p align="center">7η | <p align="center">[Bιογραφικό](#7ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/554) |<p align="center"> Είναι στατικό, δεν κατάφερα να το κάνω με git hooks παρόλα αυτά είναι βάση οδηγιών η εκτέλεση του |
+| <p align="center">8η | <p align="center">Αίτημα ενσωμάτωσης στην ιστοσελίδα </p>|<p align="center"> - |<p align="center"> Δεν έγινε λόγω έλλειψης χρόνου |
+| <p align="center">9η | <p align="center">[Άσκηση γραμμής εντολών](#9ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/645) | <p align="center"> Αρκετά δύσκολη αλλά πολύ ωραίαη υλοποίηση, πάλι βάση οδηγιών |
+| <p align="center">10η | <p align="center">[Συμμετοχικό περιεχόμενο B1+B2](#10ο-παραδοτέο)</p> | <p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/592) | <p align="center"> Με τις προηγούμενες γνώσεις και συζήτηση αυτό το παραδοτέο ήταν με την πρώτη πολύ καλό και έμαθα πολλά από την ερευνα μου|
+| <p align="center">11η | <p align="center">[Άσκηση γραμμής εντολών](#11ο-παραδοτέο)</p> |<p align="center"> [Link Show_and_tell](https://github.com/courses-ionio/help/discussions/646)| <p align="center"> Εύκολη υλοποίηση απλά χρειάστηκε λίγη φαντασία για ένα καλό παράδειγμα |
+| <p align="center">12η | <p align="center">[Τελική αναφορά](#12ο-παραδοτέο)</p> |<p align="center">[Link Show_and_tell](https://github.com/courses-ionio/help/discussions/647) |<p align="center"> Οι γενικές μου σκέψης τελειώνοντας το μάθημα ήταν τελείως διαφορετικές από τις προσδοκίες μου προς το καλύτερο |
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -115,10 +115,24 @@
 Στο παραδοτέο αυτό δημιούργησα το pdf από το βιογραφικό του 2ου παραδοτέου. Χρησιμοποιήσα το pandoc και το latex τα οποία παρόλο που με δυσκόλεψαν μου έμαθαν πολλά [Το pdf](https://github.com/Alkissourvinos/online-cv/blob/master/cv-pdf/cv.pdf)
 [![asciicast](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6.svg)](https://asciinema.org/a/p5NshAdJ8BRc04E9mYnDiYrf6)<br>
 
+## 9ο Παραδοτέο
+Για αυτό το παραδοτέο επέλεξα να κάνω το εργαλείο hyperfine σε void linux. Έφτιαξα ένα απλό script στην Python και το έτρεξα μαζί με το Hyperfine για να μου δώσει τις επιδόσεις του<br>
+[![asciicast](https://asciinema.org/a/dGyxj6pH3jqvkAu5RMOTxIhvd.svg)](https://asciinema.org/a/dGyxj6pH3jqvkAu5RMOTxIhvd)
 
 ## 10ο Παραδοτέο
-[Biography](https://kafeneio-site-pibook.netlify.app/biography/wozniak/)
+Σε αυτό το παραδοτέο έκανα βιογραφία για τον Steve Wozniak και case study για το iphone-os1. Ο Steve ήταν πρωτοπόρος στον χώρο των προσωπικών υπολογιστών ενώ το iphone-os1 ήταν η αρχή για κάτι που σήμερα θεωρούμε δεδομένο, το μοντέρνο smartphone!<br>
+![image](https://user-images.githubusercontent.com/72436770/169025319-7aa828cc-41bc-4278-b3e3-a6a82e89d90e.png)<br>
+[Biography](https://kafeneio-site-pibook.netlify.app/biography/wozniak/)<br>
+![image](https://user-images.githubusercontent.com/72436770/169025389-5d9a64df-70c6-4142-843b-d96b2da6ad67.png)<br>
 [Case Study](https://kafeneio-site-pibook.netlify.app/case-study/iphone-os1/)
+
+## 11ο Παραδοτέο 
+Για αυτό το παραδοτέο επέλεξα να κάνω το ntfy. Στο asccicast παρακάτω τρέχω ένα απλό script που τρέχει την εντολή neofetch και το ntfy απλά στέλνει την ειδοποίηση ότι ήταν επιτυχείς
+[![asciicast](https://asciinema.org/a/sbMghJsyI7NYe1RLEEWhGLMTS.svg)](https://asciinema.org/a/sbMghJsyI7NYe1RLEEWhGLMTS)
+![image](https://user-images.githubusercontent.com/72436770/169024138-7c29feab-0b33-434f-aefd-868dd30f29af.png)
+
+## 12ο Παραδοτέο
+Στο μάθημα τεχνολογία λογισμικού έμαθα πολλά πράγματα τεχνικά και θεωρητικά. Ας αρχίσουμε από τα τεχνικά. Αρχικά έμαθα το πόσο σημαντική είναι η συνεργασία σε τμηματικό επίπεδο και πόσο δύσκολη μπορεί να γίνει μερικές φορές, πως πρέπει να είσαι απέναντι στους συμμετέχοντες του τμήματος και πως πρέπει να οργανώσεις τις απαιτήσεις που έχεις και να αναλύσεις τις συνεισφορές του καθενός έτσι ώστε να παραμείνεις δίκαιος. Ωστόσο έμαθα και πόσο σημαντικό είναι για έναν προγραμματιστή να μην γράφει κώδικα. Δηλαδή να προσπαθεί νοητά να έχει όσο μικρότερο και λειτουργικό  κομμάτι κώδικα γίνεται, οι πολλές γραμμές κώδικα δεν κάνουν το πολύ καλό πρόγραμμα, αντιθέτως δημιουργούν προβλήματα στην πορεία και συγκεκριμένα στην αναγνωσιμότητα και στην συντήρηση του κώδικα. Όσο αναφορά τα θεωρητικά τώρα, έχω να πω ότι δεν περίμενα να δω, ακούσω και ενστερνιστώ καινούργιες ιδέες από αυτό το μάθημα. Δεν περίμενα να χρειαστεί να σκεφτώ αν και γιατί το λογισμικό που χρησιμοποιώ είναι το καλύτερο δυνατό. Ο Άλαν Κέυ μιλούσε συχνά στα video quiz για την αρχιτεκτονική της πυραμίδας και του ουρανοξύστη και την τεράστια διαφορά μεταξύ των δύο. Για την ελευθερία του χρήστη στην χρήση του λογισμικού και την ανακύκλωση τεχνολογίας, για την ανάγκη που πρέπει να νιώθουμε σαν προγραμματιστές του μέλλοντος να αμφισβητούμε οτιδήποτε μας δίνεται έτοιμο και μέσω αυτής της αμφισβήτησης να φτιάχνουμε κάτι νέο, κάτι καλύτερο. Στα λόγια του ιδίου, “Αν θεωρήσουμε ότι έχουμε λύσει τα πάντα με τα υπάρχοντα λογισμικά η επομένη γενιά προγραμματιστών δεν θα προσπαθήσει καν να τα κάνει καλύτερα”. Ο Brent Victor μιλούσε για συστήματα που επικοινωνούν μεταξύ τους χωρίς μεσάζων κώδικα, API και πρωτόκολλα επικοινωνίας αλλά το ίδιο το λογισμικό να μπορεί να το κάνει όπως το TCP/IP. Ο Ted Nelson μιλούσε για την τεχνολογία και το προϊόν και πως σήμερα έχουμε σχεδόν χάσει την τεράστια διαφορά που έχουν αυτά τα δύο μεταξύ τους. Έχοντας ακούσει όλα αυτά και έχοντας κάνει πολλές συζητήσεις στο μάθημα μπορώ πλέον να πω  ότι καταλαβαίνω. Καταλαβαίνω την διαφορά μεταξύ τεχνολογίας και προϊόντος, καταλαβαίνω πόσο ανελεύθεροι είμαστε στις επιλογές μας, σε πόσα πολλά έξυπνα κουτάκια μας έχουν βάλει. Πόσο εύκολα αγοράζουμε την ψευδαίσθηση της ελευθερίας που άλλοι σκέφτηκαν και μας πούλησαν και τέλος πόσο εύκολο είναι για μας να ξεχάσουμε ότι το καλύτερο θυσιάστηκε εδώ και πάρα πάρα πολύ καιρό για το κερδοφόρο. Εν κατακλείδι, από το μάθημα τεχνολογία λογισμικά θα μου μείνει το εξής : Η αρχή της προσπάθειας για την εύρεση του καλύτερου δυνατού είναι η συνεχής αμφισβήτηση όσων βλέπουμε και χρησιμοποιούμε, ειδάλλως πάντα θα νομίζουμε ότι το καλύτερο  είναι μπροστά μας
 
 ## ✔️ Ομαδικότητα στο μάθημα<br>
 [Link](https://github.com/courses-ionio/help/discussions/109)<br>
