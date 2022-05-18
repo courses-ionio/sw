@@ -189,7 +189,8 @@
 ## Συνεισφορά σε συζητήσεις
 
 ### Σχολιασμός 
-https://github.com/ioniodi/sitegr/issues/355
+
+https://github.com/ioniodi/sitegr/issues/404
 
 https://github.com/ioniodi/sitegr/issues/257
 
