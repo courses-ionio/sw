@@ -11,7 +11,7 @@
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
 | 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>  <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -84,6 +84,15 @@
 [Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
 
 [Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
+
+
+## Άσκηση γραμμής εντολών
+
+### Set-up the main dependencies and demonstrate your base system
+
+Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
 
 
 
