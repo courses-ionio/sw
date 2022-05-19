@@ -140,7 +140,7 @@
 
 ## PDF 
 
-Για το 7ο παραδοτέο έπρεπε να μετατέψουμε το βιογραφικό μας σε pdf μορφή.Αρχικά όπως φαίνεται και στο asciinema αρχικά έκανα εγκατάσταση το pandoc και το latex με της εξής εντολές: ``sudo apt-get install pandoc``, ``sudo apt-get install texlive-latex-base``
+Για το 7ο παραδοτέο έπρεπε να μετατέψουμε το βιογραφικό μας σε pdf μορφή.Αρχικά όπως φαίνεται και στο asciinema αρχικά έκανα εγκατάσταση το pandoc και το latex με της εξής εντολές: ``sudo pacman -S install pandoc``, ``sudo pacman -S install texlive-latex-base``
 
 Το [pdf](https://github.com/vivikara/online-cv/blob/master/assets/pdf/Vivi-resume.md) 
 
