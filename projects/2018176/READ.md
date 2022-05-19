@@ -48,7 +48,7 @@
 
 # <a name="D">Άσκηση γραμμής εντολών </a>
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.
-Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
+Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.Επιπλέον στο βίντεο τρέχω ένα script (επειδή δεν είχα καταφέρει να εγκαταστήσω τότε το asciinema) το οποίο κάνει record το Terminal Session. Επιπλέον δείχνω το καιρό μέσω terminal.(warmup ασκήσεις). 
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/434)
 
@@ -57,6 +57,7 @@
 # <a name="E">Συμμετοχικό περιεχόμενο A1+A2 </a>
 Σε αυτό το παραδοτέο πρόσθεσα το λειτουργικό σύστημα artixlinux και το runit στο site.
 Το ArtixLinux δεν χρησιμοποιεί systemd και χρησιμοποιεί άλλες λειτουργίες όπως το runit.
+Σημείωση: Οι φωτογραφίες αποτελούν screenshot.
 
 ![Screenshot 2022-05-10 at 22 51 35](https://user-images.githubusercontent.com/93882637/167710828-cc1771c7-b545-4267-b1f3-a6ba46c22359.png)
 ![Screenshot 2022-05-10 at 22 51 17](https://user-images.githubusercontent.com/93882637/167710844-ff746d63-8d35-4dd3-b96a-c9afccfd8dc6.png)
@@ -65,6 +66,7 @@
 
 # <a name="F">Άσκηση γραμμής εντολών </a>
 Σε αυτό το παραδοτέο εγκατέστησα τα py-spy και hyperfine
+Δυσκολεύτηκα λίγο στην εγκατάσταση του hyperfine μιας και το συγκεκριμένο tool είναι σε .deb αρχείο και έτσι χρειάζονταν να κατεβάσω και το debtap προκειμένου να το εγκαταστήσω , επιπλέον το debtap δεν κατέβαινε με τον package manager των artix και γι αυτό το κατέβασα μέσω του trizen αφού έκανα εγκατάσταση και αυτού από το github.
 Πήρα 2 σκριπτάκια που έγραψα εγώ ίσα ίσα για την χρήση των παραπάνω εργαλείων και χρησιμοποίησα το py-spy και το hyperfine για να συγκρίνω της αποδόσεις των δύο:
 
 [Asciinema Py spy](https://asciinema.org/a/jc1vyK2KVHLwfKUyEkvWPhalH)
@@ -83,7 +85,7 @@ hyperfine benchmark
 ![Screen Shot 2022-03-27 at 2 23 53 AM](https://user-images.githubusercontent.com/93882637/160261439-3be4c60e-446c-41a9-b583-aa8fdd942fca.png)
 
 # <a name="G">Βιογραφικό#2  </a>
-Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf.
+Σε αυτό το παραδοτέο μετάτρεψα το online βιογραφικό μου σε μορφή pdf. Εγκατέστησα τα εργαλεία pandoc και pdflatex δημιούργησα έναν φάκελο με όνομα PDF και χρησιμοποίησα το εργαλείο pandoc για να εξάγω ένα .tex αρχείο που στην συνέχεια με το εργαλείο pdflatex έκανα το .tex αρχείο σε .pdf.
 
 [Asciinema Link](https://asciinema.org/a/jcdSKp6uMe9XMijjXntdIlh2U)
 
