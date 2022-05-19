@@ -57,7 +57,7 @@
 # <a name="E">Συμμετοχικό περιεχόμενο A1+A2 </a>
 Σε αυτό το παραδοτέο πρόσθεσα το λειτουργικό σύστημα artixlinux και το runit στο site.
 Το ArtixLinux δεν χρησιμοποιεί systemd και χρησιμοποιεί άλλες λειτουργίες όπως το runit.
-Σημείωση: Οι φωτογραφίες αποτελούν screenshot.
+Σημείωση: Η φωτογραφία αποτελεί screenshot.
 
 ![Screenshot 2022-05-10 at 22 51 35](https://user-images.githubusercontent.com/93882637/167710828-cc1771c7-b545-4267-b1f3-a6ba46c22359.png)
 ![Screenshot 2022-05-10 at 22 51 17](https://user-images.githubusercontent.com/93882637/167710844-ff746d63-8d35-4dd3-b96a-c9afccfd8dc6.png)
