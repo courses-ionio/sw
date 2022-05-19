@@ -50,7 +50,7 @@
 Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.
 Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.Επιπλέον στο βίντεο τρέχω ένα script (επειδή δεν είχα καταφέρει να εγκαταστήσω τότε το asciinema) το οποίο κάνει record το Terminal Session. Επιπλέον δείχνω το καιρό μέσω terminal.(warmup ασκήσεις). 
 
-[Link Discussions](https://github.com/courses-ionio/help/discussions/434)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/434) (ΑΝΑΛΥΤΙΚΟ βίντεο με record.txt αρχείο που κάνει record το terminal session)
 
 
 
