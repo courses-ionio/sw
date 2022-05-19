@@ -121,7 +121,7 @@
 * **[VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)**
 * **[Asciinema](https://asciinema.org/)**</h5>
 <br>
-<h3>Πατήστε πάνω στην εικόνα για να δείτε το aciinema recording μου!**</h3>
+<h3>Πατήστε πάνω στην εικόνα για να δείτε το aciinema recording μου!</h3>
 <p align="center">
 <a href="https://asciinema.org/a/477076" target="_blank"><img src="https://asciinema.org/a/477076.svg" /></a>
 <p/>
