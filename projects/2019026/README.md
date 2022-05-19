@@ -31,7 +31,7 @@ _Σημείωση: Τα παραδοτέα ξεκίνησαν από την κα
 
 Έδω φαίνεται η εικόνα του βιογραφικού:
 
-![Βιογραφικό]((https://imgur.com/FUUCJiW))
+<img src="https://i.imgur.com/ZP5NMNK.png" alt="picture">
 
 Και εδώ τα μέλη της ομάδας:
 
@@ -54,8 +54,8 @@ _Σημείωση: Τα παραδοτέα ξεκίνησαν από την κα
 
 **Παραδοτέο 5 | ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 + Α2**
 
-<img src=”(https://imgur.com/Vf0c4Nk)”>
-<img src=”(https://imgur.com/CULqgdO)”> 
+<img src="https://i.imgur.com/Vf0c4Nk.png"  alt="picure"> 
+<img src="https://imgur.com/CULqgdO.png"  alt="picture"> 
 
 Το 5ο παραδοτέο ήταν το πρώτο συμμετοχικού περιεχομένου. Στο συγκεκριμένο παραδοτέο το Α1 μέρος, ζητούσε δύο εικόνες με ελεύθερα(ή με επιτρεπόμενης χρήσης) πνευματικά δικαιώματα. Επέλεξα να προσθέσω τις πληροφορίες από 2 κονσόλες βιντεοπαιχνιδιών, συγκεκριμένα τις Nintendo Color TV και PlayStation 1. Όπως ήταν το ζητούμενο, προστέθηκαν οι εικόνες στο "images"(και κανονικού και μικρού μεγέθους) και οι πληροφορίες για τις 2 επιλογές μου στο "gallery". . Το δεύτερο μέρος, το Α2, ζητούσε να γίνουν ένα σετ από θεματικές διαφάνειες και ένα χρονολόγια που να συνδυάζει τις εικόνες από το Α1 με ήδη υπάρχουσες. Αυτό το κομμάτι επίσης ολοκληρώθηκε με επιτυχία.
 
@@ -79,7 +79,7 @@ Pull requests:
 
 **Παραδοτέο 10 | Β1+Β2 ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ**
 
-<img src=”((https://imgur.com/undefined)”>
+<img src="https://imgur.com/AeGjasm.png"  alt="picture"> 
 
 Στο 10ο παραδοτέο, ζητήθηκαν τα Β1 & Β2 συμμετοχικά περιεχόμενα του μαθήματος και το αντίστοιχο [Pull Request](https://github.com/Sybil-Reisz/site/pull/10) στο αποθετήρο της ομάδας. Για το Β1 επέλεξα να αναγράψω την βιογραφία του ιδρυτή της Nintendo, Fusajiro Yamauchi. Ανέβασα στο biography την [βιογραφία](https://github.com/p19vrou/site/blob/master/_biography/Fusajiro-Yamauchi.md) του καθώς και το [κείμενό](https://github.com/p19vrou/site/blob/master/_includes/bio-Yamauchi.md) της. Μαζί ανέβηκαν στο images, η [προφιλ](https://github.com/p19vrou/images/blob/master/Fusajiro_Yamauchi-profile.jpg) του Yamauchi σε κανονικό και σε [thumbnail version](https://github.com/p19vrou/images/blob/master/Fusajiro_Yamauchi-profile-thumb.jpg)
 Για το Β2, παραμένοντας στο ίδιο θέμα, έκανα [μελέτη περίπτωσης για την Nintendo](https://github.com/p19vrou/site/blob/master/_case-study/Nintendo.md), όπου έκανα include το αντίστοιχο [κέιμενο](https://github.com/p19vrou/site/blob/master/_includes/cs-nintendo.md) που δημιούργησα.
