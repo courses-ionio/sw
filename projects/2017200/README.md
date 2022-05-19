@@ -15,7 +15,7 @@
 | 7 | βιογραφικό | pdf βιογραφικό [asciinema link](https://asciinema.org/a/495286) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Asciinema link]() | |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Asciinema link](),[Biography](https://p2017200.netlify.app//biography/bil-herd/),[Case study](https://p2017200.netlify.app//case-study/cs-alpinelinux/) | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -184,6 +184,10 @@
 Για την βιογραφία πρόσθεσα τον Bil Herd που είναι ο σχεδιαστής του Commodore128 και επιπλέον ήταν επίσης αναπόσπαστο κομμάτι της ανάπτυξης των τσιπ υπολογιστών που
 χρησιμοποιούσε η Apple μέχρι τα μέσα της δεκαετίας του 1990. 
 
+
+[Demo Bil Herd](https://p2017200.netlify.app//biography/bil-herd/)
+
+[Demo alpine linux](https://p2017200.netlify.app//case-study/cs-alpinelinux/) 
 
 [Asciinema link]()
 
