@@ -10,13 +10,13 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | Επιτυχής δημιουργία της εισαγωγής και αναφορά των στόχων μου για το μάθημα  |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
-| 3 | <li><a href="#Αίτημα Ενσωμάτωσης"></span> <span class="toctext">Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
-| 4 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Εγκατάσταση του Void Linux και εκτέλεση άσκησης γραμμής εντολών για εξάσκηση  |
+| 3 | <li><a href="#1ο Αίτημα Ενσωμάτωσης"></span> <span class="toctext">1ο Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
+| 4 | <li><a href="#1η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">1η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Εγκατάσταση του Void Linux και εκτέλεση άσκησης γραμμής εντολών για εξάσκηση  |
 | 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
-| 6 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία warmup. |
+| 6 | <li><a href="#2η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">2η Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία warmup. |
 | 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Επιτυχής μετατροπή του βιογραφικού μου σε μορφη pdf |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | <li><a href="#Άσκηση Γραμμής Εντολών"></span> <span class="toctext">Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία software. |
+| 8 | <li><a href="#2ο Αίτημα Ενσωμάτωσης"></span> <span class="toctext">2ο Αίτημα Ενσωμάτωσης</span></a> | - | Μη υλοποίηση του παραδοτέου |
+| 9 | <li><a href="#3η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">3η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία software. |
 | 10 | <li><a href="#Συμμετοχικό περιεχόμενο Β1&Β2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο Β1&Β2</span></a> |  <i><a href="https://github.com/courses-ionio/help/discussions/642" title="Discussions">Discussions</a></i> |  Επιλογή μελέτη περίπτωσης και βιογραφία. Δυσκολία στην προσθήκη τους στο Netlify. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -39,14 +39,14 @@ Github Profile: https://github.com/AnastasiaMariaStefani
    Βιβλιογραφία:
      <li>[Template](https://github.com/sharu725/online-cv)
        
-<h2><span id="Αίτημα Ενσωμάτωσης">Αίτημα Ενσωμάτωσης</span></h2>
+<h2><span id="1ο Αίτημα Ενσωμάτωσης">Αίτημα Ενσωμάτωσης</span></h2>
        Στο 3ο παραδοτέο μας ζητήθηκε η αλλαγή/προσθήκη ενός θέματος με βάση την ιστοσελίδα του τμήματος. Εγώ επέλεξα ως θέμα την προσθήκη του καθηγητή κ. Δουκάκη στο μάθημα "Οργάνωση και Διοικηση Επιχειρήσεων" του Β΄ εξαμήνου. Μετα την δημιουργία του issue, έγιναν οι απαραίτητες αλλαγές στο αποθετήριο της ιστοσελίδας, με αποτέλεσμα να δημιουργηθεί τελικά το κατάλληλο pull request.
        
  <li><a href="https://famous-empanada-b13f80.netlify.app/courses/ba/" title="Demo">Demo</a>
  <li><a href="https://github.com/ioniodi/sitegr/issues/336" title="Issue">Issue</a>
  <li><a href="https://github.com/ioniodi/all_collections/pull/65" title="Pull Request">Pull Request</a>
       
-<h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
+<h2><span id="1η Άσκηση Γραμμής Εντολών">1η Άσκηση Γραμμής Εντολών</span></h2>
 
   Για το 4ο παραδοτέο χρειάστηκε να γίνει η εγκατάσταση ενός νέου λογισμικού χωρίς systemd. Επέλεξα να χρησιμοποιήσω το Void Linux, καθώς είδα την εφαρμογή του και από άλλους συμφοιτητές μου, ενώ μου φάνηκε και αρκετά εύκολο, από την στιγμή που δεν είχα ξανά δουλέψει με κάτι παρόμοιο. Παρά τις κάποιες δυσκολίες που αντιμετώπισα κατά την διαδικασία της εγκτατάστασής του, τελικά ολοκληρώθηκε με επιτυχία. Για περαιτέρω εξάσκηση, έτρεξα και μια άσκηση γραμμής εντολών.
    
@@ -73,7 +73,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
        
        
 
- <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
+ <h2><span id="2η Άσκηση Γραμμής Εντολών">2η Άσκηση Γραμμής Εντολών</span></h2>
 
   Για το 6ο παραδοτέο ολοκλήρωσα την εκτέλεση μίας άσκησης γραμμής εντολών με την βοήθεια του Void Linux.
        
@@ -98,7 +98,12 @@ Github Profile: https://github.com/AnastasiaMariaStefani
        
        
        
-  <h2><span id="Άσκηση Γραμμής Εντολών">Άσκηση Γραμμής Εντολών</span></h2>
+   <h2><span id="2ο Αίτημα Ενσωμάτωσης">2ο Αίτημα Ενσωμάτωσης</span></h2>
+       Για το 8ο παραδοτέο απαιτούνταν ένα δευτερο αίτημα ενσωμάτωσης στο αποθετήριο της ιστοσελίδας του τμήματος, κάτι το οποίο δεν κατάφερα να υλοποιήσω.
+       
+       
+       
+  <h2><span id="3η Άσκηση Γραμμής Εντολών">3η Άσκηση Γραμμής Εντολών</span></h2>
 
   Για το 9ο παραδοτέο απαιτούνατν η ολοκλήρωση μίας άσκησης γραμμής εντολών. Ειδικότερα, επέλεξα μία άσκηση από την κατηγορία software, η οποία ήταν η "programmable voice". Για να καταφέρω να εκτελέσω σωστά αυτή την άσκηση χρειάστηκε να χρησιμοποιήσω το twilio. Με τη βοήθεια ενός μικρού προγράμματος σε python κατάφερα να στείλω μήνυμα στον αριθμό του κινητού μου. (Αντί για φωνητική κλήση, επέλεξα να μου σταλεί μηνύμα.)
        
