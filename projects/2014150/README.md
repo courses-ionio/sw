@@ -14,11 +14,11 @@
 | <a href="#C">3</a> |<a href="#C">Αίτημα ενσωμάτωσης στην ιστοσελίδα </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/338) | Κατανόηση εντολών μέσω git για το επιτυχές αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος, με κάποια προβληματα στο submodule και η κατανόηση αυτών |
 | <a href="#D">4</a> |<a href="#D">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/394) | Εγκατάσταση συστήματος χωρίς systemmd, προβλήματα εγκατάστασης, επίλυση μέσω VM και εγκαστάσταση Artix Linux |
 | <a href="#E">5</a> | <a href="#E">Συμμετοχικό περιεχόμενο A1+A2</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/446) | Επιλογή εικόνας MAME32, ATARI-DOS και χρήση Netlify για το ανέβασμα τους |
-| <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς |
-| <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex |
+| <a href="#D">6</a> | <a href="#D">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/479) | Τελική εγκατάσταση συστήματος χωρίς systemd, update αναφοράς. Ενασχόληση με plan9, kiss linux(αρκετα δύσκολη διαδικασία με αποτυχία boot στο laptop) και Artix Linux(Τελική επιλογή). |
+| <a href="#F">7</a> | <a href="#F"> Bιογραφικό </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/511) | Δημιουργία αρχείου pdf tou CV, pdflatex με pandoc. Αρκετά εύκολη διαδικασία χωρίς να με δυσκολέψει αρκετα. |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile |
-| <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS |
+| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile.Χρήσιμη άσκηση, δημιουργεία αρχείου που στέλνει μήνυμα στο κινητό μου όταν τελείωνει τα Updates συστήματος. |
+| <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS.  |
 | <a href="#I">11</a> | <a href="#I">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/620) | Εγκατάσταση py-spy, hyperfine και κατάλληλα πακέτα για την εκτέλεση της άσκησης |
 | 12 | Τελική αναφορά* | | |
 
