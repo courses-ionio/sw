@@ -99,7 +99,7 @@ Asciinema: https://asciinema.org/a/m0qVjqPG8RDhnlze7shhsjIpG
 Εχω λυσει το προβλημα που αναφερθηκε εδω: https://github.com/ioniodi/sitegr/issues/206#issuecomment-822429411. Χρειαζεται το z-index να ειναι πιο υψηλο απο το z-index καθε αλλου αντικειμενου, οποτε το εβαλα μια ακραια τιμη.
 
 ## Ασκηση Γραμμης Εντολων 3
-Performance monitoring σε παλιο python κωδικα ο οποιος κρυπτογραφει ενα μηνυμα που γραφει ο client με RSA και το στελνει στον server που περιμενει το μηνυμα ωστε να το αποκρυπτογραφησει. Για αυτο το σκοπο χρειαστηκα δυο τερματικα. 
+Performance monitoring σε παλιο python κωδικα ο οποιος κρυπτογραφει ενα μηνυμα που γραφει ο client με RSA και το στελνει στον server που περιμενει το μηνυμα ωστε να το αποκρυπτογραφησει. Για αυτο το σκοπο, ανοιγω δυο τερματικα και τρεχω το κωδικα μεσω py-spy. Δυστυχως παρολο που λεει οτι δουλευει με python3.10, πετουσε error για unsupported version και δεν μπορεσα να κατεβασω μια παλαιοτερα εκδοση του python (π.χ. 3.5). Η python2.7 ειχε προβλημα με το κωδικα του script (δεν αναγνωριζει το module Crypto που χρησιμοποιουσε ο κωδικας) και οταν ετρεχα την python 3 συγκεκριμενα, ετρεχε την 3.10.
 
 ## Συμμετοχικο 2 με αλλαγες στο συμμετοχικο 1
 Πραγματοποιησα αλλαγες στην προσθηκη μου Void Linux. Αντι να λεω γενικα πραγματα για το Void, εγραψα συγκεκριμενα για το [runit](https://github.com/p19kala/_gallery/blob/P2019017/runit.md) init συστημα που χρησιμοποιει το Void και το πλεονέκτημά του ειναι να κανει boot πιο γρηγορα το λειτουργικο χαρη σε μια λειτουργια του (παραλληλισμος των υπηρεσιων εκκινησης). Ενω κανει boot, ταυτοχρονα τρεχει startup services για να γλιτωσει χρονο. Εκανα screenshot το boot του runit και το εβαλα στη θεση του Void logo που ειχα προηγουμενως. [Full image](https://github.com/p19kala/images/commit/b58fb2ef11b26b1d27760efa0c398e730a86cbc7) and [thumbnail](https://github.com/p19kala/images/commit/349ee52589d570c8b75cf6d86ea94539dde73265).<br>
@@ -110,12 +110,13 @@ Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [githu
 Αντικατασταση της εγγραφης για το FreeBSD με το XBPS package manager του Void. Δημιουργηθηκε απο το μηδεν απο την ομαδα του Void και συντηρειται μεχρι σημερα. Υλοποιηθηκε για πρωτη φορα στο λειτουργικο του Void, το οποιο με τη σειρα του δημιουργηθηκε αποκλειστικα ως testing grounds για το XBPS. Ο κωδικας βρισκεται στο [github](https://github.com/void-linux/xbps). Περισσοτερα εδω:<br>
 Εικονα με λεζαντα: https://p19kala-pibook.netlify.app/gallery/void-xbps/ <br>
 Εικονα [full](https://github.com/p19kala/images/commit/dcd60635e92d270f8ee43408fa52a01e0b35bfb4) και [thumbnail](https://github.com/p19kala/images/commit/6096a01c608b82c0e88b48e9cf44bc319aa9890a). <br>
+
+Για καποιο λογο δεν δουλευουν συγκεκριμενα οι εγγραφες για αυτο το εγγραφο. Ακομη και μετα απο renaming και building it from scratch, μονο η αλλη εγγραφη (Void) εμφανιζεται.
 Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-managers/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-managers.md) <br>
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
-More to be added...
-
 ## Ασκηση Γραμμης Εντολων 4
+-
 
 ## Links ομαδικότητας και συμμετοχής
 Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
