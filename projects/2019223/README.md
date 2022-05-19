@@ -15,7 +15,7 @@
 | 7 | βιογραφικό | | |
 | 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
 | 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -101,6 +101,15 @@
 
 
 [Το issue μου](https://github.com/ioniodi/sitegr/issues/406)
+
+
+# Συμμετοχικό περιεχόμενο B1+B2
+
+Στο δεύτερο συμμετοχικό περιεχόμενο Β1+Β2 μας ζητήθηκε ένα βιογραφικό και μια μελέτη περίπτωσης. Εγώ επέλεξα να ασχοληθώ με το λογισμικό MSC software σαν μελέτη περίπτωσης και με τους δημιουργούς αυτού του λογισμικού, Richard H. MacNeal, Robert Schwendler σαν βιογραφικό. Οι τροποποιήσεις έγιναν στο _case-study και _biography.
+
+[Μελέτη Περίπτωσης](https://github.com/PetroulaStylianou/site/blob/master/_case-study/MSC.md)
+
+[Βιογραφικό](https://github.com/PetroulaStylianou/site/blob/master/_biography/MSC.md)
 
 
 
