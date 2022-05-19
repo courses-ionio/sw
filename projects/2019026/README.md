@@ -101,6 +101,6 @@ Pull requests:
 - [Άποψη και προσθήκη ιδέας σε issue συμφοιτητή για βελτίωση της πρότασής του](https://github.com/ioniodi/sitegr/issues/379#issuecomment-1091871125)
 - [Δοκιμή αλλαγής του συμφοιτητή για έλεγχο ορθότητας](https://github.com/ioniodi/sitegr/pull/400#issuecomment-1105345040)
 - [Feedback 1 σχετικά με issue που έγινα taged](https://github.com/ioniodi/sitegr/issues/396#issuecomment-1095539652)
-- [Ενημέρωωση συμφοιτητή για τρόπο βελτίωσης του θέματός του](https://github.com/ioniodi/sitegr/issues/298#issuecomment-1060003412)
+- [Ενημέρωση συμφοιτητή για τρόπο βελτίωσης του θέματός του](https://github.com/ioniodi/sitegr/issues/298#issuecomment-1060003412)
 
 _Κάποια ακόμα σχόλια που κάνω approve issues που έγινα tagged ή συμφοιτητής βρήκε παρόμοια αλλαγή πριν από εμένα θεωρώ ανούσια να τα προσθέσω_
