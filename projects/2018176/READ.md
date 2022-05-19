@@ -47,8 +47,7 @@
 
 
 # <a name="D">Άσκηση γραμμής εντολών </a>
-Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.Επιπλέον η φωτογραφία αποτελεί screenshot.
-
+Σε αυτό το παραδοτέο εγκατέστησα το λογισμικό artixlinux .Το ArtixLinux δημιουργήθηκε σαν αντικατάσταση των ArchLinux όταν αυτά ξεκίνησαν να χρησιμοποιούν το systemd.Το Arch OpenRC και το Manjaro OpenRC συγχωνεύτηκαν με σκοπό να δημιουργήσουν τα ArtixLinux ΧΩΡΙΣ systemd.
 Ο υπερσύνδεσμος στο Discussions περιέχει αναλυτικότερο βίντεο.
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/434)
