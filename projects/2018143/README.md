@@ -440,8 +440,10 @@ asciinema link για ειδοποιήσεις στο Telegram : https://asciine
 
 | Ομαδικότητα : | 
   | --- | 
-  | []() |
-  | []() |
+  | [Ομαδικότητα](https://github.com/ioniodi/sitegr/issues/270) |
+  | [Ομαδικότητα](https://github.com/ioniodi/sitegr/issues/269) |
+  | [Ομαδικότητα](https://github.com/ioniodi/all_collections/pull/34) |
+  | [Ομαδικότητα](https://github.com/ioniodi/all_collections/pull/18) |
   
 ### Σύντομη ανάλυση εργαλείων : 
 
