@@ -11,7 +11,7 @@
 | 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | | |
 | 5 | <a href="#Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)"><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></a> | | |
 | 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | | |
-| 7 | βιογραφικό | | |
+| 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -78,5 +78,9 @@
 | 3 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/aMUPQahP5B4MpGUpWAFSH1xSy) |
 | 4 | [track your expenses](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
 | 5 | [search the web from the terminal](https://asciinema.org/a/70lO37sgkrORc6fJhiDNmSs0Q) |
+  
+  
+<br><br>
+<h2><span id="Bιογραφικό">(2) Bιογραφικό</span></h2>
 
   
