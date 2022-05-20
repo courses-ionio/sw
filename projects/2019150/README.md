@@ -1,10 +1,12 @@
 
-|<h3> Α.Μ.: Π2019150|
-|<br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>|<h3>
+<h3> Α.Μ.: Π2019150|
+<br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
+<h3>
+  
 | Εβδομάδα | [παραδοτέα-τελικής αναφορά](https://courses-ionio.github.io/help/deliverables/)            | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | ---- | ---- | ---- | ---- |
 | 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Disccutions](https://github.com/courses-ionio/help/discussions/137) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md και έκανα μία εισαγωγή που την πρόσθεσα στα discussions |
-| 2 | βιογραφικό και δημιουργία ομάδας | | |
+| 2 | <a href="#Bιογραφικό και δημιουργία ομάδας"><span class="toctext">Bιογραφικό και δημιουργία ομάδας</span></a> | | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
@@ -63,3 +65,6 @@
 | 3 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/aMUPQahP5B4MpGUpWAFSH1xSy) |
 | 4 | [track your expenses](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
 | 5 | [search the web from the terminal](https://asciinema.org/a/70lO37sgkrORc6fJhiDNmSs0Q) |
+
+  <br><br>
+  <h2><spam id=<h2><spam id="Bιογραφικό και δημιουργία ομάδας">(2) Βιογραφικό και δημιουργία ομάδας
