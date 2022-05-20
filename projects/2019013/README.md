@@ -20,6 +20,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 10 | <li><a href="#Συμμετοχικό περιεχόμενο Β1&Β2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο Β1&Β2</span></a> |  <i><a href="https://github.com/courses-ionio/help/discussions/642" title="Discussions">Discussions</a></i> |  Επιλογή μελέτη περίπτωσης και βιογραφία σχετιζόμενες με το 5o παραδοτέο (OpenBSD, Theo de Raadt). Δεν επιτεύχθηκε η προσθήκη τους στο Netlify και κατα συνέπεια δεν υπάρχει αντίστοιχο pull request. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
+|  #  | <li><a href="#Ομαδικότητα"></span> <span class="toctext">Ομαδικότητα</span></a> | | |
 
 <h2><span id="Εισαγωγή">Εισαγωγή</span></h2>
 
@@ -124,6 +125,13 @@ Github Profile: https://github.com/AnastasiaMariaStefani
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/OpenBSB.md" title="Μελέτη Περίπτωσης">Μελέτη Περίπτωσης</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Theo%20de%20Raadt.md" title="Βιογραφία">Βιογραφία</a>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/8" title="Issueς">Issue</a>
+       
+       
+       
+  <h2><span id="Ομαδικότητα">Ομαδικότητα</span></h2>
+       <li><a href="https://github.com/courses-ionio/help/discussions/574" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
+        <li><a href="https://github.com/courses-ionio/help/discussions/652" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
+         
        
        
   
