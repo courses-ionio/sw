@@ -28,7 +28,13 @@
 
 # Βιογραφικό
 
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/mZMrqhgn/2022-05-20-7-05-54.png"height=500 width=600>
+<p/><br> 
+
 [Βιογραφικό](https://petroulastylianou.github.io/online-cv/)
+
 
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
