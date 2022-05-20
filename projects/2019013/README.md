@@ -9,15 +9,15 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/92" title="Discussions">Discussions</a></i> | Επιτυχής δημιουργία της εισαγωγής και αναφορά των στόχων μου για το μάθημα  |
-| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Σωστή δημιουργία του βιογραφικού μου και επιτυχής ένταξη σε ομάδα |
-| 3 | <li><a href="#1ο Αίτημα Ενσωμάτωσης"></span> <span class="toctext">1ο Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Επιτυχής αλλαγή και προσθήκη του κ. Δουκάκη ως καθηγητή στο μάθημα "Οργάνωση κσι Διοίκηση Επιχειρήσεων" |
-| 4 | <li><a href="#1η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">1η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Εγκατάσταση του Void Linux και εκτέλεση άσκησης γραμμής εντολών για εξάσκηση  |
-| 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων και πρσθήκη τους στο gallery και στο images. Δυσκολία στην προσθήκη τους στο Netlify.|
-| 6 | <li><a href="#2η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">2η Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία warmup. |
-| 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Επιτυχής μετατροπή του βιογραφικού μου σε μορφη pdf |
+| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/207" title="Discussions">Discussions</a></i> | Δημιουργία του βιογραφικού μου με την βοήθεια των templete που δίνονταν (αλλαγή των υπάρχοντων στοιχείων και εισαγωγή των δικών μου). Δημιουργία της ομάδας μας IonianUniversity2019 και ένταξη σε αυτήν. |
+| 3 | <li><a href="#1ο Αίτημα Ενσωμάτωσης"></span> <span class="toctext">1ο Αίτημα Ενσωμάτωσης</span></a>|<i><a href="https://github.com/courses-ionio/help/discussions/588" title="Discussions">Discussions</a></i>  |Άνοιγμα του απαραίτητου issue σύμφωνα με τις οδηγίες, λήψη του green light και μετέπειτα εκτέλεση του θέματος. Επιτυχής αλλαγή στο Netlify, με τη χρήση των εντολών git push, git pull μέσω τερματικού. Δημιουργία αντίστοιχου pull request.  |
+| 4 | <li><a href="#1η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">1η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/360" title="Discussions">Discussions</a></i> | Εγκατάσταση του Void Linux (λογισμικό χωρίς systemd) και εκτέλεση άσκησης γραμμής εντολών για εξάσκηση. Χρήση του asciinema για καταγραφή.  |
+| 5 |  <li><a href="#Συμμετοχικό περιεχόμενο A1&A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1&A2</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/537" title="Discussions">Discussions</a></i> | Επιλογή 2 εικόνων (JavaScript, OpenBSD) και πρσθήκη τους στα αποθετήρια gallery και images. Δεν επιτεύχθηκε η προσθήκη τους στο Netlify και κατα συνέπεια δεν υπάρχει αντίστοιχο pull request.|
+| 6 | <li><a href="#2η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">2η Άσκηση Γραμμής Εντολών</span></a> |<i><a href="https://github.com/courses-ionio/help/discussions/629" title="Discussions">Discussions</a></i> | Συνέχιση εκτέλεσης άσκησης γραμμής εντολών απο την κατηγορία warmup. Χρήση ξανά του εργαλείου asciinema για καταγραφή. |
+| 7 | <li><a href="#Βιογραφικό 2ο"></span> <span class="toctext">Βιογραφικό 2ο</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/637" title="Discussions">Discussions</a></i> | Μετατροπή του βιογραφικού μου σε μορφη pdf σύμφωνα με τις οδηγίες. Χρήση των εντολών pandoc και latex για την επίτευξη μέσω τερματικού. |
 | 8 | <li><a href="#2ο Αίτημα Ενσωμάτωσης"></span> <span class="toctext">2ο Αίτημα Ενσωμάτωσης</span></a> | - | Μη υλοποίηση του παραδοτέου |
-| 9 | <li><a href="#3η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">3η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιτυχής ολοκλήρωση άσκησης γραμμής εντολών από την κατηγορία software. |
-| 10 | <li><a href="#Συμμετοχικό περιεχόμενο Β1&Β2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο Β1&Β2</span></a> |  <i><a href="https://github.com/courses-ionio/help/discussions/642" title="Discussions">Discussions</a></i> |  Επιλογή μελέτη περίπτωσης και βιογραφία. Δυσκολία στην προσθήκη τους στο Netlify. |
+| 9 | <li><a href="#3η Άσκηση Γραμμής Εντολών"></span> <span class="toctext">3η Άσκηση Γραμμής Εντολών</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/641" title="Discussions">Discussions</a></i> |  Επιλογή άσκησης γραμμής εντολών από την κατηγορία software (programmable voice). Δεν έγινε χρήση του asciinema. Δημιουργία προγράμματος σε python, εκτέλεσή του σε online compiler και επίτευξη άσκησης. |
+| 10 | <li><a href="#Συμμετοχικό περιεχόμενο Β1&Β2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο Β1&Β2</span></a> |  <i><a href="https://github.com/courses-ionio/help/discussions/642" title="Discussions">Discussions</a></i> |  Επιλογή μελέτη περίπτωσης και βιογραφία σχετιζόμενες με το 5o παραδοτέο (OpenBSD, Theo de Raadt). Δεν επιτεύχθηκε η προσθήκη τους στο Netlify και κατα συνέπεια δεν υπάρχει αντίστοιχο pull request. |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -124,5 +124,13 @@ Github Profile: https://github.com/AnastasiaMariaStefani
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/OpenBSB.md" title="Μελέτη Περίπτωσης">Μελέτη Περίπτωσης</a>
      <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Theo%20de%20Raadt.md" title="Βιογραφία">Βιογραφία</a>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/8" title="Issueς">Issue</a>
+       
+       
+  
+  
+       
+       
+       
+       
        
        
