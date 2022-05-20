@@ -258,3 +258,4 @@
 
 [Σχόλιο σε issue για επεξήγηση της διαφοράς επίσημης ιστοσελίδας και σελίσας του sitegr που εντοπίστηκε το λάθος.](https://github.com/ioniodi/sitegr/issues/349)
 
+[Σχόλιο σε pull request του παραδοτέου "Αίτημα ενσωμάτωσης στην ιστοσελίδα", για προσθήκη του Pull Request που έγινε στο all_collections.](https://github.com/ioniodi/all_collections/pull/65)
