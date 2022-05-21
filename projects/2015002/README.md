@@ -196,14 +196,14 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 | --- | --- |
 |[Link](https://github.com/mariosconsta/shell-scripting/blob/main/SW/update.sh) | [Link](https://www.youtube.com/watch?v=Wy4xQsnTJkI) |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy4xQsnTJkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video](https://user-images.githubusercontent.com/22726730/169651015-a9f580d3-6549-4e89-90ea-2e1cc57fc2d2.png)](https://www.youtube.com/watch?v=Wy4xQsnTJkI)
 
 Το δεύτερο script κατεβάζει το youtube video της επιλογής σου, και όταν κατέβει στέλνει το ανάλογο notification.
 | Repo | Video |
 | --- | --- |
 |[Link](https://github.com/mariosconsta/shell-scripting/blob/main/SW/yt-notifications.sh) | [Link](https://www.youtube.com/watch?v=0fwpeiJ5i6A) |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0fwpeiJ5i6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video](https://user-images.githubusercontent.com/22726730/169650919-bf053f56-83f8-49be-bb8c-1f73f5709273.png)](https://www.youtube.com/watch?v=0fwpeiJ5i6A)
 
 ## 10o Παραδοτέο - Συμμετοχικό Περιεχόμενο B1+B2
 
