@@ -174,6 +174,13 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 ![image](https://user-images.githubusercontent.com/22726730/166931830-f6b99ac9-9b39-48d6-8e78-38ffb166a1d4.png)
 
+### 21/5 Update:
+
+Έχω υλοποίηση την δυνατότητα να δημιουργείτε καινούριο PDF όποτε γίνεται αλλαγή στο Repository του Βιογραφικού και παράλληλα να στέλνετε σχετικό Notification στο κινητό μέσο ntfy και telegram.
+
+[![Video](https://user-images.githubusercontent.com/22726730/169654709-3076d43e-6c3e-42df-866c-1a933d6ac0c9.png)](https://www.youtube.com/watch?v=lOD8dSEhX48)
+
+![281358422_960911344583895_1846094582625683990_n](https://user-images.githubusercontent.com/22726730/169654801-92848b29-bc18-455e-b21d-f6250d9c8f05.jpg)
 
 ## 8o Παραδοτέο - 	Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
