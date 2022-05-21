@@ -67,7 +67,7 @@
 Σε αυτό το παραδοτέο πρόσθεσα τη βιογραφία του John McCarthy ο οποίος είναι ο δημιουργός της προγραμματιστικής Lisp αλλά και ένας πολύ σημαντικός επιστήμονας που έχει προσφέρει πάρα πολλα στον τομέα της τεχνητής νοημοσύνης. Επιπλέον πρόσθεσα ένα case-study για το CUseeMe καθώς είναι ένα από τα πρώτα λογισμικά βιντεοκλήσεων πριν από την δημιουργία του παγκόσμιου ιστού. [Biography](https://stavros16site.netlify.app//biography/john-mcarthy/) [CaseStudy](https://stavros16site.netlify.app//case-study/cuseemee/) [Asciinema](https://asciinema.org/a/496056) 
 
 # Παραδοτέο-11 
-Σε αυτό το παραδοτέο εγκατέστησα το hyperfine για να κάνω benchmark το command-line. Το py-spy δεν κατάφερα να το τρέξω. [Asciinema]()
+Σε αυτό το παραδοτέο εγκατέστησα το hyperfine για να κάνω benchmark το command-line, πιο συγκεκριμένα έτρεξα τις εντολές 'ls' 'ls -a' και 'find' αφού πραγματοποίησα 3 warmup το hyperfine έδειξε ότι το ls -a είναι πιο γρήγορη από τις άλλες δύο εντολές. Το py-spy δεν κατάφερα να το τρέξω. [Asciinema](https://asciinema.org/a/496256)
 
 
 # Συμπεράσματα
