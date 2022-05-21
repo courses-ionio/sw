@@ -10,7 +10,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) | Εντός προθεσμίας |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1a2) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) | Εντός προθεσμίας |
-| 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
+| 7 | [Δημιουργία Pdf βιογραφικού](#παραδοτέο-2---βιογραφικό-και-δημιουργία-ομάδας) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
 | 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας |
 | 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) και [Link στο Asciinema](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2) | Εντός προθεσμίας |
 | 10 | <a href="#Παραδοτέο 10">Συμμετοχικό περιεχόμενο B1+B2</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/587) | Εντός προθεσμίας |
@@ -99,7 +99,7 @@
   
   [![asciicast](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5.png)](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5)
   
-<h2 id="Παραδοτέο 7">Παραδοτέο 7 - Δημιουργία pdf βιογραφικού με εργαλεία γραμμής εντολών</h2>
+### Παραδοτέο 7 - Δημιουργία Pdf βιογραφικού
   link στο Asciinema https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2
   
   Σε αυτό το ζητούμενο αφού εγκατέστησα το pandoc και τις βοηθητικές βιβλιοθήκες pdflatex και xelatex,
