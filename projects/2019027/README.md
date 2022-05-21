@@ -7,7 +7,7 @@
 | 1 | [Εισαγωγή](#εισαγωγή) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/115) | Εντός προθεσμίας |
 | 2 | [Βιογραφικό και δημιουργία ομάδας ](#παραδοτέο-2---βιογραφικό-και-δημιουργία-ομάδας) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας και το αίτημα ενσωμάτωσης έγινε δεκτό) |
-| 4 | <a href="#Παραδοτέο 4">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) και [Link στο Asciinema](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0) | Εντός προθεσμίας |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) | Εντός προθεσμίας |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
 | 7 | <a href="#Παραδοτέο 7">βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) και [Link στο Asciinema](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2) | Εντός προθεσμίας |
@@ -44,15 +44,17 @@
   ότι ολοκληρώσαμε, κάνουμε pull request όπου μπορούν τα μέλη να κάνουν τις παρατηρήσεις τους, να προχωρήσουμε 
   σε βελτιώσεις και το πιο βασικό είναι ότι μέσα σε όλο αυτό φαίνονται και τα commits και γενικότερα η πορεία της υλοποίησης.
   
-<h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση γραμμής εντολών</h2>
-  <p>link στο Asciinema https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0
-    <p>Σε αυτό το ζητούμενο εγκατέστησα FreeBSD σε εικονική μηχανή με Virtual Box. 
-Η εγκατάσταση του βασικού λογισμικού δεν είχε δυσκολίες, όμως η εγκατάσταση άλλων πακέτων (εφαρμογών)
-με δυσκόλεψε π.χ το Asciinema δεν κατάφερα να το τρέχω ως αυτόνομο πρόγραμμα
-αλλά κατέβασα το source από το git και το τρέχω μέσω της python.
-Επίσης προσπάθησα να δουλέψω με το ntfy (πρώτη άσκηση του software) αλλά ενώ τρέχει
-δεν εμφανίζει τίποτα (κάνοντας τα ίδια βήματα στο Ubuntu μου βγάζει notifications).
-      
+### Παραδοτέο 4 - Άσκηση γραμμής εντολών
+  
+  Σε αυτό το ζητούμενο εγκατέστησα FreeBSD σε εικονική μηχανή με Virtual Box.
+  Η εγκατάσταση του βασικού λογισμικού δεν είχε δυσκολίες, όμως η εγκατάσταση άλλων πακέτων (εφαρμογών)
+  με δυσκόλεψε π.χ το Asciinema δεν κατάφερα να το τρέχω ως αυτόνομο πρόγραμμα
+  αλλά κατέβασα το source από το git και το τρέχω μέσω της python. 
+  Επίσης προσπάθησα να δουλέψω με το ntfy (πρώτη άσκηση του software) αλλά ενώ τρέχει
+  δεν εμφανίζει τίποτα (κάνοντας τα ίδια βήματα στο Ubuntu μου βγάζει notifications).
+  
+  [![asciicast](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0.png)](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0)
+  
 <h2 id="Παραδοτέο 6">Παραδοτέο 6 - Άσκηση γραμμής εντολών</h2>
   link στο Asciinema https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5
   
