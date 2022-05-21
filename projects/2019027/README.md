@@ -8,10 +8,10 @@
 | 2 | [Βιογραφικό και δημιουργία ομάδας ](#παραδοτέο-2---βιογραφικό-και-δημιουργία-ομάδας) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας και το αίτημα ενσωμάτωσης έγινε δεκτό |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) | Εντός προθεσμίας |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1a2) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1a2) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) | Εντός προθεσμίας |
 | 7 | [Δημιουργία Pdf βιογραφικού](#παραδοτέο-7---δημιουργία-pdf-βιογραφικού) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) | Εντός προθεσμίας |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8---δεύτερο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8---δεύτερο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) | Αρχικό Issue εντός προθεσμίας |
 | 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) και [Link στο Asciinema](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2) | Εντός προθεσμίας |
 | 10 | <a href="#Παραδοτέο 10">Συμμετοχικό περιεχόμενο B1+B2</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/587) | Εντός προθεσμίας |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -125,7 +125,14 @@
   Και εδώ δούλεψα στα δύο αποθετήρια (sitegr και minimal-ionio) αλλά όπως φάνηκε στην πορεία αρκούσε η
   υλοποίηση στο minimal-ionio. Το συγκεκριμένο issue ήταν πιο δύσκολο από το προηγούμενο, αλλά το ολοκλήρωσα
   επιτυχώς όπως φαίνεται και στο σχετικό [Netlify link](https://p19zing-sitegr.netlify.app) 
-  (αλλιώς φορτώνει από κινητό και αλλιώς από υπολογιστή).
+  
+  Εμφάνιση σε υπολογιστή
+  
+  ![alt text](https://github.com/p19zing/sw/blob/master/pc.png?raw=true)
+  
+  Εμφάνιση σε κινητό
+  
+  ![alt text](https://github.com/p19zing/sw/blob/master/phone.png?raw=true)
   
   Όμως το [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44) παραμένει ακόμη ανοιχτό.
   
