@@ -179,6 +179,8 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 >>>>>>> 0dc35737c708e76f33df1cc435c3b2edd5d52323
 
 ## 9o Παραδοτέο - Άσκηση γραμμής εντολών
+![image](https://user-images.githubusercontent.com/22726730/169649632-94e4681f-a338-4b77-9ac7-cd07ebcd9bc3.png)
+![image](https://user-images.githubusercontent.com/22726730/169649674-78c9b971-d8ef-422a-8bd4-5662834b608f.png)
 
 ## 10o Παραδοτέο - Συμμετοχικό Περιεχόμενο B1+B2
 
