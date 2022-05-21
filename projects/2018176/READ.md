@@ -19,7 +19,7 @@
 |<a href="#H">9</a> |<a href="#H"> Άσκηση γραμμής εντολών </a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/570) |NTFY TELEGRAM(στο συγκεκριμένο παραδοτέο χρησιμοποίησα το ntfy για αποστολή μηνυμάτων telegram μέσω του Botfather) |
 |<a href="I">10</a> |<a href="#I"> συμμετοχικό περιεχόμενο B1+B2</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/609) |ArtixLinux case study DJB Biography (Έχω κάνει μετάφραση όλη την βιογραφία του Daniel J Bernstein(Wikipedia) , ο οποίος υπάρχει στο αρχικό site σαν παραπομπή)|
 |<a href="J">11</a> |<a href="#J"> Άσκηση γραμμής εντολών</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/619) | rainbowstream twitter(Επέλεξα για 11ο παραδοτέο μια άσκηση warmup δεν μου φάνηκε ιδιαίτερα δύσκολη απλά δεν είχα ξαναχρησιμοποιήσει το twitter παλαιότερα)|
-|<a href="K">12</a> |<a href="K"> Τελική αναφορά*</a> |[Discussion Link]() |Έγινε συγγραφή του τελικού παραδοτέου του μαθήματος |
+|<a href="K">12</a> |<a href="K"> Τελική αναφορά*</a> |[Discussion Link](https://github.com/courses-ionio/help/discussions/661) |Έγινε συγγραφή του τελικού παραδοτέου του μαθήματος |
 
 
 
