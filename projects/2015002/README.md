@@ -179,8 +179,31 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 
 ## 9o Παραδοτέο - Άσκηση γραμμής εντολών
+
+Για το 6ο παραδοτέο εγκατέστησα το ntfy και telegram extension. Αρχικά η εντολή pip install ntfy[telegram] δεν λειτουργούσε στο σύστημα μου. Το pip δεν το έβρισκε και το pip search δεν δούλευε. Κατέβασα το pip_search όπου κατάφερα να βρω το πακέτο που χρειαζόμουνα.
+
+Η εγκατάσταση του ntfy ήταν αρκετά απλή. Κατέβασα την εφαρμογή στο κινητό μου, έτρεξα τις απαιτούμενες εντολές με το BotFather, και έβαλα το API access token στο Linux σύστημα μου με αποτέλεσμα να μπορώ να στέλνω notifications στο κινητό μου από τον υπολογιστή.
+
+Παράλληλα έπρεπε να κατεβάσω το εργαλείο ytfzf διότι σκόπευα να γράψω ένα script όπου στέλνει notification όταν κατέβει ένα βίντεο από το YouTube.
+
 ![image](https://user-images.githubusercontent.com/22726730/169649632-94e4681f-a338-4b77-9ac7-cd07ebcd9bc3.png)
+
 ![image](https://user-images.githubusercontent.com/22726730/169649674-78c9b971-d8ef-422a-8bd4-5662834b608f.png)
+
+Το πρώτο script ονομάζεται update.sh και αυτό που κάνει είναι, όταν το τρέχεις, κάνει update το σύστημα και όταν τελειώσει το update, στέλνει το ανάλογο notification στο κινητό και υπολογιστή. Το θεώρησα χρήσιμο διότι μερικά updates παίρνουν ώρα και θα ήθελα όσο κάνει update το σύστημα να μπορώ να αφήσω τον υπολογιστή και να γυρίσω όταν τελειώσει το update.
+
+| Repo | Video |
+| --- | --- |
+|[Link](https://github.com/mariosconsta/shell-scripting/blob/main/SW/update.sh) | [Link](https://www.youtube.com/watch?v=Wy4xQsnTJkI) |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy4xQsnTJkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Το δεύτερο script κατεβάζει το youtube video της επιλογής σου, και όταν κατέβει στέλνει το ανάλογο notification.
+| Repo | Video |
+| --- | --- |
+|[Link](https://github.com/mariosconsta/shell-scripting/blob/main/SW/yt-notifications.sh) | [Link](https://www.youtube.com/watch?v=0fwpeiJ5i6A) |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fwpeiJ5i6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 10o Παραδοτέο - Συμμετοχικό Περιεχόμενο B1+B2
 
