@@ -12,7 +12,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) | Εντός προθεσμίας |
 | 7 | [Δημιουργία Pdf βιογραφικού](#παραδοτέο-7---δημιουργία-pdf-βιογραφικού) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) | Εντός προθεσμίας |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8---δεύτερο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) | Αρχικό Issue εντός προθεσμίας |
-| 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) και [Link στο Asciinema](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2) | Εντός προθεσμίας |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) | Εντός προθεσμίας |
 | 10 | <a href="#Παραδοτέο 10">Συμμετοχικό περιεχόμενο B1+B2</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/587) | Εντός προθεσμίας |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -145,13 +145,14 @@
   [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) 
   
   
-<h2 id="Παραδοτέο 9">Παραδοτέο 9 - Άσκηση γραμμής εντολών</h2>
-  link στο Asciinema https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2
+### Παραδοτέο 9 - Άσκηση γραμμής εντολών
   
   Κατ' αρχήν εγκατέστησα το Devuan Chimaera linux που είναι μια έκδοση debian *χωρίς systemd*. 
   Στη συνέχεια επέλεξα να εγκαταστήσω το **Jenny** που είναι ένας απλός static site generator.
   Ακολούθησα τις οδηγίες και δημιούργησα επιτυχώς ένα mini blog. 
   Για να το δημοσιεύσω εγκατέστησα Apache web server και για να φανεί στο asciinema χρησιμοποίησα το lynx
+  
+  [![asciicast](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2.png)](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2)
   
 <h2 id="Παραδοτέο 10">Παραδοτέο 10 - συμμετοχικό περιεχόμενο B1+B2</h2>
 Στο συγκεκριμένο παραδοτέο πρόσθεσα ένα case study παρόμοιο με τις θεματικές του 5ου παραδοτέου και μία νέα αντίστοιχη βιογραφία.
