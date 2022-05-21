@@ -17,7 +17,7 @@
 | 6 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/536) | Επιτυχής εγκατάσταση των Apline Linuχ και σωστό σετάρισμα του Ntfy με το Telegram. Ανεπιτυχής ολοκλήρωση λογω σφαλμάτων.|
 | 7 | βιογραφικό | [link](https://github.com/courses-ionio/help/discussions/535) | με την βοήθεια των Github Actions κατάφερα να μετατρέψω το βιογραφικό μου σε pdf και να αυτοματοποιήθει η διαδικασία ενημέρωσης του αρχείου |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | Άσκηση γραμμής εντολών | [link](https://github.com/courses-ionio/help/discussions/660) | περαιτέρω εξοικίωση με το alpine linux |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | | 
@@ -82,3 +82,15 @@
 Για αυτό χρησιμοποιήθηκε ένα Github Action το οποίο σε κάθε ενημέρωση του βιογραφικού τρέχει αυτόματα το [script](https://github.com/p17simt/online-cv/blob/master/index.html) μετατροπής και τοποθέτησης του [τελικού αρχείου](https://github.com/p17simt/online-cv/blob/master/cv.pdf) στο αποθετήριο. 
 
 Ένα πρόβλημα που προκύπτει ωστόσο απο την χρήση του pandoc είναι ότι κάνει export την καθαρή HTML του βιογραφικού, παρακάμποντας οποιαδήποτε stylesheet που μπορεί να χρησιμοποιείται.
+
+# Παραδοτέο 9 : Άσκηση γραμμής εντολών
+Στο συγκεκριμένο παραδοτέο επέλεξα να υλοποιήσω την άσκηση που αφορά στην εγκατάσταση [mqttwarn](https://github.com/jpmens/mqttwarn).
+Ακολουθώντας τις οδηγίες που δίνονται, δυστυχώς καταλήγω σε errors τα οποία δεν έχω μπορέσει να επιλύσω ακόμα, ωστόσο αν υπάρξει κάποια εξέλιξη σε αυτό θα εννημερώσω αντίστοιχα το discussion. Μπορείτε να δείτε το asciicast [εδώ](https://asciinema.org/a/0cyAyfmJe2Zl9uI4B6qFAzZC9)
+
+# Παραδοτέο 10
+Για το δεύτερο μέρος του συμμετοχικού περιεχομένου επέλεξα να γράψω μια μελέτη περίπτωσης γύρω απο την go to, μια προγραμματιστική εντολή με μεγάλη ιστορία απο πίσω της καθώς και να συγγράψω την βιογραφία του ανθρώπου που ξεκίνησε τη συζήτηση γύρω από αυτή.
+
+|Περιγραφή | Εικόνες | Gallery | Netlify Deploy|
+| --- | --- | --- | --- |
+| Goto |  [image](https://github.com/ionioteam/images/blob/2017178/goto.png) |  [Gallery file](https://github.com/ionioteam/site/blob/2017178/_case-study/goto.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/case-study/goto/)
+| Dijkstra | [Normal](https://github.com/ionioteam/images/blob/2017178/dijkstra.jpg) & [Thumb](https://github.com/ionioteam/images/blob/2017178/dijkstra-thumb.jpg) | [Gallery File](https://github.com/ionioteam/site/blob/2017178/_biography/e-dijkstra.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/biography/e-dijkstra/)
