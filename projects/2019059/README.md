@@ -102,7 +102,9 @@ link για το [pdf](https://github.com/xar1sgeovlacp2019059/online-cv/blob/ma
 Το πρόβλημα που υπήρχε ήταν ότι δεν αναγνωριζόταν η εντολή pdflatex ακόμα και αν είχε εγκταστεθή το texlive
 To πρόβλημα λύθικε με την εντολή: sudo apt install texlive-latex-extra
 Πολύ χρονοβόρα διαδικασία μέχρι να κατέβουν όλα τα πακέτα.
-Τώρα αντιμετοπίζω ένα πρόβλημμα με το push στο github
+Τώρα αντιμετοπίζω ένα πρόβλημμα με το hooks.
+## update
+Το πρόβλημα λύθικε, εδώ είναι το link για το [asciinema](https://asciinema.org/a/MLWbcxtXX4OI3RCUtBV6wXsXs)
 
 # Παραδοτέο 8
 
