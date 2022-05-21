@@ -170,13 +170,13 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 | Repo | [link](https://github.com/mariosconsta/cv) |
 | PDF Download | [link](https://github.com/mariosconsta/cv/raw/main/pdf/cv.pdf) |
 
-<<<<<<< HEAD
-## 8o Παραδοτέο - 	Αίτημα ενσωμάτωσης στην ιστοσελίδα
-=======
 ![Screenshot 2022-05-05 162204](https://user-images.githubusercontent.com/22726730/166932099-1e8d8add-8b48-4bdd-b7a5-7f97f8abd48a.png)
 
 ![image](https://user-images.githubusercontent.com/22726730/166931830-f6b99ac9-9b39-48d6-8e78-38ffb166a1d4.png)
->>>>>>> 0dc35737c708e76f33df1cc435c3b2edd5d52323
+
+
+## 8o Παραδοτέο - 	Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
 
 ## 9o Παραδοτέο - Άσκηση γραμμής εντολών
 ![image](https://user-images.githubusercontent.com/22726730/169649632-94e4681f-a338-4b77-9ac7-cd07ebcd9bc3.png)
