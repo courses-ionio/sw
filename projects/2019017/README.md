@@ -5,8 +5,7 @@
 ### [github profile](https://github.com/p19kala)
 ### edpuzzle name: p19kala P2019017
 
-[Ιστοσελίδα](https://gits-team-epic-pibook.netlify.app/) του βιβλιου της ομαδας μου και του [αποθετηριου](https://github.com/Git-s-PopTeamEpic/site) του.<br>
-Η ομαδα μου: https://github.com/Git-s-PopTeamEpic
+Η [ομαδα μου](https://github.com/Git-s-PopTeamEpic) και το [webring](https://git-team-epic-webring.netlify.app/) της.
 
 [Μεταβαση στην ενοτητα "Ομαδικοτητα και συνεργασια"](#Links-ομαδικότητας-και-συμμετοχής).
 
