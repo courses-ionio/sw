@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/115) | Εντός προθεσμίας |
 | 2 | [Βιογραφικό και δημιουργία ομάδας ](#παραδοτέο-2---βιογραφικό-και-δημιουργία-ομάδας) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app/posts/) | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης έγινε δεκτό) |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας και το αίτημα ενσωμάτωσης έγινε δεκτό) |
 | 4 | <a href="#Παραδοτέο 4">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) και [Link στο Asciinema](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0) | Εντός προθεσμίας |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
@@ -29,6 +29,16 @@
 Σε αυτό το παραδοτέο δημιούργησα [βιογραφικό στο github](https://p19zing.github.io/online-cv) με κάποιες βασικές πληροφορίες. Στη συνέχεια μπήκα στην ομάδα [Sybil Reisz](https://sybil-reisz.netlify.app/) με το ακόλουθο [Webring / Sybil Reisz](https://sybil-reisz.netlify.app/).
   
 ### Παραδοτέο 3 - Πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα
+  
+Ψάχνοντας στην επίσημη ιστοσελίδα του τμήματος παρατήρησα ότι υπήρχε ανακοίνωση με τίτλο
+  *Συμφωνία ΣΕΑΒ με De Gruyter για την κάλυψη δημοσιεύσεων σε καθεστώς Ανοικτής Πρόσβασης*
+  η οποία δεν είχε ενσωματωθεί στην αντίστοιχη του μαθήματος. Αφού λοιπόν το 
+  [Issue](https://github.com/ioniodi/sitegr/issues/323) πήρε *Green Light* προχώρησα στην υλοποίηση.
+  Σε αυτό το παραδοτέο άρχισα να καταλαβαίνω τη λογική της χρήσης των submodules. 
+  Αρχικά νόμισα ότι έπρεπε να συνεισφέρω σε δύο αποθετήρια, το sitegr και το all_collections, 
+  αλλή με την καθοδήγηση και την ανατροφοδότηση των καθηγητών κατάλαβα ότι αρκούσαν οι αλλαγές στο all_collections.
+  Το αποτέλεσμα ήταν το επιτυχημένο [Pull Request](https://github.com/ioniodi/all_collections/pull/36) 
+  με το αποτέλεσμα να φαίνεται στο ακόλουθο [Netlify Link](https://p19zing-sitegr.netlify.app/posts/)
   
 <h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση γραμμής εντολών</h2>
   <p>link στο Asciinema https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0
