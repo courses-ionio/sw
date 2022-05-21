@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | [9](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/656) | Πλήρης Εκτέλεση |
 | [10](#10o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | συμμετοχικό περιεχόμενο B1+B2 | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
-| [11](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
+| [11](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/658) | Πλήρης Εκτέλεση |
 | 12 | Τελική αναφορά* | | |
 
 ---
@@ -285,7 +285,21 @@ exit
 
 | Command | Mean [s] | Min [s] | Max [s] | Relative |
 |:---|---:|---:|---:|---:|
-| `python benchmark.py` | 6.970 ± 0.068 | 6.897 | 7.087 | 1.00 
+| `python benchmark.py` | 6.970 ± 0.068 | 6.897 | 7.087 | 1.00
+
+### benchmark.py
+
+```
+def test():
+    """Benchmark Function"""
+    lst = [] # Define empty list
+    for i in range(100):
+        lst.append(i)
+
+if __name__ == '__main__':
+    import timeit
+    print(timeit.timeit("test()", setup="from __main__ import test"))
+```
 
 ### Πηγές
 
