@@ -47,7 +47,7 @@
 Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 
 
-Για την ασκηση γραμμης εντολων επελεξα να στειλω ενα desktop notification μετα απο download, με τη χρηση του εργαλειου [ntfy](https://github.com/dschep/ntfy). Χρησιμοποιησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για να κατεβασω ενα βιντεο, με τη χρηση του `--no-check-certificate` καθως πετουσε SSL certificate error. Η καταγραφη εγινε με το εργαλειο kazam, καθως το notification ειναι εκτος του terminal και επειτα μετατροπη σε gif. Σταματησα το recording λιγο μετα την εναρξη του download γιατι εδειχνε πως θα παρει 1 λεπτο, ετσι ωστε το βιντεο να μην ειναι πολυ μεγαλο χωρις καμια ουσιωδες αλλαγη στο περιεχομενο. Στο μελλον θα κανω την ασκηση στο FreeBSD.
+Για την ασκηση γραμμης εντολων επελεξα να στειλω ενα desktop notification μετα απο download, με τη χρηση του εργαλειου [ntfy](https://github.com/dschep/ntfy). Χρησιμοποιησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για να κατεβασω ενα βιντεο, με τη χρηση του `--no-check-certificate` καθως πετουσε SSL certificate error. Η καταγραφη εγινε με το εργαλειο kazam, καθως το notification ειναι εκτος του terminal και επειτα μετατροπη σε gif. Σταματησα το recording λιγο μετα την εναρξη του download γιατι εδειχνε πως θα παρει 1 λεπτο, ετσι ωστε το βιντεο να μην ειναι πολυ μεγαλο χωρις καμια ουσιωδες αλλαγη στο περιεχομενο.
 
 ![AltText](https://i.imgur.com/rBVf9cJ.gif)
 
@@ -55,6 +55,8 @@ Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 Για το συμμετοχικο περιεχομενο Α1 και Α2 επελεξα να ασχοληθω με συγκεντρωση πληροφοριας πανω σε systemd-less λειτουργικα. Για αυτο διαλεξα τα freebsd και void.
 
 Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017_sw/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017_sw/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/c89d4d7aa0b9d8f61594a1c627a2bb9d2ee5fe52), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/voidlinux.md).
+
+Update: [Μεταβαση στην ενοτητα οπου εκανα αλλαγες στα παραπανω](#Συμμετοχικο-2-με-αλλαγες-στο-συμμετοχικο-1).
 
 Live demo changes: [slides](https://p19kala-pibook.netlify.app/slides/operating-systems/), [timeline](https://p19kala-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://p19kala-pibook.netlify.app/gallery/freebsd/) και [Void](https://p19kala-pibook.netlify.app/gallery/voidlinux/).<br>
 Site του οργανισμου με τις αλλαγες μου: [slides](https://gits-team-epic-pibook.netlify.app/slides/operating-systems/), [timeline](https://gits-team-epic-pibook.netlify.app/timeline/os-apps/), gallery για [freebsd](https://gits-team-epic-pibook.netlify.app/gallery/freebsd/) και [Void](https://gits-team-epic-pibook.netlify.app/gallery/voidlinux/).<br>
@@ -111,7 +113,7 @@ Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [githu
 Εικονα με λεζαντα: https://p19kala-pibook.netlify.app/gallery/void-xbps/ <br>
 Εικονα [full](https://github.com/p19kala/images/commit/dcd60635e92d270f8ee43408fa52a01e0b35bfb4) και [thumbnail](https://github.com/p19kala/images/commit/6096a01c608b82c0e88b48e9cf44bc319aa9890a). <br>
 
-Για καποιο λογο δεν δουλευουν συγκεκριμενα οι εγγραφες για αυτο το εγγραφο. Ακομη και μετα απο renaming και building it from scratch, μονο η αλλη εγγραφη (Void) εμφανιζεται.
+Για καποιο λογο δεν δουλευει το entry για το XBPS. Ακομη και μετα απο renaming και building it from scratch, μονο η αλλη εγγραφη (Void) εμφανιζεται.
 Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-managers/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-managers.md) <br>
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
