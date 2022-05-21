@@ -20,7 +20,7 @@
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών</a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/562) | Assignment: send notifications to your desktop-mobile.Χρήσιμη άσκηση, δημιουργεία αρχείου που στέλνει μήνυμα στο κινητό μου όταν τελείωνει τα Updates συστήματος. |
 | <a href="#H">10</a> |<a href="#H"> Συμμετοχικό περιεχόμενο B1+B2 </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/582) | Βιογραφικό, Case-study, Nolan Bushnell ATARI-DOS.  |
 | <a href="#I">11</a> | <a href="#I">Άσκηση γραμμής εντολών </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/620) | Εγκατάσταση py-spy, hyperfine και κατάλληλα πακέτα για την εκτέλεση της άσκησης |
-| <a href="#J">12</a> | <a href="#J">Τελική αναφορά* </a> | [Discussion Link]() | Κατανόηση του μαθήματος και η βοήθεια του για την υιοθέτηση νέου τρόπου σκέψης και εύρεση λύσεων. Ικανοποιημένος με την προσπάθεια μου, διότι ασχολήθηκα με πράγματα που δεν είχα ξαναδεί ολοκληρώνοντας αυτά με επιτύχια. Τελική ανανέωση αναφοράς. |
+| <a href="#J">12</a> | <a href="#J">Τελική αναφορά* </a> | [Discussion Link](https://github.com/courses-ionio/help/discussions/665) | Κατανόηση του μαθήματος και η βοήθεια του για την υιοθέτηση νέου τρόπου σκέψης και εύρεση λύσεων. Ικανοποιημένος με την προσπάθεια μου, διότι ασχολήθηκα με πράγματα που δεν είχα ξαναδεί ολοκληρώνοντας αυτά με επιτύχια. Τελική ανανέωση αναφοράς. |
 
 
 
