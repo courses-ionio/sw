@@ -16,12 +16,12 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Discussions](https://github.com/courses-ionio/help/discussions/381)|Σε αυτό το παραδοτέο, έγινε η εγκατάσταση του FreeBSD λογισμικού. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) |[Discussions](https://github.com/courses-ionio/help/discussions/564) |Για το 5o παραδοτέο, αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό Archbang και το Austrumi κάτι το οποίο θεωρώ ότι ταιριάζει με το θέμα του μαθήματος. Επίσης, προσέθεσα σε ήδη υπάρχοντα timeline και slides, διότι υπήρχαν απο πριν. Τέλος, άνοιξα αίτημα ενσωμάτωσης και περάστηκαν στο site της ομάδας μου. |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) |[Discussions](https://github.com/courses-ionio/help/discussions/577) |Σε αυτό το παραδοτέο, εγκατέστησα το λογισμικό Alpine Linux διότι το FreeBSD ήταν πολύ εύκολο στην εγκατάσταση του οπότε δεν χρειάστηκε να ασχοληθώ με το configuration του σε μεγάλο βαθμό για να πάρω μια ιδέα για το πως λειτουργεί.|
-| 7 | [Βιογραφικό](#παραδοτεο-7) | |Για το 2ο μέρος του βιογραφικού, εγκατέστησα pandoc και tex live για να μετατρέψω το cv μου σε μορφή pdf.|
+| 7 | [Βιογραφικό](#παραδοτεο-7) |[Discussions](https://github.com/courses-ionio/help/discussions/666) |Για το 2ο μέρος του βιογραφικού, εγκατέστησα pandoc και tex live για να μετατρέψω το cv μου σε μορφή pdf.|
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) | |Για την άσκηση γραμμής εντολών εγκατέστησα το hyperfine και σύγκρινα δύο python scripts που δημιούργησα.|
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) |[Discussions](https://github.com/courses-ionio/help/discussions/667) |Για την άσκηση γραμμής εντολών εγκατέστησα το hyperfine και σύγκρινα δύο python scripts που δημιούργησα.|
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | | |
 | 11 | Άσκηση γραμμής εντολών | | |
-| 12 | [Τελική αναφορά*](#παραδοτεο-12) | | |
+| 12 | [Τελική αναφορά*](#παραδοτεο-12) | [Discussions](https://github.com/courses-ionio/help/discussions/668) | Έγραψα τα συμπεράσματά μου από το μάθημα και μίλησα για τις γνώσεις που μου προσέφερε |
 
 
 
@@ -93,7 +93,7 @@
 
 **Το cv μου σε pdf μορφή**:
 
-![my-cv-pdf1](https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf1.png)
+![my-cv-pdf1](https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf1.png) 
 ![my-cv-pdf2](https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf2.png)
 
 # ΠΑΡΑΔΟΤΕΟ 9 
@@ -120,4 +120,5 @@
 2. https://github.com/courses-ionio/help/discussions/151
 3. https://github.com/courses-ionio/help/discussions/261
 4. https://github.com/ionioi/members/discussions/4#discussioncomment-2784697
+5. https://github.com/courses-ionio/help/discussions/664
 
