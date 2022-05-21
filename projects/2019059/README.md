@@ -105,6 +105,8 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 Τώρα αντιμετοπίζω ένα πρόβλημμα με το hooks.
 ## update
 Το πρόβλημα λύθικε, εδώ είναι το link για το [asciinema](https://asciinema.org/a/MLWbcxtXX4OI3RCUtBV6wXsXs)
+![post-commit](https://user-images.githubusercontent.com/72515596/169671226-35fa3971-c3ac-4cad-a081-697cc9dd58ab.png)
+![pre-commit](https://user-images.githubusercontent.com/72515596/169671231-783eafdb-4eb8-4299-bdb7-eff611212e19.png)
 
 # Παραδοτέο 8
 
