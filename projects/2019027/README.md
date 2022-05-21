@@ -2,9 +2,9 @@
 ## AM: Π2019027
 ### ΣΤ Εξάμηνο
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://github.com/p19zing/sw/blob/2019027/projects/2019027#%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/115) | Εντός προθεσμίας |
+| 1 | [Εισαγωγή](#εισαγωγή) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/115) | Εντός προθεσμίας |
 | 2 | [Βιογραφικό](https://p19zing.github.io/online-cv) και δημιουργία ομάδας |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app/posts/) | Αρχικό Issue εντός προθεσμίας (Αίτημα ενσωμάτωσης έγινε δεκτό) |
 | 4 | <a href="#Παραδοτέο 4">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) και [Link στο Asciinema](https://asciinema.org/a/xk9ZIC9rgxGVJXlOrjCrvbes0) | Εντός προθεσμίας |
@@ -17,7 +17,8 @@
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
-## Εισαγωγή
+### Εισαγωγή
+
 Σκοπός μου σε αυτό το εξάμηνο είναι να μπορέσω να κατανοήσω καλύτερα την φιλοσοφία του github το οποίο αποτελεί την πρώτη επιλογή για τους
 περισσότερους προγραμματιστές παγκοσμίως. Θεωρώ πως η χρήση του github θα βοηθήσει πολύ στη συνεργασία μεταξύ των μελών της ομάδας ώστε να
 φέρουμε με επιτυχία εις πέρας τη δύσκολη ομαδική εργασία που θα αναλάβουμε.
