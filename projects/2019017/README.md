@@ -52,9 +52,9 @@ Neofetch: https://asciinema.org/a/rCovVT5nKbeXB1hmV1VmL6XBI
 ![AltText](https://i.imgur.com/rBVf9cJ.gif)
 
 ## Συμμετοχικο 1
-Update: [Μεταβαση στην ενοτητα οπου εκανα αλλαγες στα παραπανω](#Συμμετοχικο-2-με-αλλαγες-στο-συμμετοχικο-1).
-**End of update.**
+**Update:** [Μεταβαση στην ενοτητα οπου εκανα αλλαγες στα παραπανω](#Συμμετοχικο-2-με-αλλαγες-στο-συμμετοχικο-1).
 
+**Original:**
 Για το συμμετοχικο περιεχομενο Α1 και Α2 επελεξα να ασχοληθω με συγκεντρωση πληροφοριας πανω σε systemd-less λειτουργικα. Για αυτο διαλεξα τα freebsd και void.
 
 Συνδεσμοι στα αποθετηρια μου οπου ειναι οι αλλαγες μου: [slides](https://github.com/p19kala/site/blob/P2019017_sw/_slides/operating-systems.md), [timeline](https://github.com/p19kala/site/blob/P2019017_sw/_timeline/os-apps.md), images για [freebsd](https://github.com/p19kala/images/commit/3032511d4febe27fdeb1f439921d6cdbacd58b65) και [void](https://github.com/p19kala/images/commit/c89d4d7aa0b9d8f61594a1c627a2bb9d2ee5fe52), gallery για [freebsd](https://github.com/p19kala/_gallery/blob/P2019017/freebsd.md) και [void](https://github.com/p19kala/_gallery/blob/P2019017/voidlinux.md).
