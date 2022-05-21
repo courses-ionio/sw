@@ -119,7 +119,7 @@ Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-managers/), [g
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
 ## Ασκηση Γραμμης Εντολων 4
--
+Empty.
 
 ## Links ομαδικότητας και συμμετοχής
 Δημιουργια guide στα discussions του sitegr για Ruby version management: https://github.com/courses-ionio/help/discussions/200
