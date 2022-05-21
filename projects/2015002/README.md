@@ -182,6 +182,35 @@ ADD TOOLS/DIFFICULTY/LEARNT in each deliverable
 
 ![281358422_960911344583895_1846094582625683990_n](https://user-images.githubusercontent.com/22726730/169654801-92848b29-bc18-455e-b21d-f6250d9c8f05.jpg)
 
+#### Τα δύο script που χρειάστηκαν για την ανανέωση του PDF με κάθε αλλαγή:
+
+***post-commit***
+
+```
+#!/bin/sh
+echo
+if [ -e .commit ]
+    then
+    rm .commit
+    cd pdf
+    pandoc https://mariosconsta.github.io/cv/ -o cv.tex -s
+    pdflatex --interaction=nonstopmode cv.tex
+    git add .
+    git commit --amend -C HEAD --no-verify
+    ntfy -b telegram send "CV in PDF format updated"
+fi
+exit
+```
+
+***pre-commit***
+
+```
+#!/bin/sh
+echo
+touch .commit
+exit
+```
+
 ## 8o Παραδοτέο - 	Αίτημα ενσωμάτωσης στην ιστοσελίδα
 
 
