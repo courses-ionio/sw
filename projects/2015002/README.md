@@ -18,7 +18,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | [9](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/656) | Πλήρης Εκτέλεση |
 | [10](#10o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | συμμετοχικό περιεχόμενο B1+B2 | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
-| 11 | Άσκηση γραμμής εντολών | | |
+| [11](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
 | 12 | Τελική αναφορά* | | |
 
 ---
@@ -267,5 +267,28 @@ exit
 - [DirectX](https://www.pcmag.com/encyclopedia/term/directx)
 - [What is DirectX, and why does it matter for gaming?](https://www.windowscentral.com/what-directx-why-does-matter-gaming)
 - [What is DirectX, and why is it important for PC games?](https://www.digitaltrends.com/computing/what-is-directx/)
+
+
+## 11o Παραδοτέο - Άσκηση Γραμμής εντολών
+
+Για την τελευταία άσκηση γραμμής εντολών χρησιμοποίησα το Hyperfine για να κάνω monitor τα python scripts μου.
+
+Αυτό το εργαλείο σκοπεύω να το χρησιμοποιήσω και για την πτυχιακή μου εργασία όπου κάνω training ένα Deep Learning μοντέλο. Το συγκεκριμένο μοντέλο τρέχει για πολλές ώρες μέσα στην μέρα και θεωρώ πως θα ήταν καλό να ήξερα το performance του.
+
+Το python script που χρησιμοποίησα είναι πολύ απλό και ο σκοπός του είναι για να δείξω την λειτουργία του Hyperfine.
+
+### Σχετικό Asciinema
+
+[![asciicast](https://asciinema.org/a/496234.svg)](https://asciinema.org/a/496234)
+
+### Benchmark.md
+
+| Command | Mean [s] | Min [s] | Max [s] | Relative |
+|:---|---:|---:|---:|---:|
+| `python benchmark.py` | 6.970 ± 0.068 | 6.897 | 7.087 | 1.00 
+
+### Πηγές
+
+- [How to Install and Use hyperfine on Linux](https://www.linode.com/docs/guides/installing-and-using-hyperfine-on-linux/)
 
 ---
