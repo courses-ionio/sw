@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/115) | Εντός προθεσμίας |
 | 2 | [Βιογραφικό και δημιουργία ομάδας ](#παραδοτέο-2---βιογραφικό-και-δημιουργία-ομάδας) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/222) | Εντός προθεσμίας |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας και το αίτημα ενσωμάτωσης έγινε δεκτό) |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3---πρώτο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/353) | Αρχικό Issue εντός προθεσμίας και το αίτημα ενσωμάτωσης έγινε δεκτό |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/393) | Εντός προθεσμίας |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1a2) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | <a href="#Παραδοτέο 6">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) και [Link στο Asciinema](https://asciinema.org/a/QPGR9QDgZQE1kc8rhT6vfaaY5) | Εντός προθεσμίας |
@@ -26,7 +26,13 @@
 
 ### Παραδοτέο 2 - Βιογραφικό και δημιουργία ομάδας
   
-Σε αυτό το παραδοτέο δημιούργησα [βιογραφικό στο github](https://p19zing.github.io/online-cv) με κάποιες βασικές πληροφορίες. Στη συνέχεια μπήκα στην ομάδα [Sybil Reisz](https://sybil-reisz.netlify.app/) με το ακόλουθο [Webring / Sybil Reisz](https://sybil-reisz.netlify.app/).
+Σε αυτό το παραδοτέο δημιούργησα [βιογραφικό στο github](https://p19zing.github.io/online-cv) με κάποιες βασικές πληροφορίες.
+  
+  ![alt text](https://github.com/p19zing/sw/blob/master/cv.png?raw=true)
+  
+  Στη συνέχεια μπήκα στην ομάδα [Sybil Reisz](https://sybil-reisz.netlify.app/) με το ακόλουθο [Webring / Sybil Reisz](https://sybil-reisz.netlify.app/).
+  
+  ![alt text](https://github.com/p19zing/sw/blob/master/group.png?raw=true)
   
 ### Παραδοτέο 3 - Πρώτο αίτημα ενσωμάτωσης στην ιστοσελίδα
   
