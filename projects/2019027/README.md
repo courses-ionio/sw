@@ -11,7 +11,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1a2) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/450) και [Link στην ιστοσελίδα του βιβλίου](https://hungry-villani-11b334.netlify.app//timeline/consoles/) | Εντός προθεσμίας το Α1 και το Timeline |
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6---άσκηση-γραμμής-εντολών) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/465) | Εντός προθεσμίας |
 | 7 | [Δημιουργία Pdf βιογραφικού](#παραδοτέο-7---δημιουργία-pdf-βιογραφικού) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/527) | Εντός προθεσμίας |
-| 8 | <a href="#Παραδοτέο 8">Αίτημα ενσωμάτωσης στην ιστοσελίδα</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8---δεύτερο-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) και [Issue](https://github.com/ioniodi/sitegr/issues/396) και [Link στην ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) και [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) και [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)  | Αρχικό Issue εντός προθεσμίας |
 | 9 | <a href="#Παραδοτέο 9">Άσκηση γραμμής εντολών</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/574) και [Link στο Asciinema](https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2) | Εντός προθεσμίας |
 | 10 | <a href="#Παραδοτέο 10">Συμμετοχικό περιεχόμενο B1+B2</a> | [Συζήτηση](https://github.com/courses-ionio/help/discussions/587) | Εντός προθεσμίας |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -108,25 +108,35 @@
   [![asciicast](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2.png)](https://asciinema.org/a/ZCAOG87dCe37Slzq3fu6CnxJ2)
   
   
-<h2 id="Παραδοτέο 8">Παραδοτέο 8 - Δεύτερο Αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος (κατηγορία hard)</h2>
-  
-  [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) 
-  
-  [Issue](https://github.com/ioniodi/sitegr/issues/396) 
-  
-  [Ιστοσελίδα του τμήματος](https://p19zing-sitegr.netlify.app) 
-  
-  [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) 
-  
-  [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44)
+### Παραδοτέο 8 - Δεύτερο Αίτημα Ενσωμάτωσης στην ιστοσελίδα
+
+  **Κατηγορία hard**
   
   Μπαίνοντας κάποιος στο site του τμήματος βλέπει την 3D παρουσίαση μέσω iframe/youtube.
   Ο στόχος μου ήταν όταν κάποιος μπαίνει με κινητό να βλέπει μια πιο light έκδοση, που αντικαθιστά
   δυναμικά το youtube με μια εικόνα. 
   Για να πετύχω την αλλαγή, χρησιμοποιήσα Javascript και όταν κάποιος με κινητό ανοίγει τη σελίδα ο κώδικας
   το καταλαβαίνει και αντικαθιστά το iframe με img.
-  Για να έχω παρόμοιο styling με το iframe έκανα αλλαγή και στο theme (minimal-ionio) για αυτό έκανα και δύο pull requests.
-  H διαφορά φαίνεται αν φορτωθεί η σελίδα από κινητό από κινητό
+  H διαφορά φαίνεται αν φορτωθεί η σελίδα από κινητό και από υπολογιστή
+  
+  Όπως και στο παραδοτέο 3, εμπέδωσα καλύτερα τη φιλοσοφία του Github ως προς τη συνεργασία των ομάδων 
+  και την καθοδήγηση από τα πιο έμπειρα μέλη.
+  
+  Και εδώ δούλεψα στα δύο αποθετήρια (sitegr και minimal-ionio) αλλά όπως φάνηκε στην πορεία αρκούσε η
+  υλοποίηση στο minimal-ionio. Το συγκεκριμένο issue ήταν πιο δύσκολο από το προηγούμενο, αλλά το ολοκλήρωσα
+  επιτυχώς όπως φαίνεται και στο σχετικό [Netlify link](https://p19zing-sitegr.netlify.app) 
+  (αλλιώς φορτώνει από κινητό και αλλιώς από υπολογιστή).
+  
+  Όμως το [Pull Request στο minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/44) παραμένει ακόμη ανοιχτό.
+  
+  Παραθέτω και τα υπόλοιπα σχετικά links
+  
+  [Συζήτηση](https://github.com/courses-ionio/help/discussions/556) 
+  
+  [Issue στο sitegr που έκλεισε](https://github.com/ioniodi/sitegr/issues/396) 
+     
+  [Pull Request στο sitegr](https://github.com/ioniodi/sitegr/pull/400) 
+  
   
 <h2 id="Παραδοτέο 9">Παραδοτέο 9 - Άσκηση γραμμής εντολών</h2>
   link στο Asciinema https://asciinema.org/a/Hjf0SMrJLt5ONBR4T2AVzvZv2
