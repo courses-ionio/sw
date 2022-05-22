@@ -259,11 +259,11 @@
 
 <br /> <br />
 
-|Demo-site | Pull requests | Issue |
-| --- | --- | --- |
-| Timeline [markup-languages](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) |  Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/4) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/4) |
-| Timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/)|  Αίτημα ενσωμάτωσης για [gallery](https://github.com/OompaLoompas/_gallery/pull/4) |  |
-|  Slides [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/6)|  |
+|Demo-site | Team-site | Pull requests | Issue |
+| --- | --- | --- | --- |
+| Timeline [markup-languages](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) | Team Timeline [markdown προσθήκη](https://oompa-loompas.netlify.app//timeline/markup-languages/) |  Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/4) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/4) |
+| Timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/)| Team Timeline [gedit προσθήκη](https://oompa-loompas.netlify.app//timeline/text-editing/) |  Αίτημα ενσωμάτωσης για [gallery](https://github.com/OompaLoompas/_gallery/pull/4) |  |
+| Slides [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/) | Team [Slides προσθήκη](https://oompa-loompas.netlify.app//slides/tools/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/6)|  |
 
 <br />
 
@@ -659,11 +659,11 @@
 
 <br /> <br />
 
-|Demo-site | Pull requests | Issue |
-| --- | --- | --- |
-| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/26) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/19) |
-| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) | |
-| | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) | |
+|Demo-site | Team-site | Pull requests | Issue |
+| --- | --- | --- | --- |
+| Case study [Github](https://pibook-aimiliospavlidis2001.netlify.app/case-study/github/) | Team [Github προσθήκη](https://oompa-loompas.netlify.app//case-study/github/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/26) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/19) |
+| Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Team [Aaron Swartz προσθήκη](https://oompa-loompas.netlify.app//biography/aaron-swartz/) | Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) | |
+| | | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) | |
 
 <br />
 
