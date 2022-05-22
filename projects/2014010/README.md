@@ -17,8 +17,8 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) | [Παρουσίαση Προόδου 9](https://github.com/courses-ionio/help/discussions/388) | |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/595) | |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Παρουσίαση Προόδου 11](https://github.com/courses-ionio/help/discussions/482) | |
-| 12 | [Τελική Αναφορά](#παραδοτεο-12) | [Παρουσίαση Προόδου 12](https://github.com/courses-ionio/help/discussions/482) | |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Παρουσίαση Προόδου 11](https://github.com/courses-ionio/help/discussions/682) | |
+| 12 | [Τελική Αναφορά](#παραδοτεο-12) | [Παρουσίαση Προόδου 12](https://github.com/courses-ionio/help/discussions/683) | |
 ## ΠΑΡΑΔΟΤΕΟ 1
 
 ### Εισαγωγή
