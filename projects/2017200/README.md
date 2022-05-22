@@ -177,7 +177,7 @@
 Για το 10ο παραδοτέο έπρεπε να βάλουμε μία νέα μελέτη περίπτωσης και μια νέα βιογραφία που να  συνδυάζει τις δύο νέες εικόνες σας με εικόνες 
 που ήδη υπάρχουν από το Α1
 
-[_case-study](https://github.com/vivikara/site/blob/master/_case-study/alpinelinux.md) 
+[_case-study](https://github.com/vivikara/site/blob/master/_case-study/cs-alpinelinux.md) 
 Για την μελέτη περίπτωσης έπελεξα να προσθέσω το alpine linux που είναι διανομή των linux.
 
 [_biography](https://github.com/vivikara/site/blob/master/_biography/bil-herd.md) 
