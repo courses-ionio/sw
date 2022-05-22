@@ -7,18 +7,18 @@
 ### <br/>
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#παραδοτεο-1) | [Link 1ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/76)| 10 |
-| 2 | [βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631), [Webring](https://git-team-epic-webring.netlify.app) | 6 |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Link issues](https://github.com/ioniodi/sitegr/issues/266)[, pull request](https://github.com/ioniodi/all_collections/pull/26)[, netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)[, παραδοτέο 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | 10 |
-| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | 7 |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | 10 |
-| 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Link 6ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/490) | 9 |
-| 7 | [βιογραφικό](#παραδοτεο-7) | [Link 7ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/531) | 10 |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link 8ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | 8 |
-| 9 |  [Άσκηση γραμμής εντολών](#παραδοτεο-9) | [Link 9ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/632)| 7 |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Link 10ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/633)| 10 |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Link 11ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/635)| 10 |
-| 12 | [Τελική αναφορά](#παραδοτεο-12) | | |
+| 1 | [Εισαγωγή](#παραδοτεο-1) | [Link 1ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/76)| Για το πρώτο παραδοτέο αρχικά να αναφέρω το ότι ανέβηκε εγκύρως και έγινε και ανανέωση της εισαγωγής. Η ανανέωση αυτή έγινε μία φορά μόνο οπότε και δεν θα έλεγα ότι πήγε τέλεια(8-9). |
+| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) | [Link 2ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/631), [Webring](https://git-team-epic-webring.netlify.app) | Για το παραδοτέο αυτό έγινε πάλι έγκυρα μπαίνοντας στην ομάδα Git’s PopTeamEpic! και κάνοντας το βιογραφικό(ανέβηκε στο /help αργοπορημένα αλλά όπως φαίνεται και στο /help έγινε η προσθήκη του στην αναφορά στην ώρα της). Επίσης μαζί με το βιογραφικό ανέβηκε και ένα asciinema στο οποίο φαίνεται μια από τις πρώτες προσθήκες στο βιογραφικό μέσο terminal αλλά δεν πιστεύω ότι έκανα αρκετές αλλαγές στο βιογραφικό(6-7). |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) | [Link παραδοτέου 3 στα discussions](https://github.com/courses-ionio/help/discussions/320) | Για το τρίτο παραδοτέο πιστεύω το ότι τα πήγα πολύ καλά κάνοντας το αίτημα έγκυρα αλλά και βρίσκοντας ένα θέμα το οποίο πήρε greenlight(10). |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Link 4ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/390) | Στο συγκεκριμένο παραδοτέο άρχισα την διαδικασία εγκατάστασης λογισμικού systemdless. Μετά από κάποιες προσπάθειες(3 διαφορετικά operating systems) κατέληξα στο επόμενο παραδοτέο να κατεβάσω το void linux(7-8). |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτεο-5) | [Link παραδοτέου 5ου στις συζητήσεις ](https://github.com/courses-ionio/help/discussions/435) | Για το συμμετοχικό περιεχόμενο(A1+A2) αρχικά καταλήξαμε σε μία διαδικασία παρόμοια με αυτήν που χρησιμοποιήθηκε για το sitegr και έγινε πάλι έγκυρα το παραδοτέο(10). |
+| 6 | [Άσκηση γραμμής εντολών](#παραδοτεο-6) | [Link 6ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/490) |Για την άσκηση αυτή κατέληξα στο void linux σαν operating system και έκανα την άσκηση ntfy. Το παραδοτέο αυτό έγινε εμπρόθεσμα και πάλι. Παρόλο που έκανα τις κατάλληλες αλλαγές στο ```~/.bashrc``` δεν κατάφερα να κάνω το shell integration να δουλεύει(7-8). |
+| 7 | [Βιογραφικό](#παραδοτεο-7) | [Link 7ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/531) | Για το παραδοτέο αυτό έκανα την μετατροπή του βιογραφικού μέσω του pdflatex και pandoc. Έκανα continuous integration μέσω hooks το οποίο από ότι κατάλαβα κάνει update μόνο μετά από commit μέσω του terminal(κάτι που δεν με προβλημάτισε καθώς στο εξάμηνο αυτό έμαθα να χρησιμοποιώ το terminal περισσότερο)(8-9). |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-8) | [Link 8ου παραδοτέου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/563) | Για αυτήν την εβδομάδα έκανα πάλι ανάρτηση του issue έγκυρα και νομίζω το πώς ως διαδικασία πήγε πολύ καλά, αν και στο τέλος μετά την πραγμάτωση του και μετά από καθυστέρηση μέσα στις γιορτές απορριπτικέ κάτι με το οποίο δεν συμφωνώ(8-9). |
+| 9 |  [Άσκηση γραμμής εντολών](#παραδοτεο-9) | [Link 9ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/632)| Αυτήν την εβδομάδα καθυστέρησα το παραδοτέο οπότε δεν ήταν έγκυρο, αλλά προσπάθησα να κάνω κάποιες από τις ασκήσεις γραμμών εντολών συναντώντας προβλήματα. Στην συνέχεια σε επόμενο παραδοτέο ασχολήθηκα με το twilio κάτι σχετικά κοντά στο ntfy καθώς και τα δύο έχουν να κάνουν με κινητά τηλέφωνα(5-6) |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | [Link 10ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/633)| Για το δεύτερο συμμετοχικό περιεχόμενο έκανα το issue στην ομάδα 1 μέρα μετά το πέρας της προθεσμίας αλλά με το demo έτοιμο και τέλος αποδέχτηκε και το pull request στο site της ομάδας(8-9). |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | [Link 11ου παραδοτέου στις συξητήσεις](https://github.com/courses-ionio/help/discussions/635)| Για το παραδοτέο αυτό ήμουνα μέσα στην προθεσμία και έκανα την άσκηση γραμμών εντολών twilio. Επίσης να αναφέρω δεν παρατήρησα κανέναν όντος να κάνει αυτό που ζητούνταν στην άσκηση κάνοντας απλός εφαρμογές που στέλνουν απλό μήνυμα ή απλό call στο τηλέφωνο ενώ ζητιόνταν να γίνει εφαρμογή call forwarding με την χρήση black list, κάτι που εγώ το έκανα(10). |
+| 12 | [Τελική αναφορά](#παραδοτεο-12) | | Για την τελευταία εβδομάδα ήμουνα ξανά μέσα στην προθεσμία και πιστεύω το ότι έκανα μία καλή δουλειά με την συγγραφή της τελικής αναφοράς. |
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1
@@ -36,17 +36,20 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 2
 
-Για το παραδοτέο αυτό έκανα το βιογραφικό μέσω terminal και κατέγραψα την πρώτη φορά που επεξεργάστηκα το [βιογραφικό](https://asciinema.org/a/VxmFl99X64MCyEPIWXhWYsr5e) μέσο terminal και [εδώ](https://alexpoulis.github.io/online-cv/) είναι το link demo του Βιοραφικού.</br>
+Για το παραδοτέο αυτό έκανα το βιογραφικό μέσω terminal και κατέγραψα την πρώτη φορά που επεξεργάστηκα το [βιογραφικό](https://asciinema.org/a/VxmFl99X64MCyEPIWXhWYsr5e) μέσο terminal και [εδώ](https://alexpoulis.github.io/online-cv/) είναι το link demo του Βιοραφικού. Αρχικά επεξεργάστηκα λίγο το βιογραφικό αφαιρώντας κομμάτια που δεν μου χρησίμευαν και προσθέτοντας ένα html κώδικα που είχε τεθεί από την ομάδα για να μας πάει από βιογραφικό σε βιογραφικό των ατόμων της ομάδας.</br> Το παραδοτέο αυτό έγινε έγκυρα αλλά ξέχασα να ανεβάσω έγκυρα στο discussions και αυτό φαίνεται στο link πρός τα discussions.
 ![image](https://user-images.githubusercontent.com/72515420/158197396-f3307909-d1b7-49b3-8cd2-e104ebed924d.png)</br>
+
 Επίσης μπήκα στην ομάδα “Git’s Pop Team Epic” την οποία μπορείτε να δείτε και [εδώ]( https://git-team-epic-webring.netlify.app)
 ![image](https://user-images.githubusercontent.com/72515420/158197715-8325ad2b-441b-4e15-9416-43b2bad817ee.png)
 
 
+
 ## ΠΑΡΑΔΟΤΕΟ 3
 
-Για το παραδοτέο αυτό πρόσθεσα μια ανακοίνωση στην ιστοσελίδα sitegr. Οι προσθήκη που έκανα είναι στο [/all-collections/_posts/](https://github.com/alexpoulis/all_collections/tree/d0f612298934a9dbfa0e92bd2b8f71e570030b5c/_posts) και εδώ φαίνεται το demo της σελίδας στο [netlify]( https://determined-stonebraker-074f6d.netlify.app/posts/2022/03/01/proquest-free-trial/).</br>
+Για το παραδοτέο αυτό πρόσθεσα μια ανακοίνωση στην ιστοσελίδα sitegr. Οι προσθήκη που έκανα είναι στο [/all-collections/_posts/](https://github.com/alexpoulis/all_collections/tree/d0f612298934a9dbfa0e92bd2b8f71e570030b5c/_posts) και εδώ φαίνεται το demo της σελίδας στο [netlify](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/).</br>
+Το issue αυτό, το οποίο έγινε εμπρόθεσμα, είναι στο [αυτό](https://github.com/ioniodi/sitegr/issues/266) και εδώ είναι το [pull request](https://github.com/ioniodi/all_collections/pull/26).</br>
 Εδώ φαίνεται το [asciinema link επεξεργασίας sitegr μέσο terminal](https://asciinema.org/a/6beFcxOLpDlRYpz1TJY5Ax5MS) το οποίο είδα ότι δεν έκανε σωστά καταγραφές αλλά δεν είχα κάποιο άλλο να παραδώσω.</br>
-Και βάζω και το demo του sitegr σαν μία εικόνα.
+Και βάζω και το demo του sitegr σαν μία εικόνα.[netlify demo](https://622f513b2ff3af00098ff5bb--laughing-torvalds-c7365e.netlify.app/posts/2022/03/01/proquest-free-trial/)
 ![image](https://user-images.githubusercontent.com/72515420/158195135-ced57a34-f546-4664-beed-cf3f19c610e1.png)
 
 
@@ -64,20 +67,20 @@
 Για το παραδοτέο αυτό αρχικά σαν ομάδα αποφασίσαμε σε μία διαδικασία για το πώς θα γίνουν τα νέα issue για το τι θα προσθέσει ο καθένας και το πώς θα γίνουν τα pull requests το οποίο φαίνεται [εδώ]( https://github.com/Git-s-PopTeamEpic/Pop-Discussion-Repo/discussions/10). </br>
 Στην συνέχεια ο καθένας αποφάσισε το θέμα των διαφανειών και του timeline του οποίου θα προσθέσει και δημιουργούμε ένα issue σχετικά με αυτό το οποίο μπορεί να βρεθεί [εδώ]( https://github.com/Git-s-PopTeamEpic/site/issues/4).</br>
 Στην συνέχεια μετά από αυτό εφόσον το θέμα δεν το έχει δηλώσει κάποιος άλλος και δεν υπάρχει καμία διαφωνία για το θέμα κάνουμε τις προσθήκες και ανοίγουμε 3 pull requests 1 σε κάθε repo [site]( https://github.com/Git-s-PopTeamEpic/site/pull/7), [images]( https://github.com/Git-s-PopTeamEpic/images/pull/3) και [_gallery]( https://github.com/Git-s-PopTeamEpic/_gallery/pull/3).</br>
-Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεθούν(εδώ φαίνεται η χρήση εικόνων logo το οποίο διορθώθηκε στο επόμενο συμμετοχικό):</br>
+Το demo για τις αλλαγές φαίνεται και στο pull requests στο site αλλά θα τα βάλω και εδώ για να είναι ποιο εύκολο να τα βρεθούν(εδώ φαίνεται η χρήση εικόνων logo το οποίο διορθώθηκε στο επόμενο συμμετοχικό μετά από παρατήρηση στην ενδιάμεση αξιολόγηση):</br>
 Α1:</br>
-[Unity](https://alexpoulis.netlify.app/gallery/unity/)</br>
+[Unity](https://alexpoulis.netlify.app/gallery/unity/), [Unity με νέες εικόνες](https://alexpoulisb.netlify.app/gallery/unity/)</br>
 ![image](https://user-images.githubusercontent.com/72515420/159159337-1f7f8a22-881c-406f-8be3-fb4a08a7b021.png)</br>
-[Unreal Engine](https://alexpoulis.netlify.app/gallery/unreal-engine/)</br>
+[Unreal Engine](https://alexpoulis.netlify.app/gallery/unreal-engine/),[Unreal Engine με νέες εικόνες](https://alexpoulisb.netlify.app/gallery/unreal-engine/)</br>
 ![image](https://user-images.githubusercontent.com/72515420/159159354-d1038c1a-4772-4f44-a797-1ecaa2ab9a02.png)</br>
 A2:</br>
-[Timeline](https://alexpoulis.netlify.app/timeline/game-engine/)</br>
+[Timeline](https://alexpoulis.netlify.app/timeline/game-engine/), [Timeline με της νέες εικόνες](https://alexpoulisb.netlify.app/timeline/game-engine/)</br>
 ![image](https://user-images.githubusercontent.com/72515420/159159319-fdaf2170-e7dd-4c5e-8f8f-c1e8b0d9da07.png)</br>
-[Slides](https://alexpoulis.netlify.app/slides/game-engines/)</br>
+[Slides](https://alexpoulis.netlify.app/slides/game-engines/), [Slides με νέες εικόνες](https://alexpoulisb.netlify.app/slides/game-engines/)</br>
 ![image](https://user-images.githubusercontent.com/72515420/159159306-818108e8-050f-4e26-9783-eb76e1e15664.png)</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 6
-Για το παραδοτέο αυτό αρχικά προσπάθησα να κάνω install το funtoo το οποίο δεν πήγε και πολύ καλά, καθώς φτάνοντας περίπου στο τέλος δεν μπορούσα να κάνω τα commands όπως το ```epro``` και κάτι άλλα που ήθελε για να το τελειώσω. Ύστερα δοκίμασα να κατεβάσω το linux void το οποίο και κατέβασα με κατά πολύ περισσότερη ευκολία και άρχισα να προσπαθήσω να βρω πώς να κάνω το ntfy από το προηγούμενο παραδοτέο να δουλεύει. Εντελώς τυχαία βρήκα το ότι ```sudo xbps-install python3-dbus``` έλυσε το πρόβλημα, κάτι που να τονίσω ότι το βρήκα εντελώς τυχαίο. Στην συνέχεια κατάφερα να στείλω notification στον terminal  μεσώ ```ntfy send “message”``` και στην συνέχεια με την χρήση του: </br>```curl -s \```
+Για το παραδοτέο αυτό αρχικά προσπάθησα να κάνω install το funtoo το οποίο δεν πήγε και πολύ καλά, καθώς φτάνοντας περίπου στο τέλος δεν μπορούσα να κάνω τα commands όπως το ```epro``` και κάτι άλλα που ζρειαζόταν για να τελειώσω το building του λειτουργικού συστήματος. Ύστερα δοκίμασα να κατεβάσω το linux void το οποίο και κατέβασα με κατά πολύ περισσότερη ευκολία και άρχισα να προσπαθήσω να βρω πώς να κάνω το ntfy από το προηγούμενο παραδοτέο να δουλεύει. Εντελώς τυχαία βρήκα το ότι ```sudo xbps-install python3-dbus``` έλυσε το πρόβλημα, κάτι που να τονίσω ότι το βρήκα εντελώς τυχαίο. Στην συνέχεια κατάφερα να στείλω notification στον terminal  μεσώ ```ntfy send “message”``` και στην συνέχεια με την χρήση του: </br>```curl -s \```
 </br>     ```--form-string "token=APP_TOKEN" \```
 </br>     ```--form-string "user=USER_KEY" \```
 </br>     ```--form-string "message=hello world" \```
