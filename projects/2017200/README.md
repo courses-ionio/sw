@@ -184,7 +184,15 @@
 
 
 
+To pdf 
 
+
+
+
+
+
+![cvpdf](https://github.com/vivikara/Myimages/blob/main/cv%20(1)%20(1)-1.png)
+![cvpdf](https://github.com/vivikara/Myimages/blob/main/cv%20(1)%20(1)-2.png)
 
 
 
