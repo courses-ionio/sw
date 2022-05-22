@@ -158,3 +158,7 @@ To [netlify](https://app.netlify.com/sites/venerable-taiyaki-f6b012/overview) γ
   Έκανα την εργασεία με το twilio  γιατί μου φάνηκε ωραία η ιδέα να στέλνετε μήνυμα απο την γραμμή εντολών στο κινητό τηλέφωνο.[history](https://github.com/xar1sgeovlacp2019059/sw/commit/a1cae6aa82818692f5dae5f8efd14866a5e08925)
 # Παραδοτέο 10
   Ενδιαφέρον γιατί βρήκα πράγματα που με ενδιαφέρουν απο πολλές διαφορετικές πηγές, όπως άρθρα και παλιές δημοσιεύσεις[history](https://github.com/xar1sgeovlacp2019059/sw/commit/ead9cdb3a25ec7ea3b44cfe1fb976ce796319b33)
+
+## Σημετωχή και Ομαδικότητα
+
+[help](https://github.com/courses-ionio/help/discussions/197)
