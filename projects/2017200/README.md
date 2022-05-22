@@ -80,6 +80,7 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 ΚΑΙ Α2
 
 Για το 5ο παραδοτέο έπρεπε να βρούμε δυο είκονες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image 
 
@@ -121,10 +122,13 @@
 [asciinema link](https://asciinema.org/a/495446)
 
 
+Το [pull request στην ομάδα](https://github.com/SWkey/site/pull/1)
 
 
+## ΠΑΡΑΔΟΤΕΟ 6 
 
-## ΠΑΡΑΔΟΤΕΟ 6
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 
+
 
 Για το 6ο παραδοτέο έχω κάνει το NTFY TELEGRAM και το έβαλα να στέλνει μήνυμα στο κινητό
 
@@ -189,8 +193,6 @@ To pdf
 
 
 
-
-
 ![cvpdf](https://github.com/vivikara/Myimages/blob/main/cv%20(1)%20(1)-1.png)
 ![cvpdf](https://github.com/vivikara/Myimages/blob/main/cv%20(1)%20(1)-2.png)
 
@@ -200,6 +202,7 @@ To pdf
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10 
+## ΣΥΜΜΕΤΟΧΙΚΟ Β1 ΚΑΙ Β2 
 
 
 Για το 10ο παραδοτέο έπρεπε να βάλουμε μία νέα μελέτη περίπτωσης και μια νέα βιογραφία που να  συνδυάζει τις δύο νέες εικόνες σας με εικόνες 
@@ -218,6 +221,12 @@ To pdf
 [Demo alpine linux](https://p2017200.netlify.app//case-study/cs-alpinelinux/) 
 
 [Asciinema link]()
+
+
+
+Το [pull request στην ομάδα](https://github.com/SWkey/site/pull/1)
+
+
 
 
 ## Συνεισφορά σε συζητήσεις
