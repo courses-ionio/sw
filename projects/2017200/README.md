@@ -12,7 +12,7 @@
 | 4 | Άσκηση γραμμής εντολών | [Asciinema](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Asciinema](https://asciinema.org/a/495446) ,[demo](https://p2017200.netlify.app//gallery/commodore128/) | |
 | 6 | Άσκηση γραμμής εντολών | ntfy, [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6) | |
-| 7 | βιογραφικό | pdf βιογραφικό [asciinema link](https://asciinema.org/a/495286) | |
+| 7 | βιογραφικό | [pdf βιογραφικό](https://github.com/vivikara/CV/blob/main/cv%20(1).pdf), [asciinema link](https://asciinema.org/a/495286) | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | [Asciinema link](),[Biography](https://p2017200.netlify.app//biography/bil-herd/),[Case study](https://p2017200.netlify.app//case-study/cs-alpinelinux/) | |
