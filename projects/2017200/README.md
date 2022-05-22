@@ -153,7 +153,7 @@
 ## ΒΗΜΑΤΑ 
 ◉ Έναρξη εγγραφής τερματικού ``python3 -m asciinema rec -i ``
 
-◉ Fork προσωπικού αποθετηρίου βιογραφικού ``git clone https://github.com/vivikara/online-cv``
+◉ Fork προσωπικού αποθετηρίου βιογραφικού ``git clone https://github.com/vivikara/online-cv.git``
 
 ◉ Αλλαγή directory στο παραπάνω forked folder ``cd online-cv``
 
