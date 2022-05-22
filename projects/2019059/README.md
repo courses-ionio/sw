@@ -63,10 +63,11 @@ https://github.com/courses-ionio/help/discussions/197
 [all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)<br>
 [site](https://peppy-biscuit-9157d9.netlify.app/timetables/sem_f/)<br>
 [pull request](https://github.com/ioniodi/all_collections/pull/64)<br>
+![προγραμμα](https://user-images.githubusercontent.com/72515596/169703635-01104e46-f13c-40ca-b459-2a0fd74c183c.png)
 
 # Παραδοτέο 4
 
-Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον που είναι μόνο γραμμή ενοτλών.
+Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον που είναι μόνο γραμμή εντολών.
 
 # Παραδοτέο 5
 
@@ -118,8 +119,6 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 ![see more](https://user-images.githubusercontent.com/72515596/169703166-98e3f434-4578-4595-a8fb-59fda60621ae.png)
 ![this is a message](https://user-images.githubusercontent.com/72515596/169703174-aae744cc-6de3-46d6-a926-c467cc0fe136.png)
 ![hellowanttoseemore](https://user-images.githubusercontent.com/72515596/169703181-44bc7979-c5b4-43cc-aa11-f54b3f97ecf8.png)
-
-
 
 
 # Παραδοτέο 10
