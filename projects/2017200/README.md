@@ -220,7 +220,7 @@ To pdf
 
 [Demo alpine linux](https://p2017200.netlify.app//case-study/cs-alpinelinux/) 
 
-[Asciinema link]()
+[Asciinema link](https://asciinema.org/a/496399)
 
 
 
