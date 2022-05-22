@@ -15,7 +15,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#Παραδοτέο-6) | | 6 |
 | 7 | [βιογραφικό](#Παραδοτέο-7) |https://github.com/courses-ionio/help/discussions/532 | 10 |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-8) | | 6 |
-| 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) | | 6 |
+| 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) | | 8 |
 | 10 | [συμμετοχικό περιεχόμενο B1+B2](#Παραδοτέο-10) | | 7 |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -113,13 +113,14 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 [εδώ](https://github.com/ioniodi/sitegr/issues/393) είναι το issue μου με τις αλλαγές  που θέλω να κάνω
 
 # Παραδοτέο 9
+![hello](https://user-images.githubusercontent.com/72515596/169702356-719c4a84-0a39-4661-b32f-1f48c6cfcc0d.png)
+![wanttoseemore0](https://user-images.githubusercontent.com/72515596/169702386-4a094440-ea2d-46ea-a524-4d612fa3945c.png)
+![see more](https://user-images.githubusercontent.com/72515596/169703166-98e3f434-4578-4595-a8fb-59fda60621ae.png)
+![this is a message](https://user-images.githubusercontent.com/72515596/169703174-aae744cc-6de3-46d6-a926-c467cc0fe136.png)
+![hellowanttoseemore](https://user-images.githubusercontent.com/72515596/169703181-44bc7979-c5b4-43cc-aa11-f54b3f97ecf8.png)
 
-![hello smile](https://user-images.githubusercontent.com/72515596/163600301-3a4d8245-16a6-43c0-b9ae-3a1851a1bdfe.png)
-![ntfyapp1](https://user-images.githubusercontent.com/72515596/163606134-34e7e736-2c63-42d1-ac94-f1759dd6cfc1.jpg)
 
-![another message](https://user-images.githubusercontent.com/72515596/163600314-d0086180-3e86-46fe-8b8f-40f1f42a69fd.png)
 
-![ntfyapp](https://user-images.githubusercontent.com/72515596/163606149-f9636316-cd78-4a32-bbdb-8fa44f66ebd4.jpg)
 
 # Παραδοτέο 10
 
