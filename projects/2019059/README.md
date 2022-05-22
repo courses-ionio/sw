@@ -16,7 +16,7 @@
 | 7 | [βιογραφικό](#Παραδοτέο-7) |https://github.com/courses-ionio/help/discussions/532 | 10 |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Παραδοτέο-8) | | 6 |
 | 9 | [Άσκηση γραμμής εντολών](#Παραδοτέο-9) | | 6 |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](#Παραδοτέο-10) | | 10 |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#Παραδοτέο-10) | | 7 |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -124,6 +124,12 @@ To πρόβλημα λύθικε με την εντολή: sudo apt install texl
 # Παραδοτέο 10
 
 Σε αυτό το παραδοτέο θα ασχοληθώ με την Βιογραφία του Sir Timothy John Berners-Lee και ως μελέτη περίπτωσης θα γράψω για το world wide web
+
+# update
+To [netlify](https://app.netlify.com/sites/venerable-taiyaki-f6b012/overview) για κάποιο λόγο αντιμετοπίζει κάποια προβλήματα. 
+[Βιογραφία](https://github.com/xar1sgeovlacp2019059/site/blob/branch6/_biography/TimBl.md),[include](https://github.com/xar1sgeovlacp2019059/site/blob/branch6/_includes/bio-TimBl.md)
+[Μελέτη Περίπτωσης](https://github.com/xar1sgeovlacp2019059/site/blob/branch6/_case-study/worldwideweb.md),[include](https://github.com/xar1sgeovlacp2019059/site/blob/branch6/_includes/cs-worldwideweb.md)
+[gallery](https://github.com/xar1sgeovlacp2019059/_gallery/blob/master/TimBl.md)
 
 # Παραδοτέο 12
 
