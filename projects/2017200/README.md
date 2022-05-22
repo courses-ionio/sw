@@ -142,7 +142,7 @@
 
 Για το 7ο παραδοτέο έπρεπε να μετατέψουμε το βιογραφικό μας σε pdf μορφή.Αρχικά όπως φαίνεται και στο asciinema αρχικά έκανα εγκατάσταση το pandoc και το latex με της εξής εντολές: ``sudo pacman -S install pandoc``, ``sudo pacman -S install texlive-latex-base``
 
-Το [pdf](https://github.com/vivikara/online-cv/blob/master/assets/pdf/Vivi-resume.md) 
+Το [pdf](https://github.com/vivikara/CV/blob/main/cv%20(1).pdf) 
 
 Το [cv](https://vivikara.github.io/online-cv/)
 
@@ -164,6 +164,26 @@
 ◉ Δημιουργία pdf αρχείου ``pdflatex cv.tex``
 
 ◉ Ολοκλήρωση εγγραφής τερματικού ``exit``
+
+
+
+
+
+
+
+
+Το [repo](https://github.com/vivikara/CV) το οποίο βρίσκονται τα αρχεία : 
+
+◉ [cv.pdf](https://github.com/vivikara/CV/blob/main/cv%20(1).pdf)
+
+◉ [cv.aux](https://github.com/vivikara/CV/blob/main/cv.aux)
+
+◉ [cv.log](https://github.com/vivikara/CV/blob/main/cv.log)
+
+◉ [cv.tex](https://github.com/vivikara/CV/blob/main/cv.tex)
+
+
+
 
 
 
