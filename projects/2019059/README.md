@@ -57,7 +57,8 @@ https://github.com/courses-ionio/help/discussions/197
 [All collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)
 Εδώ είναι το [pull-repquest](https://github.com/ioniodi/all_collections/pull/35)
 [issue](https://github.com/ioniodi/sitegr/issues/260)<br>
-##update
+
+## update
 
 Επειδή η αλλαγή αυτή που ανέφερα προηγουμένος έγινε από άλλο άτομο παρόλο που τα δικά μου issue και pull request υπήρχαν αποφάσησα να φτιάξω άλλο [issue](https://github.com/ioniodi/sitegr/issues/393).<br>
 [all collections](https://github.com/xar1sgeovlacp2019059/all_collections/blob/master/_timetables/sem_f.md)<br>
@@ -67,7 +68,7 @@ https://github.com/courses-ionio/help/discussions/197
 
 # Παραδοτέο 4
 
-Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον που είναι μόνο γραμμή εντολών.
+Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον του διοτι είναι μόνο γραμμή εντολών.
 
 # Παραδοτέο 5
 
