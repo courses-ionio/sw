@@ -16,7 +16,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | [link](https://github.com/courses-ionio/help/discussions/492) | αναζήτηση και εύρεση 2 σχετικών εικόνων και προσθήκη τους στο images και το gallery. Επιτυχής προσθήκητους στο Netlify |
 | 6 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/536) | Επιτυχής εγκατάσταση των Apline Linuχ και σωστό σετάρισμα του Ntfy με το Telegram. Ανεπιτυχής ολοκλήρωση λογω σφαλμάτων.|
 | 7 | βιογραφικό | [link](https://github.com/courses-ionio/help/discussions/535) | με την βοήθεια των Github Actions κατάφερα να μετατρέψω το βιογραφικό μου σε pdf και να αυτοματοποιήθει η διαδικασία ενημέρωσης του αρχείου |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [link](https://github.com/courses-ionio/help/discussions/689) | |
 | 9 | Άσκηση γραμμής εντολών | [link](https://github.com/courses-ionio/help/discussions/660) | περαιτέρω εξοικίωση με το alpine linux |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 |[link](https://github.com/courses-ionio/help/discussions/662) | αναζήτηση και εύρεση 2 σχετικών εικόνων και προσθήκη τους στο images και το gallery. Επιτυχής προσθήκητους στο Netlify |
 | 11 | Άσκηση γραμμής εντολών | | |
