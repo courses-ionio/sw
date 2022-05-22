@@ -7,7 +7,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης 
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα -->| [Ανάρτηση και link εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/109) | | 
-| 2 | βιογραφικό και δημιουργία ομάδας | [link παραδοτέου(Discussions)](https://github.com/courses-ionio/help/discussions/235) | |
+| 2 | Βιογραφικό και δημιουργία ομάδας   | [link παραδοτέου(Discussions)](https://github.com/courses-ionio/help/discussions/235) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [link παραδοτέου(Discussions)](https://github.com/courses-ionio/help/discussions/669) | |
 | 4 | Άσκηση γραμμής εντολών | [link παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/670) | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | [link παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/674) | |
@@ -130,7 +130,7 @@
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 
 
 
-Για το 6ο παραδοτέο έχω κάνει το NTFY TELEGRAM και το έβαλα να στέλνει μήνυμα στο κινητό
+Για το 6ο παραδοτέο έχω χρησιμοποίησει το εργαλείο NTFY {TELEGRAM} με στόχο να στέλνει μηνύματα στο προσωπικό μου τηλέφωνο μέσω το BotFather.Αρχικά κατέβασα την εφαρμογή telegram στο κινητό και έπειτα ένωσα το ntfy με το telegram με δημιουργία του Bot {Vivikara_bot} και με τη χρήση του κατάλληλου token έγινε η διασύνδεση τους. 
 
 [Asciinema](https://asciinema.org/a/2sSmlzn06sZL52oO5L2WTMPs6)
 
