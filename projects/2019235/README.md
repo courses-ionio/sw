@@ -68,6 +68,15 @@
 | [timeline](https://github.com/IsabellaPap/site/blob/master/_timeline/programming.md) | [timeline](https://isabellapap.netlify.app//timeline/programming/) | [timeline](https://ionioi-site.netlify.app/timeline/programming/) |
 | [slides](https://github.com/IsabellaPap/site/blob/master/_slides/programming.md)) | [slides](https://isabellapap.netlify.app//slides/programming/) | [slides](https://ionioi-site.netlify.app/slides/programming/) |
 
+##6η εβδομάδα
+
+Εγκατάσταση Alpine.
+- [ ] System description
+- [ ] Δυσκολίες
+
+
+[![asciicast](https://asciinema.org/a/ChDuHirvkcfut9HJ2CYPvww9k.svg)](https://asciinema.org/a/ChDuHirvkcfut9HJ2CYPvww9k)
+
 ## 7η Εβδομάδα
 
 - Προσπάθησα να παραδώσω εμπρόθεσμα
