@@ -147,11 +147,11 @@
   
 Στο τέλος της όλης διαδικασίας έκανα **pull request** στην ομάδα μου ξεχωριστά στα **site, images και _gallery**, έχοντας θέσει reviewers κάποιους αξιόπιστους συναδέλφους ώστε να ελέγξουν για τυχόν λάθη ή ελλείψεις στις υλοποιήσεις μου. Όλα τα παραπάνω φαίνονται στον παρακάτω πίνακα:
  
-| # |**Manjaro Linux demo site**|**Scikit-Learn demo site**|
-| --- | --- | --- |
-| Προσθήκες |[Manjaro Linux](https://u2nmd-site.netlify.app/gallery/manjaro-linux/)|[Scikit-Learn](https://u2nmd-site.netlify.app/gallery/scikit-learn/)|
-| Διαφάνειες |[Λειτουργικά Συστήματα](https://u2nmd-site.netlify.app//slides/operating-systems/)|[Εργαλεία και Τεχνικές](https://u2nmd-site.netlify.app//slides/tools/)|
-| Χρονολόγια |[Λειτουργικά Συστήματα και Εφαρμογές](https://u2nmd-site.netlify.app//timeline/os-apps/)|[Γλώσσες Προγραμματισμού](https://u2nmd-site.netlify.app//timeline/programming/)|
+| # |**Manjaro Linux στο demo site μου**|**Στο demo site της ομάδας**|**Scikit-Learn στο demo site μου**|**Στο demo site της ομάδας**|
+| --- | --- | --- | --- | --- |
+| Προσθήκες |[Manjaro Linux personal](https://u2nmd-site.netlify.app/gallery/manjaro-linux/)|[Manjaro Linux team](https://oompa-loompas.netlify.app/gallery/manjaro-linux/)|[Scikit-Learn personal](https://u2nmd-site.netlify.app/gallery/scikit-learn/)|[Scikit-Learn team](https://oompa-loompas.netlify.app/gallery/scikit-learn/)|
+| Διαφάνειες |[Λειτουργικά Συστήματα personal](https://u2nmd-site.netlify.app//slides/operating-systems/)|[Λειτουργικά Συστήματα team](https://oompa-loompas.netlify.app//slides/operating-systems/)|[Εργαλεία και Τεχνικές personal](https://u2nmd-site.netlify.app//slides/tools/)|[Εργαλεία και Τεχνικές team](https://oompa-loompas.netlify.app//slides/tools/)|
+| Χρονολόγια |[Λειτουργικά Συστήματα και Εφαρμογές personal](https://u2nmd-site.netlify.app//timeline/os-apps/)|[Λειτουργικά Συστήματα και Εφαρμογές team](https://oompa-loompas.netlify.app//timeline/os-apps/)|[Γλώσσες Προγραμματισμού personal](https://u2nmd-site.netlify.app//timeline/programming/)|[Γλώσσες Προγραμματισμού team](https://oompa-loompas.netlify.app//timeline/programming/)|
 <br>
 
 |**Pull Requests**|
@@ -333,7 +333,8 @@
  
 | Προσθήκες | Linus Torvalds | Linux |
 | --- | ---| ---|
-| link | [demo site](https://u2nmd-site.netlify.app/biography/linus-torvalds/) | [demo site](https://u2nmd-site.netlify.app/case-study/linux/) |
+| Το δικό μου demo site | [link](https://u2nmd-site.netlify.app/biography/linus-torvalds/) | [link](https://u2nmd-site.netlify.app/case-study/linux/) |
+| Demo site οργανισμού | [link](https://oompa-loompas.netlify.app/biography/linus-torvalds/) | [link](https://oompa-loompas.netlify.app/case-study/linux/) |
 
 <br>
 
@@ -458,7 +459,7 @@
 | 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
-| 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου και σχολίασα issues και pull requests που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα|
+| 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου και σχολίασα [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) και [pull requests](https://github.com/OompaLoompas/site/pulls?q=is%3Apr+is%3Aclosed) που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα|
 
 <br><br>
 <h1><span id="Βίντεο Κουίζ">Βίντεο Κουίζ</span></h1>
