@@ -150,7 +150,7 @@
 
 Το [cv](https://vivikara.github.io/online-cv/)
 
-Το [link asciinema](https://asciinema.org/a/495286)
+To [link asciinema](https://asciinema.org/a/496403)
 
 
 
