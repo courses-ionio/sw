@@ -131,6 +131,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
   <h2><span id="Ομαδικότητα">Ομαδικότητα</span></h2>
        <li><a href="https://github.com/courses-ionio/help/discussions/574" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
         <li><a href="https://github.com/courses-ionio/help/discussions/652" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
+         <li><a href="https://github.com/courses-ionio/sw/pull/1069" title="Σχόλιο σε Pull Requesr">Σχόλιο σε Pull Request</a> (Το 1ο σχόλιο στα τελικά pull request)
          
        
        
