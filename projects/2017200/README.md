@@ -17,7 +17,7 @@
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | [link παραδοτέου (Discusions)](https://github.com/courses-ionio/help/discussions/673) | Για το 10ο παραδοτέο έκανα αλλαγές στο pibook και πρόσθεσα το alpinelinux και την βιογραφία του Bil Herd και έπειτα το pr στην ομάδα  |
 | 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* | | Για την τελική αναφορά μου έγραψα τα συμπεράσματα μου για το μάθημα |
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1
@@ -76,6 +76,11 @@
 Για το τέταρτο παραδοτέο έπρεπε να διαλέξουμε ένα νέο λογισμικό που να μη χρησιμοποιεί systemd. Αρχικά έχοντας χρησιμοποιήσει παλαιότερα το VM ware επέλεξα να το χρησιμοποίησω. Από τις πολλές επιλογές που υπήρχαν, το Artix Linux μου φάνηκε μια πολύ καλή επιλογή μοιάζει αρκετά με τα Linux. Στο πρώτο στάδιο κατέβασα το Artix Linux Openrc, και το έβαλα κατευθείαν στο VM. Έπειτα έκανα εγκατάσταση το asciinema ώστε να μπορώ να κάνω καταγραφή των ασκήσεων, η εγκατάσταση έγινε running from source, μετά με την εντολή pacman -Syu έγινε ενημέρωση συστήματος και τέλος neofetch  
 
 [Εγκατάσταση Artix Linux ](https://asciinema.org/a/e9NBFVXqnsSsoSg8yoA2N0cSC)
+
+
+Έπειτα από έρευνα που έκανα όπως φαίνεται παρακάτω μετά την εγκατάσταση του artix linux δεν είναι εφικτή η αλλαγή του username με αυτό του ΑΜ μου. Και έτσι όλες οι καταγραφές του asciinema έχουν τα αρχικά στοιχεία. 
+
+![artix](https://github.com/vivikara/Myimages/blob/main/Screenshot%20artix.png)
 
 
 
@@ -222,10 +227,17 @@ To pdf
 
 [Asciinema link](https://asciinema.org/a/496399)
 
+![alpinelinux](https://github.com/vivikara/Myimages/blob/main/Alpine-Linux-.jpg)
+
+
+
+![Bil Herd](https://github.com/vivikara/Myimages/blob/main/Bil_Herd_Commodore128.jpg)
+
+
+
 
 
 Το [pull request στην ομάδα](https://github.com/SWkey/site/pull/1)
-
 
 
 
