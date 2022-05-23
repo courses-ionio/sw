@@ -325,7 +325,7 @@ Setup δοκιμαστικου post με την εντολη ```EDITOR="vim" ./b
 
 Αποτελεσματα: 
 
-[bash]()
+[bash](https://github.com/p18kana/SW-files/blob/main/bash.png)
 
 Πηγη: https://github.com/cfenollosa/bashblog#usage
 
