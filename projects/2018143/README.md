@@ -382,7 +382,7 @@ https://www.mathworks.com/products/matlab/app-designer.html
   
 ## Β2
   
-## Βιογραφία : 
+## Βιογραφία : Cleve Moler
   
 Αποθετήριο βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/cleve-moler.md
   
