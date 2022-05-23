@@ -111,5 +111,5 @@ Link προς το repository του site του βιογραφικού μου: 
 Tέλος έθεσα την default εφαρμογή για της ειδοποιήσεις να είναι το telegram στο αρχείο auto-ntfy-done.sh και έκανα μια εντολή ntfy.sh η οποία εκτελεί το neofetch command και με ειδοποιεί στο κινητό ότι ολοκληρώθηκε. Παρακάτω μπορείτε να δείτε και την εκτέλεση της εργασίας :
 
 <a href="https://asciinema.org/a/Ibmg1RWf8AN2uSVhJUTWL8Bv5" target="_blank"><img src="https://asciinema.org/a/Ibmg1RWf8AN2uSVhJUTWL8Bv5.svg" height="400"/></a>
-  
+ <img src="https://imgur.com/UMKYHJs.gif" height="400"/>
 
