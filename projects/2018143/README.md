@@ -331,6 +331,8 @@ asciinema link για hugo: https://asciinema.org/a/487765
   
 B' Μέθοδος : bashblog
   
+asciinema link για bashblog : https://asciinema.org/a/494974
+  
 ## Διαδικασία :
   
 • Λήψη script bb.sh από https://github.com/cfenollosa/bashblog#usage
