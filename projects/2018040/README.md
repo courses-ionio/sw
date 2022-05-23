@@ -305,4 +305,38 @@ https://lukesmith.xyz/c/wanna-learn-latex#install
 
 #### [11]
 
+## Ασκηση γραμμης εντολων: send notifications to your desktop-mobile
+
+asciinema link για το ntfy: https://asciinema.org/a/477980
+
+asciinema link για το telegram: https://asciinema.org/a/478007
+
+### Βηματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ```pip install ntfy```, ```pip install ntfy[telegram]```
+
+Με το ```asciinema rec -i 0.2```  ξεκιναω το record του terminal
+
+Δοκιμαστικη αποστολη ειδοποιησεων μεσω της εντολης ```notify-send "message"```, ```notify-send --urgency=CRITICAL "message"```
+
+Ρυθμιση του telegram για ntfy μεσω της εντολης ```ntfy -b telegram send "Telegram configured for ntfy"```
+
+Δημιουργια νεου bot μεσου BotFather μεσω της εντολης ```/newbot```
+
+Εισαγωγη token για την ενεργοποιηση του bot 
+
+Δοκιμαστικη αποστολη μηνυματος στην συσκευη μου 
+
+Με την εντολή ```exit``` ολοκλήρωσα το recording του terminal
+
+### Αποτελεσματα:
+
+![newbot](https://github.com/p18kana/SW-files/blob/main/newbot.png)
+
+![tconfigured](https://github.com/p18kana/SW-files/blob/main/tconfigured.png)
+
+![popup](https://github.com/p18kana/SW-files/blob/main/popup.png)
+
+Πηγη: https://github.com/dschep/ntfy
+
 #### [12]
