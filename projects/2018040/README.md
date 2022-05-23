@@ -295,7 +295,7 @@ asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
 Issue link: https://github.com/ioniodi/sitegr/issues/408
 
-Pull request: 
+Pull request: https://github.com/ioniodi/all_collections/pull/67
 
 Link ανακοινωσης στο site: 
 
