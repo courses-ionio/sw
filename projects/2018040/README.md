@@ -287,14 +287,35 @@ asciinema link για την μετατροπη: https://asciinema.org/a/483436
 
 ![bio2](https://github.com/p18kana/SW-files/blob/main/bio2.png)
 
-Πηγη:
-
-https://lukesmith.xyz/c/wanna-learn-latex#install
-
+Πηγη: https://lukesmith.xyz/c/wanna-learn-latex#install
 
 ##### [8]
 
-Αιτημα Ενσωματωσης στην ιστοσελιδα: Προσθήκη μαθήματος
+### Αιτημα Ενσωματωσης στην ιστοσελιδα: Προσθήκη ανακοινωσης
+
+Issue link: https://github.com/ioniodi/sitegr/issues/408
+
+Pull request: 
+
+Link ανακοινωσης στο site: 
+
+Link αρχειου ανακοινωσης:
+
+Βηματα: 
+
+Επιλογη της ανακοινωσης "Πρόγραμμα Ορκωμοσιών Μαΐου 2022 (Κέρκυρα, Ληξούρι, Λευκάδα)"
+
+Κανω fork το repository sitegr
+
+Διαγράφω τον υπαρχων φακελο all_collections
+
+Δημιουργω νέο submodule git submodule add https://github.com/p18kana/all_collections.git
+
+Ληψη green light για την προσθηκη
+
+Δημιουργια pull request για την προσθηκη
+
+Αποτελεσματα:
 
 #### [9]
 
