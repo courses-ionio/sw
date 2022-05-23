@@ -422,3 +422,4 @@ if __name__ == '__main__':
 16. [Π2015002 - Συμμετοχικό Περιεχόμενο Β1+Β2 #10](https://github.com/Cont1nental/site/issues/10)
 17. [Asciinema και FreeBSD #407](https://github.com/courses-ionio/help/discussions/407)
 18. [Το βιογραφικό μου! - Π2015002 #166](https://github.com/courses-ionio/help/discussions/166)
+19. [υποβολή εργασίας #697](https://github.com/courses-ionio/help/discussions/697)
