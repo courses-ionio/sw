@@ -15,7 +15,7 @@
 | [5](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | Συμμετοχικό περιεχόμενο A1+A2 | [Discussion](https://github.com/courses-ionio/help/discussions/454) | Πλήρης Εκτέλεση |
 | [6](#6ο-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/512) | Πλήρης Εκτέλεση |
 | [7](#7o-παραδοτέο---βιογραφικό) | βιογραφικό | [Discussion](https://github.com/courses-ionio/help/discussions/512) - [Demo](https://mariosconsta.github.io/cv/) | Πλήρης Εκτέλεση|
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 8 | <del>Αίτημα ενσωμάτωσης στην ιστοσελίδα | -|Ατελές |
 | [9](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/656) | Πλήρης Εκτέλεση |
 | [10](#10o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | συμμετοχικό περιεχόμενο B1+B2 | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
 | [11](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/658) | Πλήρης Εκτέλεση |
