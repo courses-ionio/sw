@@ -11,10 +11,10 @@
 | <a href="#P-3">3</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/476) | |
 | <a href="#P-4">4</a>  | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/477) | |
 | <a href="#P-5">5</a> | Συμμετοχικό περιεχόμενο A1+A2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/478) | |
-| <a href="#P-6">6</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση]() | |
+| <a href="#P-6">6</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/691) | |
 | <a href="#P-7">7</a> | βιογραφικό | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/525)| |
 | <a href="#P-8">8</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| <a href="#P-9">9</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση]() | |
+| <a href="#P-9">9</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/692) | |
 | <a href="#P-10">10</a> | συμμετοχικό περιεχόμενο B1+B2 | [link για την συζήτηση]() | |
 | <a href="#P-11">11</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση]() | |
 | <a href="#P-12">12</a> | Τελική αναφορά* | | |
