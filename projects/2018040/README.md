@@ -299,7 +299,7 @@ Pull request:
 
 Link ανακοινωσης στο site: 
 
-Link αρχειου ανακοινωσης:
+Link αρχειου ανακοινωσης: https://github.com/p18kana/all_collections/blob/master/_posts/2022-05-17-programma-ork.md
 
 Βηματα: 
 
