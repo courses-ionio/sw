@@ -19,7 +19,7 @@
 | [9](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/656) | Πλήρης Εκτέλεση |
 | [10](#10o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | συμμετοχικό περιεχόμενο B1+B2 | [Discussion](https://github.com/courses-ionio/help/discussions/657) | Πλήρης Εκτέλεση |
 | [11](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Discussion](https://github.com/courses-ionio/help/discussions/658) | Πλήρης Εκτέλεση |
-| [12](#12ο-παραδοτέο---τελική-αναφορά) | Τελική αναφορά* | [Discussion]() | Πλήρης Εκτέλεση |
+| [12](#12ο-παραδοτέο---τελική-αναφορά) | Τελική αναφορά | [Discussion](https://github.com/courses-ionio/help/discussions/696) | Πλήρης Εκτέλεση |
 
 ---
 
