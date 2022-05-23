@@ -407,9 +407,10 @@ asciinema link για το telegram: https://asciinema.org/a/478007
   
 | Ομαδικότητα: |
   | --- |
-  | []() |
-  | []() |
-  | []() |
+  | [Βοηθεια σε αιτημα ενσωματωσης](https://github.com/ioniodi/all_collections/pull/18) |
+  | [Βοηθεια σε αιτημα ενσωματωσης](https://github.com/ioniodi/all_collections/pull/20) |
+  | [Βοηθεια σε αιτημα ενσωματωσης](https://github.com/DevTeamIU/_gallery/pull/2) |
+  | [Βοηθεια σε αιτημα ενσωματωσης](https://github.com/DevTeamIU/images/pull/2) |
   
 #### Αναφορά στα εργαλεια που χρησιμοποήθηκαν:
 
