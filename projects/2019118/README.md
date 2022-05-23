@@ -19,7 +19,7 @@
 | 9        | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU)                                                                                                  | courses-ionio/help/discussions/566                                                                                                          | Παράδοση εντός προθεσμίας                                                |
 | 10       | Συμμετοχικό περιεχόμενο B1+B2                                                                                                                                                                                                  | courses-ionio/help/discussions/591                                                                                                          | Παράδοση εντός προθεσμίας, Δυναμική έρευνα με κατάλληλα θέματα           |
 | 11       | Άσκηση γραμμής εντολών ["create notifications on your sever"](https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn)                                                                                                               | courses-ionio/help/discussions/627                                                                                                          | Εκπρόθεσμη παράδοση (1 μέρα, asciinema server issues)                    |
-| 12       | Τελική αναφορά                                                                                                                                                                                                                | courses-ionio/help/discussions/651                                                                                                          | Παράδοση εντός προθεσμίας, Απόλυτη ειλικρίνεια                           |
+| 12       | Τελική αναφορά                                                                                                                                                                                                                 | courses-ionio/help/discussions/651                                                                                                          | Παράδοση εντός προθεσμίας, Απόλυτη ειλικρίνεια                           |
 
 
 ## Παραδοτέο 1 / Εισαγωγή
@@ -183,3 +183,38 @@ Preview links:
 Έχοντας βιώσει τα παραπάνω προβλήματα και κατανοήσει τον στόχο του μαθήματος επέλεξα να κάνω τη διαφορά στο τελευταίο ομαδικό παραδοτέο διαλέγοντας να μιλήσω για τον Terrance Davis όπου παρόλο το περίεργο παρελθόν του είναι σίγουρα εικονικό πρόσωπο για το συγκεκριμένο μάθημα. Έχω κάνει την αναφορά μου σε αυτόν πιο αναλυτικά αλλά αυτό που είναι σημαντικό από την ιστορία του είναι ότι έκανε ότι κάνουμε και εμείς σε αυτό το μάθημα: σκεφτόταν από την αρχή τι μπορεί να κάνει καλύτερα και πρωτοτύπησε φτιάχνοντας δικό του λειτουργικό σύστημα όπως το ήθελε εκείνος χωρίς να βασίζεται σε Windows ή Linux.
 
 Τέλος, δε θεωρώ πολύ σημαντικό να αναφερθώ σε πολύ μικρές δυσκολίες που έχω καλύψει σε άλλες σημειώσεις και πιστεύω το κλειδί της αναφοράς μου είναι ότι κατανόησα το θέμα έχοντας ακολουθήσει όλα τα παραδοτέα.
+
+## Συμμετοχή και Ομαδικότητα
+
+### Συμμετοχή στη τάξη και ομάδα
+- [Δημιουργία, διοίκηση και βοήθεια σε μέλη της ομάδας Sybil Reisz](https://github.com/Sybil-Reisz)
+- [Δημιουργία issue για προβλήματα παραδοτέων της ομάδας](https://github.com/Sybil-Reisz/site/issues/8)
+- [Review και merge του pull request site/2 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/2)
+- [Review και merge του pull request site/4 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/4)
+- [Review, σχολιασμό και merge του pull request site/5 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/5)
+- [Review, σχολιασμό και merge του pull request site/6 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/6)
+- [Review και merge του pull request site/7 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/7)
+- [Review και merge του pull request site/10 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/10)
+- [Review και merge του pull request site/11 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/site/pull/11)
+- [Review και merge του pull request images/2 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/images/pull/2)
+- [Review και merge του pull request images/4 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/images/pull/4)
+- [Review και merge του pull request images/5 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/images/pull/5)
+- [Review και merge του pull request images/6 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/images/pull/6)
+- [Review, σχολιασμό και merge του pull request images/8 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/images/pull/8)
+- [Review και merge του pull request _gallery/2 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/2)
+- [Review, σχολιασμό και merge του pull request _gallery/3 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/3)
+- [Review και merge του pull request _gallery/4 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/4)
+- [Review και merge του pull request _gallery/5 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/5)
+- [Review και απόρρυψη του pull request _gallery/6 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/6)
+- [Review και merge του pull request _gallery/7 στην ομάδα Sybil Reisz](https://github.com/Sybil-Reisz/_gallery/pull/7)
+- [Σχολιασμός συναδέλφου στο courses-ionio/help/discussions](https://github.com/courses-ionio/help/discussions/369)
+### Reviews σε παραδοτέα sitegr
+- [Τακτικό review pull request συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/pull/341)
+- [Τακτικό review pull request συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/pull/400)
+- [Τακτικό review pull request συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/all_collections/pull/36)
+- [Τακτικό review pull request συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/minimal-ionio/pull/44)
+- [Τακτικό review issue συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/issues/276)
+- [Τακτικό review issue συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/issues/279)
+- [Τακτικό review issue συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/issues/298)
+- [Τακτικό review issue συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/issues/323)
+- [Τακτικό review issue συναδέλφου για τα παραδοτέα βελτίωσης του site](https://github.com/ioniodi/sitegr/issues/396)
