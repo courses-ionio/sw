@@ -334,6 +334,36 @@ Setup δοκιμαστικου post με την εντολη ```EDITOR="vim" ./b
 
 ### Συμμετοχικό περιεχόμενο Β1 και Β2
 
+## Β1
+
+## Μελέτη περίπτωσης: UML για οπτικοποίηση και κατασκευή νέων συστημάτων
+
+Αποθετηριο μελετης περιπτωσης: https://github.com/p18kana/site/blob/master/_case-study/umli.md
+
+Αποθετηριο κειμενου μελετης περιπτωσης: https://github.com/p18kana/site/blob/master/_case-study/cs-umli.md
+
+Μελετη περιπτωσης: 
+
+Πληροφοριες: 
+
+Η Unified Modeling Language, ή UML, είναι μια οπτική γλώσσα που βοηθά τους προγραμματιστές λογισμικού να οπτικοποιήσουν και να κατασκευάσουν νέα συστήματα.
+
+Πηγη: https://www.gliffy.com/blog/what-is-uml-everything-you-need-to-know-about-unified-modeling-language
+
+## Β2
+
+## Βιογραφια: Grady Booch
+
+Αποθετηριο βιογραφιας: 
+
+Αποθετηριο κειμενου βιογραφιας: 
+
+Βιογραφια:
+
+Πληροφοριες:
+
+Πηγη:
+  
 #### [11]
 
 ## Ασκηση γραμμης εντολων: send notifications to your desktop-mobile
