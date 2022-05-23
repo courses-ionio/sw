@@ -69,6 +69,7 @@ https://github.com/courses-ionio/help/discussions/197
 # Παραδοτέο 4
 
 Για αυτό το παραδοτέο έπρεπε να εγκαταστήσουμε ένα λειτουργικό σύστημα χωρίς system.md. Δυστιχώς, αφού δοκίμασα τα λειτουργικά που προτείνονταν (linux from scratch, kiss linux, funtoo,gentoo, 9legacy, plan9, alpine), κάθε ένα απο αυτά είχε τα δικά του προβλήματα. Για τις ασκήσεις γραμμής εντολών θα χρησιμοποιήσω το λειτουργικό void-linux στο virtual machine VM ware που είδα απο τους συμφοιτητές μου. Δοκίμασα και το bds αλλά δεν μου άρεσε το περιβάλλον του διοτι είναι μόνο γραμμή εντολών.
+[neofetch](https://asciinema.org/a/NQQ1Jg5xyS47j8uD3AOzdrR1f)
 
 # Παραδοτέο 5
 
