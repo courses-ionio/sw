@@ -10,7 +10,8 @@
 <h4>Edpuzzle profile/Actively learn: p18kana 2018040<h4>
 
 <h4>Asciinema profile: https://asciinema.org/~p18kana<h4>
-  
+
+<h4>Οργανισμός της ομάδας : https://github.com/DevTeamIU<h4> 
   
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
