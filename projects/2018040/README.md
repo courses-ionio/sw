@@ -14,18 +14,18 @@
   
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <sup><a href="#1"> Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Λινκ στις συζητήσεις](https://github.com/courses-ionio/help/discussions/103) </a></sup> | |
-| 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/181) </a></sup> | |
-| 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346) </a></sup> | |
-| 4 | <sup><a href="#4"> Εγκατάσταση Artix-Linux | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | |
-| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | |
-| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/460) </a></sup> | |
-| 7 | <sup><a href="#7"> Βιογραφικό | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/509) </a></sup> | |
+| 1 | <sup><a href="#1"> Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Λινκ στις συζητήσεις](https://github.com/courses-ionio/help/discussions/103) </a></sup> | Επεξηγηση στοχων και επιδιωξεων για το μαθημα |
+| 2 | <sup><a href="#2"> βιογραφικό και δημιουργία ομάδας | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/181) </a></sup> | Συνταξη νεας ομαδας και δημιουργια προσωπικου βιογραφικου σε jekyll |
+| 3 | <sup><a href="#3"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/346) </a></sup> | Πραγματοποιηθηκε επιτυχως η πρωτη μου προσθηκη ανακοινωσης στην ιστιοσελιδα του μαθηματος |
+| 4 | <sup><a href="#4"> Εγκατάσταση Artix-Linux | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/421) </a></sup> | Εγκατεστησα επιτυχως το Artix Linux ως βασικο λογισμικο για το μαθημα |
+| 5 | <sup><a href="#5"> Συμμετοχικό περιεχόμενο A1+A2 | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/426) </a></sup> | Μεσω δημιουργιας submodule προσεθεσα εικονες σχετικες με την θεματολογια του μαθηματος και τις κατεταξα στο αντιστοιχο χρονολογιο και διαφανειες |
+| 6 | <sup><a href="#6"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/460) </a></sup> | Πραγματοποιησα με επιτυχια monitoring της αποδοσης των script της επιλογης μου με τα εργαλεια py-spy και hyperfine |
+| 7 | <sup><a href="#7"> Βιογραφικό | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/509) </a></sup> | Επιτυχης μετατροπη της αρχικης μορφης του βιογραφικου απο ιστοσελιδα σε pdf |
 | 8 | <sup><a href="#8"> Αίτημα ενσωμάτωσης στην ιστοσελίδα | Δεν ολοκληρωθηκε </a></sup> | |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/698) </a></sup> | |
-| 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/699) </a></sup> | |
-| 12 | <sup><a href="#12"> Τελική αναφορά* | </a></sup> | |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/698) </a></sup> | Δημιουργησα επιτυχως δοκιμαστικο post σε blog με το εργαλειο bashblog |
+| 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο B1+B2 | | Συνεταξα ενα βιογραφικο και μια μελετη περιπτωσης σχετικα με εικονα του Α συμμετοχικου περιεχομενου |
+| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών | [Λινκ στις συζητησεις](https://github.com/courses-ionio/help/discussions/699) </a></sup> | Επιτυχης αποστολη μηνυματων απο το terminal των artix linus στην συσκευη μου (telegram) |
+| 12 | <sup><a href="#12"> Τελική αναφορά* | </a></sup> | Περιληψη των παραδοτεων και καταγραφη τελικων συμπερασματων |
   
 ##### [1] 
   
@@ -401,7 +401,7 @@ asciinema link για το telegram: https://asciinema.org/a/478007
 
 #### Βιβλιογραφία:
 
-[]()
+[Artix Linux tutorials](https://forum.artixlinux.org/index.php?PHPSESSID=9rrra0144i0elri65s0799uub1&board=7.0)
 
 [Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
 
