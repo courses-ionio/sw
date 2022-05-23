@@ -299,6 +299,36 @@ https://lukesmith.xyz/c/wanna-learn-latex#install
 
 ### Άσκηση γραμμής εντολών : create your own static site and blog generator
 
+asciinema link: https://asciinema.org/a/496691
+
+Βήματα: 
+
+Κάνω ληψη του αρχείου bb.sh απο https://github.com/cfenollosa/bashblog#usage
+
+Με το ```asciinema rec -i 0.2``` ξεκιναω το record του terminal
+
+Επιλεγω τοποθεσια εγκαταστασης με την εντολη ```cd example_blog``` και ```cd blog```
+
+Setup δοκιμαστικου post με την εντολη ```EDITOR="vim" ./bb.sh post```
+
+Με το πληκτρο ```I```  εισερχομαι σε INSERT MODE 
+
+Εισαγω δοκιμαστικο κειμενο 
+
+Αποθηκευω το κειμενο με την εντολη ```:w``` 
+
+Εξοδος απο το αρχειο bb.sh με την εντολη ```:q``` 
+
+Κατασκευη του νεου post με το πληκτρο ```p``` 
+
+Με την εντολή ```exit``` ολοκλήρωσα το recording του terminal
+
+Αποτελεσματα: 
+
+[bash]()
+
+Πηγη: https://github.com/cfenollosa/bashblog#usage
+
 #### [10]
 
 ### Συμμετοχικό περιεχόμενο Β1 και Β2
