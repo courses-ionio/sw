@@ -354,15 +354,16 @@ Setup δοκιμαστικου post με την εντολη ```EDITOR="vim" ./b
 
 ## Βιογραφια: Grady Booch
 
-Αποθετηριο βιογραφιας: 
+Αποθετηριο βιογραφιας: https://github.com/p18kana/site/blob/master/_biography/grady-booch.md 
 
-Αποθετηριο κειμενου βιογραφιας: 
+Αποθετηριο κειμενου βιογραφιας: https://github.com/p18kana/site/blob/master/_biography/bio-booch.md
 
-Βιογραφια:
+Βιογραφια: 
 
-Πληροφοριες:
+Πληροφοριες: Ο Grady Booch είναι Αμερικανός μηχανικός λογισμικού, γνωστός για την ανάπτυξη της Ενοποιημένης Γλώσσας Μοντελοποίησης(UML) με τους Ivar Jacobson και James 
+Rumbaugh.
 
-Πηγη:
+Πηγη: https://www.amazon.com/Grady-Booch/e/B000AP85A2%3Fref=dbs_a_mng_rwt_scns_share
   
 #### [11]
 
