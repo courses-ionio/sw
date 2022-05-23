@@ -6,18 +6,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| <a href="#P-1">1</a> |Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/117) | |
-| <a href="#P-2">2</a> | βιογραφικό και δημιουργία ομάδας</a> | [link για την συζήτηση]() | |
-| <a href="#P-3">3</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/476) | |
-| <a href="#P-4">4</a>  | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/477) | |
-| <a href="#P-5">5</a> | Συμμετοχικό περιεχόμενο A1+A2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/478) | |
-| <a href="#P-6">6</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/691) | |
-| <a href="#P-7">7</a> | βιογραφικό | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/525)| |
-| <a href="#P-8">8</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| <a href="#P-9">9</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/692) | |
-| <a href="#P-10">10</a> | συμμετοχικό περιεχόμενο B1+B2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/693) | |
-| <a href="#P-11">11</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/694) | |
-| <a href="#P-12">12</a> | Τελική αναφορά* | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/695) | |
+| <a href="#P-1">1</a> |Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/117) | Έκανα μία σύντομη εισαγωγή για το τι θα ήθελα να πετύχω στο μάθημα - βελτιώθηκε επιπλέον μετά |
+| <a href="#P-2">2</a> | βιογραφικό και δημιουργία ομάδας</a> | [link για την συζήτηση]() | Πρώτη επαφή με jekyll, δημιουργία βιογραφικου και εισαγωγλη σε ομάδα |
+| <a href="#P-3">3</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/476) | Προσθήκη shortcut με προορισμό το βασικό site του πανεπιστημίου |
+| <a href="#P-4">4</a>  | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/477) | Εγκατάσταση systemd-less λειτουργικού (αρκετά από αυτά μαλιστά) |
+| <a href="#P-5">5</a> | Συμμετοχικό περιεχόμενο A1+A2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/478) | Ομαδικό θέμα πάνω στα video game engines, μελλοντικός στόχος η αναφορά σε software frameworks |
+| <a href="#P-6">6</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/691) | Μετά από αρκετά λογισμικά έγινε εγκατάσταση void και έκανα μία απλή άσκηση για την εξοικείωση μου με το λειτουργικό |
+| <a href="#P-7">7</a> | βιογραφικό | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/525)| Βελτίωση βιογραφικού, προσθήκη επιπλέον δυνατοτήτων, δεν κατάφερα να κανώ τα github hooks να λειτουργήσουν|
+| <a href="#P-8">8</a> | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | --- |
+| <a href="#P-9">9</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/692) | εγκατάσταση και χρήση ntfy-telegram για την αποστολή ειδοποιήσεων |
+| <a href="#P-10">10</a> | συμμετοχικό περιεχόμενο B1+B2 | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/693) | Tim Berners-Lee + Frameworks|
+| <a href="#P-11">11</a> | Άσκηση γραμμής εντολών | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/694) | Ξέρω πως αυτή η εργασία δεν παίρνει το 100% αλλά με ενδιέφερε και σκοπεύω να προσθέσω και άλλα πράγματα (hyperfine)|
+| <a href="#P-12">12</a> | Τελική αναφορά* | [link για την συζήτηση](https://github.com/courses-ionio/help/discussions/695) | Προσωπικές απόψεις για το μάθημα, θετικές και αρνητικές πάνω σε διάφορα θέματα|
 
 
 ## <a name="P-1">1ο Παραδοτέο - Εισαγωγή:</a>
