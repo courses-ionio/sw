@@ -59,9 +59,9 @@
 
 ##4η εβδομάδα
 
-Εγκατάσταση Alpine.
-- [ ] System description
-- [ ] Δυσκολίες
+Το λειτουργικό που αποφάσισα να εγκαταστήσω είναι το Alpine. Το Alpine δεν διαφημίζει τον εαυτό του σαν desktop distribution αλλά σαν ένα distribution γενικής χρήσης. Σαν λειτουργικό είναι πολύ ελαφρύ και ασφαλές και χρησιμοποιείται από πολλούς σε dockers ή virtual machines. Αυτό είναι κυρίως επειδή είναι βασισμένο σε MUSL αντί για GlibC και χρησιμοποιεί BusyBox αντί για GNU coreutils packages, πράγμα που το καθιστά πολύ πιο γρήγορο από άλλα minimalistic distributions όπως τα arch, καθώς χρησιμοποιεί πολύ λιγότερη CPU, RAM και χώρο στο δίσκο.
+
+Οι δσυκολίες που συνάντησα στην εγκατάσταση είχαν να κάνουν με το γεγονός ότι τα mirrors για τα packages έπρεπε να σεταριστούν manually και αντιμετώωπιζα κάποιο θέμα με τα certificates, καθώς δεν δεχόνταν https links αλλά και τα http ήταν "temporarily down". Αυτό το issue υπήρχε σε αυτό το issue, και υποτίθεται πως έχει γίνει patched στο 3.15 branch αλλά εγώ ακόμα αντιμετώπιζα αυτό το πρόβλημα. Η λύση βρέθηκε όταν συνειδητοποίησα ότι είχα βιαστεί να ρυθμίσω τα repositories χωρίς να τρέξω το setup-alpine. Με το setup-alpine συνάντησα το δεύτερο πρόβλημα που ήταν και το πιο ακριβό σε θέμα χρόνου, ότι η σειρά booting που ορίζεις στο boot menu γίνται override από κάποιες ρυθμίσεις του VirtualBox με αποτέλεσμα να κάνει boot από το floppy disk σε κάθε reboot και να χάνω τις ρυθμίσεις μου. Αυτό μου πήρε 6 clean installations μέχρι να εντοπίσω το πρόβλημα.
 
 
 [![asciicast](https://asciinema.org/a/ChDuHirvkcfut9HJ2CYPvww9k.svg)](https://asciinema.org/a/ChDuHirvkcfut9HJ2CYPvww9k)
