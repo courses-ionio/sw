@@ -148,3 +148,5 @@ Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [githu
 Βοηθεια σε guide στα discussions του help: https://github.com/courses-ionio/help/discussions/344#discussioncomment-2342616
 
 Βοηθεια σε ερωτησεις στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513, https://github.com/courses-ionio/help/discussions/576#discussioncomment-2685800
+
+Αξιολόγηση τελικής αναφοράς συναδέλφων: https://github.com/courses-ionio/sw/pull/1095#issuecomment-1135462779
