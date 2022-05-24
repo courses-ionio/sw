@@ -58,6 +58,7 @@
   
 (4) Άσκηση γραμμής εντολών 
 ------------------------------------------- 
+Στο τέταρτο παραδοτέο εγκατέστησα στον υπολογιστή μου το [Artix Linux](https://artixlinux.org/) (δηλαδή το αρχείο [artix-lxde-openrc-20220123-x86_64.iso](https://artixlinux.org/download.php)) διότι θα έπρεπε να γίνουν οι εντολές σε ένα τερματικό χωρίς systemd. Έτσι χωρίς δεύτερη σκέψη άφησα να [Ubuntu](https://ubuntu.com/) και πήγα στο [Artix Linux](https://artixlinux.org/). Οι εντόλες ήταν σχετικά εύκολες για να γίνει η [πρώτη μου εγραφή](https://asciinema.org/a/ZVLRiG8Bfe3A9o3VLCNqBV6JZ) στο asciinema και για να προστεθεί στον [λογαριασμό](https://asciinema.org/~P2017060) μου.    
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
