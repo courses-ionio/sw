@@ -1,3 +1,5 @@
+# 📗  ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+
 Ονοματεπώνυμο : Γιώργος Παπανικολάου 
 
 Αριθμός Μητρώου : Π2019114
@@ -27,7 +29,9 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 Τελος άλλος ένας στόχος θα ήταν να συμπράξω με τους συμφοιτητές μου διότι το μάθημα δίνει αρκετές ευκαιρίες για συνεργασία με την δημιουργία ομάδων.
 
 # Βιογραφικό και ομάδα
-Για το [βιογραφικό](https://p19papa4.github.io/online-cv/) μου επέλεξα το συγκεκριμένο [template](https://github.com/sharu725/online-cv). Όλες οι αλλαγές που εγίναν, υλοποιήθηκαν με terminal σε λειτουργικό Ubuntu όπως μπορείτε να δείτε με το παράδειγμα που έχω κάνει με record στο [asciinema](https://asciinema.org/a/472002). Θα ακολουθήσουν κι άλλες αλλαγές στο βιογραφικό στην συνέχεια. 
+Για το [βιογραφικό](https://p19papa4.github.io/online-cv/) μου επέλεξα το συγκεκριμένο [template](https://github.com/sharu725/online-cv). Όλες οι αλλαγές που εγίναν, υλοποιήθηκαν με terminal σε λειτουργικό Ubuntu όπως μπορείτε να δείτε με το παράδειγμα που έχω κάνει με record στο [asciinema](https://asciinema.org/a/472002). 
+
+Για το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [pdf](https://github.com/p19papa4/online-cv/blob/gh-pages/pdf/cv.pdf), το οποίο μπορείτε να δείτε σε αυτό το [asciinema](https://asciinema.org/a/497102). Για να γίνει το CI χρησιμοποίησα GitHub Actions με το οποίο όποτε κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf [GitHub Actions](https://github.com/p19papa4/online-cv/blob/gh-pages/.github/workflows/pdf.yml)
 
 Επίσης έκανα την εισαγωγή μου στην ομάδα [ionioi](https://github.com/ionioi) με το αντίστοιχο [webring](https://ionioi.netlify.app/).
 
@@ -46,8 +50,9 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 # Συμμετοχικό περιεχόμενο Α1 και Α2
 Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω φωτογραφίες και λεζάντες για τα λειτουργικά συστήματα CentOS και SteamOS. Για το timeline και τα slides ενημέρωσα τα υπάρχον με τα λειτουργικά που πρόσθεσα.
 
- repo links :  [CentOS](https://github.com/p19papa4/_gallery/blob/master/cent-os.md) [SteamOS](https://github.com/p19papa4/_gallery/blob/master/steam-os.md) [Timeline](https://github.com/p19papa4/site/blob/master/_timeline/os-apps.md) [Slides](https://github.com/p19papa4/site/blob/master/_slides/os.md)
- 
- site links : [CentOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/cent-os/) [SteamOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/steam-os/) [Timeline](https://bespoke-speculoos-3fd509.netlify.app/timeline/os-apps/) [Slides](https://bespoke-speculoos-3fd509.netlify.app/slides/os/)
- 
- team's site links : [CentOS](https://ionioi-site.netlify.app/gallery/cent-os/) [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/) [Timeline](https://ionioi-site.netlify.app/timeline/os-apps/) [Slides](https://ionioi-site.netlify.app/slides/os/) 
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [CentOS](https://github.com/p19papa4/_gallery/blob/master/cent-os.md) | [CentOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/cent-os/) | [CentOS](https://ionioi-site.netlify.app/gallery/cent-os/)
+| [SteamOS](https://github.com/p19papa4/_gallery/blob/master/steam-os.md) | [SteamOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/steam-os/)  |  [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/)
+|  [Timeline](https://github.com/p19papa4/site/blob/master/_timeline/os-apps.md) | [Timeline](https://bespoke-speculoos-3fd509.netlify.app/timeline/os-apps/) | [Timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
+| [Slides](https://github.com/p19papa4/site/blob/master/_slides/os.md) | [Slides](https://bespoke-speculoos-3fd509.netlify.app/slides/os/) | [Slides](https://ionioi-site.netlify.app/slides/os/) |
