@@ -15,8 +15,8 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 | 4 | Άσκηση γραμμής εντολών |[link discussions](https://github.com/courses-ionio/help/discussions/380) |Σε αυτό το παραδοτέο έγινε εμπόθεσμα η εγκατάσταση λογισμικού|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[link discussions](https://github.com/courses-ionio/help/discussions/497) |Για το συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό CentOS και το SteamOS|
 | 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 7 | βιογραφικό | | pandoc/latex/GitHub Actions |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
@@ -56,3 +56,6 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 | [SteamOS](https://github.com/p19papa4/_gallery/blob/master/steam-os.md) | [SteamOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/steam-os/)  |  [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/)
 |  [Timeline](https://github.com/p19papa4/site/blob/master/_timeline/os-apps.md) | [Timeline](https://bespoke-speculoos-3fd509.netlify.app/timeline/os-apps/) | [Timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
 | [Slides](https://github.com/p19papa4/site/blob/master/_slides/os.md) | [Slides](https://bespoke-speculoos-3fd509.netlify.app/slides/os/) | [Slides](https://ionioi-site.netlify.app/slides/os/) |
+
+# Επίλογος
+Τελειώνοντας την εργασία του εξαμήνου, οι γνώσεις και οι απόψεις μου για τα λογισμικά έχουν αλλάξει σε μεγάλο βαθμό. Αρχικά, μέσω τον βίντεο κουίζ και την εγκατάσταση καινούγιων λογισμικών κατάλαβα ότι τα πιο δημοφιλείς λογισμικά περιορίζουν τον χρήστη σε μια τεράστια κλίμακα ενάντια κάποιων Linux distributions. Γι'αυτό τον λόγο αποφάσισα να σταματησώ να χρησιμοποιώ τα Windows και να χρησιμοποιώ Ubuntu για αρχή μέχρι να βρω ένα distribution που να ταιρίαζει στις ανάγκες μου. Τέλος όσο αναφορά τις ομάδες, κατάλαβα πόσο σημαντικό είναι το κάθε μέλος να έχει έναν ρόλο μέσα σε αυτή και να κατανοεί τους κανόνες που έχουν τεθεί.
