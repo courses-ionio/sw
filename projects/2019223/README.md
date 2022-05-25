@@ -4,20 +4,21 @@
 #### [Github profile](https://github.com/PetroulaStylianou)
 
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέα| [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Στο πρώτο παραδοτέο που ήταν η εισαγωγή |
-| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
-| 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
-| 4 | <li><a href="#Άσκηση γραμμής εντολών 1"></span> <span class="toctext">Άσκηση γραμμής εντολών 1</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
-| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
-| 6 |  <li><a href="#Άσκηση γραμμής εντολών 2"></span> <span class="toctext">Άσκηση γραμμής εντολών 2</span></a>| | |
+| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία εισαγωγής και αναφοράς των στόχων μου.|
+| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου και επιτυχής δημιουργία βιογραφικού με templete που μας είχαν δοθεί και προσθήκη των στοιχείων μου. Δημιουργία ομάδας IonianUniversity2019.|
+| 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | Δημιουργία issue σύμφωνα με τις οδηγίες του συγκεκριμένου παραδοτέου, εκτέλεση των αλλαγών μετά από το green light. Δεν ολοκληρώθηκε.|
+| 4 | <li><a href="#Άσκηση γραμμής εντολών 1"></span> <span class="toctext">Άσκηση γραμμής εντολών 1</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | Εγκατάσταση λογισμικού Void Linux (χωρίς systemd) και εκτέλεση της άσκησης, χρήση asciinema. |
+| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | Ανάρτηση δύο εικόνων και προσθήκη στο images_ και _gallery_. Δεν ολοκληρώθηκε.|
+| 6 |  <li><a href="#Άσκηση γραμμής εντολών 2"></span> <span class="toctext">Άσκηση γραμμής εντολών 2</span></a>| | Εκτέλεση άσκησης γραμμής εντολών και χρήση του asciinema.|
 | 7 | βιογραφικό | | |
-| 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
-| 9 | <li><a href="#Άσκηση γραμμής εντολών 3"></span> <span class="toctext">Άσκηση γραμμής εντολών 3</span></a> | | |
-| 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | |
+| 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | Δεν υλοποιήθηκε το παραδοτέο.|
+| 9 | <li><a href="#Άσκηση γραμμής εντολών 3"></span> <span class="toctext">Άσκηση γραμμής εντολών 3</span></a> | |Εκτέλεση άσκησης γραμμής εντολών και χρήση του asciinema. |
+| 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | Δημιουργία μίας βιογραφίας για τους δημιουργούς του λογισμικού MSC από το 5ο παραδοτέο. Δεν έγινε προσθήκη στο netlify.|
 | 11 | Άσκηση γραμμής εντολών | | |
-| 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
+| 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | Μία μικρή αναφορά και ανάλυση από το συνολικό αποτέλεσμα της εργασίας μου. |
+| # | <li><a href="#Βίντεο Quiz"></span> <span class="toctext">Βίντεο Quiz</span></a> | | Ολοκλήρωση και των 12 βίντεο quiz. |
 
 
 
