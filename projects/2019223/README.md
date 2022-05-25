@@ -9,12 +9,12 @@
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Στο πρώτο παραδοτέο που ήταν η εισαγωγή |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
-| 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
+| 4 | <li><a href="#Άσκηση γραμμής εντολών 1"></span> <span class="toctext">Άσκηση γραμμής εντολών 1</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
-| 6 |  Άσκηση γραμμής εντολών <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| | |
+| 6 |  <li><a href="#Άσκηση γραμμής εντολών 2"></span> <span class="toctext">Άσκηση γραμμής εντολών 2</span></a>| | |
 | 7 | βιογραφικό | | |
 | 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
-| 9 | Άσκηση γραμμής εντολών <li><a href="#Set-up the main dependencies and demonstrate your base system"></span> <span class="toctext">Set-up the main dependencies and demonstrate your base system</span></a> | | |
+| 9 | <li><a href="#Άσκηση γραμμής εντολών 3"></span> <span class="toctext">Άσκηση γραμμής εντολών 3</span></a> | | |
 | 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
@@ -28,6 +28,8 @@
 
 # Βιογραφικό
 
+Η διαδικασία που ακολούθησα για την δημιουργία του online βιογραφικού ήταν αρχικά να αφαιρέσω το ήδη υπάρχον gh-pages για να μπορέσω να φτιάξω το δικό μου. Στη συνέχεια έκανα κάποιες μικρές αλλάγες στα στοιχεία μου.
+
 <br>
 <p align="center">
 <img src="https://i.postimg.cc/mZMrqhgn/2022-05-20-7-05-54.png"height=500 width=600>
@@ -36,8 +38,38 @@
 [Βιογραφικό](https://petroulastylianou.github.io/online-cv/)
 
 
+# Άσκηση γραμμής εντολών 1
+## Create a cli app for your favorite site
 
-# Αίτημα ενσωμάτωσης στην ιστοσελίδα
+Για πρώτη άσκηση γραμμής εντολών επέλεξα την δημιουργία μίας εφαρμογής cli για τον αγαπημένο μου ιστότοπο. Αρχικά, εγκατέστησα το <kbd>pip</kbd> με την εντολή <kbd>$ pip install -U click</kbd> και στην συνέχεια δημιούργησα ένα αρχείο python με όνομα Hello.py. Τέλος, στο τερματικό κάλεσα με την εντολή <kbd>$ python hello.py --count=3</kbd> το αρχείο που είχα δημιουργήσει.
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/476425)
+
+# Άσκηση γραμμής εντολών 2
+
+### Check the weather
+
+Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
+
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/495558)
+
+
+# Άσκηση γραμμής εντολών 3
+
+### Set-up the main dependencies and demonstrate your base system
+
+Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
+
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/MT4Kw6YL/2022-05-25-3-49-38.png"height=500 width=700>
+<p/><br> 
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
+
+
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα 1
 
 Στο αίτημα ενσωμάτωσης στην ιστοσελίδα άνοιξα, ένα issue στο οποίο αναφέρω ότι θα πραγματοποιήσω τις αλλαγές του καθηγητή στο μάθημα Αναγνώριση Προτύπων στο ΣΤ΄εξάμηνο. Η αλλαγές θα είναι η αντικατάσταση του προηγούμενου διδάσκοντα με τον καινούργιο και θα προστεθούν όλα τα απαραίτητα στοιχεία του.
 
@@ -48,13 +80,12 @@
 [Προσθήκη στοιχείων καθηγητή](https://github.com/PetroulaStylianou/all_collections/blob/master/_people/vlamos.md) 
 
 
+# Αίτημα ενσωμάτωσης στην ιστοσελίδα 2
 
-# Άσκηση γραμμής εντολών 
-## Create a cli app for your favorite site
+Στο δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα άνοιξα, ένα issue στο οποίο αναφέρω ότι θα προσθέσω το μάθημα "Δίκτυα" στην καθηγήτρια Ελένη Χριστοπούλου. Η αλλαγές που πραγματοποιήθηκαν είναι η προσθήκη της καθηγήτριας Ελένης Χριστοπούλου στο μάθημα Δίκτυα.  
 
-Για πρώτη άσκηση γραμμής εντολών επέλεξα την δημιουργία μίας εφαρμογής cli για τον αγαπημένο μου ιστότοπο. Αρχικά, εγκατέστησα το <kbd>pip</kbd> με την εντολή <kbd>$ pip install -U click</kbd> και στην συνέχεια δημιούργησα ένα αρχείο python με όνομα Hello.py. Τέλος, στο τερματικό κάλεσα με την εντολή <kbd>$ python hello.py --count=3</kbd> το αρχείο που είχα δημιουργήσει.
 
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/476425)
+[Το issue μου](https://github.com/ioniodi/sitegr/issues/406)
 
 
 # Συμμετοχικό περιεχόμενο A1+A2
@@ -82,32 +113,6 @@
 [Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
 
 [Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
-
-
-# Άσκηση γραμμής εντολών
-
-### Check the weather
-
-Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
-
-
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/495558)
-
-
-# Αίτημα ενσωμάτωσης στην ιστοσελίδα
-
-Στο δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα άνοιξα, ένα issue στο οποίο αναφέρω ότι θα προσθέσω το μάθημα "Δίκτυα" στην καθηγήτρια Ελένη Χριστοπούλου. Η αλλαγές που πραγματοποιήθηκαν είναι η προσθήκη της καθηγήτριας Ελένης Χριστοπούλου στο μάθημα Δίκτυα.  
-
-
-[Το issue μου](https://github.com/ioniodi/sitegr/issues/406)
-
-# Άσκηση γραμμής εντολών
-
-### Set-up the main dependencies and demonstrate your base system
-
-Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
-
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
 
 
 # Συμμετοχικό περιεχόμενο B1+B2
