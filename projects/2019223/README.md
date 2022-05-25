@@ -6,7 +6,7 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | |
+| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Στο πρώτο παραδοτέο που ήταν η εισαγωγή |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
 | 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>  <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
@@ -17,7 +17,7 @@
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | |
 | 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
 
 
 
@@ -116,6 +116,23 @@
 [Μελέτη Περίπτωσης](https://github.com/PetroulaStylianou/site/blob/master/_case-study/MSC.md)
 
 [Βιογραφικό](https://github.com/PetroulaStylianou/site/blob/master/_biography/MSC.md)
+
+
+# Τελική αναφορά*
+
+### 1ο παραδοτέο: Εισαγωγή 
+
+Σε αυτό το παραδοτέο έγραψα τους στόχους που θα ήθελα να εκπληρώσω μέσα από το μάθημα Τεχνολογία Λογισμικού.
+
+### 2ο παραδοτέο: Βιογραφικό
+
+Στο 2ο παραδοτέο έφτιαξα το βιογραφικό μου μέσω της ιστοσελίδας Jekyll.
+
+### 3o παραδοτέο: Αίτημα ενσωμάτωσης στην ιστοσελίδα
+
+Στο συγκεκριμένο παραδοτέο παρατήρησα ότι ο καθηγητής στο μάθημα Αναγνώρισης προτύπων έπρεπε να αλλάξει. Έτσι άνοιξα ένα issue με βάση της οδηγίες και στην συνέχεια προσπάθησα να κάνω τις αλλαγές.
+
+
 
 
 
