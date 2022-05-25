@@ -9,12 +9,12 @@
 | 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Στο πρώτο παραδοτέο που ήταν η εισαγωγή |
 | 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | |
 | 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | |
-| 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>  <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
+| 4 | Άσκηση γραμμής εντολών <li><a href="#Create a cli app for your favorite site"></span> <span class="toctext">Create a cli app for your favorite site</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
-| 6 | <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> | | |
+| 6 |  Άσκηση γραμμής εντολών <li><a href="#Check the weather"></span> <span class="toctext">Check the weather</span></a>| | |
 | 7 | βιογραφικό | | |
 | 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | Άσκηση γραμμής εντολών <li><a href="#Set-up the main dependencies and demonstrate your base system"></span> <span class="toctext">Set-up the main dependencies and demonstrate your base system</span></a> | | |
 | 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
@@ -57,14 +57,6 @@
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/476425)
 
 
-## Check the weather
-
-Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
-
-
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/USzd9XMgBzV3ekuJIDLox2Oyq)
-
-
 # Συμμετοχικό περιεχόμενο A1+A2
 
 Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για δύο λογισμικά, το MSC και το Ansys.
@@ -94,11 +86,12 @@
 
 # Άσκηση γραμμής εντολών
 
-### Set-up the main dependencies and demonstrate your base system
+### Check the weather
 
-Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
+Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
 
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/USzd9XMgBzV3ekuJIDLox2Oyq)
 
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
@@ -107,6 +100,14 @@
 
 
 [Το issue μου](https://github.com/ioniodi/sitegr/issues/406)
+
+# Άσκηση γραμμής εντολών
+
+### Set-up the main dependencies and demonstrate your base system
+
+Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
 
 
 # Συμμετοχικό περιεχόμενο B1+B2
