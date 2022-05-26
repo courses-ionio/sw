@@ -11,15 +11,17 @@
 | 1 | Εισαγωγή | courses-ionio/help/discussions/90| Παράδοση εντός προθεσμίας, Τακτική ενημέρωση |
 | 2 | Βιογραφικό Α' και δημιουργία ομάδας | courses-ionio/help/discussions/206 | Παράδοση εντός προθεσμίας, διόρθωση προβλήματος webring, χρήση του συστήματος Jekyll |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/310 | Issue εντός προθεσμίας, Good first issue, Reverted |
-| 4 | Άσκηση γραμμής εντολών ["use irc to chat with your friends"](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh) | courses-ionio/help/discussions/367 | Παράδοση εντός προθεσμίας |
+| 4 | Άσκηση γραμμής εντολών ["use irc to chat with your friends"](https://asciinema.org/a/vQFFAp0fftKvjIAbYmQ74LXzh) | courses-ionio/help/discussions/367 | Παράδοση εντός προθεσμίας, όχι systemd |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | courses-ionio/help/discussions/445 | Παράδοση εντός προθεσμίας, Κατάλληλα θέματα |
-| 6 | Άσκηση γραμμής εντολών ["upload and share files"](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc) | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας |
+| 6 | Άσκηση γραμμής εντολών ["upload and share files"](https://asciinema.org/a/HOPMTfmgePIXKmzOAyQojcjhc) | courses-ionio/help/discussions/462 | Παράδοση εντός προθεσμίας, όχι systemd |
 | 7 | Βιογραφικό Β' | courses-ionio/help/discussions/518 | Παράδοση εντός προθεσμίας, χρήση Latex μόνο με γραμμή εντολών, χρήση GitHub Pages |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | courses-ionio/help/discussions/551 | Issue εντός προθεσμίας, Απόρριψη αλλαγής, Αδυναμία εύρεσης καλής αλλαγής |
-| 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας |
+| 9 | Άσκηση γραμμής εντολών ["create a simple website with a static generator"](https://asciinema.org/a/gU409pB9jPYlboQ5T2pYt7ThU) | courses-ionio/help/discussions/566 | Παράδοση εντός προθεσμίας, όχι systemd |
 | 10 | Συμμετοχικό περιεχόμενο B1 + B2 | courses-ionio/help/discussions/591 | Παράδοση εντός προθεσμίας, Δυναμική έρευνα με κατάλληλα θέματα |
-| 11 | Άσκηση γραμμής εντολών ["create notifications on your sever"](https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn) | courses-ionio/help/discussions/627 | Εκπρόθεσμη παράδοση (1 μέρα, asciinema-alpine server issues) |
+| 11 | Άσκηση γραμμής εντολών ["create notifications on your sever"](https://asciinema.org/a/qa2JbDgSK5d2B8I9dDd2gKDDn) | courses-ionio/help/discussions/627 | Εκπρόθεσμη παράδοση (1 μέρα, asciinema-alpine server issues), όχι systemd |
 | 12 | Τελική αναφορά | courses-ionio/help/discussions/651 | Παράδοση εντός προθεσμίας, Απόλυτη ειλικρίνεια |
+| - | Bonus ασκήσεις Software | - | Παράδοση post-review, αποκλειστικά ασκήσεις SW, όχι systemd |
+| - | Συμμετοχή και Ομαδικότητα | - | Παράδοση post-review, άμεση και άριστη εγκατάσταση σύμφωνα με τις παραπάνω οδηγίες |
 
 
 ## Παραδοτέο 1 / Εισαγωγή
@@ -193,6 +195,24 @@ Preview links:
 Έχοντας βιώσει τα παραπάνω προβλήματα και κατανοήσει τον στόχο του μαθήματος επέλεξα να κάνω τη διαφορά στο τελευταίο ομαδικό παραδοτέο διαλέγοντας να μιλήσω για τον Terrance Davis όπου παρόλο το περίεργο παρελθόν του είναι σίγουρα εικονικό πρόσωπο για το συγκεκριμένο μάθημα. Έχω κάνει την αναφορά μου σε αυτόν πιο αναλυτικά αλλά αυτό που είναι σημαντικό από την ιστορία του είναι ότι έκανε ότι κάνουμε και εμείς σε αυτό το μάθημα: σκεφτόταν από την αρχή τι μπορεί να κάνει καλύτερα και πρωτοτύπησε φτιάχνοντας δικό του λειτουργικό σύστημα όπως το ήθελε εκείνος χωρίς να βασίζεται σε Windows ή Linux.
 
 Τέλος, δε θεωρώ πολύ σημαντικό να αναφερθώ σε πολύ μικρές δυσκολίες που έχω καλύψει σε άλλες σημειώσεις και πιστεύω το κλειδί της αναφοράς μου είναι ότι κατανόησα το θέμα έχοντας ακολουθήσει όλα τα παραδοτέα.
+
+## Bonus Ασκήσεις γραμμής εντολών
+
+Εδώ έκανα κάποιες bonus ασκήσεις που αφορούν αποκλειστικά το κεφάλαιο Software επειδή παρατήρησα αργά ότι τα είχα μπλέξει και ίσως οι προηγούμενες να μη μετρούν όσο οι Software.
+
+- ["create a cli app for your favorite site"](https://asciinema.org/a/I2VuPIAZ4MUyHjBBn8wZyJYPX)
+    Δημιούργησα μόνο με το [click](https://github.com/pallets/click), Python3 και VIM ένα απλό terminal client για το GitHub και τον λογαριασμό μου.
+
+- ["test an alternative stack of tools"](https://asciinema.org/a/L8NDb9Y9tXMyVFfc2GPT0Ng3C)
+    Σε αυτή την άσκηση νομίζω πως τα πήγα συγκριτικά καλύτερα από όλες τις άλλες. Έμαθα κάτι καινούριο, έκανα άριστα αυτό που θέλουν οι ασκήσεις γραμμής εντολών: να χρησιμοποιήσουμε τα εργαλεία που μας δίνονται για πραγματικούς σκοπούς. Έκανα εγκατάσταση των FreeBSD σε VMWare, όπως φαίνεται και στην αρχή με το ``neofetch`` και έκανα εγκατάσταση plasma όπως θα έκανα και σε distro που θα χρησιμοποιούσα προσωπικά.
+    
+    Το Aciinema διακόπηκε επειδή έπρεπε να κάνω επανεκίνηση για να δουλέψει σωστά το περιβάλλον μου με τις αλλαγές. Η μόνη αλλαγή που έκανα για να τρέξει μετά το restart ήταν ότι ξέχασα να κάνω εγκατάσταση του sddm. Επίσης βρήκα ότι αντί να τα ενεργοποιώ με το vim κάνοντας edit το configuration file μπορώ απλά να τρέξω ``sysrc``.
+
+    Δεν έκανα πολλά με τα jails αλλά παρόλα αυτά τα κατάλαβα. Δε χρησιμοποίησα το ``reboot`` αλλά ``init 6``  εφόσον είχα κοιτάξει τι είναι και πως χρησιμοποιούνται και μπήκα στη λογική.
+### Σημειώσεις    
+- [Πληροφορίες συστήματος των ασκήσεων.](https://asciinema.org/a/Bo67tGkDC9p03KdDf1Ny2Dzuc)
+
+- Μπορεί να κάνω λάθος αλλά με τη τελευταία συνάντηση κατάλαβα ότι πρέπει να τρέξω μόνο μία φορά το neofetch. Νομίζω όμως ότι είναι ξεκάθαρο και το αντίθετο να ισχυεί ότι δεν έχω λόγο να μη τα τρέξω σε λειτουργικό με systemd: έχω μέχρι και clipboard απ'το plasma αν χρειαστεί και δεν υπάρχει κάτι παραπάνω που μου προσφέρει το systemd.
 
 ## Συμμετοχή και Ομαδικότητα
 
