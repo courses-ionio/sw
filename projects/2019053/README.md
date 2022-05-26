@@ -104,17 +104,6 @@
 | 2 | [Ομάδα](https://github.com/OompaLoompas) |
 | 3 | [Webring](https://oompaloompas-webring.netlify.app/) |
 
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για τη 2η εβδομάδα |
-| --- | --- |
-| | Σχόλιο βοήθειας σε συμφοιτητή |
-| 1 | https://github.com/courses-ionio/help/discussions/185 |
-| | Ανάρτηση επίλυσης συχνού προβλήματος |
-| 2 | https://github.com/courses-ionio/help/discussions/196 |
-| | Ανάρτηση απορίας στην ομάδα μου|
-| 3 | https://github.com/OompaLoompas/help/discussions/2 |
-
 <br /><br />
 
 ## Εβδομάδα Τρίτη - Συνεισφορά στην ιστοσελίδα και Αίτημα ενσωμάτωσης
@@ -165,17 +154,6 @@
 | 2 | [Αίτημα Ενσωμάτωσης](https://github.com/ioniodi/all_collections/pull/14) |
 | 3 | [Demo Ιστοσελίδας](https://aimiliospavlidis2001-sitegr.netlify.app/posts/2022/03/05/metaptuxiakoi-sitish/) |
 
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για τη 3η εβδομάδα |
-| --- | --- |
-| | Σχόλιασμός συνεισφοράς σε συμφοιτητές |
-| 1 | https://github.com/ioniodi/sitegr/issues/252 |
-| 2 | https://github.com/ioniodi/all_collections/pull/12 |
-| 3 | https://github.com/ioniodi/sitegr/pull/337 |
-| 4 | https://github.com/ioniodi/all_collections/pull/28 |
-| 5 | https://github.com/ioniodi/all_collections/pull/41 |
-
 <br /><br />
 
 ## Εβδομάδα Τέταρτη - Εγκατάσταση και Προσαρμογή FreeBSD + Warmup άσκηση ddgr
@@ -222,13 +200,6 @@
 <a href="https://asciinema.org/a/RbrPBMmgt5n077ve1aZVtXas8" target="_blank"><img src="https://asciinema.org/a/RbrPBMmgt5n077ve1aZVtXas8.svg" /></a>
 </p>
 
-<br /> <br />
-
-| | Συμμετοχή και Ομαδικότητα για τη 4η εβδομάδα |
-| --- | --- |
-| | Σχόλιο βοήθειας σε συμφοιτήτρια |
-| 1 | https://github.com/courses-ionio/help/discussions/360 |
-
 <br /><br />
 
 ## Εβδομάδα Πέμπτη - Συμμετοχικό περιεχόμενο A1 + A2
@@ -264,13 +235,6 @@
 | Timeline [markup-languages](https://pibook-aimiliospavlidis2001.netlify.app/timeline/markup-languages/) | Team Timeline [markdown προσθήκη](https://oompa-loompas.netlify.app//timeline/markup-languages/) |  Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/4) | Δήλωση θέματος στο [site](https://github.com/OompaLoompas/site/issues/4) |
 | Timeline [Επεξεργασία κειμένου](https://pibook-aimiliospavlidis2001.netlify.app/timeline/text-editing/)| Team Timeline [gedit προσθήκη](https://oompa-loompas.netlify.app//timeline/text-editing/) |  Αίτημα ενσωμάτωσης για [gallery](https://github.com/OompaLoompas/_gallery/pull/4) |  |
 | Slides [Εργαλεία και Τεχνικές](https://pibook-aimiliospavlidis2001.netlify.app/slides/tools/) | Team [Slides προσθήκη](https://oompa-loompas.netlify.app//slides/tools/) |  Αίτημα ενσωμάτωσης για [site](https://github.com/OompaLoompas/site/pull/6)|  |
-
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για τη 5η εβδομάδα |
-| --- | --- |
-| 1 | **Reviewer** στην ομάδα μου |
-| 2 | Ένωση των submodules με το βασικό αποθετήριο της ομάδας |
 
 <br /> <br />
 
@@ -426,13 +390,6 @@
 | 3 | [Asciinema για δημιουργία PDF](https://asciinema.org/a/lgoXXqAkgXSlG1a1do8QaI9hH) |
 | 4 | [Asciinema για Continuous Integration με git hooks](https://asciinema.org/a/JKIvCAdIISseZ2IZDW7bH8vAG) |
 | 5 | [Ανάρτηση βοήθειας στο Discussions](https://github.com/courses-ionio/help/discussions/510) |
-
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για την 7η εβδομάδα |
-| --- | --- |
-| 1 | Ανάρτηση βοήθειας στο Discussions |
-|  | https://github.com/courses-ionio/help/discussions/510 |
 
 <br /> <br />
 
@@ -665,13 +622,6 @@
 | Biography [Aaron Swartz](https://pibook-aimiliospavlidis2001.netlify.app/biography/aaron-swartz/)| Team [Aaron Swartz προσθήκη](https://oompa-loompas.netlify.app//biography/aaron-swartz/) | Αίτημα ενσωμάτωσης για [extras](https://github.com/OompaLoompas/extras/pull/1) | |
 | | | Αίτημα ενσωμάτωσης για [images](https://github.com/OompaLoompas/images/pull/13) | |
 
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για τη 10η εβδομάδα |
-| --- | --- |
-| 1 | **Reviewer** στην ομάδα μου |
-| 2 | [Συγγραφή οδηγιών](https://github.com/OompaLoompas/help/discussions/14) για 10ο παραδοτέο με @p19pasc |
-
 <br /> <br />
 
 ## Εβδομάδα Εντέκατη - Software άσκηση py-spy
@@ -765,13 +715,6 @@
 | | Βασικοί σύνδεσμοι για το 11ο παραδοτέο |
 | --- | --- |
 | 1 | [Asciinema για py-spy](https://asciinema.org/a/DSwtDDyUwjxCPEct8OmuqQhvN) |
-
-<br />
-
-| | Συμμετοχή και Ομαδικότητα για την 11η εβδομάδα |
-| --- | --- |
-| | Σχόλιο βοήθειας σε συμφοιτητή |
-| 1 | https://github.com/courses-ionio/help/discussions/619 |
 
 <br /> <br />
 
