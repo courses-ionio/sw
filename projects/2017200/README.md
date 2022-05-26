@@ -150,7 +150,7 @@
 
 Για το 7ο παραδοτέο έπρεπε να μετατέψουμε το βιογραφικό μας σε pdf μορφή.Αρχικά όπως φαίνεται και στο asciinema αρχικά έκανα εγκατάσταση το pandoc και το latex με της εξής εντολές: ``sudo pacman -S install pandoc``, ``sudo pacman -S install texlive-latex-base``
 
-Το [pdf](https://github.com/vivikara/CV/blob/main/cv%20(1).pdf) 
+Το [pdf](https://vivikara.github.io/online-cv/pdf/cv.pdf) 
 
 Το [cv](https://vivikara.github.io/online-cv/)
 
