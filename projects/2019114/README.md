@@ -24,7 +24,7 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 
 
 # Εισαγωγή
-Στόχος μου στο μάθημα 'Τεχνολογίες λογισμικού' είναι να αναπτύξω περισσότερες γνώσεις για το GitΗub, όπως είναι τα submodules κα να μάθω να χειρίζομαι καλύτερα λογισμικά unix.
+Στόχος μου στο μάθημα 'Τεχνολογίες λογισμικού' είναι να αναπτύξω περισσότερες γνώσεις για το GitΗub, όπως είναι τα submodules, να μάθω να χειρίζομαι καλύτερα λογισμικά unix και να καταλάβω γιατί ακριβώς είναι καλύτερα αυτά τα συστήματα από τα γνωστά συστήματα που χρησιμοποιούμε καθημερινά.
 Επίσης θα ήθελα να εξοικειωθώ με την διαδικασία εγκατάστασης καινούργιου λογισμικού χωρίς systemd. 
 Τελος άλλος ένας στόχος θα ήταν να συμπράξω με τους συμφοιτητές μου διότι το μάθημα δίνει αρκετές ευκαιρίες για συνεργασία με την δημιουργία ομάδων.
 
@@ -36,7 +36,9 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 Επίσης έκανα την εισαγωγή μου στην ομάδα [ionioi](https://github.com/ionioi) με το αντίστοιχο [webring](https://ionioi.netlify.app/).
 
 # Αίτημα ενσωμάτωσης στην ιστοσελίδα
-Για αίτημα ενσωμάτωσης στην ανεπίσημη ιστοσελίδα του τμήματος πρόσθεσα την φωτογραφία του καθηγητή Αθανάσιου Τσίπη Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με τις αλλαγές.
+Για αίτημα ενσωμάτωσης στην ανεπίσημη ιστοσελίδα του τμήματος πρόσθεσα την φωτογραφία του καθηγητή Αθανάσιου Τσίπη.
+
+Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με τις αλλαγές.
 
 Σχετικό [issue](https://github.com/ioniodi/sitegr/issues/369#issuecomment-1083539069) με τη δήλωση του θέματος.
 
@@ -56,6 +58,26 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 | [SteamOS](https://github.com/p19papa4/_gallery/blob/master/steam-os.md) | [SteamOS](https://bespoke-speculoos-3fd509.netlify.app/gallery/steam-os/)  |  [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/)
 |  [Timeline](https://github.com/p19papa4/site/blob/master/_timeline/os-apps.md) | [Timeline](https://bespoke-speculoos-3fd509.netlify.app/timeline/os-apps/) | [Timeline](https://ionioi-site.netlify.app/timeline/os-apps/) |
 | [Slides](https://github.com/p19papa4/site/blob/master/_slides/os.md) | [Slides](https://bespoke-speculoos-3fd509.netlify.app/slides/os/) | [Slides](https://ionioi-site.netlify.app/slides/os/) |
+
+Το αντίστοιχο [Pull Request](https://github.com/ionioi/site/pull/4/files)
+
+# Συμμετοχικό περιεχόμενο Β1 και Β2 
+Για το δεύτερο μέρος του συμμετοχικού περιεχομένου αποφάσισα να προσθέσω το βιογραφικό του Gabe Newell που είναι ιδρυτή της Valve και συσχετίζεται με τον λειτουργικό σύστημα SteamOS που έγραψα για το πρώτο μέρος του συμμετοχικού περιεχομένου. Για την μελέτη περίπτωσης αποφάσισα να προσθέσω το Debian στο οποίο βασίζεται το SteamOS
+όπως και άλλα πολλά λειτουργικά συστήματα
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [CentOS](https://ionioi-site.netlify.app/gallery/cent-os/)
+| [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/)
+|  [Include Newell](https://github.com/p19papa4/site/blob/2019114/_includes/bio-gabe.md) | 
+| [Include Debian](https://github.com/p19papa4/site/blob/2019114/_includes/cs-debian.md) | 
+
+Το αντίστοιχο [Pull Request](
+
+# Γραμμή εντολών
+Για την πρώτη άσκηση γραμμής εντολών αποφάσισα να κάνω το Hyperfine το οποίο επέλεξα διότι είναι ένα εύκολο εργαλείο που μπόρει να χρισημοποιθεί για να ελέγξει την ταχύτητα οποιασδήποτε εντολής ή και προγράμματος. Κυριώς χρησιμοποίησα το Hyperfine για να ελέγξω τις ταχύτητες των εντολών στα συστήματα που έχω εγκαταστήσει εώς τώρα.
+
+
 
 # Επίλογος
 Τελειώνοντας την εργασία του εξαμήνου, οι γνώσεις και οι απόψεις μου για τα λογισμικά έχουν αλλάξει σε μεγάλο βαθμό. Αρχικά, μέσω τον βίντεο κουίζ και την εγκατάσταση καινούγιων λογισμικών κατάλαβα ότι τα πιο δημοφιλείς λογισμικά περιορίζουν τον χρήστη σε μια τεράστια κλίμακα ενάντια κάποιων Linux distributions. Γι'αυτό τον λόγο αποφάσισα να σταματησώ να χρησιμοποιώ τα Windows και να χρησιμοποιώ Ubuntu για αρχή μέχρι να βρω ένα distribution που να ταιρίαζει στις ανάγκες μου. Τέλος όσο αναφορά τις ομάδες, κατάλαβα πόσο σημαντικό είναι το κάθε μέλος να έχει έναν ρόλο μέσα σε αυτή και να κατανοεί τους κανόνες που έχουν τεθεί.
