@@ -10,8 +10,8 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link discussions](https://github.com/courses-ionio/help/discussions/156) | |
-| 2 | βιογραφικό και δημιουργία ομάδας |[link discussions](https://github.com/courses-ionio/help/discussions/220) |Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[link discussions](https://github.com/courses-ionio/help/discussions/542) |Σε αυτό το παραδοτέο έγινε η προσθήκη φωτογραφίας στον κύριο Αθανάσιο Τσίπη|
+| 2 | [βιογραφικό και δημιουργία ομάδας](#Βιογραφικό-και-ομάδα) |[link discussions](https://github.com/courses-ionio/help/discussions/220) |Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |[link discussions](https://github.com/courses-ionio/help/discussions/542) |Σε αυτό το παραδοτέο έγινε η προσθήκη φωτογραφίας στον κύριο Αθανάσιο Τσίπη|
 | 4 | Άσκηση γραμμής εντολών |[link discussions](https://github.com/courses-ionio/help/discussions/380) |Σε αυτό το παραδοτέο έγινε εμπόθεσμα η εγκατάσταση λογισμικού|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 |[link discussions](https://github.com/courses-ionio/help/discussions/497) |Για το συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να προσθέσω 2 εικόνες και λεζάντες για το λειτουργικό CentOS και το SteamOS|
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -67,15 +67,17 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
-| [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [CentOS](https://ionioi-site.netlify.app/gallery/cent-os/)
-| [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [SteamOS](https://ionioi-site.netlify.app/gallery/steam-os/)
-|  [Include Newell](https://github.com/p19papa4/site/blob/2019114/_includes/bio-gabe.md) | 
-| [Include Debian](https://github.com/p19papa4/site/blob/2019114/_includes/cs-debian.md) | 
+| [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Newell]( |
+| [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [Debian]( |
+|  [Include Newell](https://github.com/p19papa4/site/blob/2019114/_includes/bio-gabe.md) |[Include Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Include Newell]( |
+| [Include Debian](https://github.com/p19papa4/site/blob/2019114/_includes/cs-debian.md) | [Include Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/) | [Include Debian]( |
 
 Το αντίστοιχο [Pull Request](
 
 # Γραμμή εντολών
 Για την πρώτη άσκηση γραμμής εντολών αποφάσισα να κάνω το Hyperfine το οποίο επέλεξα διότι είναι ένα εύκολο εργαλείο που μπόρει να χρισημοποιθεί για να ελέγξει την ταχύτητα οποιασδήποτε εντολής ή και προγράμματος. Κυριώς χρησιμοποίησα το Hyperfine για να ελέγξω τις ταχύτητες των εντολών στα συστήματα που έχω εγκαταστήσει εώς τώρα.
+
+Στο [Asciinema](https://asciinema.org/a/497446) μπορείται να δείτε το ελέχγο που έκανα στο σύστημα Alpine για το ποια απο τις εντολές ls, exa και ls -a είναι πιο γρήγορη.
 
 
 
