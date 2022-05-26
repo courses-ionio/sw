@@ -49,6 +49,7 @@ _Σημείωση: Τα παραδοτέα ξεκίνησαν από την κα
 
 **Παραδοτέο 4 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
+Εδώ φαίνεται η εγκατάσταση των Alpine Linux μέσω Virtual Machine:
 <a href="https://asciinema.org/a/QLgz64wkB1MhGVtJSS0Ll73Vj" target="_blank"><img src="https://asciinema.org/a/QLgz64wkB1MhGVtJSS0Ll73Vj.svg" /></a>
 
 
