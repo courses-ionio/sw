@@ -149,6 +149,6 @@ Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [githu
 
 Βοηθεια σε ερωτησεις στα discussions του help: https://github.com/courses-ionio/help/discussions/406#discussioncomment-2394513, https://github.com/courses-ionio/help/discussions/576#discussioncomment-2685800
 
-Αξιολόγηση τελικής αναφοράς συναδέλφων: https://github.com/courses-ionio/sw/pull/1095#issuecomment-1135462779
+Αξιολόγηση τελικής αναφοράς συναδέλφων: https://github.com/courses-ionio/sw/pull/1095#issuecomment-1135462779, https://github.com/courses-ionio/sw/pull/1106#issuecomment-1138958308, https://github.com/courses-ionio/sw/pull/1105#issuecomment-1138970706
 
 Αξιολογηση μελων της ομαδας μου για τα PR (συμμετοχικο): https://github.com/Git-s-PopTeamEpic/site/pull/7#issuecomment-1073254612, https://github.com/Git-s-PopTeamEpic/site/pull/11#pullrequestreview-915133298, https://github.com/Git-s-PopTeamEpic/site/issues/15#issuecomment-1120301905, 
