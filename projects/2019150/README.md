@@ -45,6 +45,7 @@
   
   
   https://github.com/P2019SARAKATSANIS/online-cv/blob/master/_data/data.yml
+  https://p2019sarakatsanis.github.io/online-cv/
   
 <br><br>
 <h2><span id="Αίτημα ενσωμάτωσης στην ιστοσελίδα">(3) Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></h2>
