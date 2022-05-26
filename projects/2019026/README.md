@@ -90,6 +90,12 @@ Pull requests:
 Για τις ανάγκες του Case study ανέβηκαν στο images οι εξής εικόνες: [Nintendo logo](https://github.com/p19vrou/images/blob/master/Nintendo.png),
 [HANAFUDA](https://github.com/p19vrou/images/blob/master/HANAFUDA.jpg), [Gunpei Yokoi & Ultra Hand](https://github.com/p19vrou/images/blob/master/YOKOI_ULTRAHAND.jpg), [GameBoy](https://github.com/p19vrou/images/blob/master/GameBoy.jpg), [Nintendo Switch](https://github.com/p19vrou/images/blob/master/Nintendo_Switch.jpg)
 
+**ΠΑΡΑΔΟΤΕΟ 11**
+
+Για το 11ο παραδοτέο, επέλεξα την άσκηση [test an alternative stack of tools](https://github.com/epidrome/dokey) με το λειτουργικό σύστημα FreeBSD. Για να το υλοποιήσω έτραξα τα ``/usr/sbin/pkg -v`` , ``pkg update`` και ``pkg install py38-asciinema`` για να κάνω install,update και record αντίστοιχα τα πακέτα μου. Οι υπόλοιπες λειτουργίες φαίνονται στο παρακάτω asciinema link:
+
+<a href="https://asciinema.org/a/5VCyinjWJKy45LGOf30uhoKOI" target="_blank"><img src="https://asciinema.org/a/5VCyinjWJKy45LGOf30uhoKOI.svg" /></a>
+
 
 **ΠΑΡΑΔΟΤΕΟ 12 | ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ**
 
