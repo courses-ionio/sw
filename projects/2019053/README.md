@@ -809,17 +809,13 @@
 
 | Παροχή βοήθειας Discussions | Δικές μου αναρτήσεις Discussions | Σχολιασμός αιτημάτων ενσωμάτωσης | Σημαντικοί σχολιασμοί ομάδα |
 | --- | --- | --- | --- |
-| https://github.com/courses-ionio/help/discussions/185 | [Συμβουλή για αλλαγή favicon](https://github.com/courses-ionio/help/discussions/196) | [Σχολιασμός Issue 3ου παραδοτέου στον @u2nmd](https://github.com/ioniodi/sitegr/issues/252) | |
-| https://github.com/courses-ionio/help/discussions/360 | | [Σχολιασμός PR 3ου παραδοτέου στον @u2nmd](https://github.com/ioniodi/all_collections/pull/12) | |
-| | | [Σχολιασμός PR sitegr 3ου παραδοτέου στον @p19pasc](https://github.com/ioniodi/sitegr/pull/337) | |
-| | | [Σχολιασμός PR all_collections 3ου παραδοτέου στον @p19pasc](https://github.com/ioniodi/all_collections/pull/28) | |
-| | | [Σχολιασμός PR 3ου παραδοτέου στον @vasiliskampani](https://github.com/ioniodi/all_collections/pull/41) | |
-
-
-
-
-
-
+| [Παρατήρηση σε ανάρτηση Discussions 1](https://github.com/courses-ionio/help/discussions/185) | [Συμβουλή για αλλαγή favicon](https://github.com/courses-ionio/help/discussions/196) | [Σχολιασμός Issue 3ου παραδοτέου στον @u2nmd](https://github.com/ioniodi/sitegr/issues/252) | [Σχολιασμός Issue 5ου παραδοτέου στον @u2nmd](https://github.com/OompaLoompas/site/issues/2) |
+| [Παρατήρηση σε ανάρτηση Discussions 2](https://github.com/courses-ionio/help/discussions/360) | [Ερώτηση σχετικά με error pdflatex](https://github.com/courses-ionio/help/discussions/510) | [Σχολιασμός PR 3ου παραδοτέου στον @u2nmd](https://github.com/ioniodi/all_collections/pull/12) | [Σχολιασμός Issue 5ου παραδοτέου στον @vasiliskampani](https://github.com/OompaLoompas/site/issues/9) |
+| [Παρατήρηση σε ανάρτηση Discussions 3](https://github.com/courses-ionio/help/discussions/619) | | [Σχολιασμός PR sitegr 3ου παραδοτέου στον @p19pasc](https://github.com/ioniodi/sitegr/pull/337) | [Σχολιασμός PR site 5ου παραδοτέου στον @u2nmd](https://github.com/OompaLoompas/site/pull/18) |
+|  | | [Σχολιασμός PR all_collections 3ου παραδοτέου στον @p19pasc](https://github.com/ioniodi/all_collections/pull/28) | [Σχολιασμός Issue 10ου παραδοτέου στον @vasiliskampani](https://github.com/OompaLoompas/site/issues/21) |
+| **Discussions Ομάδας** | | [Σχολιασμός PR 3ου παραδοτέου στον @vasiliskampani](https://github.com/ioniodi/all_collections/pull/41) | [Σχολιασμός PR site 10ου παραδοτέου στον @u2nmd](https://github.com/OompaLoompas/site/pull/34) |
+| [Πρόταση στην ομάδα μου για 5ο παραδοτέο](https://github.com/OompaLoompas/help/discussions/9) |  | [Σχολιασμός Issue 8ου παραδοτέου στον @p19kala](https://github.com/ioniodi/sitegr/issues/382) | Ήμουν Reviewer οπότε είχα σχολιάσει σε πολλά περισσότερα αιτήματα, απλώς επέλεξα τα πιο σημαντικά. |
+| [Οδηγίες για υλοποίηση 10ου παραδοτέου μαζί με @p19pasc](https://github.com/OompaLoompas/help/discussions/14) | | | |
 
 <br /> <br />
 
