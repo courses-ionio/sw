@@ -8,11 +8,11 @@ Github profile: [Geoter711](https://github.com/Geoter711)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/134)| 7-8 |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/134)| 7 |
 | 2 | [βιογραφικό](https://geoter711.github.io/online-cv/) και δημιουργία ομάδας | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/250)| 8-9 |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | 7-8 |
 | 4 | Άσκηση γραμμής εντολών | | 7 |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | 6-7 |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | 6 |
 | 6 | Άσκηση γραμμής εντολών | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/489) | 7-8 |
 | 7 | βιογραφικό | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/533) | 5-6 |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/553) | 9 |
