@@ -81,6 +81,14 @@ Pull requests:
 
 Το 8ο παραδοτέο απαιτούσε το δεύτερο αίτημα ενσωμάτωσης στην σελίδα. Δυστυχώς δεν μπόρεσα να βρω κάποια πρωτότυπη αλλαγή, μιας και όποια προσθήκη/αλλαγή/αφαίρεση μπόρεσα να παρατηρήσω είχε ήδη καλυφθεί από τους συμφοιτήτές μου.
 
+**ΠΑΡΑΔΟΤΕΟ 9**
+
+Σε αυτό το παραδοτέο επέλεξα την άσκηση [programmable voice](https://github.com/epidrome/dokey) με την χρήση του [Twilio](https://www.twilio.com). Συγκεκριμένα, αφού δημιούργησα λογαριασμό στο Twilio, μέσω του python script που φαίνεται στο παρκάτω asciinema link, το έβαλα να με πάρει τηλέφωνο. Παραδίδεται και σχετικό screenshot.
+
+<a href="https://asciinema.org/a/0blyTkiJrhjZ4cUMwJ80wEahz" target="_blank"><img src="https://asciinema.org/a/0blyTkiJrhjZ4cUMwJ80wEahz.svg" /></a>
+
+<img src="https://i.imgur.com/P80H3US.jpg"  alt="picture">
+
 **Παραδοτέο 10 | Β1+Β2 ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ**
 
 <img src="https://imgur.com/AeGjasm.png"  alt="picture"> 
