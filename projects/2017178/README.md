@@ -94,7 +94,7 @@
 # Παραδοτέο 10
 Για το δεύτερο μέρος του συμμετοχικού περιεχομένου επέλεξα να γράψω μια μελέτη περίπτωσης γύρω απο την go to, μια προγραμματιστική εντολή με μεγάλη ιστορία απο πίσω της καθώς και να συγγράψω την βιογραφία του ανθρώπου που ξεκίνησε τη συζήτηση γύρω από αυτή.
 
-|Περιγραφή | Εικόνες | Gallery | Netlify Deploy|
+|Περιγραφή | Εικόνες | Gallery File | Netlify Deploy|
 | --- | --- | --- | --- |
 | Goto |  [image](https://github.com/ionioteam/images/blob/2017178/goto.png) |  [Gallery file](https://github.com/ionioteam/site/blob/2017178/_case-study/goto.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/case-study/goto/)
 | Dijkstra | [Normal](https://github.com/ionioteam/images/blob/2017178/dijkstra.jpg) & [Thumb](https://github.com/ionioteam/images/blob/2017178/dijkstra-thumb.jpg) | [Gallery File](https://github.com/ionioteam/site/blob/2017178/_biography/e-dijkstra.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/biography/e-dijkstra/)
