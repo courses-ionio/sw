@@ -7,17 +7,17 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στην περιοχή Discussions](https://github.com/courses-ionio/help/discussions/97) | |
-| 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/240) & [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN) | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Discussions](https://github.com/courses-ionio/help/discussions/422) | |
-| 4 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/538) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Discussions](https://github.com/courses-ionio/help/discussions/599) | |
-| 6 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/600) | |
-| 7 | βιογραφικό |[Discussions](https://github.com/courses-ionio/help/discussions/601) | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/677)| |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Discussions](https://github.com/courses-ionio/help/discussions/678)| |
-| 11 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/680) | |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στην περιοχή Discussions](https://github.com/courses-ionio/help/discussions/97) |Έκανα όλα τα ζητούμενα της πρώτης εβδομάδα οπότε πιστεύω 10/10 |
+| 2 | βιογραφικό και δημιουργία ομάδας |[Discussions](https://github.com/courses-ionio/help/discussions/240) & [asciinema cv-repo](https://asciinema.org/a/fGt7Kzk94UyPW7IoU18eOc9pN) | Δημιούργησα το βιογραφικό μου με ένα από τα template που προτείνονται στις οδηγίες και εντάχθηκα σε μια ομάδα οπότε 10/10  |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Discussions](https://github.com/courses-ionio/help/discussions/422) |Δημιουργία issue, υλοποίησή ενός easy θέματος, έπειτα από green light επεξεργασία του okin.md, pull request, 10/10 |
+| 4 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/538) |Για την πρώτη άσκηση γραμμή εντολών θεωρώ ότι έκανα μια αξιόλογη προσπάθεια εγκαθιστώντας τα KISS Linux (it's without systemd) όπως φαίνεται και στο asciinema link μου με το neofetch παρόλα αυτά επειδή έγινε σε vm πιστεύω 8/10 |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Discussions](https://github.com/courses-ionio/help/discussions/599) |Για το συμμετοχικό Α1 + Α2 πρόσθεσα το Spyder-IDE και τον Travis Oliphant. Αλλά τον αντικατέστησα με το NES-Zapper στο Β1 για να υπάρξει μια βελτίωση διότι ο Travis Oliphant ταίριαζε περισσότερο στην βιογραφία. 8/10 |
+| 6 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/600) |6η ) Για την δεύτερη άσκηση γραμμή εντολών διότι εγκατέστησα το ntfy αλλά δεν το χρησιμοποίησα για κάτι πιο "προσωπικό" από το να στέλνω απλά ειδοποιήσεις μέσο του terminal στην εφαρμογή του και τον bot μου στο telegram 6/10 |
+| 7 | βιογραφικό |[Discussions](https://github.com/courses-ionio/help/discussions/601) |Για την δημιουργία του pdf του βιογραφικού μου κάθισα και ασχολήθηκα με το .tex αρχείο για την παραγωγή του, για να είναι όσο πιο κοντά στο template που χρησιμοποίησα στο 3ο Παραδοτέο, και με τα Git Hooks πέτυχα το continuous integration και έτσι με κάθε commit μου παράγεται αυτόματα το νέο pdf, 10/10 |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | |Δεν κατάφερα να υλοποιήσω κάτι για το ζητούμενο αυτής της εβδομάδας 0/10 |
+| 9 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/677)| Για την τρίτη άσκηση γραμμή εντολών χρησιμοποίησα τα py-spy και hyperfine για να δω την απόδοση των δικών μου python scripts 8/10|
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Discussions](https://github.com/courses-ionio/help/discussions/678)| Για το Β1 Συμμετοχικό μετέφερά τον Travis Oliphant στη βιογραφία που είχα προσθέσει στο 1ο Συμμετοχικό και για την μελέτη περίπτωσης πρόσθεσα το Unicos OS 8/10 |
+| 11 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/680) | Για την τέταρτη άσκηση γραμμή εντολών διότι έκανα έκανα το ntfy πιο "προσωπικό" αυτο αυτοματοποιώντας τις διαδικασίες που αναφέρονται στο στην αναφορά μου 10/10|
 | 12 | Τελική αναφορά* | | |
 
 ## Οι στόχοι μου για το μάθημα : 
@@ -99,3 +99,40 @@
 
 ![ntfy scripts notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/ntfy_up_speed_yt.jpg)
 ![telegram scripts notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/telegram_upgrade_yt.jpg)
+
+## Συμπεράσματα (12ο Παραδοτέο)
+Φτάνοντας στο τέλος του μαθήματος θεωρώ ότι κάλυψα όλους στόχους μου που είχα θέσει στην αρχή του 
+εξαμήνου. Από την χρήση συστήματος χωρίς systemd μέχρι την διαχείριση του μέσο του τερματικού.
+Από την δημιουργία βιογραφικού με jekkyl μέχρι την αλληλεπίδρασή μου μέσα σε μια ομάδα.
+
+Μέσα από το μάθημα κατάφερα να χειρίζομαι σε ένα πολύ ικανοποιητικό επίπεδο το Github μέσο του 
+terminal μου και γνώρισα και τα submodules. Τα οποία είναι ένα πολύ καλό εργαλείο γιατί μπορεί 
+να θες να χρησιμοποιήσει σε πολλαπλά repositories κάποια αρχεία και με αυτά δεν είσαι αναγκασμένος 
+να τα ανεβάζεις σε καθένα από αυτά. Επίσης μέσα από τις ασκήσεις του βιογραφικού χρησιμοποίησα και τα 
+Git Hooks για να αυτοματοποιήσω περαιτέρω τις διεργασίες μου. Επίσης γνώρισα και το jekyll ένα 
+πολύ χρήσιμο εργαλείο για για την παραγωγή ιστοσελίδων και μαζί με αυτό απόχτησα και γνώσεις 
+πάνω στην yml και τη latex. Μέσα από τις ασκήσεις της γραμμής εντολών "αναβάθμισα" αρκετά τις 
+ικανότητες μου στην χρήση του τερματικού και της χρήσης του συστήματος μου μέσα από αυτό. 
+Επίσης είδα την διαδικασία εγκαταστήσεις και την χρήση ενός συστήματος χωρίς systemd. Και την δυνατότητα
+που σου προσφέρει να στήσεις το λειτουργικό σου ακριβώς όπως εσύ το χρειάζεσαι χωρίς να περιέχει 
+περαιτέρω πράγματα από αυτά που θα χρησιμοποιήσεις για την δουλειά σου και να είναι πολύ πιο "ελεγχόμενο"
+από το τι θα περιέχει μέχρι τι updates θα γίνονται σε αυτό. Μέσα από το κομμάτι του Organization και 
+ας ήμουν απλό μέλος και όχι admin. Ακόμα και ας μην υπήρχε καλή συνένωση με κάποια από τα υπόλοιπα 
+μέλει είδα πως είναι να είσαι μέλος μιας πολυπληθείς ομάδας με τα κακά του και τα καλά του. Και με της 
+ασκήσεις του συμμετοχικού περιεχομένου και των αιτημάτων ενσωμάτωσης από τα σχόλια των επιτηρητών 
+στα Pull requests κατάλαβα ότι πρέπει να είσαι πολύ προσεκτικός σε κάποια πράγματα γιατί το αίτημα σου
+μπορεί να απορριφθεί διότι μπορεί να έχεις κάποιο σφάλμα στον κωδικά σου ή μπορεί να δημιουργήσει κάποιο
+σφάλμα σε κάποιο μελλοντικό update. 
+
+
+Μέσα από τα βίντεο κουίζ παρά τις δυσκολίες που αντιμετώπισα λόγο της μη καλή γνώσης της αγγλικής γλώσσας 
+κατάλαβα αρκετά πράγματα για το λογισμικό αλλά και για το τι μπορεί να αποτελέσει πηγή έμπνευσης για την 
+δημιουργία μια καινοτομίας που θα καλύψει κάποιες ανάγκες του κόσμου και να τον βοηθήσει / διευκολύνει. 
+Όπως και το ότι πολλά από αυτά που κυκλοφορούν στην αγορά δεν είναι κάποιες καινοτομίες αλλά προϊόντα.
+
+
+## Συνεισφορά
+|Help Discussions|Sitegr Issues |Σχολιασμός PR|
+|---|---|---|
+|[Answer](https://github.com/courses-ionio/help/discussions/180)|[Answer](https://github.com/ioniodi/sitegr/issues/262)|[Comment](https://github.com/courses-ionio/sw/pull/1087)|
+|[Answer](https://github.com/courses-ionio/help/discussions/325)||[Comment](https://github.com/courses-ionio/sw/pull/1093)|
