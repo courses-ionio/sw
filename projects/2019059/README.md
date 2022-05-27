@@ -4,6 +4,7 @@
 ### ΑΜ: Π2019059
 ### [Github Profile](https://github.com/xar1sgeovlacp2019059)
 ### [Team Github](https://github.com/Git-s-PopTeamEpic)
+### Edpuzzle:  p19vlac Π2019059 , quiz: 12/12
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -165,3 +166,5 @@ To [netlify](https://app.netlify.com/sites/venerable-taiyaki-f6b012/overview) γ
 ## Σημετωχή και Ομαδικότητα
 
 [help](https://github.com/courses-ionio/help/discussions/197)
+[pull request1](https://github.com/courses-ionio/sw/pull/1101)
+[pull request2](https://github.com/courses-ionio/sw/pull/1110) 
