@@ -60,8 +60,8 @@
 Για το 6ο Παραδοτέο εγκατέστησα στο notify και το ρύθμισα να μπορώ να στείλω ειδοποιήσεις είτε στην εφαρμογή του που εγκατέστησα στο κινητό μου, είτε σε ένα bot που έφτιαξα στο telegram.
  * [Asciinema](https://asciinema.org/a/qTbpLnKcm5kT9eu1k6WCa5kP2)
 
-![ntfy app notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-32-911_io.heckel.ntfy.jpg)
-![telegram notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/Screenshot_2022-05-04-14-31-48-620_org.telegram.messenger.jpg)
+![ntfy app notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/Screenshot_2022-05-04-14-31-32-911_io.heckel.ntfy.jpg)
+![telegram notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/Screenshot_2022-05-04-14-31-48-620_org.telegram.messenger.jpg)
 
 ## PDF Βιογραφικού (7ο Παραδοτέο)
 Για το 7ο Παραδοτέο κατασκεύασα το pdf του βιογραφικού μου με το pandoc και latex.
@@ -97,5 +97,5 @@
  * [Asciinema update/upgrade](https://asciinema.org/a/0RmuiN1qxMLjmUtSRn5OaNuKq)
  * [Asciinema speedtest youtube](https://asciinema.org/a/moyZClMR7an6rruFDqdlGRt7E)
 
-![ntfy scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/ntfy_up_speed_yt.jpg)
-![telegram scripts notification](https://github.com/ApoLaz/sw/blob/2016059/projects/2016059/telegram_upgrade_yt.jpg)
+![ntfy scripts notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/ntfy_up_speed_yt.jpg)
+![telegram scripts notification](https://github.com/ApoLaz/sw/blob/P2016059/projects/Sw-images/telegram_upgrade_yt.jpg)
