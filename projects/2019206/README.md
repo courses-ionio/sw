@@ -12,7 +12,7 @@
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
+| 7 | [βιογραφικό](#7.-Βιογραφικό) | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -54,7 +54,7 @@
 
 Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
 
-**7. Βιογραφικό**
+# **7. Βιογραφικό**
 Σε αυτό το παραδοτέο χρησιμοποίησα pandoc και latex για να δημιουργήσω ένα pdf το οποίο θα παίρνει τα στοιχεία του [onlive-cv](https://mnlsvt.github.io/online-cv/) μου. Αυτό είναι το σχετικό [asciinema](https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk)...
 
 <a href="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk" target="_blank"><img src="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk.svg" /></a>
