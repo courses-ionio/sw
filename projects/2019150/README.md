@@ -152,6 +152,12 @@
 2. [neofetch](https://github.com/dylanaraps/neofetch)
 3. [asciinema](https://asciinema.org)
   
+    
+   <h3><br>Links που αφορούν την άσκηση:
+  
+1. [Yλοπίηση άσκησης στο asciinema](https://asciinema.org/a/ZCogQlJioRx6b6u8Ek1251UFp)  
+2. [Alpine Linux](https://www.alpinelinux.org)  
+3. [Link ασκήσεων dokey](https://github.com/epidrome/dokey)
   
   <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
