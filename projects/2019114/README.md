@@ -14,13 +14,13 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |[link discussions](https://github.com/courses-ionio/help/discussions/542) ||
 | 4 | [Άσκηση γραμμής εντολών](#Εγκατάσταση-λογισμικού ) |[link discussions](https://github.com/courses-ionio/help/discussions/380) ||
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικό-περιεχόμενο-Α1-και-Α2) |[link discussions](https://github.com/courses-ionio/help/discussions/497) | |
-| 6 | [Άσκηση γραμμής εντολών](#Εγκατάσταση-λογισμικού ) | | |
-| 7 | [βιογραφικό](#Βιογραφικό-και-ομάδα) | | Δημιουργία μη αυτόματου βιογραφικού με pandoc/latex και δημιουργία αυτόματου βιογραφικού με GitHub Actions |
+| 6 | [Άσκηση γραμμής εντολών](#Εγκατάσταση-λογισμικού ) | [link discussions](https://github.com/courses-ionio/help/discussions/704) | |
+| 7 | [βιογραφικό](#Βιογραφικό-και-ομάδα) |[link discussions](https://github.com/courses-ionio/help/discussions/705) | Δημιουργία μη αυτόματου βιογραφικού με pandoc/latex και δημιουργία αυτόματου βιογραφικού με GitHub Actions |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | - | - |
-| 9 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | | |
+| 9 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[link discussions](https://github.com/courses-ionio/help/discussions/706) | |
 | 10 | [συμμετοχικό περιεχόμενο B1+B2](#Συμμετοχικό-περιεχόμενο-Β1-και-Β2) | | |
 | 11 | Άσκηση γραμμής εντολών | | |
-| 12 | [Τελική αναφορά*](#Επίλογος) | | |
+| 12 | [Τελική αναφορά*](#Επίλογος) |[link discussions](https://github.com/courses-ionio/help/discussions/707) | |
 
 
 # Εισαγωγή
@@ -30,6 +30,8 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 
 # Βιογραφικό και ομάδα
 Για το [βιογραφικό](https://p19papa4.github.io/online-cv/) μου επέλεξα το συγκεκριμένο [template](https://github.com/sharu725/online-cv). Όλες οι αλλαγές που εγίναν, υλοποιήθηκαν με terminal σε λειτουργικό Ubuntu όπως μπορείτε να δείτε με το παράδειγμα που έχω κάνει με record στο [asciinema](https://asciinema.org/a/472002). 
+
+<a href="https://asciinema.org/a/472002" target="_blank"><img src="https://asciinema.org/a/472002.svg" /></a>
 
 Για το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [pdf](https://github.com/p19papa4/online-cv/blob/gh-pages/pdf/cv.pdf), το οποίο μπορείτε να δείτε σε αυτό το [asciinema](https://asciinema.org/a/497102). Για να γίνει το CI χρησιμοποίησα GitHub Actions με το οποίο όποτε κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf [GitHub Actions](https://github.com/p19papa4/online-cv/blob/gh-pages/.github/workflows/pdf.yml)
 
@@ -47,7 +49,11 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 # Εγκατάσταση λογισμικού 
 Για την πρώτη εβδομάδα που ασχοληθήκαμε με τις γραμμές εντολών αποφάσισα να εγκαταστήσω το Freebsd που είναι ένα λειτουργικό σύστημα χωρίς systemd το οποίο μπορείτε να δείτε στο αντίστοιχο [asciinema](https://asciinema.org/a/G4uKcF8vkRRzuZXpZu7k6A4Wq).
 
+<a href="https://asciinema.org/a/G4uKcF8vkRRzuZXpZu7k6A4Wq" target="_blank"><img src="https://asciinema.org/a/G4uKcF8vkRRzuZXpZu7k6A4Wq.svg" /></a>
+
 Για την δεύτερη εβδομάδα για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το Alpine Linux το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία του απο το freebsd. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/494083)
+
+<a href="https://asciinema.org/a/494083" target="_blank"><img src="https://asciinema.org/a/494083.svg" /></a>
 
 # Συμμετοχικό περιεχόμενο Α1 και Α2
 Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω φωτογραφίες και λεζάντες για τα λειτουργικά συστήματα CentOS και SteamOS. Για το timeline και τα slides ενημέρωσα τα υπάρχον με τα λειτουργικά που πρόσθεσα.
@@ -69,8 +75,7 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 | --- | --- | --- | 
 | [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Newell]( |
 | [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [Debian]( |
-|  [Include Newell](https://github.com/p19papa4/site/blob/2019114/_includes/bio-gabe.md) |[Include Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Include Newell]( |
-| [Include Debian](https://github.com/p19papa4/site/blob/2019114/_includes/cs-debian.md) | [Include Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/) | [Include Debian]( |
+
 
 Το αντίστοιχο [Pull Request](
 
@@ -78,6 +83,8 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 Για την πρώτη άσκηση γραμμής εντολών αποφάσισα να κάνω το Hyperfine το οποίο επέλεξα διότι είναι ένα εύκολο εργαλείο που μπόρει να χρισημοποιθεί για να ελέγξει την ταχύτητα οποιασδήποτε εντολής ή και προγράμματος. Κυριώς χρησιμοποίησα το Hyperfine για να ελέγξω τις ταχύτητες των εντολών στα συστήματα που έχω εγκαταστήσει εώς τώρα.
 
 Στο [Asciinema](https://asciinema.org/a/497446) μπορείται να δείτε το ελέχγο που έκανα στο σύστημα Alpine για το ποια απο τις εντολές ls, exa και ls -a είναι πιο γρήγορη.
+
+<a href="https://asciinema.org/a/497446" target="_blank"><img src="https://asciinema.org/a/497446.svg" /></a>
 
 
 
