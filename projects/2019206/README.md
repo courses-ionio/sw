@@ -10,7 +10,7 @@
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#2-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/233) | Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Αλλαγή του υπεύθυνου καυηγητή της πρακτικής άσκησης από τον κ.Ανδρόνικο στον κ.Νταντογιάν |
 | 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -50,7 +50,7 @@
 - Τελικό [pull request](https://github.com/ioniodi/all_collections/pull/58) της αλλαγής.
 - [Netlify demo](https://bright-swan-e809b8.netlify.app/courses/practice/) 
 
-**5. Συμμετοχικό περιεχόμενο A1+A2**
+# **5. Συμμετοχικό περιεχόμενο A1+A2**
 
 Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
 
