@@ -54,6 +54,11 @@
 
 Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
 
+**7. Βιογραφικό**
+Σε αυτό το παραδοτέο χρησιμοποίησα pandoc και latex για να δημιουργήσω ένα pdf το οποίο θα παίρνει τα στοιχεία του [onlive-cv](https://mnlsvt.github.io/online-cv/) μου. Αυτό είναι το σχετικό [asciinema](https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk)...
 
+<a href="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk" target="_blank"><img src="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk.svg" /></a>
 
+Επίσης εφάρμοσα [continuous integration](https://github.com/Mnlsvt/online-cv/tree/master/.github/workflows) μέσω git actions έτσι ώστε να δημιουργείται καινούριο pdf κάθε φορά που γίνεται μια αλλαγή στο [onlive-cv](https://mnlsvt.github.io/online-cv/).
 
+Το τελικό pdf μπορείτε να το βρείτε [εδώ](https://github.com/Mnlsvt/online-cv/blob/master/index.pdf).
