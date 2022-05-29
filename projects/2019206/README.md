@@ -50,10 +50,6 @@
 - Τελικό [pull request](https://github.com/ioniodi/all_collections/pull/58) της αλλαγής.
 - [Netlify demo](https://629397e30bc6185fbb7da3da--silver-froyo-fc0f13.netlify.app/courses/practice/) 
 
-Μια εικόνα της αλλαγής μου:
-<p>
- <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/> | <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" width="300"/>
-</p>
  
 :exclamation: Το [αρχικό issue](https://github.com/ioniodi/sitegr/issues/344) ήταν εμπρόθεσμο αλλά λογώ μερικών προβλημάτων δεν είχε γίνει δεκτό και έτσι άνοιξα καινούριο με διαφορετική αλλαγή.
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
