@@ -463,6 +463,15 @@
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
 | 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου και σχολίασα [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) και [pull requests](https://github.com/OompaLoompas/site/pulls?q=is%3Apr+is%3Aclosed) που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα|
 | 14 | [Εργαλείο για έλεγχο ορθογραφίας και συντακτικού στην τελική αναφορά](https://github.com/courses-ionio/help/discussions/711) |
+| 15 | [Ενημέρωση μελών ομάδας για συνάντηση 1](https://github.com/OompaLoompas/help/discussions/5) |
+| 16 | [Ενημέρωση μελών ομάδας για συνάντηση 2](https://github.com/OompaLoompas/help/discussions/11) |
+| 17 | [Οδηγίες προς τα μέλη ομάδας για το συμμετοχικό περιεχόμενο](https://github.com/OompaLoompas/help/discussions/8) |
+| 18 | [Βοήθεια προς μέλος ομάδας με απορία](https://github.com/OompaLoompas/help/discussions/7) |
+| 19 | [Βοηθητικό σχόλιο σε pull request τελικής αναφοράς 1](https://github.com/courses-ionio/sw/pull/1060) |
+| 20 | [Βοηθητικό σχόλιο σε pull request τελικής αναφοράς 2](https://github.com/courses-ionio/sw/pull/1063) |
+| 21 | [Βοηθητικό σχόλιο σε pull request τελικής αναφοράς 3](https://github.com/courses-ionio/sw/pull/1080) |
+| 22 | [Βοηθητικό σχόλιο σε pull request τελικής αναφοράς 4](https://github.com/courses-ionio/sw/pull/1096) |
+
 
 <br><br>
 <h1><span id="Βίντεο Κουίζ και Κουίζ Κειμένου">Βίντεο Κουίζ και Κουίζ Κειμένου</span></h1>
