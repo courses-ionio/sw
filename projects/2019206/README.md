@@ -50,7 +50,8 @@
 - Τελικό [pull request](https://github.com/ioniodi/all_collections/pull/58) της αλλαγής.
 - [Netlify demo](https://629397e30bc6185fbb7da3da--silver-froyo-fc0f13.netlify.app/courses/practice/) 
 
- 
+Για να κάνω αυτή την αλλαγή, χρειάστηκε να ανατρέξω στο βιογραφικό του κ.Νταντογιάν καθώς στο [επίσημο site](https://di.ionio.gr/gr/studies/undergraduate-studies/internship/) του πανεπιστημίου δεν είχε αλλάξει ακόμη 
+
 :exclamation: Το [αρχικό issue](https://github.com/ioniodi/sitegr/issues/344) ήταν εμπρόθεσμο αλλά λογώ μερικών προβλημάτων δεν είχε γίνει δεκτό και έτσι άνοιξα καινούριο με διαφορετική αλλαγή.
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
 
