@@ -52,8 +52,9 @@
 - [Asciinema Link](https://asciinema.org/a/NgOunuHmIqRO5VyQ9waUeTMLM)
 
 # Παραδοτέο 7: Βιογραφικό
-Αντιμετώπισα δυσκολίες στην εγκατάσταση απαραίτητων πακέτων για να καταφέρω να τρέξω το pandoc και το latex. .
-- [Βιογραφικό σε PDF](https://github.com/Konstantina3/online-cv/blob/master/cv.pdf)
+Αντιμετώπισα δυσκολίες στην εγκατάσταση απαραίτητων πακέτων για να καταφέρω να τρέξω το pandoc και το latex. Επίσης, εφάρμοσα [continuous integration](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows) ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://konstantina3.github.io/online-cv/) Τα αποτελέσματα φαίνονται παρακάτω:
+- [Βιογραφικό σε PDF χωρίς CI](https://github.com/Konstantina3/online-cv/blob/master/cv.pdf)
+- [Βιογραφικό σε PDF με CI](https://github.com/Konstantina3/online-cv/blob/master/index.pdf)
 - [Asciinema Link](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
 
 # Παραδοτέο 8: Αίτημα ενσωμάτωσης στην ιστοσελίδα  
