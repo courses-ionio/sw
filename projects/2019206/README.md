@@ -53,6 +53,20 @@
 Για να κάνω αυτή την αλλαγή, χρειάστηκε να ανατρέξω στο βιογραφικό του κ.Νταντογιάν καθώς στο [επίσημο site](https://di.ionio.gr/gr/studies/undergraduate-studies/internship/) του πανεπιστημίου δεν είχε αλλάξει ακόμη 
 
 :exclamation: Το [αρχικό issue](https://github.com/ioniodi/sitegr/issues/344) ήταν εμπρόθεσμο αλλά λογώ μερικών προβλημάτων δεν είχε γίνει δεκτό και έτσι άνοιξα καινούριο με διαφορετική αλλαγή.
+
+# **4. Άσκηση γραμμής εντολών**
+
+Σε αυτό το παραδοτέο επέλεξα να εγκαταστήσω το λειτουργικό [Alpine Linux](https://www.alpinelinux.org) το οποίο είναι ένα linux distro βασισμένο στο γνωστό [Arch](https://archlinux.org) με τη διαφορά ότι δεν έχει systemd.
+
+Μετά την εγκατάσταση κατέβασα το πακέτο neofetch για να δω κάποιες λεπτομέρειες για το μηχάνημα μου.
+
+❗Το λειτουργικό τρέχει πάνω σε virtual machine.
+
+Στο παρακάτω [asciinema](https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe) φαίνεται η εκτέλεση του neofetch και τα αποτελέσματα που εμφάνισε.
+<p align="center">
+<a href="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe" target="_blank"><img src="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe.svg" width="70%" /></a>
+</p>
+
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
 
 Για το πέμπτο παραδοτέο μας ζητήθηκε να κάνουμε κάποιες προσθήκες συμμετοχικού περιεχομένου σχετικά με την τεχνολογία λογισμικού στο [forked site](https://github.com/ionioi/site) της [ομάδας μας](https://github.com/ionioi). Προσωπικά επέλεξα να προσθέσω το [kali linux](https://www.kali.org) καθώς είναι ένα linux distro το οποία έχω χρησιμοποιήσει στο παρελθόν και με έχει βοηθήσει αρκετά στο κομμάτι της κυβερνοασφάλειας με το οποίο ασχολούμαι. Ακόμη επέλεξα να προσθέσω το [devuan linux](https://www.devuan.org) το οποίο είναι ένα distro βασισμένο στο debian αλλά με τη διαφορά ότι δεν έχει systemd, πράγμα που το κάνει να αλλάζει σημαντικά.
@@ -71,9 +85,29 @@
 Σε αυτό το παραδοτέο χρησιμοποίησα pandoc και latex για να δημιουργήσω ένα pdf το οποίο θα παίρνει τα στοιχεία του [onlive-cv](https://mnlsvt.github.io/online-cv/) μου. Αυτό είναι το σχετικό [asciinema](https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk)...
 
 <p align="center">
-<a href="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk" target="_blank"><img src="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk.svg" /></a>
+<a href="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk" target="_blank"><img src="https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk.svg" width="70%" /></a>
 </p>
  
 Επίσης εφάρμοσα [continuous integration](https://github.com/Mnlsvt/online-cv/tree/master/.github/workflows) μέσω git actions έτσι ώστε να δημιουργείται καινούριο pdf κάθε φορά που γίνεται μια αλλαγή στο [onlive-cv](https://mnlsvt.github.io/online-cv/).
 
 Το τελικό pdf μπορείτε να το βρείτε [εδώ](https://github.com/Mnlsvt/online-cv/blob/master/index.pdf).
+
+
+<h1><span id="Βίντεο Κουίζ και Κουίζ Κειμένου">Βίντεο Κουίζ και Κουίζ Κειμένου</span></h1>
+
+| X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_check_mark: |
+| 4 | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
+| 6 | Alan Kay Turing Lecture with dynamic content | :x: | :x: |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_check_mark: | :heavy_check_mark: |
+| 8 | Alan Kay - Programming and Scaling | :x: | :x: |
+| 9 | Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_check_mark: |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: | :heavy_check_mark: |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :heavy_check_mark: |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :x: | :x: |
+| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :x: | :x: |
