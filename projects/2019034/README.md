@@ -6,6 +6,8 @@
 <br>**Προσωπικό προφίλ:** [u2nmd](https://github.com/u2nmd)
 <br>**Προφίλ ομάδας:** [OompaLoompas](https://github.com/OompaLoompas)
 <br>**Ιδιότητα/ρόλος στην ομάδα:** Admin/Owner/Reviewer
+<br>**Προφίλ Edpuzzle:** 2019034
+<br>**Προφίλ Actively Learn:** p19toun@ionio.gr
 <br><br>
 
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
@@ -23,7 +25,7 @@
 | 11 |<li><a href="#Άσκηση γραμμής εντολών software 2"><span class="toctext"></span>Άσκηση γραμμής εντολών software 2</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/638)|Εμπρόθεσμη παράδοση του παραδοτέου, υλοποίηση δεύτερης άσκησης software με το εργαλείο twilio που ανταποκρινόταν στους στόχους μου και μου φάνηκε χρήσιμο και σαν το επόμενο βήμα από την προηγούμενη άσκηση, λήψη κλήσης και μηνύματος στο κινητό μου από twilio μέσω python scripts, χρήση asciinema, cmd name με αριθμό μητρώου και φωτογραφίες αποτελεσμάτων. Δεν έγινε χρήση shell scripting και pipeline. 10/10.|
 | 12 |<li><a href="#Τελική Αναφορά και Συμπεράσματα"><span class="toctext"></span>Τελική Αναφορά και Συμπεράσματα</a>|[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/help/discussions/650)|Εμπρόθεσμη παράδοση του παραδοτέου, έγραψα τα συμπεράσματά μου από το μάθημα και μίλησα για την συνεισφορά που είχε στην μέχρι στιγμής πρόοδό μου ως προγραμματιστής, έλεγξα όλη την αναφορά για τυχόν λάθη ή ελλείψεις και ενημέρωση αυτοαξιολόγησης σύμφωνα με τις οδηγίες, 10/10.|
 | # |<li><a href="#Ομαδικότητα και Συνεργασία"><span class="toctext"></span>Ομαδικότητα και Συνεργασία</a>| |Βοήθησα όσο μπόρεσα τους συμφοιτητές μου και συνεργάτες από την ομάδα με απορίες που είχαν και προβλήματα που αντιμετώπισαν τόσο εντός πλατφόρμας όσο και στις εβδομαδιαίες συναντήσεις και εργαστήρια, 10/10.|
-| # |<li><a href="#Βίντεο Κουίζ"><span class="toctext"></span>Βίντεο Κουίζ</a>| | Ολόκληρώθηκαν και τα δώδεκα βίντεο κουίζ εμπρόθεσμα, παρακολουθήθηκαν πλήρως και απαντήθηκαν κατά το 99% στις ερωτήσεις τους, προφίλ: p19toun, 10/10.|
+| # |<li><a href="#Βίντεο Κουίζ και Κουίζ Κειμένου"><span class="toctext"></span>Βίντεο Κουίζ και Κουίζ Κειμένου</a>| | Ολόκληρώθηκαν και τα δώδεκα βίντεο κουίζ εμπρόθεσμα, παρακολουθήθηκαν πλήρως και απαντήθηκαν κατά το 99% στις ερωτήσεις τους, προφίλ edpuzzle: 2019034. Ολοκληρώθηκαν και τα δύο κουίζ κειμένου εμπρόθεσμα, απαντήθηκαν όλες οι ερωτήσεις τους, προφίλ actively: p19toun@ionio.gr, 10/10.|
 
 <br><br>
 <h1><span id="Εισαγωγή">(1) Εισαγωγή</span></h1>
@@ -460,9 +462,10 @@
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
 | 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου και σχολίασα [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) και [pull requests](https://github.com/OompaLoompas/site/pulls?q=is%3Apr+is%3Aclosed) που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα|
+| 14 | [Εργαλείο για έλεγχο ορθογραφίας και συντακτικού στην τελική αναφορά](https://github.com/courses-ionio/help/discussions/711) |
 
 <br><br>
-<h1><span id="Βίντεο Κουίζ">Βίντεο Κουίζ</span></h1>
+<h1><span id="Βίντεο Κουίζ και Κουίζ Κειμένου">Βίντεο Κουίζ και Κουίζ Κειμένου</span></h1>
 
 | # | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
@@ -478,3 +481,5 @@
 | 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: | :heavy_check_mark: |
 | 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :heavy_check_mark: |
 | 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark: | :heavy_check_mark: |
+| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
