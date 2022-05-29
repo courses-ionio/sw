@@ -120,6 +120,14 @@ Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [githu
 Slide: [pibook](https://p19kala-pibook.netlify.app/slides/service-managers/), [github](https://github.com/p19kala/site/blob/livedemo/_slides/service-managers.md) <br>
 Timeline: [pibook](https://p19kala-pibook.netlify.app/timeline/os-apps/), [github](https://github.com/p19kala/site/blob/livedemo/_timeline/os-apps.md)
 
+### Συμμετοχικο 2
+Για το συμμετοχικό 2 έκανα βιογραφία πάνω στον Ken Thompson, συνιδρυτή του λειτουργικού Unix. Συγκεκριμένα ανέφερα την αρχική ζωή του, πώς κατέληξε να δουλεύει στην Bell Labs και λίγα λόγια για το πως δημιουργηθηκε το Unix.
+Live demo: https://p19kala-pibook.netlify.app/biography/ken-thompson/ <br>
+Φακελος [\_includes](https://github.com/p19kala/site/blob/livedemo/_includes/bio-ken.md) <br>
+Σύντομο κείμενο [βιογραφίας](https://github.com/p19kala/site/blob/livedemo/_biography/ken-thompson.md) <br>
+Εικόνες: [full](https://github.com/p19kala/images/blob/14f9e65b26448c4d446fda4739a7906393cb8cc7/ken-profile.png), [thumb](https://github.com/p19kala/images/blob/14f9e65b26448c4d446fda4739a7906393cb8cc7/ken-profile-thumb.png)
+<br>
+
 ## Ασκηση Γραμμης Εντολων 4
 Προσπαθησα να κανω το twilio, αλλα ηθελε τον αριθμο τηλεφωνου μου και το αφησα. Ο στοχος μου ηταν να δοκιμασω το twilio ως εναλλακτικη στο κινητο μου για κλησεις.
 
