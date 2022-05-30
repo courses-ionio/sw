@@ -6,6 +6,7 @@
 * ### Αριθμός Μητρώου: Π2019215
 * ### GitHub Profile: [p19ntar](https://github.com/p19ntar)
 * ### Edpuzzle Profile: Dimitrios Ntarlagiannis 2019215
+* ### Actively Profile: Ntarlagiannis Dimitrios 2019215
 
 <br />
 
@@ -162,3 +163,18 @@
 | --- | --- |
 | 1 | https://github.com/ionioi/members/discussions/3 |
 | 2 | https://github.com/ionioi/members/discussions/4 |
+
+| | Βίντεο Quiz | Ολοκληρώθηκε |
+| --- | --- | ---|
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | Εμπρόθεσμα |
+| 2 | Ted Nelson -- Computers for Cynics full version | Εμπρόθεσμα |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | Εμπρόθεσμα |
+| 4 | Bret Victor - The Future of Programming | Εμπρόθεσμα |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | Εμπρόθεσμα |
+| 6 |Alan Kay Turing Lecture with dynamic content | Εμπρόθεσμα |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | Εμπρόθεσμα |
+| 8 | Alan Kay - Programming and Scaling | Εμπρόθεσμα |
+| 9 | Extracting Energy from the Turing Tarpit | Εμπρόθεσμα |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | Εμπρόθεσμα |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | Εμπρόθεσμα |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | Εκπρόθεσμα |
