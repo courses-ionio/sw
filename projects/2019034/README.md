@@ -461,7 +461,7 @@
 | 10 | [Σχόλιο σε pull request](https://github.com/ioniodi/sitegr/pull/337) |
 | 11 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/14) |
 | 12 | [Σχόλιο σε pull request](https://github.com/ioniodi/all_collections/pull/28) |
-| 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου και σχολίασα [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) και [pull requests](https://github.com/OompaLoompas/site/pulls?q=is%3Apr+is%3Aclosed) που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα|
+| 13 | Διόρθωσα και βοήθησα μέλη της ομάδας μου σε [issues](https://github.com/OompaLoompas/site/issues?q=is%3Aissue+is%3Aclosed) και [pull requests](https://github.com/OompaLoompas/site/pulls?q=is%3Apr+is%3Aclosed) που πραγματοποίησαν στο συμμετοχικό περιεχόμενο όντας reviewer σε όλα (μπορείτε να τα ελέγξετε ένα-ένα και να εντοπίσετε τα σχόλια μου τα οποία δεν θα βάλω σε αυτόν τον πίνακα γιατί είναι πολλά)|
 | 14 | [Εργαλείο για έλεγχο ορθογραφίας και συντακτικού στην τελική αναφορά](https://github.com/courses-ionio/help/discussions/711) |
 | 15 | [Ενημέρωση μελών ομάδας για συνάντηση 1](https://github.com/OompaLoompas/help/discussions/5) |
 | 16 | [Ενημέρωση μελών ομάδας για συνάντηση 2](https://github.com/OompaLoompas/help/discussions/11) |
