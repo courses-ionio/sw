@@ -253,10 +253,10 @@ To pdf
 
 ### Σχολιασμός 
 
-https://github.com/ioniodi/sitegr/issues/404
+ :arrow_forward: https://github.com/ioniodi/sitegr/issues/404
 
-https://github.com/ioniodi/sitegr/issues/257
+:arrow_forward: https://github.com/ioniodi/sitegr/issues/257
 
-https://github.com/courses-ionio/sw/pull/1094
+:arrow_forward: https://github.com/courses-ionio/sw/pull/1094
 
-https://github.com/courses-ionio/sw/pull/1088
+:arrow_forward: https://github.com/courses-ionio/sw/pull/1088
