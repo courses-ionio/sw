@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/108) | |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#2-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/233) | Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Αλλαγή του υπεύθυνου καθηγητή της πρακτικής άσκησης από τον κ.Ανδρόνικο στον κ.Νταντογιάν |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/709) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
@@ -67,6 +67,18 @@
 <a href="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe" target="_blank"><img src="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe.svg" width="70%" /></a>
 </p>
 
+
+
+**Warmup Ασκήσεις**
+
+Χρησιμοποίησα το εργαλείο *curl* και την εντολή [`curl wttr.in`](https://github.com/chubin/wttr.in) για να ελέγξω την εβδομαδιαία πρόγνωση του καιρού στην Κέρκυρα καθώς και την εντολή [`curl wttr.in/London`](https://github.com/chubin/wttr.in) για να ελέγξω και για το Λονδίνο.
+
+Παρακάτω φαίνεται και το σχετικό [Asciinema](https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge)
+<p align="center">
+<a href="https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge" target="_blank"><img src="https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge.svg" width="70%" /></a>
+</p>
+
+
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
 
 Για το πέμπτο παραδοτέο μας ζητήθηκε να κάνουμε κάποιες προσθήκες συμμετοχικού περιεχομένου σχετικά με την τεχνολογία λογισμικού στο [forked site](https://github.com/ionioi/site) της [ομάδας μας](https://github.com/ionioi). Προσωπικά επέλεξα να προσθέσω το [kali linux](https://www.kali.org) καθώς είναι ένα linux distro το οποία έχω χρησιμοποιήσει στο παρελθόν και με έχει βοηθήσει αρκετά στο κομμάτι της κυβερνοασφάλειας με το οποίο ασχολούμαι. Ακόμη επέλεξα να προσθέσω το [devuan linux](https://www.devuan.org) το οποίο είναι ένα distro βασισμένο στο debian αλλά με τη διαφορά ότι δεν έχει systemd, πράγμα που το κάνει να αλλάζει σημαντικά.
@@ -93,7 +105,7 @@
 Το τελικό pdf μπορείτε να το βρείτε [εδώ](https://github.com/Mnlsvt/online-cv/blob/master/index.pdf).
 
 
-<h1><span id="Βίντεο Κουίζ και Κουίζ Κειμένου">Βίντεο Κουίζ και Κουίζ Κειμένου</span></h1>
+<h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
 | X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
