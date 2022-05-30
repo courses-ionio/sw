@@ -90,3 +90,23 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 
 # Επίλογος
 Τελειώνοντας την εργασία του εξαμήνου, οι γνώσεις και οι απόψεις μου για τα λογισμικά έχουν αλλάξει σε μεγάλο βαθμό. Αρχικά, μέσω τον βίντεο κουίζ και την εγκατάσταση καινούγιων λογισμικών κατάλαβα ότι τα πιο δημοφιλείς λογισμικά περιορίζουν τον χρήστη σε μια τεράστια κλίμακα ενάντια κάποιων Linux distributions. Γι'αυτό τον λόγο αποφάσισα να σταματησώ να χρησιμοποιώ τα Windows και να χρησιμοποιώ Ubuntu για αρχή μέχρι να βρω ένα distribution που να ταιρίαζει στις ανάγκες μου. Τέλος όσο αναφορά τις ομάδες, κατάλαβα πόσο σημαντικό είναι το κάθε μέλος να έχει έναν ρόλο μέσα σε αυτή και να κατανοεί τους κανόνες που έχουν τεθεί.
+
+
+# Βίντεο Κουίζ και Κουίζ Κειμένου
+
+|  | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_check_mark: |
+| 4 | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
+| 6 | Alan Kay Turing Lecture with dynamic content | :x: | :x: |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_check_mark: | :heavy_check_mark: |
+| 8 | Alan Kay - Programming and Scaling |:heavy_check_mark: | :heavy_check_mark: |
+| 9 | Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_check_mark: |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: | :heavy_check_mark: |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :heavy_check_mark: |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark:  | :heavy_check_mark: |
+| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
