@@ -53,8 +53,9 @@
 - [Asciinema Link](https://asciinema.org/a/NgOunuHmIqRO5VyQ9waUeTMLM)
   
 # Παραδοτέο 7: Βιογραφικό
-Αντιμετώπισα δυσκολίες στην εγκατάσταση απαραίτητων πακέτων για να καταφέρω να τρέξω το pandoc και το latex. Τελικά, το πρόβλημα ήταν ότι το αρχείο pdf υποστηρίζει αγγλική γλώσσα, ενώ εγώ το είχα στα ελληνικά. Τα τελικά αποτελέσματα φαίνονται παρακάτω:
-- [Βιογραφικό σε PDF](https://github.com/Vasdekis/online-cv/blob/master/cv.pdf)
+Αντιμετώπισα δυσκολίες στην εγκατάσταση απαραίτητων πακέτων για να καταφέρω να τρέξω το pandoc και το latex. Τελικά, το πρόβλημα ήταν ότι το αρχείο pdf υποστηρίζει αγγλική γλώσσα, ενώ εγώ το είχα στα ελληνικά.  Επίσης, εφάρμοσα [continuous integration](https://github.com/Vasdekis/online-cv/tree/master/.github/workflows) ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://github.com/Vasdekis/online-cv). Τα τελικά αποτελέσματα φαίνονται παρακάτω:
+- [Βιογραφικό σε PDF χωρίς CI](https://github.com/Vasdekis/online-cv/blob/master/cv.pdf)
+- [Βιογραφικό σε PDF με CI](https://github.com/Vasdekis/online-cv/blob/master/index.pdf)
 - [Asciinema Link](https://asciinema.org/a/6DF5bzeFoRdlSDgE2azn54M8Z)
 
 # Παραδοτέο 8: Αίτημα ενσωμάτωσης στην ιστοσελίδα
