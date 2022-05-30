@@ -159,7 +159,7 @@ To [link asciinema](https://asciinema.org/a/496403)
 
 
 ## ΒΗΜΑΤΑ 
-◉ Έναρξη εγγραφής τερματικού ``python3 -m asciinema rec -i ``
+◉ Έναρξη εγγραφής τερματικού ``python3 -m asciinema rec ``
 
 ◉ Fork προσωπικού αποθετηρίου βιογραφικού ``git clone https://github.com/vivikara/online-cv.git``
 
