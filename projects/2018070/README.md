@@ -76,3 +76,8 @@
 # Video Quiz
 - Edpuzzle: p18ilio
 - Βίντεο που ολοκληρώθηκαν: 11/12
+
+# Συνεργασία - Ομαδικότητα
+- [1η Προσθήκη σχολίου](https://github.com/ioniodi/sitegr/issues/289)
+- [2η Προσθήκη σχολίου](https://github.com/ioniodi/sitegr/issues/333)
+
