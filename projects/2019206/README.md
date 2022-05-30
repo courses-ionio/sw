@@ -70,9 +70,17 @@
 
 **Warmup Ασκήσεις**
 
-Για την παραπάνω άσκηση χρησιμοποίησα το εργαλείο *curl* και την εντολή [`curl wttr.in`](https://github.com/chubin/wttr.in) για να ελέγξω την εβδομαδιαία πρόγνωση του καιρού στην Κέρκυρα καθώς και την εντολή [`curl wttr.in/London`](https://github.com/chubin/wttr.in) για να ελέγξω, για το Λονδίνο και τη Ρώμη.
+- 1 Για την παραπάνω άσκηση χρησιμοποίησα το εργαλείο *curl* και την εντολή [`curl wttr.in`](https://github.com/chubin/wttr.in) για να ελέγξω την εβδομαδιαία πρόγνωση του καιρού στην Κέρκυρα καθώς και την εντολή [`curl wttr.in/London`](https://github.com/chubin/wttr.in) για να ελέγξω, για το Λονδίνο και τη Ρώμη.
 
+- 2 Επίσης χρησιμοποίησα το εργαλείο [`task`]() για να προσθέσω μερικά tasks σε μια to-do-list.
+Για την άσκηση αυτή χρησιμοποίησα και πάλι το εργαλείο *curl* και τις παρακάτω εντολες:
 
+`task add Buy milk` `task add Buy batteries` `task 1 done`
+
+Το σχετικό [Asciinema](https://asciinema.org/a/VCjkpVjFpTrGWiEX2KwwGkroS) :arrow_down:
+<p align="center">
+<a href="https://asciinema.org/a/VCjkpVjFpTrGWiEX2KwwGkroS" target="_blank"><img src="https://asciinema.org/a/VCjkpVjFpTrGWiEX2KwwGkroS.svg" width="70%" /></a>
+</p>
 
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
 
