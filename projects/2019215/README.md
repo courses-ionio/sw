@@ -153,11 +153,12 @@
 
 | | Σχόλια |
 | --- | --- |
-| 1 | https://github.com/courses-ionio/help/discussions/147 |
-| 2 | https://github.com/courses-ionio/help/discussions/139 |
-| 3 | https://github.com/courses-ionio/help/discussions/120 |
+| 1 | [https://github.com/courses-ionio/help/discussions/147](https://github.com/courses-ionio/help/discussions/147#discussioncomment-2251703) |
+| 2 | [https://github.com/courses-ionio/help/discussions/139](https://github.com/courses-ionio/help/discussions/139#discussioncomment-2251761) |
+| 3 | [https://github.com/courses-ionio/help/discussions/120](https://github.com/courses-ionio/help/discussions/120#discussioncomment-2251814) |
 | 4 | https://github.com/courses-ionio/help/discussions/268 |
-| 5 | https://github.com/courses-ionio/help/discussions/413 |
+| 5 | [https://github.com/courses-ionio/help/discussions/413](https://github.com/courses-ionio/help/discussions/413#discussioncomment-2382471) |
+| 6 | https://github.com/courses-ionio/sw/pull/1086#issuecomment-1141224732 |
 
 | | Οδηγίες στη ομάδα |
 | --- | --- |
