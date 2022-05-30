@@ -2,15 +2,17 @@
 
 
 
-## ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΓΙΩΡΓΟΣ - ΦΙΛΙΠΠΟΣ ΜΠΙΖΑΚΗΣ
-## ΑΡΙΘΜΟΣ ΜΗΤΡΩΟΥ: Π2019135 
-## EDPUZZLE ACCOUNT: p19biza P2019135
+### ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΓΙΩΡΓΟΣ - ΦΙΛΙΠΠΟΣ ΜΠΙΖΑΚΗΣ
+### ΑΡΙΘΜΟΣ ΜΗΤΡΩΟΥ: Π2019135 
+### EDPUZZLE ACCOUNT: USERNAME: 2019135
+### ACTIVELY LEARN: 
+### ΟΜΑΔΑ: [ionioi](https://github.com/ionioi)
 
 
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/help/discussions/59) |Όλα τα ζητούμενα ολοκληρώθηκαν στην ώρα τους|
+| 1 | [Εισαγωγή](#παραδοτεο-1)|[Discussions](https://github.com/courses-ionio/help/discussions/59) |Όλα τα ζητούμενα ολοκληρώθηκαν στην ώρα τους|
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτεο-2) |[Discussions](https://github.com/courses-ionio/help/discussions/182) | 	Γι'αυτό το παραδοτέο, έχει γίνει η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring.
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτεο-3) |[Discussions](https://github.com/courses-ionio/help/discussions/493) | Σ'αυτό το παραδοτέο, έκανα το αίτημα ενσωμάτωσης για το οποίο προσέθεσα μια μικρή αλλαγή στην ιστοσελίδα.   |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4) | [Discussions](https://github.com/courses-ionio/help/discussions/381)|Σε αυτό το παραδοτέο, έγινε η εγκατάσταση του FreeBSD λογισμικού. |
@@ -22,6 +24,7 @@
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | [Τελική αναφορά*](#παραδοτεο-12) | [Discussions](https://github.com/courses-ionio/help/discussions/668) | Έγραψα τα συμπεράσματά μου από το μάθημα και μίλησα για τις γνώσεις που μου προσέφερε |
+| 13 | [Βίντεο κουίζ και κουίζ κειμένου](βιντεο-κουιζ-και-κουιζ-κειμενου) |
 
 
 
@@ -123,3 +126,30 @@
 5. https://github.com/courses-ionio/help/discussions/664
 6. https://github.com/courses-ionio/sw/pull/1083
 
+
+# Βίντεο κουίζ και κουίζ κειμένου
+
+### Edpuzzle (βίντεο κουίζ)
+
+|  | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| 1. | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_check_mark: |
+| 2. | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
+| 3. | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_check_mark: |
+| 4. | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
+| 5.| Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
+| 6.| Alan Kay Turing Lecture with dynamic content | :heavy_check_mark: | :heavy_check_mark: |
+| 7.| Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_check_mark: | :x:|
+| 8.| Alan Kay - Programming and Scaling | :heavy_check_mark: | :heavy_check_mark: |
+| 9.| Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_check_mark: |
+| 10.| Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: | :heavy_check_mark: |
+| 11.| From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :x: |
+| 12.| VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark: | :heavy_check_mark: |
+
+
+### Actively Learn (κουίζ κειμένου)
+
+|  | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| 1.| Εργαλεία και Τεχνικές (Κουίζ Κειμένου) |  |  |
+| 2.| Τεχνολογία (Κουίζ Κειμένου) |  |  |
