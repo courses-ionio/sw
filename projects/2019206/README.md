@@ -62,21 +62,16 @@
 
 ❗Το λειτουργικό τρέχει πάνω σε virtual machine.
 
-Στο παρακάτω [asciinema](https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe) φαίνεται η εκτέλεση του neofetch και τα αποτελέσματα που εμφάνισε.
+Στο παρακάτω [asciinema](https://asciinema.org/a/MStZYKNG9tVFldMQ2oetYZ9l9) φαίνεται η εκτέλεση του neofetch και τα αποτελέσματα που εμφάνισε καθώς και μια **warmup άσκηση** η οποία μας εμφανίζει την εβδομαδιαία πρόγνωση του καιρου.
 <p align="center">
-<a href="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe" target="_blank"><img src="https://asciinema.org/a/5IL3J1V9OTgKp85ckn7vuwiUe.svg" width="70%" /></a>
+<a href="https://asciinema.org/a/MStZYKNG9tVFldMQ2oetYZ9l9" target="_blank"><img src="https://asciinema.org/a/MStZYKNG9tVFldMQ2oetYZ9l9.svg" width="70%" /></a>
 </p>
-
 
 
 **Warmup Ασκήσεις**
 
-Χρησιμοποίησα το εργαλείο *curl* και την εντολή [`curl wttr.in`](https://github.com/chubin/wttr.in) για να ελέγξω την εβδομαδιαία πρόγνωση του καιρού στην Κέρκυρα καθώς και την εντολή [`curl wttr.in/London`](https://github.com/chubin/wttr.in) για να ελέγξω και για το Λονδίνο.
+Για την παραπάνω άσκηση χρησιμοποίησα το εργαλείο *curl* και την εντολή [`curl wttr.in`](https://github.com/chubin/wttr.in) για να ελέγξω την εβδομαδιαία πρόγνωση του καιρού στην Κέρκυρα καθώς και την εντολή [`curl wttr.in/London`](https://github.com/chubin/wttr.in) για να ελέγξω και για το Λονδίνο.
 
-Παρακάτω φαίνεται και το σχετικό [Asciinema](https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge)
-<p align="center">
-<a href="https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge" target="_blank"><img src="https://asciinema.org/a/IfxHK6YCZ9Fhqp4wLV4he4Oge.svg" width="70%" /></a>
-</p>
 
 
 # **5. Συμμετοχικό περιεχόμενο A1+A2**
