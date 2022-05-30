@@ -119,3 +119,34 @@
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
+-------------------------------------------
+  
+Η Συνεισφορά μου στις συζητήσεις
+--------------------------------------------  
+
+| Α/Α | Σχολιασμός |
+| --- | --- |
+| (1) | :arrow_forward: [3ου Παραδοτέου στα Discussions](https://github.com/courses-ionio/help/discussions/359) |
+| (2) | :arrow_forward: [Issue](https://github.com/ioniodi/sitegr/issues/392) |
+| (3) | :arrow_forward: [Pull request τελικής αναφοράς (1)](https://github.com/courses-ionio/sw/pull/1089) |
+| (4) | :arrow_forward: [Pull request τελικής αναφοράς (2)](https://github.com/courses-ionio/sw/pull/1103) |
+
+-------------------------------------------
+  
+Τα βίντεο κουίζ
+--------------------------------------------  
+
+| Α/Α | Ο τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| (1) | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | | | 
+| (2) | Ted Nelson -- Computers for Cynics [full version] | | |
+| (3) | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | | |
+| (4) | Bret Victor - The Future of Programming | | |
+| (5) | Alan Kay - Programming Languages & Programming (2013) | | |
+| (6) | Alan Kay Turing Lecture with dynamic content | | |
+| (7) | Alan Kay at FUTUREWEI workshop Dec 2019 | | |
+| (8) | Alan Kay - Programming and Scaling | | |
+| (9) | Extracting Energy from the Turing Tarpit | | |
+| (10) | Back to the Future of Software Development 4/23/2003 (VPRI 785) | | |
+| (11) | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | | |
+| (12) | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | | |
