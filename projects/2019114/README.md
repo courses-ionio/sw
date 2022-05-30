@@ -9,9 +9,9 @@ GitHub Profile : [p19papa4](https://github.com/p19papa4)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link discussions](https://github.com/courses-ionio/help/discussions/156) | |
-| 2 | [βιογραφικό και δημιουργία ομάδας](#Βιογραφικό-και-ομάδα) |[link discussions](https://github.com/courses-ionio/help/discussions/220) | |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |[link discussions](https://github.com/courses-ionio/help/discussions/542) ||
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link discussions](https://github.com/courses-ionio/help/discussions/156) |Εμπρόθεσμο παραδοτέο/fork αποθετηρίου του μαθήματος/ αρχική εισαγωγή με προσδοκίες και στόχους 10/10. |
+| 2 | [βιογραφικό και δημιουργία ομάδας](#Βιογραφικό-και-ομάδα) |[link discussions](https://github.com/courses-ionio/help/discussions/220) |Εμπρόθεσσμο παραδοτέο/ δημιουργία βιογραφικού με βάση template που επεξεργάστηκα και εισήγαγα τα στοιχεία μου/ οργάνωση ομάδας, δημιουργία webring, προσθήκη βιογραφικού στο webring 10/10. |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#Αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) |[link discussions](https://github.com/courses-ionio/help/discussions/542) |Εμπρόθεσμo παραδοτέο/ δημιουργία issue/ υλοποίησή ενός easy θέματος/ έπειτα από green light επεξεργασία των αντίστοιχων αρχείων/ pull request 10/10.|
 | 4 | [Άσκηση γραμμής εντολών](#Εγκατάσταση-λογισμικού ) |[link discussions](https://github.com/courses-ionio/help/discussions/380) ||
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#Συμμετοχικό-περιεχόμενο-Α1-και-Α2) |[link discussions](https://github.com/courses-ionio/help/discussions/497) | |
 | 6 | [Άσκηση γραμμής εντολών](#Εγκατάσταση-λογισμικού ) | [link discussions](https://github.com/courses-ionio/help/discussions/704) | |
@@ -72,6 +72,14 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 
 Για το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [pdf](https://github.com/p19papa4/online-cv/blob/gh-pages/pdf/cv.pdf), το οποίο μπορείτε να δείτε σε αυτό το [asciinema](https://asciinema.org/a/497102). Για να γίνει το CI χρησιμοποίησα GitHub Actions με το οποίο όποτε κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf [GitHub Actions](https://github.com/p19papa4/online-cv/blob/gh-pages/.github/workflows/pdf.yml)
 
+# 9ο Παραδοτέο Άσκηση γραμμής εντολών
+Για την πρώτη άσκηση γραμμής εντολών αποφάσισα να κάνω το Hyperfine το οποίο επέλεξα διότι είναι ένα εύκολο εργαλείο που μπόρει να χρισημοποιθεί για να ελέγξει την ταχύτητα οποιασδήποτε εντολής ή και προγράμματος. Κυριώς χρησιμοποίησα το Hyperfine για να ελέγξω τις ταχύτητες των εντολών στα συστήματα που έχω εγκαταστήσει εώς τώρα.
+
+Στο [Asciinema](https://asciinema.org/a/497446) μπορείται να δείτε το ελέχγο που έκανα στο σύστημα Alpine για το ποια απο τις εντολές ls, exa και ls -a είναι πιο γρήγορη.
+
+
+<a href="https://asciinema.org/a/497446" target="_blank"><img src="https://asciinema.org/a/497446.svg" /></a>
+
 # 10ο Παραδοτέο Συμμετοχικό περιεχόμενο Β1 και Β2 
 Για το δεύτερο μέρος του συμμετοχικού περιεχομένου αποφάσισα να προσθέσω το βιογραφικό του Gabe Newell που είναι ιδρυτή της Valve και συσχετίζεται με τον λειτουργικό σύστημα SteamOS που έγραψα για το πρώτο μέρος του συμμετοχικού περιεχομένου. Για την μελέτη περίπτωσης αποφάσισα να προσθέσω το Debian στο οποίο βασίζεται το SteamOS
 όπως και άλλα πολλά λειτουργικά συστήματα
@@ -83,14 +91,6 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 
 
 Το αντίστοιχο [Pull Request](
-
-# 11ο Παραδοτέο Άσκηση γραμμής εντολών
-Για την πρώτη άσκηση γραμμής εντολών αποφάσισα να κάνω το Hyperfine το οποίο επέλεξα διότι είναι ένα εύκολο εργαλείο που μπόρει να χρισημοποιθεί για να ελέγξει την ταχύτητα οποιασδήποτε εντολής ή και προγράμματος. Κυριώς χρησιμοποίησα το Hyperfine για να ελέγξω τις ταχύτητες των εντολών στα συστήματα που έχω εγκαταστήσει εώς τώρα.
-
-Στο [Asciinema](https://asciinema.org/a/497446) μπορείται να δείτε το ελέχγο που έκανα στο σύστημα Alpine για το ποια απο τις εντολές ls, exa και ls -a είναι πιο γρήγορη.
-
-<a href="https://asciinema.org/a/497446" target="_blank"><img src="https://asciinema.org/a/497446.svg" /></a>
-
 
 
 # 12ο Παραδοτέο Τελική αναφορά
