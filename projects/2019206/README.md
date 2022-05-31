@@ -15,7 +15,7 @@
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2) | | |
 | 11 | [Άσκηση γραμμής εντολών](#11-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 12 | Τελική αναφορά* | | |
 |    | [Βίντεο Κουίζ](#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85) | | |
@@ -90,8 +90,16 @@
 Αυτές είναι οι οι εικόνες τις προσθήκης μου:
 
 <p align="center">
- <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/> | <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" width="300"/>
+ <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/> | <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" height="170" width="300"/>
 </p>
+
+| Οι προσθήκες μου | Οι αλλαγές στο site | 
+| -- | -- |
+| Kali linux | [Χρονολόγιο](https://ionioi-site.netlify.app/timeline/os-apps/) |
+| Devuan Linux | [Διαφάνειες](https://ionioi-site.netlify.app/slides/os/) |
+
+❗ Πριν τα προωθήσω τις αλλαγές μου στην ομάδα μου, δημιούργησα ένα [Netlify Demo](https://fastidious-trifle-09d72a.netlify.app) στο οποίο έκανα τους απαραίτητους ελέγχους.
+
 
 Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
 
@@ -139,6 +147,24 @@
 
 ❗Και πάλι το λειτουργικό τρέχει πάνω σε virtual machine.
 
+# **10. συμμετοχικό περιεχόμενο B1+B2**
+
+Σε αυτό το παραδοτέο η πρώτη προσθήκη μου ήταν η βιογραφία του δημιουργού του [Kali Linux](https://www.kali.org) και συνιδρυτή της [Offensive Security](https://www.offensive-security.com) (της εταιρίας που έφερε το [kali](https://www.kali.org)), `Mati Aharoni`, ενώ η δεύτερη ήταν μια μελέτη περίπτωσης για το `ethical hacking`.
+
+Αποφάσισα να κάνω αυτές τις προσθήκες επειδή χρησιμοποιώ [kali linux](https://www.kali.org) και με ενδιαφέρει ιδιαίτερα το ethical hacking και το penetration testing σαν επαγγελματικός προσανατολισμός.
+
+<p align="center">
+ <img src="https://github.com/Mnlsvt/images/blob/master/mati-ah.jpg?raw=true" height="305px" width="300"/> | <img src="https://github.com/Mnlsvt/images/blob/master/hackerman.png?raw=true" width="300"/>
+</p>
+
+
+| Οι προσθήκες μου | Οι αλλαγές στο site | 
+| -- | -- |
+| Mati Aharoni | [Βιογραφία](https://ionioi-site.netlify.app/biography/mati-aharoni/) |
+| Ethical Hacking | [Μελέτη περίπτωσης](https://ionioi-site.netlify.app/case-study/ethicalhacking/) |
+
+
+
 # **11. Άσκηση γραμμής εντολών**
 
 Για αυτό το παραδοτέο εγκατέστησα το εργαλείο [ntfy](https://github.com/dschep/ntfy) πάνω στο [Void linux](https://voidlinux.org) που είχα εγκαταστήσει στο [9ο παραδοτέο](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD). Στη συνέχεια χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy) για να στείλω μια ειδοποίηση στον προσωπικό μου λογαριασμό στο [Telegram](https://telegram.org).
@@ -154,7 +180,6 @@
 <p align="center">
 <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/ezgif-5-dff2e4def5.gif?raw=true" width="25%" />
 </p>
-
 
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
