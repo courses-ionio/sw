@@ -22,9 +22,9 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) |[Discussions](https://github.com/courses-ionio/help/discussions/667) |Για την άσκηση γραμμής εντολών εγκατέστησα το hyperfine και σύγκρινα δύο python scripts που δημιούργησα.|
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | | |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | | |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) |[Discussions](https://github.com/courses-ionio/help/discussions/713) |Με τη βοήθεια του εργαλείου twilio, πραγματοποίησα κλήση και αποστολή μηνύματος στο κινητό μου τηλέφωνο με python scripts. Μου φάνηκε χρήσιμο σαν εργαλείο και κατά κάποιο τρόπο ήταν πιο απαιτητική της προηγούμενης άσκησης γραμμής εντολών που έκανα. Έγινε χρήση asciinema και υπάρχουν αντίστοιχες φωτογραφίες για την κλήση και τα μηνύματα |
 | 12 | [Τελική αναφορά*](#παραδοτεο-12) | [Discussions](https://github.com/courses-ionio/help/discussions/668) | Έγραψα τα συμπεράσματά μου από το μάθημα και μίλησα για τις γνώσεις που μου προσέφερε |
-| 13 | [Βίντεο κουίζ και κουίζ κειμένου](βιντεο-κουιζ-και-κουιζ-κειμενου) |
+|  | [Βίντεο κουίζ και κουίζ κειμένου](βιντεο-κουιζ-και-κουιζ-κειμενου) |
 
 
 
@@ -45,11 +45,11 @@
 
 Παρακάτω υπάρχουν τα αντίστοιχα links για το βιογραφικό, την ομάδα και το Webring:
 
-**[CV](https://p19biza.github.io/online-cv/)** 
+- **[CV](https://p19biza.github.io/online-cv/)** 
 
-**[ομάδα](https://github.com/ionioi)** 
+- **[ομάδα](https://github.com/ionioi)** 
 
-**[Webring](https://ionioi.netlify.app/)** 
+- **[Webring](https://ionioi.netlify.app/)** 
 
 # ΠΑΡΑΔΟΤΕΟ 3
 
@@ -96,8 +96,12 @@
 
 **Το cv μου σε pdf μορφή**:
 
-![my-cv-pdf1](https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf1.png) 
-![my-cv-pdf2](https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf2.png)
+<p align="center">
+<a href="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf1.png" target="_blank"><img width="70%" height="80%" src="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf1.png" /></a>
+</p> 
+<p align="center">
+<a href="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf2.png" target="_blank"><img width="70%" height="80%" src="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/my-cv-pdf2.png" /></a>
+</p> 
 
 Στη συνέχεια χρησιμοποίησα το Github Actions, με σκοπό την αυτόματη ανανέωση του βιογραφικού μου (continuous integration), όποτε κάνω αλλαγές. 
 
@@ -149,13 +153,15 @@
  
 ## Συμμετοχικότητα & Ομαδικότητα
 
-1. https://github.com/courses-ionio/help/discussions/148
-2. https://github.com/courses-ionio/help/discussions/151
-3. https://github.com/courses-ionio/help/discussions/261
-4. https://github.com/ionioi/members/discussions/4#discussioncomment-2784697
-5. https://github.com/courses-ionio/help/discussions/664
-6. https://github.com/courses-ionio/sw/pull/1083
-7. https://github.com/courses-ionio/sw/pull/1098
+|  | Σχόλια σε συμφοιτητές μου |
+| ---| --- |
+|1.| https://github.com/courses-ionio/help/discussions/148
+|2.| https://github.com/courses-ionio/help/discussions/151
+|3.| https://github.com/courses-ionio/help/discussions/261
+|4.| https://github.com/ionioi/members/discussions/4#discussioncomment-2784697
+|5.| https://github.com/courses-ionio/help/discussions/664
+|6.| https://github.com/courses-ionio/sw/pull/1083
+|7.| https://github.com/courses-ionio/sw/pull/1098
 
 
 # Βίντεο κουίζ και κουίζ κειμένου
