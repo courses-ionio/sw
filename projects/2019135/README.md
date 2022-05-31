@@ -22,7 +22,7 @@
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9) |[Discussions](https://github.com/courses-ionio/help/discussions/667) |Για την άσκηση γραμμής εντολών εγκατέστησα το hyperfine και σύγκρινα δύο python scripts που δημιούργησα.|
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτεο-10) | | |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11) | | |
 | 12 | [Τελική αναφορά*](#παραδοτεο-12) | [Discussions](https://github.com/courses-ionio/help/discussions/668) | Έγραψα τα συμπεράσματά μου από το μάθημα και μίλησα για τις γνώσεις που μου προσέφερε |
 | 13 | [Βίντεο κουίζ και κουίζ κειμένου](βιντεο-κουιζ-και-κουιζ-κειμενου) |
 
@@ -106,15 +106,40 @@
 
 # ΠΑΡΑΔΟΤΕΟ 9 
 
-## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
-
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - HYPERFINE
 Για την άσκηση γραμμής εντολών αποφάσισα να εγκαταστήσω το Hyperfine. Το hyperfine είναι ένα benchmarking tool, το οποίο χρησιμοποίησα για συγκρίνω δύο python scripts που δημιούργησα. Η εγκατάσταση του μου φάνηκε αρκετά εύκολη και δεν δημιουργήθηκε κάποιο πρόβλημα. Η εντολή που χρησιμοποίησα για την εγκατάσταση του είναι `apk add hyperfine`: https://asciinema.org/a/VoLBGkm7SRtP6cmkJbc5rDz6m
 
 <a href="https://asciinema.org/a/VoLBGkm7SRtP6cmkJbc5rDz6m" target="_blank"><img src="https://asciinema.org/a/VoLBGkm7SRtP6cmkJbc5rDz6m.svg" /></a>
 
+
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 + Α2
+
+# ΠΑΡΑΔΟΤΕΟ 11
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - TWILIO
+
+Για το 11ο παραδοτέο, υλοποίησα μια απο τις ασκήσεις απο τη κατηγορία του software και συγκεκριμένα το εργαλείο [twilio-python](https://github.com/twilio/twilio-python). Μου φάνηκε ενδιαφέρον διότι χρησιμοποιεί python scripts για να πραγματοποιήσει κλήση και αποστολή μηνύματος στο κινητό τηλέφωνο.
+
+Αρχικά, έπρεπε να δημιουργήσω λογαριασμό στο [Twilio](https://www.twilio.com/) και να συνδέσω σ'αυτόν τον αριθμό του τηλεφώνου μου. Στη συνέχεια, μου δόθηκε ένας αριθμός Twilio ο οποίος θα ήταν ο αριθμός που θα έκανε την κλήση και θα έστελνε μήνυμα στον αριθμό που δήλωσα στην αρχή. Το account_sid και auth_token μου ήταν χρήσιμα για την δημιουργία και των δύο python scripts, ένα για κλήση και ένα για μήνυμα. Η εγκατάσταση του Twilio έγινε με την εντολή `pip install twilio`, σε Alpine Linux.
+
+Στο παρακάτω asciinema υπάρχουν τα δύο python scripts και η εκτέλεση τους: https://asciinema.org/a/CW9Lp3xwlPTslioB9ouVaQdk5
+
+<a href="https://asciinema.org/a/CW9Lp3xwlPTslioB9ouVaQdk5" target="_blank"><img src="https://asciinema.org/a/CW9Lp3xwlPTslioB9ouVaQdk5.svg" /></a>
+
+**Tο αποτέλεσμα για την κλήση**:
+
+<p align="center">
+<a href="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/35A8594A-F3EE-4ED9-AF9D-9610D3BDF139" target="_blank"><img width="30%" height="60%" src="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/35A8594A-F3EE-4ED9-AF9D-9610D3BDF139.png" /></a>
+</p>
+ 
+**Το αποτέλεσμα για το μήνυμα**:
+
+<p align="center">
+<a href="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/8D6E2E6B-D72B-4C98-AA76-50CF885F284E" target="_blank"><img width="30%" height="60%" src="https://github.com/p19biza/online-cv/blob/gh-pages/assets/images/8D6E2E6B-D72B-4C98-AA76-50CF885F284E.jpeg" /></a>
+</p>
+
 
 # ΠΑΡΑΔΟΤΕΟ 12
 
