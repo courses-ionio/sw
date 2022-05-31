@@ -163,6 +163,7 @@
 | Mati Aharoni | [Βιογραφία](https://ionioi-site.netlify.app/biography/mati-aharoni/) |
 | Ethical Hacking | [Μελέτη περίπτωσης](https://ionioi-site.netlify.app/case-study/ethicalhacking/) |
 
+Το [pull request](https://github.com/ionioi/site/pull/16) με την προσθήκη του Mati Aharoni και του Ethical Hacking.
 
 
 # **11. Άσκηση γραμμής εντολών**
