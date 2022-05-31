@@ -127,9 +127,11 @@
 | Α/Α | Σχολιασμός |
 | --- | --- |
 | (1) | :arrow_forward: [3ου Παραδοτέου στα Discussions](https://github.com/courses-ionio/help/discussions/359) |
-| (2) | :arrow_forward: [Issue](https://github.com/ioniodi/sitegr/issues/392) |
-| (3) | :arrow_forward: [Pull request τελικής αναφοράς (1)](https://github.com/courses-ionio/sw/pull/1089) |
-| (4) | :arrow_forward: [Pull request τελικής αναφοράς (2)](https://github.com/courses-ionio/sw/pull/1103) |
+| (2) | :arrow_forward: [12ου Παραδοτέου στα Discussions](https://github.com/courses-ionio/help/discussions/690) |
+| (3) | :arrow_forward: [Issue](https://github.com/ioniodi/sitegr/issues/392) |
+| (4) | :arrow_forward: [Pull request](https://github.com/ioniodi/all_collections/pull/63) |
+| (5) | :arrow_forward: [Pull request τελικής αναφοράς (1)](https://github.com/courses-ionio/sw/pull/1089) |
+| (6) | :arrow_forward: [Pull request τελικής αναφοράς (2)](https://github.com/courses-ionio/sw/pull/1103) |
 
 -------------------------------------------
   
