@@ -97,7 +97,17 @@
 [images-thumb](https://github.com/vivikara/images/blob/master/commodore%20thumb.png) Τοποθέτηση φωτογραφίας πλάτους 160 pixel thumbnail.
 
 
+
+[_gallery](https://github.com/vivikara/_gallery/blob/master/puppylinux.md) Δημιουργία του αρχείου puppylinux.md
+
+[images](https://github.com/vivikara/images/blob/master/puppylinux.jpg) Τοποθέτηση φωτογραφίας στο images κανονικού μεγέθους. 
+
+[images-thumb](https://github.com/vivikara/images/blob/master/puppylinux_thumb.jpg) Τοποθέτηση φωτογραφίας πλάτους 160 pixel thumbnail.
+
+
 [demo commodore](https://p2017200.netlify.app//gallery/commodore128/)
+
+[demo puppylinux](https://p2017200.netlify.app//gallery/puppylinux/)
 
 Έπειτα με τερματικό έκανα την διαδικασία για τα submodule. 
 
