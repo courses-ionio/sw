@@ -130,21 +130,21 @@
 Το τελικό pdf μπορείτε να το βρείτε [εδώ](https://github.com/Mnlsvt/online-cv/blob/master/index.pdf).
 
 # **9. Άσκηση γραμμής εντολών**
-Σε αυτό το παραδοτέο εγκατέστησα το [Void linux](https://voidlinux.org) το οποίο είναι ένα linux distro χωρίς systemd και πάνω σε αυτό εγκατέστησα το εργαλείο [ntfy](https://github.com/dschep/ntfy). Στη συνέχεια χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy) για να στείλω μια ειδοποίηση στον προσωπικό μου λογαριασμό στο [Telegram](https://telegram.org).
+Σε αυτό το παραδοτέο εγκατέστησα το [Void linux](https://voidlinux.org) το οποίο είναι ένα ακόμη linux distro χωρίς systemd. Έκανα αυτή την αλλαγή διότι οι αντιμετώπισα μερικές δυσκολίες με τις ασκήσεις γραμμής εντολών πάνω στο [alpine](https://www.alpinelinux.org) του [4ου παραδοτέου](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD).
 
-Παρακάτω φαίνεται το σχετικό [asciinema](https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75) με το [void](https://voidlinux.org) καθώς και το [asciinema](https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y) με το [ntfy](https://github.com/dschep/ntfy)⬇️
-
-<p align="center">
- Void
-</p>
+Παρακάτω φαίνεται το σχετικό [asciinema](https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75) με το [void](https://voidlinux.org).⬇️
 
 <p align="center">
 <a href="https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75" target="_blank"><img src="https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75.svg" width="70%" /></a>
 </p>
 
-<p align="center">
- Ntfy
-</p>
+❗Και πάλι το λειτουργικό τρέχει πάνω σε virtual machine.
+
+# **11. Άσκηση γραμμής εντολών**
+
+Για αυτό το παραδοτέο εγκατέστησα το εργαλείο [ntfy](https://github.com/dschep/ntfy) πάνω στο [Void linux](https://voidlinux.org) που είχα εγκαταστήσει στο [9ο παραδοτέο](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD). Στη συνέχεια χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy) για να στείλω μια ειδοποίηση στον προσωπικό μου λογαριασμό στο [Telegram](https://telegram.org).
+
+Παρακάτω φαίνεται το σχετικό [asciinema](https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y) με το [ntfy](https://github.com/dschep/ntfy).⬇️
 
 <p align="center">
 <a href="https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y" target="_blank"><img src="https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y.svg" width="70%" /></a>
@@ -157,7 +157,8 @@
 </p>
 
 
-<h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
+
+# <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
 | X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
