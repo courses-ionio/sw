@@ -14,7 +14,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά* | | |
@@ -128,6 +128,33 @@
 Επίσης εφάρμοσα [continuous integration](https://github.com/Mnlsvt/online-cv/tree/master/.github/workflows) μέσω git actions έτσι ώστε να δημιουργείται καινούριο pdf κάθε φορά που γίνεται μια αλλαγή στο [onlive-cv](https://mnlsvt.github.io/online-cv/).
 
 Το τελικό pdf μπορείτε να το βρείτε [εδώ](https://github.com/Mnlsvt/online-cv/blob/master/index.pdf).
+
+# **9. Άσκηση γραμμής εντολών**
+Σε αυτό το παραδοτέο εγκατέστησα το [Void linux](https://voidlinux.org) το οποίο είναι ένα linux distro χωρίς systemd και πάνω σε αυτό εγκατέστησα το εργαλείο [ntfy](https://github.com/dschep/ntfy). Στη συνέχεια χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy) για να στείλω μια ειδοποίηση στον προσωπικό μου λογαριασμό στο [Telegram](https://telegram.org).
+
+Παρακάτω φαίνεται το σχετικό [asciinema](https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75) με το [void](https://voidlinux.org) καθώς και το [asciinema](https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y) με το [ntfy](https://github.com/dschep/ntfy)⬇️
+
+<p align="center">
+ Void
+</p>
+
+<p align="center">
+<a href="https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75" target="_blank"><img src="https://asciinema.org/a/E277jTOhKDGBkMFYyM7QyTr75.svg" width="70%" /></a>
+</p>
+
+<p align="center">
+ Ntfy
+</p>
+
+<p align="center">
+<a href="https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y" target="_blank"><img src="https://asciinema.org/a/Rh5qjno6WGYGJq30q0wD3V47y.svg" width="70%" /></a>
+</p>
+
+Και αυτό είναι το αποτέλεσμα που εμφανίστηκε στο [Telegram](https://telegram.org) μετά τη ρύθμιση.
+
+<p align="center">
+<img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/ezgif-5-dff2e4def5.gif?raw=true" width="25%" />
+</p>
 
 
 <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
