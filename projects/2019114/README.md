@@ -92,11 +92,13 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
-| [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Newell]( |
-| [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [Debian]( |
+| [Newell](https://github.com/p19papa4/site/blob/2019114/_biography/gabe-newell.md) | [Newell](https://2019114--dulcet-kashata-0bf8e3.netlify.app//biography/gabe-newell/) | [Newell](https://ionioi-site.netlify.app/biography/gabe-newell/) |
+| [Debian](https://github.com/p19papa4/site/blob/2019114/_case-study/debian.md) | [Debian](https://2019114--dulcet-kashata-0bf8e3.netlify.app//case-study/debian/)  |  [Debian](https://ionioi-site.netlify.app/case-study/debian/) |
 
 
-Το αντίστοιχο [Pull Request](
+Το αντίστοιχο για το site [Pull Request](https://github.com/ionioi/site/pull/17#event-6713459110)
+
+Το αντίστοιχο για τα images [Pull Request](https://github.com/ionioi/images/pull/9#event-6713316367)
 
 
 # 12ο Παραδοτέο Τελική αναφορά
