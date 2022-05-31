@@ -11,7 +11,7 @@
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Αλλαγή του υπεύθυνου καθηγητή της πρακτικής άσκησης από τον κ.Ανδρόνικο στον κ.Νταντογιάν |
 | 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/709) | |
-| 6 | Άσκηση γραμμής εντολών | | |
+| 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
@@ -95,6 +95,28 @@
 </p>
 
 Το [pull request](https://github.com/ionioi/site/pull/5) με την προσθήκη του Devuan και του kali.
+
+# **6. Άσκηση γραμμής εντολών**
+Σε αυτό το παραδοτέο χρησιμοποίησα το εργαλείο [`twilio`](https://github.com/twilio/twilio-python) για να καλέσω τον αριθμό μου. Για να το κάνω αυτό αρχικά δημιούργησα έναν λογαριασμό στο twilio και έπειτα έγραψα ένα python script το οποίο πραγματοποιεί κλήσεις και στέλνει μηνμύματα στον αριθμό μου.
+
+Στο παρακάτω [asciinema](https://asciinema.org/a/uLrOulvTd0OalnoX8P9YwRSLJ) φαίνεται το script που έτρεξα για να καλέσω τον αριθμό μου καθώς και το sid της κλήσης που πραγματοποιήθηκε.
+
+<p align="center">
+<a href="https://asciinema.org/a/uLrOulvTd0OalnoX8P9YwRSLJ" target="_blank"><img src="https://asciinema.org/a/uLrOulvTd0OalnoX8P9YwRSLJ.svg" width="70%" /></a>
+</p>
+
+Και αυτές είναι μερικές εικόνες από τα αποτελέσματα ⬇️
+
+<p align="center">
+ Twilio Call  and Twilio SMS
+</p>
+ 
+<p align="center">
+ <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/twilio_call.jpg?raw=true" width="300" height="600"/> 
+ <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/twilio_sms.jpg?raw=true" width="300" height="600"/> |
+</p>
+
+
 
 # **7. Βιογραφικό**
 Σε αυτό το παραδοτέο χρησιμοποίησα pandoc και latex για να δημιουργήσω ένα pdf το οποίο θα παίρνει τα στοιχεία του [onlive-cv](https://mnlsvt.github.io/online-cv/) μου. Αυτό είναι το σχετικό [asciinema](https://asciinema.org/a/YoMRcwqVOMlY5ckgHpKWKp3Lk)...
