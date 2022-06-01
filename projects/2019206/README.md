@@ -90,7 +90,7 @@
 Αυτές είναι οι οι εικόνες τις προσθήκης μου:
 
 <p align="center">
- <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/> | <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" height="170" width="300"/>
+ <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/>  <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" height="170" width="300"/>
 </p>
 
 | Οι προσθήκες μου | Οι αλλαγές στο site | 
@@ -154,7 +154,7 @@
 Αποφάσισα να κάνω αυτές τις προσθήκες επειδή χρησιμοποιώ [kali linux](https://www.kali.org) και με ενδιαφέρει ιδιαίτερα το ethical hacking και το penetration testing σαν επαγγελματικός προσανατολισμός.
 
 <p align="center">
- <img src="https://github.com/Mnlsvt/images/blob/master/mati-ah.jpg?raw=true" height="305px" width="300"/> | <img src="https://github.com/Mnlsvt/images/blob/master/hackerman.png?raw=true" width="300"/>
+ <img src="https://github.com/Mnlsvt/images/blob/master/mati-ah.jpg?raw=true" height="305px" width="300"/>  <img src="https://github.com/Mnlsvt/images/blob/master/hackerman.png?raw=true" width="300"/>
 </p>
 
 
