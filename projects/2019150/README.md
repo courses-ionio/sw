@@ -7,10 +7,10 @@
 | ---- | ---- | ---- | ---- |
 | 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Disccutions](https://github.com/courses-ionio/help/discussions/137) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md και έκανα μία εισαγωγή που την πρόσθεσα στα discussions |
 | 2 | <a href="#Bιογραφικό και δημιουργία ομάδας"><span class="toctext">Bιογραφικό και δημιουργία ομάδας</span></a> | |Για την δεύτερη εβδομάδα έγινα μέλος της ομάδας oopaloompas και δημιούργησα το βιογραφικό μου. |
-| 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
-| 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | | |
-| 5 | <a href="#Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)"><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></a> | | |
-| 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | | |
+| 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | Από την 3η εβδομάδα, ολοκλήρωσα το εβδομαδιαίο παραδοτέο και έκανα το εβδομαδιαίο βίντεο. |
+| 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | | Αυτή την εβδομάδα, εγκατέστησα το freebsd (4o παραδοτέο) και έκανα το εβδομαδιαίο video quiz |
+| 5 | <a href="#Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)"><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></a> | |Για την 5η εβδομάδα, ολοκλήρωσα το 5ο παραδοτέο. |
+| 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | | Αυτή την εβδομάδα ολοκλήρωσα το εβδομαδιαίο παραδοτέο και το βίντεο αυτής της εβδομάδας |
 | 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | | |
 | 8 | <a href="#Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
 | 9 | <a href="#Άσκηση γραμμής εντολώνπυ py-spy"><span class="toctext">Άσκηση γραμμής εντολώνπυ py-spy</span></a> | | |
