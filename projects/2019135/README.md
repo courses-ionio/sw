@@ -118,7 +118,22 @@
 
 # ΠΑΡΑΔΟΤΕΟ 10
 
-## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 + Α2
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1 + Β2
+
+Για το 10ο παραδοτέο, μας ζητήθηκε να προσθέσουμε μια βιογραφία και μια μελέτης περίπτωσης που θα σχετιζόταν με τις προσθήκες που κάναμε στο 5ο παραδοτέο. Αρχικά, αποφάσισα να γράψω τη βιογραφία του Judd Vinet, δημιουργού του Arch Linux, και μια μελέτη περίπτωσης για τα Arch Linux. Όμως, δεν υπήρχαν αρκετές πληροφορίες γι'αυτόν και οι διαθέσιμες εικόνες είχαν πνευματικά δικαιώματα. Οπότε αποφάσισα τελικά να γράψω για τον Brian Kernighan, ο οποίος συνέβαλε στην ανάπτυξη του Unix και να κρατήσω τη μελέτη περίπτωσης ίδια με την αρχική.
+
+Αποφάσισα να προσθέσω την παραπάνω βιογραφία, διότι μου κίνησε πολύ το ενδιαφέρον το πως συνεργάστηκαν και συνεισέφεραν όλοι σ'αυτό το έργο, απο την οπτική γωνία του Brian Kernighan και η ιστορία της δημιουργίας του λειτουργικού συστήματος Unix. Όσο για τη μελέτη περίπτωσης, ήθελα να εμβαθύνω τις γνώσεις μου στο Arch Linux και τον λόγο που το κάνει τόσο ιδιαίτερο και προσιτό σε άλλους χρήστες.
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+|[Brian Kernighan](https://github.com/p19biza/site/blob/2019135/_biography/brian-kernighan.md) | [Brian Kernighan](https://2019135--peaceful-clafoutis-11f22f.netlify.app//biography/brian-kernighan/) | [Brian Kernighan](https://ionioi-site.netlify.app/biography/brian-kernighan/) |
+|[Archlinux](https://github.com/p19biza/site/blob/2019135/_case-study/archlinux.md) | [Archlinux](https://2019135--peaceful-clafoutis-11f22f.netlify.app//case-study/archlinux/) | [Archlinux](https://ionioi-site.netlify.app/case-study/archlinux/)
+
+Τα pull requests μου για την [ομάδα μου](https://github.com/ionioi):
+
+- [site](https://github.com/ionioi/site/pull/18)
+- [images](https://github.com/ionioi/images/pull/10)
+
 
 # ΠΑΡΑΔΟΤΕΟ 11
 
