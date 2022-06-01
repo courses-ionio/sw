@@ -12,13 +12,13 @@ Github profile: [Geoter711](https://github.com/Geoter711)
 | 2 | [βιογραφικό](https://geoter711.github.io/online-cv/) και δημιουργία ομάδας | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/250)| 8-9 |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/323) | 7-8 |
 | 4 | Άσκηση γραμμής εντολών | | 7 |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | 6 |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | 6-7 |
 | 6 | Άσκηση γραμμής εντολών | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/489) | 7-8 |
 | 7 | βιογραφικό | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/533) | 4-5 |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/553) | 9 |
 | 9 | Άσκηση γραμμής εντολών | | 4-5 |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/644)| 7 |
-| 11 | Άσκηση γραμμής εντολών | | |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/644)| 6 |
+| 11 | Άσκηση γραμμής εντολών | | 4-5|
 | 12 | Τελική αναφορά* | [Σύνδεσμος συζήτησης](https://github.com/courses-ionio/help/discussions/712) | |
 
 
@@ -154,7 +154,32 @@ Update: Το pull request έχει γίνει, με το demo να δουλεύ�
 
 [Case Study](https://geoter.netlify.app/case-study/gamemaker/)
 
+Πηγές για case study:
+https://gamemaker.io/en
+https://www.moddb.com/engines/gamemaker
+https://venturebeat.com/2017/09/03/gamemaker-studio-creators-look-back-at-17-years-of-development/
+https://en.wikipedia.org/wiki/GameMaker
+https://www.gamesindustry.biz/articles/2021-08-10-yoyo-games-streamlines-gamemaker-licenses-offers-new-free-version
+https://www.reddit.com/r/gamemaker/
+https://store.steampowered.com/app/585410/GameMaker_Studio_2_Desktop/
+https://manual.yoyogames.com/#t=Content.htm
+
+
 [Biography](https://geoter.netlify.app/biography/john-carmack/)
+
+Πηγές για βιογραφία:
+https://www.britannica.com/biography/John-Carmack
+https://www.beyond3d.com/content/articles/15
+https://www.engadget.com/2019-11-13-john-carmack-agi.html?guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAANGCksaygprSjFQsUPo-HI9HDfgR9dDzUGs12vYBk5nBsU0ZJvQ-RQcitGj1CEowpCCZfSEzhiMekqGWhJQryvc0KEAOJN2C9fU-fZIdaJELd36wLe-Ttw3sGKYyRU5LRSJpQ60N9CHCRZweXC4rp5fJ6xMj8KT0JQpr3ff3oc2y
+https://en.wikipedia.org/wiki/Doom_engine
+https://www.moddb.com/engines/doom-engine
+https://www.britannica.com/topic/Doom
+https://en.wikipedia.org/wiki/John_Carmack
+https://slashdot.org/comments.pl?sid=151312&cid=12701745
+https://github.com/TTimo/doom3.gpl
+
+
+
 
 # Παραδοτέο 11
 
@@ -234,9 +259,15 @@ https://user-images.githubusercontent.com/58696033/171283149-5d268694-7580-4390-
 
 ### Αξιολόγηση Παραδοτέου 9
 
-Σε αυτό το παραδοτέο προέκυψαν πολλά προβλήματα που δεν κατάφερα να επιλύσω. Επιδίωξα να το ολοκληρώσω αλλά δεν μπορούσα να βρώ λύση στα προβλήματα παρόλο που ξόδεψα αρκετό χρόνο σε αυτό .Ωστόσο θεωρώ ότι δεν μπορώ να βάλω περισσότερο από αυτόν τον βαθμό, καθώς το παραδοτέο δεν είναι τελειωμένο και δεν έχω δείξει τμήμα που να λειτουργεί.
+Σε αυτό το παραδοτέο προέκυψαν πολλά προβλήματα που δεν κατάφερα να επιλύσω. Επιδίωξα να το ολοκληρώσω αλλά δεν μπορούσα να βρώ λύση στα προβλήματα παρόλο που ξόδεψα αρκετό χρόνο σε αυτo. Ωστόσο θεωρώ ότι δεν μπορώ να βάλω περισσότερο από αυτόν τον βαθμό, καθώς το παραδοτέο δεν είναι τελειωμένο και δεν έχω δείξει τμήμα που να λειτουργεί.
 
+### Αξιολόγηση Παραδοτέου 10
 
+Ως ουσιαστικά συνέχεια του παραδοτέου 7, επέλεξα να κινηθώ περαιτέρω στον τομέα των game engines. Θεωρώ ότι και οι δύο μου αναφορές είναι θεμάτα τα οποία ταιριάζουν με το μάθημα, άλλα ίσως όχι σε απόλυτο βαθμό, που είναι και ο λόγος που βάζω χαμηλότερο βαθμό. Ωστόσο ακολούθησα σωστά τις οδηγίες, ακολουθώντας την αισθητική του βιβλίου, και απέφυγα φωτογραφίες όπως για παράδειγμα logo.
+
+### Αξιολόγηση Παραδοτέου 11 
+
+ 
 
 # Περιεχόμενο συμμετοχικότητας:
 
