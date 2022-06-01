@@ -9,14 +9,14 @@
 | 1 | [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/108) | |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#2-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/233) | Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
 | 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Αλλαγή του υπεύθυνου καθηγητή της πρακτικής άσκησης από τον κ.Ανδρόνικο στον κ.Νταντογιάν |
-| 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
+| 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/714) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/709) | |
-| 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
+| 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/715) | |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
-| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2) | | |
-| 11 | [Άσκηση γραμμής εντολών](#11-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
+| 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/716) | |
+| 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/717) | |
+| 11 | [Άσκηση γραμμής εντολών](#11-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/718) | |
 | 12 | Τελική αναφορά* | | |
 |    | [Βίντεο Κουίζ](#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85) | | |
 
