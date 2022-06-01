@@ -154,28 +154,44 @@ Update: Το pull request έχει γίνει, με το demo να δουλεύ�
 
 [Case Study](https://geoter.netlify.app/case-study/gamemaker/)
 
-Πηγές για case study:
-https://gamemaker.io/en
-https://www.moddb.com/engines/gamemaker
-https://venturebeat.com/2017/09/03/gamemaker-studio-creators-look-back-at-17-years-of-development/
-https://en.wikipedia.org/wiki/GameMaker
-https://www.gamesindustry.biz/articles/2021-08-10-yoyo-games-streamlines-gamemaker-licenses-offers-new-free-version
-https://www.reddit.com/r/gamemaker/
-https://store.steampowered.com/app/585410/GameMaker_Studio_2_Desktop/
-https://manual.yoyogames.com/#t=Content.htm
-
-
 [Biography](https://geoter.netlify.app/biography/john-carmack/)
 
+Πηγές για case study:
+
+https://gamemaker.io/en
+
+https://www.moddb.com/engines/gamemaker
+
+https://venturebeat.com/2017/09/03/gamemaker-studio-creators-look-back-at-17-years-of-development/
+
+https://en.wikipedia.org/wiki/GameMaker
+
+https://www.gamesindustry.biz/articles/2021-08-10-yoyo-games-streamlines-gamemaker-licenses-offers-new-free-version
+
+https://www.reddit.com/r/gamemaker/
+
+https://store.steampowered.com/app/585410/GameMaker_Studio_2_Desktop/
+
+https://manual.yoyogames.com/#t=Content.htm
+
 Πηγές για βιογραφία:
+
 https://www.britannica.com/biography/John-Carmack
+
 https://www.beyond3d.com/content/articles/15
+
 https://www.engadget.com/2019-11-13-john-carmack-agi.html?guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAANGCksaygprSjFQsUPo-HI9HDfgR9dDzUGs12vYBk5nBsU0ZJvQ-RQcitGj1CEowpCCZfSEzhiMekqGWhJQryvc0KEAOJN2C9fU-fZIdaJELd36wLe-Ttw3sGKYyRU5LRSJpQ60N9CHCRZweXC4rp5fJ6xMj8KT0JQpr3ff3oc2y
+
 https://en.wikipedia.org/wiki/Doom_engine
+
 https://www.moddb.com/engines/doom-engine
+
 https://www.britannica.com/topic/Doom
+
 https://en.wikipedia.org/wiki/John_Carmack
+
 https://slashdot.org/comments.pl?sid=151312&cid=12701745
+
 https://github.com/TTimo/doom3.gpl
 
 
@@ -186,7 +202,7 @@ https://github.com/TTimo/doom3.gpl
 Για το παραδότεο 11, λόγω σφάλματος που προέκυψε με την κατανόηση των οδηγιών, δεν έχω κάνει ιδιαίτερη ενέργεια, αλλά σκοπεύω να πραγματοποιήσω μία άσκηση γραμμή εντολών που να αρμόζει στα ενδιαφέροντά μου.
 
 
-Update: Εφόσον στο 9ο παραδοτέο το βρήκα ενδιαφέρον να πειραματίζομαι με API (παρόλο που ήταν σε μικρό βαθμό), αποφάσισα να αναπτυχθώ σε αυτόν τον τομέα παραπάνω μέσω του Twilio. Ώσο αφορά την χρήση του Twilio και όλη την διαδικάσια, είχε τα πάνω και τα κάτω του. Αρχικά, για τις διαδικασίες χρειάστηκε να χρησιμοποιήσω ένα virtual envinroment μέσα στο λειτουργικό μου από το οποίο θα έτρεχα τον κώδικα. Για το web framework χρησιμοποίησα το flask καθώς ήταν προτεινόμενο. Επίσης χρησιμοποίησα το ngrok με το οποίο τρέχει το session που συνδέει τον κώδικα με το Twilio σε διαφορετικό terminal Δημιουργήσα ενα κομμάτι κώδικα το οποίο καλεί το δικό μου τηλέφωνο και παίζει ένα εγγεγραμένο μήνυμα. 
+Update: Εφόσον στο 9ο παραδοτέο το βρήκα ενδιαφέρον να πειραματίζομαι με API (παρόλο που ήταν σε μικρό βαθμό), αποφάσισα να αναπτυχθώ σε αυτόν τον τομέα παραπάνω μέσω του Twilio. Ώσο αφορά την χρήση του Twilio και όλη την διαδικάσια, είχε τα πάνω και τα κάτω του. Αρχικά, για τις διαδικασίες χρειάστηκε να χρησιμοποιήσω ένα virtual envinroment μέσα στο λειτουργικό μου από το οποίο θα έτρεχα τον κώδικα. Για το web framework χρησιμοποίησα το flask καθώς ήταν προτεινόμενο. Επίσης χρησιμοποίησα το ngrok με το οποίο τρέχει το session που συνδέει τον κώδικα με το Twilio σε διαφορετικό terminal. Δημιουργήσα ενα κομμάτι κώδικα το οποίο καλεί το δικό μου τηλέφωνο και παίζει ένα εγγεγραμένο μήνυμα. 
 
 ![image](https://user-images.githubusercontent.com/58696033/171454842-55d57db5-473b-4a53-abb6-ec375166986b.png)
 
@@ -196,11 +212,15 @@ https://user-images.githubusercontent.com/58696033/171283149-5d268694-7580-4390-
 
 Στην συνέχεια επιχείρησα να δημιουργήσω κώδικα ο οποίος προωθεί μια κλήση ανάλογα με το αν είναι blacklisted ή whitelisted, όπως αναφέρεται και στο παραδότεο. Για
 να τεστάρω το blacklist, καθώς δεν εχώ πολλούς διαφορετικούς αριθμούς τηλεφώνου, απόφασισα να το τεσταρω έχοντας στην λίστα μόνο τον δικό μου αριθμό και άλλον έναν "placeholder" αριθμό, όπου θα έκανα δύο επιδείξεις: μια με τον προσωπικό μου αριθμό να είναι blacklisted, και μία whitelisted. Για να πραγματοποιηθεί αυτή η λειτουργία παιτεί να χρησιμοποιηθεί ως βάση το κινητό που παρέχει το Twilio, δηλαδή να γίνει κλήση προς αυτόν τον αριθμό, όπου στην συνέχεια μέσω του κώδικα θα υπάρξει η αντίστοιχη απάντηση. Ωστόσο, για να καλέσει και να τεστάρει κάποιος των κώδικα του με αυτόν τον τρόπο, είναι ανάγκη να γίνει κλήση άπο άλλο κινητό, το οποίο έκανα. Καθώς καλούσα και δοκίμαζα των κώδικα του προσπαθώντας να βρώ τα προβλήματα, συνειδητοποίησα ότι αυτές οι κλήσεις χρεωνόνταν στον προσωπικό τηλεφωνικό μου λογαριασμό! Επειδή δεν επιθυμούσα να χρεωθώ περαιτέρω, σταμάτησα να καλώ και επιχείρησα να βρώ άλλο τρόπο να δοκιμάσω τον κώδικά μου. Προσπάθησα να τηλεφωνήσω αυτόν τον Twilio λογαριασμό από άλλο Twilio λογαριασμό, αλλά αυτό απαιτούσε ο λογαριασμός να είναι "επιβεβαιωμένος" ως προς τον άλλο, που χρειάζεται επιβεβαίωση από τον χρήστη του αριθμού. Φυσικά ο αριθμός του Twilio δουλεύει διαφορετικά απο ένα κανονικό αριθμό τηλεφώνου. Για αυτόν τον λόγο προσπάθησα να δημιουργήσω έναν άλλο κώδικα
-τον οποίο θα διάβαζε το μήνυμα επιβεβαίωσης και θα το προωθούσε στο προσωπικό μου τήλεφωνο έτσι ώστε να γίνει η επιβεβαίωση μέσω των "functions" του Twilio και nodeJS. Δυστυχώς αυτό δεν το καταφέρα, οπότε δοκίμασα άλλες μερικές φορές με τον προήγουμενο τρόπο μέχρις ότου να μην έχω περισσευομένο υπόλοιπο στον λογαριασμό μου. Θα ήθελα να συνεχίσω το παραδοτέο, αλλά αυτή την στιγμή έχω κολλήσει. Παρακάτω είναι ο κώδικας, καθώς και ένα screenshot από την εκτέλεση της εφαρμογής αλλά και asciinema link. Για προσωπικούς λόγους έχω αποκρύψει το αριθμό τηλεφώνου μου. 
+τον οποίο θα διάβαζε το μήνυμα επιβεβαίωσης και θα το προωθούσε στο προσωπικό μου τήλεφωνο έτσι ώστε να γίνει η επιβεβαίωση μέσω των "functions" του Twilio και nodeJS. Δυστυχώς αυτό δεν το καταφέρα, οπότε δοκίμασα άλλες μερικές φορές με τον προήγουμενο τρόπο μέχρις ότου να μην έχω περισσευομένο υπόλοιπο στον λογαριασμό μου. Θα ήθελα να συνεχίσω το παραδοτέο, αλλά αυτή την στιγμή έχω κολλήσει. Παρακάτω είναι ο κώδικας, καθώς και ένα screenshot από την εκτέλεση της εφαρμογής, που για προσωπικούς λόγους έχω αποκρύψει το αριθμό τηλεφώνου μου. Επίσης, για τυπικούς λόγους παραθέτω και το asciinema link, παρόλο που δεν φαίνονται πολλά καθώς υπάρχει αλληλεπίδραση με το κινητό και ένα άλλο terminal στο οποίο τρέχει το ngrok.
+
+[Asciinema Link](https://asciinema.org/a/aAkCD0rkISalWlXAWBp1dqmCE)
 
 ![image](https://user-images.githubusercontent.com/58696033/171455455-0b3af6fe-1a83-4b4e-9ebc-09758f574410.png)
 
 ![Screenshot](https://user-images.githubusercontent.com/58696033/171457692-3db16437-fd16-4de5-b1f1-5b2f3231e1fc.png)
+
+
 
 
 
