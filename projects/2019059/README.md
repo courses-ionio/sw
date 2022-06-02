@@ -167,4 +167,5 @@ To [netlify](https://app.netlify.com/sites/venerable-taiyaki-f6b012/overview) γ
 
 [help](https://github.com/courses-ionio/help/discussions/197)
 [pull request1](https://github.com/courses-ionio/sw/pull/1101)
-[pull request2](https://github.com/courses-ionio/sw/pull/1110) 
+[pull request2](https://github.com/courses-ionio/sw/pull/1110)
+[pull request3](https://github.com/courses-ionio/sw/pull/1112)
