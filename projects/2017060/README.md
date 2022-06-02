@@ -3,6 +3,7 @@
 - _Ονοματεπώνυμο_: **Θεόδωρος Γερασόπουλος**
 - _Aριθμός Mητρώου_: **Π2017060**
 - _Λογαριασμός GitHub_: **[p17gera1](https://github.com/p17gera1)**
+- _Λογαριασμός Asciinema_: **[P2017060](https://asciinema.org/~P2017060)**
 - _Ακαδημαϊκό Email_: **p17gera1@ionio.gr**
 
 --------------------------------------------  
@@ -58,7 +59,24 @@
   
 (4) Άσκηση γραμμής εντολών 
 ------------------------------------------- 
-Στο τέταρτο παραδοτέο εγκατέστησα στον υπολογιστή μου το [Artix Linux](https://artixlinux.org/) (δηλαδή το αρχείο [artix-lxde-openrc-20220123-x86_64.iso](https://artixlinux.org/download.php)) διότι θα έπρεπε να γίνουν οι εντολές σε ένα τερματικό χωρίς systemd. Έτσι χωρίς δεύτερη σκέψη άφησα να [Ubuntu](https://ubuntu.com/) και πήγα στο [Artix Linux](https://artixlinux.org/). Οι εντόλες ήταν σχετικά εύκολες για να γίνει η [πρώτη μου εγραφή](https://asciinema.org/a/ZVLRiG8Bfe3A9o3VLCNqBV6JZ) στο asciinema και για να προστεθεί στον [λογαριασμό](https://asciinema.org/~P2017060) μου.    
+Στο τέταρτο παραδοτέο εγκατέστησα στον υπολογιστή μου το [Artix Linux](https://artixlinux.org/) (δηλαδή το αρχείο [artix-lxde-openrc-20220123-x86_64.iso](https://artixlinux.org/download.php)) διότι θα έπρεπε να γίνουν οι εντολές σε ένα τερματικό χωρίς systemd. Έτσι χωρίς δεύτερη σκέψη άφησα τα [Ubuntu](https://ubuntu.com/) και πήγα στο [Artix Linux](https://artixlinux.org/). Οι εντόλες ήταν σχετικά εύκολες για να γίνει η [πρώτη μου εγραφή](https://asciinema.org/a/ZVLRiG8Bfe3A9o3VLCNqBV6JZ) στο asciinema και για να προστεθεί στον [λογαριασμό](https://asciinema.org/~P2017060) μου.
+
+Οι παρακάτω εντολές ήταν για να μπορώ να κάνω καταγραφή του τερματικού μου και ταυτόχρονα να στέλνονται στον λογοργιασμό μου στο Asciinema.
+
+1.  ```sudo pacman -Sy update git```
+
+2.  ```sudo pacman -Sy install git```
+
+3.  ```git clone https://github.com/asciinema/asciinema.git```
+
+4.  ```cd asciinema```
+
+5.  ```python3 -m asciinema --version```
+
+Κλείνοντας, για να αρχίσει και να τελειώσει η καταγραφή χρησιμοποίησα τις παρακάτω εντολές.
+
+1.  ```python3 -m asciinema rec```
+2.  ```exit```
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
@@ -73,6 +91,20 @@
   
 (6) Άσκηση γραμμής εντολών
 -------------------------------------------- 
+
+Για το έκτο παραδοτέο, αρχικά κατέβασα το [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) και μετά βρήκα από την αναζήτηση τον **BotFather**. Στην συνέχεια πάτησα το ```RESTART``` και έγραψα ```/newbot```, όπου μετά έκανα ακριβώς ότι μου είπε ο  **BotFather** για να δημιουργήσω το δικό μου _Bot_, το οποίο είναι ```Thgera19_bot```. Κλείνοντας έβαλα το _Token_ που μου έστειλε ο **BotFather**. Όλα τα παραπάνω γίνανε με το εργαλείο του **NTFY** που στην συνέχεια, έκανα την συνένωση με το **Telegram**.
+
+Οι εντόλες που έκανα στο τερματικό του [Artix Linux](https://artixlinux.org/) για να μπορέσω να στείλω τα μηνύματα στο ```Thgera19_bot``` ήταν οι παρακάτω.
+
+1.  ```pip install ntfy```
+  
+2.  ```pip install ntfy[telegram]```
+
+3.  ```ntfy -b telegram send "Geia sou Theo"```
+
+4.  ```ntfy -b telegram send "Corfu - Season 2022"```
+
+5.  ```ntfy -b telegram send "Ionian University since 1984"```
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
@@ -140,7 +172,7 @@
 
 | Α/Α | Ο τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
-| (1) | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | | | 
+| (1) | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_multiplication_x: | 
 | (2) | Ted Nelson -- Computers for Cynics [full version] | | |
 | (3) | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | | |
 | (4) | Bret Victor - The Future of Programming | | |
