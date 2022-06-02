@@ -134,6 +134,7 @@ Site ομάδας: [Site](https://lostmpodis-site.netlify.app/) | [Repo](https:/
 
 Δυστυχώς, λόγω έλλειψης χρόνου και λοιπών υποχρεώσεων, δεν κατάφερα να ολοκληρώσω όλα τα παραδοτέα. Παρ' όλ' αυτά, μου δόθηκε η ευκαιρία να εξοικειωθώ με εργαλεία γραμμής εντολών, καθώς και να εξερευνήσω περαιτέρω τις δυνατότητες των shell script σε συνδυασμό με αυτά τα εργαλεία.
 
+[Pull Request](https://github.com/courses-ionio/sw/pull/1113)
 ## Σύστημα
 
 Για τις ασκήσεις γραμμής εντολών, χρησιμοποίησα το [Void Linux](https://voidlinux.org/) που χρησιμοποιεί ως init system το [runit](http://smarden.org/runit/). Αρχικά, εγκατέστησα το base edition με glibc,
