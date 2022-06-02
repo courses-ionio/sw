@@ -3,6 +3,7 @@
 ### Δημήτριος Χρήστος Τζερεμές
 ### ΑΜ: Π2018105
 ### Edpuzzle: p18tzer 2018105
+### Activelylearn username tdimi2000@yahoo.gr, first name p2018105, last name p18tzer
 ### [Github Profile](https://github.com/DimitrisTzer/)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
