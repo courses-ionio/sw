@@ -3,7 +3,7 @@
 ### Δημήτριος Χρήστος Τζερεμές
 ### ΑΜ: Π2018105
 ### Edpuzzle: p18tzer 2018105
-### Activelylearn 
+### Activelylearn (Κουίζ κειμένου)
 Username: tdimi2000@yahoo.gr
 First name: p2018105 
 Last name: p18tzer
