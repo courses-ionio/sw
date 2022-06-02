@@ -15,7 +15,7 @@
 | 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 6](https://github.com/courses-ionio/help/discussions/580) | Για το παραδοτέο 6 εγκατέστησα το FreeBSD μέσω Virtual Box επιτυχημένα καλύπτωντας έτσι και το ζητούμενο της άσκησης. |
 | 7 | [Βιογραφικό](#παραδοτέο-7-βιογραφικό) | [Παρουσίαση Προόδου 7](https://github.com/courses-ionio/help/discussions/607) | Στο παραδοτέο 7 δημιούργησα επιτυχημένα το pdf του βιογραφικού μου ωστόσο δεν είναι continously integrated. |
 | 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Παρουσίαση Προόδου 8]() | Για το συγκεκριμένο παραδοτέο πρακτικά δυστυχώς δεν έχω να παρουσιάσω κάτι διότι δεν μπόρεσα να σκεφτώ κάτι αντίστοιχο των ζητουμένων. |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 9](https://github.com/courses-ionio/help/discussions/628) | Για το συγκεκριμένο παραδοτέο δημιούργησα μέσω Jekyll ένα static site ωστόσο μετά την συνάντηση με τον κύριο χωριανόπουλο καταλαβαίνω πως είμαι εκτός θέματος. |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 9](https://github.com/courses-ionio/help/discussions/628) | Για το συγκεκριμένο παραδοτέο δημιούργησα μέσω Jekyll ένα static site με το default minima theme. Έπειδη έμαθα πως δεν είναι αρκετό επιχείρησα κάποιες ασκήσεις επιπλέον. |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β1β2) | [Παρουσίαση Προόδου 10](https://github.com/courses-ionio/help/discussions/596) | Όπως και με το παραδοτέο 5 έτσι και εδώ μένω πολύ ικανοποιημένος από το αποτέλεσμα. |
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11-άσκηση-γραμμής-εντολών) | [Παρουσίαση Προόδου 11](https://github.com/courses-ionio/help/discussions/616)| Ολοκληρώνω την άσκηση γραμμής εντολών ntfy συναντώντας παράλληλα κάποιες μικρές δυσκολίες με το FreeBSD. |
 | 12 | [Τελική αναφορά](#επίλογος) | [Παρουσίαση Προόδου 12](https://github.com/courses-ionio/help/discussions/640) | Ολοκληρώνοντας την αναφορά μου μένω ικανοποιημένος αφού έχω πετύχει τους στόχους που έθεσα |
@@ -110,7 +110,7 @@
 | Timeline Η εξέλιξη των συστημάτων της Microsoft | [Timeline](https://github.com/Cont1nental/site/blob/master/_timeline/microsoft.md) | [Netlify](https://continental-site.netlify.app//timeline/microsoft/) |
 <br />
 
-Εδώ παραθέτω και τα προσωπικά μου αποθετήρια όπως επίσης και το πρροσωπικό μου Netlify.
+Εδώ παραθέτω και τα προσωπικά μου αποθετήρια όπως επίσης και το προσωπικό μου Netlify.
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
@@ -128,6 +128,8 @@
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/freeBSD-installation.PNG)
 
 ![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/freebsd-neofetch%20-%20resize.png)
+
+[Σύνδεσμος Asciinema](https://asciinema.org/a/498996)
 
 <br />
 
@@ -163,6 +165,18 @@
 [Repository Jekyll](https://github.com/Sola1r3/cv)
 
 [Static Site](https://sola1r3.github.io/cv/)
+
+Για το ίδιο παραδοτέο επιχείρησα την άσκηση με το mqttwarn για την αποστολή ειδοποιήσεων σχετικές με σημαντικά server events. Έκανα setup το mqttwarn όπως φαίνεται και παρακάτω
+
+![alt text](https://raw.githubusercontent.com/Sola1r3/storage/main/mqttwarnsetup-resize.png)
+
+Έκανα εγκατάσταση τα mosquitto clients και προσπάθησα να κάνω subscribe μέσω του command `mosquitto_sub` αλλά δεν μπόρεσα να καταλάβω τον λόγο που δεν μου λειτουργεί με αποτέλεσμα να μην τρέχει το mqttwarn. 
+
+[Asciinema Link](https://asciinema.org/a/499020)
+
+Έπειτα ασχολήθηκα λίγο και με το hyperfine 
+
+[Asciinema Link](https://asciinema.org/a/499028)
 
 <br />
 
@@ -253,3 +267,17 @@
 ### Show and Tells
 
 1. [The Tragedy of systemd](https://github.com/courses-ionio/help/discussions/639)
+
+### Αξιολογήσεις Αναφορών
+
+1. https://github.com/courses-ionio/sw/pull/1108#issuecomment-1144815430
+2. https://github.com/courses-ionio/sw/pull/1111#issuecomment-1144811865
+3. https://github.com/courses-ionio/sw/pull/1112#issuecomment-1144804507
+
+## Βίντεο Κουίζ - Ερωτήσεις Κειμένου
+
+Ολοκλήρωσα έγκαιρα και τα 12 βίντεο κουίζ. Το ίδιο έκανα και με τις ερωτήσεις κειμένου.
+
+[Edpuzzle](https://edpuzzle.com/classes/61feae8bc7590642b6d11ade)
+
+[Actively Learn](https://read.activelylearn.com/#student/classes/1100129/assignments)
