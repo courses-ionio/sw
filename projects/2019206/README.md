@@ -4,7 +4,7 @@
 ### Προσωπικό Github προφίλ: [Mnlsvt](https://github.com/Mnlsvt)
 ### Όνομα οραγνισμού: [Ionioi](https://github.com/ionioi)
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Τα παραδοτέα | Σύνδεσμος προς τις [συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) του μαθήματος  | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/108) | |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#2-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/233) | Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε ομάδα και η εισαγωγή του βιογραφικού μου στο webring. |
