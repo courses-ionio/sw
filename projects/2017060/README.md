@@ -94,6 +94,10 @@
 
 Για το έκτο παραδοτέο, αρχικά κατέβασα το [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) και μετά βρήκα από την αναζήτηση τον **BotFather**. Στην συνέχεια πάτησα το ```RESTART``` και έγραψα ```/newbot```, όπου μετά έκανα ακριβώς ότι μου είπε ο  **BotFather** για να δημιουργήσω το δικό μου _Bot_, το οποίο είναι ```Thgera19_bot```. Κλείνοντας έβαλα το _Token_ που μου έστειλε ο **BotFather**. Όλα τα παραπάνω γίνανε με το εργαλείο του **NTFY** που στην συνέχεια, έκανα την συνένωση με το **Telegram**.
 
+Ο BotFather στο Telegram φαίνεται στην παρακάτω είκονα.
+
+![BotFather](https://github.com/p17gera1/my_images/blob/main/BotFather.jpg){
+
 Οι εντόλες που έκανα στο τερματικό του [Artix Linux](https://artixlinux.org/) για να μπορέσω να στείλω τα μηνύματα στο ```Thgera19_bot``` ήταν οι παρακάτω.
 
 1.  ```pip install ntfy```
@@ -107,6 +111,12 @@
 5.  ```ntfy -b telegram send "Ionian University since 1984"```
 
 Η καταγραφή που έκανα για να στείλω τα μηνύματα στον BotFather είναι [εδώ](https://asciinema.org/a/497448) (και [εδώ](https://asciinema.org/a/499076) η διορθωμένη).
+
+Ο παρακάτω πίνακας δείχνει πως ήταν αρχικά και πως διόρθωσα τα μηνύματα που ερχόντουσαν στο κινητό μου. 
+
+| Αρχική :arrow_right: :arrow_right: | Διορθωμένη |
+| --- | --- |
+| ![ArxikoTelegram](https://github.com/p17gera1/my_images/blob/main/ArxikoTelegram.jpg) | ![TelikoTelegram](https://github.com/p17gera1/my_images/blob/main/TelikoTelegram.jpg) |
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
