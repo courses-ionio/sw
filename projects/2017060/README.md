@@ -14,10 +14,10 @@
 | --- | --- | --- | --- |
 | [1](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#1-εισαγωγή-οι-προσδοκίες-μου-για-το-μάθημα) | [Εισαγωγική αναφορά](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#1-εισαγωγή-οι-προσδοκίες-μου-για-το-μάθημα) | [Ο σύνδεσμος μου στις συζητήσεις για το πρώτο παραδοτέο.](https://github.com/courses-ionio/help/discussions/151) | Για το 1ο παραδοτέο, έγγραψα την εισαγωγή, έφτιαξα τον πίνακα περιεχομένων και όλα μαζί τα ανέβασα στις συζητήσεις. |
 | [2](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#2-βιογραφικό) | [Βιογραφικό και δημιουργία ομάδας](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#2-βιογραφικό) | [Ο σύνδεσμός μου στις συζητήσεις για το δεύτερο παραδοτέο. ](https://github.com/courses-ionio/help/discussions/264) | Για το 2ο παραδοτέο, δημιούργησα το βιογραφικό μου και στην συνέχεια εντάχθηκα σε μία ομάδα. |
-| [3](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | | Για το 3ο παραδοτέο, πρόσθεσα μία ανακοίνωση που βρήκα στην επίσημη ιστοσελίδα του τμήματος μας, με την βοηήθεια του τερματικού των Ubuntu. |
+| [3](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#3-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | | Για το 3ο παραδοτέο, πρόσθεσα μία ανακοίνωση που βρήκα στην επίσημη ιστοσελίδα του τμήματος μας, με την βοήθεια του τερματικού των Ubuntu. |
 | [4](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#4-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#4-άσκηση-γραμμής-εντολών) | | Για το 4ο παραδοτέο, εγκατέστησα το Artix Linux και μετά μέσω τερματικού εμφάνισα το ζητούμενο του συγκεκριμένου παραδοτέου. |
 | [5](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#5-συμμετοχικό-περιεχόμενο-a1a2) | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#5-συμμετοχικό-περιεχόμενο-a1a2) | | |
-| [6](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | | |
+| [6](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | | Για το 6ο παραδοτέο, εγκατέστησα NTFY και μαζί Telegram έστειλα κάποια μηνύματα στο Thgera19_bot μέσω του τερματικού των Artix Linux. |
 | [7](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | [Βιογραφικό](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | | |
 | [8](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | | |
 | [9](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | | |
@@ -106,12 +106,46 @@
 
 5.  ```ntfy -b telegram send "Ionian University since 1984"```
 
+Η καταγραφή που έκανα για να στείλω τα μηνύματα στον BotFather είναι [εδώ](https://asciinema.org/a/497448) (και [εδώ](https://asciinema.org/a/499076) η διορθωμένη).
+
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
 -------------------------------------------
   
 (7) Βιογραφικό
 -------------------------------------------- 
+
+Στο έβδομο παραδοτέο έπρεπε να μετατρέπουμε το βιογραφίκο που δημιουργήσαμε στο [δεύτερο παραδοτέο](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#2-βιογραφικό) σε αρχείο με κατάληξη .pdf. Αυτό, το κατάφερα μετά από πολλές μέρες, με τις εξής εντόλες του τερματικού.
+
+1.  ```sudo pacman -Suy```
+
+2.  ```sudo pacman-key --lsign 0A3EB6BB142C56653300420C1247D995F165BBAC```
+
+3.  ```sudo pacman -Suy```
+
+Όλη η διαδικασία για να μπορέσω να βγάλω άκρη, φένεται στην καταγραφή που έκανα στο [Asciinema](https://asciinema.org/a/499154), που την χώρισα στα δύο για να μην βγει πολύ μεγάλο το βίντεο.
+
+4.  ```sudo pacman -S texlive-most texlive-lang```
+
+5.  ```git clone https://github.com/p17gera1/online-cv.git```
+
+6.  ```cd online-cv```
+
+7.  ```mkdir pdf```
+
+8.  ```sudo pacman -Sy git pandoc```
+
+9.  ```pandoc https://p17gera1.github.io/online-cv/ -o cv.tex -s```
+
+10. ```pdflatex cv.tex```
+
+Όλη η παραπάνω διαδικασία για να μπορέσω να βγάλω άκρη, φαίνεται στην καταγραφή που έκανα στο [Asciinema](https://asciinema.org/a/499155).
+
+Για την δεύτερη εντολή με βοήθησε πάρα πολύ το φόρουμ του Artix Linux και συγκεκριμένα αυτός ο [σύνδεσμος](https://forum.artixlinux.org/index.php/topic,220.0.html).
+
+Το αποθετήριο του βιογραφικού στο οποίο είναι όλα τα αρχεία είναι το [My_CV](https://github.com/p17gera1/My_CV).
+
+Τα αποθετήρια του βιογραφικού είναι: [.aux](https://github.com/p17gera1/My_CV/blob/main/cv.aux), [.log](https://github.com/p17gera1/My_CV/blob/main/cv.log), [.pdf](https://github.com/p17gera1/My_CV/blob/main/cv.pdf) και [.tex](https://github.com/p17gera1/My_CV/blob/main/cv.tex).
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
