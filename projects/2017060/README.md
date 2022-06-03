@@ -228,3 +228,16 @@
 | (10) | Back to the Future of Software Development 4/23/2003 (VPRI 785) | | |
 | (11) | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | | |
 | (12) | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | | |
+
+
+-------------------------------------------
+  
+Χρήσιμες ιστοσελίδες
+--------------------------------------------  
+
+| Α/Α | Σύνδεσμοι |
+| --- | --- |
+| (1) | [Εντολές σε Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) |
+| (2) | [Tutorials σε Markdown](https://www.w3schools.io/file/markdown-introduction/) |
+| (3) | [Emojis σε Markdown](https://github.com/markdown-templates/markdown-emojis) |
+| (4) | [Εγκατάσταση του Artix Linux](https://www.maketecheasier.com/what-is-artix-linux-and-installation/) |
