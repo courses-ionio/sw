@@ -165,8 +165,10 @@
 | 1 | https://github.com/ionioi/members/discussions/3 |
 | 2 | https://github.com/ionioi/members/discussions/4 |
 
+# Βίντεο και Κείμενα
+
 | | Βίντεο Quiz | Ολοκληρώθηκε |
-| --- | --- | ---|
+| --- | --- | --- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | Εμπρόθεσμα |
 | 2 | Ted Nelson -- Computers for Cynics full version | Εμπρόθεσμα |
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | Εμπρόθεσμα |
@@ -179,3 +181,8 @@
 | 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | Εμπρόθεσμα |
 | 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | Εμπρόθεσμα |
 | 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | Εκπρόθεσμα |
+
+| | Κουίζ κειμένου | Ολοκληρώθηκε |
+| --- | --- | --- |
+| 1 | Τεχνολογία | Εμπρόθεσμα |
+| 2 | Εργαλεία και Τεχνικές | Εμπρόθεσμα |
