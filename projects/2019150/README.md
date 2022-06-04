@@ -158,7 +158,7 @@
   
   <img width="400" height="" src= "https://i.postimg.cc/FH8PyGYJ/joe-hewitt-net.png">
   
-  https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png
+ <img width="" height="" src="https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png">
   
   
   
