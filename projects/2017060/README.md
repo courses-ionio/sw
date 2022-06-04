@@ -18,11 +18,11 @@
 | [4](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#4-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#4-άσκηση-γραμμής-εντολών) | | Για το 4ο παραδοτέο, εγκατέστησα το Artix Linux και μετά μέσω τερματικού εμφάνισα το ζητούμενο του συγκεκριμένου παραδοτέου. |
 | [5](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#5-συμμετοχικό-περιεχόμενο-a1a2) | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#5-συμμετοχικό-περιεχόμενο-a1a2) | | |
 | [6](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) | | Για το 6ο παραδοτέο, εγκατέστησα NTFY και μαζί Telegram έστειλα κάποια μηνύματα στο Thgera19_bot μέσω του τερματικού των Artix Linux. |
-| [7](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | [Βιογραφικό](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | | |
-| [8](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | | |
-| [9](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | | |
+| [7](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | [Βιογραφικό](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#7-βιογραφικό) | | Για το 7ο παραδοτέο, δημιουργήσα τα αρχεία .aux, .log, .pdf και .tex τα οποία τα έβαλα όλα σε ένα αποθετήριο (το My_CV). Τέλος δημιούργησα το pdf έτσι ώστε να φαίνεται στην ιστοσελίδα του βιογραφικού μου. |
+| [8](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#8-αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Για το 8ο παραδοτέο, δυστυχώς δεν μπόρεσα να κάνω κάτι. |
+| [9](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#9-άσκηση-γραμμής-εντολών) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Για το 9ο παραδοτέο, δεν έκανα κάτι διότι αφιέρωσα περισσότερο χρόνο για να κάνω τα υπόλοιπα παραδοτέα. |
 | [10](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#10-συμμετοχικό-περιεχόμενο-b1b2) | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#10-συμμετοχικό-περιεχόμενο-b1b2) | | |
-| [11](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | | |
+| [11](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Για το 11ο παραδοτέο, δεν έκανα κάτι επειδή αφιέρωσα περισσότερο χρόνο για να πραγματοποιήσω τα υπόλοιπα παραδοτέα. |
 | [12](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#12-τελική-αναφορά) | [Τελική αναφορά*](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#12-τελική-αναφορά) | [Ο σύνδεσμός μου στις συζητήσεις για το δωδέκατο παραδοτέο. ](https://github.com/courses-ionio/help/discussions/685) | Για το 12ο παραδοτέο δημιούργησα την τελική αναφορά μου και έκανα το pull request. |
 
 -------------------------------------------
@@ -157,6 +157,18 @@
 
 Τα αποθετήρια του βιογραφικού είναι: [.aux](https://github.com/p17gera1/My_CV/blob/main/cv.aux), [.log](https://github.com/p17gera1/My_CV/blob/main/cv.log), [.pdf](https://github.com/p17gera1/My_CV/blob/main/cv.pdf) και [.tex](https://github.com/p17gera1/My_CV/blob/main/cv.tex).
 
+Στην συνέχεια, για να μπορέσω να εμφανήσω το αρχείο [pdf](https://p17gera1.github.io/online-cv/pdf/cv.pdf) στο [βιογραφικό](https://p17gera1.github.io/online-cv/) μου, έκανα κάποιες εντολές στο τερματικό όπου αυτές φαίνονται στο [Asciinema](https://asciinema.org/a/499279). Οι πιο χρήσιμες είναι οι παραπάκατω:
+
+1.  ```cd online-cv```
+
+2.  ```git pull```
+
+3.  ```git add```
+
+4.  ```git commit -m "update"```
+
+5.  ```git push -forigin```  
+
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
 -------------------------------------------
@@ -164,12 +176,18 @@
 (8) Αίτημα ενσωμάτωσης στην ιστοσελίδα
 -------------------------------------------- 
 
+Στο όγδο παραδότεο, έπρεπε να προτείνουμε μία αλλάγη στην ιστοσελίδα και στην συνέχεια να την προσθέσουμε, αν πρώτα έπαιρνε την κατάλληλη έκριση από τους διδάσκοντες. Δυστυχώς, όμως δεν μπόρεσα να κάνω κάτι επείδη κατάλαβα πως ήταν πέρα των δυνατοτήτων μου σε αυτό το χρονικό πλαίσιο που μας δόθηκε. Έτσι αποφάσισα να συνεχίσω με τα υπόλοιπα παραδοτέα.   
+
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
 -------------------------------------------
   
 (9) Άσκηση γραμμής εντολών 
 -------------------------------------------- 
+
+Για το ένατο παραδοτέο, έπρεπε να κάνουμε μία άσκηση γραμμής εντολών αλλά δεν την έκανα. Διότι σύμφωνα με τις [οδηγίες](https://github.com/courses-ionio/sw) θα βαθμολογηθούν οι δύο από τις τέσσερις συνολικά. Και έτσι προτίμησα να ασχοληθώ με τα υπόλοιπα παραδοτέα.
+
+> Κριτήρια βαθμολογίας: 10% κουίζ + 10% βιογραφικό + 20% ομαδικότητα και συνεργασία + 10% Συμμετοχικό περιεχόμενο + 20% συμμετοχή στην τάξη + 10% 2 ασκήσεις γραμμής εντολών + 20% δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος + 10% προαιρετικό μπόνους
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
@@ -184,6 +202,11 @@
   
 (11) Άσκηση γραμμής εντολών 
 -------------------------------------------- 
+
+Για το εντέκατο παραδοτέο, το ζητούμενο ήταν να κάνουμε μία άσκηση γραμμής εντολών αλλά εγώ δεν την έκανα. Επείδη είχα κάνει το [τέταρτο παραδοτέο](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#4-άσκηση-γραμμής-εντολών) και το [έκτο παραδοτέο](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#6-άσκηση-γραμμής-εντολών) διαπίστωσα ότι δεν χρειαζόταν να κάνω άλλο σύμφωνα με τις [οδηγίες](https://github.com/courses-ionio/sw). Έτσι προτίμησα να ασχοληθώ με τα υπόλοιπα παραδοτέα.
+
+> Κριτήρια βαθμολογίας: 10% κουίζ + 10% βιογραφικό + 20% ομαδικότητα και συνεργασία + 10% Συμμετοχικό περιεχόμενο + 20% συμμετοχή στην τάξη + 10% 2 ασκήσεις γραμμής εντολών + 20% δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος + 10% προαιρετικό μπόνους
+
 
 Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
 
@@ -237,7 +260,7 @@
 
 | Α/Α | Σύνδεσμοι |
 | --- | --- |
-| (1) | [Εντολές σε Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) |
+| (1) | [Εντολές σε Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
 | (2) | [Tutorials σε Markdown](https://www.w3schools.io/file/markdown-introduction/) |
 | (3) | [Emojis σε Markdown](https://github.com/markdown-templates/markdown-emojis) |
 | (4) | [Εγκατάσταση του Artix Linux](https://www.maketecheasier.com/what-is-artix-linux-and-installation/) |
