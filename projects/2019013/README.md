@@ -21,6 +21,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | <li><a href="#Τελική Αναφορά-Συμπεράσματα"></span> <span class="toctext">Τελική Αναφορά-Συμπεράσματα</span></a> | | Ανάλυση των εμπειριών και δεξιοτήτων που αποκόμισα από την συνολικη συνεισφορά της εργασίας και του μαθήματος.  |
 |  #  | <li><a href="#Ομαδικότητα"></span> <span class="toctext">Ομαδικότητα</span></a> | | |
+|  #  | <li><a href="#Κουίζ"></span> <span class="toctext">Κουίζ</span></a> | | |
 
 <h2><span id="Εισαγωγή">Εισαγωγή</span></h2>
 
@@ -62,14 +63,14 @@ Github Profile: https://github.com/AnastasiaMariaStefani
      <li>[Ασκήσεις Γραμμής Εντολών](https://github.com/epidrome/dokey)
    
 <h2><span id="Συμμετοχικό περιεχόμενο A1&A2">Συμμετοχικό περιεχόμενο Α1&Α2</span></h2>
-     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/javascript.png" title="1η εικόνα">1η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/javascript.md" title="Πληροφορίες για την 1η εικόνα">Πληροφορίες για την 1η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/programming.md" title="Σετ διαφανειών 1ης εικόνας">Σετ διαφανειών 1ης εικόνας</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/programming.md" title="Χρονολόγιο 1ης εικόνας">Χρονολόγιο 1ης εικόνας</a><li>
-     <li><a href="https://github.com/AnastasiaMariaStefani/_images/blob/master/openbsd.png" title="2η εικόνα">2η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/gallery/blob/master/openbsd.md" title="Πληροφορίες για την 2η εικόνα">Πληροφορίες για την 2η εικόνα</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md" title="Σετ διαφανειών 2ης εικόνας">Σετ διαφανειών 2ης εικόνας</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/systems.md" title="Χρονολόγιο 2ης εικόνας">Χρονολόγιο 2ης εικόνας</a><li>
+     <li><a href="https://github.com/AnastasiaMariaStefani/images/blob/master/javascript.png" title="1η εικόνα">1η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_gallery/blob/master/javascript.md" title="Πληροφορίες για την 1η εικόνα">Πληροφορίες για την 1η εικόνα</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_slides/programming.md" title="Σετ διαφανειών 1ης εικόνας">Σετ διαφανειών 1ης εικόνας</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_timeline/programming.md" title="Χρονολόγιο 1ης εικόνας">Χρονολόγιο 1ης εικόνας</a><li>
+     <li><a href="https://github.com/AnastasiaMariaStefani/images/blob/master/openbsd.png" title="2η εικόνα">2η εικόνα</a>
+     <li><a href="https://github.com/AnastasiaMariaStefani/_gallery/blob/master/openbsd.md" title="Πληροφορίες για την 2η εικόνα">Πληροφορίες για την 2η εικόνα</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_slides/archetypes.md" title="Σετ διαφανειών 2ης εικόνας">Σετ διαφανειών 2ης εικόνας</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_timeline/systems.md" title="Χρονολόγιο 2ης εικόνας">Χρονολόγιο 2ης εικόνας</a><li>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/3" title="Issue">Issue</a>
        
        
@@ -108,10 +109,7 @@ Github Profile: https://github.com/AnastasiaMariaStefani
 
   Για το 9ο παραδοτέο απαιτούνατν η ολοκλήρωση μίας άσκησης γραμμής εντολών. Ειδικότερα, επέλεξα μία άσκηση από την κατηγορία software, η οποία ήταν η "programmable voice". Για να καταφέρω να εκτελέσω σωστά αυτή την άσκηση χρειάστηκε να χρησιμοποιήσω το twilio. Με τη βοήθεια ενός μικρού προγράμματος σε python κατάφερα να στείλω μήνυμα στον αριθμό του κινητού μου. (Αντί για φωνητική κλήση, επέλεξα να μου σταλεί μηνύμα.)
        
-       
-   <p aligh="center">
-   <img width="1000" height="518" src="https://i.postimg.cc/Qx12nDNN/4.png">
-   </p>
+      
    <p aligh="right">
    <img width="1000" height="518" src="https://i.postimg.cc/QVGqWvv0/Screenshot-20220517-114404-Messages.jpg">
    </p>
@@ -122,8 +120,8 @@ Github Profile: https://github.com/AnastasiaMariaStefani
        
        
   <h2><span id="Συμμετοχικό περιεχόμενο Β1&Β2">Συμμετοχικό περιεχόμενο Β1&Β2</span></h2>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/OpenBSB.md" title="Μελέτη Περίπτωσης">Μελέτη Περίπτωσης</a>
-     <li><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Theo%20de%20Raadt.md" title="Βιογραφία">Βιογραφία</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_case-study/OpenBSB.md" title="Μελέτη Περίπτωσης">Μελέτη Περίπτωσης</a>
+     <li><a href="https://github.com/IonianUniversity2019/site/blob/master/_biography/Theo%20de%20Raadt.md" title="Βιογραφία">Βιογραφία</a>
      <li><a href="https://github.com/IonianUniversity2019/site/issues/8" title="Issueς">Issue</a>
        
        
@@ -136,6 +134,22 @@ Github Profile: https://github.com/AnastasiaMariaStefani
        <li><a href="https://github.com/courses-ionio/help/discussions/574" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
         <li><a href="https://github.com/courses-ionio/help/discussions/652" title="Σχόλιο σε Discussions">Σχόλιο σε Discussions</a>
          <li><a href="https://github.com/courses-ionio/sw/pull/1069" title="Σχόλιο σε Pull Requesr">Σχόλιο σε Pull Request</a> (Το 1ο σχόλιο στα τελικά pull request)
+           
+           
+  <h2><span id="Κουίζ">Κουίζ</span></h2>
+       <li>Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) - Ολοκληρώθηκε
+       <li>Ted Nelson -- Computers for Cynics [full version] - Ολοκληρώθηκε
+       <li>Alan Kay - Could Computing Be Simpler Than It Seems To Be? - Δεν Ολοκληρώθηκε
+       <li>Bret Victor - The Future of Programming - Δεν Ολοκληρώθηκε
+       <li>Alan Kay - Programming Languages & Programming (2013) - Ολοκληρώθηκε
+       <li>Alan Kay Turing Lecture with dynamic content - Ολοκληρώθηκε
+       <li>Alan Kay at FUTUREWEI workshop Dec 2019 - Δεν Ολοκληρώθηκε
+       <li>Bret Victor - The Future of Programming - Ολοκληρώθηκε
+       <li>Alan Kay - Programming and Scaling - Ολοκληρώθηκε
+       <li>Extracting Energy from the Turing Tarpit - Ολοκληρώθηκε
+       <li>Back to the Future of Software Development 4/23/2003 (VPRI 785) - Ολοκληρώθηκε
+       <li>From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) - Ολοκληρώθηκε
+       <li>VCF East 2019 -- Brian Kernighan interviews Ken Thompson - Ολοκληρώθηκε
          
        
        
