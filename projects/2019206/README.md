@@ -3,6 +3,8 @@
 ### Αριθμός Μητρώου: Π2019206
 ### Προσωπικό Github προφίλ: [Mnlsvt](https://github.com/Mnlsvt)
 ### Όνομα οραγνισμού: [Ionioi](https://github.com/ionioi)
+### Edpuzzle Username: 2019206
+### ActivelyLearn Username: p2019206@ionio.gr
 
 | Εβδομάδα | Τα παραδοτέα | Σύνδεσμος προς τις [συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) του μαθήματος  | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -222,4 +224,4 @@
 | 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :heavy_check_mark: |
 | 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :x: | :x: |
 | 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
-| 14 | Τεχνολογία (Κουίζ Κειμένου) | :x: | :x: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
