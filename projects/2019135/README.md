@@ -2,11 +2,12 @@
 
 
 
-### ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΓΙΩΡΓΟΣ - ΦΙΛΙΠΠΟΣ ΜΠΙΖΑΚΗΣ
-### ΑΡΙΘΜΟΣ ΜΗΤΡΩΟΥ: Π2019135 
-### EDPUZZLE ACCOUNT: 2019135
-### ACTIVELY LEARN: p19biza@ionio.gr
-### ΟΜΑΔΑ: [ionioi](https://github.com/ionioi)
+### Ονοματεπώνυμο: ΓΙΩΡΓΟΣ - ΦΙΛΙΠΠΟΣ ΜΠΙΖΑΚΗΣ
+### Αριθμός Μητρώου: Π2019135
+### Github Account: [p19biza](https://github.com/p19biza)
+### Ομάδα: [ionioi](https://github.com/ionioi)
+### Edpuzzle Account: 2019135
+### Actively Learn Account: p19biza@ionio.gr
 
 
 
@@ -179,13 +180,13 @@
 
 |  | Σχόλια σε συμφοιτητές μου |
 | ---| --- |
-|1.| https://github.com/courses-ionio/help/discussions/148
-|2.| https://github.com/courses-ionio/help/discussions/151
-|3.| https://github.com/courses-ionio/help/discussions/261
-|4.| https://github.com/ionioi/members/discussions/4#discussioncomment-2784697
-|5.| https://github.com/courses-ionio/help/discussions/664
-|6.| https://github.com/courses-ionio/sw/pull/1083
-|7.| https://github.com/courses-ionio/sw/pull/1098
+|1.| [Διόρθωση](https://github.com/courses-ionio/help/discussions/148)
+|2.| [Διόρθωση](https://github.com/courses-ionio/help/discussions/151)
+|3.| [Διόρθωση](https://github.com/courses-ionio/help/discussions/261)
+|4.| [Βοήθεια σε μέλος της ομάδας](https://github.com/ionioi/members/discussions/4#discussioncomment-2784697)
+|5.| [Διόρθωση](https://github.com/courses-ionio/help/discussions/664)
+|6.| [Σχολιασμός σε τελικό pull request](https://github.com/courses-ionio/sw/pull/1083)
+|7.| [Σχολιασμός σε τελικό pull request](https://github.com/courses-ionio/sw/pull/1098)
 
 
 # ΒΙΝΤΕΟ ΚΟΥΙΖ ΚΑΙ ΚΟΥΙΖ ΚΕΙΜΕΝΟΥ
