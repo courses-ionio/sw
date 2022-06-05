@@ -164,7 +164,7 @@
 
   
   
-  <img width="364" height="200" src= "https://i.postimg.cc/T3nF1r4q/1-net.png"> <img width="364" height="200" src= " https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png"> 
+  <img width="364" src= "https://i.postimg.cc/T3nF1r4q/1-net.png"> <img width="364" height="200" src= " https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png"> 
   
   https://i.postimg.cc/NMZZLpBD/2-net.png
   
@@ -176,7 +176,7 @@
  
   
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="300"/>
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/>
   https://i.postimg.cc/wB2FWych/eikona1.png
   
   <img src="https://i.postimg.cc/FH8PyGYJ/joe-hewitt-net.png"  width="300"/> <img src="https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png"  width="300"/>
