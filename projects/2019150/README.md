@@ -48,7 +48,9 @@
  - Για την περίπτωση του βιογραφικού, καλούμαστε να επιλέξουμε ένα template, και να το ολοκληρώσουμε με τα στοιχεία που επιθυμούμε. Έτσι κάνοντας folk το `online-cv`, δημιούργησα το βιογραφικό μου στο /online-cv/_data/data.yml έχοντας επιλέξει να το δομήσω με ενδιαφέροντα, ικανότητες και project. Τέλος, πρόσθεσα την εικόνα του βιογραφικού στο /online-cv/assets/images/ και πρόσθεσα το link του βιογραφικού δεξιά στο online-cv.
   
   
+  <img src="https://i.postimg.cc/XJzXKCxH/Screenshot-from-2022-06-05-17-41-57.png" width="562"/> 
   
+  https://i.postimg.cc/XJzXKCxH/Screenshot-from-2022-06-05-17-41-57.png
   
   
   https://github.com/P2019SARAKATSANIS/online-cv/blob/master/_data/data.yml
@@ -101,7 +103,7 @@
   
   spire pdf
   
-<img src="https://i.postimg.cc/GmRqRwK3/Screenshot-from-2022-06-05-17-10-10.png" width="400"/> <img src="https://i.postimg.cc/4xGhyXjM/Screenshot-from-2022-06-05-17-05-49.png" width="400"/> </p> 
+<img src="https://i.postimg.cc/GmRqRwK3/Screenshot-from-2022-06-05-17-10-10.png" width="400"/> <img src="https://i.postimg.cc/4xGhyXjM/Screenshot-from-2022-06-05-17-05-49.png" width="301"/> </p> 
   
   https://i.postimg.cc/4xGhyXjM/Screenshot-from-2022-06-05-17-05-49.png
   
