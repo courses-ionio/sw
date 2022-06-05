@@ -100,10 +100,18 @@
   
 <h2><span id="Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)">(5) Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></h2>
   
+    Για το 5ο παραδοτέο επέλεξα να προσθέσω το λειτουργικό σύστημα Freespire Linux και την βιβλιοθήκη SpirePDF στο forked site της ομάδας μου Ooopaloompas. Επειδή όμως αυτές οι προσθέσει θα προσθεθούν στι site της ομάδας, αρχικά χρεριάστηκε να δημιουργήσω ένα issue που θα περιγράφει αυτά που θέλω να προσθέσω και στην συνέχεια να κάνω ένα pull request στα forked site και gallery καθώς και να έχω δημιουργήσει ένα demo site στο netlify για να αποδείξω ότι οι αλλαγές που έκανα είναι λειτουργικές και δεν χαλάναι την εικόνα της ομάδας.  
   
   
-  spire pdf
+    <h3><br><br> Οι αλλαγές - προσθήκες που έκανα:
   
+1. [Πρόσθεση του Freespire Linux στο Operating systems]()
+2. [Πρόσθεση του Freespire Linux στο ]()
+3. [Πρόσθεση του Spire PDF στο tools]()
+4. [Πρόσθεση του Spire PDF στο ]()
+  
+      
+      
 <img src="https://i.postimg.cc/GmRqRwK3/Screenshot-from-2022-06-05-17-10-10.png" width="500"/> <img src="https://i.postimg.cc/4xGhyXjM/pdf.png" width="500"/> 
   
   https://i.postimg.cc/4xGhyXjM/Screenshot-from-2022-06-05-17-05-49.png
