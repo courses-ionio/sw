@@ -173,11 +173,7 @@
   https://i.postimg.cc/PJrvpzyL/4-net.png
   
   https://i.postimg.cc/BnVzh4Vb/5-net.png
-  
-  <img width="400" height="" src= "https://i.postimg.cc/FH8PyGYJ/joe-hewitt-net.png">
-  
- <img width="" height="" src="https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png">
-  
+ 
   
   
   <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="300"/>
