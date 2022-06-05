@@ -6,8 +6,8 @@
 ### Αριθμός Μητρώου: Π2019135
 ### Github Account: [p19biza](https://github.com/p19biza)
 ### Ομάδα: [ionioi](https://github.com/ionioi)
-### Edpuzzle Account: 2019135
-### Actively Learn Account: p19biza@ionio.gr
+### Edpuzzle Account: 2019135 ή (FIRST NAME: p19biza / LAST NAME: P2019135)
+### Actively Learn Account: p19biza@ionio.gr ή (FIRST NAME: Γιώργος Μπιζάκης / LAST NAME: Π2019135)
 
 
 
@@ -218,3 +218,6 @@
 | --- | --- | --- | --- |
 | 1.| Εργαλεία και Τεχνικές  | :heavy_check_mark: | :heavy_check_mark: |
 | 2.| Τεχνολογία  | :heavy_check_mark: | :heavy_check_mark: |
+
+
+:grey_exclamation: Kανονίκα έπρεπε το LAST NAME να είναι `P2019135` αλλά to actively learn δεν επιτρέπει αλλαγές.
