@@ -1,4 +1,4 @@
-# <h1 align="center">:telescope: Τεχνολογία Λογισμικού</h1> 
+# <h1 align="center">:computer: Τεχνολογία Λογισμικού :desktop_computer:</h1> 
 <h3> Α.Μ.: Π2019150
 <br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
 <h3>
