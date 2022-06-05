@@ -27,7 +27,7 @@
 # Παραδοτέο 2: Βιογραφικό
 Στο συγκεκριμένο παραδοτέο, έπρεπε να κάνουμε το δικό μας βιογραφικό και να δημιουργήσουμε ομάδα, όπου στο webring θα έχουμε ενσωματώσει τα βιογραφικά από όλα τα μέλη της ομάδας. Για το βιογραφικό χρησιμοποίησα ως template το online-cv. Προσπάθησα να τροποποιήσω όσα περισσότερα πράγματα μπορούσα στον κώδικα που μας δόθηκε για περισσότερη εξάσκηση. Οι αλλαγές που έγιναν είναι στο color scheme, όπου επέλεξα δικό μου χρώμα, αλλά και έβαλα ένα δικό μου εικονίδιο-προφίλ. Επίσης, άλλαξα το όνομα του βιογραφικού από "My Resume" σε "My Biography".
 - [Βιογραφικό](https://konstantina3.github.io/online-cv/)
-- ![ΜΥ BIOGRAPHY](https://user-images.githubusercontent.com/56735185/172057430-2ba22bf8-bdc7-47c2-8812-406c52e852b6.png)
+![ΜΥ BIOGRAPHY](https://user-images.githubusercontent.com/56735185/172057430-2ba22bf8-bdc7-47c2-8812-406c52e852b6.png)
 - [Το link του webring](https://ioniancombination.netlify.app/)
 - [Ομάδα](https://github.com/IonianCombination)
 
