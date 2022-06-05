@@ -27,7 +27,7 @@
 # Παραδοτέο 2: Βιογραφικό
 Στο συγκεκριμένο παραδοτέο, έπρεπε να δημιουργήσουμε το δικό μας βιογραφικό και να δημιουργήσουμε ομάδα. Για το βιογραφικό χρησιμοποίησα ως template το online-cv. Προσπάθησα να τροποποιήσω όσα περισσότερα πράγματα μπορούσα στον κώδικα που μας δόθηκε για περισσότερη εξάσκηση. Οι αλλαγές που έγιναν είναι στο color scheme, όπου επέλεξα δικό μου χρώμα, αλλά και έβαλα ένα δικό μου εικονίδιο-προφίλ. Επίσης, άλλαξα το όνομα του βιογραφικού από "My Resume" σε "My Biography".
 - [Αποθετήριο](https://github.com/Vasdekis/online-cv)
--![ΒΙΟΓΡΑΦΙΚΟ](https://user-images.githubusercontent.com/99913413/172057504-de2be201-0cbc-47cd-9007-1f4d20e2fcaf.png) 
+ ![ΜΥ BIOGRAPHY](https://user-images.githubusercontent.com/99913413/172057739-4881e924-0b28-4881-b114-593faf8dd90c.png)
 - [GitHub Pages](https://vasdekis.github.io/online-cv/)
 - [WebRing Pages](https://ioniancombination.netlify.app/)
 
