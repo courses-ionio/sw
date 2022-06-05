@@ -105,10 +105,10 @@
   
     <h3><br><br> Οι αλλαγές - προσθήκες που έκανα:
   
-1. [Πρόσθεση του Freespire Linux στο Operating systems]()
-2. [Πρόσθεση του Freespire Linux στο ]()
-3. [Πρόσθεση του Spire PDF στο tools]()
-4. [Πρόσθεση του Spire PDF στο ]()
+1. [Πρόσθεση του Freespire Linux στο _slides/Operating systems](https://github.com/P2019SARAKATSANIS/site/blob/5paradoteo/_slides/operating-systems.md)
+2. [Πρόσθεση του Freespire Linux στο _timeline/os-apps.md](https://github.com/P2019SARAKATSANIS/site/blob/5paradoteo/_timeline/os-apps.md)
+3. [Πρόσθεση του Spire PDF στο _slides/tools](https://github.com/P2019SARAKATSANIS/site/blob/5paradoteo/_slides/tools.md)
+4. [Πρόσθεση του Spire PDF στο timeline/text-editing](https://github.com/P2019SARAKATSANIS/site/blob/5paradoteo/_timeline/text-editing.md)
   
       
       
