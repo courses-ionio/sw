@@ -1,6 +1,9 @@
 # Ονοματεπώνυμο: Φωτακίδης Ραφαήλ
 # ΑΜ: Π2019116
 # GitHub Profile: https://github.com/rafael5gr2
+# Edpuzzle | First Name: p19fota@ionio.g | Last Name: Π2019116
+
+# Παρατηρήσεις: Για κάποιο λόγο το Edpuzzle δεν δεχόταν ολόκληρο το email μου(p19fota@ionio.gr) σαν First Name, οπότε έβαλα (p19fota@ionio.g).
 
 | Εβδομάδα | Παραδοτέα | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | :-: | :-: | :-: | :-: |
