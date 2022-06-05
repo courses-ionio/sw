@@ -210,7 +210,10 @@
   
   Η βιογραφία του Joe Hewitt
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/>Οι αλλαγές που έκανα:</p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> Οι αλλαγές που έκανα:
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/>Οι αλλαγές που έκανα:
+   1 . 
+   2 . 
+   3 .</p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> Οι αλλαγές που έκανα:
   
   Η μελέτη περίπτωσης για το .NET της microsoft  
   
