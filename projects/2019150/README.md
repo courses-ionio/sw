@@ -217,7 +217,7 @@
  
   
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> </p> <img src="https://postimg.cc/t72rfsFZ"  width="300"/>
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> </p> <img src="https://i.postimg.cc/vHdp49Bz/img2.png"  width="300"/>
   
   https://i.postimg.cc/wB2FWych/eikona1.png
   
