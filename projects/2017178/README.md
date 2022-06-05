@@ -108,7 +108,7 @@
 | Goto |  [image](https://github.com/ionioteam/images/blob/2017178/goto.png) |  [Gallery file](https://github.com/ionioteam/site/blob/2017178/_case-study/goto.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/case-study/goto/)
 | Dijkstra | [Normal](https://github.com/ionioteam/images/blob/2017178/dijkstra.jpg) & [Thumb](https://github.com/ionioteam/images/blob/2017178/dijkstra-thumb.jpg) | [Gallery File](https://github.com/ionioteam/site/blob/2017178/_biography/e-dijkstra.md) | [Link](https://elegant-goldstine-b4ac31.netlify.app/biography/e-dijkstra/)
 
-# Παραδοτέο 11: Άσκηση Γραμμής Εντολών
+# 11ο Παραδοτέο: Άσκηση Γραμμής Εντολών
 Στο συγκεκριμένο επέλεξα την εργασία αξιολόγησης επιδόσεων python scripts με [hyperfine](https://github.com/sharkdp/hyperfine) και [py-spy](https://github.com/benfred/py-spy) στα Altix Linux που εγκατέστησα. Η σύγκριση έγινε ανάμεσα σε δύο αλγορίθμους ταξινόμησης, τον insertion sort και τον bubble sort. Στο asciicast που ακολουθει θα δείτε όλη τη διαδικασία εκτέλεσης και στις παρακάτω φωτογραφίες τα αποτελέσματα που προκύπτουν απο την εκτέλεση του hyperfine.
 ![bubble_profile](https://user-images.githubusercontent.com/44154574/172019653-53adca5b-823b-4b3c-9fbd-5b55e0a98e30.svg)
 ![insertion_profile](https://user-images.githubusercontent.com/44154574/172019656-25a86581-0da2-4dbd-9910-aeb9a80caaff.svg)
