@@ -256,3 +256,7 @@ https://github.com/ioniodi/sitegr/pull/301
 https://github.com/ioniodi/all_collections/pull/4  
 https://github.com/courses-ionio/help/discussions/558  
 
+### "Σχολιασμός τελικής αναφοράς 2 συμφοιτητών"
+https://github.com/courses-ionio/sw/pull/1100
+https://github.com/courses-ionio/sw/pull/1102
+
