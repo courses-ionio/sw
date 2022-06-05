@@ -79,3 +79,11 @@
 
 # Συνεργασία - Ομαδικότητα
 - [Προσθήκη σχολίου](https://github.com/ioniodi/sitegr/issues/291)
+
+
+
+
+![alt text]([http://url/to/img.png](https://github.com/Vasdekis/sw/blob/2018163/projects/2018163/P2018163.gif))
+
+
+
