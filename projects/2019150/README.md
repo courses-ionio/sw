@@ -210,7 +210,7 @@
   
   Η βιογραφία του Joe Hewitt
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> Οι αλλαγές που έκανα:
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> 
   
   Η μελέτη περίπτωσης για το .NET της microsoft  
   
@@ -218,9 +218,8 @@
   
   
   
-     <h3><br><br> Οι προσθήκες και αλλαγές που έκανα:
+<h3><br><br> Οι προσθήκες και αλλαγές που έκανα:
   
-
 1. [Πρόσθεση του βιογραφικού bio-hewitt.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_includes/bio-hewitt.md)
 2. [Πρόσθεση της μελέτης περίπτωσης cs-.net.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_includes/cs-.net.md)
 3. [Πρόσθεση της περίληψης του βιογραφικού joe-hewitt.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_biography/joe-hewitt.md)
