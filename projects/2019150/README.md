@@ -215,7 +215,8 @@
   Η μελέτη περίπτωσης για το .NET της microsoft  
   
    <img src="https://i.postimg.cc/Px8xwLWz/1aa1a.png"  width="300"/><img src="https://i.postimg.cc/tTRkRjFj/netaki.png" width="300"/><img src="https://i.postimg.cc/fTxNpGjK/netto.png" width="300"/> 
-  
+   
+❗ To [Link του netlify](https://629b574a3e5a1575e4e83518--p2019sarakatsanis.netlify.app)
   
   
 <h3><br><br> Οι προσθήκες και αλλαγές που έκανα:
