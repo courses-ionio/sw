@@ -70,7 +70,7 @@
   
    
    <img src="https://i.postimg.cc/BZPjkz17/compailers.png" width="700"/> 
-   https://darling-gingersnap-e29670.netlify.app
+   ❗ To [Link του netlify](https://darling-gingersnap-e29670.netlify.app)
    
  <h3><br>Εργαλεία που χρησιμοποίησα και αρχεία που άλλαξα:
          
