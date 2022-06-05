@@ -49,7 +49,7 @@
 Για το 5ο παραδοτέο έπρεπε να βρούμε δύο εικόνες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image. 
 - Αρχικά, έκανα fork τα repositories: [_gallery](https://github.com/Konstantina3/_gallery) και [image](https://github.com/Konstantina3/images). 
 - Έπειτα, έκανα fork του [pibook/site](https://github.com/Konstantina3/site).
-- Μέσα στο _gallery, δημιούργησα δύο αρχεία: CUCE Linux και UYK - 44. 
+- Μέσα στο _gallery, δημιούργησα δύο αρχεία: SUSE Linux και UYK - 44. 
 - Στο [images](https://github.com/Konstantina3/images/blob/master/suselinux.png) τοποθέτησα φωτογραφία κανονικού μεγέθους.
 - Στο [images-thumb](https://github.com/Konstantina3/images/blob/master/UYK-44%20thumb.png) τοποθέτησαφωτογραφία πλάτους160 pixel thumbnail.
 - 
