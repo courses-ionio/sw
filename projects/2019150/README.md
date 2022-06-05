@@ -176,7 +176,7 @@
  
   
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> <img src="https://i.postimg.cc/vHdp49Bz/Screenshot-from-2022-06-05-16-30-55.png"  width="500"/>
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> <img src="https://i.postimg.cc/vHdp49Bz/Screenshot-from-2022-06-05-16-30-55.png"  width="300"/>
   
   https://i.postimg.cc/wB2FWych/eikona1.png
   
