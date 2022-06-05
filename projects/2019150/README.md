@@ -164,8 +164,6 @@
 
   
   
-  <img width="364" src= "https://i.postimg.cc/T3nF1r4q/1-net.png"> <img width="364" height="200" src= " https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png"> 
-  
   https://i.postimg.cc/NMZZLpBD/2-net.png
   
   https://i.postimg.cc/bry8qmT5/2022-06-04-160432.png
@@ -176,7 +174,7 @@
  
   
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> <img src="https://i.postimg.cc/vHdp49Bz/Screenshot-from-2022-06-05-16-30-55.png"  width="300"/>
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> </p> <img src="https://i.postimg.cc/vHdp49Bz/Screenshot-from-2022-06-05-16-30-55.png"  width="300"/>
   
   https://i.postimg.cc/wB2FWych/eikona1.png
   
