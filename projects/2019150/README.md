@@ -205,15 +205,6 @@
   <br><br>
 <h2><span id="Συμμετοχικό περιεχόμενο B1+B2">(10) Συμμετοχικό περιεχόμενο B1+B2</span></h2>
 
-  
-  
-  https://i.postimg.cc/NMZZLpBD/2-net.png
-  
-  https://i.postimg.cc/bry8qmT5/2022-06-04-160432.png
-  
-  https://i.postimg.cc/PJrvpzyL/4-net.png
-  
-  https://i.postimg.cc/BnVzh4Vb/5-net.png
  
   
   
