@@ -103,7 +103,7 @@
   
   spire pdf
   
-<img src="https://i.postimg.cc/GmRqRwK3/Screenshot-from-2022-06-05-17-10-10.png" width="450"/> <img src="https://i.postimg.cc/4xGhyXjM/pdf.png" width="450"/> 
+<img src="https://i.postimg.cc/GmRqRwK3/Screenshot-from-2022-06-05-17-10-10.png" width="500"/> <img src="https://i.postimg.cc/4xGhyXjM/pdf.png" width="500"/> 
   
   https://i.postimg.cc/4xGhyXjM/Screenshot-from-2022-06-05-17-05-49.png
   
