@@ -24,6 +24,9 @@
 | [10](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#10-συμμετοχικό-περιεχόμενο-b1b2) | [Συμμετοχικό περιεχόμενο B1+B2](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#10-συμμετοχικό-περιεχόμενο-b1b2) | | |
 | [11](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | [Άσκηση γραμμής εντολών](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#11-άσκηση-γραμμής-εντολών) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Για το 11ο παραδοτέο, δεν έκανα κάτι επειδή αφιέρωσα περισσότερο χρόνο για να πραγματοποιήσω τα υπόλοιπα παραδοτέα. |
 | [12](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#12-τελική-αναφορά) | [Τελική αναφορά*](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#12-τελική-αναφορά) | [Ο σύνδεσμός μου στις συζητήσεις για το δωδέκατο παραδοτέο. ](https://github.com/courses-ionio/help/discussions/685) | Για το 12ο παραδοτέο δημιούργησα την τελική αναφορά μου και έκανα το pull request. |
+| [#1](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#1-η-συνεισφορά-μου-στις-συζητήσεις) | [Η Συνεισφορά μου στις συζητήσεις](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#1-η-συνεισφορά-μου-στις-συζητήσεις) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Η συνεισφορά μου στις συζητήσεις δεν ήταν αρκετή αλλά έκανα ότι μπορούσα για να βοηθήσω τους συμφοιτητές μου. |
+| [#2](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#2-τα-βίντεο-κουίζ) | [Τα βίντεο κουίζ](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#2-τα-βίντεο-κουίζ) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Τα βίντεο κουίζ τα περισσότερα τα έκανα τις τελευταίες μέρες πριν την τελική αναφορά. Έκανα και κάποια μέσα στην διάρκεια του εξαμήνου αλλά επειδή είχα κάποια προβλήματα με την σύνδεση δεν προλάβαινα να τα υποβάλλω για να θεωρηθούν εμπρόθεσμα. |
+| [#3](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#3-χρήσιμες-ιστοσελίδες) | [Χρήσιμες ιστοσελίδες](https://github.com/p17gera1/sw/edit/2017060/projects/2017060/README.md#3-χρήσιμες-ιστοσελίδες) | :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: :heavy_multiplication_x: | Οι χρήσιμες ιστοσελίδες είναι μερικές από αυτές που με βοηθήσαν να κάνω ορισμένα πράγματα για το μάθημα. |
 
 -------------------------------------------
   
@@ -35,7 +38,7 @@
 και τον βοηθήσω αντίστοιχα. Κλείνοντας θεωρώ ότι το συγκεκριμένο μάθημα θα με βοηθήσει σε αυτό το πράγμα και ότι θα γνωρίσω έτσι νέους ανθρώπους μέσω των ομάδων, που
 μπορεί στην μετέπειτα ζωή μας να συνεργαστούμε και σε επαγγελματικό επίπεδο.
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -43,7 +46,7 @@
 --------------------------------------------  
 Στην αρχή δημιούργησα το [βιογραφικό ](https://p17gera1.github.io/online-cv/) μου και μετά εντάχθηκα στην ομάδα ([SWkey](https://github.com/SWkey)). Στην συνέχεια πρόσθεσα το βιογραφικό μου στην ομάδα και τέλος έκανα κάτι αλλαγές στο βιογραφικό μου.
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -53,7 +56,7 @@
 
 (Τα παραπάνω βήματα πραγματοποιήθηκαν με την βοήθεια του τερματικού των [Ubuntu 22.04 LTS](https://ubuntu.com/download/desktop))  
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -78,14 +81,14 @@
 1.  ```python3 -m asciinema rec```
 2.  ```exit```
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
 (5) Συμμετοχικό περιεχόμενο A1+A2 
 -------------------------------------------- 
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -118,7 +121,7 @@
 | --- | --- |
 | ![ArxikoTelegram](https://github.com/p17gera1/my_images/blob/main/ArxikoTelegram.jpg) | ![TelikoTelegram](https://github.com/p17gera1/my_images/blob/main/TelikoTelegram.jpg) |
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -169,7 +172,7 @@
 
 5.  ```git push -forigin```  
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -178,7 +181,7 @@
 
 Στο όγδο παραδότεο, έπρεπε να προτείνουμε μία αλλάγη στην ιστοσελίδα και στην συνέχεια να την προσθέσουμε, αν πρώτα έπαιρνε την κατάλληλη έκριση από τους διδάσκοντες. Δυστυχώς, όμως δεν μπόρεσα να κάνω κάτι επείδη κατάλαβα πως ήταν πέρα των δυνατοτήτων μου σε αυτό το χρονικό πλαίσιο που μας δόθηκε. Έτσι αποφάσισα να συνεχίσω με τα υπόλοιπα παραδοτέα.   
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -189,14 +192,14 @@
 
 > Κριτήρια βαθμολογίας: 10% κουίζ + 10% βιογραφικό + 20% ομαδικότητα και συνεργασία + 10% Συμμετοχικό περιεχόμενο + 20% συμμετοχή στην τάξη + 10% 2 ασκήσεις γραμμής εντολών + 20% δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος + 10% προαιρετικό μπόνους
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
 (10) Συμμετοχικό περιεχόμενο B1+B2 
 -------------------------------------------- 
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -208,7 +211,7 @@
 > Κριτήρια βαθμολογίας: 10% κουίζ + 10% βιογραφικό + 20% ομαδικότητα και συνεργασία + 10% Συμμετοχικό περιεχόμενο + 20% συμμετοχή στην τάξη + 10% 2 ασκήσεις γραμμής εντολών + 20% δύο αιτήματα ενσωμάτωσης στην ιστοσελίδα του τμήματος ή/και στον οδηγό σπουδών του τμήματος + 10% προαιρετικό μπόνους
 
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
@@ -216,11 +219,11 @@
 --------------------------------------------  
 Η τελική μου αναφορά για το μάθημα έχει να κάνει με το γεγονός ότι σε αυτό το μάθημα έμαθα πολλά νέα πράγματα. Αρχικά έμαθα πως είναι να προσπαθείς για μήνες να τρέξεις μέσω εικονικών μηχανών στον υπολογιστή σου τα Ubuntu. Μετά όμως από πάρα πολλές προσπάθειες διαπίστωσα ότι ο υπολογιστής μου δεν θέλει να συνεργαστεί και προσπάθησα να τα εγκαταστήσω σε ένα USB. Ευτυχώς, μετά από αυτήν την μέθοδο δούλεψαν και άρχισα να κάνω τα παραδοτέα. Βέβαια έπρεπε να κατεβάσω και το Artix Linux που εκεί η δουλειά ήταν πολύ πιο δύσκολη. Γενικά όμως σε όλη την προσπάθεια μου με βοήθησαν πάρα πολύ ο κύριος Ρίγγας και ο κύριος Αλεξανδράκης που σε κάθε μάθημα προσπαθούσαν να κάνουν το μάθημα πιο εύκολο και πιο ευχάριστο. Στις συναντήσεις του κυρίου Χωριανοπούλου δυστυχώς δεν πήγα διότι δεν ταίριαζε το ωράριο γιατί παρακολουθούσα μαθήματα και από τα τέσσερα έτη σπουδών και δεν μπορούσα να παρευρίσκομαι εκεί. Τα video quiz ήταν πολύ χρήσιμα για να καταλάβει κανείς τι πραγματικά είναι η Τεχνολογία Λογισμικού από την σκοπιά του Alan Kay. Κλείνοντας κατάλαβα πόσο σημαντική δεξιότητα είναι για έναν άνθρωπο στον χώρο της πληροφορικής να γνωρίζει την Τεχνολογία Λογισμικού.
 
-Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον πίνακα.
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
-  
-Η Συνεισφορά μου στις συζητήσεις
+
+#1 Η Συνεισφορά μου στις συζητήσεις
 --------------------------------------------  
 
 | Α/Α | Σχολιασμός |
@@ -232,30 +235,33 @@
 | (5) | :arrow_forward: [Pull request τελικής αναφοράς (1)](https://github.com/courses-ionio/sw/pull/1089) |
 | (6) | :arrow_forward: [Pull request τελικής αναφοράς (2)](https://github.com/courses-ionio/sw/pull/1103) |
 
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
+
 -------------------------------------------
   
-Τα βίντεο κουίζ
+#2 Τα βίντεο κουίζ
 --------------------------------------------  
 
 | Α/Α | Ο τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
 | (1) | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_multiplication_x: | 
-| (2) | Ted Nelson -- Computers for Cynics [full version] | | |
-| (3) | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | | |
-| (4) | Bret Victor - The Future of Programming | | |
-| (5) | Alan Kay - Programming Languages & Programming (2013) | | |
-| (6) | Alan Kay Turing Lecture with dynamic content | | |
-| (7) | Alan Kay at FUTUREWEI workshop Dec 2019 | | |
-| (8) | Alan Kay - Programming and Scaling | | |
-| (9) | Extracting Energy from the Turing Tarpit | | |
-| (10) | Back to the Future of Software Development 4/23/2003 (VPRI 785) | | |
-| (11) | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | | |
-| (12) | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | | |
+| (2) | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_multiplication_x: |
+| (3) | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_multiplication_x: |
+| (4) | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
+| (5) | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_multiplication_x: |
+| (6) | Alan Kay Turing Lecture with dynamic content | :heavy_check_mark: | :heavy_multiplication_x: |
+| (7) | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_check_mark: | :heavy_multiplication_x: |
+| (8) | Alan Kay - Programming and Scaling | :heavy_check_mark: | :heavy_multiplication_x: |
+| (9) | Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_multiplication_x: |
+| (10) | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_check_mark: | :heavy_multiplication_x: |
+| (11) | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_check_mark: | :heavy_multiplication_x: |
+| (12) | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark: | :heavy_multiplication_x: |
 
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
 
 -------------------------------------------
   
-Χρήσιμες ιστοσελίδες
+#3 Χρήσιμες ιστοσελίδες
 --------------------------------------------  
 
 | Α/Α | Σύνδεσμοι |
@@ -264,3 +270,5 @@
 | (2) | [Tutorials σε Markdown](https://www.w3schools.io/file/markdown-introduction/) |
 | (3) | [Emojis σε Markdown](https://github.com/markdown-templates/markdown-emojis) |
 | (4) | [Εγκατάσταση του Artix Linux](https://www.maketecheasier.com/what-is-artix-linux-and-installation/) |
+
+Πάτησε [εδώ](https://github.com/p17gera1/sw/blob/2017060/projects/2017060/README.md#ο-συγκεντρωτικός-πίνακας) για να δεις τον συγκεντρωτικό πίνακα.
