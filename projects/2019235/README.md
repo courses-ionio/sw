@@ -87,6 +87,9 @@
 
 Για το συμμετοχικό περιεχόμενο εμπνεύστηκα από την ιστοσελίδα του [Paul Graham](http://www.paulgraham.com/index.html) την οποία είχα ανακαλύψει διαβάζοντας το άρθρο του "Beating Averages". Αποφάσισα να προσθέσω δύο γλώσσες προγραμματισμού την Lisp και την Arc. Η Lisp αναφέρεται συχνά στο υλικό του μαθήματος, καθώς στα πλαίσια του προγραμματισμού και της πορείας του ανά τα χρόνια, η Lisp όχι μόνο εισήγαγε πρωτοπόρες ιδέες, που χρησιμοποιούνται ακόμα και σήμερα, αλλά θεωρείται από πολλούς πως έχει ακόμα περισσότερες δυνατότητες, αν η φιλοσοφία της διατηρηθεί στην σημερινή ανάπτυξη λογισμικού. Σε συνέχεια αυτού η Arc, είναι μία γλώσσα εμπνευσμένη σε μεγάλο βαθμό από την Lisp και το έργο του McCarthy.
 
+Βοήθεια που έλαβα από την ομάδα μου: https://github.com/ionioi/members/discussions/4
+Pull requests: [First](https://github.com/ionioi/site/pull/14)  [Second](https://github.com/ionioi/site/pull/15)
+
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
 | [Lisp](https://github.com/IsabellaPap/_gallery/blob/c663f94e001ae6e66d8fe8cb0817bce780e0ad17/lisp.md) | [Lisp](https://isabellapap.netlify.app//gallery/lisp/) | [Lisp](https://ionioi-site.netlify.app/gallery/lisp/)
