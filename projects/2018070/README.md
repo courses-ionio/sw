@@ -38,7 +38,7 @@
 - Έκανα fork το repository του site.
 - Έφτιαξα τη δική μου έκδοση του site στο Netlify.
 
-Ωστόσο, μου παρουσιαζόταν το ίδιο λάθος κατά τη διαδικασία του deploy του site, με αποτέλεσμα να μημ εμφανιστούν ποτέ οι αντίστοιχες αλλαγές. Παρακάτω φαίνεται η διαδικασία που ακολούθησα μe όλες τις εντολές που χρησιμοποίησα.
+Ωστόσο, μου παρουσιαζόταν το ίδιο λάθος κατά τη διαδικασία του deploy του site, με αποτέλεσμα να μην εμφανιστούν ποτέ οι αντίστοιχες αλλαγές. Παρακάτω φαίνεται η διαδικασία που ακολούθησα μe όλες τις εντολές που χρησιμοποίησα.
 - [Asciinema Link](https://asciinema.org/a/VCte3R2lJrgxF2ixPlWzSDGeQ)
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών
@@ -47,10 +47,12 @@
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α1+Α2
 Για το 5ο παραδοτέο έπρεπε να βρούμε δύο εικόνες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image. 
-- Αρχικά, έκανα fork τα repositories: site, _gallery και image. 
-- Έπειτα, έκανα fork του pibook/site.
+- Αρχικά, έκανα fork τα repositories: [_gallery](https://github.com/Konstantina3/_gallery) και [image](https://github.com/Konstantina3/images). 
+- Έπειτα, έκανα fork του [pibook/site](https://github.com/Konstantina3/site).
 - Μέσα στο _gallery, δημιούργησα δύο αρχεία: CUCE Linux και UYK - 44. 
-- Στο images 
+- Στο [images](https://github.com/Konstantina3/images/blob/master/suselinux.png) τοποθέτησα φωτογραφία κανονικού μεγέθους.
+- Στο [images-thumb](https://github.com/Konstantina3/images/blob/master/UYK-44%20thumb.png) τοποθέτησαφωτογραφία πλάτους160 pixel thumbnail.
+- 
 
 # Παραδοτέο 6: Άσκηση γραμμής εντολών
 Στο συγκεκριμένο παραδοτέο, δοκίμασα να εγκαταστήσω σε Oracle Virtual Vm, το Freebsd το οποίο είναι εκδοχή Linux χωρίς systemd. Η διαδικασία φαίνεται παρακάτω εκτελώντας την εντολή neofetch:
