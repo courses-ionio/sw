@@ -205,18 +205,13 @@
   <br><br>
 <h2><span id="Συμμετοχικό περιεχόμενο B1+B2">(10) Συμμετοχικό περιεχόμενο B1+B2</span></h2>
 
- 
+ Για αυτό το παραδοτέο πρέσθεσα την βιογραφία του Joe Hewitt και μία μελέτη περίπτωσης, που αναφαίρεται στο .Net. η διαδικασία ήταν ίδια με το παραδοτέο 5 μόνο που τώρα χρειάστηκε να κάνω έρευνα για δύο καλά δομημένα κείμενα τα οποία θα προσθέσω πάλι στο forked από την ομάδα μου Oopaloompas `site` στον φάκελο `_includes` και στην συνέχεια να δημιουργήσω ένα περιληπτικό κείμενο για καθένα από τα δύο που δημιούργησα πριν (Βιογραφία και μελέτη περίπτωσης). Στην συχέχεια,  έγιναν και κάποιοες προσθέσεις για την σωστή λειτουργεία και οπτικοποίησης των κειμένων μου και τέλος το pull request και ένα demosite στο netlify για δείξω στα μέλη της ομάδας μου τι αριβώς έκανα και αν γίνει δεκτό να γίνει merge στο site της ομάδας.
   
   
+  Η βιογραφία του Joe Hewitt
   <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/>
   
-  https://i.postimg.cc/wB2FWych/eikona1.png
-  
-  <img src="https://i.postimg.cc/FH8PyGYJ/joe-hewitt-net.png"  width="300"/> <img src="https://i.postimg.cc/Qt14f72x/joe-hewitt-net2.png"  width="300"/>
-  
-  
-  
-  
+  Η μελέτη περίπτωσης για το .NET της microsoft  
    <img src="https://i.postimg.cc/Px8xwLWz/1aa1a.png"  width="300"/><img src="https://i.postimg.cc/tTRkRjFj/netaki.png" width="300"/><img src="https://i.postimg.cc/fTxNpGjK/netto.png" width="300"/> 
   
   
