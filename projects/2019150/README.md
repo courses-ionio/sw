@@ -209,9 +209,11 @@
   
   
   Η βιογραφία του Joe Hewitt
+  
   <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/>
   
   Η μελέτη περίπτωσης για το .NET της microsoft  
+  
    <img src="https://i.postimg.cc/Px8xwLWz/1aa1a.png"  width="300"/><img src="https://i.postimg.cc/tTRkRjFj/netaki.png" width="300"/><img src="https://i.postimg.cc/fTxNpGjK/netto.png" width="300"/> 
   
   
