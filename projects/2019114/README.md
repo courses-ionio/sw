@@ -122,3 +122,14 @@ Tο [Demo](https://incandescent-youtiao-2b1f29.netlify.app/people/atsipis/) με
 | 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark:  | :heavy_check_mark: |
 | 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
 | 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_check_mark: | :heavy_check_mark: |
+
+
+| # | Η συνεισφορά μου |
+| --- | --- |
+| 1 | [Διόρθωση σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/245) |
+| 2 | [Βοήθεια σε συμφοιτητή](https://github.com/courses-ionio/help/discussions/406) |
+| 3 | [Σχόλιο σε issue](https://github.com/ioniodi/all_collections/pull/54#event-6321316037) |
+| 4 | [Σχόλιο σε issue](https://github.com/ioniodi/all_collections/pull/58#event-6383392144) |
+| 5 | [Σχόλιο σε issue](https://github.com/ioniodi/all_collections/pull/57#event-6429910182) |
+| 6 | [Βοηθητικό σχόλιο σε pull request τελικής αναφοράς 1](https://github.com/courses-ionio/sw/pull/1097) |
+
