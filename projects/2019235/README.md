@@ -4,18 +4,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussion](https://github.com/courses-ionio/help/discussions/58) | |
-| 2 | βιογραφικό και δημιουργία ομάδας |[Discussion]() | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Discussion]() | |
-| 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussion](https://github.com/courses-ionio/help/discussions/58) | 10 |
+| 2 | βιογραφικό και δημιουργία ομάδας | | 6 |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | 7 |
+| 4 | Άσκηση γραμμής εντολών | | 5 |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | 8 |
+| 6 | Άσκηση γραμμής εντολών | | 0 |
+| 7 | βιογραφικό | | 0 |
+| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | 0 |
+| 9 | Άσκηση γραμμής εντολών | | 0 |
+| 10 | συμμετοχικό περιεχόμενο B1+B2 | | 0 |
+| 11 | Άσκηση γραμμής εντολών | | 0 |
+| 12 | Τελική αναφορά* | | 9 |
 
 ## Εισαγωγή
 
@@ -90,9 +90,9 @@
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
 | [Lisp](https://github.com/IsabellaPap/_gallery/blob/c663f94e001ae6e66d8fe8cb0817bce780e0ad17/lisp.md) | [Lisp](https://isabellapap.netlify.app//gallery/lisp/) | [Lisp](https://ionioi-site.netlify.app/gallery/lisp/)
-| [Arc](github.com/IsabellaPap/_gallery/blob/c663f94e001ae6e66d8fe8cb0817bce780e0ad17/arc.md) | [Arc](https://isabellapap.netlify.app//gallery/arc/) | [Arc](https://ionioi-site.netlify.app/gallery/arc/)
+| [Arc](https://github.com/IsabellaPap/_gallery/blob/master/arc.md) | [Arc](https://isabellapap.netlify.app//gallery/arc/) | [Arc](https://ionioi-site.netlify.app/gallery/arc/)
 | [timeline](https://github.com/IsabellaPap/site/blob/master/_timeline/programming.md) | [timeline](https://isabellapap.netlify.app//timeline/programming/) | [timeline](https://ionioi-site.netlify.app/timeline/programming/) |
-| [slides](https://github.com/IsabellaPap/site/blob/master/_slides/programming.md)) | [slides](https://isabellapap.netlify.app//slides/programming/) | [slides](https://ionioi-site.netlify.app/slides/programming/) |
+| [slides](https://github.com/IsabellaPap/site/blob/master/slides/programming.md) | [slides](https://isabellapap.netlify.app//slides/programming/) | [slides](https://ionioi-site.netlify.app/slides/programming/) |
 
 
 ## 7η Εβδομάδα
@@ -113,6 +113,7 @@
 
 ## Συμπεράσματα
 Από την θεωρία του μαθήματος (τα βίντεο και τις συναντήσεις με τον καθηγητή όπου υπήρχε διάλογος), αποκόμισα πολλές ενδιαφέρουσες πληροφορίες και διαφορετικές οπτικές. Το καλύτερο βίντεο κουιζ θεωρώ πως ήταν εκείνο του Ted Nelson, το οποίο εξηγούσε τα misconceptions του κλάδου της τεχνολογίας. Αυτό το βίντεο θεωρώ πως άλλαξε τον τρόπο με τον οποίο αντιλαμβάνομαι τον κλάδο, κυρίως στο εμπορικό του επίπεδο.  Έχωντας καταλάβει περισσότερα, έψαξα να διαβάσω πάνω στο αντικείμενο του μαθήματος, σε πηγές που βρήκα μέσω των συναντήσεων αλλά και μόνη μου (όπως τα άρθρα του Paul Graham).
+Για να κάνω quote τον Alan Kay στο Creative Think - "A change in perspective is worth 80 IQ points", οπότε νιώθω πως από αυτό το κομμάτι του μαθήματος είμαι πολύ ευχαριστημένη.
 
 Στο τεχνικό κομμάτι του μαθήματος, δεν μπορώ να πω πως έχω κάνει κάποια σημαντική πρόοδο, καθώς δεν είχα τον κατάλληλο χρόνο να ασχοληθώ με τις ασκήσεις γραμμής εντολών ή την εναλλακτική μέθοδο deployment με Jekyll που συναντίσαμε. 
 
