@@ -4,7 +4,7 @@
 ### Προσωπικό Github προφίλ: [Mnlsvt](https://github.com/Mnlsvt)
 ### Όνομα οραγνισμού: [Ionioi](https://github.com/ionioi)
 ### Edpuzzle Username: 2019206
-### ActivelyLearn Username/name: p2019206@ionio.gr/π2019206
+### ActivelyLearn Username/name: p2019206@ionio.gr/Π2019206
 
 | Εβδομάδα | Τα παραδοτέα | Σύνδεσμος προς τις [συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) του μαθήματος  | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 | 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/714) | Εκπρόθεσμη παράδοση παραδοτέου. Σε αυτό το παραδοτέο έστησα ένα δικό μου σύστημα και έκανα μερικές warmup ασκήσεις πάνω σε αυτό. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/709) | Σε αυτό το παραδοτέο είχα κάνει αρχικά τις απαραίτητες προσθήκες αλλά το τελικό pull request έγινε εκπρόθεσμα. Επίσης λόγω ενός τεχνικού προβλήματος είχα κάνει κάποιες αλλαγές στα αρχεία τις ομάδας που καλό θα ήταν να μην είχαν γίνει (δε δημιουργήθηκε κανένα πρόβλημα απλά όφειλα να το αναφέρω για λόγους συνεργατικότητας). |
 | 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/715) | |
-| 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έδωσα επιπλέον λειτουργικότητα στο βιογραφικό μου (εξαγωγή pdf αρχείου) και εφάρμοσα continuous integration για να είναι synced το pdf που βγαίνει με το βιογραφικό. | 
+| 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έδωσα επιπλέον λειτουργικότητα στο βιογραφικό μου (εξαγωγή pdf αρχείου) και εφάρμοσα continuous integration με χρήση του github actions για να είναι synced το pdf που παράγεται με το βιογραφικό. | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/716) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έστησα ένα νέο λειτουργικό το οποίο ήταν πιο εύχρηστο για τις εργασίες  του μαθήματος που υλοποίησα στα μετέπειτα παραδοτέα. |
 | 10 | [Συμμετοχικό περιεχόμενο B1+B2](#10-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1b2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/717) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έκανα τις απαραίτητες προσθήκες στο site του μαθήματος βάση των οδηγιών. |
@@ -201,11 +201,12 @@
 
 # <h1 align="center">Ομαδικότητα και συνεργατικότητα</h1>
 
-| Ερωτήσεις που έκανα | Απαντήσεις που έδωσα (ή προσπάθησα) | Σχόλια που έκανα |
-| ---- | ---- | ---- |
-| [Ερώτηση#1](https://github.com/courses-ionio/help/discussions/178) | [Απάντηση#1](https://github.com/courses-ionio/help/discussions/177) | [Σχόλιο#1](https://github.com/courses-ionio/help/discussions/704) |
-| | | [Σχόλιο#2](https://github.com/courses-ionio/help/discussions/696) |
-| | | [Σχόλιο#3](https://github.com/courses-ionio/help/discussions/687) |
+| Ερωτήσεις που έκανα | Απαντήσεις που έδωσα (ή προσπάθησα) | Σχόλια που έκανα | issues που συμμετείχα | issues που δημιούργησα |
+| ---- | ---- | ---- | ---- | ---- |
+| [Ερώτηση#1](https://github.com/courses-ionio/help/discussions/178) | [Απάντηση#1](https://github.com/courses-ionio/help/discussions/177) | [Σχόλιο#1](https://github.com/courses-ionio/help/discussions/704) | [issue#1](https://github.com/ioniodi/sitegr/issues/369) | [issue#1](https://github.com/ioniodi/sitegr/issues/370) |
+| | | [Σχόλιο#2](https://github.com/courses-ionio/help/discussions/696) | [issue#2](https://github.com/ioniodi/sitegr/issues/360) | [issue#2](https://github.com/ioniodi/sitegr/issues/365) |
+| | | [Σχόλιο#3](https://github.com/courses-ionio/help/discussions/687) | [issue#3](https://github.com/ioniodi/sitegr/issues/345) | [issue#3](https://github.com/ioniodi/sitegr/issues/344) |
+| | | | [issue#4](https://github.com/ioniodi/sitegr/issues/253) |
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
