@@ -147,3 +147,4 @@ https://user-images.githubusercontent.com/72515420/168668010-b72c9cad-12f9-44e0-
 - [Έκανα request changes το pull request στην ομάδα @Geoter711(παραδοτέο-10)](https://github.com/Git-s-PopTeamEpic/site/pull/23)
 - [Έκανα request changes το pull request στην ομάδα @xar1sgeovlacp2019059(παραδοτέο-5(δεύτερο pull request))](https://github.com/Git-s-PopTeamEpic/site/pull/22)
 - [Έκανα approve το pull request στην ομάδα @gordthrow(παραδοτέο-10)](https://github.com/Git-s-PopTeamEpic/site/pull/25#pullrequestreview-981014871)
+- [Έκανα παρατηρήσεις στο τελικό pull request ενός συμφοιτητή](https://github.com/courses-ionio/sw/pull/1113)
