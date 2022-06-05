@@ -10,10 +10,10 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/108) | Εμπρόθεσμη συγγραφή της εισαγωγής και μετέπειτα εμπλουτισμού της βάση των στόχων που είχα για αυτό το μάθημα. |
 | 2 | [Βιογραφικό και δημιουργία ομάδας](#2-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/233) | Σε αυτό το παραδοτέο έγινε εμπόθεσμα η δημιουργία του βιογραφικού μου, η ένταξη μου σε [ομάδα](https://github.com/ionioi) και η εισαγωγή του βιογραφικού μου στο webring. |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Αλλαγή του υπεύθυνου καθηγητή της πρακτικής άσκησης από τον κ.Ανδρόνικο στον κ.Νταντογιάν |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/534) | Εκπρόθεσμη υποβολή του παραδοτέου (για μερικές μέρες). Σε αυτό το παραδοτέο άνοιξα συνολικά 3 issues καθώς τα αρχικά δεν πληρούσαν τα απαραίτητα κριτήρια. Τελικά κατέληξα στην αλλαγή του υπεύθυνου καθηγητή της πρακτικής άσκησης. |
 | 4 | [Άσκηση γραμμής εντολών](#4-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/714) | Εκπρόθεσμη παράδοση παραδοτέου. Σε αυτό το παραδοτέο έστησα ένα δικό μου σύστημα και έκανα μερικές warmup ασκήσεις πάνω σε αυτό. |
 | 5 | [Συμμετοχικό περιεχόμενο A1+A2](#5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/709) | Σε αυτό το παραδοτέο είχα κάνει αρχικά τις απαραίτητες προσθήκες αλλά το τελικό pull request έγινε εκπρόθεσμα. Επίσης λόγω ενός τεχνικού προβλήματος είχα κάνει κάποιες αλλαγές στα αρχεία τις ομάδας που καλό θα ήταν να μην είχαν γίνει (δε δημιουργήθηκε κανένα πρόβλημα απλά όφειλα να το αναφέρω για λόγους συνεργατικότητας). |
-| 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/715) | |
+| 6 | [Άσκηση γραμμής εντολών](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/715) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο υλοποίησα μια από τις προτεινόμενες ασκήσεις γραμμής εντολών του μαθήματος και έχω κάνει αναλυτική αναφορά πάνω σε αυτό. (Όλα τα scrpits φαίνονται αναλυτικά στο σχετικό asciinema) |
 | 7 | [Βιογραφικό](#7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/708) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έδωσα επιπλέον λειτουργικότητα στο βιογραφικό μου (εξαγωγή pdf αρχείου) και εφάρμοσα continuous integration με χρήση του github actions για να είναι synced το pdf που παράγεται με το βιογραφικό. | 
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | [Άσκηση γραμμής εντολών](#9-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/716) | Εκπρόθεσμη παράδοση του παραδοτέου. Σε αυτό το παραδοτέο έστησα ένα νέο λειτουργικό το οποίο ήταν πιο εύχρηστο για τις εργασίες  του μαθήματος που υλοποίησα στα μετέπειτα παραδοτέα. |
@@ -58,6 +58,10 @@
 - Τελικό [pull request](https://github.com/ioniodi/all_collections/pull/58) της αλλαγής.
 - [Netlify demo](https://629397e30bc6185fbb7da3da--silver-froyo-fc0f13.netlify.app/courses/practice/) 
 
+<p align="center">
+ <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/dadogian.png?raw=true" width="600" height="400"/> 
+</p>
+
 Για να κάνω αυτή την αλλαγή, χρειάστηκε να ανατρέξω στο βιογραφικό του κ.Νταντογιάν καθώς στο [επίσημο site](https://di.ionio.gr/gr/studies/undergraduate-studies/internship/) του πανεπιστημίου δεν είχε αλλάξει ακόμη 
 
 :exclamation: Αρχικά είχα ανοίξει ένα διαφορετικό [issue](https://github.com/ioniodi/sitegr/issues/344) αλλά λογώ μερικών προβλημάτων δεν είχε γίνει δεκτό και έτσι άνοιξα καινούριο με διαφορετική αλλαγή.
@@ -100,10 +104,16 @@
  <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/kalilinux.jpg?raw=true" width="300"/>  <img src="https://github.com/ionioi/images/blob/76e83fe85c05504d212579e45bc16d4935912447/devuan.jpg?raw=true" height="170" width="300"/>
 </p>
 
-| Οι προσθήκες μου | Οι αλλαγές στο site | 
+| Οι προσθήκες μου | Οι αλλαγές στο [site](https://ionioi-site.netlify.app) | 
 | -- | -- |
 | Kali linux | [Χρονολόγιο](https://ionioi-site.netlify.app/timeline/os-apps/) |
 | Devuan Linux | [Διαφάνειες](https://ionioi-site.netlify.app/slides/os/) |
+
+Μια εικόνα του πως φαίνονται οι προσθήκες στο [site](https://ionioi-site.netlify.app) ⬇️
+
+<p align="center">
+ <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/timeline.png?raw=true" height="200" width="300"/>  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/slides.png?raw=true" height="200" width="300"/>
+</p>
 
 ❗ Πριν τα προωθήσω τις αλλαγές μου στην ομάδα μου, δημιούργησα ένα [Netlify Demo](https://fastidious-trifle-09d72a.netlify.app) στο οποίο έκανα τους απαραίτητους ελέγχους.
 
@@ -170,6 +180,12 @@
 | Mati Aharoni | [Βιογραφία](https://ionioi-site.netlify.app/biography/mati-aharoni/) |
 | Ethical Hacking | [Μελέτη περίπτωσης](https://ionioi-site.netlify.app/case-study/ethicalhacking/) |
 
+Μια εικόνα του πως φαίνονται οι προσθήκες στο [site](https://ionioi-site.netlify.app) ⬇️
+
+<p align="center">
+ <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/mati-aharoni-bio.png?raw=true" height="400" width="500"/>  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/ethical-hacking-case-study.png?raw=true" height="400" width="500"/>
+</p>
+
 Το [pull request](https://github.com/ionioi/site/pull/16) με την προσθήκη του Mati Aharoni και του Ethical Hacking.
 
 
@@ -198,6 +214,10 @@
 Όσων αφορά τη συνεργασία, είδα μια οπτική του πόσο διαφορετικό είναι να δουλεύεις με έναν "μεγάλο" αριθμό σε ένα περιβάλλον αυτής της μορφής και κατάλαβα πόσο σημαντικό είναι να μπορείς να μεταδώσεις σε κάποιον άλλο τη σκέψη σου και πως θέλεις να υλοποιήσεις την ιδέα σου καθώς και το πόσο συνεπής και ακριβής πρέπει να είσαι σε ορισμένα πράγματα. Επίσης κατάλαβα τις δυσκολίες που μπορεί να προκύψουν σε διάφορες περιπτώστεις και καταστάσεις (όπως για παράδειγμα να μην ακολουθούν όλοι το ίδιο χρονοδιάγραμμα) και το πόσο challenging μπορεί να είναι να βρεθούν λύσεις σε τέτοιου είδους προβλήματα.
 
 Τέλος θέλω να αναφέρω το πόσο μου άρεσε προσωπικά η διαδικασία ανάπτυξης λογισμικού το οποίο είχε κάποιου είδους interaction με τον χρήστη (που στην προκείμενη περίπτωση είμαι εγώ), λογισμικό το οποίο μέχρι πρότινος θα έπαιρνα έτοιμο και δε θα "έμπαινα στον κόπο" να φτιάξω από την αρχή (όπως για παράδειγμα οι ασκήσεις [6](#6-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) και [11](#11-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)).
+
+❗ Μια τελευταία προσθήκη σχεικά με τα video quiz...
+
+Μου φάνηκαν γενικά πολύ ενδιαφέροντα και θεωρώ πως αρκετές από αυτές τις διαλέξεις με έβαλαν σε σκέψεις και με ώθησαν στο να ψαχτώ από μόνος μου σε αρκετά ζητήματα (ένα που θυμάμαι και μου έμεινε είναι το file system structure με τον Ted Nelson) παρόλα αυτά οφείλω να αναφέρω πως αρκετές ερωτήσεις ήταν αρκετά δύσκολο να απαντηθούν καθώς ήταν αρκετά φιλοσοφικές και η απάντηση δεν ήταν ξεκάθαρη στις διαλέξεις.
 
 # <h1 align="center">Ομαδικότητα και συνεργατικότητα</h1>
 
