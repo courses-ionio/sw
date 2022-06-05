@@ -217,7 +217,7 @@
  
   
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/> </p> <img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/>
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/>
   
   https://i.postimg.cc/wB2FWych/eikona1.png
   
