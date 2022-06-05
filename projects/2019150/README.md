@@ -16,7 +16,7 @@
 | 9 | <a href="#Άσκηση γραμμής εντολών py-spy"><span class="toctext">Άσκηση γραμμής εντολών py-spy</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/740) | Την 9η εβδομάδα έγινε εγκατάσταση του Alpine Linux και ολοκληρώθηκε το παραδοτέο αυτής της εβδομάδας (εκπρόθεσμο)|
 | 10 | <a href="#Συμμετοχικό περιεχόμενο B1+B2"><span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/743) |Αυτή την εβδομάδα έκανα το παραδοτέο της εβδομάδας. (εκπρόθεσμο) |
 | 11 | <a href="#Άσκηση γραμμής εντολών twilio"><span class="toctext">Άσκηση γραμμής εντολών twilio</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/745) |Από την 11η εβδομάδα έκανα το 11ο παραδοτέο επιτυχώς  (εκπρόθεσμο)|
-| 12 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span> | https://github.com/courses-ionio/help/discussions/747 |Για την τελευταία εβδομάδα έγραψα τα συμπερασματά μου και τους στόχουν που εκπλήρωσα για το μάθημα |
+| 12 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/747) |Για την τελευταία εβδομάδα έγραψα τα συμπερασματά μου και τους στόχουν που εκπλήρωσα για το μάθημα |
 
   
   
