@@ -210,10 +210,7 @@
   
   Η βιογραφία του Joe Hewitt
   
-  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/>Οι αλλαγές που έκανα:
-   1 . 
-   2 . 
-   3 .</p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> Οι αλλαγές που έκανα:
+  <img src="https://i.postimg.cc/wB2FWych/eikona1.png"  width="500"/></p><img src="https://i.postimg.cc/vHdp49Bz/parakeyy.png"  width="500"/> Οι αλλαγές που έκανα:
   
   Η μελέτη περίπτωσης για το .NET της microsoft  
   
@@ -221,7 +218,16 @@
   
   
   
+     <h3><br><br> Οι προσθήκες και αλλαγές που έκανα:
   
+
+1. [Πρόσθεση του βιογραφικού bio-hewitt.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_includes/bio-hewitt.md)
+2. [Πρόσθεση της μελέτης περίπτωσης cs-.net.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_includes/cs-.net.md)
+3. [Πρόσθεση της περίληψης του βιογραφικού joe-hewitt.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_biography/joe-hewitt.md)
+4. [Πρόσθεση της περίληψης της μελέτης περίπτωσης microsoft-.net.md](https://github.com/P2019SARAKATSANIS/site/blob/10paradoteo/_case-study/microsoft-.net.md)
+5. [Πρόσθεση του βιογραφικού στο extras  bio-hewitt.md](https://github.com/P2019SARAKATSANIS/extras/blob/10oparadoteo/bio-hewitt.md)
+6. [Πρόσθεση της μελέτης περίπτωσης στο extras cs-.net.md](https://github.com/P2019SARAKATSANIS/extras/blob/10oparadoteo/cs-.net.md)       
+       
   <br><br>
 
 <h2><span id="Άσκηση γραμμής εντολών twilio">(11) Άσκηση γραμμής εντολών twilio</span></h2>
