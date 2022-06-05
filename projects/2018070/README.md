@@ -46,13 +46,22 @@
 - [Asciinema Link](https://asciinema.org/a/od5FdBhg34Uqrzzd350lC4r7x)
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α1+Α2
-Για το 5ο παραδοτέο έπρεπε να βρούμε δύο εικόνες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image. 
+Για το 5ο παραδοτέο έπρεπε να βρούμε δύο εικόνες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image. Βήματα που ακολούθησα:
 - Αρχικά, έκανα fork τα repositories: [_gallery](https://github.com/Konstantina3/_gallery) και [image](https://github.com/Konstantina3/images). 
 - Έπειτα, έκανα fork του [pibook/site](https://github.com/Konstantina3/site).
 - Μέσα στο _gallery, δημιούργησα δύο αρχεία: SUSE Linux και UYK - 44. 
 - Στο [images](https://github.com/Konstantina3/images/blob/master/suselinux.png) τοποθέτησα φωτογραφία κανονικού μεγέθους.
-- Στο [images-thumb](https://github.com/Konstantina3/images/blob/master/UYK-44%20thumb.png) τοποθέτησαφωτογραφία πλάτους160 pixel thumbnail.
-- 
+- Στο [images-thumb](https://github.com/Konstantina3/images/blob/master/UYK-44%20thumb.png) τοποθέτησα φωτογραφία πλάτους 160 pixel thumbnail.
+- git clone https://github.com/Konstantina3/site
+- cd site
+- ls
+- rm -rf _gallery images
+- git rm -r --cached_gallery
+- git rm -r --cached images
+- git submodule add https://github.com/Konstantina3/_gallery.git _gallery
+- git submodule add https://github.com/Konstantina3/images.git images
+- Deploy site στο netlify.
+<p>Ωστόσο, μου προκύπτει σφάλμα κάθε φορά που προσπαθώ να ανοίξω τις εικόνες μου στο site.</p>
 
 # Παραδοτέο 6: Άσκηση γραμμής εντολών
 Στο συγκεκριμένο παραδοτέο, δοκίμασα να εγκαταστήσω σε Oracle Virtual Vm, το Freebsd το οποίο είναι εκδοχή Linux χωρίς systemd. Η διαδικασία φαίνεται παρακάτω εκτελώντας την εντολή neofetch:
