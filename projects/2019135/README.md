@@ -6,8 +6,8 @@
 ### Αριθμός Μητρώου: Π2019135
 ### Github Account: [p19biza](https://github.com/p19biza)
 ### Ομάδα: [ionioi](https://github.com/ionioi)
-### Edpuzzle Account: 2019135 ή (FIRST NAME: p19biza / LAST NAME: P2019135)
-### Actively Learn Account: p19biza@ionio.gr ή (FIRST NAME: Γιώργος Μπιζάκης / LAST NAME: Π2019135)
+### Edpuzzle Account: 2019135 | (FIRST NAME: p19biza / LAST NAME: P2019135)
+### Actively Learn Account: p19biza@ionio.gr | (FIRST NAME: Γιώργος Μπιζάκης / LAST NAME: Π2019135)
 
 
 
