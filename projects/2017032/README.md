@@ -96,6 +96,15 @@
 ###### S - διαγραφή μιας γραμμής
 ###### Η - μετακίνηση στην αρχή του κειμμένου
 #
+#### Άσκηση 6(manage your bookmarks)
+#### Εγκατάσταση buku μέσω του Pip3
+###### pip3 install buku
+#### Προσθήκη της ιστοσελίδας του πανεπιστημίου ώς Bookmark
+###### buku -a https://ionio.gr
+#### Προσθήκη Bookmark με tags και σχόλια
+###### buku -a https://ionio.gr istoselida_sxolhs, ionio -c Site ioniou panepistimiou
+#### Διαγραφή όλων των Bookmarks
+###### buku -d 
 ### Συμμετοχικό εκπαιδευτικό υλικό 
 ##### 
 ##### 
