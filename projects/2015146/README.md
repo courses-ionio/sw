@@ -69,6 +69,12 @@ Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο 
 
 ## 5ο παραδοτέο 
 
+|  Περιγραφή  | Repository Link | Image Link | Netlify Link |
+| --- | --- | --- | --- |
+| Twiggy Mac | [twiggy_mac.md](https://github.com/p17anto2/_gallery-1/blob/demo-branch/inferno.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/twiggymac.png) | [Twiggy Mac](https://p17anto2-site.netlify.app/gallery/inferno/)
+| Sun Solaris 10 | [solaris.md](https://github.com/p17anto2/_gallery-1/blob/f89b28cb9b20a6e09ff9b8bc31fbdf0ac5082059/gtk.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) \| [Thumbnail](https://github.com/p17anto2/images-1/blob/9235ed38cea076d2350ff0795d1ad85dadabccb4/gtk-thumb.png) | [Sun Solaris 10](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) | |
+
+
 ## 6ο παραδοτέο 
 
 Για του σκοπούς αυτού του παραδοτέου αναζήτησα ένα άλλο linux distribution ονομαζόμενο Linux Void όπου πραγματοποιήθηκε η εγκατάσταση με τη βοήθεια του γραφικού περιβάλλοντος και εκτέλεσα κάποιες εντολές που έχουν να κάνουν με την αρχικοποίηση συστήματος και για άσκηση χρησιμοποίησα την εντολή τον έλεγχο του καιρού "curl wttr.in".
@@ -77,6 +83,7 @@ Link Asciinema (Weather Check): https://asciinema.org/a/24HOGIGbBHEfXjMGLYtRpENf
 
 Φωτογραφικό υλικό από εγκαταστάσεις (Link αποθετηρίου/repository): 
 https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/linux-void
+
 
 ## 7ο παραδοτέο 
 
