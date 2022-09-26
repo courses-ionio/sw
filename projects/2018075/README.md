@@ -28,3 +28,11 @@
 ## Παραδοτέο 1ο
 
 Για την ολοκλήρωση του πρώτου παραδοτέου, πραγματοποίησα το Fork του courses-ionio/sw repository, δημιούργησα νέο φάκελο με όνομα τα ψηφία απο τον Αριθμό Μητρώου μου (2018075) και πρόσθεσα στο README.md αρχείο τον πίνακα των ασκήσεων, την εισαγωγή καθώς και τον σύνδεσμο απο το github discussions όπου την δημοσίευσα. (#154)
+
+## Παραδοτέο 2ο
+
+Για την ολοκλήρωση του δεύτερου παραδοτέου χρησιμοποίησα το github pages καθώς και το ruby gem Jekyll για να ανεβάσω το προσωπικό μου βιογραφικό. Ως template χρησιμοποίησα την δημοσίευση του χρήστη [Sharu725](https://github.com/sharu725/online-cv). Αρχικά έκανα fork το repository του χρήστη Sharu725 και στην συνέχεια έκανα clone το forked repo στο ubuntu container για να κάνω όσες αλλαγές και τροποποιήσεις χρειαζόντουσαν locally μέσα στο docker. Αφού επεξεργάστηκα όλα τα απαραίτητα στοιχεία στο αρχείο _data/data.yml έτρεξα το local cv στην σελίδα του http://localhost:8080/.Μόλις ήμου ικανοποιημένος απο την εμφάνιση καθώς και τα απεικονιζόμενα δεδομένα, έκανα upload μια εικόνα προφίλ μεγέθους 100x100px στο directory online-cv/assets/images. Τέλος, έκανα `git add` τα αρχεία `index.html` και `data.yml` και με το τελικό commit και push έκανα host το βιογραφικό στα Github Pages.
+
+[Repository Link](https://github.com/hlias31/online-cv)
+
+[Link Βιογραφικού](https://hlias31.github.io/online-cv/)
