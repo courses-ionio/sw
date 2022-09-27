@@ -6,10 +6,10 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link Συζητήσεων](https://github.com/courses-ionio/help/discussions/154)| |
-| 2 | βιογραφικό και δημιουργία ομάδας | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/759) | Η δημιουργία του βιογραφικού ήταν απλή αλλά αρκετά διασκεδαστική. |
+| <a href="#P1">1</a> | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link Συζητήσεων](https://github.com/courses-ionio/help/discussions/154)| |
+| <a href="#P2">2</a> | βιογραφικό και δημιουργία ομάδας | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/759) | Η δημιουργία του βιογραφικού ήταν απλή αλλά αρκετά διασκεδαστική. |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| <a href="#P4">4</a> | Άσκηση γραμμής εντολών |[Link συζήτησης](https://github.com/courses-ionio/help/discussions/761) | Η πραγματοποίηση του παραδοτέου αποδείχτηκε μια ενδιαφέρουσα πρόκληση. Στο τέλος οδήγησε στην ανάλυση προβλήματος και out-of-the-box σκέψεων για την επίλυση και δημιουργία ειδοποιήσεων.|
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
@@ -25,14 +25,23 @@
 
 Ονομάζομαι Ηλίας-Βασίλειος Βαρελάς, και σπουδάζω στο 8ο εξάμηνο της σχολής μου. Το παρόν κείμενο αποτελεί το πρώτο παραδοτέο του μαθήματος. Ο στόχος μου για το μάθημα είναι η εξικοίωση μου με την διαδικασία δημιουργίας λογισμικού, με την χρήση διαφορετικών ομαδικών εργαλείων ταυτόχρωνης ανάπτυξης λογισμικού, χρήση και personalization του τερματικού, και δημιουργία διαφορετικών σελίδων. Επιπλέον, θα ήθελα να αποκτήσω μεγαλύτρερη εξοικίωση με το GitHub καθώς είναι ενα απο τα εργαλεία που θα χρησιμοποιήσω ακόμα περισσότερο στο μέλλον ως developer.
 
-## Παραδοτέο 1ο
+## <a name="P1">Παραδοτέο 1</a>
 
 Για την ολοκλήρωση του πρώτου παραδοτέου, πραγματοποίησα το Fork του courses-ionio/sw repository, δημιούργησα νέο φάκελο με όνομα τα ψηφία απο τον Αριθμό Μητρώου μου (2018075) και πρόσθεσα στο README.md αρχείο τον πίνακα των ασκήσεων, την εισαγωγή καθώς και τον σύνδεσμο απο το github discussions όπου την δημοσίευσα. (#154)
 
-## Παραδοτέο 2ο
+## <a name="P2">Παραδοτέο 2</a>
 
 Για την ολοκλήρωση του δεύτερου παραδοτέου χρησιμοποίησα το github pages καθώς και το ruby gem Jekyll για να ανεβάσω το προσωπικό μου βιογραφικό. Ως template χρησιμοποίησα την δημοσίευση του χρήστη [Sharu725](https://github.com/sharu725/online-cv). Αρχικά έκανα fork το repository του χρήστη Sharu725 και στην συνέχεια έκανα clone το forked repo στο ubuntu container για να κάνω όσες αλλαγές και τροποποιήσεις χρειαζόντουσαν locally μέσα στο docker. Αφού επεξεργάστηκα όλα τα απαραίτητα στοιχεία στο αρχείο _data/data.yml έτρεξα το local cv στην σελίδα του http://localhost:8080/. Μόλις ήμουν ικανοποιημένος απο την εμφάνιση καθώς και τα απεικονιζόμενα δεδομένα, έκανα upload μια εικόνα προφίλ μεγέθους 100x100px στο directory online-cv/assets/images. Τέλος, έκανα `git add` τα αρχεία `index.html` και `data.yml` και με το τελικό commit και push έκανα host το βιογραφικό στα Github Pages.
 
 [Repository Link](https://github.com/hlias31/online-cv)
 
 [Link Βιογραφικού](https://hlias31.github.io/online-cv/)
+
+## <a name="P4">Παραδοτέο 4</a>
+
+Για το 4ο παραδοτέο σκόπευα να χρησιμοποιήσω το εργαλείo ntfy για να στείλω ειδοποιήσεις στο κινητό μου αλλά υπήρξαν μερικά θέματα. Αρχικά είχα θέμα με την εύρεση του `ntfy.yml` αρχείου, το οποίο δοκίμασα, αφού ανακάλυψα πως δεν δημιουργήθηκε απο την εντολή `pip install ntfy` να το δημιουργήσω μόνος μου στο directory που δηλώνει το [documentation](https://ntfy.readthedocs.io/en/stable/?badge=latest), όμως δεν κατάφερα να το εξοπλίσω με τις κατάλληλες ρυθμίσεις, και έτσι κόλλησα πίσω απο το `WARNING: DISPLAY not set`. Επίσης είδα πως το συγκεκριμένο πρόβλημα είναι στα ανοιχτά issues[No.128](https://github.com/dschep/ntfy/issues/128) του ntfy repository απο το 2016. Έτσι αποφάσισα να αξιοποιήσω κάποιο εναλλακτικό εργαλείο όπως το [pushbullet](https://www.pushbullet.com/). Δυστυχώς δεν κατάφερα να το κάνω να ειδοποιεί σύμφωνα με κάποιο task, όμως έστειλα επιτυχώς notifications.
+
+[Link](https://asciinema.org/a/sqcWuAGpdPcswqfEqKEOLLtLf) για το asciinema video
+και screenshots απο τις ειδοποιήσεις:
+![εικόνα1](https://user-images.githubusercontent.com/56680695/192622055-c9029272-ecce-49f7-ba20-968d4423870b.png)
+![εικόνα2](https://user-images.githubusercontent.com/56680695/192622180-377c9565-4d76-41fe-96bd-8a179c046277.png)
