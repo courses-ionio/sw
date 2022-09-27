@@ -69,6 +69,10 @@ No systemd/Systemd: https://nosystemd.org/
 
 Συμμετοχικό περιεχόμενο Α1 και Α2
 
+
+Στο συγκεκριμένο παραδοτέου συμμετοχικολυ περιεχομένου ζητήθηκε η επιλογή δύο θεμάτων για ενσωμάτωση στο online book με χρήση φωτογραφιών ελεύθερης αδειοδότησης. Αναλυτικός πίνακας με τα περιεχόμενα του παραδοτέου και συνδέσμους βρίσκεται παρακάτω.
+
+
 |  Περιγραφή  | Repository Link | Image Link | Netlify Link |
 | --- | --- | --- | --- |
 | Workplace Shell for Windows | [wps.md](https://github.com/arse21/_gallery/blob/master/wps.md) | [Image](https://github.com/arse21/images/blob/master/wps.png) | [Workplace Shell for Windows](https://arse21-pipbook.netlify.app/slides/wps/)
@@ -106,6 +110,17 @@ https://courses-ionio.github.io/help/social/
 
 ## Παραδοτέο 7
 
+Για του σκοπούς του παραδοτέου αυτού έγινε η υλοποίηση του ζητούμενου για τη μετατροπή του online βιογραφικού με χρήση του εργαλείου LaΤex. Παρακάτω φαίνονται τα βήματα που έκανα καθώς και οι σύνδεσμοι προς το αποθετήριο με το βιογραφικό μου και τα αρχεία που παράχθησαν καθώς και ο σύνδεσμος Asciinema.
+
+Βήματα εκτέλεσης:
+- Δημιουργία φακέλου "out" στο αποθετήριο όπου βρίσκεται το βιογραφικό
+- Εκτέλεση εντολής "pandoc https://arse21.github.io/online-cv/ -o /out/cv.tex -s" για την παραγωγή και αποθήκευση του αρχείου .tex στον φάκελο που δημιουργήθηκε στο βήμα 1) 
+- Εκτέλεση εντολής pdflatex για την μετατροπή στο τελικό pdf
+
+Σύνδεσμοι:
+
+- Asciinema: https://asciinema.org/connect/a15c1784-91c6-441f-901e-bf57bbaaaadb
+- CV in LaTex & PDF: https://github.com/arse21/online-cv/tree/gh-pages/out
 
 ## Παραδοτέο 8
 
