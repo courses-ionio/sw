@@ -94,19 +94,6 @@ https://courses-ionio.github.io/help/social/
 
 ## Παραδοτέο 6
 
-Συμμετοχικό περιεχόμενο Β1 και Β2
-
-Η παρούσα υποενότητα αφορά στην ενωμάτωση μίας μελέτης περίπτωσης και ενός βιογραφικού στο online βιβλίο. Τα θέματα που επέλεξα ήταν η Microsoft ως προς την μελέτη περίπτωσης και o Bill Gates για το βιογραφικό. Παρακάτω φαίνεται ο πίνακας με όλο το υλικό που υλοποίησα και οι σύνδεσμοι όπου βρίσκεται το καθένα.
-
-|  Περιγραφή  | Repository Link | Image Link | Netlify Link |
-| --- | --- | --- | --- |
-| Microsoft | [microsoft.md](https://github.com/arse21/site/blob/b2d587564ec61c75112462a315a250f03d5e8b13/_case-study/microsoft.md) | [Image](https://github.com/arse21/images/blob/master/microsoft-basic.jpg) | [Microsoft](https://arse21-pibook.netlify.app//timeline/microsoft/)
-| Bill Gates | [bill_gates.md](https://github.com/arse21/site/blob/b2d587564ec61c75112462a315a250f03d5e8b13/_biography/bill-gates.md) | [Image](https://github.com/arse21/images/blob/master/microsoft-basic.jpg) | [Bill Gates](https://arse21-pibook.netlify.app//timeline/bill-gates/) | |
-
-
-Διαφάνειες: https://arse21-pipbook.netlify.app/slides
-Χρονολόγιο: https://arse21-pipbook.netlify.app/timeline/
-
 
 ## Παραδοτέο 7
 
@@ -129,6 +116,19 @@ https://courses-ionio.github.io/help/social/
 
 
 ## Παραδοτέο 10
+
+Συμμετοχικό περιεχόμενο Β1 και Β2
+
+Η παρούσα υποενότητα αφορά στην ενωμάτωση μίας μελέτης περίπτωσης και ενός βιογραφικού στο online βιβλίο. Τα θέματα που επέλεξα ήταν η Microsoft ως προς την μελέτη περίπτωσης και o Bill Gates για το βιογραφικό. Παρακάτω φαίνεται ο πίνακας με όλο το υλικό που υλοποίησα και οι σύνδεσμοι όπου βρίσκεται το καθένα.
+
+|  Περιγραφή  | Repository Link | Image Link | Netlify Link |
+| --- | --- | --- | --- |
+| Microsoft | [microsoft.md](https://github.com/arse21/site/blob/b2d587564ec61c75112462a315a250f03d5e8b13/_case-study/microsoft.md) | [Image](https://github.com/arse21/images/blob/master/microsoft-basic.jpg) | [Microsoft](https://arse21-pibook.netlify.app//timeline/microsoft/)
+| Bill Gates | [bill_gates.md](https://github.com/arse21/site/blob/b2d587564ec61c75112462a315a250f03d5e8b13/_biography/bill-gates.md) | [Image](https://github.com/arse21/images/blob/master/microsoft-basic.jpg) | [Bill Gates](https://arse21-pibook.netlify.app//timeline/bill-gates/) | |
+
+
+Διαφάνειες: https://arse21-pipbook.netlify.app/slides
+Χρονολόγιο: https://arse21-pipbook.netlify.app/timeline/
 
 ## Παραδοτέο 11
 
