@@ -57,7 +57,7 @@
 ## 11o Παραδοτέο - Άσκηση Γραμμής εντολών
 #Εισαγωγή
 
-## 12ο Παραδοτέο - Τελική αναφορά
+## 12ο Παραδοτέο - Τελική αναφορά & Συμπεράσματα
 Με την ολοκλήρωση του μαθήματος και των παραδοτέων...
 
 
@@ -73,6 +73,24 @@
 [H ομάδα μου](https://github.com/LostMpodis)
 
 
+## Βίντεο κουίζ & κουίζ κειμένου
+
+|  | Τίτλος | Πραγματοποιήθηκε | Εμπρόθεσμα |
+| :-: | --- | :-: | :-: |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :x: | :x: |
+| 4 | Bret Victor - The Future of Programming | :x: | :x: |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :x: | :x: |
+| 6 | Alan Kay Turing Lecture with dynamic content | :x: | :x: |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :x: | :x: |
+| 8 | Alan Kay - Programming and Scaling | :x: | :x: |
+| 9 | Extracting Energy from the Turing Tarpit | :x: | :x: |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :x: | :x: |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :x: | :x: |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :x: | :x: |
+| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :x: | :x: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :x: | :x: |
 
 
 
