@@ -42,6 +42,11 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 <div align="center"><a href="https://asciinema.org/a/KC5xpGXQ53IGee2cqUTk4jFvj" target="_blank"><img src="https://asciinema.org/a/KC5xpGXQ53IGee2cqUTk4jFvj.svg" /></a></div>
 
+Βήματα:
+
+Κάνω fork το repository του παραδείγματος βιογραφικού. Διαγράφω και δημιουργώ από την αρχή το brantch QA-CV αντι για το gh-pages για το hosting της σελίδας του βιογραφικού. Κάνω εισαγωγή των στοιχείων μου και αλλαγή του theme μέσω των αρχείων ```config.yml``` και ```_data.yml```
+
+
 ## 3o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Εισαγωγή
 
