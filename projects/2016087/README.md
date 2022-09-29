@@ -65,7 +65,29 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Εισαγωγή
 
 ## 9o Παραδοτέο - Άσκηση γραμμής εντολών
-Εισαγωγή
+Στο αυτό το παραδοτέο χρειάστηκε να πραγματοποιήσουμε μια άσκηση γραμμής εντολών μέσω τερματικού. Προσωπικά επέλεξα να ασχοληθώ με την εργασία «Send notification to desktop» μέσα από το ntfy. Μέσω αυτής έχουμε τη δυνατότητα να στείλουμε ειδοποιήσεις στην επιφάνεια εργασίας ή στο κινητό. Στην συνέχεια απεικονίζεται η διαδικασία μέσω της οποίας πραγματοποιείται η αποστολή notification όταν τελειώνει μια εργασία των 7 δευτερολέπτων. Επειδή αντιμετώπισα προβλήματα με την εγκατάσταση της εντολής ntfy στο FreeBSD σκέφτηκα να πραγματοποιήσω την άσκηση στα Ubuntu αλλά επειδή γνώριζα ότι θα βαθμολογηθεί αρνητικά λόγω του ότι τα Ubuntu διαθέτουν system προσπάθησα να ψάξω περισσότερες πληροφορίες για την εγκατάσταση των πακέτων στο FreeBSD. Τελικά κατάφερα να εγκαταστήσω το ntfy αλλά ένα άλλο πρόβλημα που αντιμετώπισα είναι ότι δεν εμφανιζόντουσαν τα notification στην οθόνη.
+
+<div align="center"><a href="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j" target="_blank"><img src="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j.svg" /></a></div>
+
+Βήματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων
+```pkg search ntfy```
+```pkg install ntfy-2.7.0.14```
+
+Με το ```asciinema rec``` ξεκινάω το record του terminal
+
+Δοκιμάζω την αποστολή ειδοποιήσεων μέσω της εντολής ```ntfy send "message"``` και ```ntfy -t 'p2016087' send "message"```
+
+Με την εντολή ```CTRL+d``` και ```exit``` ολοκλήρωσα το recording του terminal
+
+Πηγές:
+
+[How to install applications in freebsd](https://twiserandom.com/freebsd/how-to-install-applications-in-freebsd/index.html)
+
+https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
+
+[Notify-send and Ntfy](https://www.youtube.com/watch?v=bbdQXfReuG0)
 
 ## 10o Παραδοτέο - Συμμετοχικό Περιεχόμενο B1+B2
 Εισαγωγή
