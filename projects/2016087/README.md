@@ -34,9 +34,11 @@
 Εισαγωγή
 
 ## 4o Παραδοτέο - Άσκηση γραμμής εντολών
-ΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγήΕισαγωγή
+Για συγκεκριμένο παραδοτέο αποφάσισα να εγκαταστήσω είναι το «GhostBSD», το οποίο είναι βασισμένο στο «FreeBSD» μέσο VMware. Ο λόγος που επέλεξα το λογισμικό αυτό είναι περισσότερο γιατί μου φάνηκε απλό στην χρήση του αλλά και λειτουργικό. Με την πάροδο του χρόνου ίσος δοκιμάσω και άλλα, αλλά για την ώρα θα δοκιμάσω το συγκεκριμένο.
 
-<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="1000"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="1000"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="1000"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="1000"/>
+<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
+
+<div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Εισαγωγή
