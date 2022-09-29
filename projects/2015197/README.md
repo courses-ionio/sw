@@ -33,6 +33,14 @@ Link template pου χρησιμοποιήθηκε: https://github.com/sharu725/
 Link βιογραφικού στο GitHub: https://arse21.github.io/online-cv/
 Link printable βιογραφικού στο GitHub: https://arse21.github.io/online-cv/print
 
+---
+
+Όσον αφορά το webring της ομάδας μου "Student Fossils" συνεισέφερα κάνοντας διάφορες στυλιστικές αλλαγές όπως το χρώμα με το στυλ "gradient" για το πρώτο τμήμα της webring σελίδας. Ακόμα έγιναν αλλαγές και στο font αλλά και line-height.
+
+#### Το organization της ομάδας μας: https://github.com/StudentFossils
+#### Το webring της ομάδας μας: https://student-fossils.netlify.app/ 
+#### Το repository του webring της ομάδας μας: https://github.com/StudentFossils/webring
+
 
 ## Παραδοτέο 3
 
