@@ -27,7 +27,14 @@
 Εισαγωγή
 
 ## 2o Παραδοτέο - Βιογραφικό και δημιουργία ομάδας
-Εισαγωγή
+Όσον αφορά το βιογραφικό μου επέλεξα το συγκεκριμένο template. Αρχικά, όπως αναφέρεται και στις οδηγίες, έκανα φόρκ το συγκεκριμένο αποθετήριο και στην συνέχεια δημιούργησα ένα καινούργιο branch το «QA-CV» για περισσότερη εξάσκηση. Στην συνέχεια αντικατέστησα τις πληροφορίες στο αρχείο data.yml/config.yml. Μετά από αρκετές αποτυχημένες προσπάθειες κατάφερα να φτιάξω τη βασική δομή. Έπειτα, δημιουργήθηκε το organization [LostMpodis](https://github.com/LostMpodis), και το αποθετήριο του webring, στο οποίο πρόσθεσα και το link για το βιογραφικό μου.
+
+Βιογραφικό: [Repo](https://github.com/p16z/CV) [Site](https://p16z.github.io/CV/)
+
+Organization: [LostMpodis](https://github.com/LostMpodis)
+
+Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis.github.io/webring/)
+
 
 <img src="https://github.com/p16z/assets/blob/3a05120509f0f93d2eec7c785514028b4ada416c/A/bio2022-09-29%20205644.png?raw=true" alt="drawing" width="500"/>
 
