@@ -15,7 +15,7 @@
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9) | [Discussion Link](https://github.com/courses-ionio/help/discussions/775) | |
 | 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10) | [Discussion Link](https://github.com/courses-ionio/help/discussions/776) | | |
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11) | [Discussion Link](https://github.com/courses-ionio/help/discussions/777) | | |
-| 12 | [Τελική αναφορά](#παραδοτέο-12) | [Discussion Link](https://github.com/courses-ionio/help/discussions/778) | |
+| 12 | [Τελική αναφορά](#παραδοτέο-12) | [Discussion Link](https://github.com/courses-ionio/help/discussions/779) | |
 
 ## Παραδοτέο 1 - Εισαγωγή
 
