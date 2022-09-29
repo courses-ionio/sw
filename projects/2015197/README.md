@@ -4,18 +4,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής], αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[link1](https://github.com/courses-ionio/help/discussions/147) |
-| 2 | βιογραφικό και δημιουργία ομάδας | | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής], αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussion Link](https://github.com/courses-ionio/help/discussions/147) |
+| 2 | [Βιογραφικό και δημιουργία ομάδας](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-2) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-3) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 4 | [Άσκηση γραμμής εντολών](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-4) |  [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-5) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 6 | [Άσκηση γραμμής εντολών](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-6)| [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 7 | [βιογραφικό](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-7) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-8) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 9 | [Άσκηση γραμμής εντολών](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-9) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-10) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 11 | [Άσκηση γραμμής εντολών](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-11) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 12 | [Τελική αναφορά](https://github.com/arse21/sw/tree/2015197/projects/2015197#παραδοτέο-11) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
 
 ## Παραδοτέο 1 - Εισαγωγή
 
@@ -36,8 +36,15 @@ Link printable βιογραφικού στο GitHub: https://arse21.github.io/on
 
 ## Παραδοτέο 3
 
-Το παραδοτέο αυτό αφορά την ενσωμάτωση κάποιων καινούργιων feature στην ιστοσελίδα του τμήματος του πανεπιστημίου
+Το παραδοτέο αυτό αφορά την ενσωμάτωση κάποιων καινούργιων feature στην ιστοσελίδα του τμήματος του πανεπιστημίου.
+Αυτό που επέλεξα να κάνω σε συνεργασία με την ομάδα μου είναι η προσθήκη της αναπληρώτρια καθηγήτριας Άννας Σωτηροπούλου στην κατηγορία ΕΔΙΠ (https://di.ionio.gr/en/department/staff/490-sotiropoulou/).
+Έτσι δημιουρήθηκε το issue https://github.com/ioniodi/sitegr/issues/410.
+Παρόλο που δεν υπήρχε χρόνος για την αποδοχή του αιτήματος η ομάδα μου και γω προχωρήσαμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
 
+Link Netlify: https://arse21-ionian-uni.netlify.app/people/asotir
+Link issue: https://github.com/ioniodi/sitegr/issues/410
+Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411
+Pull request Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68
 
 ## Παραδοτέο 4
 
@@ -117,6 +124,14 @@ https://courses-ionio.github.io/help/social/
 
 ## Παραδοτέο 8
 
+Το ζητούμενο του τρέχοντος παραδοτέου είναι ένα δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος του πανεπιστημίου μας. Για το σκοπό αυτό αποφάσισα να ανοίξω νέο issue το οποίο αφορά την προσθήκη μιας νέας ανακοίνωσης στο τμήμα ανακοινώσεων πανεπιστημίου.
+Η προσθήκη που έγινε αφορά το open call για το ιόνιο animation festival (https://ionio.gr/gr/news/24635/).
+Αν και μπορεί η ομάδα μου να έφτασε στο βήμα για την αποδοχή του αιτήματος ενσωμάτωσης από κάποιον αξιολογητή, θεωρήσαμε όμως ορθό να προχωρήσουμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
+
+Link Netlify: https://arse21-ionian-uni.netlify.app/posts/2022/08/23/open_call_ioanian_festival/
+Link issue: https://github.com/ioniodi/sitegr/issues/413
+Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411
+Pull request Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68
 
 ## Παραδοτέο 9
 
