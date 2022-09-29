@@ -14,7 +14,7 @@
 | <a href="#P6">6</a> | Άσκηση γραμμής εντολών | [Link συζήτησης](https://github.com/courses-ionio/help/discussions/766) | Η ολοκλήρωση του παραδοτέου ήταν αρκετά απλή χάρη στο εκτενές documentation του εργαλείου.|
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
+| <a href="#P9">9</a> | Άσκηση γραμμής εντολών | [Link συζήτησης](https://github.com/courses-ionio/help/discussions/780) | Η Εκτέλεση ήταν απλή και σύντομη. |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
 | 11 | Άσκηση γραμμής εντολών | | |
 | 12 | Τελική αναφορά| | |
@@ -53,3 +53,9 @@
 [link](https://asciinema.org/a/56wdxoXxTw7ax8htbCTIGnGxI) εγκατάστασης του wttr.
 
 [Link](https://asciinema.org/a/4Z4OSEiRI3iwLJ4H4K1cLr4sa) εκτέλεσης των αναφορών καιρού με κανονική προβολή
+
+## <a name="P9">Παραδοτέο 9</a>
+
+Για το 9ο παραδοτέο χρησιμοποίησα το `taskwarrior` ώστε να δημιουργήσω ένα TODO List και να οργανώσω την ημέρα μου.
+
+[Asciinema Link](https://asciinema.org/a/z0njH3ee9cUll2MUFUSVcebSm)
