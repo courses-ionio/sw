@@ -29,6 +29,11 @@
 ## 2o Παραδοτέο - Βιογραφικό και δημιουργία ομάδας
 Εισαγωγή
 
+<img src="https://github.com/p16z/assets/blob/3a05120509f0f93d2eec7c785514028b4ada416c/A/bio2022-09-29%20205644.png?raw=true" alt="drawing" width="500"/>
+
+<div align="center"><a href="https://asciinema.org/a/D7pm6AsjIOPGgHSDubeSuDb03" target="_blank"><img src="https://asciinema.org/a/D7pm6AsjIOPGgHSDubeSuDb03.svg" /></a></div>
+
+<div align="center"><a href="https://asciinema.org/a/KC5xpGXQ53IGee2cqUTk4jFvj" target="_blank"><img src="https://asciinema.org/a/KC5xpGXQ53IGee2cqUTk4jFvj.svg" /></a></div>
 
 ## 3o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Εισαγωγή
@@ -36,7 +41,7 @@
 ## 4o Παραδοτέο - Άσκηση γραμμής εντολών
 Για συγκεκριμένο παραδοτέο αποφάσισα να εγκαταστήσω είναι το «GhostBSD», το οποίο είναι βασισμένο στο «FreeBSD» μέσο VMware. Ο λόγος που επέλεξα το λογισμικό αυτό είναι περισσότερο γιατί μου φάνηκε απλό στην χρήση του αλλά και λειτουργικό. Με την πάροδο του χρόνου ίσος δοκιμάσω και άλλα, αλλά για την ώρα θα δοκιμάσω το συγκεκριμένο.
 
-<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
+<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="300"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="300"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
