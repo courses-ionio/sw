@@ -10,7 +10,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων |[Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης 
 | :-: | --- | :-: | :-: |
 | 1η | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση | 
-| 2η | Βιογραφικό και δημιουργία ομάδας | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
+| 2η | [Βιογραφικό και δημιουργία ομάδας](#-2o-Παραδοτέο---Βιογραφικό-και-δημιουργία-ομάδας) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
 | 3η | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Ατελές |
 | 4η | Άσκηση γραμμής εντολών | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Ατελές |
 | 5η | Συμμετοχικό περιεχόμενο A1+A2 | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Ατελές |
