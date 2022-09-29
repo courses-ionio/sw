@@ -5,17 +5,17 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής], αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussion Link](https://github.com/courses-ionio/help/discussions/147) |
-| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτέο-2) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4) |  [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6)| [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 7 | [βιογραφικό](#παραδοτέο-7) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
-| 12 | [Τελική αναφορά](#παραδοτέο-12) | [Discussion Link](https://github.com/courses-ionio/help/discussions/147) | |
+| 2 | [Βιογραφικό και δημιουργία ομάδας](#παραδοτέο-2) | [Discussion Link](https://github.com/courses-ionio/help/discussions/768) | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-3) | [Discussion Link](https://github.com/courses-ionio/help/discussions/769) | |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4) |  [Discussion Link](https://github.com/courses-ionio/help/discussions/770) | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](#παραδοτέο-5) | [Discussion Link](https://github.com/courses-ionio/help/discussions/771) | |
+| 6 | [Άσκηση γραμμής εντολών](#παραδοτέο-6)| [Discussion Link](https://github.com/courses-ionio/help/discussions/772) | |
+| 7 | [βιογραφικό](#παραδοτέο-7) | [Discussion Link](https://github.com/courses-ionio/help/discussions/773) | |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#παραδοτέο-8) | [Discussion Link](https://github.com/courses-ionio/help/discussions/774) | |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9) | [Discussion Link](https://github.com/courses-ionio/help/discussions/775) | |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](#παραδοτέο-10) | [Discussion Link](https://github.com/courses-ionio/help/discussions/776) | | |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11) | [Discussion Link](https://github.com/courses-ionio/help/discussions/777) | [Discussion Link](https://github.com/courses-ionio/help/discussions/778) | |
+| 12 | [Τελική αναφορά](#παραδοτέο-12) | [Discussion Link](https://github.com/courses-ionio/help/discussions/779) | |
 
 ## Παραδοτέο 1 - Εισαγωγή
 
