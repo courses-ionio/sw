@@ -122,6 +122,8 @@ pdflatex cv.tex
 
 <div align="center"><a href="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j" target="_blank"><img src="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j.svg" /></a></div>
 
+<div align="center"><img src="https://github.com/p16z/assets/raw/main/A/ntfy--2022-09-30%20001646.png" /></a></div>
+
 Βήματα:
 
 Κάνω εγκατάσταση των απαραίτητων πακέτων
