@@ -64,7 +64,11 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Εισαγωγή
 
 ## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
-Εισαγωγή
+Για την δεύτερη εβδομάδα για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το Alpine Linux το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
+
+[![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
+
+<img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/>
 
 ## 7o Παραδοτέο - Bιογραφικό
 Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1).
