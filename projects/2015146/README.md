@@ -25,12 +25,16 @@ To git και το github είναι ευρέως διαδεδομένα συσ�
 Όσον αφορά το κόμματι με τη γραμμή εντολών δεν μου είχε κεντρίσει πάρα πολύ το ενδιαφέρον, όμως μετέπειτα με τη τριβή και με τον πειραματισμό κατανοήσα κάποια πράγματα και φυσικά το πως μπορούν να βοηθήσουν κάποιον που ενασχολείται κυρίως με υπολογιστές. Υπάρχουν εντολές, ακόμα και scripts τα οποία εμπεριέχουν τις εντολές αυτές που μπορούν να αυτοματοποιήσουν κάποιες καθημερινές εργασίες ενός προγραμματιστή αλλά συντελεί και στην ταχύτερη επιτέλεση κάποιων εργασιών. Έτσι, χρησιμοποιώντας και εγώ με τη σειρά μου τις εντολές αυτές για τους σκοπούς αυτού του μαθήματος γνώρισα να επιτελώ κάποιες βασικές εργασίες αλλά και κάποιες από τις πτυχές των λειτουργικών συστημάτων Linux.
 Εν τέλει το κομμάτι της εργασίας με την γραμμή εντολών μου φάνηκε το πιο ενδιαφέρον και έπειτα και η συγγραφή και υλοποίηση του βιογραφικού, το οποίο θα μπορούσα να το χρησιμοποιήσω φυσικά και για την αρχή της επαγγελματικής μου πορείας ως μέσω για κάποιες συνεντεύξεις ή αίτηση μεταπτυχιακού για τη συνέχιση των σπουδών μου.
 
+
 ## 2ο παραδοτέο 
 
 Όσον αφορά το 2ο κομμάτι της εργασίας για τη συγγραφή του βιογραφικού προτίμησα να ανεβάσω το βιογραφικό χρησιμοποιώντας το gihub pages ως host, καθώς μου άρεσε η τριβή και η διεπαφή γενικότερα της ιστοσελίδας/εργαλείου του GitHub και θα ήθελα έτσι να δω και αυτό το κομμάτι.
 Οι αρχικές οδηγίες για την κατασκευή του βιογραφικού βρίσκονται σε link που αναγράφεται παρακάτω. Μετέπειτα ασχολήθηκα ώστε να προσθέσω και δικά μου features/υλοποιήσεις πάνω σε αυτό κυρίως για το αισθητικό κομμάτι. Οι αλλαγές αυτές πραγματοποιήθηκαν μέσω του αρχείου "_config.yml"
 
-Τέλος, για την ενσωμάτωση του βιογραφικού μου στο webring της ομάδας έκανα pull request ανεβάζοντας το link του βιογραφικού ώστε να εμφανιστεί στο netlify που γίνεται host η ιστοσελίδα του οργανισμού/ομάδας μας. Ακόμα, συνείσφερα στην ομάδα κάνοντας κάποιες διορθώσεις και τροποποιήσεις για το τελικό αποτέλεσμα της εμφάνισης του webring.
+Τέλος, για την ενσωμάτωση του βιογραφικού μου στο webring της ομάδας έκανα pull request ανεβάζοντας το link του βιογραφικού ώστε να εμφανιστεί στο netlify που γίνεται host η ιστοσελίδα του οργανισμού/ομάδας μας. Ακόμα, συνείσφερα στην ομάδα κάνοντας κάποιες διορθώσεις και τροποποιήσεις για το τελικό αποτέλεσμα της εμφάνισης του webring. Πιο συγκεκριμένα έγινε τροποποίηση στο αρχείο _variables.scss όπου βρίσκονται οι βασικές ιδιότητες για την εμφάνιση της ιστοσελίδας. Τροποποιήθηκαν οι μετταβλητές για το χρώμα του σώματος/φόντου της σελίδας αλλά και το font-style και weight.
+
+
+Σύνδεσμοι:
 
 Template που χρησιμοποιήθηκε ως βάση: https://github.com/deadoralive1908/konstantinos-cv-jekyll-theme
 
@@ -38,9 +42,26 @@ Link από github repository βιογραφικού: https://github.com/deadora
 
 Τελικό link βιογραφικού στο github pages: https://deadoralive1908.github.io/konstantinos-cv-jekyll-theme/
 
+#### Το organization της ομάδας μας: https://github.com/StudentFossils
+#### Το webring της ομάδας μας: https://student-fossils.netlify.app/ 
+#### Το repository του webring της ομάδας μας: https://github.com/StudentFossils/webring
+
+
 ## 3ο παραδοτέο 
 
-Το 3ο παραδοτέο αφορά αίτημα ενσωμάτωσης στην επίσημη ιστοσελίδα του τμήματος (https://di.ionio.gr/gr/department/staff/737-vrahatis/) του πανεπιστημίου ή/και στον οδηγό σπουδών του τμήματος.
+Το 3ο παραδοτέο αφορά αίτημα ενσωμάτωσης στην επίσημη ιστοσελίδα του τμήματος του πανεπιστημίου ή/και στον οδηγό σπουδών του τμήματος. To issue το οποίο εργαστήκαμε ως ομάδα ήταν η προσθήκη της καθηγήτριας Άννα Σωτηροπούλου στο προσωπικό του τμήματος (συγκριμένα στην βαθμίδα ΕΔΙΠ).
+
+Για τον σκοπό αυτό έγινε fork το αποθετήριο sitegr αλλά και all_collections. Προστέθηκαν και ενημερώθηκαν αρχεία και στα 2 αποθετήρια και τέλος έγινε deploy το site μέσω netlify.
+
+Να αναφέρουμε πως παρόλο που δεν υπήρχε χρόνος για την αποδοχή του αιτήματος η ομάδα μου και γω προχωρήσαμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
+
+Στο review του pull request παρατηρήθηκε ένα μικρό λάθος στη διαδρομή της εικόνας για το βιογραφικό της καθηγήτριας και έτσι επενέβησα με ένα σχόλιο ώστε να διορθωθεί, διαφορετικά θα φαινόταν η φωτογραφία broken.
+
+- Link Netlify: https://arse21-ionian-uni.netlify.app/people/asotir 
+- Link issue: https://github.com/ioniodi/sitegr/issues/410 
+- Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411
+- Pull request - Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68
+
 
 ## 4ο παραδοτέο 
 
@@ -73,12 +94,12 @@ Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο 
 
 |  Περιγραφή  | Repository Link | Image Link | Netlify Link |
 | --- | --- | --- | --- |
-| Twiggy Mac | [twiggy_mac.md](https://github.com/p17anto2/_gallery-1/blob/demo-branch/inferno.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/twiggymac.png) | [Twiggy Mac](https://p17anto2-site.netlify.app/gallery/inferno/)
-| Sun Solaris 10 | [solaris.md](https://github.com/p17anto2/_gallery-1/blob/f89b28cb9b20a6e09ff9b8bc31fbdf0ac5082059/gtk.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) | [Sun Solaris 10](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) | |
+| Twiggy Mac | [twiggy_mac.md](https://github.com/deadoralive1908/_gallery/blob/master/twiggy_mac.md) | [Image](https://github.com/deadoralive1908/images/blob/5955a2048e4ec69e69cb5e69f5bd823c16dd5dbf/twiggy_mac_thumbnail.jpeg) | [Twiggy Mac](https://kmetax-pibook.netlify.app/gallery/twiggy_mac)
+| Sun Solaris 10 | [solaris.md](https://github.com/deadoralive1908/_gallery/blob/master/solaris.md) | [Image](https://github.com/deadoralive1908/images/blob/5955a2048e4ec69e69cb5e69f5bd823c16dd5dbf/solaris10_thumbnail.jpeg) | [Sun Solaris 10](https://kmetax-pibook.netlify.app/gallery/twiggy_mac) | |
 
 
-Χρονολόγιο:
-Διαφάνειες:
+- Χρονολόγιο: https://kmetax-pibook.netlify.app/timeline
+- Διαφάνειες: https://kmetax-pibook.netlify.app/slides
 
 
 ## 6ο παραδοτέο 
@@ -103,6 +124,21 @@ Asciinema Link: https://asciinema.org/a/fBm7phrAVoLAeXQQfXgJI2uxh
 
 ## 8ο παραδοτέο 
 
+Για το ζητούμενο του παραδοτέου αυτού πραγματοποιήθηκε ένα δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος του πανεπιστημίου μας. Έτσι ανοίχθηκε  ένα νέο issue το οποίο αφορά την προσθήκη μιας νέας ανακοίνωσης στο τμήμα ανακοινώσεων πανεπιστημίου. 
+
+Η προσθήκη που έγινε αφορά το open call για το ιόνιο animation festival (https://ionio.gr/gr/news/24635/). 
+
+Προστέθηκε νέο αρχείο στο φάκελο posts του αποθετηρίου "all_collections" όπως φαίνεται και στο αίτημα ενσωμάττωσης ένα από τα παρακάτω links (4).
+
+Αν και μπορεί η ομάδα μου να έφτασε στο βήμα για την αποδοχή του αιτήματος ενσωμάτωσης από κάποιον αξιολογητή, θεωρήσαμε όμως ορθό να προχωρήσουμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
+
+
+- Link Netlify: https://arse21-ionian-uni.netlify.app/posts/2022/08/23/open_call_ioanian_festival/ (1)
+- Link issue: https://github.com/ioniodi/sitegr/issues/413 (2)
+- Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411 (3)
+- Pull request Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68 (4)
+
+
 
 ## 9ο παραδοτέο 
 
@@ -125,14 +161,12 @@ Asciinema Link: https://asciinema.org/connect/a15c1784-91c6-441f-901e-bf57bbaaaa
 
 |  Περιγραφή  | Repository Link | Image Link | Netlify Link |
 | --- | --- | --- | --- |
-| Apple | [apple.md](https://github.com/p17anto2/_gallery-1/blob/demo-branch/inferno.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/twiggymac.png) | [Apple](https://p17anto2-site.netlify.app/gallery/inferno/)
-| Steve Jobs | [steve_jobs.md](https://github.com/p17anto2/_gallery-1/blob/f89b28cb9b20a6e09ff9b8bc31fbdf0ac5082059/gtk.md) | [Image](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) | [Steve Jobs](https://github.com/deadoralive1908/cli-linux-distros-screenshots/blob/b64ff16b75eac52a2677dd38e314cd5e46004e86/gallery-images/sol10logo.png) | |
+| Apple | [apple.md](https://github.com/deadoralive1908/site/blob/master/_case-study/apple.md) | [Image](https://github.com/deadoralive1908/images/blob/master/apple.png) | [Apple](https://pibook.epidro.me/case-study/apple/)
+| Steve Jobs | [steve_jobs.md](https://github.com/deadoralive1908/site/blob/master/_biography/steve_jobs.md) | [Image](https://github.com/deadoralive1908/images/blob/master/steve_jobs.jpg) | [Steve Jobs](https://pibook.epidro.me/timeline/steve_jobs/) | |
 
 
-Χρονολόγιο:
-Διαφάνειες:
-
-
+- Χρονολόγιο: https://kmetax-pibook.netlify.app/timeline
+- Διαφάνειες: https://kmetax-pibook.netlify.app/slides
 
 
 ## 11ο παραδοτέο 
