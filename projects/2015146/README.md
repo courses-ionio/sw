@@ -5,17 +5,17 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής], αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752
-| 2 | βιογραφικό και δημιουργία ομάδας | [Link of discussion](https://github.com/courses-ionio/help/discussions/758) | https://github.com/courses-ionio/help/discussions/758 | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 4 | Άσκηση γραμμής εντολών | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 6 | Άσκηση γραμμής εντολών |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 7 | βιογραφικό |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 9 | Άσκηση γραμμής εντολών |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 11 | Άσκηση γραμμής εντολών | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
-| 12 | Τελική αναφορά* | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 2 | [βιογραφικό και δημιουργία ομάδας](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#2ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/758) | https://github.com/courses-ionio/help/discussions/758 | |
+| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#3ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 4 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#4ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#5ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 6 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#6ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 7 | [βιογραφικό](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#7ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#8ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 9 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#9ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 10 | [συμμετοχικό περιεχόμενο B1+B2](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#10ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 11 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#11ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
+| 12 | [Τελική αναφορά](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#12ο-παραδοτέο)| [Link of discussion](https://github.com/courses-ionio/help/discussions/146) | https://github.com/courses-ionio/help/discussions/752 | |
 
 ## 1ο παραδοτέο 
 
