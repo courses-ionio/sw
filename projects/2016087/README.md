@@ -73,12 +73,13 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 ## 7o Παραδοτέο - Bιογραφικό
 Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1).
 
-Για να γίνει το CI χρησιμοποίησα τα GitHub Actions με το οποίο όποτε κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf [GitHub Actions](https://github.com/)
+Οσο για το CI χρησιμοποίησα τα GitHub Actions με όνομα [auto_create_PDF](https://github.com/p16z/CV/actions) με το οποίο όταν κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf 
+
+[GitHub Actions](https://github.com/p16z/CV/actions/runs/3159798789/workflow)
 
 [![asciicast](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1.svg)](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1)
 
 Δείτε το αντίστοιχο PDF [εδώ](https://github.com/p16z/CV/blob/master/pdf_cv/cv.pdf)
-
 
 <img src="https://github.com/p16z/assets/raw/main/A/pdf-canvas.png" alt="drawing" width="500"/> <img src="https://github.com/p16z/assets/raw/main/A/pdf-canva2s.png" alt="drawing" width="500"/>
 
