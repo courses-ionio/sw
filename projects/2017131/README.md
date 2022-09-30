@@ -47,7 +47,7 @@
 ![telegram2](https://user-images.githubusercontent.com/43935718/158906102-4ccff74c-6e0b-4894-bcd1-ff75d2e05c31.gif)
 
 ## Παραδοτέο 7/Βιογραφικό σε pdf
-Για την μετατροπή του online βιογραφικού σε pdf χρησιμοποίησα τις κατάλληλες εντολές στο terminal και έκανα καταγραφή όλης της διαδικασίας μέσω του asciinema. Η καταγραφη από την εγκατάσταση του pandoc βρίσκεται [εδώ](https://asciinema.org/a/NdbjPmxS75hivIok6RG1HgZD4) και από την μετατροπή του online βιογραφικού σε pdf είνα [εδώ](https://asciinema.org/a/Khro3J0so3wYiNQn3AHID8SjT). Παρακάτω βρίσκονται εικόνες από το pdf που δημιουργήθηκε μετά την μετατροπή: 
+Για την μετατροπή του online βιογραφικού σε pdf χρησιμοποίησα τις κατάλληλες εντολές στο terminal και έκανα καταγραφή όλης της διαδικασίας μέσω του asciinema. Η καταγραφη από την εγκατάσταση του pandoc βρίσκεται [εδώ](https://asciinema.org/a/NdbjPmxS75hivIok6RG1HgZD4) και από την μετατροπή του online βιογραφικού σε pdf είνα [εδώ](https://asciinema.org/a/Khro3J0so3wYiNQn3AHID8SjT). Το αρχείο pdf που προέκυψε βρίσκεται [εδώ](https://github.com/p17meli/online-cv/blob/master/pdf/cv.pdf). Παρακάτω βρίσκονται εικόνες από το pdf που δημιουργήθηκε μετά την μετατροπή: 
 ![cv_page-0001](https://user-images.githubusercontent.com/43935718/193309849-fc7f37b2-f726-4471-8ee4-0d3bce6c0883.jpg)
 ![cv_page-0002](https://user-images.githubusercontent.com/43935718/193309945-b6e3d0bd-fc81-45e5-86c0-307095eafc42.jpg)
 
