@@ -9,18 +9,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων |[Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης 
 | :-: | --- | :-: | :-: |
-| 1η | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση | 
-| 2η | [Βιογραφικό και δημιουργία ομάδας](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
+| 1η | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/800) | Πλήρης Εκτέλεση | 
+| 2η | [Βιογραφικό και δημιουργία ομάδας](#2o-παραδοτέο---βιογραφικό-και-δημιουργία-ομάδας) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/801) | Πλήρης Εκτέλεση |
 | 3η | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#3o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [-](https://github.com/courses-ionio/help/discussions/) | Ατελές |
-| 4η | [Άσκηση γραμμής εντολών](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
-| 5η | [Συμμετοχικό περιεχόμενο A1+A2](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
-| 6η | [Άσκηση γραμμής εντολών](#6ο-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
-| 7η | [Βιογραφικό](#7o-παραδοτέο---bιογραφικό) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
+| 4η | [Άσκηση γραμμής εντολών](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/802) | Πλήρης Εκτέλεση |
+| 5η | [Συμμετοχικό περιεχόμενο A1+A2](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/803) | Πλήρης Εκτέλεση |
+| 6η | [Άσκηση γραμμής εντολών](#6ο-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/804) | Πλήρης Εκτέλεση |
+| 7η | [Βιογραφικό](#7o-παραδοτέο---bιογραφικό) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/805) | Πλήρης Εκτέλεση |
 | 8η | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](#8o-παραδοτέο---αίτημα-ενσωμάτωσης-στην-ιστοσελίδα) | [-](https://github.com/courses-ionio/help/discussions/) | Ατελές |
-| 9η | [Άσκηση γραμμής εντολών](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
+| 9η | [Άσκηση γραμμής εντολών](#9o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/806) | Πλήρης Εκτέλεση |
 | 10η | [Συμμετοχικό περιεχόμενο B1+B2](#10o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | [-](https://github.com/courses-ionio/help/discussions/) | Ατελές |
-| 11η | [Άσκηση γραμμής εντολών](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
-| 12η | [Τελική αναφορά*](#12ο-παραδοτέο---τελική-αναφορά--συμπεράσματα) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/) | Πλήρης Εκτέλεση |
+| 11η | [Άσκηση γραμμής εντολών](#11o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/807) | Πλήρης Εκτέλεση |
+| 12η | [Τελική αναφορά*](#12ο-παραδοτέο---τελική-αναφορά--συμπεράσματα) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/809) | Πλήρης Εκτέλεση |
 
 
 ## 1ο Παραδοτέο - Εισαγωγή
