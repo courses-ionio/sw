@@ -70,6 +70,8 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 Ο λόγος που επέλεξα το Alpine Linux είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρηστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
 
+[How to upgrade Alpine Linux](https://www.cyberciti.biz/faq/how-to-upgrade-alpine-linux-3-4-to-3-5-xx/)
+
 [![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
 
 <div align="center"> <img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/></div>
