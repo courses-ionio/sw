@@ -66,9 +66,9 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Εισαγωγή
 
 ## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
-Για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το Alpine Linux το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
+Για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το [Alpine Linux](https://www.alpinelinux.org/) το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
 
-Ο λόγος που επέλεξα το Alpine Linux είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρηστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
+Ο λόγος που επέλεξα το [Alpine Linux](https://github.com/dylanaraps/neofetch/wiki/Installation#alpine-linux) είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρήστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
 
 [How to upgrade Alpine Linux](https://www.cyberciti.biz/faq/how-to-upgrade-alpine-linux-3-4-to-3-5-xx/)
 
