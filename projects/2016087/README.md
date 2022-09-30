@@ -62,6 +62,8 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
+Όσον αφορά την warmup άσκηση, η ιστοσελίδα που έπρεπε να επισκεφτεί ```https://wttr.in/``` δεν είναι πια διαθέσιμη με αποτέλεσμα να μην μπορεί να εκτελεστεί η επόμενη εντολή ```curl wttr.in/Greece+Athens```
+
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Εισαγωγή
 
