@@ -65,7 +65,7 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Όσον αφορά την warmup άσκηση, η ιστοσελίδα που έπρεπε να επισκεφτεί ```https://wttr.in/``` δεν είναι πια διαθέσιμη με αποτέλεσμα να μην μπορεί να εκτελεστεί η επόμενη εντολή ```curl wttr.in/Greece+Athens```
 
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
-Εισαγωγή
+Όσον αφορά το 5o παραδοτέο του μαθήματος μας ζητήθηκε να ενσωματώσουμε στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου "Προγραμματισμός της διάδρασης" δυο θέματα όπου και τα δύο να αφορούν λογισμικό. H ενσωμάτωση έπρεπε να πραγματοποιειθεί μέσω του [κεντρικού αποθετηρίου pibook της ομάδας - LostMpodis](https://github.com/LostMpodis/site). Συνοπτικά, για το κάθε θέμα ξεχωριστά έπρεπε να ανεβάσουμε δύο εικόνες στο [images](https://github.com/LostMpodis/images), να το περιγράψουμε στο [_gallery](https://github.com/LostMpodis/_gallery) πραγματοποιώντας τις κατάλληλες αλλαγές στο φάκελο και να αλλάξουμε ή να προσθέσουμε αναλόγως με την θεματική ενότητα τα αρχεία στους φακέλους [timeline](https://github.com/LostMpodis/site/tree/master/_timeline) και [sides](https://github.com/LostMpodis/site/tree/master/_slides).
 
 ## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
 Για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το [Alpine Linux](https://www.alpinelinux.org/) το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
