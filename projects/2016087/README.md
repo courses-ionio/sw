@@ -67,7 +67,14 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Εισαγωγή
 
 ## 7o Παραδοτέο - Bιογραφικό
-Εισαγωγή
+Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema]().
+
+Για να γίνει το CI χρησιμοποίησα τα GitHub Actions με το οποίο όποτε κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf [GitHub Actions](https://github.com/)
+
+[![asciicast](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1.svg)](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1)
+
+Δείτε το αντίστοιχο PDF [εδώ](https://github.com/p16z/CV/blob/master/pdf_cv/cv.pdf)
+
 
 ## 8o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Εισαγωγή
