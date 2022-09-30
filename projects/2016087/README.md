@@ -70,6 +70,8 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 Ο λόγος που επέλεξα το [Alpine Linux](https://github.com/dylanaraps/neofetch/wiki/Installation#alpine-linux) είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρήστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
 
+[Alpine Linux: The First Installation](https://www.youtube.com/watch?v=8WYgynP8VJ8)
+
 [How to upgrade Alpine Linux](https://www.cyberciti.biz/faq/how-to-upgrade-alpine-linux-3-4-to-3-5-xx/)
 
 [![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
