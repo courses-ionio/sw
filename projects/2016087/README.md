@@ -39,7 +39,7 @@ Organization: [LostMpodis](https://github.com/LostMpodis)
 Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis.github.io/webring/)
 
 
-<img src="https://github.com/p16z/assets/blob/3a05120509f0f93d2eec7c785514028b4ada416c/A/bio2022-09-29%20205644.png?raw=true" alt="drawing" width="500"/>
+<div align="center"><img src="https://github.com/p16z/assets/blob/3a05120509f0f93d2eec7c785514028b4ada416c/A/bio2022-09-29%20205644.png?raw=true" alt="drawing" width="600"/></div>
 
 <div align="center"><a href="https://asciinema.org/a/D7pm6AsjIOPGgHSDubeSuDb03" target="_blank"><img src="https://asciinema.org/a/D7pm6AsjIOPGgHSDubeSuDb03.svg" /></a></div>
 
@@ -56,7 +56,7 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 ## 4o Παραδοτέο - Άσκηση γραμμής εντολών
 Για συγκεκριμένο παραδοτέο αποφάσισα να εγκαταστήσω είναι το «GhostBSD», το οποίο είναι βασισμένο στο «FreeBSD» μέσο VMware. Ο λόγος που επέλεξα το λογισμικό αυτό είναι περισσότερο γιατί μου φάνηκε απλό στην χρήση του αλλά και λειτουργικό. Με την πάροδο του χρόνου ίσος δοκιμάσω και άλλα, αλλά για την ώρα θα δοκιμάσω το συγκεκριμένο.
 
-<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="300"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="300"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
+<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
@@ -68,7 +68,7 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 [![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
 
-<img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/>
+<div align="center"> <img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/></div>
 
 ## 7o Παραδοτέο - Bιογραφικό
 Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1).
@@ -79,6 +79,8 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 
 Δείτε το αντίστοιχο PDF [εδώ](https://github.com/p16z/CV/blob/master/pdf_cv/cv.pdf)
 
+
+<img src="https://github.com/p16z/assets/raw/main/A/pdf-canvas.png" alt="drawing" width="500"/> <img src="https://github.com/p16z/assets/raw/main/A/pdf-canva2s.png" alt="drawing" width="500"/>
 
 ## 8o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Εισαγωγή
