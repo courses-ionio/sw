@@ -154,14 +154,16 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 Εισαγωγή
 
 ## 11o Παραδοτέο - Άσκηση Γραμμής εντολών
-#Εισαγωγή
+Όσον αφορά το 11ο παραδοτέο πραγματοποιήθηκε εγκατάσταση του ntfy και το χρησιμοποιήθηκε για να σταλεί ένα notification στο desktop. Ταυτόχρονα, έχει εγκατασταθεί και το youtube-dl το οποίο το χρησιμοποίησα για να κατεβάσω και να μετατρέψω ένα βίντεο από το [YouTube](https://youtu.be/v3xwCkhmies) σε mp3. Συνδέοντας τα σε ένα script «ntfy_mp3.sh» το οποίο μόλις ολοκληρωθεί η λήψη ενός τραγουδιού, από το ntfy στέλνει μια ειδοποίηση στο desktop για να ειδοποιήσει τον χρήστη «p2016087» ότι είναι έτοιμο το τραγούδι. Τελος, χρησιμοποιείται το mpg123 για να παίξει εικονικά το τραγούδι. To λειτουργικό που χρησιμοποιείται είναι το GhostBSD (Όσον αφορά την εγκατάσταση του λογισμικού αναφέρεται και στα προηγούμενα παραδοτέα) και όλη η διαδικασία απεικονίζεται παρακάτω μέσω του [asciinema](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP).
+
+[![asciicast](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP.svg)](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP)
 
 ## 12ο Παραδοτέο - Τελική αναφορά & Συμπεράσματα
 Με την ολοκλήρωση του μαθήματος και των παραδοτέων οι γνώσεις και οι απόψεις μου για την ανάπτυξη του λογισμικού έχουν εμπλουτιστεί. Αρχικά, με την εγκατάσταση καινούργιων λογισμικών διαπίστωσα τα λογισμικά που είναι δημοφιλές στην αγορά στις μέρες μας περιορίζουν τον χρήστη σε αντίθεση με άλλα Linux distributions. Παράλληλα, μέσω των γραμμών εντολών κατάφερα να εξοικειωθώ με το καινούργιά συστήματα που εγκατέστησα και οι δεξιότητες και γνώσεις μου πάνω στο GitHub έχουν βελτιωθεί αναμφισβήτητα. Επίσης, παρατήρησα πόσο σημαντικό είναι το κάθε μέλος να κατανοεί τον ρόλο του στην ομάδα με αποτέλεσμα να μπορεί να αποδώσει καλυτέρα και να έχει μια καλή απόδοση όσον αφορά την σύνθεση των εργασιών. Σε γενικές γραμμές μου φάνηκαν πολύ ενδιαφέροντα αυτά που μάθαμε και θεωρώ πως αρκετές από αυτές τις διαλέξεις με έβαλαν σε σκέψεις. Επιπρόσθετα πρέπει να αναφέρω πως αρκετές ερωτήσεις ήταν αρκετά δύσκολο να απαντηθούν καθώς ήταν μερικώς φιλοσοφικές και η απαντήσεις δεν ήταν ξεκάθαρες μόνο από τις διαλέξεις του μαθήματος. Συνοπτικά όμως ήταν μια ωραία εμπειρία που μας έχει προσφέρει πολλές γνώσεις.
 
-## ΒΙΟΓΡΑΦΙΚΟ---
+## ΕΞΤΡΑ ΒΙΟΓΡΑΦΙΚΟ
 
-Για τη δημιουργία του βιογραφικού χρησιμοποιήθηκε ένα [template](https://github.com/) από αυτά που υπήρχαν στις οδηγίες και έγιναν αλλαγές ώστε να μπορέσω να προσαρμόσω στα δικά μου στοιχεία.
+Για τη δημιουργία του βιογραφικού χρησιμοποιήθηκε ένα συγκεριμένο [template](https://github.com/sharu725/online-cv) από αυτά που υπήρχαν στις οδηγίες και στη συνέχεια έγιναν οι απαραίτητες αλλαγές έτσι ώστε να μπορέσω να το προσαρμόσω στα δικά μου στοιχεία.
 
 [Link βιογραφικού](https://p16z.github.io/CV/)
 
@@ -174,20 +176,20 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 
 |  | Τίτλος | Πραγματοποιήθηκε | Εμπρόθεσμα |
 | :-: | --- | :-: | :-: |
-| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_check_mark: | :heavy_check_mark: |
-| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
-| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :x: | :x: |
-| 4 | Bret Victor - The Future of Programming | :x: | :x: |
-| 5 | Alan Kay - Programming Languages & Programming (2013) | :x: | :x: |
-| 6 | Alan Kay Turing Lecture with dynamic content | :x: | :x: |
-| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :x: | :x: |
-| 8 | Alan Kay - Programming and Scaling | :x: | :x: |
-| 9 | Extracting Energy from the Turing Tarpit | :x: | :x: |
-| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :x: | :x: |
-| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :x: | :x: |
-| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :x: | :x: |
-| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :x: | :x: |
-| 14 | Τεχνολογία (Κουίζ Κειμένου) | :x: | :x: |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_minus_sign: | :heavy_minus_sign: |
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_minus_sign: | :heavy_minus_sign: |
+| 4 | Bret Victor - The Future of Programming | :heavy_minus_sign: | :heavy_minus_sign: |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 6 | Alan Kay Turing Lecture with dynamic content | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 8 | Alan Kay - Programming and Scaling | :heavy_minus_sign: | :heavy_minus_sign: |
+| 9 | Extracting Energy from the Turing Tarpit | :heavy_minus_sign: | :heavy_minus_sign: |
+| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_minus_sign: | :heavy_minus_sign: |
+| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_minus_sign: | :heavy_minus_sign: |
 
 
 
