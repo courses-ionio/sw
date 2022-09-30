@@ -38,6 +38,8 @@ Organization: [LostMpodis](https://github.com/LostMpodis)
 
 Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis.github.io/webring/)
 
+Σημείωση: Το βασικό κλαδί του βιογραφικού είναι το «master», το οποίο είναι και το κλαδί που κάνει render to βιογραφικό. Το «QA-CV» έχει χρησιμοποιεί περισσότερο για εξάσκηση και συνεπώς αποφυγή μεγάλων λαθών.
+
 
 <div align="center"><img src="https://github.com/p16z/assets/blob/3a05120509f0f93d2eec7c785514028b4ada416c/A/bio2022-09-29%20205644.png?raw=true" alt="drawing" width="600"/></div>
 
@@ -66,12 +68,14 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 ## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
 Για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το Alpine Linux το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
 
+Ο λόγος που επέλεξα το Alpine Linux είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρηστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
+
 [![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
 
 <div align="center"> <img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/></div>
 
 ## 7o Παραδοτέο - Bιογραφικό
-Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1).
+Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1). 
 
 Οσο για το CI χρησιμοποίησα τα GitHub Actions με όνομα [auto_create_PDF](https://github.com/p16z/CV/actions) με το οποίο όταν κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf 
 
@@ -82,6 +86,33 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Δείτε το αντίστοιχο PDF [εδώ](https://github.com/p16z/CV/blob/master/pdf_cv/cv.pdf)
 
 <img src="https://github.com/p16z/assets/raw/main/A/pdf-canvas.png" alt="drawing" width="500"/> <img src="https://github.com/p16z/assets/raw/main/A/pdf-canva2s.png" alt="drawing" width="500"/>
+
+Το PdfLatex είναι ένα εργαλείο που μετατρέπει πηγές Latex σε PDF. Αυτό είναι ιδιαίτερα σημαντικό για τους ερευνητές, καθώς το χρησιμοποιούν για να δημοσιεύσουν τα ευρήματά τους. Θα μπορούσε να εγκατασταθεί πολύ εύκολα χρησιμοποιώντας τερματικό Linux, αν και αυτό φαίνεται ενοχλητικό έργο στα Windows. Οι εντολές εγκατάστασης δίνονται παρακάτω.
+
+* Εγκατάσταση του TexLive base 
+
+```
+sudo apt-get install texlive-latex-base
+```
+
+* Για να αποφυγή σφάλματων χρησιμοποιούμε pdflatex που προσφέρει περισσότερες γραμματοσειρές
+
+```
+sudo apt-get install texlive-fonts-recommended
+sudo apt-get install texlive-fonts-extra
+```
+
+* Εγκατάσταση extra packages,
+
+```
+sudo apt-get install texlive-latex-extra
+```
+
+Αφού είχαν εγκατασταθεί τα παραπάνω τότε μπόρεσα να δημιουργήσω αρχεία PDF από πηγές λατέξ χρησιμοποιώντας το PdfLatex.
+
+```
+pdflatex cv.tex
+```
 
 ## 8o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
 Εισαγωγή
