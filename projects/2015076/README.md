@@ -41,3 +41,5 @@
 [make-latex.sh](https://github.com/Mariadar97/kallipos/blob/master/make-latex.sh)
 [lua filter](https://github.com/Mariadar97/kallipos/blob/master/comment.lua)
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1653)
+
+![commentpicture](https://user-images.githubusercontent.com/22714123/202536849-f30ef4cd-9195-48c2-9770-abd79b6d2da0.png)
