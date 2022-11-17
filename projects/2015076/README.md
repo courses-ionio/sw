@@ -24,5 +24,10 @@
 
 ## 2 Βιογραφικό
   Σε αυτό το παραδοτέο δημιούργησα το βιογραφικό μου (Html, Css, Javascript).
+
 [Το αποθετήριο του βιογραφικού μου](https://github.com/Mariadar97/mycv/)
+
 [Github pages βιογραφικού](https://mariadar97.github.io/mycv/)
+
+![Screenshot 2022-11-17 at 17 30 00](https://user-images.githubusercontent.com/22714123/202488303-eff2525a-f159-4793-b8ac-c64039ba91f9.png)
+
