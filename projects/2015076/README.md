@@ -33,3 +33,11 @@
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1651)
 </br></br>
+
+## 3. Κατασκευή Βιβλίου Α Μέρος
+  Σε αυτό το παραδοτέο έγιναν οι κατάλληλες μετατροπές στο make-latex.sh και οι κατάλληλες προσθήκες φακέλων ώστε το βιβλίο από .txt μορφή σε πολλά αρχεία να συγχωνευθεί σε ένα τελικό αρχείο pdf, με την χρήση ενός lua filter.
+[Repository](https://github.com/Mariadar97/kallipos)
+[Picture σημείωσης](https://github.com/Mariadar97/kallipos/blob/master/picture/commentpicture.png)
+[make-latex.sh](https://github.com/Mariadar97/kallipos/blob/master/make-latex.sh)
+[lua filter](https://github.com/Mariadar97/kallipos/blob/master/comment.lua)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/1653)
