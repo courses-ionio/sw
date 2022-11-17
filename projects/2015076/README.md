@@ -43,3 +43,7 @@
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1653)
 
 ![commentpicture](https://user-images.githubusercontent.com/22714123/202536849-f30ef4cd-9195-48c2-9770-abd79b6d2da0.png)
+
+## 4. Άσκηση γραμμής εντολών
+Σε αυτό το παραδοτέο αρχικά δημιουργήθηκε ένα αρχείο linescounter.sh το οποίο μετράει τις γραμμές και των αριθμό λέξεων .txt αρχείων και επιπλέον χρησιμοποιήθηκε το click με σκοπό να μας προβάλει στην οθόνη έναν χαιρετισμό ανάλογα με το όνομα που θα δόσουμε ως είσοδο.
+
