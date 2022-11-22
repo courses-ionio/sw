@@ -67,3 +67,5 @@
 | Adobe Photoshop | [adobe-photoshop.md](https://github.com/Mariadar97/_gallery/blob/master/adobe-photoshop.md) | [ adobe photoshop - netlify](https://phenomenal-otter-2d4a6a.netlify.app/gallery/adobe-photoshop/) |
 
 [Discussions](https://github.com/courses-ionio/help/discussions/1732#discussion-4591543)
+</br></br></br>
+## 6. Άσκηση γραμμής εντολών
