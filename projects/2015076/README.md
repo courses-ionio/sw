@@ -59,7 +59,7 @@
 ## 5. Συμμετοχικό περιεχόμενο Α1. Α2
 Για το συμμετοχικό περιεχόμενο πρόσθεσα στην ιστοσελίδα του βιβλίου του μαθήματος τα λογισμικά Instagram και Adobe Photoshop με θεματική ψηφιακή επεξεργασία εικόνας.
 </br>
-| Περιγραφή | Repository Link  | Netlify Link |
+|    Περιγραφή      |    Repository Link      |       Netlify Link        |
 | --- 	    | --- 	        	  | ---	       	|
 | slides    | [paint.md](https://github.com/Mariadar97/site/blob/master/_slides/paint.md)  | [slides - netlify](https://phenomenal-otter-2d4a6a.netlify.app//slides/paint/) |
 | timeline  | [paint.md](https://github.com/Mariadar97/site/blob/master/_timeline/paint.md) | [timeline - netlify](https://phenomenal-otter-2d4a6a.netlify.app//timeline/paint/) |
