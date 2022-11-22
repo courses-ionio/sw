@@ -55,3 +55,13 @@
 [clicktest.py](https://github.com/Mariadar97/paradoteo4/blob/main/clicktest.py)
 [linescounter.sh](https://github.com/Mariadar97/paradoteo4/blob/main/linescounter.sh)
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1659)
+</br></br></br>
+## 5. Συμμετοχικό περιεχόμενο Α1. Α2
+Για το συμμετοχικό περιεχόμενο πρόσθεσα στην ιστοσελίδα του βιβλίου του μαθήματος τα λογισμικά Instagram και Adobe Photoshop με θεματική ψηφιακή επεξεργασία εικόνας.
+</br>
+| Περιγραφή | Repository Link  | Netlify Link |
+| --- 	    | --- 	        	  | ---	       	|
+| slides    | [paint.md](https://github.com/Mariadar97/site/blob/master/_slides/paint.md)  | [slides - netlify](https://phenomenal-otter-2d4a6a.netlify.app//slides/paint/) |
+| timeline  | [paint.md](https://github.com/Mariadar97/site/blob/master/_timeline/paint.md) | [timeline - netlify](https://phenomenal-otter-2d4a6a.netlify.app//timeline/paint/) |
+| Instagram  | [instagram.md](https://github.com/Mariadar97/_gallery/blob/dbfb9c673bbcd3037407c2eed952b3168a3b083b/instagram.md)| [instagram - netlify](https://phenomenal-otter-2d4a6a.netlify.app/gallery/instagram/)|
+| Adobe Photoshop | [adobe-photoshop.md](https://github.com/Mariadar97/_gallery/blob/master/adobe-photoshop.md) | [ adobe photoshop - netlify](https://phenomenal-otter-2d4a6a.netlify.app/gallery/adobe-photoshop/) |
