@@ -42,7 +42,7 @@
 [lua filter](https://github.com/Mariadar97/kallipos/blob/master/comment.lua)
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1653)
 
-![commentpicture](https://user-images.githubusercontent.com/22714123/202536849-f30ef4cd-9195-48c2-9770-abd79b6d2da0.png)
+![screenshotcomment](https://user-images.githubusercontent.com/22714123/204039119-15b48a0a-d257-4ccb-8fe9-25bad01f40e6.png)
 
 </br></br>
 ## 4. Άσκηση γραμμής εντολών
