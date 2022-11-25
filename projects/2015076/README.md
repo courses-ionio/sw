@@ -69,3 +69,5 @@
 [Discussions](https://github.com/courses-ionio/help/discussions/1732#discussion-4591543)
 </br></br></br>
 ## 6. Άσκηση γραμμής εντολών
+Σε αυτό το παραδοτέο χρησιμοποίησα το curl για να δείξω τον καιρό μέσω τερματικού στο σύστημα μου.
+[![asciicast](https://asciinema.org/a/1QwHUjYg39AqESpwSgxW6DhHq.svg)](https://asciinema.org/a/1QwHUjYg39AqESpwSgxW6DhHq)
