@@ -37,7 +37,7 @@
 
 **Μέθοδος διδασκαλίας:** Συνεργασία, ασκήσεις, εργασία.
 
-**Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Διογένης Αλεξανδράκης](https://github.com/diogenisAl)
+**Συντονιστής συστημάτων τηλεεκπαίδευσης:** 
 
 **Κριτήρια βαθμολογίας:** 10% [κουίζ](https://courses-ionio.github.io/help/quiz/) + 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/cli/) + 10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://courses-ionio.github.io/help/social/) + 20% [κατασκευή του βιβλίου](https://courses-ionio.github.io/help/book) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) + 20% [συμμετοχή στην τάξη](https://courses-ionio.github.io/help/classroom/) + 10% [προαιρετικό μπόνους](https://courses-ionio.github.io/help/bonus/)
 
