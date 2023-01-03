@@ -71,6 +71,7 @@
 ## 6. Βιογραφικό Pdf
 Σε αυτό το παραδοτέο χρησιμοποιήθηκαν οι τεχνολογίες pandoc και pdflatex προκειμενου να δημιουργηθεί το βιογραφικό μας σε μορφή tex και έπειτα από μορφή tex σε μορφή pdf.
 [![asciicast](https://asciinema.org/a/dvI5P74ydSc7CfedmVV0uhiKd.svg)](https://asciinema.org/a/dvI5P74ydSc7CfedmVV0uhiKd)
+[Discussions](https://github.com/courses-ionio/help/discussions/1996)
 
 ## 7. Άσκηση γραμμής εντολών
 Σε αυτό το παραδοτέο χρησιμοποίησα το curl για να δείξω τον καιρό μέσω τερματικού στο σύστημα μου.
