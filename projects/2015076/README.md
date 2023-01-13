@@ -80,7 +80,7 @@
 [Discussions](https://github.com/courses-ionio/help/discussions/1763)
 
 ## 8. Κατασκευή βιβλίου B μέρος
-Με την βοήθεια του pandoc έδωσα ως είσοδο το book.tex και το έκανα output (-ο) σε book.epub (μορφή epub).
+Με την βοήθεια του pandoc έδωσα ως είσοδο το book.tex και το έκανα output (-ο) σε book.epub (μορφή epub). Θα μπορούσε βεβαια αυτή η μετατροπή να γίνει στο αρχείο make-latex.sh εγώ όμως χρησιμοποίησα το terminal δίνοντας το σαν εντολή shell.
 [![asciicast](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI.svg)](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI)
 [book.epub](https://github.com/Mariadar97/kallipos/blob/master/book/book.epub)
 [Repository](https://github.com/Mariadar97/kallipos)
