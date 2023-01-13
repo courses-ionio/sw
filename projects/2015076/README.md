@@ -78,3 +78,7 @@
 [![asciicast](https://asciinema.org/a/1QwHUjYg39AqESpwSgxW6DhHq.svg)](https://asciinema.org/a/1QwHUjYg39AqESpwSgxW6DhHq)
 
 [Discussions](https://github.com/courses-ionio/help/discussions/1763)
+
+## 11. Κατασκευή βιβλίου B μέρος
+Με την βοήθεια του pandoc έδωσα ως είσοδο το book.tex και το έκανα output (-ο) σε book.epub (μορφή epub).
+[![asciicast](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI.svg)(https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI)]
