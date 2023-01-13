@@ -82,3 +82,6 @@
 ## 8. Κατασκευή βιβλίου B μέρος
 Με την βοήθεια του pandoc έδωσα ως είσοδο το book.tex και το έκανα output (-ο) σε book.epub (μορφή epub).
 [![asciicast](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI.svg)](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI)
+[book.epub](https://github.com/Mariadar97/kallipos/blob/master/book/book.epub)
+[Repository](https://github.com/Mariadar97/kallipos)
+
