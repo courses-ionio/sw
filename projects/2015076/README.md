@@ -84,4 +84,5 @@
 [![asciicast](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI.svg)](https://asciinema.org/a/mR0CqtjSwc5q7TAdDAblUYnZI)
 [book.epub](https://github.com/Mariadar97/kallipos/blob/master/book/book.epub)
 [Repository](https://github.com/Mariadar97/kallipos)
+[Discussions](https://github.com/courses-ionio/help/discussions/2076)
 
