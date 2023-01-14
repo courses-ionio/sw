@@ -86,3 +86,14 @@
 [Repository](https://github.com/Mariadar97/kallipos)
 [Discussions](https://github.com/courses-ionio/help/discussions/2076)
 
+## 9. Βιογραφία και Μελέτη Περίπτωσης
+Για το συμμετοχικό περιεχόμενο διάλεξα να κάνω μια μελέτη περίπτωσις για το Adobe Photoshop CS επικεντρώνοντας την προσοχή μου στο λογισμικό και τις εκδόσεις του και όχι τόσο στον διαδραστικό του χαρακτήρα.Επιπλέον για την Βιογραφία επέλεξα να προσθέσω την βιογραφία του Alan Turing.
+| _biography/_case-study files | _includes files | Netlify Preview |
+| --- | ----------- | ----------- |
+| [Adobe Photoshop CS](https://github.com/Mariadar97/zite/blob/main/_case-study/adobephotoshop.md) | [AdobePhotoshopincl](https://github.com/Mariadar97/zite/blob/main/_includes/cs-adobephotoshop.md) | [Adobe Photoshop Netlify](https://tubular-souffle-73710f.netlify.app/case-study/adobephotoshop/) | 
+| [Alan Turing](https://github.com/Mariadar97/zite/blob/main/_biography/alan-turing.md) | [AlanTuringincl](https://github.com/Mariadar97/zite/blob/main/_includes/bio-turing.md) |[Alan Turing Netlify](https://tubular-souffle-73710f.netlify.app/biography/alan-turing/) |
+
+
+## 10. Τελική εισαγωγή Συμπεράσματα
+
+
