@@ -91,6 +91,7 @@
 | [Adobe Photoshop CS](https://github.com/Mariadar97/zite/blob/main/_case-study/adobephotoshop.md) | [AdobePhotoshopincl](https://github.com/Mariadar97/zite/blob/main/_includes/cs-adobephotoshop.md) | [Adobe Photoshop Netlify](https://tubular-souffle-73710f.netlify.app/case-study/adobephotoshop/) | 
 | [Alan Turing](https://github.com/Mariadar97/zite/blob/main/_biography/alan-turing.md) | [AlanTuringincl](https://github.com/Mariadar97/zite/blob/main/_includes/bio-turing.md) |[Alan Turing Netlify](https://tubular-souffle-73710f.netlify.app/biography/alan-turing/) |
 </br>
+
 [Discussions](https://github.com/courses-ionio/help/discussions/2097)
 
 ## 10. Τελική εισαγωγή Συμπεράσματα
