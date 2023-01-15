@@ -4,18 +4,16 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Eισαγωγή](#1-εισαγωγή)| | |
-| 2 | [βιογραφικό και δημιουργία ομάδας](#2-βιογραφικό) | | |
-| 3 | Βιβλίο Α παραδοτέο | | |
-| 4 | Άσκηση γραμμής εντολών | | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 1 | [Eισαγωγή](#1-εισαγωγή)|[Discussions](https://github.com/courses-ionio/help/discussions/1651) | 100% |
+| 2 | [βιογραφικό](#2-βιογραφικό) |[Discussions](https://github.com/courses-ionio/help/discussions/1651) | 100% |
+| 3 | Βιβλίο Α παραδοτέο |[Discussions](https://github.com/courses-ionio/help/discussions/1653) | 100% |
+| 4 | Άσκηση γραμμής εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/1659) | 100% |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |[Discussions](https://github.com/courses-ionio/help/discussions/1732#discussion-4591543) | 100% |
+| 6 | Βιογραφικό |[Discussions](https://github.com/courses-ionio/help/discussions/1996) | 80%, δεν δημιουργήθηκε κάποιο κουμπί για λήψη σε pdf μορφή |
+| 7 | Άσκηση γραμμής Εντολών |[Discussions](https://github.com/courses-ionio/help/discussions/1763) | 100% |
+| 8 | Βιβλίο Β παραδοτέο | [Discussions](https://github.com/courses-ionio/help/discussions/2076) | 100% |
+| 9 | Βιογραφία και Μελέτη περίπτωσης |[Discussions](https://github.com/courses-ionio/help/discussions/2097) | 100% |
+| 10 | Συμπεράσματα | [Discussions](https://github.com/courses-ionio/help/discussions/2108)| 100% |
 
 </br> </br>
 ## 1. Eισαγωγή
