@@ -55,7 +55,7 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 Κάνω fork το repository του παραδείγματος βιογραφικού. Διαγράφω και δημιουργώ από την αρχή το brantch QA-CV αντι για το gh-pages για το hosting της σελίδας του βιογραφικού. Κάνω εισαγωγή των στοιχείων μου και αλλαγή του theme μέσω των αρχείων ```config.yml``` και ```_data.yml```
 
 
-## 3o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
+## 3o Παραδοτέο - Κατασκευή του βιβλίου Α
 Ατελές
 
 ## 4o Παραδοτέο - Άσκηση γραμμής εντολών
@@ -70,18 +70,7 @@ Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Όσον αφορά το 5o παραδοτέο του μαθήματος μας ζητήθηκε να ενσωματώσουμε στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου "Προγραμματισμός της διάδρασης" δυο θέματα όπου και τα δύο να αφορούν λογισμικό. H ενσωμάτωση έπρεπε να πραγματοποιειθεί μέσω του [κεντρικού αποθετηρίου pibook της ομάδας - LostMpodis](https://github.com/LostMpodis/site). Συνοπτικά, για το κάθε θέμα ξεχωριστά έπρεπε να ανεβάσουμε δύο εικόνες στο [images](https://github.com/LostMpodis/images), να το περιγράψουμε στο [_gallery](https://github.com/LostMpodis/_gallery) πραγματοποιώντας τις κατάλληλες αλλαγές στο φάκελο και να αλλάξουμε ή να προσθέσουμε αναλόγως με την θεματική ενότητα τα αρχεία στους φακέλους [timeline](https://github.com/LostMpodis/site/tree/master/_timeline) και [sides](https://github.com/LostMpodis/site/tree/master/_slides).
 
-## 6ο Παραδοτέο - Άσκηση γραμμής εντολών
-Για τις γραμμές εντολές αποφάσισα να εγκαταστήσω το [Alpine Linux](https://www.alpinelinux.org/) το οποίο είναι επίσης ένα λειτουργικό σύστημα χωρίς systemd αλλά πιο σύνθετο στην εγκατάσταση και λειτουργία. Μπορείτε να δείτε το Alpine Linux στο αντίστοιχο [asciinema](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
-
-Ο λόγος που επέλεξα το [Alpine Linux](https://github.com/dylanaraps/neofetch/wiki/Installation#alpine-linux) είναι επειδή είναι ελαφρύ και πολύ ευέλικτο στον χρήστη και μπορεί να προσαρμοστεί ευκολά στις ανάγκες του.
-
-[Alpine Linux: The First Installation](https://www.youtube.com/watch?v=8WYgynP8VJ8)
-
-[How to upgrade Alpine Linux](https://www.cyberciti.biz/faq/how-to-upgrade-alpine-linux-3-4-to-3-5-xx/)
-
-[![asciicast](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD.svg)](https://asciinema.org/a/XtsFs2Afwg7sUi0gu7d4vnlhD)
-
-<div align="center"> <img src="https://github.com/p16z/assets/raw/main/A/alpin-last-2022-09-30%20143500.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20140430.png" alt="drawing" width="900"/> <img src="https://github.com/p16z/assets/raw/main/A/alpine-2022-09-30%20141844.png" alt="drawing" width="900"/></div>
+## 6ο Παραδοτέο 
 
 ## 7o Παραδοτέο - Bιογραφικό
 Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1). 
@@ -123,8 +112,8 @@ sudo apt-get install texlive-latex-extra
 pdflatex cv.tex
 ```
 
-## 8o Παραδοτέο - Αίτημα ενσωμάτωσης στην ιστοσελίδα
-Ατελές
+## 8o Παραδοτέο - Κατασκευή του βιβλίου Β
+Ατελές----
 
 ## 9o Παραδοτέο - Άσκηση γραμμής εντολών
 Στο αυτό το παραδοτέο χρειάστηκε να πραγματοποιήσουμε μια άσκηση γραμμής εντολών μέσω τερματικού. Προσωπικά επέλεξα να ασχοληθώ με την εργασία «Send notification to desktop» μέσα από το ntfy. Μέσω αυτής έχουμε τη δυνατότητα να στείλουμε ειδοποιήσεις στην επιφάνεια εργασίας ή στο κινητό. Στην συνέχεια απεικονίζεται η διαδικασία μέσω της οποίας πραγματοποιείται η αποστολή notification όταν τελειώνει μια εργασία των 7 δευτερολέπτων. Επειδή αντιμετώπισα προβλήματα με την εγκατάσταση της εντολής ntfy στο FreeBSD σκέφτηκα να πραγματοποιήσω την άσκηση στα Ubuntu αλλά επειδή γνώριζα ότι θα βαθμολογηθεί αρνητικά λόγω του ότι τα Ubuntu διαθέτουν system προσπάθησα να ψάξω περισσότερες πληροφορίες για την εγκατάσταση των πακέτων στο FreeBSD. Τελικά κατάφερα να εγκαταστήσω το ntfy αλλά ένα άλλο πρόβλημα που αντιμετώπισα είναι ότι δεν εμφανιζόντουσαν τα notification στην οθόνη.
