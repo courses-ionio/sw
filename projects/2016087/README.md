@@ -2,23 +2,23 @@
 <h3 align=center> Αλέξανδρος Ζανέ | ΑΜ: Π2016087 </h3>
 <div align="center">
   <b>:beginner:[ΠΡΟΦΙΛ GitHub](https://github.com/p16z)<br>
-   :arrow_forward: [Team : LostMpodis](https://github.com/LostMpodis)</b>
+   :white_check_mark: [Team : LostMpodis](https://github.com/LostMpodis)</b>
   </div>
 
 #
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
-| 1η | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2η | Βιογραφικό | | |
-| 3η | Κατασκευή του βιβλίου Α | | |
-| 4η | Άσκηση γραμμής εντολών | | |
-| 5η | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 6η | Βιογραφικό | | |
-| 7η | Άσκηση γραμμής εντολών | | |
-| 8η | Κατασκευή του βιβλίου Β | | |
-| 9η | Συμμετοχικό περιεχόμενο B1+B2 | | |
-| 10η | Τελική αναφορά* | | |
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης | Βαθμό επιτυχίας |
+| --- | --- | --- | --- | :-: |
+| 1η | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | | Πλήρης Εκτέλεση |
+| 2η | Βιογραφικό | | | Πλήρης Εκτέλεση |
+| 3η | Κατασκευή του βιβλίου Α | | | Ατελές |
+| 4η | Άσκηση γραμμής εντολών | | | Ατελές |
+| 5η | Συμμετοχικό περιεχόμενο A1+A2 | | | Ατελές |
+| 6η | Βιογραφικό | | | Ατελές |
+| 7η | Άσκηση γραμμής εντολών | | | Ατελές |
+| 8η | Κατασκευή του βιβλίου Β | | | Ατελές |
+| 9η | Συμμετοχικό περιεχόμενο B1+B2 | | | Ατελές |
+| 10η | Τελική αναφορά* | | | Ατελές |
 
 
 
