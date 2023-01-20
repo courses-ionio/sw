@@ -30,7 +30,12 @@
 ## 2o Παραδοτέο - Βιογραφικό
 Όσον αφορά το βιογραφικό μου επέλεξα το συγκεκριμένο template. Αρχικά, όπως αναφέρεται και στις οδηγίες, έκανα φόρκ το συγκεκριμένο αποθετήριο και στην συνέχεια δημιούργησα ένα καινούργιο branch το «QA-CV» για περισσότερη εξάσκηση. Στην συνέχεια αντικατέστησα τις πληροφορίες στο αρχείο data.yml/config.yml. Μετά από αρκετές αποτυχημένες προσπάθειες κατάφερα να φτιάξω τη βασική δομή. Έπειτα, δημιουργήθηκε το organization [LostMpodis](https://github.com/LostMpodis), και το αποθετήριο του webring, στο οποίο πρόσθεσα και το link για το βιογραφικό μου.
 
-Βιογραφικό: [Repo](https://github.com/p16z/CV) [Site](https://p16z.github.io/CV/)
+|Βιογραφικό|Organization|Webring|
+|:---:|:---:|:---:|
+|[Repo](https://github.com/p16z/CV)|[LostMpodis](https://github.com/LostMpodis)|[Repo](https://github.com/LostMpodis/webring)|
+|[Site](https://p16z.github.io/CV/)|[LostMpodis](https://github.com/LostMpodis)|[Site](https://lostmpodis.github.io/webring/)|
+
+*Βιογραφικό: [Repo](https://github.com/p16z/CV) [Site](https://p16z.github.io/CV/)
 
 Organization: [LostMpodis](https://github.com/LostMpodis)
 
