@@ -1,8 +1,8 @@
 <h2 align=center>Τεχνολογία Λογισμικού</h2>
 <h3 align=center> Αλέξανδρος Ζανέ | ΑΜ: Π2016087 </h3>
 <div align="center">
-  <b>:octocat: [ΠΡΟΦΙΛ GitHub] (https://github.com/p16z)<br>
-   :white_check_mark: [Team : LostMpodis] (https://github.com/LostMpodis)</b>
+  <b>:octocat: [ΠΡΟΦΙΛ GitHub](https://github.com/p16z)<br>
+   :white_check_mark: [Team : LostMpodis](https://github.com/LostMpodis)</b>
   </div>
 
 #
