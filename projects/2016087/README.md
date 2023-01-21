@@ -59,8 +59,6 @@
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
-Όσον αφορά την warmup άσκηση, η ιστοσελίδα που έπρεπε να επισκεφτεί ```https://wttr.in/``` δεν είναι πια διαθέσιμη με αποτέλεσμα να μην μπορεί να εκτελεστεί η επόμενη εντολή ```curl wttr.in/Greece+Athens```
-
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Όσον αφορά το 5o παραδοτέο του μαθήματος μας ζητήθηκε να ενσωματώσουμε στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου "Προγραμματισμός της διάδρασης" δυο θέματα όπου και τα δύο να αφορούν λογισμικό. H ενσωμάτωση έπρεπε να πραγματοποιειθεί μέσω του [κεντρικού αποθετηρίου pibook της ομάδας - LostMpodis](https://github.com/LostMpodis/site). Συνοπτικά, για το κάθε θέμα ξεχωριστά έπρεπε να ανεβάσουμε δύο εικόνες στο [images](https://github.com/LostMpodis/images), να το περιγράψουμε στο [_gallery](https://github.com/LostMpodis/_gallery) πραγματοποιώντας τις κατάλληλες αλλαγές στο φάκελο και να αλλάξουμε ή να προσθέσουμε αναλόγως με την θεματική ενότητα τα αρχεία στους φακέλους [timeline](https://github.com/LostMpodis/site/tree/master/_timeline) και [sides](https://github.com/LostMpodis/site/tree/master/_slides).
 
