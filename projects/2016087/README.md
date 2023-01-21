@@ -35,12 +35,6 @@
 |[Repo](https://github.com/p16z/CV)|[LostMpodis](https://github.com/LostMpodis)|[Repo](https://github.com/LostMpodis/webring)|
 |[Site](https://p16z.github.io/CV/)|[LostMpodis](https://github.com/LostMpodis)|[Site](https://lostmpodis.github.io/webring/)|
 
-*Βιογραφικό: [Repo](https://github.com/p16z/CV) [Site](https://p16z.github.io/CV/)
-
-Organization: [LostMpodis](https://github.com/LostMpodis)
-
-Webring: [Repo](https://github.com/LostMpodis/webring) [Site](https://lostmpodis.github.io/webring/)
-
 Σημείωση: Το βασικό κλαδί του βιογραφικού είναι το «master», το οποίο είναι και το κλαδί που κάνει render to βιογραφικό. Το «QA-CV» έχει χρησιμοποιεί περισσότερο για εξάσκηση και συνεπώς αποφυγή μεγάλων λαθών.
 
 
