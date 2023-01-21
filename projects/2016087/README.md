@@ -62,9 +62,8 @@
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Όσον αφορά το 5o παραδοτέο του μαθήματος μας ζητήθηκε να ενσωματώσουμε στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου "Προγραμματισμός της διάδρασης" δυο θέματα όπου και τα δύο να αφορούν λογισμικό. H ενσωμάτωση έπρεπε να πραγματοποιειθεί μέσω του [κεντρικού αποθετηρίου pibook της ομάδας - LostMpodis](https://github.com/LostMpodis/site). Συνοπτικά, για το κάθε θέμα ξεχωριστά έπρεπε να ανεβάσουμε δύο εικόνες στο [images](https://github.com/LostMpodis/images), να το περιγράψουμε στο [_gallery](https://github.com/LostMpodis/_gallery) πραγματοποιώντας τις κατάλληλες αλλαγές στο φάκελο και να αλλάξουμε ή να προσθέσουμε αναλόγως με την θεματική ενότητα τα αρχεία στους φακέλους [timeline](https://github.com/LostMpodis/site/tree/master/_timeline) και [sides](https://github.com/LostMpodis/site/tree/master/_slides).
 
-## 6ο Παραδοτέο 
 
-## 7o Παραδοτέο - Bιογραφικό
+## 6o Παραδοτέο - Bιογραφικό
 Οσον αφορα το δεύτερο μέρος του βιογραφικού μου χρησιμοποίησα pandoc και latex για την δημιουργία του pdf χωρίς CI [PDF](https://raw.githubusercontent.com/p16z/CV/QA-CV/pdf_cv/cv.pdf), το οποίο μπορείτε να δείτε εδώ [asciinema](https://asciinema.org/a/JS18vmvv4SmpWuGpvxwN9OBX1). 
 
 Οσο για το CI χρησιμοποίησα τα GitHub Actions με όνομα [auto_create_PDF](https://github.com/p16z/CV/actions) με το οποίο όταν κάνω μία αλλαγή στο βιογραφικό μου αλλάζει ταυτόχρονα και το pdf 
@@ -103,6 +102,40 @@ sudo apt-get install texlive-latex-extra
 ```
 pdflatex cv.tex
 ```
+
+## 7o Παραδοτέο - Άσκηση γραμμής Εντολών
+Στο αυτό το παραδοτέο χρειάστηκε να πραγματοποιήσουμε μια άσκηση γραμμής εντολών μέσω τερματικού. Προσωπικά επέλεξα να ασχοληθώ με την εργασία «Send notification to desktop» μέσα από το ntfy. Μέσω αυτής έχουμε τη δυνατότητα να στείλουμε ειδοποιήσεις στην επιφάνεια εργασίας ή στο κινητό. Στην συνέχεια απεικονίζεται η διαδικασία μέσω της οποίας πραγματοποιείται η αποστολή notification όταν τελειώνει μια εργασία των 7 δευτερολέπτων. Επειδή αντιμετώπισα προβλήματα με την εγκατάσταση της εντολής ntfy στο FreeBSD σκέφτηκα να πραγματοποιήσω την άσκηση στα Ubuntu αλλά επειδή γνώριζα ότι θα βαθμολογηθεί αρνητικά λόγω του ότι τα Ubuntu διαθέτουν system προσπάθησα να ψάξω περισσότερες πληροφορίες για την εγκατάσταση των πακέτων στο FreeBSD. Τελικά κατάφερα να εγκαταστήσω το ntfy αλλά ένα άλλο πρόβλημα που αντιμετώπισα είναι ότι δεν εμφανιζόντουσαν τα notification στην οθόνη.
+
+<div align="center"><a href="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j" target="_blank"><img src="https://asciinema.org/a/5F6ymY7Wb2ciwmzNDHUiMqk8j.svg" /></a></div>
+
+<div align="center"><img src="https://github.com/p16z/assets/raw/main/A/ntfy--2022-09-30%20001646.png" /></a></div>
+
+Βήματα:
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων
+```pkg search ntfy```
+```pkg install ntfy-2.7.0.14```
+
+Με το ```asciinema rec``` ξεκινάω το record του terminal
+
+Δοκιμάζω την αποστολή ειδοποιήσεων μέσω της εντολής ```ntfy send "message"``` και ```ntfy -t 'p2016087' send "message"```
+
+Με την εντολή ```CTRL+d``` και ```exit``` ολοκλήρωσα το recording του terminal
+
+Πηγές:
+
+[How to install applications in freebsd](https://twiserandom.com/freebsd/how-to-install-applications-in-freebsd/index.html)
+
+https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
+
+[Notify-send and Ntfy](https://www.youtube.com/watch?v=bbdQXfReuG0)
+
+***Επιπλέον ασκηση***
+
+Πραγματοποιήθηκε εγκατάσταση του ntfy και χρησιμοποιήθηκε για να σταλεί ένα notification στο desktop. Επίσης, έχει εγκατασταθεί και το youtube-dl το οποίο το χρησιμοποίησα για να κατεβαστεί και να μετατραπεί ένα βίντεο από το [YouTube](https://youtu.be/v3xwCkhmies) σε mp3. Συνδέοντας τα σε ένα script «ntfy_mp3.sh» το οποίο μόλις ολοκληρωθεί η λήψη ενός τραγουδιού, από το ntfy στέλνει μια ειδοποίηση στο desktop για να ειδοποιήσει τον χρήστη «p2016087» ότι είναι έτοιμο το τραγούδι. Τελος, χρησιμοποιείται το mpg123 για να παίξει εικονικά το τραγούδι. To λειτουργικό που χρησιμοποιείται είναι το GhostBSD (Όσον αφορά την εγκατάσταση του λογισμικού αναφέρεται και στα προηγούμενα παραδοτέα) και όλη η διαδικασία απεικονίζεται παρακάτω μέσω του [asciinema](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP).
+
+[![asciicast](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP.svg)](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP)
+
 
 ## 8o Παραδοτέο - Κατασκευή του βιβλίου Β
 Ατελές----
@@ -154,27 +187,6 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 [Webring ομάδας](https://lostmpodis.github.io/webring/)
 
 [H ομάδα μου](https://github.com/LostMpodis)
-
-
-## Βίντεο κουίζ & κουίζ κειμένου
-
-|  | Τίτλος | Πραγματοποιήθηκε | Εμπρόθεσμα |
-| :-: | --- | :-: | :-: |
-| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_minus_sign: | :heavy_minus_sign: |
-| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_minus_sign: | :heavy_minus_sign: |
-| 4 | Bret Victor - The Future of Programming | :heavy_minus_sign: | :heavy_minus_sign: |
-| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 6 | Alan Kay Turing Lecture with dynamic content | :heavy_minus_sign: | :heavy_minus_sign: |
-| 7 | Alan Kay at FUTUREWEI workshop Dec 2019 | :heavy_minus_sign: | :heavy_minus_sign: |
-| 8 | Alan Kay - Programming and Scaling | :heavy_minus_sign: | :heavy_minus_sign: |
-| 9 | Extracting Energy from the Turing Tarpit | :heavy_minus_sign: | :heavy_minus_sign: |
-| 10 | Back to the Future of Software Development 4/23/2003 (VPRI 785) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 11 | From Smalltalk to Squeak by Dan Ingalls at CHM 10/11/2001 (VPRI 797) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 12 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_minus_sign: | :heavy_minus_sign: |
-| 13 | Εργαλεία και Τεχνικές (Κουίζ Κειμένου) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 14 | Τεχνολογία (Κουίζ Κειμένου) | :heavy_minus_sign: | :heavy_minus_sign: |
-
 
 
 
