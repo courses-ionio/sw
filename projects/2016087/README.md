@@ -53,7 +53,7 @@
 ## 4o Παραδοτέο - Άσκηση γραμμής εντολών
 Για συγκεκριμένο παραδοτέο αποφάσισα να εγκαταστήσω είναι το «GhostBSD», το οποίο είναι βασισμένο στο «FreeBSD» μέσο VMware. Ο λόγος που επέλεξα το λογισμικό αυτό είναι περισσότερο γιατί μου φάνηκε απλό στην χρήση του αλλά και λειτουργικό. Με την πάροδο του χρόνου ίσος δοκιμάσω και άλλα, αλλά για την ώρα θα δοκιμάσω το συγκεκριμένο.
 
-<img src="https://i.imgur.com/998DjHR.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/5rBmc21.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nTpk4sn.png" alt="drawing" width="500"/> <img src="https://i.imgur.com/nfB2ALs.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/32718673/213868376-3ab4888e-a1c1-4d51-91e3-1982495ae851.png" alt="drawing" width="500"/> <img src="https://user-images.githubusercontent.com/32718673/213868379-e7fbcf9b-adb7-4619-8bcf-70eae4a819fc.png" alt="drawing" width="500"/> <img src="https://user-images.githubusercontent.com/32718673/213868380-36479bca-34a6-424a-906f-a069e1bc9330.png" alt="drawing" width="500"/> <img src="https://user-images.githubusercontent.com/32718673/213868383-6ae582ed-b0ac-4cdb-b516-c85bec55356b.png" alt="drawing" width="500"/>
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
