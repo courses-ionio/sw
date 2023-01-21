@@ -11,14 +11,14 @@
 | --- | --- | :-: | --- | :-: |
 | 1η | [Eισαγωγή](#1ο-παραδοτέο---εισαγωγή) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/800) | | Πλήρης Εκτέλεση |
 | 2η | [Βιογραφικό](#2o-παραδοτέο---βιογραφικό) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/801) | | Πλήρης Εκτέλεση |
-| 3η | [Κατασκευή του βιβλίου Α]() | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
-| 4η | [Άσκηση γραμμής εντολών]() | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/802) | | Πλήρης Εκτέλεση |
-| 5η | [Συμμετοχικό περιεχόμενο A1+A2]() | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
-| 6η | [Βιογραφικό]() | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/805) | | Πλήρης Εκτέλεση |
-| 7η | [Άσκηση γραμμής εντολών]() | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/806) | | Πλήρης Εκτέλεση |
-| 8η | [Κατασκευή του βιβλίου Β]() | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
-| 9η | [Συμμετοχικό περιεχόμενο B1+B2]() | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
-| 10η | [Τελική αναφορά](#12ο-παραδοτέο---τελική-αναφορά--συμπεράσματα) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/809) | | Πλήρης Εκτέλεση |
+| 3η | [Κατασκευή του βιβλίου Α](#3o-παραδοτέο---κατασκευή-του-βιβλίου-α) | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
+| 4η | [Άσκηση γραμμής εντολών](#4o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/802) | | Πλήρης Εκτέλεση |
+| 5η | [Συμμετοχικό περιεχόμενο A1+A2](#5o-παραδοτέο---συμμετοχικό-περιεχόμενο-a1a2) | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
+| 6η | [Βιογραφικό](#6o-παραδοτέο---bιογραφικό) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/805) | | Πλήρης Εκτέλεση |
+| 7η | [Άσκηση γραμμής εντολών](#7o-παραδοτέο---άσκηση-γραμμής-εντολών) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/806) | | Πλήρης Εκτέλεση |
+| 8η | [Κατασκευή του βιβλίου Β]() | [Link Παραδοτέου (Discussions ---)](#8o-παραδοτέο---κατασκευή-του-βιβλίου-β) | | Ατελές |
+| 9η | [Συμμετοχικό περιεχόμενο B1+B2](#9o-παραδοτέο---συμμετοχικό-περιεχόμενο-b1b2) | [Link Παραδοτέου (Discussions ---)]() | | Ατελές |
+| 10η | [Τελική αναφορά](#10ο-παραδοτέο---τελική-αναφορά--συμπεράσματα) | [Link Παραδοτέου (Discussions)](https://github.com/courses-ionio/help/discussions/809) | | Πλήρης Εκτέλεση |
 
 
 </br></br>
