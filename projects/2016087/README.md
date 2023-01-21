@@ -59,6 +59,14 @@
 
 <div align="center"><a href="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv" target="_blank"><img src="https://asciinema.org/a/qVPET1KB1JGSEyQe1bxTlvRmv.svg" /></a></div>
 
+***Ασκηση***
+
+Έχει εγκατασταθεί και το youtube-dl το οποίο το χρησιμοποίησα για να κατεβαστεί και να μετατραπεί ένα βίντεο από το [YouTube](https://youtu.be/v3xwCkhmies) σε mp3. Επίσης πραγματοποιήθηκε εγκατάσταση του ntfy και χρησιμοποιήθηκε για να σταλεί ένα notification στο desktop. Συνδέοντας τα σε ένα script «ntfy_mp3.sh» το οποίο μόλις ολοκληρωθεί η λήψη ενός τραγουδιού, από το ntfy στέλνει μια ειδοποίηση στο desktop για να ειδοποιήσει τον χρήστη «p2016087» ότι είναι έτοιμο το τραγούδι. Τελος, χρησιμοποιείται το mpg123 για να παίξει εικονικά το τραγούδι. To λειτουργικό που χρησιμοποιείται είναι το GhostBSD (Όσον αφορά την εγκατάσταση του λογισμικού αναφέρεται και στα προηγούμενα παραδοτέα) και όλη η διαδικασία απεικονίζεται παρακάτω μέσω του [asciinema](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP).
+
+
+<div align="center"><a href="https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP" target="_blank"><img src="https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP.svg" /></a></div>
+
+
 ## 5o Παραδοτέο - Συμμετοχικό περιεχόμενο A1+A2
 Όσον αφορά το 5o παραδοτέο του μαθήματος μας ζητήθηκε να ενσωματώσουμε στην ανεπίσιμη ιστοσελίδα του πανεπιστημίου "Προγραμματισμός της διάδρασης" δυο θέματα όπου και τα δύο να αφορούν λογισμικό. H ενσωμάτωση έπρεπε να πραγματοποιειθεί μέσω του [κεντρικού αποθετηρίου pibook της ομάδας - LostMpodis](https://github.com/LostMpodis/site). Συνοπτικά, για το κάθε θέμα ξεχωριστά έπρεπε να ανεβάσουμε δύο εικόνες στο [images](https://github.com/LostMpodis/images), να το περιγράψουμε στο [_gallery](https://github.com/LostMpodis/_gallery) πραγματοποιώντας τις κατάλληλες αλλαγές στο φάκελο και να αλλάξουμε ή να προσθέσουμε αναλόγως με την θεματική ενότητα τα αρχεία στους φακέλους [timeline](https://github.com/LostMpodis/site/tree/master/_timeline) και [sides](https://github.com/LostMpodis/site/tree/master/_slides).
 
@@ -110,9 +118,7 @@ pdflatex cv.tex
 
 <div align="center"><img src="https://github.com/p16z/assets/raw/main/A/ntfy--2022-09-30%20001646.png" /></a></div>
 
-Βήματα:
-
-Κάνω εγκατάσταση των απαραίτητων πακέτων
+Αφού κανώ εγκατάσταση των απαραίτητων πακέτων
 ```pkg search ntfy```
 ```pkg install ntfy-2.7.0.14```
 
@@ -129,12 +135,6 @@ pdflatex cv.tex
 https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 
 [Notify-send and Ntfy](https://www.youtube.com/watch?v=bbdQXfReuG0)
-
-***Επιπλέον ασκηση***
-
-Πραγματοποιήθηκε εγκατάσταση του ntfy και χρησιμοποιήθηκε για να σταλεί ένα notification στο desktop. Επίσης, έχει εγκατασταθεί και το youtube-dl το οποίο το χρησιμοποίησα για να κατεβαστεί και να μετατραπεί ένα βίντεο από το [YouTube](https://youtu.be/v3xwCkhmies) σε mp3. Συνδέοντας τα σε ένα script «ntfy_mp3.sh» το οποίο μόλις ολοκληρωθεί η λήψη ενός τραγουδιού, από το ntfy στέλνει μια ειδοποίηση στο desktop για να ειδοποιήσει τον χρήστη «p2016087» ότι είναι έτοιμο το τραγούδι. Τελος, χρησιμοποιείται το mpg123 για να παίξει εικονικά το τραγούδι. To λειτουργικό που χρησιμοποιείται είναι το GhostBSD (Όσον αφορά την εγκατάσταση του λογισμικού αναφέρεται και στα προηγούμενα παραδοτέα) και όλη η διαδικασία απεικονίζεται παρακάτω μέσω του [asciinema](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP).
-
-[![asciicast](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP.svg)](https://asciinema.org/a/8r2m8kZe8Sdo5aLzDHxmfIvVP)
 
 
 ## 8o Παραδοτέο - Κατασκευή του βιβλίου Β
