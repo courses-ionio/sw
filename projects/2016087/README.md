@@ -166,7 +166,7 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 | [`./make-latex.sh`](https://github.com/p16z/kallipos/blob/2016087/make-latex.sh) | Εγειναν οι καταλληλες αλλαγες του για να μπορει να δουλεψει το script |
 | [generated_book .pdf](https://github.com/p16z/kallipos/raw/2016087/book_result/generated_book.pdf) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .pdf |
 | [generated_book .tex](https://raw.githubusercontent.com/p16z/kallipos/2016087/book_result/generated_book.tex) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .tex |
-| [generated_book .epub](https://github.com/p16z/kallipos/blob/2016087/book_result/generated_book.epub) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .epub |
+| [generated_book .epub](https://github.com/p16z/kallipos/raw/2016087/book_result/generated_book.epub) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .epub |
 
 
 ## 9o Παραδοτέο - Συμμετοχικό περιεχόμενο B1+B2
