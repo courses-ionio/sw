@@ -87,20 +87,10 @@
 
 Παρακάτω απεικονίζονται τα λινκς με τις αλλαγές και τους προορισμούς τους που πραγματοποιήθηκαν.
 
-| Προορισμός | Περιγραφή |
-| --- | --- |
-| [p16z/site--pibook](https://github.com/p16z/site--pibook/tree/2016087) | Fork του Repository pibook και δημιουργία branch `2016087` για να γίνουν οι αλλαγές |
-| [`pibook2016087.netlify.app`](https://pibook2016087.netlify.app) | Λινκ netlify προς την ιστοσελίδα pibook του βιβλίου |
-| [`Commits`](https://github.com/p16z/site--pibook/commits/2016087) | Λινκ commits |
-| [`Shigeru Miyamoto`](https://pibook2016087.netlify.app/biography/shigeru-miyamoto/) | Λινκ netlify προς την βιβλιογραφία του Shigeru Miyamoto  |
-| [`Todd Howard`](https://pibook2016087.netlify.app/biography/shigeru-miyamoto/) | Λινκ netlify προς την βιβλιογραφία του Todd Howard  |
-| [`Αποθετήριο images`](https://github.com/p16z/_gallery/tree/2016087) | Fork του Repository images και δημιουργία branch `2016087` για να γίνουν οι αλλαγές || 
-| [`ΝΕΟ biography netlify`](https://pibook2016087.netlify.app/biography/) | Λινκ προς την βιβλιογραφία του βιβλίου |
-| [`miyamoto-profile-thumb`](https://github.com/p16z/images/blob/2016087/miyamoto-profile-thumb.jpg) | Λινκ προς το εικονίδιο του Shigeru Miyamoto για την φωτογραφία που έπρεπε να μετατραπεί σε καταλληλά μεγέθη  |
-| [`howard-profile-thumb`](https://github.com/p16z/images/blob/2016087/howard-profile-thumb.jpg) | Λινκ προς το εικονίδιο του Shigeru Miyamoto για την φωτογραφία του Todd Howard |
-| [`miyamoto-profile-thumb`](https://github.com/p16z/images/blob/2016087/miyamoto-profile-thumb.jpg) | Λινκ προς το εικονίδιο του Shigeru Miyamoto για την φωτογραφία που έπρεπε να μετατραπεί σε καταλληλά μεγέθη  |
-| [`howard-profile-thumb`](https://github.com/p16z/images/blob/2016087/howard-profile-thumb.jpg) | Λινκ προς το εικονίδιο του Shigeru Miyamoto για την φωτογραφία του Todd Howard |
-| `Links προς άλλες εικόνες που προστέθηκαν` | [Super Mario,](https://github.com/p16z/images/blob/2016087/s_mario.png) [Elden Rings,](https://github.com/p16z/images/blob/2016087/elder.png) [Todd Howard,](https://github.com/p16z/images/blob/2016087/howard-profile.jpg) [Shigeru Miyamoto](https://github.com/p16z/images/blob/2016087/miyamoto-profile.jpg) |
+| Λογισμικό | Προορισμός _gallery | Προορισμός slides | Προορισμός timeline | Προορισμός Netlify|
+| --- | --- |--- | --- | --- |
+| Zoom  | [ZOOM p16z/_gallery]() |  [ZOOM p16z/slides]()  | [ZOOM p16z/timeline]() |  [ZOOM Netlify]() | 
+| VLC Media Player   | [VLC p16z/_gallery]() |  [VLC p16z/slides]()  | [VLC p16z/timeline]() |  [VLC Netlify]() | 
 
 ***Ομαδική συνεισφορά***
 
