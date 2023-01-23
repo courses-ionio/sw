@@ -89,8 +89,10 @@
 
 | Λογισμικό | Προορισμός _gallery | Προορισμός slides | Προορισμός timeline | Προορισμός Netlify|
 | --- | --- |--- | --- | --- |
-| Zoom  | [ZOOM p16z/_gallery](https://github.com/p16z/_gallery/blob/2016087/zoom.md) |  [ZOOM p16z/slides]()  | [ZOOM p16z/timeline]() |  [ZOOM Netlify]() | 
-| VLC Media Player   | [VLC p16z/_gallery](https://github.com/p16z/_gallery/blob/2016087/vlc.md) |  [VLC p16z/slides]()  | [VLC p16z/timeline]() |  [VLC Netlify]() | 
+| Zoom  | [ZOOM p16z/_gallery](https://github.com/p16z/_gallery/blob/2016087/zoom.md) |  [ZOOM p16z/slides](https://github.com/p16z/site--pibook/blob/2016087/_slides/zoom.md)  | [ZOOM p16z/timeline](https://github.com/p16z/site--pibook/blob/2016087/_timeline/zoom.md) |  [ZOOM Netlify](https://pibook2016087.netlify.app/slides/zoom/) | 
+| VLC Media Player   | [VLC p16z/_gallery](https://github.com/p16z/_gallery/blob/2016087/vlc.md) |  [VLC p16z/slides](https://github.com/p16z/site--pibook/blob/2016087/_slides/vlc.md)  | [VLC p16z/timeline](https://github.com/p16z/site--pibook/blob/2016087/_timeline/vlc.md) |  [VLC Netlify](https://pibook2016087.netlify.app/slides/vlc/) | 
+
+Σημείωση: Ενδέχεται να υπάρχει πρόβλημά με τις εικόνες και τα slides
 
 Επιπλέον λίνκς
 
