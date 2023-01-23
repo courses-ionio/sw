@@ -185,11 +185,14 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 
 | Προορισμός | Περιγραφή |
 | --- | --- |
-| [p16z/kallipos](https://github.com/p16z/kallipos/tree/2016087) | Fork του Repository kallipos και δημιουργία branch “2016087” για να γίνουν οι αλλαγές |
-| [`./make-latex.sh`](https://github.com/p16z/kallipos/blob/2016087/make-latex.sh) | Εγειναν οι καταλληλες αλλαγες του για να μπορει να δουλεψει το script |
+| [p16z/site--pibook](https://github.com/p16z/site--pibook/tree/2016087) | Fork του Repository pibook και δημιουργία branch `2016087` για να γίνουν οι αλλαγές |
+| [`pibook2016087.netlify.app`](https://pibook2016087.netlify.app) | Λινκ netlify προς την ιστοσελίδα pibook του βιβλίου |
+| [`Commits`](https://github.com/p16z/site--pibook/commits/2016087) | Λινκ commits |
+| [`Shigeru Miyamoto`](https://pibook2016087.netlify.app/biography/shigeru-miyamoto/) | Λινκ netlify προς την βιβλιογραφία του Shigeru Miyamoto  |
+| [`Todd Howard`](https://pibook2016087.netlify.app/biography/shigeru-miyamoto/) | Λινκ netlify προς την βιβλιογραφία του Todd Howard  |
+| [`Αποθετιριο images`](https://github.com/p16z/_gallery/tree/2016087) | Fork του Repository pibook και δημιουργία branch `2016087` για να γίνουν οι αλλαγές |
 | [`lua filter`](https://github.com/p16z/kallipos/blob/2016087/comm.lua) | Δημιουργία lua filter για το comment που χρειάστηκε να κάνουμε |
-| [generated_book](https://github.com/p16z/kallipos/raw/2016087/book_result/generated_book.pdf) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .pdf |
-| [comment link](https://github.com/p16z/kallipos/blob/2016087/m_comm/my_comm.md) | Λίνκ για το comment που έπρεπε να γράψουμε |
+| [`lua filter`](https://github.com/p16z/kallipos/blob/2016087/comm.lua) | Δημιουργία lua filter για το comment που χρειάστηκε να κάνουμε |
 
 
 ## 10ο Παραδοτέο - Τελική αναφορά & Συμπεράσματα
