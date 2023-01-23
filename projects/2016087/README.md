@@ -156,7 +156,18 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 
 
 ## 8o Παραδοτέο - Κατασκευή του βιβλίου Β
-Ατελές
+Εναλλακτικά, με την χρήση του `pandoc` απο το τερματικό και συγκεκριμένα με την χρήση της εντολής `pandoc generated_book.tex -o generated_book.epub` έδωσα ως είσοδο το βιβληο σε μορφη .tex `generated_book.tex` για να δημιουργηθεί ένα τελικό αρχείο σε μορφή .epub `generated_book.epub`.
+
+[![asciicast](https://asciinema.org/a/wiCXizNeslavNo8eYyGT0tU8e.svg)](https://asciinema.org/a/wiCXizNeslavNo8eYyGT0tU8e)
+
+| Προορισμός | Περιγραφή |
+| --- | --- |
+| [p16z/kallipos](https://github.com/p16z/kallipos/tree/2016087) | Fork του Repository kallipos και δημιουργία branch “2016087” για να γίνουν οι αλλαγές |
+| [`./make-latex.sh`](https://github.com/p16z/kallipos/blob/2016087/make-latex.sh) | Εγειναν οι καταλληλες αλλαγες του για να μπορει να δουλεψει το script |
+| [generated_book .pdf](https://github.com/p16z/kallipos/raw/2016087/book_result/generated_book.pdf) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .pdf |
+| [generated_book .tex](https://raw.githubusercontent.com/p16z/kallipos/2016087/book_result/generated_book.tex) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .tex |
+| [generated_book .epub](https://github.com/p16z/kallipos/blob/2016087/book_result/generated_book.epub) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .epub |
+
 
 ## 9o Παραδοτέο - Συμμετοχικό περιεχόμενο B1+B2
 Ατελές
