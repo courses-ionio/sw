@@ -172,8 +172,16 @@ https://freebsd.pkgs.org/12/freebsd-aarch64/ntfy-2.7.0.14.pkg.html
 
 Παράλληλα όσον αφορά το βιβλίο το τελικό αρχή που έχει δημιουργηθεί περιέχει ορισμένα προβλήματα όσον αφορά την κατάταξη των παραγράφων και την εμφάνιση των εικόνων. Για λόγους απλότητας δεν δόθηκε αρκετή σημασία σε αυτά. Διαφορετικά μπορούμε να ενημερώσουμε καταλληλά το αρχείο [`./make-latex.sh`](https://github.com/p16z/kallipos/blob/2016087/make-latex.sh) έτσι ώστε να εκδοθεί με την επιθυμητή σειρά των παραγράφων αλλά και να εμφανιστούν όλες εικόνες με την ενημέρωση των submodules και των επιμέρους αρχείων.
 
+
 ## 9o Παραδοτέο - Συμμετοχικό περιεχόμενο B1+B2
-Ατελέςσσ
+
+| Προορισμός | Περιγραφή |
+| --- | --- |
+| [p16z/kallipos](https://github.com/p16z/kallipos/tree/2016087) | Fork του Repository kallipos και δημιουργία branch “2016087” για να γίνουν οι αλλαγές |
+| [`./make-latex.sh`](https://github.com/p16z/kallipos/blob/2016087/make-latex.sh) | Εγειναν οι καταλληλες αλλαγες του για να μπορει να δουλεψει το script |
+| [`lua filter`](https://github.com/p16z/kallipos/blob/2016087/comm.lua) | Δημιουργία lua filter για το comment που χρειάστηκε να κάνουμε |
+| [generated_book](https://github.com/p16z/kallipos/raw/2016087/book_result/generated_book.pdf) | Λίνκ για να κατεβάσουμε το παραγόμενο βιβλίο σε μορφή .pdf |
+| [comment link](https://github.com/p16z/kallipos/blob/2016087/m_comm/my_comm.md) | Λίνκ για το comment που έπρεπε να γράψουμε |
 
 
 ## 10ο Παραδοτέο - Τελική αναφορά & Συμπεράσματα
