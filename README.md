@@ -7,13 +7,13 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Κατασκευή του βιβλίου Α (ατομικά) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Κατασκευή του βιβλίου Α (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Β (ατομικά) | | |
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request | | |
+| 3 | Γραμμή εντολών (no systemd) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
 
@@ -37,7 +37,7 @@
 
 **Μέθοδος διδασκαλίας:** Συνεργασία, ασκήσεις, εργασία.
 
-**Συντονιστής συστημάτων τηλεεκπαίδευσης:** 
+* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
 
 **Κριτήρια βαθμολογίας:**  10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://courses-ionio.github.io/help/social/) + 10% [κατασκευή του βιβλίου](https://courses-ionio.github.io/help/book) + 30% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) + 50% [συμμετοχή στην τάξη](https://courses-ionio.github.io/help/classroom/) + 10% [προαιρετικό bonus](https://courses-ionio.github.io/help/bonus/)
 
@@ -46,7 +46,6 @@
 **Βιβλίογραφία:** 
 * Ανάγνωση κώδικα, 
 * Πρακτικός προγραμματιστής, 
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
 * [Computer Connections](https://computerhistory.org/blogs/computer-history-museum-license-agreement-for-the-kildall-manuscript/): Βιβλίο για μελέτη μπόνους
 * [Software: Art, Engineering, Mathematics, or Science?](http://worrydream.com/refs/Kay%20-%20Software%20-%20Art,%20Engineering,%20Mathematics,%20or%20Science%3F.html)
 * [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
