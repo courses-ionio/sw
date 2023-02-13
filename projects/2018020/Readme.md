@@ -4,6 +4,8 @@
 ## ΑΜ: Π2018020  
 ## [Οργανισμός: Genesis: The Beginning](https://github.com/Genesis-The-Beginning)
 ## [Προφίλ στο Github](https://github.com/NestorasKosmidis)
+## [Edpuzzle]
+## [ASCIINEMA]()
 
 ## Εβδομάδα 1
 ### Εισαγωγή
