@@ -2,7 +2,7 @@
 | Χρήστος Μπαζδάνης | Π2018019 |
 | ----------- | ----------- |
 | Github Profile | [dimitrisvarelas](https://github.com/dimitrisvarelas/) |
-| Github Organazation| |
+| Github Organazation| [Genesis](https://github.com/Genesis-The-Beginning)|
 | asciinema | |
 | Edpuzzle | |
 
