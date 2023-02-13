@@ -2,7 +2,7 @@
 
 ## Νέστορας Κοσμίδης
 ## ΑΜ: Π2018020  
-## Οργανισμός:
+## [Οργανισμός: Genesis: The Beginning](https://github.com/Genesis-The-Beginning)
 ## [Προφίλ στο Github](https://github.com/NestorasKosmidis)
 
 ## Εβδομάδα 1
