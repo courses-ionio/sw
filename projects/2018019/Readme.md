@@ -1,5 +1,5 @@
 # Τεχνολογία Λογισμικού 
-| Χρήστος Μπαζδάνης | Π2018019 |
+| Δημήτρης Βαρελάς | Π2018019 |
 | ----------- | ----------- |
 | Github Profile | [dimitrisvarelas](https://github.com/dimitrisvarelas/) |
 | Github Organazation| [Genesis](https://github.com/Genesis-The-Beginning)|
