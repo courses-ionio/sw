@@ -850,11 +850,12 @@ case 8:
   {% when 3 %}
  ..
  .. 
+ {% endcase %}
 ```
 Πιο κάτω έχουμε το people-rank-div include. Εδώ αρχικά έβαλα το id του κάθε grid-item, δηλαδή του κάθε κελιού με το καθηγητή του να έχει σαν id το reference του καθηγητή. Έβαλα μέσα στο κελί το archive-people το οποίο εμφανίζει το κάθε καθηγητή μαζί με τη εικόνα του. Μέτα έβαλα ένα javascript το οποίο βάζει αυτό το grid-item μέσα στο κατάλληλο container μέσο του αριθμού που έγινε passed από το προηγούμενο include ενώ επίσης εμφανίζει το container αυτό εφόσον τώρα ξέρουμε ότι υπάρχει καθηγητής μέσα.
 ```
 <div id="{{ post.ref }}" style="float: left;" class="grid__item" >
-        {% include archive-people.html %}
+        include archive-people.html 
       </div>
       <script>
             document.getElementById("people-rank-{{ include.content }}").style.display = "grid";
@@ -886,7 +887,7 @@ case 8:
 ```
 Στο index.html κάλεσα το include με το όνομα του twitter μου.
 ```
-{% include twitter-posts.html content="p17papp1" type="center" index=random %}
+ include twitter-posts.html content="p17papp1" type="center" index=random 
 ```
 
 Τα tweets που έφτιαξα είναι τα παρακάτω:  
@@ -931,7 +932,7 @@ case 8:
 
 ```
 <div id="boxes">
-{% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
+ include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" 
 
 <div markdown="1"> 
 # ΠΡΟΠΤΥΧΙΑΚΟ 
