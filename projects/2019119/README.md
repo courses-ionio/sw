@@ -2,7 +2,7 @@
 | Χρήστος Μπαζδάνης | Π2019119 |
 | ----------- | ----------- |
 | Github Profile | [ChristosMpazdanhs](https://github.com/ChristosMpazdanhs) |
-| Github Organazation| |
+| Github Organazation|[Genesis: The Beginning](https://github.com/Genesis-The-Beginning) |
 | asciinema | |
 | Edpuzzle | |
 
