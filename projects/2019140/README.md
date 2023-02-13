@@ -5,13 +5,14 @@
 ### ΑΜ: Π2019140
 ### Email: [p19tour@ionio.gr](mailto:p19tour@ionio.gr)
 ### [Προφίλ στο GitHub](https://github.com/KonstantinosTourtsakis)
-### [Η αναφορά στο αποθετήριό μου]()
+### [Η αναφορά στο αποθετήριό μου](https://github.com/KonstantinosTourtsakis/sw/tree/2019140/projects/2019140)
 ### Edpuzzle: p19tour P2019140
-### Οργανισμός: [Second Time Is The Charm](https://github.com/Second-Time-Is-The-Charm/Main)
+### Οργανισμός: [PaneksypnesDiepafes](https://github.com/PaneksypnesDiepafes/Main)
 
 
 |Members|Roles|Νame| ID |
 |---|:-:|---|:-:|
+|Tarakhs|Admin|[Nikos Panagiotarakis](https://github.com/tarakhs)|P2019152| 	
 |Voltmaister|Admin| [Orestis Artinopoulos](https://github.com/voltmaister)|P2019153|
 |Markedd|Member|[Dimitra Markou](https://github.com/marked-d)|P2019170|
 |NickLitharis|Admin|[Nikos Litharis](https://github.com/NickLitharis)|P2019083|
@@ -19,12 +20,13 @@
 |odysseasEko|Member|[Odysseas Oikonomou](https://github.com/odysseasEko/)|P2019060|
 |Angeloth1|Member|[Angelos Thomos](https://github.com/Angeloth1/)|P2019095|
 
+
 <br/><br/>
 
 
 ## Πίνακας παραδοτέων
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
+| :-: | --- | :-: | :-: |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | | |
 | 3 | Γραμμή εντολών (no systemd) | | |
