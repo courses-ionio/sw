@@ -1,4 +1,4 @@
-# [ΆΓΓΕΛΟΣ ΘΏΜΟΣ - Π2019095](https://github.com/Angeloth1)
+# [ΑΓΓΕΛΟΣ ΘΩΜΟΣ - Π2019095](https://github.com/Angeloth1)
 
 # [TEAM](https://github.com/PaneksypnesDiepafes)
 |Member|Role|First & Last Name|ID|Account Link|
