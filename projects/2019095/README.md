@@ -50,3 +50,4 @@
 
   [![asciicast](https://asciinema.org/a/6ekvEuCfGl5RKfIBzJqrVqkah.svg)](https://asciinema.org/a/6ekvEuCfGl5RKfIBzJqrVqkah)
   
+να σημειώσω ότι τις εργασίες του μαθήματος θα τις ολοκληρώσω με σύστημα το οποίο δεν περιέχει systemd, λογικά με κάποιο από τα προτεινόμενα εκτός αν βρεθεί κάποιο άλλο συμβατό με τις απαιτήσεις του μαθήματος αλλά και με τις δικές μου.
