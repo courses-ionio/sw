@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέα| [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία ομάδας, εισαγωγής και αναφοράς των στόχων μου.|
+| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1170" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία ομάδας, εισαγωγής και αναφοράς των στόχων μου.|
 | 2 | <li><a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας"></span> <span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας</span></a> | | |
 | 3 | <li><a href="#Γραμμή εντολών (no systemd)"></span> <span class="toctext">Γραμμή εντολών (no systemd)</span></a>  | | |
 | 4 | <li><a href="#Κατασκευή του βιβλίου Α2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Α2 (συνεργατικά)</span></a>| | |
