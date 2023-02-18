@@ -17,3 +17,7 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1140)
 
+## Εβδομάδα 2
+Χρησιμοποιήσα το [py-spy](https://github.com/benfred/py-spy) με σκοπό να δημιουργήσω ένα flamegraph του python.py και έκανα output το αποτέλεσμα σε ένα αρχείο svg. Μπορείτε να το δείτε παρακάτω :
+[![asciicast](https://asciinema.org/a/2v7nkEhFlQP0hLZlhBKSQ8JpL)](https://asciinema.org/a/2v7nkEhFlQP0hLZlhBKSQ8JpL)
+
