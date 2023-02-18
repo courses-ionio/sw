@@ -1,24 +1,20 @@
-# Τεχνολογία Λογισμικού 
 
-[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://epidrome.github.io/teaching/) για την παράδοση της εργασίας.
-
-[Ανακοινώσεις, νέες απορίες και εβδομαδιαία ομαδικότητα](https://github.com/courses-ionio/sw/discussions)
-
->> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις και τις ανακοινώσεις.
-
-Οι διαθέσιμες εργασίες είναι αυτές που έχουν τον κωδικό SW. Για όσους χρωστάνε το μάθημα (επι πτυχίω, επαναληπτική εξεταστική) δείτε το ιστορικό αυτού του αρχείου κατά την έναρξη του εξαμήνου.
-
->> Μπορείτε να βρείτε τον πηγαίο κώδικα για τον παρακάτω πίνακα περιεχόμεων της τελικής σας αναφοράς στο κουμπί `Raw` και μετά να τον αντιγράψετε στην αναφορά σας
-
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
-| 3 | Γραμμή εντολών (no systemd) | | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
+# <h1 align="center">:computer: Τεχνολογία Λογισμικού :desktop_computer:</h1> 
+<h3> Α.Μ.: Π2019150
+<br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
+<h3>
+  
+| Εβδομάδα | [Παραδοτέα](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| ---- | ---- | ---- | ---- |
+| 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Discussions](Link) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md και έκανα μία εισαγωγή που την πρόσθεσα στα discussions |
+| 2 | <a href="#Bιογραφικό και δημιουργία ομάδας"><span class="toctext">Bιογραφικό και δημιουργία ομάδας</span></a> | [Link στο Discussions](Link) |Για την δεύτερη εβδομάδα έγινα μέλος της ομάδας oopaloompas και δημιούργησα το βιογραφικό μου. |
+| 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
+| 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | [Link στο Discussions](Link) | |
+| 5 | <a href="#Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)"><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></a> | [Link στο Discussions](Link) ||
+| 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | [Link στο Discussions](Link) |  |
+| 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | [Link στο Discussions](Link) | |
+| 8 | <a href="#Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/738) |  |
+| 9 | <a href="#Άσκηση γραμμής εντολών py-spy"><span class="toctext">Άσκηση γραμμής εντολών py-spy</span></a> | [Link στο Discussions](Link) | |
+| 10 | <a href="#Συμμετοχικό περιεχόμενο B1+B2"><span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | [Link στο Discussions](Link) | |
+| 11 | <a href="#Άσκηση γραμμής εντολών twilio"><span class="toctext">Άσκηση γραμμής εντολών twilio</span></a> | [Link στο Discussions](Link) | |
+| 12 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span> | [Link στο Discussions](Link) | |
