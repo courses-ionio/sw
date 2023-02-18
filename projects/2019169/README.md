@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση|
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:18/02/2022 |<a href="https://github.com/courses-ionio/help/discussions/122">Προόδος 1</a>| |
+| 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:18/02/2022 |<a href="https://github.com/courses-ionio/sw/discussions/1186">Προόδος 1</a>| |
 | 2 | <li><a href="#Personal CV."><span class="toctext">Personal CV.</span></a>| | | 
 | 3 | <li><a href="#Pull request at the site."><span class="toctext">Pull request at the site.</span></a>| | |
 | 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> |<a href="https://github.com/courses-ionio/help/discussions/430">Πρόοδος 4</a> | |
