@@ -19,5 +19,4 @@
 
 ## Εβδομάδα 2
 Χρησιμοποιήσα το [py-spy](https://github.com/benfred/py-spy) με σκοπό να δημιουργήσω ένα flamegraph του python.py και έκανα output το αποτέλεσμα σε ένα αρχείο svg. Μπορείτε να το δείτε παρακάτω :
-[![asciicast](https://asciinema.org/a/2v7nkEhFlQP0hLZlhBKSQ8JpL)](https://asciinema.org/a/2v7nkEhFlQP0hLZlhBKSQ8JpL)
-
+[![asciicast](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL)](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL)
