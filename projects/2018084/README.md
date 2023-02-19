@@ -29,15 +29,13 @@
 
 ## <a name="P-1">Παραδοτέο 2</a>
 ### Άσκηση: Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας
-
-## <a name="P-2">Παραδοτέο 3</a>
-### Άσκηση: Γραμμή εντολών (no systemd)
-  
 **Κατηγορία:** Software <br />
 **Περιγραφή:** Send notifications to your desktop-mobile; Send a notifcation when a big task completes, eg download, compiling, etc <br />
 **Asciinema link:** https://asciinema.org/a/t7F155IcCLR0JKe2fy3WAWsmb <br />
 **Image Links:** https://drive.google.com/drive/folders/1fiecrA51VQLwvLMGKSqbU5PNrSBHeRBU?usp=sharing
 
+## <a name="P-2">Παραδοτέο 3</a>
+### Άσκηση: Γραμμή εντολών (no systemd)
 
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
