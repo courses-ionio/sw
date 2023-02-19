@@ -2,6 +2,7 @@
 ### Πετρούλα Στυλιανού 
 ### ΑΜ: Π2019223
 #### [Github profile](https://github.com/PetroulaStylianou)
+#### [Η ομάδα μου](https://github.com/IonianUniversity2019)
 
 
 | Εβδομάδα | Παραδοτέα| [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
