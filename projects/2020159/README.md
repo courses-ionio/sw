@@ -2,7 +2,7 @@
 
 ### ΑΜ: Π2020159
 
-### GITHUB: [https://github.com/](https://github.com/AlexIoanP2020159)
+### GITHUB: [https://github.com/AlexIoanP2020159](https://github.com/AlexIoanP2020159)
 
 ### ORGANISATION: https://github.com/LetMeDoItForYou
 
