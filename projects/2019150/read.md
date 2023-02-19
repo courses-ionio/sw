@@ -4,7 +4,7 @@
 <br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
 <h3>
   
-| Εβδομάδα | [Παραδοτέα](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | [Παραδοτέα](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | ---- | ---- | ---- | ---- |
 | 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1206) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md , έκανα την εισαγωγή μου και την πρόσθεσα στα discussions και έγινα μέλος της ομάδας  |
 | 2 | <a href="#Bιογραφικό και δημιουργία ομάδας"><span class="toctext">Bιογραφικό και δημιουργία ομάδας</span></a> | [Link στο Discussions](Link) | |
