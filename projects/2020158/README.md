@@ -2,7 +2,7 @@
 
 ### Ονοματεπώνυμο: Μαρία Κούρτη
 ### Αριθμός Μητρώου: Π2020158
-### Ομάδα: 
+### Ομάδα: [TheTimeParadox](https://github.com/TheTimeParadox)
 ### Edpuzzle Username: p20kour2
 
 
