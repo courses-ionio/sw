@@ -6,8 +6,6 @@
 
 ## Github Organization: [lapis-lazuli-ore-block](https://github.com/lapis-lazuli-ore-block)
 
-## Edpuzzle: 
-
 ## Περιεχόμενα:
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
