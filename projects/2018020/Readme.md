@@ -28,4 +28,6 @@
 
 [![asciicast](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL.svg)](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL)
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1235)
+
 ## Εβδομάδα 3
