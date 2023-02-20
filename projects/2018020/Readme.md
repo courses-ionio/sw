@@ -17,7 +17,7 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1140)
 
-## Εβδομάδα 2
+## Εβδομάδα 3
 ### ΄Ασκηση γραμμής εντολών (χωρίς systemd) / Εγκατάσταση Artix Linux
 Κατόπιν σκέψης και αρκετών βίντεο στο youtube με διάφορα  λειτουργικά συστήματα που δεν χρησιμοποιούν το systemd όπως Kiss Linux, Funtoo ώστε να βρω ένα που μου ταιριάζει κατέληξα στο Artix Linux μιας και αποτελεί το φιλικότερο σχετικά με τις προτιμήσεις μου από αυτά που είδα. Εγκατέστησα την python και το python-pip, μετά εγκατέστησα και το py-spy χρησιμοποιώντας την εντολή pip install py-spy | pip install asciinema . 
 
