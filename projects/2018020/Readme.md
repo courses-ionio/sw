@@ -17,17 +17,4 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1140)
 
-## Εβδομάδα 3
-### ΄Ασκηση γραμμής εντολών (χωρίς systemd) / Εγκατάσταση Artix Linux
-Κατόπιν σκέψης και αρκετών βίντεο στο youtube με διάφορα  λειτουργικά συστήματα που δεν χρησιμοποιούν το systemd όπως Kiss Linux, Funtoo ώστε να βρω ένα που μου ταιριάζει κατέληξα στο Artix Linux μιας και αποτελεί το φιλικότερο σχετικά με τις προτιμήσεις μου από αυτά που είδα. Εγκατέστησα την python και το python-pip, μετά εγκατέστησα και το py-spy χρησιμοποιώντας την εντολή pip install py-spy | pip install asciinema . 
 
-Μετά χρησιμοποίησα το [py-spy](https://github.com/benfred/py-spy) με σκοπό να δημιουργήσω ένα flamegraph του python.py και έκανα output το αποτέλεσμα σε ένα αρχείο svg. Μπορείτε να το δείτε παρακάτω :
-
-
-![record](https://user-images.githubusercontent.com/56269327/219904965-2805c552-c053-45e0-8dcc-20deead1d91b.svg)
-
-[![asciicast](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL.svg)](https://asciinema.org/a/2v7nkEhFIQP0hLZIhBKSQ8JpL)
-
-[Discussions](https://github.com/courses-ionio/sw/discussions/1235)
-
-## Εβδομάδα 3
