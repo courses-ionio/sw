@@ -31,3 +31,5 @@ ntfy -b telegram send "$message"
 
 ![screenshot](https://user-images.githubusercontent.com/100226514/220226677-2ceeafb8-51dd-444f-9cc8-01e8b54518c4.png)
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1236)
+
