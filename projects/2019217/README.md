@@ -27,7 +27,7 @@ ntfy -b telegram send "$message"
 
 [![asciicast](https://asciinema.org/a/NN2x9lToaRAJ85A7SbWFiPKx2.svg)](https://asciinema.org/a/NN2x9lToaRAJ85A7SbWFiPKx2)
 
-Το μηνύματα στο Telegram σε screenshot:
+Τα μηνύματα στο Telegram σε screenshot:
 
 ![screenshot](https://user-images.githubusercontent.com/100226514/220226677-2ceeafb8-51dd-444f-9cc8-01e8b54518c4.png)
 
