@@ -13,7 +13,7 @@
 
 # Παραδοτέο 2
 *Γραμμή εντολών*</br>
-Αφού βεβαιώθηκα ότι το systemd υπάρχει εγκατεστημένο στην έκδοση των Kali Linux που χρησιμοποιώ, δημιούργησα ένα πρόγραμμα σε Bash που σκανάρει για ανοιχτά ports στο 192.168.1.1 (router), αποθηκεύει το scan σαν αρχείο txt και έπειτα διαβάζει αυτό το αρχείο txt, το αποθηκεύει σαν μεταβλητή message και χρησιμοποιεί το [NTFY[telegram]](https://github.com/dschep/ntfy) για να αποστείλει αυτό το scan σε μήνυμα από το Panopoulos_bot στο κινητό μου.
+Tο systemd υπάρχει εγκατεστημένο στα Kali Linux μιας και Debian based επομένως χρησιμοποίησα αυτό για την άσκηση,έτσι δημιούργησα ένα πρόγραμμα σε Bash που σκανάρει για ανοιχτά ports στο 192.168.1.1 (router), αποθηκεύει το scan σαν αρχείο txt και έπειτα διαβάζει αυτό το αρχείο txt, το αποθηκεύει σαν μεταβλητή message και χρησιμοποιεί το [NTFY[telegram]](https://github.com/dschep/ntfy) για να αποστείλει αυτό το scan σε μήνυμα από το Panopoulos_bot στο κινητό μου.
 [![asciicast](https://asciinema.org/a/NN2x9lToaRAJ85A7SbWFiPKx2.svg)](https://asciinema.org/a/NN2x9lToaRAJ85A7SbWFiPKx2)
 
 
