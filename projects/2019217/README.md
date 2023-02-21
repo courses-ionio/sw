@@ -27,7 +27,7 @@ message=$(cat message.txt)
 #Χρησιμοποιεί το ntfy[Telegram] προκειμένου να αποστείλει το περιεχόμενο της μεταβλητής $message
 ntfy -b telegram send "$message"
 ```
-Το σκαν σε φωτογραφία:
+Το μηνύματα στο Telegram σε screenshot:
 
 ![screenshot](https://user-images.githubusercontent.com/100226514/220226677-2ceeafb8-51dd-444f-9cc8-01e8b54518c4.png)
 
