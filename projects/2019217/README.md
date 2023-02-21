@@ -20,7 +20,7 @@
 Παρακάτω βλέπετε το nmapscantomsg.sh:
 ```bash
 #!/bin/bash
-#Κάνει [nmap](https://github.com/nmap/nmap) σκαν και δημιουργεί στο directory που βρίσκεται ένα αρχείο message.txt
+#Κάνει nmap σκαν και δημιουργεί στο directory που βρίσκεται ένα αρχείο message.txt
 nmap -oG $(pwd)/message.txt 192.168.1.1
 #Διαβάζει με το cat το αρχείο message.txt και το αποθηκεύει σε μία μεταβλητή $message
 message=$(cat message.txt)
