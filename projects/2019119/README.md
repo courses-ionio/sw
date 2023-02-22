@@ -18,3 +18,5 @@
 Τέλος θα προσπαθήσω να εντάξω τις νέες τεχνολογίες που θα διδαχτώ σε προσωπικό έργο κατανοώντας έτσι αυτές τις τεχνολογίες καλύτερα, αφού θα εφαρμόζονται σε κάτι γνώριμο για εμένα. 
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1141)
+
+https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9
