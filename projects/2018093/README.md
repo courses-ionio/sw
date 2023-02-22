@@ -41,7 +41,7 @@ GitHub Link: https://github.com/theoharissiwzos
 
  [Asciinema link](https://asciinema.org/a/561612)
  
- [python script code](https://github.com/theoharissiwzos/sw/files/10800162/mychatbot.txt)
+ [python script code](https://github.com/theoharissiwzos/tele_bot/blob/main/telebot.py)
 
  
  χρησιμοποιήθηκαν οι εντολές:
