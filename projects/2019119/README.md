@@ -19,4 +19,7 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1141)
 
-https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9
+## Άσκηση γραμμής εντολών(systemd)
+Σε αυτήν την άσκηση χρησιμοποιώ το py-spy για να εξάγω ένα flamegraph σχετικά με το newfile1.py.
+
+[![asciicast](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9.svg)](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9)
