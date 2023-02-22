@@ -14,4 +14,7 @@
 
 ## Παραδοτέο 2 - Άσκηση γραμμής εντολών (systemd)
 Σε αυτό το παραδοτέο χρησιμοποιοιήθηκε το hyperfine για να γίνει benchmark για το test1.py και το test2.py. Έπειτα χρησιμοποιήθηκε το ίδιο λογισμικό με σκοπό να γίνει export το αποτέλεσμα τις εντολής σε ένα αρχείο json.
+
 [![asciicast](https://asciinema.org/a/9LGfqS8NkLGI7nK8Rua4TGhrx.svg)](https://asciinema.org/a/9LGfqS8NkLGI7nK8Rua4TGhrx)
+
+[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1244)
