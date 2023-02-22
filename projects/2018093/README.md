@@ -54,6 +54,6 @@ GitHub Link: https://github.com/theoharissiwzos
 
 | Telegram Screenshot | Terminal Screenshot (1) | Terminal Screenshot (2) |
 |---------- |---------- |----------|
-| ![neo](https://user-images.githubusercontent.com/99976073/220519132-4306049b-9a38-4df8-9b97-0b450c7603b0.jpg) | ![Στιγμιότυπο οθόνης από 2023-02-21 22-24-38](https://user-images.githubusercontent.com/99976073/220521574-ec2c5a74-29d8-4b3c-85f9-66989e099356.png)|![Στιγμιότυπο οθόνης από 2023-02-21 22-22-49](https://user-images.githubusercontent.com/99976073/220521340-6f3957f0-281c-4faa-ba3a-0c8e4e6d83c9.png) | 
+| ![neo](https://user-images.githubusercontent.com/99976073/220519132-4306049b-9a38-4df8-9b97-0b450c7603b0.jpg) | ![Στιγμιότυπο οθόνης από 2023-02-21 22-22-49](https://user-images.githubusercontent.com/99976073/220521340-6f3957f0-281c-4faa-ba3a-0c8e4e6d83c9.png) |![Στιγμιότυπο οθόνης από 2023-02-21 22-24-38](https://user-images.githubusercontent.com/99976073/220521574-ec2c5a74-29d8-4b3c-85f9-66989e099356.png) | 
 
 
