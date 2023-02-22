@@ -13,4 +13,5 @@
 [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1139)
 
 ## Παραδοτέο 2 - Άσκηση γραμμής εντολών (systemd)
-Σε αυτό το παραδοτέο χρησιμοποιώ το py-spy για να δημιουργήσω flamegraph διαγράμματα για δυο προγράμματα (test1.py, test2.py) και το hyperfine για να συγκρίνω τις αποδόσεις τους και παράλληλα να δημιουργήσω ένα αρχείο json που περιέχει τα αποτελέσματα των μετρήσεων.
+Σε αυτό το παραδοτέο χρησιμοποιοιήθηκε το hyperfine για να γίνει benchmark για το test1.py και το test2.py. Έπειτα χρησιμοποιήθηκε το ίδιο λογισμικό με σκοπό να γίνει export το αποτέλεσμα τις εντολής σε ένα αρχείο json.
+[![asciicast](https://asciinema.org/a/9LGfqS8NkLGI7nK8Rua4TGhrx)](https://asciinema.org/a/9LGfqS8NkLGI7nK8Rua4TGhrx)
