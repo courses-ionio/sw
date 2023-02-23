@@ -49,9 +49,9 @@
 # Άσκηση γραμμής εντολών 1
 Για πρώτη άσκηση γραμμής εντολών αποφάσισα να ασχοληθώ, πέρα από την εγκατάσταση του Arch Linux και τον συντονισμό του οργανισμού μας, με το πακέτο `py-spy` με το οποίο έκανα monitor την απόδοση του python script μου, ονόματι `my_program.py`. 
 
-Επιπλέον, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων `asciinema rec -i 0.5`. 
-
 [![asciicast1](https://asciinema.org/a/562397.svg)](https://asciinema.org/a/562397)
+
+Επιπλέον, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων με `asciinema rec -i 0.5`. 
 
 Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
 <br />
