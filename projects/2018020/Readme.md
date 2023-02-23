@@ -17,4 +17,8 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1140)
 
+## Εβδομάδα 1
+### Γραμμή εντολών(systemd)
 
+Για την δεύτερη εβδομάδα χρησιμοποίησα το py-spy με σκοπό να δημιουργήσω σε output ένα αρχείο .svg με το flamegraph που δημιουργήθηκε από το meme.py
+[![asciicast]( https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX.svg)](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX)
