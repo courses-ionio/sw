@@ -10,7 +10,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα → | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 1](https://github.com/courses-ionio/sw/discussions/1192) | Συγγραφή [εισαγωγής](#εισαγωγή) + ένταξης σε [οργανισμό](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5019249)|
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | [Εγκαστάση Arch Linux](#εγκατάσταση-arch-linux) + [άσκηση γραμμής εντολών 1](#άσκηση-γραμμής-εντολών-1) |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | [Εγκαστάση Arch Linux](#εγκατάσταση-arch-linux) + [άσκηση γραμμής εντολών 1](#άσκηση-γραμμής-εντολών-1) |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -51,8 +51,9 @@
 
 Επιπλέον, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων `asciinema rec -i 0.5`. 
 
+[![asciicast1](https://asciinema.org/a/562397.svg)](https://asciinema.org/a/562397)
 
 Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
 <br />
-Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/QhhTkNJzDqPlHMEfdBZKy93fW)
+Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/562397)
 <br />
