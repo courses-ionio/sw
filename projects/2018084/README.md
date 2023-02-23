@@ -7,7 +7,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | <a href="#P">1</a> | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση Παραδοτέου 1](https://github.com/courses-ionio/sw/discussions/1158) | |
-| <a href="#P-1">2</a> | <a href="#P-1"> Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | | |
+| <a href="#P-1">2</a> | <a href="#P-1"> Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Συζήτηση Παραδοτέου 2](https://github.com/courses-ionio/sw/discussions/1249)| |
 | <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | | |
 | <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | | |
