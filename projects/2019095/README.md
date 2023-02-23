@@ -53,3 +53,11 @@
 ![Στιγμιότυπο οθόνης_2023-02-23_14-07-44](https://user-images.githubusercontent.com/39650065/220877549-63d55685-8153-4815-bee4-5ed4bbf0dd1d.png)
 
 Ουσιαστικά αυτό το script πέρνει ένα quote από την λίστα και το κάνει output σαν notification στο κινητό μου.
+
+## PQs
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/39650065/220895429-6067c427-7e50-4a23-96b6-82616459c385.png)
+</div>
+
+**Περισσότερα σχετικά με την οργάνωση των pull requests του οργανισμού μπορείτε να δείτε τους κανόνες στο ακόλουθο [repo](https://github.com/PaneksypnesDiepafes/The-Paneskypnes-Diepafes-Manifesto)**
