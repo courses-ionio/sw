@@ -52,3 +52,5 @@
 `bindsym $mod+Return exec kitty`
 
 ## Άσκηση γραμμής εντολών
+
+[![asciicast](https://asciinema.org/a/Ta8ACOWaVJwPUl5WEWm1H38NV.svg)](https://asciinema.org/a/Ta8ACOWaVJwPUl5WEWm1H38NV)
