@@ -34,8 +34,8 @@
 
 ## 2. Γραμμή εντολών (systemd)
 
-Για το παραδοτέο της 2ης εβδομάδας υλοποίησα την άσκηση γραμμής εντολών: "Send notifications to your desktop-mobile". Με τη χρήση του ntfy και του Visual Studio Code, έγραψα ένα python script, το οποίο επιλέγει μέσα από μια λίστα ένα τυχαίο affirmation και το στέλνει στο κινητό τηλέφωνο του χρήστη.
-Σκοπός του script μου είναι η αποστολή μηνυμάτων στον χρήστη αφού έχει τελειώσει με επιτυχία το workout του σε μια fitness εφαρμογή. Πατώντας το κουμπί "Workout Done" θα του αποστέλεται ένα affirmation.
+Για το παραδοτέο της 2ης εβδομάδας υλοποίησα την άσκηση γραμμής εντολών: "Send notifications to your desktop-mobile". Με τη χρήση του ntfy και του Visual Studio Code, έγραψα ένα python script, το οποίο επιλέγει μέσα από μια λίστα, ένα τυχαίο motivation quote και το στέλνει στο κινητό τηλέφωνο του χρήστη.
+Σκοπός του python κωδικά μου είναι η αποστολή μηνυμάτων στον χρήστη αφού έχει τελειώσει με επιτυχία το workout του σε μια fitness εφαρμογή. Με τη σύνδεση του script με μια τέτοια εφαρμογή, η αποστολη θα γίνεται πατώντας το κουμπί "Workout Done".
 
 
 [![asciicast](https://asciinema.org/a/h9udVZ5zDZvbfdjGuWa4OOCuh.svg)](https://asciinema.org/a/h9udVZ5zDZvbfdjGuWa4OOCuh)
