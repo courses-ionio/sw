@@ -44,3 +44,9 @@
 
 ![IMG_8354(5)(3)](https://user-images.githubusercontent.com/72463627/221252040-816225e5-89b1-470e-8af5-4ac292af5298.jpg)
 
+## Βίντεο Κουίζ
+
+|Χ| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+
