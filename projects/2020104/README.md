@@ -56,5 +56,7 @@
 py-spy
 
 
-### Βοήθεια:
-[py-spy](https://github.com/benfred/py-spy)
+### Πηγές:
+- [Arch Linux](https://wiki.archlinux.org/)
+- [py-spy](https://github.com/benfred/py-spy)
+- [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
