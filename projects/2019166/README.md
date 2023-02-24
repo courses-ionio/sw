@@ -4,6 +4,8 @@
 <h3> Αριθμός Μητρώου: Π2019166 </h3>
 <h3>Email : p19alex@ionio.gr</h3>
 <h3>My github account : https://github.com/olumpiaalexopoulou</h3>
+<h3>My organization : https://github.com/Ranger-Power</h3>
+
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
