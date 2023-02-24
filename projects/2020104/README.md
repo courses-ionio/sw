@@ -55,7 +55,7 @@
 - [neofetch](https://asciinema.org/a/gMlsZR64vqV7k9x7wH8hYuAno)
 
 ### Software:
-- py-spy
+- [py-spy](https://asciinema.org/a/TcMinSX7IpbSyacNwAzLY47Bx)
 
 
 ### Πηγές:
