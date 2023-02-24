@@ -51,7 +51,9 @@
 
 [![asciicast1](https://asciinema.org/a/562397.svg)](https://asciinema.org/a/562397)
 
-Επιπλέον, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων με `asciinema rec -i 0.5`. 
+![profile](https://user-images.githubusercontent.com/79524490/221268317-5fad20c5-4d6a-4e03-8dd5-3026921da4e8.svg)
+
+Τέλος, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων με `asciinema rec -i 0.5`. 
 
 Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
 <br />
