@@ -47,4 +47,8 @@
 
 ## Προβλήματα που αντιμετόπησα
 
+`sudo vim ~/.config/i3/config`
+`bindsym $mod+Return exec i3-essentioal-terminal`
+`bindsym $mod+Return exec kitty`
+
 ## Άσκηση γραμμής εντολών
