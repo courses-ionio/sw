@@ -51,9 +51,11 @@
 - Τέλος τρέχουμε την εντολή 
 
 `` py-spy record -o (αρχείο για την δημιουργεία του frame graph) -- python (αρχείο με τον κώδικα) ``
+### Warm up:
+- [neofetch](https://asciinema.org/a/gMlsZR64vqV7k9x7wH8hYuAno)
 
 ### Software:
-py-spy
+- py-spy
 
 
 ### Πηγές:
