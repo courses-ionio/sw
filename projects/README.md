@@ -23,4 +23,4 @@
 ## Παραδοτέο 2 - Γραμμή εντολών ( systemd )
 Στο παρακάτω  βίντεο φαίνεται αρχικά η χρήση του py-spy προς το αρχείο main.py, στην συνέχεια με την χρήση της εντολής ls -a δείχνω το περιεχόμενο του υπολογιστή μου και τέλος με την εντολή neofetch δείνχω το σύστημα που χρησιμοποιώ.
 
-## [![asciicast](https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze)](https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze)
+a href="https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze" target="_blank"><img src="https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze.svg" /></a> 
