@@ -33,7 +33,7 @@
 | X | Τίτλος | Ολοκληρώθηκαν | Εμπρόθεσμα |
 | ---- | ---- | ---- | ---- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series | :heavy_check_mark: | :heavy_check_mark: |
-| 2 | | | |
+| 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
