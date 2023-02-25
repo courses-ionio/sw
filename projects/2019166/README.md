@@ -28,12 +28,21 @@
 
 Για την ολοκλήρωση αυτού του παραδοτέου χρησιμοποίησα το ntfy ώστε να στείλω ένα notification στο κινητό μου για τον υπολογισμό της ώρας μέσα από ένα python script που έτρεξα. 
 Το αποτέλεσμα φαίνεται στο παρακάτω link :
-  - [Asciinema Link](https://asciinema.org/a/rrKDlFAQgMAQcVSaf9PVSpjf8)
+  - [Asciinema Link](https://asciinema.org/a/YTnQ5e1akGJ1DMFek5sILKho9)
   
 Και ακολουθεί και το screenshot από το κινητό μου μέσω της εφαρμογής ntfy :
 
-![ntfy](https://user-images.githubusercontent.com/72515404/221236978-b64edc55-2ee2-4490-84b1-ce8759f79b39.jpg)
+
+![ntfyphoto](https://user-images.githubusercontent.com/72515404/221370295-c61cf5a7-2b45-4205-9938-df955b8d414c.jpg)
 
 
-Στο πρόγραμμα που πραγματοποίησα αρχικά έκανα import την βιβλιοθήκη requests και μέσα από μία μέθοδο post σύνδεσα με το ntfy και επέλεξα ποιο θα είναι το μήνυμα που θα εμφανίζει στο notification και ποιος ο τίτλος. Έπειτα για τον υπολογισμό και την εμφάνιση της ώρας αρχικοποίησα μία αρχική τιμή στην ώρα και τα λεπτά ώστε να κάνω από κάτω τους υπολογισμούς και να βγει η σωστή ώρα. Τέλος, μέσω μίας εντολής print εμφάνισα την ώρα στο τερματικό όπως φαίνεται στο [Asciinema Link](https://asciinema.org/a/rrKDlFAQgMAQcVSaf9PVSpjf8) . 
+Στο πρόγραμμα που πραγματοποίησα αρχικά έκανα import την βιβλιοθήκη requests και μέσα από μία μέθοδο post σύνδεσα με το ntfy και επέλεξα ποιο θα είναι το μήνυμα που θα εμφανίζει στο notification και ποιος ο τίτλος. Έπειτα για τον υπολογισμό και την εμφάνιση της ώρας αρχικοποίησα μία αρχική τιμή στην ώρα και τα λεπτά ώστε να κάνω από κάτω τους υπολογισμούς και να βγει η σωστή ώρα. Τέλος, μέσω μίας εντολής print εμφάνισα την ώρα στο τερματικό όπως φαίνεται στο [Asciinema Link](https://asciinema.org/a/YTnQ5e1akGJ1DMFek5sILKho9).
 
+Στο παρακάτω Link σας δείχνω με τη χρήση του neofetch τις πληροφορίες του συστήματος :
+  - [Neofetch link](https://asciinema.org/a/P54gU7mXHLrSRme4dWjWAUVlH)
+
+# <h2 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h2>
+
+| - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  :+1:  | :+1: | 
