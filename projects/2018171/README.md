@@ -25,3 +25,6 @@
 ---
 
 Δημιουργήσαμε την ομάδα [Ranger-Power ](https://github.com/Ranger-Power) και τη προσθέσαμε στη δημιουργία ομάδων στο [discussions](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545).
+
+# 2. Γραμμή εντολών (systemd):
+[![asciicast](https://asciinema.org/a/562910.svg)](https://asciinema.org/a/562910)
