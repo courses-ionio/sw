@@ -26,6 +26,7 @@
 # Εβδομάδα 2: Άσκηση γραμμής εντολών
 
 Για αυτο το παραδοτεο χρησιμοποιησα το λειτουργικο συστημα Arch Linux εγκατεστημενο σε VirtualBox.
+https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF
 
 ![VirtualBox_Arch Linux_25_02_2023_00_11_48](https://user-images.githubusercontent.com/72880868/221351050-3b3a5907-704c-4d91-b127-cf0f3341e821.png)
 
