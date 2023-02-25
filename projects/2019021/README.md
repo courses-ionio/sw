@@ -25,7 +25,11 @@
 
 # Εβδομάδα 2: Άσκηση γραμμής εντολών
 
+Για αυτο το παραδοτεο χρησιμοποιησα το λειτουργικο συστημα Arch Linux εγκατεστημενο σε VirtualBox.
 
+![VirtualBox_Arch Linux_25_02_2023_00_11_48](https://user-images.githubusercontent.com/72880868/221351050-3b3a5907-704c-4d91-b127-cf0f3341e821.png)
+
+![VirtualBox_Arch Linux_25_02_2023_00_09_37](https://user-images.githubusercontent.com/72880868/221351058-183b2dd3-6b1a-47a2-bac0-1d4f39b4442a.png)
 
 # Ομαδικότητα
 https://github.com/courses-ionio/sw/discussions/1162
