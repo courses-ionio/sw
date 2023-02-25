@@ -22,8 +22,8 @@
 # Πίνακας Περιεχομένων
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](#παραδοτέο-1---εισαγωγή), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1252)| |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | | |
+| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link του discussion](https://github.com/courses-ionio/sw/discussions/1252)| [Εισαγωγή](#παραδοτέο-1---εισαγωγή) |
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [ Link του discussion]() | [Παραδοτέο 2](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#παραδοτέο-2---άσκηση-γραμμής-εντολών)+[Προβλήματα](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#προβλήματα-που-αντιμετώπησα)+[Άσκηση γραμμής εντολών](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#άσκηση-γραμμής-εντολών-1) |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -42,15 +42,20 @@
 Λεγόντας αυτά, οι στόχοι μου για αυτήν την εργασία δεν θα είναι μόνο να προωθήσω τις επικοινωνιακές μου δεξιότητες και την ομαδικότητα μου με τη βοήθεια των μελών του οργανισμού μας, αλλά και να επεκτείνω τις δεξιότητές μου στο Unix/Προγραμματισμό, αλλά και να βρω κάποιους στόχους βαθύτερης σημασίας που πραγματικά με κοινούνουυν το ενδιαφέρουν.
 
 # Παραδοτέο 2 - Άσκηση γραμμής εντολών
-
+Για της ασκήσεις γραμμής εντολών σε systemd, θα χρησιμοποιήσω το live USB ArchLinux installation που είχα κάνει setup το μάθημα [HCI](https://github.com/courses-ionio/hci) 
 [![asciicast](https://asciinema.org/a/ZvlDLh5P0IL9WDD5RZASMHeAC.svg)](https://asciinema.org/a/ZvlDLh5P0IL9WDD5RZASMHeAC)
 
-## Προβλήματα που αντιμετόπησα
+## Προβλήματα που αντιμετώπησα
+Το συγκεκριμένο installation είχε μείνει αχρησημοποίητο, χωρις updates για αρκετό καιρό οπότε δεν ήμουν αρκετά αισιόδοξος ως προς την λειτουργικότητα τους. Και όμως η αισθησεις μου βγήκαν αλλιθηνές, καθώς το `τερματικό των i3` σταμάτησε να δουλεύει. Για την επιληση λοιπον του προβλήματος, αποφάσισα να αλλάξω το το default-terminal του i3 για το [kitty-terminal](https://wiki.archlinux.org/title/kitty).
+H διαδικασία αλλαγής τερματικου σε i3 είναι η εξής:
+`sudo vim ~/.config/i3/config` για τα settings του i3, και ψάχνουμε την εξής γραμμή
+`bindsym $mod+Return exec i3-essential-terminal` και θα την ανταλλάξουμε για 
+`bindsym $mod+Return exec kitty`.
 
-`sudo vim ~/.config/i3/config`
-`bindsym $mod+Return exec i3-essentioal-terminal`
-`bindsym $mod+Return exec kitty`
-
-## Άσκηση γραμμής εντολών
+## Άσκηση γραμμής εντολών #1
+Για την πρώτη μου εργασία γραμμής εντολών, αποφάσισα να κατεβάσω και να χρησιμοποιήσω το `py-spy` για να εξετάζω την απόδοση του κώδικα που γράφω σε python. Στο παρακάτω asciinema εξετάζω την απόδοση ενός προγράμματος δημιουργίας τυχαίου κωδικού.
 
 [![asciicast](https://asciinema.org/a/Ta8ACOWaVJwPUl5WEWm1H38NV.svg)](https://asciinema.org/a/Ta8ACOWaVJwPUl5WEWm1H38NV)
+
+και τα αποτελέσματα είναι τα εξής:
+![futsies](https://user-images.githubusercontent.com/92447304/221345084-d37ae915-c58d-4195-a48c-584f6ba77a0c.svg)
