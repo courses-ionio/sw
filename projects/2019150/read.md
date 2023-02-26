@@ -19,10 +19,6 @@
 | 11 | <a href="#Άσκηση γραμμής εντολών twilio"><span class="toctext">Άσκηση γραμμής εντολών twilio</span></a> | [Link στο Discussions](Link) | |
 | 12 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span> | [Link στο Discussions](Link) | |
 
-
-  
-  
-  <br><br>
   <br><br>
   
 <h2><span id="Εισαγωγή και προσδοκίες από το μάθημα">(1) Εισαγωγή και προσδοκίες από το μάθημα</span></h2>
