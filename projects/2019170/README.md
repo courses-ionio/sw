@@ -38,3 +38,8 @@
 |5|[Παναγιωταράκης Νίκος](https://github.com/tarakhs/)|Π2019152|:bust_in_silhouette:||
 |6|[Αρτινόπουλος Ορέστης](https://github.com/voltmaister)|Π2019153||:busts_in_silhouette:|
 |7|[Θώμος Άγγελος](https://github.com/Angeloth1/)|Π2019095||:busts_in_silhouette:|
+
+2<sup>o</sup> Παραδοτέο 
+========================
+
+[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)
