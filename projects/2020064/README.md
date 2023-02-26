@@ -52,7 +52,7 @@
 
 
 <p align="center">
-<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/Intro.gif" width="1000" height="auto"/>
+<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/Intro.gif" width="auto" height="auto"/>
 </p>
 
 <br />
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/ntfy-desktop.gif" width="1000" height="auto"/>
+<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/ntfy-desktop.gif" width="600" height="auto"/>
 </p>
 
 <br />
@@ -74,7 +74,7 @@
 
 
 <p align="center">
-<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/ntfy-telegram.gif" width="1000" height="auto"/>
+<img src="https://github.com/GeorgiosEleftheriadis/sw_utils/blob/main/GIFS/ntfy-telegram.gif" width="auto" height="auto"/>
 </p>
 
 <br /> 
