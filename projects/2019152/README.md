@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 0 | [Εισαγωγή](#Εισαγωγή) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1211) | - |
 | 1 | [Δημιουργία Οργανισμού](#1ο-Παραδοτέο---Δημιουργία-Οργανισμού) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) | - |
-| 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) | - |
+| 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) | - |
 | 3 | [CLI: TBD](#3ο-Παραδοτέο---Command-Line-Interface---) | - | - |
 | 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---) | - | - |
 | 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
@@ -39,7 +39,7 @@
 Για αυτό το παραδοτέο ζητήθηκε μια άσκηση γραμμής εντολών πάνω σε ένα σύστημα που χρησιμοποιεί systemd. Επέλεξα να χρησιμοποιήσω το εργαλείο ntfy, και μετά από λίγο testing έγραψα ένα απλό script το οποίο δέχεται ως παράμετρο μια εντολή προς εκτέλεση, και στέλνει το αντίστοιχο notification όταν αυτή ολοκληρωθεί (ή όχι) στο κινητό.
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/ntfyscript.gif" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/ntfyscript.gif" width="700" />
 </p>
 
 <p align="center">
