@@ -2,7 +2,7 @@
 
 ### ΑΜ: Π2019038
 ### Ονοματεπώνυμο: Βασιλική Λώλη 
-### Οργανισμός: -
+### Οργανισμός: [modus-vivendi-memento-mori](https://github.com/modus-vivendi-memento-mori)
 
 <br>
 
