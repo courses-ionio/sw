@@ -34,3 +34,4 @@
 
 Για αυτό το παραδοτέο χρησιμοποίησα το ntfy ώστε να στείλω μία ειδοποίηση στο κινητό. Κατά την υλοποίηση αντιμετώπισα διάφορα προβλήματα και αφιέρωσα αρκετό χρόνο στην επίλυσή τους. Χρησιμοποίησα αυτό τον [κώδικα](https://github.com/perikarananou/helpppp/blob/main/christmas.py) έτσι ώστε να υπολογίζονται οι μέρες μέχρι τα χριστούγεννα. Χρειάστηκα επίσης [python3](https://www.python.org/downloads/) και [ntfy](https://docs.ntfy.sh/). Το συγκεκριμένο παραδοτέο υλοποιήθηκε σε [kali linux](https://www.kali.org/).
 
+<img src="https://github.com/perikarananou/helpppp/blob/main/photo/333314616_2288482228002552_8182530760876617867_n.jpg">
