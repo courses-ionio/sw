@@ -30,3 +30,13 @@
   <br><br><br>
   
 <h2><span id="Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου">(2) Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></h2>
+
+  <h4>
+
+|0 | Όνομα άσκησης |
+| ---- | ---- |
+| 1 | [set-up the main dependencies and demonstrate your base system](https://asciinema.org/a/G63SmsFcGASUtDgnvpfBK36FQ) |
+| 2 | [read the news with an RSS reader](https://asciinema.org/a/5Rlla64wVDE459vnhHjh6vNF9) |
+| 3 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |
+| 4 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
+| 5 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
