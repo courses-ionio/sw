@@ -46,3 +46,4 @@
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | ---- | ---- | ---- | ---- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  :+1:  | :+1: | 
+| 2 | Ted Nelson -- Computers for Cynics [full version] |  :+1:  | :+1: | 
