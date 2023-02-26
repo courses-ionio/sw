@@ -49,6 +49,6 @@
 ![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy.png) 
 
 Ειδοποίηση στο κινητό:<br/>
-![ntfy_push]
+![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy_push.png)
 
 Επιπλέον, αυτή την εβδομάδα με τον οργανισμό συντάξαμε ένα "Μανιφέστο" όπου περιγράφουμε τις υποχρεώσεις κάθε ρόλου του οργανισμού, το workflow καθώς και κάποιους κανόνες όσων αφορά τα pull request που θα γίνονται προς τον οργανισμό. Προς το παρών είναι private repository αλλά θα γίνει σύντομα public.
