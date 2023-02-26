@@ -33,7 +33,7 @@
 
   <h4>
 
-|0 | Όνομα άσκησης |
+| | Όνομα άσκησης |
 | ---- | ---- |
 | 1 | [set-up the main dependencies and demonstrate your base system](https://asciinema.org/a/G63SmsFcGASUtDgnvpfBK36FQ) |
 | 2 | [read the news with an RSS reader](https://asciinema.org/a/5Rlla64wVDE459vnhHjh6vNF9) |
