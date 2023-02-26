@@ -26,5 +26,10 @@
 
 Δημιουργήσαμε την ομάδα [Ranger-Power ](https://github.com/Ranger-Power) και τη προσθέσαμε στη δημιουργία ομάδων στο [discussions](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545).
 
+---
+
 # 2. Γραμμή εντολών (systemd):
 [![asciicast](https://asciinema.org/a/562910.svg)](https://asciinema.org/a/562910)
+
+
+Για αυτό το παραδοτέο χρησιμοποίησα το ntfy ώστε να στείλω μία ειδοποίηση στο κινητό. Χρησιμοποίησα αυτό τον [κώδικα](https://github.com/perikarananou/helpppp/blob/main/christmas.py) ετσιώστε να υπολογίζονται οι μέρες μέχρι τα χριστούγεννα. Χρειάστηκα επίσης [python3](https://www.python.org/downloads/) και [ntfy](https://docs.ntfy.sh/). Το συγκεκριμένο παραδοτέο υλοποιήθηκε σε [kali linux](https://www.kali.org/).
