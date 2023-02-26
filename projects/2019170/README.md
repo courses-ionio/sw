@@ -5,10 +5,10 @@
 ### Organization: [Paneksypnes Diepafes](https://github.com/PaneksypnesDiepafes/Main)
 #### GitHub Profile: [marked-d](https://github.com/marked-d "Μάρκου Δήμητρα") | Asciinema: [markedd](https://asciinema.org/~markedd) | Υποστηρικτικό Υλικό: [SW+](https://github.com/marked-d/SW_plus/tree/main)
 
-| Εβδομάδα | Παραδοτέα | [Εβδομαδιαία Παρουσίαση Προόδου](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
+| Εβδομάδα | Παραδοτέα | [Εβδομαδιαία Παρουσίαση Προόδου](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή και Δημιουργία ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -41,7 +41,7 @@
 
 2<sup>o</sup> Παραδοτέο 
 ========================
-Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop και στο κινητό μου μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd), το οποίο είχα ήδη εγκατεστημένο λόγω του μαθήματος Επικοινωνία Ανθρώπου - Υπολογιστή.
+Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop και στο κινητό μου, μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd), το οποίο είχα ήδη εγκατεστημένο λόγω του μαθήματος Επικοινωνία Ανθρώπου - Υπολογιστή.
 
 [![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)
 
