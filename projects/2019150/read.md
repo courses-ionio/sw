@@ -35,8 +35,7 @@
 
 | | Όνομα άσκησης |
 | ---- | ---- |
-| 1 | [set-up the main dependencies and demonstrate your base system](https://asciinema.org/a/G63SmsFcGASUtDgnvpfBK36FQ) |
-| 2 | [read the news with an RSS reader](https://asciinema.org/a/5Rlla64wVDE459vnhHjh6vNF9) |
-| 3 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |
-| 4 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
-| 5 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
+| 1 | [read the news with an RSS reader](https://asciinema.org/a/5Rlla64wVDE459vnhHjh6vNF9) |
+| 2 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |
+| 3 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
+| 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
