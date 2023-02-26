@@ -32,4 +32,5 @@
 [![asciicast](https://asciinema.org/a/562910.svg)](https://asciinema.org/a/562910)
 
 
-Για αυτό το παραδοτέο χρησιμοποίησα το ntfy ώστε να στείλω μία ειδοποίηση στο κινητό. Χρησιμοποίησα αυτό τον [κώδικα](https://github.com/perikarananou/helpppp/blob/main/christmas.py) ετσιώστε να υπολογίζονται οι μέρες μέχρι τα χριστούγεννα. Χρειάστηκα επίσης [python3](https://www.python.org/downloads/) και [ntfy](https://docs.ntfy.sh/). Το συγκεκριμένο παραδοτέο υλοποιήθηκε σε [kali linux](https://www.kali.org/).
+Για αυτό το παραδοτέο χρησιμοποίησα το ntfy ώστε να στείλω μία ειδοποίηση στο κινητό. Κατά την υλοποίηση αντιμετώπισα διάφορα προβλήματα και αφιέρωσα αρκετό χρόνο στην επίλυσή τους. Χρησιμοποίησα αυτό τον [κώδικα](https://github.com/perikarananou/helpppp/blob/main/christmas.py) έτσι ώστε να υπολογίζονται οι μέρες μέχρι τα χριστούγεννα. Χρειάστηκα επίσης [python3](https://www.python.org/downloads/) και [ntfy](https://docs.ntfy.sh/). Το συγκεκριμένο παραδοτέο υλοποιήθηκε σε [kali linux](https://www.kali.org/).
+
