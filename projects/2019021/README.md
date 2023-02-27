@@ -32,6 +32,9 @@
 
 ![VirtualBox_Arch Linux_25_02_2023_00_09_37](https://user-images.githubusercontent.com/72880868/221351058-183b2dd3-6b1a-47a2-bac0-1d4f39b4442a.png)
 
+Ως ασκηση διαλεξα να τρεξω την εντολη ntfy στο λογισμικο. Με αυτη την εντολη μπορεις να στειλεις μηνυματα, ανακοινωσεις κτλ απο το λογισμικο στο κινητο σου.
+![VirtualBox_Arch Linux_25_02_2023_00_06_27](https://user-images.githubusercontent.com/72880868/221536314-c6222bca-4438-425f-9c0e-2b247b4cf3ac.png)
+
 ### Πηγές
 * [link](https://www.youtube.com/watch?v=u9EcWrsjE20)
 * [link](https://ntfy.sh/)
