@@ -36,8 +36,8 @@
 Χρειαστηκε να εγκαταστησω και την εφαρμογη στο κινητο μου, ωστε να λαμβανω αυτα που στελνω απο το λογισμικο.
 
 ![VirtualBox_Arch Linux_25_02_2023_00_06_27](https://user-images.githubusercontent.com/72880868/221536314-c6222bca-4438-425f-9c0e-2b247b4cf3ac.png)
-![IMG_0595](https://user-images.githubusercontent.com/72880868/221537066-ce9715e7-3cf1-426c-949f-33cf1128a1be.PNG)
-![IMG_0596](https://user-images.githubusercontent.com/72880868/221537126-41fe1ec1-94d5-485c-80e2-54d91d04884f.PNG)
+![IMG_0595](https://user-images.githubusercontent.com/72880868/221538578-3ca96e42-0a4f-4373-af5f-8577a2eaf6b7.gif)
+
 
 ### Πηγές
 * [link](https://www.youtube.com/watch?v=u9EcWrsjE20)
