@@ -5,7 +5,7 @@
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [link](https://github.com/courses-ionio/sw/discussions/1153) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
-| 2 | [Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |link |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
+| 2 | [Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |[link](https://github.com/courses-ionio/sw/discussions/1301) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 3 | Γραμμή εντολών (no systemd) |link | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |link | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |link | |
@@ -23,7 +23,7 @@
 * Αναπτυξη της ομαδικοτητας μου
 * Καλυτερη κατανοηση του λειτουργικου συστηματος Linux
 
-# Εβδομάδα 2: Άσκηση γραμμής εντολών
+# Εβδομάδα 2: Άσκηση γραμμής εντολών(systemd)
 
 Για αυτο το παραδοτεο χρησιμοποιησα το λειτουργικο συστημα Arch Linux εγκατεστημενο σε VirtualBox. Μετα ετρεξα τις εντολες neofetch ([asciinema recording](https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF)) και journalctl -b ([asciinema recording](https://asciinema.org/a/aNxUZ1oos2iW33pgc8fCspAZO)).
 
