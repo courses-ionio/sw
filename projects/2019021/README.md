@@ -37,7 +37,9 @@
 
 ![VirtualBox_Arch Linux_25_02_2023_00_06_27](https://user-images.githubusercontent.com/72880868/221536314-c6222bca-4438-425f-9c0e-2b247b4cf3ac.png)
 
+![IMG_0595](https://user-images.githubusercontent.com/72880868/221539621-ed2c79ce-b0ae-4fde-853b-8dc633c37e63.gif)
 
+![IMG_0596](https://user-images.githubusercontent.com/72880868/221539653-879f314f-cbf0-4bd0-a5a9-1387ab917b0a.gif)
 
 ### Πηγές
 * [link](https://www.youtube.com/watch?v=u9EcWrsjE20)
