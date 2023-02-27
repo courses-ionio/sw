@@ -9,7 +9,7 @@
 | Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | |
-| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | | |
+| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -33,3 +33,11 @@
 # Άσκηση Γραμμής Εντολών systemd
 
 Για το δεύτερο παραδοτέο υλοποίησα στον τερματικό Ubuntu την άσκηση γραμμής εντολών "Send notifications to your desktop-mobile" με την χρήση του ntfy.
+Εγκατέστησα στο σύστημά μου το ntfy και την εφαρμογή simplepush στο κινητό.
+Ακολουθεί το αντίστοιχο asciinema και η ειδοποίηση στο κινητό.
+
+![index](https://user-images.githubusercontent.com/92392853/221698430-e4d33569-1dff-4e51-bba9-9489872a7f50.gif)
+
+
+![image0](https://user-images.githubusercontent.com/92392853/221699020-0f8a8750-d087-45b0-83b7-9c6a91e4798a.png)
+
