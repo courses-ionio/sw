@@ -8,7 +8,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Ανάρτηση της Εισαγωγής στα Discussions & εγγραφή σε ομάδα](https://github.com/courses-ionio/sw/discussions/1205)| |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ανάρτηση στα Discussions άσκησης σε systemd & κανόνες συνεργασίας στην ομάδα](https://github.com/courses-ionio/sw/discussions/1281) | |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -41,3 +41,11 @@
 προγραμματισμού σε linux καθώς κι η εκ νέου δυνατότητα συντονισμού και οργάνωσης με τα μέλη της ομάδας.
  </p>
 </br>
+
+# Παραδοτέο 2 - Systemd & Συντονισμός Ομάδας
+<br>
+Για τα παραδοτέα της δεύτερης εβδομάδας υπήρξε αρχικά συντονισμός με τα μέλη της ομάδας , με τα οποία καθιερώσαμε κάποιους βασικούς [κανόνες](https://github.com/TheTimeParadox) για την συνεργασία μας. Παράλληλα, επιλέχθηκαν τα Arch Linux ως το καθημερινό σύστημα για την χρήση της γραμμής εντολών και την υλοποίηση των ομαδικών παραδοτέων. Ταυτόχρονα, επέλεξα το `ntfy` από τα assignments του software για πειραματισμό στην γραμμή εντολών και δημιουργήθηκε ένα μήνυμα υπενθύμισης προς το κινητό τηλέφωνο μου για την δημιουργία του εβδομαδιαίου discussion στο forum του μαθήματος.Στην υπενθύμιση καθορίστηκε η ώρα της αποστολής της , προστέθηκε το icon του git καθώς και ένα κουμπί που παραπέμπει στα discussions του μαθήματος ,όπου και μοιραζόμαστε το progress μας.
+[asciinema link](https://asciinema.org/a/8qwk5eAIdNAAqnCuMPSIccXyr)
+
+![Ntfy Notification](https://github.com/Alessenia/Images-for-Report/blob/main/1677433447650.jpg)
+
