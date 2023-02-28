@@ -37,4 +37,6 @@
 
 ![Screenshot_2023-02-23-09-24-56-469_com mi android globallauncher](https://user-images.githubusercontent.com/77148351/220844330-1c2bc0b4-aab6-4799-b9c3-9238ad06d1fd.jpg)
 
-
+# Παραδοτέο 3
+Για το παραδοτεό 3 χρειάστηκε να γίνει η εγκατάσταση μίας διανομής Linux χωρίς systemD. Προσωπικά επέλεξα το πολυδιαδεδομένο funtoo, το οποίο βασίζεται στο επίσης πολυδιαδεδομένο Gentoo, και δεν χρησιμοποιέι systemD αλλά το openrc
+[![asciicast](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV.svg)](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV)
