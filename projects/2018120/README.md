@@ -29,7 +29,7 @@ Github link: https://github.com/paranaloma
 # 'Ασκηση γραμμής εντολών
 Δημιουργήθηκε ένα αρχείο checkweather.sh που κάθε φορά που εκτελείται μου στέλνει τον καιρό στο Telegram χρησιμοποιώντας το curl στο wttr.in.
 Για να πραγματοποιηθεί με επιτυχία πρέπει να υπάρχει εγκατεστημένα τα python, python-pip, ntfy, ntfy[telegram], curl.
-
+```sh
 #!/bin/bash
 
 # City name for Corfu, Greece
@@ -43,7 +43,7 @@ WEATHER=$(curl -s "${URL}")
 
 # Send notification using ntfy
 ntfy -b telegram send "${WEATHER}"
-
+```
 
 [![asciicast](https://asciinema.org/a/563907.svg)](https://asciinema.org/a/563907)
 
