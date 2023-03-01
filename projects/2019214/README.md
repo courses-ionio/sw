@@ -61,7 +61,7 @@
 <br />
 
 # Εγκατάσταση Void Linux
-H εγκατάσταση τον Void Linux έγινε με την βοήθεια του παρέχοντας Documentation (https://docs.voidlinux.org/installation/live-images/guide.html) καθώς και την χρήση ενός Live USB για την εγκάτασταση σε τοπικό partition. 
+H εγκατάσταση τον Void Linux έγινε με την βοήθεια του παρέχον documentation (https://docs.voidlinux.org/installation/live-images/guide.html) καθώς και την χρήση ενός Live USB για την εγκάτασταση σε τοπικό partition. 
 
 Για αρχή, μετά από boot στο Live USB: 
 - συνδέθηκα με το προκαθορισμένο username `root` και αντίστοιχο password `voidlinux`
