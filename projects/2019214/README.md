@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα → | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 1](https://github.com/courses-ionio/sw/discussions/1192) | Συγγραφή [εισαγωγής](#εισαγωγή) + ένταξης σε [οργανισμό](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5019249)|
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | [Εγκαστάση Arch Linux](#εγκατάσταση-arch-linux) + [άσκηση γραμμής εντολών 1](#άσκηση-γραμμής-εντολών-1) |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | [Εγκατάσταση Void Linux](#εγκατάσταση-void-linux) + [άσκηση γραμμής εντολών 2](#άσκηση-γραμμής-εντολών-2) |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -58,4 +58,23 @@
 Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
 <br />
 Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/562397)
+<br />
+
+# Εγκατάσταση Void Linux
+H εγκατάσταση τον Void Linux έγινε με την βοήθεια του παρέχοντας Documentation (https://docs.voidlinux.org/installation/live-images/guide.html) καθώς και την χρήση ενός Live USB για την εγκάτασταση σε τοπικό partition. 
+
+Για αρχή, μετά από boot στο Live USB: 
+- συνδέθηκα με το προκαθορισμένο username `root` και αντίστοιχο password `voidlinux`
+- έγινε χρήση της εντολής `void-installer` για την εκκίνηση της εγκατάστασης 
+- και στην συνέχεια τα σχετικά βήματα για την επιλογή "Keyboard", "Network", "Locale", "Timezone" κλπ.
+- τέλος, με την χρήση `cfdisk` έγινε το γενικό partitioning για bootloader, filesystem και γενικότερα για όλη την εγκάτασταση
+
+# Άσκηση γραμμής εντολών 2
+Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux.
+
+[![asciicast2](https://asciinema.org/a/563890.svg)](https://asciinema.org/a/563890)
+
+Πηγές: [neofetch](https://github.com/dylanaraps/neofetch) & [asciinema](https://github.com/asciinema/asciinema)
+<br />
+Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/563890)
 <br />
