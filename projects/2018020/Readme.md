@@ -17,10 +17,19 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1140)
 
-## Εβδομάδα 1
-### Γραμμή εντολών(systemd)
+## Εβδομάδα 2
+### Γραμμή εντολών - Arch Linux (σύστημα με systemd)
+
 
 Για την δεύτερη εβδομάδα χρησιμοποίησα το py-spy με σκοπό να δημιουργήσω σε output ένα αρχείο .svg με το flamegraph που δημιουργήθηκε από το meme.py
-[![asciicast]( https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX.svg)](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX)
+
+[![asciicast](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX.svg)](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX)
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1250)
+
+## Εβδομάδα 3
+### Γραμμή εντολών - Artix Linux (σύστημα χωρίς systemd)
+
+Για την τρίτη εβδομάδα εβδομάδα δοκίμασα να πειραματιστώ και να βρω διαφορές σχετικά με τα δύο συστήματα και παρατήρησα πως το σύστημα χωρίς systemd κάνει περισσότερη ώρα να κάνει boot από ότι το σύστημα με systemd. Επιπλέον έκανα την ίδια άσκηση που είχα κάνει και την 2η εβδομάδα αυτή τη φορά σε σύστημα χωρίς systemd δηλαδή στα Artix Linux.
+
+[![asciicast](https://asciinema.org/a/560859.svg)](https://asciinema.org/a/560859)
