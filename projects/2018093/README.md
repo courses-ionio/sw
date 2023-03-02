@@ -64,7 +64,7 @@ GitHub Link: https://github.com/theoharissiwzos
 
 [Quick_sort_script](https://github.com/theoharissiwzos/Quick_sort)
 
-[Buble_sort_script](https://github.com/theoharissiwzos/Bubble_sort)
+[Bubble_sort_script](https://github.com/theoharissiwzos/Bubble_sort)
 
 χρησιμοποιήθηκαν οι εντολές:
 
