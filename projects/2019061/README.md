@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussion link](https://github.com/courses-ionio/sw/discussions/1174) | |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Discussion link](https://github.com/courses-ionio/sw/discussions/1259) | |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) | [Discussion link](https://github.com/courses-ionio/sw/discussions/1315) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -43,6 +43,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![IMG_8354(5)(3)](https://user-images.githubusercontent.com/72463627/221252040-816225e5-89b1-470e-8af5-4ac292af5298.jpg)
+
+## Γραμμή εντολών (no systemd)
+
+Για το 3ο παραδοτέο εγκατέστησα το Alpine Linux, το οποίο χρησιμοποιεί openrc και όχι systemd. 
+
+[![asciicast](https://asciinema.org/a/VNOFbXPE4K4fhXDNNAx2sQdMr.svg)](https://asciinema.org/a/VNOFbXPE4K4fhXDNNAx2sQdMr)
+
 
 ## Βίντεο Κουίζ
 
