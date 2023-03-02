@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [My link](https://github.com/courses-ionio/sw/discussions/1160) | |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [My link](https://github.com/courses-ionio/sw/discussions/1258)| |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) | [My link](https://github.com/courses-ionio/sw/discussions/1316)| |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
@@ -41,6 +41,13 @@
 Στο παρακάτω Link σας δείχνω με τη χρήση του neofetch τις πληροφορίες του συστήματος :
   - [Neofetch link](https://asciinema.org/a/P54gU7mXHLrSRme4dWjWAUVlH)
 
+# <h2>Γραμμή εντολών χωρίς systemd</h2>
+
+Σε αυτό το παραδοτέο εγκατέστησα το Alpine Linux το οποίο δεν περιέχει systemd αλλά openrc.
+
+Το οποίο φαίνεται στο παρακάτω λινκ στο asciinema :
+
+  - [Asciinema Link](https://asciinema.org/a/16dpc2BwBj86Ldo5M9nq0vPzX)
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
