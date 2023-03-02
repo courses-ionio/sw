@@ -45,6 +45,8 @@
 * [link](https://www.youtube.com/watch?v=u9EcWrsjE20)
 * [link](https://ntfy.sh/)
 
+# Εβδομάδα 3: Άσκηση γραμμής εντολών(no systemd)
+
 # Ομαδικότητα
 https://github.com/courses-ionio/sw/discussions/1162
 
