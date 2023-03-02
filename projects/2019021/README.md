@@ -17,8 +17,8 @@
 
 | Εβδομάδα | Βίντεο Κουιζ | Ολοκληρώθηκε | Εμπρόθεσμα | 
 | --- | --- | --- | --- |
-| 1 |Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) | ✔️  |  | 
-| 2 |Ted Nelson -- Computers for Cynics (full version) |  |  | 
+| 1 |Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  ✔️  | ✔️ | 
+| 2 |Ted Nelson -- Computers for Cynics (full version) | ✔️ | ✔️ | 
 | 3 |Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  |  | 
 
 # Εβδομάδα 1: Εισαγωγή
