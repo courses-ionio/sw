@@ -40,7 +40,7 @@
 
 > __*Since Funtoo is a source-based meta-distribution and packages are built with Portage, we exist in the living wilderness, among raw creative energy of the wild free software ecosystem. Like a wolf, our connection to the vibrant and sustaining open source wilderness is tangible and real. We avoid the over-developed, sanitized, isolated and boring pre-packaged world where disconnected users simply ‘consume’ what was pre-made for them, preferring the more authentic and connected life where we are in control of our destiny.*__
 
-Για τις ανάγκες του μαθήματος αποφάσισα να εγκαταστήσω τη διανομή Funtoo Linux, το οποίο επιτρέπει στο χρήστη να δημιουργήσει έναν Linux kernel προσαρμοσμένο στο συγκεκριμένο υλικό του υπολογιστή τους. Επιτρέπει τον έλεγχο των εγκατεστημένων και εκτελέσιμων, συμπεριλαμβανομένης της επιλογής επιλογής μεταξύ systemd ή OpenRC ως προεπιλεγμένου συστήματος έναρξης. Επίσης η χρήση μνήμης μπορεί να μειωθεί σε σύγκριση με άλλες διανομές παραλείποντας περιττές λειτουργίες και υπηρεσίες πυρήνα.
+Για τις ανάγκες του μαθήματος αποφάσισα να εγκαταστήσω τη διανομή Funtoo Linux, το οποίο επιτρέπει στο χρήστη να δημιουργήσει έναν Linux kernel προσαρμοσμένο στο συγκεκριμένο υλικό του υπολογιστή τους. Επιτρέπει τον έλεγχο των εγκατεστημένων και εκτελέσιμων, συμπεριλαμβανομένης της επιλογής επιλογής OpenRC ως προεπιλεγμένου συστήματος έναρξης. Επίσης η χρήση μνήμης μπορεί να μειωθεί σε σύγκριση με άλλες διανομές παραλείποντας περιττές λειτουργίες και υπηρεσίες πυρήνα.
 - [x] Επιτυχής εγκατάσταση του συστήματος σε εικονική μηχανή
 - [x] Μερική προσαρμογή του ώστε να καλύπτει τις ανάγκες του μαθήματος
 - [ ] Προσθήκη γραφικού περιβάλλοντος
@@ -60,6 +60,15 @@
 - [Το repository του Blog](https://github.com/aggelos2000430/forexBlog.github.io)
 - [#!/bin/bash](https://github.com/aggelos2000430/forexBlog.github.io/blob/main/blog.sh)
 - [Το Blog](https://aggelos2000430.github.io/forexBlog.github.io/)
+
+## Για το Παραδοτέο03
+
+Επέλεξα να στείλω notification απο το terminal του Funtoo Linux προς το κινητό μου. Αρχικά κατέβασα την εφαρμογη του ntfy στο Android κι έπειτα εκτέλεσα την εντολή **curl -d "myMessage" ntfy.sh/mytopic**
+
+<p align="center">
+<a href="https://asciinema.org/a/564362" target="_blank"><img src="https://asciinema.org/a/564362.svg" width="70%" /></a>
+
+<img src="https://github.com/aggelos2000430/sw/blob/2018076/projects/2018076/github.jpg" alt="Alt Text" width="70%" />
 
 
 
