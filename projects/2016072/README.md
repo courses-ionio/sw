@@ -23,3 +23,7 @@
 
 # Παραδοτέο 2
 [ntfy repository](https://github.com/AlxiKan/ntfy)
+
+# Παραδοτέο 3
+[link](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ)
+[![asciicast](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ.svg)](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ)
