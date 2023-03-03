@@ -35,6 +35,8 @@
 
 Την δεύτερη εβδομάδα ολολήρωσα arch linux installation για την άσκηση σε systemd. Από τα software επιλογές διάλεξα το py-spy όπου παρακολουθήσα την απόδοση ενός Python script και οπτικοποίησα το αποτέλεσμα.
 
+[Neofetch](https://asciinema.org/a/H2I94Ixu9EFA5w96OTcVhOpMg)
+
 [Asciinema](https://asciinema.org/a/lQTXsJv7dnr697Pz6YAUfQ0Sv)
 
 ### The svg visualization file
