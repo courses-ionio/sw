@@ -3,7 +3,7 @@
 | ----------- | ----------- |
 | Github Profile | [ChristosMpazdanhs](https://github.com/ChristosMpazdanhs) |
 | Github Organazation|[Genesis: The Beginning](https://github.com/Genesis-The-Beginning) |
-| asciinema | |
+| asciinema |[p2019119](https://asciinema.org/~p2019119) |
 | Edpuzzle | |
 
 
