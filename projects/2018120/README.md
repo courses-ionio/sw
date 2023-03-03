@@ -49,7 +49,7 @@ ntfy -b telegram send "${WEATHER}"
 
 ![prntscrn](https://user-images.githubusercontent.com/56626790/222225366-c0520312-975d-4ca2-84a2-a6de39c11a9e.png)
 
-[Show and Tell](https://github.com/courses-ionio/sw/discussions/1312)
+
 
 # Άσκηση γραμμής εντολών
 Δημιουργήθηκε ένα αρχείο [autobench.sh](https://github.com/paranaloma/shellscripting/commit/795389ee6f346f24caac16ca4acc49224da017e5),απαρτίζεται από ένα Menu με τρεις διαφορετικές επιλογές το οποίο κάνει 3 διαφορετικά benchmark και αποθηκεύει τα αποτελέσματα σε ανάλογο αρχείο (π.χ για το standard_benchmark -> standard_benchmark_results.json)
