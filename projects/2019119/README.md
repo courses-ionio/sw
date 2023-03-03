@@ -38,7 +38,6 @@
 
 [![asciicast](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9.svg)](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9)
 
-[Discussions](https://github.com/courses-ionio/sw/discussions/1238)
 
 ## Άσκηση γραμμής εντολών (no systemd) 
 Αφού εγκατάστησα τα Artix Linux και τα απαραίτητα dependencies απέστειλα ειδοποίηση στο κινητό μου μέσω Telegram αφού η εντολή pacman -Syu (system update) ολοκληρωθεί για αυτό τον λόγο χρησιμοποίησα το "&&" δηλαδή να μην συνεχίσει αν η προηγούμενη εντολή δεν ολοκληρωθεί επιτυχημένα.
