@@ -52,7 +52,7 @@ ntfy -b telegram send "${WEATHER}"
 [Show and Tell](https://github.com/courses-ionio/sw/discussions/1312)
 
 # Άσκηση γραμμής εντολών
-Δημιουργήθηκε ένα αρχείο autobench.sh το οποίο απαρτίζεται από ένα Menu με τρεις διαφορετικές επιλογές το οποίο κάνει 3 διαφορετικά benchmark και αποθηκεύει τα αποτελέσματα σε ανάλογο αρχείο (π.χ για το standard_benchmark -> standard_benchmark_results.json)
+Δημιουργήθηκε ένα αρχείο [autobench.sh](https://github.com/paranaloma/shellscripting/commit/795389ee6f346f24caac16ca4acc49224da017e5),απαρτίζεται από ένα Menu με τρεις διαφορετικές επιλογές το οποίο κάνει 3 διαφορετικά benchmark και αποθηκεύει τα αποτελέσματα σε ανάλογο αρχείο (π.χ για το standard_benchmark -> standard_benchmark_results.json)
 
 [![asciicast](https://asciinema.org/a/c4uxlSI9m7ZmDYWX0HWQ5Yzc9.svg)](https://asciinema.org/a/c4uxlSI9m7ZmDYWX0HWQ5Yzc9)
 
