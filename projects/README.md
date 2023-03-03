@@ -29,3 +29,8 @@
 Στο δεύτερο βίντεο δείχνω την χρήση του py-spy σε ένα αρχείο .py.
 
 [![asciicast](https://asciinema.org/a/562370.svg)](https://asciinema.org/a/562370)
+
+## Παραδοτέο 3 - Άσκηση γραμμής εντολών (no systemd)
+Στο παρακάτω βίντεο φαίνεται το σύστημα που χρησιμοποιώ (artix Linux) με την εντολή neofetch και τα directory contents με την εντολή ls -a
+
+[![asciicast](https://asciinema.org/a/562370.svg)](https://asciinema.org/a/562370)
