@@ -19,9 +19,19 @@
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1141)
 
-## Άσκηση γραμμής εντολών (systemd)
+## Άσκηση γραμμής εντολών (systemd) 
 Σε αυτήν την άσκηση χρησιμοποιώ το py-spy για να εξάγω ένα flamegraph σχετικά με το newfile1.py.
 
 [![asciicast](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9.svg)](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9)
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1238)
+
+## Άσκηση γραμμής εντολών (no systemd) 
+Αφού εγκατάστησα τα Artix Linux και τα απαραίτητα dependencies απέστειλα ειδοποίηση στο κινητό μου μέσω Telegram αφού η εντολή pacman -Syu (system update) ολοκληρωθεί για αυτό τον λόγο χρησιμοποίησα το "&&" δηλαδή να μην συνεχίσει αν η προηγούμενη εντολή δεν ολοκληρωθεί επιτυχημένα.
+
+[![asciicast](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6.svg)](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6)
+
+![telegram](https://user-images.githubusercontent.com/72356670/222711153-b631ae0c-3c65-4628-9644-f7281d082d4b.png)
+
+
+
