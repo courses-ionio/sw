@@ -45,7 +45,7 @@
 
 Σε αυτό το παραδοτέο εγκατέστησα το Alpine Linux το οποίο δεν περιέχει systemd αλλά openrc.
 
-Το οποίο φαίνεται στο παρακάτω λινκ στο asciinema :
+Το οποίο φαίνεται στο παρακάτω link στο asciinema :
 
   - [Asciinema Link](https://asciinema.org/a/16dpc2BwBj86Ldo5M9nq0vPzX)
 # <h2 align="center">Βίντεο Κουίζ</h2>
@@ -54,3 +54,4 @@
 | ---- | ---- | ---- | ---- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  :+1:  | :+1: | 
 | 2 | Ted Nelson -- Computers for Cynics [full version] |  :+1:  | :+1: | 
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  :+1:  | :+1: | 
