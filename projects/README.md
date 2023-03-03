@@ -24,3 +24,9 @@
 Στο παρακάτω  βίντεο φαίνεται αρχικά η χρήση του py-spy προς το αρχείο main.py, στην συνέχεια με την χρήση της εντολής ls -a δείχνω το περιεχόμενο του υπολογιστή μου και τέλος με την εντολή neofetch δείνχω το σύστημα που χρησιμοποιώ.
 
 <a href="https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze" target="_blank"><img src="https://asciinema.org/a/r0V2ghjc857YaA9BCytLG03ze.svg" /></a> 
+
+
+
+
+
+https://asciinema.org/connect/8f528af6-c00e-4d05-980f-3918f8c2aa02
