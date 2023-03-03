@@ -41,3 +41,9 @@
 
 ### The svg visualization file
 ![svg file](https://user-images.githubusercontent.com/72318224/221382648-ae6da29e-8ee0-43f3-aed0-92486a0312ad.svg)
+
+## Εβδομαδα 3η
+
+Την τρίτη εβδομάδα διάλεξα void linux για installation χωρίς systemd.
+
+[Neofetch](https://asciinema.org/a/PoqHvJWWUxiexms08cuJD0pA4)
