@@ -28,4 +28,4 @@
 ## Παραδοτέο 3 - Γραμμή εντολών ( no systemd )
 Στο παρακάτω βίντεο φαίνεται με την χρήση του neofetch το λογισμικό που κατέβασα (artix linux) και στην συνέχεια μα την εντολή ls -a δείχνω το περιεχόμενο του υπολογιστή μου.
 
-<a href=https://asciinema.org/a/564453" target="_blank"><img src="https://asciinema.org/a/564453" /></a>
+<a href="https://asciinema.org/a/564453" target="_blank"><img src="https://asciinema.org/a/564453.svg" /></a>
