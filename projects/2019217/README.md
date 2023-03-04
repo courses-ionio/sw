@@ -39,3 +39,4 @@ ntfy -b telegram send "$message"
 
 [![asciicast](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb.svg)](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb)
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1332)
