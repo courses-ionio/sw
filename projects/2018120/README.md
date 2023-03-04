@@ -45,8 +45,8 @@ WEATHER=$(curl -s "${URL}")
 ntfy -b telegram send "${WEATHER}"
 ```
 
-![asciicast](https://asciinema.org/a/563907.svg)](https://asciinema.org/a/563907)
 
+![asciicast](https://asciinema.org/a/563907.svg)](https://asciinema.org/a/563907)
 
 
 ![prntscrn](https://user-images.githubusercontent.com/56626790/222225366-c0520312-975d-4ca2-84a2-a6de39c11a9e.png)
