@@ -25,7 +25,7 @@
 
 ---
 
-Δημιουργήσαμε την ομάδα [Ranger-Power ](https://github.com/Ranger-Power) και τη προσθέσαμε στη δημιουργία ομάδων στο [discussions](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545).
+🌈 Δημιουργήσαμε την ομάδα [Ranger-Power ](https://github.com/Ranger-Power) και τη προσθέσαμε στη δημιουργία ομάδων στο [discussions](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545).
 
 ---
 
