@@ -45,7 +45,7 @@
 Temperature=$(curl -s https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/ | grep -oP 'Average.*?thermosteric' | grep -oP '\d+\.\d+')
 
 # Κάνουμε format την μεταβλητή σε decimal
-Temperature=$(printf "%.2f" $TEMPERATURE)
+Temperature=$(printf "%.2f" $Temperature)
 
 # Στέλνουμε το περιεχόμενο της μεταβλητής TEMPERATURE στο telegram
 ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature}°C"
