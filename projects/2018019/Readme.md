@@ -42,13 +42,13 @@
 #!/bin/bash
 
 # Χρησιμοποιούμε το curl για να λάβουμε την μέση θερμοκρασία της θάλασσας από το noaa.gov 
-TEMPERATURE=$(curl -s https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/ | grep -oP 'Average.*?thermosteric' | grep -oP '\d+\.\d+')
+Temperature=$(curl -s https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/ | grep -oP 'Average.*?thermosteric' | grep -oP '\d+\.\d+')
 
 # Κάνουμε format την μεταβλητή σε decimal
-TEMPERATURE=$(printf "%.2f" $TEMPERATURE)
+Temperature=$(printf "%.2f" $TEMPERATURE)
 
 # Στέλνουμε το περιεχόμενο της μεταβλητής TEMPERATURE στο telegram
-ntfy -b telegram send "The average sea temperature of the Earth is ${TEMPERATURE}°C"
+ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature}°C"
 ```
 [![asciicast](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj.svg)](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj)
 
