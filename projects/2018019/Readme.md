@@ -3,7 +3,7 @@
 | ----------- | ----------- |
 | Github Profile | [dimitrisvarelas](https://github.com/dimitrisvarelas/) |
 | Github Organazation| [Genesis](https://github.com/Genesis-The-Beginning)|
-| asciinema | |
+| asciinema | [p2018019](https://asciinema.org/~p2018019) |
 | Edpuzzle | |
 
 | Εβδομάδα* | Παραδοτέο | |
