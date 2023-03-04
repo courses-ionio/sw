@@ -47,7 +47,7 @@
 
 <img src="https://github.com/perikarananou/helpppp/blob/main/photo/neofetch.png">
  
-
+Τα alpine linux αποτελούν μία non-commercial επιλογή λογισμικού. Σύνφωνα με την επίσημη [σελίδα](https://alpinelinux.org/about/) τους, πρόκειται για ένα σύστημα σχεδιασμένο για ισχυρούς χρήστες που εκτιμούν την ασφάλεια, την απλότητα και την αποδοτικότητα των πόρων.
 
 
 [![asciicast](https://asciinema.org/a/564646.svg)](https://asciinema.org/a/564646)
