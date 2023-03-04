@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [<a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση 1](https://github.com/courses-ionio/sw/discussions/1177) | Ολοκλήρωση εντός προθεσμίας |
 | 2 | <a href="#Γραμμή Εντολών 1"><span class="toctext">Γραμμή Εντολών 1</span></a> (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Συζήτηση 2](https://github.com/courses-ionio/sw/discussions/1275) | Ολοκλήρωση εντός προθεσμίας |
-| 3 | <a href="#Γραμμή εντολών (no systemd)"><span class="toctext">Γραμμή εντολών (no systemd)</span></a> | [Συζήτηση 3]()  | Ολοκλήρωση εντός προθεσμίας |
+| 3 | <a href="#Γραμμή εντολών (no systemd)"><span class="toctext">Γραμμή εντολών (no systemd)</span></a> | [Συζήτηση 3](https://github.com/courses-ionio/sw/discussions/1327)  | Ολοκλήρωση εντός προθεσμίας |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -46,7 +46,7 @@
 
 <h2><span id="Γραμμή εντολών (no systemd)">Γραμμή εντολών (no systemd)</span></h2>
 
-Για την 3η εβδομάδα προχώρησα στην εγκατάσταση ενός systemd-free λειτουργικού συστήματος, το Void Linux. Την εγκατάσταση αυτή την πραγματοποιήσα σε εικονική μηχανή και συγκεκριμένα σε Oracle VM VirtualBox. Ως guide για το installation ακολούθησα το [Void Linux Handbook](https://docs.voidlinux.org/installation/live-images/guide.html), αλλά ακολούθησα και την εξής οδηγεία από αυτό το [Guide](https://linuxiac.com/void-linux-installation/#4-10-partition-the-disk), προκειμένου να ενεργοποιήσω το EFI, έτσι ώστε να μη μου εμφανιστεί error κατά τη διάρκεια του install του GRUB bootloader. 
+Για την 3η εβδομάδα προχώρησα στην εγκατάσταση ενός systemd-free λειτουργικού συστήματος, το Void Linux. Την εγκατάσταση αυτή την πραγματοποιήσα σε εικονική μηχανή και συγκεκριμένα σε Oracle VM VirtualBox. Ως guide για το installation ακολούθησα το [Void Linux Handbook](https://docs.voidlinux.org/installation/live-images/guide.html), αλλά ακολούθησα και την εξής οδηγία από αυτό το [Guide](https://linuxiac.com/void-linux-installation/#4-10-partition-the-disk), προκειμένου να ενεργοποιήσω το EFI, έτσι ώστε να μη μου εμφανιστεί error κατά τη διάρκεια του install του GRUB bootloader. 
 
 Στό παρακάτω screenshot παραθέτω την εκτέλεση της εντολής Neofetch και το αποτέλεσμα της : 
 
