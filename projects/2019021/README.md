@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [link](https://github.com/courses-ionio/sw/discussions/1153) |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
 | 2 | [Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |[link](https://github.com/courses-ionio/sw/discussions/1301) |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
-| 3 | [Γραμμή εντολών (no systemd)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BDno-systemd) |link | |
+| 3 | [Γραμμή εντολών (no systemd)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BDno-systemd) |link |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |link | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |link | |
 | 6 | Γραμμή εντολών (custom static blog generator) |link | |
@@ -52,6 +52,9 @@
 * [link](https://ntfy.sh/)
 
 # Εβδομάδα 3: Άσκηση γραμμής εντολών(no systemd)
+Σε αυτο το παραδοτεο αποφασισα να εγκαταστησω το λειτουργικο συστημα Artix Linux σε Virtualbox. Αυτη τη στιγμη υπαρχει καποιο προβλημα με την ηχογραφιση ασκησεων στο λειτουργικο και προσπαθω να το λυσω.
+
+![VirtualBox_Artix Linux_04_03_2023_22_10_50](https://user-images.githubusercontent.com/72880868/222926876-f58ee9e9-be2e-4665-bbff-6c1c8c9edc93.png)
 
 # Ομαδικότητα
 https://github.com/courses-ionio/sw/discussions/1162
