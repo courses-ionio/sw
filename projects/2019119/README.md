@@ -44,7 +44,8 @@
 
 [![asciicast](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6.svg)](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6)
 
-![telegram](https://user-images.githubusercontent.com/72356670/222711153-b631ae0c-3c65-4628-9644-f7281d082d4b.png)
+![telegram1](https://user-images.githubusercontent.com/72356670/222894802-a2e9c21c-0b00-442b-8c2e-2554083dd17e.png)
+
 
 
 
