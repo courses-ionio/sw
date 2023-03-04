@@ -37,3 +37,12 @@
 
 <img src="https://github.com/perikarananou/helpppp/blob/main/photo/333314616_2288482228002552_8182530760876617867_n.jpg">
  
+ 
+ 
+ # 3. Γραμμή εντολών (no-systemd):
+ 
+ 
+ Για το παραδοτέο 3 εγκατέστησα ένα systemd-free λειτουργικό σύστημα, το [Alpine Linux](https://www.alpinelinux.org/). Και αυτό το παραδοτέο υλοποιήθηκε σε εικονική μηχανή. Πιο συγκεκριμένα στο VMWere. Κατά το installation αλλά και το booting προέκυψαν διάφορα προβλήματα τα οποία λύθηκαν επιτυχώς με πολλές δικομές. Κάποιες χρήσιμες εντολές: `apk update` `setup-xorg-base` `apk add ffmpeg `. Με βοήθησε αρκετά το [Alpine setup scripts](https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts) για να υλοποιήσωτο setup. Στο συγκεκριμένο λογισμικό επέλεξα να μην εγκαταστήσω το interface και να δουλέψω εξ ολοκλήρου μόνο από το τερματικό.
+ 
+
+[![asciicast](https://asciinema.org/a/564646.svg)](https://asciinema.org/a/564646)
