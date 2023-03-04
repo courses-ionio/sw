@@ -34,7 +34,7 @@ ntfy -b telegram send "$message"
 [Discussions](https://github.com/courses-ionio/sw/discussions/1236)
 
 ## Παραδοτέο 3
-*Άσκηση γραμμής εντολών*</br>
+*Γραμμή εντολών*</br>
 Για αυτήν την εβδομάδα εγκατέστησα τα Antix Linux τα οποία δεν χρησιμοποιούν systemd αλλά μια εναλλακτική του το SysVinit. Επίσης έκανα κατάλληλα configure το ntfy telegram ώστε να μπορώ να στείλω μηνύματα από το shell των antix. Σε επόμενο στάδιο θα προσπαθήσω να συνδέσω το ntfy με κάποιο git project που κάνει bruteforce ώστε να με ειδοποιεί σχετικά με την τελική κατάσταση αυτής της διεργασίας.
 
 [![asciicast](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb.svg)](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb)
