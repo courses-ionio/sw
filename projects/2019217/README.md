@@ -13,7 +13,7 @@
 
 # Παραδοτέο 2
 *Γραμμή εντολών*</br>
-Tο systemd υπάρχει εγκατεστημένο στα Kali Linux μιας και Debian based επομένως χρησιμοποίησα αυτό για την άσκηση,έτσι δημιούργησα ένα πρόγραμμα σε Bash που σκανάρει για ανοιχτά ports στο 192.168.1.1 (router), αποθηκεύει το scan σαν αρχείο txt και έπειτα διαβάζει αυτό το αρχείο txt, το αποθηκεύει σαν μεταβλητή message και χρησιμοποιεί το [NTFY[telegram]](https://github.com/dschep/ntfy) για να αποστείλει αυτό το scan σε μήνυμα από το Panopoulos_bot στο κινητό μου.
+Tο systemd υπάρχει εγκατεστημένο στα Kali Linux, επομένως χρησιμοποίησα αυτό για την άσκηση,έτσι δημιούργησα ένα πρόγραμμα σε Bash που σκανάρει για ανοιχτά ports στο 192.168.1.1 (router), αποθηκεύει το scan σαν αρχείο txt και έπειτα διαβάζει αυτό το αρχείο txt, το αποθηκεύει σαν μεταβλητή message και χρησιμοποιεί το [NTFY[telegram]](https://github.com/dschep/ntfy) για να αποστείλει αυτό το scan σε μήνυμα από το Panopoulos_bot στο κινητό μου.
 Παρακάτω βλέπετε το nmapscantomsg.sh:
 ```bash
 #!/bin/bash
@@ -32,4 +32,10 @@ ntfy -b telegram send "$message"
 ![screenshot](https://user-images.githubusercontent.com/100226514/220226677-2ceeafb8-51dd-444f-9cc8-01e8b54518c4.png)
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1236)
+
+## Παραδοτέο 3
+*Άσκηση γραμμής εντολών*</br>
+Για αυτήν την εβδομάδα εγκατέστησα τα Antix Linux τα οποία δεν χρησιμοποιούν systemd αλλά μια εναλλακτική του το SysVinit. Επίσης έκανα κατάλληλα configure το ntfy telegram ώστε να μπορώ να στείλω μηνύματα από το shell των antix. Σε επόμενο στάδιο θα προσπαθήσω να συνδέσω το ntfy με κάποιο git project που κάνει bruteforce ώστε να με ειδοποιεί σχετικά με την τελική κατάσταση αυτής της διεργασίας.
+
+[![asciicast](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb.svg)](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb)
 
