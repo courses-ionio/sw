@@ -37,7 +37,8 @@
 [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1244)
 
 ## Παραδοτέο 3 - Άσκηση γραμμής εντολών (no systemd)
-Σε αυτό το παραδοτέο υλοποιήθηκε ένα αρχείο bash που χρησιμοποιεί το curl για να πάρει δεδομένα από την ιστοσελίδα σχετικά με την θερμοκρασία της θάλασσας έπειτα κάνει format την θερμοκρασία σε float και μετά με το ntfy telegram στέλνει το αποτέλεσμα.
+Για το 3ο παραδοτέο αποφάσισα να εγκαταστήσω τα Artix Linux σαν σύστημα χωρίς systemd.
+Σαν άσκηση γραμμής εντολών υλοποιήθηκε ένα αρχείο bash που χρησιμοποιεί το curl για να πάρει δεδομένα από την ιστοσελίδα σχετικά με την θερμοκρασία της θάλασσας έπειτα κάνει format την θερμοκρασία σε float και μετά με το ntfy telegram στέλνει το περιεχόμενο της μεταβλητής temperature στο telegram.
 ```bash
 #!/bin/bash
 
@@ -50,3 +51,4 @@ TEMPERATURE=$(printf "%.2f" $TEMPERATURE)
 # Στέλνουμε το περιεχόμενο της μεταβλητής TEMPERATURE στο telegram
 ntfy -b telegram send "The average sea temperature of the Earth is ${TEMPERATURE}°C"
 ```
+[![asciicast](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj.svg)](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj)
