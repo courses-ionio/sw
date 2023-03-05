@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [see more](#εισαγωγη-παραδοτέο-1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1137)| |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team)  |[see more](systemd--pq---παραδοτεο-2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1247) | |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discusiion](https://github.com/courses-ionio/sw/discussions/1343) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
@@ -44,15 +44,11 @@
 
 # Systemd & PQ - ΠΑΡΑΔΟΤΕΟ 2
 
-Σε αυτό το παραδοτέο χρησιμοποίησα το [ntfy](https://ntfy.sh/) για να στείλω notification στο κινητό μου μέσο ενός python προγράμματος. Επέλεξα αυτήν την άσκηση καθώς θεωρώ ότι είναι ένα ιδιαίτερα χρηστικό εργαλείο ιδικά για μεγάλα tasks τα οποία μπορεί να χρειαστούν ώρες για να ολοκληρωθούν. Χρησιμοποιώντας το ntfy μπορώ να ελέγχω τα διάφορα output/checkpoints όπου έχω ορίσει στο task χωρίς να χρειάζεται να είμαι πάνω από τον υπολογιστή.
-
-[![asciicast](https://asciinema.org/a/JaVmBAdcHkMur2xNNlnOmKD4c.svg)](https://asciinema.org/a/JaVmBAdcHkMur2xNNlnOmKD4c)
-
-
-![331720330_1256626751902778_8862798622156959653_n](https://user-images.githubusercontent.com/39650065/220876339-738c367f-ba7c-4409-94ea-e2b8de0d5705.jpg)
-![Στιγμιότυπο οθόνης_2023-02-23_14-07-44](https://user-images.githubusercontent.com/39650065/220877549-63d55685-8153-4815-bee4-5ed4bbf0dd1d.png)
-
-Ουσιαστικά αυτό το script πέρνει ένα quote από την λίστα και το κάνει output σαν notification στο κινητό μου.
+ Σε αυτό το παραδοτέο έκανα install το βασικό σύστημα το οποίο θα χρησιμοποιώ για την υποστήριξη του VM και όποιον άλλον περιορισμό βρω στην πορεία Επέλεξα τα manjaro καθώς είναι βασισμένα στα arch τα οποία έχω μάθει να χειρίζομαι καλύτερα από κάθε άλλο disto των linux, και προσφέρουν αυτοματοποιήσεις και ανέσεις που κρίνω εξαίρετα βοηθητικές για την καθημερινή χρήση του υπολογιστή.
+<div align="center">
+ 
+[![asciicast](https://asciinema.org/a/M3w6NK9aDgb65PY56a7o6a8YB.svg)](https://asciinema.org/a/M3w6NK9aDgb65PY56a7o6a8YB)
+</div>
 
 ## PQs
 <div align="center">
@@ -61,3 +57,17 @@
 </div>
 
 **Περισσότερα σχετικά με την οργάνωση των pull requests του οργανισμού μπορείτε να δείτε τους κανόνες στο ακόλουθο [repo](https://github.com/PaneksypnesDiepafes/The-Paneskypnes-Diepafes-Manifesto)**
+
+# CommandLine "No SystemD" - Παραδοτέο 3
+  
+   Σε αυτό το παραδοτέο κλίθηκα να κάνω install σε ένα vm ένα distro των linux όπου επιτρέπει πολλές προσαρμογές σε λειτουργικό επίπεδο.
+Γι' αυτόν τον λόγο επέλεξα τα [Funtoo linux](https://www.funtoo.org/Welcome) τα οποία είναι βασισμένα στο Gentoo
+<div align="center">
+  
+  [![asciicast](https://asciinema.org/a/RlkxaysxLgEDD97CkEoNERXGE.svg)](https://asciinema.org/a/RlkxaysxLgEDD97CkEoNERXGE)
+</div>
+
+  Χρήσημα εργαλεία για την εγκατάσταση του ήταν τα: 
+  
+  - [Wiki](https://www.funtoo.org/Install/Introduction)
+  - [Guide του οργανισμού μου](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md)
