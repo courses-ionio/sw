@@ -32,10 +32,17 @@
 **Κατηγορία:** Software <br />
 **Περιγραφή:** Send notifications to your desktop-mobile; Send a notifcation when a big task completes, eg download, compiling, etc <br />
 **Asciinema link:** https://asciinema.org/a/t7F155IcCLR0JKe2fy3WAWsmb <br />
-**Image Links:** https://drive.google.com/drive/folders/1fiecrA51VQLwvLMGKSqbU5PNrSBHeRBU?usp=sharing
+**Image Links:** https://drive.google.com/drive/folders/1fiecrA51VQLwvLMGKSqbU5PNrSBHeRBU?usp=sharing <br />
+  **Pull request στον οργανισμό:** https://github.com/lapis-lazuli-ore-block/Main/pull/4
 
 ## <a name="P-2">Παραδοτέο 3</a>
 ### Άσκηση: Γραμμή εντολών (no systemd)
+**Κατηγορία:** Software <br />
+**Περιγραφή:** Create notifications on your server; Send notifications on important server events <br />
+**Asciinema link(s):** https://asciinema.org/a/yr0TwXAVpHlZiaDiJ57o2gUv0 <br />
+ https://asciinema.org/a/QJXzvz2BmplSEp0Lg69Xt7W1j <br />
+**Image Link:** https://drive.google.com/file/d/1bDnXf8oSDIF3KP2mMaN9LdYFPJqSv1cm/view?usp=share_link <br />
+**Pull request στον οργανισμό:** 
 
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
