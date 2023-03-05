@@ -51,6 +51,10 @@
 <p align="center">
 <a href="https://asciinema.org/a/535951" target="_blank"><img src="https://asciinema.org/a/535951.svg" width="70%" /></a>
 
+
+
+[Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
+
 ## Για το Παραδοτέο03
 
 Κάποια μέλη της κοινότητας δυσαρέστήθηκαν με το systemd λόγω:
