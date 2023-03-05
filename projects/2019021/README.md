@@ -19,7 +19,7 @@
 | --- | --- | --- | --- |
 | 1 |Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  ✔️  | ✔️ | 
 | 2 |Ted Nelson -- Computers for Cynics (full version) | ✔️ | ✔️ | 
-| 3 |Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  |  | 
+| 3 |Alan Kay - Could Computing Be Simpler Than It Seems To Be? | ✔️ | ✔️ | 
 | 4 |Bret Victor - The Future of Programming |  |  |
 
 # Εβδομάδα 1: Εισαγωγή
