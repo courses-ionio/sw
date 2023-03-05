@@ -60,11 +60,11 @@
 Κάποια μέλη της κοινότητας δυσαρέστήθηκαν με το systemd λόγω:
 - της αρχιτεκτονικής του συστήματος αρχείων,
 - της χρήσης του λογισμικού Dbus
-- το μέγεθος του πολύ μεγαλύτερο
+- πολύ μεγαλύτερο μέγεθος
 
 > __*Since Funtoo is a source-based meta-distribution and packages are built with Portage, we exist in the living wilderness, among raw creative energy of the wild free software ecosystem. Like a wolf, our connection to the vibrant and sustaining open source wilderness is tangible and real. We avoid the over-developed, sanitized, isolated and boring pre-packaged world where disconnected users simply ‘consume’ what was pre-made for them, preferring the more authentic and connected life where we are in control of our destiny.*__
 
-Για τις ανάγκες του μαθήματος αποφάσισα να εγκαταστήσω τη διανομή Funtoo Linux, το οποίο επιτρέπει στο χρήστη να δημιουργήσει έναν Linux kernel προσαρμοσμένο στο συγκεκριμένο υλικό του υπολογιστή τους. Επιτρέπει τον έλεγχο των εγκατεστημένων και εκτελέσιμων, συμπεριλαμβανομένης της επιλογής επιλογής OpenRC ως προεπιλεγμένου συστήματος έναρξης. Επίσης η χρήση μνήμης μπορεί να μειωθεί σε σύγκριση με άλλες διανομές παραλείποντας περιττές λειτουργίες και υπηρεσίες πυρήνα.
+Για τις ανάγκες του μαθήματος αποφάσισα να εγκαταστήσω τη διανομή Funtoo Linux, το οποίο επιτρέπει στο χρήστη να δημιουργήσει έναν Linux kernel προσαρμοσμένο στο συγκεκριμένο υλικό του υπολογιστή του. Επιτρέπει τον έλεγχο των εγκατεστημένων και εκτελέσιμων, συμπεριλαμβανομένης της επιλογής OpenRC ως προεπιλεγμένου συστήματος έναρξης. Επίσης η χρήση μνήμης μπορεί να μειωθεί σε σύγκριση με άλλες διανομές παραλείποντας περιττές λειτουργίες και υπηρεσίες πυρήνα.
 - [x] Επιτυχής εγκατάσταση του συστήματος σε εικονική μηχανή
 - [x] Μερική προσαρμογή του ώστε να καλύπτει τις ανάγκες του μαθήματος
 - [x] Προσθήκη γραφικού περιβάλλοντος
