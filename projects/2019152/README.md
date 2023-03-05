@@ -62,7 +62,7 @@ curl | pacman
 Σε αυτό το παραδοτέο έκανα εγκατάσταση των Funtoo Linux, ένα distro βασισμένο στα Gentoo.
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Imagess/neofetch_funtoo.png" width="700" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/neofetch_funtoo.png" width="700" />
 </p>
 
 Δεν αντιμετώπισα κάποιο πρόβλημα στο installation καθώς υπήρχε αρκετό documentation στο wiki, και γενικώς τα βρήκα ενδιαφέρον distro. Ωστόσο, ένα πράγμα το οποίο βρήκα αρκετά κουραστικό στην χρήση τους είναι το πόση ώρα απαιτείται για το compile των πακέτων, και προσπάθησα να την μειώσω όσο το δυνατόν περισσότερο. Για ευκολία, πρόσθεσα επίσης ένα [section στο guide](https://github.com/PaneksypnesDiepafes/cookbook/pull/4) του οργανισμού με οδηγίες έτσι ώστε να βοηθηθούν παραπάνω άτομα.
