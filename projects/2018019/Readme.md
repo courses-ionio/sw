@@ -52,4 +52,9 @@ ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature
 ```
 [![asciicast](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj.svg)](https://asciinema.org/a/SDFy2MBtNvWpQThLJf64A75Oj)
 
+## Παραδοτέο 4 - Βιβλίο σε μορφή pdf 
+Μετά από εγκατάσταση των απαραίτητων (pacman -S pandoc, pip install pandoc-fignos , pacman -S texlive most) και την κατάλληλη προετοιμασία του αποθετηρίου kallipos τοποθέτησα μια υποσημείωση στο βιβλίο και το αποθήκευσα σαν bookp2018019.pdf kai boox.tex αντίστοιχα.
 
+![scrnshtaz2ddze2-e2d](https://user-images.githubusercontent.com/49061765/222985584-43906c02-8594-4eb5-b5d1-a3349a81489b.png)
+
+Το Processing μου φάνηκε ιδιαίτερα ενδιαφέρον επειδή σου επιτρέπει να προγραμματίζεις μέσα σε ένα οπτικό πλαίσιο κάνοντας τον προγραμματισμό πιο εύκολη διαδικασία για αρχάριους χρήστες και επιπλέον τα προγράμματα του Processing έχουν μεταφραστεί σε Java επομένως οι αρχάριου αυτοί χρήστες θα μπορέσουν μετέπειτα να μεταναστεύσουν σε άλλες γλώσσες όπως η Java.
