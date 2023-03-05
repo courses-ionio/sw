@@ -20,6 +20,7 @@
 | 1 |Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |  ✔️  | ✔️ | 
 | 2 |Ted Nelson -- Computers for Cynics (full version) | ✔️ | ✔️ | 
 | 3 |Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  |  | 
+| 4 |Bret Victor - The Future of Programming |  |  |
 
 # Εβδομάδα 1: Εισαγωγή
 Στο μαθημα "Τεχνολογια Λογισμικου" σκοπευω να μελετησω και να συμμετασχω στην αναπτυξη και την σχεδιαση λογισμικου. Περα απο αυτο υπαρχουν τα εβδομαδιαια κουιζ μεσα απο τα οποια πιστευω οτι θα αποκτησω πολλες χρησιμες γνωσεις. Ελπιζω μεχρι το τελος του μαθηματος να εχω πετυχει τους παρακατω στοχους:
