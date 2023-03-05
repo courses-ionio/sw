@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1200) |Συγγραφή της εισαγωγής μου με τις προσδοκίες μου από το μάθημα|
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Discussions Link](https://github.com/courses-ionio/sw/discussions/1278) |Επέλεξα να χρησιμοποιήσω τα Arch Linux ως systemd σύστημα, όμως στη προσπάθεια να εγκαταστήσω γραφικό περιβάλλον για περισσότερη ευκολία το αποτέλεσμα ήταν να μην κάνει boot το σύστημα καθώς κάποια απαραίτητα πακέτα δεν λήφθηκαν. Μετά από πολλές ώρες troubleshooting κατάφερα να διορθώσω το πρόβλημα. Επίσης με την ομάδα μου δημιουργήσαμε τους κανόνες για την συνεργασία μας που θεωρώ πως είναι δίκαιοι. |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) | | Κατάφερα να εγκαταστήσω τα Artix Linux στο VirtualBox, με επιτυχία. Σίγουρα ήταν μια αρκετά ιδιότροπη διαδικασία αλλά υπήρχε το θετικό πως βασίζονται στα Arch Linux, οπότε η εγκατάσταση είχε αρκετά κοινά σημεία. Θα μπορούσα να είμαι πιο προσεκτικός κατά την εγκατάσταση, καθώς είχα ξεχάσει να ρυθμίσω το boot sequence από το VirtualBox, οπότε όταν έφτασα στο σημείο να κάνω reboot το σύστημα όταν ολοκλήρωνα την εγκατάσταση, μου εμφανίστηκε ξανά το iso αντί για το σύστημα που εγκατέστησα. Έτσι αφού έσβησα την μηχανή που έφτιαξα, έκανα το troubleshooting και κατάλαβα το λάθος που είχα κάνει. Έτσι ξεκίνησα την εγκατάσταση εκ νέου με επιτυχία.|
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -31,13 +31,13 @@
 
 ![lr](https://github.com/p20sami/randompics/blob/main/00099FC1-D0C7-414D-B90C-CA48CF2079FA.jpeg)
 
-Παρακάτω βρίσκονται και τα υπόλοιπα μέρη του παραδοτέου:
+Παρακάτω βρίσκονται και τα υπόλοιπα μέρη του παραδοτέου **(Update:Εγκατέστησα σε μεταγενέστερο χρόνο το γραφικό περιβάλλον KDE Plasma, καθώς πριν δεν είχα καθόλου γραφικό περιβάλλον και η εγκατάσταση ήταν μόνο γραμμή εντολών. Αυτό σαν αποτέλεσμα είχε κάθε φορά που ανέβαζα ένα βίντεο στο asciinema να πρέπει να σβήνω τον υπολογιστή μου για να το ανάψω εκ νέου και να μπώ από windows για να μπορέσω να δω και να πάρω το link του βίντεο και ακόμη χειρότερα, όταν έκανα κάποιο shell script η μοναδική λύση μου ήταν να το βγάλω φωτογραφία με το κινητό μου και να κάνω ξανά την διαδικασία να μπω απο windows και να γράψω στο github πάλι χειροκίνητα όλο το script για να το ανεβάσω. Έτσι, για πρακτικούς λόγους εγκατέστηκα το KDE Plasma ώστε να μην χρειάζεται αυτή η διαδικασία συνέχεια, καθώς μπορώ να κάνω όλα αυτά προαναφέρθηκαν μέσα από τα Arch Linux αντί να εναλλάσω συνέχεια λειτουργικά συστήματα.)**:
 
 #### Shell Script: [Asciinema](https://asciinema.org/a/Zj27TGcM3Y7ras3obrRANySOq), [Κώδικας](https://github.com/p20sami/shell-scripts/blob/main/musicdownload.sh)
 
 #### Συνεργασία: [Κανόνες](https://github.com/TheTimeParadox)
 
-#### Asciinema: [Arch Linux Neofetch](https://asciinema.org/a/5T1OrDUUs8HdOgAI7I6h5LtIH), [Ntfy](https://asciinema.org/a/T0SzZRNdH3CkSOAj9XNFYHMmm), [Systemd](https://asciinema.org/a/t022LDN1gqDYpcTy78OpzLySD)
+#### Asciinema: [Arch Linux Neofetch](https://asciinema.org/a/5T1OrDUUs8HdOgAI7I6h5LtIH), [Ntfy](https://asciinema.org/a/T0SzZRNdH3CkSOAj9XNFYHMmm), [Systemd](https://asciinema.org/a/t022LDN1gqDYpcTy78OpzLySD), [Updated Arch Linux Neofetch](https://asciinema.org/a/8FnTHQ2ysgaQnvH4gD3Tpg5ca)
 
 #### Πηγές: [Arch Wiki Installation Guide](https://wiki.archlinux.org/title/installation_guide), [MBR To GPT](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-an-mbr-disk-into-a-gpt-disk)
 
@@ -52,7 +52,15 @@
 
 
 ## Γραμμή εντολών χωρίς systemd - 3ο Παραδοτέο
--
+Για αυτή την εβδομάδα, ζητούμενο ήταν η εγκατάσταση ενός λειτουργικού συστήματος το οποίο δεν χρησιμοποιεί **systemd**. Μετά από έρευνα, κατέληξα να επιλέξω να εγκαταστήσω τα **Artix Linux** στο Oracle VirtualBox, τα οποία χρησιμοποιούν **OpenRC** αντί του systemd. Αξίζει να αναφερθεί, πως η εγκατάσταση σε VirtualBox, από αυτό που αντίκρυσα εγώ, είναι ακριβώς η ίδια με την εγκατάσταση σε πραγματικό υλικό, με τη μόνη διαφορά να είναι οτι απλώς κάνουμε partitions στον εικονικό δίσκο αντί στον πραγματικό. Ένας λόγος που με ώθησε στο να επιλέξω την συγκεκριμένη διανομή, είναι πως βασίζονται στα Arch Linux, οπότε ήταν μια ομαλή μετάβαση στο νέο σύστημα λόγω της προηγούμενης εμπειρίας με τα Arch Linux. Τα Artix χρησιμοποιούν το ίδιο packet manager με τα Arch το οποίο είναι το **pacman**, οπότε η εγκατάσταση ενός πακέτου γίνεται με την ίδια εντολή που θα γίνοταν και στα Arch (**sudo pacman -S**). Κάποια πακέτα όμως, επειδή για να λειτουργήσουν βασίζονται στο systemd, δεν μπορούσαν να εγκατασταθούν στο OpenRC. Εδώ προκύπτει ένας άλλος λόγος που επέλεξα τη συγκεκριμένη διανομή. Με κάποιες αλλαγές στο configuration αρχείο του pacman και το πακέτο **artix-archlinux-support** μπορούσα πλέον να εγκαταστήσω πακέτα του Arch Linux (μεταξύ άλλων και το asciinema) τα οποία δεν μπορούσαν να εγκατασταθούν πριν. (**Σημείωση**: Μέχρι τον Ιούνιο του 2021, τα Artix υποστήριζαν πακέτα του Arch Linux, αλλά απο εκεί και έπειτα η υποστήριξη by default σταμάτησε. Γιαυτό λοιπόν, έπρεπε να συμπεριληφθούν τα universe repositories στο configuration αρχείο του pacman, να εγκατασταθεί το πακέτο **artix-archlinux-support** για να συμπεριληφθούν τα πακέτα του extra, community και multilib. Έπειτα υπήρχαν οδηγίες στο τερματικό μετά την εγκατάσταση του πακέτου που υπεδείκνυαν αλλαγές που έπρεπε να γίνουν στο pacman config αρχείο. Μετά την διαδικασία αυτήν, μπορούσα να έχω πακέτα που υπήρχαν στα repositories του Arch αλλά όχι σε αυτά του Artix). Τέλος, για τους ίδιους λόγους με το 2ο παραδοτέο, εγκατέστησα το γραφικό περιβάλλον KDE Plasma. Αυτό που μου άρεσε, ήταν πως επειδή βασίζονται στα Arch, ήμουν σε θέση να εξατομικεύσω το σύστημα κατά τις επιθυμίες μου, που ήταν να το φέρω όσο πιο κοντά γίνεται στην εμφάνιση των Arch, για λόγους συνοχής και συμμετρίας. Παρακάτω, υπάρχει το βίντεο στο asciinema του παραδοτέου καθώς και screenshots. Για την εγκατάσταση, χρησιμοποιήθηκαν τα wikis των Artix και Arch Linux (αφού βασίζονται σε αυτά) με τις ανάλογες αλλαγές, καθώς και tutorial στο YouTube καθώς τα wikis έχουν αρκετά πράγματα αλλά αρκετές φορές δεν είναι αρκετά ξεκάθαρο το τι πρέπει να γίνει και αρκετές φορές δεν υπάρχει συνοχή (κοινώς, υπάρχουν εντολές "πεταμένες" στο wiki) με αποτέλεσμα να με μπερδεύουν. Για τις αλλαγές στο pacman config αρχείο, χρησιμοποιήθηκε το wiki του Artix Linux.
+
+#### Πηγές: [Artix Linux Wiki](https://wiki.artixlinux.org/Main/Installation), [Arch Linux Wiki](https://wiki.archlinux.org/title/installation_guide), [Arch Linux repositories support on Artix](https://wiki.artixlinux.org/Main/Repositories)
+
+#### Asciinema: [Artix Linux Neofetch](https://asciinema.org/a/d1fGjtZcvlq1DjSvukSwY1f0h)
+
+#### Screenshots: 
+
+ ![neofetch](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1883).png)
 
 ## Κατασκευή του  βιβλίου Α2 - 4ο παραδοτέο
 -
