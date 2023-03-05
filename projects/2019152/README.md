@@ -11,7 +11,7 @@
 | 0 | [Εισαγωγή](#Εισαγωγή) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1211) | - |
 | 1 | [Δημιουργία Οργανισμού](#1ο-Παραδοτέο---Δημιουργία-Οργανισμού) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) | - |
 | 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) | - |
-| 3 | [CLI: Funtoo](#3ο-Παραδοτέο---Command-Line-Interface---Funtoo Installation) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1341) | - |
+| 3 | [CLI: Funtoo](#3ο-Παραδοτέο---Command-Line-Interface---Funtoo-Installation) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1341) | - |
 | 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---) | - | - |
 | 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
 | 6 | [CLI: Blog Generator](#6ο-Παραδοτέο---Command-Line-Interface---Custom-Static-Blog-Generator) | - | - |
