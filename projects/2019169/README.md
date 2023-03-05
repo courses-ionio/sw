@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:18/02/2023 |<a href="https://github.com/courses-ionio/sw/discussions/1186">Προόδος 1</a>| |
 | 2 | <li><a href="#Hyperfine."><span class="toctext">Hyperfine.</span></a> Commit:27/02/2023|<a href="https://github.com/courses-ionio/sw/discussions/1296">Πρόόδος 2</a> | | 
-| 3 | <li><a href="#Install Softoware(Systemmd-free)."><span class="toctext">Install Softoware(Systemmd-free).</span></a>| | |
+| 3 | <li><a href="#Void-Linux."><span class="toctext">Void-Linux.</span></a>| | |
 | 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> |<a href="https://github.com/courses-ionio/help/discussions/430">Πρόοδος 4</a> | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
@@ -37,17 +37,18 @@
   
   <a href="https://asciinema.org/a/563142">Hyperfine(Asciinema Link)</a>
   
-  <hr><hr>
+  <hr></hr>
   
-  <h2><span id="Install Softoware(Systemmd-free).">Install Softoware(Systemmd-free).</span></h2>
-    
+  <h2><span id="Void-Linux.">Void-Linux.</span></h2>
+  
+  
     Για την υλοποίηση του 3ου παραδοτέου έπρεπε να κάνουμε εγκατάσταση ένα λειτουργικό σύστημα, το οποίο δεν περιέχει το systemmd. Για τον σκοπό αυτό επέλεξα να κάνω εγκατάσταση του void-linux, το οποίο είναι systemmd-free και η εγκατάσταση του μπορεί να γίνει σε κάποιο VM. Αρχικά δοκίμασα να το κάνω εγκατάσταση στο VMware, αλλά αντιμετώπισα κάποια προβλήματα, λόγο του ότι ήθελε να έχεις ενεργοποιημένο το efi για να μπορέσει να γίνει η εγκατάσταση. Τελικά επέλεξα το virtualbox της oracle, στο οποίο υπήρχε η επιλογή να ενεργοποιήσω το efi και κατάφερα να κάνω την εγακτάσταση.
     Για την εγακάτασταση του λογισμικού ακολούθησα τις οδηγίες από <a href="https://linuxiac.com/void-linux-installation/">εδώ</a>. <br>
     <a href="https://asciinema.org/a/564950">Asciinema Link</a> 
     
+    
     ![2023-03-05 (2)](https://user-images.githubusercontent.com/72350589/222990145-e5883d72-fafb-4ce8-bd31-9b9640b759ac.png)
     
-    <hr><hr>
     
-    
+   
   
