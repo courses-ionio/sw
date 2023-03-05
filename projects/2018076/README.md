@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link to discussions](https://github.com/courses-ionio/sw/discussions/1142)| |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1262) | |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
@@ -26,7 +26,7 @@
 
 
 # Λειτουργικό Σύστημα Syestemd & NoSystemd
-
+## Για το Παραδοτέο02
 Η ανάπτυξη του systemd ήρθε να αντικαταστήσει το παλιαότερο SysV init και είχε στόχο να αντιμετωπίσει διάφορα προβλήματα στα συστήματα εκκίνησης σε διανομές Linux. Κάποια από αυτά τα προβλήματα ήταν:
 - η έλλειψη παραλληλισμού και απλού συστήματος
 - διαχείρισης εξαρτώμενων πακέτων λογισμικού, όπως και η κεντρική διαχείριση των προγραμμάτων που αρχίζουν την εκτέλεση τους κατά την εκκίνηση του υπολογιστή.
@@ -40,23 +40,23 @@
 
 Συνολικά προσέφερε στον μέσο χρήστη καλύτερη εμπειρία και αρκετό έλεγχο, χωρίς ταυτόχρονα να απαιτεί υπερβολικό χρόνο εκμάθησης.
 
+### Καθημερινό Λειτουργικό Σύστημα ArchLinux
+
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+
+[Neofetch](https://asciinema.org/a/535951)
+
+<p align="center">
+<a href="https://asciinema.org/a/535951" target="_blank"><img src="https://asciinema.org/a/535951.svg" width="70%" /></a>
+
+## Για το Παραδοτέο03
+
 Κάποια μέλη της κοινότητας δυσαρέστήθηκαν με το systemd λόγω:
 - της αρχιτεκτονικής του συστήματος αρχείων,
 - της χρήσης του λογισμικού Dbus
 - το μέγεθος του πολύ μεγαλύτερο
-
-
-## Καθημερινό Λειτουργικό Σύστημα ArchLinux
-
-
-Η ενασχόληση με το ArchLinux από το μάθημα HCI είναι ήδη γνωστή και θα χρησιμοποιηθεί μερικώς για τις ανάγκες του μαθήματος SW
-
-[Neofetch & Journalctl](https://asciinema.org/a/535951)
-
-<p align="center">
-<a href="https://asciinema.org/a/535951" target="_blank"><img src="https://asciinema.org/a/531434.svg" width="70%" /></a>
-
-## Χειροποίητο Σύστημα Λογισμικού Funtoo Linux
 
 > __*Since Funtoo is a source-based meta-distribution and packages are built with Portage, we exist in the living wilderness, among raw creative energy of the wild free software ecosystem. Like a wolf, our connection to the vibrant and sustaining open source wilderness is tangible and real. We avoid the over-developed, sanitized, isolated and boring pre-packaged world where disconnected users simply ‘consume’ what was pre-made for them, preferring the more authentic and connected life where we are in control of our destiny.*__
 
@@ -64,16 +64,20 @@
 - [x] Επιτυχής εγκατάσταση του συστήματος σε εικονική μηχανή
 - [x] Μερική προσαρμογή του ώστε να καλύπτει τις ανάγκες του μαθήματος
 - [x] Προσθήκη γραφικού περιβάλλοντος
+### Χειροποίητο Σύστημα Λογισμικού Funtoo Linux
 
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
 
 [Neofetch](https://asciinema.org/a/563441)
 
 <p align="center">
 <a href="https://asciinema.org/a/563441" target="_blank"><img src="https://asciinema.org/a/563441.svg" width="70%" /></a>
 
-# **Άσκηση Γραμμής εντολών**
 
-## Για το Παραδοτέο02
+
+# **Static Blog**
 
 Ανέπτυξα ένα shell script το οποίο όταν εκτελείται παράγει ένα αρχείο index.html που αποτελεί ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει της ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Έπειτα δημιούργησα ένα αποθετήριο στο github το οποίο φιλοξενεί το Blog.
 
@@ -81,7 +85,7 @@
 - [#!/bin/bash](https://github.com/aggelos2000430/forexBlog.github.io/blob/main/blog.sh)
 - [Το Blog](https://aggelos2000430.github.io/forexBlog.github.io/)
 
-## Για το Παραδοτέο03
+# **Άσκηση Γραμμής εντολών**
 
 Επέλεξα να στείλω notification απο το terminal του Funtoo Linux προς το κινητό μου. Αρχικά κατέβασα την εφαρμογη του ntfy στο Android κι έπειτα εκτέλεσα την εντολή **curl -d "myMessage" ntfy.sh/mytopic**
 
