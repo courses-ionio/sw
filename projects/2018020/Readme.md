@@ -7,6 +7,20 @@
 ## [Edpuzzle]
 ## [ASCIINEMA]()
 
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| --- | --- | --- | --- |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/sw/discussions/1140) | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Discussions](https://github.com/courses-ionio/sw/discussions/1250) | |
+| 3 | Γραμμή εντολών (no systemd) |[Discussions](https://github.com/courses-ionio/sw/discussions/1310) | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Discussions](https://github.com/courses-ionio/sw/discussions/1355) | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 10 | Τελική αναφορά* | | |
+
+
 ## Εβδομάδα 1
 ### Εισαγωγή
 Από το μάθημα Τεχνολογία Λογισμικού σκοπεύω μέσω της μελέτης της θεωρίας αλλά και μέσω των ασκήσεων να μετέχω ενεργά στην σχεδίαση και την ανάπτυξη λογισμικού. Συγκεκριμένα πιστεύω πώς μέσω αυτής της εμπειρίας:
@@ -15,7 +29,7 @@
 - Θα είμαι σε θέση μάθω να συνεργάζομαι με άλλους με σκοπό την ανάπτυξη/συντήρηση και οργάνωση λογισμικού
 - Να αυτοματοποιήσω διαδικασίες χρησιμοποιώντας scripting languages
 
-[Discussions](https://github.com/courses-ionio/sw/discussions/1140)
+
 
 ## Εβδομάδα 2
 ### Γραμμή εντολών - Arch Linux (σύστημα με systemd)
@@ -25,7 +39,7 @@
 
 [![asciicast](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX.svg)](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX)
 
-[Discussions](https://github.com/courses-ionio/sw/discussions/1250)
+
 
 ## Εβδομάδα 3
 ### Γραμμή εντολών - Artix Linux (σύστημα χωρίς systemd)
@@ -47,4 +61,4 @@
 
 Έκανα σχόλιο στην συγκεκριμένη ενότητα μιας και πραγματεύεται κάτι που έχω παρατηρήσει και από προσωπική εμπειρία δηλαδή πως παραδείγματα σαν την scratch κάνουν τον προγραμματισμό ευκολότερο. Αφού σου επιτρέπουν να βλέπεις αυτό που προγραμματίζεις.
 
-[Discussions](https://github.com/courses-ionio/sw/discussions/1355)
+
