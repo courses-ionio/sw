@@ -9,7 +9,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | [1](https://github.com/AlexIoanP2020159/sw/tree/2020159/projects/2020159#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Π2020159 - 1ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1225) | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Π2020159 - 2ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1269) | |
+| [2]() | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Π2020159 - 2ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1269) | |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -31,3 +31,7 @@
 ![graph](https://user-images.githubusercontent.com/115098011/221374511-9c07c246-410c-443c-9f0d-158b12f0c164.svg)
 
 Για την εγκατάσταση του πακέτου της ``py-spy`` για την χρήση της και την δομή της, πήρα πληροφορίες από [εδώ](https://github.com/benfred/py-spy)
+
+## 3o Παραδοτέο
+Σε αυτό το παραδοτέο επέλεξα να εγκαταστήσω το Void Linux ένα σύστημα χωρίς systemd. Κατά την διαδικασία εγκατάστασης δεν μπορώ να πω πως αντιμετώπησα κάποιο πρόβλημα καθώς ήταν σχετικά εύκολη και αρκετά γρήγορη. Ακολουθεί η εκτέλεση της ``neofetch`` . 
+[![asciicast](https://asciinema.org/a/xdGmCgRdqijbp25RyUx8RrXze.svg)](https://asciinema.org/a/xdGmCgRdqijbp25RyUx8RrXze)
