@@ -39,6 +39,10 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 3 | Γραμμή εντολών (no systemd)
 
+Για το 3ο παραδοτέο έπρεπε να εγκαταστήσουμε ένα σύστημα χωρίς systemd . Έπειτα από λίγο ψάξιμο κατέληξα στο Void Linux καθώς είναι αρκετά εύκολο και προσβάσιμο.
+Παρακάτω βρίσκεται το **[Asciinema Link](https://asciinema.org/a/JpkJrZPmileotIc3zSoYW4aHQ)** που δημιούργησα.
+
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A1 + A2
