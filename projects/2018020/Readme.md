@@ -40,6 +40,7 @@
 Για την τέταρτη εβδομάδα κατασκεύασα το [βιβλίο](https://github.com/NestorasKosmidis/kallipos/blob/master/book/booknestoras.pdf) του μαθήματος σε μορφή pdf. Μπορείτε να δείτε τις αλλαγές παρακάτω:
 
 - [Repository](https://github.com/NestorasKosmidis/kallipos)
+- [comment markdown](https://github.com/NestorasKosmidis/kallipos/blob/master/comment/comment.md)
 - [Lua filter](https://github.com/NestorasKosmidis/kallipos/blob/master/comment.lua)
 
 ![νοτε](https://user-images.githubusercontent.com/56269327/222993053-be2a365d-70c8-4e02-92ca-59b10c39c344.png)
