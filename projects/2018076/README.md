@@ -120,4 +120,5 @@
 [Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
 
 Δημιούργησα έναν οδηγό εγκατάστασης KDE-Funtoo Linux για να βοηθήσω τα μέλη του οργανισμού μου να εγκαταστήσουν το λειτουργικό σύστημα
+[Οδηγός Εγκατάστασης KDE-Funtoo Linux](https://github.com/lapis-lazuli-ore-block/Instructions/blob/main/InstallingIsFun(NOT)too.md)
 
