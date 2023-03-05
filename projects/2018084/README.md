@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | <a href="#P">1</a> | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση Παραδοτέου 1](https://github.com/courses-ionio/sw/discussions/1158) | |
 | <a href="#P-1">2</a> | <a href="#P-1"> Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Συζήτηση Παραδοτέου 2](https://github.com/courses-ionio/sw/discussions/1249)| |
-| <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | | |
+| <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | [Συζήτηση Παραδοτέου 3](https://github.com/courses-ionio/sw/discussions/1348) | |
 | <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | <a href="#P-5">6 </a>| <a href="#P-5"> Γραμμή εντολών (custom static blog generator) | | |
@@ -42,7 +42,6 @@
 **Asciinema link(s):** https://asciinema.org/a/yr0TwXAVpHlZiaDiJ57o2gUv0 <br />
  https://asciinema.org/a/QJXzvz2BmplSEp0Lg69Xt7W1j <br />
 **Image Link:** https://drive.google.com/file/d/1bDnXf8oSDIF3KP2mMaN9LdYFPJqSv1cm/view?usp=share_link <br />
-**Pull request στον οργανισμό:** 
 
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
