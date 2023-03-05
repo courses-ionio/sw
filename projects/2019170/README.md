@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή και Δημιουργία ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -52,3 +52,9 @@
 ![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy_push.png)
 
 Επιπλέον, αυτή την εβδομάδα με τον οργανισμό συντάξαμε ένα "Μανιφέστο" όπου περιγράφουμε τις υποχρεώσεις κάθε ρόλου του οργανισμού, το workflow καθώς και κάποιους κανόνες όσων αφορά τα pull request που θα γίνονται προς τον οργανισμό. Προς το παρών είναι private repository αλλά θα γίνει σύντομα public.
+
+3<sup>o</sup> Παραδοτέο 
+========================
+Για αυτό το παραδοτέο έγινε εγκατάσταση του Funtoo στο Virtual Box ακολουθώντας τις οδηγίες του [guide](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md) που γράψαμε με τον οργανισμό μου. 
+
+[![asciicast](https://asciinema.org/a/564879.svg)](https://asciinema.org/a/564879)
