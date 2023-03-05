@@ -11,7 +11,7 @@
 | 0 | [Εισαγωγή](#Εισαγωγή) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1211) | - |
 | 1 | [Δημιουργία Οργανισμού](#1ο-Παραδοτέο---Δημιουργία-Οργανισμού) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) | - |
 | 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) | - |
-| 3 | [CLI: TBD](#3ο-Παραδοτέο---Command-Line-Interface---) | - | - |
+| 3 | [CLI: Funtoo](#3ο-Παραδοτέο---Command-Line-Interface---Funtoo Installation) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1341) | - |
 | 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---) | - | - |
 | 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
 | 6 | [CLI: Blog Generator](#6ο-Παραδοτέο---Command-Line-Interface---Custom-Static-Blog-Generator) | - | - |
@@ -56,6 +56,30 @@ curl | pacman
 [asciinema](https://asciinema.org/) |
 [gifcast](https://dstein64.github.io/gifcast/)
 
+
+# 3ο Παραδοτέο - Command Line Interface - Funtoo Installation
+
+Σε αυτό το παραδοτέο έκανα εγκατάσταση των Funtoo Linux, ένα distro βασισμένο στα Gentoo.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Imagess/neofetch_funtoo.png" width="700" />
+</p>
+
+Δεν αντιμετώπισα κάποιο πρόβλημα στο installation καθώς υπήρχε αρκετό documentation στο wiki, και γενικώς τα βρήκα ενδιαφέρον distro. Ωστόσο, ένα πράγμα το οποίο βρήκα αρκετά κουραστικό στην χρήση τους είναι το πόση ώρα απαιτείται για το compile των πακέτων, και προσπάθησα να την μειώσω όσο το δυνατόν περισσότερο. Για ευκολία, πρόσθεσα επίσης ένα [section στο guide](https://github.com/PaneksypnesDiepafes/cookbook/pull/4) του οργανισμού με οδηγίες έτσι ώστε να βοηθηθούν παραπάνω άτομα.
+
+#### Εντολές / Εργαλεία / Πηγές
+
+fdisk | emerge | rc-update | cfg-update
+
+[neofetch](https://github.com/dylanaraps/neofetch) | [ccache](https://ccache.dev/)
+
+[Distrowatch](https://distrowatch.com/table.php?distribution=funtoo) |
+[Funtoo Installation Guide](https://www.funtoo.org/Install/en) |
+[Installation Guide του Οργανισμού μου](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md) |
+[Portage Documentation](https://dev.gentoo.org/~zmedico/portage/doc/index.html) |
+[An Introduction to Portage](https://wiki.calculate-linux.org/a_portage_introduction) |
+[Minimizing Compilation & Installation Time](https://wiki.gentoo.org/wiki/Minimizing_compilation_and_installation_time) |
+[CCache Documentation](https://ccache.dev/documentation.html)
 
 
 
