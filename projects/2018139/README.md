@@ -26,6 +26,6 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
  
  ## 2o ΠΑΡΑΔΟΤΕΟ: Γραμμή εντολών (systemd)
 Σε αυτό το σκέλος της εργασίας καλούμαστε να ολοκληρώσουμε μια άσκηση γραμμής εντολών. Πιο συγκεκριμένα επέλεξα να χρηιμοποιήσω την εφαρμογή του telegram και μέσω του ntfy να στέλνω ειδοποιήσεις στο κινητό μου σχετικά με τον καιρό της πόλης μου. Αρχικά έκανα install το ntfy  στο συστημα linux, στην συνέχεια κατέβασα στο κινητο μου την εφαρμογή του telegram. Μέσω telegram δημιούργησα ένα bot και χρησιμοποίησα το token που μου έδωσε ώστε να εξασφαλίσω την εποικινωνία. Στην συνέχεια βρήκα έναν κωδικα σε python [ Εδώ ](polis.py) σχετικά με την διεργασία που ήθελα εγώ να εκτελεί.
-<img src="TempNotification.JPEG" width="150"/>
-<img src="BotChat.JPEG" width="150/>
-
+<p><img src="TempNotification.JPEG" width="150"/>
+<img src="BotChat.JPEG" width="150"/>
+</p>
