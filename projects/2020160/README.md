@@ -44,3 +44,13 @@
 - [Asciinema](https://asciinema.org/a/CEyyNK5i9SPM9HAdWjHzgJRak)
 
 - [Asciinema](https://asciinema.org/a/mJZp9x88ryINCItki9qKzIlcw)
+
+
+## Γραμμή εντολών (no systemd)
+
+Λειτουργικό Σύστημα:
+[Asciinema](https://asciinema.org/a/tGV99oLg1GZWOwwktz9XKgreH)
+
+Άσκηση Γραμμής Εντολών:
+[Ascinema](https://asciinema.org/a/RlDripLpNLZdynR4LkyLWbL6I)
+
