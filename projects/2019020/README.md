@@ -34,7 +34,7 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Γραμμή Εντολών (No systemd)
 Για την τρίτη εβδομάδα  εγκατέστησα τα antiX σαν Dual Boot στο σύστημα μου και σαν άσκηση γραμμής εντολών χρησιμοποίησα το py-spy για να δημιουργηθεί ένα flamegraph σχετικά με την εκτέλεση του test.py(εκτυπώνει στην οθόνη 10 χιλιάδες φορές το hello world)
-Τα antiX linux είναι μια ελαφριά έκδοση των linux και σαν package manager χρησιμοποιεί το apt-get package system και τα Debian compatible repos. Τα antix linux δεν χρησιμοποιούν systemd init system αλλά με το SysVinit σαν προεπιλογή. Η έκδοση παρέχει επιλογές SysVinit και runit σαν επιλογή για το init σύστημα.
+Τα antiX linux είναι μια ελαφριά έκδοση των linux και σαν package manager χρησιμοποιεί το apt-get package system(apt install) και τα Debian compatible repos. Τα antix linux δεν χρησιμοποιούν systemd init system αλλά με το SysVinit σαν προεπιλογή. Η έκδοση παρέχει επιλογές SysVinit και runit σαν επιλογή για το init σύστημα.
 
 [![asciicast](https://asciinema.org/a/FKQXJxVXgvN9jv4Msz2Hs7rDx.svg)](https://asciinema.org/a/FKQXJxVXgvN9jv4Msz2Hs7rDx)
 
