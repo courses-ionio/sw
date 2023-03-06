@@ -36,9 +36,13 @@
 Για την τρίτη εβδομάδα  εγκατέστησα τα antiX σαν Dual Boot στο σύστημα μου και σαν άσκηση γραμμής εντολών χρησιμοποίησα το py-spy για να δημιουργηθεί ένα flamegraph σχετικά με την εκτέλεση του test.py(εκτυπώνει στην οθόνη 10 χιλιάδες φορές το hello world)
 Τα antiX linux είναι μια ελαφριά έκδοση των linux και σαν package manager χρησιμοποιεί το apt-get package system και τα Debian compatible repos. Τα antix linux δεν χρησιμοποιούν systemd init system αλλά με το SysVinit σαν προεπιλογή. Η έκδοση παρέχει επιλογές SysVinit και runit σαν επιλογή για το init σύστημα.
 
+[![asciicast](https://asciinema.org/a/FKQXJxVXgvN9jv4Msz2Hs7rDx.svg)](https://asciinema.org/a/FKQXJxVXgvN9jv4Msz2Hs7rDx)
+
+![result](https://user-images.githubusercontent.com/74872978/223119487-4cbf9a6a-9242-42db-97f3-c8953b99f9e7.svg)
 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Κατασκευή του Βιβλίου Α2 (Συνεργατικά)
+
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό Περιεχόμενο A1 + A2
 
