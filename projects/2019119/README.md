@@ -46,6 +46,13 @@
 
 ![telegram1](https://user-images.githubusercontent.com/72356670/222894802-a2e9c21c-0b00-442b-8c2e-2554083dd17e.png)
 
+## Κατασκευή βιβλίου σε pdf 
+Για αυτό το παραδοτέο δημιουργήθηκε το [book1.pdf](https://github.com/ChristosMpazdanhs/kallipos/blob/master/book/book1.pdf)
+Η σημείωση μου :
+![chrisbaz](https://user-images.githubusercontent.com/72356670/223227907-3beeab7f-d6b1-4d0b-8cf3-55075d17fc3e.png)
+[kallipos](https://github.com/ChristosMpazdanhs/kallipos/)
+[Φίλτρο Lua](https://github.com/ChristosMpazdanhs/kallipos/blob/master/comment.lua)
+[make-latex.sh](https://github.com/ChristosMpazdanhs/kallipos/blob/master/make-latex.sh)
 
 
 
