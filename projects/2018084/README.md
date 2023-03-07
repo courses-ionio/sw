@@ -48,6 +48,19 @@
   
 ## <a name="P-4">Παραδοτέο 5</a>
 ### Άσκηση: Συμμετοχικό περιεχόμενο A1 + A2
+<a href="https://60564747ce6925c7f3460705--awesome-mahavira-cc9e7b.netlify.app/chapters">Netlify</a><br />
+
+### Forked Repositories:
+<a href="https://github.com/Icelandan/site/tree/P2018084">Site</a> <br />
+<a href="https://github.com/Icelandan/_gallery/tree/P2018084">Gallery</a> <br />
+<a href="https://github.com/Icelandan/images/tree/P2018084">Images</a> <br />
+<a href="https://github.com/Icelandan/site/blob/P2018084/_data/authors.yml"> authors.yml</a>
+
+### Content added:
+Εικόνα 1: <a href="https://github.com/Icelandan/_gallery/blob/P2018084/windowsxp.md">windowsxp.md</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/windowsxp.png">windowsxp.png</a>, <a href="https://github.com/Icelandan/images/blob/P2018084/windowsxp-thumb.png">windowsxp-thumb.png</a> <br />
+Εικόνα 2: <a href="https://github.com/Icelandan/_gallery/blob/P2018084/macos.md">macos.md</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/macos.png">macos.png</a>, <a href="https://github.com/Icelandan/images/blob/P2018084/macos-thumb.png">macos-thumb.png</a> <br />
+Χρονολόγιο: <a href="https://github.com/Icelandan/site/blob/P2018084/_timeline/operating-system.md">Timeline</a> <br />
+Slides <br />
 
 ## <a name="P-5">Παραδοτέο 6</a>
 ### Άσκηση: Γραμμή εντολών (custom static blog generator)
