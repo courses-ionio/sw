@@ -79,6 +79,8 @@
 <p align="center">
 <a href="https://asciinema.org/a/563441" target="_blank"><img src="https://asciinema.org/a/563441.svg" width="70%" /></a>
 
+# Κατασκευή του Βιβλίου
+
 ## Για το Παραδοτέο04
 
 Ολοκλήρωσα την κατασκευή του βιβλίου προσθέτοντας τις σημειώσεις μου με επιτυχία, χρησιμοποιόντας το φίλτρο lua μου. Παρακάτω παραθέτοντε τα αρχεία:
@@ -89,6 +91,44 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aggelos2000430/kallipos/master/book.jpg" alt="Alt Text" width="70%" />
+
+#Συμμετοχικό Περιεχόμενο Α1+Α2
+
+## Για το Παραδοτέο05
+
+Έκανα fork τo site από τον [οργανισμό μου](https://github.com/lapis-lazuli-ore-block) έπειτα αναζήτησα στον ιστό αποφάσισα να προσθέσω δύο εικόνες υψηλής ανάλυσης στο site.
+
+### Αρχεία εικόνων:
+- [Apple II high resolution graphics](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
+- [Amiga Workbench 3.1](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1_160p.png)
+- [Apple II high resolution graphics - thumbnail](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
+- [Amiga Workbench 3.1 - thumbnail](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1.png)
+
+### Αρχεία .md:
+- [Apple II high resolution graphics](https://github.com/aggelos2000430/_gallery/blob/2c61956bd54d95a85da4b6b9a02ad6e1f22e667b/applehighgraphics.md)
+- [Amiga Workbench 3.1](https://github.com/aggelos2000430/_gallery/blob/2c61956bd54d95a85da4b6b9a02ad6e1f22e667b/amigaworkbench_3.1.md)
+
+### Οι προσθήκες στο Site:
+
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Apple II high resolution graphics](https://master--earnest-cocada-1cb679.netlify.app/gallery/applehighgraphics/)
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--earnest-cocada-1cb679.netlify.app/images/apple2_high-resolution_graphics.png" width="70%" />
+</p>
+
+
+[Amiga Workbench 3.1](https://master--earnest-cocada-1cb679.netlify.app/gallery/amigaworkbench_3.1/)
+
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--earnest-cocada-1cb679.netlify.app/images/amiga_workbench_3.1_160p.png" width="70%" />
 
 # **Static Blog**
 
@@ -118,7 +158,3 @@
 # **Ομαδικότητα και Συνεργασία** #
 
 [Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
-
-Δημιούργησα έναν οδηγό εγκατάστασης KDE-Funtoo Linux για να βοηθήσω τα μέλη του οργανισμού μου να εγκαταστήσουν το λειτουργικό σύστημα
-[Οδηγός Εγκατάστασης KDE-Funtoo Linux](https://github.com/lapis-lazuli-ore-block/Instructions/blob/main/InstallingIsFun(NOT)too.md)
-
