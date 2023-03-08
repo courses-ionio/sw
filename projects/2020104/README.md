@@ -64,7 +64,7 @@
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
 ###  Γραμμή εντολών (no systemd)
-Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία.
+Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία. Στην αρχή κατεβάζεις το void-live-x86_64-musl-20221001-xfce.iso από τα [installer](https://repo-default.voidlinux.org/live/current/) του [download guide]([https://docs.voidlinux.org/about/index.html](https://voidlinux.org/download/)) και έπειτα πρόσθεσα το iso στο virtual machine και το ξεκινήσα. Στην συνέχεια ξεκίνησα την διαδικασία με την εντολή ``void-installer`` και τα υπόλοιπα ήταν μία απλη διαδικασία διότι το installer περιέχει GUI.
 
 ### Warm up:
 - [Neofetch](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
