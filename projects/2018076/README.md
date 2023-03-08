@@ -79,7 +79,16 @@
 <p align="center">
 <a href="https://asciinema.org/a/563441" target="_blank"><img src="https://asciinema.org/a/563441.svg" width="70%" /></a>
 
+## Για το Παραδοτέο04
 
+Ολοκλήρωσα την κατασκευή του βιβλίου προσθέτοντας τις σημειώσεις μου με επιτυχία, χρησιμοποιόντας το φίλτρο lua μου. Παρακάτω παραθέτοντε τα αρχεία:
+
+- [mylua.lua](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
+- [applesoft.md](https://github.com/aggelos2000430/kallipos/blob/master/myfile/applesoft.md)
+- [book.pdf](https://github.com/aggelos2000430/kallipos/blob/master/book.pdf)
+
+<p align="center">
+<img src="https://github.com/aggelos2000430/kallipos/blob/master/book.jpg" alt="Alt Text" width="70%" />
 
 # **Static Blog**
 
@@ -88,15 +97,6 @@
 - [Το repository του Blog](https://github.com/aggelos2000430/forexBlog.github.io)
 - [#!/bin/bash](https://github.com/aggelos2000430/forexBlog.github.io/blob/main/blog.sh)
 - [Το Blog](https://aggelos2000430.github.io/forexBlog.github.io/)
-
-# **Άσκηση Γραμμής εντολών**
-
-Επέλεξα να στείλω notification απο το terminal του Funtoo Linux προς το κινητό μου. Αρχικά κατέβασα την εφαρμογη του ntfy στο Android κι έπειτα εκτέλεσα την εντολή **curl -d "myMessage" ntfy.sh/mytopic**
-
-<p align="center">
-<a href="https://asciinema.org/a/564362" target="_blank"><img src="https://asciinema.org/a/564362.svg" width="70%" /></a>
-
-<img src="https://github.com/aggelos2000430/sw/blob/2018076/projects/2018076/github.jpg" alt="Alt Text" width="70%" />
 
 
 
