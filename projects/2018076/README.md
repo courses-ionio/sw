@@ -12,7 +12,7 @@
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link to discussions](https://github.com/courses-ionio/sw/discussions/1142)| |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1262) | |
 | 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
