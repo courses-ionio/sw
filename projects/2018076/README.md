@@ -88,7 +88,7 @@
 - [book.pdf](https://github.com/aggelos2000430/kallipos/blob/master/book.pdf)
 
 <p align="center">
-<img src="https://github.com/aggelos2000430/kallipos/blob/master/book.jpg" alt="Alt Text" width="70%" />
+<img src="https://raw.githubusercontent.com/aggelos2000430/kallipos/master/book.jpg" alt="Alt Text" width="70%" />
 
 # **Static Blog**
 
