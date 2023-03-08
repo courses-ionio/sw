@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/p20poli/sw/blob/2020104/projects/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |  [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1191) | |
 | 2 | [Γραμμή εντολών](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-arch-linux) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1255) | |
-| 3 | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions) | |
+| 3 | [Γραμμή εντολών (no systemd)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-no-systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -64,4 +64,11 @@
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
 ###  Γραμμή εντολών (no systemd)
+Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία.
 
+### Warm up:
+- [Neofetch](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
+
+### Πηγές:
+- [Void linux](https://docs.voidlinux.org/config/network-filesystems.html)
+- [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
