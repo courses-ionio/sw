@@ -27,9 +27,7 @@
 
 # Λειτουργικό Σύστημα Systemd & NoSystemd
 ## Για το Παραδοτέο02
-Η ανάπτυξη του systemd ήρθε να αντικαταστήσει το παλιαότερο SysV init και είχε στόχο να αντιμετωπίσει διάφορα προβλήματα στα συστήματα εκκίνησης σε διανομές Linux.
-
-Το systemd συνολικά προσέφερε στον μέσο χρήστη καλύτερη εμπειρία και αρκετό έλεγχο, χωρίς ταυτόχρονα να απαιτεί υπερβολικό χρόνο εκμάθησης.
+Η ανάπτυξη του systemd ήρθε να αντικαταστήσει το παλιαότερο SysV init και είχε στόχο να αντιμετωπίσει διάφορα προβλήματα στα συστήματα εκκίνησης σε διανομές Linux. Το systemd συνολικά προσέφερε στον μέσο χρήστη καλύτερη εμπειρία και αρκετό έλεγχο, χωρίς ταυτόχρονα να απαιτεί υπερβολικό χρόνο εκμάθησης.
 
 ### Καθημερινό Λειτουργικό Σύστημα ArchLinux
 
@@ -43,11 +41,6 @@
 <a href="https://asciinema.org/a/535951" target="_blank"><img src="https://asciinema.org/a/535951.svg" width="70%" /></a>
 
 ## Για το Παραδοτέο03
-
-Κάποια μέλη της κοινότητας δυσαρέστήθηκαν με το systemd λόγω:
-- της αρχιτεκτονικής του συστήματος αρχείων,
-- της χρήσης του λογισμικού Dbus
-- πολύ μεγαλύτερο μέγεθος
 
 > __*Since Funtoo is a source-based meta-distribution and packages are built with Portage, we exist in the living wilderness, among raw creative energy of the wild free software ecosystem. Like a wolf, our connection to the vibrant and sustaining open source wilderness is tangible and real. We avoid the over-developed, sanitized, isolated and boring pre-packaged world where disconnected users simply ‘consume’ what was pre-made for them, preferring the more authentic and connected life where we are in control of our destiny.*__
 
