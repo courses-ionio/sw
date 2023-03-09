@@ -157,4 +157,8 @@
 
 # **Ομαδικότητα και Συνεργασία** #
 
+[#1348](https://github.com/courses-ionio/sw/discussions/1348)
+
+[#1353](https://github.com/courses-ionio/sw/discussions/1353)
+
 [Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
