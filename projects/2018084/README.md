@@ -9,7 +9,7 @@
 | <a href="#P">1</a> | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση Παραδοτέου 1](https://github.com/courses-ionio/sw/discussions/1158) | |
 | <a href="#P-1">2</a> | <a href="#P-1"> Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Συζήτηση Παραδοτέου 2](https://github.com/courses-ionio/sw/discussions/1249)| |
 | <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | [Συζήτηση Παραδοτέου 3](https://github.com/courses-ionio/sw/discussions/1348) | |
-| <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Συζήτηση Παραδοτέου 4](https://github.com/courses-ionio/sw/discussions/1367) | |
 | <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | <a href="#P-5">6 </a>| <a href="#P-5"> Γραμμή εντολών (custom static blog generator) | | |
 | <a href="#P-6">7 </a>| <a href="#P-6"> Συμμετοχικό περιεχόμενο B1 | | |
@@ -45,12 +45,25 @@
 
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
+
+ ### Forked Repository:
+<a href="https://github.com/Icelandan/kallipos">Kallipos.git του οργανισμού</a> <br />
+ 
+ ### Content added:
+Φάκελος για το md: <a href="https://github.com/Icelandan/kallipos/tree/master/myfile">myfile</a> <br />
+Αρχείο md: <a href="https://github.com/Icelandan/kallipos/blob/master/myfile/stages.md">stages.md</a> <br />
+Αρχείο lua: <a href="https://github.com/Icelandan/kallipos/blob/master/content.lua">content.lua</a> <br />
+Αρχείο pdf βιβλίου: <a href="https://github.com/Icelandan/kallipos/blob/master/book.pdf">book.pdf</a> <br />
+Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv5rcpLye3gnq1q8U?usp=sharing <br />
+
+Το περιεχόμενο βρίσκεται στη σελίδα 42 ( & 43 ) του βιβλίου. Επέλεξα να αναπτύξω έναν όρο που αναφέρθηκε σχετικά σύντομα, αν και έχει αρκετά μεγάλη σημασία. 
+
   
 ## <a name="P-4">Παραδοτέο 5</a>
-### Άσκηση: Συμμετοχικό περιεχόμενο A1 + A2
+### Άσκηση: Συμμετοχικό περιεχόμενο A1 + A2 
+ 
 <a href="https://60564747ce6925c7f3460705--awesome-mahavira-cc9e7b.netlify.app/chapters">Netlify</a><br />
-
-### Forked Repositories:
+ ### Forked Repositories:
 <a href="https://github.com/Icelandan/site/tree/P2018084">Site</a> <br />
 <a href="https://github.com/Icelandan/_gallery/tree/P2018084">Gallery</a> <br />
 <a href="https://github.com/Icelandan/images/tree/P2018084">Images</a> <br />
