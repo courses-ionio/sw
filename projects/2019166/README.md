@@ -12,7 +12,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [My link](https://github.com/courses-ionio/sw/discussions/1160) | |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [My link](https://github.com/courses-ionio/sw/discussions/1258)| |
 | 3 | Γραμμή εντολών (no systemd) | [My link](https://github.com/courses-ionio/sw/discussions/1316)| |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [My link](https://github.com/courses-ionio/sw/discussions/1366)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -48,6 +48,24 @@
 Το οποίο φαίνεται στο παρακάτω link στο asciinema :
 
   - [Asciinema Link](https://asciinema.org/a/16dpc2BwBj86Ldo5M9nq0vPzX)
+  
+# <h2>Κατασκευή του βιβλίου Α2</h2>
+
+Στο κεφάλαιο 10 (Τεχνολογία) στην σελίδα 161 του βιβλίου σας αναφέρει πως τα μέσα επικοινωνίας βοηθάνε την επικοινωνία μέσω των ανθρώπων και δίνει ένα παράδειγμα του ραδιοφώνου που η συνέχεια του είναι η τηλεόραση. Έτσι αποφάσισα να δώσω και εγώ ένα παράδειγμα που έχει σχέση με την επικοινωνία των ανθρώπων μέσω βιντεοκλήσης η οποία είναι εξέλιξη της ηχητικής κλήσης. Στο συμπέρασμα που κατέληξα είναι πως πλέον με την εξέλιξη της τεχνολογίας μπορείς να επικοινωνείς με ανθρώπους ασχέτως την τοποθεσία που βρίσκονται και με πολύ διαδραστικό τρόπο. Την χρήση βιντεοκλήσης χρησιμοποιώ και εγώ στα διαδικτυακά μαθήματα που παρακολουθώ.
+
+Το screenshot της προσθήκης μου :
+
+![img](https://user-images.githubusercontent.com/72515404/224086897-da5d4768-de9f-4562-99cd-cfca195f66a5.png)
+
+My Links :
+  - [my book](https://github.com/olumpiaalexopoulou/kallipos/tree/master/book)
+  - [my lua](https://github.com/olumpiaalexopoulou/kallipos/blob/master/media.lua)
+  - [my media.md](https://github.com/olumpiaalexopoulou/kallipos/blob/master/P2019166/media.md)
+  - [make-latex.sh](https://github.com/olumpiaalexopoulou/kallipos/blob/master/make-latex.sh)
+  - [my screenshot](https://github.com/olumpiaalexopoulou/kallipos/blob/master/pictures/img.png)
+  
+  Δυστυχώς, στη δημιουργία του βιβλίου το πρόβλημα που αντιμετώπισα ήταν ότι δεν μου εμφανίζει τις εικόνες με αποτέλεσμα οι σελίδες να είναι 177 και δεν κατάφερα να βρω κάποια λύση σε αυτό αλλά θα προσπαθήσω να το διορθώσω!
+
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
