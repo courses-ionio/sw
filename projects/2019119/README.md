@@ -34,13 +34,43 @@
 
 
 ## Άσκηση γραμμής εντολών (systemd) 
-Σε αυτήν την άσκηση χρησιμοποιώ το py-spy για να εξάγω ένα flamegraph σχετικά με το newfile1.py.
+Σε αυτήν την άσκηση χρησιμοποιώ το py-spy για να εξάγω ένα flamegraph σχετικά με το newfile1.py. Όπως βλέπουμε χρησιμοποιώ το py-spy με σκοπό να καταγράψω (record) και να κάνω output(-Ο) ένα αρχείο flamegraph.svg που προκύπτει από την εκτέλεση του προγράμματος newfile1.py.
+Η άσκηση έγινε από τα Linux Mint, αυτή η διανομή βασίζεται στα Ubuntu / Debian testing και δίνει έμφαση στην λειτουργικότητα, ώστε να παρέχεται καλύτερη υποστήριξη. Αναπτύχθηκε για να είναι ιδιαίτερα φιλική προς τον χρήστη και ιδιαίτερα σε νέους χρήστες. 
 
-[![asciicast](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9.svg)](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9)
+Το systemd είναι ένα σύστημα και service manager για τα Linux. Προσδίδει aggresive parallelization capabilities, χρησιμοποιεί socket και D-Bus activation για να ξεκινήσει τα services, προσφέρει κατά παραγγελία εκκίνηση των daemons, ελέγχει τα processes χρησιμοποιώντας Linux control groups, διατηρεί mount και auto mount points, εφαρμόζει μια περίπλοκη λογική ελέγχου υπηρεσιών που βασίζεται σε εξάρτηση συναλλαγών.(transactional dependency-based service control logic). Το systemd είναι compatible με το SysV(μια από τις πρώτες εμπορικές εκδόσεις του λειτουργικού συστήματος Unix) και LSB init scripts που δουλεύουν σαν μία drop-in αντικαταστάτη του sysvinit.
+
+[Πηγή](https://community.linuxmint.com/software/view/systemd)
+
+ [![asciicast](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9.svg)](https://asciinema.org/a/7BvuOBjvASTiLZDzjzbXmf7M9)
 
 
 ## Άσκηση γραμμής εντολών (no systemd) 
-Αφού εγκατάστησα τα Artix Linux και τα απαραίτητα dependencies απέστειλα ειδοποίηση στο κινητό μου μέσω Telegram αφού η εντολή pacman -Syu (system update) ολοκληρωθεί για αυτό τον λόγο χρησιμοποίησα το "&&" δηλαδή να μην συνεχίσει αν η προηγούμενη εντολή δεν ολοκληρωθεί επιτυχημένα.
+Για αυτήν την εβδομάδα εγκατέστησα την διανομή Artix Linux. Τα Artix Linux δημιουργήθηκαν όταν τα Arch Linux ξεκίνησαν να χρησιμοποιούν το systemd σαν μία system-d less εκδοχή τους. Στην θέση του systemd χρησιμοποιούν init όπως είναι το OpenRC, runit, s6 ή Dinit. Επιπρόσθετα αυτή η διανομή έχει τα δικά της αποθετήρια πακέτων αλλά σαν μια pacman-based distirbution, μπορεί να χρησιμοποιήσει πακέτα από τα αποθετήρια των Arch Linux ή οποιαδήποτε άλλης διανομής ακόμα και πακέτα που είναι depending στο systemd. Η δική μου εγκατάσταση χρησιμοποιεί το OpenRC στην θέση του systemd. Το OpenRC είναι ένα dependency based init σύστημα για λειτουργικά συστήματα τύπου Unix. Το OpenRC απαρτίζεται από πολλά αρθρωτά στοιχεία(modular components) με κύρια να είναι ένα init(μη υποχρεωτικό), το βασικό σύστημα διαχείρησης εξαρτήσεων(dependencies) και ένας επόπτης δαίμονας(προαιρετικό). Είναι γραμμένο σε C και POSIX, καθιστώντας το χρησιμοποιήσιμο σε συστήματα BSD και Linux. Το βασικό μέρος του OpenRC χειρίζεται τη διαχείρηση των dependencies και την ανάλυση σεναρίων έναρξης. Το OpenRC λειτουργεί σαρώνοντας τα επίπεδα εκτέλεσης, δημιουργώντας ένα γράφημα εξάρτησης και στη συνέχεια, ξεκινάει τα απαραίτητα σενάρια της υπηρεσίας. Τερματίζεται μόλις ξεκινήσουν τα σενάρια αυτά. Από προεπιλογή, το OpenRC χρησιμοποιεί μια τροποποιημένη έκδοση του start-stop-daemon σαν διαχειριστές daemon.
+
+Μετά την εγκατάσταση της διανομής και την εγκατάσταση των απαραιτήτων (python,system update, pip, ntfy κτλ.) για άσκηση γραμμής εντολών χρησιμοποιήσα την παρακάτω εντολή:
+
+sudo pacman -Syu && ntfy -b telegram send 'update_ended_'
+
+sudo: τρέχει την εντολή με sudo permitions 
+
+pacman: package manager εξού και pacman υπεύθηνος για την λήψη των πακέτων στην διανομή
+
+-Syu : ενημέρωση συστήματος
+
+&&: δεν ξεκινάει η επόμενη εντολή αν η προηγούμενη εντολή δεν έχει τελειώσει στην περίπτωση μας το sudo pacman 
+
+-Syu (ενημέρωση συστήματος)
+
+ntfy: χρησιμοποιούμε το ntfy μια HTTP-based pub-sub notification service
+
+-b: backend
+
+telegram: χρησιμοποιούμε το telegram γιατί θέλουμε να αποστείλουμε το μήνυμα μέσω του Telegram 
+bot(ntfy[telegram])
+
+send: για να αποστείλουμε το μήνυμα
+
+'update_ended_': Το μήνυμα που θα σταλθεί εφόσον η προηγούμενη εντολή ολοκληρωθεί στην περίπτωσή μας το system update
 
 [![asciicast](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6.svg)](https://asciinema.org/a/5yR8AwXXKa0LgjsUUiEjjSJH6)
 
@@ -53,6 +83,7 @@
 [kallipos](https://github.com/ChristosMpazdanhs/kallipos/)
 [Φίλτρο Lua](https://github.com/ChristosMpazdanhs/kallipos/blob/master/comment.lua)
 [make-latex.sh](https://github.com/ChristosMpazdanhs/kallipos/blob/master/make-latex.sh)
+
 
 Punched card File
 ![download](https://user-images.githubusercontent.com/72356670/223228351-4965d5df-b8eb-4ebd-af13-f42913f6db3b.jpg)
