@@ -58,5 +58,6 @@ Link για το [asciinema του ntfy](https://asciinema.org/a/8qwk5eAIdNAAqnC
 
 Link για το [neofetch](https://asciinema.org/a/dHIaLnI2HaYWELK5T3M6fQFzZ)
 
+![Artix-Neofetch](https://github.com/Alessenia/Images-for-Report/blob/main/Artix-NEo.png)
 
 
