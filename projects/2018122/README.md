@@ -45,6 +45,22 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά)
 
+Στο 4ο παραδοτέο έπρεπε να γίνει η κατασκευή του βιβλίου με δική μας προσθήκη κειμένου. 
+  Παρακάτω βρίσκονται οι προσθήκες μου :
+  
+ 
+**[Βιβλίο σε μορφή pdf στο GitHub](https://github.com/AndreasKarageorgiou/kallipos/blob/master/book/book.pdf)**
+
+**[Αρχείο .lua](https://github.com/AndreasKarageorgiou/kallipos/blob/master/myfilter.lua)**
+
+**[Αρχείο .md](https://github.com/AndreasKarageorgiou/kallipos/blob/master/mytext/pacman.md)**
+
+**[Αρχείο book.tex](https://github.com/AndreasKarageorgiou/kallipos/blob/master/book.tex)**
+
+**[Αρχείο make-latex.sh](https://github.com/AndreasKarageorgiou/kallipos/blob/master/make-latex.sh)**
+
+**[MyScreenshot](https://github.com/AndreasKarageorgiou/kallipos/blob/master/bookscreen.pdf.jpg)**
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A1 + A2
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή εντολών (no systemd, custom static blog generator)
