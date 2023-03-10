@@ -60,4 +60,5 @@ Link για το [neofetch](https://asciinema.org/a/dHIaLnI2HaYWELK5T3M6fQFzZ)
 
 ![Artix-Neofetch](https://github.com/Alessenia/Images-for-Report/blob/main/Artix-NEo.png)
 
+(Να σημειωθεί ότι το ΑΜ μου εμφανίζεται και ως localhost διότι κατά την εγκατάσταση το πρόσθεσα και ως hostname και ως username)
 
