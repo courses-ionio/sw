@@ -115,9 +115,9 @@
 
 Ανέπτυξα ένα shell script το οποίο όταν εκτελείται παράγει ένα αρχείο index.html που αποτελεί ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει της ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Έπειτα δημιούργησα ένα αποθετήριο στο github το οποίο φιλοξενεί το Blog.
 
-- [Το repository του Blog](https://github.com/aggelos2000430/forexBlog.github.io)
-- [#!/bin/bash](https://github.com/aggelos2000430/forexBlog.github.io/blob/main/blog.sh)
-- [Το Blog](https://aggelos2000430.github.io/forexBlog.github.io/)
+- [Το repository του Blog](https://github.com/aggelos2000430/myBlog.github.io)
+- [#!/bin/bash](https://github.com/aggelos2000430/myBlog.github.io/blob/main/myBlog.sh)
+- [Το Blog](https://aggelos2000430.github.io/myBlog.github.io/)
 
 
 
