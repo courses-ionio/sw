@@ -45,7 +45,7 @@
 # Παραδοτέο 2 - Systemd & Συντονισμός Ομάδας
 Για τα παραδοτέα της δεύτερης εβδομάδας υπήρξε αρχικά συντονισμός με τα μέλη της ομάδας , με τα οποία καθιερώσαμε κάποιους βασικούς [κανόνες](https://github.com/TheTimeParadox) για την συνεργασία μας. Παράλληλα, επιλέχθηκαν τα Arch Linux ως το καθημερινό σύστημα για την χρήση της γραμμής εντολών και την υλοποίηση των ομαδικών παραδοτέων. Ταυτόχρονα, επέλεξα το `ntfy` από τα assignments του software για πειραματισμό στην γραμμή εντολών και δημιουργήθηκε ένα μήνυμα υπενθύμισης προς το κινητό τηλέφωνο μου για την δημιουργία του εβδομαδιαίου discussion στο forum του μαθήματος.Στην υπενθύμιση καθορίστηκε η ώρα της αποστολής της , προστέθηκε το icon του git καθώς και ένα κουμπί που παραπέμπει στα discussions του μαθήματος ,όπου και μοιραζόμαστε το progress μας.
 
-Link για το [asciinema του ntfy](https://asciinema.org/a/8qwk5eAIdNAAqnCuMPSIccXyr)
+#### Link για το [asciinema του ntfy](https://asciinema.org/a/8qwk5eAIdNAAqnCuMPSIccXyr)
 
 ![Ntfy Notification](https://github.com/Alessenia/Images-for-Report/blob/main/1677433447650.jpg)
 
@@ -56,7 +56,7 @@ Link για το [asciinema του ntfy](https://asciinema.org/a/8qwk5eAIdNAAqnC
 
 Η εγκατάσταση των Artix Linux έγινε σε virtual machine. Αρχικά κατέβασα το [iso των Artix με OpenRC](https://artixlinux.org/download.php) και μετά από το setup του vm προχώρησα στην χειροκίνητη εγκατάσταση τους , η οποία έφερε αρκετές ομοιότητες με εκείνη των Arch Linux σε usb. Μάλιστα , χρησιμοποιήθηκαν οι γνώσεις που είχαν προσκομιστεί από των διαχωρισμό των partitions στα Arch (ευτυχώς αυτή την φορά σε εικονικό σκληρό δίσκο,χωρίς να πειράξω τα partitions του σκληρού μου όπως έκανα με την εγκατάσταση των Arch) με την χρήση του gdisk. Σε γενικές γραμμές ακολούθησα τις οδηγίες που αναφέρονται στο [Artix Linux Wiki](https://wiki.artixlinux.org/Main/Installation) με ελαφρές διαφοροποιήσεις, όπως η χρήση του gdisk που προαναφέρθηκε. Βολικό ήταν και το γεγονός ότι τα Artix χρησιμοποιούν το ίδιο σύστημα διαχείρισης πακέτων (Pacman) και τα ίδια αποθετήρια λογισμικού. 
 
-Link για το [neofetch](https://asciinema.org/a/dHIaLnI2HaYWELK5T3M6fQFzZ)
+#### Link για το [neofetch](https://asciinema.org/a/dHIaLnI2HaYWELK5T3M6fQFzZ)
 
 ![Artix-Neofetch](https://github.com/Alessenia/Images-for-Report/blob/main/Artix-NEo.png)
 
