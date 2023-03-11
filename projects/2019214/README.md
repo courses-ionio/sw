@@ -85,9 +85,11 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 Η εγκατάσταση των Kiss Linux, παρόλου του ακρώνυμου **keep it simple stupid**, ήταν κατά μακρά η πιο δύσκολη διαδικασία, ακόμα και με την βοήθεια του [documentation](https://kisslinux.org/install). 
 
 ## Άσκηση γραμμής εντολών 2
-Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux.
+Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux. Και στην συνέχεια, για την πλήρη κατανόηση της άσκησης γραμμής εντολών εγκατέστησα το Kiss Linux σε VM και έτρεξα το `neofetch` για άλλη μία φορά.
 
-[![asciicast2](https://asciinema.org/a/563890.svg)](https://asciinema.org/a/563890)
+[![asciicast2](https://asciinema.org/a/566547.svg)](https://asciinema.org/a/566547)
+
+[![asciicast3](https://asciinema.org/a/563890.svg)](https://asciinema.org/a/563890)
 
 Πηγές: [neofetch](https://github.com/dylanaraps/neofetch) & [asciinema](https://github.com/asciinema/asciinema)
 <br />
