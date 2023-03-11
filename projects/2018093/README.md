@@ -85,9 +85,11 @@ GitHub Link: https://github.com/theoharissiwzos
 
 [Asciinema link](https://asciinema.org/a/565099)
 
+[Book_PDF/TEX](https://github.com/theoharissiwzos/kallipos/tree/master/book)
+
 [Lua Filter](https://github.com/theoharissiwzos/kallipos/blob/master/comment.lua)
 
-[Repository](https://github.com/theoharissiwzos/kallipos)
+[Eliza_bot.md](https://github.com/theoharissiwzos/kallipos/blob/master/myfile/Eliza_bot.md)
 
 ![Eliza_comment](https://user-images.githubusercontent.com/99976073/223107516-b32d6458-e1d6-4d2d-a621-f16e246e617a.png)
 
