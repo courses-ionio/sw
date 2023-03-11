@@ -57,6 +57,9 @@
 
 ![VirtualBox_Artix Linux_04_03_2023_22_10_50](https://user-images.githubusercontent.com/72880868/222926876-f58ee9e9-be2e-4665-bbff-6c1c8c9edc93.png)
 
+
+# Εβδομάδα 4: Κατασκευή του βιβλίου Α2 (συνεργατικά) 
+
 # Ομαδικότητα
 https://github.com/courses-ionio/sw/discussions/1162
 
