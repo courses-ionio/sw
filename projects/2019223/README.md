@@ -44,3 +44,14 @@
 
 [Asciinema](https://asciinema.org/a/561001)
 
+# Κατασκευή βιβλίου Α2
+
+Στο παραδοτέο αυτό αποφάσισα να ασχοληθώ με την προσθήκη μιας παραγράφου στο κεφάλαιο 8 του βιβλίου σας. Το κομμάτι παραγράφου που πρόσθεσα αφορά τον υπολογιστή Xerox Alto.
+
+Σύνδεσμοι:
+
+- [media.md](https://github.com/PetroulaStylianou/kallipos/blob/master/P2019223/media.md)
+- [media.lua](https://github.com/PetroulaStylianou/kallipos/blob/master/media.lua)
+- [make-latex.sh](https://github.com/PetroulaStylianou/kallipos/blob/master/make-latex.sh)
+- [asciinema](https://asciinema.org/a/j48D7EjFyDWH2ndL43GFfHpVi)
+
