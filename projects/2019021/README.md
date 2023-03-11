@@ -7,7 +7,7 @@
 | 1 | [Εισαγωγή](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [link](https://github.com/courses-ionio/sw/discussions/1153) |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
 | 2 | [Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |[link](https://github.com/courses-ionio/sw/discussions/1301) |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
 | 3 | [Γραμμή εντολών (no systemd)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BDno-systemd) |[link](https://github.com/courses-ionio/sw/discussions/1333) |Εγκατεστεσα το λογισμικο αλλα δεν ολοκληρωσα το παραδοτεο ακομη |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |link | |
+| 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC) |link | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |link | |
 | 6 | Γραμμή εντολών (custom static blog generator) |link | |
 | 7 | συμμετοχικό περιεχόμενο B1 |link | |
