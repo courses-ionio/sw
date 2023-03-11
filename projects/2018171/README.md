@@ -51,3 +51,9 @@
 
 
 [![asciicast](https://asciinema.org/a/564646.svg)](https://asciinema.org/a/564646)
+
+
+# 4. Η κατασκευή του βιβλίου:
+
+
+[![asciicast](https://asciinema.org/a/566545.svg)](https://asciinema.org/a/566545)
