@@ -40,3 +40,10 @@ ntfy -b telegram send "$message"
 [![asciicast](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb.svg)](https://asciinema.org/a/WZxXkyIc2elWRK1Df5CEViYMb)
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1332)
+
+## Παραδοτέο 4 
+*PDF Βιβλίο μαθήματος*</br>
+Για αυτήν την εβδομάδα τοποθέτησα την υποσημείωση μου στο βιβλίο του μαθήματος σχετικά με τα ολοκληρωμένα περιβάλλοντα ανάπτυξης του λογισμικού(IDE), χρησιμοποιήσα ένα αυτό το [φίλτρο](https://github.com/P2019217/kallipos/blob/master/comment.lua) σε συνδιασμώ με τις κατάλληλες αλλαγές στο make-latex.sh, όπως πχ η αφαίρεση μιας εντολής που λειτουργεί μόνο σε Mac συστήματα ενώ υπάρχει και αντίστοιχη σύνταξη για την sed και στα Unix, δημιουργώντας με αυτό τον τρόπο το [βιβλίο](https://github.com/P2019217/kallipos/blob/master/book/p2019217.pdf) του μαθήματος.
+
+![simeiwsi](https://user-images.githubusercontent.com/100226514/224506372-f00f2cb8-999b-441d-955e-4285426384fe.png)
+
