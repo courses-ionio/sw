@@ -58,3 +58,9 @@ ntfy -b telegram send "${WEATHER}"
 
 [![asciicast](https://asciinema.org/a/c4uxlSI9m7ZmDYWX0HWQ5Yzc9.svg)](https://asciinema.org/a/c4uxlSI9m7ZmDYWX0HWQ5Yzc9)
 
+# Κατασκευή του Βιβλίου 1 - Εβδομάδα 4
+Δημιουργήθηκε το βιβλίο του μαθήματος σε μορφή PDF μέσω του [filter.lua](https://github.com/paranaloma/kallipos/blob/master/comment.lua), [make-latex.sh](https://github.com/paranaloma/kallipos/blob/master/make-latex.sh), [comment.md](https://github.com/paranaloma/kallipos/blob/master/comment.lua).
+[kallipos](https://github.com/paranaloma/kallipos). Επιπρόσθετα έγινε προσθήκη σχολίου με πληροφορίες σχετικά με το Raspberry Pi.
+
+![letsgo](https://user-images.githubusercontent.com/56626790/224571178-f7534b95-e6a8-405c-a94e-ad96447d139e.png)
+
