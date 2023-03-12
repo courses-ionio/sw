@@ -31,20 +31,17 @@
 3. Αύξηση των ομαδικών μου δεξιοτήτων
 
 # Παραδοτέο 2
-Για το παραδοτέο 2 χρησιμοποίησα το [ntfy](https://github.com/dschep/ntfy) ώστε να συνδέσω το κινητό μου με τον υπολογιστή μου και να ειδοποιούμαι όταν εκτελείται ένα πρόγραμμα. Στην προκυμένη περίπτωση το πρόγραμμα που εκτέλεσα είναι γραμμένο σε python και υπολογίζει του πρώτους 10 αριθμούς της ακολουθίας fibonacci.
+Για το παραδοτεό 2 έπρεπε να γίνει η εγκατάσταση ενός συστήματος με systemd. Το σύστημα που επέλεξα ήταν το Manjaro Linux, μία διανομή του Arch Linux, καθώς ήταν ήδη εγκατεστημένο στον υπολογιστή μου ως το κύριο λειτουργικό μου σύστημα.
+[![asciicast](https://asciinema.org/a/lKN62uXwkM7hpi4bWf3c3IhDH.svg)](https://asciinema.org/a/lKN62uXwkM7hpi4bWf3c3IhDH)
 
-[![asciicast](https://asciinema.org/a/562178.svg)](https://asciinema.org/a/562178)
-
-![Screenshot_2023-02-23-09-24-56-469_com mi android globallauncher](https://user-images.githubusercontent.com/77148351/220844330-1c2bc0b4-aab6-4799-b9c3-9238ad06d1fd.jpg)
 
 # Παραδοτέο 3
-Για το παραδοτεό 3 χρειάστηκε να γίνει η εγκατάσταση μίας διανομής Linux χωρίς systemD. Προσωπικά επέλεξα το πολυδιαδεδομένο funtoo, το οποίο βασίζεται στο επίσης πολυδιαδεδομένο Gentoo, και δεν χρησιμοποιέι systemD αλλά το openrc
+Για το παραδοτεό 3 χρειάστηκε να γίνει η εγκατάσταση μίας διανομής Linux χωρίς systemd. Προσωπικά επέλεξα το πολυδιαδεδομένο funtoo, το οποίο βασίζεται στο επίσης πολυδιαδεδομένο Gentoo, και δεν χρησιμοποιέι systemD αλλά το openrc
 [![asciicast](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV.svg)](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV)
 
 
 # Παραδοτέο 4
 Για το παραδοτέο σκοπός μας ήταν η δημιουργία ενός ομαδικού αποθετηρίου και στη συνέχεια η προσθήκη δικού μας περιεχομένου στο βιβλίου του μαθήματος. Προσωπικά επέλεξα την smalltalk, μία αντικειμενοστραφή γλώσσα προγραμματισμού που δημιουργήθηκε από τον Alan Kay και τον Dan Ingalls την δεκαετία του 1970 στο XEROX PARC για εκπαιδευτικούς σκοπούς.
-
 
 ![smalltalk-contribution](https://user-images.githubusercontent.com/77148351/224547346-4cd9359d-c8de-4d79-892b-4003f9ffca00.png)
 
