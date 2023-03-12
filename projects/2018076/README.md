@@ -74,8 +74,16 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aggelos2000430/kallipos/master/book.jpg" alt="Alt Text" width="70%" />
+  
+<h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
 
-#Συμμετοχικό Περιεχόμενο Α1+Α2
+[Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/kallipos/pull/1)
+
+
+# Συμμετοχικό Περιεχόμενο Α1+Α2
 
 ## Για το Παραδοτέο05
 
@@ -155,8 +163,13 @@
 
 <p align="center">
 <a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/macintosh-desktop-thumb.png" width="70%" />
+  
+<h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
 
-
+[Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
 
 # **Static Blog**
 
