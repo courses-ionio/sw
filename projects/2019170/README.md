@@ -64,3 +64,5 @@
 Για αυτό το παραδοτέο έκανα μια προσθήκη στο 4ο κεφαλαιο στην υποενότητα 4.5 "Η περίπτωση του Reactable".
 
 ![contribution](https://github.com/marked-d/SW_plus/blob/main/contibution.png)
+
+[reactable.md](https://github.com/marked-d/kallipos-notes/blob/40a35fdbb22be9be31601f1c187a22903ce67e6b/reactable.md) | [contribution.lua](https://github.com/marked-d/kallipos/blob/master/contribution.lua) | [book.pdf](https://github.com/marked-d/kallipos/blob/master/book/book.pdf)
