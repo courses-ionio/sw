@@ -79,8 +79,9 @@
 
 ## Για το Παραδοτέο05
 
-Έκανα fork τo site από τον [οργανισμό μου](https://github.com/lapis-lazuli-ore-block) έπειτα αναζήτησα στον ιστό αποφάσισα να προσθέσω δύο εικόνες υψηλής ανάλυσης στο site.
+Έκανα fork τo site από τον [οργανισμό μου](https://github.com/lapis-lazuli-ore-block) έπειτα αναζήτησα στον ιστό αποφάσισα να προσθέσω:
 
+##Α1
 ### Αρχεία εικόνων:
 - [Apple II high resolution graphics](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
 - [Amiga Workbench 3.1](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1_160p.png)
@@ -112,6 +113,9 @@
 
 <p align="center">
 <a href="" target="_blank"><img src="https://master--earnest-cocada-1cb679.netlify.app/images/amiga_workbench_3.1_160p.png" width="70%" />
+
+##Α2
+
 
 # **Static Blog**
 
