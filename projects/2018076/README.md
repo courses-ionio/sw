@@ -13,7 +13,7 @@
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1262) | |
 | 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362)| |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
