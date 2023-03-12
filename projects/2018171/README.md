@@ -55,5 +55,14 @@
 
 # 4. Η κατασκευή του βιβλίου:
 
+ 
+ Για το 4ο παραδοτέο αποφάσισα να ασχοληθώ με την προσθήκη μιας παραγράφου στο βιβλίο. Το κομμάτι αυτό αφορά το dynabook. Πρόκειται για μία πρωτοποριακή για την εποχή, ιδέα του Alan Key έναν φορητό υπολογιστή. 
+
+ 
+* [Η αναφορά μου](https://github.com/perikarananou/sw/blob/2018171/projects/2018171/README.md)
+* [το .lua αρχείο μου](https://github.com/perikarananou/kallipos/blob/master/dynabook.lua)
+* [το .md αρχείο μου](https://github.com/perikarananou/kallipos/blob/master/P2018171/dynabook.md)
+* [το .tex αρχείιο μου](https://github.com/perikarananou/kallipos/blob/master/book.tex)
+
 
 [![asciicast](https://asciinema.org/a/566545.svg)](https://asciinema.org/a/566545)
