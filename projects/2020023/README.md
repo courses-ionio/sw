@@ -11,7 +11,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1200) |Συγγραφή της εισαγωγής μου με τις προσδοκίες μου από το μάθημα|
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Discussions Link](https://github.com/courses-ionio/sw/discussions/1278) |Επέλεξα να χρησιμοποιήσω τα Arch Linux ως systemd σύστημα, όμως στη προσπάθεια να εγκαταστήσω γραφικό περιβάλλον για περισσότερη ευκολία το αποτέλεσμα ήταν να μην κάνει boot το σύστημα καθώς κάποια απαραίτητα πακέτα δεν λήφθηκαν. Μετά από πολλές ώρες troubleshooting κατάφερα να διορθώσω το πρόβλημα. Επίσης με την ομάδα μου δημιουργήσαμε τους κανόνες για την συνεργασία μας που θεωρώ πως είναι δίκαιοι. |
 | 3 | Γραμμή εντολών (no systemd) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1278)| Κατάφερα να εγκαταστήσω τα Artix Linux στο VirtualBox, με επιτυχία. Σίγουρα ήταν μια αρκετά ιδιότροπη διαδικασία αλλά υπήρχε το θετικό πως βασίζονται στα Arch Linux, οπότε η εγκατάσταση είχε αρκετά κοινά σημεία. Θα μπορούσα να είμαι πιο προσεκτικός κατά την εγκατάσταση, καθώς είχα ξεχάσει να ρυθμίσω το boot sequence από το VirtualBox, οπότε όταν έφτασα στο σημείο να κάνω reboot το σύστημα όταν ολοκλήρωνα την εγκατάσταση, μου εμφανίστηκε ξανά το iso αντί για το σύστημα που εγκατέστησα. Έτσι αφού έσβησα την μηχανή που έφτιαξα, έκανα το troubleshooting και κατάλαβα το λάθος που είχα κάνει. Έτσι ξεκίνησα την εγκατάσταση εκ νέου με επιτυχία.|
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1385)| Πρόσθεσα την σημείωση μου σε ένα κομμάτι του βιβλίου που βρήκα ενδιαφέρον. Πιστεύω από άποψη συνοχής ταιριάζει καθώς αναλύει τη συγκεκριμένη παράγραφο με παραδείγματα. |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -74,7 +74,16 @@
 ![neofetchv2](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1885).png)
 
 ## Κατασκευή του  βιβλίου Α2 - 4ο παραδοτέο
--
+Σε αυτό το παραδοτέο, το ζητούμενο ήταν η συνεισφορά στο βιβλίο με μια σημείωση μας. Συγκεκριμένα, πρόσθεσα μια παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με παράδειγμα και χρήσεις γλωσσών οπτικού προγραμματισμού και την αντίθετη πλευρά, παράδειγμα και χρήσεις συγγραφής πηγαίου κώδικα. Η προσθήκη στο κεφάλαιο έγινε με την αρίθμηση του [text](https://github.com/mibook/text/blob/main/ch04.txt) του repository του βιβλίου του μαθήματος καθώς στο παραγόμενο pdf, το 4ο κεφάλαιο εμφανίζεται σαν 6ο. Παρακάτω, υπάρχει screenshot της προσθήκης μου, links πρός τις προσθήκες μου στον οργανισμό, link προς το ομαδικό βιβλίο αλλά και τα αντίστοιχα link προς τα προσωπικά μου αποθετήρια.
+
+#### Ομαδικά Link: [Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/master/additionfilter.lua)/[make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/master/make-latex.sh)/[Screenshot σημείωσης](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png)/[Αρχείο .md σημείωσης](https://github.com/TheTimeParadox/kallipos/blob/master/additionc4/visualide.md)/[Ομαδικό βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/master/book.pdf)
+
+#### Ατομικά Link:  [Φίλτρο Lua](https://github.com/p20sami/kallipos/blob/master/additionfilter.lua)/[make-latex.sh](https://github.com/p20sami/kallipos/blob/master/make-latex.sh)/[Αρχείο .md σημείωσης](https://github.com/p20sami/kallipos/blob/master/additionc4/visualide.md)
+
+#### Σημείωση:
+![add](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png)
+
+
 
 ## Συμμετοχικό περιεχόμενο Α1+Α2 - 5ο παραδοτέο
 -
