@@ -81,7 +81,7 @@
 
 Έκανα fork τo site από τον [οργανισμό μου](https://github.com/lapis-lazuli-ore-block) έπειτα αναζήτησα στον ιστό αποφάσισα να προσθέσω:
 
-##Α1
+## Α1
 ### Αρχεία εικόνων:
 - [Apple II high resolution graphics](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
 - [Amiga Workbench 3.1](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1_160p.png)
@@ -117,7 +117,7 @@
 
 
 
-##Α2
+## Α2
 
 ### _timeline :
 - [apple-times.md](https://github.com/aggelos2000430/site/blob/master/_timeline/apple-times.md)
@@ -149,7 +149,7 @@
 <a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/macpaint-prototype-thumb.jpg" width="70%" />
 
 
-[Γραφικά υπολογιστών αλά παλαιά](https://enchanting-longma-2e1d35.netlify.app/slides/amiga/)
+[Τα πιο δημοφιλή λειτουργικά συστήματα](https://enchanting-longma-2e1d35.netlify.app/slides/amiga/)
 
 
 
