@@ -10,7 +10,7 @@
 | 1 | Εισαγωγή και Δημιουργία ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
 | 3 | Γραμμή εντολών (no systemd) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -58,3 +58,9 @@
 Για αυτό το παραδοτέο έγινε εγκατάσταση του Funtoo στο Virtual Box ακολουθώντας τις οδηγίες του [guide](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md) που γράψαμε με τον οργανισμό μου. 
 
 [![asciicast](https://asciinema.org/a/564879.svg)](https://asciinema.org/a/564879)
+
+4<sup>o</sup> Παραδοτέο 
+========================
+Για αυτό το παραδοτέο έκανα μια προσθήκη στο 4ο κεφαλαιο στην υποενότητα 4.5 "Η περίπτωση του Reactable".
+
+![contribution](https://github.com/marked-d/SW_plus/blob/main/contibution.png)
