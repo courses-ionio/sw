@@ -99,22 +99,63 @@
 <a href="" target="_blank"></a>
 </p>
 
-[Apple II high resolution graphics](https://master--earnest-cocada-1cb679.netlify.app/gallery/applehighgraphics/)
+[Apple II high resolution graphics](https://enchanting-longma-2e1d35.netlify.app/gallery/applehighgraphics/)
 
 
 <p align="center">
-<a href="" target="_blank"><img src="https://master--earnest-cocada-1cb679.netlify.app/images/apple2_high-resolution_graphics.png" width="70%" />
+<a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/apple2_high-resolution_graphics.png" width="70%" />
 </p>
 
 
-[Amiga Workbench 3.1](https://master--earnest-cocada-1cb679.netlify.app/gallery/amigaworkbench_3.1/)
+[Amiga Workbench 3.1](https://enchanting-longma-2e1d35.netlify.app/gallery/amigaworkbench_3.1/)
 
 
 
 <p align="center">
-<a href="" target="_blank"><img src="https://master--earnest-cocada-1cb679.netlify.app/images/amiga_workbench_3.1_160p.png" width="70%" />
+<a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/amiga_workbench_3.1_160p.png" width="70%" />
+
+
+
 
 ##Α2
+
+### _timeline :
+- [apple-times.md](https://github.com/aggelos2000430/site/blob/master/_timeline/apple-times.md)
+
+### _slides :
+- [amiga.md](https://github.com/aggelos2000430/site/blob/master/_slides/amiga.md)
+- [graphics.md](https://github.com/aggelos2000430/site/blob/master/_slides/graphics.md)
+
+### Οι προσθήκες στο Site:
+
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Ο υπολογιστής στον εργασιακό χώρο](https://enchanting-longma-2e1d35.netlify.app/timeline/apple-times/)
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/human-computers.jpg" width="70%" />
+</p>
+
+
+[Γραφικά υπολογιστών αλά παλαιά](https://enchanting-longma-2e1d35.netlify.app/slides/graphics/)
+
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/macpaint-prototype-thumb.jpg" width="70%" />
+
+
+[Γραφικά υπολογιστών αλά παλαιά](https://enchanting-longma-2e1d35.netlify.app/slides/amiga/)
+
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://enchanting-longma-2e1d35.netlify.app/images/macintosh-desktop-thumb.png" width="70%" />
+
 
 
 # **Static Blog**
