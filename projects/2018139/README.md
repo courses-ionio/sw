@@ -38,6 +38,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 ## 3o ΠΑΡΑΔΟΤΕΟ: Γραμμή εντολών (no systemd)
 
-Στο παραδοτεο 3 αποφάσησα να εγκαταστήσω στο [virtual box](https://www.virtualbox.org/) της Oracle ένα virtual machine με κάποιο no systemd λογισμικό. Επέλεξα λοιπόν να χρησιμοποίησω το [void linux](https://voidlinux.org/) σε live έκδοση. Η αποφασή μου αυτή μου δημιούργησε αρχικά κάποιες δυσκολίες τις οποίες και αντιμετώπισα με επιτυχία. Μία από αυτές αποτελεί οτί η έκδοση ήταν  σε πραγματικό χρόνο και έχανε οτι είχες κάνει μέχρι εκοίνη την στιγμή (π.χ user, πληκτρολόγιο,ώρα) σε κάποιο πιθανό κόλλημα ή και reboot.Στην συνέχεια έκανα ένα update με την εντολή sudo xbps-install -S και εγατήστησα το Neofetch με την sudo xbps-install neofetch τέλος εκτέλεσα ένα asciinema rec.
+Στο παραδοτέο 3 αποφάσισα να εγκαταστήσω στο [virtual box](https://www.virtualbox.org/) της Oracle ένα virtual machine με κάποιο no systemd λογισμικό. Επέλεξα λοιπόν να χρησιμοποίησω το [void linux](https://voidlinux.org/) σε live έκδοση. Η απόφασή μου αυτή μου δημιούργησε αρχικά κάποιες δυσκολίες τις οποίες και αντιμετώπισα με επιτυχία. Μία από αυτές αποτελεί ότι η έκδοση ήταν  σε πραγματικό χρόνο και έχανε ότι είχες κάνει μέχρι εκείνη την στιγμή (π.χ user, πληκτρολόγιο, ώρα) σε κάποιο πιθανό κόλλημα ή και reboot.Στην συνέχεια έκανα ένα update με την εντολή sudo xbps-install -S και εγκατέστησα το Neofetch με την sudo xbps-install neofetch τέλος εκτέλεσα ένα asciinema rec.
+
 
 - [asciinema neofetch](https://asciinema.org/a/7QtjA8cYWREz7Of5f0RY1Mlp5)
