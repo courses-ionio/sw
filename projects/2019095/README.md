@@ -16,8 +16,8 @@
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [see more](#εισαγωγη-παραδοτέο-1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1137)| |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team)  |[see more](systemd--pq---παραδοτεο-2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1247) | |
-| 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discusiion](https://github.com/courses-ionio/sw/discussions/1343) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1343) | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -71,3 +71,11 @@
   
   - [Wiki](https://www.funtoo.org/Install/Introduction)
   - [Guide του οργανισμού μου](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md)
+  
+# A2
+ 
+Σε αυτό το παραδοτέο χρειάστηκε να προσφέρω στο βιβλίο. Όπως κάθε σωστή συνεισφορά έτσι και αυτή αποτέλεσε πόρισμα μεγάλης έρευνας και πολλών προσπαθειών για την εύρεση του κατάλληλου περιεχομένου. Αν και απομακρύνεται από το κομμάτι της αναφοράς μου, λόγο του ότι δεν μπόρεσα να βρω κάποια σχετική προσθήκη καθώς τα θέματα τα οποία με απασχολούν μπορώ να πω ότι είχα καλυφθεί πλήρως και οι μόνες προσθήκες οι οποίες θα με ενδιέφεραν ήταν εκτός από τα δοθέντα κεφάλαια. Πάρα αυτά αποτέλεσε μία ωραία ευκαιρία για έρευνα και ανάπτυξη των γνώσεων μου.
+
+![mycont](https://user-images.githubusercontent.com/39650065/224571973-1bf1a5da-24f5-4660-96dc-612f14008156.png)
+
+
