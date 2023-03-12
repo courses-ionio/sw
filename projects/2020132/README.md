@@ -45,3 +45,5 @@
 **Plan 9 on Oracle VM: https://youtu.be/JRmngX3xcz4**
 
 **Asciinema Neofetch + Void Linux: https://asciinema.org/a/564908**
+
+**Asciinema Neofetch + Kiss Linux: https://asciinema.org/a/p4G9c0jcam8PrUhRy1ieqgQgW**
