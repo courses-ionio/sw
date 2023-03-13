@@ -66,9 +66,15 @@
 ###  Γραμμή εντολών (no systemd)
 Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία. Στην αρχή κατεβάζεις το void-live-x86_64-musl-20221001-xfce.iso από τα [installer](https://repo-default.voidlinux.org/live/current/) του [download guide]([https://docs.voidlinux.org/about/index.html](https://voidlinux.org/download/)) και έπειτα πρόσθεσα το iso στο virtual machine και το ξεκινήσα. Στην συνέχεια ξεκίνησα την διαδικασία με την εντολή ``void-installer`` και τα υπόλοιπα ήταν μία απλη διαδικασία διότι το installer περιέχει GUI.
 
+Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss uide](https://kisslinux.org/install#001). 
+
 ### Warm up:
-- [Neofetch](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
+- [Neofetch Void linux](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
+- [Neofetch Kiss Linux](https://asciinema.org/a/8fwmjYIeSoI8a11TJYB4o6Pka)
 
 ### Πηγές:
-- [Void linux](https://docs.voidlinux.org/config/network-filesystems.html)
+- [Void Linux](https://docs.voidlinux.org/config/network-filesystems.html)
+- [Kiss Linux](https://kisslinux.org/install#001)
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
+
+
