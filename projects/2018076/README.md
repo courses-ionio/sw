@@ -68,12 +68,13 @@
 
 Ολοκλήρωσα την κατασκευή του βιβλίου προσθέτοντας τις σημειώσεις μου με επιτυχία, χρησιμοποιόντας το φίλτρο lua μου. Παρακάτω παραθέτοντε τα αρχεία:
 
-- [mylua.lua](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
-- [applesoft.md](https://github.com/aggelos2000430/kallipos/blob/master/myfile/applesoft.md)
-- [book.pdf](https://github.com/aggelos2000430/kallipos/blob/master/book.pdf)
+- [make-latex.sh](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/make-latex.sh)
+- [mylua.lua](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/mylua.lua)
+- [applesoft.md](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/myfile/applesoft.md)
+- [book.pdf](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.pdf)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aggelos2000430/kallipos/master/book.jpg" alt="Alt Text" width="70%" />
+<img src="https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.jpg" alt="Alt Text" width="70%" />
   
 <h2 align=center></b>
 <p align="center">
