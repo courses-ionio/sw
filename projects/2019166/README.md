@@ -60,7 +60,6 @@
 My Links :
   - [my book](https://github.com/olumpiaalexopoulou/kallipos/tree/master/book)
   - [my lua](https://github.com/olumpiaalexopoulou/kallipos/blob/master/media.lua)
-  - [my media.md](https://github.com/olumpiaalexopoulou/kallipos/blob/master/P2019166/media.md)
   - [my make-latex.sh](https://github.com/olumpiaalexopoulou/kallipos/blob/master/make-latex.sh)
   - [my screenshot](https://github.com/olumpiaalexopoulou/kallipos/blob/master/pictures/img.png)
   
