@@ -12,7 +12,7 @@
 | [1](#εισαγωγή-και-δημιουργία-ομάδας---παραδοτέο-1) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα → | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 1](https://github.com/courses-ionio/sw/discussions/1192) | Συγγραφή [εισαγωγής σχετικά με τους στόχους και προσδοκίες μου](#εισαγωγή) + ένταξη σε [οργανισμό](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5019249) GitHub |
 | [2](#εγκατάσταση-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-2) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | Εγκαστάση Arch Linux για την πρώτη άσκηση γραμμής εντολών, η οποία απαιτούσε λειτουργικό σύστημα με `systemd` |
 | [3](#εγκατάσταση-no-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-3) | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | Εγκατάσταση Void Linux και Kiss Linux για την επίτευξη της άσκηση γραμμής εντολών 2 (`no systemd`) |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -99,3 +99,6 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 <br />
 Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/563890)
 <br />
+
+
+# Κατασκευή βιβλίου - Παραδοτέο 4
