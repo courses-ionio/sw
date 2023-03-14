@@ -50,10 +50,10 @@
 <a href="https://github.com/Icelandan/kallipos">Kallipos.git του οργανισμού</a> <br />
  
  ### Content added:
-Φάκελος για το md: <a href="https://github.com/Icelandan/kallipos/tree/master/myfile">myfile</a> <br />
-Αρχείο md: <a href="https://github.com/Icelandan/kallipos/blob/master/myfile/stages.md">stages.md</a> <br />
-Αρχείο lua: <a href="https://github.com/Icelandan/kallipos/blob/master/content.lua">content.lua</a> <br />
-Αρχείο pdf βιβλίου: <a href="https://github.com/Icelandan/kallipos/blob/master/book.pdf">book.pdf</a> <br />
+Φάκελος για το md: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/tree/P2018084/mdfile">mδfile</a> <br />
+Αρχείο md: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/mdfile/stages.md">stages.md</a> <br />
+Αρχείο lua: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/content.lua">content.lua</a> <br />
+Αρχείο pdf βιβλίου: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/book.pdf">book.pdf</a> <br />
 Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv5rcpLye3gnq1q8U?usp=sharing <br />
 
 Το περιεχόμενο βρίσκεται στη σελίδα 42 ( & 43 ) του βιβλίου. Επέλεξα να αναπτύξω έναν όρο που αναφέρθηκε σχετικά σύντομα, αν και έχει αρκετά μεγάλη σημασία. 
