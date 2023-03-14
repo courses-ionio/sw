@@ -42,6 +42,13 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Κατασκευή του Βιβλίου Α2 (Συνεργατικά)
+Για το τέταρτο παραδοτέο πρόσθεσα στο βιβλίο ως μορφή υποσημείωσης σχόλιο σχετικά με την Squeak.
+- [comment.md](https://github.com/alkarvounis/kallipos/blob/master/comment/comment.md)
+- [contribution.lua](https://github.com/alkarvounis/kallipos/blob/master/contribution.lua)
+- [kallipos](https://github.com/alkarvounis/kallipos)
+
+![squeak](https://user-images.githubusercontent.com/74872978/224868425-578b599d-b34a-47ef-ba37-605c32ad9f3f.png)
+
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό Περιεχόμενο A1 + A2
