@@ -10,7 +10,7 @@
 | <a href="#P-1">2</a> | <a href="#P-1"> Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Συζήτηση Παραδοτέου 2](https://github.com/courses-ionio/sw/discussions/1249)| |
 | <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | [Συζήτηση Παραδοτέου 3](https://github.com/courses-ionio/sw/discussions/1348) | |
 | <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Συζήτηση Παραδοτέου 4](https://github.com/courses-ionio/sw/discussions/1367) | |
-| <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | [Συζήτηση Παραδοτέου 5](https://github.com/courses-ionio/sw/discussions/1393) | |
 | <a href="#P-5">6 </a>| <a href="#P-5"> Γραμμή εντολών (custom static blog generator) | | |
 | <a href="#P-6">7 </a>| <a href="#P-6"> Συμμετοχικό περιεχόμενο B1 | | |
 | <a href="#P-7">8 </a>| <a href="#P-7"> Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -33,7 +33,7 @@
 **Περιγραφή:** Send notifications to your desktop-mobile; Send a notifcation when a big task completes, eg download, compiling, etc <br />
 **Asciinema link:** https://asciinema.org/a/t7F155IcCLR0JKe2fy3WAWsmb <br />
 **Image Links:** https://drive.google.com/drive/folders/1fiecrA51VQLwvLMGKSqbU5PNrSBHeRBU?usp=sharing <br />
-  **Pull request στον οργανισμό:** https://github.com/lapis-lazuli-ore-block/Main/pull/4
+**Pull request στον οργανισμό:** https://github.com/lapis-lazuli-ore-block/Main/pull/4
 
 ## <a name="P-2">Παραδοτέο 3</a>
 ### Άσκηση: Γραμμή εντολών (no systemd)
@@ -46,24 +46,24 @@
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
 
- ### Forked Repository:
+### Forked Repository:
 <a href="https://github.com/Icelandan/kallipos">Kallipos.git του οργανισμού</a> <br />
  
- ### Content added:
+### Content added:
 Φάκελος για το md: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/tree/P2018084/mdfile">mdfile</a> <br />
 Αρχείο md: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/mdfile/stages.md">stages.md</a> <br />
 Αρχείο lua: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/content.lua">content.lua</a> <br />
 Αρχείο pdf βιβλίου: <a href="https://github.com/lapis-lazuli-ore-block/kallipos/blob/P2018084/book.pdf">book.pdf</a> <br />
 Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv5rcpLye3gnq1q8U?usp=sharing <br />
 
-Το περιεχόμενο βρίσκεται στη σελίδα 42 ( & 43 ) του βιβλίου. Επέλεξα να αναπτύξω έναν όρο που αναφέρθηκε σχετικά σύντομα, αν και έχει αρκετά μεγάλη σημασία. 
+**Σχόλια:** Το περιεχόμενο βρίσκεται στη σελίδα 42 ( & 43 ) του βιβλίου. Επέλεξα να αναπτύξω έναν όρο που αναφέρθηκε σχετικά σύντομα, αν και έχει αρκετά μεγάλη σημασία. 
 
   
 ## <a name="P-4">Παραδοτέο 5</a>
 ### Άσκηση: Συμμετοχικό περιεχόμενο A1 + A2 
  
 <a href="https://60564747ce6925c7f3460705--awesome-mahavira-cc9e7b.netlify.app/chapters">Netlify</a><br />
- ### Forked Repositories:
+### Forked Repositories:
 <a href="https://github.com/Icelandan/site/tree/P2018084">Site</a> <br />
 <a href="https://github.com/Icelandan/_gallery/tree/P2018084">Gallery</a> <br />
 <a href="https://github.com/Icelandan/images/tree/P2018084">Images</a> <br />
@@ -74,6 +74,8 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 Εικόνα 2: <a href="https://github.com/Icelandan/_gallery/blob/P2018084/macos.md">macos.md</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/macos.png">macos.png</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/macos-thumb.png">macos-thumb.png</a> <br />
 Χρονολόγιο: <a href="https://github.com/Icelandan/site/blob/P2018084/_timeline/operating-system.md">operating-system.md</a> <br />
 Διαφάνειες: <a href="https://github.com/Icelandan/site/blob/P2018084/_slides/method.md">method.md</a> <br />
+ 
+**Σχόλια:** Για αυτό το παραδοτέο αποφάσισα να εστιάσω κυρίως σε αξιόλογες εκδόσεις δύο λειτουργικών συστημάτων, καθώς θεωρούσα ότι ήταν πολύ σημαντικές για να λείπουν από το αποθετήριο.
 
 ## <a name="P-5">Παραδοτέο 6</a>
 ### Άσκηση: Γραμμή εντολών (custom static blog generator)
