@@ -70,4 +70,5 @@
 | [pycharm.md](https://github.com/NestorasKosmidis/_gallery/blob/b7e7909a3c11eb944257027ba3d3d773036d7a2f/pycharm.md) | [pycharm.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/pycharm.png) | [Netlify Χρονολόγιο](https://effervescent-snickerdoodle-648dcd.netlify.app/timeline/programming/) | [Netlify Διαφάνειες](https://effervescent-snickerdoodle-648dcd.netlify.app/slides/programming/) |
 |[Netlify PyCharm](https://effervescent-snickerdoodle-648dcd.netlify.app/gallery/pycharm/)|  [visualstudio-thumb.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/visualstudio-thumb.png)|    |        |
 | [Netlify Visual Studio](https://effervescent-snickerdoodle-648dcd.netlify.app/gallery/visualstudio/)   |  [pycharm-thumb.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/pycharm-thumb.png)      |    |     | 
+
 Επιπρόσθετα έγιναν αλλαγές στο [authors.yml](https://github.com/NestorasKosmidis/site/blob/master/_data/authors.yml)
