@@ -61,3 +61,20 @@ ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature
 ![scrnshtaz2ddze2-e2d](https://user-images.githubusercontent.com/49061765/222985584-43906c02-8594-4eb5-b5d1-a3349a81489b.png)
 
 Το Processing μου φάνηκε ιδιαίτερα ενδιαφέρον επειδή σου επιτρέπει να προγραμματίζεις μέσα σε ένα οπτικό πλαίσιο κάνοντας τον προγραμματισμό πιο εύκολη διαδικασία για αρχάριους χρήστες και επιπλέον τα προγράμματα του Processing έχουν μεταφραστεί σε Java επομένως οι αρχάριου αυτοί χρήστες θα μπορέσουν μετέπειτα να μεταναστεύσουν σε άλλες γλώσσες όπως η Java.
+
+## Παραδοτέο 5 - Συμμετοχικό περιεχόμενο Α1, Α2.
+Για το τέταρτο παραδοτέο πρόσθεσα στο site περιεχόμενο σχετικά με τα Arch Linux και τα Artix Linux και τα συνέδεσα μεταξύ τους στο κεφάλαιο Μέθοδος στα slides αλλά για το timeline έφτιαξα ένα δικό μου αρχείο markdown σχετικά με τα Linux.(linux-os.md)
+
+### A1 
+| _gallery | images | netlify |
+| ----------- | ----------- | ----------- |
+| [archlinux.md](https://github.com/dimitrisvarelas/_gallery/blob/296aa9fdeb1f7137a6486d3397b1bf186cc424cc/archlinux.md) | [archlinux.png](https://github.com/dimitrisvarelas/images/blob/763e1f0f6b6f94c961b4869aed529d4c80f0eea6/archlinux.png) / [archlinux-thumb.png](https://github.com/dimitrisvarelas/images/blob/763e1f0f6b6f94c961b4869aed529d4c80f0eea6/archlinux-thumb.png) | [Arch Linux](https://starlit-kitsune-1f289a.netlify.app/gallery/archlinux/) |
+| [artixlinux.md](https://github.com/dimitrisvarelas/_gallery/blob/296aa9fdeb1f7137a6486d3397b1bf186cc424cc/artixlinux.md) | [artixlinux.png](https://github.com/dimitrisvarelas/images/blob/763e1f0f6b6f94c961b4869aed529d4c80f0eea6/artixlinux.png) / [artixlinux-thumb.png](https://github.com/dimitrisvarelas/images/blob/9923f81d4a544b8c9d61b3c5f926346cb3d5746b/artixlinux-thumb.png) | [Artix Linux](https://starlit-kitsune-1f289a.netlify.app/gallery/artixlinux/) |
+### A2
+| _timeline | _slides |
+| ----------- | ----------- |
+| [linux-os.md](https://github.com/dimitrisvarelas/site/tree/master/_timeline) | [method.md](https://github.com/dimitrisvarelas/site/blob/master/_slides/method.md) |
+| [Timeline Netlify](https://github.com/dimitrisvarelas/site/blob/master/_slides/method.md) | [Slides Netlify](https://starlit-kitsune-1f289a.netlify.app/slides/method/)|
+
+[aythors.yml](https://github.com/dimitrisvarelas/site/blob/master/_data/authors.yml)
+
