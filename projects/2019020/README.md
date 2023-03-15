@@ -52,6 +52,20 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό Περιεχόμενο A1 + A2
+Για το πέμπτο παραδοτέο πρόσθεσα στο site ως Α1 περιεχόμενο εικόνες και περιγραφή σχετικά με δύο γλώσσες προγραματισμού που υποστηρίζουν τον αντικειμενοστρεφή προγραμματισμό και έπειτα ως Α2 περιεχόμενο συνέδεσα αυτές τις δύο εικόνες σαν θεματικό κέντρο "Αντικειμενοστρεφής Προγραμματισμός".
+
+- [cpp.md](https://tranquil-florentine-5ae204.netlify.app/gallery/cpp/)
+- [java.md](https://tranquil-florentine-5ae204.netlify.app/gallery/java/)
+- [cpp.jpg](https://github.com/alkarvounis/images/blob/96f862f4f7127d1154479ccab7c20153fa73e759/cpp.jpg)
+- [java.jpg](https://github.com/alkarvounis/images/blob/96f862f4f7127d1154479ccab7c20153fa73e759/java.jpg)
+- [cpp-thumb.jpg](https://github.com/alkarvounis/images/blob/master/cpp-thumb.jpg)
+- [java-thumb.jpg](https://github.com/alkarvounis/images/blob/96f862f4f7127d1154479ccab7c20153fa73e759/java-thumb.jpg)
+- [opp.md (timeline)](https://github.com/alkarvounis/site/blob/master/_timeline/oop.md)
+- [Netlify Cpp](https://tranquil-florentine-5ae204.netlify.app/gallery/cpp/)
+- [Netlify Java](https://tranquil-florentine-5ae204.netlify.app/gallery/java/)
+- [Netlify OPP Timeline](https://tranquil-florentine-5ae204.netlify.app/timeline/oop/)
+- [Personal Repository Site](https://github.com/alkarvounis/site)
+
 
 ## ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή Εντολών (No systemd, Custom static blog generator)
 
