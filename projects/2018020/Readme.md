@@ -61,4 +61,12 @@
 
 Έκανα σχόλιο στην συγκεκριμένη ενότητα μιας και πραγματεύεται κάτι που έχω παρατηρήσει και από προσωπική εμπειρία δηλαδή πως παραδείγματα σαν την scratch κάνουν τον προγραμματισμό ευκολότερο. Αφού σου επιτρέπουν να βλέπεις αυτό που προγραμματίζεις.
 
-
+## Εβδομάδα 5
+### Συμμετοχικό Περιεχόμενο Α1 + Α2
+Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο σχετικά με δυο IDE το PyCharm και το Visual Studio code της Microsoft.
+| gallery | images | timeline | slides | 
+| --- | --- | --- | --- | 
+| [visualstudio.md](https://github.com/NestorasKosmidis/_gallery/blob/b7e7909a3c11eb944257027ba3d3d773036d7a2f/visualstudio.md)| [visualstudio.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/visualstudio.png) | [programming.md](https://github.com/NestorasKosmidis/site/blob/master/_timeline/programming.md) | [programming.md](https://github.com/NestorasKosmidis/site/blob/master/_slides/programming.md) |
+| [pycharm.md](https://github.com/NestorasKosmidis/_gallery/blob/b7e7909a3c11eb944257027ba3d3d773036d7a2f/pycharm.md) | [pycharm.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/pycharm.png) | [Netlify Χρονολόγιο](https://effervescent-snickerdoodle-648dcd.netlify.app/timeline/programming/) | [Netlify Διαφάνειες](https://effervescent-snickerdoodle-648dcd.netlify.app/slides/programming/) |
+|[Netlify PyCharm](https://effervescent-snickerdoodle-648dcd.netlify.app/gallery/pycharm/)|  [visualstudio-thumb.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/visualstudio-thumb.png)|    |        |
+| [Netlify Visual Studio](https://effervescent-snickerdoodle-648dcd.netlify.app/gallery/visualstudio/)   |  [pycharm-thumb.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/pycharm-thumb.png)      |    |     | 
