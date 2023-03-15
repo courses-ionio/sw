@@ -12,11 +12,11 @@
 | 1 | [Δημιουργία Οργανισμού](#1ο-Παραδοτέο---Δημιουργία-Οργανισμού) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) | - |
 | 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) | - |
 | 3 | [CLI: Funtoo](#3ο-Παραδοτέο---Command-Line-Interface---Funtoo-Installation) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1341) | - |
-| 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---) | - | - |
+| 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---Contribution) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1395) | - |
 | 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
 | 6 | [CLI: Blog Generator](#6ο-Παραδοτέο---Command-Line-Interface---Custom-Static-Blog-Generator) | - | - |
 | 7 | [Συμμετοχικό Β1](#7ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
-| 8 | [Βιβλίο Β2](#8ο-Παραδοτέο---Κατασκευή-Βιβλίου---)| - | - |
+| 8 | [Βιβλίο Β2](#8ο-Παραδοτέο---Κατασκευή-Βιβλίου---Pollen)| - | - |
 | 9 | [Συμμετοχικό Β2](#9ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
 | 10 | [Τελική Αναφορά](#Τελική-Αναφορά) | - | - |
 
@@ -65,7 +65,7 @@ curl | pacman
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/neofetch_funtoo.png" width="700" />
 </p>
 
-Δεν αντιμετώπισα κάποιο πρόβλημα στο installation καθώς υπήρχε αρκετό documentation στο wiki, και γενικώς τα βρήκα ενδιαφέρον distro. Ωστόσο, ένα πράγμα το οποίο βρήκα αρκετά κουραστικό στην χρήση τους είναι το πόση ώρα απαιτείται για το compile των πακέτων, και προσπάθησα να την μειώσω όσο το δυνατόν περισσότερο. Για ευκολία, πρόσθεσα επίσης ένα [section στο guide](https://github.com/PaneksypnesDiepafes/cookbook/pull/4) του οργανισμού με οδηγίες έτσι ώστε να βοηθηθούν παραπάνω άτομα.
+Δεν αντιμετώπισα κάποιο πρόβλημα στο installation καθώς υπήρχε αρκετό documentation στο wiki, και γενικώς τα βρήκα ενδιαφέρον distro. Ωστόσο, ένα πράγμα το οποίο βρήκα αρκετά κουραστικό στην χρήση τους είναι το πόση ώρα απαιτείται για το compile των πακέτων, και προσπάθησα να την μειώσω όσο το δυνατόν περισσότερο. Για ευκολία, πρόσθεσα επίσης ένα [section στο guide](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md#optimizing-compile-times) του οργανισμού με οδηγίες έτσι ώστε να βοηθηθούν παραπάνω άτομα.
 
 #### Εντολές / Εργαλεία / Πηγές
 
@@ -80,6 +80,17 @@ fdisk | emerge | rc-update | cfg-update
 [An Introduction to Portage](https://wiki.calculate-linux.org/a_portage_introduction) |
 [Minimizing Compilation & Installation Time](https://wiki.gentoo.org/wiki/Minimizing_compilation_and_installation_time) |
 [CCache Documentation](https://ccache.dev/documentation.html)
+
+
+# 4ο Παραδοτέο - Κατασκευή Βιβλίου - Contribution
+
+Για αυτό το παραδοτέο έγινε μια προσθήκη στο βιβλίο του μαθήματος με την μορφή contribution. Επέλεξα να προσθέσω πληροφορίες για το εργαλείο CodeTogether.
+
+[Contribution MD](https://github.com/Tarakhs/kallipos-notes/blob/main/codetogether.md) | [PDF Βιβλίου](https://github.com/Tarakhs/kallipos/blob/master/book/book.pdf) | [Pull Request Οργανισμού](https://github.com/PaneksypnesDiepafes/kallipos-notes/pull/7)
+
+#### Εντολές / Εργαλεία / Πηγές
+
+[latex](https://www.latex-project.org/) | [pandoc](https://pandoc.org/) | [haskell](https://www.haskell.org/)
 
 
 
