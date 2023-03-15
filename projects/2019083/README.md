@@ -45,3 +45,9 @@
 
 ![smalltalk-contribution](https://user-images.githubusercontent.com/77148351/224547346-4cd9359d-c8de-4d79-892b-4003f9ffca00.png)
 
+# Παραδοτέο 5
+# Παραδοτεο 6
+# Παραδοτέο 7
+# Παραδοτέο 8
+# Παραδοτέο 9
+# Παραδοτέο 10/Τελικ
