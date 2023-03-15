@@ -61,9 +61,11 @@
 - [cpp-thumb.jpg](https://github.com/alkarvounis/images/blob/master/cpp-thumb.jpg)
 - [java-thumb.jpg](https://github.com/alkarvounis/images/blob/96f862f4f7127d1154479ccab7c20153fa73e759/java-thumb.jpg)
 - [opp.md (timeline)](https://github.com/alkarvounis/site/blob/master/_timeline/oop.md)
+- [opp.md (slides)](https://github.com/alkarvounis/site/tree/master/_slides)
 - [Netlify Cpp](https://tranquil-florentine-5ae204.netlify.app/gallery/cpp/)
 - [Netlify Java](https://tranquil-florentine-5ae204.netlify.app/gallery/java/)
-- [Netlify OPP Timeline](https://tranquil-florentine-5ae204.netlify.app/timeline/oop/)
+- [Netlify OOP Timeline](https://tranquil-florentine-5ae204.netlify.app/timeline/oop/)
+- [Netlify OOP Slides](https://tranquil-florentine-5ae204.netlify.app/slides/opp/)
 - [Personal Repository Site](https://github.com/alkarvounis/site)
 
 
