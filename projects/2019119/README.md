@@ -88,4 +88,14 @@ send: για να αποστείλουμε το μήνυμα
 Punched card File
 ![download](https://user-images.githubusercontent.com/72356670/223228351-4965d5df-b8eb-4ebd-af13-f42913f6db3b.jpg)
 
+## Συμμετοχικό Περιεχόμενο Α1 + Α2
+ _gallery | _timeline / _slides | images | Netlify Preview |
+| ----------- | ----------- | ----------- |  ----------- |
+| [Common Lisp](https://github.com/ChristosMpazdanhs/_gallery/blob/e9dda5ead8c4efa231cc440fa2c5af3be10d1901/common-lisp.md) | [Αντικειμενοστρεφής Προγραμματισμός md file Timeline](https://github.com/ChristosMpazdanhs/site/blob/master/_timeline/objectoriented.md) |[common-lisp.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/common-lisp.png) [common-lisp-thumb.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/common-lisp-thumb.png) |[Netlify Common Lisp](https://ubiquitous-gaufre-ca1f3b.netlify.app/gallery/common-lisp/) |
+| [Perl](https://github.com/ChristosMpazdanhs/_gallery/blob/e9dda5ead8c4efa231cc440fa2c5af3be10d1901/perl.md)|[Αντικειμενοστρεφής Προγραμματισμός md file Slides](https://github.com/ChristosMpazdanhs/site/blob/master/_slides/objectoriented.md) |[perl.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/perl.png) [perl-thumb.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/perl-thumb.png) | [Netlify Perl](https://ubiquitous-gaufre-ca1f3b.netlify.app/gallery/perl/) |
+| | | | [Netlify Timeline](https://ubiquitous-gaufre-ca1f3b.netlify.app/timeline/objectoriented/)| 
+| | | |[Netlify Slides](https://ubiquitous-gaufre-ca1f3b.netlify.app/slides/objectoriented/) |
+
+
+
 
