@@ -14,7 +14,7 @@
  | |
 | 3 | Γραμμή εντολών (no systemd) |[Discussions](https://github.com/courses-ionio/sw/discussions/1320) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Discussions](https://github.com/courses-ionio/sw/discussions/1359) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussions](https://github.com/courses-ionio/sw/discussions/1397)| |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -95,6 +95,10 @@ Punched card File
 | [Perl](https://github.com/ChristosMpazdanhs/_gallery/blob/e9dda5ead8c4efa231cc440fa2c5af3be10d1901/perl.md)|[Αντικειμενοστρεφής Προγραμματισμός md file Slides](https://github.com/ChristosMpazdanhs/site/blob/master/_slides/objectoriented.md) |[perl.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/perl.png) [perl-thumb.png](https://github.com/ChristosMpazdanhs/images/blob/009191e436624803770058e43d3e99169ea51e07/perl-thumb.png) | [Netlify Perl](https://ubiquitous-gaufre-ca1f3b.netlify.app/gallery/perl/) |
 | | | | [Netlify Timeline](https://ubiquitous-gaufre-ca1f3b.netlify.app/timeline/objectoriented/)| 
 | | | |[Netlify Slides](https://ubiquitous-gaufre-ca1f3b.netlify.app/slides/objectoriented/) |
+
+[authors.yml](https://github.com/ChristosMpazdanhs/site/blob/master/_data/authors.yml)
+
+
 
 
 
