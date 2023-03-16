@@ -55,3 +55,22 @@
 - [make-latex.sh](https://github.com/PetroulaStylianou/kallipos/blob/master/make-latex.sh)
 - [asciinema](https://asciinema.org/a/j48D7EjFyDWH2ndL43GFfHpVi)
 
+
+# Συμμετοχικό περιεχόμενο A1+A2
+
+Πρώτη εργασία για συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να κάνω για την γλώσσα προγραμματισμού Javascript και για το λογισμικό OpenBsd.
+
+## Συμμετοχικό περιεχόμενο A1
+|gallery | images|
+| --- | --- | 
+|[JavaScript.md](https://github.com/PetroulaStylianou/_gallery/blob/master/JavaScript.md)|[JavaSxcript](https://github.com/PetroulaStylianou/images_/blob/master/JavaScript.png) / [JavaSxcript-thumb](https://github.com/PetroulaStylianou/images_/blob/master/JavaScript-%20thumb.png)
+|[OpenBsd.md](https://github.com/PetroulaStylianou/_gallery/blob/master/OpenBsb.md)|[OpenBsd](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd.png) / [OpenBsd-thumb](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd-%20thumb.png)
+
+## Συμμετοχικό περιεχόμενο A2
+|timeline| slides|
+| --- | --- | 
+|[Programming](https://github.com/PetroulaStylianou/site/blob/master/_timeline/programming.md)|[programming](https://github.com/PetroulaStylianou/site/blob/master/_slides/programming.md)
+|[Systems](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)|[archetypes](https://github.com/PetroulaStylianou/site/blob/master/_slides/archetypes.md)
+
+
+
