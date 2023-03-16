@@ -19,7 +19,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | https://github.com/courses-ionio/sw/discussions/1240 | |
 | 3 | Γραμμή εντολών (no systemd) | https://github.com/courses-ionio/sw/discussions/1317 | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1358 | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1406 | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
