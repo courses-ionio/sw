@@ -10,7 +10,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | https://github.com/courses-ionio/sw/discussions/1257 | Χρησιμοποιώ τα neofetch και py-spy επιτυχώς|
 | 3 | Γραμμή εντολών (no systemd) | https://github.com/courses-ionio/sw/discussions/1324| Κατεβάζω επιτυχώς το artix linux και το δείχνω χρήση του neofetch |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστπύς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1401| Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστπύς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -32,7 +32,7 @@
 
 
 ## Συμμετοχικό Περιεχόμενο Α1 + Α2
-Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο σχετικά με δυο IDE το PyCharm και το Visual Studio code της Microsoft.
+Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο για το Visi-on και το Mandrake
 | gallery | images | timeline | slides | 
 | --- | --- | --- | --- | 
 | [Visi-on.md](https://github.com/axilleasmandravelis/_gallery/blob/master/visi-on.md)| [visi-on.png](https://github.com/axilleasmandravelis/images/blob/master/visi-on.png) | [IBM.md](https://github.com/axilleasmandravelis/site/blob/master/_timeline/IBM.md) | [IBM.md](https://github.com/axilleasmandravelis/site/blob/master/_slides/IBM.md) |
