@@ -12,7 +12,7 @@
 | 2 | <a href="#Γραμμή Εντολών 1"><span class="toctext">Γραμμή Εντολών 1</span></a> (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Συζήτηση 2](https://github.com/courses-ionio/sw/discussions/1275) | Ολοκλήρωση εντός προθεσμίας |
 | 3 | <a href="#Γραμμή εντολών (no systemd)"><span class="toctext">Γραμμή εντολών (no systemd)</span></a> | [Συζήτηση 3](https://github.com/courses-ionio/sw/discussions/1327)  | Ολοκλήρωση εντός προθεσμίας |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | | Ολοκλήρωση εντός προθεσμίας |
+| 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Συζήτηση 5](https://github.com/courses-ionio/sw/discussions/1403) | Ολοκλήρωση εντός προθεσμίας |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
