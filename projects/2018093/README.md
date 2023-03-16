@@ -94,7 +94,20 @@ GitHub Link: https://github.com/theoharissiwzos
 ![Eliza_comment](https://user-images.githubusercontent.com/99976073/223107516-b32d6458-e1d6-4d2d-a621-f16e246e617a.png)
 
 
+# Παραδοτέο 5 - Συμμετοχικό Περιεχόμενο Α1 + Α2
+Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο σχετικά με __Mitsuku chatbot__ το και το __Cleverbot__ . 
+- Το κύριο και κοινό τους χαρακτηριστικό αυτων των δύο chat bots είναι πως και τα δύο είναι βασισμένα στην γλώσσα προγραμματισμού __JAVA__.
 
+
+| gallery | images | timeline | slides | 
+| --- | --- | --- | --- | 
+| [Cleverbot.md](https://github.com/theoharissiwzos/_gallery/blob/f949d5d9fdc454f1a4f91dfdbed72e030e092e2c/chattybot.md)| [Cleverbot.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/chattybot.jpg) | [Chat_bots.md](https://github.com/theoharissiwzos/site/blob/master/_timeline/javabasedchatbots.md) | [Cleverbot_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/chattybot/) |
+| [Mitsuku.md](https://github.com/theoharissiwzos/_gallery/blob/f949d5d9fdc454f1a4f91dfdbed72e030e092e2c/mitsuku.md) | [Mitsuku.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/mitsuku.jpg) | [Netlify Χρονολόγιο](https://papaya-pixie-e473b8.netlify.app//timeline/javabasedchatbots/) | [Mitsuku_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/mitsuku/) | [Mitsuku_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/mitsuku/) ||
+||  [Cleverbot-thumb.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/chattybot-thumb.jpg)|    |        |
+||  [Mitsuku-thumb.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/mitsuku-thumb.jpg)      |    |     | 
+
+
+- Επίσης έγιναν και αλλαγές στο [authors.yml](https://github.com/theoharissiwzos/site/blob/master/_data/authors.yml)   
 
 
 
