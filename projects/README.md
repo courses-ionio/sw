@@ -40,4 +40,4 @@
 ||  [Visi-on-thumb.png](https://github.com/axilleasmandravelis/images/blob/master/visi-on-thump.png)|    |        |
 ||  [mandrake-thumb.png](https://github.com/axilleasmandravelis/images/blob/master/mandrake-thump.png)      |    |     | 
 
-Επιπρόσθετα έγιναν αλλαγές στο [authors.yml](https://github.com/axilleasmandravelis/site/blob/master/_timeline/IBM.md)
+Επιπρόσθετα έγιναν αλλαγές στο [authors.yml](https://github.com/axilleasmandravelis/site/blob/master/_data/authors.yml)
