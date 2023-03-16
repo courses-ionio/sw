@@ -42,3 +42,14 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 
 - [asciinema neofetch](https://asciinema.org/a/7QtjA8cYWREz7Of5f0RY1Mlp5)
+
+## 4ο ΠΑΡΑΔΟΤΕΟ:  Κατασκευή του βιβλίου Α2
+
+Στο τέταρτο παραδοτέο ξεκινάει η συμβολή μας για τον εμπλουτισμό του βιβλίου. Το βήμα αυτό γίνετε με την προσθήκη μου στο τέταρτο κεφάλαιο και πιο συγκεκριμένα στην περίπτωση του [arduino](https://en.wikipedia.org/wiki/Arduino). Μου κινεί ιδιαίτερα το ενδιαφέρον ο τρόπος λειτουργίας και οι λύσεις που χαρίζει το σύστημα του arduino σε διάφορα προβλήματα της καθημερινότητας. Παρατήρησα στις πληροφορίες που παρέχει το βιβλίο την έλλειψη αναφοράς στην μνήμη του και στον τρόπο τροφοδοσίας του. Έτσι λοιπόν αποφάσισα να τα προσθέσω. 
+
+- [ARDUINO.MD](https://github.com/p18stef/kallipos/blob/master/arduino/arduinomemory.md)
+- [MAKE_LATEX](https://github.com/p18stef/kallipos/blob/master/make-latex.sh)
+- [ΑΡΧΕΙΟ_LUA](https://github.com/p18stef/kallipos/blob/master/arduinomemory.lua)
+- [BOOK.TEX](https://github.com/p18stef/kallipos/blob/master/book/book.tex)
+
+![BOOK_SCREEN](https://user-images.githubusercontent.com/115227021/225736296-bbf4b048-08ea-48f8-98ed-d70ea7e238c1.jpg)
