@@ -40,5 +40,24 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 -  <a href="https://asciinema.org/a/G8EnPqG3XIgpIdSMP6H5OowOL">asccinema_voidlixun</a>
 
+## ΠΑΡΑΔΟΤΕΟ 4 - Κατασκεύη βιβλίου Α2 
+
+Για την υλοποιήση του 4ου παραδοτέου κατασκέυασα το βιβλίο του μαθήματος σε μορφή pdf .Στην συνέχεια , πρόσθεσα την υποσημείωση , οποία αφορόυσε το Dynabook στο ch8 .
+
+Links : 
+
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/Dynabook.lua">Dynabook.lua</a>
+
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
+
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/make-latex.sh">make-latex.sh</a>
+
+- <a href="https://github.com/TZOYRMANAS/kallipos-notes/blob/main/Dynabook.md">Dynabook.md</a>
+
+
+
+
+
+
 
 
