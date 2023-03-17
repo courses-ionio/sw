@@ -12,7 +12,7 @@
 | [1](#εισαγωγή-και-δημιουργία-ομάδας---παραδοτέο-1) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα → | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 1](https://github.com/courses-ionio/sw/discussions/1192) | Συγγραφή [εισαγωγής σχετικά με τους στόχους και προσδοκίες μου](#εισαγωγή) + ένταξη σε [οργανισμό](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5019249) GitHub |
 | [2](#εγκατάσταση-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-2) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | Εγκαστάση Arch Linux για την πρώτη άσκηση γραμμής εντολών, η οποία απαιτούσε λειτουργικό σύστημα με `systemd` |
 | [3](#εγκατάσταση-no-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-3) | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | Εγκατάσταση Void Linux και Kiss Linux για την επίτευξη της άσκηση γραμμής εντολών 2 (`no systemd`) |
-| [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | |
+| [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | Συγγραφή και προσθήκη παραγράφου μου για την κατασκευή βιβλίου περί εξομοιτών για προγραμματιστές και χρήστες |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -89,7 +89,7 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 Απής τέλειωσε το compilation επέλεξα να κατεβάσω για σύστημα διαχείρισης εκκίνησης (**init**) το busybox init (καθώς είχα ήδη δοκιμάσει runit από τα Void Linux). Εν τέλει, εκάνα install το Kernel (με `make install`) και μετέφερα το Kernel image στο /boot directory για την εκκίνηση μετά με το `grub`. Μετά την κλασική διαδικασία για το grub-install και μετά την επανεκκίνηση και βρέθηκα στην πανέμορφη και μινιμιλαστική login screen των Kiss Linux.
 
 ## Άσκηση γραμμής εντολών 2
-Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux. Και στην συνέχεια, για την πλήρη κατανόηση της άσκησης γραμμής εντολών εγκατέστησα το Kiss Linux σε VM και έτρεξα το `neofetch` για άλλη μία φορά.
+Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux. Και στην συνέχεια, μετά από συννεόηση με τον καθηγητή & γενικότερα για την πλήρη κατανόηση της άσκησης γραμμής εντολών εγκατέστησα το Kiss Linux σε VM, με init το `busybox` και έτρεξα το `neofetch` για άλλη μία φορά.
 
 [![asciicast2](https://asciinema.org/a/566547.svg)](https://asciinema.org/a/566547)
 
@@ -102,3 +102,11 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 
 
 # Κατασκευή βιβλίου - Παραδοτέο 4
+Για την κατασκευή βιβλίου επέλεξα να γράψω μία παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με ένα παράδειγμα χρήσης των εξομοιωτών (emulators) όσο τους χρήστες τόσο και για τους προγραμματιστές. Παρακάτω παραθέτω το στιγμιότυπο οθόνης μου με την αλλαγή που έκανα.
+
+![Screenshot 2023-03-17 194401](https://user-images.githubusercontent.com/79524490/225979600-9eba2f1b-e4a6-487c-b506-61197bbd1dba.png)
+
+
+Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Xar-Me-Ison/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Xar-Me-Ison/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) 
+<br />
+Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md)
