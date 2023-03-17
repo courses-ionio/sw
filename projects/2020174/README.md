@@ -63,10 +63,14 @@ H διαδικασία αλλαγής τερματικου σε i3 είναι η
 και τα αποτελέσματα είναι τα εξής:
 ![futsies](https://user-images.githubusercontent.com/92447304/221345084-d37ae915-c58d-4195-a48c-584f6ba77a0c.svg)
 
-# Παραδοτέο 3 - Εγκατάσταση Void Linux (no systemd)
-Για την πραγματοποίηση του συγκεκριμένου παραδοτέου, αποφάσισα να εγκαταστήσω τα Void Linux, ένα `binary linux distro` του χρησιμοποιεί `runit` αντί για `systemd`. Η εγκατάσταση έγινε αρχικά σε VM ακολουθόντας το [guide](https://docs.voidlinux.org/installation/live-images/guide.html). Το μόνο αρνητικό με τα void linux είναι πως χρησιμοποιεί το `xbpg` system που έχει λιγοτερα packages σε αντίθεση με τα ArchLinux.
+# Παραδοτέο 3 - Άσκηση γραμμής εντολών (no systemd)
+~Για την πραγματοποίηση του συγκεκριμένου παραδοτέου, αποφάσισα να εγκαταστήσω τα Void Linux, ένα `binary linux distro` του χρησιμοποιεί `runit` αντί για `systemd`. Η εγκατάσταση έγινε αρχικά σε VM ακολουθόντας το [guide](https://docs.voidlinux.org/installation/live-images/guide.html). Το μόνο αρνητικό με τα void linux είναι πως χρησιμοποιεί το `xbpg` system που έχει λιγοτερα packages σε αντίθεση με τα ArchLinux.~
 
- ## Διαδικασία εγκατάστηασης
- Αρχικά το `live .iso` κάνει prompt `login screen` απευθείας με την επιλογή να κάνεις login ως root ή ως ενός άλλου χρήστη. Έκανα login ως root με κωδικό voidlinux και αμεσως μετα το guide θέλει να τρέξουμε την εντολή `void-install`. Στη συνέχεια σε οδηγη σε ένα gui για τα `configurations` του συστήματος (Keyboard, Network, Locale, Timezone κλπ.) και τα partitions έγιναν με την χρήση του `cfdisk`.
- 
-[![asciicast](https://asciinema.org/a/BLRdwvetsezYv03sBG0zSObdi.svg)](https://asciinema.org/a/BLRdwvetsezYv03sBG0zSObdi)
+ ## ~Διαδικασία εγκατάστηασης~
+ ~Αρχικά το `live .iso` κάνει prompt `login screen` απευθείας με την επιλογή να κάνεις login ως root ή ως ενός άλλου χρήστη. Έκανα login ως root με κωδικό voidlinux και αμεσως μετα το guide θέλει να τρέξουμε την εντολή `void-install`. Στη συνέχεια σε οδηγη σε ένα gui για τα `configurations` του συστήματος (Keyboard, Network, Locale, Timezone κλπ.) και τα partitions έγιναν με την χρήση του `cfdisk`.~
+
+Μετα από συμβουλή του καθηγητή, θα γίνει αλλαγή του linux distro σε Kiss Linux. <br>
+asciinema της παραπάνω προσπάθειας Void Linux: https://asciinema.org/a/BLRdwvetsezYv03sBG0zSObdi
+
+## Διαδικασία εγκατάστηασης Kiss Linux
+
