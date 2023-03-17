@@ -46,4 +46,8 @@
 [![asciicast](https://asciinema.org/a/S2hjVD8yHCpxg1wetrI7Bn534.svg)](https://asciinema.org/a/S2hjVD8yHCpxg1wetrI7Bn534)
 
 ## 4o Παραδοτέο
-Παροντικά αντιμετοπίζω δυσκολίες με το 4ο Παραδοτέο, ωστόσο ελπίζω να το έχω τελειώσει μαζί με το επόμενο εντός της βδομάδας.
+Στην κατασκευή βιβλίου επέλεξα να κάνω την προσθήκη μου στο 4ο Κεφάλαιο, σχετικά με τους επεξεργαστές κειμένων και πιο συγκεκριμένα τον QED έναν από τους παλαιότερους text-editors (αν όχι τον παλαιότερο text-editor).
+
+Συνδέσμοι για την δουλειά σε ατομικό επίπεδο: [make-latex.sh](https://github.com/AlexIoanP2020159/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/AlexIoanP2020159/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/qed-text-editor.md) / [filter.lua](https://github.com/AlexIoanP2020159/kallipos/blob/master/filter.lua)
+
+Συνδέσμοι για το ομαδικό κομμάτι: [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/main/qed-text-editor.md) / [filter.lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) / [book]()
