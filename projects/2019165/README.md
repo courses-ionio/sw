@@ -66,6 +66,7 @@
 
 #### [Η σημείωση μου σε .md](https://github.com/TheTimeParadox/kallipos/blob/master/note/developercollaboration.md)
 #### [To lua φίλτρο](https://github.com/TheTimeParadox/kallipos/blob/master/note.lua)
-![my note screen](https://github.com/Alessenia/Images-for-Report/blob/main/Note-sw.png)
+
+![my-note-screen](https://github.com/Alessenia/Images-for-Report/blob/main/Note-sw.png)
 
 
