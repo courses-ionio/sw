@@ -13,11 +13,11 @@
 | 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) | - |
 | 3 | [CLI: Funtoo](#3ο-Παραδοτέο---Command-Line-Interface---Funtoo-Installation) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1341) | - |
 | 4 | [Βιβλίο Α2](#4ο-Παραδοτέο---Κατασκευή-Βιβλίου---Contribution) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1395) | - |
-| 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
+| 5 | [Συμμετοχικό Α1 & Α2](#5ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Εικόνες-/-Διαφάνειες-/-Χρονολόγιο) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1409) | - |
 | 6 | [CLI: Blog Generator](#6ο-Παραδοτέο---Command-Line-Interface---Custom-Static-Blog-Generator) | - | - |
-| 7 | [Συμμετοχικό Β1](#7ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
+| 7 | [Συμμετοχικό Β1](#7ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Μελέτη-Περίπτωσης) | - | - |
 | 8 | [Βιβλίο Β2](#8ο-Παραδοτέο---Κατασκευή-Βιβλίου---Pollen)| - | - |
-| 9 | [Συμμετοχικό Β2](#9ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---) | - | - |
+| 9 | [Συμμετοχικό Β2](#9ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Βιογραφία) | - | - |
 | 10 | [Τελική Αναφορά](#Τελική-Αναφορά) | - | - |
 
 # Εισαγωγή
@@ -93,6 +93,66 @@ fdisk | emerge | rc-update | cfg-update
 [latex](https://www.latex-project.org/) | [pandoc](https://pandoc.org/) | [haskell](https://www.haskell.org/)
 
 
+# 5ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Εικόνες / Διαφάνειες / Χρονολόγιο
+
+Ζητήθηκε η προσθήκη δύο νέων εικόνων στο online βιβλίο του μαθήματος, καθώς και η ενσωμάτωσή τους σε νέα slideshow και χρονολόγια.
+
+| Προσθήκη | Site Link | Markdown | Extra |
+| --- | --- | --- | --- |
+| Εικόνα | [LINC Tape](https://tarakhs-pibook.netlify.app/gallery/linctape/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/linctape.md) | [Image](https://github.com/Tarakhs/images/blob/master/linctape.jpg) |
+| Εικόνα | [21064 Microprocessor](https://tarakhs-pibook.netlify.app/gallery/ev4s/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/ev4s.md) | [Image](https://github.com/Tarakhs/images/blob/master/ev4s.jpg) |
+| Εικόνα | [Floppy Disc](https://tarakhs-pibook.netlify.app/gallery/floppy/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/floppy.md) | [Image](https://github.com/Tarakhs/images/blob/master/floppy.jpg) |
+| Εικόνα | [DRUM Memory](https://tarakhs-pibook.netlify.app/gallery/drum-memory/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/drum-memory.md) | [Image](https://github.com/Tarakhs/images/blob/master/drum-memory.jpg) |
+| Εικόνα | [RAID Array](https://tarakhs-pibook.netlify.app/gallery/raid-array/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/raid-array.md) | [Image](https://github.com/Tarakhs/images/blob/master/raid-array.jpg) |
+| Χρονολόγιο | [DEC](https://tarakhs-pibook.netlify.app//timeline/dec/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_timeline/dec.md) | - |
+| Slideshow | [Storage Mediums](https://tarakhs-pibook.netlify.app//slides/storage-mediums/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_slides/storage-mediums.md) | - |
+
+Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app/)
+
+#### Πηγές
+
+[LINC Tape - Gunkies](https://gunkies.org/wiki/LINC_tape) | [LINC Tape - Computer Operations](https://www.ricomputermuseum.org/collections-gallery/interesting_computer_items/computer-operations-inc-linc-tape) | [What is Alpha 21064 Processor?](https://www.geeksforgeeks.org/what-is-alpha-21064-processor/) | [DEC 21064 - CPU World](https://www.cpu-world.com/CPUs/21064/index.html) | [The Alpha AXP Architecture & 21064 Processor](shorturl.at/aiCGY) | [Floppy Disc - An Overview](https://www.sciencedirect.com/topics/engineering/floppy-disk) | [Definition of a Floppy Disc](https://www.pcmag.com/encyclopedia/term/floppy-disk) | [Magnetic Drum Memory](https://history-computer.com/magnetic-drum-memory/) | [Magnetic Drums - CHM Revolution](https://www.computerhistory.org/revolution/memory-storage/8/252) | [What is a Magnetic Drum?](https://www.techopedia.com/definition/1097/magnetic-drum) | [What is RAID?](https://www.techtarget.com/searchstorage/definition/RAID) | [RAID Storage - Meaning, Types, and Working](https://www.spiceworks.com/tech/data-management/articles/what-is-raid-storage/) | [DEC - CHM Revolution](https://www.computerhistory.org/brochures/d-f/digital-equipment-corporation-dec/) | [DEC - Brittanica](https://www.britannica.com/topic/Digital-Equipment-Corporation) | [The Tragic Tale of DEC](https://digital.com/digital-equipment-corporation/) | [Timeline of Computer History](https://www.computerhistory.org/timeline/memory-storage/) | [A Brief History of Data Storage](https://www.dataversity.net/brief-history-data-storage/) | [The History of Computer Data Storage](https://www.pingdom.com/blog/the-history-of-computer-data-storage-in-pictures/)
 
 
+# 7ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Μελέτη Περίπτωσης
+
+Σε αυτό το παραδοτέο έγινε προσθήκη ενός case study στην ιστοσελίδα του βιβλίου. Επέλεξα να αναλύσω την περίπτωση του τρανζίστορ.
+
+| Προσθήκη | Site Link | Markdown | Extra |
+| --- | --- | --- | --- |
+| Μελέτη Περίπτωσης | [Transistor](https://tarakhs-pibook.netlify.app//case-study/transistor/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_case-study/transistor.md) | [Content](https://github.com/Tarakhs/site/blob/master/_includes/cs-transistor.md) |
+
+Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app//case-study/transistor/)
+
+#### Πηγές
+
+[Transistors - SparkFun](https://learn.sparkfun.com/tutorials/transistors/all) | [An Outline of the History of the Transistor](https://www.pbs.org/transistor/album1/) | [How do Transistors Work?](https://www.explainthatstuff.com/howtransistorswork.html)
+
+
+# 8ο Παραδοτέο - Κατασκευή Βιβλίου - Pollen
+
+Σε αυτό το παραδοτέο ζητήθηκε η παραγωγή του ήδη υπάρχοντος βιβλίου σε μορφή HTML, χρησιμοποιώντας το εργαλείο pollen.
+
+[Contribution MD](https://github.com/Tarakhs/kallipos-notes/blob/main/codetogether.md) | [HTML Βιβλίου](https://tarakhs.github.io/kallipos-html/) | [HTML Αρχείο](https://github.com/Tarakhs/kallipos/blob/master/book/book.html)
+
+#### Εντολές / Εργαλεία / Πηγές
+
+[pollen](https://docs.racket-lang.org/pollen/index.html) | [racket](https://racket-lang.org/)
+
+[Guide Οργανισμού](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/bookbuilding.md)
+
+
+# 9ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Βιογραφία
+
+Έγινε ενσωμάτωση μιας βιογραφίας στο site του βιβλίου.
+
+| Προσθήκη | Site Link | Markdown | Extra |
+| --- | --- | --- | --- |
+| Βιογραφία | [Mary Allen Wilkes](https://tarakhs-pibook.netlify.app//biography/mary-allen-wilkes/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_biography/mary-allen-wilkes.md) | [Content](https://github.com/Tarakhs/site/blob/master/_includes/bio-wilkes.md) |
+
+Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app//biography/mary-allen-wilkes/)
+
+#### Πηγές
+
+[The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html) | [Women in STEM: Mary Allen Wilkes](https://www.codesavvy.org/post/women-in-stem-mary-allen-wilkes) | [Mary Allen Wilkes: Engineering & Technology](https://ethw.org/Mary_Allen_Wilkes)
 
