@@ -60,7 +60,15 @@
 [Πηγή 4](https://docs.fedoraproject.org/en-US/quick-docs/understanding-and-administering-systemd/)
 
 ## Κατασκεύη Βιβλίου 
-Για την κατασκευή του βιβλιού προστέθηκε σχόλιο με την μορφή υποσημείωσης σχετικά με το systemd και πως το systemd μπορεί να φέρει επανάσταση στον τρόπο αλληλεπίδρασης με την εικονική πραγματικότητα. Το σχόλιο έγινε στο κεφάλαιο 4 του βιβλίου (ch04.txt).
+Για την κατασκευή του βιβλιού προστέθηκε σχόλιο με την μορφή υποσημείωσης σχετικά με έναν terminal emulator το Termux.
+
+- [make-latex.sh](https://github.com/TheodoreZ-107/kallipos/blob/master/make-latex.sh)
+- [contribution.lua](https://github.com/TheodoreZ-107/kallipos/blob/master/contribution.lua)
+- [comment.md](https://github.com/TheodoreZ-107/kallipos/blob/master/comment/comment.md)
+- [Kallipos Repo](https://github.com/TheodoreZ-107)
+
+![kallipos](https://user-images.githubusercontent.com/72518532/226141696-593aef8b-55a4-4706-a8f6-d292c6e12a93.png)
+
 
 ## Συμμετοχικό Περιεχόμενο Α1 + Α2
 Α1 προσθήκες
