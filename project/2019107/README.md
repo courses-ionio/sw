@@ -71,7 +71,17 @@
 ||[journalctl-thumb.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/journalctl-thumb.jpg) | |
 ||[busctl-thumb.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/busctl-thumb.jpg)||
 
+   ![busctl](https://user-images.githubusercontent.com/72518532/226130163-2734a2db-ec32-4ce5-bca1-c2e8c5343640.png)
+
+  ![journal](https://user-images.githubusercontent.com/72518532/226130172-05106aef-6bc2-43a5-9125-02cac6da0fb7.png)
+
 Α2 προσθήκες | Χρονολόγιο (_timeline) | Διαφάνιες (_slides) |
 |---|---|---|
 ||[systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_timeline/systemutil.md)| [systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_slides/systemutil.md) |
 ||[Utilities Χρονολόγιο](https://ephemeral-swan-dddfce.netlify.app//timeline/systemutil/) | [Utilities Διαφάνειες](https://ephemeral-swan-dddfce.netlify.app//slides/systemutil/) |
+ 
+  ![xronologio](https://user-images.githubusercontent.com/72518532/226130376-1fc86e0d-ab15-4e71-a1ec-66c1d45a645d.png)
+
+  ![slides](https://user-images.githubusercontent.com/72518532/226130384-d4978c2a-12e4-4395-83b9-2b0cb0562c50.png)
+
+  
