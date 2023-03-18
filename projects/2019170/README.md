@@ -21,11 +21,11 @@
 1<sup>o</sup> Παραδοτέο 
 ========================
 Εισαγωγή
--------------------------------------------------------------------
+------------------------
 Από το μάθημα Τεχνολογία Λογισμικού έχω σκοπό να μάθω καινούρια εργαλεία και δεξιότητες και να μάθω τη διαφορά μεταξύ systemd και no systemd προγραμμάτων. Μέσω της συνεργατικότητας του μαθήματος θέλω να μάθω να δουλεύω πιο ομαδικά και να βοηθάω τους συνεργάτες μου καθώς και να είμαι πιο πρόθυμη στο να ζητήσω βοήθεια, το οποίο θα με βοηθήσει και στην καθημερινότητα μου μιας και είναι κάτι δύσκολο για εμένα.
 
 Ομάδα
-------------------------------------------------------------------------------------------
+------------------------
 ### ***Paneksypnes Diepafes***
 ![dynacat](https://avatars.githubusercontent.com/u/125203571?s=200&v=4)
 
@@ -41,15 +41,11 @@
 
 2<sup>o</sup> Παραδοτέο 
 ========================
-Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop και στο κινητό μου, μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd), το οποίο είχα ήδη εγκατεστημένο λόγω του μαθήματος Επικοινωνία Ανθρώπου - Υπολογιστή.
+Για το παραδοτέο αυτό χρειάζεται εγκατάσταση ενός systemD λειτουργικού συστήματος. Το λειτουργικό σύστημα που επέλεξα ειναι το Arch Linux, το οποίο είχα ήδη εγκατεστημένο λόγω του μαθήματος Επικοινωνία Ανθρώπου - Υπολογιστή.
 
-[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)
-
-Ειδοποίηση στο desktop: <br/>
-![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy.png) 
-
-Ειδοποίηση στο κινητό:<br/>
-![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy_push.png)
+|neofetch|journalctl -b|
+|--------|-------------|
+|[![asciicast](https://asciinema.org/a/528745.svg)](https://asciinema.org/a/528745)|[![asciicast](https://asciinema.org/a/528766.svg)](https://asciinema.org/a/528766)|
 
 Επιπλέον, αυτή την εβδομάδα με τον οργανισμό συντάξαμε ένα "Μανιφέστο" όπου περιγράφουμε τις υποχρεώσεις κάθε ρόλου του οργανισμού, το workflow καθώς και κάποιους κανόνες όσων αφορά τα pull request που θα γίνονται προς τον οργανισμό. Προς το παρών είναι private repository αλλά θα γίνει σύντομα public.
 
@@ -63,6 +59,20 @@
 ========================
 Για αυτό το παραδοτέο έκανα μια προσθήκη στο 4ο κεφαλαιο στην υποενότητα 4.5 "Η περίπτωση του Reactable".
 
-![contribution](https://github.com/marked-d/SW_plus/blob/main/contibution.png)
+![contribution](https://github.com/marked-d/SW_plus/blob/main/kallipos_contribution/contibution.png)
 
-[reactable.md](https://github.com/marked-d/kallipos-notes/blob/40a35fdbb22be9be31601f1c187a22903ce67e6b/reactable.md) | [contribution.lua](https://github.com/marked-d/kallipos/blob/master/contribution.lua) | [book.pdf](https://github.com/marked-d/kallipos/blob/master/book/book.pdf)
+[reactable.md](https://github.com/PaneksypnesDiepafes/kallipos-notes/blob/main/reactable.md) | [contribution.lua](https://github.com/marked-d/kallipos/blob/master/contribution.lua) | [book.pdf](https://github.com/marked-d/kallipos/blob/master/book/book.pdf)
+
+Extras
+========================
+Ntfy Άσκηση Γραμμής Εντολών
+------------------------
+Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/ntfy/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop, καθώς και στο κινητό μου μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd).
+
+[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)
+
+Ειδοποίηση στο desktop: <br/>
+![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy.png) 
+
+Ειδοποίηση στο κινητό:<br/>
+![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy_push.png)
