@@ -77,4 +77,12 @@
 - [Kiss Linux](https://kisslinux.org/install#001)
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
+## Κατασκευή του βιβλίου Α2 (συνεργατικά):
 
+Μαζί με την ομάδα μου δημιουργήσαμε το [pfd του βιβλίου](https://github.com/p20poli/kallipos/blob/master/book/book.pdf) , το [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh) και τέλος έκανα την δικιά μου προσθήκη όπου μιλάω για την [προσωμίωση και την διαδραστικότητα] του 8ου κεφαλαίου (https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/Interactivity.md), πιο συγκεκριμένα για 2d και 3d γραφικά. 
+
+Αρχεία:
+- [pfd του βιβλίου](https://github.com/p20poli/kallipos/blob/master/book/book.pdf)
+- [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
+- [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
+- [md αρχείο](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/Interactivity.md)
