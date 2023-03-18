@@ -85,4 +85,4 @@
 - [pfd του βιβλίου](https://github.com/p20poli/kallipos/blob/master/book/book.pdf)
 - [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
-- [md αρχείο](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/Interactivity.md)
+- [interactivity.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/Interactivity.md)
