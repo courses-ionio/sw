@@ -52,4 +52,4 @@
 
 Συνδέσμοι για την δουλειά σε ατομικό επίπεδο: [make-latex.sh](https://github.com/AlexIoanP2020159/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/AlexIoanP2020159/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/qed-text-editor.md) / [filter.lua](https://github.com/AlexIoanP2020159/kallipos/blob/master/filter.lua)
 
-Συνδέσμοι για το ομαδικό κομμάτι: [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/main/qed-text-editor.md) / [filter.lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) / [book]()
+Συνδέσμοι για το ομαδικό κομμάτι: [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/main/qed-text-editor.md) / [filter.lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) / [book](https://github.com/LetMeDoItForYou/kallipos/tree/master/book)
