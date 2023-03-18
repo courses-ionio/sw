@@ -190,7 +190,7 @@
 | 2 | Ted Nelson -- Computers for Cynics [full version] | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
-| 5 | | | |
+| 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | | | |
 | 7 | | | |
 | 8 | | | |
