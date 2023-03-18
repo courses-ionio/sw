@@ -53,3 +53,18 @@ message μου φάνηκε αρκετά δυσνόητο. Μετά από με�
 - [book](https://github.com/is-init-right/kallipos/tree/master/book)
 - [image](https://github.com/AlxiKan/sw-extras/blob/main/comment.png)
 
+# Παραδοτέο 5
+### Α1
+Σε αυτό το παραδοτέο έπρεπε να κάνουμε deploy μια δική μας έκδοση του [site](https://pibook.epidro.me/) απ' το βιβλίο του μαθήματος μέσω του netlify. Το πρώτο μέρος του παραδοτέου ζητούσε την προσθήκη δύο συστημάτων στο `_gallery` directory του αποθετηρίου του site. πρώτη προσθήκη που έκανα ήταν η κονσόλα βιντεοπαιχνιδιών playdate, η οποία προσφέρει κάποιες πρωτότυπες ιδέες σχετικά με την διάδραση και την υλοποίηση βιντεοπαιχνιδιών. Η δεύτερη προσθήκη που έκανα ήταν το λειτουργικό σύστημα Compatible Time-Sharing System (ή αλλιώς CTSS), το οποίο αποτελεί ένα από τα πρώτα συνεργατικά συστήματα με καινοτομίες στις τεχνολογίες ταυτοχρονισμού αλλά και στη διάδραση με το σύστημα. Παρακάτω βρίσκονται οι υπερσύνδεσμοι από τις προσθήκες στην ιστοσελίδα:
+#### gallery:
+- [playdate](https://silver-figolla-420cf1.netlify.app/gallery/playdate/)
+- [ctss](https://silver-figolla-420cf1.netlify.app/gallery/ctss/)
+### Α2
+Για το δεύτερο μέρος του παραδοτέου έπρεπε να προσθέσουμε, τα δύο συστήματα που χρησιμοποιήσαμε για την υλοποίηση του Α1, στα `_timelines` και `_slides` directories του αποθετηρίου ιστοσελίδας. Παρόλο που με το jekyll build που πραγματοποίησα οι προσθήκες είχαν γίνει, όταν προσπάθησα να κάνω deploy την ιστοσελίδα μέσω του netlify οι αλλαγές δεν έγιναν. Μετά από λίγο ψάξιμο συνειδηττοποίησα ότι οι προσθήκες τελικά είχαν γίνει, απλώς οι υπερσύνδεσμοι των κεφαλαίων οδηγούν στο επίσημο site. H λύση στο πρόβλημα δεν έχει βρεθεί ακόμη. Παρακάτω βρίσκονται οι υπερσύνδεσμοι από τις προσθήκες στην ιστοσελίδα:
+#### slides:
+- [playdate](https://silver-figolla-420cf1.netlify.app/slides/videogames/)
+- [ctss](https://silver-figolla-420cf1.netlify.app/slides/collab/)
+#### timeline:
+- [playdate](https://silver-figolla-420cf1.netlify.app/timeline/consoles/)
+- [ctss](https://silver-figolla-420cf1.netlify.app/timeline/collaboration/)
+
