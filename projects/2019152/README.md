@@ -99,34 +99,32 @@ fdisk | emerge | rc-update | cfg-update
 
 | Προσθήκη | Site Link | Markdown | Extra |
 | --- | --- | --- | --- |
-| Εικόνα | [LINC Tape](https://tarakhs-pibook.netlify.app/gallery/linctape/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/linctape.md) | [Image](https://github.com/Tarakhs/images/blob/master/linctape.jpg) |
-| Εικόνα | [21064 Microprocessor](https://tarakhs-pibook.netlify.app/gallery/ev4s/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/ev4s.md) | [Image](https://github.com/Tarakhs/images/blob/master/ev4s.jpg) |
-| Εικόνα | [Floppy Disc](https://tarakhs-pibook.netlify.app/gallery/floppy/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/floppy.md) | [Image](https://github.com/Tarakhs/images/blob/master/floppy.jpg) |
-| Εικόνα | [DRUM Memory](https://tarakhs-pibook.netlify.app/gallery/drum-memory/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/drum-memory.md) | [Image](https://github.com/Tarakhs/images/blob/master/drum-memory.jpg) |
-| Εικόνα | [RAID Array](https://tarakhs-pibook.netlify.app/gallery/raid-array/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/raid-array.md) | [Image](https://github.com/Tarakhs/images/blob/master/raid-array.jpg) |
+| Εικόνα | [OS/2 Warp](https://tarakhs-pibook.netlify.app/gallery/os2-warp/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/os2-warp.md) | [Image](https://github.com/Tarakhs/images/blob/master/os2-warp.png) |
+| Εικόνα | [IBM System Object Manager](https://tarakhs-pibook.netlify.app/gallery/som/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/som.md) | [Image](https://github.com/Tarakhs/images/blob/master/som.jpg) |
+| Εικόνα | [NextSTEP](https://tarakhs-pibook.netlify.app/gallery/nextstep/) | [Markdown](https://github.com/Tarakhs/_gallery/blob/master/nextstep.md) | [Image](https://github.com/Tarakhs/images/blob/master/nextstep.jpg) |
 | Χρονολόγιο | [DEC](https://tarakhs-pibook.netlify.app//timeline/dec/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_timeline/dec.md) | - |
-| Slideshow | [Storage Mediums](https://tarakhs-pibook.netlify.app//slides/storage-mediums/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_slides/storage-mediums.md) | - |
+| Slideshow | [Operating Systems](https://tarakhs-pibook.netlify.app//slides/operating-systems/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_slides/operating-systems.md) | - |
 
 Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app/)
 
 #### Πηγές
 
-[LINC Tape - Gunkies](https://gunkies.org/wiki/LINC_tape) | [LINC Tape - Computer Operations](https://www.ricomputermuseum.org/collections-gallery/interesting_computer_items/computer-operations-inc-linc-tape) | [What is Alpha 21064 Processor?](https://www.geeksforgeeks.org/what-is-alpha-21064-processor/) | [DEC 21064 - CPU World](https://www.cpu-world.com/CPUs/21064/index.html) | [The Alpha AXP Architecture & 21064 Processor](shorturl.at/aiCGY) | [Floppy Disc - An Overview](https://www.sciencedirect.com/topics/engineering/floppy-disk) | [Definition of a Floppy Disc](https://www.pcmag.com/encyclopedia/term/floppy-disk) | [Magnetic Drum Memory](https://history-computer.com/magnetic-drum-memory/) | [Magnetic Drums - CHM Revolution](https://www.computerhistory.org/revolution/memory-storage/8/252) | [What is a Magnetic Drum?](https://www.techopedia.com/definition/1097/magnetic-drum) | [What is RAID?](https://www.techtarget.com/searchstorage/definition/RAID) | [RAID Storage - Meaning, Types, and Working](https://www.spiceworks.com/tech/data-management/articles/what-is-raid-storage/) | [DEC - CHM Revolution](https://www.computerhistory.org/brochures/d-f/digital-equipment-corporation-dec/) | [DEC - Brittanica](https://www.britannica.com/topic/Digital-Equipment-Corporation) | [The Tragic Tale of DEC](https://digital.com/digital-equipment-corporation/) | [Timeline of Computer History](https://www.computerhistory.org/timeline/memory-storage/) | [A Brief History of Data Storage](https://www.dataversity.net/brief-history-data-storage/) | [The History of Computer Data Storage](https://www.pingdom.com/blog/the-history-of-computer-data-storage-in-pictures/)
+[OS/2 Warp](https://www.landley.net/history/mirror/os2/history/os2warp/index.html) | [OS/2's Last Stand](https://www.howtogeek.com/755650/os2s-last-stand-ibm-os2-warp-4-turns-25/) | [Overview of SOM](http://www.edm2.com/index.php/Overview_of_SOM) | [Why SOM?](http://www.edm2.com/index.php/Why_SOM%3F) | [SOM and Object REXX](http://www.edm2.com/index.php/SOM_and_Object_REXX) | [The NeXTSTEP Operating System](https://www.operating-system.org/betriebssystem/_english/bs-nextstep.htm) | [Before Mac OS X: What Was NeXTSTEP?](https://www.howtogeek.com/698532/before-mac-os-x-what-was-nextstep-and-why-did-people-love-it/) | [DEC - CHM Revolution](https://www.computerhistory.org/brochures/d-f/digital-equipment-corporation-dec/) | [DEC - Brittanica](https://www.britannica.com/topic/Digital-Equipment-Corporation) | [The Tragic Tale of DEC](https://digital.com/digital-equipment-corporation/) | [Operating Systems - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 
 
 # 7ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Μελέτη Περίπτωσης
 
-Σε αυτό το παραδοτέο έγινε προσθήκη ενός case study στην ιστοσελίδα του βιβλίου. Επέλεξα να αναλύσω την περίπτωση του τρανζίστορ.
+Σε αυτό το παραδοτέο έγινε προσθήκη ενός case study στην ιστοσελίδα του βιβλίου. Επέλεξα να αναλύσω την περίπτωση του OS/2.
 
 | Προσθήκη | Site Link | Markdown | Extra |
 | --- | --- | --- | --- |
-| Μελέτη Περίπτωσης | [Transistor](https://tarakhs-pibook.netlify.app//case-study/transistor/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_case-study/transistor.md) | [Content](https://github.com/Tarakhs/site/blob/master/_includes/cs-transistor.md) |
+| Μελέτη Περίπτωσης | [IBM OS/2](https://tarakhs-pibook.netlify.app//case-study/os2/) | [Markdown](https://github.com/Tarakhs/site/blob/master/_case-study/os2.md) | [Content](https://github.com/Tarakhs/site/blob/master/_includes/cs-os2.md) |
 
-Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app//case-study/transistor/)
+Οι προσθήκες ενσωματώθηκαν επίσης στο [site του οργανισμού.](https://paneksypnesdiepafes-pibook.netlify.app//case-study/os2/)
 
 #### Πηγές
 
-[Transistors - SparkFun](https://learn.sparkfun.com/tutorials/transistors/all) | [An Outline of the History of the Transistor](https://www.pbs.org/transistor/album1/) | [How do Transistors Work?](https://www.explainthatstuff.com/howtransistorswork.html)
+[IBM OS/2 - Brittanica](https://www.britannica.com/technology/IBM-OS-2) | [The Triump & Tragedy of OS/2](https://arstechnica.com/information-technology/2019/11/half-an-operating-system-the-triumph-and-tragedy-of-os2/) | [OS/2 - Hackaday](https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/)
 
 
 # 8ο Παραδοτέο - Κατασκευή Βιβλίου - Pollen
