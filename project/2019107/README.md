@@ -62,3 +62,16 @@
 ## Κατασκεύη Βιβλίου 
 Για την κατασκευή του βιβλιού προστέθηκε σχόλιο με την μορφή υποσημείωσης σχετικά με το systemd και πως το systemd μπορεί να φέρει επανάσταση στον τρόπο αλληλεπίδρασης με την εικονική πραγματικότητα. Το σχόλιο έγινε στο κεφάλαιο 4 του βιβλίου (ch04.txt).
 
+## Συμμετοχικό Περιεχόμενο Α1 + Α2
+Α1 προσθήκες
+| _gallery submodule | images submodule   |  Netlify Build |
+|---|---|---|
+|[journalctl.md](https://github.com/TheodoreZ-107/_gallery/blob/89fa9899ec23eea81e6276352fab50bcbeeadb37/journalctl.md)|[journalctl.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/journalctl.jpg)| [journalctl](https://ephemeral-swan-dddfce.netlify.app/gallery/journalctl/)|
+|[busctl.md](https://github.com/TheodoreZ-107/_gallery/blob/89fa9899ec23eea81e6276352fab50bcbeeadb37/busctl.md)|[busctl.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/busctl.jpg)| [busctl](https://ephemeral-swan-dddfce.netlify.app/gallery/busctl/) |
+||[journalctl-thumb.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/journalctl-thumb.jpg) | |
+||[busctl-thumb.jpg](https://github.com/TheodoreZ-107/images/blob/d38d82113140dbea13f5aa5a54cabcbd3aebfd40/busctl-thumb.jpg)||
+
+Α2 προσθήκες | Χρονολόγιο (_timeline) | Διαφάνιες (_slides) |
+|---|---|---|
+||[systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_timeline/systemutil.md)| [systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_slides/systemutil.md) |
+||[Utilities Χρονολόγιο](https://ephemeral-swan-dddfce.netlify.app//timeline/systemutil/) | [Utilities Διαφάνειες](https://ephemeral-swan-dddfce.netlify.app//slides/systemutil/) |
