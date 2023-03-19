@@ -71,7 +71,7 @@ My Links :
 
   - [My netlify link](https://olumpiaalexopoulou.netlify.app/)
   
-  | gallery | images | timeline | slides | 
+  | _gallery | images | _timeline | _slides | 
 | --- | --- | --- | --- | 
 | [Skype.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/skype-to-skype.md)| [skype](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype.jpg) | [Timeline Netlify](https://olumpiaalexopoulou.netlify.app//timeline/os-apps/) |   |
 | [Zoom.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/zoom.md) | [zoom](https://github.com/olumpiaalexopoulou/images/blob/master/zoom.jpg) |  | |
