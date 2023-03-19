@@ -79,7 +79,32 @@
 Για τις προσθήκες αυτές δημιούργησα στο ατομικό μου netlify το σετ διαφανειών [Αντικειμενοστρέφεια και Διάδραση](https://unique-halva-aa4c4d.netlify.app/slides/oop-interaction/) στο οποίο πρόσθεσα μερικές αντικειμενοστραφείς γλώσσες προγραμματισμού όπως η smalltalk καθώς και την Object Pascal. Το περιβάλλον ανάπτυξης λογισμικού προστέθηκε στο ομαδικό σετ διαφανειών [Οπτικές Γλώσσες Προγραμματισμού](https://thetimeparadox-pibook.netlify.app/slides/visual-programming/) που βρίσκεται στο ομαδικό netlify και περιλαμβάνει πέρα από το Delphi την προσθήκη του συναδέλφου(pure data)από την ομάδα. Τα δύο αυτά περιβάλλοντα θεωρούνται οπτικά περιβάλλοντα ανάπτυξης λογισμικού.
 
 ![delphi](https://github.com/Alessenia/Images-for-Report/blob/main/borland-delphi.png)
+&
 ![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal.jpg)
 
+### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού
+#### [object-pascal](https://github.com/TheTimeParadox/_gallery/blob/master/object-pascal.md)
+&
+#### [borland-delphi.md](https://github.com/TheTimeParadox/_gallery/blob/master/borland-delphi.md)
+
+### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού
+#### [object-pascal](https://github.com/TheTimeParadox/images/blob/master/object-pascal.jpg)
+#### [borland-delphi](https://github.com/TheTimeParadox/images/blob/master/borland-delphi.png)
+
+### Οι εικόνες σε thumb (160x140px)
+#### [object-pascal](https://github.com/TheTimeParadox/images/blob/master/object-pascal-thumb.jpg)
+#### [borland-delphi](https://github.com/TheTimeParadox/images/blob/master/borland-delphi-thumb.png)
+
+### Tα pull request προς τον Οργανισμό
+#### [_gallery](https://github.com/TheTimeParadox/_gallery/pull/1)
+&
+#### [images](https://github.com/TheTimeParadox/images/pull/1)
+
+### Το [site της ομάδας μας](https://thetimeparadox-pibook.netlify.app/).
+### To [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/)
+
+### Οι προσθήκες μου στο site :
+####  [Object Pascal](https://unique-halva-aa4c4d.netlify.app/gallery/object-pascal/)
+####  [Delphi](https://unique-halva-aa4c4d.netlify.app/gallery/borland-delphi/)
 
 
