@@ -97,7 +97,8 @@
 
 ### Tα pull request προς τον Οργανισμό
 #### [_gallery](https://github.com/TheTimeParadox/_gallery/pull/1)
-&
+
+
 #### [images](https://github.com/TheTimeParadox/images/pull/1)
 
 ### Το [site της ομάδας μας](https://thetimeparadox-pibook.netlify.app/).
