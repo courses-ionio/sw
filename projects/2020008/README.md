@@ -30,6 +30,27 @@
 
 ## Γραμμή εντολών (systemd)
 
+Αποφάσισα να χρησιμοποιήσω για τις ασκήσεις γραμμής εντολών σε λειτουργικό με system το distribution των Arch Linux. Είναι από τα πιο διαδεδομένα distributions και είχα την ευκαιρία να ασχοληθώ μαζί τους και να τα γνωρίσω από ένα μάθημα της σχολής μου. 
+
+[Asciinema](https://asciinema.org/a/w5Lmo1RcUVwJM3AfeDgfN4xdQ)
+
 Επέλεξα για άσκηση γραμμής εντολών να υλοποιήσω το hyperfine από την κατηγορία software. Αρχικά με την εντολή "sudo pacman -S hyperfine" εγκατέστησα το hyperfine. Στην συνέχεια με την εντολή "hyperfine -i tictactoe.py" μέτρησα τον χρόνο εκτέλεσης του κώδικα μου σε python  για tic-tac-toe.
 
 [Asciinema](https://asciinema.org/a/eloFbEeGKO3Ft0Vom4zzcLzSu)
+
+## Γραμμή εντολών (no systemd)
+
+Για το παραδοτέο χωρίς system αποφάσισα να χρησιμοποιήσω τα Artix Linux που χρησιμοποιούν OpenRC. Τα Artix είναι βασισμένα στο distribution των Arch linux με τη μεγάλη διαφορά ότι δε χρησιμοποιεί Systemd. Διάλεξα αυτό το distribution επειδή είναι αρκετά όμοια με τα Arch τα οποία μου έχουν ζητηθεί να χρησιμοποιήσω και να μάθω σε αυτά αλλά και για το γεγονός ότι έχουν όπως και τα Arch μία μεγάλη και ενεργή κοινότητα διατεθειμένη να βοηθήσουν σε τυχών προβλήματα.
+
+Παρακάτω φαίνετε το asciinema από το neofetech από το distribution των Artix Linux. Ακόμα φαίνετε το asciinema από την αλλαγή του hostname από "panagiotis-zenbookux425eaux425ea" σε "P2020008" με την εντολή `nmtui`
+ 
+[Asciinema](https://asciinema.org/a/nDJJ7jLIyUbXnlWoDvTdXBFY2)
+
+[Asciinema](https://asciinema.org/a/uZO04nwIvdHL8LBIJgjHQE4tv)
+
+## Κατασκευή Βιβλίου Α2
+
+Στη κατασκευή βιβλίου αντιμετόπισα πρόβλημα στη δημιουργία του pdf. Ακολούθως είναι τα αρχεία που χρησιμοποίησα καθώς και η προσωπική μου σημείωση.
+
+## Συμμετοχικό Περιεχόμενο Α1 & Α2
+
