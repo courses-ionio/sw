@@ -13,7 +13,7 @@
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [My link](https://github.com/courses-ionio/sw/discussions/1258)| |
 | 3 | Γραμμή εντολών (no systemd) | [My link](https://github.com/courses-ionio/sw/discussions/1316)| |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [My link](https://github.com/courses-ionio/sw/discussions/1366)| |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [My link](https://github.com/courses-ionio/sw/discussions/1438) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -65,6 +65,19 @@ My Links :
   
   Δυστυχώς, στη δημιουργία του βιβλίου το πρόβλημα που αντιμετώπισα ήταν ότι δεν μου εμφανίζει τις εικόνες με αποτέλεσμα οι σελίδες να είναι 177 και δεν κατάφερα να βρω κάποια λύση σε αυτό αλλά θα προσπαθήσω να το διορθώσω!
 
+# <h2>Συμμετοχικό περιεχόμενο A1 + A2</h2>
+
+Σε αυτό το παραδοτέο επέλεξα να προσθέσω στο site, δύο εφαρμογές τηλεδιάσκεψης, το "Zoom" και το "Skype". Αυτές οι εφαρμογές είναι χρήσιμες για την ζωντανή επικοινωνία των ανθρώπων, μέσω βιντεοκλήσης. Μία από τις διαφορές μεταξύ τους είναι πως το Skype σου επιτρέπει κλήσεις χωρίς χρέωση για 24 ώρες, ενώ το Zoom σου επιτρέπει να κάνεις κλήσεις για 40 λεπτά εάν δεν έχεις πληρώσει, αν πληρώσεις σου επιτρέπει 30 ώρες. Επιπλέον, στο Zoom επιτρέπετε μέχρι 1.000 άτομα σε μία κλήση ενώ στο Skype μέχρι 100 άτομα. Γενικά, αυτές οι εφαρμογές ενώ δημιουργήθηκαν για τον ίδιο σκοπό, έχουν σημαντικές διαφορές. 
+
+  - [My netlify link](https://olumpiaalexopoulou.netlify.app/)
+  
+  | gallery | images | timeline | slides | 
+| --- | --- | --- | --- | 
+| [Skype.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/skype-to-skype.md)| [skype](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype.jpg) | [Timeline Netlify](https://olumpiaalexopoulou.netlify.app//timeline/os-apps/) |   |
+| [Zoom.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/zoom.md) | [zoom](https://github.com/olumpiaalexopoulou/images/blob/master/zoom.jpg) |  | |
+|[Zoom Netlify](https://olumpiaalexopoulou.netlify.app//gallery/zoom/)|  [skype-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype-thumb.jpg)|    |        |
+|[Skype Netlify](https://olumpiaalexopoulou.netlify.app//gallery/skype-to-skype/)|  [zoom-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/zoom-thumb.jpg)      |     |  [Slides Netlify](https://olumpiaalexopoulou.netlify.app//slides/iui/)   | 
+
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
@@ -73,3 +86,4 @@ My Links :
 | 2 | Ted Nelson -- Computers for Cynics [full version] |  :+1:  | :+1: | 
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  :+1:  | :+1: | 
 | 4 | Bret Victor - The Future of Programming  |  :+1:  | :+1: | 
+| 5 | Alan Kay - Programming Languages & Programming (2013)  |  :+1:  | :+1: | 
