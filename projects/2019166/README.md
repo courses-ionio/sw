@@ -73,10 +73,10 @@ My Links :
   
   | _gallery | images | _timeline | _slides | 
 | --- | --- | --- | --- | 
-| [Skype.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/skype-to-skype.md)| [skype](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype.jpg) | [Timeline Netlify](https://olumpiaalexopoulou.netlify.app//timeline/os-apps/) |   |
-| [Zoom.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/zoom.md) | [zoom](https://github.com/olumpiaalexopoulou/images/blob/master/zoom.jpg) |  | |
-|[Zoom Netlify](https://olumpiaalexopoulou.netlify.app//gallery/zoom/)|  [skype-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype-thumb.jpg)|    |        |
-|[Skype Netlify](https://olumpiaalexopoulou.netlify.app//gallery/skype-to-skype/)|  [zoom-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/zoom-thumb.jpg)      |     |  [Slides Netlify](https://olumpiaalexopoulou.netlify.app//slides/iui/)   | 
+| [Skype.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/skype-to-skype.md)| [Skype](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype.jpg) | [Timeline Netlify](https://olumpiaalexopoulou.netlify.app//timeline/os-apps/) |   |
+| [Zoom.md](https://github.com/olumpiaalexopoulou/_gallery/blob/master/zoom.md) | [Zoom](https://github.com/olumpiaalexopoulou/images/blob/master/zoom.jpg) |  | |
+|[Skype Netlify](https://olumpiaalexopoulou.netlify.app//gallery/skype-to-skype/)| [Skype-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype-thumb.jpg)|    |        |
+|[Zoom Netlify](https://olumpiaalexopoulou.netlify.app//gallery/zoom/)|  [Zoom-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/zoom-thumb.jpg)      |     |  [Slides Netlify](https://olumpiaalexopoulou.netlify.app//slides/iui/)   | 
 
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
