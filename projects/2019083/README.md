@@ -16,7 +16,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Link](https://github.com/courses-ionio/sw/discussions/1246) | |
 | 3 | Γραμμή εντολών (no systemd) | [Link](https://github.com/courses-ionio/sw/discussions/1309) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link](https://github.com/courses-ionio/sw/discussions/1382) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |  | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link](https://github.com/courses-ionio/sw/discussions/1414)  | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -46,6 +46,14 @@
 ![smalltalk-contribution](https://user-images.githubusercontent.com/77148351/224547346-4cd9359d-c8de-4d79-892b-4003f9ffca00.png)
 
 # Παραδοτέο 5
+Για το παραδοτέο 5 έγινε προσθήκη στην ιστοσελίδα του βιβλίου. Οι προσθήκες μου αποτελούν το λειτουργικό σύστημα Plan9 και τη γλώσσα προγραμματισμού LISP
+
+[![plan9](https://user-images.githubusercontent.com/77148351/226174170-f51ab7fa-d0d2-4024-b5d0-5ce6e5e7f4d7.png)](https://p19lith-pibook.netlify.app/gallery/plan9/)
+
+[![lisp](https://user-images.githubusercontent.com/77148351/226174318-bbbf0849-6178-4bb9-b6fa-3fe9f8e2d39b.png)](https://p19lith-pibook.netlify.app/gallery/lisp/)
+
+
+
 # Παραδοτεο 6
 # Παραδοτέο 7
 # Παραδοτέο 8
