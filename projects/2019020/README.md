@@ -13,7 +13,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Organization](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4950763) [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1176) | Έγκυρο Commit |
 | 2 | [Γραμμή Εντολών](https://epidrome.github.io/teaching/cli) (Systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1260) |Έγκυρο Commit  |
 | 3 | Γραμμή Εντολών (No systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1334) |Έγκυρο Commit |
-| 4 | Κατασκευή του Βιβλίου Α2 (Συνεργατικά) | | |
+| 4 | Κατασκευή του Βιβλίου Α2 (Συνεργατικά) | |Μη έγκυρο Commit λόγω τεχνικού προβλήματος |
 | 5 | Συμμετοχικό Περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1394)|Έγκυρο Commit |
 | 6 | Γραμμή Εντολών (No systemd, Custom static blog generator) | | |
 | 7 | Συμμετοχικό Περιεχόμενο B1 | | |
