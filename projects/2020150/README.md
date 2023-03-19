@@ -6,12 +6,12 @@
 
 ### ORGANISATION: https://github.com/LetMeDoItForYou
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα Εβδομάδα 2ημε τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1231) | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
-| 3 | Γραμμή εντολών (no systemd) | | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| [1](#εισαγωγή) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1231) | |
+| [2](#εβδομάδα-2η) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1293) |  |
+| [3](#εβδομαδα-3η) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1434) | |
+| [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -32,18 +32,31 @@
 ● Μια αναλογία για τον υπολογιστή είναι να τον σκεφτόμαστε ως ένα είδος επέκτασης του ανθρώπου, παρόμοια με τα εργαλεία και τα μηχανήματα που έχουν αναπτυχθεί στο παρελθόν. Όπως τα εργαλεία μας βοηθούν να εκτελέσουμε κάποιες εργασίες με μεγαλύτερη ακρίβεια και αποδοτικότητα, έτσι και ο υπολογιστής μπορεί να βοηθήσει τον άνθρωπο στην εκτέλεση πολλών διαφορετικών εργασιών και στην επίλυση πολύπλοκων προβλημάτων, καθιστώντας τη ζωή μας πιο εύκολη και πιο αποδοτική.
 
 ## Εβδομάδα 2η
+### Archlinux Installation
+Την δεύτερη εβδομάδα ολολήρωσα `arch linux installation` για την άσκηση σε `systemd`. Την διαδικασία την είχα κάνει και σε προηγούμενο εξάμηνο οπότε δεν προέκυψαν προβλήματα. Επίσης διάλεξα ένα απλό windows manager (`i3`) για την ευκολότερη ολοκλήρωση των ασκήσεων που θα μου ζητηθούν. 
 
-Την δεύτερη εβδομάδα ολολήρωσα arch linux installation για την άσκηση σε systemd. Από τα software επιλογές διάλεξα το py-spy όπου παρακολουθήσα την απόδοση ενός Python script και οπτικοποίησα το αποτέλεσμα.
+### Systemd
+Με την ευκαιρία της άσκησης έψαξα γενικές λεπτομέριες σχετικά με το `systemd`. Το Systemd είναι ένας διαχειριστής συστήματος και υπηρεσιών για λειτουργικά συστήματα Linux, ο οποίος έχει γίνει το προεπιλεγμένο σύστημα έναρξης για πολλές δημοφιλείς διανομές. Δημιουργήθηκε για να αντικαταστήσει το παραδοσιακό σύστημα `init` που χρησιμοποιούνταν στο Linux για δεκαετίες, παρέχοντας μια πιο σύγχρονη και αποτελεσματική προσέγγιση στη διαχείριση των διαδικασιών του συστήματος.
 
-[Neofetch](https://asciinema.org/a/H2I94Ixu9EFA5w96OTcVhOpMg)
+### Άσκηση γραμμής εντολών
+Από τα software επιλογές διάλεξα το `bash blog`, το οποίο επιτρέπει την δημιουργία ενός blog σε html μόνο με την χρήση ενός `.sh` αρχείου. Παρακάτω παρουσιάζω την διαδικασία στο terminal, εικόνα του τελικού blog και link στο τροποποιημένο .sh αρχείο με τα στοιχεία μου.
 
-[Asciinema](https://asciinema.org/a/lQTXsJv7dnr697Pz6YAUfQ0Sv)
+### [Asciinema](https://asciinema.org/a/cDQWIpG1WPTPDyT1XbnvCMZxU)
+### [Bb.sh config](https://github.com/thanosks/sw/blob/2020150/projects/configs/bb.sh)
 
-### The svg visualization file
-![svg file](https://user-images.githubusercontent.com/72318224/221382648-ae6da29e-8ee0-43f3-aed0-92486a0312ad.svg)
+![2023-03-19_19-55](https://user-images.githubusercontent.com/72318224/226203781-5c3cd789-9236-4cec-83aa-6f49473cb374.png)
+
 
 ## Εβδομαδα 3η
 
-Την τρίτη εβδομάδα διάλεξα void linux για installation χωρίς systemd.
+Την τρίτη εβδομάδα διάλεξα `kiss linux` για installation `χωρίς systemd` καθώς ήταν η πρώτη σύσταση στις οδηγίες και από την έρευνά μου είναι λίγο πιο γνωστό από τις άλλες επιλογές. Η έλλειψη του systemd έχει ως κυριότερο αντίκτυπο την έλλειψη συμβατότητας και υποστήριξης ορισμένων πακέτων σε σχέση με διανομές Linux το έχουν καταστήσει τον προεπιλεγμένο διαχειριστή συστήματος. Αυτό δημιούργησε μικροδυσκολίες στην εγκατάσταση πακέτών καθώς έπρεπε να τα κάνω build μόνος μου αφού το default repo του kiss linux είναι περιορισμένο. Παρακάτω βλέπετε το `neofetch`.
 
-[Neofetch](https://asciinema.org/a/PoqHvJWWUxiexms08cuJD0pA4)
+### [Neofetch](https://asciinema.org/a/PoqHvJWWUxiexms08cuJD0pA4)
+
+## Εβδομάδα 4η
+
+Την 4η εβδομάδα σε συνεργασία με τον οργανισμό μου ολοκληρώσαμε την κατασκευή του βιβλίου Α2. Το δικό μου κωμάτι αναφέρεται στο Reactable και τις δυνατότητες που προσφέρει πέρα από τον προβλεπόμενο σκοπό πού είχαν οι κατασκευαστές του. Παρακάτω βλέπετε το fork μου με τα pdf, epub, html και tex αρχεία και ένα screenshot από το κείμενό μου.
+
+### [Βook fork](https://github.com/thanosks/kallipos/tree/master/book)
+
+![2023-03-19_21-14](https://user-images.githubusercontent.com/72318224/226203759-66d8833f-76ea-4243-b43b-38462e348f6b.png)
