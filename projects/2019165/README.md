@@ -11,7 +11,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ανάρτηση στα Discussions άσκησης σε systemd & κανόνες συνεργασίας στην ομάδα](https://github.com/courses-ionio/sw/discussions/1281) | |
 | 3 | Γραμμή εντολών (no systemd) |[Ανάρτηση στα Discussions του asciinema με neofetch από Artix Linux (no systemd) ](https://github.com/courses-ionio/sw/discussions/1346) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Ανάρτηση στα Discussions του βιβλίου με τα σχόλια της ομάδας](https://github.com/courses-ionio/sw/discussions/1384) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Ανάρτηση στα Discussions του συμμετοχικού περιεχομένου Α1 + Α2](https://github.com/courses-ionio/sw/discussions/1436)| |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -71,5 +71,9 @@
 #### [To lua φίλτρο](https://github.com/TheTimeParadox/kallipos/blob/master/note.lua)
 
 ![my-note-screen](https://github.com/Alessenia/Images-for-Report/blob/main/Note-sw.png)
+ 
+# Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A1 + A2
 
+Για το πέμπτο παραδοτέο επέλεξα να προσθέσω το περιβάλλον ανάπτυξης λογισμικού [Delphi](https://unique-halva-aa4c4d.netlify.app/gallery/borland-delphi/) και την αντικειμενοστραφή έκδοση της γλώσσας προγραμματισμού Pascal,την [Object Pascal](https://unique-halva-aa4c4d.netlify.app/gallery/object-pascal/) στο περιεχόμενου του βιβλίου και συγκεκριμένα στο τέταρτο κεφάλαιο , που αφορά τις τεχνικές και τα εργαλία ανάπτυξης λογισμικού. Οι επιλογές αυτές οφείλονται κυρίως στο γεγονός ότι η αντικειμενοστρέφεια είναι ένα κομμάτι που αναφερθεί πολλές φορές στα εκπαιδευτικά βίντεο που παρακολύθησα και προφανώς διαδραματίζει μεγάλο ρόλο στην ανάπτυξη διαδραστικού λογισμικού. Μια πρώτη εισαγωγή φαίνεται να έγινε από τον Ivan Sutherland και την λειτουργία του Sketchpad όπου διαφαίνεται μία πρώτη ανάγκη για την δημιουργία αντικειμένων που έχουν ίδιες ιδιότητες και συμπεριφορές. To Delphi χρησιμοποιεί την διάλεκτο Delphi της Object Pascal , επομένως η αντικειμενοστρέφεια αποτελεί βασικό στοιχείο και στις δύο αυτές επιλογές μου.
+Για τις προσθήκες αυτές δημιούργησα στο ατομικό μου netlify το σετ διαφανειών [Αντικειμενοστρέφεια και Διάδραση](https://unique-halva-aa4c4d.netlify.app/slides/oop-interaction/) στο οποίο πρόσθεσα μερικές αντικειμενοστραφείς γλώσσες προγραμματισμού όπως η smalltalk καθώς και την Object Pascal. Το περιβάλλον ανάπτυξης λογισμικού προστέθηκε στο ομαδικό σετ διαφανειών [Οπτικές Γλώσσες Προγραμματισμού](https://thetimeparadox-pibook.netlify.app/slides/visual-programming/) που βρίσκεται στο ομαδικό netlify και περιλαμβάνει πέρα από το Delphi την προσθήκη του συναδέλφου(pure data)από την ομάδα. Τα δύο αυτά περιβάλλοντα θεωρούνται οπτικά περιβάλλοντα ανάπτυξης λογισμικού.
 
