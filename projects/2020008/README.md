@@ -34,7 +34,7 @@
 
 [Asciinema](https://asciinema.org/a/w5Lmo1RcUVwJM3AfeDgfN4xdQ)
 
-Επέλεξα για άσκηση γραμμής εντολών να υλοποιήσω το hyperfine από την κατηγορία software. Αρχικά με την εντολή "sudo pacman -S hyperfine" εγκατέστησα το hyperfine. Στην συνέχεια με την εντολή "hyperfine -i tictactoe.py" μέτρησα τον χρόνο εκτέλεσης του κώδικα μου σε python  για tic-tac-toe.
+Επέλεξα για άσκηση γραμμής εντολών να υλοποιήσω το hyperfine από την κατηγορία software. Αρχικά με την εντολή `sudo pacman -S hyperfine` εγκατέστησα το hyperfine. Στην συνέχεια με την εντολή `hyperfine -i tictactoe.py` μέτρησα τον χρόνο εκτέλεσης του κώδικα μου σε python  για tic-tac-toe.
 
 [Asciinema](https://asciinema.org/a/eloFbEeGKO3Ft0Vom4zzcLzSu)
 
