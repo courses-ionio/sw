@@ -40,6 +40,9 @@ GitHub Link: https://github.com/deadoralive1908
 [![asciicast](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf.svg)](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf)
 
 # Κατασκευή Βιβλίου σε μορφή PDF
-Για το τέταρτο παραδοτέο έκανα μετατροπές στο [make-latex.sh]() και πρόσθεσα [σχόλιο(comment.md)]() με τον δικό μου τρόπο μορφοποιήσης μέσω του [contribution.lua]()
+Για το τέταρτο παραδοτέο έκανα μετατροπές στο [make-latex.sh](https://github.com/deadoralive1908/kallipos/blob/master/make-latex.sh) και πρόσθεσα [σχόλιο(comment.md)](https://github.com/deadoralive1908/kallipos/blob/master/comment/comment.md) με τον δικό μου τρόπο μορφοποιήσης μέσω του [contribution.lua](https://github.com/deadoralive1908/kallipos/blob/master/contribution.lua)
+Το σχόλιο έγινε στο ch08.txt.
+
+![kallipos](https://user-images.githubusercontent.com/72549484/226208054-3c46ef9f-cdae-47b0-923c-ae6995cea5b3.png)
 
 [Παραπομπή](https://en.wikipedia.org/wiki/Computer_file)
