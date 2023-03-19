@@ -101,6 +101,8 @@ Punched card File
 
 [![asciicast](https://asciinema.org/a/qAEtJUfRy9RFpmh8dQV6f7qt1.svg)](https://asciinema.org/a/qAEtJUfRy9RFpmh8dQV6f7qt1)
 
+Μπορείτε να δείτε τις αλλαγές στο [ChristosMpazdanhs/blog](https://github.com/ChristosMpazdanhs/blog).
+
 
 
 
