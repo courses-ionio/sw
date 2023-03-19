@@ -31,7 +31,7 @@
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1282) | |
 | 3 | Γραμμή εντολών (no systemd) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1368) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1405) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1425)| |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -74,7 +74,7 @@
 |[images Pull Request](https://github.com/PaneksypnesDiepafes/images/pull/5)|[_gallery Pull Request](https://github.com/PaneksypnesDiepafes/_gallery/pull/5)|
 |![cpp](https://raw.githubusercontent.com/KonstantinosTourtsakis/images/master/cpp.jpg)|![rpcs3](https://raw.githubusercontent.com/KonstantinosTourtsakis/images/master/rpcs3.jpg)
 
-Στην συνέχεια έγινε η προσθήκη των παραπάνω σε διαφάνειες και χρονολόγιο για το συμμετοχικό περιεχόμενο Α2. Για τον σκοπό αυτό δημιουργήθηκε ένα νέο χρονολόγιο με όνομα [Προγραμματισμός Υψηλού Επιπέδου](https://paneksypnesdiepafes-pibook.netlify.app//slides/hl-programming/) το οποίο συνδυάζει την C++ με άλλες γλώσσες/τεχνολογίες προγραμματισμού. Το RPCS3 έχει προστεθεί στην διαφάνεια [Τεχνολογία](https://paneksypnesdiepafes-pibook.netlify.app//slides/technology/) η οποία υπήρχε ήδη στην ιστοσελίδα. Τέλος, δημιούργησα ένα χρονολόγιο με όνομα [Λογισμικό και προγραμματισμός](https://paneksypnesdiepafes-pibook.netlify.app//timeline/sw-programming/) στο οποίο συνδυάζονται οι προσθήκες μου με άλλα σχετικά θέματα της ιστοσελίδας. [Εδώ βρίσκεται το Pull Request](https://github.com/PaneksypnesDiepafes/site/pull/7) για την προσθήκη του περιεχομένου του συμμετοχικού υλικού. Παρακάτω αναγράφονται όλες οι αλλαγές/προσθήκες αρχείων που έγιναν στα αποθετήριά μου.
+Στην συνέχεια έγινε η προσθήκη των παραπάνω σε διαφάνειες και χρονολόγιο για το συμμετοχικό περιεχόμενο Α2. Για τον σκοπό αυτό δημιουργήθηκε ένα νέο χρονολόγιο με όνομα [Προγραμματισμός Υψηλού Επιπέδου](https://paneksypnesdiepafes-pibook.netlify.app//slides/hl-programming/) το οποίο συνδυάζει την C++ με άλλες γλώσσες/τεχνολογίες προγραμματισμού. Το RPCS3 έχει προστεθεί στην διαφάνεια [Τεχνολογία](https://paneksypnesdiepafes-pibook.netlify.app//slides/technology/) η οποία υπήρχε ήδη στην ιστοσελίδα. Τέλος, δημιούργησα ένα χρονολόγιο με όνομα [Λογισμικό και προγραμματισμός](https://paneksypnesdiepafes-pibook.netlify.app//timeline/sw-programming/) στο οποίο συνδυάζονται οι προσθήκες μου με άλλα σχετικά θέματα της ιστοσελίδας. [Εδώ βρίσκεται το Pull Request](https://github.com/PaneksypnesDiepafes/site/pull/7) για την προσθήκη του περιεχομένου του συμμετοχικού υλικού στο αποθετήριο του οργανισμού. Παρακάτω αναγράφονται όλες οι αλλαγές/προσθήκες αρχείων που έγιναν στα αποθετήριά μου.
 
 A1:
 - [cpp.jpg](https://github.com/KonstantinosTourtsakis/images/blob/master/cpp.jpg)
