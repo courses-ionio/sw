@@ -6,10 +6,6 @@
 
 ## Proud member of [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm), [PaneksypnesDiepafes](https://github.com/PaneksypnesDiepafes) <br>
 
-
-
-
-
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Δημιουργία ομάδας](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871), [Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1154) | |
@@ -32,27 +28,48 @@
 
 # Παραδοτέο 2
 Για το παραδοτεό 2 έπρεπε να γίνει η εγκατάσταση ενός συστήματος με systemd. Το σύστημα που επέλεξα ήταν το Manjaro Linux, μία διανομή του Arch Linux, καθώς ήταν ήδη εγκατεστημένο στον υπολογιστή μου ως το κύριο λειτουργικό μου σύστημα.
+
+<div align="center"
+
 [![asciicast](https://asciinema.org/a/lKN62uXwkM7hpi4bWf3c3IhDH.svg)](https://asciinema.org/a/lKN62uXwkM7hpi4bWf3c3IhDH)
 
+</div>
 
 # Παραδοτέο 3
 Για το παραδοτεό 3 χρειάστηκε να γίνει η εγκατάσταση μίας διανομής Linux χωρίς systemd. Προσωπικά επέλεξα το πολυδιαδεδομένο funtoo, το οποίο βασίζεται στο επίσης πολυδιαδεδομένο Gentoo, και δεν χρησιμοποιέι systemD αλλά το openrc
+
+<div align="center">
+
 [![asciicast](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV.svg)](https://asciinema.org/a/eNQs4mDkw8D1OCzHIy4WxzVFV)
 
+</div>
 
 # Παραδοτέο 4
 Για το παραδοτέο σκοπός μας ήταν η δημιουργία ενός ομαδικού αποθετηρίου και στη συνέχεια η προσθήκη δικού μας περιεχομένου στο βιβλίου του μαθήματος. Προσωπικά επέλεξα την smalltalk, μία αντικειμενοστραφή γλώσσα προγραμματισμού που δημιουργήθηκε από τον Alan Kay και τον Dan Ingalls την δεκαετία του 1970 στο XEROX PARC για εκπαιδευτικούς σκοπούς.
 
+<div align="center">
+
 ![smalltalk-contribution](https://user-images.githubusercontent.com/77148351/224547346-4cd9359d-c8de-4d79-892b-4003f9ffca00.png)
+
+</div>
 
 # Παραδοτέο 5
 Για το παραδοτέο 5 έγινε προσθήκη στην ιστοσελίδα του βιβλίου. Οι προσθήκες μου αποτελούν το λειτουργικό σύστημα Plan9 και τη γλώσσα προγραμματισμού LISP
 
+<div align="center"
+
+### Λειτουργικό Σύστημα Plan9
+Το Plan 9 είναι ένα κατανεμημένο λειτουργικό σύστημα που αναπτύχθηκε στα Bell Labs στα τέλη της δεκαετίας του 1980. Προσφέρει καινοτόμα χαρακτηριστικά, όπως ένα σύστημα αρχείων που αναπαριστά όλους τους πόρους του συστήματος ως αρχεία, ένα πρωτόκολλο δικτύωσης που ονομάζεται 9P και ένα γραφικό περιβάλλον χρήστη που ονομάζεται Rio. Το Plan 9 δίνει έμφαση στην επικοινωνία και την αρθρωτότητα στην ανάπτυξη λογισμικού και επηρέασε το σχεδιασμό των σύγχρονων λειτουργικών συστημάτων.
+
 [![plan9](https://user-images.githubusercontent.com/77148351/226174170-f51ab7fa-d0d2-4024-b5d0-5ce6e5e7f4d7.png)](https://p19lith-pibook.netlify.app/gallery/plan9/)
+
+
+
+### Γλώσσα προγραμματισμού LISP
 
 [![lisp](https://user-images.githubusercontent.com/77148351/226174318-bbbf0849-6178-4bb9-b6fa-3fe9f8e2d39b.png)](https://p19lith-pibook.netlify.app/gallery/lisp/)
 
-
+</div>
 
 # Παραδοτεο 6
 # Παραδοτέο 7
