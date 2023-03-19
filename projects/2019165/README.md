@@ -78,6 +78,8 @@
 
 Για τις προσθήκες αυτές δημιούργησα στο ατομικό μου netlify το σετ διαφανειών [Αντικειμενοστρέφεια και Διάδραση](https://unique-halva-aa4c4d.netlify.app/slides/oop-interaction/) στο οποίο πρόσθεσα μερικές αντικειμενοστραφείς γλώσσες προγραμματισμού όπως η smalltalk καθώς και την Object Pascal. Το περιβάλλον ανάπτυξης λογισμικού προστέθηκε στο ομαδικό σετ διαφανειών [Οπτικές Γλώσσες Προγραμματισμού](https://thetimeparadox-pibook.netlify.app/slides/visual-programming/) που βρίσκεται στο ομαδικό netlify και περιλαμβάνει πέρα από το Delphi την προσθήκη του συναδέλφου(pure data)από την ομάδα. Τα δύο αυτά περιβάλλοντα θεωρούνται οπτικά περιβάλλοντα ανάπτυξης λογισμικού.Επίσης δημιουργήθηκε το ομαδικό χρονολόγιο [Εργαλεία Ανάπτυξης λογισμικού](https://thetimeparadox-pibook.netlify.app/timeline/softwaretools/) με τις δύο μου προσθήκες και ορισμένες των συναδέλφων.
 
+Για την δημιουργία του ατομικού site καθώς και για τα γίνουν τα pull request στην ομαδική δημιούργησα έναν δέυτερο λογαριασμό τον [p2019vade](https://github.com/p2019vade) στο Git Hub, διότι δεν ήθελα να διαγραφούν οι αντίστοιχες προσθήκες που είχαν γίνει για το hci.
+
 ![delphi](https://github.com/Alessenia/Images-for-Report/blob/main/borland-delphi.png)
 &
 ![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal.jpg)
