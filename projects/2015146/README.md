@@ -37,5 +37,7 @@ GitHub Link:
 # Γραμμή Εντολών (no systemd)
 Για το τρίτο παραδοτέο έκανα εγκατάσταση της διανομής Artix Linux σε Virtual Machine με σκοπό να μελετήσω τον τρόπο λειτουργίας ενός συστήματος το οποίο δεν διαθέτει systemd. Το συγκεκριμένο σύστημα χρησιμοποιεί το OpenRC μία εναλλακτική του systemd. Το κυρίως μέρος του OpenRC είναι υπεύθυνο για την διαχείρη των εξαρτήσεων (Dependencies) και του init script parsing. To OpenRC δουλεύει σκανάρωντας τα runlevels, χτίζοντας ένα dependency graph και τότε ξεκινάει τα απαραίτητα service scripts.
 
+[![asciicast](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf.svg)](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf)
+
 # Κατασκευή Βιβλίου σε μορφή PDF
 Για το τέταρτο παραδοτέο έκανα μετατροπές στο [make-latex.sh]() και πρόσθεσα [σχόλιο(comment.md)]() με τον δικό μου τρόπο μορφοποιήσης μέσω του [contribution.lua]()
