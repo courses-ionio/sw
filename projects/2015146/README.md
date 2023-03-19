@@ -46,3 +46,16 @@ GitHub Link: https://github.com/deadoralive1908
 ![kallipos](https://user-images.githubusercontent.com/72549484/226208054-3c46ef9f-cdae-47b0-923c-ae6995cea5b3.png)
 
 [Παραπομπή](https://en.wikipedia.org/wiki/Computer_file)
+
+# Συμμετοχικό Περιεχόμενο Α1 + Α2
+Για το συμμετοχικό περιεχόμενο πρόσθεσα στην ιστοσελίδα την γλώσσα προγραμματισμού C# και το λειτουργικό σύστημα Arch Linux.
+| Netlify | files |
+|---|---|
+|[C#](https://stalwart-torte-ffe59a.netlify.app/gallery/csharp/) | [csharp.md](https://github.com/deadoralive1908/_gallery/blob/49e1d7b5054e77ed673feff10db88423aa0241bc/csharp.md) |
+|[Arch Linux](https://stalwart-torte-ffe59a.netlify.app/gallery/archlinux/) | [archlinux.md](https://github.com/deadoralive1908/_gallery/blob/49e1d7b5054e77ed673feff10db88423aa0241bc/archlinux.md) |
+|[Χρονολόγιο](https://stalwart-torte-ffe59a.netlify.app//timeline/programming/) | [programming.md](https://github.com/deadoralive1908/site/blob/master/_timeline/programming.md) |
+|[Διαφάνειες method](https://stalwart-torte-ffe59a.netlify.app//slides/method/) | [method.md](https://github.com/deadoralive1908/site/blob/master/_slides/method.md)|
+|[Χρονολόγιο systems](https://stalwart-torte-ffe59a.netlify.app//timeline/systems) [systems.md](https://github.com/deadoralive1908/site/blob/master/_timeline/systems.md) | [csharp.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/csharp.jpg) |
+| | [archlinux.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux.jpg) |
+| | [csharp-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/csharp-thumb.jpg) |
+| | [archlinux-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux-thumb.jpg) |
