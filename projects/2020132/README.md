@@ -11,7 +11,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Σύνδεσμος Συζήτησης 1ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1199) |  |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με Pull Request στον οργανισμό της ομάδας μας](https://epidrome.github.io/teaching/team) | [Συνδεσμος Συζήτησης 2ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1304) | |
 | 3 | Γραμμή εντολών (no systemd) | [Σύνδεσμος Συζήτησης 3ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1347) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 4ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1426) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
@@ -47,3 +47,15 @@
 **Asciinema Neofetch + Void Linux: https://asciinema.org/a/564908**
 
 **Asciinema Neofetch + Kiss Linux: https://asciinema.org/a/p4G9c0jcam8PrUhRy1ieqgQgW**
+
+## **4o Παραδοτέο**
+
+Για το 4ο παραδοτέο, αφιέρωσα τον χρόνο μου για την προσθήκη πληροφοριών στο βιβλίο, όσον αφορά την δημιουργία μιας υποενότητας για την εφαρμογή MyTherapy την οποία θεώρησα ότι είναι ένα καλό παράδειγμα για την χρησιμότητα των πολυμεσικών εφαρμογών. Δυστυχώς υπήρξαν αρκετά προβλήματα κατά την εγκατάσταση των απαραίτητων βιβλιοθηκών για τη μετατροπή του book.tex σε .pdf επειδή έπρεπε να επιχειρίσω όλη την διαδικασία στο σύστημα Windows όπου υπήρξε σοβαρό πρόβλημα με την χρήση του pandoc-fignos. Ο εξωτερικός σκληρός δίσκος μου υπέστει κάποιο είδος βλάβης και έχασα τα Void και Kiss Linux. Μόνο τα Arch Linux μου παρέμειναν στην εσωτερική μνήμη του υπολογιστή μου που είχα εγκαταστήσει σε partition αλλά είχα να χρησιμοποιήσω το λειτουργικό από το 2ο έτος και δεν κατάφερα να βρω τον κωδικό μου και ούτε να τον κάνω reset μέσω του config. Επομένως εργάστικα όσο μπορούσα στο GitBash μέσω command line στα Windows 11 για την εγκατάσταση όλων των αναγκαίων πακέτων και βιβλιοθηκών αλλα η pandoc-fignos μου πετούσε συνέχεια error όταν έτρεχα το ./make-latex.sh . Έτσι λοιπόν, ζήτησα βοήθεια από έναν συνάδελφο στην ομάδα μου για την εκτέλεση του pandoc-fignos εφόσον λειτουργούσε κανονικά στο δικό τους λειτουργικό.
+
+[Το φίλτρο που χρησιμοποιήθηκε](https://github.com/Vasilakious/kallipos/blob/master/filter.lua)
+
+[Το αρχείο make-latex.sh](https://github.com/Vasilakious/kallipos/blob/master/make-latex.sh)
+
+[Αρχείο λεζάντας multimedia-interaction.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/tree/main)
+
+Στιγμιότυπο βιβλίου με την αλλαγή που πρόσθεσα: ![book](https://user-images.githubusercontent.com/73079436/226191373-6e0f4425-0122-4ebe-bb19-e26c05a6b8d9.png)
