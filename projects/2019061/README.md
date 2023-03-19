@@ -50,6 +50,28 @@
 
 [![asciicast](https://asciinema.org/a/VNOFbXPE4K4fhXDNNAx2sQdMr.svg)](https://asciinema.org/a/VNOFbXPE4K4fhXDNNAx2sQdMr)
 
+## Συμμετοχικό περιεχόμενο A1 + A2
+
+Στο συγκεκριμένο παραδοτέο πρόσθεσα το Lifecycle stationary bike και το Peloton bike στα [images](https://github.com/tilav/images), gallery: [Lifecycle](https://github.com/tilav/_gallery/blob/master/lifecyclebike.md) + [Peloton](https://github.com/tilav/_gallery/blob/master/pelotonbike.md), χρονολόγιο: [Lifecycle](https://github.com/tilav/site/blob/2019061/_timeline/prototypes.md) + [Peloton](https://github.com/tilav/site/blob/2019061/_timeline/systems.md) και τις διαφάνειες: [Lifecycle](https://github.com/tilav/site/blob/2019061/_slides/styles.md) + [Peloton](https://github.com/tilav/site/blob/2019061/_slides/hypermedia.md).
+
+Οι προσθήκες μου: 
+
+### Lifecycle stationary bike (1968)
+
+![lifecyclebike](https://user-images.githubusercontent.com/72463627/226211998-dcf53595-34ba-4c65-b4c6-c4f62cd7b56e.png)
+
+### Peloton bike (2013)
+
+![pelotonbike](https://user-images.githubusercontent.com/72463627/226212008-ef073558-ee2d-4a80-bd9b-4ab412627998.jpg)
+
+#### Οι προσθήκες μου στην ιστοσελίδα:
+
+* [Στατικό ποδήλατο Lifecycle](https://tilav-sw.netlify.app//gallery/lifecyclebike/)
+* [Ποδήλατο Peloton](https://tilav-sw.netlify.app//gallery/pelotonbike/)
+* Χρονολόγιο: [Lifecycle stationary bike](https://tilav-sw.netlify.app//timeline/prototypes/) - [Peloton bike](https://tilav-sw.netlify.app//timeline/systems/)
+* Διαφάνειες: [Lifecycle stationary bike](https://tilav-sw.netlify.app//slides/styles/) - [Peloton bike](https://tilav-sw.netlify.app//slides/hypermedia/)
+
+#### ! Οι παραπάνω προσθήκες αφορούν την προσωπική μου ιστοσελίδα (Το Pull Request στην ομάδα μου θα γίνει τις επόμενες μέρες)
 
 ## Βίντεο Κουίζ
 
