@@ -18,7 +18,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Discussion link](https://github.com/courses-ionio/sw/discussions/1259) | |
 | 3 | Γραμμή εντολών (no systemd) | [Discussion link](https://github.com/courses-ionio/sw/discussions/1315) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussion link](https://github.com/courses-ionio/sw/discussions/1439) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -78,4 +78,8 @@
 |Χ| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | ---- | ---- | ---- | ---- |
 | 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 2 | Ted Nelson -- Computers for Cynics [full version]  |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 4 | Bret Victor - The Future of Programming |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 5 | Alan Kay - Programming Languages & Programming (2013) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
 
