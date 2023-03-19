@@ -48,7 +48,7 @@
 
 Το παραδοτέο της τρίτης εβδομάδας είχε να κάνει με την εγκατάσταση λειτουργικού συστήματος το οποιο θα ξεφεύγει από τα συνηθισμένα systemd και graphical installer στοιχεια τα οποια βλέπουμε παντού. Εγκατέστησα το Artix Linux και επέλεξα αντί του systemd το init σύστημα openrc:
 
-[![asciicast](https://asciinema.org/a/568347.svg)](https://asciinema.org/a/568347)
+[![asciicast](https://asciinema.org/a/568348.svg)](https://asciinema.org/a/568348)
 
 
 # 4ο παραδοτέο
