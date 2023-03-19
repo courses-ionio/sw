@@ -98,6 +98,10 @@ Punched card File
 
 [authors.yml](https://github.com/ChristosMpazdanhs/site/blob/master/_data/authors.yml)
 
+## Static Blog Generator
+Σε αυτό το παροδοτέο χρησιμοποιήσα το [bashblog](https://github.com/cfenollosa/bashblog) για να δημιουργήσω ένα post για το στατικό blog μου. 
+
+[![asciicast](https://asciinema.org/a/qAEtJUfRy9RFpmh8dQV6f7qt1.svg)](https://asciinema.org/a/qAEtJUfRy9RFpmh8dQV6f7qt1)
 
 
 
