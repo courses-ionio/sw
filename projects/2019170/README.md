@@ -7,16 +7,16 @@
 
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία Παρουσίαση Προόδου](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή και Δημιουργία ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
-| 3 | Γραμμή εντολών (no systemd) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
+| [1](#1o-παραδοτέο) | Εισαγωγή και Δημιουργία Ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
+| [2](#2o-παραδοτέο) | Γραμμή εντολών (systemD) και Συνεργασία Οργανισμού|[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
+| [3](#3o-παραδοτέο) | Γραμμή εντολών (no systemD) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
+| [4](#4o-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| |
+| [5](#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2|[Julia & OpenBSD](https://github.com/courses-ionio/sw/discussions/1433)| |
+| [6](#6o-παραδοτέο) | Γραμμή εντολών (no systemD, custom static blog generator) | | |
+| [7](#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | | |
+| [8](#8o-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| [9](#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 | | |
+| [10](#10o-παραδοτέο) | Τελική αναφορά* | | |
 
 1<sup>o</sup> Παραδοτέο 
 ========================
@@ -53,15 +53,29 @@
 ========================
 Για αυτό το παραδοτέο έγινε εγκατάσταση του Funtoo στο Virtual Box ακολουθώντας τις οδηγίες του [guide](https://github.com/PaneksypnesDiepafes/cookbook/blob/main/funtoo-installation.md) που γράψαμε με τον οργανισμό μου. 
 
-[![asciicast](https://asciinema.org/a/564879.svg)](https://asciinema.org/a/564879)
+|neofetch|
+|--------|
+|[![asciicast](https://asciinema.org/a/564879.svg)](https://asciinema.org/a/564879)|
 
 4<sup>o</sup> Παραδοτέο 
 ========================
 Για αυτό το παραδοτέο έκανα μια προσθήκη στο 4ο κεφαλαιο στην υποενότητα 4.5 "Η περίπτωση του Reactable".
 
-![contribution](https://github.com/marked-d/SW_plus/blob/main/kallipos_contribution/contibution.png)
+|screenshot|links|
+|---|---|
+|![contribution](https://github.com/marked-d/SW_plus/blob/main/kallipos_contribution/contibution.png)|<ul><li>[reactable.md](https://github.com/PaneksypnesDiepafes/kallipos-notes/blob/main/reactable.md)</li><li>[contribution.lua](https://github.com/marked-d/kallipos/blob/master/contribution.lua)</li><li>[book.pdf](https://github.com/marked-d/kallipos/blob/master/book/book.pdf)</li></ul>|
 
-[reactable.md](https://github.com/PaneksypnesDiepafes/kallipos-notes/blob/main/reactable.md) | [contribution.lua](https://github.com/marked-d/kallipos/blob/master/contribution.lua) | [book.pdf](https://github.com/marked-d/kallipos/blob/master/book/book.pdf)
+
+5<sup>o</sup> Παραδοτέο 
+========================
+Οι προσθήκες που έκανα για το Α1 κομμάτι αυτού του παραδοτέου είναι η γλώσσα προγραμματισμού Julia και το λειτουργικό σύστημα OpenBSD. Για το Α2 κομμάτι, πρόσθεσα τις προσθήκες μου σε slides και timelines που ήδη υπήρχαν και σε αυτά που δημιούργησαν μέλη του οργανισμού μου.
+
+|  | Julia | OpenBSD | Pull Requests προς τον Οργανισμό | Link Προς το Site του Οργανισμού |
+|---|---|---|---|---|
+| images | ![julia](https://github.com/PaneksypnesDiepafes/images/blob/c820d71e0610af7899e259271ecbed13d92234f2/julia-thumb.png) | ![openBSD](https://github.com/PaneksypnesDiepafes/images/blob/c820d71e0610af7899e259271ecbed13d92234f2/openBSD-thumb.png) | [images](https://github.com/PaneksypnesDiepafes/images/pull/6) |<ul><li> [Julia](https://paneksypnesdiepafes-pibook.netlify.app/gallery/julia/)</li><li>[OpenBSD](https://paneksypnesdiepafes-pibook.netlify.app/gallery/openbsd/)</li></ul> |
+| _gallery | [julia.md](http://julia.md) | [openBSD.md](http://openBSD.md) | [_gallery](https://github.com/PaneksypnesDiepafes/_gallery/pull/6) |<ul><li>[Julia](https://paneksypnesdiepafes-pibook.netlify.app/gallery/julia/)</li><li>[OpenBSD](https://paneksypnesdiepafes-pibook.netlify.app/gallery/openbsd/) </li></ul>|
+| slides |<ul><li>[hl-programming](https://github.com/marked-d/site/blob/master/_slides/hl-programming.md)</li><li>[programming](https://github.com/marked-d/site/blob/master/_slides/programming.md)</li></ul>| [operating-systems](https://github.com/marked-d/site/blob/master/_slides/operating-systems.md) | [site](https://github.com/PaneksypnesDiepafes/site/pull/8) |<ul><li>[hl-programming](https://paneksypnesdiepafes-pibook.netlify.app//slides/hl-programming/)</li><li>[programming](https://paneksypnesdiepafes-pibook.netlify.app//slides/programming/)</li><li>[operating-systems](https://paneksypnesdiepafes-pibook.netlify.app//slides/operating-systems/)</li></ul>|
+| timeline | [programming](https://github.com/marked-d/site/blob/master/_timeline/programming.md) | [os-apps](https://github.com/marked-d/site/blob/master/_timeline/os-apps.md) | [site](https://github.com/PaneksypnesDiepafes/site/pull/8) | <ul><li>[programming](https://paneksypnesdiepafes-pibook.netlify.app//timeline/programming/)</li><li>[os-apps](https://paneksypnesdiepafes-pibook.netlify.app//timeline/os-apps/) </li></ul>|
 
 Extras
 ========================
@@ -69,10 +83,6 @@ Ntfy Άσκηση Γραμμής Εντολών
 ------------------------
 Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/ntfy/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop, καθώς και στο κινητό μου μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd).
 
-[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)
-
-Ειδοποίηση στο desktop: <br/>
-![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy.png) 
-
-Ειδοποίηση στο κινητό:<br/>
-![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy_push.png)
+|asciinema|Ειδοποίηση στο desktop|Ειδοποίηση στο κινητό|
+|---|---|---|
+|[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)|![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy.png) |![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy_push.png)|
