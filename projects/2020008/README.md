@@ -45,47 +45,45 @@
 Παρακάτω φαίνετε το asciinema από το neofetech από το distribution των Artix Linux. Ακόμα φαίνετε το asciinema από την αλλαγή του hostname από "panagiotis-zenbookux425eaux425ea" σε "P2020008" με την εντολή `nmtui`
  
 - [Asciinema](https://asciinema.org/a/nDJJ7jLIyUbXnlWoDvTdXBFY2)
-
 - [Asciinema](https://asciinema.org/a/uZO04nwIvdHL8LBIJgjHQE4tv)
 
 ## Κατασκευή Βιβλίου Α2
 
-Στη κατασκευή βιβλίου αντιμετόπισα πρόβλημα στη δημιουργία του pdf. Ακολούθως είναι τα αρχεία που χρησιμοποίησα καθώς και η προσωπική μου σημείωση.
+Στη κατασκευή βιβλίου αντιμετώπισα πρόβλημα στη δημιουργία του pdf. Ακολούθως είναι τα αρχεία που χρησιμοποίησα καθώς και η προσωπική μου σημείωση.
+
+- [make-latex.sh](https://github.com/p20kara/kallipos/blob/master/make-latex.sh)
+- [mylua.lua](https://github.com/p20kara/kallipos/blob/master/mylua.lua)
+- [Note.md]()
+- [Pdf](https://github.com/p20kara/kallipos/blob/master/book.pdf)
+
+Το πρόβλημα είναι στη δημιουργία του αρχείου pdf. 
+
 
 ## Συμμετοχικό Περιεχόμενο Α1 & Α2
 
 Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω τις δύο ακόλουθες φωτογραφίες, οι οποίες ακολοθούν μαζί με τα αρχεία .md που αντιπροσωπεύουν τη κάθε μία. 
 
 [aibo-photo1-full.md](https://github.com/p20kara/_gallery/blob/master/aibo-photo1-full.md)
-
 - [aibo-photo1-full.jpg](https://github.com/p20kara/images/blob/master/aibo-photo1-full.jpg)
-
 - [aibo-photo1-full-thumb.png](https://github.com/p20kara/images/blob/master/aibo-photo1-full-thumb.png)
 
 [Apple_Newton_and_iPhone.md](https://github.com/p20kara/_gallery/blob/master/Apple_Newton_and_iPhone.md)
-
 - [Apple_Newton_and_iPhone.jpg](https://github.com/p20kara/images/blob/master/Apple_Newton_and_iPhone.jpg)
-
 - [Apple_Newton_and_iPhone-thumb.png](https://github.com/p20kara/images/blob/master/Apple_Newton_and_iPhone-thumb.png)
 
 Οι προσθήκες φαίνονται και στο site στα ακόλουθα link.
 
 - [Sony aibo](https://p20kara.netlify.app/gallery/aibo-photo1-full/)
-
 - [Apple Newton MessagePad](https://p20kara.netlify.app/gallery/apple_newton_and_iphone/)
 
 Ακόμα έχουν προστεθεί στο timeline του βιβλιού στις κατηγορίες `prototypes` και `apple` αντίστοιχα.
 
 - [Sony aibo](https://p20kara.netlify.app/timeline/prototypes/)
-
   - [Sony aibo (github)](https://github.com/p20kara/site/blob/master/_timeline/prototypes.md)
-
 - [Apple Newton MessagePad](https://p20kara.netlify.app/timeline/apple/)
-
   - [Apple Newron MessagePad (GitHub)](https://github.com/p20kara/site/blob/master/_timeline/apple.md)
   
 Έπειτα ακολουθεί η προσθήκη των εικόνων στο σετ διαφανειών. Όπου έχουν προστεθεί και τα δύο στη κατηγορία `technology`.
 
 - [GitHub](https://github.com/p20kara/site/blob/master/_slides/technology.md)
-
 - [pibook](https://p20kara.netlify.app/slides/technology/)
