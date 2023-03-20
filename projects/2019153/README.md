@@ -1,59 +1,79 @@
-# Τεχνολογία Λογισμικού 
+## Αρτινόπουλος Ορέστης
+### ΑΜ: Π2019153
 
-[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://epidrome.github.io/teaching/) για την παράδοση της εργασίας.
-
-[Ανακοινώσεις, νέες απορίες και εβδομαδιαία ομαδικότητα](https://github.com/courses-ionio/sw/discussions)
-
->> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις και τις ανακοινώσεις.
-
-Οι διαθέσιμες εργασίες είναι αυτές που έχουν τον κωδικό SW. Για όσους χρωστάνε το μάθημα (επι πτυχίω, επαναληπτική εξεταστική) δείτε το ιστορικό αυτού του αρχείου κατά την έναρξη του εξαμήνου.
-
->> Μπορείτε να βρείτε τον πηγαίο κώδικα για τον παρακάτω πίνακα περιεχόμεων της τελικής σας αναφοράς στο κουμπί `Raw` και μετά να τον αντιγράψετε στην αναφορά σας
-
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | Παραδοτέο κάθε εβδομάδας | Discussions | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
-| 3 | Γραμμή εντολών (no systemd) | | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
-
->> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η εμπρόθεσμη αρχική παράδοση είναι σημαντική γιατί αξιολογούμε κυρίως την συστηματική προσπάθεια βελτίωσης και όχι κάποιο προκαθορισμένο επίπεδο γνώσεων και δεξιοτήτων.
-
-## Syllabus
-
-**Περιγραφή:** Βασικές αρχές τεχνολογίας λογισμικού, η ανάπτυξη λογισμικού ως συνεργατική διαδικασία. Σχεδιασμός συστήματος: αρχιτεκτονικός σχεδιασμός, σχεδιασμός με επαναχρησιμοποίηση, σχεδιασμός διεπαφής χρήστη. Eλεγχος συστήματος. Διαδικασία παράδοσης, τεκμηρίωσης, και συντήρησης συστημάτων λογισμικού.
-
-**Προαπαιτούμενα:** Εισαγωγή στον προγραμματισμό, δομές δεδομένων, επικοινωνία ανθρώπου-υπολογιστή, αντικειμενοστραφής προγραμματισμός.
-
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη λογισμικού. Συμπληρωματικά της κυρίαρχης θεώρησης του λογισμικού ως βιομηχανική διαδικασία, δίνουμε έμφαση κυρίως σε εναλλακτικές θεωρήσεις του λογισμικού, όπως αυτές ορίζονται οργανικά από την ατομική μελέτη και πρακτική του κάθε φοιτητή. Στο τέλος του μαθήματος οι φοιτητές θα έχουν αποκτήσει γνώσεις για την εξέλιξη και την τρέχουσα κατάσταση του λογισμικού επιτραπέζιων συστημάτων. Επίσης θα έχουν αναπτύξει μια πρακτική κατανόηση των εναλλακτικών της διαδικασίας και της οργάνωσης του λογισμικού. Σύμφωνα με αυτές τις δεξιότητες θα έχουν προσαρμόσει ένα εναλλακτικό (=πέρα από τα κυρίαρχα εμπορικά) προσωπικό-δικτυακό λειτουργικό σύστημα στις δικές τους ανάγκες ανάπτυξης και συντήρησης εφαρμογών λογισμικού.
-
-**Μέθοδος διδασκαλίας:** Συνεργασία, ασκήσεις, εργασία.
-
-* Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
-
-**Κριτήρια βαθμολογίας:**  10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 30% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 40% [συμμετοχή στην τάξη](https://epidrome.github.io/teaching/classroom/) + 10% [προαιρετικό bonus](https://epidrome.github.io/teaching/bonus/)
-
-**Τελική βαθμολόγηση:** Θα πρέπει να έχετε συμπληρώσει την βάση σε κάθε ένα από τα παραπάνω κριτήρια. Ορισμένα από τα κριτήρια (π.χ. συνεργασία, παρουσιάσεις προόδου) είναι διαθέσιμα μόνο κατά την περίοδο του μαθήματος, οπότε θα πρέπει να τα έχετε ήδη ολοκληρώσει κατά την τρέχουσα χρονιά, ώστε να υπάρχει δικαίωμα συμμετοχής στην επαναληπτική ή στην επί πτυχίω εξέταση. Επίσης, τα βίντεο κουϊζ είναι μεν διαθέσιμα και στην επαναληπτική εξεταστική, αλλά είναι δύσκολο να απαντηθούν χωρίς τις τακτικές συναντήσεις και τις σχετικές συζητήσεις που γίνονται εκεί. 
-
-**Βιβλίογραφία:** 
-* Ανάγνωση κώδικα, 
-* Πρακτικός προγραμματιστής, 
-* [Computer Connections](https://computerhistory.org/blogs/computer-history-museum-license-agreement-for-the-kildall-manuscript/): Βιβλίο για μελέτη μπόνους
-* [Software: Art, Engineering, Mathematics, or Science?](http://worrydream.com/refs/Kay%20-%20Software%20-%20Art,%20Engineering,%20Mathematics,%20or%20Science%3F.html)
-* [Cooperative Software Design](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
-* [Software Studies](http://lab.softwarestudies.com/2007/05/about-software-studies-ucsd.html)
-* [Software Design](http://www.alexandercowan.com/software-design-class/)
-* [Situated Software](http://www.shirky.com/writings/situated_software.html)
-* [The Elements of Computing Systems](https://www.nand2tetris.org)
-
-**Διαλέξεις σε βίντεο:** [Λογισμικό ως υπηρεσία](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x#.VMN5yUesUuU), [Διαδικασία ανάπτυξης λογισμικού](https://www.udacity.com/course/ud805), [Programming Paradigms](https://www.udemy.com/cs-107-programming-paradigms/), [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
+| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) | [Discussion](https://github.com/courses-ionio/sw/discussions/1163) |  |
+| 2 | [Άσκηση γραμμής εντολών (NTFY)](#παραδοτέο-2) |[Discussion](https://github.com/courses-ionio/sw/discussions/1287)| |
+| 3 | [Funtoo installation](#παραδοτέο-3) |[Discussion](https://github.com/courses-ionio/sw/discussions/1328) |  |
+| 4 | [Κατάσκευη Βιβλίου](#παραδοτέο-4) |[Discussion](https://github.com/courses-ionio/sw/discussions/1389) | |
+| 5 | [Συμμετοχικό περιεχόμενο Α1 & A2](#παραδοτέο-5) |[Discussion](https://github.com/courses-ionio/sw/discussions/1450)|  |
+| 6 | [Static Blob](#παραδοτέο-6) | [Discussion]() | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion]() |  |
+| 8 | [Pollen](#παραδοτέο-8) |[Discussion]() |  |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion]() |  |
+| 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion]() |  |
 
 
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, δημιουργήστε νέο φάκελο σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+# Παραδοτέο 1
 
+Μέσα στα πλαίσια του μαθήματος θέλω να μάθω και να καλυτερέψω τις γνώσεις μου πάνω σε διάφορα λειτουργικά που δεν ασχολούνται με το Systemd. Να δω πως λειτουργούν τέτοιες τεχνολογίες καθώς και να εργαστώ πάνω σε μια τέτοια έτσι ώστε να έχω ευχέρεια και επίσης να βελτιωθώ στον τομέα της ομαδικότητας καθώς και στη βελτίωση μου στον τομέα του GitHub.
+
+# Παραδοτέο 2
+
+Για το δεύτερο παραδοτέο χρησιμοποίησα το εργαλείο ntfy και δημιούργησα ένα script το οποίο στέλνει ειδοποίηση κάθε μια ώρα έτσι ώστε να μη χάνω την αίσθηση του χρόνου κάνοντας εργασίες. Στη συνεχεία περιμένει 15 λεπτά και ξαναστέλνει μήνυμα ότι μπορώ να συνεχίσω την εργασία μου. Οι ειδοποιήσεις πηγαίνουν στο λάπτοπ και στο κινητό μου. Στο λάπτοπ η ειδοποίηση στέλνετε με τη βιβλιοθήκη ntfy της python3 και στο κινητό μου μέσω του έτοιμου script ntfy.sh
+
+[![asciicast](https://asciinema.org/a/563133.svg)](https://asciinema.org/a/563133)
+
+![break](https://user-images.githubusercontent.com/45509916/221436251-b395fdf7-5a69-480a-a734-c14bdfb2dfeb.png)
+
+![lazy](https://user-images.githubusercontent.com/45509916/221436273-6dc8d755-4d0b-4275-9fdb-28892ba19dcc.png)
+
+
+# Παραδοτέο 3
+
+Για το παραδοτέο 3 έκανα εγκατάσταση του λειτουργικού συστήματος Funtoo ακολουθώντας το Official Guide από τη σελίδα τους.
+
+[![asciicast](https://asciinema.org/a/564626.svg)](https://asciinema.org/a/564626)
+
+# Παραδοτέο 4 
+
+Για το Παραδοτέο 4 έγινε η δημιουργία του βιβλίου καθώς και επιπλέον προσθήκες στην κατηγορία 8.4 "Η περίπτωση του Xerox Alto" όπου ανέφερα τις αλλαγές που έφερε στον τομέα της εργασίας γραφείου.
+
+![image](https://user-images.githubusercontent.com/45509916/224571235-a9a0b43b-7b02-42fd-b5f0-4e253d1390d4.png)
+
+[pull request](https://github.com/PaneksypnesDiepafes/kallipos-notes/pull/3)
+
+
+# Παραδοτέο 5 
+
+Για το παραδοτέο 5 έκανα προσθήκη το OpenRC και το Pacman Package Manager.
+
+[Pull Request](https://github.com/PaneksypnesDiepafes/site/pull/4)
+
+Οι εικόνες έχουν ενσωματωμένο link για κάθε timeline & slide του site
+
+
+| OpenRC | Pacman |
+|---	|---	|
+| [![summetoxiko2,1](https://user-images.githubusercontent.com/45509916/226176086-1e878fd7-1319-42d9-8fe9-bc5f45222e1b.png)](https://master--tsetgiatonetlify.netlify.app/timeline/init-systems/)  |  [![summetoxiko1,1](https://user-images.githubusercontent.com/45509916/226176052-5b35fdab-dfc5-443e-aae7-79adcb91b9be.png)](https://master--tsetgiatonetlify.netlify.app/timeline/package-managers/)  	|
+| [![summetoxiko2,2](https://user-images.githubusercontent.com/45509916/226176088-1491c950-e97f-4fad-aeff-71eccd7f343d.png)](https://master--tsetgiatonetlify.netlify.app/slides/init-systems/)  	|  [![summetoxiko1,2](https://user-images.githubusercontent.com/45509916/226176089-8357390d-13bb-477b-9be8-31847b8b0d8d.png)](https://master--tsetgiatonetlify.netlify.app/slides/package-managers/) 	|
+
+# Παραδοτέο 6
+
+
+# Παραδοτέο 7
+
+
+# Παραδοτέο 8
+
+
+
+# Παραδοτέο 9
+
+
+# Παραδοτέο 10
+
+
+
+---
