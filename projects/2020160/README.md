@@ -98,7 +98,7 @@ Screenshot:
 
 ## Συμμετοχικό Περιεχόμενο Α1 και Α2
 
-Για το πρώτο μέρος του συμμετοχικού περιεχόμενου χρειάστηκε να προσθέσουμε στο βιβλίο δύο εικόνες με λεζάντα. Οι φωτογραφίες που επέλεξα φαίνονται ακολούθως:
+Για το πρώτο μέρος (Α1) του συμμετοχικού περιεχόμενου χρειάστηκε να προσθέσουμε στο βιβλίο δύο εικόνες με λεζάντα. Οι φωτογραφίες που επέλεξα φαίνονται ακολούθως:
 
 - [Apple-eMate.jpg](https://github.com/p20adam/images/blob/master/apple-eMate.jpg)
 - [apple-eMate-thumb.jpg](https://github.com/p20adam/images/blob/master/apple-eMate-thumb.jpg)
@@ -114,3 +114,8 @@ Screenshot:
 
 - [apple-emate](https://elated-hopper-ceabdc.netlify.app/gallery/apple-emate/)
 - [sony-playstation](https://elated-hopper-ceabdc.netlify.app/gallery/sony-playstation/)
+
+Για το δεύτερο μέρος (Α2) του συμμετοχικού περιεχόμενου, χρειάστηκε να ασχοληθούμε με το χρονολόγιο και ένα σετ διαφανειών. Αρχικά για το χρονολόγιο _timeline, πρόσθεσα το apple-eMate στο αρχείο apple.md και το sony-playstation στο αρχείο consoles.md όπως φαίνεται παρακάτω. 
+
+- [apple.md](https://github.com/p20adam/site/blob/master/_timeline/apple.md)
+- [consoles.md](https://github.com/p20adam/site/blob/master/_timeline/consoles.md)
