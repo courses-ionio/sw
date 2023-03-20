@@ -77,3 +77,22 @@
 Σε αυτό το παραδοτέο χρειάστηκε να προσφέρω στο βιβλίο. Όπως κάθε σωστή συνεισφορά έτσι και αυτή αποτέλεσε πόρισμα μεγάλης έρευνας και πολλών προσπαθειών για την εύρεση του κατάλληλου περιεχομένου. Αν και απομακρύνεται από το κομμάτι της αναφοράς μου, λόγο του ότι δεν μπόρεσα να βρω κάποια σχετική προσθήκη καθώς τα θέματα τα οποία με απασχολούν μπορώ να πω ότι είχα καλυφθεί πλήρως και οι μόνες προσθήκες οι οποίες θα με ενδιέφεραν ήταν εκτός από τα δοθέντα κεφάλαια. Πάρα αυτά αποτέλεσε μία ωραία ευκαιρία για έρευνα και ανάπτυξη των γνώσεων μου.
 
 ![contrAlto(my_contr)](https://user-images.githubusercontent.com/39650065/224574128-7606af24-46da-4344-bdbb-8d3358ef5ca3.png)
+
+# Α1 + Α2 
+
+Για αυτό το παραδοτέο αποφάσισα να κάνω προσθήκες πάνω σε δύο τεχνολογίες init κατά αυτών τον τρόπο κατάφερα να μάθω και να παρουσιάσω τεχνολογίες που αν και κατηγοριοποιούνται κατά των ίδιο τρόπο αποτελούν διαφορετικές προσεγγίσεις επιλύσεις προβλημάτων. Μέσα από την έρευνα αυτή κατάφερα να μεγαλώσω τους ορίζοντες με σχετικά με την λειτουργία των UNIX συστημάτων όπου είναι και ένας από τους στόχους τους οποίους έχω θέσει στον εαυτό μέσο αυτού του μαθήματος.
+|  | Runit | Sysv | Pull Requests προς τον Οργανισμό | Link Προς το Site του Οργανισμού |
+|---|---|---|---|---|
+| images | ![sysv](https://github.com/PaneksypnesDiepafes/images/blob/master/sysv.png) | ![Runit](https://github.com/PaneksypnesDiepafes/images/blob/master/Runit.png) | [images pull req](https://github.com/PaneksypnesDiepafes/images/pull/4) |<ul><li> [Runit](https://paneksypnesdiepafes-pibook.netlify.app/gallery/runit/)</li><li>[sysv](https://paneksypnesdiepafes-pibook.netlify.app/gallery/sysv/)</li></ul> |
+| _gallery | [runit.md](https://github.com/PaneksypnesDiepafes/_gallery/blob/master/Runit.md) | [sysv.md](https://github.com/PaneksypnesDiepafes/_gallery/blob/master/sysv.md) | [_gallery pull req](https://github.com/PaneksypnesDiepafes/_gallery/pull/4) |<ul><li> [Runit](https://paneksypnesdiepafes-pibook.netlify.app/gallery/runit/)</li><li>[sysv](https://paneksypnesdiepafes-pibook.netlify.app/gallery/sysv/)</li></ul>|
+| slides |[init-systems](https://github.com/PaneksypnesDiepafes/site/blob/master/_slides/init-systems.md)|[init-systems](https://github.com/PaneksypnesDiepafes/site/blob/master/_slides/init-systems.md)</li> | [site pull req](https://github.com/PaneksypnesDiepafes/site/pull/6) |[init-systems](https://paneksypnesdiepafes-pibook.netlify.app/slides/init-systems/)|
+| timeline | [Συστήματα-init](https://github.com/marked-d/site/blob/master/_timeline/init-systems.md) | [Συστήματα-init](https://github.com/marked-d/site/blob/master/_timeline/init-systems.md) | [site pull req](https://github.com/PaneksypnesDiepafes/site/pull/6) | [Συστήματα-init](https://github.com/marked-d/site/blob/master/_timeline/init-systems/)|
+
+
+
+Λίστα πηγών πληροφορίων: 
+- [arch wiki](https://archlinux.org/)
+- [wikipedia](https://www.wikipedia.org/)
+- [smarden.org](http://smarden.org/runit/)
+- [mit.edu](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-en-4/s1-boot-init-shutdown-sysv.html)
+- [glennastory.net](http://glennastory.net/boot/init.html)
