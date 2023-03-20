@@ -54,7 +54,8 @@
 - [make-latex.sh](https://github.com/p20kara/kallipos/blob/master/make-latex.sh)
 - [mylua.lua](https://github.com/p20kara/kallipos/blob/master/mylua.lua)
 - [Note.md](https://github.com/p20kara/kallipos/blob/master/MyNote/Note.md)
-- [Pdf](https://github.com/p20kara/kallipos/blob/master/book.pdf)
+- [book.tex](https://github.com/p20kara/kallipos/blob/master/book.tex)
+- [PDF](https://github.com/p20kara/kallipos/blob/master/book.pdf)
 
 Το πρόβλημα είναι στη δημιουργία του αρχείου pdf.
 
@@ -89,3 +90,12 @@
 
 - [GitHub](https://github.com/p20kara/site/blob/master/_slides/technology.md)
 - [pibook](https://p20kara.netlify.app/slides/technology/)
+
+
+| Τίτλος Βίντεο | Παρακολούθηση | 
+| --- | --- |
+| Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834)| Ναι |
+| Ted Nelson -- Computers for Cynics [full version]| Ναι |
+|Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
+| Bret Victor - The Future of Programming| Ναι |
+| Alan Kay - Programming Languages & Programming (2013)| Ναι |
