@@ -3,7 +3,7 @@
 
 | Εβδομάδα | Παραδοτέο κάθε εβδομάδας | Discussions | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) | [Discussion](https://github.com/courses-ionio/sw/discussions/1163) |  |
+| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) | [Discussion](https://github.com/courses-ionio/sw/discussions/1163), [Organization](https://github.com/PaneksypnesDiepafes/Main/) |  |
 | 2 | [Άσκηση γραμμής εντολών (NTFY)](#παραδοτέο-2) |[Discussion](https://github.com/courses-ionio/sw/discussions/1287)| |
 | 3 | [Funtoo installation](#παραδοτέο-3) |[Discussion](https://github.com/courses-ionio/sw/discussions/1328) |  |
 | 4 | [Κατάσκευη Βιβλίου](#παραδοτέο-4) |[Discussion](https://github.com/courses-ionio/sw/discussions/1389) | |
