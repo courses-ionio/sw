@@ -115,12 +115,21 @@ Screenshot:
 - [apple-emate](https://elated-hopper-ceabdc.netlify.app/gallery/apple-emate/)
 - [sony-playstation](https://elated-hopper-ceabdc.netlify.app/gallery/sony-playstation/)
 
-Για το δεύτερο μέρος (Α2) του συμμετοχικού περιεχόμενου, χρειάστηκε να ασχοληθούμε με το χρονολόγιο και ένα σετ διαφανειών. Αρχικά για το χρονολόγιο _timeline, πρόσθεσα το apple-eMate στο αρχείο apple.md και το sony-playstation στο αρχείο consoles.md όπως φαίνεται παρακάτω. 
+Για το δεύτερο μέρος (Α2) του συμμετοχικού περιεχόμενου, χρειάστηκε να ασχοληθούμε με το χρονολόγιο και ένα σετ διαφανειών. Αρχικά για το χρονολόγιο, _timeline, πρόσθεσα το apple-eMate στο αρχείο apple.md και το sony-playstation στο αρχείο consoles.md όπως φαίνεται παρακάτω. 
 
-- [apple.md](https://github.com/p20adam/site/blob/master/_timeline/apple.md)
-- [consoles.md](https://github.com/p20adam/site/blob/master/_timeline/consoles.md)
+- [apple-eMate](https://github.com/p20adam/site/blob/master/_timeline/apple.md)
+- [sony-playstation](https://github.com/p20adam/site/blob/master/_timeline/consoles.md)
+
+Τα αντίστοιχα αποτελέσματα στο site είναι:
+- [apple-eMate](https://elated-hopper-ceabdc.netlify.app/timeline/apple/)
+- [sony-playstation](https://elated-hopper-ceabdc.netlify.app/timeline/consoles/)
 
 Και έπειτα για το σετ διαφανειών πρόσθεσα το apple-eMate στην κατηγορία "Εκπαιδευτική Τεχνολογία" και το sony-playstation στην κατηγορία "Βιντεοπαιχνίδια".
 
 - [apple-eMate](https://github.com/p20adam/site/blob/master/_slides/learning.md)
 - [sony-playstation](https://github.com/p20adam/site/blob/master/_slides/videogames.md)
+
+Και αντίστοιχα τα αποτελέσματα στο site ακολουθούν:
+
+- [apple-eMate](https://elated-hopper-ceabdc.netlify.app/slides/learning/)
+- [sony-playstation](https://elated-hopper-ceabdc.netlify.app/slides/videogames/)
