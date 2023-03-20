@@ -50,8 +50,12 @@ ntfy -b telegram send "$message"
 ## Παραδοτέο 5 
 Για αυτήν την εβδομάδα πρόσθεσα στο site περιεχόμενο σχετικά με δύο λογισμικά που χρησιμοποιούνται στο security το πρώτο είναι ένας Network Mapper (nmap) και το δεύτερο το Metasploit πρόγραμμα που σου δίνει πληροφορίες σχετικά με ευπάθειες (vulnerabilities), το Metasploit έρχεται pre-installed μαζί με τα Kali-Linux.
 [Site Repository](https://github.com/P2019217/site) / [Site Netlify](https://calm-marigold-1d4f28.netlify.app/)
+
 [metasploit.md](https://github.com/P2019217/_gallery/blob/f366aca509686a21f6af076a19cccadefc98d276/metasploit.md) / [Metasploit Netlify](https://calm-marigold-1d4f28.netlify.app/gallery/metasploit/)
-[nmap](https://github.com/P2019217/_gallery/blob/f366aca509686a21f6af076a19cccadefc98d276/nmap.md) / [nmap Netlify](https://calm-marigold-1d4f28.netlify.app/gallery/nmap/)
+
+[nmap.md](https://github.com/P2019217/_gallery/blob/f366aca509686a21f6af076a19cccadefc98d276/nmap.md) / [nmap Netlify](https://calm-marigold-1d4f28.netlify.app/gallery/nmap/)
+
 [security-tools.md timeline](https://github.com/P2019217/site/blob/master/_timeline/security-tools.md) / [Timeline Netlify](https://calm-marigold-1d4f28.netlify.app//timeline/security-tools/)
+
 [security-tools.md slides](https://github.com/P2019217/site/blob/master/_slides/security-tools.md) / [Slides Netlify](https://calm-marigold-1d4f28.netlify.app//slides/security-tools/) 
 
