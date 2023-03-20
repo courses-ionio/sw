@@ -72,3 +72,8 @@
 | [Netlify Visual Studio](https://effervescent-snickerdoodle-648dcd.netlify.app/gallery/visualstudio/)   |  [pycharm-thumb.png](https://github.com/NestorasKosmidis/images/blob/0552efc5c26630d0b8e7970b53935fb575f7a1f4/pycharm-thumb.png)      |    |     | 
 
 Επιπρόσθετα έγιναν αλλαγές στο [authors.yml](https://github.com/NestorasKosmidis/site/blob/master/_data/authors.yml)
+
+## Εβδομάδα 6
+Για αυτήν την εβδομάδα κατασκεύασα το δικό μου Blog χρησιμοποιώντας το [bashyll](https://github.com/faithanalog/bashyll) για να δημιουργήσω το δικό μου static blog έκανα τις απαραίτητες αλλαγές που χρειάζονταν στους φακέλους /source. Έπειτα ανέβασα το local repository στο github σαν [bashyllblog](https://github.com/NestorasKosmidis/bashyllblog) και έκανα host το repo χρησιμοποιώντας το Github Pages. Μπορείτε να δείτε το blog [εδώ](https://nestoraskosmidis.github.io/bashyllblog/). Βέβαια το site φαίνεται σαν demo μιας και δεν έχω προσθέσει ακόμα περιεχόμενο.
+
+[![asciicast](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k.svg)](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k)
