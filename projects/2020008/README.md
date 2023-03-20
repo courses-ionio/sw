@@ -53,7 +53,7 @@
 
 - [make-latex.sh](https://github.com/p20kara/kallipos/blob/master/make-latex.sh)
 - [mylua.lua](https://github.com/p20kara/kallipos/blob/master/mylua.lua)
-- [Note.md]()
+- [Note.md](https://github.com/p20kara/kallipos/blob/master/MyNote/Note.md)
 - [Pdf](https://github.com/p20kara/kallipos/blob/master/book.pdf)
 
 Το πρόβλημα είναι στη δημιουργία του αρχείου pdf.
