@@ -110,3 +110,7 @@ Screenshot:
 - [apple-eMate.md](https://github.com/p20adam/_gallery/blob/master/apple-eMate.md)
 - [sony-playstation.md](https://github.com/p20adam/_gallery/blob/master/sony-playstation.md)
 
+Οι προσθήκες στο site βρίσκονται παρακάτω:
+
+- [apple-emate](https://elated-hopper-ceabdc.netlify.app/gallery/apple-emate/)
+- [sony-playstation](https://elated-hopper-ceabdc.netlify.app/gallery/sony-playstation/)
