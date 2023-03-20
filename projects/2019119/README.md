@@ -103,6 +103,8 @@ Punched card File
 
 Μπορείτε να δείτε τις αλλαγές στο [ChristosMpazdanhs/blog](https://github.com/ChristosMpazdanhs/blog).
 
+[Github Pages](https://christosmpazdanhs.github.io/blog/)
+
 
 
 
