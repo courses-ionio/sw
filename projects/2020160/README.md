@@ -124,7 +124,7 @@ Screenshot:
 - [apple-eMate](https://elated-hopper-ceabdc.netlify.app/timeline/apple/)
 - [sony-playstation](https://elated-hopper-ceabdc.netlify.app/timeline/consoles/)
 
-Και έπειτα για το σετ διαφανειών πρόσθεσα το apple-eMate στην κατηγορία "Εκπαιδευτική Τεχνολογία" και το sony-playstation στην κατηγορία "Βιντεοπαιχνίδια".
+Και έπειτα για το σετ διαφανειών πρόσθεσα το apple-eMate στην κατηγορία "Εκπαιδευτική Τεχνολογία" (learning.md) και το sony-playstation στην κατηγορία "Βιντεοπαιχνίδια" (videogames.md).
 
 - [apple-eMate](https://github.com/p20adam/site/blob/master/_slides/learning.md)
 - [sony-playstation](https://github.com/p20adam/site/blob/master/_slides/videogames.md)
