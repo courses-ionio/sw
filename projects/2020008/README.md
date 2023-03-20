@@ -32,11 +32,11 @@
 
 Αποφάσισα να χρησιμοποιήσω για τις ασκήσεις γραμμής εντολών σε λειτουργικό με system το distribution των Arch Linux. Είναι από τα πιο διαδεδομένα distributions και είχα την ευκαιρία να ασχοληθώ μαζί τους και να τα γνωρίσω από ένα μάθημα της σχολής μου. 
 
-[Asciinema](https://asciinema.org/a/w5Lmo1RcUVwJM3AfeDgfN4xdQ)
+- [Asciinema](https://asciinema.org/a/w5Lmo1RcUVwJM3AfeDgfN4xdQ)
 
 Επέλεξα για άσκηση γραμμής εντολών να υλοποιήσω το hyperfine από την κατηγορία software. Αρχικά με την εντολή `sudo pacman -S hyperfine` εγκατέστησα το hyperfine. Στην συνέχεια με την εντολή `hyperfine -i tictactoe.py` μέτρησα τον χρόνο εκτέλεσης του κώδικα μου σε python  για tic-tac-toe.
 
-[Asciinema](https://asciinema.org/a/eloFbEeGKO3Ft0Vom4zzcLzSu)
+- [Asciinema](https://asciinema.org/a/eloFbEeGKO3Ft0Vom4zzcLzSu)
 
 ## Γραμμή εντολών (no systemd)
 
@@ -44,9 +44,9 @@
 
 Παρακάτω φαίνετε το asciinema από το neofetech από το distribution των Artix Linux. Ακόμα φαίνετε το asciinema από την αλλαγή του hostname από "panagiotis-zenbookux425eaux425ea" σε "P2020008" με την εντολή `nmtui`
  
-[Asciinema](https://asciinema.org/a/nDJJ7jLIyUbXnlWoDvTdXBFY2)
+- [Asciinema](https://asciinema.org/a/nDJJ7jLIyUbXnlWoDvTdXBFY2)
 
-[Asciinema](https://asciinema.org/a/uZO04nwIvdHL8LBIJgjHQE4tv)
+- [Asciinema](https://asciinema.org/a/uZO04nwIvdHL8LBIJgjHQE4tv)
 
 ## Κατασκευή Βιβλίου Α2
 
@@ -54,3 +54,38 @@
 
 ## Συμμετοχικό Περιεχόμενο Α1 & Α2
 
+Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω τις δύο ακόλουθες φωτογραφίες, οι οποίες ακολοθούν μαζί με τα αρχεία .md που αντιπροσωπεύουν τη κάθε μία. 
+
+[aibo-photo1-full.md](https://github.com/p20kara/_gallery/blob/master/aibo-photo1-full.md)
+
+- [aibo-photo1-full.jpg](https://github.com/p20kara/images/blob/master/aibo-photo1-full.jpg)
+
+- [aibo-photo1-full-thumb.png](https://github.com/p20kara/images/blob/master/aibo-photo1-full-thumb.png)
+
+[Apple_Newton_and_iPhone.md](https://github.com/p20kara/_gallery/blob/master/Apple_Newton_and_iPhone.md)
+
+- [Apple_Newton_and_iPhone.jpg](https://github.com/p20kara/images/blob/master/Apple_Newton_and_iPhone.jpg)
+
+- [Apple_Newton_and_iPhone-thumb.png](https://github.com/p20kara/images/blob/master/Apple_Newton_and_iPhone-thumb.png)
+
+Οι προσθήκες φαίνονται και στο site στα ακόλουθα link.
+
+- [Sony aibo](https://p20kara.netlify.app/gallery/aibo-photo1-full/)
+
+- [Apple Newton MessagePad](https://p20kara.netlify.app/gallery/apple_newton_and_iphone/)
+
+Ακόμα έχουν προστεθεί στο timeline του βιβλιού στις κατηγορίες `prototypes` και `apple` αντίστοιχα.
+
+- [Sony aibo](https://p20kara.netlify.app/timeline/prototypes/)
+
+  - [Sony aibo (github)](https://github.com/p20kara/site/blob/master/_timeline/prototypes.md)
+
+- [Apple Newton MessagePad](https://p20kara.netlify.app/timeline/apple/)
+
+  - [Apple Newron MessagePad (GitHub)](https://github.com/p20kara/site/blob/master/_timeline/apple.md)
+  
+Έπειτα ακολουθεί η προσθήκη των εικόνων στο σετ διαφανειών. Όπου έχουν προστεθεί και τα δύο στη κατηγορία `technology`.
+
+- [GitHub](https://github.com/p20kara/site/blob/master/_slides/technology.md)
+
+- [pibook](https://p20kara.netlify.app/slides/technology/)
