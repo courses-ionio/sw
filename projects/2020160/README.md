@@ -119,3 +119,8 @@ Screenshot:
 
 - [apple.md](https://github.com/p20adam/site/blob/master/_timeline/apple.md)
 - [consoles.md](https://github.com/p20adam/site/blob/master/_timeline/consoles.md)
+
+Και έπειτα για το σετ διαφανειών πρόσθεσα το apple-eMate στην κατηγορία "Εκπαιδευτική Τεχνολογία" και το sony-playstation στην κατηγορία "Βιντεοπαιχνίδια".
+
+- [apple-eMate](https://github.com/p20adam/site/blob/master/_slides/learning.md)
+- [sony-playstation](https://github.com/p20adam/site/blob/master/_slides/videogames.md)
