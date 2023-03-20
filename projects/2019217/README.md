@@ -49,6 +49,7 @@ ntfy -b telegram send "$message"
 
 ## Παραδοτέο 5 
 Για αυτήν την εβδομάδα πρόσθεσα στο site περιεχόμενο σχετικά με δύο λογισμικά που χρησιμοποιούνται στο security το πρώτο είναι ένας Network Mapper (nmap) και το δεύτερο το Metasploit πρόγραμμα που σου δίνει πληροφορίες σχετικά με ευπάθειες (vulnerabilities), το Metasploit έρχεται pre-installed μαζί με τα Kali-Linux.
+
 [Site Repository](https://github.com/P2019217/site) / [Site Netlify](https://calm-marigold-1d4f28.netlify.app/)
 
 [metasploit.md](https://github.com/P2019217/_gallery/blob/f366aca509686a21f6af076a19cccadefc98d276/metasploit.md) / [Metasploit Netlify](https://calm-marigold-1d4f28.netlify.app/gallery/metasploit/)
