@@ -96,6 +96,13 @@ Screenshot:
 
 Στο συγκεκριμένο παραδοτέο, δεν κατάφερα να ξεπεράσω το πρόβλημα που δημιουργήθηκε κατά την δημιουργία του αρχείου pdf. Παρακάτω ακολουθούν τα αρχεία μου και ένα screenshot με το πρόβλημα.
 
+- [make-latex.sh](https://github.com/p20adam/kallipos/blob/master/make-latex.sh)
+- [mylua.lua](https://github.com/p20adam/kallipos/blob/master/mylua.lua)
+- [note.md](https://github.com/p20adam/kallipos/blob/master/ExtraNote/note.md)
+- [Pdf](https://github.com/p20adam/kallipos/blob/master/book.pdf)
+
+![Problem](https://github.com/p20adam/sw/blob/2020160/projects/2020160/Problem.png)
+
 ## Συμμετοχικό Περιεχόμενο Α1 και Α2
 
 Για το πρώτο μέρος (Α1) του συμμετοχικού περιεχόμενου χρειάστηκε να προσθέσουμε στο βιβλίο δύο εικόνες με λεζάντα. Οι φωτογραφίες που επέλεξα φαίνονται ακολούθως:
