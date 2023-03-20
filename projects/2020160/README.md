@@ -100,3 +100,13 @@ Screenshot:
 
 Για το πρώτο μέρος του συμμετοχικού περιεχόμενου χρειάστηκε να προσθέσουμε στο βιβλίο δύο εικόνες με λεζάντα. Οι φωτογραφίες που επέλεξα φαίνονται ακολούθως:
 
+- [Apple-eMate.jpg](https://github.com/p20adam/images/blob/master/apple-eMate.jpg)
+- [apple-eMate-thumb.jpg](https://github.com/p20adam/images/blob/master/apple-eMate-thumb.jpg)
+- [sony-playstasion.jpg](https://github.com/p20adam/images/blob/master/sony-playstation.jpg)
+- [sony-plastasion-thumb.jpg](https://github.com/p20adam/images/blob/master/sony-playstation-thumb.jpg)
+
+Και τα αντίστοιχα αρχεία md είναι:
+
+- [apple-eMate.md](https://github.com/p20adam/_gallery/blob/master/apple-eMate.md)
+- [sony-playstation.md](https://github.com/p20adam/_gallery/blob/master/sony-playstation.md)
+
