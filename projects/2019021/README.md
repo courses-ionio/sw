@@ -1,6 +1,7 @@
 ### Σταυρούλα Ανατολάκη
 ### ΑΜ: Π2019021
 ### Οργανισμός : [GENESIS](https://github.com/Genesis-The-Beginning)
+### Νetlify: [Link](https://gorgeous-cajeta-4d8cbe.netlify.app/)
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -8,7 +9,7 @@
 | 2 | [Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |[link](https://github.com/courses-ionio/sw/discussions/1301) |✔️Ολοκληρώθηκε  ✔️Εμπρόθεσμα |
 | 3 | [Γραμμή εντολών (no systemd)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BDno-systemd) |[link](https://github.com/courses-ionio/sw/discussions/1333) |Εγκατεστεσα το λογισμικο αλλα δεν ολοκληρωσα το παραδοτεο ακομη |
 | 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC) |[link](https://github.com/courses-ionio/sw/discussions/1407) |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |link | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |link |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα |
 | 6 | Γραμμή εντολών (custom static blog generator) |link | |
 | 7 | συμμετοχικό περιεχόμενο B1 |link | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |link | |
@@ -65,6 +66,8 @@
 [make-latex.sh](https://github.com/StavroulaAnatolaki/kallipos/blob/master/make-latex.sh)
 
 ![VirtualBox_Arch Linux_17_03_2023_19_43_06](https://user-images.githubusercontent.com/72880868/225985888-d5a89ce6-828f-4509-a68a-0b2d68ccde92.png)
+
+# Εβδομάδα 5: Συμμετοχικό περιεχόμενο A1 + A2
 
 
 # Ομαδικότητα
