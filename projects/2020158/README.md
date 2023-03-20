@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | |
 | 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -36,8 +36,19 @@
 Εγκατέστησα στο σύστημά μου το ntfy και την εφαρμογή simplepush στο κινητό.
 Ακολουθεί το αντίστοιχο asciinema και η ειδοποίηση στο κινητό.
 
+https://asciinema.org/a/jDrBBK4JK1JqGektVmOqXE3OE
+
 ![index](https://user-images.githubusercontent.com/92392853/221698430-e4d33569-1dff-4e51-bba9-9489872a7f50.gif)
 
 
 ![image0](https://user-images.githubusercontent.com/92392853/221699020-0f8a8750-d087-45b0-83b7-9c6a91e4798a.png)
+
+
+# Άσκηση Γραμμής Εντολών no systemd
+
+Συνεργατικά με την ομάδα μου αποφασίσαμε να κατεβάσουμε στα συστήματά μας τη διανομή Artix Linux, που χρησιμοποιεί OpenRC. Επέλεξα να κάνω την εγκατάσταση στο Oracle Virtual Machine. Αντιμετώπισα αρκετές δυσκολίες και χρειάστηκε να επαναλάβω την διαδικασία δύο φορές, αλλά εν τέλη τα κατάφερα. Έπειτα, έτρεξα τις απαραίτητες εντολές για την εγκατάσταση, τα partitions, τα mounts, αλλά και τα απαραίτητα εργαλεία και packages που χρειάζονται για το μάθημα. Ορισμένα packages δεν υποστηρίζονται στα Artix, οπότε κατέβασα και το artix-archlinux-support. Ακολουθεί το asciinema με το neofetch.
+
+https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
+
+![download](https://user-images.githubusercontent.com/92392853/226462212-dbc9b12a-72cc-44fa-bf85-950f1d61c76c.gif)
 
