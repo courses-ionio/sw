@@ -59,3 +59,5 @@ ntfy -b telegram send "$message"
 
 [security-tools.md slides](https://github.com/P2019217/site/blob/master/_slides/security-tools.md) / [Slides Netlify](https://calm-marigold-1d4f28.netlify.app//slides/security-tools/) 
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1443)
+
