@@ -140,3 +140,13 @@ Screenshot:
 
 - [apple-eMate](https://elated-hopper-ceabdc.netlify.app/slides/learning/)
 - [sony-playstation](https://elated-hopper-ceabdc.netlify.app/slides/videogames/)
+
+## Video
+
+| Τίτλος Βίντεο | Παρακολούθηση | 
+| --- | --- |
+| Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834)| Ναι |
+| Ted Nelson -- Computers for Cynics [full version]| Ναι |
+|Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
+| Bret Victor - The Future of Programming| Ναι |
+| Alan Kay - Programming Languages & Programming (2013)| Ναι |
