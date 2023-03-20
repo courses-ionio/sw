@@ -77,6 +77,8 @@
 | slides |<ul><li>[hl-programming](https://github.com/marked-d/site/blob/master/_slides/hl-programming.md)</li><li>[programming](https://github.com/marked-d/site/blob/master/_slides/programming.md)</li></ul>| [operating-systems](https://github.com/marked-d/site/blob/master/_slides/operating-systems.md) | [site](https://github.com/PaneksypnesDiepafes/site/pull/8) |<ul><li>[hl-programming](https://paneksypnesdiepafes-pibook.netlify.app//slides/hl-programming/)</li><li>[programming](https://paneksypnesdiepafes-pibook.netlify.app//slides/programming/)</li><li>[operating-systems](https://paneksypnesdiepafes-pibook.netlify.app//slides/operating-systems/)</li></ul>|
 | timeline | [programming](https://github.com/marked-d/site/blob/master/_timeline/programming.md) | [os-apps](https://github.com/marked-d/site/blob/master/_timeline/os-apps.md) | [site](https://github.com/PaneksypnesDiepafes/site/pull/8) | <ul><li>[programming](https://paneksypnesdiepafes-pibook.netlify.app//timeline/programming/)</li><li>[os-apps](https://paneksypnesdiepafes-pibook.netlify.app//timeline/os-apps/) </li></ul>|
 
+[Πηγές](https://github.com/marked-d/SW_plus/blob/main/A1+A2/links.md)
+
 Extras
 ========================
 Ntfy Άσκηση Γραμμής Εντολών
