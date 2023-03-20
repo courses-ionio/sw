@@ -102,8 +102,8 @@ GitHub Link: https://github.com/theoharissiwzos
 | gallery | images | timeline | slides | 
 | --- | --- | --- | --- | 
 | [Cleverbot.md](https://github.com/theoharissiwzos/_gallery/blob/f949d5d9fdc454f1a4f91dfdbed72e030e092e2c/chattybot.md)| [Cleverbot.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/chattybot.jpg) | [Chat_bots.md](https://github.com/theoharissiwzos/site/blob/master/_timeline/javabasedchatbots.md) | [Cleverbot_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/chattybot/) |
-| [Mitsuku.md](https://github.com/theoharissiwzos/_gallery/blob/f949d5d9fdc454f1a4f91dfdbed72e030e092e2c/mitsuku.md) | [Mitsuku.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/mitsuku.jpg) | [Netlify Χρονολόγιο](https://papaya-pixie-e473b8.netlify.app//timeline/javabasedchatbots/) | [Mitsuku_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/mitsuku/) | [Mitsuku_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/mitsuku/) ||
-||  [Cleverbot-thumb.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/chattybot-thumb.jpg)|    |        |
+| [Mitsuku.md](https://github.com/theoharissiwzos/_gallery/blob/f949d5d9fdc454f1a4f91dfdbed72e030e092e2c/mitsuku.md) | [Mitsuku.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/mitsuku.jpg) | [Netlify Χρονολόγιο](https://papaya-pixie-e473b8.netlify.app//timeline/javabasedchatbots/) | [Mitsuku_slide.md](https://papaya-pixie-e473b8.netlify.app/gallery/mitsuku/) | ||
+||  [Cleverbot-thumb.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/chattybot-thumb.jpg)|    |   [Netlify Διαφάνειες](https://papaya-pixie-e473b8.netlify.app//slides/javabasedchatbots/)     |
 ||  [Mitsuku-thumb.png](https://github.com/theoharissiwzos/images/blob/9d7c6a5c548aea12b7f8f9a183471da5f22347ee/mitsuku-thumb.jpg)      |    |     | 
 
 
