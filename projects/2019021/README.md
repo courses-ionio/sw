@@ -69,10 +69,10 @@
 
 # Εβδομάδα 5: Συμμετοχικό περιεχόμενο A1 + A2
 
-|     |    | gallery |  
-| --- | --- | --- |
-|1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |    |
-|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  |   | 
+|     |   gallery  | 
+| --- | --- | 
+|1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |    
+|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  |   
 
 # Ομαδικότητα
 https://github.com/courses-ionio/sw/discussions/1162
