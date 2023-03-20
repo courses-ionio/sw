@@ -7,8 +7,8 @@
 | 1 | [Εισαγωγή](#εισαγωγή) | [σύνδεσμος στην συζήτηση]() | αποτύπωσα σε βάθος τους στόχους και τις ανάγκες μου από το μάθημα |
 | 2 | [Γραμμή εντολών (systemd) διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](#2ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | εγκατέστησα το arch linux αποκτώντας τεραστια οφέλη |
 | 3 | [Γραμμή εντολών (no systemd)](#3ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | εγκατέστησα επιτυχώς ένα σύστημα χωρίς systemd, ξεφεύγοντας από το συνηθισμένο τολμώ να πω, ενώ οι δεξιότητες που απέκτησα  θα με συντροφεύουνε σε όλη μου την πορεία |
-| 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](#4ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | |
-| 5 | [Συμμετοχικό περιεχόμενο A1 + A2](#5ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | |
+| 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](#4ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | Επιτυχής προσθήκη σημείωσης και κατασκευή του βιβλίου  |
+| 5 | [Συμμετοχικό περιεχόμενο A1 + A2](#5ο-παραδοτέο) | [σύνδεσμος στην συζήτηση]() | Επιτυχής προσθήκη συμμετοχικού περιεχομένου |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -50,7 +50,28 @@
 
 [![asciicast](https://asciinema.org/a/568348.svg)](https://asciinema.org/a/568348)
 
-
 # 4ο παραδοτέο
 
+Στο 4ο παραδοτέο εμβαθύναμε σε εκπαιδευτικά κομμάτια και μπόρεσα και εγώ να προσθέσω επιτυχώς την σημείωσή μου στο 4ο κεφάλαιο του βιβλίου του μαθήματος και στην συνεχεία να το χτίσω ολόκληρο σε pdf:
+
+![image](https://github.com/p15kara/kallipos/blob/master/screenshot/book.png)
+
+| Περιγραφή | Σύνδεσμος |
+| --------- | --------- |
+| fork kallipos | [kallipos](https://github.com/p15kara/kallipos) |
+| σημείωση | [note](https://github.com/p15kara/organization-notes/blob/main/temple-os.md) |
+| Φίλτρο  | [filter](https://github.com/p15kara/kallipos/blob/master/contribution.lua) |
+| βιβλίο pdf | [book](https://github.com/p15kara/kallipos/blob/master/book/book.pdf) |
+
 # 5ο παραδοτέο
+
+Στο 5ο παραδοτέο κατάφερα να προσθέσω το περιεχόμενό μου στην ιστοσελίδα του μαθήματος και στην συνέχεια μέσω της τεχνολογίας netlify να την κάνω διαθέσιμη στον ιστό: 
+
+| Περιγραφή | Σύνδεσμος |
+| --------- | --------- |
+| Ιστοσελίδα | [2015017.netlify.app](https://2015017.netlify.app) |
+| fork site | [kallipos](https://github.com/p15kara/site) |
+| 1η εικόνα και αρχείο md | [εικόνα](https://github.com/Genesis-The-Beginning/images/blob/8c78d74d97fbe359ddaba29d4a6a9f137b26e2a0/turbo-pascal.jpg) [thumbnail](https://github.com/Genesis-The-Beginning/images/blob/8c78d74d97fbe359ddaba29d4a6a9f137b26e2a0/turbo-pascal-thumb.jpg) [αρχειο](https://github.com/Genesis-The-Beginning/_gallery/blob/4e866796d5fd32cc85cee535761cc03c01f389d1/turbo-pascal.md) |
+| 2η εικόνα και αρχείο md | [εικονα](https://github.com/Genesis-The-Beginning/images/blob/8c78d74d97fbe359ddaba29d4a6a9f137b26e2a0/word-perfect.png) [thumbnail](https://github.com/Genesis-The-Beginning/images/blob/8c78d74d97fbe359ddaba29d4a6a9f137b26e2a0/word-perfect-thumb.png) [αρχειο](https://github.com/Genesis-The-Beginning/_gallery/blob/4e866796d5fd32cc85cee535761cc03c01f389d1/word-perfect.md) |
+| Διαφάνειες | [Διαφάνειες](https://github.com/p15kara/site/blob/master/_slides/ide.md) |
+| Χρονολόγιο | [Χρονολόγιο](https://github.com/p15kara/site/blob/master/_timeline/text-editing.md) |
