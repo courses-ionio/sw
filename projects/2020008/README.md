@@ -91,6 +91,7 @@
 - [GitHub](https://github.com/p20kara/site/blob/master/_slides/technology.md)
 - [pibook](https://p20kara.netlify.app/slides/technology/)
 
+------------------------------------
 
 | Τίτλος Βίντεο | Παρακολούθηση | 
 | --- | --- |
@@ -99,3 +100,5 @@
 |Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
 | Bret Victor - The Future of Programming| Ναι |
 | Alan Kay - Programming Languages & Programming (2013)| Ναι |
+
+------------------------------------
