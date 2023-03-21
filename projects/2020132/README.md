@@ -12,7 +12,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με Pull Request στον οργανισμό της ομάδας μας](https://epidrome.github.io/teaching/team) | [Συνδεσμος Συζήτησης 2ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1304) | |
 | 3 | Γραμμή εντολών (no systemd) | [Σύνδεσμος Συζήτησης 3ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1347) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 4ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1426) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου]() | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -59,3 +59,23 @@
 [Αρχείο λεζάντας multimedia-interaction.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/tree/main)
 
 Στιγμιότυπο βιβλίου με την αλλαγή που πρόσθεσα: ![book](https://user-images.githubusercontent.com/73079436/226191373-6e0f4425-0122-4ebe-bb19-e26c05a6b8d9.png)
+
+## **5ο Παραδοτέο**
+
+Για το συγκεκριμένα παραδοτέο δημιούργησα δύο καινούργιες εικόνες σχετικά με το κεφάλαιο 8, συγκεκριμένα με το κομμάτι που πρόσθεσα στο 4ο παραδοτέο, στο βιβλίο.
+
+**Α1 + Α2:** Τα θέματα τα οποία επέλεξα να αναφέρω είναι η εφαρμογή [Vida Health](https://www.vida.com/) και η τεχνολογία Virtual Reality όσον αφορά την πρακτικότητα της χρήσης της στην ιατρική περίθαλψη. Εφόσον οι εικόνες ήταν διαφορετικού αντικειμένου αλλά κοινού θέματος (Healthcare μέσω πολυμεσικών εφαρμογών), δημιούργησα δύο Timelines.
+
+**Vida Health Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vida-health.png) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vida-health-thumb.png)
+
+**VR Healthcare Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare.png) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare-thumb.png)
+
+**Gallery:** [Vida Health](https://github.com/Vasilakious/_gallery/blob/master/vida-health.md) | [VR Healthcare](https://github.com/Vasilakious/_gallery/blob/master/vr-healthcare.md)
+
+**Repo Slides:** [Vida Health](https://github.com/Vasilakious/site/blob/master/_slides/vida-health.md) | [VR Healthcare](https://github.com/Vasilakious/site/blob/master/_slides/vr-healthcare.md)
+
+**Repo Timelines:** [Vida Health](https://github.com/Vasilakious/site/blob/master/_timeline/vida-health.md) | [VR Healthcare](https://github.com/Vasilakious/site/blob/master/_timeline/vr-healthcare.md)
+
+**Netlify Slides:** [Vida Health](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/slides/vida-health/) | [VR Healthcare](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/slides/vr-healthcare/)
+
+**Netlify Timelines:** [Vida Health](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/timeline/vida-health/) | [VR Healthcare](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/timeline/vr-healthcare/) 
