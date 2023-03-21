@@ -13,7 +13,7 @@
 | [2](#εγκατάσταση-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-2) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | Εγκαστάση Arch Linux για την πρώτη άσκηση γραμμής εντολών, η οποία απαιτούσε λειτουργικό σύστημα με `systemd` |
 | [3](#εγκατάσταση-no-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-3) | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | Εγκατάσταση Void Linux και Kiss Linux για την επίτευξη της άσκηση γραμμής εντολών 2 (`no systemd`) |
 | [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | Συγγραφή και προσθήκη παραγράφου μου για την κατασκευή βιβλίου περί εξομοιτών για προγραμματιστές και χρήστες |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| [5](https://github.com/Xar-Me-Ison/sw/edit/2019214/projects/2019214/README.md#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -102,11 +102,22 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 
 
 # Κατασκευή βιβλίου - Παραδοτέο 4
-Για την κατασκευή βιβλίου επέλεξα να γράψω μία παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με ένα παράδειγμα χρήσης των εξομοιωτών (emulators) όσο τους χρήστες τόσο και για τους προγραμματιστές. Παρακάτω παραθέτω το στιγμιότυπο οθόνης μου με την αλλαγή που έκανα.
+Για την κατασκευή βιβλίου επέλεξα να γράψω μία παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με ένα παράδειγμα χρήσης των εξομοιωτών (emulators) όσο για τους χρήστες τόσο και για τους προγραμματιστές. Παρακάτω παραθέτω το στιγμιότυπο οθόνης μου με την αλλαγή που έκανα.
 
 ![Screenshot 2023-03-17 194401](https://user-images.githubusercontent.com/79524490/225979600-9eba2f1b-e4a6-487c-b506-61197bbd1dba.png)
 
 
-Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Xar-Me-Ison/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Xar-Me-Ison/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) 
+Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Xar-Me-Ison/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Xar-Me-Ison/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.epub), [HTML](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.tex)
 <br />
-Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | [Βιβλίο σε PDF](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.pdf)
+Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.epub), [HTML](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.tex)
+<br />
+
+# Συμμετοχικό περιεχόμενο Α1 + Α2 - Παραδοτέο 5
+Για το συμμετοχικό περιεχόμενο διάλεξα να γράψω για Εξομοιωτές, μιας και σχετίζεται άμεσα με αυτά που έγραψα στο Παραδοτέο 4. Μετά από έρευνα επέλεξα να γράψω για τους εξομοιωτές `DOSBox` και `SheepShaver`, οι οποίο και δύο αποτελούν εξομοιωτές παλαιών λειτουργικών συστηματών **MS-DOS** και **Mac OS 9** αντίστοιχα. Προκείται για δύο περιπτώσεις λογισμικών εξομοιώσης ανοιχτού κώδικα και δίνουν την δυνάτοτητα εγκατάστασης των παραπάνω λογισμικών. Σε κάθε περίπτωση επιτρέπουν την αναβίωση παλαιών λειτουργικών συστημάτων και για τους χρήστες την εγκατάσταση και δοκιμή των λειτουργικών συστημάτων σε σύγχρονους υπολογιστές το οποίο είναι μια αναντικατάστατη ευκαιρία για γνώση.
+
+Παρακάτω παρεθέτω τους συνδέσμους για τα αντίστοιχα αρχεία .md και εικόνες (original και thumbnail) σε μορφή πίνακα για ευκολότερη ανάγνωση.
+
+| _gallery | images | slides | timeline |
+| --- | --- | --- | --- | 
+| [DOSBox .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/dosbox.md) | [DOSBox original](https://github.com/Xar-Me-Ison/images/blob/master/dosbox.jpg) - [DOSBox thumb](https://github.com/Xar-Me-Ison/images/blob/master/dosbox-thumb.jpg) | [DOSBox slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Emulation Software για DOSBox](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/emulation-software.md) |
+| [SheepShaver .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/sheepshaver.md) | [SheepShaver original](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver.jpg) - [SheepShaver thumb](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver-thumb.jpg) | [SheepShaver slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Virtualization Software για SheepShaver](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/virtualization-software.md) |
