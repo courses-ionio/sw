@@ -66,3 +66,9 @@
 
 
 [![asciicast](https://asciinema.org/a/566545.svg)](https://asciinema.org/a/566545)
+
+
+# 5. Συμμετοχικό περιεχόμενο A1 + A2:
+
+<img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">
+<img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg">
