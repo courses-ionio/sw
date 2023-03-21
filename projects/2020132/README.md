@@ -12,7 +12,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με Pull Request στον οργανισμό της ομάδας μας](https://epidrome.github.io/teaching/team) | [Συνδεσμος Συζήτησης 2ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1304) | |
 | 3 | Γραμμή εντολών (no systemd) | [Σύνδεσμος Συζήτησης 3ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1347) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 4ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1426) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου]() | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1462) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
