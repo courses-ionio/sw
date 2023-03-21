@@ -173,8 +173,14 @@
 [Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
 
 # **Static Blog**
+## Για το Παραδοτέο06
 
-Ανέπτυξα ένα shell script το οποίο όταν εκτελείται παράγει ένα αρχείο index.html που αποτελεί ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει της ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Έπειτα δημιούργησα ένα αποθετήριο στο github το οποίο φιλοξενεί το Blog.
+Ανέπτυξα ένα shell script το οποίο όταν εκτελείται παράγει ένα directory my-blog εντός του οποίου κατασκευάζει τρία ακόμη directories:
+  - pages: στο οποίο μπορούν να μπουν οι σελίδες index.html, posts.htmml και about.html
+  - posts: στο οποίο δημιοργεί και ένα sample-post.html
+  - figures: στο οποίο μπορούμε να προσθέσουμε τις εικόνες για το Blog
+
+τα οποία όλα μαζί αποτελούν ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει της ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Έπειτα δημιούργησα ένα αποθετήριο στο github το οποίο φιλοξενεί το Blog.
 
 - [Το repository του Blog](https://github.com/aggelos2000430/ForexForALiving.github.io)
 - [#!/bin/bash](https://github.com/aggelos2000430/ForexForALiving.github.io/blob/main/myBlog.sh)
