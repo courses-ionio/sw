@@ -70,6 +70,7 @@ My Links :
 Σε αυτό το παραδοτέο επέλεξα να προσθέσω στο site, δύο εφαρμογές τηλεδιάσκεψης, το "Zoom" και το "Skype". Αυτές οι εφαρμογές είναι χρήσιμες για την ζωντανή επικοινωνία των ανθρώπων, μέσω βιντεοκλήσης. Μία από τις διαφορές μεταξύ τους είναι πως το Skype σου επιτρέπει κλήσεις χωρίς χρέωση για 24 ώρες, ενώ το Zoom σου επιτρέπει να κάνεις κλήσεις για 40 λεπτά εάν δεν έχεις πληρώσει, αν πληρώσεις σου επιτρέπει 30 ώρες. Επιπλέον, στο Zoom επιτρέπετε μέχρι 1.000 άτομα σε μία κλήση ενώ στο Skype μέχρι 100 άτομα. Γενικά, αυτές οι εφαρμογές ενώ δημιουργήθηκαν για τον ίδιο σκοπό, έχουν σημαντικές διαφορές. 
 
   - [My netlify link](https://olumpiaalexopoulou.netlify.app/)
+  - [Organization netlify link](https://ranger-power.netlify.app/)
   
   | _gallery | images | _timeline | _slides | 
 | --- | --- | --- | --- | 
@@ -78,6 +79,17 @@ My Links :
 |[Skype Netlify](https://olumpiaalexopoulou.netlify.app//gallery/skype-to-skype/)| [Skype-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/skype-to-skype-thumb.jpg)|    |        |
 |[Zoom Netlify](https://olumpiaalexopoulou.netlify.app//gallery/zoom/)|  [Zoom-thumb](https://github.com/olumpiaalexopoulou/images/blob/master/zoom-thumb.jpg)      |     |  [Slides Netlify](https://olumpiaalexopoulou.netlify.app//slides/iui/)   | 
 
+
+Pull requests:
+ - [Site](https://github.com/Ranger-Power/site/pull/1)
+ - [Gallery](https://github.com/Ranger-Power/_gallery/pull/1)
+ - [Images](https://github.com/Ranger-Power/images/pull/1)
+ 
+  | _gallery | _timeline | _slides | 
+| --- | --- | --- | 
+|[Skype Netlify](https://ranger-power.netlify.app//gallery/skype-to-skype/)| [Timeline Netlify](https://ranger-power.netlify.app//timeline/os-apps/)  |   |
+|[Zoom Netlify](https://ranger-power.netlify.app//gallery/zoom/)|    |  [Slides Netlify](https://ranger-power.netlify.app//slides/iui/)   | 
+ 
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
