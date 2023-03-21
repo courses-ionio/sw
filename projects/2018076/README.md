@@ -14,7 +14,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 6 | Γραμμή εντολών (custom static blog generator) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1460)| |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -175,17 +175,17 @@
 # **Static Blog**
 ## Για το Παραδοτέο06
 
-Ανέπτυξα ένα shell script το οποίο όταν εκτελείται παράγει ένα directory my-blog εντός του οποίου κατασκευάζει τρία ακόμη directories:
-  - pages: στο οποίο μπορούν να μπουν οι σελίδες index.html, posts.htmml και about.html
-  - posts: στο οποίο δημιοργεί και ένα sample-post.html
-  - figures: στο οποίο μπορούμε να προσθέσουμε τις εικόνες για το Blog
+Ανέπτυξα ένα shell script, το οποίο όταν εκτελείται παράγει ένα directory `my-blog` εντός του οποίου κατασκευάζει τρία subdirectories:
+  - `pages`: στο οποίο μπορούν να μπουν οι σελίδες `posts.html` και `about.html`
+  - `posts`: εντός του οποίου δημιοργείται και ένα `sample-post.html` το οποίο έχει και Ημερομηνία που δημιουργήθηκε το Post
+  - `figures`: στο οποίο μπορούμε να προσθέσουμε τις εικόνες για το Blog
+  - `index.html`: το οποίο αποτελεί και την αρχική σελίδα του Blog
 
-τα οποία όλα μαζί αποτελούν ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει της ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Έπειτα δημιούργησα ένα αποθετήριο στο github το οποίο φιλοξενεί το Blog.
+τα οποία όλα μαζί αποτελούν ένα static blog το οποίο έπειτα μπορεί να τροποποιηθεί κατάλληλα για να καλύπτει τις ανάγκες του χρήστη επεξεργάζοντας το αρχικά τοπικά. Επίσης πρόσθεσα κι ένα `search.js` αρχείο το οποίο κάνει την περιήγηση του χρήστη στο Blog ευκολότερη μεταφέροντας τον στο post της αναζήτησης του. Έπειτα δημιούργησα ένα αποθετήριο στο Github το οποίο φιλοξενεί το Blog:
 
 - [Το repository του Blog](https://github.com/aggelos2000430/ForexForALiving.github.io)
 - [#!/bin/bash](https://github.com/aggelos2000430/ForexForALiving.github.io/blob/main/myBlog.sh)
 - [Το Blog](https://aggelos2000430.github.io/ForexForALiving.github.io/)
-
 
 
 # **Βίντεο Quiz**
