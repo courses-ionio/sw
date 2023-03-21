@@ -69,6 +69,7 @@
 
 
 # 5. Συμμετοχικό περιεχόμενο A1 + A2:
+* images: [tabletPC_mictosoft](https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg), [alan-kay-and-dynabook](https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg)
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">
 <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg">
