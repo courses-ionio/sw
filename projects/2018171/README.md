@@ -12,7 +12,7 @@
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [asciinema link](https://asciinema.org/a/562910) , [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1271) | |
 | 3 | Γραμμή εντολών (no systemd) | [asciinema link](https://asciinema.org/a/564646) ,  [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1330) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [asciinema link](https://asciinema.org/a/566545), [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1380) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1461) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
