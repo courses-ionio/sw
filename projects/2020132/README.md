@@ -66,9 +66,9 @@
 
 **Α1 + Α2:** Τα θέματα τα οποία επέλεξα να αναφέρω είναι η εφαρμογή [Vida Health](https://www.vida.com/) και η τεχνολογία Virtual Reality όσον αφορά την πρακτικότητα της χρήσης της στην ιατρική περίθαλψη. Εφόσον οι εικόνες ήταν διαφορετικού αντικειμένου αλλά κοινού θέματος (Healthcare μέσω πολυμεσικών εφαρμογών), δημιούργησα δύο Timelines.
 
-**Vida Health Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vida-health.png) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vida-health-thumb.png)
+**Vida Health Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vida-health.jpg) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vida-health-thumb.jpg)
 
-**VR Healthcare Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare.png) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare-thumb.png)
+**VR Healthcare Images:** [Normal Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare.jpg) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/vr-healthcare-thumb.jpg)
 
 **Gallery:** [Vida Health](https://github.com/Vasilakious/_gallery/blob/master/vida-health.md) | [VR Healthcare](https://github.com/Vasilakious/_gallery/blob/master/vr-healthcare.md)
 
