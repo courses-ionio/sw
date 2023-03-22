@@ -14,7 +14,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1302) | |
 | 3 | Γραμμή εντολών (no systemd) |   [Discussion](https://github.com/courses-ionio/sw/discussions/1336) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1370) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | [Discussion](https://github.com/courses-ionio/sw/discussions/1472) |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussion](https://github.com/courses-ionio/sw/discussions/1472) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
