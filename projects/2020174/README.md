@@ -86,5 +86,14 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 [![asciicast](https://asciinema.org/a/XdLthTmu1u1NWFzO3YXzj4B62.svg)](https://asciinema.org/a/XdLthTmu1u1NWFzO3YXzj4B62)
 
 # Παραδοτέο 4 - Κατασκευή του βιβλίου Α2
+Για την κατασκευή βιβλίου επέλεξα να δωσω ενα παράδειγμα στο κεφάλαιο 7.3 του βιβλίου, οσον αφορα για την πρώτη
+εφαρμογή διαδικτυακής επικοινωνίας(CBBS). H παρακάτω εικόνα περιέχει το απόσπασμα της αλλαγής μου.
+
+![CBBS](https://user-images.githubusercontent.com/92447304/226939013-83435f67-992b-40f9-9efc-1ca2ddbdc72f.png)
+
+Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Futsies/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Futsies/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Futsies/Kallipos-Notes-LetMeDoItForYou/blob/main/cbbs.md) | Βιβλίο σε [PDF](https://github.com/Futsies/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/Futsies/kallipos/blob/master/book/book.epub), [HTML](https://github.com/Futsies/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/Futsies/kallipos/blob/master/book/book.tex)
+<br />
+Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/main/cbbs.md) | Βιβλίο σε [PDF](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.epub), [HTML](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.tex)
+<br />
 
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A1 + A2
