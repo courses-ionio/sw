@@ -72,6 +72,7 @@
 * [images](https://github.com/perikarananou/images): [tabletPC_mictosoft](https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg), [alan-kay-and-dynabook](https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg)
 * [_gallery](https://github.com/perikarananou/_gallery): [tabletPC_mictosoft](https://github.com/perikarananou/_gallery/blob/master/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/_gallery/blob/master/alan-kay-and-dynabook.md)
 * [_slides](https://github.com/perikarananou/site/tree/master/_slides): [tabletPC_mictosoft](https://github.com/perikarananou/site/blob/master/_slides/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/site/blob/master/_slides/alan-kay-and-dynabook.md)
+* [_timeline](https://github.com/perikarananou/site/tree/master/_timeline): [tabletPC_mictosoft](https://github.com/perikarananou/site/blob/master/_timeline/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/site/blob/master/_timeline/alan-kay-and-dynabook.md)
 
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">. <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
