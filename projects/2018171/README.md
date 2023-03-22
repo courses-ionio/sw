@@ -70,6 +70,8 @@
 
 # 5. Συμμετοχικό περιεχόμενο A1 + A2:
 * [images](https://github.com/perikarananou/images): [tabletPC_mictosoft](https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg), [alan-kay-and-dynabook](https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg)
-* [_gallery](https://github.com/perikarananou/_gallery): [tabletPC_mictosoft.md](https://github.com/perikarananou/_gallery/blob/master/tabletPC_mictosoft.md), [alan-kay-and-dynabook.md](https://github.com/perikarananou/_gallery/blob/master/alan-kay-and-dynabook.md)
+* [_gallery](https://github.com/perikarananou/_gallery): [tabletPC_mictosoft](https://github.com/perikarananou/_gallery/blob/master/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/_gallery/blob/master/alan-kay-and-dynabook.md)
+* [_slides](https://github.com/perikarananou/site/tree/master/_slides): [tabletPC_mictosoft](https://github.com/perikarananou/site/blob/master/_slides/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/site/blob/master/_slides/alan-kay-and-dynabook.md)
+
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">. <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
