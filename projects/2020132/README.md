@@ -76,6 +76,8 @@
 
 **Repo Timelines:** [Vida Health](https://github.com/Vasilakious/site/blob/master/_timeline/vida-health.md) | [VR Healthcare](https://github.com/Vasilakious/site/blob/master/_timeline/vr-healthcare.md)
 
-**Netlify Slides:** [Vida Health](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/slides/vida-health/) | [VR Healthcare](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/slides/vr-healthcare/)
+**Netlify Gallery:** [Vida Health](https://p2020132-pibook-2023.netlify.app/gallery/vida-health/) | [VR Healthcare](https://p2020132-pibook-2023.netlify.app/gallery/vr-healthcare/)
 
-**Netlify Timelines:** [Vida Health](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/timeline/vida-health/) | [VR Healthcare](https://6419b505c666db04dc7054c2--p2020132-pibook-2023.netlify.app/timeline/vr-healthcare/) 
+**Netlify Slides:** [Vida Health](https://p2020132-pibook-2023.netlify.app/slides/vida-health/) | [VR Healthcare](https://p2020132-pibook-2023.netlify.app/slides/vr-healthcare/)
+
+**Netlify Timelines:** [Vida Health](https://p2020132-pibook-2023.netlify.app/timeline/vida-health/) | [VR Healthcare](https://p2020132-pibook-2023.netlify.app/timeline/vr-healthcare/) 
