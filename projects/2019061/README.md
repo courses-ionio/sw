@@ -64,14 +64,26 @@
 
 ![pelotonbike](https://user-images.githubusercontent.com/72463627/226212008-ef073558-ee2d-4a80-bd9b-4ab412627998.jpg)
 
-#### Οι προσθήκες μου στην ιστοσελίδα:
+### Οι προσθήκες μου στην ιστοσελίδα μου:
 
 * [Στατικό ποδήλατο Lifecycle](https://tilav-sw.netlify.app//gallery/lifecyclebike/)
 * [Ποδήλατο Peloton](https://tilav-sw.netlify.app//gallery/pelotonbike/)
 * Χρονολόγιο: [Lifecycle stationary bike](https://tilav-sw.netlify.app//timeline/prototypes/) - [Peloton bike](https://tilav-sw.netlify.app//timeline/systems/)
 * Διαφάνειες: [Lifecycle stationary bike](https://tilav-sw.netlify.app//slides/styles/) - [Peloton bike](https://tilav-sw.netlify.app//slides/hypermedia/)
 
-#### ! Οι παραπάνω προσθήκες αφορούν την προσωπική μου ιστοσελίδα (Το Pull Request στην ομάδα μου θα γίνει τις επόμενες μέρες)
+### Οι προσθήκες μου στην [ιστοσελίδα της ομάδας μου](https://ranger-power.netlify.app/):
+
+* [Στατικό ποδήλατο Lifecycle](https://ranger-power.netlify.app//gallery/lifecyclebike/)
+* [Ποδήλατο Peloton](https://ranger-power.netlify.app//gallery/pelotonbike/)
+* Χρονολόγιο: [Lifecycle stationary bike](https://ranger-power.netlify.app//timeline/prototypes/) - [Peloton bike](https://ranger-power.netlify.app//timeline/systems/)
+* Διαφάνειες: [Lifecycle stationary bike](https://ranger-power.netlify.app//slides/styles/) - [Peloton bike](https://ranger-power.netlify.app//slides/hypermedia/)
+
+### Τα Pull Request στην ομάδα μου:
+
+* images: [Pull Request](https://github.com/Ranger-Power/images/pull/2)
+* _gallery: [Pull Request](https://github.com/Ranger-Power/_gallery/pull/2)
+* site: [Pull Request](https://github.com/Ranger-Power/site/pull/2)
+
 
 ## Βίντεο Κουίζ
 
