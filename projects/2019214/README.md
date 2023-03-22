@@ -121,3 +121,10 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | --- | --- | --- | --- | 
 | [DOSBox .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/dosbox.md) | [DOSBox original](https://github.com/Xar-Me-Ison/images/blob/master/dosbox.jpg) - [DOSBox thumb](https://github.com/Xar-Me-Ison/images/blob/master/dosbox-thumb.jpg) | [DOSBox slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Emulation Software για DOSBox](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/emulation-software.md) |
 | [SheepShaver .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/sheepshaver.md) | [SheepShaver original](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver.jpg) - [SheepShaver thumb](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver-thumb.jpg) | [SheepShaver slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Virtualization Software για SheepShaver](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/virtualization-software.md) |
+
+Παρακάτω παραθέτω το Netlify σε ατομικό επίπεδο. 
+
+| Netlify _gallery | Netlify slides | Netlify timeline |
+| --- | ---  | --- | 
+| [DOSBox κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/dosbox/) | [DOSBox διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/)| [DOSBox χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/emulation-software/) |
+| [Sheepshaver κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/sheepshaver/)| [SheepShaver διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/) | [SheepShaver χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/virtualization-software/)
