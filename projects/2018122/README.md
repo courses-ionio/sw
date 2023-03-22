@@ -63,6 +63,20 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A1 + A2
 
+Για το 5ο παραδοτέο έπρεπε να κάνουμε τις απαραίτητες αλλαγές στο Site και έπειτα να κάνουμε deploy στο Netlify για να φαίνονται οι αλλαγές μας. 
+Παρότι έκανα τις αλλαγές , δεν κατάφερα να κάνω το deploy χωρίς ακόμη να εξακριβώσω τον λόγο . Παρακάτω θα δείτε τις αλλαγές που έκανα στο site και θα μείνει προσωρινά ανολοκλήρωτο το παραδοτέο μέχρι να καταφέρω να κάνω το deploy. 
+
+**Gallery** :
+[Windows 11 Home Screen](https://github.com/AndreasKarageorgiou/_gallery/blob/master/wind11-hs.md)
+
+[IBM-PC-DOS](https://github.com/AndreasKarageorgiou/_gallery/blob/master/ibm-pc-dos.md)
+
+**Timeline** :
+[Operating Systems](https://github.com/AndreasKarageorgiou/site/blob/master/_timeline/operating-systems.md)
+
+**Slides** :
+[Operating Systems](https://github.com/AndreasKarageorgiou/site/blob/master/_slides/operat-systems.md)
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή εντολών (no systemd, custom static blog generator)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 7 | συμμετοχικό περιεχόμενο B1
