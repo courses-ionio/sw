@@ -28,9 +28,9 @@
 | 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link του discussion](https://github.com/courses-ionio/sw/discussions/1252)| [Εισαγωγή](#παραδοτέο-1---εισαγωγή) |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1261) | [Παραδοτέο 2](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#παραδοτέο-2---άσκηση-γραμμής-εντολών)+[Προβλήματα](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#προβλήματα-που-αντιμετώπησα)+[Άσκηση γραμμής εντολών](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#άσκηση-γραμμής-εντολών-1) |
 | 3 | Γραμμή εντολών (no systemd) |  [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1357) | [Παραδοτέο 3](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#παραδοτέο-3---άσκηση-γραμμής-εντολών-no-systemd)+[Διαδικασία εγκατάστηασης Vois Linux](https://github.com/Futsies/sw/edit/2020174/projects/2020174/README.md#διαδικασία-εγκατάστηασης-vois-linux)+[Διαδικασία εγκατάστηασης Kiss Linux](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#διαδικασία-εγκατάστηασης-kiss-linux) |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [ Link του discussion]() | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion]() | |
+| 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion]() | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
