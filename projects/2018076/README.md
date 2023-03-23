@@ -187,6 +187,34 @@
 - [#!/bin/bash](https://github.com/aggelos2000430/ForexForALiving.github.io/blob/main/myBlog.sh)
 - [Το Blog](https://aggelos2000430.github.io/ForexForALiving.github.io/)
 
+  
+# Συμμετοχικό Περιεχόμενο B1
+
+## Για το Παραδοτέο07
+
+## Β1
+### Αρχείο εικόνας:
+- []()
+  
+### Αρχεία .md:
+- []()
+- []()
+ 
+### Η προσθήκη στο Site:
+
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Το init system της Apple](https://master--enchanting-longma-2e1d35.netlify.app/case-study/launchd/)
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--enchanting-longma-2e1d35.netlify.app/images/launchd.png" width="70%" />
+</p>  
+  
+
 
 # **Βίντεο Quiz**
 
