@@ -99,12 +99,12 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A1 + A2
 Για το συμμετοχικό περιεχόμενο αποφάσισα να επεκτείνω την έρευνα μου ως προς τα μοντέλα επικοινωνίας/δικτυοσεις ανθρώπων μεσω υπολογιστων, και για αυτό διάλεξα να γράψω για την υπιρεσία `Hotmail` η οποια ήταν μια από τις πρώτες υπηρεσίες webmail στο Διαδίκτυο και για το `CB Simulator` η οποία ήταν η πρώτη αποκλειστική υπηρεσία διαδικτυακής συνομιλίας που ήταν ευρέως διαθέσιμη στο κοινό.
 
-<b>Hotmail Images:<b/> <br/>
-<b>CB Simulator Images:<b/> <br/>
-<b>Gallery:<b/> <br/>
-<b>Repo Slides:<b/> <br/>
-<b>Repo Timelines:<b/> <br/>
-<b>Netlify Gallery:<b/> <br/>
-<b>Netlify Slides:<b/> <br/>
-<b>Netlify Timelines:<b/> <br/>
+<b>Hotmail Images:<b/> [Source](https://en.wikipedia.org/wiki/File:Hotmail_old_screenshot.jpg) | [Normal](https://github.com/Futsies/images/blob/master/hotmail.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/hotmail-thumb.jpg) <br/>
+<b>CB Simulator Images:<b/> [Source](https://tgforum.com/virtual-personae/compuserve-cb-simulator-screen/) | [Normal](https://github.com/Futsies/images/blob/master/cb-simulator.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/cb-simulator-thumb.jpg) <br/>
+<b>Gallery:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Repo Slides:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Repo Timelines:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Netlify Gallery:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Netlify Slides:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Netlify Timelines:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
 
