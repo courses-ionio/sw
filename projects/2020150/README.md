@@ -12,7 +12,7 @@
 | [2](#εβδομάδα-2η) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1293) |  |
 | [3](#εβδομαδα-3η) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1434) | |
 | [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -60,3 +60,14 @@
 ### [Βook fork](https://github.com/thanosks/kallipos/tree/master/book)
 
 ![2023-03-19_21-14](https://user-images.githubusercontent.com/72318224/226203759-66d8833f-76ea-4243-b43b-38462e348f6b.png)
+
+## Εβδομάδα 5η
+
+### Slides
+[Learning](https://p2020150-pibook.netlify.app/slides/learning/) | [Multimedia](https://p2020150-pibook.netlify.app/slides/multimedia/)
+
+### Timeline
+[Learning](https://p2020150-pibook.netlify.app/timeline/learning/) | [Multimedia](https://p2020150-pibook.netlify.app/timeline/multimedia/)
+
+### Gallery
+[AR](https://p2020150-pibook.netlify.app/gallery/augmented-reality/) | [Pure Data](https://p2020150-pibook.netlify.app/gallery/pure-data/)
