@@ -20,11 +20,12 @@
 | 10 | Τελική αναφορά* | | |
 
 
-## Εισαγωγή
+# Εισαγωγή
 
 Με αυτό το μάθημα θα ήθελα να διευρύνω τις ικανότητες μου ως προς την κατανόηση του υπολογιστή και ως αποτέλεσμα ως προς τον στόχο μου όπου είναι η κατασκευή και σχεδιασμός παιχνιδιών. Θα ήθελα να αναπτύξω τις γνώσεις μου πάνω σε αυτόν τον τομέα και να αποκτήσω εμπειρία και καλύτερη κατανόηση στην χρήση υπολογιστή. Πιστεύω ότι ο άνθρωπος είναι ένας υπάρχων οργανισμός που αναζητά νόημα και σκοπό στη ζωή του. Ο υπολογιστής σχεδιάστηκε για να επεξεργάζεται, αποθηκεύει και αναπαράγει πληροφορία σε ψηφιακή μορφή. Οι υπολογιστές έχουν εφαρμογές σε πολλούς τομείς της ζωής μας. Η διάδραση μεταξύ αυτών των δύο συνήθως γίνεται για την επίτευξη ενός σκοπού, η αλληλεπίδραση αυτή επηρεάζεται από πολλούς παράγοντες, όπως η ευχρηστία του λογισμικού, η απόδοση της συσκευής, η ανταπόκριση του συστήματος και η κατανόηση των απαιτήσεων του χρήστη.
 
-## Γραμμή εντολών και εγκατάσταση arch-linux
+# Γραμμή εντολών και εγκατάσταση arch-linux
+
 Για την υπολοίηση αυτού του παραδοτέου, χρείαστηκαν δύο usb, το πρωτο usb για την εγκατάστη του [iso](https://archlinux.org/download/) και έκανα bootable το στικάκη με την βοήθεια του [Rufus](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus). Στην συνέχεια χρησιμοποίησα ένα δεύτερο στικάκη έτσι ώστε να έχουμε ένα καθαρό μέσω αποθηκευτικού χώρο για να εγκαταστήσουμε το λογισμικό μας(Archlinux). Στην αρχή με την βοήθεια πάντα του [installation guide](https://wiki.archlinux.org/title/installation_guide) έγινε η σύνδεση στο διαδίκτυο και στην συνέχεια με την βοήθεια του reflector επιλέχτηκε ο κατάλληλος server.Στην συνέχεια φτιάχτηκαν τα particions και τα mounts. Αμέσως μετά έγινε ορισμός του time-zone και έγινε η εγκατάσταση βασικών πακέτων όπως το grub. Έπειτα έγινε η δημιουργεία χρηστών. Έτσι ολοκληρώθηκε η εγκατάσταση στο δεύτερο usb. 
 
 
@@ -63,7 +64,8 @@
 - [py-spy](https://github.com/benfred/py-spy)
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
-###  Γραμμή εντολών (no systemd)
+#  Γραμμή εντολών (no systemd)
+
 Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία. Στην αρχή κατεβάζεις το void-live-x86_64-musl-20221001-xfce.iso από τα [installer](https://repo-default.voidlinux.org/live/current/) του [download guide]([https://docs.voidlinux.org/about/index.html](https://voidlinux.org/download/)) και έπειτα πρόσθεσα το iso στο virtual machine και το ξεκινήσα. Στην συνέχεια ξεκίνησα την διαδικασία με την εντολή ``void-installer`` και τα υπόλοιπα ήταν μία απλη διαδικασία διότι το installer περιέχει GUI.
 
 Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss guide](https://kisslinux.org/install#001). 
@@ -77,17 +79,17 @@
 - [Kiss Linux](https://kisslinux.org/install#001)
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
-## Κατασκευή του βιβλίου Α2 (συνεργατικά):
+# Κατασκευή του βιβλίου Α2 (συνεργατικά):
 
 Μαζί με την ομάδα μου δημιουργήσαμε το [pfd του βιβλίου](https://github.com/p20poli/kallipos/blob/master/book/book.pdf) , το [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh) και τέλος έκανα την δικιά μου προσθήκη όπου μιλάω για την [προσωμίωση και την διαδραστικότητα](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/Interactivity.md) του 8ου κεφαλαίου , πιο συγκεκριμένα για 2d και 3d γραφικά. 
 
-## Αρχεία:
+### Αρχεία:
 - [pfd του βιβλίου](https://github.com/p20poli/kallipos/blob/master/book/book.pdf)
 - [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
 - [interactivity.md](https://github.com/p20poli/Kallipos-Notes-LetMeDoItForYou/blob/main/interactivity.md)
 
-## Συμμετοχικό περιεχόμενο A1 + A2
+# Συμμετοχικό περιεχόμενο A1 + A2
 
 Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με τα συστήματα που έχουν χρησιμοποιηθεί για τις κονσόλες "Nintendo Entertainment System"(NES) όπου είχε 2d γραφικά σαν διεπάφη και το χειριστήριο της περιήχε μόνο directional pad για την διάδραση του παίκτη με αυτήν σε αντίθεση με την κονσόλα "Nintendo 64" όπου είχε περιήχε 3d διεπάφη με την προσθήκη εκτός του directional pad ένα stick για την κίνηση της κάμερας.
 
