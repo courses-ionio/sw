@@ -105,6 +105,6 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 <b>Repo Slides:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_slides/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_slides/hotmail.md) <br/>
 <b>Repo Timelines:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_timeline/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_timeline/hotmail.md) <br/>
 <b>Netlify Gallery:<b/> [CB Simulator]() | [Hotmail]() <br/>
-<b>Netlify Slides:<b/> [CB Simulator]() | [Hotmail]() <br/>
-<b>Netlify Timelines:<b/> [CB Simulator]() | [Hotmail]() <br/>
+<b>Netlify Slides:<b/> [CB Simulator](https://master--p2020174-pibook.netlify.app/slides/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/slides/hotmail/) <br/>
+<b>Netlify Timelines:<b/> [CB Simulator](https://master--p2020174-pibook.netlify.app/timeline/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/timeline/hotmail/) <br/>
 
