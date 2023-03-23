@@ -15,7 +15,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1460)| |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 |  [Link to discussions](https://github.com/courses-ionio/sw/discussions/1474) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
