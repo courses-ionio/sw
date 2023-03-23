@@ -214,7 +214,7 @@
 <a href="" target="_blank"><img src="https://master--enchanting-longma-2e1d35.netlify.app/images/launchd.png" width="70%" />
 </p>  
   
-
+[Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
 
 # **Βίντεο Quiz**
 
