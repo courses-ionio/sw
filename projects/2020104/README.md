@@ -93,7 +93,7 @@
 
 Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με τα συστήματα που έχουν χρησιμοποιηθεί για τις κονσόλες "Nintendo Entertainment System"(NES) όπου είχε 2d γραφικά σαν διεπάφη και το χειριστήριο της περιήχε μόνο directional pad για την διάδραση του παίκτη με αυτήν σε αντίθεση με την κονσόλα "Nintendo 64" όπου είχε περιήχε 3d διεπάφη με την προσθήκη εκτός του directional pad ένα stick για την κίνηση της κάμερας. 
 
-Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://p2020104-pibook.netlify.app/) του netlify όπου εφτιάξαμε και συνδέσαμε με το [repository](https://github.com/p20poli/site) της ομάδας μέσω του terminal. Και τέλος τα πρόσθεσα στα [timeline](https://github.com/p20poli/site/tree/master/_timeline) όπου πρόσθεσα το [6502 Assembly](https://github.com/p20poli/site/blob/master/_timeline/programming.md) στον προγραμματισμό και το Reality Immersion στα [διαδραστικα συστήματα]( Technologyhttps://github.com/p20poli/site/blob/master/_timeline/systems.md) και στα [slides](https://github.com/p20poli/site/tree/master/_slides) όπου πρόσθεσα το 6502 Assembly στον [προγραμματισμό](https://github.com/p20poli/site/blob/master/_slides/programming.md) και το Reality Immersion Technology στα [Εργαλεία](https://github.com/p20poli/site/blob/master/_slides/tools.md).
+Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://p2020104-pibook.netlify.app/) του netlify όπου εφτιάξαμε και συνδέσαμε με το [repository](https://github.com/p20poli/site) της ομάδας μέσω του terminal. Και τέλος τα πρόσθεσα στα [timeline](https://github.com/p20poli/site/tree/master/_timeline) όπου πρόσθεσα το [6502 Assembly](https://github.com/p20poli/site/blob/master/_timeline/programming.md) στις γλω΄σσες προγραμματισμού και το Reality Immersion στα [διαδραστικα συστήματα](https://github.com/p20poli/site/blob/master/_timeline/systems.md) και στα [slides](https://github.com/p20poli/site/tree/master/_slides) όπου πρόσθεσα το 6502 Assembly στον [προγραμματισμό](https://github.com/p20poli/site/blob/master/_slides/programming.md) και το Reality Immersion Technology στα [Εργαλεία](https://github.com/p20poli/site/blob/master/_slides/tools.md).
 
 ### Galleries:
 - [6502 Assembly](https://github.com/p20poli/_gallery/blob/master/6502_Assembly.md)
@@ -104,3 +104,17 @@
 - [Nintendo Entertainment System thumb](https://github.com/p20poli/images/blob/master/NintendoEntertainmentSystem-thumb.png)
 - [Nintendo64](https://github.com/p20poli/images/blob/master/nintendo64.png)
 - [Nintendo64 thumb](https://github.com/p20poli/images/blob/master/nintendo64-thumb.png)
+
+### Netlify
+
+#### Galleries
+- [6502 Assembly](https://p2020104-pibook.netlify.app/gallery/6502_assembly/)
+- [Reality Immersion Technology](https://p2020104-pibook.netlify.app/gallery/reality_immersion_technology/)
+
+#### Slides
+- [6502 Assembly](https://p2020104-pibook.netlify.app//slides/example/)
+- [Reality Immersion Technology](https://p2020104-pibook.netlify.app//slides/tools/)
+
+#### Timeline
+- [6502 Assembly](https://p2020104-pibook.netlify.app//timeline/programming/)
+- [Reality Immersion Technology](https://p2020104-pibook.netlify.app//timeline/systems/)
