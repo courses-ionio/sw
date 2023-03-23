@@ -86,3 +86,19 @@
 - [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
 - [interactivity.md](https://github.com/p20poli/Kallipos-Notes-LetMeDoItForYou/blob/main/interactivity.md)
+
+# Κατασκευή του βιβλίου Α2 (συνεργατικά)
+
+Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με τα συστήματα που έχουν χρησιμοποιηθεί για τις κονσόλες "Nintendo Entertainment System"(NES) όπου είχε 2d γραφικά σαν διεπάφη και το χειριστήριο της περιήχε μόνο directional pad για την διάδραση του παίκτη με αυτήν σε αντίθεση με την κονσόλα "Nintendo 64" όπου είχε περιήχε 3d διεπάφη με την προσθήκη εκτός του directional pad ένα stick για την κίνηση της κάμερας.
+
+Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://p2020104-pibook.netlify.app/) του netlify όπου εφτιάξαμε και συνδέσαμε με το [repository](https://github.com/p20poli/site) της ομάδας μέσω του terminal.
+
+### Galleries:
+- [6502 Assembly](https://github.com/p20poli/_gallery/blob/master/6502_Assembly.md)
+- [Reality Immersion Technology](https://github.com/p20poli/_gallery/blob/master/reality_immersion_technology.md)
+
+### Images
+- [Nintendo Entertainment System](https://github.com/p20poli/images/blob/master/NintendoEntertainmentSystem.png)
+- [Nintendo Entertainment System thumb](https://github.com/p20poli/images/blob/master/NintendoEntertainmentSystem-thumb.png)
+- [Nintendo64](https://github.com/p20poli/images/blob/master/nintendo64.png)
+- [Nintendo64 thumb](https://github.com/p20poli/images/blob/master/nintendo64-thumb.png)
