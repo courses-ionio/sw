@@ -87,7 +87,7 @@
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
 - [interactivity.md](https://github.com/p20poli/Kallipos-Notes-LetMeDoItForYou/blob/main/interactivity.md)
 
-# Συμμετοχικό περιεχόμενο A1 + A2
+## Συμμετοχικό περιεχόμενο A1 + A2
 
 Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με τα συστήματα που έχουν χρησιμοποιηθεί για τις κονσόλες "Nintendo Entertainment System"(NES) όπου είχε 2d γραφικά σαν διεπάφη και το χειριστήριο της περιήχε μόνο directional pad για την διάδραση του παίκτη με αυτήν σε αντίθεση με την κονσόλα "Nintendo 64" όπου είχε περιήχε 3d διεπάφη με την προσθήκη εκτός του directional pad ένα stick για την κίνηση της κάμερας.
 
