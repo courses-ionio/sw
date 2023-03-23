@@ -101,10 +101,10 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 
 <b>Hotmail Images:<b/> [Source](https://en.wikipedia.org/wiki/File:Hotmail_old_screenshot.jpg) | [Normal](https://github.com/Futsies/images/blob/master/hotmail.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/hotmail-thumb.jpg) <br/>
 <b>CB Simulator Images:<b/> [Source](https://tgforum.com/virtual-personae/compuserve-cb-simulator-screen/) | [Normal](https://github.com/Futsies/images/blob/master/cb-simulator.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/cb-simulator-thumb.jpg) <br/>
-<b>Gallery:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
-<b>Repo Slides:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
-<b>Repo Timelines:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
-<b>Netlify Gallery:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
-<b>Netlify Slides:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
-<b>Netlify Timelines:<b/> [Source]() | [Normal]() | [Thumb]() <br/>
+<b>Gallery:<b/> [CB Simulator](https://github.com/Futsies/_gallery/blob/master/cb-simulator.md) | [Hotmail](https://github.com/Futsies/_gallery/blob/master/hotmail.md) <br/>
+<b>Repo Slides:<b/> [CB Simulator]() | [Hotmail]() <br/>
+<b>Repo Timelines:<b/> [CB Simulator]() | [Hotmail]() <br/>
+<b>Netlify Gallery:<b/> [CB Simulator]() | [Hotmail]() <br/>
+<b>Netlify Slides:<b/> [CB Simulator]() | [Hotmail]() <br/>
+<b>Netlify Timelines:<b/> [CB Simulator]() | [Hotmail]() <br/>
 
