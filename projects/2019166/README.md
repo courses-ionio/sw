@@ -14,7 +14,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [My link](https://github.com/courses-ionio/sw/discussions/1316)| |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [My link](https://github.com/courses-ionio/sw/discussions/1366)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [My link](https://github.com/courses-ionio/sw/discussions/1438) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 6 | Γραμμή εντολών (custom static blog generator) | [My link](https://github.com/courses-ionio/sw/discussions/1479) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -89,6 +89,20 @@ Pull requests:
 | --- | --- | --- | 
 |[Skype Netlify](https://ranger-power.netlify.app//gallery/skype-to-skype/)| [Timeline Netlify](https://ranger-power.netlify.app//timeline/os-apps/)  |   |
 |[Zoom Netlify](https://ranger-power.netlify.app//gallery/zoom/)|    |  [Slides Netlify](https://ranger-power.netlify.app//slides/iui/)   | 
+
+
+# <h2>Γραμμή εντολών (custom static blog generator)</h2>
+
+Σε αυτό το παραδοτέο μέσω του Alpine linux αποφάσισα να χρησιμοποιήσω το bashblog για να μπορέσω να δημιουργήσω ένα post για το static site blog μου. 
+
+Παρακάτω σας δείχνω μέσω του asciinema τα αρχεία που δημιουργήθηκαν όταν έτρεξα την εντολή ./bb.sh post :
+ - [Asciinema Link](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5)
+ 
+ [![asciicast](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5.svg)](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5)
+
+Οι αλλαγές μου έχουν ανέβει και στο [My repository](https://github.com/olumpiaalexopoulou/oliv.github.io).
+
+! Δυστυχώς αντιμετωπίζω ένα πρόβλημα δεν μου φορτώνει την σελίδα και ακόμη δεν έχω βρει κάποια λύση.
  
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
