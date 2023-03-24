@@ -217,6 +217,37 @@
   
 [Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
 
+  
+# Συμμετοχικό Περιεχόμενο B2
+
+## Για το Παραδοτέο09
+
+## Β2
+### Αρχείο εικόνας:
+- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile.png)
+  
+### Αρχεία .md:
+- [_biography](https://github.com/aggelos2000430/site/blob/master/_biography/bret-victor.md)
+- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/bio-bret-victor.md)
+
+ 
+### Η προσθήκη στο Site:
+
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Bret Victor](https://master--enchanting-longma-2e1d35.netlify.app/biography/victor-bret/)
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--enchanting-longma-2e1d35.netlify.app/images/victor-profile.png" width="70%" />
+</p>  
+  
+[Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
+  
+
 # **Βίντεο Quiz**
 
 | X | Τίτλος | Ολοκληρώθηκαν | Εμπρόθεσμα |
