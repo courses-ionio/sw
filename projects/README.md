@@ -36,10 +36,20 @@
 [![asciicast](https://asciinema.org/a/562370.svg)](https://asciinema.org/a/562370)
 
 ## Παραδοτέο 5 - Συμμετοχικό Περιεχόμενο Α1 + Α2
-Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο σχετικά το atari TOS και το quart catalyst 3.
+Για την πέμπτη εβδομάδα πρόσθεσα συμμετοχικό περιεχόμενο σχετικά το atari TOS και το quart catalyst 3.
 | gallery | images | timeline | slides | 
 | --- | --- | --- | --- | 
 | [atari_TOS.md](https://github.com/nikosbout/_gallery/blob/master/atari_TOS.md)| [atari_TOS.png](https://github.com/nikosbout/images/blob/master/atari_TOS.png) | [GUI.md](https://github.com/nikosbout/site/blob/master/_timeline/GUI.md) | [GUIs.md](https://github.com/nikosbout/site/blob/master/_slides/GUIs.md) |
 | [qcat3_0.md](https://github.com/nikosbout/_gallery/blob/master/qcat3_0.md) | [qcat3_0.png](https://github.com/nikosbout/images/blob/master/qcat3_0.png) | [Netlify Χρονολόγιο](https://hilarious-platypus-95e670.netlify.app/timeline/gui/) | [Netlify Διαφάνειες](https://hilarious-platypus-95e670.netlify.app/slides/guis/) |
 | |  [atari_TOS-thumb.png](https://github.com/nikosbout/images/blob/master/atari_TOS-thumb.png)|    |        |
 |    |  [qcat3_0-thumb.png](https://github.com/nikosbout/images/blob/master/qcat3_0-thumb.png)      |    |     | 
+
+
+## Παραδοτέο 6 - Costum Static Blog Generator
+Για την έκτη βδομάδα δημιούργησα ένα blog μέσω του hugο.
+
+
+Repository: https://github.com/nikosbout/nikosbout.github.io
+
+
+Blog: https://nikosbout.github.io/
