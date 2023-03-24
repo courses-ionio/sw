@@ -11,8 +11,8 @@
 | 2 | <li><a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας"></span> <span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1243" title="Discussions">Discussions</a></i> | Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Kali Linux και του Asciinema για ολοκλήρωση της άσκησης.|
 | 3 | <li><a href="#Γραμμή εντολών (no systemd)"></span> <span class="toctext">Γραμμή εντολών (no systemd)</span></a>  |  <i><a href="https://github.com/courses-ionio/sw/discussions/1329" title="Discussions">Discussions</a></i>|Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 4 | <li><a href="#Κατασκευή του βιβλίου Α2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Α2 (συνεργατικά)</span></a>|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου |
-| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου |
-| 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| | |
+| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
+| 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| |Εμπρόθεσμη παράδοση παραδοτέου. |
 | 7 | <li><a href="#συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| | | 
 | 8 | <li><a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | ||
 | 9 | <li><a href="#συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | ||
@@ -71,6 +71,13 @@
 | --- | --- | 
 |[Programming](https://github.com/PetroulaStylianou/site/blob/master/_timeline/programming.md)|[programming](https://github.com/PetroulaStylianou/site/blob/master/_slides/programming.md)
 |[Systems](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)|[archetypes](https://github.com/PetroulaStylianou/site/blob/master/_slides/archetypes.md)
+
+# Γραμμή εντολών 
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών με ένα λογισμικό το οποίο θα είναι χωρίς systemd. Το λογισμικό που χρησιμοποίησα ήταν το Void Linux και για άσκηση γραμμής εντολών επέλεξα την άσκηση search the web from the terminal. Η άσκηση αυτή ζητάει να γίνει αναζήτηση μέσω τερματικού. Μέσα από αυτή την άσκηση βλέπουμε πόσο γρήγορα μπορεί κάποιος να ψάξει κάτι από το τερματικό.
+Χρησιμοποίησα τις εντολές <kbd>sudo xbps- install googler</kbd> και <kbd>sudo bps -install ddgr</kbd> για εγκατάσταση των εργαλείων googler και ddgr.
+
+[asciinema](https://asciinema.org/a/dYWcTo64brpeomgngKy6KOrXb)
 
 
 
