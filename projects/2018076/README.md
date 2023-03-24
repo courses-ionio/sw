@@ -191,7 +191,7 @@
 # Συμμετοχικό Περιεχόμενο B1
 
 ## Για το Παραδοτέο07
-
+Αποφάσισα να αναπτύξω μια νέα μελέτη περίπτωσης, για το init System της Apple, το Launchd
 ## Β1
 ### Αρχείο εικόνας:
 - [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/launchd.png)
@@ -221,7 +221,7 @@
 # Συμμετοχικό Περιεχόμενο B2
 
 ## Για το Παραδοτέο09
-
+Αποφάσισα να αναπτύξω μια νέα βιογραφία του Bret Victor
 ## Β2
 ### Αρχείο εικόνας:
 - [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile.png)
