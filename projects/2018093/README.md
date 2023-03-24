@@ -20,7 +20,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 3 | Γραμμή εντολών (no systemd) | https://github.com/courses-ionio/sw/discussions/1317 | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1358 | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1406 | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1480 | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -110,7 +110,25 @@ GitHub Link: https://github.com/theoharissiwzos
 - Επίσης έγιναν και αλλαγές στο [authors.yml](https://github.com/theoharissiwzos/site/blob/master/_data/authors.yml)   
 
 
+# Παραδοτέο 6 - Γραμμή εντολών (no systemd, custom static blog generator)
+
+Έφτιαξα ένα static blog με τη χρήση του __Hugo__ σε Artix Linux και το host-αρω στο github pages. Δημιούργησα 3 Posts στο static blog όπου τα δύο είναι εγκυκλοπαιδικά αναφορικά με τα __Chat bots__ (names and history) και ένα με σχετικά informations.
+
+Ενδεικτικά subdirectories:
+
+- `index.html`: το οποίο αποτελεί και την αρχική σελίδα του Blog
+
+- `posts`: εντός του οποίου δημιοργήθηκαν τρία `sample-post.html` τα οποία έχουν και Ημερομηνία που δημιουργήθηκε το Post
+
+- `theme`: χρησιμοποιήθηκε το salinger το οποιο ενσωματώθηκε στο static blog
+
+- [Asciinema Link](https://asciinema.org/a/569883)
+
+- [Το repository του Blog](https://github.com/theoharissiwzos/theoharissiwzos.github.io)
+
+- [To Blog](https://theoharissiwzos.github.io/?fbclid=IwAR2K6E1vQaDX-qRftEM_fAxaJiJkxCLN-ZhgpsTv0ahylxTJJ7qnwEYKZBQ)
+
+- [index.html](https://github.com/theoharissiwzos/theoharissiwzos.github.io/blob/main/index.html)
 
 
-
-
+__Δυσκολίες__: Αρχικά προσπάθησα να το υλοποιήσω με την χρήση του __Bashblog__ όμως δεν κατάφερα να το δουλέψω διότι απο οτι φαίνεται δεν έβρισκε το bashblog-lib repository στο GitHub και έτσι αποφάσισα να εγκαταστήσω το hugo και να το υλοποιήσω μέσω αυτού. 
