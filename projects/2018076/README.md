@@ -194,11 +194,12 @@
 
 ## Β1
 ### Αρχείο εικόνας:
-- []()
+- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/launchd.png)
   
 ### Αρχεία .md:
-- []()
-- []()
+- [_case-study](https://github.com/aggelos2000430/site/blob/master/_case-study/launchd.md)
+- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/cs-launchd.md)
+
  
 ### Η προσθήκη στο Site:
 
