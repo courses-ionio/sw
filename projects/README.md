@@ -10,8 +10,8 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | https://github.com/courses-ionio/sw/discussions/1257 | Χρησιμοποιώ τα neofetch και py-spy επιτυχώς|
 | 3 | Γραμμή εντολών (no systemd) | https://github.com/courses-ionio/sw/discussions/1324| Κατεβάζω επιτυχώς το artix linux και το δείχνω χρήση του neofetch |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1401| Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστπύς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1401| Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστούς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1477| Έφτιαξα επιτυχώς το blog μέσω του Hugo|
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -41,3 +41,7 @@
 ||  [mandrake-thumb.png](https://github.com/axilleasmandravelis/images/blob/master/mandrake-thump.png)      |    |     | 
 
 Επιπρόσθετα έγιναν αλλαγές στο [authors.yml](https://github.com/axilleasmandravelis/site/blob/master/_data/authors.yml)
+
+
+## Παραδοτέο 6 - Γραμμής εντολών ( nosystemd, custom static blog generator )
+Για αυτή την εβδομάδα δημιούργησα ένα blog με την χρήση του hugo που στο εσωτερικό του υπάρχει ενα μήνυμα. Όλα τα αρχεία υπάρχουν σε αυτό το [repository](https://github.com/axilleasmandravelis/axilleasmandravelis.github.io). Εδώ θα βρείτε το blog [blog](https://axilleasmandravelis.github.io/)
