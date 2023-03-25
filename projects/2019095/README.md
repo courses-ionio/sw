@@ -96,3 +96,40 @@
 - [smarden.org](http://smarden.org/runit/)
 - [mit.edu](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-en-4/s1-boot-init-shutdown-sysv.html)
 - [glennastory.net](http://glennastory.net/boot/init.html)
+
+
+# B1
+
+*Biography of Lennart Poettering*
+Στο παραδοτέο αυτό επέλεξα να συγγράψω την βιβλιογραφία του Lennart Poettering ένος από τους δημιουργούς του systemd. Ο Lennart Poettering είναι μηχανικός λογισμικού είναι γνωστός για την συμβολή του στη δημιουργία του συστήματος και διαχειριστή υπηρεσιών systemd για το Linux. Ο Poettering και η ομάδα του δημιούργησαν το systemd ως αντικατάσταση του παραδοσιακού συστήματος init που χρησιμοποιείται στο Linux, με σκοπό να παρέχουν ένα σύγχρονο και απλοποιημένο σύστημα για τη διαχείριση υπηρεσιών και τη διαδικασία εκκίνησης. Το systemd έχει γίνει ευρέως αποδεκτό και έχει βοηθήσει στην ενημέρωση του Linux, αλλά ο Poettering έχει αντιμετωπίσει και κριτική από την κοινότητα του Linux. Παρά ταύτα, οι συνεισφορές του έχουν έχουν σημαντική επίδραση στην ανάπτυξη και εξέλιξη του λειτουργικού συστήματος.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/39650065/227715105-a42047d0-f99f-4869-8c01-a3633550a202.png)
+
+</div>
+
+[Full Biography](https://site-cfml.vercel.app/biography/lennart-poettering/)
+
+Λίστα πηγών πληροφοριών:
+ - [Lennart Poettering's personal website](https://0pointer.net/)
+ - ["Systemd: The Good Parts" by Lennart Poettering, in Linux Journal (2012)](https://www.linuxjournal.com/content/systemd-good-parts)
+ - ["The systemd controversy" by Steven J. Vaughan-Nichols, in ZDNet (2019)](https://www.zdnet.com/article/the-systemd-controversy/)
+ 
+# Β2
+
+Στο παραδοτέο αυτό δημιούργησα το case-study των arch. Το Arch Linux είναι μια δημοφιλής διανομή Linux που είναι γνωστή για την απλότητά της, την ευελιξία της και τον σχεδιασμό της που επικεντρώνεται στο χρήστη. Δημιουργήθηκε το 2002 από τον Judd Vinet, ο οποίος ήθελε να δημιουργήσει μια διανομή Linux που θα ήταν εύκολη στη χρήση, ελαφριά και επικεντρωμένη στον έλεγχο του χρήστη.
+
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/39650065/227715395-7b0c59e2-3f64-4205-abfc-f98fc9142766.png)
+
+</div>
+
+[Full case-study](https://site-cfml.vercel.app/case-study/arch/)
+
+Λίστα πηγών πληροφοριών:
+ - [Arch Linux website](https://archlinux.org/)
+ - ["Arch Linux: The Simple Linux" by Bruce Byfield, in Datamation (2013)](https://www.datamation.com/open-source/arch-linux-the-simple-linux/)
+ - ["Why Arch Linux is the best" by Joe Collins, in It's FOSS (2020)](https://itsfoss.com/arch-linux/)
