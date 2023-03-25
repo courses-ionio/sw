@@ -20,9 +20,9 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](#a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [see more](#α1--α2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1457)| |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [see more](#b1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | [see more](#b2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) | |
 | 10 | Τελική αναφορά* | | |
 
 
