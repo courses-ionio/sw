@@ -102,7 +102,7 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 <b>Hotmail Images:<b/> [Source](https://en.wikipedia.org/wiki/File:Hotmail_old_screenshot.jpg) | [Normal](https://github.com/Futsies/images/blob/master/hotmail.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/hotmail-thumb.jpg) <br/>
 <b>CB Simulator Images:<b/> [Source](https://tgforum.com/virtual-personae/compuserve-cb-simulator-screen/) | [Normal](https://github.com/Futsies/images/blob/master/cb-simulator.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/cb-simulator-thumb.jpg) <br/>
 <b>Gallery:<b/> [CB Simulator](https://github.com/Futsies/_gallery/blob/master/cb-simulator.md) | [Hotmail](https://github.com/Futsies/_gallery/blob/master/hotmail.md) <br/>
-<b>Repo Slides:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_slides/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_slides/hotmail.md) <br/>
+<b>Repo Slides:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_slides/cb-sim.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_slides/hotmail.md) <br/>
 <b>Repo Timelines:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_timeline/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_timeline/hotmail.md) <br/>
 <b>Netlify Gallery:<b/> [CB Simulator](https://p2020174-pibook.netlify.app/gallery/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/gallery/hotmail/) <br/>
 <b>Netlify Slides:<b/> [CB Simulator](https://p2020174-pibook.netlify.app//slides/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/slides/hotmail/) <br/>
