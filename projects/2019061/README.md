@@ -84,6 +84,12 @@
 * _gallery: [Pull Request](https://github.com/Ranger-Power/_gallery/pull/2)
 * site: [Pull Request](https://github.com/Ranger-Power/site/pull/2)
 
+## Γραμμή εντολών (no systemd, custom static blog generator)
+
+Σε αυτό το παραδοτέο έφτιαξα μια ιστοσελίδα-blog σχετική με το θέμα της αναφοράς μου, χρησιμοποιώντας το jekyll.
+
+* [Το blog μου](https://tilav.github.io/mysite/)
+* [Το αποθετήριο του blog μου](https://github.com/tilav/mysite)
 
 ## Βίντεο Κουίζ
 
