@@ -96,14 +96,14 @@
 Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://p2020104-pibook.netlify.app/) του netlify όπου εφτιάξαμε και συνδέσαμε με το [repository](https://github.com/p20poli/site) της ομάδας μέσω του terminal. Και τέλος τα πρόσθεσα στα [timeline](https://github.com/p20poli/site/tree/master/_timeline) όπου πρόσθεσα το [6502 Assembly](https://github.com/p20poli/site/blob/master/_timeline/programming.md) στις γλώσσες προγραμματισμού και το Reality Immersion στα [διαδραστικα συστήματα](https://github.com/p20poli/site/blob/master/_timeline/systems.md) και στα [slides](https://github.com/p20poli/site/tree/master/_slides) όπου πρόσθεσα το 6502 Assembly στον [προγραμματισμό](https://github.com/p20poli/site/blob/master/_slides/programming.md) και το Reality Immersion Technology στα [Εργαλεία](https://github.com/p20poli/site/blob/master/_slides/tools.md).
 
 ### Galleries:
-- [6502 Assembly](https://github.com/p20poli/_gallery/blob/master/6502_Assembly.md)
-- [Reality Immersion Technology](https://github.com/p20poli/_gallery/blob/master/reality_immersion_technology.md)
+- [6502 Assembly](https://github.com/p20poli/_gallery/blob/master/assembly-6502.md)
+- [Reality Immersion Technology](https://github.com/p20poli/_gallery/blob/master/reality-immersion-technology.md)
 
 ### Images
-- [Nintendo Entertainment System](https://github.com/p20poli/images/blob/master/NintendoEntertainmentSystem.png)
-- [Nintendo Entertainment System thumb](https://github.com/p20poli/images/blob/master/NintendoEntertainmentSystem-thumb.png)
-- [Nintendo64](https://github.com/p20poli/images/blob/master/nintendo64.png)
-- [Nintendo64 thumb](https://github.com/p20poli/images/blob/master/nintendo64-thumb.png)
+- [Nintendo Entertainment System](https://github.com/p20poli/images/blob/master/assembly-6502.png)
+- [Nintendo Entertainment System thumb](https://github.com/p20poli/images/blob/master/assembly-6502-thumb.png)
+- [Nintendo64](https://github.com/p20poli/images/blob/master/reality-immersion-technology.png)
+- [Nintendo64 thumb](https://github.com/p20poli/images/blob/master/reality-immersion-technology-thumb.png)
 
 ### Netlify
 
