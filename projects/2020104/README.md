@@ -108,8 +108,8 @@
 ### Netlify
 
 #### Galleries
-- [6502 Assembly](https://p2020104-pibook.netlify.app/gallery/6502_assembly/)
-- [Reality Immersion Technology](https://p2020104-pibook.netlify.app/gallery/reality_immersion_technology/)
+- [6502 Assembly](https://p2020104-pibook.netlify.app/gallery/assembly-6502/)
+- [Reality Immersion Technology](https://p2020104-pibook.netlify.app/gallery/reality-immersion-technology/)
 
 #### Slides
 - [6502 Assembly](https://p2020104-pibook.netlify.app//slides/example/)
