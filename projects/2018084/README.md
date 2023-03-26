@@ -11,7 +11,7 @@
 | <a href="#P-2">3</a> | <a href="#P-2"> Γραμμή εντολών (no systemd) | [Συζήτηση Παραδοτέου 3](https://github.com/courses-ionio/sw/discussions/1348) | |
 | <a href="#P-3">4</a> | <a href="#P-3"> Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Συζήτηση Παραδοτέου 4](https://github.com/courses-ionio/sw/discussions/1367) | |
 | <a href="#P-4">5 </a> | <a href="#P-4"> Συμμετοχικό περιεχόμενο A1 + A2 | [Συζήτηση Παραδοτέου 5](https://github.com/courses-ionio/sw/discussions/1393) | |
-| <a href="#P-5">6 </a>| <a href="#P-5"> Γραμμή εντολών (custom static blog generator) | | |
+| <a href="#P-5">6 </a>| <a href="#P-5"> Γραμμή εντολών (custom static blog generator) | [Συζήτηση Παραδοτέου 6](https://github.com/courses-ionio/sw/discussions/1493)| |
 | <a href="#P-6">7 </a>| <a href="#P-6"> Συμμετοχικό περιεχόμενο B1 | | |
 | <a href="#P-7">8 </a>| <a href="#P-7"> Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | <a href="#P-8">9</a> | <a href="#P-8"> Συμμετοχικό περιεχόμενο B2 | | |
@@ -42,6 +42,8 @@
 **Asciinema link(s):** https://asciinema.org/a/yr0TwXAVpHlZiaDiJ57o2gUv0 <br />
  https://asciinema.org/a/QJXzvz2BmplSEp0Lg69Xt7W1j <br />
 **Image Link:** https://drive.google.com/file/d/1bDnXf8oSDIF3KP2mMaN9LdYFPJqSv1cm/view?usp=share_link <br />
+
+**Σχόλια:** Για αυτό το παραδοτέο επέλεξα το Funtoo καθώς παρέχει υψηλό βαθμό ευελιξίας και προσαρμογής. Προσφέρει ένα μοναδικό σύστημα δέντρων portage που σου επιτρέπει να δημιουργείς και να προσαρμόζεις εύκολα τα δικά σου πακέτα. Επιπλέον, το Funtoo εστιάζει έντονα στην απόδοση και προσφέρει μια σειρά από επιλογές βελτιστοποίησης για να βοηθήσει τους χρήστες να αξιοποιήσουν στο έπακρο το υλικό τους. Ένα θέμα του ήταν πως είναι πιο χρονοβόρα από άλλες διανομές Linux και μπορεί να απαιτεί περισσότερη τεχνική εξειδίκευση για να ξεκινήσει και να λειτουργεί. Δυστυχώς δεν είχα αρκετό χρόνο να εξοικειωθώ με με το σύστημα, καθώς δεν είναι πολύ user-friendly.
 
 ## <a name="P-3">Παραδοτέο 4</a>
 ### Άσκηση: Κατασκευή του βιβλίου Α2 (συνεργατικά)
@@ -79,6 +81,12 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 
 ## <a name="P-5">Παραδοτέο 6</a>
 ### Άσκηση: Γραμμή εντολών (custom static blog generator)
+**Κατηγορία:** Software <br />
+**Περιγραφή:** Create your own static site and blog generator; the generator should consider posts, pages, and templates and have minimal dependencies, ie no pandoc <br />
+**Asciinema link:** https://asciinema.org/a/N5lKIQEVln6uvrT0BmRO32bCd <br />
+ https://asciinema.org/a/QJXzvz2BmplSEp0Lg69Xt7W1j <br />
+ 
+**Σχόλια:** Για αυτό το παραδοτέο αποφάσισα να χρησιμοποιήσω το Artix linux, προκειμένου να εξοικειωθείτε με περισσότερα λειτουργικά συστήματα. Επέλεξα το Artix ειδικά επειδή παρέχει μια ισορροπία μεταξύ σταθερότητας και νεωτερικότητας, με κυλιόμενες εκδόσεις και φιλικό προς το χρήστη πρόγραμμα εγκατάστασης. Επιπλέον, έχει μια μεγάλη κοινότητα χρηστών που είναι αφοσιωμένοι στο να διατηρούν το σύστημα ενημερωμένο και συμβατό με το πιο πρόσφατο λογισμικό. Έτσι, χρησιμοποίησα bashblog και jekyll, διαμορφώνοντας τις πληροφορίες για να δημιουργήσω ένα πολύ απλό blog.
 
 ## <a name="P-6">Παραδοτέο 7</a>
 ### Άσκηση: Συμμετοχικό περιεχόμενο B1
