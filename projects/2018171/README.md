@@ -13,7 +13,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [asciinema link](https://asciinema.org/a/564646) ,  [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1330) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [asciinema link](https://asciinema.org/a/566545), [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1380) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1461) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 6 | Γραμμή εντολών (custom static blog generator) | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1488) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -76,3 +76,19 @@
 
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">. <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
+
+
+# 5. Γραμμή εντολών (custom static blog generator):
+
+Για το παραδοτέο 6  δhμιούργησα ένα site, χρησιμοποιώντας το hugo.
+
+* To [site](https://perikarananou.github.io/krn/)
+* Το [αποθετήριο ](https://github.com/perikarananou/krn) του site
+
+<img src="https://github.com/perikarananou/helpppp/blob/main/photo/site.png" alt="" width="500" height="400">
+
+
+
+
+
+
