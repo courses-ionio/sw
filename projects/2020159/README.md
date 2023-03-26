@@ -68,6 +68,8 @@
 
 | gallery | images | slides | timeline |
 | --- | --- | --- | --- |
+| [pwb](https://github.com/AlexIoanP2020159/_gallery/blob/master/pwb.md) | [pwb](https://github.com/AlexIoanP2020159/images/blob/master/pwb.jpg) - [pwb(thumb)](https://github.com/AlexIoanP2020159/images/blob/master/pwb-thumb.jpg) | [pwb slide](https://github.com/AlexIoanP2020159/site/blob/master/_slides/programming.md) | [pwb timeline](https://github.com/AlexIoanP2020159/site/blob/master/_timeline/programming.md) |
+| [dtss](https://github.com/AlexIoanP2020159/_gallery/blob/master/dtss.md)| [dtss](https://github.com/AlexIoanP2020159/images/blob/master/dtss.jpg) - [dtss(thumb)](https://github.com/AlexIoanP2020159/images/blob/master/dtss-thumb.jpg) | [dtss slide](https://github.com/AlexIoanP2020159/site/blob/master/_slides/learning.md) | [dtss timeline](https://github.com/AlexIoanP2020159/site/blob/master/_timeline/computer.md) |
 
 ## 6ο Παραδοτέο
 Σε αυτό το παραδοτέο έγινε κατασκευή του blog σε Kiss Linux, επέλεξα να μην γράψω το κείμενό μου στα ελληνικά για σιγουριά και για την αποφυγή προβλημάτων.
