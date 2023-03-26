@@ -81,3 +81,11 @@
 **Netlify Slides:** [Vida Health](https://p2020132-pibook-2023.netlify.app/slides/vida-health/) | [VR Healthcare](https://p2020132-pibook-2023.netlify.app/slides/vr-healthcare/)
 
 **Netlify Timelines:** [Vida Health](https://p2020132-pibook-2023.netlify.app/timeline/vida-health/) | [VR Healthcare](https://p2020132-pibook-2023.netlify.app/timeline/vr-healthcare/) 
+
+## **6ο Παραδοτέο**
+Αυτή τη βδομάδα ασχολήθηκα με την εγκατάσταση και χρήση του πακέτου [BashBlog](https://github.com/cfenollosa/bashblog) στα [KissLinux](https://kisslinux.org/) για την δημιουργία ενός Blog στο λειτουργικό μου χωρίς systemd.
+
+**Asciinema Video of BashBlog:** https://asciinema.org/a/570365
+
+## Το Blog που δημιούργησα:
+![image](https://user-images.githubusercontent.com/73079436/227799461-8df86f67-3c3c-4356-91c9-54de21b8d238.png)
