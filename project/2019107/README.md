@@ -69,7 +69,7 @@
 - [Kallipos Repo](https://github.com/TheodoreZ-107)
 
 ![kallipos](https://user-images.githubusercontent.com/72518532/226141696-593aef8b-55a4-4706-a8f6-d292c6e12a93.png)
-
+[Pull Request Kallipos](https://github.com/Genesis-The-Beginning/kallipos)
 
 ## Συμμετοχικό Περιεχόμενο Α1 + Α2
 Α1 προσθήκες
@@ -88,9 +88,11 @@
 |---|---|---|
 ||[systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_timeline/systemutil.md)| [systemutil.md](https://github.com/TheodoreZ-107/site/blob/master/_slides/systemutil.md) |
 ||[Utilities Χρονολόγιο](https://ephemeral-swan-dddfce.netlify.app//timeline/systemutil/) | [Utilities Διαφάνειες](https://ephemeral-swan-dddfce.netlify.app//slides/systemutil/) |
- 
+
   ![xronologio](https://user-images.githubusercontent.com/72518532/226130376-1fc86e0d-ab15-4e71-a1ec-66c1d45a645d.png)
 
   ![slides](https://user-images.githubusercontent.com/72518532/226130384-d4978c2a-12e4-4395-83b9-2b0cb0562c50.png)
 
-  
+  [Pull Request site](https://github.com/Genesis-The-Beginning/site/pull/2) <br>
+  [Pull Request _gallery submodule](https://github.com/Genesis-The-Beginning/_gallery/pull/1) <br>
+  [Pull Request images submodule](https://github.com/Genesis-The-Beginning/images/pull/1) 
