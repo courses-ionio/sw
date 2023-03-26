@@ -42,7 +42,7 @@
 
 ![Plan9](https://user-images.githubusercontent.com/115098011/225026244-5d50f5d3-ed05-4719-a9bc-10032922eab7.png)
 
-Μετά από αυτό δοκίμασα τα Kiss Linux. Παρά την ύπαρξη [επίσημου documentation](https://kisslinux.org/install) και αρκετής βοήθειας online, η εγκατάσταση ήταν σίγουρα η δυσκολότερη που έχω κάνει ως τώρα, με πολλές αποτυχημένες προσπάθειες και αρκετή ώρα αναμονής μεταξύ των εγκαταστάσεων. Εν τέλη, χάρη στην βοήθεια συμφοιτητών μου και κάποιων βίντεο κατάφερα να το εγκαταστήσω.
+Μετά από αυτό δοκίμασα τα Kiss Linux. Παρά την ύπαρξη [επίσημου documentation](https://kisslinux.org/install) και αρκετής βοήθειας online, η εγκατάσταση ήταν σίγουρα η δυσκολότερη που έχω κάνει ως τώρα, με πολλές αποτυχημένες προσπάθειες και αρκετή ώρα αναμονής μεταξύ των εγκαταστάσεων. Εν τέλει, χάρη στην βοήθεια συμφοιτητών μου και κάποιων βίντεο κατάφερα να το εγκαταστήσω.
 [![asciicast](https://asciinema.org/a/S2hjVD8yHCpxg1wetrI7Bn534.svg)](https://asciinema.org/a/S2hjVD8yHCpxg1wetrI7Bn534)
 
 ## 4o Παραδοτέο
@@ -55,11 +55,22 @@
 Συνδέσμοι για το ομαδικό κομμάτι: [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) / [qed-text-editor.md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/main/qed-text-editor.md) / [filter.lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) / [book](https://github.com/LetMeDoItForYou/kallipos/tree/master/book)
 
 ## 5o Παραδοτέο
-Παροντικά βρίσκομαι στο σημείο όπου γράφω τις 2 λεζάντες και προσθέτω τις 4 εικόνες (2 για κάθε λεζάντα).
-Θα αναπτύξω το παραδοτέο αυτό περαιτέρω όταν θα το έχω ολοκληρώσει σε ατομικό και ομαδικό επίπεδο.
+Για το συμμετοχικό περιεχόμενο αποφάσισα να επεκταθώ σε θέματα παράλληλα αυτού που είχα γράψει στο 4ο και πιο συγκεκριμένα για το Programmer's Workbench/ Unix (PWB/UNIX) και για το Dartmouth Time Sharing System (DTSS), δύο θέμα πάνω στα οποία εφαρμόζεται και επεκτίνεται η λογική του QED ενός από τους πρώτους text-editors.
+
+Παρακάτω βρίσκονται οι απαραίτητοι σύνδεσμοι για το Netlify
+
+| Gallery | Slides | Timeline |
+| --- | --- | --- |
+| [PWB/UNIX](https://p2020159-pibook.netlify.app/gallery/pwb/) | [PWB/UNIX](https://p2020159-pibook.netlify.app//slides/programming/) | [PWB/UNIX](https://p2020159-pibook.netlify.app//timeline/programming/) |
+| [DTSS](https://p2020159-pibook.netlify.app/gallery/dtss/) | [DTSS](https://p2020159-pibook.netlify.app//slides/learning/) | [DTSS](https://p2020159-pibook.netlify.app//timeline/computer/) |
+
+Και εδώ βρίσκονται οι σύνδεσμοι για τα md και για τις εικόνες
+
+| gallery | images | slides | timeline |
+| --- | --- | --- | --- |
 
 ## 6ο Παραδοτέο
-Σε αυτό το παραδοτέο έγινε κατασκευή του blog σε Kiss Linux, ενώ αποφάσισα να μην γράψω το κείμενό μου στα ελληνικά για σιγουριά και για την αποφυγή προβλημάτων.
+Σε αυτό το παραδοτέο έγινε κατασκευή του blog σε Kiss Linux, επέλεξα να μην γράψω το κείμενό μου στα ελληνικά για σιγουριά και για την αποφυγή προβλημάτων.
 Παρακάτω έχω screenshot του τελικού αποτελέσματος και asciinema ``cat`` του τελικού αποτελέσματος.
 
 ![Screenshot 2023-03-26 213410](https://user-images.githubusercontent.com/115098011/227797063-555309f7-e34c-48d7-8670-a0682498e48b.png)
