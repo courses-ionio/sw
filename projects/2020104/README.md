@@ -88,6 +88,7 @@
 - [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
 - [interactivity.md](https://github.com/p20poli/Kallipos-Notes-LetMeDoItForYou/blob/main/interactivity.md)
+- [screenshot of my paragraph](https://prnt.sc/LMqxvP0PJ38A)
 
 # Συμμετοχικό περιεχόμενο A1 + A2
 
