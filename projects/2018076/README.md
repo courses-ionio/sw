@@ -257,7 +257,7 @@
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
-| 6 | | | |
+| 6 | Alan Kay - Programming and Scaling | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
