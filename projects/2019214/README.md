@@ -14,7 +14,7 @@
 | [3](#εγκατάσταση-no-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-3) | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | Εγκατάσταση Void Linux και Kiss Linux για την επίτευξη της άσκηση γραμμής εντολών 2 (`no systemd`) |
 | [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | Συγγραφή και προσθήκη παραγράφου μου για την κατασκευή βιβλίου περί εξομοιτών για προγραμματιστές και χρήστες |
 | [5](#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -58,14 +58,12 @@
 
 Τέλος, η καταγραφή του τερματικού περιβάλλοντος έγινε με την χρήση του πακέτου `asciinema` και αντίστοιχο flags για την περικοπή μεγάλων χρονικών τμημάτων με `asciinema rec -i 0.5`. 
 
-Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
-<br />
-Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/562397)
-<br />
+#### Πηγές: [journalctl](https://man.archlinux.org/man/journalctl.1.en) & [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en) & [asciinema](https://archlinux.org/packages/community/any/asciinema/) & [py-spy](https://github.com/benfred/py-spy)
+#### Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/562397)
 
 
 # Εγκατάσταση `no systemd` λογισμικού και άσκηση γραμμής εντολών - Παραδοτέο 3
-Σε αντίθεση με τα λειτουργικά συστήματα τα οποία χρησιμοποιούν `systemd`, τα λειτουργικά χωρίς λειτουργικά εκκίνησης υπηρεσιών χωρίς`systemd`, τα οποία περιλαμβάνουν Linux distributions όπως τα [Kiss Linux](https://kisslinux.org/), [Void Linux](https://voidlinux.org/), [Artix Linux](https://artixlinux.org/), [Funtoo](https://www.funtoo.org/), [plan9](https://9p.io/plan9/) καθώς και πολλά άλλα, είναι πιο κοντά στην πραγματική φιλοσοφία των Linux, δίνοντας στον χρήστη των απόλυτο έλεγχο για να προσαρμόσει το σύστημα στις ανάγκες του χωρίς να είναι εξαρτημένος.
+Σε αντίθεση με τα λειτουργικά συστήματα τα οποία χρησιμοποιούν `systemd`, τα λειτουργικά χωρίς λειτουργικά εκκίνησης υπηρεσιών χωρίς `systemd`, τα οποία περιλαμβάνουν Linux distributions όπως τα [Kiss Linux](https://kisslinux.org/), [Void Linux](https://voidlinux.org/), [Artix Linux](https://artixlinux.org/), [Funtoo](https://www.funtoo.org/), [plan9](https://9p.io/plan9/) καθώς και πολλά άλλα, είναι πιο κοντά στην πραγματική φιλοσοφία των Linux, δίνοντας στον χρήστη των απόλυτο έλεγχο για να προσαρμόσει το σύστημα στις ανάγκες του χωρίς να είναι εξαρτημένος.
 
 Ένα από τα πολλά πλεονεκτήματα των λειτουργικών χωρίς `systemd` είναι η επιλογή και ευελεξία. Είναι καθαρά πιο εύκολα στην παραμετροποίηση και στην προσαρμογή, δίνοντας στον χρήστη τον απόλυτο έλεγχο για να προσαρμόσει το σύστημα στις ανάγκες του. Και για αυτό τον λόγο, μεταξύ άλλων, επαινούνται για την σταθερότητα και απλότητα τους σε σύγκριση με αυτό του `systemd`.
 
@@ -91,14 +89,15 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 ## Άσκηση γραμμής εντολών 2
 Για δεύτερη άσκηση γραμμής εντολών, μιας και απαίτουσε `no systemd`, απόφασισα να εγκαταστήσω το λογισμικό Void Linux, το οποίο χρησιμοποιεί `runit` σε αντίθεση με τo `systemd` τον Arch Linux. Και στην συνέχεια, μετά από συννεόηση με τον καθηγητή & γενικότερα για την πλήρη κατανόηση της άσκησης γραμμής εντολών εγκατέστησα το Kiss Linux σε VM, με init το `busybox` και έτρεξα το `neofetch` για άλλη μία φορά.
 
+Παρακάτω παραθέτω τα asciicast της εγκάταστασης **Kiss Linux** και **Void Linux** αντίστοιχα. 
+
 [![asciicast2](https://asciinema.org/a/566547.svg)](https://asciinema.org/a/566547)
 
 [![asciicast3](https://asciinema.org/a/563890.svg)](https://asciinema.org/a/563890)
 
-Πηγές: [neofetch](https://github.com/dylanaraps/neofetch) & [asciinema](https://github.com/asciinema/asciinema)
-<br />
-Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/563890)
-<br />
+#### Πηγές: [neofetch](https://github.com/dylanaraps/neofetch) & [asciinema](https://github.com/asciinema/asciinema)
+
+#### Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/563890)
 
 
 # Κατασκευή βιβλίου - Παραδοτέο 4
@@ -107,10 +106,9 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 ![Screenshot 2023-03-17 194401](https://user-images.githubusercontent.com/79524490/225979600-9eba2f1b-e4a6-487c-b506-61197bbd1dba.png)
 
 
-Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Xar-Me-Ison/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Xar-Me-Ison/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.epub), [HTML](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.tex)
-<br />
-Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.epub), [HTML](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.tex)
-<br />
+#### Συνδέσμοι σε επίπεδο ατομικό: [Ατομικό φίλτρο .lua](https://github.com/Xar-Me-Ison/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/Xar-Me-Ison/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.epub), [HTML](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/Xar-Me-Ison/kallipos/blob/master/book/book.tex)
+#### Συνδέσμοι σε επίπεδο οργανισμού: [Ομαδικό φίλτρο .lua](https://github.com/LetMeDoItForYou/kallipos/blob/master/filter.lua) | [make-latex.sh](https://github.com/LetMeDoItForYou/kallipos/blob/master/make-latex.sh) | [Παράγραφος σε .md](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/bf439e9242a7470bf2b57e7b134ec11db52c5315/emulators.md) | Βιβλίο σε [PDF](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.pdf), [EPUB](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.epub), [HTML](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.html), [LaTeX](https://github.com/LetMeDoItForYou/kallipos/blob/master/book/book.tex)
+
 
 # Συμμετοχικό περιεχόμενο Α1 + Α2 - Παραδοτέο 5
 Για το συμμετοχικό περιεχόμενο διάλεξα να γράψω για Εξομοιωτές, μιας και σχετίζεται άμεσα με αυτά που έγραψα στο 4ο παραδοτέο. Μετά από έρευνα επέλεξα να γράψω για το `DOSBox` και `SheepShaver`, τα οποία αποτελούν εξομοιωτές παλαιών λειτουργικών συστηματών σαν το MS-DOS και Mac OS 9. Προκείται για δύο περιπτώσεις λογισμικών εξομοιώσης ανοιχτού κώδικα τα οποία δίνουν την δυνάτοτητα εγκατάστασης των παραπάνω λογισμικών σε υπάρχοντα, σύγχρονα λειτουργικά συστήματα. Σε κάθε περίπτωση επιτρέπουν την αναβίωση παλαιών λειτουργικών συστημάτων και όσο αφορά τους χρήστες την εγκατάσταση και δοκιμή των λειτουργικών συστημάτων σε σύγχρονους υπολογιστές το οποίο είναι μια αναντικατάστατη ευκαιρία για γνώση.
@@ -128,3 +126,17 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | --- | ---  | --- | 
 | [DOSBox κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/dosbox/) | [DOSBox διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/)| [DOSBox χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/emulation-software/) |
 | [Sheepshaver κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/sheepshaver/)| [SheepShaver διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/) | [SheepShaver χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/virtualization-software/)
+
+
+# Άσκηση γραμμής εντολών `no systemd` με [bashblog](https://github.com/cfenollosa/bashblog) (custom static blog generator) - Παραδοτέο 6
+Για το 6ο εβδομαδιαίο παραδοτέο, έπρεπε να δημιουργήσουμε ένα **custom static blog generator** με την βοηθεία του [bashblog](https://github.com/cfenollosa/bashblog) σε λειτουργικό `χωρίς systemd`. Έτσι και εγώ πήρα την πρωτοβουλία να πραγματοποιήσω την άσκηση αυτή στο λειτουργικό περιβάλλον Kiss Linux, το οποίο είχα εγκαταστήσει την [3η εβδομάδα](https://github.com/courses-ionio/sw/discussions/1314). 
+
+Κατά την πραγματοποίηση της άσκησης, αντιμετώπισα πρόβλημα με την καταγραφή ώρας στο **bashblog** καθώς στο λειτουργικό του Kiss αδυνατούσε να εντοπίσει την ώρα μέσω της εντολής `date`. Και ως αποτέλεσμα η εμφάνιση της ώρα στον ιστότοπου το blog δεν φαίνεται.
+
+Παρακάτω παραθέτω στιγμιότυπο οθόνης στο οποίο φαίνεται το blog που έφτιαξα, και σύνδεσμο στο asciicast που κατέγραψα.
+
+![Screenshot 2023-03-26 185857](https://user-images.githubusercontent.com/79524490/227788286-83986573-b371-4131-a5b4-777d4daaaf2b.png)
+
+[![asciicast4](https://asciinema.org/a/570364.svg)](https://asciinema.org/a/570364)
+
+#### Σύνδεσμος: [asciicast - 3η άσκηση γραμμής εντολών](https://asciinema.org/a/570364)
