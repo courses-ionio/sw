@@ -12,8 +12,8 @@
 | [2](#εβδομάδα-2η) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1293) |  |
 | [3](#εβδομαδα-3η) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1434) | |
 | [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
-| [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1435) | |
+| [6](#εβδομάδα-6η) | Γραμμή εντολών (no systemd, custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1492) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -62,6 +62,7 @@
 ![2023-03-19_21-14](https://user-images.githubusercontent.com/72318224/226203759-66d8833f-76ea-4243-b43b-38462e348f6b.png)
 
 ## Εβδομάδα 5η
+Την 5η εβδομάδα επέλεξα να γράψω για την γλώσσα Pure Data καθώς σε αυτήν βασίζεται το reactable, για το οποίο έγραψα στο προηγούμενο παραδοτέο και για την τεχνολογία επαυξημένης πραγματικότητας, καθώς πιστεύω ότι έχει πολλές εφαρμογές στην καθημερινή ζωή και έχει την δυνατότητα στο μέλλον να εξυπηρετήσει ένα μεγάλο φάσμα αναγκών. Παρακάτω φενεται η προσθήκη μου στα slides, timeline και το gallery του site.
 
 ### Slides
 [Learning](https://p2020150-pibook.netlify.app/slides/learning/) | [Multimedia](https://p2020150-pibook.netlify.app/slides/multimedia/)
@@ -71,3 +72,8 @@
 
 ### Gallery
 [AR](https://p2020150-pibook.netlify.app/gallery/augmented-reality/) | [Pure Data](https://p2020150-pibook.netlify.app/gallery/pure-data/)
+
+## Εβδομάδα 6η
+Άυτήν την εβδομάδα επανέλαβα το bashblog της 2ης εβδομάδας σε no systemd. Δεν υπήρχαν μεγάλες αλλαγές, πέρα από το ότι δεν έχω gui στο kiss linux, αφού το bashblog είναι απλά ένα .sh αρχείο.
+### [Asciinema](https://asciinema.org/a/JNrXnC5ltY4tbWZxEl9HDF7jW)
+![image](https://user-images.githubusercontent.com/72318224/227790716-f5a5201d-1266-41a6-a75a-0e0e00995a5d.png)
