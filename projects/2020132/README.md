@@ -13,7 +13,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [Σύνδεσμος Συζήτησης 3ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1347) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 4ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1426) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1462) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος Συζήτησης 6ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1496) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -85,7 +85,7 @@
 ## **6ο Παραδοτέο**
 Αυτή τη βδομάδα ασχολήθηκα με την εγκατάσταση και χρήση του πακέτου [BashBlog](https://github.com/cfenollosa/bashblog) στα [KissLinux](https://kisslinux.org/) για την δημιουργία ενός Blog στο λειτουργικό μου χωρίς systemd.
 
-**Asciinema Video of BashBlog:** https://asciinema.org/a/570365
+**Asciinema Video of index.html:** https://asciinema.org/a/570365
 
 ## Το Blog που δημιούργησα:
 ![image](https://user-images.githubusercontent.com/73079436/227799461-8df86f67-3c3c-4356-91c9-54de21b8d238.png)
