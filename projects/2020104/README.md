@@ -123,7 +123,7 @@
 
 # Γραμμή εντολών (no systemd, custom static blog generator)
 
-Για αυτό το παραδοτέο έκανα ένα custom static blog generator σε λειτουργικό χωρίς systemmd.
+Για αυτό το παραδοτέο έκανα ένα custom static blog generator σε λειτουργικό χωρίς systemmd. Αναφέρθηκα στο blog για τις διαφορές των 2d και 3d γραφικών μιας και η αναφορά μου είναι πάνω στην διαδραστικότητα.
 
 ![image](https://user-images.githubusercontent.com/115041945/228027370-2add8ab8-6be8-4c70-956f-e74b331c4942.png)
 
