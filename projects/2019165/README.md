@@ -12,7 +12,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[Ανάρτηση στα Discussions του asciinema με neofetch από Artix Linux (no systemd) ](https://github.com/courses-ionio/sw/discussions/1346) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Ανάρτηση στα Discussions του βιβλίου με τα σχόλια της ομάδας](https://github.com/courses-ionio/sw/discussions/1384) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Ανάρτηση στα Discussions του συμμετοχικού περιεχομένου Α1 + Α2](https://github.com/courses-ionio/sw/discussions/1436)| |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Ανάρτηση στα Discussions του στατικού blog που δημιουργήθηκε μέσω των Artix Linux & του bashblog](https://github.com/courses-ionio/sw/discussions/1501)| |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -112,4 +112,9 @@
 ####  [Object Pascal](https://unique-halva-aa4c4d.netlify.app/gallery/object-pascal/)
 ####  [Delphi](https://unique-halva-aa4c4d.netlify.app/gallery/borland-delphi/)
 
+# Παραδοτέο 6 - Γραμμή εντολών (no systemd, custom static blog generator)
 
+Για αυτή την εβδομάδα δημιουργήθηκε ένα στατικό blog με την βοήθεια του [bashblog](https://github.com/cfenollosa/bashblog) στα Artix Linux. Αρχικά έγινε clone του repository του bashblog από όπου και αντιγράφηκε το shell script bb.sh σε ένα directory που είχε γίνει προηγουμένως clone του repository [Alessenia.github.io](https://github.com/Alessenia/Alessenia.github.io) προκειμένου να γίνει host το site μου μέσω του github. Στην συνέχεια επεξεργάστηκα το bb.sh και πρόσθεσα ένα διαφορετικό css style για να διαφοροποιηθεί απο τα υπόλοιπα των συμφοιτητών. Τέλος, πρόσθεσα το άρθρο μου που αφορούσε την αντικειμενοστρέφεια και την εφαρμογή της στην εκπαίδευση ,που με έχει απασχολήσει τελευταία, και έκανα post του blog.
+
+[My static blog](https://alessenia.github.io/)
+[To repository του blog μου](https://github.com/Alessenia/Alessenia.github.io)
