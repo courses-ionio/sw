@@ -88,7 +88,8 @@
 - [filter](https://github.com/p20poli/kallipos/blob/master/figure.lua)
 - [make-latex](https://github.com/p20poli/kallipos/blob/master/make-latex.sh)
 - [interactivity.md](https://github.com/p20poli/Kallipos-Notes-LetMeDoItForYou/blob/main/interactivity.md)
-- [screenshot of my paragraph](https://prnt.sc/LMqxvP0PJ38A)
+
+![screenshot of my paragraph](https://user-images.githubusercontent.com/115041945/228027090-1308526b-5382-4d75-93ab-d6d7eb656c8c.png)
 
 # Συμμετοχικό περιεχόμενο A1 + A2
 
@@ -119,3 +120,11 @@
 #### Timeline
 - [6502 Assembly](https://p2020104-pibook.netlify.app//timeline/programming/)
 - [Reality Immersion Technology](https://p2020104-pibook.netlify.app//timeline/systems/)
+
+# Γραμμή εντολών (no systemd, custom static blog generator)
+
+Για αυτό το παραδοτέο έκανα ένα custom static blog generator.
+
+![image](https://user-images.githubusercontent.com/115041945/228027370-2add8ab8-6be8-4c70-956f-e74b331c4942.png)
+
+- [asciinema](https://asciinema.org/a/h3phV5QK836PYws6LInlg1iOv)
