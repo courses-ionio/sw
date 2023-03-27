@@ -64,7 +64,7 @@ ntfy -b telegram send "${WEATHER}"
 
 ![letsgo](https://user-images.githubusercontent.com/56626790/224571178-f7534b95-e6a8-405c-a94e-ad96447d139e.png)
 
-# Συμμετοχικό Περιεχόμενο [site](https://github.com/paranaloma/site)
+# Συμμετοχικό Περιεχόμενο Α1 + Α2 ([site](https://github.com/paranaloma/site))
 Δημιουργήθηκαν τα κατάλληλα αρχεία md ώστε να πραγματοποιηθούν τα παραδοτέα Α1,Α2. Πιο συγκεκριμένα στο submodule _gallery έγιναν οι προσθήκες της Pascal και τις C, στο images 4 εικόνες και τέλος στο _slides και στο _timeline συνδέθηκαν οι παραπάνω εικόνες με θέμα Δομημένος Προγραμματισμός.
 - [pascal.md](https://github.com/paranaloma/_gallery/blob/7b3f02fd2f85425b70ec02c9935d5778434120b0/pascal.md)
 - [c-language.md](https://github.com/paranaloma/_gallery/blob/7b3f02fd2f85425b70ec02c9935d5778434120b0/c-language.md)
