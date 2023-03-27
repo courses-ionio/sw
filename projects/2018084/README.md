@@ -99,8 +99,6 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 ### Content added:
 Μελέτη περίπτωσης: <a href="https://github.com/Icelandan/site/blob/P2018084/_case-study/operating-system.md">operating-system.md</a> , <a href="https://github.com/Icelandan/site/blob/P2018084/_case-study/cs-os.md">cs-os.md</a> <br />
 Εικόνα 1: <a href="https://github.com/Icelandan/images/blob/P2018084/os.jpg">os.jpg</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/os-thumb.jpg">os-thumb.jpg</a> <br />
-Βιογραφία: <a href="https://github.com/Icelandan/site/blob/P2018084/_biography/gary-kildall.md">gary-kildall.md</a> , <a href="https://github.com/Icelandan/site/blob/P2018084/_biography/bio-kildall.md">bio-kildall.md</a> <br />
-Εικόνα 2: <a href="https://github.com/Icelandan/images/blob/P2018084/kildall-profile.png">kildall-profile.png</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/kildall-profile-thumb.png">kildall-profile-thumb.png</a> <br />
  
 **Σχόλια:**
 
@@ -109,6 +107,15 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 
 ## <a name="P-8">Παραδοτέο 9</a>
 ### Άσκηση: Συμμετοχικό περιεχόμενο B2
+ <a href="https://60564747ce6925c7f3460705--awesome-mahavira-cc9e7b.netlify.app/chapters">Netlify</a><br />
+### Forked Repositories:
+<a href="https://github.com/Icelandan/site/tree/P2018084">Site</a> <br />
+<a href="https://github.com/Icelandan/images/tree/P2018084">Images</a> <br />
+<a href="https://github.com/Icelandan/site/blob/P2018084/_data/authors.yml"> authors.yml</a>
+ 
+### Content added:
+Βιογραφία: <a href="https://github.com/Icelandan/site/blob/P2018084/_biography/gary-kildall.md">gary-kildall.md</a> , <a href="https://github.com/Icelandan/site/blob/P2018084/_biography/bio-kildall.md">bio-kildall.md</a> <br />
+Εικόνα 2: <a href="https://github.com/Icelandan/images/blob/P2018084/kildall-profile.png">kildall-profile.png</a> , <a href="https://github.com/Icelandan/images/blob/P2018084/kildall-profile-thumb.png">kildall-profile-thumb.png</a> <br />
 
 ## <a name="P-9">Παραδοτέο 10</a>
 ### Άσκηση: Τελική αναφορά*
