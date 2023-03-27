@@ -69,6 +69,11 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή Εντολών (No systemd, Custom static blog generator)
+Για το έκτο παραδοτέο χρησιμοποίησα το bashblog για να δημιουργήσω ένα blog σχετικά με τα κρυπτονομίσματα στον υπολογιστή μου. 
+Μπορείτε να δείτε την διαδικασία δημιουργίας του post στο παρακάτω asciinema:
+[![asciicast](https://asciinema.org/a/TzZ1Zf0QqDwGzyWn0s3KMP0J0.svg)](https://asciinema.org/a/TzZ1Zf0QqDwGzyWn0s3KMP0J0)
+
+[CryptoBlog](https://alkarvounis.github.io/cryptoblog/)
 
 ## ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό Περιεχόμενο B1
 
