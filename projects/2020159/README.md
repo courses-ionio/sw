@@ -75,6 +75,6 @@
 Σε αυτό το παραδοτέο έγινε κατασκευή του blog σε Kiss Linux, επέλεξα να μην γράψω το κείμενό μου στα ελληνικά για σιγουριά και για την αποφυγή προβλημάτων.
 Παρακάτω έχω screenshot του τελικού αποτελέσματος και asciinema ``cat`` του τελικού αποτελέσματος.
 
-![Screenshot 2023-03-26 213410](https://user-images.githubusercontent.com/115098011/227797063-555309f7-e34c-48d7-8670-a0682498e48b.png)
+![Screenshot 2023-03-27 152715](https://user-images.githubusercontent.com/115098011/227956032-62dc821b-abf9-459c-b98f-d84c68f1979d.png)
 
 [![asciicast](https://asciinema.org/a/52eTqUl7EvCbzUHoVtLKpz6ES.svg)](https://asciinema.org/a/52eTqUl7EvCbzUHoVtLKpz6ES)
