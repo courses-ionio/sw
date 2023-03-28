@@ -97,7 +97,7 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 
 #### Πηγές: [neofetch](https://github.com/dylanaraps/neofetch) & [asciinema](https://github.com/asciinema/asciinema)
 
-#### Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/563890)
+#### Σύνδεσμος: [asciicast Void Linux](https://asciinema.org/a/563890) | [asciicast Kiss Linux](https://asciinema.org/a/566547) [- 3η άσκηση γραμμής εντολών](https://asciinema.org/~p2019214)
 
 
 # Κατασκευή βιβλίου - Παραδοτέο 4
@@ -120,8 +120,8 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | [DOSBox .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/dosbox.md) | [DOSBox original](https://github.com/Xar-Me-Ison/images/blob/master/dosbox.jpg) - [DOSBox thumb](https://github.com/Xar-Me-Ison/images/blob/master/dosbox-thumb.jpg) | [DOSBox slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Emulation Software για DOSBox](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/emulation-software.md) |
 | [SheepShaver .md αρχείο](https://github.com/Xar-Me-Ison/_gallery/blob/master/sheepshaver.md) | [SheepShaver original](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver.jpg) - [SheepShaver thumb](https://github.com/Xar-Me-Ison/images/blob/master/sheepshaver-thumb.jpg) | [SheepShaver slide](https://github.com/Xar-Me-Ison/site/blob/master/_slides/emulators.md) | [Virtualization Software για SheepShaver](https://github.com/Xar-Me-Ison/site/blob/master/_timeline/virtualization-software.md) |
 
+## Netlify σε ατομικό επίπεδο & ομαδικό επίπεδο 
 Παρακάτω παραθέτω το Netlify σε ατομικό και ομαδικό επίπεδο. 
-
 | Netlify _gallery | Netlify slides | Netlify timeline |
 | --- | ---  | --- | 
 | [DOSBox κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/dosbox/) | [DOSBox διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/)| [DOSBox χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/emulation-software/) |
@@ -131,6 +131,9 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | --- | ---  | --- | 
 | [DOSBox κείμενο ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/gallery/dosbox/) | [DOSBox διαφάνεια ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/slides/emulators/)| [DOSBox χρονολόγιο ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/timeline/emulation-software/) |
 | [Sheepshaver κείμενο ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/gallery/sheepshaver/)| [SheepShaver διαφάνεια ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/slides/emulators/) | [SheepShaver χρονολόγιο ομαδικό](https://letmedoitforyou-pibook-2023.netlify.app/timeline/virtualization-software/)
+
+
+#### Σύνδεσμοι ατομικού και ομαδικού Netlify: [p2019214](https://p2019214-pibook.netlify.app/) | [LetMeDoItForYou](https://letmedoitforyou-pibook-2023.netlify.app/)
 
 
 # Άσκηση γραμμής εντολών `no systemd` με [bashblog](https://xar-me-ison.github.io/) (custom static blog generator) - Παραδοτέο 6
