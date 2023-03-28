@@ -12,7 +12,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1401| Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστούς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1477| Έφτιαξα επιτυχώς το blog μέσω του Hugo|
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/sw/discussions/1502| Έκανα επιτυχώς τα ζητούμενα για το συμμετοχικό περιεχόμενο Β1|
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -45,3 +45,12 @@
 
 ## Παραδοτέο 6 - Γραμμής εντολών ( nosystemd, custom static blog generator )
 Για αυτή την εβδομάδα δημιούργησα ένα blog με την χρήση του hugo που στο εσωτερικό του υπάρχει ενα μήνυμα. Όλα τα αρχεία υπάρχουν σε αυτό το [repository](https://github.com/axilleasmandravelis/axilleasmandravelis.github.io). Εδώ θα βρείτε το blog [blog](https://axilleasmandravelis.github.io/)
+
+
+## Παραδοτέο 7 - Συμμετοχικό περιεχόμενο Β1
+Για αυτό το παραδοτέο έκανα ενα δικό μου case-study συγκεκριμένα για το twitter. Παρακάτω βάζω ολα τα link για όλες τις προσθήκες αρχείων που έγιναν για την προσθήκη του twitter, καθώς και τα pull request που έγιναν στον οργανισμό.
+[εικόνα](https://github.com/axilleasmandravelis/images/blob/master/twitter.png) και [thump](https://github.com/axilleasmandravelis/images/blob/master/twitter-thump.png)
+
+[Twitter.md](https://github.com/axilleasmandravelis/site/blob/master/_case-study/twitter.md) και [cs-twitter.md](https://github.com/axilleasmandravelis/site/blob/master/_includes/cs-twitter.md)
+
+[Pull-request για το site](https://github.com/IonioBeam/site/pull/2) και [Pull-request για τις εικόνες](https://github.com/IonioBeam/images/pull/1)
