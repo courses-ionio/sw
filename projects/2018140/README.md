@@ -61,7 +61,24 @@ Links :
 ![333487941_164797046433990_7076072231272689734_n](https://user-images.githubusercontent.com/79106646/226030733-159735ff-8b5f-4294-a857-a5a8dcb120ac.png)
 
 
-## ΠΑΡΑΔΟΤΕΟ 5 - 
+## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο A1 + A2
+
+### αρχεία md
+- <a href="https://github.com/TZOYRMANAS/_gallery/blob/c64d7c47494a4cdda6b81832dd43deeafcd2e2b6/tinycore.md">tinycore.md</a>
+- <a href="https://github.com/TZOYRMANAS/_gallery/blob/c64d7c47494a4cdda6b81832dd43deeafcd2e2b6/slackware.md">slackware.md</a>
+### images 
+- <a href="https://github.com/TZOYRMANAS/images/blob/8af55314da3328933d53d12fec7d563b2ec7f913/operatingsystem-thumb.jpg">tinycore.image</a>
+- <a href="https://github.com/TZOYRMANAS/images/blob/8af55314da3328933d53d12fec7d563b2ec7f913/operatingsystem.jpg">tinycore.thumb</a>
+- <a href="https://github.com/TZOYRMANAS/images/blob/8af55314da3328933d53d12fec7d563b2ec7f913/slackware-thumb.png">slackware.image</a>
+- <a href="https://github.com/TZOYRMANAS/images/blob/8af55314da3328933d53d12fec7d563b2ec7f913/slackware.png">slackware.thumb</a>
+### slides 
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_slides/operatingsystem.md">slides</a>
+
+### timeline 
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_timeline/operatingsystem.md">timeline </a>
+
+
+
 
 
 
