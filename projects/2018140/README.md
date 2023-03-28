@@ -63,6 +63,9 @@ Links :
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο A1 + A2
 
+Για το συγκεκριμένο παραδοτέο επέλεξα να ασχοληθώ με δύο operating systems το tinycore και το slackware linux .Η διαδικασία που ακολόυθησα ήτανε να μεταφέρω τα αρχεία στο site ,αλλα έχω ένα error στο netlify ,το οποίο ύστερα απο πολλές προσπάθειες δεν κατάφερα να αντιμετοπίσω ακόμη.Παρακάτω βρίσκονται τα link του παραδοτέου :
+
+
 ### αρχεία md
 - <a href="https://github.com/TZOYRMANAS/_gallery/blob/c64d7c47494a4cdda6b81832dd43deeafcd2e2b6/tinycore.md">tinycore.md</a>
 - <a href="https://github.com/TZOYRMANAS/_gallery/blob/c64d7c47494a4cdda6b81832dd43deeafcd2e2b6/slackware.md">slackware.md</a>
@@ -78,7 +81,7 @@ Links :
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_timeline/operatingsystem.md">timeline </a>
 
 
-
+## ΠΑΡΑΔΟΤΕΟ 6 - 
 
 
 
