@@ -7,7 +7,7 @@
 
 ### Πίνακας Παραδοτέων
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος Συζήτησης |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 0 | [Εισαγωγή](#Εισαγωγή) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1211) |
 | 1 | [Δημιουργία Οργανισμού](#1ο-Παραδοτέο---Δημιουργία-Οργανισμού) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4949871) |
 | 2 | [CLI: Notifications](#2ο-Παραδοτέο---Command-Line-Interface---Notification-Pushing) | [Link Συζήτησης](https://github.com/courses-ionio/sw/discussions/1277) |
