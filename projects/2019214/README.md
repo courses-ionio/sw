@@ -13,8 +13,8 @@
 | [2](#εγκατάσταση-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-2) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 2](https://github.com/courses-ionio/sw/discussions/1253) | Εγκαστάση Arch Linux για την πρώτη άσκηση γραμμής εντολών, η οποία απαιτούσε λειτουργικό σύστημα με `systemd` |
 | [3](#εγκατάσταση-no-systemd-λογισμικού-και-άσκηση-γραμμής-εντολών---παραδοτέο-3) | Γραμμή εντολών (no systemd) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 3](https://github.com/courses-ionio/sw/discussions/1314) | Εγκατάσταση Void Linux και Kiss Linux για την επίτευξη της άσκηση γραμμής εντολών 2 (`no systemd`) |
 | [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | Συγγραφή και προσθήκη παραγράφου μου για την κατασκευή βιβλίου περί εξομοιτών για προγραμματιστές και χρήστες |
-| [5](#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | |
-| [6](#άσκηση-γραμμής-εντολών-no-systemd-με-bashblog-custom-static-blog-generator---παραδοτέο-6) | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | |
+| [5](#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | Συγγραφή για τους εξομοιωτές `DOSBox` και `SheepShaver` για MS-DOS και MacOS 9 αντίστοιχα & δημιουργία Netlify σε ατομικό και ομαδικό επίπεδο |
+| [6](#άσκηση-γραμμής-εντολών-no-systemd-με-bashblog-custom-static-blog-generator---παραδοτέο-6) | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | Δημιουργία [ιστοσελίδας blog](Xar-Me-Ison.github.io) με την βοηθεία του `bashblog` στα **Kiss Linux** που είχα εγκαταστήσει προηγουμένως |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -128,15 +128,17 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | [Sheepshaver κείμενο ατομικό](https://p2019214-pibook.netlify.app/gallery/sheepshaver/)| [SheepShaver διαφάνεια ατομικό](https://p2019214-pibook.netlify.app/slides/emulators/) | [SheepShaver χρονολόγιο ατομικό](https://p2019214-pibook.netlify.app/timeline/virtualization-software/)
 
 
-# Άσκηση γραμμής εντολών `no systemd` με [bashblog](https://github.com/cfenollosa/bashblog) (custom static blog generator) - Παραδοτέο 6
+# Άσκηση γραμμής εντολών `no systemd` με [bashblog](https://xar-me-ison.github.io/) (custom static blog generator) - Παραδοτέο 6
 Για το 6ο εβδομαδιαίο παραδοτέο, έπρεπε να δημιουργήσουμε ένα **custom static blog generator** με την βοηθεία του [bashblog](https://github.com/cfenollosa/bashblog) σε λειτουργικό `χωρίς systemd`. Έτσι και εγώ πήρα την πρωτοβουλία να πραγματοποιήσω την άσκηση αυτή στο λειτουργικό περιβάλλον Kiss Linux, το οποίο είχα εγκαταστήσει την [3η εβδομάδα](https://github.com/courses-ionio/sw/discussions/1314). 
 
 Κατά την πραγματοποίηση της άσκησης, αντιμετώπισα πρόβλημα με την καταγραφή ώρας στο **bashblog** καθώς στο λειτουργικό του Kiss αδυνατούσε να εντοπίσει την ώρα μέσω της εντολής `date`. Και ως αποτέλεσμα η εμφάνιση της ώρα στον ιστότοπου το blog δεν φαίνεται.
 
 Παρακάτω παραθέτω στιγμιότυπο οθόνης στο οποίο φαίνεται το blog που έφτιαξα, και σύνδεσμο στο asciicast που κατέγραψα.
 
-![Screenshot 2023-03-26 185857](https://user-images.githubusercontent.com/79524490/227788286-83986573-b371-4131-a5b4-777d4daaaf2b.png)
+![Screenshot 2023-03-28 160028](https://user-images.githubusercontent.com/79524490/228244405-d6aae5a0-0824-4364-853f-46df7bf4e1bf.png)
 
 [![asciicast4](https://asciinema.org/a/570364.svg)](https://asciinema.org/a/570364)
 
-#### Σύνδεσμος: [asciicast - 3η άσκηση γραμμής εντολών](https://asciinema.org/a/570364)
+#### Σύνδεσμος ιστοσελίδας: [Xar-Me-Ison.github.io](https://xar-me-ison.github.io/)
+#### Σύνδεσμος asciinema: [asciicast - 3η άσκηση γραμμής εντολών](https://asciinema.org/a/570364)
+
