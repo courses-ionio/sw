@@ -92,7 +92,7 @@
 ## Το Blog που δημιούργησα:
 ![image](https://user-images.githubusercontent.com/73079436/227799461-8df86f67-3c3c-4356-91c9-54de21b8d238.png)
 
-## **7ο Παραδοτέο
+## **7ο Παραδοτέο**
 Για το 7ο παραδοτέο, ασχολήθηκα με τη σύνθεση ενός Case Study με θέμα την πολυμεσική εφαρμογή [MyFitnessPal](https://www.myfitnesspal.com/). Παρακάτω παραθέτω τα αντίστοιχα Links:
 
 **Images: [Background Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal-background.jpg) | [Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal.jpg) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal-thumb.jpg)**
