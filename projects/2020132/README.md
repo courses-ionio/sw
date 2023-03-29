@@ -14,7 +14,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 4ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1426) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1462) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος Συζήτησης 6ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1496) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος Συζήτησης 7ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1514) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -91,3 +91,12 @@
 
 ## Το Blog που δημιούργησα:
 ![image](https://user-images.githubusercontent.com/73079436/227799461-8df86f67-3c3c-4356-91c9-54de21b8d238.png)
+
+## **7ο Παραδοτέο
+Για το 7ο παραδοτέο, ασχολήθηκα με τη σύνθεση ενός Case Study με θέμα την πολυμεσική εφαρμογή [MyFitnessPal](https://www.myfitnesspal.com/). Παρακάτω παραθέτω τα αντίστοιχα Links:
+
+**Images: [Background Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal-background.jpg) | [Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal.jpg) | [Thumb Image](https://github.com/Vasilakious/images/blob/master/myfitnesspal-thumb.jpg)**
+
+**Case Study: [MyFitnessPal](https://github.com/Vasilakious/site/blob/master/_includes/cs-myfitnesspal.md) | [File](https://github.com/Vasilakious/site/blob/master/_case-study/myfitnesspal.md)**
+
+**Netlify Case Study: https://p2020132-pibook-2023.netlify.app//case-study/myfitnesspal/**
