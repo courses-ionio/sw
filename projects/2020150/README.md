@@ -14,7 +14,7 @@
 | [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
 | [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1435) | |
 | [6](#εβδομάδα-6η) | Γραμμή εντολών (no systemd, custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1492) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| [7](#εβδομαδα-7η) | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -77,3 +77,8 @@
 Άυτήν την εβδομάδα επανέλαβα το bashblog της 2ης εβδομάδας σε no systemd. Δεν υπήρχαν μεγάλες αλλαγές, πέρα από το ότι δεν έχω gui στο kiss linux, αφού το bashblog είναι απλά ένα .sh αρχείο.
 ### [Asciinema](https://asciinema.org/a/JNrXnC5ltY4tbWZxEl9HDF7jW)
 ![image](https://user-images.githubusercontent.com/72318224/227790716-f5a5201d-1266-41a6-a75a-0e0e00995a5d.png)
+
+## Εβδομαδα 7η
+Για το Β1 επέλεξα να γράψω για τον τύπο αρχείου midi, την πιό γνωστή γλώσσα που χρησιμοποιήται στον κόσμο της μουσικής.
+
+[case_study](https://p2020150-pibook.netlify.app/case-study/midi/)
