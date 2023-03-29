@@ -12,7 +12,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | Ανεβάζω επιτυχώς τα αρχεία στους σωστούς φακέλους, κάνω επιτυχώς deploy το site, όμως οι φωτογραφίες δεν εμφανίζονται. |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1478) | Δημιουργία blog με hugo |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [Discussions link](https://github.com/courses-ionio/sw/discussions/1512) | Έφτιαξα ένα case study για το instagram |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -53,3 +53,16 @@ Repository: https://github.com/nikosbout/nikosbout.github.io
 
 
 Blog: https://nikosbout.github.io/
+
+### Παραδοτέο 7 - Συμμετοχικό Περιεχόμενο Β1
+Για την έβδομη βδομάδα έκανα ένα case study για το instagram.
+
+[thumb](https://github.com/nikosbout/images/blob/master/Instagram-thumb.png)
+
+[image](https://github.com/nikosbout/images/blob/master/Instagram.png)
+
+[Instagram.md](https://github.com/nikosbout/site/blob/master/_case-study/instagram.md)
+
+[cs-instagram.md](https://github.com/nikosbout/site/blob/master/_includes/cs-instagram.md)
+
+
