@@ -14,7 +14,7 @@
 | 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1413) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1 + A2](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-1) |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1497) | |
 | 6 | [Γραμμή εντολών (no systemd, custom static blog generator)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-no-systemd-custom-static-blog-generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1500) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτέο 7](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) |Παραδοτέο 7 | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
