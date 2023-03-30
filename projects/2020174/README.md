@@ -29,9 +29,9 @@
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1261) | |
 | 3 | Γραμμή εντολών (no systemd) |  [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1357) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1473) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion]() | |
-| 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion]() | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1517) | |
+| 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion]() | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -108,3 +108,15 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 <b>Netlify Slides:<b/> [CB Simulator](https://p2020174-pibook.netlify.app//slides/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/slides/hotmail/) <br/>
 <b>Netlify Timelines:<b/> [CB Simulator](https://p2020174-pibook.netlify.app//timeline/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/timeline/hotmail/) <br/>
 
+# Παραδοτέο 6 - Γραμμή εντολών (custom static blog generator)
+Για το έκτο εβδομαδιαίο παραδοτέο, ζητήθηκε να δημιουργήσουμε ένα δικό μας `static blog generator` με τη βοήθεια του bashblog σε ένα λειτουργικό σύστημα χωρίς `systemd`. Αποφάσισα να το προσπαθήσω στο λειτουργικό σύστημα Kiss Linux, το οποίο είχα εγκαταστήσει σε προηγούμενο παραδοτέο.
+
+Παρακάτω παρέχω μια εικόνα της ιστοσελίδας που δημιούργησα, καθώς και ένα σύνδεσμο στο asciicast που κατέγραψα.
+
+![blog](https://user-images.githubusercontent.com/92447304/228804445-e6bdf4f7-148d-4f30-bfbd-fe4a4ef52360.png)
+
+[![asciicast](https://asciinema.org/a/hfNl5MaclI4VuzEj3sOyEYudl.svg)](https://asciinema.org/a/hfNl5MaclI4VuzEj3sOyEYudl)
+
+[Link στο site](https://futsies.github.io)
+
+# Παραδοτέο 7 - Συμμετοχικό περιεχόμενο B1
