@@ -14,7 +14,7 @@
 | 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1413) | |
 | 5 | [Συμμετοχικό περιεχόμενο A1 + A2](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-1) |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1497) | |
 | 6 | [Γραμμή εντολών (no systemd, custom static blog generator)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-no-systemd-custom-static-blog-generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1500) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -128,3 +128,15 @@
 ![image](https://user-images.githubusercontent.com/115041945/228027370-2add8ab8-6be8-4c70-956f-e74b331c4942.png)
 
 - [asciinema](https://asciinema.org/a/h3phV5QK836PYws6LInlg1iOv)
+
+# Συμμετοχικό περιεχόμενο B1
+
+Στο παραδοτέο αυτό μίλησα για το παιχνίδι Super Mario 3D World το οποίο περίεχει την δυνατότητα να έχεις τον συνδυασμό 2D και 3D γραφικών όπου κάνω μία περιγραφή στο [case-study](https://github.com/p20poli/site/tree/master/_case-study) και την ανάλυση του παιχνιδιού στο [includes](https://github.com/p20poli/site/tree/master/_includes). Τέλος πρόσθεσα τις φωτογραφίες που πρόσθεσα απο το [images](https://github.com/p20poli/images).
+
+### Αρχεία
+- [case-study Mario 3D αρχείο](https://github.com/p20poli/site/blob/master/_case-study/mario-3D.md)
+- [includes Mario 3D αρχείο](https://github.com/p20poli/site/blob/master/_includes/cs-mario-3D.md)
+
+### Εικόνες
+- [Super Mario 3D World](https://github.com/p20poli/images/blob/master/super-mario-3D-world.jpg)
+- [Super Mario 3D World-thumb](https://github.com/p20poli/images/blob/master/super-mario-3D-world-thumb.jpg)
