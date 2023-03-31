@@ -10,7 +10,7 @@
 | 2 | <a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου"><span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1291) | |
 | 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
 | 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | [Link στο Discussions](Link) | |
-| 5 | <a href="#Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)"><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2 (Freespire-Spire PDF)</span></a> | [Link στο Discussions](Link) ||
+| 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
 | 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | [Link στο Discussions](Link) |  |
 | 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | [Link στο Discussions](Link) | |
 | 8 | <a href="#Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/738) |  |
@@ -39,3 +39,12 @@
 | 2 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |
 | 3 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
 | 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
+
+    
+  <br><br><br>
+    
+<h2><span id="Συμμετοχικό περιεχόμενο A1 + A2">(2) Συμμετοχικό περιεχόμενο A1 + A2</span></h2>
+    
+    Το πέμπτο παραδοτέο αφορούσε το συμμετοχικό περιεχόμενο Α1 και Α2. Είχαμε να κάνουμε κάποιες προσθήκες που σχετίζονται με την τεχνολογία λογισμικού στο forked site από την ομάδα - οργανισμό του github. 
+    
+    
