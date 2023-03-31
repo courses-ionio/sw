@@ -15,7 +15,7 @@
 | [4](#κατασκευή-βιβλίου---παραδοτέο-4) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 4](https://github.com/courses-ionio/sw/discussions/1387) | Συγγραφή και προσθήκη παραγράφου μου για την κατασκευή βιβλίου περί εξομοιτών για προγραμματιστές και χρήστες |
 | [5](#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | Συγγραφή για τους εξομοιωτές `DOSBox` και `SheepShaver` για MS-DOS και MacOS 9 αντίστοιχα & δημιουργία Netlify σε ατομικό και ομαδικό επίπεδο |
 | [6](#άσκηση-γραμμής-εντολών-no-systemd-με-bashblog-custom-static-blog-generator---παραδοτέο-6) | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | Δημιουργία [ιστοσελίδας blog](Xar-Me-Ison.github.io) με την βοηθεία του `bashblog` στα **Kiss Linux** που είχα εγκαταστήσει προηγουμένως |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| [7](#συμμετοχικό-περιεχόμενο-b1---παραδοτέο-7) | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 7](https://github.com/courses-ionio/sw/discussions/1519) | Συγγραφή νέας μελέτη περίπτωσης περί εξομοιώτων που χρησιμοποιούνται για την διατήρηση παλαιών λογισμικών και λειτουργικών συστημάτων |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -150,3 +150,15 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 #### Σύνδεσμος ιστοσελίδας: [Xar-Me-Ison.github.io](https://xar-me-ison.github.io/)
 #### Σύνδεσμος asciinema: [asciicast - 3η άσκηση γραμμής εντολών](https://asciinema.org/a/570364)
 
+
+# Συμμετοχικό περιεχόμενο B1 - Παραδοτέο 7
+Στο συμμετοχικό περιεχόμενου του Β1 στο οποίο έπρεπε να κάνουμε μια  νέα μελέτη περίπτωσης επέλεξα να γράψω την χρήση εξομοιωτών στην διατήρηση παλαιών λογισμικών και λειτουργικών συστημάτων. Το θέμα αυτό το επέλεξα καθώς συμπτίπτει με αυτά που έγραψα στο Α1 και Α2 και επιπλέον είναι ένας ενδιαφέρον τομέας ερεύνησεις μιας και χρησιμοποιούνται ολοένα και περισσότερο στην καθημερινότητα μας. 
+
+Για αυτό το παραδοτέο πέρα από την μελέτη περίπτωσης (_case-study & _include) ανέβασα *δύο* εικόνες, μια για την εμφάνιση της μελέτη περίπτωσης και μια άλλη για ένα παράδειγμα χρήσης που έκανα εντός του άρθρου. 
+
+Παρακάτω είναι ο πίνακας με τους αντίστοιχους συνδέσμους στα αποθετηρία και στο Netlify. 
+| images | _case-study | _includes | Netlify |
+| --- | ---  | --- | --- |
+| [Legacy emulation DOSBox original](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-dosbox.jpg) - [Legacy emulation DOSBox thumb](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-dosbox-thumb.jpg) & [Legacy emulation Internet Archive original](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-internet-archive.jpg) - [Legacy emulation Internet Archive thumb](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-internet-archive-thumb.jpg) | [legacy-emulation.md](https://github.com/Xar-Me-Ison/site/blob/master/_case-study/legacy-emulation.md) | [cs-legacy-emulation.md](https://github.com/Xar-Me-Ison/site/blob/master/_includes/cs-legacy-emulation.md) | [Μελέτη περίπτωσης](https://p2019214-pibook.netlify.app//case-study/legacy-emulation/) |
+
+#### Σύνδεσμοι ατομικού και ομαδικού Netlify: [p2019214](https://p2019214-pibook.netlify.app/) | [LetMeDoItForYou](https://letmedoitforyou-pibook-2023.netlify.app/)
