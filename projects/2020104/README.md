@@ -140,6 +140,7 @@
 ### Εικόνες
 - [Super Mario 3D World](https://github.com/p20poli/images/blob/master/super-mario-3D-world.jpg)
 - [Super Mario 3D World-thumb](https://github.com/p20poli/images/blob/master/super-mario-3D-world-thumb.jpg)
+- [Super Mario 3d world](https://github.com/p20poli/images/blob/master/super-mario-3d-world.png)
 
 ### Netlify
 - [Super Mario 3D World](https://p2020104-pibook.netlify.app/case-study/mario-3d/)
