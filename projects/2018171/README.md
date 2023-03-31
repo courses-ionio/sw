@@ -88,7 +88,3 @@
 <img src="https://github.com/perikarananou/helpppp/blob/main/photo/site.png" alt="" width="500" height="400">
 
 
-
-
-
-
