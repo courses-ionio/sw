@@ -9,15 +9,15 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link to discussions](https://github.com/courses-ionio/sw/discussions/1142)| |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1262) | |
-| 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362)| |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1460)| |
-| 7 | συμμετοχικό περιεχόμενο B1 |  [Link to discussions](https://github.com/courses-ionio/sw/discussions/1474) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1520)| |
-| 9 | συμμετοχικό περιεχόμενο B2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1475) | |
+| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link to discussions](https://github.com/courses-ionio/sw/discussions/1142)| Έπειτα από αναζήτηση επέλεξα την ομάδα μου με κριτήριο εαν τα μέλη έιχαν ολοκληρώσει ένα σημαντικό κομμάτι του HCI |
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1262) | Επιτυχής εγκατάσταση του συστήματος από το μάθημα HCI |
+| 3 | Γραμμή εντολών (no systemd) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1335) | Έπειτα από πολλές δοκιμές και αποτυχημένες προσπάθειες, επιτεύχθηκε η εγκατάσταση του συστήματος |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1362) | Δεδομένου των ικανοτήτων που αναπτύχθηκαν στο μάθημα HCI, η κατασκευή του βιβλίου ήταν μια ήδη γνωστή διαδικασία, όπως και το συνεργατικό κομμάτι του παραδοτέου που επιτεύχθηκε επιτυχώς |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | Δεδομένου των ικανοτήτων που αναπτύχθηκαν στο μάθημα HCI, το συμμετοχικό περιεχόμενο ήταν μια ήδη γνωστή διαδικασία |
+| 6 | Γραμμή εντολών (custom static blog generator) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1460)| Η ανάπτυξη του script δεν ήταν ιδιαίτερα δύσκολη, σε σχέση, με την κατάλληλη τροποποίηση του blog σε εμφανισιακό καθώς και λειτουργικό κομμάτι, που επιτεύχθηκε έπειτα από εκτενής αναζήτηση |
+| 7 | συμμετοχικό περιεχόμενο B1 |  [Link to discussions](https://github.com/courses-ionio/sw/discussions/1474) | Δεδομένου των ικανοτήτων που αναπτύχθηκαν στο μάθημα HCI, το συμμετοχικό περιεχόμενο ήταν μια ήδη γνωστή διαδικασία |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1520) | Δεδομένου των ικανοτήτων που αναπτύχθηκαν στο μάθημα HCI, η κατασκευή του βιβλίου ήταν μια ήδη γνωστή διαδικασία, όπως και το συνεργατικό κομμάτι του παραδοτέου που επιτεύχθηκε επιτυχώς |
+| 9 | συμμετοχικό περιεχόμενο B2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1475) | Δεδομένου των ικανοτήτων που αναπτύχθηκαν στο μάθημα HCI, το συμμετοχικό περιεχόμενο ήταν μια ήδη γνωστή διαδικασία |
 | 10 | Τελική αναφορά* | | |
 
 # Εισαγωγή
@@ -268,7 +268,12 @@
   
 [Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
   
-
+# Τελική Αναφορά
+  
+## Για το Παραδοτέο10
+  
+Με την ολοκλήρωση του μαθήματος αισθάνομαι ότι βελτίωσα της ικανότητες που είχα αναπτύξει στο HCI, καθώς απέκτησα και νέες, όπως για παράδειγμα στο παραδοτέο06 με την κατασκευή του script και του Blog ήρθα σε επαφή με τον τομέα του web-developing ο οποίος με γοήτευσε και θα ήταν μία κατεύθυνση που σίγουρα θα ήθελα να ακολουθήσω, επίσης πλέον έχω το δικό μου Blog αφιερωμένο στο κύριο επάγγελμά μου. Πέρα από τις τεχνικές ικανότητες, ανέπτυξα ικανότητες σε πνευματικό επίπεδο μέσω των βίντεο, τα οποία μου έδωσαν τροφή για σκέψη ώστε να καταλάβω πως εάν δεν δοκιμάσεις κάτι μόνος σου για να το κρίνεις τότε δεν μπορείς να εκφέρεις άποψη καθώς επίσης συνειδητοποίησα ότι είναι φυσιολογικό από ορισμένους ανθρώπους να μην αποδέχονται με τον καλύτερο τρόπο νέες λύσεις λογισμικού. 
+  
 # **Βίντεο Quiz**
 
 | X | Τίτλος | Ολοκληρώθηκαν | Εμπρόθεσμα |
