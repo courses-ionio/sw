@@ -78,3 +78,11 @@ ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature
 
 [aythors.yml](https://github.com/dimitrisvarelas/site/blob/master/_data/authors.yml)
 
+## Παραδοτέο 6 - Static Blog Generator
+Για το πέμπτο παραδοτέο υλοποιήθηκε ένα blog χρησιμοποιώντας το bashblog σχετικά με τα Water Sports. Χρησιμοποιήθηκε το Github Pages ως host.
+Μπορείτε να το δείτε [εδώ](https://dimitrisvarelas.github.io/WaterSportBlog/).
+
+![blog](https://user-images.githubusercontent.com/49061765/229225374-9cb4bc68-5ee2-465d-8177-0013182a59d5.png)
+
+
+
