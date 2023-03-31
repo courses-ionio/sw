@@ -222,12 +222,13 @@
 
 ## Για το Παραδοτέο08
 
-Ανέπτυξα ένα script το οποίο, κατασκευάζει τα αρχεία .txt σε .html και τα συγχωνεύει σε ένα αρχείο html κατάλληλο για να αναγνωστεί στο διαδίκτυο. 
+Ανέπτυξα ένα script το οποίο, κατασκευάζει τα αρχεία .txt σε .html και τα συγχωνεύει σε ένα αρχείο html κατάλληλο για να αναγνωστεί στο διαδίκτυο. Επίσης δημιούργησα ένα αποθετήριο στο οποίο πρόσθεσα το ένα index.html αρχείο ώστε να μπορούμε να δούμε το βιβλίο στο διαδίκτυο.
   
 - [make-pollen.sh](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/make-pollen.sh)
 - [mylua.lua](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/mylua.lua)
 - [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/index.html)
-
+- [book-site](https://aggelos2000430.github.io/Book.github.io/)
+  
 <p align="center">
 <img src="https://github.com/aggelos2000430/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
   
