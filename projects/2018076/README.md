@@ -16,7 +16,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1378) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1460)| |
 | 7 | συμμετοχικό περιεχόμενο B1 |  [Link to discussions](https://github.com/courses-ionio/sw/discussions/1474) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1520)| |
 | 9 | συμμετοχικό περιεχόμενο B2 | [Link to discussions](https://github.com/courses-ionio/sw/discussions/1475) | |
 | 10 | Τελική αναφορά* | | |
 
@@ -229,7 +229,7 @@
 - [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/index.html)
 
 <p align="center">
-<img src="https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
+<img src="https://github.com/aggelos2000430/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
   
 <h2 align=center></b>
 <p align="center">
