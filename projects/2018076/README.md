@@ -217,6 +217,27 @@
   
 [Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/site/pull/1)
 
+
+# Κατασκευή του Βιβλίου B2
+
+## Για το Παραδοτέο08
+
+Ανέπτυξα ένα script το οποίο, κατασκευάζει τα αρχεία .txt σε .html και τα συγχωνεύει σε ένα αρχείο html κατάλληλο για να αναγνωστεί στο διαδίκτυο. 
+  
+- [make-pollen.sh](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/make-pollen.sh)
+- [mylua.lua](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/mylua.lua)
+- [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.pdf)
+
+<p align="center">
+<img src="https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
+  
+<h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Pull Request στον Οργανισμό](https://github.com/lapis-lazuli-ore-block/kallipos/pull/5) 
+  
   
 # Συμμετοχικό Περιεχόμενο B2
 
