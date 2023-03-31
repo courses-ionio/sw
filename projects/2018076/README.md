@@ -226,7 +226,7 @@
   
 - [make-pollen.sh](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/make-pollen.sh)
 - [mylua.lua](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/mylua.lua)
-- [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.pdf)
+- [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/index.html)
 
 <p align="center">
 <img src="https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
