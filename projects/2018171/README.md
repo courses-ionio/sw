@@ -14,7 +14,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [asciinema link](https://asciinema.org/a/566545), [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1380) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1461) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1488) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1528) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
