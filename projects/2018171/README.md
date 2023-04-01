@@ -87,4 +87,5 @@
 
 <img src="https://github.com/perikarananou/helpppp/blob/main/photo/site.png" alt="" width="500" height="400">
 
-
+* καθώς και το [βιγραφικό](https://perikarananou.github.io/online-cv/)
+* Το [αποθετήριο](https://github.com/perikarananou/online-cv/tree/gh-pages) του βιογραφικού μου 
