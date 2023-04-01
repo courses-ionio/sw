@@ -79,5 +79,15 @@
 
 [asciinema](https://asciinema.org/a/dYWcTo64brpeomgngKy6KOrXb)
 
+# Συμμετοχικό περιεχόμενο Β1
+
+Σε αυτό το παραδοτέο μας ζητήθηκε μία νέα έρευνα με παρόμοια περίπτωση με τις θεματικές που διαλέξαμε στο 5ο παραδοτέο. Γι' αυτό, επέλεξα να ασχοληθώ με το λογισμικό OpenBsd και να ψάξω περισσότερες λεπτομέρειες.
+
+|_case-study| _includes|images|
+| --- | --- | --- |
+|[OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_case-study/OpenBsd.md)|[cs- OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_includes/cs-%20OpenBsd.md)| [OpenBsd](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd.png) / [OpenBsd-thumb](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd-%20thumb.png)|
+
+
+
 
 
