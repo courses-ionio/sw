@@ -15,9 +15,9 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [My link](https://github.com/courses-ionio/sw/discussions/1366)| |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [My link](https://github.com/courses-ionio/sw/discussions/1438) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [My link](https://github.com/courses-ionio/sw/discussions/1479) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [My link](https://github.com/courses-ionio/sw/discussions/1526)| |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [My link](https://github.com/courses-ionio/sw/discussions/1527) | |
 | 10 | Τελική αναφορά* | | |
 
 # <h2>Εισαγωγή</h2>
@@ -103,7 +103,38 @@ Pull requests:
 Οι αλλαγές μου έχουν ανέβει και στο [My repository](https://github.com/olumpiaalexopoulou/oliv.github.io).
 
 ! Δυστυχώς αντιμετωπίζω ένα πρόβλημα δεν μου φορτώνει την σελίδα και ακόμη δεν έχω βρει κάποια λύση.
- 
+
+# <h2>Συμμετοχικό περιεχόμενο B1</h2>
+
+Σε αυτό το παραδοτέο αποφάσισα να προσθέσω ως μελέτη περίπτωσης την εταιρεία που ανέπτυξε το Zoom, που έχω αναλύσει στο Συμμετοχικό Περιεχόμενο Α1, την Zoom Video Communications, Inc. Είναι μια εταιρεία τεχνολογίας επικοινωνιών και χρησιμοποιείται για βιντεοεπικοινωνίες, η οποία προσφέρει πολλές δυνατότητες στο χρήστη όπως είναι η ανταλλαγή μηνυμάτων, φωνητικές κλήσεις κ.α. Ακόμη αυτή η εταιρεία ανέβηκε πολύ στη χρήση της λόγω της πανδημίας με τον Covid-19 που χρησιμοποιούσαν όλοι για εξ αποστάσεως διδασκαλία ή εργασία την εφαρμογή Zoom.
+
+Προσθήκη Μελέτη Περίπτωσης :
+  - [My site](https://olumpiaalexopoulou.netlify.app//case-study/video-communications/)
+  - [Site Ranger-Power](https://ranger-power.netlify.app//case-study/video-communications/)
+
+Pull request case study :
+  - [Site](https://github.com/Ranger-Power/site/pull/3)
+
+Pull request images :
+  - [Images](https://github.com/Ranger-Power/images/pull/3)
+
+# <h2>Συμμετοχικό περιεχόμενο B2</h2>
+
+Σε αυτό το παραδοτέο πρόσθεσα στη βιογραφία της ιστοσελίδας τον ιδρυτή της εταιρείας Zoom Video Communications τον Eric Yuan. Ο οποίος για να φτάσει στο σημείο να ιδρύσει μία εταιρεία χρειάστηκε να περάσει από πολλές άλλες. Αλλά η ιδέα που είχε να αναπτύξει ένα λογισμικό βιντεοτηλεφωνίας ήταν σε μικρή ηλικία όταν ήταν πρωτοετής φοιτητής τις πολλές ώρες που ταξίδευε για να δει την κοπέλα του. Γενικά, κατάλαβα πως ήταν άνθρωπος με πείσμα, όπως αναφέρω και στην βιβλιογραφία του, αφού παρόλο που του είχαν απορρίψει την ιδέα του στην Cisco αποφάσισε να φύγει από την εταιρεία αυτή και να ιδρύσει την δικιά του.
+
+
+
+Προσθήκη Βιογραφίας :
+  - [My site](https://olumpiaalexopoulou.netlify.app//biography/yuan/)
+  - [Site Ranger-Power](https://ranger-power.netlify.app//biography/yuan/)
+
+Pull request biography :
+  - [Site](https://github.com/Ranger-Power/site/pull/3)
+
+Pull request images :
+  - [Images](https://github.com/Ranger-Power/images/pull/3)
+
+
 # <h2 align="center">Βίντεο Κουίζ</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
@@ -113,3 +144,5 @@ Pull requests:
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |  :+1:  | :+1: | 
 | 4 | Bret Victor - The Future of Programming  |  :+1:  | :+1: | 
 | 5 | Alan Kay - Programming Languages & Programming (2013)  |  :+1:  | :+1: | 
+| 6 | Alan Kay Turing Lecture with dynamic content  |  :+1:  | :+1: | 
+| 7 | Alan Kay - Programming and Scaling |  :+1:  | :+1: |  
