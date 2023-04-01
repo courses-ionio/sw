@@ -77,7 +77,4 @@
 |1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |    
 |2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  |   
 
-# Ομαδικότητα
-https://github.com/courses-ionio/sw/discussions/1162
-
-https://github.com/courses-ionio/sw/discussions/1259#discussioncomment-5113354
+# Εβδομάδα 6: Γραμμή εντολών (custom static blog generator)
