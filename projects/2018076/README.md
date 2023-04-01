@@ -285,7 +285,7 @@
 | 4 | Bret Victor - The Future of Programming | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | Alan Kay - Programming and Scaling | :heavy_check_mark: | :heavy_check_mark: |
-| 7 | | | |
+| 7 | What alan kay thinks about tetriary education | :heavy_check_mark: | :heavy_check_mark: |
 | 8 | | | |
 | 9 | | | |
 | 10 | | | |
