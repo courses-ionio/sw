@@ -78,7 +78,7 @@
 <img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">. <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
 
 
-# 5. Γραμμή εντολών (custom static blog generator):
+# 6. Γραμμή εντολών (custom static blog generator):
 
 Για το παραδοτέο 6  δhμιούργησα ένα site, χρησιμοποιώντας το hugo.
 
@@ -89,3 +89,14 @@
 
 * καθώς και το [βιγραφικό](https://perikarananou.github.io/online-cv/)
 * Το [αποθετήριο](https://github.com/perikarananou/online-cv/tree/gh-pages) του βιογραφικού μου 
+
+
+
+
+
+# 7. συμμετοχικό περιεχόμενο B1:
+
+* [images](https://github.com/perikarananou/images): [tabletPC](https://github.com/perikarananou/images/blob/master/tabletPC.jpg), [tabletPCmin](https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg)
+
+
+<img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg">
