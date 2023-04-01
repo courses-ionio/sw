@@ -97,6 +97,6 @@
 # 7. συμμετοχικό περιεχόμενο B1:
 
 * [images](https://github.com/perikarananou/images): [tabletPC](https://github.com/perikarananou/images/blob/master/tabletPC.jpg), [tabletPCmin](https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg)
-
+* [_includes](https://github.com/perikarananou/site/tree/master/_includes): [tabletPC](https://github.com/perikarananou/site/blob/master/_includes/tabletPC.md)
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg">
