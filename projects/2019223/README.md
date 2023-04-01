@@ -12,8 +12,8 @@
 | 3 | <li><a href="#Γραμμή εντολών (no systemd)"></span> <span class="toctext">Γραμμή εντολών (no systemd)</span></a>  |  <i><a href="https://github.com/courses-ionio/sw/discussions/1329" title="Discussions">Discussions</a></i>|Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 4 | <li><a href="#Κατασκευή του βιβλίου Α2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Α2 (συνεργατικά)</span></a>|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
-| 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| |Εμπρόθεσμη παράδοση παραδοτέου. |
-| 7 | <li><a href="#συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| | | 
+| 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
+| 7 | <li><a href="#συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου.  | 
 | 8 | <li><a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | ||
 | 9 | <li><a href="#συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | ||
 | 10 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
