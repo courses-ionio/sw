@@ -134,7 +134,7 @@
 
 ### Η μελέτη περίπτωσης :
 ### Στο [site της ομάδας μας]().
-### Στo [Ατομικό μου site]()
+### Στo [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/case-study/croquet/)
 
 ### Οι πηγές που μελετήθηκαν :
 [Croquet - A collaboration system architecture](https://www.researchgate.net/publication/4029258_Croquet_-_A_collaboration_system_architecture)
