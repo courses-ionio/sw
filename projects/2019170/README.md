@@ -12,8 +12,8 @@
 | [3](#3o-παραδοτέο) | Γραμμή εντολών (no systemD) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
 | [4](#4o-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| |
 | [5](#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2|[Julia & OpenBSD](https://github.com/courses-ionio/sw/discussions/1433)| |
-| [6](#6o-παραδοτέο) | Γραμμή εντολών (no systemD, custom static blog generator) | | |
-| [7](#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | | |
+| [6](#6o-παραδοτέο) | Γραμμή εντολών (no systemD, custom static blog generator) |[Hugo Blog](https://github.com/courses-ionio/sw/discussions/1539)| |
+| [7](#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 |[Julia Case Study](https://github.com/courses-ionio/sw/discussions/1540)| |
 | [8](#8o-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | [9](#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 | | |
 | [10](#10o-παραδοτέο) | Τελική αναφορά* | | |
@@ -85,6 +85,14 @@
 |[My Blog](https://marked-d.github.io/hugo-blog/)|
 |---|
 |![blog](https://github.com/marked-d/SW_plus/blob/main/hugo-blog/hugo-blog1.png)|
+
+7<sup>o</sup> Παραδοτέο 
+========================
+|Julia | Pull Requests προς τον Οργανισμό | Link Προς το Site του Οργανισμού |screenshot|
+|---|---|---|---|
+|<ul><li>[julia-pl](https://github.com/marked-d/SW_plus/blob/main/case_study/julia-pl.md)</li><li>[cs-julia-pl](https://github.com/marked-d/SW_plus/blob/main/case_study/cs-julia-pl.md)</li></ul>|n/a|n/a|n/a|
+
+[Πηγές](https://github.com/marked-d/SW_plus/blob/main/case_study/links-julia.md)
 
 Extras
 ========================
