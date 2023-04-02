@@ -132,6 +132,6 @@
 #### [site](https://github.com/TheTimeParadox/site/pull/6)
 #### [images](https://github.com/TheTimeParadox/images/pull/5)
 
-Oι προσθήκες :
+### Η μελέτη περίπτωσης :
 ### Στο [site της ομάδας μας]().
-### ΣTo [Ατομικό μου site]()
+### Στo [Ατομικό μου site]()
