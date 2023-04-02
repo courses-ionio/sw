@@ -31,7 +31,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1473) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1517) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion]() | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -99,14 +99,14 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A1 + A2
 Για το συμμετοχικό περιεχόμενο αποφάσισα να επεκτείνω την έρευνα μου ως προς τα μοντέλα επικοινωνίας/δικτυοσεις ανθρώπων μεσω υπολογιστων, και για αυτό διάλεξα να γράψω για την υπιρεσία `Hotmail` η οποια ήταν μια από τις πρώτες υπηρεσίες webmail στο Διαδίκτυο και για το `CB Simulator` η οποία ήταν η πρώτη αποκλειστική υπηρεσία διαδικτυακής συνομιλίας που ήταν ευρέως διαθέσιμη στο κοινό.
 
-<b>Hotmail Images:<b/> [Source](https://en.wikipedia.org/wiki/File:Hotmail_old_screenshot.jpg) | [Normal](https://github.com/Futsies/images/blob/master/hotmail.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/hotmail-thumb.jpg) <br/>
-<b>CB Simulator Images:<b/> [Source](https://tgforum.com/virtual-personae/compuserve-cb-simulator-screen/) | [Normal](https://github.com/Futsies/images/blob/master/cb-simulator.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/cb-simulator-thumb.jpg) <br/>
-<b>Gallery:<b/> [CB Simulator](https://github.com/Futsies/_gallery/blob/master/cb-simulator.md) | [Hotmail](https://github.com/Futsies/_gallery/blob/master/hotmail.md) <br/>
-<b>Repo Slides:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_slides/cb-sim.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_slides/hotmail.md) <br/>
-<b>Repo Timelines:<b/> [CB Simulator](https://github.com/Futsies/site/blob/master/_timeline/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_timeline/hotmail.md) <br/>
-<b>Netlify Gallery:<b/> [CB Simulator](https://p2020174-pibook.netlify.app/gallery/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/gallery/hotmail/) <br/>
-<b>Netlify Slides:<b/> [CB Simulator](https://p2020174-pibook.netlify.app//slides/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/slides/hotmail/) <br/>
-<b>Netlify Timelines:<b/> [CB Simulator](https://p2020174-pibook.netlify.app//timeline/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/timeline/hotmail/) <br/>
+__Hotmail Images:__ [Source](https://en.wikipedia.org/wiki/File:Hotmail_old_screenshot.jpg) | [Normal](https://github.com/Futsies/images/blob/master/hotmail.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/hotmail-thumb.jpg) <br/>
+__CB Simulator Images:__ [Source](https://tgforum.com/virtual-personae/compuserve-cb-simulator-screen/) | [Normal](https://github.com/Futsies/images/blob/master/cb-simulator.jpg) | [Thumb](https://github.com/Futsies/images/blob/master/cb-simulator-thumb.jpg) <br/>
+__Gallery:__ [CB Simulator](https://github.com/Futsies/_gallery/blob/master/cb-simulator.md) | [Hotmail](https://github.com/Futsies/_gallery/blob/master/hotmail.md) <br/>
+__Repo Slides:__ [CB Simulator](https://github.com/Futsies/site/blob/master/_slides/cb-sim.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_slides/hotmail.md) <br/>
+__Repo Timelines:__ [CB Simulator](https://github.com/Futsies/site/blob/master/_timeline/cb-simulator.md) | [Hotmail](https://github.com/Futsies/site/blob/master/_timeline/hotmail.md) <br/>
+__Netlify Gallery:__ [CB Simulator](https://p2020174-pibook.netlify.app/gallery/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/gallery/hotmail/) <br/>
+__Netlify Slides:__ [CB Simulator](https://p2020174-pibook.netlify.app//slides/cb-simulator/) | [Hotmail](https://master--p2020174-pibook.netlify.app/slides/hotmail/) <br/>
+__Netlify Timelines:__ [CB Simulator](https://p2020174-pibook.netlify.app//timeline/cb-simulator/) | [Hotmail](https://p2020174-pibook.netlify.app/timeline/hotmail/) <br/>
 
 # Παραδοτέο 6 - Γραμμή εντολών (custom static blog generator)
 Για το έκτο εβδομαδιαίο παραδοτέο, ζητήθηκε να δημιουργήσουμε ένα δικό μας `static blog generator` με τη βοήθεια του bashblog σε ένα λειτουργικό σύστημα χωρίς `systemd`. Αποφάσισα να το προσπαθήσω στο λειτουργικό σύστημα Kiss Linux, το οποίο είχα εγκαταστήσει σε προηγούμενο παραδοτέο.
@@ -120,3 +120,10 @@ To επόμενο βήμα, συμφωνα με το guide, είναι να ξα
 [Link στο site](https://futsies.github.io)
 
 # Παραδοτέο 7 - Συμμετοχικό περιεχόμενο B1
+Στο πλαίσιο του συμμετοχικού περιεχομένου Β1, αποφάσισα να επεκτείνω τις γνώσεις μου στο θέμα των δικτύων και των επικοινωνιών. Αυτό το θέμα συμπίπτει με το περιεχόμενο των Α1 και Α2, τα οποία εξετάζουν την επικοινωνία και την ανταλλαγή πληροφοριών του παρελθόντος
+
+Δίνεται μια λίστα με συνδέσμους στα αποθετήρια και το Netlify.
+
+| images | _case-study | _includes | Netlify |
+| :--: | :--: | :--: | :--: |
+| [Normal image](https://github.com/Futsies/images/blob/master/Arpanet.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/Arpanet-thumb.jpg) | [Link to _case-study](https://github.com/Futsies/site/blob/master/_case-study/legacynetworks.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/cs-legacynetworks.md) | [Link to site](https://p2020174-pibook.netlify.app//case-study/legacynetworks/) |
