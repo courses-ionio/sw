@@ -69,3 +69,13 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 
 # Συμμετοχικό Περιεχόμενο A1 και A2
+
+Σε αυτό το παραδοτέο διάλεξα ως κύρια θέματα τα προγράμματα Blender και Unreal Engine 5, αφού με ενδιαφέρει ο τομέας της διασκέδασης και συγκεκριμένα των video games.
+
+[Blender Gallery Link](https://github.com/mariakourti/_gallery/blob/master/blender.md) | [Unreal 5 Gallery Link](https://github.com/mariakourti/_gallery/blob/master/unreal-5.md)
+
+[Blender Image Link](https://github.com/mariakourti/images/blob/master/blender.png) | [Blender Thumb Image Link](https://github.com/mariakourti/images/blob/master/blender-thumb.png)
+
+[Unreal 5 Image Link](https://github.com/mariakourti/images/blob/master/blender-thumb.png) | [Unreal 5 Thumb Image Link](https://github.com/mariakourti/images/blob/master/unreal-5-thumb.jpg)
+
+[Blender Netlify Link](https://p2020158.netlify.app/gallery/blender) | [Unreal 5 Netlify Link](https://p2020158.netlify.app/gallery/unreal-5)
