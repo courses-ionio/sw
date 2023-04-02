@@ -8,10 +8,10 @@
 | 3 | [Funtoo installation](#παραδοτέο-3) |[Discussion](https://github.com/courses-ionio/sw/discussions/1328) |  |
 | 4 | [Κατάσκευη Βιβλίου](#παραδοτέο-4) |[Discussion](https://github.com/courses-ionio/sw/discussions/1389) | |
 | 5 | [Συμμετοχικό περιεχόμενο Α1 & A2](#παραδοτέο-5) |[Discussion](https://github.com/courses-ionio/sw/discussions/1450)|  |
-| 6 | [Static Blob](#παραδοτέο-6) | [Discussion]() | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion]() |  |
-| 8 | [Pollen](#παραδοτέο-8) |[Discussion]() |  |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion]() |  |
+| 6 | [Static Blob](#παραδοτέο-6) | [Discussion](https://github.com/courses-ionio/sw/discussions/1495) | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion](https://github.com/courses-ionio/sw/discussions/1541) |  |
+| 8 | [Pollen](#παραδοτέο-8) |[Discussion](https://github.com/courses-ionio/sw/discussions/1542) |  |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion](https://github.com/courses-ionio/sw/discussions/1543) |  |
 | 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion]() |  |
 
 
@@ -61,16 +61,35 @@
 
 # Παραδοτέο 6
 
+Για το παραδοτέο 6 έκανα ένα blog με το [Hugo](https://github.com/gohugoio/hugo) το οποίο το έκανα host με το GitHub pages. Χρησιμοποίησα ένα πολύ minimal theme και ανέβασα το πρώτο μου ποστ. Ένα θέμα που συνάντησα είναι ότι όταν κάνω export PATH=/path/to/go/bin:$PATH για να ορίσω το path για την go όπως γράφει στο documentation κάθε φορά που έκλεινα το terminal και άνοιγα καινούριο δεν κρατούσε την αλλαγή και είναι η πρώτη φορά που μου συμβαίνει αυτό (το blog έγινε σε Funtoo).
+
+[![image](https://user-images.githubusercontent.com/45509916/229379151-f4cd3f63-f3f8-40d3-8119-7df62ae875e8.png)](https://voltmaister.github.io/hugo-site/posts/warcraft3/)
+
+[blog](https://voltmaister.github.io/hugo-site/posts/warcraft3/)
 
 # Παραδοτέο 7
+
+Για το παραδοτέο 7 έκανα ένα [case study](https://master--voltmaister-site1.netlify.app/case-study/openrc/) σχετικό με το OpenRC το οποίο για έμενα είναι καινούριο και πρώτη φορά ήρθα σε επαφή με αυτό μέσω του λειτουργικού συστήματος FUNTOO.
+
+![image](https://user-images.githubusercontent.com/45509916/229379195-cde76d9a-9b88-4a75-9f93-487658340caa.png)
 
 
 # Παραδοτέο 8
 
+Για το παραδοτέο 8 έκανα το [βιβλίο](https://github.com/voltmaister/kallipos) σε pollen 
 
+![image](https://user-images.githubusercontent.com/45509916/229378719-9e378eb5-85b7-4a86-96b5-139a964ce14d.png)
+
+
+Αυτό έγινε μέσω ενός script [makepollen.sh](https://github.com/voltmaister/kallipos/blob/master/makepollen.sh)
+
+Κατά τη διαδικασία μετατροπής του βιβλίου σε pollen παρουσιάστηκαν πολλά προβλήματα που προσπάθησα να λύσω μαζί με τον NickLitharis και καταλήξαμε ότι αυτό το script είναι ο καλύτερος τρόπος να γίνει το βιβλίο στη μορφή που θέλουμε χωρίς να χρειαστεί να το ξαναφτιάξουμε όλο από την αρχή.
 
 # Παραδοτέο 9
 
+Για το παραδοτέο 9 έκανα τη [βιογραφία](https://master--voltmaister-site1.netlify.app/biography/judd-vinet/) του Judd Vinet δημιουργού και συντονιστή του Arch Linux και pacman package manager.
+
+![image](https://user-images.githubusercontent.com/45509916/229378937-5ffdc76c-398c-4578-b15c-16a4124b7563.png)
 
 # Παραδοτέο 10
 
