@@ -13,7 +13,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Ανάρτηση στα Discussions του βιβλίου με τα σχόλια της ομάδας](https://github.com/courses-ionio/sw/discussions/1384) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Ανάρτηση στα Discussions του συμμετοχικού περιεχομένου Α1 + Α2](https://github.com/courses-ionio/sw/discussions/1436)| |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Ανάρτηση στα Discussions του στατικού blog που δημιουργήθηκε μέσω των Artix Linux & του bashblog](https://github.com/courses-ionio/sw/discussions/1501)| |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Ανάρτηση στα Discussions της μελέτης περίπτωσης του Croquet](https://github.com/courses-ionio/sw/discussions/1538)| |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -101,8 +101,6 @@
 
 ### Tα pull request προς τον Οργανισμό
 #### [_gallery](https://github.com/TheTimeParadox/_gallery/pull/1)
-
-
 #### [images](https://github.com/TheTimeParadox/images/pull/1)
 
 ### Το [site της ομάδας μας](https://thetimeparadox-pibook.netlify.app/).
@@ -121,3 +119,19 @@
 [My static blog](https://alessenia.github.io/)
 
 [To repository του blog μου](https://github.com/Alessenia/Alessenia.github.io)
+
+# Παραδοτέο 7 - Συμμετοχικό περιεχόμενο B1
+
+Για το παραδοτέο αυτής της εβδομάδας επέλεξα να ασχοληθώ με την περίπτωση του Croquet και να γράψω μία μελέτη περίπτωσης για αυτό. Η πλατφόρμα του Croquet είναι open-source και η δημιουργία της χρηματοδοτήθηκε αρχικά από τον Alan Kay . Ο ίδιος μαζί με την ομάδα του , δημιούργησαν το Croquet για να είναι δυνατή μια πραγματικού χρόνου επεξεργασία αρχείων και συνεπώς μια απο κοινού δημιουργία λογισμικού πέρα από τους περιορισμούς που έθεταν τα μέσα της εποχής(e-mails).
+
+### Τα αρχεία στον προσωπικό μου λογαριασμό :
+#### Τo αρχείο [ _includes](https://github.com/p2019vade/site/blob/master/_includes/cs-croquet.md) 
+#### To αρχείο [_case-study](https://github.com/p2019vade/site/blob/master/_case-study/croquet.md)
+
+### Tα pull request προς τον Οργανισμό :
+#### [site](https://github.com/TheTimeParadox/site/pull/6)
+#### [images](https://github.com/TheTimeParadox/images/pull/5)
+
+Oι προσθήκες :
+### Στο [site της ομάδας μας]().
+### ΣTo [Ατομικό μου site]()
