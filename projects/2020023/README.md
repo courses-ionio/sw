@@ -14,7 +14,7 @@
 | [4](#κατασκευή-του-βιβλίου-α2---4ο-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1385)| Πρόσθεσα την σημείωση μου σε ένα κομμάτι του βιβλίου που βρήκα ενδιαφέρον. Πιστεύω από άποψη συνοχής ταιριάζει καθώς αναλύει τη συγκεκριμένη παράγραφο με παραδείγματα. |
 | [5](#συμμετοχικό-περιεχόμενο-α1-και-α2---5ο-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1437) | Πιστέυω πως έχω καλύψει το ζητούμενο επιλέγοντας δύο ενδιαφέρουσες περιπτώσεις. |
 | [6](#γραμμή-εντολών-custom-static-blog-generator---6o-παραδοτέο) | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1491) | Κατάφερα ένα ικανοποιητικό αποτέλεσμα μέσω χρήσης του bashblog, με αρκετά ενδιαφέρον περιεχόμενο.|
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| [7](#συμμετοχικό-περιεχόμενο-β1---7ο-παραδοτέο) | συμμετοχικό περιεχόμενο B1 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1534) | Για το παραδοτέο επέλεξα το Audacity που κατά τη γνώμη μου είναι μια αρκετά ενδιαφέρουσα περίπτωση που ανέλυσα τα βασικότερα σημεία της. |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -146,7 +146,29 @@
 
 
 ## Συμμετοχικό περιεχόμενο Β1 - 7ο παραδοτέο
--
+Για την μελέτη περίπτωσης του 7ου παραδοτέου επέλεξα να γράψω για την περίπτωση του λογισμικού Audacity, ο οποίος είναι ένας open-source επεξεργαστής ψηφιακού ήχου που επιτρέπει την δημιουργία μουσικών κομματιών αλλά και απλών ήχων μεταξύ άλλων πολλών λειτουργιών. Παρακάτω βρίσκονται τα ατομικά και ομαδικά link, οι πηγές καθώς και τα αντίστοιχα pull request προς τον οργανισμό.
+
+**Πηγές μελέτης**: [Audacity, Software Advice](https://www.softwareadvice.com/audio-editing/audacity-profile/) / [Audacity, Wikipedia](https://en.wikipedia.org/wiki/Audacity_(audio_editor)) / [audacityteam.org](https://www.audacityteam.org/about/features/) / [Audacity Wiki](https://wiki.audacityteam.org/wiki/Audacity_Wiki_Home_Page) / [Audacity, SourceForge](https://sourceforge.net/projects/audacity/) / [Audacity, umass](https://blogs.umass.edu/onlinetools/learner-centered-tools/audacity/) / [Audacity, Tech Radar](https://www.techradar.com/reviews/audacity-32) / [Audacity, PCMag](https://www.pcmag.com/reviews/audacity) / [MIDI, Wikipedia](https://en.wikipedia.org/wiki/MIDI) / [wxWidgets, Wikipedia](https://en.wikipedia.org/wiki/WxWidgets) / [Nyquist, Wikipedia](https://en.wikipedia.org/wiki/Nyquist_(programming_language)) / [Lossy & Lossless audio formats, Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format#Lossless_compressed_audio_format) 
+
+#### Ατομικά link:
+**Netlify**: [Μελέτη περίπτωσης Audacity](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/audacity/)
+
+**Images**: [Audacity version 3](https://github.com/p20samiv2/images/blob/master/audacity-v3.jpg) / [Audacity version 3 thumbnail](https://github.com/p20samiv2/images/blob/master/audacity-v3-thumb.jpg) / [Audacity version 2](https://github.com/p20samiv2/images/blob/master/audacity.png) / [Audacity architecture layers](https://github.com/p20samiv2/images/blob/master/audacity-layers.png)
+
+**_case-study**: [audacity.md](https://github.com/p20samiv2/site/blob/master/_case-study/audacity.md)
+
+**_includes**: [cs-audacity.md](https://github.com/p20samiv2/site/blob/master/_includes/cs-audacity.md)
+
+#### Ομαδικά link:
+**Netlify**: [Μελέτη περίπτωσης Audacity](https://thetimeparadox-pibook.netlify.app/case-study/audacity/)
+
+**Images**: [Audacity version 3](https://github.com/TheTimeParadox/images/blob/master/audacity-v3.jpg) / [Audacity version 3 thumbnail](https://github.com/TheTimeParadox/images/blob/master/audacity-v3-thumb.jpg) / [Audacity version 2](https://github.com/TheTimeParadox/images/blob/master/audacity.png) / [Audacity architecture layers](https://github.com/TheTimeParadox/images/blob/master/audacity-layers.png)
+
+**_case-study**: [audacity.md](https://github.com/TheTimeParadox/site/blob/master/_case-study/audacity.md)
+
+**_includes**: [cs-audacity.md](https://github.com/TheTimeParadox/site/blob/master/_includes/cs-audacity.md)
+
+**Pull Requests**: [Images](https://github.com/TheTimeParadox/images/pull/4) / [Site](https://github.com/TheTimeParadox/site/pull/4)
 
 ## Κατασκευή του βιβλίου Β2 - 8ο παραδοτέο
 -
