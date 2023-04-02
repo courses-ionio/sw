@@ -14,7 +14,7 @@
 | [4](https://github.com/AlexIoanP2020159/sw/tree/2020159/projects/2020159#4o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Π2020159 - 4ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1503) | |
 | [5](https://github.com/AlexIoanP2020159/sw/tree/2020159/projects/2020159#5o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | Συμμετοχικό περιεχόμενο A1 + A2 | [Π2020159 - 5ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1504) | |
 | [6](https://github.com/AlexIoanP2020159/sw/tree/2020159/projects/2020159#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | Γραμμή εντολών (no systemd, custom static blog generator) | [Π2020159 - 6ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1505) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Π2020159 - 7ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1532) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
