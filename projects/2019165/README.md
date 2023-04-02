@@ -135,3 +135,12 @@
 ### Η μελέτη περίπτωσης :
 ### Στο [site της ομάδας μας]().
 ### Στo [Ατομικό μου site]()
+
+### Οι πηγές που μελετήθηκαν :
+[Croquet - A collaboration system architecture](https://www.researchgate.net/publication/4029258_Croquet_-_A_collaboration_system_architecture)
+[Croquet project - wayback machine](https://web.archive.org/web/20041010043436/http://www.opencroquet.org/About_Croquet/about.html)
+[Croquet OS - encyclopedia](https://encyclopedia.pub/entry/30475)
+[Unconventional and innovative: the Open Croquet Project](https://librarytechnology.org/document/11671)
+[Croquet, Everyone? - Forbes-](https://www.forbes.com/forbes/2005/0131/066.html?sh=68d8a18c951d)
+[Project Croquet - Wikipedia](https://en.wikipedia.org/wiki/Croquet_Project)
+[Open Croquet- Wiki](https://wiki.c2.com/?OpenCroquet)
