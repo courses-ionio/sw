@@ -132,3 +132,15 @@ GitHub Link: https://github.com/theoharissiwzos
 
 
 __Δυσκολίες__: Αρχικά προσπάθησα να το υλοποιήσω με την χρήση του __Bashblog__ όμως δεν κατάφερα να το δουλέψω διότι απο οτι φαίνεται δεν έβρισκε το bashblog-lib repository στο GitHub και έτσι αποφάσισα να εγκαταστήσω το hugo και να το υλοποιήσω μέσω αυτού. 
+
+ # Παραδοτεο 7 - Συμμετοχικό περιεχόμενο B1:
+ 
+ Για το 7ο παραδοτέο πρόσθεσα στο site μία μελέτη περίπτωσης που αφορά το API του Instagram δηλαδή το Instagram_API_Graph.
+
+* [images](https://github.com/theoharissiwzos/images/tree/f3223eb3b00e53006b7cfcf672623731045c07f4): [Instagram_API_Graph](https://github.com/theoharissiwzos/images/blob/f3223eb3b00e53006b7cfcf672623731045c07f4/instagram-graph.jpg), [Instagram_API_Graphmin](https://github.com/theoharissiwzos/images/blob/f3223eb3b00e53006b7cfcf672623731045c07f4/instagram-graph-thumb.jpg)
+* [_includes](https://github.com/theoharissiwzos/site/tree/master/_includes): [Instagram_API_Graph](https://github.com/theoharissiwzos/site/blob/master/_includes/cs-instagramgraph.md)
+* [_case-study](https://github.com/theoharissiwzos/site/tree/master/_case-study): [Instagram_API_Graph](https://github.com/theoharissiwzos/site/blob/master/_case-study/instagramgraph.md)
+
+
+
+
