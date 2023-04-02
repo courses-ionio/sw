@@ -79,6 +79,8 @@
 
 # Εβδομάδα 6: Γραμμή εντολών (custom static blog generator)
 Εχτισα το δικο μου blog χρησιμοποιοντας το hugo.
+* [myblog repository](https://github.com/StavroulaAnatolaki/myblog/tree/main)
+* [My blog](https://stavroulas-blog.netlify.app/)
 
 ### Πηγές
 * [link](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/)
