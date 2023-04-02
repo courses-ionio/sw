@@ -79,6 +79,13 @@
 
 [Πηγές](https://github.com/marked-d/SW_plus/blob/main/A1+A2/links.md)
 
+6<sup>o</sup> Παραδοτέο 
+========================
+Για το 6ο παραδοτέο έφτιαξα ένα blog χρησιμοποιόντας το hugo το οποίο το κάνω host μέσω του github pages.
+|[My Blog](https://marked-d.github.io/hugo-blog/)|
+|---|
+|![blog](https://github.com/marked-d/SW_plus/blob/main/hugo-blog/hugo-blog1.png)|
+
 Extras
 ========================
 Ntfy Άσκηση Γραμμής Εντολών
