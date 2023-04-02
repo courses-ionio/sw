@@ -11,7 +11,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | |
 | 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | |
-| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | | |
+| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | |
 | 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
