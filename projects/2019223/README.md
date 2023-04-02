@@ -15,7 +15,7 @@
 | 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
 | 7 | <li><a href="#συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου.  | 
 | 8 | <li><a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | ||
-| 9 | <li><a href="#συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | ||
+| 9 | <li><a href="#συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | |Εμπρόθεσμη παράδοση παραδοτέου.|
 | 10 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
 
 
@@ -86,6 +86,16 @@
 |_case-study| _includes|images|
 | --- | --- | --- |
 |[OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_case-study/OpenBsd.md)|[cs- OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_includes/cs-%20OpenBsd.md)| [OpenBsd](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd.png) / [OpenBsd-thumb](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd-%20thumb.png)|
+
+# Συμμετοχικό περιεχόμενο Β2
+
+Στο συγκεκριμένο παραδοτέο εν συνεχεία του συμμετοχικού περιεχομένου Β1, ζητήθηκε η δημιουργία μιας βιογραφίας. Γιαυτό τον λόγο αποφάσισα να ασχοληθώ με την βιογραφία του δημιουργού του OpenBsd, theo de Raadt.
+
+|_biography|images|
+| --- | --- |
+|[Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/Theo%20de%20Raadt.md)/[bio-Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/bio-Theo%20de%20Raadt.md)| [Theo de Raadt](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt%20.jpeg) / [Theo de Raadt-thumb](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt-thumb.jpeg)|
+
+
 
 
 
