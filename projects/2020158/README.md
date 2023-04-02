@@ -11,8 +11,8 @@
 | 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | |
 | 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | | |
+| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](Συμμετοχικό-Περιεχόμενο-A1-και-A2) | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -52,3 +52,20 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 ![download](https://user-images.githubusercontent.com/92392853/226462212-dbc9b12a-72cc-44fa-bf85-950f1d61c76c.gif)
 
+
+# Κατασκευή του Βιβλίου Α2
+
+Για το πρώτο μέρος κατασκευής του βιβλίου, αφού μελέτησα τα κεφάλαια και συζήτησα με την ομάδα μου, αποφάσισα να προσθέσω λίγες πληροφορίες για το VS Code. Πιστεύω ταιριάζει στην ενότητα με τα περιβάλλοντα ανάπτυξης λογισμικού. Παρακάτω βρίσκεται η σημείωσή μου.
+
+[Αρχείο md](https://github.com/mariakourti/TheParadoxNotes/blob/main/vscode.md)
+
+[Ομαδικό Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/master/additionfilter.lua)
+
+[make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/master/make-latex.sh)
+
+[Ομαδικό Βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/master/book.pdf)
+
+![Screenshot_1](https://user-images.githubusercontent.com/92392853/229353855-98072417-7e5a-42aa-ad32-d9cdd811ae4b.png)
+
+
+# Συμμετοχικό Περιεχόμενο A1 και A2
