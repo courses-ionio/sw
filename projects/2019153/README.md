@@ -12,7 +12,7 @@
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion](https://github.com/courses-ionio/sw/discussions/1541) |  |
 | 8 | [Pollen](#παραδοτέο-8) |[Discussion](https://github.com/courses-ionio/sw/discussions/1542) |  |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion](https://github.com/courses-ionio/sw/discussions/1543) |  |
-| 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion]() |  |
+| 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion](https://github.com/courses-ionio/sw/discussions/1544) |  |
 
 
 # Παραδοτέο 1
