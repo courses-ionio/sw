@@ -81,3 +81,10 @@
 https://alexioanp2020159.github.io/
 
 [![asciicast](https://asciinema.org/a/52eTqUl7EvCbzUHoVtLKpz6ES.svg)](https://asciinema.org/a/52eTqUl7EvCbzUHoVtLKpz6ES)
+
+## 7ο Παραδοτέο
+Βασιζόμενος σε αυτά που είχα γράψει σε προηγούμενα παραδοτέα, γι' αυτήν την εβδομάδα αποφάσισα να γράψω για τον Vim ως text-editor, από που προήλθε, τις δυνατότητες και την επορροή που είχε σε άλλους text-editors. Παρακάτω παραθέτω τους σχετικούς συνδέσμους:
+
+| images | case-study | includes | netlify |
+| --- | --- | --- | --- |
+| [vimte.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte.jpg) - [vimte-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte-thumb.jpg) - [vim-environment.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment.jpg) - [vim-environment-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment-thumb.jpg) | [vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_case-study/vimte.md) | [cs-vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_includes/cs-vimte.md) | [Επεξεργαστής Κειμένου Vim](https://p2020159-pibook.netlify.app/case-study/vimte/) |
