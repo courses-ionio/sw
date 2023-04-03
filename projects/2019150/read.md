@@ -30,7 +30,8 @@
   
 <h2><span id="Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου">(2) Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></h2>
 
-
+ Στο δεύτερο παραδοτέο καλούμαστε να κατεβάσουμε ένα λειτουργικό σύστημα το οποίο χρησιμοποιεί systemd και η εγκατάστασή του δεν γίνεται αυτόματα όπως π.χ. ubuntu. Η επιλογή μου για αυτό το παραδοτέο είναι το λειτοπυργικό σύστημα `Alrch Linux 2023.03. 01 x86_64` και η εγκατάσταση έγινε με την χρήση του VMware Workstation Player. Άλλαξα το bash username από το default στον αριθμό μητρώου μου (2019034). Στο τέλος, μετά την εγκατάσταση του λογισμικού, έκανα τις ασκήσεις που παρουσιάζονται στον παρακάτω πίνακα (οι εντολές φαίνονται στο βίνετο του asciinema.
+  
   <h4>
 
 | | Όνομα άσκησης |
@@ -41,8 +42,15 @@
 | 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
 
     
-  <br><br><br>
-    
+<br<br>
+
+ <br><br><br>
+Εργαλεία που χρησιμοποίησα:<br><br>
+
+ - [Alpine Linux](https://www.alpinelinux.org)<br><br>
+ - [VMware Workstation Player](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)<br><br>
+ - [Asciinema](https://asciinema.org)<br><br>
+
 <h2><span id="(5) Συμμετοχικό περιεχόμενο A1 + A2">(5) Συμμετοχικό περιεχόμενο A1 + A2</span></h2>
     
   Το πέμπτο παραδοτέο αφορούσε το συμμετοχικό περιεχόμενο Α1 και Α2. Είχαμε να κάνουμε κάποιες προσθήκες που σχετίζονται με την τεχνολογία λογισμικού στο [forked site](https://github.com/P2019SARAKATSANIS/site) της [ομάδας μας](https://github.com/IonianUniversity2019) στο github (Η ομάδα δεν έχει ασχοληθεί ακόμα με την ένωση των αλλαγών που έχουν κάνει τα μέλη της στην ιστοσελίδα του βιβλίου, οπότε το link του forked site οδηγεί στο δικό μου forked site από την ομάδα). Αρχικά, έχοντας παρατηρήσει το περιεχόμενο του [_gallery](https://github.com/P2019SARAKATSANIS/_gallery), [timeline](https://github.com/P2019SARAKATSANIS/site/tree/master/_timeline) και [images](https://github.com/P2019SARAKATSANIS/images) (στα link υπάρχουν τα fored από εμένα με τις αλλαγές που έκανα), έκανα έρευνα ώστε να εντοπίσω υλικό κατάλληλο να προστεθεί στο [site](https://github.com/P2019SARAKATSANIS/site).
@@ -57,7 +65,7 @@
 <br>
   Για το Α2 έπρεπε να εισάγω τις παραπάνω προσθήκες μου σε σχετικές διαφάνειες και χρονολόγια. Συγκεκριμένα, το Manjaro-ΑΡΜ το πρόσθεσα στην κατηγορία Μέθοδος. Ύστερα, το εισήγαγα στο χρονολόγιο με όνομα Λειτουργικά Συστήματα και Εφαρμογές. Το GPIΟ control module το πρόσθεσα στις κατηγορίες Αρχέτυπα και Τεχνολογία και το εισήγαγα στην διαφάνεια του χρονολογίου, Συσκευές Εισόδου. Τέλος, δημιούργησα μία νέα διαφάνεια στο χρονολόγιο με όνομα "Η Εξέλιξη της Τεχνητής Νοημοσύνης".
     
-    
+<br><br>
     
  <img src="https://user-images.githubusercontent.com/72516045/229491757-94935194-afec-4f92-9ecf-f92532983b1c.png"/> <img src="https://user-images.githubusercontent.com/72516045/229492002-014f4bd4-ba25-47de-a819-3bcf70154cdf.png" width="800"/> 
 
