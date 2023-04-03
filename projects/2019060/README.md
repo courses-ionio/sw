@@ -45,27 +45,54 @@
 # Παραδοτέο 4ο
 ## Arduino addition
 Προσθήκη στο κεφαλαιο για το arduino
+![arduino](https://user-images.githubusercontent.com/73399706/229478608-605139d0-8ffd-41cf-ac35-8be74e9083dd.png)
 
 # Παραδοτέο 5ο
 ## TinyCore
-Για το πέμπτο παραδοτέο προσέθεσα στο site το tiny core το οποίο είναι ένα no systemD σύστημά με πολύ μικρό μέγεθος
+Για το πέμπτο παραδοτέο προσέθεσα στο site το [TinyCore Linux](https://effervescent-pavlova-a43f63.netlify.app/gallery/tiny-core/) το οποίο είναι ένα no systemD σύστημά με πολύ μικρό μέγεθος
+
+![tinyCore](https://user-images.githubusercontent.com/73399706/229479205-c569cdde-92cc-42dc-a7fa-fea4ab3f00bb.png)
+[_slides tiny core](https://effervescent-pavlova-a43f63.netlify.app/slides/operating-systems/)
 ## SystemD
-systemD το οποίο είναι ένα init system
+[systemD](https://effervescent-pavlova-a43f63.netlify.app/gallery/systemd/) το οποίο είναι ένα init system
+
+![sysd](https://user-images.githubusercontent.com/73399706/229479500-718ecd6a-bb7c-4c61-95c3-5302fcf99e7c.png)
+[_timeline systemD](https://effervescent-pavlova-a43f63.netlify.app/timeline/init-systems/)
+
+[Pull request](https://github.com/PaneksypnesDiepafes/site/pull/9)
 
 # Παραδοτέο 6ο
 ## hugo static site
 Για το 6ο παραδοτέο έφτιαξα ένα static blog με τη χρήση του hugo και το host-αρω στο github pages, στο μοναδικό post που υπάρχει, έφτιαξα ενα guide για το πως το έκανα [hugo blog guide, in hugo blog](https://odysseaseko.github.io/kaxiti.github.io/)
 
+![site1](https://user-images.githubusercontent.com/73399706/229482670-b1a88cb6-c9ac-46bf-80c9-1ffec04d8aea.png)
+
+
+![site2](https://user-images.githubusercontent.com/73399706/229482694-6e9ff437-a47c-49af-ac36-3769b2edcea9.png)
+
 # Παραδοτέο 7ο
 # Case Study inferno
 Για το 7ο παραδοτέο έκανα ένα case study πάνω στο Inferno, ένα λειτουργικό βασισμένο στο Plan9
 
+![inferno](https://user-images.githubusercontent.com/73399706/229481843-c23c1312-4915-4626-9173-9742e08ec370.png)
+
+[Netlify](https://effervescent-pavlova-a43f63.netlify.app/case-study/inferno/)
+
 # Παραδοτέο 8ο
 ## pollen.
 Για το 8o παραδοτέο μετέτρεψα το βιβλίο σε μορφή pollen.
+![book](https://user-images.githubusercontent.com/73399706/229480660-e92b3b02-7bfb-4b10-9553-c7778d98d205.png)
+
+[Pollen Book](https://github.com/odysseasEko/uni/blob/main/sw/book.html)
 
 # Παραδοτέο 9ο
 ## Dennis Ritchie
-Για το 9ο παραδοτέο έγραψα μια βιογραφία για τον Dennis Ritchie
+Για το 9ο παραδοτέο έγραψα μια βιογραφία για τον Dennis Ritchie.
+![denisbio](https://user-images.githubusercontent.com/73399706/229481332-421fcc89-dc2a-4914-99f7-d9f943c2a569.png)
 
-##spekia sto giatro🙏
+[Netlify](https://effervescent-pavlova-a43f63.netlify.app/biography/dennis-ritchie/)
+
+
+# spekia sto giatro🙏
+![ted3](https://user-images.githubusercontent.com/73399706/229484399-20cd357f-b511-4b22-b00d-66d66876038a.png)
+
