@@ -115,7 +115,18 @@
  - [Lennart Poettering's personal website](https://0pointer.net/)
  - ["Systemd: The Good Parts" by Lennart Poettering, in Linux Journal (2012)](https://www.linuxjournal.com/content/systemd-good-parts)
  - ["The systemd controversy" by Steven J. Vaughan-Nichols, in ZDNet (2019)](https://www.zdnet.com/article/the-systemd-controversy/)
- 
+
+# pollen
+
+Προς ολοκλήρωση του Παραδοτέου 8, το οποίο απαιτούσε τη μεταφορά του περιεχομένου του βιβλίου σε διαφορετική μορφή γραφής, δηλαδή στη μορφή pollen, αναπτύχθηκε ένα [script](https://github.com/Angeloth1/kallipos/blob/master/pollenCreator.sh) που επιτρέπει τη μετατροπή των υπαρχόντων αρχείων στη μορφή pollen.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/39650065/229488943-4fec70b4-4347-4258-be4c-64cf7a950aae.png)
+
+</div>
+
+
 # Β2
 
 Στο παραδοτέο αυτό δημιούργησα το case-study των arch. Το Arch Linux είναι μια δημοφιλής διανομή Linux που είναι γνωστή για την απλότητά της, την ευελιξία της και τον σχεδιασμό της που επικεντρώνεται στο χρήστη. Δημιουργήθηκε το 2002 από τον Judd Vinet, ο οποίος ήθελε να δημιουργήσει μια διανομή Linux που θα ήταν εύκολη στη χρήση, ελαφριά και επικεντρωμένη στον έλεγχο του χρήστη.
