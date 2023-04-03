@@ -11,13 +11,12 @@
 | 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
 | 4 | <a href="#Εγκατάσταση και άσκηση στο Alpine Linux"><span class="toctext">Εγκατάσταση και άσκηση στο Alpine Linux</span></a> | [Link στο Discussions](Link) | |
 | 5 | <a href="#(5) Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
-| 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | [Link στο Discussions](Link) |  |
-| 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | [Link στο Discussions](Link) | |
-| 8 | <a href="#Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/738) |  |
-| 9 | <a href="#Άσκηση γραμμής εντολών py-spy"><span class="toctext">Άσκηση γραμμής εντολών py-spy</span></a> | [Link στο Discussions](Link) | |
-| 10 | <a href="#Συμμετοχικό περιεχόμενο B1+B2"><span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | [Link στο Discussions](Link) | |
-| 11 | <a href="#Άσκηση γραμμής εντολών twilio"><span class="toctext">Άσκηση γραμμής εντολών twilio</span></a> | [Link στο Discussions](Link) | |
-| 12 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span> | [Link στο Discussions](Link) | |
+| 6 | <a href="#Γραμμή εντολών (no systemd, custom static blog generator)"><span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a> | [Link στο Discussions](Link) |  |
+| 7 | <a href="#συμμετοχικό περιεχόμενο B1"><span class="toctext">συμμετοχικό περιεχόμενο B1</span></a> | [Link στο Discussions](Link) | |
+| 8 | <a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"><span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | [Link στο Discussions](Link) |  |
+| 9 | <a href="#συμμετοχικό περιεχόμενο B2"><span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | [Link στο Discussions](Link) | |
+| 10 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> | [Link στο Discussions](Link) | |
+
 
   <br><br>
   
@@ -30,7 +29,7 @@
   <br><br><br>
   
 <h2><span id="Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου">(2) Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></h2>
-![Στιγμιότυπο οθόνης 2023-04-03 132534](https://user-images.githubusercontent.com/72516045/229491961-8bec11d7-feef-4afd-b565-927db833eb97.png)
+
 
   <h4>
 
