@@ -13,9 +13,9 @@
 | 4 | <li><a href="#Κατασκευή του βιβλίου Α2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Α2 (συνεργατικά)</span></a>|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
 | 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
-| 7 | <li><a href="#συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου.  | 
+| 7 | <li><a href="#Συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου.  | 
 | 8 | <li><a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | ||
-| 9 | <li><a href="#συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1531">Discussions</a></i>|Εμπρόθεσμη παράδοση παραδοτέου.|
+| 9 | <li><a href="#Συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1531">Discussions</a></i>|Εμπρόθεσμη παράδοση παραδοτέου.|
 | 10 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
 
 
@@ -95,6 +95,10 @@
 | --- | --- |
 |[Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/Theo%20de%20Raadt.md)/[bio-Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/bio-Theo%20de%20Raadt.md)| [Theo de Raadt](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt%20.jpeg) / [Theo de Raadt-thumb](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt-thumb.jpeg)|
 
+# Τελική αναφορά
+
+Φτάνοντας στο τέλος του εξαμήνου και ολοκληρώνοντας την αναφορά της εργασίας μου, θα ήθελα να αναφέρω τις γνώσεις και τις εμπειρίες που κέρδισα από το συγκεκριμένο μάθημα. Όπως είχα αναφέρει και στους στόχους μου, η τεχνολογία λογισμικού κατάφερε να με εξοπλίσει με τις κατάλληλες δεξιότητες πάνω στα λειτουργικά συστήματα. Ειδικότερα έκανα χρήση των συστημάτων Kali και Void Linux, συστήματα με και χωρίς systemd και αρκετά άγνωστα σε εμένα, με τα οποία πέτυχα να ολοκληρώσω τις ασκήσεις γραμμής εντολών που απαιτούνταν. Επιπλεόν, μέσα από τα εβδομαδιαία κουίζ κατανόησα καλύτερα τον τρόπο με τον οποίο δουλεύουν τα λειτουργικά συστήματα και την επίδραση που έχουν στην καθημερινή και κοινωνική ζωή. Όσον αφορά την ομαδικότητα εν μέρει επιτεύχθηκε, καθώς υπήρχε επικοινωνία με τους συμφοιτητές μου μέσω των discussions, με τον σχολιασμό παραδοτέων.
+
 # Βίντεο Κουίζ
 |Βίντεο Κουίζ|Ολοκλήρωση|
 | --- | --- |
@@ -105,7 +109,7 @@
 |Alan Kay - Programming Languages & Programming (2013)|✔️|
 |Alan Kay Turing Lecture with dynamic content|✔️|
 |Alan Kay - Programming and Scaling|✔️|
-|Extracting Energy from the Turing Tarpit||
+|Extracting Energy from the Turing Tarpit|✔️|
 ||
 ||
 
