@@ -42,7 +42,7 @@
 | 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
 
     
-<br<br>
+<br>
 
  <br><br><br>
 Εργαλεία που χρησιμοποίησα:<br><br>
