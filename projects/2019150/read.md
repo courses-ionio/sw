@@ -36,8 +36,7 @@
 | | Όνομα άσκησης |
 | ---- | ---- |
 | 1 | [read the news with an RSS reader](https://asciinema.org/a/5Rlla64wVDE459vnhHjh6vNF9) |
-| 2 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |![Στιγμιότυπο οθόνης 2023-04-03 132534](https://user-images.githubusercontent.com/72516045/229491946-0fa83e17-fccb-471d-95aa-5405bb61c8ef.png)
-
+| 2 | [text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/tovApcQsfWX9vQvSdrr4KFyFz) |
 | 3 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
 | 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
 
