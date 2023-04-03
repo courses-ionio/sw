@@ -76,7 +76,9 @@
 Κατέβασα και τα plan 9 σύμφωνα με το [installation guide](https://9p.io/wiki/plan9/installation_instructions/) αλλά όταν κατέβηκαν τα βρήκα πολύ δύσκολα στην χρήση και δεν κατάφερα να τρέξω κάποια εντολή παρόμοια με το neofetch όποτε τα παράτησα. Ίσως επειδή είναι σχεδιασμένα για να δίνουν την αίσθηση του ποντικιού με τα τρία κουμπιά.
 
 ## Εγκατάσταση kiss linux 
-Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss guide](https://kisslinux.org/install#001).  
+
+Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss guide](https://kisslinux.org/install#001). Τα Kiss Linux για να εγκατασταθούν χρειάζονται ένα υπάρχον σύστημα unix. Στην αρχή έφτιαξα με fdisk τα κατάλληλα partitions και τα κατάλληλα mounts. Στην συνέχεια κατέβασα το `kiss-chroot` από το [site](https://github.com/kisslinux/repo/releases/) όπου το εγκατέστησα στο Manjaro. Έπειτα με την εντολή `cd /mnt/` πήγα στο συγκεκριμένο dir και εκτέλεσα την εντολή `tar xvf /home/manjaro/downloads/kiss-chroot-2021.7-9.tar.xz` και το έκανα mount στο `bin/kiss-chroot` σύμφωνα πάντα με το [guide για το chroot](https://kisslinux.org/install#006), στην σύνεχεια κατέβασα τα [repo](git clone https://github.com/kisslinux/repo) για να μπορέσω να κάνω customize το λειτουργικό μου όπως με συμβούλεψε το [kiss guide](https://kisslinux.org/install#008) και τα έκανα [setup](https://kisslinux.org/install#009). Αμέσως μετά έκανα εγκατάστη το [gnup](https://kisslinux.org/install#011) για να πάρω και να μπορώ να επιβεβαιώσω κλειδιά. Έτσι ενεργοποιήσα και την [υπογραφή](https://kisslinux.org/install#013). Έπειτα για να έχω ένα πιο εύχρηστο σύστημα το έκανα [ανακαστευεί](https://kisslinux.org/install#014) και με την εντολή `kiss update` έκανα ενημέρωση όλα τα πακέτα στην τελευταία τους έκδοση. Και τώρα μπάινουμε σε ένα από τα πιο δύσκολα σημεία κατά την γνώμη μου όπου είναι η εγκατάσταση και η ρύθμιση του [Kernel](https://kisslinux.org/install#018).
+
 
 ### Warm up:
 - [Neofetch Void linux](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
