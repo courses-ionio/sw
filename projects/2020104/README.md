@@ -65,10 +65,18 @@
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 
 #  Γραμμή εντολών (no systemd)
+Για αυτό το παραδοτέο μας ζητήθηκε να κατεβάσουμε ένα λειτουργικό συστήμα που να μην χρησιμοποιεί systemd. Τα λειτουργικά συστήματα χώρις systemd όπως το Void και το Kiss linux δίνουν περισσότερη ελευθερία στον χρήστη έτσι ώστε να το προσαρμόσει στις δικές του αναγκές και προτιμήσεις.
 
-Για αυτό το παραδοτέο αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία. Στην αρχή κατεβάζεις το void-live-x86_64-musl-20221001-xfce.iso από τα [installer](https://repo-default.voidlinux.org/live/current/) του [download guide]([https://docs.voidlinux.org/about/index.html](https://voidlinux.org/download/)) και έπειτα πρόσθεσα το iso στο virtual machine και το ξεκινήσα. Στην συνέχεια ξεκίνησα την διαδικασία με την εντολή ``void-installer`` και τα υπόλοιπα ήταν μία απλη διαδικασία διότι το installer περιέχει GUI.
+## Εγκατάσταση void linux
 
-Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss guide](https://kisslinux.org/install#001). 
+Έτσι αποφάσισα να κατεβάσω [void linux](https://voidlinux.org/). Θα προσπαθήσω να κατεβάσω και kiss linux όπου δεν περιέχουν έτοιμο λειτουργικό απλά αντιμετωπίζω δυσκολίες που προσπαθώ να επιλύσω. Τα Void linux τα κατέβασα με την βοήθεια του [guide](https://docs.voidlinux.org/about/index.html) αν και ήταν μία πολύ απλή διαδικασία. Στην αρχή κατεβάζεις το void-live-x86_64-musl-20221001-xfce.iso από τα [installer](https://repo-default.voidlinux.org/live/current/) του [download guide]([https://docs.voidlinux.org/about/index.html](https://voidlinux.org/download/)) και έπειτα πρόσθεσα το iso στο virtual machine και το ξεκινήσα. Στην συνέχεια ξεκίνησα την διαδικασία με την εντολή ``void-installer`` και τα υπόλοιπα ήταν μία απλη διαδικασία διότι το installer περιέχει GUI.
+
+## Εγκατάσταση plan 9
+
+Κατέβασα και τα plan 9 σύμφωνα με το [installation guide](https://9p.io/wiki/plan9/installation_instructions/) αλλά όταν κατέβηκαν τα βρήκα πολύ δύσκολα στην χρήση και δεν κατάφερα να τρέξω κάποια εντολή παρόμοια με το neofetch όποτε τα παράτησα. Ίσως επειδή είναι σχεδιασμένα για να δίνουν την αίσθηση του ποντικιού με τα τρία κουμπιά.
+
+## Εγκατάσταση kiss linux 
+Κατάφερα να εγκαταστήσω τα kiss linux σε virtual machine με την βοήθεια του [kiss guide](https://kisslinux.org/install#001).  
 
 ### Warm up:
 - [Neofetch Void linux](https://asciinema.org/a/7E7JkyYgAZGxISKFDxEmLZZ6k)
