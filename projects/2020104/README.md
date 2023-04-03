@@ -119,6 +119,9 @@
 
 ### Netlify
 
+### Site
+-[Site](https://p2020104-pibook.netlify.app)
+
 #### Galleries
 - [6502 Assembly](https://p2020104-pibook.netlify.app/gallery/assembly-6502/)
 - [Reality Immersion Technology](https://p2020104-pibook.netlify.app/gallery/reality-immersion-technology/)
@@ -130,6 +133,23 @@
 #### Timeline
 - [6502 Assembly](https://p2020104-pibook.netlify.app//timeline/programming/)
 - [Reality Immersion Technology](https://p2020104-pibook.netlify.app//timeline/systems/)
+
+### Ομαδικό netlify
+
+#### Site
+- [Site](https://letmedoitforyou-pibook-2023.netlify.app/)
+
+#### Galleries
+- [6502 Assembly](https://letmedoitforyou-pibook-2023.netlify.app/gallery/assembly-6502//)
+- [Reality Immersion Technology](https://letmedoitforyou-pibook-2023.netlify.app/gallery/reality-immersion-technology/)
+
+#### Slides
+- [6502 Assembly](https://letmedoitforyou-pibook-2023.netlify.app//slides/example/)
+- [Reality Immersion Technology](https://letmedoitforyou-pibook-2023.netlify.app//slides/tools/)
+
+#### Timeline
+- [6502 Assembly](https://letmedoitforyou-pibook-2023.netlify.app//timeline/programming/)
+- [Reality Immersion Technology](https://letmedoitforyou-pibook-2023.netlify.app//timeline/systems/)
 
 # Γραμμή εντολών (no systemd, custom static blog generator)
 
