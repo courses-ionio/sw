@@ -7,16 +7,16 @@
 
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία Παρουσίαση Προόδου](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| [1](#1o-παραδοτέο) | Εισαγωγή και Δημιουργία Ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)| |
-| [2](#2o-παραδοτέο) | Γραμμή εντολών (systemD) και Συνεργασία Οργανισμού|[Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| |
-| [3](#3o-παραδοτέο) | Γραμμή εντολών (no systemD) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| |
-| [4](#4o-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| |
-| [5](#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2|[Julia & OpenBSD](https://github.com/courses-ionio/sw/discussions/1433)| |
-| [6](#6o-παραδοτέο) | Γραμμή εντολών (no systemD, custom static blog generator) |[Hugo Blog](https://github.com/courses-ionio/sw/discussions/1539)| |
-| [7](#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 |[Julia Case Study](https://github.com/courses-ionio/sw/discussions/1540)| |
-| [8](#8o-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| [9](#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 | | |
-| [10](#10o-παραδοτέο) | Τελική αναφορά* | | |
+| [1](#1o-παραδοτέο) | Εισαγωγή και Δημιουργία Ομάδας|[Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1212) και [Ομάδα](https://github.com/PaneksypnesDiepafes/Main)|Ολοκληρώθηκε με επιτυχία! 10/10|
+| [2](#2o-παραδοτέο) | Γραμμή εντολών (systemD) και Συνεργασία Οργανισμού|[Arch & Ntfy](https://github.com/courses-ionio/sw/discussions/1285)| Ολοκληρώθηκε με επιτυχία! 10/10|
+| [3](#3o-παραδοτέο) | Γραμμή εντολών (no systemD) |[Funtoo](https://github.com/courses-ionio/sw/discussions/1340)| Ολοκληρώθηκε με επιτυχία! 10/10|
+| [4](#4o-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Reactable](https://github.com/courses-ionio/sw/discussions/1391)| Ολοκληρώθηκε με επιτυχία! 10/10|
+| [5](#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2|[Julia & OpenBSD](https://github.com/courses-ionio/sw/discussions/1433)|Ολοκληρώθηκε με επιτυχία! 10/10 |
+| [6](#6o-παραδοτέο) | Γραμμή εντολών (no systemD, custom static blog generator) |[Hugo Blog](https://github.com/courses-ionio/sw/discussions/1539)|Ολοκληρώθηκε με επιτυχία, όμως παραδόθηκε μετά την προθεσμία. 7/10|
+| [7](#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 |[Julia Case Study](https://github.com/courses-ionio/sw/discussions/1540)|Ολοκληρώθηκε με επιτυχία! 10/10 |
+| [8](#8o-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[pollen]() | Ολοκληρώθηκε με επιτυχία! 10/10|
+| [9](#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 |[Alan Edelman]() |Ολοκληρώθηκε με επιτυχία! 10/10 |
+| [10](#10o-παραδοτέο) | Τελική αναφορά* | [Συμπεράσματα]()| Ολοκληρώθηκε με επιτυχία! 10/10|
 
 1<sup>o</sup> Παραδοτέο 
 ========================
@@ -48,6 +48,14 @@
 |[![asciicast](https://asciinema.org/a/528745.svg)](https://asciinema.org/a/528745)|[![asciicast](https://asciinema.org/a/528766.svg)](https://asciinema.org/a/528766)|
 
 Επιπλέον, αυτή την εβδομάδα με τον οργανισμό συντάξαμε ένα "Μανιφέστο" όπου περιγράφουμε τις υποχρεώσεις κάθε ρόλου του οργανισμού, το workflow καθώς και κάποιους κανόνες όσων αφορά τα pull request που θα γίνονται προς τον οργανισμό. Προς το παρών είναι private repository αλλά θα γίνει σύντομα public.
+
+Extra: Ntfy Άσκηση Γραμμής Εντολών
+------------------------
+Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/ntfy/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop, καθώς και στο κινητό μου μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd).
+
+|asciinema|Ειδοποίηση στο desktop|Ειδοποίηση στο κινητό|
+|---|---|---|
+|[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)|![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy.png) |![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy_push.png)|
 
 3<sup>o</sup> Παραδοτέο 
 ========================
@@ -82,24 +90,38 @@
 6<sup>o</sup> Παραδοτέο 
 ========================
 Για το 6ο παραδοτέο έφτιαξα ένα blog χρησιμοποιόντας το hugo το οποίο το κάνω host μέσω του github pages.
-|[My Blog](https://marked-d.github.io/hugo-blog/)|
-|---|
-|![blog](https://github.com/marked-d/SW_plus/blob/main/hugo-blog/hugo-blog1.png)|
+|Screenshot|Links|
+|---|--|
+|![blog](https://github.com/marked-d/SW_plus/blob/main/hugo-blog/hugo-blog.png)|<ul><li>[My Blog](https://marked-d.github.io/hugo-blog/)</li><li>[Blog Repository](https://github.com/marked-d/hugo-blog)</li></ul>|
 
 7<sup>o</sup> Παραδοτέο 
 ========================
-|Julia | Pull Requests προς τον Οργανισμό | Link Προς το Site του Οργανισμού |screenshot|
-|---|---|---|---|
-|<ul><li>[julia-pl](https://github.com/marked-d/SW_plus/blob/main/case_study/julia-pl.md)</li><li>[cs-julia-pl](https://github.com/marked-d/SW_plus/blob/main/case_study/cs-julia-pl.md)</li></ul>|n/a|n/a|n/a|
+Για αυτό το παραδοτεό έγραψα μια μελέτη περίπτωσης για την γλώσσα προγραμματισμού Julia.
+|Screenshot|Links|
+|--|--|
+|<table> ![case-study-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/case_study/case-study-screenshot.png) </table>| <table> <tr><th>Julia</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[julia-pl.md](https://github.com/marked-d/site/blob/master/_case-study/julia-pl.md)</li><li>[cs-julia-pl.md](https://github.com/marked-d/site/blob/master/_includes/cs-julia-pl.md)</li></ul></td><td>n/a</td><td>[Julia Μελέτη Περίπτωσης](https://p19mark-marked-d.netlify.app/case-study/julia-pl/)</td></tr> </table>|
 
 [Πηγές](https://github.com/marked-d/SW_plus/blob/main/case_study/links-julia.md)
 
-Extras
+8<sup>o</sup> Παραδοτέο 
 ========================
-Ntfy Άσκηση Γραμμής Εντολών
-------------------------
-Για αυτό το παραδοτέο έγραψα ένα [script](https://github.com/marked-d/SW_plus/blob/main/ntfy/cpu_ram_ntfy.py) σε python το οποίο υπολογίζει το CPU Usage και το Memory που χρησιμοποιείται και μέσω του Ntfy στέλνω ειδοποίηση στο desktop, καθώς και στο κινητό μου μέσω της εφαρμογής του Ntfy. Η άσκηση έγινε σε Arch Linux (σύστημα με systemd).
+Για το 8ο παραδοτέο με τη χρήση του pollen μετέτρεψα το βιβλίο σε μορφή html.
 
-|asciinema|Ειδοποίηση στο desktop|Ειδοποίηση στο κινητό|
-|---|---|---|
-|[![asciicast](https://asciinema.org/a/563099.svg)](https://asciinema.org/a/563099)|![ntfy](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy.png) |![ntfy_push](https://github.com/marked-d/SW_plus/blob/main/ntfy/ntfy_push.png)|
+|Screenshot|Links|
+|---|---|
+|![pollen-screenshot](https://github.com/marked-d/SW_plus/blob/main/pollen/pollen-screenshot.png)|<ul><li>[makepollen.sh](https://github.com/marked-d/kallipos/blob/master/makepollen.sh)</li><li>[figure-pollen.lua](https://github.com/marked-d/kallipos/blob/master/figure-pollen.lua)</li></ul>|
+
+9<sup>o</sup> Παραδοτέο 
+========================
+Για το 9ο παραδοτέο έγραψα μια βιογραφία για έναν από τους δημιουργούς της Julia, τον Alan Edelman.
+|Screenshot|Links|
+|--|--|
+|<table> ![bio-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/biography/bio-screenshot.png) </table>| <table> <tr><th>Alan Edelman</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[alan-edelman.md](https://github.com/marked-d/site/blob/master/_biography/alan-edelman.md)</li><li>[bio-edelman.md](https://github.com/marked-d/site/blob/master/_includes/bio-edelman.md)</li></ul></td><td>n/a</td><td>[Alan Edelman](https://p19mark-marked-d.netlify.app/biography/alan-edelman/)</td></tr> </table>|
+
+[Πηγές](https://github.com/marked-d/SW_plus/blob/main/biography/links.md)
+
+10<sup>o</sup> Παραδοτέο 
+========================
+Συμπεράσματα
+------------------------
+Ολοκληρώνοντας τα παραδοτέα του μαθήματος, νιώθω ευχαριστημένη και ικανοποιημένη με την προσπάθεια μου. Έχοντας ολοκληρώσει με επιτυχία το μάθημα Επικοινωνία Ανθρώπου-Υπολογιστή, μου ήταν αρκετά εύκολο να ολοκληρώσω την πλειοψηφία των παραδοτέων και στο μάθημα Τεχνολογία Λογισμικού.  Μέσω του μαθήματος ήρθα σε με νέα εργαλεία για εμένα, όπως τα funtoo και γενικά διάφορες nosystemD διανομές λογισμικού, το pollen και το hugo. Εργαλεία, αν και όχι τόσο χρηστικά για την καθημερινότητα μου, ίσως με εξαίρεση το hugo, μου προσέφεραν γνώσεις πολύ σημαντικές σχετικά με την επιστήμη των υπολογιστών.
