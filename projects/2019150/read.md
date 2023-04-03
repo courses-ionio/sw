@@ -10,7 +10,7 @@
 | 2 | <a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου"><span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1291) | |
 | 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
 | 4 | <a href="#Εγκατάσταση του freebsd στο VMware"><span class="toctext">Εγκατάσταση του freebsd στο VMware</span></a> | [Link στο Discussions](Link) | |
-| 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
+| 5 | <a href="#(5) Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
 | 6 | <a href="#5 Ασκήσεις warmup στο freebsd"><span class="toctext">5 Ασκήσεις warmup στο freebsd</span></a> | [Link στο Discussions](Link) |  |
 | 7 | <a href="#Bιογραφικό"><span class="toctext">Bιογραφικό</span></a> | [Link στο Discussions](Link) | |
 | 8 | <a href="#Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αποτυχημένο αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](https://github.com/courses-ionio/help/discussions/738) |  |
@@ -43,8 +43,12 @@
     
   <br><br><br>
     
-<h2><span id="Συμμετοχικό περιεχόμενο A1 + A2">(2) Συμμετοχικό περιεχόμενο A1 + A2</span></h2>
+<h2><span id="(5) Συμμετοχικό περιεχόμενο A1 + A2">(5) Συμμετοχικό περιεχόμενο A1 + A2</span></h2>
     
-  Το πέμπτο παραδοτέο αφορούσε το συμμετοχικό περιεχόμενο Α1 και Α2. Είχαμε να κάνουμε κάποιες προσθήκες που σχετίζονται με την τεχνολογία λογισμικού στο forked site από την ομάδα - οργανισμό του github. 
+  Το πέμπτο παραδοτέο αφορούσε το συμμετοχικό περιεχόμενο Α1 και Α2. Είχαμε να κάνουμε κάποιες προσθήκες που σχετίζονται με την τεχνολογία λογισμικού στο [forked site](https://github.com/P2019SARAKATSANIS/site) της [ομάδας μας](https://github.com/IonianUniversity2019) στο github (Η ομάδα δεν έχει ασχοληθεί ακόμα με την ένωση των αλλαγών που έχουν κάνει τα μέλη της στην ιστοσελίδα του βιβλίου, οπότε το link του forked site οδηγεί στο δικό μου forked site από την ομάδα). Αρχικά, έχοντας παρατηρήσει το περιεχόμενο του [_gallery](https://github.com/P2019SARAKATSANIS/_gallery), [timeline](https://github.com/P2019SARAKATSANIS/site/tree/master/_timeline) και [images](https://github.com/P2019SARAKATSANIS/images) (στα link υπάρχουν τα fored από εμένα με τις αλλαγές που έκανα), έκανα έρευνα ώστε να εντοπίσω υλικό κατάλληλο να προστεθεί στο [site](https://github.com/P2019SARAKATSANIS/site).
+    
+  Στην συνέχεια, αφού έγιναν οι κατάλληλες προσθέσεις, έκανα `git clone` το [forked site](https://github.com/P2019SARAKATSANIS/site) με το τερματικό git στο υπολογιστή μου. Για να παρουσιάσω το αποτέλεσμα των αλλαγών μου στο netlify, έκανα `git rm` τα submodules _gallery και images για να αφαιρεθούν και με την εντολή               `git submodule add` πρόσθεσα τα foked από εμένα. Τέλος έκανα τις απαραίτητες αλλαγές στο αρχεό _config.yml για να γίνει σωστή σύνδεση με το netlify και έτρεξα τις εντολές `git add .`, `git commit -m "comment"`, `git push` και `git pull` πρώτα στα submodules και μετά στο site για να δηλωθούν οι αλλαγές που έκανα.
+    
+  Για το Α1 χρειάστηκε να προσθέσουμε δύο εικόνες στο submodule images με ένα τίτλο, μία σύνομη περιγραφή, κατηγορία/κατηγορίες που ανήκει και tags που υπάρχουν στο [_gallery](https://github.com/P2019SARAKATSANIS/_gallery).
     
     
