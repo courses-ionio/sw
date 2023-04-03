@@ -120,7 +120,7 @@
 ### Netlify
 
 ### Site
--[Site](https://p2020104-pibook.netlify.app)
+- [Site](https://p2020104-pibook.netlify.app)
 
 #### Galleries
 - [6502 Assembly](https://p2020104-pibook.netlify.app/gallery/assembly-6502/)
