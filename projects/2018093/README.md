@@ -21,7 +21,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1358 | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1406 | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1480 | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1537 | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
