@@ -89,6 +89,12 @@ A2:
 - [technology.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_slides/technology.md) (τροποποίηση αρχείου σελίδας)
 - [sw-programming.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_timeline/sw-programming.md)
 
+## Παραδοτέο 6 - Custom static blog generator
+Σε αυτό το παραδοτέο δημιούργησα ένα ιστολόγιο αξιοποιόντας το [bashblog](https://github.com/cfenollosa/bashblog) το οποίο επιτρέπει την δημιουργία blog posts γραμμένα σε markdown. Επομένως σκέφτηκα πως θα ήταν χρήσιμο εάν η τελική αναφορά υπάρχει στο ιστολόγιο όπου κάθε παραδοτέο αντιστοιχεί σε ένα post. Με αυτόν τον τρόπο εκτός από το αποθετήριο SW, η αναφορά μου θα είναι επίσης προσβάσιμη και από το ιστολόγιο. Το ιστολόγιο βρίσκεται σε ένα καινούριο αποθετήριο που δημιούργησα με όνομα [sw-static-blog](https://github.com/KonstantinosTourtsakis/sw-static-blog/) και μέσω του GitHub pages είναι προσβάσιμο στον ακόλουθο [σύνδεσμο](https://konstantinostourtsakis.github.io/sw-static-blog/). Παρακάτω επισυνάπτω εικόνες όπου φαίνεται το 2ο παραδοτέο και η λίστα με τα posts του ιστολογίου.
+![blog](https://cdn.discordapp.com/attachments/794920060677521469/1092853867479306400/blog-paradoteo2.JPG)
+![blog-posts](https://cdn.discordapp.com/attachments/794920060677521469/1092853849724821594/blog-posts.JPG)
+
+
 
 ## Παραδοτέο 7 - Συμμετοχικό περιεχόμενο B1
 Στο παραδοτέο αυτό χρειάστηκε να συνεχίσουμε τις συνεισφορές στην ιστοσελίδα του μαθήματος και αυτήν τη φορά να προσθέσουμε μια δική μας μελέτη περίπτωσης. Αποφάσισα λοιπόν να προσθέσω μια μελέτη περίπτωσης σχετικά με το version control system Git. Παρακάτω επισυνάπτω όλες τις προσθήκες αρχείων που έγιναν για την προσθήκη του Git, τα Pull Request που άνοιξα στον οργανισμό για την προσθήκη των συνεισφορών μου στην σελίδα του οργανισμού και το link προς την μελέτη περίπτωσης.
