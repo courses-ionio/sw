@@ -22,7 +22,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1406 | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1480 | |
 | 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1537 | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1548 | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
 
@@ -144,5 +144,15 @@ __Δυσκολίες__: Αρχικά προσπάθησα να το υλοποι
 * [_case-study](https://github.com/theoharissiwzos/site/tree/master/_case-study): [Instagram_API_Graph](https://github.com/theoharissiwzos/site/blob/master/_case-study/instagramgraph.md)
 
 
+# Παραδοτεο 8 - Κατασκευή του βιβλίου Β2 
+
+Για την υλοποίηση του 8ο παραδοτέου το οποίο και χρειαζότανε η μεταφορά του περιεχομένου του βιβλίου σε διαφορετική μορφή γραφής, (μορφή pollen) έγινε χρήση του παρακάτω script το οποίο επιτρέπει τη μετατροπή των υπαρχόντων αρχείων στη μορφή pollen.
+
+
+* [MakePollen_Script](https://github.com/theoharissiwzos/kallipos/blob/master/makepollen.sh)
+* [Index.html](https://github.com/theoharissiwzos/kallipos/blob/master/index.html)
+* [Αναφορά](https://github.com/theoharissiwzos/sw/tree/2018093/projects/2018093)
+
+![Στιγμιότυπο οθόνης από 2023-04-05 14-12-33](https://user-images.githubusercontent.com/99976073/230170106-cb4a4b37-2aa3-4e7f-bc27-8eaf4da23c06.png)
 
 
