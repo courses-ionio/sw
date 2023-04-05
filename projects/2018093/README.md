@@ -23,7 +23,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1480 | |
 | 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1537 | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1548 | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/sw/discussions/1549 | |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -155,5 +155,25 @@ __Δυσκολίες__: Αρχικά προσπάθησα να το υλοποι
 * [Αναφορά](https://github.com/theoharissiwzos/sw/tree/2018093/projects/2018093)
 
 ![Στιγμιότυπο οθόνης από 2023-04-05 14-12-33](https://user-images.githubusercontent.com/99976073/230170106-cb4a4b37-2aa3-4e7f-bc27-8eaf4da23c06.png)
+
+
+# Παραδοτέο 9 - συμμετοχικό περιεχόμενο B2
+Αποφάσισα να αναπτύξω μια βιογραφία του __Joseph Weizenbaum__ , δημιουργός του __Eliza cat bot__ και πολύ μεγάλος οραματιστής.
+
+### Netlify_site:
+
+- [Netlify_biografy](https://papaya-pixie-e473b8.netlify.app/biography/joseph-weizenbaum/)
+
+### Αρχείο εικόνας:
+- [images](https://github.com/theoharissiwzos/images/blob/dbaf564d0939860607e5b9ffd2360c835bdee474/Joseph-Weizenbaum2.jpg)
+- [images](https://github.com/theoharissiwzos/images/blob/dbaf564d0939860607e5b9ffd2360c835bdee474/Joseph-Weizenbaum.jpg)
+  
+### Αρχεία .md:
+- [_biography](https://github.com/theoharissiwzos/site/blob/master/_biography/Joseph-Weizenbaum.md)
+- [_includes](https://github.com/theoharissiwzos/site/blob/master/_includes/bio-Weizenbaum.md)
+
+ ![anti](https://user-images.githubusercontent.com/99976073/230207895-08a65de4-7cf4-485b-bb5f-cd5f96c799df.png)
+
+
 
  
