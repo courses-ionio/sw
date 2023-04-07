@@ -13,7 +13,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1401| Ανεβάζω επιτυχώς όλα τα αρχεία στους σωστούς φακέλους. Πραγματοποιώ με επιτυχία το netlify και κάνω deploy το site αλλά δεν μου εμφανίζει τις φωτογραφίες|
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1477| Έφτιαξα επιτυχώς το blog μέσω του Hugo|
 | 7 | συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/sw/discussions/1502| Έκανα επιτυχώς τα ζητούμενα για το συμμετοχικό περιεχόμενο Β1|
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1551 |Έκανα επιτυχώς την μετατροπή του βιβλίου σε άλλη μορφη γραφής |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
 
@@ -54,3 +54,14 @@
 [Twitter.md](https://github.com/axilleasmandravelis/site/blob/master/_case-study/twitter.md) και [cs-twitter.md](https://github.com/axilleasmandravelis/site/blob/master/_includes/cs-twitter.md)
 
 [Pull-request για το site](https://github.com/IonioBeam/site/pull/2) και [Pull-request για τις εικόνες](https://github.com/IonioBeam/images/pull/1)
+
+
+## Παραδοτέο 8 - Κατασκευή βιβλίου Β2 
+Για τo 8ο παραδοτέο στο οποίο και χρειαζότανε η μεταφορά του περιεχομένου του βιβλίου σε διαφορετική μορφή γραφής, χρησιμοποιώ το make pollen script το οποίο επιτρέπει την παραγωγή του ήδη υπάρχοντος βιβλίου σε μορφή HTML.
+
+[make pollen script](https://github.com/axilleasmandravelis/kallipos/blob/main/make-pollen.sh)
+
+[index html](https://github.com/axilleasmandravelis/kallipos/blob/main/index.html)
+
+![local-host-book](https://user-images.githubusercontent.com/44345559/230574609-22bf5637-e470-4103-a0c1-c51a39ff3ed8.png)
+
