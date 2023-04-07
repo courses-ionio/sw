@@ -286,7 +286,7 @@
 | 5 | Alan Kay - Programming Languages & Programming (2013) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | Alan Kay - Programming and Scaling | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | What alan kay thinks about tetriary education | :heavy_check_mark: | :heavy_check_mark: |
-| 8 | | | |
+| 8 | Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_check_mark: |
 | 9 | | | |
 | 10 | | | |
 
