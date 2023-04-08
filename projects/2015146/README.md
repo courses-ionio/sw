@@ -75,3 +75,12 @@ GitHub Link: https://github.com/deadoralive1908
 ![cs csharp](https://user-images.githubusercontent.com/72549484/230723777-9fd8528a-147f-4c6d-a4ce-7fca2903d990.png)
 
 files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_includes/cs-csharp.md), [csharp.md](https://github.com/deadoralive1908/site/blob/master/_case-study/csharp.md)
+
+# Βιογραφία
+Σε αυτό το παραδοτέο πραγματοποιήθηκε έρευνα σχετικά με την βιογραφία του Anders Hejlsberg δημιουργού της C#, Turbo Pascal κτλ. Μπορείτε το δείτε [εδώ](https://stalwart-torte-ffe59a.netlify.app//biography/anders-hejlsberg/)
+
+![Βιογραφία Anders Hejlsberg](https://user-images.githubusercontent.com/72549484/230724135-78dd3495-145e-4405-88c7-9079487cec89.png)
+
+files: [anders-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_biography/anders-hejlsberg.md), [bio-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_includes/bio-hejlsberg.md)
+
+
