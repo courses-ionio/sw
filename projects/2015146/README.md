@@ -83,4 +83,6 @@ files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_inclu
 
 files: [anders-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_biography/anders-hejlsberg.md), [bio-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_includes/bio-hejlsberg.md)
 
+# Τελική Αναφορά 
+Από το μάθημα τεχνολογία λογισμικού μέσω τόσο των ασκήσεων, βίντεο κουίζ αποκτήθηκαν γνώσεις σχετικά με τον τρόπο με τον οποίο οργανώνεται και συντηρείται το λογισμικό. Συγκεκριμένα από το github που αποτελεί το περιβάλλον του μαθήματος ήρθα σε επαφή με διάφορα λογισμικά και είδα έμπρακτα τον τρόπο συντήρησης και οργάνωσης του λογισμικού μέσω των commit που γίνονται σε διάφορα projects. Επιπρόσθετα μέσω των ασκήσεων ήρθα σε επαφή με διάφορα λειτουργικά συστήματα τύπου unix που αποτελούν την βάση πολλών συστημάτων κάνοντας με να κατανοήσω πλήρως τι είναι τα dependencies και πως το κάθε σύστημα τα διαχειρίζεται. 
 
