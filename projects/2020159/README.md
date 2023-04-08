@@ -6,6 +6,8 @@
 
 ### ORGANISATION: https://github.com/LetMeDoItForYou
 
+### [Σχολιασμοί του Κ.Βραχάτη]()
+
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | [1](https://github.com/AlexIoanP2020159/sw/tree/2020159/projects/2020159#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Π2020159 - 1ο Παραδοτέο](https://github.com/courses-ionio/sw/discussions/1225) | |
@@ -88,3 +90,9 @@ https://alexioanp2020159.github.io/
 | images | case-study | includes | netlify |
 | --- | --- | --- | --- |
 | [vimte.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte.jpg) - [vimte-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte-thumb.jpg) - [vim-environment.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment.jpg) - [vim-environment-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment-thumb.jpg) | [vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_case-study/vimte.md) | [cs-vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_includes/cs-vimte.md) | [Επεξεργαστής Κειμένου Vim](https://p2020159-pibook.netlify.app/case-study/vimte/) |
+
+## Σχολιασμοί
+Κατά την παρουσίασή μου στον κύριο Βραχάτη δέχτηκα τις εξείς διορθώσεις/σχολιασμούς:
+- Πρέπει να επεκτείνω την εισαγωγή μου και να της δώσω έναν ακόμη πιο προσωπικό τόνο
+- Να επεκτείνω το 7ο Παραδοτέο
+- Να προσθέσω τις αυτοαξιολογήσεις μου
