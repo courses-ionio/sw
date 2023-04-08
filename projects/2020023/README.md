@@ -170,6 +170,11 @@
 
 **Pull Requests**: [Images](https://github.com/TheTimeParadox/images/pull/4) / [Site](https://github.com/TheTimeParadox/site/pull/4)
 
+**Update: Πρόσθεσα επίσης μια σύντομη μελέτη στο ατομικό μου netlify που δεν σχετίζεται με το συμμετοχικό περιεχόμενο αλλά με την εισαγωγή μου, και πραγματεύεται την περίπτωση του Therac-25 σαν ένα παράδειγμα του πως το λογισμικό εκτός από μεγάλη βοήθεια μπορεί να είναι και προβληματικό.**
+
+**Therac-25: [Netlify](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/therac-25/) / [Images, full](https://github.com/p20samiv2/images/blob/master/therac-25.png) , [Images, thumbnail](https://github.com/p20samiv2/images/blob/master/therac-25-thumb.png) / [_case-study](https://github.com/p20samiv2/site/blob/master/_case-study/therac-25.md) / [_includes](https://github.com/p20samiv2/site/blob/master/_includes/cs-therac-25.md) / [Wikipedia](https://en.wikipedia.org/wiki/Therac-25).**
+
+
 ## Κατασκευή του βιβλίου Β2 - 8ο παραδοτέο
 -
 
