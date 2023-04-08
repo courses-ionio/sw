@@ -59,3 +59,12 @@ GitHub Link: https://github.com/deadoralive1908
 | | [archlinux.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux.jpg) |
 | | [csharp-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/csharp-thumb.jpg) |
 | | [archlinux-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux-thumb.jpg) |
+
+# Custom Static Blog Generator
+Για αυτό το παραδοτέο χρησιμοποιήθηκε το bashblog προκειμένου να δημιουργηθεί ένα blog σχετικά με τα video games και ένα post σχετικά με το online videogame League of Legends. Το blog έγινε host στο Github Pages και μπορείτε να το δείτε [εδώ](https://deadoralive1908.github.io/myblog/).
+
+![lol blog](https://user-images.githubusercontent.com/72549484/230723672-0617666e-e2af-4ea4-8082-423cda0871b9.png)
+
+
+
+[Myblog repository](https://github.com/deadoralive1908/myblog)
