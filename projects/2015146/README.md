@@ -68,3 +68,10 @@ GitHub Link: https://github.com/deadoralive1908
 
 
 [Myblog repository](https://github.com/deadoralive1908/myblog)
+
+# Μελέτη Περίπτωσης
+Για αυτό το παραδοτέο υλοποιήθηκε μελέτη περίπτωσης σχετικά με την γλώσσα προγραμματισμού C#. Μπορείτε να δείτε την μελέτη περίπτωσης [εδώ](https://stalwart-torte-ffe59a.netlify.app//case-study/csharp/).
+
+![cs csharp](https://user-images.githubusercontent.com/72549484/230723777-9fd8528a-147f-4c6d-a4ce-7fca2903d990.png)
+
+files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_includes/cs-csharp.md), [csharp.md](https://github.com/deadoralive1908/site/blob/master/_case-study/csharp.md)
