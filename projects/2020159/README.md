@@ -6,7 +6,7 @@
 
 ### ORGANISATION: https://github.com/LetMeDoItForYou
 
-### [Σχολιασμοί του Κ.Βραχάτη]()
+### [Σχολιασμοί του Κ.Βραχάτη](https://github.com/AlexIoanP2020159/sw/blob/2020159/projects/2020159/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
