@@ -91,6 +91,9 @@ https://alexioanp2020159.github.io/
 | --- | --- | --- | --- |
 | [vimte.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte.jpg) - [vimte-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vimte-thumb.jpg) - [vim-environment.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment.jpg) - [vim-environment-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/vim-environment-thumb.jpg) | [vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_case-study/vimte.md) | [cs-vimte.md](https://github.com/AlexIoanP2020159/site/blob/master/_includes/cs-vimte.md) | [Επεξεργαστής Κειμένου Vim](https://p2020159-pibook.netlify.app/case-study/vimte/) |
 
+## 8ο Παραδοτέο
+Παροντικά αντιμετοπίζω κάποιες δυσκολίες σε επίπεδο παραδοτέου αλλά και σε προσωπικό επίπεδο. Ευελπιστώ να έχω τελειώσει αυτό το παραδοτέο την επόμενη εβδομάδα των διακοπών μαζί με το επόμενο.
+
 ## Σχολιασμοί
 Κατά την παρουσίασή μου στον κύριο Βραχάτη δέχτηκα τις εξείς διορθώσεις/σχολιασμούς:
 - Πρέπει να επεκτείνω την εισαγωγή μου και να της δώσω έναν ακόμη πιο προσωπικό τόνο
