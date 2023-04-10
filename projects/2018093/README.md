@@ -177,8 +177,8 @@ GitHub Link: https://github.com/theoharissiwzos
  
  
  # notes:
- # Όλο το παραδοτέο 6 υλοποιήθηκε με Hugo και έπειτα ξαναφτιάχτηκε απο την αρχή με BashBlog έπειτα απο επισήμανση του Διδάσκων:
+ # Όλο το παραδοτέο 6 υλοποιήθηκε με Hugo και ξαναφτιάχτηκε απο την αρχή με BashBlog έπειτα απο επισήμανση του Διδάσκων:
  - [Hugo_static_blog](https://theoharissiwzos.github.io/)
  - [BashBlog_static_blog](https://theoharissiwzos.github.io/staticblog.github.io/)
- # 08/08 video quiz
- # 10/10 παραδοτέα εμπρόθεσμα
+ # 10/10 video quiz
+ # 10/10 παραδοτέα εμπρόθεσμα + ολοκλήρωση πριν το πάσχα για τον Bonus βαθμό απλος δεν συμπληρώθηκε ομαδα συνάντησης για να γίνει και τελική παρουσίαση πριν το πάσχα
