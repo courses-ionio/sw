@@ -15,16 +15,16 @@ GitHub Link: https://github.com/theoharissiwzos
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/sw/discussions/1182 | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | https://github.com/courses-ionio/sw/discussions/1240 | |
-| 3 | Γραμμή εντολών (no systemd) | https://github.com/courses-ionio/sw/discussions/1317 | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1358 | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | https://github.com/courses-ionio/sw/discussions/1406 | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1480 | |
-| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1537 | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | https://github.com/courses-ionio/sw/discussions/1548 | |
-| 9 | συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/sw/discussions/1549 | |
-| 10 | Τελική αναφορά* | https://github.com/courses-ionio/sw/discussions/1550 | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [discussions](https://github.com/courses-ionio/sw/discussions/1182) | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [discussions](https://github.com/courses-ionio/sw/discussions/1240) | |
+| 3 | Γραμμή εντολών (no systemd) | [discussions](https://github.com/courses-ionio/sw/discussions/1317) | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1358) | |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [discussions](https://github.com/courses-ionio/sw/discussions/1406) | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [discussions](https://github.com/courses-ionio/sw/discussions/1480) | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [discussions](https://github.com/courses-ionio/sw/discussions/1537) | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1548) | |
+| 9 | συμμετοχικό περιεχόμενο B2 | [discussions](https://github.com/courses-ionio/sw/discussions/1549) | |
+| 10 | Τελική αναφορά* | [discussions](https://github.com/courses-ionio/sw/discussions/1550) | |
 
 
 
@@ -112,26 +112,22 @@ GitHub Link: https://github.com/theoharissiwzos
 
 # Παραδοτέο 6 - Γραμμή εντολών (no systemd, custom static blog generator)
 
-Έφτιαξα ένα static blog με τη χρήση του __Hugo__ σε Artix Linux και το host-αρω στο github pages. Δημιούργησα 3 Posts στο static blog όπου τα δύο είναι εγκυκλοπαιδικά αναφορικά με τα __Chat bots__ (names and history) και ένα με σχετικά informations.
+Έφτιαξα ένα static blog με τη χρήση __BashBlog__ σε Artix Linux και το host-αρω στο github pages. Δημιούργησα 2 Posts στο static blog όπου και τα δύο είναι εγκυκλοπαιδικά αναφορικά με τα __Chat bots__ και τα __APIs__ (names and history) και πρόσθεσα καποια informations κάτω απο κάθε επιλογή. Επίσης πρόσθεσα 2 ανακατευθύνσεις με τις οποίες μπορεί ο χρήστης να μεταβεί στην αναφορά μου και στο προφίλ μου εντός του __github__. Τέλος επέλεξα στα posts που θα αναγνώσει ο χρήστης να εμφανίζονται με την μορφή απλού κειμένου (Design) όπως λειτουργούν και τα περισσότερα απο τα σημερινά chat bots.
 
 Ενδεικτικά subdirectories:
 
 - `index.html`: το οποίο αποτελεί και την αρχική σελίδα του Blog
 
-- `posts`: εντός του οποίου δημιοργήθηκαν τρία `sample-post.html` τα οποία έχουν και Ημερομηνία που δημιουργήθηκε το Post
-
-- `theme`: χρησιμοποιήθηκε το salinger το οποιο ενσωματώθηκε στο static blog
-
-- [Asciinema Link](https://asciinema.org/a/569883)
-
-- [Το repository του Blog](https://github.com/theoharissiwzos/theoharissiwzos.github.io)
-
-- [To Blog](https://theoharissiwzos.github.io/?fbclid=IwAR2K6E1vQaDX-qRftEM_fAxaJiJkxCLN-ZhgpsTv0ahylxTJJ7qnwEYKZBQ)
-
-- [index.html](https://github.com/theoharissiwzos/theoharissiwzos.github.io/blob/main/index.html)
+- `posts`: εντός του οποίου δημιοργήθηκαν δύο `post.html` τα οποία έχουν και Ημερομηνία που δημιουργήθηκε το Post
 
 
-__Δυσκολίες__: Αρχικά προσπάθησα να το υλοποιήσω με την χρήση του __Bashblog__ όμως δεν κατάφερα να το δουλέψω διότι απο οτι φαίνεται δεν έβρισκε το bashblog-lib repository στο GitHub και έτσι αποφάσισα να εγκαταστήσω το hugo και να το υλοποιήσω μέσω αυτού. 
+- [Το repository του Blog](https://github.com/theoharissiwzos/staticblog.github.io/tree/static)
+
+- [To Blog](https://theoharissiwzos.github.io/staticblog.github.io/)
+
+- [index.html](https://github.com/theoharissiwzos/staticblog.github.io/blob/static/index.html)
+
+* Υπάρχει __note__ για το παρόν παραδοτέο στο τέλος της αναφοράς
 
  # Παραδοτεο 7 - Συμμετοχικό περιεχόμενο B1:
  
@@ -181,5 +177,8 @@ __Δυσκολίες__: Αρχικά προσπάθησα να το υλοποι
  
  
  # notes:
+ # Όλο το παραδοτέο 6 υλοποιήθηκε με Hugo και έπειτα ξαναφτιάχτηκε απο την αρχή με BashBlog έπειτα απο επισήμανση του Διδάσκων:
+ - [Hugo_static_blog](https://theoharissiwzos.github.io/)
+ - [BashBlog_static_blog](https://theoharissiwzos.github.io/staticblog.github.io/)
  # 08/08 video quiz
  # 10/10 παραδοτέα εμπρόθεσμα
