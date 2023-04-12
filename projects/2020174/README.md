@@ -127,3 +127,6 @@ __Netlify Timelines:__ [CB Simulator](https://p2020174-pibook.netlify.app//timel
 | images | _case-study | _includes | Netlify |
 | :--: | :--: | :--: | :--: |
 | [Normal image](https://github.com/Futsies/images/blob/master/Arpanet.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/Arpanet-thumb.jpg) | [Link to _case-study](https://github.com/Futsies/site/blob/master/_case-study/legacynetworks.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/cs-legacynetworks.md) | [Link to site](https://p2020174-pibook.netlify.app//case-study/legacynetworks/) |
+
+# Παρουρίαση με τον Καθηγητή Αριστείδη Βραχάτη
+Ο καθηγητής αναφέρθηκε θετικά στην αναφορά μου, χαρακτηρίζοντάς την ως εύρημα που είναι περιγραφικό και καλά οργανωμένο, με συνεκτική σύνδεση μεταξύ των παραδοτέων και ομαλή ροή στο κείμενο. Το μόνο που μου σχολιάστηκε στην αναφορά μου είναι η αδυναμία εμφάνισης ενός από τα δύο timelines και επιπλέον να προσθέσω υπερσυνδέσμους αναφοράς για κάθε παραδοτέο.
