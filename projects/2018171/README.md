@@ -102,3 +102,7 @@
 
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg">
+
+
+* [_biography](https://github.com/perikarananou/site/tree/master/_biography): [bill_gates](https://github.com/perikarananou/site/blob/master/_biography/bill_gates.md)
+
