@@ -99,7 +99,7 @@
 * [images](https://github.com/perikarananou/images): [tabletPC](https://github.com/perikarananou/images/blob/master/tabletPC.jpg), [tabletPCmin](https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg)
 * [_includes](https://github.com/perikarananou/site/tree/master/_includes): [tabletPC](https://github.com/perikarananou/site/blob/master/_includes/tabletPC.md)
 * [_case-study](https://github.com/perikarananou/site/tree/master/_case-study): [tabletPC](https://github.com/perikarananou/site/blob/master/_case-study/tabletPC.md)
-
+* [live site](https://master--tourmaline-cuchufli-13ab4c.netlify.app/case-study/tabletpc/)
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg">
 
