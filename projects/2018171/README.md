@@ -105,4 +105,4 @@
 
 
 * [_biography](https://github.com/perikarananou/site/tree/master/_biography): [bill_gates](https://github.com/perikarananou/site/blob/master/_biography/bill_gates.md)
-
+* [live site](https://master--tourmaline-cuchufli-13ab4c.netlify.app/)
