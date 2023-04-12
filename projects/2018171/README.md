@@ -75,7 +75,7 @@
 * [_timeline](https://github.com/perikarananou/site/tree/master/_timeline): [tabletPC_mictosoft](https://github.com/perikarananou/site/blob/master/_timeline/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/site/blob/master/_timeline/alan-kay-and-dynabook.md)
 
 
-<img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg">. <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
+<img src="https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg"> <img src="https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg" alt="" width="210" height="270">
 
 
 # 6. Γραμμή εντολών (custom static blog generator):
@@ -101,7 +101,7 @@
 * [_case-study](https://github.com/perikarananou/site/tree/master/_case-study): [tabletPC](https://github.com/perikarananou/site/blob/master/_case-study/tabletPC.md)
 * [live site](https://master--tourmaline-cuchufli-13ab4c.netlify.app/case-study/tabletpc/)
 
-<img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg"><img src="https://github.com/perikarananou/helpppp/blob/main/photo/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202023-04-12%20135833.png" alt="" width="400" height="375">
+<img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg" alt="" width="400" height="375"> <img src="https://github.com/perikarananou/helpppp/blob/main/photo/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202023-04-12%20135833.png" alt="" width="400" height="375">
 
 
 
