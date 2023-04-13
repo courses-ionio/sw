@@ -10,7 +10,7 @@
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1251) | Χρήση neofetch και py-spy |
 | 3 | Γραμμή εντολών (no systemd) |  [Discussions link](https://github.com/courses-ionio/sw/discussions/1323) | Εγκατάσταση του artix linux |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | Ανεβάζω επιτυχώς τα αρχεία στους σωστούς φακέλους, κάνω επιτυχώς deploy το site, όμως οι φωτογραφίες δεν εμφανίζονται. |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussions link](https://github.com/courses-ionio/sw/discussions/1402) | Ανεβάζω επιτυχώς τα αρχεία στους σωστούς φακέλους, κάνω επιτυχώς deploy το site, όμως οι φωτογραφίες δεν εμφανίζονται. |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1478) | Δημιουργία blog με hugo |
 | 7 | συμμετοχικό περιεχόμενο B1 | [Discussions link](https://github.com/courses-ionio/sw/discussions/1512) | Έφτιαξα ένα case study για το instagram |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1552) |  Μετέτρεψα επιτυχώς το βιβλίο σε άλλη μορφή μέσω του pollen  |
