@@ -87,3 +87,5 @@ Blog: https://nikosbout.github.io/
 [tim-gill.md](https://github.com/nikosbout/site/blob/master/_biography/tim-gill.md)
 
 [bio-tim-gill.md](https://github.com/nikosbout/site/blob/master/_includes/bio-tim-gill.md)
+
+![Screenshot_1](https://user-images.githubusercontent.com/44340598/231715282-0a575804-219a-460f-9ba4-dc9dd4331e4f.png)
