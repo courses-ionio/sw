@@ -70,6 +70,6 @@
 Για αυτο το παραδοτέο έφτιαξα την βιογραφία του Charles Ranlett Flint, ο οποίος δημιούργησε την γνωστή εταιρία IBM
 [Netlify biografy](https://resonant-dusk-8b5c69.netlify.app/biography/charles_ranlett_flint/)
 [image](https://github.com/axilleasmandravelis/images/blob/master/Charles_Ranlett_Flint.jpg)
-[image-thumo](https://github.com/axilleasmandravelis/images/blob/master/Charles_Ranlett_Flint_thump.jpg)
+[image-thump](https://github.com/axilleasmandravelis/images/blob/master/Charles_Ranlett_Flint_thump.jpg)
 [bio.md](https://github.com/axilleasmandravelis/site/blob/master/_biography/Charles_Ranlett_Flint.md)
 [includes.md](https://github.com/axilleasmandravelis/site/blob/master/_includes/bio-Charles_Ranlett_Flint.md)
