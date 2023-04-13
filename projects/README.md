@@ -74,6 +74,7 @@
 [bio.md](https://github.com/axilleasmandravelis/site/blob/master/_biography/Charles_Ranlett_Flint.md)
 [includes.md](https://github.com/axilleasmandravelis/site/blob/master/_includes/bio-Charles_Ranlett_Flint.md)
 
-![pic](https://user-images.githubusercontent.com/44345559/231719114-db3c9118-2a2a-4d2a-97cf-27c82512f83a.png)
+
+![pic (1)](https://user-images.githubusercontent.com/44345559/231719497-c78ef26e-34e8-4bcb-8ed9-7e88b0289883.png)
 
 
