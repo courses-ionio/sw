@@ -14,7 +14,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | https://github.com/courses-ionio/sw/discussions/1477| Έφτιαξα επιτυχώς το blog μέσω του Hugo|
 | 7 | συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/sw/discussions/1502| Έκανα επιτυχώς τα ζητούμενα για το συμμετοχικό περιεχόμενο Β1|
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1551 |Έκανα επιτυχώς την μετατροπή του βιβλίου σε άλλη μορφη γραφής |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/sw/discussions/1565| Έφτιαξα με επιτυχία την βιογραφία του Charles Ranlett Flint|
 | 10 | Τελική αναφορά* | | |
 
 ## Εισαγωγή, δημιουργία ομάδας - 1ο παραδοτέο
@@ -65,3 +65,11 @@
 
 ![local-host-book](https://user-images.githubusercontent.com/44345559/230574609-22bf5637-e470-4103-a0c1-c51a39ff3ed8.png)
 
+
+## Παραδοτέο 9 - Συμμετοχικό περιεχόμενο Β2
+Για αυτο το παραδοτέο έφτιαξα την βιογραφία του Charles Ranlett Flint, ο οποίος δημιούργησε την γνωστή εταιρία IBM
+[Netlify biografy](https://resonant-dusk-8b5c69.netlify.app/biography/charles_ranlett_flint/)
+[image](https://github.com/axilleasmandravelis/images/blob/master/Charles_Ranlett_Flint.jpg)
+[image-thumo](https://github.com/axilleasmandravelis/images/blob/master/Charles_Ranlett_Flint_thump.jpg)
+[bio.md](https://github.com/axilleasmandravelis/site/blob/master/_biography/Charles_Ranlett_Flint.md)
+[includes.md](https://github.com/axilleasmandravelis/site/blob/master/_includes/bio-Charles_Ranlett_Flint.md)
