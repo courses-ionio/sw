@@ -14,7 +14,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1478) | Δημιουργία blog με hugo |
 | 7 | συμμετοχικό περιεχόμενο B1 | [Discussions link](https://github.com/courses-ionio/sw/discussions/1512) | Έφτιαξα ένα case study για το instagram |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Discussions link](https://github.com/courses-ionio/sw/discussions/1552) |  Μετέτρεψα επιτυχώς το βιβλίο σε άλλη μορφή μέσω του pollen  |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | [Discussions link](https://github.com/courses-ionio/sw/discussions/1564) | Δημιούργησα με επιτυχία την βιογραφία του Tim Gill.|
 | 10 | Τελική αναφορά* | | |
 
 ## Εισαγωγή, δημιουργία ομάδας - 1ο παραδοτέο
@@ -76,3 +76,14 @@ Blog: https://nikosbout.github.io/
 
 ![localhostscreenshot](https://user-images.githubusercontent.com/44340598/230574870-329dc2f6-3d06-4931-b0fb-8b4ff0d0490b.png)
 
+### Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο B2
+
+Για το 9ο παραδοτέο δημιούργησα την βιογραφία του Tim Gill.
+
+[thumb](https://github.com/nikosbout/images/blob/master/tim-gill-thumb.jpg)
+
+[image](https://github.com/nikosbout/images/blob/master/tim-gill.jpg)
+
+[tim-gill.md](https://github.com/nikosbout/site/blob/master/_biography/tim-gill.md)
+
+[bio-tim-gill.md](https://github.com/nikosbout/site/blob/master/_includes/bio-tim-gill.md)
