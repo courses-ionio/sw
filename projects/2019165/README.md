@@ -161,7 +161,7 @@
 #### [Kristen-Nygaard-thumb](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
 #### [Kristen-Dahl-thumb](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
-### Η Βιογραφία στο site: 
+### [Η Βιογραφία στο site:](https://unique-halva-aa4c4d.netlify.app/biography/kristen-nygaard/)
 
 ### Οι πηγές που μελετήθηκαν :
 - [Those were the days? - Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
