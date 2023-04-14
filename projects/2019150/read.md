@@ -69,6 +69,10 @@
     
  <img src="https://user-images.githubusercontent.com/72516045/229491757-94935194-afec-4f92-9ecf-f92532983b1c.png"/> <img src="https://user-images.githubusercontent.com/72516045/229492002-014f4bd4-ba25-47de-a819-3bcf70154cdf.png" width="800"/> 
 
+<h2><span id="συμμετοχικό περιεχόμενο B1">(7) συμμετοχικό περιεχόμενο B1</span></h2>
     
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72516045/232026339-1a90090c-25d5-43f3-83b5-acba1f28e845.png" width="450"/> <img src="https://user-images.githubusercontent.com/72516045/232026299-cae58683-2d83-4767-8b73-d558c3b8d87a.png" width="450"/>    
+</p>
  
- 
+![Στιγμιότυπο οθόνης 2023-04-14 135534](https://user-images.githubusercontent.com/72516045/232026274-879d906f-758c-43cb-a24c-7776417f4d05.png)
