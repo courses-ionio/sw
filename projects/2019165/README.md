@@ -15,7 +15,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Ανάρτηση στα Discussions του στατικού blog που δημιουργήθηκε μέσω των Artix Linux & του bashblog](https://github.com/courses-ionio/sw/discussions/1501)| |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Ανάρτηση στα Discussions της μελέτης περίπτωσης του Croquet](https://github.com/courses-ionio/sw/discussions/1538)| |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 |[Συγγραφή της Βιογραφίας του Kristen Nygaard και ανάρτηση της στα Discussions](https://github.com/courses-ionio/sw/discussions/1566) | |
 | 10 | Τελική αναφορά* | | |
 
 # Παραδοτέο 1 - Eισαγωγή
@@ -144,3 +144,24 @@
 [Croquet, Everyone? - Forbes-](https://www.forbes.com/forbes/2005/0131/066.html?sh=68d8a18c951d)
 [Project Croquet - Wikipedia](https://en.wikipedia.org/wiki/Croquet_Project)
 [Open Croquet- Wiki](https://wiki.c2.com/?OpenCroquet)
+
+# Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο Β2
+
+Για το συμμετοχικό περιεχόμενο αυτής της εβδομάδας επέλεξα να κάνω μία έρευνα και να γράψη μία σύντομη βιογραφία του Kristen Nygaard.Ο Kristen Nygaard μαζί με τον συεργάτη του Ole-Dahl δημιούργησαν την Simula (simula I & simula 67) η οποία είναι γνωστή ως μία από της πρώτες γλώσσες προγραμματισμού με αντικειμενοστραφή χαρακτηριστικά. Ο Kristen ήταν αυτός που πρώτος υιοθέτησε την έννοια της κληρονομικότητας, η οποία έκτοτε αποτελή θεμελιώδες χαρακτηριστικό του αντικειμενοστραφούς προγραμματισμού. Ο Kristen Nygaard με την εφαρμογή αυτής της ιδέας του στην Simula , επηρέασε την πορεία της αντικειμενοστρέφειας και πόσο μάλλον τον Alan Kay , ο οποίος εμπνευσμένος από την Simula και το Sketchpad(που εισήγαγε τις έννοιες της κλάσης και του αντικειμένου ή instance) δημιούργησε την smalltalk , την πρώτη ολοκληρωμένη αντικειμενοστραφή γλώσσα. Επομένως ο Nygaard άφησε στα χέρια της τότε γενιάς ένα πολύτιμο εργαλείο που αποτέλεσε βάση για την αντικειμενοστρέφεια όπως την γνωρίζουμε σήμερα. 
+
+### Τα αρχεία στον προσωπικό μου λογαριασμό :
+#### H μελέτη περίπτωσης [_includes](https://github.com/p2019vade/site/blob/master/_includes/bio-nygaard.md) 
+#### To αρχείο [_biography](https://github.com/p2019vade/site/blob/master/_biography/kristen-nygaard.md)
+
+### Η Βιογραφία στο site : 
+
+### Οι πηγές που μελετήθηκαν :
+[Those were the days? Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
+[Turing Award site for award winners](https://amturing.acm.org/award_winners/nygaard_5916220.cfm)
+[Oslo University about Nygaard](https://www.mn.uio.no/ifi/english/about/kristen-nygaard/)
+[MacTutor , Nygaard's biography](https://mathshistory.st-andrews.ac.uk/Biographies/Nygaard/)
+[Kay on being influenced by Simula](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
+[Development of Simula](https://dl.acm.org/doi/10.1145/800025.1198392)
+[Cool Project](http://kristennygaard.org/FORSKNINGSDOK_MAPPE/F_COOL1.html)
+[The Many dimensions of Kristen](https://link.springer.com/content/pdf/10.1007/978-3-642-15199-6_5.pdf)
+
