@@ -153,6 +153,14 @@
 #### H μελέτη περίπτωσης [_includes](https://github.com/p2019vade/site/blob/master/_includes/bio-nygaard.md) 
 #### To αρχείο [_biography](https://github.com/p2019vade/site/blob/master/_biography/kristen-nygaard.md)
 
+### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images 
+#### [Kristen-Nygaard](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard.png)
+#### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl.png)
+
+### Οι εικόνες σε thumb (160x110px)
+#### [Kristen-Nygaard](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
+#### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
+
 ### Η Βιογραφία στο site : 
 
 ### Οι πηγές που μελετήθηκαν :
