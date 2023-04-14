@@ -161,15 +161,15 @@
 #### [Kristen-Nygaard](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
 #### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
-### Η Βιογραφία στο site : 
+### Η Βιογραφία στο site: 
 
 ### Οι πηγές που μελετήθηκαν :
-[Those were the days? Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
-[Turing Award site for award winners](https://amturing.acm.org/award_winners/nygaard_5916220.cfm)
-[Oslo University about Nygaard](https://www.mn.uio.no/ifi/english/about/kristen-nygaard/)
-[MacTutor , Nygaard's biography](https://mathshistory.st-andrews.ac.uk/Biographies/Nygaard/)
-[Kay on being influenced by Simula](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
-[Development of Simula](https://dl.acm.org/doi/10.1145/800025.1198392)
-[Cool Project](http://kristennygaard.org/FORSKNINGSDOK_MAPPE/F_COOL1.html)
-[The Many dimensions of Kristen](https://link.springer.com/content/pdf/10.1007/978-3-642-15199-6_5.pdf)
+- [Those were the days? - Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
+- [Turing Award site for award winners](https://amturing.acm.org/award_winners/nygaard_5916220.cfm)
+- [Oslo University about Nygaard](https://www.mn.uio.no/ifi/english/about/kristen-nygaard/)
+- [MacTutor , Nygaard's biography](https://mathshistory.st-andrews.ac.uk/Biographies/Nygaard/)
+- [Kay on being influenced by Simula](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
+- [Development of Simula](https://dl.acm.org/doi/10.1145/800025.1198392)
+- [Cool Project](http://kristennygaard.org/FORSKNINGSDOK_MAPPE/F_COOL1.html)
+- [The Many dimensions of Kristen](https://link.springer.com/content/pdf/10.1007/978-3-642-15199-6_5.pdf)
 
