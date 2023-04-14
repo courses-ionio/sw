@@ -87,7 +87,7 @@
 ![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal.jpg)
 
 ### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού
-#### [object-pascal](https://github.com/TheTimeParadox/_gallery/blob/master/object-pascal.md)
+#### [object-pascal.md](https://github.com/TheTimeParadox/_gallery/blob/master/object-pascal.md)
 &
 #### [borland-delphi.md](https://github.com/TheTimeParadox/_gallery/blob/master/borland-delphi.md)
 
@@ -96,8 +96,8 @@
 #### [borland-delphi](https://github.com/TheTimeParadox/images/blob/master/borland-delphi.png)
 
 ### Οι εικόνες σε thumb (160x140px)
-#### [object-pascal](https://github.com/TheTimeParadox/images/blob/master/object-pascal-thumb.jpg)
-#### [borland-delphi](https://github.com/TheTimeParadox/images/blob/master/borland-delphi-thumb.png)
+#### [object-pascal-thumb](https://github.com/TheTimeParadox/images/blob/master/object-pascal-thumb.jpg)
+#### [borland-delphi-thumb](https://github.com/TheTimeParadox/images/blob/master/borland-delphi-thumb.png)
 
 ### Tα pull request προς τον Οργανισμό
 #### [_gallery](https://github.com/TheTimeParadox/_gallery/pull/1)
@@ -137,13 +137,13 @@
 ### Στo [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/case-study/croquet/)
 
 ### Οι πηγές που μελετήθηκαν :
-[Croquet - A collaboration system architecture](https://www.researchgate.net/publication/4029258_Croquet_-_A_collaboration_system_architecture)
-[Croquet project - wayback machine](https://web.archive.org/web/20041010043436/http://www.opencroquet.org/About_Croquet/about.html)
-[Croquet OS - encyclopedia](https://encyclopedia.pub/entry/30475)
-[Unconventional and innovative: the Open Croquet Project](https://librarytechnology.org/document/11671)
-[Croquet, Everyone? - Forbes-](https://www.forbes.com/forbes/2005/0131/066.html?sh=68d8a18c951d)
-[Project Croquet - Wikipedia](https://en.wikipedia.org/wiki/Croquet_Project)
-[Open Croquet- Wiki](https://wiki.c2.com/?OpenCroquet)
+- [Croquet - A collaboration system architecture](https://www.researchgate.net/publication/4029258_Croquet_-_A_collaboration_system_architecture)
+- [Croquet project - wayback machine](https://web.archive.org/web/20041010043436/http://www.opencroquet.org/About_Croquet/about.html)
+- [Croquet OS - encyclopedia](https://encyclopedia.pub/entry/30475)
+- [Unconventional and innovative: the Open Croquet Project](https://librarytechnology.org/document/11671)
+- [Croquet, Everyone? - Forbes-](https://www.forbes.com/forbes/2005/0131/066.html?sh=68d8a18c951d)
+- [Project Croquet - Wikipedia](https://en.wikipedia.org/wiki/Croquet_Project)
+- [Open Croquet- Wiki](https://wiki.c2.com/?OpenCroquet)
 
 # Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο Β2
 
@@ -158,8 +158,8 @@
 #### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl.png)
 
 ### Οι εικόνες σε thumb (160x110px)
-#### [Kristen-Nygaard](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
-#### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
+#### [Kristen-Nygaard-thumb](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
+#### [Kristen-Dahl-thumb](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
 ### Η Βιογραφία στο site: 
 
