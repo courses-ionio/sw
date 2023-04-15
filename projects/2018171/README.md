@@ -16,7 +16,7 @@
 | 6 | Γραμμή εντολών (custom static blog generator) | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1488) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1528) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1567) | |
 | 10 | Τελική αναφορά* | | |
 
 
