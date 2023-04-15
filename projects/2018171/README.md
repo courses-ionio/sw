@@ -103,7 +103,7 @@
 
 <img src="https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg" alt="" width="400" height="375"> <img src="https://github.com/perikarananou/helpppp/blob/main/photo/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202023-04-12%20135833.png" alt="" width="400" height="375">
 
-
-
+# 9. συμμετοχικό περιεχόμενο B2
+Για το συμμετοχικό περιεχόμενο αυτής της εβδομάδας επέλεξα να γράψω μία σύντομη βιογραφία του Bill Gates. Ο οποίος μαζί με τον Πωλ Άλεν δημιούργησαν την εταιρεία λογισμικού Microsoft. 
 * [_biography](https://github.com/perikarananou/site/tree/master/_biography): [bill_gates](https://github.com/perikarananou/site/blob/master/_biography/bill_gates.md)
 * [live site](https://master--tourmaline-cuchufli-13ab4c.netlify.app/)
