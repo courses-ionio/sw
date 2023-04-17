@@ -12,7 +12,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1569 | Η άσκηση ολοκληρώθηκε χρησιμοποιώντας τα Artix Linux, δεν αντιμετώπησα ιδιαίτερες δυσκολίες εκτώς από το γεγονός πως έπρεπε να κάνω export τον editor που θα χρησιμοποιήσω για να κάνω post στην σελίδα και εγώ επέλεξα το vim. Έχω κάνει αλλαγές στα χρώμματα του blog καθώς και έκανα strong μερικά σημεία που ήθελα να φαίνονται πιο πολύ στο index.html όπως το όνομα μου κτλ. |
 | 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell | Στο συμμετοχικό περιεχόμενο Β1 πραγματοποιήθηκε μελέτη περίπτωσης σχετικά με τα cgroups των linux  |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1571 | Η κατασκευή του βιβλίου έγινε με επιτυχία στην επιθυμητή μορφή pollen μέσω του make-pollen.sh |
-| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell | |
+| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell |Έγινε προσθήκη συνεισφοράς σχετικά με την βιογραφία του Lennart Poettering|
 | 10 | Τελική αναφορά* |https://github.com/courses-ionio/sw/discussions/1573 | |
   
   
