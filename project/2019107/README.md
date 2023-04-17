@@ -96,3 +96,50 @@
   [Pull Request site](https://github.com/Genesis-The-Beginning/site/pull/2) <br>
   [Pull Request _gallery submodule](https://github.com/Genesis-The-Beginning/_gallery/pull/1) <br>
   [Pull Request images submodule](https://github.com/Genesis-The-Beginning/images/pull/1) 
+  
+  ## Custom Static Blog Generator (Artix Linux no systemd)
+  Χρησιμοποιήθηκε το bashblog ώστε να υλοποιηθεί ένα blog σχετικά με τα Λογισμικά. Έγιναν αλλαγές στο styling του blog (main.css) καθώς και στο index.html ώστε το blog να έχει την επιθυμιτή μορφοποιήση. Επιπρόσθετα έγινε post αναφορικά με το systemd έναντι του SysVinit.
+  
+- [Softwareblog Repository](https://github.com/theodoreZ-107/softwareblog)
+- [Github Pages](https://theodorez-107.github.io/softwareblog/)
+
+![softwareblog](https://user-images.githubusercontent.com/72518532/232617742-18e8ea5f-b905-4229-bdb0-0ce3fa7f151f.png)
+
+## Συμμετοχικό Περιεχόμενο Β1
+
+Υλοποιήθηκε μελέτη περίπτωσης σχετικά με τα cgroups του systemd. Οι ομάδες C, ή οι ομάδες ελέγχου, είναι ένα χαρακτηριστικό του πυρήνα Linux που επιτρέπει την κατανομή, την ιεράρχηση και την παρακολούθηση των πόρων του συστήματος. Οι cgroups είναι ένα ουσιαστικό χαρακτηριστικό του πυρήνα Linux και το systemd παρέχει μια διεπαφή υψηλού επιπέδου για τη διαχείριση των cgroups για τον έλεγχο και τη βελτιστοποίηση των πόρων του συστήματος για υπηρεσίες.
+
+- [systemdcgroups.md](https://github.com/TheodoreZ-107/site/blob/master/_case-study/systemdcgroups.md)
+- [cs-systemdcgroups.md](https://github.com/TheodoreZ-107/site/blob/master/_includes/cs-systemdcgroups.md)
+- [systemdcgroups.jpg](https://github.com/TheodoreZ-107/images/blob/303b7b235e65169bf3b1ca77140d7f537f68ddc5/systemdcgroups.jpg)
+
+![cgroups](https://user-images.githubusercontent.com/72518532/232618588-afb2e2f3-b921-4dae-95e0-265e9c4bc7f5.png)
+
+[Netlify](https://ephemeral-swan-dddfce.netlify.app/case-study/systemdcgroups/)
+
+[Πηγή](https://sites.cs.ucsb.edu/~rich/class/old.cs290/papers/lxc-namespace.pdf)
+
+## Κατασκευή Βιβλίου Β2
+
+Σε αυτό το παραδοτέο χρησιμοποιήθηκε το [make-pollen.sh](https://github.com/TheodoreZ-107/kallipos/blob/master/make-pollen.sh) σε συνδιασμό με το [figure-pollen.lua](https://github.com/TheodoreZ-107/kallipos/blob/master/figure-pollen.lua) ώστε να δημιουργηθεί το βιβλίο του μαθήματος σε μορφή pollen.
+
+- [kallipos Repository](https://github.com/TheodoreZ-107/kallipos/)
+- [Github Pages](https://theodorez-107.github.io/kallipos/)
+
+![book to pollen](https://user-images.githubusercontent.com/72518532/232619772-63c06fb0-5895-4b42-990f-080d946247af.png)
+
+## Συμμετοχικό Περιεχόμενο Β2
+
+Για το συμμετοχικό περιεχόμενο Β2 προστέθηκε η βιογραφία του Lennart Poettering. Ο Lennart Poettering είναι μηχανικός λογισμικού και ένας από τους βασικούς προγραμματιστές του systemd, ενός διαχειριστή συστημάτων και υπηρεσιών για Linux. Είναι επίσης γνωστός για τη δουλειά του σε άλλα έργα λογισμικού, όπως το PulseAudio, το Avahi και το περιοδικό του systemd.
+
+- [lennart-poettering.md](https://github.com/TheodoreZ-107/site/blob/master/_biography/lennart-poettering.md)
+- [bio-poettering.md](https://github.com/TheodoreZ-107/site/blob/master/_includes/bio-poettering.md)
+- [lennart-profile.jpg](https://github.com/TheodoreZ-107/images/blob/303b7b235e65169bf3b1ca77140d7f537f68ddc5/lennart-profile.jpg)
+
+![lennart-profile](https://user-images.githubusercontent.com/72518532/232620792-e7668fd8-bea9-4c55-ade6-05b149d05d89.png)
+
+[Netlify](https://ephemeral-swan-dddfce.netlify.app/biography/lennart-poettering/)
+
+## Τελική Αναφορά
+
+Τελειώνοντας το μάθημα τεχνολογία λογισμικού μπορώ να πω πως κατάφερα να καταλάβω τον τρόπο με τον οποίο οργανώνεται, αναπτύσσεται και συντηρείται το λογισμικό. Συγκεκριμένα μέσω των ασκήσεων γραμμής εντολών ήρθα σε επαφή με διάφορα συστήματα που σου επιτρέπουν να παραμετροποιήσεις το σύστημα στις ανάγκες σου π.χ. να βάλεις περιβάλλον γραφικής διεπαφής που ταιριάζει στις ανάγκες του συστήματος, ήρθα σε επαφή με συστήματα που χρησιμοποιούν το systemd καθώς και με συστήματα που χρησιμοποιούν εναλλακτικές του όπως το OpenRC, κατανόησα το νόημα αυτής της επιλογής και κατάφερα να το συνδέσω με τα λεγόμενα του Alan Kay κάνοντας αυτήν την σύγκριση. Επιπλέον μέσω του συμμετοχικού περιεχομένου και τις συνεισφορές στο site εκτός από ότι έμαθα καλές πρακτικές συντήρησης και ανάπτυξης του λογισμικού, οι προσθήκες με έκαναν να καταλάβω ακόμη περισσότερο τον τρόπο λειτουργίας των συστημάτων που χρησιμοποιούν την σουίτα systemd μιας και οι προσθήκες σχετίζονται με αυτό. Τέλος προσπάθησα να κρατήσω μια συνοχή όσον αναφορά την αναφορά μου προσπαθώντας να υλοποιούνται μόνο προσθήκες σχετικά με το systemd.
