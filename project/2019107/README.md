@@ -9,11 +9,11 @@
 | 3 | Γραμμή εντολών (no systemd) |https://github.com/courses-ionio/sw/discussions/1421 | Η εγκατάσταση των Artix Linux ήταν αρκετά γρήγορη διαδικασία σε σχέση με τα Arch μιας και χρησιμοποιήσα Graphical Installer. Fun Fact ο κάδως απορριμάτων στην εγκατάσταση που χρησιμοποιήσα ονομάζεται άκομψα "Trash". |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά)|https://github.com/courses-ionio/sw/discussions/1422 |Μετά τις απαιρέτητες αλλαγές όπως να βγάλω την τελία από το figures ώστε να δείχνει στον σωστό φάκελο, δημιουργία contribution.lua αρχειού και δημιουργία υποσημείωσης comment.md κατάφερα να εξάγω ένα αρχείο pdf με το βιβλίο του μαθήματος |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |https://github.com/courses-ionio/sw/discussions/1423 | Στο συμμετοχικό περιεχόμενο προσέθεσα εργαλεία που σχετίζονται με το systemd και την λειτουργία του πιο συγκεκριμένα για το journalctl, busctl. Η δυσκολία που αντιμετωπίστηκε εδώ ήταν πως με την προσθήκη του Α2 περιεχομένου το netlify έκανε error κατά την διάρκεια του build της σελίδας και η επίσκεψη στο ανεβασμένο περιεχόμενο οδηγούσε σε not found 404, η λύση σε αυτό το πρόβλημα ήταν να αλλάξω στο _config.yml το url και το αντίστοιχο repo  |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1569 | |
+| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1571 | |
+| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell | |
+| 10 | Τελική αναφορά* |https://github.com/courses-ionio/sw/discussions/1573 | |
   
   
 ## Εισαγωγή
