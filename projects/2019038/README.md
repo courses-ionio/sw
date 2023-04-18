@@ -14,7 +14,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Συζήτηση 5](https://github.com/courses-ionio/sw/discussions/1403) | Ολοκλήρωση εντός προθεσμίας |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | <a href="#Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1574) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -100,3 +100,40 @@
 
 [Netlify Site](https://resonant-seahorse-61fcf8.netlify.app)
 <br><br>
+
+
+<h2><span id="Συμμετοχικό περιεχόμενο Β1">Συμμετοχικό περιεχόμενο Β1</span></h2>
+
+Για τη συνέχεια του συμμετοχικού περιεχομένου, όσον αφορά τα κεφάλαια 4 και 8 του βιβλίου, αποφάσισα να κάνω case study για το game engine CryEngine της Crytek, ως 
+εργαλείο κατασκευής παιχνιδιών, μιας και συσζετίζεται με το περιεχόμενο που ανέπτυξα στο τελευταίο παραδοτέο συμμετοχικού περιεχομένου Α1 + Α2. Για το Β1, λοιπόν,
+ξεκίνησα με την προσθήκη των images που ήθελα να χρησιμοποιήσω, δηλαδή το logo της CryEngine και με resize της ίδιας εικόνας το thumbnail. Επίσης, έκανα χρήση άλλης μιας εικόνας που έδειχνε το περιβάλλον του λογισμικού αυτόυ. 
+<br>
+
+![cryengine](https://user-images.githubusercontent.com/72350646/232781514-afe57cba-a4a6-4b63-8720-d8ed0ae506e1.jpg)
+<br>
+
+<strong>Images:</strong>
+
+-[cryengine](https://github.com/p19loli/images/blob/master/cryengine.jpg)
+
+-[cryengine-thumb](https://github.com/p19loli/images/blob/master/cryengine-thumb.jpg)
+
+-[cryengine-environment](https://github.com/p19loli/images/blob/master/cryengine-environment.png)
+<br><br>
+
+
+Στη συνέχεια, κατασκέυασα ένα νέο αρχείο στον φάκελο <strong>_includes</strong> του site: [cs-cryengine.md](https://github.com/p19loli/site/blob/master/_includes/cs-cryengine.md) 
+
+Το αρχείο αυτό περιλαμβάνει τις παραγράφους που έγραψα και ανέπτυξα για την CryEngine, όπως και τις εικόνες που ήθελα να χρησιμοποιήσω.
+<br><br>
+
+
+Τέλος, μέσα στο φάκελο <strong>_case-study</strong> δημιούργησα και πάλι ένα νέο αρχείο md: [cryengine.md](https://github.com/p19loli/site/blob/master/_case-study/cryengine.md)
+<br><br>
+
+
+Netlify : [CryEngine](https://master--resonant-seahorse-61fcf8.netlify.app/case-study/)
+<br>
+
+
+
