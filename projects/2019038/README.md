@@ -14,7 +14,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | <a href="#Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Συζήτηση 5](https://github.com/courses-ionio/sw/discussions/1403) | Ολοκλήρωση εντός προθεσμίας |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | <a href="#Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1574) | |
+| 7 | <a href="#Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1574) | Ολοκληρωση |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
