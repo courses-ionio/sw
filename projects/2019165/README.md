@@ -124,6 +124,8 @@
 
 Για το παραδοτέο αυτής της εβδομάδας επέλεξα να ασχοληθώ με την περίπτωση του Croquet και να γράψω μία μελέτη περίπτωσης για αυτό. Η πλατφόρμα του Croquet είναι open-source και η δημιουργία της χρηματοδοτήθηκε αρχικά από τον Alan Kay . Ο ίδιος μαζί με την ομάδα του , δημιούργησαν το Croquet για να είναι δυνατή μια πραγματικού χρόνου επεξεργασία αρχείων και συνεπώς μια απο κοινού δημιουργία λογισμικού πέρα από τους περιορισμούς που έθεταν τα μέσα της εποχής(e-mails).
 
+![Croquet-open-world](https://github.com/Alessenia/Images-for-Report/blob/main/croquet.png)
+
 ### Τα αρχεία στον προσωπικό μου λογαριασμό :
 #### Τo αρχείο [ _includes](https://github.com/p2019vade/site/blob/master/_includes/cs-croquet.md) 
 #### To αρχείο [_case-study](https://github.com/p2019vade/site/blob/master/_case-study/croquet.md)
