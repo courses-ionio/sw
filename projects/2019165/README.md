@@ -133,8 +133,9 @@
 #### [images](https://github.com/TheTimeParadox/images/pull/5)
 
 ### Η μελέτη περίπτωσης :
-### Στο [site της ομάδας μας]().
-### Στo [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/case-study/croquet/)
+### Στo [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/case-study/croquet/).
+### Στο [site της ομάδας μας](https://thetimeparadox-pibook.netlify.app/case-study/croquet/).
+
 
 ### Οι πηγές που μελετήθηκαν :
 - [Croquet - A collaboration system architecture](https://www.researchgate.net/publication/4029258_Croquet_-_A_collaboration_system_architecture)
@@ -144,6 +145,17 @@
 - [Croquet, Everyone? - Forbes-](https://www.forbes.com/forbes/2005/0131/066.html?sh=68d8a18c951d)
 - [Project Croquet - Wikipedia](https://en.wikipedia.org/wiki/Croquet_Project)
 - [Open Croquet- Wiki](https://wiki.c2.com/?OpenCroquet)
+
+
+# Παραδοτέο 8 - Κατασκευή του βιβλίου Β2 
+
+Για το 8 παραδοτέο δημιουργήθηκε ένα shell script το οποίο μετατρέπει όλα τα txt αρχεία του βιβλίου σε html αρχεία και έπειτα τα συνδέει όλα μεταξύ τους ώστε να προκύψει το βιβλίο του μαθήματος σε html μορφή. To [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh) για την μετατροπή σε html έγινε με την χρήση του pandoc.
+
+![book](https://github.com/Alessenia/Images-for-Report/blob/main/book.png)
+
+### [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh)
+### [Tα html αρχεία](https://github.com/p2019vade/kallipos/tree/master/html)
+### [Το βιβλίο σε html μορφή κώδικα](https://github.com/p2019vade/kallipos/blob/master/book.html)
 
 # Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο Β2
 
@@ -161,7 +173,7 @@
 #### [Kristen-Nygaard-thumb](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
 #### [Kristen-Dahl-thumb](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
-### [Η Βιογραφία στο site:](https://unique-halva-aa4c4d.netlify.app/biography/kristen-nygaard/)
+### [Η Βιογραφία στο site](https://unique-halva-aa4c4d.netlify.app/biography/kristen-nygaard/)
 
 ### Οι πηγές που μελετήθηκαν :
 - [Those were the days? - Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
