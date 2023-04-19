@@ -14,7 +14,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Ανάρτηση στα Discussions του συμμετοχικού περιεχομένου Α1 + Α2](https://github.com/courses-ionio/sw/discussions/1436)| |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Ανάρτηση στα Discussions του στατικού blog που δημιουργήθηκε μέσω των Artix Linux & του bashblog](https://github.com/courses-ionio/sw/discussions/1501)| |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Ανάρτηση στα Discussions της μελέτης περίπτωσης του Croquet](https://github.com/courses-ionio/sw/discussions/1538)| |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Ανάρτηση στα Discussions του βιβλίου σε μορφή html & και του shell-script με το οποίο κατασκευάστηκε](https://github.com/courses-ionio/sw/discussions/1575) | |
 | 9 | συμμετοχικό περιεχόμενο B2 |[Συγγραφή της Βιογραφίας του Kristen Nygaard και ανάρτηση της στα Discussions](https://github.com/courses-ionio/sw/discussions/1566) | |
 | 10 | Τελική αναφορά* | | |
 
@@ -184,4 +184,6 @@
 - [Development of Simula](https://dl.acm.org/doi/10.1145/800025.1198392)
 - [Cool Project](http://kristennygaard.org/FORSKNINGSDOK_MAPPE/F_COOL1.html)
 - [The Many dimensions of Kristen](https://link.springer.com/content/pdf/10.1007/978-3-642-15199-6_5.pdf)
+
+# Παραδοτέο 10 - Τελική Αναφορά
 
