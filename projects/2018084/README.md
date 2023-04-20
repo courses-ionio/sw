@@ -149,5 +149,5 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 <a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/3">Συνάντηση ομάδας: 5η Εβδομάδα</a> <br />
 <a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/4">Συνάντηση ομάδας: 7η Εβδομάδα</a> <br />
 <a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/5">Συνάντηση ομάδας: 8η Εβδομάδα</a> <br />
-<a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/6">Συνάντηση ομάδας: 5η Εβδομάδα</a>
+<a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/6">Συνάντηση ομάδας: 9η & 10η Εβδομάδα</a>
 
