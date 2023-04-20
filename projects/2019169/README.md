@@ -10,7 +10,7 @@
 | 2 | <li><a href="#Hyperfine."><span class="toctext">Hyperfine.</span></a> Commit:27/02/2023|<a href="https://github.com/courses-ionio/sw/discussions/1296">Πρόόδος 2</a> | | 
 | 3 | <li><a href="#Void-Linux."><span class="toctext">Void-Linux.</span></a> Commit:5/3/2023|<a href="https://github.com/courses-ionio/sw/discussions/1354">Προόδος 3</a> | |
 | 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> |<a href="https://github.com/courses-ionio/help/discussions/430">Πρόοδος 4</a> | |
-| 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>| | |
+| 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>|<a href="https://github.com/courses-ionio/sw/discussions/1577">Πρόοδος 5</a> | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
