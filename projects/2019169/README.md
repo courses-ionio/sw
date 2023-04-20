@@ -10,7 +10,7 @@
 | 2 | <li><a href="#Hyperfine."><span class="toctext">Hyperfine.</span></a> Commit:27/02/2023|<a href="https://github.com/courses-ionio/sw/discussions/1296">Πρόόδος 2</a> | | 
 | 3 | <li><a href="#Void-Linux."><span class="toctext">Void-Linux.</span></a> Commit:5/3/2023|<a href="https://github.com/courses-ionio/sw/discussions/1354">Προόδος 3</a> | |
 | 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> |<a href="https://github.com/courses-ionio/help/discussions/430">Πρόοδος 4</a> | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>| | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
@@ -50,5 +50,33 @@
    ![2023-03-05 (2)](https://user-images.githubusercontent.com/72350589/222990145-e5883d72-fafb-4ce8-bd31-9b9640b759ac.png)
     
     
+   <hr></hr>
    
+   <h2><span id="A1+A2.">A1+A2.</span></h2>
+   
+   
+   Για το συσγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με το Roblox Studio και την γλώσσα προγραμματισμού Lua.
+   
+   Πρόσθεσα στο images: <br>
+   - <a href ="https://github.com/TaniaStoupi/images/blob/master/Roblox.jpeg">Roblox</a>
+   <br>
+   - <a href="https://github.com/TaniaStoupi/images/blob/master/Roblox-thumb.jpg">Roblox-thumb</a>
+   <br>
+   -<a href="https://github.com/TaniaStoupi/images/blob/master/lua.jpg">Lua</a>
+   <br>
+   - <a href="https://github.com/TaniaStoupi/images/blob/master/lua-thumb.jpg">Lua-thumb</a>
+   <br>
+   
+   Στην συνέχεια πρόσθεσα στο _gallery: <br>
+   - <a href="https://github.com/TaniaStoupi/_gallery/blob/master/Lua.md">Lua file</a>
+   <br>
+   - <a href="https://github.com/TaniaStoupi/_gallery/blob/master/Roblox.md"> Roblox file</a>
+   <br>
+   
+   Και τέλος πρόσθεσα το Roblox Studio στο slide <a href ="https://github.com/TaniaStoupi/site/blob/master/_slides/visualization.md">Visualization</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/multimedia.md">multimedia</a> . <br>
+   Ομοίως και για την Lua την πρόσθεσα στο slide <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/programming.md>Programming</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/programming.md">Prrogramming</a>
+   
+  
+  
+  
   
