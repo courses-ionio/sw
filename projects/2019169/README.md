@@ -57,7 +57,7 @@
    
    Για το συσγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με το Roblox Studio και την γλώσσα προγραμματισμού Lua.
    
-   Πρόσθεσα στο images: <br>
+   Πρόσθεσα στο images: 
    - <a href ="https://github.com/TaniaStoupi/images/blob/master/Roblox.jpeg">Roblox</a>
    <br>
    - <a href="https://github.com/TaniaStoupi/images/blob/master/Roblox-thumb.jpg">Roblox-thumb</a>
@@ -67,14 +67,14 @@
    - <a href="https://github.com/TaniaStoupi/images/blob/master/lua-thumb.jpg">Lua-thumb</a>
    <br>
    
-   Στην συνέχεια πρόσθεσα στο _gallery: <br>
+   Στην συνέχεια πρόσθεσα στο _gallery: 
    - <a href="https://github.com/TaniaStoupi/_gallery/blob/master/Lua.md">Lua file</a>
    <br>
    - <a href="https://github.com/TaniaStoupi/_gallery/blob/master/Roblox.md"> Roblox file</a>
    <br>
    
    Και τέλος πρόσθεσα το Roblox Studio στο slide <a href ="https://github.com/TaniaStoupi/site/blob/master/_slides/visualization.md">Visualization</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/multimedia.md">multimedia</a> . <br>
-   Ομοίως και για την Lua την πρόσθεσα στο slide <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/programming.md>Programming</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/programming.md">Prrogramming</a>
+   Ομοίως και για την Lua την πρόσθεσα στο slide <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/programming.md">Programming</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/programming.md">Prrogramming</a>
    
   
   
