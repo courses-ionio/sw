@@ -14,7 +14,7 @@
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> |<a href="https://github.com/courses-ionio/sw/discussions/1580">Πρόοδος 7</a> | |
 | 8 | Βιβλίο Β2 | | |
-| 9 | <li><a href="#Β2."><span class="toctext">Β2.| | |
+| 9 | <li><a href="#Β2."><span class="toctext">Β2.|<a href="https://github.com/courses-ionio/sw/discussions/1581">Πρόοδος 9</a> | |
 | 10 | Τελική Αναφορά | | |
 
 
