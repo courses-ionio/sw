@@ -12,7 +12,7 @@
 | 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | |
 | 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | |
-| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | | |
+| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -82,3 +82,5 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 [Unreal 5 Image Link](https://github.com/mariakourti/images/blob/master/blender-thumb.png) | [Unreal 5 Thumb Image Link](https://github.com/mariakourti/images/blob/master/unreal-5-thumb.jpg)
 
 [Blender Netlify Link](https://p2020158.netlify.app/gallery/blender) | [Unreal 5 Netlify Link](https://p2020158.netlify.app/gallery/unreal-5)
+
+
