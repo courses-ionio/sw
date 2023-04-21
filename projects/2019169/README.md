@@ -12,7 +12,7 @@
 | 4 | Βιβλίο  || |
 | 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>|<a href="https://github.com/courses-ionio/sw/discussions/1577">Πρόοδος 5</a> | |
 | 6 | Άσκηση γραμμής εντολών | | |
-| 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> | | |
+| 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> |<a href="https://github.com/courses-ionio/sw/discussions/1580">Πρόοδος 7</a> | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
