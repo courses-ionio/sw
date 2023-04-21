@@ -55,17 +55,20 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 # Κατασκευή του Βιβλίου Α2
 
-Για το πρώτο μέρος κατασκευής του βιβλίου, αφού μελέτησα τα κεφάλαια και συζήτησα με την ομάδα μου, αποφάσισα να προσθέσω λίγες πληροφορίες για το VS Code. Πιστεύω ταιριάζει στην ενότητα με τα περιβάλλοντα ανάπτυξης λογισμικού. Παρακάτω βρίσκεται η σημείωσή μου.
+Για το πρώτο μέρος κατασκευής του βιβλίου, αφού μελέτησα τα κεφάλαια και συζήτησα με την ομάδα μου, αποφάσισα να προσθέσω λίγες πληροφορίες για το VS Code. Πιστεύω ταιριάζει στο κεφάλαιο 6, και συγκεκριμένα στο 6.1 "Περιβάλλον ανάπτυξης λογισμικού". Παρακάτω βρίσκεται η σημείωσή μου.
 
 [Αρχείο md](https://github.com/mariakourti/TheParadoxNotes/blob/main/vscode.md)
 
 [Ομαδικό Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/master/additionfilter.lua)
 
+[Ατομικό Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/main/filtro.lua)
+
 [make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/master/make-latex.sh)
 
-[Ομαδικό Βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/master/book.pdf)
+[Ομαδικό Βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/main/book.pdf)
 
-![Screenshot_1](https://user-images.githubusercontent.com/92392853/229353855-98072417-7e5a-42aa-ad32-d9cdd811ae4b.png)
+![Screenshot_1](https://user-images.githubusercontent.com/92392853/233607722-cafa376d-d1f0-4b99-b28f-3fd9d90a1bea.png)
+
 
 
 # Συμμετοχικό Περιεχόμενο A1 και A2
