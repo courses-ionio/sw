@@ -13,11 +13,9 @@
 | 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>|<a href="https://github.com/courses-ionio/sw/discussions/1577">Πρόοδος 5</a> | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> |<a href="https://github.com/courses-ionio/sw/discussions/1580">Πρόοδος 7</a> | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
-| 9 | Άσκηση γραμμής εντολών | | |
-| 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | Τελική αναφορά* | | |
+| 8 | Βιβλίο Β2 | | |
+| 9 | <li><a href="#Β2."><span class="toctext">Β2.| | |
+| 10 | Τελική Αναφορά | | |
 
 
   
@@ -84,3 +82,18 @@
   
   Και τέλος πρόσθεσα στο φάκελο includes μια πιο αναλυτική περιγραφή για το unity:
   -<a href="https://github.com/TaniaStoupi/site/blob/master/_includes/Game-Engine.md">Unity Game Engine</a>
+  
+  
+  <h2><span id="Β2.">Β2.</span></h2>
+  
+  Για το συμμετοχικό περιεχόμενο Β2 έπρεπε να επιλέξουμε μια βιογραφία. Η βιογραφία που επέλεξα εγώ είναι του John Riccitiello, ο οποίος είναι ο CEO της Unity Technologies.
+  Πρόσθεσα 2 νέες φωτογραφίες στο φάκελο images:
+  - <a href="https://github.com/TaniaStoupi/images/blob/master/JohnRiccitiello.jpg">JohnRiccitiello</a>
+  - <a href="https://github.com/TaniaStoupi/images/blob/master/JohnRiccitiello-thumb.jpg">JohnRiccitiello-thumb</a>
+  
+  Έπειτα πρόσθεσα στο φάκελο biography ένα αρχείο με κάποια στοιχεία για τον John Riccitiello:
+  -<a href="https://github.com/TaniaStoupi/site/blob/master/_biography/John-Riccitiello.md">John Riccitiello File</a>
+  
+  Και τέλος πρόσθεσα στο φάκελο includes μια πιο αναλυτική βιογραφία του:
+  -<a href="https://github.com/TaniaStoupi/site/blob/master/_includes/John-Riccitiello.md">John Riccitiello Bio</a>
+
