@@ -9,10 +9,10 @@
 | 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:18/02/2023 |<a href="https://github.com/courses-ionio/sw/discussions/1186">Προόδος 1</a>| |
 | 2 | <li><a href="#Hyperfine."><span class="toctext">Hyperfine.</span></a> Commit:27/02/2023|<a href="https://github.com/courses-ionio/sw/discussions/1296">Πρόόδος 2</a> | | 
 | 3 | <li><a href="#Void-Linux."><span class="toctext">Void-Linux.</span></a> Commit:5/3/2023|<a href="https://github.com/courses-ionio/sw/discussions/1354">Προόδος 3</a> | |
-| 4 | <li><a href="#FreeBSD/Check weather."><span class="toctext">FreeBSD/Check weather.</span></a> |<a href="https://github.com/courses-ionio/help/discussions/430">Πρόοδος 4</a> | |
+| 4 | Βιβλίο  || |
 | 5 |<li><a href="#A1+A2."><span class="toctext">A1+A2.</span></a>|<a href="https://github.com/courses-ionio/sw/discussions/1577">Πρόοδος 5</a> | |
 | 6 | Άσκηση γραμμής εντολών | | |
-| 7 | βιογραφικό | | |
+| 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
@@ -72,6 +72,15 @@
    Ομοίως και για την Lua την πρόσθεσα στο slide <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/programming.md">Programming</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/programming.md">Prrogramming</a>
    
   
+  <h2><span id="Β1.">Β1.</span></h2>
   
+  Για το συμμετοχικό περιεχόμενο Β1 έπρεπε να επιλέξουμε μια νέα μελέτη περίπτωσης. Ως νέα μελέτη περίπτωσης επέλεξα την μηχανή παιχνιδιών Unity.
+  Πρόσθεσα 2 νέες φωτογραφίες στο φάκελο images:
+  - <a href="https://github.com/TaniaStoupi/images/blob/master/unity.png">unity</a>
+  - <a href="https://github.com/TaniaStoupi/images/blob/master/unity-thumb.png">unity-thumb</a>
   
+  Έπειτα πρόσθεσα στο φάκελο case study το αρχείο για το unity:
+  -<a href="https://github.com/TaniaStoupi/site/blob/master/_case-study/Unity.md">Unity File</a>
   
+  Και τέλος πρόσθεσα στο φάκελο includes μια πιο αναλυτική περιγραφή για το unity:
+  -<a href="https://github.com/TaniaStoupi/site/blob/master/_includes/Game-Engine.md">Unity Game Engine</a>
