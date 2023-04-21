@@ -16,7 +16,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | <a href="#Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1574) | Ολοκληρωση |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | <a href="#Συμμετοχικό περιεχόμενο Β2"><span class="toctext">Συμμετοχικό περιεχόμενο Β2/span></a> | [Συζήτηση 9](https://github.com/courses-ionio/sw/discussions/1578) | Ολοκλήρωση εντός προθεσμίας |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -133,7 +133,28 @@
 
 
 Netlify : [CryEngine](https://master--resonant-seahorse-61fcf8.netlify.app/case-study/)
-<br>
+<br><br>
 
 
 
+<h2><span id="Συμμετοχικό περιεχόμενο Β2">Συμμετοχικό περιεχόμενο Β2</span></h2>
+  
+Για το παραδοτέο 9, που είναι το συμμετοχικό περιεχόμενο Β2, αποφάσισα να γράψω το βιογραφικό του Bjarne Stroustrup, δημιουργού της αντικειμενοστρεφής γλώσσας 
+προγραμματισμού C++, μιας και έχω αναφερθεί στη γλώσσα αυτή και σε προηγούμενο παραδοτέο συμμετοχικού περιεχομένου και ήθελα να υπάρχει μία συνάφεια. Έτσι, για
+αρχή έκανα προσθήκη μίας φωτογραφίας του στο images του forked site. 
+  <br><br>
+Images : 
+-[Bjarne-Stroustrup.jpg](https://github.com/p19loli/images/blob/master/Bjarne-Stroustrup.jpg)
+-[Bjarne-Stroustrup-thumb.jpg](https://github.com/p19loli/images/blob/master/Bjarne-Stroustrup-thumb.jpg)
+  <br><br>
+  
+Στη συνέχεια, σύνταξα τη βιογραφία του στο _includes :
+-[bio-stroustrup.md](https://github.com/p19loli/site/blob/master/_includes/bio-stroustrup.md)
+  <br><br>
+  
+Τέλος, έφτιαξα και τον φάκελο bjarne-stroustrup.md στο _biography :
+-[bjarne-stroustrup.md](https://github.com/p19loli/site/blob/master/_biography/bjarne-stroustrup.md)
+  <br><br>
+  
+Netlify : [Βιογραφία](https://master--resonant-seahorse-61fcf8.netlify.app/biography/)
+  <br><br>
