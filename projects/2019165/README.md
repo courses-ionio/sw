@@ -191,5 +191,7 @@
 
 # Ομαδικότητα
 
+### Συνεισφορά στα discussions
+
 - [sw/discussions#1535](https://github.com/courses-ionio/sw/discussions/1535)
 - [sw/discussions#1579](https://github.com/courses-ionio/sw/discussions/1579)
