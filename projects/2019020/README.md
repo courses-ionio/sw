@@ -76,9 +76,33 @@
 [CryptoBlog](https://alkarvounis.github.io/cryptoblog/)
 
 ## ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό Περιεχόμενο B1
+Για το έβδομο παραδοτέο υλοποιήθηκε μια μελέτη περίπτωσης σχετικά με το iPhone.
+
+_case_study: [iphone.md](https://github.com/alkarvounis/site/blob/master/_case-study/iphone.md)
+
+_includes: [cs-iphone.md](https://github.com/alkarvounis/site/blob/master/_includes/cs-iphone.md)
+
+Netlify: [iPhone Case Study](https://tranquil-florentine-5ae204.netlify.app/case-study/iphone/)
+
+![casestudy iphone](https://user-images.githubusercontent.com/74872978/233851254-f045e6f9-eaf6-4550-80e2-9f741f82d279.png)
+
 
 ## ΠΑΡΑΔΟΤΕΟ 8 | Κατασκευή του Βιβλίου Β2 (Συνεργατικά)
+Για το όγδοο παραδοτέο χρησιμοποιήθηκε αυτό το [script](https://github.com/alkarvounis/kallipos/blob/master/makepollen.sh) προκειμένου να έχουμε την επιθυμιτή μορφή pollen στο βιβλίο του μαθήματος.
+
+[Github Pages host](https://alkarvounis.github.io/kallipos/)
+
+![pollen book](https://user-images.githubusercontent.com/74872978/233851456-ee8b2432-a74d-4225-b80a-9db415d781f0.png)
 
 ## ΠΑΡΑΔΟΤΕΟ 9 | Συμμετοχικό Περιεχόμενο B2
+Για το έννατο παραδοτέο προστέθηκε στο site η βιογραφία του Steve Jobs.
+
+_biography: [steve-jobs.md](https://github.com/alkarvounis/site/blob/master/_biography/steve-jobs.md)
+
+_includes: [bio-jobs.md](https://github.com/alkarvounis/site/blob/master/_includes/bio-jobs.md)
+
+Netlify: [Steve Jobs Biography](https://tranquil-florentine-5ae204.netlify.app/biography/steve-jobs/)
+
+![steve jobs biography](https://user-images.githubusercontent.com/74872978/233851622-e97bec5f-675a-4af1-9495-6e16066aafb9.png)
 
 ## ΠΑΡΑΔΟΤΕΟ 10 | Τελική Αναφορά
