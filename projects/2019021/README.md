@@ -85,3 +85,5 @@
 ### Πηγές
 * [link](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/)
 * [link](https://www.youtube.com/watch?v=yZjH2OtnXzs)
+
+# Εβδομάδα 7: Συμμετοχικό περιεχόμενο B1
