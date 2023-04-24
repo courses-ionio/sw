@@ -16,7 +16,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος Συζήτησης 6ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1496) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος Συζήτησης 7ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1514) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 8ου Παραδοτέου]() | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | συμμετοχικό περιεχόμενο B2 | [Σύνδεσμος Συζήτησης 9ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1589) | |
 | 10 | Τελική αναφορά* | | |
 
 ## **Εισαγωγή / 1ο Παραδοτέο**
@@ -101,7 +101,7 @@
 
 **Netlify Case Study: https://p2020132-pibook-2023.netlify.app//case-study/myfitnesspal/**
 
-## **8ο Παραδοτέο**
+## **9ο Παραδοτέο**
 Όσον αφορά το 8ο παραδοτέο, έγραψα μία βιογραφία για τον Palmer Luckey, ένα από τα μεγαλύτερα ονόματα στην ανάπτυξη τεχνολογίας Εικονικής Πραγματικότητας.
 
 **Biography: [Palmer Luckey](https://github.com/Vasilakious/site/blob/master/_biography/palmer-luckey.md) | [Bio-Palmer Luckey](https://github.com/Vasilakious/site/blob/master/_includes/bio-palmer-luckey.md)**
