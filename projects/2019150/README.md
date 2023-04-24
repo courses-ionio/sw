@@ -9,10 +9,10 @@
 | 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1206) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md , έκανα την εισαγωγή μου και την πρόσθεσα στα discussions και έγινα μέλος της ομάδας  |
 | 2 | <a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου"><span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1291) | |
 | 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
-| 4 | <a href="#Κατασκευή Βιβλίου Α2"><span class="toctext">Κατασκευή Βιβλίου Α2</span></a> | [Link στο Discussions](Link) | |
+| 4 | <a href="#Κατασκευή Βιβλίου Α2"><span class="toctext">Κατασκευή Βιβλίου Α2</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1590) | |
 | 5 | <a href="#(5) Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
-| 6 | <a href="#Γραμμή εντολών (no systemd, custom static blog generator)"><span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a> | [Link στο Discussions](Link) |  |
-| 7 | <a href="#συμμετοχικό περιεχόμενο B1"><span class="toctext">συμμετοχικό περιεχόμενο B1</span></a> | [Link στο Discussions](Link) | |
+| 6 | <a href="#Γραμμή εντολών (no systemd, custom static blog generator)"><span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1591) |  |
+| 7 | <a href="#συμμετοχικό περιεχόμενο B1"><span class="toctext">συμμετοχικό περιεχόμενο B1</span></a> | [Link στο Discussions]([Link](https://github.com/courses-ionio/sw/discussions/1592)) | |
 | 8 | <a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"><span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | [Link στο Discussions](Link) |  |
 | 9 | <a href="#συμμετοχικό περιεχόμενο B2"><span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | [Link στο Discussions](Link) | |
 | 10 | <a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> | [Link στο Discussions](Link) | |
