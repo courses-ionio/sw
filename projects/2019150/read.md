@@ -9,7 +9,7 @@
 | 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1206) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md , έκανα την εισαγωγή μου και την πρόσθεσα στα discussions και έγινα μέλος της ομάδας  |
 | 2 | <a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου"><span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου</span></a> | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1291) | |
 | 3 | <a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | [Link στο Discussions](Link) |  |
-| 4 | <a href="#Εγκατάσταση και άσκηση στο Alpine Linux"><span class="toctext">Εγκατάσταση και άσκηση στο Alpine Linux</span></a> | [Link στο Discussions](Link) | |
+| 4 | <a href="#Κατασκευή Βιβλίου Α2"><span class="toctext">Κατασκευή Βιβλίου Α2</span></a> | [Link στο Discussions](Link) | |
 | 5 | <a href="#(5) Συμμετοχικό περιεχόμενο A1 + A2"><span class="toctext">Συμμετοχικό περιεχόμενο A1 + A2</span></a> | [Link στο Discussions](Link) ||
 | 6 | <a href="#Γραμμή εντολών (no systemd, custom static blog generator)"><span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a> | [Link στο Discussions](Link) |  |
 | 7 | <a href="#συμμετοχικό περιεχόμενο B1"><span class="toctext">συμμετοχικό περιεχόμενο B1</span></a> | [Link στο Discussions](Link) | |
@@ -50,6 +50,14 @@
  - [Alpine Linux](https://www.alpinelinux.org)<br><br>
  - [VMware Workstation Player](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)<br><br>
  - [Asciinema](https://asciinema.org)<br><br>
+    
+## Κατασκευή Βιβλίου Α2
+Το τέταρτο παραδοτέο αφορούσε την κατασκευή του βιβλιού σε μορφή pdf και την προσθήκη μιας υποσημείωσης σε μορφή σχολίου. Το βιβλίο δημιουργείται χρησιμοποιώντας το [make-latex.sh](https://github.com/P2019SARAKATSANIS/kallipos/blob/master/make-latex.sh) σε συνδιασμό με το φίλτρο [contribution.lua](https://github.com/P2019SARAKATSANIS/kallipos/blob/master/contribution.lua) το οποίο είναι υπεύθυνο για την μορφοποίηση του σχολίου που λαμβάνεται σε markdown και συγκεκριμένα το [comment.md](https://github.com/P2019SARAKATSANIS/kallipos/blob/master/comment.md). 
+    
+![comment](https://user-images.githubusercontent.com/72516045/234007764-6d35a8fc-cc4d-4451-a9fd-e0b681ca67e0.png)
+
+[kallipos Repository](https://github.com/p2019SARAKATSANIS/kallipos)
+
 
 <h2><span id="(5) Συμμετοχικό περιεχόμενο A1 + A2">(5) Συμμετοχικό περιεχόμενο A1 + A2</span></h2>
     
@@ -69,6 +77,16 @@
     
  <img src="https://user-images.githubusercontent.com/72516045/229491757-94935194-afec-4f92-9ecf-f92532983b1c.png"/> <img src="https://user-images.githubusercontent.com/72516045/229492002-014f4bd4-ba25-47de-a819-3bcf70154cdf.png" width="800"/> 
 
+## Γραμμή εντολών (no systemd, custom static blog generator)
+
+Το 6ο παραδοτέο αφορούσε την δημιουργία ενός blog με την χρήση κάποιου static blog generator. Εγώ χρησιμοποιήσα το bashblog που αποτελεί ένα script σε bash το οποίο σου επιτρέπει να δημιουργήσεις το δικό σου blog τρέχωντας απλά το πρόγραμμα αφού βέβαια έχεις κάνει export τον editor που θα χρησιμοποιήσεις. Μπορείς να παραμετροποιήσεις το αρχείο bb.sh για να αλλάξεις τα στοιχεία του blog όπως το όνομα του blog, το email του owner του blog, settings για τα analytics κτλ Αφού διαλέξεις να κάνεις ένα post δημιουργούνται τα αρχεία που απαρτίζουν το blog όπως το index.html, main.css κτλ.
+    
+![myblog](https://user-images.githubusercontent.com/72516045/234010291-92bee899-7c84-4ce7-b8b4-052d0a8e8040.png)
+
+[myblog Repository](https://github.com/P2019SARAKATSANIS/myblog)
+
+[Github Pages](https://github.com/P2019SARAKATSANIS/myblog)
+
 <h2><span id="συμμετοχικό περιεχόμενο B1">(7) συμμετοχικό περιεχόμενο B1</span></h2>
     
 <p align="center">
@@ -76,3 +94,13 @@
 </p>
  
 ![Στιγμιότυπο οθόνης 2023-04-14 135534](https://user-images.githubusercontent.com/72516045/232026274-879d906f-758c-43cb-a24c-7776417f4d05.png)
+
+## Κατασκευή του βιβλίου Β2 (συνεργατικά)
+Για το όγδοο παραδοτέο χρησιμοποιήθηκε το [makepollen.sh](https://github.com/P2019SARAKATSANIS/kallipos/blob/master/makepollen.sh) kai to [figure-pollen.lua](https://github.com/P2019SARAKATSANIS/kallipos/blob/master/figure-pollen.lua) ώστε να δημιουργηθεί το βιβλίο του μαθήματος σε μία εναλλακτική μορφή στην περίπτωσή μας pollen.
+ 
+![pollen](https://user-images.githubusercontent.com/72516045/234011381-70e5e4f3-5190-43d3-b292-f5b9fca4ffbc.png)
+    
+[kallipos Repository](https://github.com/P2019SARAKATSANIS)
+[Github Pages]()
+
+ 
