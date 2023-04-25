@@ -78,3 +78,23 @@ ntfy -b telegram send "${WEATHER}"
 - [Netlify C](https://dancing-churros-ac3101.netlify.app/gallery/c-language/)
 - [Netlify slides](https://dancing-churros-ac3101.netlify.app//slides/structuredprogram/)
 - [Netlify timeline](https://dancing-churros-ac3101.netlify.app//timeline/structuredprog/)
+
+# Κατασκευή Blog - Εβδομάδα 6
+Κατασκεύασα χρησιμοποιώντας το [bashblog](https://github.com/cfenollosa/bashblog) το δικό μου blog, το οποίο γίνεται hosted μέσω του [Github Pages](https://paranaloma.github.io/treeblog/).
+
+![Screenshot 2023-04-25 at 02 48 03](https://user-images.githubusercontent.com/56626790/234139507-8e7d8fe7-960c-42aa-a60d-641e0bb0a229.png)
+
+[Repository](https://github.com/paranaloma/treeblog)
+
+# Συμμετοχικό περιεχόμενο B1
+Για το συμμετοχικό περιεχόμενο Β1 πραγματοποιήθηκε μελέτη περίπτωσης αναφορικά με τον δομημένο προγραμματισμό δηλαδή την φιλοσοφία πως για να λύσουμε κάποιο πρόβλημα θα πρέπει να χρησιμοποιούμε την λογική, αυστηρά και καθορισμένα βήματα, να διαχωρίζουμε το αρχικό πρόβλημα σε απλούστερα υποπροβλήματα (συναρτήσεις ή υπορουτίνες).
+
+![structured screenshot](https://user-images.githubusercontent.com/56626790/234141180-e9520832-368a-4328-a6b9-d19e8ef28417.png)
+
+[Netlify](https://dancing-churros-ac3101.netlify.app//case-study/scructured/)
+
+[structured.md](https://github.com/paranaloma/site/blob/master/_case-study/scructured.md)
+
+[cs-structured.md](https://github.com/paranaloma/site/blob/master/_includes/cs-structured.md)
+
+
