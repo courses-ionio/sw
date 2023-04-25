@@ -96,6 +96,13 @@ ntfy -b telegram send "${WEATHER}"
 - [cs-structured.md](https://github.com/paranaloma/site/blob/master/_includes/cs-structured.md)
 
 ## Κατασκευή βιβλίου Β2 - Εβδομάδα 8
+Για αυτό το παραδοτέο χρησιμοποίησα το makepollen.sh προκειμένου να υλοποιήσω το βιβλίο του μαθήματος σε μορφή pollen.
+
+[kallipos repo](https://github.com/paranaloma/kallipos)
+
+[makepollen.sh](https://github.com/paranaloma/kallipos/blob/master/makepollen.sh)
+
+![screenshot 3](https://user-images.githubusercontent.com/56626790/234149565-964d661e-23b2-4b19-8c09-37fe4cecaad9.png)
 
 
 ## Συμμετοχικό περιεχόμενο Β2 - Εβδομάδα 9
