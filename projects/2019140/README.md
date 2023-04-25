@@ -106,6 +106,16 @@ A2:
 - Pull Requests: [site](https://github.com/PaneksypnesDiepafes/site/pull/10), [images](https://github.com/PaneksypnesDiepafes/images/pull/7)
 [![case-study](https://cdn.discordapp.com/attachments/794920060677521469/1089852042538909766/cs-git.jpg)](https://paneksypnesdiepafes-pibook.netlify.app/case-study/git/)
 
+## [Παραδοτέο 8 - Κατασκευή του βιβλίου Β2](#πίνακας-παραδοτέων)
+Στο παραδοτέο αυτό χρειάστηκε να μεταφέρουμε την κατασκευή του βιβλίου σε ένα διαφορετικό εργαλείο παραγωγής βιβλίου. Το εργαλείο που χρησιμοποίησα είναι το προτεινόμενο Pollen το οποίο παράγει το βιβλίο σε μορφή ιστοσελίδας. Παρακάτω επισυνάπτω το νέο script με το οποίο γίνεται η παραγωγή του βιβλίου κάνοντας χρήση του Pollen, την html έκδοση του βιβλίου και εικόνες από το τελικό αποτέλεσμα.
+- kallipos/[make-pollen.sh](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/make-pollen.sh)
+- kallipos/book/[index.html](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/book/index.html)
+
+![](https://cdn.discordapp.com/attachments/794920060677521469/1100336154315870268/pollen_book.PNG)
+![](https://cdn.discordapp.com/attachments/794920060677521469/1100336154655596634/pollen_book2.PNG)
+
+
+
 ## [Παραδοτέο 9 - Συμμετοχικό περιεχόμενο B2](#πίνακας-παραδοτέων)
 Στο παραδοτέο αυτό συνεχίζεται η προσθήκη περιεχομένου στην ιστοσελίδα του μαθήματος. Αυτήν τη φορά χρειάστηκε να προσθέσουμε μια βιογραφία σχετική με τις προηγούμενες προσθήκες μας. Η βιογραφία που πρόσθεσα είναι αυτή του Linus Torvalds, δημιουργός των Linux και Git. Παρακάτω επισυνάπτω όλες τις προσθήκες αρχείων, τα Pull Request μου στον οργανισμό και το link της βιογραφίας στην ιστοσελίδα.
  
