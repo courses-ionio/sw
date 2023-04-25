@@ -91,11 +91,9 @@ ntfy -b telegram send "${WEATHER}"
 
 ![screenshot](https://user-images.githubusercontent.com/56626790/234142071-249134a9-a912-444b-9e53-627d26caa27b.png)
 
-[Netlify](https://dancing-churros-ac3101.netlify.app//case-study/scructured/)
-
-[structured.md](https://github.com/paranaloma/site/blob/master/_case-study/scructured.md)
-
-[cs-structured.md](https://github.com/paranaloma/site/blob/master/_includes/cs-structured.md)
+- [Netlify](https://dancing-churros-ac3101.netlify.app//case-study/scructured/)
+- [structured.md](https://github.com/paranaloma/site/blob/master/_case-study/scructured.md)
+- [cs-structured.md](https://github.com/paranaloma/site/blob/master/_includes/cs-structured.md)
 
 
 
