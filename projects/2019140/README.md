@@ -34,7 +34,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A1 + A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-α1-α2) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1425)| |
 | 6 | [Γραμμή εντολών (custom static blog generator)](#παραδοτέο-6---custom-static-blog-generator) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1547) | |
 | 7 | [συμμετοχικό περιεχόμενο B1](#παραδοτέο-7---συμμετοχικό-περιεχόμενο-b1) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1498) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | [Κατασκευή του βιβλίου Β2 (συνεργατικά)](#παραδοτέο-8---κατασκευή-του-βιβλίου-β2) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1601) | |
 | 9 | [συμμετοχικό περιεχόμενο B2](#παραδοτέο-9---συμμετοχικό-περιεχόμενο-b2) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1499) | |
 | 10 | Τελική αναφορά* | | |
 
