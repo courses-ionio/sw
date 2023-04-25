@@ -17,10 +17,10 @@ Github link: https://github.com/paranaloma
 | 3 | Γραμμή εντολών (no systemd) |https://github.com/courses-ionio/sw/discussions/1318 |  |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1388 | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |https://github.com/courses-ionio/sw/discussions/1396 | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1596 | |
+| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1597 | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1598 | |
+| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/1599 | |
 | 10 | Τελική αναφορά* | | |
 
 # Εισαγωγή - Εβδομάδα 1
@@ -108,7 +108,7 @@ ntfy -b telegram send "${WEATHER}"
 ## Συμμετοχικό περιεχόμενο Β2 - Εβδομάδα 9
 Για το συμμετοχικό περιεχόμενο Β2 αναρτήθηκε στο site η βιογραφία του Edsger Dijkstra ένας άνθρωπος γνωστός για τις σημαντικές συνεισφορές του στη θεωρία των αλγορίθμων, τον σχεδιασμό και την ανάλυση αλγορίθμων, και την προώθηση των αρχών του δομημένου προγραμματισμού.
 
-!screenshot 2](https://user-images.githubusercontent.com/56626790/234144466-7b355432-3d75-4fe6-a20d-5c885afd1aba.png)
+![screenshot 2](https://user-images.githubusercontent.com/56626790/234144466-7b355432-3d75-4fe6-a20d-5c885afd1aba.png)
 
 ## Τελική αναφορά 
 Στο μάθημα τεχνολογίας λογισμικού έμαθα πως Edsger Dijkstra ήταν ένας από τους πιο επιδραστικούς υπολογιστικούς επιστήμονες όλων των εποχών. Ο Dijkstra ήταν ο πρωτοπόρος στον δομημένο προγραμματισμό και ανέπτυξε αλγόριθμους που χρησιμοποιούνται ακόμα και σήμερα. Ακόμη έμαθα πως το systemd είναι ένα σύστημα διαχείρισης εκκίνησης και διαχείρισης διαδικασιών που χρησιμοποιείται στις περισσότερες σύγχρονες διανομές Linux. Τέλος έμαθα πως οργανώνεται και συντηρείται το λογισμικό παρακολουθώντας την δομή, τα προβλήματα που αντιμετωπίζουν (issues) και τον τρόπο αντιμετώπισης αυτών μέ
