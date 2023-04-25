@@ -86,15 +86,16 @@ ntfy -b telegram send "${WEATHER}"
 
 [Repository](https://github.com/paranaloma/treeblog)
 
-# Συμμετοχικό περιεχόμενο B1
+# Συμμετοχικό περιεχόμενο B1 - Εβδομάδα 7
 Για το συμμετοχικό περιεχόμενο Β1 πραγματοποιήθηκε μελέτη περίπτωσης αναφορικά με τον δομημένο προγραμματισμό δηλαδή την φιλοσοφία πως για να λύσουμε κάποιο πρόβλημα θα πρέπει να χρησιμοποιούμε την λογική, αυστηρά και καθορισμένα βήματα, να διαχωρίζουμε το αρχικό πρόβλημα σε απλούστερα υποπροβλήματα (συναρτήσεις ή υπορουτίνες).
 
-![structured screenshot](https://user-images.githubusercontent.com/56626790/234141180-e9520832-368a-4328-a6b9-d19e8ef28417.png)
+![screenshot](https://user-images.githubusercontent.com/56626790/234142071-249134a9-a912-444b-9e53-627d26caa27b.png)
 
 [Netlify](https://dancing-churros-ac3101.netlify.app//case-study/scructured/)
 
 [structured.md](https://github.com/paranaloma/site/blob/master/_case-study/scructured.md)
 
 [cs-structured.md](https://github.com/paranaloma/site/blob/master/_includes/cs-structured.md)
+
 
 
