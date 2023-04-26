@@ -23,8 +23,12 @@
 | 2 |Ted Nelson -- Computers for Cynics (full version) | ✔️ | ✔️ | 
 | 3 |Alan Kay - Could Computing Be Simpler Than It Seems To Be? | ✔️ | ✔️ | 
 | 4 |Bret Victor - The Future of Programming | ✔️ | ✔️ |
-| 5 |Alan Kay - Programming Languages & Programming (2013) |  | ❌ |
-| 6 |Alan Kay Turing Lecture with dynamic content |  |  |
+| 5 |Alan Kay - Programming Languages & Programming (2013) | ✔️ | ❌ |
+| 6 |Alan Kay Turing Lecture with dynamic content | ✔️ | ❌ |
+| 7 |Alan Kay - Programming and Scaling | ✔️ | ❌ |
+| 8 |Extracting Energy from the Turing Tarpit| ✔️ | ❌ |
+| 9 |Back to the Future of Software Development 4/23/2003 (VPRI 785)| ❌ | ❌ |
+
 
 # Εβδομάδα 1: Εισαγωγή
 Στο μαθημα "Τεχνολογια Λογισμικου" σκοπευω να μελετησω και να συμμετασχω στην αναπτυξη και την σχεδιαση λογισμικου. Περα απο αυτο υπαρχουν τα εβδομαδιαια κουιζ μεσα απο τα οποια πιστευω οτι θα αποκτησω πολλες χρησιμες γνωσεις. Ελπιζω μεχρι το τελος του μαθηματος να εχω πετυχει τους παρακατω στοχους:
