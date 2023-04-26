@@ -125,3 +125,16 @@ A2:
 - site/_includes/[bio-torvalds.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/bio-torvalds.md)
 - Pull Requests: [site](https://github.com/PaneksypnesDiepafes/site/pull/10), [images](https://github.com/PaneksypnesDiepafes/images/pull/7)
 [![biography](https://cdn.discordapp.com/attachments/794920060677521469/1089852056690503771/torvalds-bio.jpg)](https://paneksypnesdiepafes-pibook.netlify.app/biography/linus-torvalds/)
+
+
+## Συνεργατικότητα/συνεισφορές στις συζητήσεις
+### Εκτός οργανισμού
+- https://github.com/courses-ionio/sw/discussions/1237#discussioncomment-5068909
+- https://github.com/courses-ionio/sw/discussions/1408#discussioncomment-5354017
+- https://github.com/courses-ionio/sw/discussions/1476#discussioncomment-5418154
+- https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-5122072
+### Εντός οργανισμού
+- https://github.com/PaneksypnesDiepafes/Main/discussions/2#discussioncomment-5244080
+- https://github.com/PaneksypnesDiepafes/Main/discussions/6#discussioncomment-5302540
+- https://github.com/PaneksypnesDiepafes/Main/discussions/7#discussioncomment-5355037
+- https://github.com/PaneksypnesDiepafes/Main/discussions/9#discussioncomment-5428045
