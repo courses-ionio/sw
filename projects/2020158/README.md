@@ -14,7 +14,7 @@
 | 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | |
 | 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -70,7 +70,6 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 ![Screenshot_1](https://user-images.githubusercontent.com/92392853/233607722-cafa376d-d1f0-4b99-b28f-3fd9d90a1bea.png)
 
 
-
 # Συμμετοχικό Περιεχόμενο A1 και A2
 
 Σε αυτό το παραδοτέο διάλεξα ως κύρια θέματα τα προγράμματα Blender και Unreal Engine 5, αφού με ενδιαφέρει ο τομέας της διασκέδασης και συγκεκριμένα των video games.
@@ -84,3 +83,12 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 [Blender Netlify Link](https://p2020158.netlify.app/gallery/blender) | [Unreal 5 Netlify Link](https://p2020158.netlify.app/gallery/unreal-5)
 
 
+# Συμμετοχικό Περιεχόμενο B1
+
+Για το συμμετοχικό περιεχόμενο Β1 case study, διάλεξα να κάνω έρευνα πάνω στο Steam Remote Play. Ακολουθούν τα links.
+
+[Case Study Link](https://github.com/mariakourti/site/blob/master/_case-study/steam-remote-play.md)
+
+[Includes Link](https://github.com/mariakourti/site/blob/master/_includes/cs-steam-remote-play.md)
+
+[Netlify Link](https://p2020158.netlify.app/case-study/steam-remote-play/)
