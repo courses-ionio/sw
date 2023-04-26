@@ -16,7 +16,7 @@
 | [5](#συμμετοχικό-περιεχόμενο-α1--α2---παραδοτέο-5) | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 5](https://github.com/courses-ionio/sw/discussions/1451) | Συγγραφή για τους εξομοιωτές `DOSBox` και `SheepShaver` για MS-DOS και MacOS 9 αντίστοιχα & δημιουργία Netlify σε ατομικό και ομαδικό επίπεδο |
 | [6](#άσκηση-γραμμής-εντολών-no-systemd-με-bashblog-custom-static-blog-generator---παραδοτέο-6) | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | Δημιουργία [ιστοσελίδας blog](Xar-Me-Ison.github.io) με την βοηθεία του `bashblog` στα **Kiss Linux** που είχα εγκαταστήσει προηγουμένως |
 | [7](#συμμετοχικό-περιεχόμενο-b1---παραδοτέο-7) | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 7](https://github.com/courses-ionio/sw/discussions/1519) | Συγγραφή νέας μελέτη περίπτωσης περί εξομοιώτων που χρησιμοποιούνται για την διατήρηση παλαιών λογισμικών και λειτουργικών συστημάτων |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 8](https://github.com/courses-ionio/sw/discussions/1563) | Κατασκευή βιβλίου σε διαφορετική μορφή γραφής `HTML` με τη χρήση του `pollen` και ενός `.sh` script |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
 
@@ -162,3 +162,12 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | [Legacy emulation DOSBox original](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-dosbox.jpg) - [Legacy emulation DOSBox thumb](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-dosbox-thumb.jpg) & [Legacy emulation Internet Archive original](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-internet-archive.jpg) - [Legacy emulation Internet Archive thumb](https://github.com/Xar-Me-Ison/images/blob/master/legacy-emulation-internet-archive-thumb.jpg) | [legacy-emulation.md](https://github.com/Xar-Me-Ison/site/blob/master/_case-study/legacy-emulation.md) | [cs-legacy-emulation.md](https://github.com/Xar-Me-Ison/site/blob/master/_includes/cs-legacy-emulation.md) | [Μελέτη περίπτωσης](https://p2019214-pibook.netlify.app//case-study/legacy-emulation/) |
 
 #### Σύνδεσμοι ατομικού και ομαδικού Netlify: [p2019214](https://p2019214-pibook.netlify.app/) | [LetMeDoItForYou](https://letmedoitforyou-pibook-2023.netlify.app/)
+
+# Κατασκευή Βιβλίου Β2 - Παραδοτέο 8
+Στην κατασκευή βιβλίου Β2, το οποίο απαιτούσε την κατασκευή του βιβλίου σε διαφορετική μορφή γραφής δημιούργησα ένα script ονόματι `make-pollen.sh` για την μετατροπή του βιβλίου σε HTML με την χρήση του πακέτου `pollen`.
+
+Πέρα από την εγκατάσταση του πακέτου `pollen`, η εκτέλεση του παραδοτέου αυτού ήταν σχετικά εύκολη με το script `.sh` το οποίο έφτιαξα.
+
+![image](https://user-images.githubusercontent.com/79524490/230763139-e058d29e-6fa8-4e23-b5bd-0f9874373158.png)
+
+#### Συνδέσμοι σε επίπεδο ατομικό: [make-pollen.sh](https://github.com/Xar-Me-Ison/kallipos/blob/master/make-pollen.sh) | [index.html](https://github.com/Xar-Me-Ison/kallipos/blob/master/html/index.html)
