@@ -104,6 +104,8 @@
 ## **9ο Παραδοτέο**
 Όσον αφορά το 8ο παραδοτέο, έγραψα μία βιογραφία για τον Palmer Luckey, ένα από τα μεγαλύτερα ονόματα στην ανάπτυξη τεχνολογίας Εικονικής Πραγματικότητας.
 
+**Images: [Normal](https://github.com/Vasilakious/images/blob/master/luckey-profile.jpg) | [Thumb](https://github.com/Vasilakious/images/blob/master/luckey-profile-thumb.jpg)**
+
 **Biography: [Palmer Luckey](https://github.com/Vasilakious/site/blob/master/_biography/palmer-luckey.md) | [Bio-Palmer Luckey](https://github.com/Vasilakious/site/blob/master/_includes/bio-palmer-luckey.md)**
 
 **Netlify Biography: [Netlify](https://p2020132-pibook-2023.netlify.app//biography/palmer-luckey/)**
