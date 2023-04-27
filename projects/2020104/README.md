@@ -184,3 +184,16 @@
 # Κατασκευή του βιβλίου Β2 (συνεργατικά)
 
 ![χωριανοπουλος](https://user-images.githubusercontent.com/115041945/233776782-c8ae08cd-cbba-4fec-963d-a07d75cc3adc.png)
+
+# συμμετοχικό περιεχόμενο B2
+
+Γι' αυτό το παραδοτέο έφτιαξα την βιογραφία του Shigeru Miyamoto όπου έιναι ο δημιουργός του Super Mario όπου ανάλυσα στα προηγούμενα παραδοτέα. Έτσι πρόσθεσα στο [biography](https://github.com/p20poli/site/tree/master/_biography) την βιογραφία του [Miyamoto](https://github.com/p20poli/site/blob/master/_biography/shigeru-miyamoto.md) όπως και μία πιο περιγραφήκη [βιογραφία](https://github.com/p20poli/site/blob/master/_includes/bio-miyamoto.md) όπου πρόσθεσα στο [include](https://github.com/p20poli/site/tree/master/_includes). Τέλος πρόσθεσα τις φωτογραφίες του στα [images](https://github.com/p20poli/images/tree/8c573f286bccdd573335bd9008ad02a6db05215e).
+
+### Biography
+- [Shigeru Miyamoto](https://github.com/p20poli/site/blob/master/_biography/shigeru-miyamoto.md)
+
+### Includes
+- [Shigeru Miyamoto](https://github.com/p20poli/site/blob/master/_includes/bio-miyamoto.md)
+
+### Netlify
+- [Shigeru Miyamoto](https://p2020104-pibook.netlify.app//biography/shigeru-miyamoto/)
