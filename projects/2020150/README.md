@@ -14,9 +14,9 @@
 | [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
 | [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1435) | |
 | [6](#εβδομάδα-6η) | Γραμμή εντολών (no systemd, custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1492) | |
-| [7](#εβδομαδα-7η) | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| [7](#εβδομαδα-7η) | συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1536) | |
+| [8](#εβδομαδα-8η) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Παραδοτέο 8]() | |
+| [9](#εβδομαδα-9η) | συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 8]() | |
 | 10 | Τελική αναφορά* | | |
 
 ## Εισαγωγή
@@ -64,6 +64,16 @@
 ## Εβδομάδα 5η
 Την 5η εβδομάδα επέλεξα να γράψω για την γλώσσα Pure Data καθώς σε αυτήν βασίζεται το reactable, για το οποίο έγραψα στο προηγούμενο παραδοτέο και για την τεχνολογία επαυξημένης πραγματικότητας, καθώς πιστεύω ότι έχει πολλές εφαρμογές στην καθημερινή ζωή και έχει την δυνατότητα στο μέλλον να εξυπηρετήσει ένα μεγάλο φάσμα αναγκών. Παρακάτω φενεται η προσθήκη μου στα slides, timeline και το gallery του site.
 
+## Github Links
+### Md
+[AR](https://github.com/thanosks/_gallery/blob/master/augmented-reality.md)
+[Pure Data](https://github.com/thanosks/_gallery/blob/master/pure-data.md)
+
+### Images
+[AR](https://github.com/thanosks/images/blob/master/augmented-reality.jpg) | [AR Thumb](https://github.com/thanosks/images/blob/master/augmented-reality-thumb.jpg)
+[Pure Data](https://github.com/thanosks/images/blob/master/pure-data.jpg) | [Pure Data Thumb](https://github.com/thanosks/images/blob/master/pure-data-thumb.jpg)
+
+## Netlify Links
 ### Slides
 [Learning](https://p2020150-pibook.netlify.app/slides/learning/) | [Multimedia](https://p2020150-pibook.netlify.app/slides/multimedia/)
 
@@ -81,4 +91,20 @@
 ## Εβδομαδα 7η
 Για το Β1 επέλεξα να γράψω για τον τύπο αρχείου midi, την πιό γνωστή γλώσσα που χρησιμοποιήται στον κόσμο της μουσικής.
 
-[case_study](https://p2020150-pibook.netlify.app/case-study/midi/)
+Md: [Include](https://github.com/thanosks/site/blob/master/_includes/cs-midi.md) | [Case study](https://github.com/thanosks/site/blob/master/_case-study/midi.md)
+
+Image: [Midi](https://github.com/thanosks/images/blob/master/midi-thumb.jpg)
+
+Netlify: [Midi](https://p2020150-pibook.netlify.app/case-study/midi/)
+
+## Εβδομαδα 8η
+
+## Εβδομαδα 9η
+Για το Β1 επέλεξα να γράψω για τον Miller Puckette, ο οποίος είναι δημιουργός του προγράμματος Pure Data που ανέφερα στην εβδομάδα [5](#εβδομάδα-5η) και της γλώσσας Max η οποία χρησιμοποιείται για διαδραστική μουσική και πολυμέσα.
+
+Md: [Include](https://github.com/thanosks/site/blob/master/_includes/bio-puckette.md) | [Biography](https://github.com/thanosks/site/blob/master/_biography/miller-puckette.md)
+
+Images: [Miller Puckette](https://github.com/thanosks/images/blob/master/miller-puckette.jpg) | [Miller Puckette Thumb](https://github.com/thanosks/images/blob/master/miller-puckette-thumb.jpg)
+[Source](https://commons.m.wikimedia.org/wiki/File:Miller_Puckette_auf_der_Linux_Audio_Conference_2014_in_Karlsruhe.jpg#mw-jump-to-license)
+
+Netlify: [Miller Puckette](https://p2020150-pibook.netlify.app/biography/miller-puckette/)
