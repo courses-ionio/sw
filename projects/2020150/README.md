@@ -66,7 +66,7 @@
 
 ## Github Links
 ### Md
-[AR](https://github.com/thanosks/_gallery/blob/master/augmented-reality.md)
+[AR](https://github.com/thanosks/_gallery/blob/master/augmented-reality.md) |
 [Pure Data](https://github.com/thanosks/_gallery/blob/master/pure-data.md)
 
 ### Images
@@ -91,7 +91,7 @@
 ## Εβδομαδα 7η
 Για το Β1 επέλεξα να γράψω για τον τύπο αρχείου midi, την πιό γνωστή γλώσσα που χρησιμοποιήται στον κόσμο της μουσικής.
 
-Md: [Include](https://github.com/thanosks/site/blob/master/_includes/cs-midi.md) | [Case study](https://github.com/thanosks/site/blob/master/_case-study/midi.md)
+Md: [Includes](https://github.com/thanosks/site/blob/master/_includes/cs-midi.md) | [Case study](https://github.com/thanosks/site/blob/master/_case-study/midi.md)
 
 Image: [Midi](https://github.com/thanosks/images/blob/master/midi-thumb.jpg)
 
@@ -102,7 +102,7 @@ Netlify: [Midi](https://p2020150-pibook.netlify.app/case-study/midi/)
 ## Εβδομαδα 9η
 Για το Β1 επέλεξα να γράψω για τον Miller Puckette, ο οποίος είναι δημιουργός του προγράμματος Pure Data που ανέφερα στην εβδομάδα [5](#εβδομάδα-5η) και της γλώσσας Max η οποία χρησιμοποιείται για διαδραστική μουσική και πολυμέσα.
 
-Md: [Include](https://github.com/thanosks/site/blob/master/_includes/bio-puckette.md) | [Biography](https://github.com/thanosks/site/blob/master/_biography/miller-puckette.md)
+Md: [Includes](https://github.com/thanosks/site/blob/master/_includes/bio-puckette.md) | [Biography](https://github.com/thanosks/site/blob/master/_biography/miller-puckette.md)
 
 Images: [Miller Puckette](https://github.com/thanosks/images/blob/master/miller-puckette.jpg) | [Miller Puckette Thumb](https://github.com/thanosks/images/blob/master/miller-puckette-thumb.jpg)
 [Source](https://commons.m.wikimedia.org/wiki/File:Miller_Puckette_auf_der_Linux_Audio_Conference_2014_in_Karlsruhe.jpg#mw-jump-to-license)
