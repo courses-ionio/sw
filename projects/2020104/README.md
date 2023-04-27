@@ -195,5 +195,9 @@
 ### Includes
 - [Shigeru Miyamoto](https://github.com/p20poli/site/blob/master/_includes/bio-miyamoto.md)
 
+### Images
+- [Shigeru Miyamoto picture](https://github.com/p20poli/images/blob/master/miyamoto-profile.jpg)
+- [Shigeru Miyamoto thumb](https://github.com/p20poli/images/blob/master/miyamoto-profile-thumb.jpg)
+
 ### Netlify
 - [Shigeru Miyamoto](https://p2020104-pibook.netlify.app//biography/shigeru-miyamoto/)
