@@ -16,7 +16,7 @@
 | 6 | [Γραμμή εντολών (no systemd, custom static blog generator)](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-no-systemd-custom-static-blog-generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1500) | Σε αυτό το παραδοτέο άρχησα να ξαναπηγαίνω πάνω κάτω στην διορεία της εργασιάς, πιστεύω ότι ήταν αρκετά απλό με την ακολούθηση των οδηγειών μιας και το δύσκολο ήταν η εγκατάσταση των Kiss |
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) |[Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1522) | Όπως και το προηγούμενο παραδοτέο, σε αυτό το παραδοτεό το έκανα πάνω στους στόχους μου. Όπου πιστευώ ότι τα ταίριαξα αρκετά πάνω σε αυτά που έλεγε το βιβλίο.|
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | [συμμετοχικό περιεχόμενο B2](https://github.com/p20poli/sw/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) |[Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1605) | |
 | 10 | Τελική αναφορά* | | |
 
 
