@@ -79,10 +79,46 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή εντολών (no systemd, custom static blog generator)
 
+Για το 6ο παραδοτέο έπρεπε να υλοποιήσουμε ένα blog χρησιμοποιώντας κάποιον static blog generator, έγω χρησιμοποιήσα το bashblog και δημιούργησα ένα blog σχετικά με τα video games.
+
+**Netlify**: [Videogame Blog](https://neon-empanada-4c51c8.netlify.app/)
+
+**Blog repo** : [videogameblog](https://github.com/AndreasKarageorgiou/videogameblog)
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 7 | συμμετοχικό περιεχόμενο B1
+
+Για το 7ο παραδοτέο μας ζητήθηκε να κάνουμε τις απαραίτητες προσθήκες στο site ώστε να προσθέσουμε μια μελέτη περίπτωσης. 
+Μελέτη περίπτωσης σχετικά με την Assembly και την βιομηχανία των video games.
+
+**_case-study** : [assembly.md](https://github.com/AndreasKarageorgiou/site/blob/master/_case-study/assembly.md)
+
+**_includes** : [cs-assembly.md](https://github.com/AndreasKarageorgiou/site/blob/master/_includes/cs-assembly.md)
+
+**images** : [assembly.jpg](https://github.com/AndreasKarageorgiou/images/blob/fd9824af525575199daa98a3d0fee2c1b5ddb6b1/assembly.jpg)
+
+**Netlify** : [Assembly](https://exquisite-bubblegum-7e6fa6.netlify.app/case-study/assembly/)
+
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά)
 
+Χρησιμοποιήθηκε το [makepollen.sh](https://github.com/AndreasKarageorgiou/kallipos/blob/master/makepollen.sh) ώστε το βιβλίο του μαθήματος να γίνει σε μορφή pollen.
+
+[kallipos](https://github.com/AndreasKarageorgiou/kallipos)
+
+[Netlify](https://fancy-vacherin-8d0582.netlify.app/)
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 9 | συμμετοχικό περιεχόμενο B2
+
+Για το 9ο παραδοτέο μας ζητήθηκε να προσθέσουμε στο site μια βιογραφία ενός ανθρώπου που πιστεύουμε πως έχει συμβάλει στην ανάπτυξη των λογισμικών - κόσμο της τεχνολογίας. 
+
+Miyamoto Biography
+
+**_biography** : [shigeru-miyamoto.md](https://github.com/AndreasKarageorgiou/site/blob/master/_biography/shigeru-miyamoto.md)
+
+**_includes** : [bio-miyamoto.md](https://github.com/AndreasKarageorgiou/site/blob/master/_includes/bio-miyamoto.md)
+
+**images** : [miyamoto-profile.png](https://github.com/AndreasKarageorgiou/images/blob/fd9824af525575199daa98a3d0fee2c1b5ddb6b1/miyamoto-profile.png), [miyamoto.png](https://github.com/AndreasKarageorgiou/images/blob/fd9824af525575199daa98a3d0fee2c1b5ddb6b1/miyamoto.png)
+
+[Netlify](https://exquisite-bubblegum-7e6fa6.netlify.app/biography/shigeru-miyamoto/)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 10 | 	Τελική αναφορά
