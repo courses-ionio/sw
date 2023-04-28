@@ -91,6 +91,14 @@ GitHub Link: https://github.com/theoharissiwzos
 
 [Eliza_bot.md](https://github.com/theoharissiwzos/kallipos/blob/master/myfile/Eliza_bot.md)
 
+  
+<h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Pull Request στον Οργανισμό](https://github.com/is-init-right/kallipos-contrib/pull/1?fbclid=IwAR0BvAQcIJRO6XXNaoLXrtoZ3GuT_pLd2GvkFH_ivNq0sRcDIoQrCUBqDOc)
+
 ![Eliza_comment](https://user-images.githubusercontent.com/99976073/223107516-b32d6458-e1d6-4d2d-a621-f16e246e617a.png)
 
 
@@ -108,6 +116,13 @@ GitHub Link: https://github.com/theoharissiwzos
 
 
 - Επίσης έγιναν και αλλαγές στο [authors.yml](https://github.com/theoharissiwzos/site/blob/master/_data/authors.yml)   
+
+<h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Pull Request στον Οργανισμό](https://github.com/is-init-right/site/pull/1?fbclid=IwAR07A_XJW21DFTJWNT2CdHeKT63gK3I_tRYyokzic4zQJQ8ckRLP1lu9RtI)
 
 
 # Παραδοτέο 6 - Γραμμή εντολών (no systemd, custom static blog generator)
@@ -168,7 +183,15 @@ GitHub Link: https://github.com/theoharissiwzos
 - [_biography](https://github.com/theoharissiwzos/site/blob/master/_biography/Joseph-Weizenbaum.md)
 - [_includes](https://github.com/theoharissiwzos/site/blob/master/_includes/bio-Weizenbaum.md)
 
+
  ![anti](https://user-images.githubusercontent.com/99976073/230207895-08a65de4-7cf4-485b-bb5f-cd5f96c799df.png)
+ 
+ <h2 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Pull Request στον Οργανισμό](https://github.com/is-init-right/images/pull/1?fbclid=IwAR3MKUKUVgimP2Pm0IitpZ_Gp7RR0SCmrZO32khYJWwh1rLq3UBGck_6PwE)
 
 
 # Παραδοτέο 10 - Τελική Αναφορά
@@ -181,4 +204,4 @@ GitHub Link: https://github.com/theoharissiwzos
  - [Hugo_static_blog](https://theoharissiwzos.github.io/)
  - [BashBlog_static_blog](https://theoharissiwzos.github.io/staticblog.github.io/)
  # 10/10 video quiz
- # 10/10 παραδοτέα εμπρόθεσμα + ολοκλήρωση πριν το πάσχα για τον Bonus βαθμό απλος δεν συμπληρώθηκε ομαδα συνάντησης για να γίνει και τελική παρουσίαση πριν το πάσχα
+ # 10/10 παραδοτέα εμπρόθεσμα + Επιτυχής ολοκλήρωση πριν το πάσχα για τον Bonus βαθμό!
