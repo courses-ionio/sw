@@ -15,9 +15,10 @@
 | [5](#συμμετοχικό-περιεχόμενο-α1-και-α2---5ο-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1437) | Πιστέυω πως έχω καλύψει το ζητούμενο επιλέγοντας δύο ενδιαφέρουσες περιπτώσεις. |
 | [6](#γραμμή-εντολών-custom-static-blog-generator---6o-παραδοτέο) | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1491) | Κατάφερα ένα ικανοποιητικό αποτέλεσμα μέσω χρήσης του bashblog, με αρκετά ενδιαφέρον περιεχόμενο.|
 | [7](#συμμετοχικό-περιεχόμενο-β1---7ο-παραδοτέο) | συμμετοχικό περιεχόμενο B1 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1534) | Για το παραδοτέο επέλεξα το Audacity, που κατά τη γνώμη μου είναι μια αρκετά ενδιαφέρουσα περίπτωση που ανέλυσα τα βασικότερα σημεία της. |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| [8](#κατασκευή-του-βιβλίου-β2---8ο-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussions Link](https://github.com/courses-ionio/sw/discussions/1608) | Σε αυτό το παραδοτέο με χρήση του pandoc, έγινε η μετατροπή του βιβλίου σε μορφή HTML, με κάποια μικροπροβλήματα. |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
+| [-](#ομαδικότητα) | Ομαδικότητα | | Discussions που ξεκίνησα ή συμμετείχα. |
 
 ## Εισαγωγή και δημιουργία ομάδας - 1ο παραδοτέο
 Καλώς η κακώς, το λογισμικό πλέον αποτελεί ένα αναπόσπαστο κομμάτι της καθημερινότητας μας. Απο τα smartphone, τους υπολογιστές, τα ιατρικά μηχανήματα, την μουσική, τις ταινίες μέχρι τα έξυπνα
@@ -78,14 +79,18 @@
 ## Κατασκευή του βιβλίου Α2 - 4ο παραδοτέο
 Σε αυτό το παραδοτέο, το ζητούμενο ήταν η συνεισφορά στο βιβλίο με μια σημείωση μας. Συγκεκριμένα, πρόσθεσα μια παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με παράδειγμα και χρήσεις γλωσσών οπτικού προγραμματισμού και την αντίθετη πλευρά, παράδειγμα και χρήσεις συγγραφής πηγαίου κώδικα. Η προσθήκη στο κεφάλαιο έγινε με την αρίθμηση του [text](https://github.com/mibook/text/blob/main/ch04.txt) του repository του βιβλίου του μαθήματος καθώς στο παραγόμενο pdf, το 4ο κεφάλαιο εμφανίζεται σαν 6ο. Παρακάτω, υπάρχει screenshot της προσθήκης μου, links πρός τις προσθήκες μου στον οργανισμό, link προς το ομαδικό βιβλίο αλλά και τα αντίστοιχα link προς τα προσωπικά μου αποθετήρια.
 
-#### Ομαδικά Link: [Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/master/additionfilter.lua) / [make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/master/make-latex.sh) / [Screenshot σημείωσης](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png) / [Αρχείο .md σημείωσης](https://github.com/TheTimeParadox/kallipos/blob/master/additionc4/visualide.md)/[Ομαδικό βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/master/book.pdf)
+**Update: Μετά την ενδιάμεση παρουσίαση ενημέρωσα την σημείωση μου ώστε να καλύψω κάποια πράγματα που παρατηρήθηκαν. [Η παλιά σημείωση υπάρχει εδώ](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png). Επίσης ενημέρωσα και το φίλτρο μου ώστε να είναι πιο ευδιάκριτα τα στοιχεία μου και επαναλήφθηκε η διαδικασία του παραδοτέου για να γίνουν διορθώσεις.**
 
-#### Ατομικά Link:  [Φίλτρο Lua](https://github.com/p20sami/kallipos/blob/master/additionfilter.lua) / [make-latex.sh](https://github.com/p20sami/kallipos/blob/master/make-latex.sh) / [Αρχείο .md σημείωσης](https://github.com/p20sami/kallipos/blob/master/additionc4/visualide.md)
+#### Ομαδικά Link: [Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/main/additionfilter.lua) / [make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/main/make-latex.sh) / [Screenshot σημείωσης 1](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1907).png) / [Screenshot σημείωσης 2](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1908).png) / [Αρχείο .md σημείωσης](https://github.com/TheTimeParadox/TheParadoxNotes/blob/790f1d5950020fcd1ef10d2ee8e8bcfdaadb5019/visualide.md) / [Ομαδικό βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/main/book.pdf)
+
+#### Pull Request Σημείωσης στο submodule : [visualide.md](https://github.com/TheTimeParadox/TheParadoxNotes/pull/2)
+
+#### Ατομικά Link:  [Φίλτρο Lua](https://github.com/p20sami/kallipos/blob/master/additionfilter.lua) / [make-latex.sh](https://github.com/p20sami/kallipos/blob/master/make-latex.sh) / [Αρχείο .md σημείωσης](https://github.com/p20sami/TheParadoxNotes/blob/main/visualide.md)
 
 #### Σημείωση:
-![add](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png)
+![add](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1907).png)
 
-
+![](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1908).png)
 
 ## Συμμετοχικό περιεχόμενο Α1 και Α2 - 5ο παραδοτέο
 Για το συγκεκριμένο παραδοτέο, πρόσθεσα δύο εικόνες σχετικές με τα κεφάλαια 4 και 8 του βιβλίου. Συγκεκριμένα:
@@ -176,10 +181,38 @@
 
 
 ## Κατασκευή του βιβλίου Β2 - 8ο παραδοτέο
--
+Για το τελευταίο μέρος της κατασκευής του βιβλίου, έγινε η μετατροπή του βιβλίου του μαθήματος σε μορφή HTML με τη χρήση του script που έγραψα, σε ατομικό και ομαδικό επίπεδο και το οποίο βρίσκεται παρακάτω μαζί με την σημείωση μου εντός του βιβλίου. Επίσης έγινε το deploy μέσω GitHub Pages του ομαδικού βιβλίου, του οποίου το link υπάρχει επίσης παρακάτω.
+
+#### Ομαδικά link:
+
+**Script:** [book-transform.sh](https://github.com/TheTimeParadox/kallipos/blob/main/book-transform.sh)
+
+**HTML αρχεία:** [book.html](https://github.com/TheTimeParadox/kallipos/blob/main/book.html)
+
+**GitHub Page:** [thetimeparadox.github.io/book.html](https://thetimeparadox.github.io/book.html)
+
+#### Ατομικά link:
+
+**Script:** [book-transform.sh](https://github.com/p20sami/kallipos/blob/master/book-transform.sh)
+
+**HTML αρχεία:** [book.html](https://github.com/p20sami/kallipos/blob/master/book.html) 
+
+**Σημείωση:**
+
+![](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1902).png)
+
+![](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1903).png)
+
+![](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1904).png)
 
 ## Συμμετοχικό περιεχόμενο Β2 - 9ο παραδοτέο
 -
 
 ## Επίλογος και τελική αναφορά - 10ο παραδοτέο
 -
+## Ομαδικότητα
+
+Παρακάτω υπάρχουν discussions τα οποία ξεκίνησα ή συμμετείχα.
+
+https://github.com/courses-ionio/sw/discussions/1234
+/ https://github.com/courses-ionio/sw/discussions/1377 / https://github.com/courses-ionio/sw/discussions/1602 / https://github.com/courses-ionio/sw/discussions/1476 / https://github.com/courses-ionio/sw/discussions/1178 / https://github.com/courses-ionio/sw/discussions/1523 / https://github.com/courses-ionio/sw/discussions/1479 / https://github.com/courses-ionio/sw/discussions/1333 / https://github.com/courses-ionio/sw/discussions/1336 / https://github.com/courses-ionio/sw/discussions/1277 / https://github.com/courses-ionio/sw/discussions/1261
