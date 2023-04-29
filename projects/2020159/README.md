@@ -94,6 +94,13 @@ https://alexioanp2020159.github.io/
 ## 8ο Παραδοτέο
 Παροντικά αντιμετοπίζω κάποιες δυσκολίες σε επίπεδο παραδοτέου αλλά και σε προσωπικό επίπεδο. Ευελπιστώ να έχω τελειώσει αυτό το παραδοτέο την επόμενη εβδομάδα των διακοπών μαζί με το επόμενο.
 
+## 9ο Παραδοτέο
+Έχοντας γράψει για τον Vim στα προηγούμενα παραδοτέα, θεώρησα πως το λογικό επόμενο βήμα είναι να γράψω για τον δημιουργό του, τον Bram Moolenaar και το έργο του στον τομέα της πληροφορικής.
+
+| images | biography | includes | netlify |
+| --- | --- | --- | --- |
+| [bram-moolenaar.jpg](https://github.com/AlexIoanP2020159/images/blob/master/bram-moolenaar.jpg) - [bram-moolenaar-thumb.jpg](https://github.com/AlexIoanP2020159/images/blob/master/bram-moolenaar-thumb.jpg)  | [bram-moolenaar.md](https://github.com/AlexIoanP2020159/site/blob/master/_biography/bram-moolenaar.md) | [bio-moolenaar.md](https://github.com/AlexIoanP2020159/site/blob/master/_includes/bio-moolenaar.md) | [Bram Moolenaar](https://p2020159-pibook.netlify.app//biography/bram-moolenaar/) |
+
 ## Σχολιασμοί
 Κατά την παρουσίασή μου στον κύριο Βραχάτη δέχτηκα τις εξείς διορθώσεις/σχολιασμούς:
 - Πρέπει να επεκτείνω την εισαγωγή μου και να της δώσω έναν ακόμη πιο προσωπικό τόνο
