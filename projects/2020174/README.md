@@ -33,7 +33,7 @@
 | 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -135,7 +135,10 @@ __Netlify Timelines:__ [CB Simulator](https://p2020174-pibook.netlify.app//timel
 pending...
 
 # Παραδοτέο 9 - Συμμετοχικό περιεχόμενο B2
+Για το δεύτερο μέρος του συμμετοχικού περιεχομένου, ζητήθηκε να παρέχω μια νέα βιογραφία που σχετίζεται με τα προηγούμενα ερωτήματα. Στα προηγούμενα ερωτήματα είχα αναφερθεί στα δίκτυα, οπότε αποφάσησα να γραψω για τον JCR Licklider, ο οποίος θεωρείται ένας από τους πρωτοπόρους στην ανάπτυξη του internet και της διάδρασης ανθρώπου-υπολογιστή.
+
+J.C.R. Ο Licklider ήταν ένας Αμερικανός επιστήμονας υπολογιστών και οραματιστής που έπαιξε σημαντικό ρόλο στην ανάπτυξη του Διαδικτύου και της σύγχρονης πληροφορικής. Ήταν ο πρώτος διευθυντής του IPTO στην ARPA, όπου βοήθησε στη χρηματοδότηση της ανάπτυξης του ARPANET. Η δουλειά του Licklider έθεσε τα θεμέλια για το σύγχρονο Διαδίκτυο και τον θυμούνται ως πρωτοπόρο στον τομέα των υπολογιστών.
 
 | images | biography | _includes | Netlify |
 | :--: | :--: | :--: | :--: |
-| [Normal image](https://github.com/Futsies/images/blob/master/jcr-licklider.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/jcr-licklider-thumb.jpg) | [Link to biography](https://github.com/Futsies/site/blob/master/_biography/jcr-licklider.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/bio-licklider.md) | [Link to site]() |
+| [Normal image](https://github.com/Futsies/images/blob/master/jcr-licklider.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/jcr-licklider-thumb.jpg) | [Link to biography](https://github.com/Futsies/site/blob/master/_biography/jcr-licklider.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/bio-licklider.md) | [Link to site](https://p2020174-pibook.netlify.app//biography/jcr-licklider/) |
