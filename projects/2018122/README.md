@@ -65,6 +65,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 Για το 5ο παραδοτέο έπρεπε να κάνουμε τις απαραίτητες αλλαγές στο Site και έπειτα να κάνουμε deploy στο Netlify για να φαίνονται οι αλλαγές μας. 
 Παρότι έκανα τις αλλαγές , δεν κατάφερα να κάνω το deploy χωρίς ακόμη να εξακριβώσω τον λόγο . Παρακάτω θα δείτε τις αλλαγές που έκανα στο site και θα μείνει προσωρινά ανολοκλήρωτο το παραδοτέο μέχρι να καταφέρω να κάνω το deploy. 
+**Update** , διορθώθηκε το πρόβλημα και το Netlify τρέχει κανονικά πλέον.
 
 **Gallery** :
 [Windows 11 Home Screen](https://github.com/AndreasKarageorgiou/_gallery/blob/master/wind11-hs.md)
@@ -84,6 +85,9 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 **Netlify**: [Videogame Blog](https://neon-empanada-4c51c8.netlify.app/)
 
 **Blog repo** : [videogameblog](https://github.com/AndreasKarageorgiou/videogameblog)
+
+![image](https://user-images.githubusercontent.com/79105310/235376569-1c0ced30-e786-4a0b-9736-5cd194281483.png)
+
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 7 | συμμετοχικό περιεχόμενο B1
 
@@ -120,5 +124,8 @@ Miyamoto Biography
 **images** : [miyamoto-profile.png](https://github.com/AndreasKarageorgiou/images/blob/fd9824af525575199daa98a3d0fee2c1b5ddb6b1/miyamoto-profile.png), [miyamoto.png](https://github.com/AndreasKarageorgiou/images/blob/fd9824af525575199daa98a3d0fee2c1b5ddb6b1/miyamoto.png)
 
 [Netlify](https://exquisite-bubblegum-7e6fa6.netlify.app/biography/shigeru-miyamoto/)
+
+![image](https://user-images.githubusercontent.com/79105310/235376658-f48c47c6-2d5c-48b0-887b-c69a1f7636ee.png)
+
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 10 | 	Τελική αναφορά
