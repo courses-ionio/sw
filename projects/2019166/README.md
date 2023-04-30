@@ -146,3 +146,6 @@ Pull request images :
 | 5 | Alan Kay - Programming Languages & Programming (2013)  |  :+1:  | :+1: | 
 | 6 | Alan Kay Turing Lecture with dynamic content  |  :+1:  | :+1: | 
 | 7 | Alan Kay - Programming and Scaling |  :+1:  | :+1: |  
+| 8 | Extracting Energy from the Turing Tarpit |  :+1:  | :+1: |
+| 9 | Back to the Future of Software Development 4/23/2003 (VPRI 785) |  :+1:  | :+1: |
+| 10 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson |  :+1:  | :+1: |
