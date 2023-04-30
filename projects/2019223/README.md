@@ -110,7 +110,7 @@
 |Alan Kay Turing Lecture with dynamic content|✔️|
 |Alan Kay - Programming and Scaling|✔️|
 |Extracting Energy from the Turing Tarpit|✔️|
-||
+|Back to the Future of Software Development 4/23/2003 (VPRI 785)|✔️|
 ||
 
 
