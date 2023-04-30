@@ -15,10 +15,10 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 | 3 | Γραμμή εντολών (no systemd) |   [Discussion](https://github.com/courses-ionio/sw/discussions/1336) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1370) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussion](https://github.com/courses-ionio/sw/discussions/1472) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Discussion](https://github.com/courses-ionio/sw/discussions/1613) | |
+| 7 | συμμετοχικό περιεχόμενο B1 |[Discussion](https://github.com/courses-ionio/sw/discussions/1614) | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussion](https://github.com/courses-ionio/sw/discussions/1615) | |
+| 9 | συμμετοχικό περιεχόμενο B2 |[Discussion](https://github.com/courses-ionio/sw/discussions/1616) | |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -104,6 +104,8 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά)
+
+Για το 8ο παραδοτέο μας ζητήθηκε να κατασκευάσουμε το βιβλίο του μαθήματος σε μορφή pollen.
 
 Χρησιμοποιήθηκε το [makepollen.sh](https://github.com/AndreasKarageorgiou/kallipos/blob/master/makepollen.sh) ώστε το βιβλίο του μαθήματος να γίνει σε μορφή pollen.
 
