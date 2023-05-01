@@ -16,7 +16,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | 0% Δεν Ολοκληρώθηκε |
 | 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
+| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -97,3 +97,15 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 [Includes Link](https://github.com/mariakourti/site/blob/master/_includes/cs-steam-remote-play.md)
 
 [Netlify Link](https://thetimeparadox-pibook.netlify.app/case-study/steam-remote-play)
+
+
+# Συμμετοχικό Περιεχόμενο Β2
+
+Σε αυτό το παραδοτέο, ως συνέχεια του Β1, επέλεξα να βρω πληροφορίες σχετικά με τον John Carmack.
+
+[Biography Link](https://github.com/mariakourti/site/blob/master/_biography/john-carmack.md)
+
+[Includes Link](https://github.com/mariakourti/site/blob/master/_includes/bio-carmack.md)
+
+[Netlify Link](https://p2020158.netlify.app/biography/john-carmack)
+
