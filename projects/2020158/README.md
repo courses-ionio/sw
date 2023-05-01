@@ -16,7 +16,7 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | 0% Δεν Ολοκληρώθηκε |
 | 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | |
+| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -101,11 +101,11 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 # Συμμετοχικό Περιεχόμενο Β2
 
-Σε αυτό το παραδοτέο, ως συνέχεια του Β1, επέλεξα να βρω πληροφορίες σχετικά με τον John Carmack.
+Σε αυτό το παραδοτέο, ως συνέχεια του Β1, επέλεξα να βρω πληροφορίες σχετικά με τον John Carmack. Ο John Carmack είναι ένας προγραμματιστής υπολογιστών και βιντεοπαιχνιδιών, που έπαιξε σημαντικό ρόλο στην βιομηχανία των βιντεοπαιχνιδιών. Γεννήθηκε στις 20 Αυγούστου του 1970. Είναι ο ιδρυτής της εταιρίας id Software και είναι γνωστός για την ανάπτυξη τίτλων παιχνιδιών όπως Doom, Quake και Wolfenstein. Καινοτόμησε κυρίως στην τεχνολογία των 3D γραφικών. Μια από τις πιο σημαντικές συνεισφορές του είναι ο αλγόριθμός του Carmack’s Reverse, ο οποίος σχετίζεται με τους όγκους σκιών. Επίσης, ασχολήθηκε πολύ με την τεχνολογία VR.
 
 [Biography Link](https://github.com/mariakourti/site/blob/master/_biography/john-carmack.md)
 
 [Includes Link](https://github.com/mariakourti/site/blob/master/_includes/bio-carmack.md)
 
-[Netlify Link](https://p2020158.netlify.app/biography/john-carmack)
+[Netlify Link](https://thetimeparadox-pibook.netlify.app/biography/johncarmack)
 
