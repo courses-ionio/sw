@@ -6,7 +6,7 @@
 ### Email: [p19tour@ionio.gr](mailto:p19tour@ionio.gr)
 ### [Προφίλ στο GitHub](https://github.com/KonstantinosTourtsakis)
 ### [Η αναφορά στο αποθετήριό μου](https://github.com/KonstantinosTourtsakis/sw/tree/2019140/projects/2019140)
-### Edpuzzle: p19tour P2019140
+### Η ιστοσελίδα του μαθήματος: [2019140](https://sw2019140.netlify.app/) και [PaneksypnesDiepafes](https://paneksypnesdiepafes-pibook.netlify.app/)
 ### Οργανισμός: [PaneksypnesDiepafes](https://github.com/PaneksypnesDiepafes/Main)
 
 
@@ -32,7 +32,7 @@
 | 3 | [Γραμμή εντολών (no systemd)](#παραδοτέο-3---εγκατάσταση-non-systemd-συστήματος) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1368) | 9 |
 | 4 | [Κατασκευή του βιβλίου Α2 (συνεργατικά)](#παραδοτέο-4---κατασκευή-του-βιβλίου-α2) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1405) | 8 |
 | 5 | [Συμμετοχικό περιεχόμενο A1 + A2](#παραδοτέο-5---συμμετοχικό-περιεχόμενο-α1-α2) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1425)| 8 |
-| 6 | [Γραμμή εντολών (custom static blog generator)](#παραδοτέο-6---custom-static-blog-generator) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1547) | |
+| 6 | [Γραμμή εντολών (custom static blog generator)](#παραδοτέο-6---custom-static-blog-generator) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1547) | 7 |
 | 7 | [συμμετοχικό περιεχόμενο B1](#παραδοτέο-7---συμμετοχικό-περιεχόμενο-b1) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1498) | 9 |
 | 8 | [Κατασκευή του βιβλίου Β2 (συνεργατικά)](#παραδοτέο-8---κατασκευή-του-βιβλίου-β2) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1601) | 8 |
 | 9 | [συμμετοχικό περιεχόμενο B2](#παραδοτέο-9---συμμετοχικό-περιεχόμενο-b2) | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1499) | 9 |
@@ -92,9 +92,9 @@ A2:
 - [sw-programming.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_timeline/sw-programming.md)
 
 ## [Παραδοτέο 6 - Custom static blog generator](#πίνακας-παραδοτέων)
-Σε αυτό το παραδοτέο δημιούργησα ένα ιστολόγιο αξιοποιόντας το [bashblog](https://github.com/cfenollosa/bashblog) το οποίο επιτρέπει την δημιουργία blog posts γραμμένα σε markdown. Επομένως σκέφτηκα πως θα ήταν χρήσιμο εάν η τελική αναφορά υπάρχει στο ιστολόγιο όπου κάθε παραδοτέο αντιστοιχεί σε ένα post. Με αυτόν τον τρόπο εκτός από το αποθετήριο SW, η αναφορά μου θα είναι επίσης προσβάσιμη και από το ιστολόγιο. Το ιστολόγιο βρίσκεται σε ένα καινούριο αποθετήριο που δημιούργησα με όνομα [sw-static-blog](https://github.com/KonstantinosTourtsakis/sw-static-blog/) και μέσω του GitHub pages είναι προσβάσιμο στον ακόλουθο [σύνδεσμο](https://konstantinostourtsakis.github.io/sw-static-blog/). Παρακάτω επισυνάπτω εικόνες όπου φαίνεται το 2ο παραδοτέο και η λίστα με τα posts του ιστολογίου.
-![blog](https://cdn.discordapp.com/attachments/794920060677521469/1092853867479306400/blog-paradoteo2.JPG)
-![blog-posts](https://cdn.discordapp.com/attachments/794920060677521469/1092853849724821594/blog-posts.JPG)
+Σε αυτό το παραδοτέο δημιούργησα ένα ιστολόγιο αξιοποιόντας το [bashblog](https://github.com/cfenollosa/bashblog) το οποίο επιτρέπει την δημιουργία blog posts γραμμένα σε markdown. Επομένως σκέφτηκα πως θα ήταν χρήσιμο εάν η τελική αναφορά υπάρχει στο ιστολόγιο όπου κάθε παραδοτέο αντιστοιχεί σε ένα post. Με αυτόν τον τρόπο εκτός από το αποθετήριο SW, η αναφορά μου θα είναι επίσης προσβάσιμη και από το ιστολόγιο. Το ιστολόγιο βρίσκεται σε ένα καινούριο αποθετήριο που δημιούργησα με όνομα [sw-static-blog](https://github.com/KonstantinosTourtsakis/sw-static-blog/) και μέσω του GitHub pages είναι προσβάσιμο στον ακόλουθο [σύνδεσμο](https://konstantinostourtsakis.github.io/sw-static-blog/). Το ιστολόγιο έχει τροποποιηθεί για να θυμίζει την ιστοσελίδα του [Kiss Linux](https://kisslinux.org/). Παρακάτω επισυνάπτω εικόνες όπου φαίνεται το 2ο παραδοτέο και η λίστα με τα posts του ιστολογίου.
+![blog](https://cdn.discordapp.com/attachments/794920060677521469/1102627654110285835/static-blog-1.jpg)
+![blog-posts](https://cdn.discordapp.com/attachments/794920060677521469/1102627654403883029/static-blog-2.jpg)
 
 
 
