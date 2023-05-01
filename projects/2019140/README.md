@@ -139,6 +139,7 @@ A2:
 - https://github.com/courses-ionio/sw/discussions/1408#discussioncomment-5354017
 - https://github.com/courses-ionio/sw/discussions/1476#discussioncomment-5418154
 - https://github.com/courses-ionio/sw/discussions/1031#discussioncomment-5122072
+- https://github.com/courses-ionio/sw/discussions/1610#discussioncomment-5769784
 ### Εντός οργανισμού
 - https://github.com/PaneksypnesDiepafes/Main/discussions/2#discussioncomment-5244080
 - https://github.com/PaneksypnesDiepafes/Main/discussions/6#discussioncomment-5302540
