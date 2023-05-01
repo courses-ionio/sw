@@ -8,13 +8,13 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | |
-| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | |
-| 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | |
-| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | |
-| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | |
+| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | 80% Ολοκληρώθηκε - Ελλειπής |
+| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | 100% Ολοκληρώθηκε |
+| 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε |
+| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε |
+| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | 0% Δεν Ολοκληρώθηκε |
+| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -55,7 +55,7 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 # Κατασκευή του Βιβλίου Α2
 
-Για το πρώτο μέρος κατασκευής του βιβλίου, αφού μελέτησα τα κεφάλαια και συζήτησα με την ομάδα μου, αποφάσισα να προσθέσω λίγες πληροφορίες για το VS Code. Πιστεύω ταιριάζει στο κεφάλαιο 6, και συγκεκριμένα στο 6.1 "Περιβάλλον ανάπτυξης λογισμικού". Παρακάτω βρίσκεται η σημείωσή μου.
+Για το πρώτο μέρος κατασκευής του βιβλίου, αφού μελέτησα τα κεφάλαια και συζήτησα με την ομάδα μου, αποφάσισα να προσθέσω λίγες πληροφορίες για το VS Code. Πιστεύω ταιριάζει στο κεφάλαιο "Περιβάλλον ανάπτυξης λογισμικού". Παρακάτω βρίσκεται η σημείωσή μου.
 
 [Αρχείο md](https://github.com/mariakourti/TheParadoxNotes/blob/main/vscode.md)
 
@@ -72,7 +72,7 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 # Συμμετοχικό Περιεχόμενο A1 και A2
 
-Σε αυτό το παραδοτέο διάλεξα ως κύρια θέματα τα προγράμματα Blender και Unreal Engine 5, αφού με ενδιαφέρει ο τομέας της διασκέδασης και συγκεκριμένα των video games.
+Σε αυτό το παραδοτέο διάλεξα ως κύρια θέματα τα προγράμματα Blender και Unreal Engine 5, αφού με ενδιαφέρει ο τομέας της διασκέδασης και συγκεκριμένα των video games. Για τα slides και το timeline, διάλεξα να συνεισφέρω στις ενότητες "Εργαλεία και Τεχνικές" και "Εργαλεία Ανάπτυξης Λογισμικού" αντίστοιχα.
 
 [Blender Gallery Link](https://github.com/mariakourti/_gallery/blob/master/blender.md) | [Unreal 5 Gallery Link](https://github.com/mariakourti/_gallery/blob/master/unreal-5.md)
 
@@ -82,13 +82,18 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 [Blender Netlify Link](https://p2020158.netlify.app/gallery/blender) | [Unreal 5 Netlify Link](https://p2020158.netlify.app/gallery/unreal-5)
 
+[Slides Github Link](https://github.com/mariakourti/site/blob/Π2020158/_slides/tools.md) | [Timeline Github Link](https://github.com/mariakourti/site/blob/Π2020158/_timeline/softwaretools.md)
+
+[Slides Netlify Link](https://p2020158.netlify.app/slides/tools) | [Timeline Netlify Link](https://p2020158.netlify.app/timeline/softwaretools)
+
 
 # Συμμετοχικό Περιεχόμενο B1
 
-Για το συμμετοχικό περιεχόμενο Β1 case study, διάλεξα να κάνω έρευνα πάνω στο Steam Remote Play. Ακολουθούν τα links.
+Για το συμμετοχικό περιεχόμενο Β1 Case Study, διάλεξα να κάνω έρευνα πάνω στο Steam Remote Play. Το Remote Play είναι ένα εργαλείο που προσφέρει η πλατφόρμα του Steam. Επιτρέπει την εκκίνηση παιχνιδιών σε έναν υπολογιστή, ενώ αυτά παίζονται παράλληλα και από άλλες συσκευές που είναι συνδεδεμένες στο Steam. Το Remote Play Together, επιτρέπει την πρόσκληση φίλων Steam για συμμετοχή σε τοπικές συνεδρίες εξ αποστάσεως, χωρίς να χρειάζεται να κατέχουν ή να ξεκινούν οι ίδιοι το παιχνίδι.
+Ακολουθούν τα links.
 
 [Case Study Link](https://github.com/mariakourti/site/blob/master/_case-study/steam-remote-play.md)
 
 [Includes Link](https://github.com/mariakourti/site/blob/master/_includes/cs-steam-remote-play.md)
 
-[Netlify Link](https://p2020158.netlify.app/case-study/steam-remote-play/)
+[Netlify Link](https://thetimeparadox-pibook.netlify.app/case-study/steam-remote-play)
