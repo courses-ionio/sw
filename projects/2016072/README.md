@@ -72,6 +72,9 @@ message μου φάνηκε αρκετά δυσνόητο. Μετά από με�
 
 # Παραδοτέο 7
 
+- [Fernando Corbato biography](https://silver-figolla-420cf1.netlify.app/biography/fernando-corbato/)
+- [Compatible Time-Sharing System case study](https://silver-figolla-420cf1.netlify.app//case-study/ctss/)
+
 # Παραδοτέο 8
 
 # Παραδοτέο 9
