@@ -99,6 +99,10 @@ Netlify: [Midi](https://p2020150-pibook.netlify.app/case-study/midi/)
 
 ## Εβδομαδα 8η
 
+Δημιουργήσαμε ομαδικό html το οποίο ανεβάσαμε στον οργανισμό.
+
+LInk: [HTML](https://github.com/LetMeDoItForYou/kallipos/tree/master/html)
+
 ## Εβδομαδα 9η
 Για το Β1 επέλεξα να γράψω για τον Miller Puckette, ο οποίος είναι δημιουργός του προγράμματος Pure Data που ανέφερα στην εβδομάδα [5](#εβδομάδα-5η) και της γλώσσας Max η οποία χρησιμοποιείται για διαδραστική μουσική και πολυμέσα.
 
@@ -108,3 +112,4 @@ Images: [Miller Puckette](https://github.com/thanosks/images/blob/master/miller-
 [Source](https://commons.m.wikimedia.org/wiki/File:Miller_Puckette_auf_der_Linux_Audio_Conference_2014_in_Karlsruhe.jpg#mw-jump-to-license)
 
 Netlify: [Miller Puckette](https://p2020150-pibook.netlify.app/biography/miller-puckette/)
+
