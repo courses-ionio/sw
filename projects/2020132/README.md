@@ -15,7 +15,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Σύνδεσμος Συζήτησης 5ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1462) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος Συζήτησης 6ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1496) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος Συζήτησης 7ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1514) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 8ου Παραδοτέου]() | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Σύνδεσμος Συζήτησης 8ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1621) | |
 | 9 | συμμετοχικό περιεχόμενο B2 | [Σύνδεσμος Συζήτησης 9ου Παραδοτέου](https://github.com/courses-ionio/sw/discussions/1589) | |
 | 10 | Τελική αναφορά* | | |
 
@@ -101,8 +101,16 @@
 
 **Netlify Case Study: https://p2020132-pibook-2023.netlify.app//case-study/myfitnesspal/**
 
+## **8ο Παραδοτέο**
+Για το συγκεκριμένο παραδοτέο δημιουργήθηκε το βιβλίο σε διαφορετική μορφή με το script:
+ [make-pollen.sh](https://github.com/Vasilakious/kallipos/blob/master/make-pollen.sh) 
+ σε HTML:
+  [index.html](https://github.com/Vasilakious/kallipos/blob/master/html/index.html)
+
+![image](https://user-images.githubusercontent.com/73079436/235700432-c1d88840-4e3d-49f6-8f1e-6080f0e30fdc.png)
+
 ## **9ο Παραδοτέο**
-Όσον αφορά το 8ο παραδοτέο, έγραψα μία βιογραφία για τον Palmer Luckey, ένα από τα μεγαλύτερα ονόματα στην ανάπτυξη τεχνολογίας Εικονικής Πραγματικότητας.
+Όσον αφορά το 9ο παραδοτέο, έγραψα μία βιογραφία για τον Palmer Luckey, ένα από τα μεγαλύτερα ονόματα στην ανάπτυξη τεχνολογίας Εικονικής Πραγματικότητας.
 
 **Images: [Normal](https://github.com/Vasilakious/images/blob/master/luckey-profile.jpg) | [Thumb](https://github.com/Vasilakious/images/blob/master/luckey-profile-thumb.jpg)**
 
