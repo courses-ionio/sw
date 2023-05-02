@@ -4,7 +4,7 @@
 ###  Αριθμός Μητρώου: Π2019214
 ###  GitHub Profile: [Xar-Me-Ison](https://github.com/Xar-Me-Ison)
 ###  Organization Profile: [LetMeDoItForYou](https://github.com/LetMeDoItForYou/sw)
-
+###  Ενδιάμεση Αξιολόγηση με κ. [Αριστείδη Βραχάτη](#ενδιάμεση-αξιολόγηση-με-κύριο-αριστείδη-βραχάτη)
 <br />
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
@@ -17,7 +17,7 @@
 | [6](#άσκηση-γραμμής-εντολών-no-systemd-με-bashblog-custom-static-blog-generator---παραδοτέο-6) | Γραμμή εντολών (no systemd, custom static blog generator) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 6](https://github.com/courses-ionio/sw/discussions/1489) | Δημιουργία [ιστοσελίδας blog](Xar-Me-Ison.github.io) με την βοηθεία του `bashblog` στα **Kiss Linux** που είχα εγκαταστήσει προηγουμένως |
 | [7](#συμμετοχικό-περιεχόμενο-b1---παραδοτέο-7) | συμμετοχικό περιεχόμενο B1 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 7](https://github.com/courses-ionio/sw/discussions/1519) | Συγγραφή νέας μελέτη περίπτωσης περί εξομοιώτων που χρησιμοποιούνται για την διατήρηση παλαιών λογισμικών και λειτουργικών συστημάτων |
 | [8](#κατασκευή-βιβλίου-β2---παραδοτέο-8) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 8](https://github.com/courses-ionio/sw/discussions/1563) | Κατασκευή βιβλίου σε διαφορετική μορφή γραφής `HTML` με τη χρήση του `pollen` και ενός `.sh` script |
-| [9](#συμμετοχικό-περιεχόμενο-b2---παραδοτέο-9) | συμμετοχικό περιεχόμενο B2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 9](https://github.com/courses-ionio/sw/discussions/1604) | Συγγραφή βιογραφίας του Fred Brooks ενός πρωτοπόρου στον τομέα της επιστήμης της υπολογστικής |
+| [9](#συμμετοχικό-περιεχόμενο-b2---παραδοτέο-9) | συμμετοχικό περιεχόμενο B2 | [Σύνδεσμος παρουσίασης προόδου εβδομάδας 9](https://github.com/courses-ionio/sw/discussions/1604) | Συγγραφή βιογραφίας του Fred Brooks ενός πρωτοπόρου στον τομέα της επιστήμης της υπολογιστικής |
 | 10 | Τελική αναφορά* | | |
 
 
@@ -179,6 +179,13 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 
 | images | biography | _includes | Netlify |
 | --- | ---  | --- | --- |
-| [brooks-profile](https://github.com/Xar-Me-Ison/images/blob/master/brooks-profile.jpg) & [brooks-profile-thumb](https://github.com/Xar-Me-Ison/images/blob/master/brooks-profile-thumb.jpg) | [fred-brooks.md](https://github.com/Xar-Me-Ison/site/blob/master/_biography/fred-brooks.md) | [bio-brooks.md](https://github.com/Xar-Me-Ison/site/blob/master/_includes/bio-brooks.md) | [Netlify link](https://p2019214-pibook.netlify.app/biography/) |
+| [brooks-profile](https://github.com/Xar-Me-Ison/images/blob/master/brooks-profile.jpg) & [brooks-profile-thumb](https://github.com/Xar-Me-Ison/images/blob/master/brooks-profile-thumb.jpg) | [fred-brooks.md](https://github.com/Xar-Me-Ison/site/blob/master/_biography/fred-brooks.md) | [bio-brooks.md](https://github.com/Xar-Me-Ison/site/blob/master/_includes/bio-brooks.md) | [Netlify link](https://p2019214-pibook.netlify.app//biography/fred-brooks/) |
 
 #### Σύνδεσμοι ατομικού και ομαδικού Netlify: [p2019214](https://p2019214-pibook.netlify.app/) | [LetMeDoItForYou](https://letmedoitforyou-pibook-2023.netlify.app/)
+
+## Ενδιάμεση Αξιολόγηση με κύριο Αριστείδη Βραχάτη
+Κατά την διάρκεια της παρουσίασης με τον κ. Βραχάτη έγινε πρόταση των εξής αλλαγών: 
+- βελτίωση της εισαγωγής προσθέτοντας ένα πιο προσωπικό χαρακτήρα
+- και η προσθήκη του συνδέσμου της 7ης εβδομαδιαίας παρουσίασης την οποία είχα ξεχάσει
+
+Γενικότερα, ο κ. Βραχάτης βρήκε το `README.md` αρκετά περιγραφικό και οργανωμένο, όσον αφορά την έκταση κειμένο καθώς και της προσθήκης φωτογραφιών και στηλών για την προβολή των συνδέσμων στα συμμετοχικά Β1/Β2 και Netlify.
