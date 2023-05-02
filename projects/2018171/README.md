@@ -1,10 +1,10 @@
 
 ## ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
 
-## Καρανάνου Περιστέρα
+## Ονοματεπώνυμο: Καρανάνου Περιστέρα
 ## ΑΜ: Π2018171
 ## [Github Profile](https://github.com/perikrananou)
-## Github Organazation:[Ranger-Power](https://github.com/Ranger-Power) 
+## Github Organazation: [Ranger-Power](https://github.com/Ranger-Power) 
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
