@@ -19,7 +19,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1343) |  9/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](#a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [see more](#α1--α2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1457)|  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
-| 6 | Γραμμή εντολών (custom static blog generator) |[see more](#staticblog) | |
+| 6 | Γραμμή εντολών (custom static blog generator) |[see more](#staticblog) |  9/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
 | 7 | συμμετοχικό περιεχόμενο B1 | [see more](#b1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[see more](#pollen), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1546) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 9 | συμμετοχικό περιεχόμενο B2 | [see more](#β2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  8/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
