@@ -111,7 +111,7 @@ id: Π2019061
 ## συμμετοχικό περιεχόμενο B1
 
 Στο συμμετοχικό περιεχόμενο Β1 αποφάσισα να προσθέσω ως μελέτη περίπτωσης το Virtual Tennis
-* [Η μελέτη περίπτωσης που πρόσθεσα](https://tilav-sw.netlify.app/case-study/virtual-tennis/)
+* [Η μελέτη περίπτωσης που πρόσθεσα](https://ranger-power.netlify.app/case-study/virtual-tennis/)
 * [Το pull request στην ιστοσελίδα της ομάδας μου](https://github.com/Ranger-Power/site/pull/5)
 * [Το pull request στα images](https://github.com/Ranger-Power/images/pull/5)
 
@@ -120,7 +120,7 @@ id: Π2019061
 ## συμμετοχικό περιεχόμενο B2
 
 Στο συμμετοχικό περιεχόμενο Β2 αποφάσισα να προσθέσω την βιογραφία του James Park
-* [Η μελέτη βιογραφία που πρόσθεσα](https://tilav-sw.netlify.app/biography/james-park/)
+* [Η βιογραφία που πρόσθεσα](https://ranger-power.netlify.app/biography/james-park/)
 * [Το pull request στην ιστοσελίδα της ομάδας μου](https://github.com/Ranger-Power/site/pull/5)
 * [Το pull request στα images](https://github.com/Ranger-Power/images/pull/5)
 
