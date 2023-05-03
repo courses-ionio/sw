@@ -45,7 +45,7 @@
 
 ![IMG_8354(5)(3)](https://user-images.githubusercontent.com/72463627/221252040-816225e5-89b1-470e-8af5-4ac292af5298.jpg)
 
-## Γραμμή εντολών (no systemd)
+## 3. Γραμμή εντολών (no systemd)
 
 Για το 3ο παραδοτέο εγκατέστησα το Alpine Linux, το οποίο δεν χρησιμοποιεί το systemd ως προεπιλεγμένο σύστημα διαχείρησης εκκίνησης και υπηρεσιών, αλλά το OpenRC, ένα εναλλακτικό σύστημα που παρέχει παρόμοια χαρακτηριστικά με το systemd. Βασική διαφορά του με το systemd είναι ότι το δεύτερο χρησιμοποιεί έναν κεντρικό daemon για τη διαχείριση όλων αυτών των υπηρεσιών και λειτουργιών ενώ το openRC χρησιμοποιεί αυτόνομους deamons.
 Κάποιες επιπλέον πληροφορίες σχετικά με το Alpine Linux:
@@ -55,7 +55,7 @@
 
 [![asciicast](https://asciinema.org/a/iKem3vMVbeeCiTnXIxhp9Fq5e.svg)](https://asciinema.org/a/iKem3vMVbeeCiTnXIxhp9Fq5e)
 
-## Κατασκευή του βιβλίου Α2 (συνεργατικά)
+## 4. Κατασκευή του βιβλίου Α2 (συνεργατικά)
 
 #### ! Στο συγκεκριμένο παραδοτέο αντιμετωπίζω το error "pandoc-fignos: Bad reference: fig <όνομα εικόνας>" για το οποίο δεν έχω βρει λύση ακόμα. Η προσθήκη μου θα γίνει στο Κεφάλαιο 8: "Τεχνολογία" και το αρχείο md είναι το παρακάτω:
 
@@ -66,7 +66,7 @@ name: Ελένη Τηλαβερίδου
 id: Π2019061 
 
 
-## Συμμετοχικό περιεχόμενο A1 + A2
+## 5. Συμμετοχικό περιεχόμενο A1 + A2
 
 Στο συγκεκριμένο παραδοτέο πρόσθεσα το Lifecycle stationary bike και το Peloton bike στα [images](https://github.com/tilav/images), gallery: [Lifecycle](https://github.com/tilav/_gallery/blob/master/lifecyclebike.md) + [Peloton](https://github.com/tilav/_gallery/blob/master/pelotonbike.md), χρονολόγιο: [Lifecycle](https://github.com/tilav/site/blob/2019061/_timeline/prototypes.md) + [Peloton](https://github.com/tilav/site/blob/2019061/_timeline/systems.md) και τις διαφάνειες: [Lifecycle](https://github.com/tilav/site/blob/2019061/_slides/styles.md) + [Peloton](https://github.com/tilav/site/blob/2019061/_slides/hypermedia.md).
 
@@ -100,7 +100,7 @@ id: Π2019061
 * _gallery: [Pull Request](https://github.com/Ranger-Power/_gallery/pull/2)
 * site: [Pull Request](https://github.com/Ranger-Power/site/pull/2)
 
-## Γραμμή εντολών (no systemd, custom static blog generator)
+## 6. Γραμμή εντολών (no systemd, custom static blog generator)
 
 Σε αυτό το παραδοτέο έφτιαξα μια ιστοσελίδα-blog σχετική με το θέμα της αναφοράς μου, χρησιμοποιώντας το jekyll.
 
@@ -109,7 +109,7 @@ id: Π2019061
 
 ![7kbkxa](https://user-images.githubusercontent.com/72463627/235811803-ed54bbb6-b57b-454d-a1a0-fce4d0612068.gif)
 
-## συμμετοχικό περιεχόμενο B1
+## 7. συμμετοχικό περιεχόμενο B1
 
 Στο συμμετοχικό περιεχόμενο Β1 αποφάσισα να προσθέσω ως μελέτη περίπτωσης το Virtual Tennis
 * [Η μελέτη περίπτωσης που πρόσθεσα](https://ranger-power.netlify.app/case-study/virtual-tennis/)
@@ -118,7 +118,7 @@ id: Π2019061
 
 ![vt1](https://user-images.githubusercontent.com/72463627/235810908-c765d005-e390-48d4-b0e7-99c086b19513.jpg)
 
-## συμμετοχικό περιεχόμενο B2
+## 9. συμμετοχικό περιεχόμενο B2
 
 Στο συμμετοχικό περιεχόμενο Β2 αποφάσισα να προσθέσω την βιογραφία του James Park
 * [Η βιογραφία που πρόσθεσα](https://ranger-power.netlify.app/biography/james-park/)
@@ -127,7 +127,7 @@ id: Π2019061
 
 ![jamespark](https://user-images.githubusercontent.com/72463627/235810932-d9316f6b-a425-483f-bf66-bc28d921592c.jpeg)
 
-## Τελική αναφορά
+## 10. Τελική αναφορά
 
 ## Βίντεο Κουίζ
 
