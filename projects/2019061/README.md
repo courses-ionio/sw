@@ -135,4 +135,4 @@ id: Π2019061
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
 | 4 | Bret Victor - The Future of Programming |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
 | 5 | Alan Kay - Programming Languages & Programming (2013) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
-
+| 6 | Extracting Energy from the Turing Tarpit |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
