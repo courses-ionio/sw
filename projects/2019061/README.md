@@ -106,6 +106,26 @@ id: Π2019061
 * [Το blog μου](https://tilav.github.io/mysite/)
 * [Το αποθετήριο του blog μου](https://github.com/tilav/mysite)
 
+![7kbkxa](https://user-images.githubusercontent.com/72463627/235811803-ed54bbb6-b57b-454d-a1a0-fce4d0612068.gif)
+
+## συμμετοχικό περιεχόμενο B1
+
+Στο συμμετοχικό περιεχόμενο Β1 αποφάσισα να προσθέσω ως μελέτη περίπτωσης το Virtual Tennis
+* [Η μελέτη περίπτωσης που πρόσθεσα](https://tilav-sw.netlify.app/case-study/virtual-tennis/)
+* [Το pull request στην ιστοσελίδα της ομάδας μου](https://github.com/Ranger-Power/site/pull/5)
+* [Το pull request στα images](https://github.com/Ranger-Power/images/pull/5)
+
+![vt1](https://user-images.githubusercontent.com/72463627/235810908-c765d005-e390-48d4-b0e7-99c086b19513.jpg)
+
+## συμμετοχικό περιεχόμενο B2
+
+Στο συμμετοχικό περιεχόμενο Β2 αποφάσισα να προσθέσω την βιογραφία του James Park
+* [Η μελέτη βιογραφία που πρόσθεσα](https://tilav-sw.netlify.app/biography/james-park/)
+* [Το pull request στην ιστοσελίδα της ομάδας μου](https://github.com/Ranger-Power/site/pull/5)
+* [Το pull request στα images](https://github.com/Ranger-Power/images/pull/5)
+
+![jamespark](https://user-images.githubusercontent.com/72463627/235810932-d9316f6b-a425-483f-bf66-bc28d921592c.jpeg)
+
 ## Βίντεο Κουίζ
 
 |Χ| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
