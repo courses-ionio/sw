@@ -14,16 +14,16 @@
 # My work
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [see more](#εισαγωγη-παραδοτέο-1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1137)| |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team)  |[see more](systemd--pq---παραδοτεο-2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1247) | |
-| 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1343) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](#a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [see more](#α1--α2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1457)| |
+| 1 | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [see more](#εισαγωγη-παραδοτέο-1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1137)| 10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team)  |[see more](systemd--pq---παραδοτεο-2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1247) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
+| 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1343) |  9/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](#a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [see more](#α1--α2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1457)|  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | [see more](#b1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[see more](#pollen), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1546) | |
-| 9 | συμμετοχικό περιεχόμενο B2 | [see more](#b2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) | |
-| 10 | Τελική αναφορά* | | |
+| 7 | συμμετοχικό περιεχόμενο B1 | [see more](#b1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[see more](#pollen), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1546) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
+| 9 | συμμετοχικό περιεχόμενο B2 | [see more](#β2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  8/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
+| 10 | Τελική αναφορά* |[see more](#παραδοτέο-10-επίλογος) | 10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 
 
 # ΕΙΣΑΓΩΓΗ-ΠΑΡΑΔΟΤΈΟ 1
@@ -144,3 +144,7 @@
  - [Arch Linux website](https://archlinux.org/)
  - ["Arch Linux: The Simple Linux" by Bruce Byfield, in Datamation (2013)](https://www.datamation.com/open-source/arch-linux-the-simple-linux/)
  - ["Why Arch Linux is the best" by Joe Collins, in It's FOSS (2020)](https://itsfoss.com/arch-linux/)
+
+# Παραδοτέο 10 επίλογος 
+
+Μετά την ολοκλήρωση του εν λόγω μαθήματος, αποκόμισα πολύτιμες γνώσεις σχετικά με την τεχνολογία λογισμικού. Ωστόσο, αξίζει να τονιστεί ότι η απόκτηση γνώσης σχετικά με την έρευνα στον τομέα αυτόν, καθώς και η συνολική εικόνα των συστημάτων που ενεργοποιούνται με το πάτημα του κουμπιού on/off στον υπολογιστή μου, αποτελούν εξίσου σημαντική πτυχή της γνώσης που μου προσέφερε το μάθημα αυτό. Ως αποτέλεσμα των γνώσεων και δεξιοτήτων που απέκτησα, αλλά και με τη συνεργασία της ομάδας μου, έχω ενθαρρυνθεί να επιδιώκω συνεχή έρευνα και καινοτομία, καθιστώντας με ταυτόχρονα ικανό να αποδομήσω και να συντάξω εργαλεία λογισμικού που ανταποκρίνονται στις ανάγκες μου ή τις απαιτήσεις της εργασίας μου. Τέλος ευελπιστώ η δουλειά μου να γίνει βάση για την πορεία και άλλων φοιτητών σε αυτό το μάθημα όπως άλλωστε και γω χρειάστηκε να εμπνευστώ πολλές φορές από το έργο των συμφοιτητών μου για δημιουργήσω το δική μου εκδοχή της σειράς εργασιών του μαθήματος.
