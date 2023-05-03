@@ -19,7 +19,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[see more](commandline-no-systemd---παραδοτέο-3), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1343) |  9/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [see more](#a2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1390) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [see more](#α1--α2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1457)|  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 6 | Γραμμή εντολών (custom static blog generator) |[see more](#staticblog) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [see more](#b1), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[see more](#pollen), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1546) |  10/10 ολοκληρωμένη απάντηση, χωρίς περιθώρια βελτίωσης. |
 | 9 | συμμετοχικό περιεχόμενο B2 | [see more](#β2), [σχετικό discussion](https://github.com/courses-ionio/sw/discussions/1482) |  8/10 ολοκληρωμένη απάντηση, με περιθώρια βελτίωσης. |
@@ -96,6 +96,12 @@
 - [smarden.org](http://smarden.org/runit/)
 - [mit.edu](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-en-4/s1-boot-init-shutdown-sysv.html)
 - [glennastory.net](http://glennastory.net/boot/init.html)
+
+# StaticBlog
+
+Σε αυτό το παραδοτέο δημιούργησα ένα static site με την χρήση του εργαλείου hugo. Η επιλογή αυτού του εργαλείου έγινε λόγο προϋπάρχουσας εξοικείωσης αλλά και της μεγάλης διαθεσιμότητας που παρέχει σε πολλαπλά λογισμικά συστήματα. 
+
+![343002712_799167181783172_8195086258842534607_n](https://user-images.githubusercontent.com/39650065/235929778-e020b1b1-e4b3-45be-8767-7c7e42535a72.png)
 
 
 # B1
