@@ -107,7 +107,7 @@ id: Π2019061
 * [Το blog μου](https://tilav.github.io/mysite/)
 * [Το αποθετήριο του blog μου](https://github.com/tilav/mysite)
 
-![7kbkxa](https://user-images.githubusercontent.com/72463627/235811803-ed54bbb6-b57b-454d-a1a0-fce4d0612068.gif)
+![static site](https://user-images.githubusercontent.com/72463627/235916836-abc70d4c-3a86-4787-a93f-05537d4d5cc9.gif)
 
 ## 7. συμμετοχικό περιεχόμενο B1
 
