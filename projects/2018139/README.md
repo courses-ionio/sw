@@ -80,6 +80,11 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
  Για την μετατροπή του βιβλίου kallipos σε html χρησιμοποιήθηκε το εργαλείο pollen. Αρχικά έγινε η εγκατάσταση του στο σύστημα του Arch Linux και στην συνέχεια με την χρήση ενός [script](https://github.com/p18stef/arxeia_anaforas/blob/main/make-latex-html.sh) μετατράπηκε το βιβλίο σε html.
 ![htmlbook](https://user-images.githubusercontent.com/115227021/236342694-96013cb4-ad4a-4511-9970-693c3ac14e80.png)
 
+- [script](https://github.com/p18stef/arxeia_anaforas/blob/main/make-latex-html.sh)
+
+- [MyBook_html](https://p18stef.github.io/htmlbook/)
+
 ## 9ο ΠΑΡΑΔΟΤΕΟ :Συμμετοχικό περιεχόμενο B2
+
 
 
