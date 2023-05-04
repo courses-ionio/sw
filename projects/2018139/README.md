@@ -65,5 +65,21 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 - [My Blog](https://p18stef.github.io/myblog/)
 - [My Repos](https://github.com/p18stef/myblog)
 
+## 7ο ΠΑΡΑΔΟΤΕΟ : Συμμετοχικό περιεχόμενο B1
+
+Για την κατασκεύη του συμμετοχικού περιεχομένου αποφάσησα να προσθέσω ένα παιχνίδι προσομοίωσης οδήγησης. Το παιχνίδι που επέλεξα είναι το Euro Track Simulator. Στην συνέχεια παραθέτω την μελέτη περίπτωσης που έχω εκτελέσει αλλά και το link που οδηγεί στο netlify.
+
+- [CASE STUDY](https://github.com/p18stef/site/blob/organization/_case-study/VirtualGame.md)
+
+- [INCLUDES](https://github.com/p18stef/site/blob/organization/_includes/VideoGame.md)
+
+ - [NETLIFY](...)
+
+## 8ο ΠΑΡΑΔΟΤΕΟ : Κατασκευή του βιβλίου Β2
+
+ Για την μετατροπή του βιβλίου kallipos σε html χρησιμοποιήθηκε το εργαλείο pollen. Αρχικά έγινε η εγκατάσταση του στο σύστημα του Arch Linux και στην συνέχεια με την χρήση ενός [script](https://github.com/p18stef/arxeia_anaforas/blob/main/make-latex-html.sh) μετατράπηκε το βιβλίο σε html.
+![htmlbook](https://user-images.githubusercontent.com/115227021/236342694-96013cb4-ad4a-4511-9970-693c3ac14e80.png)
+
+## 9ο ΠΑΡΑΔΟΤΕΟ :Συμμετοχικό περιεχόμενο B2
 
 
