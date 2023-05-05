@@ -85,6 +85,10 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 - [MyBook_html](https://p18stef.github.io/htmlbook/)
 
 ## 9ο ΠΑΡΑΔΟΤΕΟ :Συμμετοχικό περιεχόμενο B2
+Για το έννατο παραδοτέο αποφασισα να προσθέσω στο site την βιογραφία του Bill Gates. Επέλεξα τον συγκεκριμένο άνθρωπο διότι εκτός από έναν μεγάλο εφευρέτη και επιστήμονα, παίζει πολύ σημαντικό ρόλο και στο κομμάτι της φιλανθρωπίας. Κατάφερε με κινήσεις ακριβείας να εκτοξεύσει την αξία της microsoft αλλά και να συμβάλει στην τεχνολογική ανάπτυξη παράλληλα.
 
+- [BillGates.md](https://github.com/p18stef/site/blob/organization/_includes/BiilGates.md)
+
+- [NETLIFY](...)
 
 
