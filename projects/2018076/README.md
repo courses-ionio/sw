@@ -301,4 +301,12 @@
 
 [#1528](https://github.com/courses-ionio/sw/discussions/1528#discussioncomment-5500049)
 
+### Σχολιασμός αναφορών συναδέλφων
+
+[#1638](https://github.com/courses-ionio/sw/pull/1638#issuecomment-1535825230)
+
+
+
 [Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
+
+
