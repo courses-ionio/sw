@@ -13,11 +13,11 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -37,7 +37,7 @@
 
 * Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
 
-**Κριτήρια βαθμολογίας:**  10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 30% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 50% [συμμετοχή στην τάξη](https://epidrome.github.io/teaching/classroom/) + 10% [προαιρετικό bonus](https://epidrome.github.io/teaching/bonus/)
+**Κριτήρια βαθμολογίας:**  10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 30% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 40% [συμμετοχή στην τάξη](https://epidrome.github.io/teaching/classroom/) + 10% [προαιρετικό bonus](https://epidrome.github.io/teaching/bonus/)
 
 **Τελική βαθμολόγηση:** Θα πρέπει να έχετε συμπληρώσει την βάση σε κάθε ένα από τα παραπάνω κριτήρια. Ορισμένα από τα κριτήρια (π.χ. συνεργασία, παρουσιάσεις προόδου) είναι διαθέσιμα μόνο κατά την περίοδο του μαθήματος, οπότε θα πρέπει να τα έχετε ήδη ολοκληρώσει κατά την τρέχουσα χρονιά, ώστε να υπάρχει δικαίωμα συμμετοχής στην επαναληπτική ή στην επί πτυχίω εξέταση. Επίσης, τα βίντεο κουϊζ είναι μεν διαθέσιμα και στην επαναληπτική εξεταστική, αλλά είναι δύσκολο να απαντηθούν χωρίς τις τακτικές συναντήσεις και τις σχετικές συζητήσεις που γίνονται εκεί. 
 
