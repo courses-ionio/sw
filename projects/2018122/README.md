@@ -10,16 +10,16 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Organization](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4950763) , [Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1159) | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1302) | |
-| 3 | Γραμμή εντολών (no systemd) |   [Discussion](https://github.com/courses-ionio/sw/discussions/1336) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1370) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussion](https://github.com/courses-ionio/sw/discussions/1472) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Discussion](https://github.com/courses-ionio/sw/discussions/1613) | |
-| 7 | συμμετοχικό περιεχόμενο B1 |[Discussion](https://github.com/courses-ionio/sw/discussions/1614) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussion](https://github.com/courses-ionio/sw/discussions/1615) | |
-| 9 | συμμετοχικό περιεχόμενο B2 |[Discussion](https://github.com/courses-ionio/sw/discussions/1616) | |
-| 10 | Τελική αναφορά* | [Discussion](https://github.com/courses-ionio/sw/discussions/1639) | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Organization](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-4950763) , [Εισαγωγή](https://github.com/courses-ionio/sw/discussions/1159) | - |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1302) | 10/10 |
+| 3 | Γραμμή εντολών (no systemd) |   [Discussion](https://github.com/courses-ionio/sw/discussions/1336) | 7/10 |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [Discussion](https://github.com/courses-ionio/sw/discussions/1370) | 7/10 |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussion](https://github.com/courses-ionio/sw/discussions/1472) | 6/10 |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Discussion](https://github.com/courses-ionio/sw/discussions/1613) | 8/10 |
+| 7 | συμμετοχικό περιεχόμενο B1 |[Discussion](https://github.com/courses-ionio/sw/discussions/1614) | 8/10 |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussion](https://github.com/courses-ionio/sw/discussions/1615) | 9/10 |
+| 9 | συμμετοχικό περιεχόμενο B2 |[Discussion](https://github.com/courses-ionio/sw/discussions/1616) | 10/10 |
+| 10 | Τελική αναφορά* | [Discussion](https://github.com/courses-ionio/sw/discussions/1639) | - |
 
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 1 | Εισαγωγή
