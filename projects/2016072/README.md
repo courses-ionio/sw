@@ -77,13 +77,14 @@ message μου φάνηκε αρκετά δυσνόητο. Μετά από με�
 ![static-blog](https://github.com/AlxiKan/sw-extras/blob/main/Screenshot%20from%202023-05-05%2016-38-15.png)
 
 # Παραδοτέο 7
-
+Σε αυτό το παραδοτέο έγραψα ένα case study για το Compatible Time-Sharing System ή αλλιώς CTSS το οποίο ήταν ένα λειτουργικό σύστημα το οποίο υλοποιήθηκε στο ΜΙΤ τη δεκαετία του 60 και είχε παρουσιάσει
+πολλές ιδέες και καινοτομίες σχετικά με τον ταυτοχρονισμό.
 - [Compatible Time-Sharing System case study](https://silver-figolla-420cf1.netlify.app//case-study/ctss/)
 
 # Παραδοτέο 8
 
 # Παραδοτέο 9
-
+Σε αυτό το παραδοτέο έγραψα τη βιογραφία του Fernando Corbato ο οποίος είναι ένα από τα άτομα που συνέσφεραν στην υλοποίηση του Compatible Time-Sharing System.
 - [Fernando Corbato biography](https://silver-figolla-420cf1.netlify.app/biography/fernando-corbato/)
 
 # Παραδοτέο 10
