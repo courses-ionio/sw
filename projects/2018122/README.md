@@ -19,7 +19,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 | 7 | συμμετοχικό περιεχόμενο B1 |[Discussion](https://github.com/courses-ionio/sw/discussions/1614) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussion](https://github.com/courses-ionio/sw/discussions/1615) | |
 | 9 | συμμετοχικό περιεχόμενο B2 |[Discussion](https://github.com/courses-ionio/sw/discussions/1616) | |
-| 10 | Τελική αναφορά* | | |
+| 10 | Τελική αναφορά* | [Discussion](https://github.com/courses-ionio/sw/discussions/1639) | |
 
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 1 | Εισαγωγή
