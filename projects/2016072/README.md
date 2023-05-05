@@ -69,6 +69,9 @@ message μου φάνηκε αρκετά δυσνόητο. Μετά από με�
 - [ctss](https://silver-figolla-420cf1.netlify.app/timeline/collaboration/)
 
 # Παραδοτέο 6
+Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε το δικό μας static-blog χωρίς να χρησιμοποιήσουμε κάποιο σύστημα με systemd. Εγώ πειραματίστηκα με το [bashblog](https://github.com/cfenollosa/bashblog), το οποίο ουσιαστικά είναι ένα
+απλό bash script το οποίο σε βοηθάει να αυτοματοποιήσεις την υλοποίηση ενός static blog αλλά και την κοινοποίηση posts. [Εδώ](https://github.com/AlxiKan/static-blog) βρίσκεται το αποθετήριο από το δικό μου static blog.
+![static-blog](https://github.com/AlxiKan/sw-extras/blob/main/Screenshot%20from%202023-05-05%2016-38-15.png)
 
 # Παραδοτέο 7
 
