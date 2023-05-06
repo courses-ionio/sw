@@ -82,7 +82,10 @@
 
 #### Δεύτερος λογαριασμός στο Git Hub :[p2019vade](https://github.com/p2019vade) 
 
+### Delphi :
 ![delphi](https://github.com/Alessenia/Images-for-Report/blob/main/borland-delphi.png)
+
+### Object-Pascal :
 ![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal%20(2).jpg)
 
 ### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού :
@@ -159,13 +162,13 @@
 ![my-comment-2](https://github.com/Alessenia/Images-for-Report/blob/main/Screenshot%20(11).png)
 
 ### Τα αρχεία στον προσωπικό μου λογαριασμό :
-### [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh)
-### [Tα html αρχεία](https://github.com/p2019vade/kallipos/tree/master/html)
-### [Το ατομικό βιβλίο σε html μορφή κώδικα](https://github.com/p2019vade/kallipos/blob/master/book.html)
+#### [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh)
+#### [Tα html αρχεία](https://github.com/p2019vade/kallipos/tree/master/html)
+#### [Το ατομικό βιβλίο σε html μορφή κώδικα](https://github.com/p2019vade/kallipos/blob/master/book.html)
 
 ### Tα ομαδικά αρχεία : 
-### [shell script](https://github.com/p20sami/kallipos/blob/master/book-transform.sh)
-### [Το ομαδικό βιβλίο με τις σημειώσεις μας σε html](https://thetimeparadox.github.io/book.html)
+#### [shell script](https://github.com/p20sami/kallipos/blob/master/book-transform.sh)
+#### [Το ομαδικό βιβλίο με τις σημειώσεις μας σε html](https://thetimeparadox.github.io/book.html)
 
 # Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο Β2
 
