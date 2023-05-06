@@ -8,15 +8,15 @@
 ### Πίνακας με σύνοψη των παραδοτέων και σύντομη αυτοαξιολόγηση εβδομάδας
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| [1](#εισαγωγή-και-δημιουργία-ομάδας---1ο-παραδοτέο) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1200) |Συγγραφή της εισαγωγής μου με τις προσδοκίες μου από το μάθημα|
-| [2](#γραμμή-εντολών-systemd-και-συνεργασία-με-οργανισμό---2ο-παραδοτέο) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Discussions Link](https://github.com/courses-ionio/sw/discussions/1278) |Επέλεξα να χρησιμοποιήσω τα Arch Linux ως systemd σύστημα, όμως στη προσπάθεια να εγκαταστήσω γραφικό περιβάλλον για περισσότερη ευκολία το αποτέλεσμα ήταν να μην κάνει boot το σύστημα καθώς κάποια απαραίτητα πακέτα δεν λήφθηκαν. Μετά από πολλές ώρες troubleshooting κατάφερα να διορθώσω το πρόβλημα. Επίσης με την ομάδα μου δημιουργήσαμε τους κανόνες για την συνεργασία μας που θεωρώ πως είναι δίκαιοι. |
-| [3](#γραμμή-εντολών-χωρίς-systemd---3ο-παραδοτέο) | Γραμμή εντολών (no systemd) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1278)| Κατάφερα να εγκαταστήσω τα Artix Linux και τα Funtoo Linux στο VirtualBox, με επιτυχία. Ήταν μια περισσότερο χρονοβόρα (λόγω των Funtoo) παρά δύσκολη διαδικασία που πιστεύω έκανα καλά.|
-| [4](#κατασκευή-του-βιβλίου-α2---4ο-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1385)| Πρόσθεσα την σημείωση μου σε ένα κομμάτι του βιβλίου που βρήκα ενδιαφέρον. Πιστεύω από άποψη συνοχής ταιριάζει καθώς αναλύει τη συγκεκριμένη παράγραφο με παραδείγματα. |
-| [5](#συμμετοχικό-περιεχόμενο-α1-και-α2---5ο-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1437) | Πιστέυω πως έχω καλύψει το ζητούμενο επιλέγοντας δύο ενδιαφέρουσες περιπτώσεις. |
-| [6](#γραμμή-εντολών-custom-static-blog-generator---6o-παραδοτέο) | Γραμμή εντολών (no systemd, custom static blog generator) | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1491) | Κατάφερα ένα ικανοποιητικό αποτέλεσμα μέσω χρήσης του bashblog, με αρκετά ενδιαφέρον περιεχόμενο.|
-| [7](#συμμετοχικό-περιεχόμενο-β1---7ο-παραδοτέο) | συμμετοχικό περιεχόμενο B1 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1534) | Για το παραδοτέο επέλεξα το Audacity, που κατά τη γνώμη μου είναι μια αρκετά ενδιαφέρουσα περίπτωση που ανέλυσα τα βασικότερα σημεία της. |
-| [8](#κατασκευή-του-βιβλίου-β2---8ο-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussions Link](https://github.com/courses-ionio/sw/discussions/1608) | Σε αυτό το παραδοτέο με χρήση του pandoc, έγινε η μετατροπή του βιβλίου σε μορφή HTML, με κάποια μικροπροβλήματα. |
-| [9](#συμμετοχικό-περιεχόμενο-β2---9ο-παραδοτέο) | συμμετοχικό περιεχόμενο B2 | [Discussions Link](https://github.com/courses-ionio/sw/discussions/1611)| Επέλεξα να γράψω την βιογραφία του Scott Forstall, ενός από τους συντελεστές του iOS.|
+| [1](#εισαγωγή-και-δημιουργία-ομάδας---1ο-παραδοτέο) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [#1200](https://github.com/courses-ionio/sw/discussions/1200) |Συγγραφή της εισαγωγής μου με τις προσδοκίες μου από το μάθημα|
+| [2](#γραμμή-εντολών-systemd-και-συνεργασία-με-οργανισμό---2ο-παραδοτέο) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[#1272](https://github.com/courses-ionio/sw/discussions/1278) |Επέλεξα να χρησιμοποιήσω τα Arch Linux ως systemd σύστημα, όμως στη προσπάθεια να εγκαταστήσω γραφικό περιβάλλον για περισσότερη ευκολία το αποτέλεσμα ήταν να μην κάνει boot το σύστημα καθώς κάποια απαραίτητα πακέτα δεν λήφθηκαν. Μετά από πολλές ώρες troubleshooting κατάφερα να διορθώσω το πρόβλημα. Επίσης με την ομάδα μου δημιουργήσαμε τους κανόνες για την συνεργασία μας που θεωρώ πως είναι δίκαιοι. |
+| [3](#γραμμή-εντολών-χωρίς-systemd---3ο-παραδοτέο) | Γραμμή εντολών (no systemd) | [#1278](https://github.com/courses-ionio/sw/discussions/1278)| Κατάφερα να εγκαταστήσω τα Artix Linux και τα Funtoo Linux στο VirtualBox, με επιτυχία. Ήταν μια περισσότερο χρονοβόρα (λόγω των Funtoo) παρά δύσκολη διαδικασία που πιστεύω έκανα καλά.|
+| [4](#κατασκευή-του-βιβλίου-α2---4ο-παραδοτέο) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [#1385](https://github.com/courses-ionio/sw/discussions/1385)| Πρόσθεσα την σημείωση μου σε ένα κομμάτι του βιβλίου που βρήκα ενδιαφέρον. Πιστεύω από άποψη συνοχής ταιριάζει καθώς αναλύει τη συγκεκριμένη παράγραφο με παραδείγματα. |
+| [5](#συμμετοχικό-περιεχόμενο-α1-και-α2---5ο-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 + A2 | [#1437](https://github.com/courses-ionio/sw/discussions/1437) | Πιστέυω πως έχω καλύψει το ζητούμενο επιλέγοντας δύο ενδιαφέρουσες περιπτώσεις. |
+| [6](#γραμμή-εντολών-custom-static-blog-generator---6o-παραδοτέο) | Γραμμή εντολών (no systemd, custom static blog generator) | [#1491](https://github.com/courses-ionio/sw/discussions/1491) | Κατάφερα ένα ικανοποιητικό αποτέλεσμα μέσω χρήσης του bashblog, με αρκετά ενδιαφέρον περιεχόμενο.|
+| [7](#συμμετοχικό-περιεχόμενο-β1---7ο-παραδοτέο) | συμμετοχικό περιεχόμενο B1 | [#1534](https://github.com/courses-ionio/sw/discussions/1534) | Για το παραδοτέο επέλεξα το Audacity, που κατά τη γνώμη μου είναι μια αρκετά ενδιαφέρουσα περίπτωση που ανέλυσα τα βασικότερα σημεία της. |
+| [8](#κατασκευή-του-βιβλίου-β2---8ο-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[#1608](https://github.com/courses-ionio/sw/discussions/1608) | Σε αυτό το παραδοτέο με χρήση του pandoc, έγινε η μετατροπή του βιβλίου σε μορφή HTML, με κάποια μικροπροβλήματα. |
+| [9](#συμμετοχικό-περιεχόμενο-β2---9ο-παραδοτέο) | συμμετοχικό περιεχόμενο B2 | [#1611](https://github.com/courses-ionio/sw/discussions/1611)| Επέλεξα να γράψω την βιογραφία του Scott Forstall, ενός από τους συντελεστές του iOS.|
 | 10 | Τελική αναφορά* | | |
 | [-](#ομαδικότητα) | Ομαδικότητα | | Discussions που ξεκίνησα ή συμμετείχα. |
 
@@ -24,6 +24,8 @@
 Καλώς η κακώς, το λογισμικό πλέον αποτελεί ένα αναπόσπαστο κομμάτι της καθημερινότητας μας. Απο τα smartphone, τους υπολογιστές, τα ιατρικά μηχανήματα, την μουσική, τις ταινίες μέχρι τα έξυπνα
 ψυγεία και τον φούρνο μικροκυμμάτων (ο οποίος περιέχει ένα πρόγραμμα που διαχειρίζεται όλες τις λειτουργίες) το λογισμικό βρίσκεται παντού. Αφενός, βοηθάει τον άνθρωπο
 καθιστώντας απλούστερες και αυτοματοποιημένες κάποιες διαδικασίες όπως η προσκόμιση εγγράφων σε μια δημόσια υπηρεσία που πλέον γίνεται ηλεκτρονικά και η ηλεκτρονική τραπεζική, ή οι ποικίλες εφαρμογές που διευκολύνουν την καθημερινότητα μας σε διάφορους τομείς, αφετέρου όμως τείνει να αντικαθιστά τον άνθρωπο, στο όνομα της αυτοματοποίησης, όπως για παράδειγμα στα σύγχρονα τρένα που είναι απολύτως αυτόματα, στις τραπεζικές υπηρεσίες και σε μια γραμμή παραγωγής όπου η τεχνολογία και ο αυτοματισμός "κλέβουν" την εργασία του ανθρώπου, Αν όμως το λογισμικό δεν σχεδιαστεί σωστά, μπορεί και να προκαλέσει προβλήματα, άλλοτε σοβαρά και άλλοτε μικρής έκτασης. Είναι επομένως λεπτή η γραμμή που διαχωρίζει το που το λογισμικό βοηθάει τον άνθρωπο και που ξεκινάει να τον αντικαθιστά, ή που μπορεί να του προκαλέσει προβλήματα. Με αφορμή το παρόν μάθημα το οποίο ασχολείται με το λογισμικό, θα ήθελα να αποκτήσω τις γνώσεις οι οποίες θα μου επιτρέψουν μελλοντικά να αναπτύσσω λογισμικό, για διάφορες πτυχές είτε αυτές είναι αυτοματισμός, είτε μουσική, είτε εφαρμογές για -τις πλέον επεκτάσεις του χεριού μας- έξυπνα κινητά τηλέφωνα, είτε το οτιδήποτε και με διάφορα εργαλεία, το οποίο θα είναι μια βοήθεια στον άνθρωπο και θα είναι ένα χρήσιμο και εύκολα προσβάσιμο κομμάτι στη καθημερινότητα του, χωρίς όμως να παραβιάζει τον ίδιο τον άνθρωπο, παραδείγματος χάρην να είναι σε θέση παίρνει αυτό αποφάσεις για εκείνον που αφορούν την καθημερινότητα του ή ακόμη χειρότερα, να τον αντικαταστήσει. Παρατηρώντας όμως τα παραδοτέα, θα είμαι σε θέση να γνωρίσω λειτουργικά συστήματα τα οποία -όπως μέχρι πρότεινος- δεν γνώριζα, και κυριότερα έχω την περιέργεια να δω ιδίοις όμμασι τη διαφορά ανάμεσα στο systemd λειτουργικό σύστημα και σε ένα που δεν το διαθέτει και να δω τι κρύβει το καθένα. Μέσα από το συμμετοχικό περιεχόμενο, θα έχω την ευκαιρία να μελετήσω περιπτώσεις και ανθρώπους, τα οποία συνέβαλλαν στην ανάπτυξη του μοντέρνου λογισμικού όπως το ξέρουμε και οι οποίοι ήταν οι πατέρες της ανάπτυξης του λογισμικού που συνέβαλλαν στην διαμόρφωση του κόσμου και της καθημερινότητας όπως την γνωρίζουμε σήμερα χάρην στις ευκολίες που μας παρέχει το λογισμικό. Τέλος, με αφορμή την κατασκευή του βιβλίου, είμαι ενθουσιασμένος που θα έχω την δυνατότητα μου να συμβάλλω με το λιθαράκι μου σε ένα βιβλίο επιστημονικό, που αφορά την πληροφορική, ανθρώπους-ορόσημα καθώς και περιπτώσεις που έχουν συμβάλλει στην ανάπτυξη λογισμικού και συσκευών που γνωρίζουμε μέχρι σήμερα, μέσω της δουλειάς που έκαναν στο παρελθόν. Είναι άλλωστε σημαντικό να γνωρίζουμε την ιστορία είτε αυτή αφορά κάποια γεγονότα είτε λογισμικό και προιόντα του όπως στη προκειμένη περίπτωση.
+
+Πέραν αυτού, δημιουργήθηκε και η ομάδα μου στην οποία έχω τον ρόλο ενός εκ των διαχειριστών της, με νέα "πρόκληση" την συνεργασία και συνεννόηση με τα μέλη της ομάδας.
 
 ### Σύνοψη
 Όλα τα παραδοτέα παραδόθηκαν έγκαιρα και ολοκληρώθηκαν όλα τα ζητούμενα του κάθε παραδοτέου. Σε κάποια παραδοτέα έγιναν έξτρα προσθήκες πέραν των ζητουμένων, ενώ μετά την ενδιάμεση παρουσίαση έγιναν διορθώθηκαν πράγματα που παρατηρήθηκαν αλλά έγιναν και αλλαγές τις οποίες ήθελα ο ίδιος να κάνω. Η αρίθμηση στην στήλη της εβδομάδας λετουργεί και σαν εσωτερικός σύνδεσμος προς το κάθε παραδοτέο μετά από πρόταση του καθηγητή στην ενδιάμεση παρουσίαση.
@@ -37,13 +39,15 @@
 
 ![lr](https://github.com/p20sami/randompics/blob/main/00099FC1-D0C7-414D-B90C-CA48CF2079FA.jpeg)
 
-Παρακάτω βρίσκονται και τα υπόλοιπα μέρη του παραδοτέου **(Update:Εγκατέστησα σε μεταγενέστερο χρόνο το γραφικό περιβάλλον KDE Plasma, καθώς πριν δεν είχα καθόλου γραφικό περιβάλλον και η εγκατάσταση ήταν μόνο γραμμή εντολών. Αυτό σαν αποτέλεσμα είχε κάθε φορά που ανέβαζα ένα βίντεο στο asciinema να πρέπει να σβήνω τον υπολογιστή μου για να το ανάψω εκ νέου και να μπώ από windows για να μπορέσω να δω και να πάρω το link του βίντεο και ακόμη χειρότερα, όταν έκανα κάποιο shell script η μοναδική λύση μου ήταν να το βγάλω φωτογραφία με το κινητό μου και να κάνω ξανά την διαδικασία να μπω απο windows και να γράψω στο github πάλι χειροκίνητα όλο το script για να το ανεβάσω. Έτσι, για πρακτικούς λόγους εγκατέστηκα το KDE Plasma ώστε να μην χρειάζεται αυτή η διαδικασία συνέχεια, καθώς μπορώ να κάνω όλα αυτά προαναφέρθηκαν μέσα από τα Arch Linux αντί να εναλλάσω συνέχεια λειτουργικά συστήματα.)**:
+Παρακάτω βρίσκονται και τα υπόλοιπα μέρη του παραδοτέου **(Update:Εγκατέστησα σε μεταγενέστερο χρόνο το γραφικό περιβάλλον KDE Plasma, καθώς πριν δεν είχα καθόλου γραφικό περιβάλλον και η εγκατάσταση ήταν μόνο γραμμή εντολών. Αυτό σαν αποτέλεσμα είχε κάθε φορά που ανέβαζα ένα βίντεο στο asciinema να πρέπει να σβήνω τον υπολογιστή μου για να το ανάψω εκ νέου και να μπώ από windows για να μπορέσω να δω και να πάρω το link του βίντεο.)**:
+
+**Προβλήματα παραδοτέου:** Δεν αντιμετώπισα προβλήματα καθώς είχα ήδη εμπειρία εγκατάστασης του λειτουργικού από το μάθημα Επικοινωνία Ανθρώπου-Υπολογιστή.
 
 #### Shell Script: [Asciinema](https://asciinema.org/a/Zj27TGcM3Y7ras3obrRANySOq) / [Κώδικας](https://github.com/p20sami/shell-scripts/blob/main/musicdownload.sh)
 
 #### Συνεργασία: [Κανόνες](https://github.com/TheTimeParadox)
 
-#### Asciinema: [Arch Linux Neofetch](https://asciinema.org/a/5T1OrDUUs8HdOgAI7I6h5LtIH) / [Ntfy](https://asciinema.org/a/T0SzZRNdH3CkSOAj9XNFYHMmm), [Systemd](https://asciinema.org/a/t022LDN1gqDYpcTy78OpzLySD) / [Updated Arch Linux Neofetch](https://asciinema.org/a/8FnTHQ2ysgaQnvH4gD3Tpg5ca)
+#### Asciinema: [Arch Linux Neofetch](https://asciinema.org/a/5T1OrDUUs8HdOgAI7I6h5LtIH) / [Ntfy](https://asciinema.org/a/T0SzZRNdH3CkSOAj9XNFYHMmm), [Systemd](https://asciinema.org/a/t022LDN1gqDYpcTy78OpzLySD) / [Updated Arch Linux Neofetch](https://asciinema.org/a/gBoB2UAoNhMDI5RsNm8q4nIbI)
 
 #### Πηγές: [Arch Wiki Installation Guide](https://wiki.archlinux.org/title/installation_guide) / [MBR To GPT](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-an-mbr-disk-into-a-gpt-disk)
 
@@ -64,6 +68,7 @@
 
 **Trivia: To OpenRC θεωρείται πως είναι κοντά στη φιλοσοφία του UNIX όπου πρεσβεύεται το "Κάνε ένα πράγμα και κάνε το καλά. Επίσης το διάλεξα για τα Artix Linux καθώς το runit συνήθως είναι καταλληλότερο αν θέλουμε να τρέξουμε κάποιον σέρβερ ή για βαρέους χρήστες, πράγμα που δεν ισχύει στην περίπτωση μου. Αντικειμενικά η διαφορά ανάμεσα στις εκδόσεις με OpenRC, runit, s6 σαν τελικός χρήσητς είναι οι διαφορές στις εντολές κατά την εγκατάσταση και χρήση.**
 
+**Προβλήματα παραδοτέου:** Υπήρξαν κάποια μικροπροβλήματα στην εγκατάσταση πακέτων που λύθηκαν με την εγκατάσταση κάποιων απαραίτητων πακέτων που αναφέρονται προηγουμένως.
 
 #### Πηγές: [Artix Linux Wiki](https://wiki.artixlinux.org/Main/Installation) / [Arch Linux Wiki](https://wiki.archlinux.org/title/installation_guide) / [Arch Linux repositories support on Artix](https://wiki.artixlinux.org/Main/Repositories)
 
@@ -81,6 +86,8 @@
 
 ## Κατασκευή του βιβλίου Α2 - 4ο παραδοτέο
 Σε αυτό το παραδοτέο, το ζητούμενο ήταν η συνεισφορά στο βιβλίο με μια σημείωση μας. Συγκεκριμένα, πρόσθεσα μια παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με παράδειγμα και χρήσεις γλωσσών οπτικού προγραμματισμού και την αντίθετη πλευρά, παράδειγμα και χρήσεις συγγραφής πηγαίου κώδικα. Η προσθήκη στο κεφάλαιο έγινε με την αρίθμηση του [text](https://github.com/mibook/text/blob/main/ch04.txt) του repository του βιβλίου του μαθήματος καθώς στο παραγόμενο pdf, το 4ο κεφάλαιο εμφανίζεται σαν 6ο. Παρακάτω, υπάρχει screenshot της προσθήκης μου, links πρός τις προσθήκες μου στον οργανισμό, link προς το ομαδικό βιβλίο αλλά και τα αντίστοιχα link προς τα προσωπικά μου αποθετήρια.
+
+**Προβλήματα παραδοτέου:** Το κύριο πρόβλημα στο παραδοτέο ήταν το pandoc, καθώς είναι αρκετά προβληματικό στα Arch Linux όπου κατά συνέπεια αρχικά δεν εμφανίζοταν φωτογραφίες για παράδειγμα ή εμφανίζοταν διάφορα errors στα ξαφνικά. Εν τέλει αυτά τα προβλήματα λύθηκαν με πολύ κόπο.
 
 **Update: Μετά την ενδιάμεση παρουσίαση ενημέρωσα την σημείωση μου ώστε να καλύψω κάποια πράγματα που παρατηρήθηκαν. [Η παλιά σημείωση υπάρχει εδώ](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1887).png). Επίσης ενημέρωσα και το φίλτρο μου ώστε να είναι πιο ευδιάκριτα τα στοιχεία μου και επαναλήφθηκε η διαδικασία του παραδοτέου για να γίνουν διορθώσεις.**
 
@@ -104,6 +111,8 @@
 
 Παρακάτω, υπάρχουν οι πηγές καθώς και τα link προς τα ομαδικά αποθετήρια και Netlify, αλλά και τα αντίστοιχα ατομικά.
 
+**Προβλήματα παραδοτέου:** Δεν αντιμετώπισα κάποιο πρόβλημα στο παραδοτέο.
+
 **Update: Αντικατέστησα το σετ διαφανειών "εξομοίωση" που είχα προσθέσει για την προσθήκη του Termux με το σετ "τεχνολογίες έξυπνων κινητών τηλεφώνων" καθώς πιστεύω πως ταιριάζει περισσότερο με την ροή της εργασίας μου και έχει μεγαλύτερη συνοχή, καθώς και για να αποφύγω ομοιότητες με εργασίες συμφοιτητών. Το εν λόγω σετ το είχα δημιουργήσει πριν το σετ "εξομοίωση" αλλά το διέγραψα για να χρησιμοποιήσω τις προαναφερθείσες διαφάνειες, αλλά αποφάσισα να το ξαναπροσθέσω μετά την ενδιάμεση παρουσίαση.**
 
 
@@ -120,9 +129,9 @@
 
 **Pure Data**: [Gallery](https://github.com/p20samiv2/_gallery/blob/master/pure-data.md) / [Images (full)](https://github.com/p20samiv2/images/blob/master/pure-data.jpg) , [Images (thumbnail)](https://github.com/p20samiv2/images/blob/master/pure-data-thumb.jpg) 
 
-**Διαφάνειες markdown**: [Τεχνολογίες έξυπνων κινητών τηλεφώνων](https://github.com/p20samiv2/site/blob/master/_slides/smartphone-tech.md) 
+**_slides**: [smartphone-tech.md](https://github.com/p20samiv2/site/blob/master/_slides/smartphone-tech.md) 
 
-**Χρονολόγια markdown**: [Εργαλεία παραγωγής και διαμοιρασμού μουσικής](https://github.com/p20samiv2/site/blob/master/_timeline/musictools.md)
+**_timeline**: [musictools.md](https://github.com/p20samiv2/site/blob/master/_timeline/musictools.md)
 
 **Pull Requests**: [Gallery](https://github.com/TheTimeParadox/_gallery/pull/2) / [Images](https://github.com/TheTimeParadox/images/pull/2) / [Site](https://github.com/TheTimeParadox/site/pull/1) / [Site Update](https://github.com/TheTimeParadox/site/pull/9)
 
@@ -134,9 +143,9 @@
 
 **Pure Data**: [Gallery](https://github.com/TheTimeParadox/_gallery/blob/master/pure-data.md) / [Images (full)](https://github.com/TheTimeParadox/images/blob/master/pure-data.jpg) , [Images (thumbnail)](https://github.com/TheTimeParadox/images/blob/master/pure-data-thumb.jpg) 
 
-**Διαφάνειες markdown**: [Τεχνολογίες έξυπνων κινητών τηλεφώνων](https://github.com/TheTimeParadox/site/blob/master/_slides/smartphone-tech.md) / [Οπτικός προγραμματισμός](https://github.com/TheTimeParadox/site/blob/master/_slides/visual-programming.md)  
+**_slides**: [smartphone-tech.md](https://github.com/TheTimeParadox/site/blob/master/_slides/smartphone-tech.md) / [visual-programming.md](https://github.com/TheTimeParadox/site/blob/master/_slides/visual-programming.md)  
 
-**Χρονολόγια markdown**: [Εργαλεία παραγωγής και διαμοιρασμού μουσικής](https://github.com/TheTimeParadox/site/blob/master/_timeline/musictools.md) / [Εργαλεία ανάπτυξης λογισμικού](https://github.com/TheTimeParadox/site/blob/master/_timeline/softwaretools.md)
+**_timeline**: [musictools.md](https://github.com/TheTimeParadox/site/blob/master/_timeline/musictools.md) / [softwaretools.md](https://github.com/TheTimeParadox/site/blob/master/_timeline/softwaretools.md)
 
 **Σημείωση: Οι διαφάνειες "Οπτικός προγραμματισμός" και το χρονολόγιο "Εργαλεία ανάπτυξης λογισμικού δεν φαίνονται στο ατομικό Netlify γιατί έχουν γίνει συνεργατικά με την ομάδα.**
 
@@ -145,6 +154,8 @@
 ## Γραμμή εντολών custom static blog generator - 6o παραδοτέο
 Σε αυτό το παραδοτέο, δημιούργησα ένα blog με χρήση του [bashblog](https://github.com/cfenollosa/bashblog) μέσω των Artix Linux μιάς και το παραδοτέο έπρεπε να γίνει σε no-systemd σύστημα. Δεν το υλοποίησα σε Funtoo καθώς οι χρόνοι για το compile των απαιτούμενων πακέτων ήταν **απίστευτα αργοί**. Έτσι λοιπόν, στο δημιουργηθέν blog,
 υπάρχει περιεχόμενο το οποίο σχετίζεται με την εισαγωγή μου και συγκεκριμένα για το πως το λογισμικό μας έχει βοηθήσει αλλά και από την άλλη, το πως δημιουργεί προβλήματα και το που μας αντικαθιστά. Παρακάτω υπάρχουν οι σύνδεσμοι για το blog, το αποθετήριο του blog καθώς και το βίντεο στο asciinema που επιδεικνύεται η απλότητα του bashblog και το πως μπορούμε να δημιουργήσουμε εύκολα ένα blog.
+
+**Προβλήματα παραδοτέου:** Δεν αντιμετώπισα προβλήματα σε αυτό το παραδοτέο.
 
 **Εργαλείο**: [BashBlog](https://github.com/cfenollosa/bashblog)
 
@@ -163,7 +174,7 @@
 #### Ατομικά link:
 **Netlify**: [Μελέτη περίπτωσης Audacity](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/audacity/)
 
-**Images**: [Audacity version 3](https://github.com/p20samiv2/images/blob/master/audacity-v3.jpg) / [Audacity version 3 thumbnail](https://github.com/p20samiv2/images/blob/master/audacity-v3-thumb.jpg) / [Audacity version 2](https://github.com/p20samiv2/images/blob/master/audacity.png) / [Audacity architecture layers](https://github.com/p20samiv2/images/blob/master/audacity-layers.png)
+**images**: [audacity-v3.jpg](https://github.com/p20samiv2/images/blob/master/audacity-v3.jpg) / [audacity-v3-thumb.jpg](https://github.com/p20samiv2/images/blob/master/audacity-v3-thumb.jpg) / [audacity.png](https://github.com/p20samiv2/images/blob/master/audacity.png) / [audacity-layers.png](https://github.com/p20samiv2/images/blob/master/audacity-layers.png)
 
 **_case-study**: [audacity.md](https://github.com/p20samiv2/site/blob/master/_case-study/audacity.md)
 
@@ -172,17 +183,21 @@
 #### Ομαδικά link:
 **Netlify**: [Μελέτη περίπτωσης Audacity](https://thetimeparadox-pibook.netlify.app/case-study/audacity/)
 
-**Images**: [Audacity version 3](https://github.com/TheTimeParadox/images/blob/master/audacity-v3.jpg) / [Audacity version 3 thumbnail](https://github.com/TheTimeParadox/images/blob/master/audacity-v3-thumb.jpg) / [Audacity version 2](https://github.com/TheTimeParadox/images/blob/master/audacity.png) / [Audacity architecture layers](https://github.com/TheTimeParadox/images/blob/master/audacity-layers.png)
+**images**: [audacity-v3.jpg](https://github.com/TheTimeParadox/images/blob/master/audacity-v3.jpg) / [audacity-v3-thumb.jpg](https://github.com/TheTimeParadox/images/blob/master/audacity-v3-thumb.jpg) / [audacity.png](https://github.com/TheTimeParadox/images/blob/master/audacity.png) / [audacity-layers.png](https://github.com/TheTimeParadox/images/blob/master/audacity-layers.png)
 
 **_case-study**: [audacity.md](https://github.com/TheTimeParadox/site/blob/master/_case-study/audacity.md)
 
 **_includes**: [cs-audacity.md](https://github.com/TheTimeParadox/site/blob/master/_includes/cs-audacity.md)
 
-**Pull Requests**: [Images](https://github.com/TheTimeParadox/images/pull/4) / [Site](https://github.com/TheTimeParadox/site/pull/4)
+**Pull Requests**: [images](https://github.com/TheTimeParadox/images/pull/4) / [Site](https://github.com/TheTimeParadox/site/pull/4)
+
+**Wikipedia Commons:** [audacity-v3.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Audacity_Version_3.png/640px-Audacity_Version_3.png) / [audacity.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Audacity_version_3.2.png/640px-Audacity_version_3.2.png) / [audacity-layers.png](https://upload.wikimedia.org/wikipedia/commons/3/34/Audacity_Layers.png)
+
+**Προβλήματα παραδοτέου:** Δεν υπήρξαν προβλήματα.
 
 **Update: Πρόσθεσα επίσης μια σύντομη μελέτη στο ατομικό μου netlify που δεν σχετίζεται με το συμμετοχικό περιεχόμενο αλλά με την εισαγωγή μου, και πραγματεύεται την περίπτωση του Therac-25 σαν ένα παράδειγμα του πως το λογισμικό εκτός από μεγάλη βοήθεια μπορεί να είναι και προβληματικό.**
 
-**Therac-25: [Netlify](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/therac-25/) / [Images, full](https://github.com/p20samiv2/images/blob/master/therac-25.png) , [Images, thumbnail](https://github.com/p20samiv2/images/blob/master/therac-25-thumb.png) / [_case-study](https://github.com/p20samiv2/site/blob/master/_case-study/therac-25.md) / [_includes](https://github.com/p20samiv2/site/blob/master/_includes/cs-therac-25.md) / [Wikipedia](https://en.wikipedia.org/wiki/Therac-25).**
+**Therac-25: [Netlify](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/therac-25/) / [therac-25.png](https://github.com/p20samiv2/images/blob/master/therac-25.png) , [therac-25-thumb.png](https://github.com/p20samiv2/images/blob/master/therac-25-thumb.png) / [_case-study](https://github.com/p20samiv2/site/blob/master/_case-study/therac-25.md) / [_includes](https://github.com/p20samiv2/site/blob/master/_includes/cs-therac-25.md) / [Wikipedia](https://en.wikipedia.org/wiki/Therac-25).**
 
 
 ## Κατασκευή του βιβλίου Β2 - 8ο παραδοτέο
@@ -210,6 +225,8 @@
 
 ![](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1904).png)
 
+**Προβλήματα παραδοτέου:** Όπως στο παραδοτέο 4, έτσι και εδώ το pandoc συνέχιζε να μην συνεργάζεται με διάφορα προβλήματα στα Arch Linux (όπου χωρίς λόγο έπρεπε να κατεβάσω όλες τις βιβλιοθήκες haskell μία προς μία καθώς δεν τις εντόπιζε το pandoc. Τελικά συνέχισα το παραδοτέο στα Artix Linux όπου η διαδικασία όλως περιέργως -αφού βασίζονται στα Arch Linux- ήταν πολύ καλύτερη.
+
 ## Συμμετοχικό περιεχόμενο Β2 - 9ο παραδοτέο
 Για το ολοκληρωτικό μέρος του συμμετοχικού παραδοτέου, αποφάσισα να μελετήσω και να γράψω την βιογραφία του Scott Forstall, σε ευθυγράμμιση με προηγούμενες προσθήκες του συμμετοχικού παραδοτέου Α1+Α2 που αφορούσαν smartphones. O Scott Forstall ηγήθηκε της ανάπτυξης του iOS, του λειτουργικού συστήματος που χρησιμοποιεί το iPhone, αλλά και άλλων προιόντων της Apple. Παρακάτω υπάρχουν τα ατομικά και ομαδικά links προς τις προσθήκες, τα pull request και το Netlify. Υπάρχουν επίσης και οι πηγές που μελετήθηκαν για την βιογραφία.
 
@@ -223,6 +240,10 @@
 
 **_includes:** [bio-forstall.md](https://github.com/p20samiv2/site/blob/master/_includes/bio-forstall.md) 
 
+**images:** [forstall.jpg](https://github.com/p20samiv2/images/blob/master/forstall.jpg) / [forstall-thumb.jpg](https://github.com/p20samiv2/images/blob/master/forstall-thumb.jpg)
+
+**Wikipedia Commons:** [Link άδειας φωτογραφίας](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Scott_Forstall.jpg/800px-Scott_Forstall.jpg)
+
 **Pull Request:** [Images](https://github.com/TheTimeParadox/images/pull/8) / [Site](https://github.com/TheTimeParadox/site/pull/10)
 
 #### Ομαδικά link:
@@ -233,12 +254,27 @@
 
 **_includes:** [bio-forstall.md](https://github.com/TheTimeParadox/site/blob/master/_includes/bio-forstall.md) 
 
+**images:** [forstall.jpg](https://github.com/TheTimeParadox/images/blob/master/forstall.jpg) / [forstall-thumb.jpg](https://github.com/TheTimeParadox/images/blob/master/forstall-thumb.jpg)
+
+**Προβλήματα παραδοτέου:** Δεν συνάντησα κάποιο πρόβλημα στο παραδοτέο.
+
 
 ## Επίλογος και τελική αναφορά - 10ο παραδοτέο
--
+Φτάνοντας στο τέλος της εργασίας, μπορώ να πω ότι απέκτησα γνώσεις, έμαθα να συνεργάζομαι καλύτερα αλλά και ότι αυτές οι γνώσεις και η δική μου έρευνα με βοήθησαν να πετύχω τους στόχους που έθεσα εξ'αρχής σε μεγάλο βαθμό αν όχι ολοκληρωτικά.
+
+Αρχικά, λόγω της φύσης της εργασίας απαιτούμενο ήταν η συνεργασία με ομάδα. Ομολογουμένως δεν είμαι ο καλύτερος ομαδικός "παίκτης" καθώς προτιμώ να κάνω μόνος μου κάποια εργασία ή το οτιδήποτε γενικά για να έχω τον απόλυτο έλεγχο των πράξεων, οπότε είχα αρκετές αμφιβολίες ως πρός την πορεία της συνεργασίας. Όσο όμως προχωρούσε η εργασία και κατά η συνέπεια η συνεργασία κατάλαβα οτι δεν υπήρχε λόγος ανησυχίας ή αμφιβολιών καθώς η συνεργασία μεταξύ της ομάδας ήταν πάρα πολύ ικανοποιητική τόσο από άποψη συνεννόησης όσο και ποιότητας. Κατάλαβα πόσο πολύτιμη είναι η ομαδική εργασία, ενώ μου άρεσε το πνεύμα της αλληλοβοήθειας μεταξύ μας, όπου και εγώ βοήθησα εκεί που μπορούσα αλλά βοηθήθηκα και ο ίδιος όταν δεν καταλάβαινα κάτι ή κάτι ήταν καινούριο για εμένα -όπως κάποια παραδοτέα τα οποία δεν υπήρχαν όταν έκανα την εργασία του hci- και όπως ήταν λογικό δεν ήξερα ακριβώς πως να κινηθώ, οπότε μέσω της βοήθειας της ομάδας μου καθώς και την έρευνα μου κατάφερα να τα φέρω εις πέρας. Έμαθα επίσης να είμαι ομαδικός και να απολέσω τις ανησυχίες μου όταν δεν ήμουν υπεύθυνος εξ'ολοκλήρου για κάτι, όπως ο καταμερισμός της δουλειάς μεταξύ μας στα ομαδικά παραδοτέα. Όμως, η συνεργασία δεν σταμάτησε στα παραδοτέα αυτά καθώς ένας από τους κανόνες μας ήταν πως όποιος θέλει μπορεί να μοιράζεται γνώσεις για όποιο παραδοτέο επιθυμεί.
+
+Μέσα από την έρευνα κυρίως για το συμμετοχικό περιεχόμενο, συνάντησα ενδιαφέρουσες περιπτώσεις αλλά και μελέτησα αρκετό ενδιαφέρον περιεχόμενο. Έτσι, κατάφερα να καλύψω σε πολύ ικανοποιητικό βαθμό τους στόχους μου. Πιο συγκεκριμένα πρόσθεσα περιεχόμενο σε θεματικές που με ενδιαφέρουν περισσότερο όπως τα smartphones και τις τεχνολογίες που μας προσφέρουν αλλά και την μουσική -μεταξύ άλλων θεματικών που με ενδιαφέρουν-. Μικρότερος, δεν ήξερα ότι υπάρχουν γλώσσες προγραμματισμού και συναφή εργαλεία επικεντρωμένες στη μουσική παραγωγή και την επεξεργασία του ήχου αφήνοντας μου την απορία του "πώς?", δηλαδή πως δημιουργείται ένα μουσικό κομμάτι ηλεκτρονικής μουσικής όπου η χρήση των digital work stations είναι πυλώνας ή πως δημιουργούνται ψηφιακώς διάφορα ηχητικά εφέ, ενώ από μικρή ηλικία ενδιαφερόμουν ιδιαίτερα για τα έξυπνα τηλέφωνα, την εξέλιξη τους και τις εφαρμογές και τεχνολογίες που προσφέρουν όπως οι εφαρμογές σαν το Google Earth και η ψυχαγωγία αλλά πλέον σαν φοιτητής του αντικειμένου θέλησα να μάθω περισσότερα για τα διάφορα λειτουργικά συστήματα, το πώς μπορούμε να έχουμε ένα διαφορετικό περιβάλλον μέσα στο λειτουργικό, πως λειτουργεί η πλοήγηση και τις δυνατότητες μιας συσκευής μεταξύ πολλών άλλων για να μην μακρυγορώ. Εκτός αυτών όμως, μελέτησα κάποιες περιπτώσεις στις οποίες το λογισμικό μπορεί να προκαλέσει προβλήματα όπως η περίπτωση του Therac-25, το μπλάκ άουτ του 2003 στην ανατολική ακτή των ΗΠΑ -που οφειλόταν σε bug- ή την καταστροφή του Ariane 5 πυραύλου τα οποία μου δίνουν ένα εύναυσμα για το τι να προσέχω σαν μελλοντικός επαγγελματίας του κλάδου (εάν έχω την ευκαιρία να εργαστώ σε αυτους τους τομείς) και το πόση προσοχή χρειάζεται η ανάπτυξη λογισμικού. Διάβασα όμως και για περιπτώσεις που βοηθούν τον κόσμο σε μεγάλο βαθμό όπως για παράδειγμα η εφαρμογή [Be Μy Εyes](https://www.npr.org/2023/04/05/1168260937/be-my-eyes-the-popular-app-for-the-blind-or-visually-impaired). Με τον τρόπο αυτόν, έχω αρκετά παραδείγματα για το πως να δημιουργώ λογισμικό το οποίο να είναι εύκολα προσβάσιμο και μια βοήθεια στον άνθρωπο, χωρίς να δημιουργεί προβλήματα ή να προκαλεί ανησυχίες για την ιδιωτικότητα του ατόμου.
+
+Οι βίντεο διαλέξεις επίσης ήταν αρκετά ενδιαφέρουσες, γιατί άκουσα λόγια από μεγάλα ονόματα του χώρου, τα οράματα τους, την εξέλιξη του λογισμικού έως σήμερα αλλά πιο σημαντικό το πως το λογισμικό συνδέεται και με άλλα πράγματα τα οποία εκ πρώτης όψεως δεν ταιριάζουν όπως η σύνδεση της μοριακής βιολογίας με τον αντικειμενοστραφή προγραμματισμό που είχε στο μυαλό του ο Alan Kay και το πως τα αντικείμενα στον προγραμματισμό παίρνουν έμπνευση από την βιολογία και την σύνδεση των μορίων. Οι ιδέες όμως δεν σταμάτησαν εκεί καθώς σήμερα χρησιμοποιούμε εργαλεία τα οποία έχουν ρίζες στα οράματα αυτών όπως η χρήση του scratch στην εκπαίδευση το οποίο βασίζεται στο etoys και squeak του προαναφερθόντος.
+
+Έμαθα επίσης πράγματα για τα λειτουργικά συστήματα τα οποία δεν ήξερα προηγουμένως, σαν τα διαφορετικά init συστήματα και το τι είναι καλύτερο για τον σκοπό που έχουμε σαν χρήστες ή την διαφορά ενός "έτοιμου" και ενός χειροποίητου συστήματος (source based δηλαδή) και την ελευθερία προσαρμογής στα μέτρα μας, τις διαφορές τους αλλά και το πως υπάρχουν πάρα πολλές επιλογές ελεύθερων λειτουργικών συστημάτων και λογισμικού-εφαρμογών-προγραμμάτων που καλύβουν ή και ξεπερνούν τα επι πληρωμή.
+
+Τέλος, αν και είχα πάρει με "κακό μάτι" το GitHub στο hci λόγω του οτι είχα δυσκολευτεί πολύ να καταλάβω τον τρόπο λειτουργίας του, φέτος κατάλαβα το πόσο σημαντικό εργαλείο είναι για την συνεργασία, το ανοιχτό λογισμικό, δημόσια επικοινωνία-βοήθεια και το τι προσφέρει στους προγραμματιστές, ενώ μου φάνηκε πολύ πιο εύκολος ο χειρισμός του GitHub και Git και των δυνατοτήτων που προσφέρουν. Όλα αυτά λοιπόν είναι σημαντικά εφόδια και γνώσεις για την μετέπειτα πορεία ως επαγγελματίας για τον οποιονδήποτε ακολουθεί τον κλάδο. Αν και στο μυαλό μου είχα διαφορετική εικόνα για το τι μπορεί να είναι το μάθημα αυτό, μπορώ να πω ότι απέκτησα πολλές γνώσεις που θα με βοηθήσουν να συνεχίσω να κυνηγώ στόχους που θέτω, τι να προσέχω αλλά έμαθα επίσης να μην έχω ενδοιασμούς για κάτι χωρίς να το έχω ζήσει πρώτα.
+
 ## Ομαδικότητα
 
 Παρακάτω υπάρχουν discussions τα οποία ξεκίνησα ή συμμετείχα.
 
 https://github.com/courses-ionio/sw/discussions/1234
-/ https://github.com/courses-ionio/sw/discussions/1377 / https://github.com/courses-ionio/sw/discussions/1602 / https://github.com/courses-ionio/sw/discussions/1476 / https://github.com/courses-ionio/sw/discussions/1178 / https://github.com/courses-ionio/sw/discussions/1523 / https://github.com/courses-ionio/sw/discussions/1479 / https://github.com/courses-ionio/sw/discussions/1333 / https://github.com/courses-ionio/sw/discussions/1336 / https://github.com/courses-ionio/sw/discussions/1277 / https://github.com/courses-ionio/sw/discussions/1261
+/ https://github.com/courses-ionio/sw/discussions/1377 / https://github.com/courses-ionio/sw/discussions/1602 / https://github.com/courses-ionio/sw/discussions/1476 / https://github.com/courses-ionio/sw/discussions/1178 / https://github.com/courses-ionio/sw/discussions/1523 / https://github.com/courses-ionio/sw/discussions/1479 / https://github.com/courses-ionio/sw/discussions/1333 / https://github.com/courses-ionio/sw/discussions/1336 / https://github.com/courses-ionio/sw/discussions/1277 / https://github.com/courses-ionio/sw/discussions/1261 / https://github.com/courses-ionio/sw/pull/1619 / https://github.com/courses-ionio/sw/pull/1624 / https://github.com/courses-ionio/sw/pull/1650
