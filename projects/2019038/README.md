@@ -17,7 +17,7 @@
 | 7 | <a href="#Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1574) | Ολοκληρωση |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | <a href="#Συμμετοχικό περιεχόμενο Β2"><span class="toctext">Συμμετοχικό περιεχόμενο Β2</span></a> | [Συζήτηση 9](https://github.com/courses-ionio/sw/discussions/1578) | Ολοκλήρωση εντός προθεσμίας |
-| 10 | <a href="#Τελική αναφορά*"><span class="toctext">Τελική αναφορά*</span></a> | | |
+| 10 | <a href="#Τελική αναφορά*"><span class="toctext">Τελική αναφορά*</span></a> | [Συζήτηση 10](https://github.com/courses-ionio/sw/discussions/1651) | Ολοκλήρωση εντός προθεσμίας |
 
 
 
