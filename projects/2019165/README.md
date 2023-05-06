@@ -76,14 +76,13 @@
 
 Για το πέμπτο παραδοτέο επέλεξα να προσθέσω το περιβάλλον ανάπτυξης λογισμικού [Delphi](https://unique-halva-aa4c4d.netlify.app/gallery/borland-delphi/) και την αντικειμενοστραφή έκδοση της γλώσσας προγραμματισμού Pascal,την [Object Pascal](https://unique-halva-aa4c4d.netlify.app/gallery/object-pascal/) στο περιεχόμενου του βιβλίου και συγκεκριμένα στο τέταρτο κεφάλαιο , που αφορά τις τεχνικές και τα εργαλία ανάπτυξης λογισμικού. Οι επιλογές αυτές οφείλονται κυρίως στο γεγονός ότι η αντικειμενοστρέφεια είναι ένα κομμάτι που αναφερθεί πολλές φορές στα εκπαιδευτικά βίντεο που παρακολύθησα και προφανώς διαδραματίζει μεγάλο ρόλο στην ανάπτυξη διαδραστικού λογισμικού. Μια πρώτη εισαγωγή φαίνεται να έγινε από τον Ivan Sutherland και την λειτουργία του Sketchpad όπου διαφαίνεται μία πρώτη ανάγκη για την δημιουργία αντικειμένων που έχουν ίδιες ιδιότητες και συμπεριφορές. To Delphi χρησιμοποιεί την διάλεκτο Delphi της Object Pascal , επομένως η αντικειμενοστρέφεια αποτελεί βασικό στοιχείο και στις δύο αυτές επιλογές μου.
 
-Για τις προσθήκες αυτές δημιούργησα στο ατομικό μου netlify το σετ διαφανειών [Αντικειμενοστρέφεια και Διάδραση](https://unique-halva-aa4c4d.netlify.app/slides/oop-interaction/) στο οποίο πρόσθεσα μερικές αντικειμενοστραφείς γλώσσες προγραμματισμού όπως η smalltalk καθώς και την Object Pascal. Το περιβάλλον ανάπτυξης λογισμικού προστέθηκε στο ομαδικό σετ διαφανειών [Οπτικές Γλώσσες Προγραμματισμού](https://thetimeparadox-pibook.netlify.app/slides/visual-programming/) που βρίσκεται στο ομαδικό netlify και περιλαμβάνει πέρα από το Delphi την προσθήκη του συναδέλφου(pure data)από την ομάδα. Τα δύο αυτά περιβάλλοντα θεωρούνται οπτικά περιβάλλοντα ανάπτυξης λογισμικού.Επίσης δημιουργήθηκε το ομαδικό χρονολόγιο [Εργαλεία Ανάπτυξης λογισμικού](https://thetimeparadox-pibook.netlify.app/timeline/softwaretools/) με τις δύο μου προσθήκες και ορισμένες των συναδέλφων.
+Για τις προσθήκες αυτές δημιούργησα στο ατομικό μου netlify το σετ διαφανειών [Αντικειμενοστρέφεια και Διάδραση](https://unique-halva-aa4c4d.netlify.app/slides/oop-interaction/) στο οποίο πρόσθεσα μερικές αντικειμενοστραφείς γλώσσες προγραμματισμού όπως η smalltalk καθώς και την Object Pascal. Το περιβάλλον ανάπτυξης λογισμικού προστέθηκε στο ομαδικό σετ διαφανειών [Οπτικές Γλώσσες Προγραμματισμού](https://thetimeparadox-pibook.netlify.app/slides/visual-programming/) που βρίσκεται στο ομαδικό netlify και περιλαμβάνει πέρα από το Delphi την προσθήκη του συναδέλφου(audacity)από την ομάδα. Τα δύο αυτά περιβάλλοντα θεωρούνται οπτικά περιβάλλοντα ανάπτυξης λογισμικού.Επίσης δημιουργήθηκε το ομαδικό χρονολόγιο [Εργαλεία Ανάπτυξης λογισμικού](https://thetimeparadox-pibook.netlify.app/timeline/softwaretools/) με τις δύο μου προσθήκες και ορισμένες των συναδέλφων.
 
 Για την δημιουργία του ατομικού site καθώς και για τα γίνουν τα pull request στην ομαδική δημιούργησα έναν δεύτερο λογαριασμό τον [p2019vade](https://github.com/p2019vade) στο Git Hub, διότι δεν ήθελα να διαγραφούν οι αντίστοιχες προσθήκες που είχαν γίνει για το hci.
 
 #### Δεύτερος λογαριασμός στο Git Hub :[p2019vade](https://github.com/p2019vade) 
 
 ![delphi](https://github.com/Alessenia/Images-for-Report/blob/main/borland-delphi.png)
-&
 ![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal%20(2).jpg)
 
 ### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού :
@@ -105,7 +104,7 @@
 ### Το [site της ομάδας μας](https://thetimeparadox-pibook.netlify.app/).
 ### To [Ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/)
 
-### Οι προσθήκες μου στο site :
+### Οι προσθήκες μου στο προσωπικό μου site :
 ####  [Object Pascal](https://unique-halva-aa4c4d.netlify.app/gallery/object-pascal/)
 ####  [Delphi](https://unique-halva-aa4c4d.netlify.app/gallery/borland-delphi/)
 
@@ -154,7 +153,7 @@
 
 ![book](https://github.com/Alessenia/Images-for-Report/blob/main/book.png)
 
-### To σχόλιο μου
+### To σχόλιο μου :
 
 ![my-comment](https://github.com/Alessenia/Images-for-Report/blob/main/my-comment-1.png)
 ![my-comment-2](https://github.com/Alessenia/Images-for-Report/blob/main/Screenshot%20(11).png)
