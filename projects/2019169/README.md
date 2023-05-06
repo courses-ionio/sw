@@ -15,7 +15,7 @@
 | 7 | <li><a href="#Β1."><span class="toctext">Β1.</span></a> |<a href="https://github.com/courses-ionio/sw/discussions/1580">Πρόοδος 7</a> | |
 | 8 | Βιβλίο Β2 | | |
 | 9 | <li><a href="#Β2."><span class="toctext">Β2.|<a href="https://github.com/courses-ionio/sw/discussions/1581">Πρόοδος 9</a> | |
-| 10 | Τελική Αναφορά | | |
+| 10 |<li><a href="#Τελική Αναφορά."><span class="toctext">Τελική Αναφορά. | | |
 
 
   
@@ -69,6 +69,7 @@
    Και τέλος πρόσθεσα το Roblox Studio στο slide <a href ="https://github.com/TaniaStoupi/site/blob/master/_slides/visualization.md">Visualization</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/multimedia.md">multimedia</a> . <br>
    Ομοίως και για την Lua την πρόσθεσα στο slide <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/programming.md">Programming</a> και στο timeline <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/programming.md">Prrogramming</a>
    
+  <hr></hr>
   
   <h2><span id="Β1.">Β1.</span></h2>
   
@@ -83,6 +84,7 @@
   Και τέλος πρόσθεσα στο φάκελο includes μια πιο αναλυτική περιγραφή για το unity:
   -<a href="https://github.com/TaniaStoupi/site/blob/master/_includes/Game-Engine.md">Unity Game Engine</a>
   
+  <hr></hr>
   
   <h2><span id="Β2.">Β2.</span></h2>
   
@@ -96,4 +98,11 @@
   
   Και τέλος πρόσθεσα στο φάκελο includes μια πιο αναλυτική βιογραφία του:
   -<a href="https://github.com/TaniaStoupi/site/blob/master/_includes/John-Riccitiello.md">John Riccitiello Bio</a>
+  
+  <hr></hr>
+  
+  <h2><span id="Τελική Αναφορά.">Τελική Αναφορά.</span></h2>
+  
+  <p>Κατά την διάρκεια του μαθήματος Τεχνολογία Λογισμικού έμαθα διάφορα καινούργια πράγματα, αλλά αντιμετώπισα και αρκετές δυσκολίες. Έμαθα πως είναι τα λειτουργικά συστήματα τα οποία δεν διαθέτουν system-md, καθώς και τον τρόπο λειτουργίας τους. Μια γνώση η οποία είναι πολύ χρήσιμη για το μέλλον. Επίσης, έμαθα αρκετά πράγματα σχετικά με την κοινότητα του github. Θα έλεγα πως οι στόχοι οι οποίοι είχα θέσει στην αρχή αυτού του εξαμήνου για το συγκεκριμένο μάθημα επιτεύχθηκαν σε ένα βαθμό. Δυστυχώς, αντιμετώπισα αρκετές δυσκολίες με κάποια από τα παραδοτέα, με αποτέλεσμα στην μη ολοκλήρωση τους, καθώς επίσης αντιμετώπισα και κάποια προβλήματα με το netlify, το οποίο δεν μπορούσε να κάνει deploy το site μου. Τέλος, θα ήθελα να αναφέρωπως τα λίγα πράγματα που κατάφερα να κάνω, οι γνώσεις που πήρα μέσα απο την υλοποίηση τους και οι μερικοί στόχοι που επιτεύχθηκαν, είναι κάποια τα πράγματα που θα κρατήσω από αυτό το μάθημα, καθώς θα μου είναι πολύ σημαντικά στην μελλοντική μου καριέρα. </p>
+
 
