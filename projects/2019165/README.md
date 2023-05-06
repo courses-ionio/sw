@@ -151,13 +151,20 @@
 
 # Παραδοτέο 8 - Κατασκευή του βιβλίου Β2 
 
-Για το 8 παραδοτέο δημιουργήθηκε ένα shell script το οποίο μετατρέπει όλα τα txt αρχεία του βιβλίου σε html αρχεία και έπειτα τα συνδέει όλα μεταξύ τους ώστε να προκύψει το βιβλίο του μαθήματος σε html μορφή. To [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh) για την μετατροπή σε html έγινε με την χρήση του pandoc.
+Για το 8 παραδοτέο δημιουργήθηκε ένα shell script το οποίο μετατρέπει όλα τα txt αρχεία του βιβλίου σε html αρχεία και έπειτα τα συνδέει όλα μεταξύ τους ώστε να προκύψει το βιβλίο του μαθήματος σε html μορφή. To [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh) για την μετατροπή σε html έγινε με την χρήση του pandoc. Παρατηρήθηκε, ότι και το pandoc μετατρέπει το βιβλίο σε ακριβώς την ίδια html μορφή με αυτή του pollen που χρησιμοποιήθηκε από τους περισσότερους συμφοιτητές.
 
 ![book](https://github.com/Alessenia/Images-for-Report/blob/main/book.png)
+![my-comment](https://github.com/Alessenia/Images-for-Report/blob/main/my-comment-1.png)
+![my-comment-2](https://github.com/Alessenia/Images-for-Report/blob/main/my-comment-2.png)
 
+### Τα αρχεία στον προσωπικό μου λογαριασμό :
 ### [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh)
 ### [Tα html αρχεία](https://github.com/p2019vade/kallipos/tree/master/html)
-### [Το βιβλίο σε html μορφή κώδικα](https://github.com/p2019vade/kallipos/blob/master/book.html)
+### [Το ατομικό βιβλίο σε html μορφή κώδικα](https://github.com/p2019vade/kallipos/blob/master/book.html)
+
+### Tα ομαδικά αρχεία : 
+### [shell script](https://github.com/p20sami/kallipos/blob/master/book-transform.sh)
+### [Το ομαδικό βιβλίο με τις σημειώσεις μας σε html](https://thetimeparadox.github.io/book.html)
 
 # Παραδοτέο 9 - Συμμετοχικό Περιεχόμενο Β2
 
@@ -167,11 +174,11 @@
 #### H βιογραφία [_includes](https://github.com/p2019vade/site/blob/master/_includes/bio-nygaard.md) 
 #### To αρχείο [_biography](https://github.com/p2019vade/site/blob/master/_biography/kristen-nygaard.md)
 
-### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images 
+### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images :
 #### [Kristen-Nygaard](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard.png)
 #### [Kristen-Dahl](https://github.com/p2019vade/images/blob/master/kristen-dahl.png)
 
-### Οι εικόνες σε thumb (160x110px)
+### Οι εικόνες σε thumb (160x110px) :
 #### [Kristen-Nygaard-thumb](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
 #### [Kristen-Dahl-thumb](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
