@@ -347,7 +347,8 @@
 | 7 | What alan kay thinks about tetriary education | :heavy_check_mark: | :heavy_check_mark: |
 | 8 | Extracting Energy from the Turing Tarpit | :heavy_check_mark: | :heavy_check_mark: |
 | 9 | | | |
-| 10 | | | |
+| 10 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson | :heavy_check_mark: | :heavy_check_mark: |
+
 
 # **Ομαδικότητα και Συνεργασία** #
 
