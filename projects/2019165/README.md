@@ -88,7 +88,6 @@
 
 ### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού :
 #### [object-pascal.md](https://github.com/TheTimeParadox/_gallery/blob/master/object-pascal.md)
-&
 #### [borland-delphi.md](https://github.com/TheTimeParadox/_gallery/blob/master/borland-delphi.md)
 
 ### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού :
@@ -154,8 +153,11 @@
 Για το 8 παραδοτέο δημιουργήθηκε ένα shell script το οποίο μετατρέπει όλα τα txt αρχεία του βιβλίου σε html αρχεία και έπειτα τα συνδέει όλα μεταξύ τους ώστε να προκύψει το βιβλίο του μαθήματος σε html μορφή. To [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh) για την μετατροπή σε html έγινε με την χρήση του pandoc. Παρατηρήθηκε, ότι και το pandoc μετατρέπει το βιβλίο σε ακριβώς την ίδια html μορφή με αυτή του pollen που χρησιμοποιήθηκε από τους περισσότερους συμφοιτητές.
 
 ![book](https://github.com/Alessenia/Images-for-Report/blob/main/book.png)
+
+### To σχόλιο μου
+
 ![my-comment](https://github.com/Alessenia/Images-for-Report/blob/main/my-comment-1.png)
-![my-comment-2](https://github.com/Alessenia/Images-for-Report/blob/main/my-comment-2.png)
+![my-comment-2](https://github.com/Alessenia/Images-for-Report/blob/main/Screenshot%20(11).png)
 
 ### Τα αρχεία στον προσωπικό μου λογαριασμό :
 ### [shell script](https://github.com/p2019vade/kallipos/blob/master/make-html.sh)
