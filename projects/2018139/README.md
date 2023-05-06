@@ -57,6 +57,9 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 ## 5ο ΠΑΡΑΔΟΤΕΟ: Συμμετοχικό περιεχόμενο Α1+Α2
 
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε στο Συμμετοχικό περιεχόμενο δύο εργαλεία τα οποία θεωρούμε χρήσιμα για την τεχνολογία λογισμικού αλλά και μας κινούν το ενδιαφέρον σε προσωπικό κομμάτι. Τα εργαλεία που επέλεξα εγώ αφορούν δύο γλώσσες προγραμματισμού και πιο συγκεκριμένα την python και την R. Επέλεξα αυτές τις δύο γλώσσες γιατί θεωρώ πως ο προγραμματισμός αποτελεί πολύ σημαντικό κομμάτι της τεχνολογίας λογισμικού.
+- [R](https://p18stef.netlify.app/gallery/r/)
+
+- [Python](https://p18stef.netlify.app/gallery/python/)
 
 ## 6o ΠΑΡΑΔΟΤΕΟ :Γραμμή εντολών (custom static blog generator)
 
@@ -73,7 +76,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 - [INCLUDES](https://github.com/p18stef/site/blob/organization/_includes/VideoGame.md)
 
- - [NETLIFY](...)
+ - [NETLIFY](https://p18stef.netlify.app/case-study/virtualgame/)
 
 ## 8ο ΠΑΡΑΔΟΤΕΟ : Κατασκευή του βιβλίου Β2
 
@@ -89,6 +92,6 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 - [BillGates.md](https://github.com/p18stef/site/blob/organization/_includes/BiilGates.md)
 
-- [NETLIFY](...)
+- [NETLIFY](https://p18stef.netlify.app/biography/billgates/)
 
 
