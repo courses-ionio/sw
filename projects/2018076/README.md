@@ -95,14 +95,14 @@
 
 ## Α1
 ### Αρχεία εικόνων:
-- [Apple II high resolution graphics](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
-- [Amiga Workbench 3.1](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1_160p.png)
-- [Apple II high resolution graphics - thumbnail](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/apple2_high-resolution_graphics_160p.png)
-- [Amiga Workbench 3.1 - thumbnail](https://github.com/aggelos2000430/images/blob/62134c909a6d9eecd76a2249df9b428ca4157a8f/amiga_workbench_3.1.png)
+- [Apple II high resolution graphics](https://github.com/lapis-lazuli-ore-block/images/blob/master/apple2_high-resolution_graphics.png)
+- [Amiga Workbench 3.1](https://github.com/lapis-lazuli-ore-block/images/blob/master/amiga_workbench_3.1_160p.png)
+- [Apple II high resolution graphics - thumbnail](https://github.com/lapis-lazuli-ore-block/images/blob/master/apple2_high-resolution_graphics_160p.png)
+- [Amiga Workbench 3.1 - thumbnail](https://github.com/lapis-lazuli-ore-block/images/blob/master/amiga-workbench%20copy.png)
 
 ### Αρχεία .md:
-- [Apple II high resolution graphics](https://github.com/aggelos2000430/_gallery/blob/2c61956bd54d95a85da4b6b9a02ad6e1f22e667b/applehighgraphics.md)
-- [Amiga Workbench 3.1](https://github.com/aggelos2000430/_gallery/blob/2c61956bd54d95a85da4b6b9a02ad6e1f22e667b/amigaworkbench_3.1.md)
+- [Apple II high resolution graphics](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/applehighgraphics.md)
+- [Amiga Workbench 3.1](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/amigaworkbench_3.1.md)
 
 ### Οι προσθήκες στο Site:
 
@@ -132,11 +132,11 @@
 ## Α2
 
 ### _timeline :
-- [apple-times.md](https://github.com/aggelos2000430/site/blob/master/_timeline/apple-times.md)
+- [apple-times.md](https://github.com/lapis-lazuli-ore-block/site/blob/master/_timeline/apple-times.md)
 
 ### _slides :
-- [amiga.md](https://github.com/aggelos2000430/site/blob/master/_slides/amiga.md)
-- [graphics.md](https://github.com/aggelos2000430/site/blob/master/_slides/graphics.md)
+- [amiga.md](https://github.com/lapis-lazuli-ore-block/site/blob/master/_slides/amiga.md)
+- [graphics.md](https://github.com/lapis-lazuli-ore-block/site/blob/master/_slides/graphics.md)
 
 ### Οι προσθήκες στο Site:
 
@@ -197,11 +197,11 @@
 Αποφάσισα να αναπτύξω μια νέα μελέτη περίπτωσης, για το init System της Apple, το Launchd
 ## Β1
 ### Αρχείο εικόνας:
-- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/launchd.png)
+- [images](https://github.com/lapis-lazuli-ore-block/images/blob/master/launchd.png)
   
 ### Αρχεία .md:
-- [_case-study](https://github.com/aggelos2000430/site/blob/master/_case-study/launchd.md)
-- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/cs-launchd.md)
+- [_case-study](https://github.com/lapis-lazuli-ore-block/site/blob/master/_case-study/launchd.md)
+- [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/cs-launchd.md)
 
  
 ### Η προσθήκη στο Site:
@@ -249,11 +249,12 @@
 Αποφάσισα να αναπτύξω μια νέα βιογραφία του Bret Victor
 ## Β2
 ### Αρχείο εικόνας:
-- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile.png)
+- [images](https://github.com/lapis-lazuli-ore-block/images/blob/master/victor-profile.png)
+- [images thumb](https://github.com/lapis-lazuli-ore-block/images/blob/master/victor-profile-thumb.png)
   
 ### Αρχεία .md:
-- [_biography](https://github.com/aggelos2000430/site/blob/master/_biography/bret-victor.md)
-- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/bio-bret-victor.md)
+- [_biography](https://github.com/lapis-lazuli-ore-block/site/blob/master/_biography/victor-bret.md)
+- [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/bio-bret-victor.md)
 
  
 ### Η προσθήκη στο Site:
