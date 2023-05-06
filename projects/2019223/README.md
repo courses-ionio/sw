@@ -1,22 +1,22 @@
 # Τεχνολογία Λογισμικού
-### Πετρούλα Στυλιανού 
-### ΑΜ: Π2019223
-#### [Github profile](https://github.com/PetroulaStylianou)
+### Πετρούλα Στυλιανού Π2019223
+#### [Github profile](https://github.com/PetroulaStylianou) 
 #### [Η ομάδα μου](https://github.com/IonianUniversity2019)
 
 
 | Εβδομάδα | Παραδοτέα| [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1170" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία ομάδας, εισαγωγής και αναφοράς των στόχων μου.|
-| 2 | <li><a href="#Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας"></span> <span class="toctext">Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1243" title="Discussions">Discussions</a></i> | Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Kali Linux και του Asciinema για ολοκλήρωση της άσκησης.|
-| 3 | <li><a href="#Γραμμή εντολών (no systemd)"></span> <span class="toctext">Γραμμή εντολών (no systemd)</span></a>  |  <i><a href="https://github.com/courses-ionio/sw/discussions/1329" title="Discussions">Discussions</a></i>|Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
-| 4 | <li><a href="#Κατασκευή του βιβλίου Α2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Α2 (συνεργατικά)</span></a>|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου |
-| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
-| 6 |  <li><a href="#Γραμμή εντολών (no systemd, custom static blog generator)"></span> <span class="toctext">Γραμμή εντολών (no systemd, custom static blog generator)</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. |
-| 7 | <li><a href="#Συμμετοχικό περιεχόμενο B1"></span> <span class="toctext">συμμετοχικό περιεχόμενο B1</span></a>| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου.  | 
-| 8 | <li><a href="#Κατασκευή του βιβλίου Β2 (συνεργατικά)"></span> <span class="toctext">Κατασκευή του βιβλίου Β2 (συνεργατικά)</span></a> | ||
-| 9 | <li><a href="#Συμμετοχικό περιεχόμενο B2"></span> <span class="toctext">συμμετοχικό περιεχόμενο B2</span></a> | <i><a href="https://github.com/courses-ionio/sw/discussions/1531">Discussions</a></i>|Εμπρόθεσμη παράδοση παραδοτέου.|
-| 10 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | |
+| 1 | Εισαγωγή| <i><a href="https://github.com/courses-ionio/sw/discussions/1170" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία ομάδας, εισαγωγής και αναφοράς των στόχων μου.|
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας| <i><a href="https://github.com/courses-ionio/sw/discussions/1243" title="Discussions">Discussions</a></i> | Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Kali Linux και του Asciinema για ολοκλήρωση της άσκησης.|
+| 3 | Γραμμή εντολών (no systemd) |  <i><a href="https://github.com/courses-ionio/sw/discussions/1329" title="Discussions">Discussions</a></i>|Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά)|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο. |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο. |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator)| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Δεν ολοκληρώθηκε.|
+| 7 | Συμμετοχικό περιεχόμενο B1| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο.  | 
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | Δεν ολοκληρώθηκε.|
+| 9 | Συμμετοχικό περιεχόμενο B2| <i><a href="https://github.com/courses-ionio/sw/discussions/1531">Discussions</a></i>|Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο.|
+| 10 | Τελική αναφορά*|  <i><a href="https://github.com/courses-ionio/sw/discussions/1654">Discussions</a></i>||
+| 11 | Βίντεο Κουίζ| ||
 
 
 # Εισαγωγή 
@@ -72,13 +72,6 @@
 |[Programming](https://github.com/PetroulaStylianou/site/blob/master/_timeline/programming.md)|[programming](https://github.com/PetroulaStylianou/site/blob/master/_slides/programming.md)
 |[Systems](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)|[archetypes](https://github.com/PetroulaStylianou/site/blob/master/_slides/archetypes.md)
 
-# Γραμμή εντολών 
-
-Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών με ένα λογισμικό το οποίο θα είναι χωρίς systemd. Το λογισμικό που χρησιμοποίησα ήταν το Void Linux και για άσκηση γραμμής εντολών επέλεξα την άσκηση search the web from the terminal. Η άσκηση αυτή ζητάει να γίνει αναζήτηση μέσω τερματικού. Μέσα από αυτή την άσκηση βλέπουμε πόσο γρήγορα μπορεί κάποιος να ψάξει κάτι από το τερματικό.
-Χρησιμοποίησα τις εντολές <kbd>sudo xbps- install googler</kbd> και <kbd>sudo bps -install ddgr</kbd> για εγκατάσταση των εργαλείων googler και ddgr.
-
-[asciinema](https://asciinema.org/a/dYWcTo64brpeomgngKy6KOrXb)
-
 # Συμμετοχικό περιεχόμενο Β1
 
 Σε αυτό το παραδοτέο μας ζητήθηκε μία νέα έρευνα με παρόμοια περίπτωση με τις θεματικές που διαλέξαμε στο 5ο παραδοτέο. Γι' αυτό, επέλεξα να ασχοληθώ με το λογισμικό OpenBsd και να ψάξω περισσότερες λεπτομέρειες.
@@ -97,7 +90,9 @@
 
 # Τελική αναφορά
 
-Φτάνοντας στο τέλος του εξαμήνου και ολοκληρώνοντας την αναφορά της εργασίας μου, θα ήθελα να αναφέρω τις γνώσεις και τις εμπειρίες που κέρδισα από το συγκεκριμένο μάθημα. Όπως είχα αναφέρει και στους στόχους μου, η τεχνολογία λογισμικού κατάφερε να με εξοπλίσει με τις κατάλληλες δεξιότητες πάνω στα λειτουργικά συστήματα. Ειδικότερα έκανα χρήση των συστημάτων Kali και Void Linux, συστήματα με και χωρίς systemd και αρκετά άγνωστα σε εμένα, με τα οποία πέτυχα να ολοκληρώσω τις ασκήσεις γραμμής εντολών που απαιτούνταν. Επιπλεόν, μέσα από τα εβδομαδιαία κουίζ κατανόησα καλύτερα τον τρόπο με τον οποίο δουλεύουν τα λειτουργικά συστήματα και την επίδραση που έχουν στην καθημερινή και κοινωνική ζωή. Όσον αφορά την ομαδικότητα εν μέρει επιτεύχθηκε, καθώς υπήρχε επικοινωνία με τους συμφοιτητές μου μέσω των discussions, με τον σχολιασμό παραδοτέων.
+Φτάνοντας στο τέλος του εξαμήνου και ολοκληρώνοντας την αναφορά της εργασίας μου, θα ήθελα να αναφέρω τις γνώσεις και τις εμπειρίες που κέρδισα από το συγκεκριμένο μάθημα. Όπως είχα αναφέρει και στους στόχους μου, η τεχνολογία λογισμικού κατάφερε να με εξοπλίσει με τις κατάλληλες δεξιότητες πάνω στα λειτουργικά συστήματα. Ειδικότερα έκανα χρήση των συστημάτων Kali και Void Linux, συστήματα με και χωρίς systemd και αρκετά άγνωστα σε εμένα, με τα οποία πέτυχα να ολοκληρώσω τις ασκήσεις γραμμής εντολών που απαιτούνταν. Επιπλέον, μέσα από τα εβδομαδιαία κουίζ κατανόησα καλύτερα τον τρόπο με τον οποίο δουλεύουν τα λειτουργικά συστήματα και την επίδραση που έχουν στην καθημερινή και κοινωνική ζωή. Όσον αφορά την ομαδικότητα εν μέρει επιτεύχθηκε, καθώς υπήρχε επικοινωνία με τους συμφοιτητές μου μέσω των discussions, με τον σχολιασμό παραδοτέων.
+
+Η εξέταση μου πραγματοποιήθηκε από τον κ. Αριστείδη Βραχάτη ο οποίος μου επισήμαινε κάποιες αλλαγές που έπρεπε να γίνουν στην αναφορά, όπως είναι η βελτίωση της αυτοαξιολόγησης. Απαιτούνταν πιο λεπτομερής περιγραφή στο συγκεκριμένο κομμάτι. Επίσης, μου επισήμαινε ότι είναι σημαντικό να προστεθούν οι αλλαγές στο βιβλίο κάτι το οποίο τελικά δεν κατάφερα να υλοποιήσω. 
 
 # Βίντεο Κουίζ
 |Βίντεο Κουίζ|Ολοκλήρωση|
@@ -111,7 +106,7 @@
 |Alan Kay - Programming and Scaling|✔️|
 |Extracting Energy from the Turing Tarpit|✔️|
 |Back to the Future of Software Development 4/23/2003 (VPRI 785)|✔️|
-||
+|VCF East 2019 -- Brian Kernighan interviews Ken Thompson|✔️|
 
 
 
