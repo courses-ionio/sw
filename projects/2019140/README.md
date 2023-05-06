@@ -145,3 +145,6 @@ A2:
 - https://github.com/PaneksypnesDiepafes/Main/discussions/6#discussioncomment-5302540
 - https://github.com/PaneksypnesDiepafes/Main/discussions/7#discussioncomment-5355037
 - https://github.com/PaneksypnesDiepafes/Main/discussions/9#discussioncomment-5428045
+### Σχόλια σε Pull Requests
+- https://github.com/courses-ionio/sw/pull/1624#issuecomment-1533416527
+- https://github.com/courses-ionio/sw/pull/1649#issuecomment-1537125615
