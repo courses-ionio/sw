@@ -104,3 +104,5 @@
 
 * [site/includes](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/os.md)
 * [site/_case-study](https://github.com/StavroulaAnatolaki/site/blob/master/_case-study/operating_systems.md)
+
+# Εβδομάδα 9: Συμμετοχικό περιεχόμενο B2
