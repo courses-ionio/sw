@@ -65,6 +65,10 @@
 <p align="center">
 <a href="https://asciinema.org/a/563441" target="_blank"><img src="https://asciinema.org/a/563441.svg" width="70%" /></a>
 
+  
+  
+  
+>>Οι υπερσυνδέσμοι οδηγούν στα αρχεία εικόννων και κειμένου προς τον Οργανισμό μου και όχι στο προσωπικό μου προφίλ
 # Κατασκευή του Βιβλίου
 
 ## [Για το Παραδοτέο04](https://github.com/aggelos2000430/sw/tree/2018076/projects/2018076#%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D)
@@ -75,7 +79,15 @@
 - [mylua.lua](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/mylua.lua)
 - [applesoft.md](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/myfile/applesoft.md)
 - [book.pdf](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.pdf)
-
+  
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+  
+-[make-latex.sh](https://github.com/aggelos2000430/kallipos/blob/master/make-latex.sh)
+-[mylua.lua](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
+-[applesoft.md](https://github.com/aggelos2000430/kallipos/blob/master/myfile/applesoft.md)
+-[book.pdf](https://github.com/aggelos2000430/kallipos/blob/master/book.pdf)
+  
+ 
 <p align="center">
 <img src="https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.jpg" alt="Alt Text" width="70%" />
   
@@ -103,6 +115,19 @@
 ### Αρχεία .md:
 - [Apple II high resolution graphics](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/applehighgraphics.md)
 - [Amiga Workbench 3.1](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/amigaworkbench_3.1.md)
+
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+
+## Α1
+### Αρχεία εικόνων:
+- [Apple II high resolution graphics](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/apple2-graphics.png)
+- [Amiga Workbench 3.1](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/amiga_workbench_3.1_160p.png)
+- [Apple II high resolution graphics - thumbnail](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/apple2_high-resolution_graphics_160p.png)
+- [Amiga Workbench 3.1 - thumbnail](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/amiga_workbench_3.1.png)
+
+### Αρχεία .md:
+- [Apple II high resolution graphics](https://github.com/aggelos2000430/_gallery/blob/72a10b576c5711d29bea0e2a00ecf7c38f0c33c7/applehighgraphics.md)
+- [Amiga Workbench 3.1](https://github.com/aggelos2000430/_gallery/blob/72a10b576c5711d29bea0e2a00ecf7c38f0c33c7/amigaworkbench_3.1.md)
 
 ### Οι προσθήκες στο Site:
 
@@ -138,6 +163,14 @@
 - [amiga.md](https://github.com/lapis-lazuli-ore-block/site/blob/master/_slides/amiga.md)
 - [graphics.md](https://github.com/lapis-lazuli-ore-block/site/blob/master/_slides/graphics.md)
 
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+### _timeline :
+- [apple-times.md](https://github.com/aggelos2000430/site/blob/master/_timeline/apple-times.md)
+  
+### _slides :
+- [amiga.md](https://github.com/aggelos2000430/site/blob/master/_slides/amiga.md)
+- [graphics.md](https://github.com/aggelos2000430/site/blob/master/_slides/graphics.md)  
+  
 ### Οι προσθήκες στο Site:
 
 <h1 align=center></b>
@@ -203,9 +236,17 @@
 - [_case-study](https://github.com/lapis-lazuli-ore-block/site/blob/master/_case-study/launchd.md)
 - [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/cs-launchd.md)
 
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
  
 ### Η προσθήκη στο Site:
-
+### Αρχείο εικόνας:
+- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/launchd.png)
+ 
+### Αρχεία .md:
+- [_case-study](https://github.com/aggelos2000430/site/blob/master/_case-study/launchd.md)
+- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/cs-launchd.md)
+  
+  
 <h1 align=center></b>
 <p align="center">
 <a href="" target="_blank"></a>
@@ -232,6 +273,12 @@
 - [book.html](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/index.html)
 - [book-site](https://aggelos2000430.github.io/Book.github.io/)
   
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+- [make-pollen.sh](https://github.com/aggelos2000430/kallipos/blob/master/make-pollen.sh)  
+- [mylua.lua](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
+- [book.html](https://github.com/aggelos2000430/Book.github.io/blob/main/index.html)
+- [book-site](https://aggelos2000430.github.io/Book.github.io/)  
+  
 <p align="center">
 <img src="https://github.com/aggelos2000430/kallipos/blob/master/figure1.png" alt="Alt Text" width="70%" />
   
@@ -256,7 +303,15 @@
 - [_biography](https://github.com/lapis-lazuli-ore-block/site/blob/master/_biography/victor-bret.md)
 - [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/bio-bret-victor.md)
 
- 
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+### Αρχείο εικόνας:
+- [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile.png)
+- [images thumb](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile-thumb.png)
+  
+### Αρχεία .md:
+- [_biography](https://github.com/aggelos2000430/site/blob/master/_biography/victor-bret.md)
+- [_includes](https://github.com/aggelos2000430/site/blob/master/_includes/bio-bret-victor.md)
+  
 ### Η προσθήκη στο Site:
 
 <h1 align=center></b>
