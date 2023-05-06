@@ -79,10 +79,43 @@ ntfy -b telegram send "The average sea temperature of the Earth is ${Temperature
 [aythors.yml](https://github.com/dimitrisvarelas/site/blob/master/_data/authors.yml)
 
 ## Παραδοτέο 6 - Static Blog Generator
-Για το πέμπτο παραδοτέο υλοποιήθηκε ένα blog χρησιμοποιώντας το bashblog σχετικά με τα Water Sports. Χρησιμοποιήθηκε το Github Pages ως host.
+Για το έκτο παραδοτέο υλοποιήθηκε ένα blog χρησιμοποιώντας το bashblog σχετικά με τα Water Sports. Χρησιμοποιήθηκε το Github Pages ως host.
 Μπορείτε να το δείτε [εδώ](https://dimitrisvarelas.github.io/WaterSportBlog/).
 
 ![blog](https://user-images.githubusercontent.com/49061765/229225374-9cb4bc68-5ee2-465d-8177-0013182a59d5.png)
 
+## Παραδοτέο 7 - Μελέτη Περίπτωσης
 
+Για το έβδομοδο παραδοτέο προστέθηκε στο site μελέτη περίπτωσης σχετικά με το λογισμικό git.
+
+![screenshot1](https://user-images.githubusercontent.com/49061765/236603651-d1753c5f-9a0d-479c-8470-81989d41dbef.png)
+
+[Netlify](https://starlit-kitsune-1f289a.netlify.app/case-study/git/)
+
+[git.md](https://github.com/dimitrisvarelas/site/blob/master/_case-study/git.md)
+
+[cs-git.md](https://github.com/dimitrisvarelas/site/blob/master/_includes/cs-git.md)
+
+## Παραδοτέο 8 - Κατασκευή Βιβλίου Β2
+
+Για το όγδοο παραδοτέο χρησιμοποιήθηκε το [makepollen.sh](https://github.com/dimitrisvarelas/kallipos/blob/master/makepollen.sh) ώστε να κατασκευαστεί το βιβλίο σε μορφή pollen. Επιπλέον έχει γίνει αλλαγή στο background χρώμα στο styling css.
+
+![screenshot2](https://user-images.githubusercontent.com/49061765/236604285-637de8a1-c62a-4655-ae01-52afbecda9b8.png)
+
+[Pages](https://dimitrisvarelas.github.io/kallipos/)
+[kallipos](https://github.com/dimitrisvarelas/kallipos)
+
+## Παραδοτέο 9 - Βιογραφία
+
+Για το ένατο παραδοτέο προστέθηκε στο site η βιογραφία του Linus Tovards δημιουργού του git.
+
+![screenshot3](https://user-images.githubusercontent.com/49061765/236605363-b6d6df06-115d-49ec-964a-d345e63277ff.png)
+
+[Netlify](https://starlit-kitsune-1f289a.netlify.app/biography/linus-torvalds/)
+
+[linus-torvards.md](https://github.com/dimitrisvarelas/site/blob/master/_biography/linus-torvalds.md)
+
+[bio-torvads.md](https://github.com/dimitrisvarelas/site/blob/master/_includes/bio-torvalds.md)
+
+## Παραδοτέο 10 - Τελική Αναφορά
 
