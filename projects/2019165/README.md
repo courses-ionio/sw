@@ -84,22 +84,22 @@
 
 ![delphi](https://github.com/Alessenia/Images-for-Report/blob/main/borland-delphi.png)
 &
-![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal.jpg)
+![object-pascal](https://github.com/Alessenia/Images-for-Report/blob/main/object-pascal%20(2).jpg)
 
-### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού
+### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού :
 #### [object-pascal.md](https://github.com/TheTimeParadox/_gallery/blob/master/object-pascal.md)
 &
 #### [borland-delphi.md](https://github.com/TheTimeParadox/_gallery/blob/master/borland-delphi.md)
 
-### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού
+### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού :
 #### [object-pascal](https://github.com/TheTimeParadox/images/blob/master/object-pascal.jpg)
 #### [borland-delphi](https://github.com/TheTimeParadox/images/blob/master/borland-delphi.png)
 
-### Οι εικόνες σε thumb (160x140px)
+### Οι εικόνες σε thumb (160x140px) :
 #### [object-pascal-thumb](https://github.com/TheTimeParadox/images/blob/master/object-pascal-thumb.jpg)
 #### [borland-delphi-thumb](https://github.com/TheTimeParadox/images/blob/master/borland-delphi-thumb.png)
 
-### Tα pull request προς τον Οργανισμό
+### Tα pull request προς τον Οργανισμό :
 #### [_gallery](https://github.com/TheTimeParadox/_gallery/pull/1)
 #### [images](https://github.com/TheTimeParadox/images/pull/1)
 
