@@ -84,10 +84,10 @@
 
 # Εβδομάδα 5: Συμμετοχικό περιεχόμενο A1 + A2
 
-|     |   gallery  | 
-| --- | --- | 
-|1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |    
-|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  |   
+|     |   site  | gallery |
+| --- | --- | --- |
+|1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |  [link](https://github.com/StavroulaAnatolaki/_gallery/blob/5e09a2a311472ef84bb99b24d62525bb3b3aa71a/mint-linux.md)   |
+|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/5e09a2a311472ef84bb99b24d62525bb3b3aa71a/macintoshx-server1.md)  |
 
 # Εβδομάδα 6: Γραμμή εντολών (custom static blog generator)
 Εχτισα το δικο μου blog χρησιμοποιοντας το hugo.
