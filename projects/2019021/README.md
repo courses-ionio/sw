@@ -14,7 +14,7 @@
 | 6 | [Γραμμή εντολών (custom static blog generator)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-custom-static-blog-generator) |[link](https://github.com/courses-ionio/sw/discussions/1535) |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα  |
 | 7 | [συμμετοχικό περιεχόμενο B1](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) |link |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα  |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |link | |
-| 9 | συμμετοχικό περιεχόμενο B2 |link | |
+| 9 | [συμμετοχικό περιεχόμενο B2](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) |link | |
 | 10 | Τελική αναφορά* |link | |
 
 | Εβδομάδα | Βίντεο Κουιζ | Ολοκληρώθηκε | Εμπρόθεσμα | 
