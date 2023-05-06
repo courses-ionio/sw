@@ -9,17 +9,16 @@
 | Εβδομάδα* | Παραδοτέο | |
 | --- | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1139) |
-| 2 | βιογραφικό | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1244)|
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1326) |
-| 4 | Άσκηση γραμμής εντολών | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1350)|
+| 2 | systemd | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1244)|
+| 3 | no systemd |[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1326) |
+| 4 | book to pdf | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1350)|
 | 5 | Συμμετοχικό περιεχόμενο | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1398) |
-| 6 | Άσκηση γραμμής εντολών | |
-| 7 | βιογραφικό | |
-| 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | |
-| 9 | Άσκηση γραμμής εντολών | |
-| 10 | συμμετοχικό περιεχόμενο | |
-| 11 | Άσκηση γραμμής εντολών | |
-| 12 | Τελική αναφορά* | |
+| 6 | custom static blog gen | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1642) |
+| 7 | case study |[Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1643) |
+| 8 | book to pollen | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1644) |
+| 9 | biography | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1645) |
+| 10 | Τελική Αναφορά | [Σύνδεσμος Συζητήσεων](https://github.com/courses-ionio/sw/discussions/1646) |
+
 
 
 
