@@ -87,7 +87,7 @@
 |     |   site  | gallery | images | thumb |
 | --- | --- | --- | --- | --- |
 |1| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/mint-linux/)    |  [link](https://github.com/StavroulaAnatolaki/_gallery/blob/5e09a2a311472ef84bb99b24d62525bb3b3aa71a/mint-linux.md)   | [link](https://github.com/StavroulaAnatolaki/images/blob/77b090e55f7049ce5246e57ba82f75c70420b687/mint-linux.png) | [link](https://github.com/StavroulaAnatolaki/images/blob/77b090e55f7049ce5246e57ba82f75c70420b687/mint-linux-thumb.png) | 
-|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/5e09a2a311472ef84bb99b24d62525bb3b3aa71a/macintoshx-server1.md)  | [link]() | [link]() |
+|2| [link](https://gorgeous-cajeta-4d8cbe.netlify.app/gallery/macintoshx-server1/)  | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/5e09a2a311472ef84bb99b24d62525bb3b3aa71a/macintoshx-server1.md)  | [link](https://github.com/StavroulaAnatolaki/images/blob/77b090e55f7049ce5246e57ba82f75c70420b687/macintoshx-server1.png) | [link](https://github.com/StavroulaAnatolaki/images/blob/77b090e55f7049ce5246e57ba82f75c70420b687/macintoshx-server1-thumb.png) |
 
 # Εβδομάδα 6: Γραμμή εντολών (custom static blog generator)
 Εχτισα το δικο μου blog χρησιμοποιοντας το hugo.
