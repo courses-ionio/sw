@@ -16,9 +16,9 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Discussions](https://github.com/courses-ionio/sw/discussions/1399) | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Discussions](https://github.com/courses-ionio/sw/discussions/1442) | |
 | 7 | συμμετοχικό περιεχόμενο B1 |[Discussions](https://github.com/courses-ionio/sw/discussions/1671) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussions](https://github.com/courses-ionio/sw/discussions/1672) | |
+| 9 | συμμετοχικό περιεχόμενο B2 |[Discussions]() | |
+| 10 | Τελική αναφορά* |[Discussions]() | |
 
 
 ## Εβδομάδα 1
