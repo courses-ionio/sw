@@ -71,7 +71,7 @@
 #### [Η σημείωση μου σε .md](https://github.com/TheTimeParadox/kallipos/blob/master/note/developercollaboration.md)
 #### [To lua φίλτρο](https://github.com/TheTimeParadox/kallipos/blob/master/note.lua)
 
-#### Το βιβλίο σε pdf μορφή με τα σχόλια όλων των μελών της ομάδας : [Book.pdf](https://github.com/TheTimeParadox/kallipos/blob/main/book.pdf)
+### Το βιβλίο σε pdf μορφή με τα σχόλια όλων των μελών της ομάδας : [Ομαδικό Βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/main/book.pdf)
 
 ![my-note-screen](https://github.com/Alessenia/Images-for-Report/blob/main/Note-sw.png)
  
@@ -119,7 +119,7 @@
 Για αυτή την εβδομάδα δημιουργήθηκε ένα στατικό blog με την βοήθεια του [bashblog](https://github.com/cfenollosa/bashblog) στα Artix Linux. Αρχικά έγινε clone του repository του bashblog από όπου και αντιγράφηκε το shell script bb.sh σε ένα directory που είχε γίνει προηγουμένως clone του repository [Alessenia.github.io](https://github.com/Alessenia/Alessenia.github.io) προκειμένου να γίνει host το site μου μέσω του github. Στην συνέχεια επεξεργάστηκα το bb.sh και πρόσθεσα ένα διαφορετικό css style για να διαφοροποιηθεί απο τα υπόλοιπα των συμφοιτητών. Τέλος, πρόσθεσα το άρθρο μου που αφορούσε την αντικειμενοστρέφεια και την εφαρμογή της στην εκπαίδευση ,που με έχει απασχολήσει τελευταία, και έκανα post του blog. Πλέον,έχουν προστεθεί στο blog η βιογραφία και η μελέτη περίπτωσης που έγινεναν στα πλαίσια του μαθήματος .
 
 ![My-blog](https://github.com/Alessenia/Images-for-Report/blob/main/blog.png)
-![bio-blog](https://github.com/Alessenia/Images-for-Report/blob/main/biography-blog.png)
+![bio-blog](https://github.com/Alessenia/Images-for-Report/blob/main/bio-blog.png)
 
 [My static blog](https://alessenia.github.io/)
 
