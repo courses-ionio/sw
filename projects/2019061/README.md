@@ -23,7 +23,7 @@
 | [7](#7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) | συμμετοχικό περιεχόμενο B1 | [Discussion link](https://github.com/courses-ionio/sw/discussions/1626) | Η προσθήκη του virtual tennis ως συμμετοχικό περιεχόμενο δεν μου δημιούργησε κάποιο τεχνικό πρόβλημα ούτε όταν το δοκίμασα στο test branch μου, ούτε κατά το pull request. Η μόνη δυσκολία που αντιμετώπισα ήταν η εύρεση πιο ουσιαστικών πληροφοριών που να καλύπτουν το φάσμα της τεχνολογίας του λογισμικού. **Βαθμός αυτοαξιολόγησης: 8/10** |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | Δεν πραγματοποιήθηκε. **Βαθμός αυτοαξιολόγησης: 0/10** |
 | [9](#9-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | συμμετοχικό περιεχόμενο B2 | [Discussion link](https://github.com/courses-ionio/sw/discussions/1627) | Πρόσθεσα στο site την βιογραφία του James Park, ιδρυτή της Fitbit, μιας και ήταν ένας από τους λίγους γνωστούς ανθρώπους που σχετίζονται και με την πληροφορική αλλά και με την άσκηση-γυμναστική (μέσω fitness app development). **Βαθμός αυτοαξιολόγησης: 10/10** |
-| [10](#10-%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | Τελική αναφορά* | | Συμπεράσματα μετά την ολοκλήρωση των παραδοτέων. |
+| [10](#10-%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | Τελική αναφορά* | [Discussion link](https://github.com/courses-ionio/sw/discussions/1683) | Συμπεράσματα μετά την ολοκλήρωση των παραδοτέων. |
 | Τελική Παρουσίαση | [Σχόλια κ. Βραχάτη](#%CF%83%CF%87%CF%8C%CE%BB%CE%B9%CE%B1-%CE%BA-%CE%B2%CF%81%CE%B1%CF%87%CE%AC%CF%84%CE%B7) | | |
 
 
