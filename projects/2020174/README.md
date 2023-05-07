@@ -34,7 +34,7 @@
 | [7](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-7---συμμετοχικό-περιεχόμενο-b1) | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
 | [8](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-8---κατασκευή-του-βιβλίου-β2) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1696) | |
 | [9](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-9---συμμετοχικό-περιεχόμενο-b2) | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | |
-| [10](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-10---συμμετοχικό-περιεχόμενο-b2) | Τελική αναφορά* | | |
+| [10](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-10---συμμετοχικό-περιεχόμενο-b2) | Τελική αναφορά* | [ Link του discussion]() | |
 
 ### Ενδιάμεση Αξιολόγηση με [κ. Αριστείδη Βραχάτη](https://github.com/Futsies/sw/tree/2020174/projects/2020174#παρουρίαση-με-τον-καθηγητή-αριστείδη-βραχάτη)
 
@@ -147,7 +147,7 @@ J.C.R. Ο Licklider ήταν ένας Αμερικανός επιστήμονα�
 | [Normal image](https://github.com/Futsies/images/blob/master/jcr-licklider.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/jcr-licklider-thumb.jpg) | [Link to biography](https://github.com/Futsies/site/blob/master/_biography/jcr-licklider.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/bio-licklider.md) | [Link to site](https://p2020174-pibook.netlify.app//biography/jcr-licklider/) |
 
 # Παραδοτέο 10 - Τελική αναφορά
-Το μάθημα της Τεχνολογίας Λογισμικού (SW), με βοήθησε να οξύνω την την ικανότητα χρήσης τερματικών περιβαλλόντων, καθώς σε αντίθεση με το μάθημα HCI, αυτή την φορά ασχοληθήκαμε με συστήματα πολύ πιο απλά, χωρίς `systemd` όπως τα `Void και KISS Linux`. Επιπρόσθετα, εξοινιώθηκα με τη χρήση του github καθώς πλέον δεν μου φαίνεται παράξενη η λογική του και δεν έχω πρόβλημα στην πλοήγηση του και ταυτόχρονα η συνεργασία με την ομάδα [LetMeDoItForYou](https://github.com/LetMeDoItForYou) μου ξεκαθάρισε κάποια πράγματα όσον αφορά την ομαδικότητα και την συνεργασία και τον συγχρονισμό μια ομάδας, καθώς η ομαδικότητα φαίνεται ευκολη αρχικά, έχει και διάφορες μικρό δυσκολίες.
+Το μάθημα της Τεχνολογίας Λογισμικού (SW), με βοήθησε να οξύνω την ικανότητα χρήσης τερματικών περιβαλλόντων, καθώς σε αντίθεση με το μάθημα HCI, αυτή την φορά ασχοληθήκαμε με συστήματα πολύ πιο απλά, χωρίς `systemd` όπως τα `Void και KISS Linux`. Επιπρόσθετα, εξοινιώθηκα με τη χρήση του github καθώς πλέον δεν μου φαίνεται παράξενη η λογική του και δεν έχω πρόβλημα στην πλοήγηση του και ταυτόχρονα η συνεργασία με την ομάδα [LetMeDoItForYou](https://github.com/LetMeDoItForYou) μου ξεκαθάρισε κάποια πράγματα όσον αφορά την ομαδικότητα και την συνεργασία και τον συγχρονισμό μια ομάδας, καθώς η ομαδικότητα φαίνεται ευκολη αρχικά, έχει και διάφορες μικρό δυσκολίες.
 
 Όσον αφορά τα συμμετοχικά περιεχόμενα, μου δόθηκε η ευκαιρία να διευρύνω τις γνώσεις μου στα Δίκτυα όπως το `ARPANET`-`LAN` και `WAN`, εφαρμογές επικοινωνίας όπως το `CB-Simulator` και το `Hotmail`, καθώς και να γράψω για τον `J.C.R. Licklider`, τον εφευρέτη του `ARPANET`.
 
