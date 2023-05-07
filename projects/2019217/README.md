@@ -65,9 +65,12 @@ ntfy -b telegram send "$message"
 ## Παραδοτέο 6
 Για αυτήν την εβδομάδα χρησιμοποιήσα το bashblog για να υλοποιηθεί ένα blog σχετικά με το security και στην συνέχεια χρησιμοποιήσα το Github Pages για να κάνω host την σελίδα.
 [Netlify](https://p2019217.github.io/securityblog/)
+
 [securityblog repository](https://github.com/P2019217/securityblog)
 
 ![securityblog](https://user-images.githubusercontent.com/100226514/236666332-54c0b4ab-d038-40c3-a3db-39acecbbf5bf.png)
+
+[Discussions](https://github.com/courses-ionio/sw/discussions/1676)
 
 ## Παραδοτέο 7
 ### Hack
@@ -79,10 +82,14 @@ ntfy -b telegram send "$message"
 
 ![hack](https://user-images.githubusercontent.com/100226514/236666479-b14b302a-ddfb-4a7a-ac9d-126382a23aa8.png)
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1677)
+
 ## Παραδοτέο 8
 [Github Pages](https://p2019217.github.io/kallipos/)
 
 ![scrnsht](https://user-images.githubusercontent.com/100226514/236666546-54ae523c-c3ab-45d8-a000-ec34d10dda76.png)
+
+[Discussions](https://github.com/courses-ionio/sw/discussions/1678)
 
 ## Παραδοτέο 9
 ### Bruce Schneier
@@ -95,7 +102,11 @@ ntfy -b telegram send "$message"
 
 ![scrnshot](https://user-images.githubusercontent.com/100226514/236666646-11fc7ec1-e3f9-4082-895d-42d9b74156cb.png)
 
+[Discussions](https://github.com/courses-ionio/sw/discussions/1679)
+
 ## Παραδοτέο 10
 Μέσω του μαθήματος τεχνολογία λογισμικού είδα πως οργανώνεται το λογισμικό σε μεγάλα project, κατάφερα να συνεργαστώ με τους συμφοιτητές μου για να πετύχουμε κοινούς στόχους δηλαδή την κατασκευή του βιβλίου. Επίσης ήρθα σε επαφή με διάφορα linux συστήματα που με βοήθησαν να κατανοήσω περισσότερο την δομή τους και τον τρόπο λειτουργίας τους εξετάζοντας το systemd σαν υπεύθυνο για το configuration του συστήματος καθώς και το SysVinit που χρησιμοποιείται στα Antix Linux αντίστοιχα. Επιπροσθέτος μου δόθηκε η ευκαιρία να μελετήσω την ζωή του Bruce Schneier έναν άνθρωπο με πάρα πολλές συνεισφορές στο τομέα του security. Ακόμη μέσω των ασκήσεων γραμμής εντολών κατάφερα να αποστείλω τα αποτελέσματα του nmap scan σαν μήνυμα στο telegram, παρ' όλα αυτά δεν κατάφερα να συνδέσω το ntfy με κάποιο brute force εργαλείο, πράγμα που είχα θέση ως στόχο στην εισαγωγή μου, λόγο χρονικών περιορισμών. 
+
+[Discussions](https://github.com/courses-ionio/sw/discussions/1680)
 
 
