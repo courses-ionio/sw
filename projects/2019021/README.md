@@ -112,3 +112,7 @@
 * [site/includes](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/bio-LinusTorvalds.md)
 * [site/_biography](https://github.com/StavroulaAnatolaki/site/blob/master/_biography/Linus%20Torvalds.md)
 * [netlify link](https://master--whimsical-frangipane-afa6c1.netlify.app/biography/linus%20torvalds/)
+
+![Linus Torvalds - Ο Προγραμματισμός της Διάδρασης - Brave 5_7_2023 5_46_23 PM](https://user-images.githubusercontent.com/72880868/236684640-ad1b0d68-e14f-4af4-847d-9d492754853d.png)
+
+
