@@ -1,3 +1,4 @@
+
 ### ΟΝΟΜΑΤΕΠΩΝΥΜΟ: Αθανάσιος Καλαμάτας
 
 ### ΑΜ: Π2020150
@@ -8,16 +9,16 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα Εβδομάδα 2ημε τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| [1](#εισαγωγή) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1231) | |
-| [2](#εβδομάδα-2η) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1293) |  |
-| [3](#εβδομαδα-3η) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1434) | |
-| [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | |
-| [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1435) | |
-| [6](#εβδομάδα-6η) | Γραμμή εντολών (no systemd, custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1492) | |
-| [7](#εβδομαδα-7η) | συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1536) | |
-| [8](#εβδομαδα-8η) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Παραδοτέο 8]() | |
-| [9](#εβδομαδα-9η) | συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 8]() | |
-| 10 | Τελική αναφορά* | | |
+| [1](#εισαγωγή) | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1231) | Δημιουργία ενός οργανισμου και συγγραφή εισαγωγής. |
+| [2](#εβδομάδα-2η) | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1293) | Εγκατάσταση systemd arch linux, για το οποίο γνωρίζω από το προηγούμενο εξάμηνο και ολοκληρώθηκε η γραμμή εντολών χωρίς προβλήματα. |
+| [3](#εβδομαδα-3η) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1434) | Μετά από μικρή δυσκολία έγινε εγκατάσταση no systemd KISS Linux και ολοκληρώθηκε η γραμμή εντολών. |
+| [4](#εβδομάδα-4η) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1435) | Έβαλα την προσθήκη μου στο βιβλίο και δημιούργησα το html. Υπήρξε ένα πρόβλημα με τα filters αλλά λύθηκε σχετικά ευκολα. |
+| [5](#εβδομάδα-5η) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1435) | Έγραψα για το AR και το Pure Data. |
+| [6](#εβδομάδα-6η) | Γραμμή εντολών (no systemd, custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1492) | Ολοκληρώθηκε η γραμμή εντολών χωρίς προβλήματα. |
+| [7](#εβδομαδα-7η) | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1536) | Έγραψα για το Midi software. |
+| [8](#εβδομαδα-8η) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Παραδοτέο 8](https://github.com/courses-ionio/sw/discussions/1622) | Ολοκληρώθηκε μέσω του οργανισμού. |
+| [9](#εβδομαδα-9η) | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1623) | Έγραψα για τον Miller Puckette. |
+| [10](#εβδομαδα-10η) | Τελική αναφορά* | [Παραδοτέο 10]() |  |
 
 ## Εισαγωγή
 
@@ -64,6 +65,8 @@
 ## Εβδομάδα 5η
 Την 5η εβδομάδα επέλεξα να γράψω για την γλώσσα Pure Data καθώς σε αυτήν βασίζεται το reactable, για το οποίο έγραψα στο προηγούμενο παραδοτέο και για την τεχνολογία επαυξημένης πραγματικότητας, καθώς πιστεύω ότι έχει πολλές εφαρμογές στην καθημερινή ζωή και έχει την δυνατότητα στο μέλλον να εξυπηρετήσει ένα μεγάλο φάσμα αναγκών. Παρακάτω φενεται η προσθήκη μου στα slides, timeline και το gallery του site.
 
+![](https://github.com/thanosks/images/blob/master/pure-data.jpg)
+
 ## Github Links
 ### Md
 [AR](https://github.com/thanosks/_gallery/blob/master/augmented-reality.md) |
@@ -91,6 +94,8 @@
 ## Εβδομαδα 7η
 Για το Β1 επέλεξα να γράψω για τον τύπο αρχείου midi, την πιό γνωστή γλώσσα που χρησιμοποιήται στον κόσμο της μουσικής.
 
+![](https://github.com/thanosks/images/blob/master/midi-thumb.jpg?raw=true)
+
 Md: [Includes](https://github.com/thanosks/site/blob/master/_includes/cs-midi.md) | [Case study](https://github.com/thanosks/site/blob/master/_case-study/midi.md)
 
 Image: [Midi](https://github.com/thanosks/images/blob/master/midi-thumb.jpg)
@@ -101,10 +106,12 @@ Netlify: [Midi](https://p2020150-pibook.netlify.app/case-study/midi/)
 
 Δημιουργήσαμε ομαδικό html το οποίο ανεβάσαμε στον οργανισμό.
 
-LInk: [HTML](https://github.com/LetMeDoItForYou/kallipos/tree/master/html)
+Link: [HTML](https://github.com/LetMeDoItForYou/kallipos/tree/master/html)
 
 ## Εβδομαδα 9η
 Για το Β1 επέλεξα να γράψω για τον Miller Puckette, ο οποίος είναι δημιουργός του προγράμματος Pure Data που ανέφερα στην εβδομάδα [5](#εβδομάδα-5η) και της γλώσσας Max η οποία χρησιμοποιείται για διαδραστική μουσική και πολυμέσα.
+
+![image](https://user-images.githubusercontent.com/72318224/236697633-b4869219-5baa-41eb-b67d-2c621d8f65aa.png)
 
 Md: [Includes](https://github.com/thanosks/site/blob/master/_includes/bio-puckette.md) | [Biography](https://github.com/thanosks/site/blob/master/_biography/miller-puckette.md)
 
@@ -113,3 +120,13 @@ Images: [Miller Puckette](https://github.com/thanosks/images/blob/master/miller-
 
 Netlify: [Miller Puckette](https://p2020150-pibook.netlify.app/biography/miller-puckette/)
 
+## Εβδομαδα 10η
+
+Με την ολοκλήρωση αυτού του μαθήματος, αποκόμισα μια εκτενή γνώση και κατανόηση των βασικών αρχών και τεχνικών που αφορούν τα λειτουργικά συστήματα Linux. Επιπλέον, μέσω των βίντεο quiz, είχα την ευκαιρία να εξερευνήσω διάφορους τομείς της τεχνολογίας και της ανάπτυξης λογισμικού από μια διαφορετική οπτική γωνία. Αυτή η εμπειρία ελπίζω ότι θα με βοηθήσει να δημιουργίσω πιο καινοτόμες διεπαφές και εφαρμογές στο μέλλον.
+Επιπλέον, η συμμετοχή μου σε μια ομάδα και η συντονισμός της μέσω του GitHub αποτέλεσε μια σημαντική εμπειρία για μένα.  Αυτή η ικανότητα θα με βοηθήσει στη μελλοντική μου εργασία, επιτρέποντάς μου να συνεργάζομαι αποτελεσματικά με άλλους συνεργάτες και να οργανώνω τις αναπτυξιακές διαδικασίες με μεγαλύτερη αποτελεσματικότητα.
+Αυτές οι αποκομίσεις θα μου φανούν πολύτιμες καθώς συνεχίζω την πορεία μου στον χώρο της πληροφορικής.
+
+## Σχολιασμοί Ενδιάμεσης Παρουσίασης
+
+Σην παρουσίασή μου στον κύριο Βραχάτη με ενημέρωσε πώς πρέπει να προσθέσω τις αυτοαξιολογήσεις μου και να φτιάξω/προσθέσω ορισμένα link της εργασίας. 
+Όσον αφορά το περιεχόμενο ήταν ικανοποιημένος με την προσπάθειά μου.
