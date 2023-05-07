@@ -26,15 +26,15 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | [1](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-1---εισαγωγή) | Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link του discussion](https://github.com/courses-ionio/sw/discussions/1252)| |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1261) | |
-| 3 | Γραμμή εντολών (no systemd) |  [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1357) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1473) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1517) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1696) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | |
-| 10 | Τελική αναφορά* | | |
+| [2](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-2---άσκηση-γραμμής-εντολών) | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1261) | |
+| [3](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-3---άσκηση-γραμμής-εντολών-no-systemd) | Γραμμή εντολών (no systemd) |  [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1357) | |
+| [4](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-4---κατασκευή-του-βιβλίου-α2) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1473) | |
+| [5](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a1--a2) | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1517) | |
+| [6](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-6---γραμμή-εντολών-custom-static-blog-generator) | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
+| [7](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-7---συμμετοχικό-περιεχόμενο-b1) | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
+| [8](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-8---κατασκευή-του-βιβλίου-β2) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1696) | |
+| [9](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-9---συμμετοχικό-περιεχόμενο-b2) | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | |
+| [10]() | Τελική αναφορά* | | |
 
 
 # Παραδοτέο 1 - Εισαγωγή
