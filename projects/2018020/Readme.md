@@ -77,3 +77,11 @@
 Για αυτήν την εβδομάδα κατασκεύασα το δικό μου Blog χρησιμοποιώντας το [bashyll](https://github.com/faithanalog/bashyll) για να δημιουργήσω το δικό μου static blog έκανα τις απαραίτητες αλλαγές που χρειάζονταν στους φακέλους /source. Έπειτα ανέβασα το local repository στο github σαν [bashyllblog](https://github.com/NestorasKosmidis/bashyllblog) και έκανα host το repo χρησιμοποιώντας το Github Pages. Μπορείτε να δείτε το blog [εδώ](https://nestoraskosmidis.github.io/bashyllblog/). Βέβαια το site φαίνεται σαν demo μιας και δεν έχω προσθέσει ακόμα περιεχόμενο.
 
 [![asciicast](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k.svg)](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k)
+
+## Εβδομάδα 7
+Για αυτήν την εβδομάδα αναρτήθηκε στο site μελέτη περίπτωσης με θεματικό κέντρο τα ολοκληρωμένα περιβάλλοντα ανάπτυξης λογισμικού ή διαφορετικά IDEs.
+
+- *_case-study*: [ide.md](https://github.com/NestorasKosmidis/site/blob/master/_case-study/ide.md)
+- *_includes*: [cs-ide.md](https://github.com/NestorasKosmidis/site/blob/master/_includes/cs-ide.md)
+- *Netlify*: [IDEs](https://effervescent-snickerdoodle-648dcd.netlify.app//case-study/ide/)
+
