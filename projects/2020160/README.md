@@ -141,6 +141,16 @@ Screenshot:
 - [apple-eMate](https://elated-hopper-ceabdc.netlify.app/slides/learning/)
 - [sony-playstation](https://elated-hopper-ceabdc.netlify.app/slides/videogames/)
 
+## Γραμμή εντολών (custom static blog generator)
+
+## Συμμετοχικό περιεχόμενο B1
+
+## Κατασκευή του βιβλίου Β2
+
+## Συμμετοχικό περιεχόμενο B2
+
+## Τελική αναφορά 
+
 ## Video
 
 | Τίτλος Βίντεο | Παρακολούθηση | 
