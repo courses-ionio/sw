@@ -6,6 +6,7 @@
 * Ονοματεπώνυμο: Τζελέπης Φώτιος
 * Αριθμός Μητρώου: Π2020174 
 * E-mail: p20tzel@ionio.gr
+* Edpuzzle: Fotios Tzelepis p20tzel
 * Organization: [LetMeDoItForYou](https://github.com/LetMeDoItForYou)
 
 
