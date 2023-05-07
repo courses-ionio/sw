@@ -183,11 +183,12 @@
 
 # Κατασκευή του βιβλίου Β2 (συνεργατικά)
 
-Γι αυτό το παραδοτέο πρόσθεσα στο βιβλίο το md αρχειο για το [interactivity](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/e034cf0a7fc373fe0eb51f9743f23aeb77da805f/interactivity.md)
+Γι αυτό το παραδοτέο πρόσθεσα στο βιβλίο το md αρχειο για το [interactivity](https://github.com/LetMeDoItForYou/Kallipos-Notes-LetMeDoItForYou/blob/e034cf0a7fc373fe0eb51f9743f23aeb77da805f/interactivity.md) 
 
-Το παραδοτέο έγινε με την χρήση του πακέτου `pollen`.
+Το παραδοτέο έγινε με την χρήση του πακέτου `pollen` με το αρχείο [sh](https://github.com/p20poli/kallipos/blob/master/make-pollen.sh) και το αρχείο του [index](https://github.com/p20poli/kallipos/blob/master/html/index.html).
 
-![χωριανοπουλος](https://user-images.githubusercontent.com/115041945/233776782-c8ae08cd-cbba-4fec-963d-a07d75cc3adc.png)
+
+![interactivity](https://user-images.githubusercontent.com/115041945/233776782-c8ae08cd-cbba-4fec-963d-a07d75cc3adc.png)
 
 
 
