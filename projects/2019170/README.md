@@ -99,7 +99,7 @@ Extra: Ntfy Άσκηση Γραμμής Εντολών
 Για αυτό το παραδοτεό έγραψα μια μελέτη περίπτωσης για την γλώσσα προγραμματισμού Julia.
 |Screenshot|Links|
 |--|--|
-|<table> ![case-study-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/case_study/case-study-screenshot.png) </table>| <table> <tr><th>Julia</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[julia-pl.md](https://github.com/marked-d/site/blob/master/_case-study/julia-pl.md)</li><li>[cs-julia-pl.md](https://github.com/marked-d/site/blob/master/_includes/cs-julia-pl.md)</li></ul></td><td>n/a</td><td>[Julia Μελέτη Περίπτωσης](https://p19mark-marked-d.netlify.app/case-study/julia-pl/)</td></tr> </table>|
+|<table> ![case-study-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/case_study/case-study-screenshot.png) </table>| <table> <tr><th>Julia</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[julia-pl.md](https://github.com/marked-d/site/blob/master/_case-study/julia-pl.md)</li><li>[cs-julia-pl.md](https://github.com/marked-d/site/blob/master/_includes/cs-julia-pl.md)</li></ul></td><td>[pull request](https://github.com/PaneksypnesDiepafes/site/pull/8)</td><td>[Julia Μελέτη Περίπτωσης](https://p19mark-marked-d.netlify.app/case-study/julia-pl/)</td></tr> </table>|
 
 [Πηγές](https://github.com/marked-d/SW_plus/blob/main/case_study/links-julia.md)
 
@@ -116,7 +116,7 @@ Extra: Ntfy Άσκηση Γραμμής Εντολών
 Για το 9ο παραδοτέο έγραψα μια βιογραφία για έναν από τους δημιουργούς της Julia, τον Alan Edelman.
 |Screenshot|Links|
 |--|--|
-|<table> ![bio-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/biography/bio-screenshot.png) </table>| <table> <tr><th>Alan Edelman</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[alan-edelman.md](https://github.com/marked-d/site/blob/master/_biography/alan-edelman.md)</li><li>[bio-edelman.md](https://github.com/marked-d/site/blob/master/_includes/bio-edelman.md)</li></ul></td><td>n/a</td><td>[Alan Edelman](https://p19mark-marked-d.netlify.app/biography/alan-edelman/)</td></tr> </table>|
+|<table> ![bio-screenshot.png](https://github.com/marked-d/SW_plus/blob/main/biography/bio-screenshot.png) </table>| <table> <tr><th>Alan Edelman</th><th>Pull Request</th><th>Site Οργανισμού</th></tr><tr><td><ul><li>[alan-edelman.md](https://github.com/marked-d/site/blob/master/_biography/alan-edelman.md)</li><li>[bio-edelman.md](https://github.com/marked-d/site/blob/master/_includes/bio-edelman.md)</li></ul></td><td>[pull request](https://github.com/PaneksypnesDiepafes/site/pull/8)</td><td>[Alan Edelman](https://p19mark-marked-d.netlify.app/biography/alan-edelman/)</td></tr> </table>|
 
 [Πηγές](https://github.com/marked-d/SW_plus/blob/main/biography/links.md)
 
