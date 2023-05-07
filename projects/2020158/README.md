@@ -8,16 +8,16 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | 80% Ολοκληρώθηκε - Ελλειπής |
+| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | 80% Ολοκληρώθηκε - Συνοπτικό |
 | 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | 100% Ολοκληρώθηκε |
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε |
 | 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε |
 | 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | 0% Δεν Ολοκληρώθηκε |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | 0% Δεν Ολοκληρώθηκε |
 | 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε |
-| 10 | Τελική αναφορά* | | |
+| 10 | [Τελική Αναφορά](#Τελική-Αναφορά) | | 80% Ολοκληρώθηκε - Συνοπτικό |
 
 
 # Εισαγωγή
@@ -59,11 +59,9 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 [Αρχείο md](https://github.com/mariakourti/TheParadoxNotes/blob/main/vscode.md)
 
-[Ομαδικό Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/master/additionfilter.lua)
-
 [Ατομικό Φίλτρο Lua](https://github.com/TheTimeParadox/kallipos/blob/main/filtro.lua)
 
-[make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/master/make-latex.sh)
+[make-latex.sh](https://github.com/TheTimeParadox/kallipos/blob/main/make-latex.sh)
 
 [Ομαδικό Βιβλίο](https://github.com/TheTimeParadox/kallipos/blob/main/book.pdf)
 
@@ -109,3 +107,11 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 [Netlify Link](https://thetimeparadox-pibook.netlify.app/biography/johncarmack)
 
+
+# Τελική Αναφορά
+
+Μέσα από το μάθημα της Τεχνολογίας Λογισμικού, ανέπτυξα τις γνώσεις μου σε διάφορους τομείς. Εξοικειώθηκα με την χρήση των Arch Linux μέσω απλών εφαρμογών, καθώς και έμαθα περισσότερα για τις διάφορες διανομές του.
+Είχα καλή συνεργασία και επικοινωνία με την ομάδα μου, και με βοήθησαν σε μικρά προβλήματα που αντιμετώπισα.
+Εμβάθυνα περισσότερο στην χρήση του Netlify αλλά και του Github, και πιστεύω βρίσκομαι σε ένα καλό γνωστικό επίπεδο σχετικά με αυτά τα εργαλεία.
+Δεν ολοκλήρωσα όλα τα βίντεο κουίζ, και δεν κατάφερα ένα από τα παραδοτέα.
+Τέλος, μέσω έρευνας έμαθα περισσότερα για τα θέματα που διάλεξα, που αφορούσαν κυρίως το κομμάτι της τεχνολογίας λογισμικού στον τομέα της διασκέδασης.
