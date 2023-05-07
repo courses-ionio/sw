@@ -175,8 +175,6 @@ Screenshot:
 
 - [JonathanIve](https://elated-hopper-ceabdc.netlify.app/biography/jonathanive/)
 
-## Τελική αναφορά 
-
 ## Video
 
 | Τίτλος Βίντεο | Παρακολούθηση | 
@@ -186,3 +184,8 @@ Screenshot:
 |Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
 | Bret Victor - The Future of Programming| Ναι |
 | Alan Kay - Programming Languages & Programming (2013)| Ναι |
+
+
+## Ομαδικότητα
+
+## Τελική αναφορά 
