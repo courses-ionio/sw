@@ -17,7 +17,7 @@
 | [7](#συμμετοχικό-περιεχόμενο-β1---7ο-παραδοτέο) | συμμετοχικό περιεχόμενο B1 | [#1534](https://github.com/courses-ionio/sw/discussions/1534) | Για το παραδοτέο επέλεξα το Audacity, που κατά τη γνώμη μου είναι μια αρκετά ενδιαφέρουσα περίπτωση που ανέλυσα τα βασικότερα σημεία της. |
 | [8](#κατασκευή-του-βιβλίου-β2---8ο-παραδοτέο) | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[#1608](https://github.com/courses-ionio/sw/discussions/1608) | Σε αυτό το παραδοτέο με χρήση του pandoc, έγινε η μετατροπή του βιβλίου σε μορφή HTML, με κάποια μικροπροβλήματα. |
 | [9](#συμμετοχικό-περιεχόμενο-β2---9ο-παραδοτέο) | συμμετοχικό περιεχόμενο B2 | [#1611](https://github.com/courses-ionio/sw/discussions/1611)| Επέλεξα να γράψω την βιογραφία του Scott Forstall, ενός από τους συντελεστές του iOS.|
-| 10 | Τελική αναφορά* | | |
+| [10](#επίλογος-και-τελική-αναφορά---10ο-παραδοτέο) | Τελική αναφορά* | [#1690](https://github.com/courses-ionio/sw/discussions/1690) | Συγγραφή του επιλόγου της εργασίας αναφέροντας όσα αποκόμισα από το μάθημα. |
 | [-](#ομαδικότητα) | Ομαδικότητα | | Discussions που ξεκίνησα ή συμμετείχα. |
 
 ## Εισαγωγή και δημιουργία ομάδας - 1ο παραδοτέο
@@ -85,7 +85,7 @@
 ![neofetchv2](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1885).png)
 
 ## Κατασκευή του βιβλίου Α2 - 4ο παραδοτέο
-Σε αυτό το παραδοτέο, το ζητούμενο ήταν η συνεισφορά στο βιβλίο με μια σημείωση μας. Συγκεκριμένα, πρόσθεσα μια παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με παράδειγμα και χρήσεις γλωσσών οπτικού προγραμματισμού και την αντίθετη πλευρά, παράδειγμα και χρήσεις συγγραφής πηγαίου κώδικα. Η προσθήκη στο κεφάλαιο έγινε με την αρίθμηση του [text](https://github.com/mibook/text/blob/main/ch04.txt) του repository του βιβλίου του μαθήματος καθώς στο παραγόμενο pdf, το 4ο κεφάλαιο εμφανίζεται σαν 6ο. Παρακάτω, υπάρχει screenshot της προσθήκης μου, links πρός τις προσθήκες μου στον οργανισμό, link προς το ομαδικό βιβλίο αλλά και τα αντίστοιχα link προς τα προσωπικά μου αποθετήρια.
+Σε αυτό το παραδοτέο, το ζητούμενο ήταν η συνεισφορά στο βιβλίο με μια σημείωση μας. Συγκεκριμένα, πρόσθεσα μια παράγραφο στο κεφάλαιο 4 του βιβλίου σχετικά με παράδειγμα και χρήσεις γλωσσών οπτικού προγραμματισμού και την αντίθετη πλευρά, παράδειγμα και χρήσεις συγγραφής πηγαίου κώδικα. Η προσθήκη στο κεφάλαιο έγινε με την αρίθμηση του [text](https://github.com/mibook/text/blob/main/ch04.txt) του repository του βιβλίου του μαθήματος καθώς στο παραγόμενο pdf, το 4ο κεφάλαιο εμφανίζεται σαν 6ο. Παρακάτω, υπάρχει screenshot της προσθήκης μου, links πρός τις προσθήκες μου στον οργανισμό, link προς το ομαδικό βιβλίο αλλά και τα αντίστοιχα link προς τα προσωπικά μου αποθετήρια. Για το παραδοτέο χρησιμοποιήθηκε το [pandoc](https://github.com/jgm/pandoc) και το [LaTeX](https://www.latex-project.org/).
 
 **Προβλήματα παραδοτέου:** Το κύριο πρόβλημα στο παραδοτέο ήταν το pandoc, καθώς είναι αρκετά προβληματικό στα Arch Linux όπου κατά συνέπεια αρχικά δεν εμφανίζοταν φωτογραφίες για παράδειγμα ή εμφανίζοταν διάφορα errors στα ξαφνικά. Εν τέλει αυτά τα προβλήματα λύθηκαν με πολύ κόπο.
 
@@ -111,9 +111,15 @@
 
 Παρακάτω, υπάρχουν οι πηγές καθώς και τα link προς τα ομαδικά αποθετήρια και Netlify, αλλά και τα αντίστοιχα ατομικά.
 
+**Προσθήκες:**
+
+![](https://github.com/p20samiv2/images/blob/master/termux.jpg)
+
+![](https://github.com/p20samiv2/images/blob/master/pure-data.jpg)
+
 **Προβλήματα παραδοτέου:** Δεν αντιμετώπισα κάποιο πρόβλημα στο παραδοτέο.
 
-**Update: Αντικατέστησα το σετ διαφανειών "εξομοίωση" που είχα προσθέσει για την προσθήκη του Termux με το σετ "τεχνολογίες έξυπνων κινητών τηλεφώνων" καθώς πιστεύω πως ταιριάζει περισσότερο με την ροή της εργασίας μου και έχει μεγαλύτερη συνοχή, καθώς και για να αποφύγω ομοιότητες με εργασίες συμφοιτητών. Το εν λόγω σετ το είχα δημιουργήσει πριν το σετ "εξομοίωση" αλλά το διέγραψα για να χρησιμοποιήσω τις προαναφερθείσες διαφάνειες, αλλά αποφάσισα να το ξαναπροσθέσω μετά την ενδιάμεση παρουσίαση.**
+**Update: Αντικατέστησα το σετ διαφανειών "εξομοίωση" που είχα προσθέσει για την προσθήκη του Termux με το σετ "τεχνολογίες έξυπνων κινητών τηλεφώνων" καθώς πιστεύω πως ταιριάζει περισσότερο με την ροή της εργασίας μου, έχει μεγαλύτερη συνοχή και είναι πιο κοντά στα ενδιαφέροντα μου. Το εν λόγω σετ το είχα δημιουργήσει πριν το σετ "εξομοίωση" αλλά το διέγραψα για να χρησιμοποιήσω τις προαναφερθείσες διαφάνειες, αλλά αποφάσισα να το ξαναπροσθέσω μετά την ενδιάμεση παρουσίαση.**
 
 
 #### Πηγές: 
@@ -157,17 +163,19 @@
 
 **Προβλήματα παραδοτέου:** Δεν αντιμετώπισα προβλήματα σε αυτό το παραδοτέο.
 
+**Update:** Τροποποίησα την εμφάνιση του παραδοτέου με css καθώς δεν μου άρεσε ιδιαίτερα το default blog που δημιουργούταν. Η παλιά εμφάνιση υπάρχει [εδώ](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1892).png)
+
 **Εργαλείο**: [BashBlog](https://github.com/cfenollosa/bashblog)
 
 **Blog**: [Site](https://p20sami.github.io/) / [Repository](https://github.com/p20sami/p20sami.github.io/tree/main)
 
 **Asciinema**: [Asciinema βίντεο](https://asciinema.org/a/KQqVf1jQj7zl4DQn381JIm6MV)
 
-![blog](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1892).png)
+![blog](https://github.com/p20sami/randompics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(1910).png)
 
 
 ## Συμμετοχικό περιεχόμενο Β1 - 7ο παραδοτέο
-Για την μελέτη περίπτωσης του 7ου παραδοτέου επέλεξα να γράψω για την περίπτωση του λογισμικού Audacity, ο οποίος είναι ένας open-source επεξεργαστής ψηφιακού ήχου που επιτρέπει την δημιουργία μουσικών κομματιών αλλά και απλών ήχων μεταξύ άλλων πολλών λειτουργιών. Παρακάτω βρίσκονται τα ατομικά και ομαδικά link, οι πηγές καθώς και τα αντίστοιχα pull request προς τον οργανισμό.
+Για την μελέτη περίπτωσης του 7ου παραδοτέου επέλεξα να γράψω για την περίπτωση του λογισμικού [Audacity](https://github.com/audacity/audacity), ο οποίος είναι ένας open-source επεξεργαστής ψηφιακού ήχου που επιτρέπει την δημιουργία μουσικών κομματιών αλλά και απλών ήχων μεταξύ άλλων πολλών λειτουργιών. Παρακάτω βρίσκονται τα ατομικά και ομαδικά link, οι πηγές καθώς και τα αντίστοιχα pull request προς τον οργανισμό.
 
 **Πηγές μελέτης**: [Audacity, Software Advice](https://www.softwareadvice.com/audio-editing/audacity-profile/) / [Audacity, Wikipedia](https://en.wikipedia.org/wiki/Audacity_(audio_editor)) / [audacityteam.org](https://www.audacityteam.org/about/features/) / [Audacity Wiki](https://wiki.audacityteam.org/wiki/Audacity_Wiki_Home_Page) / [Audacity, SourceForge](https://sourceforge.net/projects/audacity/) / [Audacity, umass](https://blogs.umass.edu/onlinetools/learner-centered-tools/audacity/) / [Audacity, Tech Radar](https://www.techradar.com/reviews/audacity-32) / [Audacity, PCMag](https://www.pcmag.com/reviews/audacity) / [MIDI, Wikipedia](https://en.wikipedia.org/wiki/MIDI) / [wxWidgets, Wikipedia](https://en.wikipedia.org/wiki/WxWidgets) / [Nyquist, Wikipedia](https://en.wikipedia.org/wiki/Nyquist_(programming_language)) / [Lossy & Lossless audio formats, Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format#Lossless_compressed_audio_format) 
 
@@ -197,11 +205,11 @@
 
 **Update: Πρόσθεσα επίσης μια σύντομη μελέτη στο ατομικό μου netlify που δεν σχετίζεται με το συμμετοχικό περιεχόμενο αλλά με την εισαγωγή μου, και πραγματεύεται την περίπτωση του Therac-25 σαν ένα παράδειγμα του πως το λογισμικό εκτός από μεγάλη βοήθεια μπορεί να είναι και προβληματικό.**
 
-**Therac-25: [Netlify](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/therac-25/) / [therac-25.png](https://github.com/p20samiv2/images/blob/master/therac-25.png) , [therac-25-thumb.png](https://github.com/p20samiv2/images/blob/master/therac-25-thumb.png) / [_case-study](https://github.com/p20samiv2/site/blob/master/_case-study/therac-25.md) / [_includes](https://github.com/p20samiv2/site/blob/master/_includes/cs-therac-25.md) / [Wikipedia](https://en.wikipedia.org/wiki/Therac-25).**
+**Therac-25: [Netlify](https://kaleidoscopic-brigadeiros-13ef8d.netlify.app/case-study/therac-25/) / [therac-25.png](https://github.com/p20samiv2/images/blob/master/therac-25.png) , [therac-25-thumb.png](https://github.com/p20samiv2/images/blob/master/therac-25-thumb.png) / [_case-study](https://github.com/p20samiv2/site/blob/master/_case-study/therac-25.md) / [_includes](https://github.com/p20samiv2/site/blob/master/_includes/cs-therac-25.md) / [Wikipedia](https://en.wikipedia.org/wiki/Therac-25) / [Wikipedia Commons Link](https://upload.wikimedia.org/wikipedia/commons/9/90/Therac25_Interface.png).**
 
 
 ## Κατασκευή του βιβλίου Β2 - 8ο παραδοτέο
-Για το τελευταίο μέρος της κατασκευής του βιβλίου, έγινε η μετατροπή του βιβλίου του μαθήματος σε μορφή HTML με τη χρήση του script που έγραψα, σε ατομικό και ομαδικό επίπεδο και το οποίο βρίσκεται παρακάτω μαζί με την σημείωση μου εντός του βιβλίου. Επίσης έγινε το deploy μέσω GitHub Pages του ομαδικού βιβλίου, του οποίου το link υπάρχει επίσης παρακάτω.
+Για το τελευταίο μέρος της κατασκευής του βιβλίου, έγινε η μετατροπή του βιβλίου του μαθήματος σε μορφή HTML με τη χρήση του script που έγραψα, σε ατομικό και ομαδικό επίπεδο και το οποίο βρίσκεται παρακάτω μαζί με την σημείωση μου εντός του βιβλίου. Επίσης έγινε το deploy μέσω GitHub Pages του ομαδικού βιβλίου, του οποίου το link υπάρχει επίσης παρακάτω. Χρησιμοποιήθηκε το [pandoc](https://github.com/jgm/pandoc) και αυτή την φορά όπως το 4ο παραδοτέο χωρίς το LaTeX καθώς δεν ήταν αναγκαίο, όπως δεν ήταν αναγκαία η χρήση κάποιου άλλου εργαλείου όπως το [pollen](https://github.com/mbutterick/pollen) διότι το pandoc μπορούσε να κάνει την ίδια δουλεία, οπότε θα ήταν περιττό να χρησιμοποιηθεί επιπλέον εργαλείο.
 
 #### Ομαδικά link:
 
@@ -276,5 +284,5 @@
 
 Παρακάτω υπάρχουν discussions τα οποία ξεκίνησα ή συμμετείχα.
 
-https://github.com/courses-ionio/sw/discussions/1234
-/ https://github.com/courses-ionio/sw/discussions/1377 / https://github.com/courses-ionio/sw/discussions/1602 / https://github.com/courses-ionio/sw/discussions/1476 / https://github.com/courses-ionio/sw/discussions/1178 / https://github.com/courses-ionio/sw/discussions/1523 / https://github.com/courses-ionio/sw/discussions/1479 / https://github.com/courses-ionio/sw/discussions/1333 / https://github.com/courses-ionio/sw/discussions/1336 / https://github.com/courses-ionio/sw/discussions/1277 / https://github.com/courses-ionio/sw/discussions/1261 / https://github.com/courses-ionio/sw/pull/1619 / https://github.com/courses-ionio/sw/pull/1624 / https://github.com/courses-ionio/sw/pull/1650
+[#1234](https://github.com/courses-ionio/sw/discussions/1234)
+/ [#1377](https://github.com/courses-ionio/sw/discussions/1377) / [#1602](https://github.com/courses-ionio/sw/discussions/1602) / [#1476](https://github.com/courses-ionio/sw/discussions/1476) / [#1187](https://github.com/courses-ionio/sw/discussions/1178) / [#1523](https://github.com/courses-ionio/sw/discussions/1523) / [#1479](https://github.com/courses-ionio/sw/discussions/1479) / [#1333](https://github.com/courses-ionio/sw/discussions/1333) / [#1336](https://github.com/courses-ionio/sw/discussions/1336) / [#1277](https://github.com/courses-ionio/sw/discussions/1277) / [#1261](https://github.com/courses-ionio/sw/discussions/1261) / [#1619](https://github.com/courses-ionio/sw/pull/1619) (PR) / [#1624](https://github.com/courses-ionio/sw/pull/1624) (PR) / [#1650](https://github.com/courses-ionio/sw/pull/1650) (PR) / [#1624](https://github.com/courses-ionio/sw/pull/1665) (PR) / [#1685](https://github.com/courses-ionio/sw/pull/1685) (PR)
