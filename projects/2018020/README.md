@@ -17,8 +17,8 @@
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Discussions](https://github.com/courses-ionio/sw/discussions/1442) | |
 | 7 | συμμετοχικό περιεχόμενο B1 |[Discussions](https://github.com/courses-ionio/sw/discussions/1671) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Discussions](https://github.com/courses-ionio/sw/discussions/1672) | |
-| 9 | συμμετοχικό περιεχόμενο B2 |[Discussions](https://github.com/courses-ionio/sw/discussions/new?category=show-and-tell) | |
-| 10 | Τελική αναφορά* |[Discussions]() | |
+| 9 | συμμετοχικό περιεχόμενο B2 |[Discussions](https://github.com/courses-ionio/sw/discussions/1673) | |
+| 10 | Τελική αναφορά* |[Discussions](https://github.com/courses-ionio/sw/discussions/1674) | |
 
 
 ## Εβδομάδα 1
