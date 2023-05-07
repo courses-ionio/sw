@@ -13,7 +13,7 @@
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε |
 | 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε |
 | 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | [Γραμμή Εντολών no systemd custom static blog generator](Γραμμή-Εντολών-no-systemd-custom-static-blog-generator) | https://github.com/courses-ionio/sw/discussions/1702 | 100% Ολοκληρώθηκε |
 | 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | 0% Δεν Ολοκληρώθηκε |
 | 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε |
@@ -83,6 +83,17 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 [Slides Github Link](https://github.com/mariakourti/site/blob/Π2020158/_slides/tools.md) | [Timeline Github Link](https://github.com/mariakourti/site/blob/Π2020158/_timeline/softwaretools.md)
 
 [Slides Netlify Link](https://p2020158.netlify.app/slides/tools) | [Timeline Netlify Link](https://p2020158.netlify.app/timeline/softwaretools)
+
+
+# Γραμμή Εντολών no systemd custom static blog generator
+
+Σε αυτό το παραδοτέο δημιούργησα ένα blog με την χρήση του bashblog. Χρησιμποποίησα τα Artix Linux για την υλοποίηση αυτής της άσκησης. Το περιεχόμενο σχετίζεται με την τεχνολογία στην βιομηχανία των βιντεοπαιχνιδιών.
+
+[Github Link](https://github.com/mariakourti/mariakourti.github.io)
+
+[Blog Link](https://mariakourti.github.io)
+
+![Screenshot_2](https://user-images.githubusercontent.com/92392853/236694169-e0275302-937d-42c8-9c10-51dd8cf9e947.png)
 
 
 # Συμμετοχικό Περιεχόμενο B1
