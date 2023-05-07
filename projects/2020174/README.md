@@ -133,7 +133,7 @@ __Netlify Timelines:__ [CB Simulator](https://p2020174-pibook.netlify.app//timel
 Ο καθηγητής αναφέρθηκε θετικά στην αναφορά μου, χαρακτηρίζοντάς την ως εύρημα που είναι περιγραφικό και καλά οργανωμένο, με συνεκτική σύνδεση μεταξύ των παραδοτέων και ομαλή ροή στο κείμενο. Το μόνο που μου σχολιάστηκε στην αναφορά μου είναι η αδυναμία εμφάνισης ενός από τα δύο timelines και επιπλέον να προσθέσω υπερσυνδέσμους αναφοράς για κάθε παραδοτέο.
 
 # Παραδοτέο 8 - Κατασκευή του βιβλίου Β2
-Για την κατασκευή του βιβλίου Β2 δημιουργίσαμε ενα script χρησιμοποιόντας το πακέτο `pollen`, [make-pollen.sh](https://github.com/Futsies/kallipos/blob/master/make-pollen.sh) για να μετατρέψουμε το βιβλίο σε [HTML](https://github.com/Futsies/kallipos/blob/master/html/index.html)
+Για την κατασκευή του βιβλίου Β2 δημιουργήσαμε ένα script χρησιμοποιώντας το πακέτο `pollen`, [make-pollen.sh](https://github.com/Futsies/kallipos/blob/master/make-pollen.sh) για να μετατρέψουμε το βιβλίο σε [HTML](https://github.com/Futsies/kallipos/blob/master/html/index.html)
 
 ![image](https://user-images.githubusercontent.com/92447304/236688839-dc681109-aa27-4ac1-8bbf-38958a9d8613.png)
 
@@ -146,5 +146,9 @@ J.C.R. Ο Licklider ήταν ένας Αμερικανός επιστήμονα�
 | :--: | :--: | :--: | :--: |
 | [Normal image](https://github.com/Futsies/images/blob/master/jcr-licklider.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/jcr-licklider-thumb.jpg) | [Link to biography](https://github.com/Futsies/site/blob/master/_biography/jcr-licklider.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/bio-licklider.md) | [Link to site](https://p2020174-pibook.netlify.app//biography/jcr-licklider/) |
 
-# Παραδοτέο 10 - Συμμετοχικό περιεχόμενο B2
-pending...
+# Παραδοτέο 10 - Τελική αναφορά
+Το μάθημα της Τεχνολογίας Λογισμικού (SW), με βοήθησε να οξύνω την την ικανότητα χρήσης τερματικών περιβαλλόντων, καθώς σε αντίθεση με το μάθημα HCI, αυτή την φορά ασχοληθήκαμε με συστήματα πολύ πιο απλά, χωρίς `systemd` όπως τα `Void και KISS Linux`. Επιπρόσθετα, εξοινιώθηκα με τη χρήση του github καθώς πλέον δεν μου φαίνεται παράξενη η λογική του και δεν έχω πρόβλημα στην πλοήγηση του και ταυτόχρονα η συνεργασία με την ομάδα [LetMeDoItForYou](https://github.com/LetMeDoItForYou) μου ξεκαθάρισε κάποια πράγματα όσον αφορά την ομαδικότητα και την συνεργασία και τον συγχρονισμό μια ομάδας, καθώς η ομαδικότητα φαίνεται ευκολη αρχικά, έχει και διάφορες μικρό δυσκολίες.
+
+Όσον αφορά τα συμμετοχικά περιεχόμενα, μου δόθηκε η ευκαιρία να διευρύνω τις γνώσεις μου στα Δίκτυα όπως το `ARPANET`-`LAN` και `WAN`, εφαρμογές επικοινωνίας όπως το `CB-Simulator` και το `Hotmail`, καθώς και να γράψω για τον `J.C.R. Licklider`, τον εφευρέτη του `ARPANET`.
+
+Συνοψίζοντας, θεορώ πως οι στοχοι που είχα θέσει στην αρχή του μαθήματος έχουν ικανοποιηθεί, και πως εχω εξοπληθει καλύτερα για τα επόμενα `challenges` που θα βρώ στην καριέρα μου.
