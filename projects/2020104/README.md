@@ -2,9 +2,10 @@
 
 ### ΑΜ: Π2020104
 
-### GITHUB: https://github.com/p20poli
+### [GITHUB](https://github.com/p20poli)
 
-### ORGANISATION: https://github.com/LetMeDoItForYou
+### [EDPUZZLE](https://edpuzzle.com/profile)
+### [ORGANISATION](https://github.com/LetMeDoItForYou)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
