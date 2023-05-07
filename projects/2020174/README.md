@@ -35,7 +35,7 @@
 | [7](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-7---συμμετοχικό-περιεχόμενο-b1) | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | Συγγραφή μελέτης επικοινωνιακών μέσων όπως ARPANET και προτόκολα του internet |
 | [8](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-8---κατασκευή-του-βιβλίου-β2) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1696) | Κατασκεύη του βιβλίου σε HTML format με την χρήση `pollen` |
 | [9](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-9---συμμετοχικό-περιεχόμενο-b2) | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | Συγγραφή βιογραφίας `J.C.R. Licklider`, τον εφευρέτη του `ARPANET` |
-| [10](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-10---συμμετοχικό-περιεχόμενο-b2) | Τελική αναφορά* | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1699) | Σύνταξη της τελικής αναφοράς και συνοπτική ανάλυση της εργασίας |
+| [10](https://github.com/Futsies/sw/blob/2020174/projects/2020174/README.md#παραδοτέο-10---τελική-αναφορά) | Τελική αναφορά* | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1699) | Σύνταξη της τελικής αναφοράς και συνοπτική ανάλυση της εργασίας |
 
 ### Ενδιάμεση Αξιολόγηση με [κ. Αριστείδη Βραχάτη](https://github.com/Futsies/sw/tree/2020174/projects/2020174#παρουρίαση-με-τον-καθηγητή-αριστείδη-βραχάτη)
 
