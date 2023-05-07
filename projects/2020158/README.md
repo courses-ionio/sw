@@ -13,7 +13,7 @@
 | 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε |
 | 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε |
 | 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε |
-| 6 | [Γραμμή Εντολών no systemd custom static blog generator](Γραμμή-Εντολών-no-systemd-custom-static-blog-generator) | https://github.com/courses-ionio/sw/discussions/1702 | 100% Ολοκληρώθηκε |
+| 6 | [Γραμμή Εντολών no systemd custom static blog generator](#Γραμμή-Εντολών-no-systemd-custom-static-blog-generator) | https://github.com/courses-ionio/sw/discussions/1702 | 100% Ολοκληρώθηκε |
 | 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | 0% Δεν Ολοκληρώθηκε |
 | 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε |
