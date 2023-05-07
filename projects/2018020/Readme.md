@@ -78,6 +78,7 @@
 [![asciicast](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k.svg)](https://asciinema.org/a/HirSuq2wCmuQFJr35Vff1dI5k)
 
 ## Εβδομάδα 7
+
 Για αυτήν την εβδομάδα αναρτήθηκε στο site μελέτη περίπτωσης με θεματικό κέντρο τα ολοκληρωμένα περιβάλλοντα ανάπτυξης λογισμικού ή διαφορετικά IDEs.
 
 - *_case-study*: [ide.md](https://github.com/NestorasKosmidis/site/blob/master/_case-study/ide.md)
@@ -85,3 +86,24 @@
 - *Netlify*: [IDEs](https://effervescent-snickerdoodle-648dcd.netlify.app//case-study/ide/)
 
 ![IDEs](https://user-images.githubusercontent.com/56269327/236664260-2eed27c9-fdf3-458e-92b4-cd03f89df263.png)
+
+## Εβδομάδα 8
+
+Για αυτήν την εβδομάδα χρησιμοποιήθηκε το [makepollen.sh](https://github.com/NestorasKosmidis/kallipos/blob/master/makepollen.sh) ώστε το βιβλίο να πάρει την επιθυμητή μορφή pollen.
+
+![pollen](https://user-images.githubusercontent.com/56269327/236664487-d2afe0c0-2643-43ee-ba43-3e1f294cec79.png)
+
+[kallipos](https://github.com/nestoraskosmidis/kallipos)
+
+## Εβδομάδα 9
+
+Για αυτήν την εβδομάδα αναρτήθηκε στο site η βιογραφία του Bill Gates.
+
+- *_biography*: [bill-gates.md](https://github.com/NestorasKosmidis/site/blob/master/_biography/bill-gates.md)
+- *_includes*: [bio-gates.md](https://github.com/NestorasKosmidis/site/blob/master/_includes/bio-gates.md)
+- *Netlify*: [Bill Gates](https://effervescent-snickerdoodle-648dcd.netlify.app//biography/bill-gates/)
+
+![Bill Gates](https://user-images.githubusercontent.com/56269327/236664728-50aa6fb4-1a69-4e1e-8320-1238de27ce81.png)
+
+## Εβδομάδα 10
+Από το μάθημα τεχνολογία λογισμικού έμαθα αρκετά πράγματα σχετικά με τον τρόπο ανάπτυξης και οργάνωσης του λογισμικού τόσο από τις επί μέρους ασκήσεις που καλούμαστε να αναπτύξουμε λογισμικό χρησιμοποιώντας διάφορα Github projects αλλά και από τις προσθήκες μου στο συμμετοχικό περιεχόμενο. Μέσω της μελέτης μου για τα Ολοκληρωμένα Περιβάλλοντα ανάπτυξης λογισμικού με έκανε να συνειδητοποιήσω τις ευκολίες και τα πλεονεκτήματα που προσφέρουν τέτοιου είδους περιβάλλοντα σε σχέση με άλλες πρακτικές προγραμματισμού όπως π.χ η χρήση ενός text editor. Οι έξυπνες αυτές λειτουργίες των IDE κάνουν τον προγραμματισμό μια ευκολότερη διαδικασία προσφέροντας ταχύτητα στην ανάπτυξη των προγραμμάτων. 
