@@ -157,5 +157,9 @@ id: Π2019061
 | 2 | Ted Nelson -- Computers for Cynics [full version]  |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
 | 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
 | 4 | Bret Victor - The Future of Programming |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
-| 5 | Alan Kay - Programming Languages & Programming (2013) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 5 | Alan Kay - Programming Languages & Programming (2013) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:x:</p>|
 | 6 | Extracting Energy from the Turing Tarpit |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
+| 7 | Alan Kay Turing Lecture with dynamic content |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:x:</p>|
+| 8 | Alan Kay - Programming and Scaling |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:x:</p>|
+| 9 | Back to the Future of Software Development 4/23/2003 (VPRI 785) |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:x:</p>|
+| 10 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson |<p align = "center">:heavy_check_mark:</p>|<p align = "center">:heavy_check_mark:</p>|
