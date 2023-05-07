@@ -106,3 +106,9 @@
 * [site/_case-study](https://github.com/StavroulaAnatolaki/site/blob/master/_case-study/operating_systems.md)
 
 # Εβδομάδα 9: Συμμετοχικό περιεχόμενο B2
+
+Σε αυτο το παραδοτεο εγραψα μια βιβλιογραφια για τον Linus Torvalds.
+
+* [site/includes](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/bio-LinusTorvalds.md)
+* [site/_biography](https://github.com/StavroulaAnatolaki/site/blob/master/_biography/Linus%20Torvalds.md)
+* [netlify link](https://master--whimsical-frangipane-afa6c1.netlify.app/biography/linus%20torvalds/)
