@@ -34,7 +34,6 @@
 ## Εβδομάδα 2
 ### Γραμμή εντολών - Arch Linux (σύστημα με systemd)
 
-
 Για την δεύτερη εβδομάδα χρησιμοποίησα το py-spy με σκοπό να δημιουργήσω σε output ένα αρχείο .svg με το flamegraph που δημιουργήθηκε από το meme.py
 
 [![asciicast](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX.svg)](https://asciinema.org/a/kMRWhJYSmqpr1lWol7pcqD8AX)
@@ -85,3 +84,4 @@
 - *_includes*: [cs-ide.md](https://github.com/NestorasKosmidis/site/blob/master/_includes/cs-ide.md)
 - *Netlify*: [IDEs](https://effervescent-snickerdoodle-648dcd.netlify.app//case-study/ide/)
 
+![IDEs](https://user-images.githubusercontent.com/56269327/236664260-2eed27c9-fdf3-458e-92b4-cd03f89df263.png)
