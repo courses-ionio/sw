@@ -17,7 +17,7 @@
 | 7 | συμμετοχικό περιεχόμενο B1 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1528) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1567) | |
-| 10 | Τελική αναφορά* | | |
+| 10 | Τελική αναφορά* | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1706), [pull request](https://github.com/courses-ionio/sw/pull/1704) | |
 
 
 # 1. Εισαγωγή μαθήματος:
