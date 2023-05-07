@@ -62,3 +62,40 @@ ntfy -b telegram send "$message"
 
 [Discussions](https://github.com/courses-ionio/sw/discussions/1443)
 
+## Παραδοτέο 6
+Για αυτήν την εβδομάδα χρησιμοποιήσα το bashblog για να υλοποιηθεί ένα blog σχετικά με το security και στην συνέχεια χρησιμοποιήσα το Github Pages για να κάνω host την σελίδα.
+[Netlify](https://p2019217.github.io/securityblog/)
+[securityblog repository](https://github.com/P2019217/securityblog)
+
+![securityblog](https://user-images.githubusercontent.com/100226514/236666332-54c0b4ab-d038-40c3-a3db-39acecbbf5bf.png)
+
+## Παραδοτέο 7
+### Hack
+[hack.md](https://github.com/P2019217/site/blob/master/_case-study/hack.md)
+
+[cs-hack.md](https://github.com/P2019217/site/blob/master/_includes/cs-hack.md)
+
+[Netlify](https://calm-marigold-1d4f28.netlify.app/case-study/hack/)
+
+![hack](https://user-images.githubusercontent.com/100226514/236666479-b14b302a-ddfb-4a7a-ac9d-126382a23aa8.png)
+
+## Παραδοτέο 8
+[Github Pages](https://p2019217.github.io/kallipos/)
+
+![scrnsht](https://user-images.githubusercontent.com/100226514/236666546-54ae523c-c3ab-45d8-a000-ec34d10dda76.png)
+
+## Παραδοτέο 9
+### Bruce Schneier
+
+[bruce-schneier.md](https://github.com/P2019217/site/blob/master/_biography/bruce-schneier.md)
+
+[bio-schneier.md](https://github.com/P2019217/site/blob/master/_includes/bio-schneier.md)
+
+[Netlify](https://calm-marigold-1d4f28.netlify.app/biography/bruce-schneier/)
+
+![scrnshot](https://user-images.githubusercontent.com/100226514/236666646-11fc7ec1-e3f9-4082-895d-42d9b74156cb.png)
+
+## Παραδοτέο 10
+
+
+
