@@ -32,7 +32,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1517) | |
 | 6 | Γραμμή εντολών (custom static blog generator) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1518) | |
 | 7 | συμμετοχικό περιεχόμενο B1 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1545) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1696) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [ Link του discussion](https://github.com/courses-ionio/sw/discussions/1612) | |
 | 10 | Τελική αναφορά* | | |
 
