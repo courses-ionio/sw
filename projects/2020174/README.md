@@ -144,3 +144,6 @@ J.C.R. Ο Licklider ήταν ένας Αμερικανός επιστήμονα�
 | images | biography | _includes | Netlify |
 | :--: | :--: | :--: | :--: |
 | [Normal image](https://github.com/Futsies/images/blob/master/jcr-licklider.jpg) + [Thumb image](https://github.com/Futsies/images/blob/master/jcr-licklider-thumb.jpg) | [Link to biography](https://github.com/Futsies/site/blob/master/_biography/jcr-licklider.md) | [Link to _includes](https://github.com/Futsies/site/blob/master/_includes/bio-licklider.md) | [Link to site](https://p2020174-pibook.netlify.app//biography/jcr-licklider/) |
+
+# Παραδοτέο 10 - Συμμετοχικό περιεχόμενο B2
+pending...
