@@ -116,7 +116,7 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 
 [HTML Αρχεία](https://github.com/TheTimeParadox/kallipos/blob/main/book.html)
 
-[Link Ομαδικού Βιβλίου](thetimeparadox.github.io/book.html)
+[Link Ομαδικού Βιβλίου](https://thetimeparadox.github.io/book.html)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/92392853/236695271-7f1d6f3a-b9a6-435c-92c2-acfe0b862fa2.png)
 
