@@ -93,7 +93,7 @@ Links :
 
 ## ΠΑΡΑΔΟΤΕΟ 7 -Συμμετοχικό περιεχόμενο B1
 
-Για το συμμετοχικό περιεχόμενο Β1 επέλεξα να με το Unreal Engine το οποίο αποτελεί μια μηχανή παιχνιδιών .Παρακάτω παρουσίαζονται τα link των ενεργειών μου .
+Για το συμμετοχικό περιεχόμενο Β1 επέλεξα να ασχοληθώ με το Unreal Engine το οποίο αποτελεί μια μηχανή παιχνιδιών .Παρακάτω παρουσίαζονται τα link των ενεργειών μου .
 
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_case-study/UnrealEngine.md">case_study </a>
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/unrealengine.md">includes </a>
