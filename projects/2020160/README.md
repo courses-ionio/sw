@@ -184,7 +184,11 @@ Screenshot:
 |Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
 | Bret Victor - The Future of Programming| Ναι |
 | Alan Kay - Programming Languages & Programming (2013)| Ναι |
-
+| Alan Kay Turing Lecture with dynamic content| Ναι |
+| Alan Kay - Programming and Scaling| Ναι |
+| Extracting Energy from the Turing Tarpit| Ναι |
+| Back to the Future of Software Development 4/23/2003 (VPRI 785)| Ναι |
+| VCF East 2019 -- Brian Kernighan interviews Ken Thompson| Ναι |
 
 ## Ομαδικότητα
 - [link](https://github.com/courses-ionio/sw/pull/1715)
