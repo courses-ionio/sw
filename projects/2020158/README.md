@@ -8,16 +8,16 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | 80% Ολοκληρώθηκε - Συνοπτικό |
-| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | 100% Ολοκληρώθηκε |
-| 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε |
-| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε |
-| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε |
-| 6 | [Γραμμή Εντολών no systemd custom static blog generator](#Γραμμή-Εντολών-no-systemd-custom-static-blog-generator) | https://github.com/courses-ionio/sw/discussions/1702 | 100% Ολοκληρώθηκε |
-| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε |
-| 8 | [Κατασκευή του Βιβλίου Β2](#Κατασκευή-του-Βιβλίου-Β2) | https://github.com/courses-ionio/sw/discussions/1705 | 100% Ολοκληρώθηκε |
-| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε |
-| 10 | [Τελική Αναφορά](#Τελική-Αναφορά) | https://github.com/courses-ionio/sw/discussions/1703 | 80% Ολοκληρώθηκε - Συνοπτικό |
+| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/sw/discussions/1202 | 80% Ολοκληρώθηκε - Σύντομη αναφορά στις προσδοκίες και τους στόχους από το μάθημα. Το περιεχόμενο είναι αρκετά συνοπτικό |
+| 2 | [Άσκηση Γραμμής Εντολών systemd](#Άσκηση-Γραμμής-Εντολών-systemd) | https://github.com/courses-ionio/sw/discussions/1306 | 100% Ολοκληρώθηκε - Απλή εφαρμογή που ολοκλήρωσα χωρίς ιδιαίτερα προβλήματα |
+| 3 | [Άσκηση Γραμμής Εντολών no systemd](#Άσκηση-Γραμμής-Εντολών-no-systemd) | https://github.com/courses-ionio/sw/discussions/1458 | 100% Ολοκληρώθηκε - Συνεργατικά με την ομάδα μου διαλέξαμε μια κατάλληλη για τις απαιτήσεις του μαθήματος διανομή του Arch Linux, τα Artix. Αντιμετώπισα μικρά προβλήματα κατά την εγκατάσταση, κυρίως με τα paths, αλλά εν τέλη ολοκληρώθηκε με επιτυχία |
+| 4 | [Κατασκευή του Βιβλίου Α2](#Κατασκευή-του-Βιβλίου-Α2) | https://github.com/courses-ionio/sw/discussions/1533 | 100% Ολοκληρώθηκε - Δεν ήμουν εξοικειωμένη με την χρήση των απαραίτητων εργαλείων, αλλά με την βοήθεια της ομάδας μου τα κατάφερα. Σημείωση πως σε προηγούμενο μάθημα δεν είχα καταφέρει το deploy του pdf, αλλά τώρα γνωρίζω πώς |
+| 5 | [Συμμετοχικό Περιεχόμενο A1 και A2](#Συμμετοχικό-Περιεχόμενο-A1-και-A2) | https://github.com/courses-ionio/sw/discussions/1579 | 100% Ολοκληρώθηκε - Με σχετική ευχέρεια ολοκληρώθηκε το deploy του netlify, αφού μου ήταν γνώριμο από παλαιότερο μάθημα |
+| 6 | [Γραμμή Εντολών no systemd custom static blog generator](#Γραμμή-Εντολών-no-systemd-custom-static-blog-generator) | https://github.com/courses-ionio/sw/discussions/1702 | 80% Ολοκληρώθηκε - Μου πήρε αρκετή ώρα και δεν είναι πλήρως customized, αλλά πιστεύω είναι μια καλή προσπάθεια |
+| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-B1) | https://github.com/courses-ionio/sw/discussions/1603 | 100% Ολοκληρώθηκε - Παρόμοια με το προηγούμενο Συμμετοχικό Περιεχόμενο |
+| 8 | [Κατασκευή του Βιβλίου Β2](#Κατασκευή-του-Βιβλίου-Β2) | https://github.com/courses-ionio/sw/discussions/1705 | 100% Ολοκληρώθηκε - Συνεργατικά με την ομάδα μου, αναπτύξαμε ένα script για την μεταβολή |
+| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/sw/discussions/1618 | 100% Ολοκληρώθηκε - Επίσης με σχετική ευκολία, λόγω προηγούμενης εμπειρίας |
+| 10 | [Τελική Αναφορά](#Τελική-Αναφορά) | https://github.com/courses-ionio/sw/discussions/1703 | 80% Ολοκληρώθηκε - Συνοπτικός επίλογος, αναφορά στην ενδιάμεση παρουσίαση και ομαδικότητα |
 
 
 # Εισαγωγή
@@ -139,3 +139,11 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 Εμβάθυνα περισσότερο στην χρήση του Netlify αλλά και του Github, και πιστεύω βρίσκομαι σε ένα καλό γνωστικό επίπεδο σχετικά με αυτά τα εργαλεία.
 Δεν κατάφερα να ολοκληρώσω όλα τα βίντεο κουίζ, αλλά πιστεύω έκανα μια καλή προσπάθεια όσον αφορά τα παραδοτέα.
 Τέλος, μέσω έρευνας έμαθα περισσότερα για τα θέματα που διάλεξα, που αφορούσαν κυρίως το κομμάτι της τεχνολογίας λογισμικού στον τομέα της διασκέδασης.
+
+## Ενδιάμεση Παρουσίαση
+
+Πραγματοποίησα την ενδιάμεση παρουσίαση στο μάθημα του κύριου Βραχάτη. Με παρότρυνε να αναλύσω λίγο περισσότερο το περιεχόμενο των παραδοτέων και κυρίως την αυτοαξιολόγηση, αφού αποτελεί ένα σημαντικό μέρος της εργασίας.
+
+## Ομαδικότητα - Pull Requests
+
+https://github.com/TheTimeParadox/images/pull/3 | https://github.com/TheTimeParadox/images/pull/6 | https://github.com/TheTimeParadox/images/pull/9 | https://github.com/TheTimeParadox/images/pull/10 | https://github.com/TheTimeParadox/site/pull/8 | https://github.com/TheTimeParadox/site/pull/11 | https://github.com/TheTimeParadox/kallipos/pull/2 | https://github.com/TheTimeParadox/TheParadoxNotes/pull/1 | https://github.com/TheTimeParadox/_gallery/pull/3
