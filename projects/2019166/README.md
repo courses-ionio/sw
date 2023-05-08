@@ -14,7 +14,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [My link](https://github.com/courses-ionio/sw/discussions/1316)| Πραγματοποιήθηκε 100%, στο συγκεκριμένο παραδοτέο εγκατέστησα το Alpine linux, που είναι no systemd και ήταν η πρώτη μου επαφή, στην αρχή δυσκολεύτηκα λίγο με την εγκατάσταση αλλά πλέον γνωρίζω τη διαδικασία. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [My link](https://github.com/courses-ionio/sw/discussions/1366)| Πραγματοποιήθηκε 90%, σε αυτό το παραδοτέο τοποθέτησα  την προσθήκη μου στο βιβλίο σας, το μόνο πρόβλημα που αντιμετώπισα ήταν πως δεν μου εμφάνιζε τις εικόνες αλλά δεν μπόρεσα να βρω κάποια λύση σε αυτό.|
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [My link](https://github.com/courses-ionio/sw/discussions/1438) | Πραγματοποιήθηκε 100%, πρόσθεσα πληροφορίες για το Skype και το Zoom. |
-| 6 | Γραμμή εντολών (custom static blog generator) | [My link](https://github.com/courses-ionio/sw/discussions/1479) | Πραγματοποιήθηκε 70%, σε αυτή την γραμμή εντολών ενώ δημιουργήθηκαν όλα δεν μου φορτώνει την σελίδα μου αλλά δεν βρήκα κάποια λύση σε αυτό. |
+| 6 | Γραμμή εντολών (custom static blog generator) | [My link](https://github.com/courses-ionio/sw/discussions/1479) | Πραγματοποιήθηκε 100%, σε αυτή την γραμμή εντολών ενώ δυσκολευτήκα για την φόρτωσει της σελίδας γιατί δεν είχα καταλάβει πως λειτουργεί, εν τέλη μετά από σχολιασμό στην αναφορά μου από ένα συνάδελφο κατάλαβα πως λειτουργεί κανονικά.|
 | 7 | Συμμετοχικό περιεχόμενο B1 | [My link](https://github.com/courses-ionio/sw/discussions/1526)| Πραγματοποιήθηκε 100%, ανέλυσα ως μελέτη περίπτωσης την εταιρεία Zoom Video Communications, Inc. |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [My link](https://github.com/courses-ionio/sw/discussions/1527) | Πραγματοποιήθηκε 100%, πρόσθεσα στη βιογραφία τον ιδρυτή της εταιρείας τον Eric Yuan.  |
@@ -104,10 +104,11 @@ Pull requests:
  - [Asciinema Link](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5)
  
  [![asciicast](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5.svg)](https://asciinema.org/a/q191tpLd3et0cJrVhks4ggAX5)
+ 
+![static blog](https://user-images.githubusercontent.com/72515404/236800794-4d17b5e0-bc9b-4370-892d-98b69127c117.png)
 
-Οι αλλαγές μου έχουν ανέβει και στο [My repository](https://github.com/olumpiaalexopoulou/oliv.github.io).
+Οι αλλαγές μου έχουν ανέβει και στο [My repository](https://github.com/olumpiaalexopoulou/oliv.github.io) και το [Link του blog μου](https://olumpiaalexopoulou.github.io/oliv.github.io/)
 
-! Δυστυχώς αντιμετωπίζω ένα πρόβλημα δεν μου φορτώνει την σελίδα και ακόμη δεν έχω βρει κάποια λύση.
 
 # <h2>Συμμετοχικό περιεχόμενο B1</h2>
 
