@@ -49,10 +49,6 @@
 
 ## Κατασκευή Βιβλίου Α2
 
-Για την κατασκευή βιβλίου επιλέξαμε να μετατρέψουμε το book.pdf σε epub.
-
--[epub](https://github.com/p20kara/kallipos/tree/master/epub)
-
 Στη κατασκευή βιβλίου αντιμετώπισα πρόβλημα στη δημιουργία του pdf. Ακολούθως είναι τα αρχεία που χρησιμοποίησα καθώς και η προσωπική μου σημείωση.
 
 - [make-latex.sh](https://github.com/p20kara/kallipos/blob/master/make-latex.sh)
