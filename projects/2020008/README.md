@@ -94,6 +94,7 @@
 
 ## Γραμμή εντολών (custom static blog generator)
 
+- [asciinema](https://asciinema.org/a/jLvOUheo5Uo0WEx8AJkVJvkvx)
 
 ## Συμμετοχικό περιεχόμενο B1
 
@@ -106,6 +107,7 @@
 - [Apple Message Pad](https://p20kara.netlify.app/case-study/apple_message_pad/)
 
 ## Κατασκευή του βιβλίου Β2 (συνεργατικά)
+
 
 
 ## Συμμετοχικό περιεχόμενο B2
