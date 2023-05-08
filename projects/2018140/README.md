@@ -94,4 +94,15 @@ Links :
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/unrealengine.md">includes </a>
 - <a href="https://p18tzou.netlify.app/case-study/unrealengine/">netlify</a>
 
+## 8ο ΠΑΡΑΔΟΤΕΟ : Κατασκευή του βιβλίου Β2
+Για το 8ο παραδοτέο μετέτρεψα το βιβλίο κάλλιπος σε html .Για να το κάνω αυτό χρησιμοποίησα το εργαλείο pollen , το οποίο και εγκατέστησα σην γραμμή εντολών και με την χρήση του Make latex αρχείου έγινε η μετατροπή .
+
+- <a href="https://tzoyrmanas.github.io/webbook/">Mybook </a>
+- <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/make-latex-html.sh">makelatex.sh</a>
+
+## 9ο ΠΑΡΑΔΟΤΕΟ : Συμμετοχικό περιεχόμενο B2
+Στο συγκεκριμένο παραδοτέο αποφάσησα να ασχολήθω με το βιογραφικό του κατασκευαστή του Unreal Enginge ,Timothy Dean .
+
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_biography/TimothyDean.md">Timothy_Dean.md </a>
+- <a href="
 
