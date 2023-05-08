@@ -80,6 +80,11 @@ Links :
 ### timeline 
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_timeline/operatingsystem.md">timeline </a>
 
+### netlify
+- <a href="https://p18tzou.netlify.app/slides/operatingsystem//">slides </a>
+- <a href="https://p18tzou.netlify.app/timeline/operatingsystem/">timeline </a>
+
+
 ## ΠΑΡΑΔΟΤΕΟ 6 - Γραμμή εντολών (custom static blog generator)
 Στο συγκεκριμενο παραδοτέο μέσω του bash log δημιούργησα ένα post για το static site blog .Με την χρήση html δημιούργησα τα posts μου . Παρακάτω βρίσκεται το blog μου και τα repos που χρησιμοποίησα.
 
