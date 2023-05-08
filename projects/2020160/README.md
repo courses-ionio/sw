@@ -15,11 +15,11 @@
 | 3 | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1349) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1452) | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1453) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά | | |
+| 6 | Γραμμή εντολών (custom static blog generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1716) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτεό 7](https://github.com/courses-ionio/sw/discussions/1717) | |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Παραδοτέο 8](https://github.com/courses-ionio/sw/discussions/1718) | |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1719) | |
+| 10 | Τελική αναφορά |[Παραδοτέο 10](https://github.com/courses-ionio/sw/discussions/1720) | |
 
 
 ## Εισαγωγή
