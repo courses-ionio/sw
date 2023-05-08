@@ -131,6 +131,13 @@
 
 
 ## Τελική αναφορά
+
+Τελειώνοντας, πιστεύω ότι υλοποίησα τους στόχους μου και έγινα λίγο καλύτερος. Τα βίντεο ήταν το πιο δύσκολο κομμάτι του μαθήματος και οι πληροφορίες τους πάρα πολλές. Από την άλλη πλεύρα, το site με δυσκόλεψε κυρίως το κομμάτι του netlify. Σε κάθε περίπτωση το μάθημα αυτό αποτέλεσε μια αρχή για νέα λειτουργικά συστήματα, για περισσότερη έρευνα και ήταν το έναυσμα για να προσπαθώ να γίνομαι καλύτερος εμπλουτίζοντας ολοένα και περισσότερο τις γνώσεις μου.
+
+## Ομαδικότητα
+
+- [link](https://github.com/courses-ionio/sw/pull/1733)
+- [link](https://github.com/courses-ionio/sw/pull/1685)
 -------------------------
 
 | Τίτλος Βίντεο | Παρακολούθηση | 
@@ -140,3 +147,7 @@
 |Alan Kay - Could Computing Be Simpler Than It Seems To Be?| Ναι |
 | Bret Victor - The Future of Programming| Ναι |
 | Alan Kay - Programming Languages & Programming (2013)| Ναι |
+| Alan Kay - Programming and Scaling | Ναι |
+| Extracting Energy from the Turing Tarpit | Ναι |
+| Back to the Future of Software Development 4/23/2003 (VPRI 785) | Ναι |
+| VCF East 2019 -- Brian Kernighan interviews Ken Thompson | Όχι |
