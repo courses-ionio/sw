@@ -145,6 +145,8 @@ Screenshot:
 
 Στην συγκεκριμένη γραμμή εντολών καλούμαστε να φτιάξουμε το δικό μας static blog generator. Στο στιγμιότυπο που ακολουθεί φαίνεται η αρχική σελίδα της ιστοσελίδας μου:
 
+![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/blog1.png)
+![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/blog2.png)
 
 ## Συμμετοχικό περιεχόμενο B1
 
