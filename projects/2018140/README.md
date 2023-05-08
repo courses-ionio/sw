@@ -80,9 +80,18 @@ Links :
 ### timeline 
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_timeline/operatingsystem.md">timeline </a>
 
+## ΠΑΡΑΔΟΤΕΟ 6 - Γραμμή εντολών (custom static blog generator)
+Στο συγκεκριμενο παραδοτέο μέσω του bash log δημιούργησα ένα post για το static site blog .Με την χρήση html δημιούργησα τα posts μου . Παρακάτω βρίσκεται το blog μου και τα repos που χρησιμοποίησα.
 
-## ΠΑΡΑΔΟΤΕΟ 6 - 
+- <a href="https://tzoyrmanas.github.io/myblog/">Myblog</a>
+- <a href="https://github.com/TZOYRMANAS/myblog/">Myrepos</a>
 
+## ΠΑΡΑΔΟΤΕΟ 7 -Συμμετοχικό περιεχόμενο B1
 
+Για το συμμετοχικό περιεχόμενο Β1 επέλεξα να με το Unreal Engine το οποίο αποτελεί μια μηχανή παιχνιδιών .Παρακάτω παρουσίαζονται τα link των ενεργειών μου .
+
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_case-study/UnrealEngine.md">case_study </a>
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/unrealengine.md">includes </a>
+- <a href="https://p18tzou.netlify.app/case-study/unrealengine/">netlify</a>
 
 
