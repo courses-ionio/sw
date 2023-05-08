@@ -97,11 +97,33 @@
 
 ## Συμμετοχικό περιεχόμενο B1
 
+Το πρώτο μέρος του συμμετοχικού περιεχομένου αφορά τη μελέτη περίπτωσης. Η μελέτη περίπτωσης μου φαίνεται παρακάτω.
+
+- [Apple Message Pad](https://github.com/p20kara/site/blob/master/_case-study/apple_message_pad.md)
+
+Η προσθήλη στο site είναι:
+
+- [Apple Message Pad](https://p20kara.netlify.app/case-study/apple_message_pad/)
 
 ## Κατασκευή του βιβλίου Β2 (συνεργατικά)
 
 
 ## Συμμετοχικό περιεχόμενο B2
+
+Το δεύτερο μέρος του συμμετοχικού περιεχομένου αφορά μία βιογραφία.
+
+- [John Sculley](https://github.com/p20kara/site/blob/master/_biography/John_Sculley.md)
+
+Η προσθήκη στο site είναι:
+
+- [John Sculley](https://p20kara.netlify.app/biography/john_sculley/)
+
+Οι αντίστοιχες φωτογραφίες είναι:
+
+- [JohnSculley.jpg](https://github.com/p20kara/images/blob/324da49708028b70291dd512fe0a45c6777a5f4d/JohnSculley.jpg)
+- [JohnSculley-thumb.jpg](https://github.com/p20kara/images/blob/324da49708028b70291dd512fe0a45c6777a5f4d/JohnSculley-thumb.jpg)
+
+
 
 
 ## Τελική αναφορά
