@@ -187,5 +187,8 @@ Screenshot:
 
 
 ## Ομαδικότητα
+- [link](https://github.com/courses-ionio/sw/pull/1715)
+- [link](https://github.com/courses-ionio/sw/pull/1709)
+- [link](https://github.com/courses-ionio/sw/discussions/1441)
 
 ## Τελική αναφορά 
