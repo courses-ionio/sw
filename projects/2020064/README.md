@@ -132,10 +132,10 @@
 
 | Περιγραφή | Σύνδεσμος | Σύνδεσμος στο Netlify | 
 | --------- | --------- | --------------------- | 
-| Εικόνες   | [temple-os.png]() - [temple-os-thumb.png]()  [ada.png]() - [ada-thumb.png]() | [temple-os]() [ada]() |
-| Λεζάντες | [temple-os.md]() - [ada.md]() | |
-| Διαφάνειες | [operating-systems.md]() | [Λειτουργικά Συστήματα]() |
-| Χρονολόγιο | [programming.md]() | [Γλώσσες Προγραμματισμού]() |
+| images   | [temple-os.png](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/temple-os.png) - [temple-os-thumb.png](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/temple-os-thumb.png)  [ada.png](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/ada.png) - [ada-thumb.png](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/ada-thumb.png) | [TempleOS](https://2020064.netlify.app/gallery/temple-os/) [Η γλώσσα προγραμματισμού Ada](https://2020064.netlify.app/gallery/ada) |
+| \_gallery | [temple-os.md](https://github.com/GeorgiosEleftheriadis/_gallery/blob/e534b43c70128ae62401f775d269d90bd6901a0b/temple-os.md) - [ada.md](https://github.com/GeorgiosEleftheriadis/_gallery/blob/e534b43c70128ae62401f775d269d90bd6901a0b/ada.md) | |
+| \_slides | [operating-systems.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_slides/operating-systems.md) | [Λειτουργικά Συστήματα](https://2020064.netlify.app/slides/operating-systems) |
+| \_timeline | [programming.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_timeline/programming.md) | [Γλώσσες Προγραμματισμού](https://2020064.netlify.app/timeline/programming) |
 <br />
 <br />
 
@@ -154,8 +154,8 @@
 
 | Περιγραφή | Σύνδεσμος | 
 | --------- | --------- | 
-| Blog | [Genesis]() |
-| Αποθετήριο Blog | [GeorgiosEleftheriadis/GeorgiosEleftheriadis.github.io]() |
+| Blog | [Genesis](https://georgioseleftheriadis.github.io/) |
+| Αποθετήριο Blog | [GeorgiosEleftheriadis/GeorgiosEleftheriadis.github.io](https://github.com/GeorgiosEleftheriadis/GeorgiosEleftheriadis.github.io) |
 <br />
 <br />
 
@@ -165,7 +165,7 @@
 
 | Περιγραφή | Σύνδεσμος | Σύνδεσμος στο Netlify |
 | --------- | --------- | ---------------------  |
-| Μελέτη Περίπτωσης | [temple-os.md]() - [cs-temple-os.md]() | [TempleOS]() |
+| Μελέτη Περίπτωσης | [temple-os.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_case-study/temple-os.md) - [cs-temple-os.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_includes/cs-temple-os.md) | [TempleOS](https://2020064.netlify.app/case-study/temple-os/) |
 <br />
 <br />
 
@@ -179,9 +179,9 @@
 
 | Περιγραφή | Σύνδεσμος |
 | --------- | --------- |
-| HTML αρχείο βιβλίου | [book.html]() |
-| Προσωπικό fork kallipos | [GeorgiosEleftheriadis/kallipos]() |
-| Script μετατροπής αρχείων | [make-pollen.sh]() |
+| HTML αρχείο βιβλίου | [index.html](https://github.com/GeorgiosEleftheriadis/kallipos/blob/master/index.html) |
+| Προσωπικό fork kallipos | [GeorgiosEleftheriadis/kallipos](https://github.com/GeorgiosEleftheriadis/kallipos) |
+| Script μετατροπής αρχείων | [make-pollen.sh](https://github.com/GeorgiosEleftheriadis/kallipos/blob/master/make-pollen.sh) |
 <br />
 <br />
 
@@ -191,8 +191,8 @@
 
 | Περιγραφή | Σύνδεσμος | Σύνδεσμος στο Netlify |
 | --------- | --------- | --------------------- |
-| Εικόνες | [terry-profile.jpg]() - [terry-profile-thumb.jpg]() | |
-| Βιογραφία | [terry-davis.md]() - [bio-terry.md]() | [Terry Davis]() |
+| images | [terry-profile.jpg](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/terry-profile.jpg) - [terry-profile-thumb.jpg](https://github.com/GeorgiosEleftheriadis/images/blob/1ab6a3775c539f182725229ff07b7882a3db0a0b/terry-profile-thumb.jpg) | |
+| \_biography | [terry-davis.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_biography/terry-davis.md) - [bio-terry.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_includes/bio-terry.md) | [Terry Davis](https://2020064.netlify.app/biography/terry-davis/) |
 <br />
 <br />
 
