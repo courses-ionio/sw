@@ -29,7 +29,6 @@
 # Παραδοτέο 3
 Σε αυτό το παραδοτέο έκανα εγκατάσταση Gentoo σε virtual machine.
 [link](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ)
-[![asciicast](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ.svg)](https://asciinema.org/a/kQH4h1pTi6FtnUMsSgdRIjUIQ)
 
 # Παραδοτέο 4
 ### Προβλήματα κατά την κατασκευή του βιβλίου
