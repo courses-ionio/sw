@@ -10,16 +10,16 @@
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Δημιουργία ομάδας, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής| [Παραδοτέο 1°](https://github.com/courses-ionio/sw/discussions/1194) | Δημιούργησα τα περιεχόμενα και την εισαγωγή της αναφοράς |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας |[Παραδοτέο 2°](https://github.com/courses-ionio/sw/discussions/1295) | |
-| 3 | Γραμμή εντολών (no systemd) | [Παραδοτέο 3°](https://github.com/courses-ionio/sw/discussions/1454) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4°](https://github.com/courses-ionio/sw/discussions/1455) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5°](https://github.com/courses-ionio/sw/discussions/1456) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | [Παραδοτέο 6°](https://github.com/courses-ionio/sw/discussions/1721) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7°](https://github.com/courses-ionio/sw/discussions/1722) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Παραδοτέο 8°](https://github.com/courses-ionio/sw/discussions/1723) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9°](https://github.com/courses-ionio/sw/discussions/1724) | |
-| 10 | Τελική αναφορά | [Παραδοτέο 10°](https://github.com/courses-ionio/sw/discussions/1725) | |
+| [1](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1) | Δημιουργία ομάδας, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής| [Παραδοτέο 1°](https://github.com/courses-ionio/sw/discussions/1194) | Δημιούργησα τα περιεχόμενα και την εισαγωγή της αναφοράς |
+| [2](https://github.com/p20kara/sw/edit/2020008/projects/2020008/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-systemd) | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας |[Παραδοτέο 2°](https://github.com/courses-ionio/sw/discussions/1295) | |
+| [3](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-no-systemd) | Γραμμή εντολών (no systemd) | [Παραδοτέο 3°](https://github.com/courses-ionio/sw/discussions/1454) | |
+| [4](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B12) | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4°](https://github.com/courses-ionio/sw/discussions/1455) | |
+| [5](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B11--%CE%B12) | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5°](https://github.com/courses-ionio/sw/discussions/1456) | |
+| [6](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-custom-static-blog-generator) | Γραμμή εντολών (custom static blog generator) | [Παραδοτέο 6°](https://github.com/courses-ionio/sw/discussions/1721) | |
+| [7](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7°](https://github.com/courses-ionio/sw/discussions/1722) | |
+| [8](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [Παραδοτέο 8°](https://github.com/courses-ionio/sw/discussions/1723) | |
+| [9](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9°](https://github.com/courses-ionio/sw/discussions/1724) | |
+| [10](https://github.com/p20kara/sw/blob/2020008/projects/2020008/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | Τελική αναφορά | [Παραδοτέο 10°](https://github.com/courses-ionio/sw/discussions/1725) | |
 
 ## Εισαγωγή:
 
