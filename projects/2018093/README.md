@@ -22,7 +22,7 @@ GitHub Link: https://github.com/theoharissiwzos
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [discussions](https://github.com/courses-ionio/sw/discussions/1406) | 100% εφοσον έγινε επιτυχης η υλοποιηση του παραδοτέου αναπτύσσοντας συμμετοχικό περιεχόμενο κατάλληλο της αναφοράς μου |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [discussions](https://github.com/courses-ionio/sw/discussions/1480) | 80% αφου υλοποιησα το παραδοτεο ομως δεν εκανα πολλες αλλαγες στο design του blog |
 | 7 | συμμετοχικό περιεχόμενο B1 | [discussions](https://github.com/courses-ionio/sw/discussions/1537) | 100% εμπρόθεσμη στην εβδομάδα και ολοκληρωμενη υλοποιηση |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1548) | 100% χρηση φιλτρου και τροποποίηση του βιβλιου του μαθηματος, προσπάθησα να το hastαρω στο 000wehost.com και σε αλλα παρόμοια αλλα κατέληξα να κάνω upload screenshot απο το βιβλίο|
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1548) | 100% χρηση φιλτρου και τροποποίηση του βιβλιου του μαθηματος|
 | 9 | συμμετοχικό περιεχόμενο B2 | [discussions](https://github.com/courses-ionio/sw/discussions/1549) | 100% λεπτομερής βιβλιογραφία έυστοχη με την θεματολογία μου|
 | 10 | Τελική αναφορά* | [discussions](https://github.com/courses-ionio/sw/discussions/1550) | 100% αναφεροντας όλες τις επιδράσεις του μαθήματος σε εμένα στην διαρκεια του εξαμήνου και στην ολοκλήρωση του |
 
