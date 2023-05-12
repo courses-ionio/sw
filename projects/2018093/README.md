@@ -15,16 +15,16 @@ GitHub Link: https://github.com/theoharissiwzos
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [discussions](https://github.com/courses-ionio/sw/discussions/1182) | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [discussions](https://github.com/courses-ionio/sw/discussions/1240) | |
-| 3 | Γραμμή εντολών (no systemd) | [discussions](https://github.com/courses-ionio/sw/discussions/1317) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1358) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [discussions](https://github.com/courses-ionio/sw/discussions/1406) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [discussions](https://github.com/courses-ionio/sw/discussions/1480) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | [discussions](https://github.com/courses-ionio/sw/discussions/1537) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1548) | |
-| 9 | συμμετοχικό περιεχόμενο B2 | [discussions](https://github.com/courses-ionio/sw/discussions/1549) | |
-| 10 | Τελική αναφορά* | [discussions](https://github.com/courses-ionio/sw/discussions/1550) | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [discussions](https://github.com/courses-ionio/sw/discussions/1182) | 100% καθως υλοποίησα οτι ζητούσε το παραδοτέο|
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | [discussions](https://github.com/courses-ionio/sw/discussions/1240) | 100% καθώς πέρα απο την εγκατάσταση εκανα και άσκηση γραμμης εντολών |
+| 3 | Γραμμή εντολών (no systemd) | [discussions](https://github.com/courses-ionio/sw/discussions/1317) | 100% καθώς πέρα απο την εγκατάσταση εκανα και άσκηση γραμμης εντολών |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1358) | 100% καθώς ολοκλήρωσα με επιτυχία ολο το παραδοτέο |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [discussions](https://github.com/courses-ionio/sw/discussions/1406) | 100% εφοσον τηρησα την διορια του παραδοτεου και εγινε και επιτυχης η υλοποιηση του |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [discussions](https://github.com/courses-ionio/sw/discussions/1480) | 80% αφου υλοποιησα το παραδοτεο ομως δεν εκανα ριζικες αλλαγες στο design του blog |
+| 7 | συμμετοχικό περιεχόμενο B1 | [discussions](https://github.com/courses-ionio/sw/discussions/1537) | 100% σωστη και ολοκληρωμενη υλοποιηση |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | [discussions](https://github.com/courses-ionio/sw/discussions/1548) | 100% χρηση φυλτρου και τροποποίηση του βιβλιου του μαθηματος|
+| 9 | συμμετοχικό περιεχόμενο B2 | [discussions](https://github.com/courses-ionio/sw/discussions/1549) | 100% λεπτομερής βιβλιογραφία επάνω στην θεματολογία μου|
+| 10 | Τελική αναφορά* | [discussions](https://github.com/courses-ionio/sw/discussions/1550) | 100% αναφεροντας τις επιδράσεις του μαθήματος στην διαρκεια του εξαμήνου και στην ολοκλήρωση του |
 
 
 
