@@ -3,9 +3,9 @@
 
 Αριθμός Μητρώου: Π2018093
 
-GitHub Link: https://github.com/theoharissiwzos
+GitHub Link: [Theoharissiwzos](https://github.com/theoharissiwzos)
 
-Οργανισμός: is_init_right?
+Οργανισμός: [is_init_right?](https://github.com/is-init-right)
 
 
 
