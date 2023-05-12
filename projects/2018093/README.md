@@ -200,9 +200,12 @@ GitHub Link: [Theoharissiwzos](https://github.com/theoharissiwzos)
  
  
  # notes:
- # Όλο το παραδοτέο 6 υλοποιήθηκε με Hugo και ξαναφτιάχτηκε απο την αρχή με BashBlog έπειτα απο επισήμανση του Διδάσκων:
- - [Hugo_static_blog](https://theoharissiwzos.github.io/)
- - [BashBlog_static_blog](https://theoharissiwzos.github.io/staticblog.github.io/)
- # 10/10 video quiz
- # 10/10 παραδοτέα εμπρόθεσμα + Επιτυχής ολοκλήρωση για τον Bonus βαθμό!
- # 2/2 σχολιασμούς τελικών αναφορών σε συμφοιτητές μου
+ - Όλο το παραδοτέο 6 υλοποιήθηκε με Hugo και ξαναφτιάχτηκε απο την αρχή με BashBlog έπειτα απο επισήμανση του Διδάσκων:
+ 1) [Hugo_static_blog](https://theoharissiwzos.github.io/)
+  2) [BashBlog_static_blog](https://theoharissiwzos.github.io/staticblog.github.io/)
+ 
+- 10/10 video quiz
+ 
+- 10/10 παραδοτέα εμπρόθεσμα + Επιτυχής ολοκλήρωση για τον Bonus βαθμό!
+ 
+- 2/2 σχολιασμούς τελικών αναφορών σε συμφοιτητές μου
