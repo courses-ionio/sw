@@ -220,3 +220,5 @@ Mε το πέρας του μαθήματος της τεχνολογίας λο
 - [sw/pull-requests#1727](https://github.com/courses-ionio/sw/pull/1727)
 - [sw/pull-requests#1710](https://github.com/courses-ionio/sw/pull/1710)
 - [sw/pull-requests#1735](https://github.com/courses-ionio/sw/pull/1735)
+
+## [Τελικό pull-request](https://github.com/courses-ionio/sw/pull/1714)
