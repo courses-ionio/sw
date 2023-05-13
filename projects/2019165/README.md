@@ -190,7 +190,13 @@
 #### [Kristen-Nygaard-thumb](https://github.com/p2019vade/images/blob/master/Kristen-Nygaard-thumb.png)
 #### [Kristen-Dahl-thumb](https://github.com/p2019vade/images/blob/master/kristen-dahl-thumb.png)
 
-### [Η Βιογραφία στο site](https://unique-halva-aa4c4d.netlify.app/biography/kristen-nygaard/)
+### Tα pull request προς τον Οργανισμό :
+#### [site](https://github.com/TheTimeParadox/site/pull/12)
+#### [images](https://github.com/TheTimeParadox/images/pull/11)
+
+### H βιογραφία :
+### [Η Βιογραφία στο ατομικό μου site](https://unique-halva-aa4c4d.netlify.app/biography/kristen-nygaard/)
+### [H βιογραφία στο ομαδικό site](https://thetimeparadox-pibook.netlify.app/biography/kristen-nygaard/)
 
 ### Οι πηγές που μελετήθηκαν :
 - [Those were the days? - Speech by Kristen](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1151&context=sjis)
