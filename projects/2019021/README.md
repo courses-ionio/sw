@@ -63,7 +63,7 @@
 * [link](https://ntfy.sh/)
 
 # Εβδομάδα 3: Άσκηση γραμμής εντολών(no systemd)
-Σε αυτο το παραδοτεο αποφασισα να εγκαταστησω το λειτουργικο συστημα Artix Linux σε Virtualbox. 
+Σε αυτο το παραδοτεο αποφασισα να εγκαταστησω το λειτουργικο συστημα Artix Linux σε Virtualbox και ετρεξα την εντολη neofetch ([asciinema recording](https://asciinema.org/a/vJKiGehHwn8gnWaQowqBnk6Yo)). 
 
 ![neofetch](https://github.com/StavroulaAnatolaki/sw/assets/72880868/33de6da0-28fd-4676-9877-d1a829034dbd)
 
