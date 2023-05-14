@@ -15,7 +15,7 @@
 | 7 | [συμμετοχικό περιεχόμενο B1](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) |link |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα  |
 | 8 | [Κατασκευή του βιβλίου Β2 (συνεργατικά)](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B22-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%84%CE%B9%CE%BA%CE%AC) |link | |
 | 9 | [συμμετοχικό περιεχόμενο B2](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) |link |✔️Ολοκληρώθηκε ✔️ Εμπρόθεσμα |
-| 10 | Τελική αναφορά* |link | |
+| 10 | [Τελική αναφορά](https://github.com/StavroulaAnatolaki/sw/blob/2019021/projects/2019021/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) |link |✔️Ολοκληρώθηκε ❌ Εμπρόθεσμα |
 
 | Εβδομάδα | Βίντεο Κουιζ | Ολοκληρώθηκε | Εμπρόθεσμα | 
 | --- | --- | --- | --- |
