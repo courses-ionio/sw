@@ -68,7 +68,7 @@
   
   
   
->>Οι υπερσύνδεσμοι οδηγούν στα αρχεία εικόννων και κειμένου προς τον Οργανισμό μου και όχι στο προσωπικό μου προφίλ
+>>Οι υπερσύνδεσμοι οδηγούν στα αρχεία εικόνων και κειμένου προς τον Οργανισμό μου και όχι στο προσωπικό μου προφίλ
 # Κατασκευή του Βιβλίου
 
 ## [Για το Παραδοτέο04](https://github.com/aggelos2000430/sw/tree/2018076/projects/2018076#%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D)
@@ -80,7 +80,7 @@
 - [applesoft.md](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/myfile/applesoft.md)
 - [book.pdf](https://github.com/lapis-lazuli-ore-block/kallipos/blob/master/book.pdf)
   
->>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση που υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
   
 -[make-latex.sh](https://github.com/aggelos2000430/kallipos/blob/master/make-latex.sh)
 -[mylua.lua](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
@@ -116,7 +116,7 @@
 - [Apple II high resolution graphics](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/applehighgraphics.md)
 - [Amiga Workbench 3.1](https://github.com/lapis-lazuli-ore-block/_gallery/blob/master/amigaworkbench_3.1.md)
 
->>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση που υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
 
 ## Α1
 ### Αρχεία εικόνων:
@@ -236,7 +236,7 @@
 - [_case-study](https://github.com/lapis-lazuli-ore-block/site/blob/master/_case-study/launchd.md)
 - [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/cs-launchd.md)
 
->>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση που υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
  
 ### Η προσθήκη στο Site:
 ### Αρχείο εικόνας:
@@ -303,7 +303,7 @@
 - [_biography](https://github.com/lapis-lazuli-ore-block/site/blob/master/_biography/victor-bret.md)
 - [_includes](https://github.com/lapis-lazuli-ore-block/site/blob/master/_includes/bio-bret-victor.md)
 
->>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
+>>Εφεδρικοί συνδέσμοι προς το προσωπικό μου προφίλ σε περίπτωση που υπήρξε πρόβλημα με αυτούς προς τον οργανισμό
 ### Αρχείο εικόνας:
 - [images](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile.png)
 - [images thumb](https://github.com/aggelos2000430/images/blob/57b7924113615076edbbfa7c2c5d8642969c1c66/victor-profile-thumb.png)
