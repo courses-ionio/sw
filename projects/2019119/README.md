@@ -105,6 +105,21 @@ Punched card File
 
 [Github Pages](https://christosmpazdanhs.github.io/blog/)
 
+## Κατασκευή Βιβλίου Β2 -> Pollen
+Για την κατασκευή του βιβλίου χρειάστηκαν τα παρακάτω:
+
+[makepollen.sh](https://github.com/ChristosMpazdanhs/kallipos/blob/master/makepollen.sh)
+
+[figure-pollen.lua](https://github.com/ChristosMpazdanhs/kallipos/blob/master/figure-pollen.lua)
+
+Επιπλέον χρείαστηκε να υπάρχει εγκατεστημένη η [racket-lang](https://racket-lang.org/) στο σύστημα.
+
+[Netlify](https://tubular-strudel-c05511.netlify.app/)
+
+[kallipos](https://github.com/ChristosMpazdanhs/kallipos)
+
+
+
 
 
 
