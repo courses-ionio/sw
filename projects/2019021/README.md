@@ -78,6 +78,7 @@
 ![VirtualBox_Arch Linux_17_03_2023_19_43_06](https://user-images.githubusercontent.com/72880868/225985888-d5a89ce6-828f-4509-a68a-0b2d68ccde92.png)
 
 # Εβδομάδα 5: Συμμετοχικό περιεχόμενο A1 + A2
+Σε αυτο το παραδοτεο εγραψα για το mint-linux και το macintosh server.
 
 |     |   site  | gallery | images | thumb | 
 | --- | --- | --- | --- | --- | 
@@ -99,7 +100,7 @@
 
 # Εβδομάδα 7: Συμμετοχικό περιεχόμενο B1
 
-Σε αυτο το παραδοτεο εγραψα μια μελετη περιπτωσης με θεμα τα λειτουργικα Συστηματα.
+Σε αυτο το παραδοτεο εγραψα μια μελετη περιπτωσης με θεμα τα λειτουργικα Συστηματα. Δεν μπορουσα ομως να εμφανισω τη συνεισφορα μου στο netlify ομως.
 
 * [site/includes](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/os.md)
 * [site/_case-study](https://github.com/StavroulaAnatolaki/site/blob/master/_case-study/operating_systems.md)
