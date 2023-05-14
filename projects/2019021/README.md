@@ -128,3 +128,6 @@
 * [link](https://github.com/courses-ionio/sw/discussions/1304)
 * [link](https://github.com/courses-ionio/sw/discussions/1366)
 
+# Σχολια στα pull request
+[link](https://github.com/courses-ionio/sw/pull/1624#issuecomment-1546935467)
+
