@@ -2,6 +2,7 @@
 
 ### Προσωπικό Github προφίλ: [aggelos2000430](https://github.com/aggelos2000430)
 ### Ονοματεπώνυμο: Μπουικλής Άγγελος
+### Ed puzzle: p18boui@ionio Π2018076
 ### Αριθμός Μητρώου: Π2018076
 ### [Ο οργανισμός μου](https://github.com/lapis-lazuli-ore-block)
 ### [Το Asciinema μου](https://asciinema.org/~p18boui)
