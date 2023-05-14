@@ -1,8 +1,9 @@
 ### Σταυρούλα Ανατολάκη
+### Προφίλ στο Github: [link](https://github.com/StavroulaAnatolaki)
 ### ΑΜ: Π2019021
 ### Οργανισμός : [GENESIS](https://github.com/Genesis-The-Beginning)
 ### Νetlify: [Link](https://gorgeous-cajeta-4d8cbe.netlify.app/)
-### Προφίλ στο Edpuzzle: Σταυρούλα Ανατολάκη Π2019021
+### Προφίλ στο Edpuzzle: p19anat@ionio Π2019021
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
