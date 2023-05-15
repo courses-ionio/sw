@@ -43,18 +43,8 @@
 
 Για αυτο το παραδοτεο χρησιμοποιησα το λειτουργικο συστημα Arch Linux εγκατεστημενο σε VirtualBox. Μετα ετρεξα τις εντολες neofetch ([asciinema recording](https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF)) και journalctl -b ([asciinema recording](https://asciinema.org/a/aNxUZ1oos2iW33pgc8fCspAZO)).
 
-
-![VirtualBox_Arch Linux_25_02_2023_00_11_48](https://user-images.githubusercontent.com/72880868/221351050-3b3a5907-704c-4d91-b127-cf0f3341e821.png)
-
-![VirtualBox_Arch Linux_25_02_2023_00_09_37](https://user-images.githubusercontent.com/72880868/221351058-183b2dd3-6b1a-47a2-bac0-1d4f39b4442a.png)
-
 Ως ασκηση διαλεξα να τρεξω την εντολη ntfy ([asciinema recording](https://asciinema.org/a/bPGO52HUtwnTGtH0LnBxhPlmp)) στο λογισμικο. Με αυτη την εντολη μπορεις να στειλεις μηνυματα, ανακοινωσεις κτλ απο το λογισμικο στο κινητο σου.
 Χρειαστηκε να εγκαταστησω και την εφαρμογη στο κινητο μου, ωστε να λαμβανω αυτα που στελνω απο το λογισμικο.
-
-![VirtualBox_Arch Linux_25_02_2023_00_06_27](https://user-images.githubusercontent.com/72880868/221536314-c6222bca-4438-425f-9c0e-2b247b4cf3ac.png)
-
-![IMG_0595](https://user-images.githubusercontent.com/72880868/221539621-ed2c79ce-b0ae-4fde-853b-8dc633c37e63.gif) ![IMG_0596](https://user-images.githubusercontent.com/72880868/221539653-879f314f-cbf0-4bd0-a5a9-1387ab917b0a.gif)
-
 
 
 ### Πηγές
@@ -63,9 +53,6 @@
 
 # Εβδομάδα 3: Άσκηση γραμμής εντολών(no systemd)
 Σε αυτο το παραδοτεο αποφασισα να εγκαταστησω το λειτουργικο συστημα Artix Linux σε Virtualbox και ετρεξα την εντολη neofetch ([asciinema recording](https://asciinema.org/a/vJKiGehHwn8gnWaQowqBnk6Yo)). 
-
-![neofetch](https://github.com/StavroulaAnatolaki/sw/assets/72880868/33de6da0-28fd-4676-9877-d1a829034dbd)
-
 
 
 # Εβδομάδα 4: Κατασκευή του βιβλίου Α2 (συνεργατικά) 
