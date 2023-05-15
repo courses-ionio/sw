@@ -371,6 +371,6 @@
 
 [#1685](https://github.com/courses-ionio/sw/pull/1685#issuecomment-1537466806)
   
-[Pull Request στον οργανισμό](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
+[Pull Request](https://github.com/lapis-lazuli-ore-block/Main/pull/5)
 
 
