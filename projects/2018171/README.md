@@ -8,16 +8,16 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Δημιουργία ομάδας](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545) , [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1146) , συγγραφή της εισαγωγής | |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [asciinema link](https://asciinema.org/a/562910) , [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1271) | |
-| 3 | Γραμμή εντολών (no systemd) | [asciinema link](https://asciinema.org/a/564646) ,  [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1330) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [asciinema link](https://asciinema.org/a/566545), [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1380) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1461) | |
-| 6 | Γραμμή εντολών (custom static blog generator) | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1488) | |
-| 7 | συμμετοχικό περιεχόμενο B1 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1528) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1567) | |
-| 10 | Τελική αναφορά* | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1706), [pull request](https://github.com/courses-ionio/sw/pull/1704) | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Δημιουργία ομάδας](https://github.com/courses-ionio/sw/discussions/1133#discussioncomment-5017545) , [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1146) , συγγραφή της εισαγωγής |  Συγγραφή εισαγωγής σχετικά με τους στόχους και προσδοκίες + Δημιουργία ομάδας + Φορκ και δημιουργία σελίδας τελικής αναφοράς + προσθήκη πίνακα περιεχομένων |
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [asciinema link](https://asciinema.org/a/562910) , [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1271) | Γραμμή εντολών ntfy ώστε να στείλω μία ειδοποίηση στο κινητό |
+| 3 | Γραμμή εντολών (no systemd) | [asciinema link](https://asciinema.org/a/564646) ,  [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1330) | Γραμμή εντολών systemd-free λειτουργικό σύστημα Alpine Linux |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |  [asciinema link](https://asciinema.org/a/566545), [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1380) |  προσθήκη μιας παραγράφου στο βιβλίο |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1461) |  Συγγραφή για το dynabook του Alan Kay καθώς και του tabletPC της microsoft |
+| 6 | Γραμμή εντολών (custom static blog generator) | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1488) |  Δημιουργία ενός site με χρήση hugo |
+| 7 | συμμετοχικό περιεχόμενο B1 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1528) | Μελέτη περίπτωσης |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | Δεν υλοποιήθηκε |
+| 9 | συμμετοχικό περιεχόμενο B2 | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1567) | βιογραφία του Bill Gates |
+| 10 | Τελική αναφορά* | [συζητήσεις εβδομαδιαίας προόδου](https://github.com/courses-ionio/sw/discussions/1706), [pull request](https://github.com/courses-ionio/sw/pull/1704) | Συγγραφή της τελικής μου αναφοράς όσον αφορά την επίτευξη των στόχων μου + pull request |
 
 
 # 1. Εισαγωγή μαθήματος:
@@ -69,6 +69,8 @@
 
 
 # 5. Συμμετοχικό περιεχόμενο A1 + A2:
+ Στο 5ο παραδοτέο αποφάσισα να προσθέσω στο βιβλίο κάποια επιπλέων για το dynabook του Alan Kay καθώς και την προσθήκη του tabletPC της microsoft.
+
 * [images](https://github.com/perikarananou/images): [tabletPC_mictosoft](https://github.com/perikarananou/images/blob/master/tabletPC_mictosoft.jpg), [alan-kay-and-dynabook](https://github.com/perikarananou/images/blob/master/alan-kay-and-dynabook.jpg)
 * [_gallery](https://github.com/perikarananou/_gallery): [tabletPC_mictosoft](https://github.com/perikarananou/_gallery/blob/master/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/_gallery/blob/master/alan-kay-and-dynabook.md)
 * [_slides](https://github.com/perikarananou/site/tree/master/_slides): [tabletPC_mictosoft](https://github.com/perikarananou/site/blob/master/_slides/tabletPC_mictosoft.md), [alan-kay-and-dynabook](https://github.com/perikarananou/site/blob/master/_slides/alan-kay-and-dynabook.md)
@@ -95,7 +97,7 @@
 
 
 # 7. συμμετοχικό περιεχόμενο B1:
-
+Μελέτη περίπτωσης:
 * [images](https://github.com/perikarananou/images): [tabletPC](https://github.com/perikarananou/images/blob/master/tabletPC.jpg), [tabletPCmin](https://github.com/perikarananou/images/blob/master/tabletPCmin.jpg)
 * [_includes](https://github.com/perikarananou/site/tree/master/_includes): [tabletPC](https://github.com/perikarananou/site/blob/master/_includes/tabletPC.md)
 * [_case-study](https://github.com/perikarananou/site/tree/master/_case-study): [tabletPC](https://github.com/perikarananou/site/blob/master/_case-study/tabletPC.md)
