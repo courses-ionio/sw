@@ -11,16 +11,15 @@
 | Εβδομάδα | Παραδοτέα| Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας, Προσθήκη πίνακα περιεχομένων, Συγγραφή της εισαγωγής | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1195) | Εντάχθηκα σε ομάδα και έθεσα τους στόχους μου στην εισαγωγή μου, παράλληλα ολοκλήρωσα και το 1ο βίντεο κουίζ |
-| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1294)| |
-| 3 | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1349) | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1452) | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1453) | |
-| 6 | Γραμμή εντολών (custom static blog generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1716) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτεό 7](https://github.com/courses-ionio/sw/discussions/1717) | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Παραδοτέο 8](https://github.com/courses-ionio/sw/discussions/1718) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1719) | |
-| 10 | Τελική αναφορά |[Παραδοτέο 10](https://github.com/courses-ionio/sw/discussions/1720) | |
-
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1294)|Επέλεξα τα Arch linux και τα εγκατέστησα σε vm και usb |
+| 3 | Γραμμή εντολών (no systemd) | [Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1349) |Δυσκολεύτηκα στην επιλογή λειτουργικού συστήματος και κατέληξα με τα Artix και τα Antx|
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1452) | Εμφανίστηκε ένα πρόβλημα με το pandoc |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1453) |Μελέτησα το περιεχόμενο του βιβλίου και έκανα τις απαραίτητες προσθήκες|
+| 6 | Γραμμή εντολών (custom static blog generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1716) | Έχω συμπεριλάβει screenshots των αποτελεσμάτων |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτεό 7](https://github.com/courses-ionio/sw/discussions/1717) | Μελέτησα εκ νέου το περιεχόμενο του βιβλίου και έκανα τις απαραίτητες προσθήκες |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[Παραδοτέο 8](https://github.com/courses-ionio/sw/discussions/1718) |Δημιούργησα το αρχείο epub |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1719) | Έκανα τις απαραίτητες προσθήκες |
+| 10 | Τελική αναφορά |[Παραδοτέο 10](https://github.com/courses-ionio/sw/discussions/1720) | Συμπεράσματα/Επίλογος |
 
 ## Εισαγωγή
 
@@ -64,7 +63,7 @@
 
 Και το αποτέλεσμα απ' το κινητό μου σε screenshot:
 
-![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/ntfy-arch.png)
+![Screenshot](https://github.com/p20adam/pictures/blob/main/ntfy-arch.png)
 
 Τέλος υλοποίησα και το wttr για να μπορώ να δω την πρόγνωση του καιρού.
 
@@ -90,7 +89,7 @@
 
 Screenshot:
 
-![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/ntfy-artix.png)
+![Screenshot](https://github.com/p20adam/pictures/blob/main/ntfy-artix.png)
 
 ## Κατασκευή Βιβλίου Α2
 
@@ -101,7 +100,7 @@ Screenshot:
 - [note.md](https://github.com/p20adam/kallipos/blob/master/ExtraNote/note.md)
 - [Pdf](https://github.com/p20adam/kallipos/blob/master/book.pdf)
 
-![Problem](https://github.com/p20adam/sw/blob/2020160/projects/2020160/Problem.png)
+![Problem](https://github.com/p20adam/pictures/blob/main/Problem.png)
 
 ## Συμμετοχικό Περιεχόμενο Α1 και Α2
 
@@ -145,8 +144,8 @@ Screenshot:
 
 Στην συγκεκριμένη γραμμή εντολών καλούμαστε να φτιάξουμε το δικό μας static blog generator. Στο στιγμιότυπο που ακολουθεί φαίνεται η αρχική σελίδα της ιστοσελίδας μου:
 
-![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/blog1.png)
-![Screenshot](https://github.com/p20adam/sw/blob/2020160/projects/2020160/blog2.png)
+![Screenshot](https://github.com/p20adam/pictures/blob/main/blog1.png)
+![Screenshot](https://github.com/p20adam/pictures/blob/main/blog2.png)
 
 Και αντίστοιχα ακολουθεί το Asciinema:
 
