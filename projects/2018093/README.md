@@ -8,6 +8,8 @@ GitHub Link: [Theoharissiwzos](https://github.com/theoharissiwzos)
 Οργανισμός: [is_init_right?](https://github.com/is-init-right)
 
 
+Προφίλ στο Edpuzzle: p18sioz Π2018093
+
 
 
 # Τεχνολογία Λογισμικού 
