@@ -128,3 +128,26 @@
 * Το δικό μου pull request: [perikarananou](https://github.com/courses-ionio/sw/pull/1704#issue-1699178927)
 * Σχόλια σε pull request συναδέλφων: [NickLithari](https://github.com/courses-ionio/sw/pull/1625#issuecomment-1549333554)
 * Δικά μου Q&A: [Τελική παρουσίαση](https://github.com/courses-ionio/sw/discussions/1610#discussion-5144264), [Mx linux](https://github.com/courses-ionio/sw/discussions/1237#discussion-4881249)
+
+
+
+
+
+## Βίντεο Κουίζ
+
+| | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series (VPRI 834) |<p align = "center">18/02 :+1:</p>|<p align = "center">19/02 :+1:</p>|
+| 2 | Ted Nelson -- Computers for Cynics [full version]  |<p align = "center"> 22/02 :+1:</p>|<p align = "center">26/02 :+1:</p>|
+| 3 | Alan Kay - Could Computing Be Simpler Than It Seems To Be? |<p align = "center">01/03 :+1:</p>|<p align = "center">05/03 :+1:</p>|
+| 4 | Bret Victor - The Future of Programming |<p align = "center">06/03 :+1:</p>|<p align = "center">12/03 :+1:</p>|
+| 5 | Alan Kay - Programming Languages & Programming (2013) |<p align = "center">18/03 :+1:</p>|<p align = "center">19/03 :+1:</p>|
+| 6 | Alan Kay Turing Lecture with dynamic content |<p align = "center">19/03 :+1:</p>|<p align = "center">26/03 :+1:</p>|
+| 7 | Alan Kay - Programming and Scaling |<p align = "center">28/03 :+1:</p>|<p align = "center">02/04 :+1:</p>|
+| 8 | Extracting Energy from the Turing Tarpit |<p align = "center">05/04 :+1:</p>|<p align = "center">23/04 :+1:</p>|
+| 9 | Back to the Future of Software Development 4/23/2003 (VPRI 785) |<p align = "center">26/04 :+1:</p>|<p align = "center">30/04 :+1:</p>|
+| 10 | VCF East 2019 -- Brian Kernighan interviews Ken Thompson |<p align = "center">07/05 :+1:</p>|<p align = "center">07/05 :+1:</p>|
+
+
+
+
