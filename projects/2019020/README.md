@@ -110,3 +110,17 @@ Netlify: [Steve Jobs Biography](https://tranquil-florentine-5ae204.netlify.app/b
 
 Η τελική παρουσίαση πραγματοποιήθηκε την Τρίτη 09/05/2023 10:45 κατά την εποπτεία του κ.Βραχάτη τα σχόλια που έγιναν ήταν πως θα έπρεπε να διορθώσω την στήλη της αυτο-αξιολόγησης στην αναφορά μου. 
 
+### Ομαδικά Links:
+
+https://github.com/courses-ionio/sw/pull/1715#issuecomment-1539090494
+
+https://github.com/courses-ionio/sw/pull/1709#issuecomment-1539095255
+
+### Pull Requests:
+
+https://github.com/AwayFromKeyboardd/site/pull/1
+
+https://github.com/AwayFromKeyboardd/kallipos/pull/1
+
+
+
