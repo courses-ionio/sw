@@ -147,3 +147,7 @@ https://asciinema.org/a/WTv7YjkeiwD1sppLCK1IOeNeA
 ## Ομαδικότητα - Pull Requests
 
 https://github.com/TheTimeParadox/images/pull/3 | https://github.com/TheTimeParadox/images/pull/6 | https://github.com/TheTimeParadox/images/pull/9 | https://github.com/TheTimeParadox/images/pull/10 | https://github.com/TheTimeParadox/site/pull/8 | https://github.com/TheTimeParadox/site/pull/11 | https://github.com/TheTimeParadox/kallipos/pull/2 | https://github.com/TheTimeParadox/TheParadoxNotes/pull/1 | https://github.com/TheTimeParadox/_gallery/pull/3
+
+## Ομαδικότητα - Σχόλια
+
+https://github.com/courses-ionio/sw/pull/1669#issuecomment-1552115527 | https://github.com/courses-ionio/sw/pull/1668#issuecomment-1552118917
