@@ -1,6 +1,6 @@
 | Όνομα | Επώνυμο | Github profile | Organization profile | Username | AM | Email |
 | --- | --- | --- | --- |--- |--- | --- |
-| ΧΡΙΣΤΙΝΑ | ΣΠΑΝΟΥ | [Xristinasp](https://github.com/xristinasp) | [SpaKavv](https://github.com/SpaKavv) |p18kavv | Π2018134 | p18span@ionio.gr |
+| ΧΡΙΣΤΙΝΑ | ΣΠΑΝΟΥ | [Xristinasp](https://github.com/xristinasp) | [SpaKavv](https://github.com/SpaKavv) |p18span | Π2018134 | p18span@ionio.gr |
 
 ---
 
