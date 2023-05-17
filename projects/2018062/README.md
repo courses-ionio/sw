@@ -17,11 +17,11 @@
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1416) | Εγκατάσταση kallipos, προσθήκη custom φίλτρου |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1432) | Εγκατάσταση βιβλίου, δημιουργία σελιδών για n64 controller |
-| 6 | Γραμμή εντολών (custom static blog generator) | | Δημιουργίας Static Blog με Jekyll |
-| 7 | Συμμετοχικό περιεχόμενο B1 |  | Μελέτη Περίπτωσης - Pokemon |
+| 6 | Γραμμή εντολών (custom static blog generator) | [Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1743) | Δημιουργίας Static Blog με Jekyll |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1744) | Μελέτη Περίπτωσης - Pokemon |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | Βιογραφικό Σημείωμα - Shigeru Miyamoto |
-| 10 | Τελική αναφορά | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9](https://github.com/courses-ionio/sw/discussions/1745) | Βιογραφικό Σημείωμα - Shigeru Miyamoto |
+| 10 | Τελική αναφορά | [Παραδοέο 10](https://github.com/courses-ionio/sw/discussions/1746) | Συμπεράσματα από το μάθημα |
 
 
 ## Εισαγωγή
