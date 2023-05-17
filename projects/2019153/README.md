@@ -3,16 +3,16 @@
 
 | Εβδομάδα | Παραδοτέο κάθε εβδομάδας | Discussions | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) | [Discussion](https://github.com/courses-ionio/sw/discussions/1163), [Organization](https://github.com/PaneksypnesDiepafes/Main/) |  |
-| 2 | [Άσκηση γραμμής εντολών (NTFY)](#παραδοτέο-2) |[Discussion](https://github.com/courses-ionio/sw/discussions/1287)| |
-| 3 | [Funtoo installation](#παραδοτέο-3) |[Discussion](https://github.com/courses-ionio/sw/discussions/1328) |  |
-| 4 | [Κατάσκευη Βιβλίου](#παραδοτέο-4) |[Discussion](https://github.com/courses-ionio/sw/discussions/1389) | |
-| 5 | [Συμμετοχικό περιεχόμενο Α1 & A2](#παραδοτέο-5) |[Discussion](https://github.com/courses-ionio/sw/discussions/1450)|  |
-| 6 | [Static Blob](#παραδοτέο-6) | [Discussion](https://github.com/courses-ionio/sw/discussions/1495) | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion](https://github.com/courses-ionio/sw/discussions/1541) |  |
-| 8 | [Pollen](#παραδοτέο-8) |[Discussion](https://github.com/courses-ionio/sw/discussions/1542) |  |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion](https://github.com/courses-ionio/sw/discussions/1543) |  |
-| 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion](https://github.com/courses-ionio/sw/discussions/1544) |  |
+| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) | [Discussion](https://github.com/courses-ionio/sw/discussions/1163), [Organization](https://github.com/PaneksypnesDiepafes/Main/) |  10/10 |
+| 2 | [Άσκηση γραμμής εντολών (NTFY)](#παραδοτέο-2) |[Discussion](https://github.com/courses-ionio/sw/discussions/1287)| 10/10 |
+| 3 | [Funtoo installation](#παραδοτέο-3) |[Discussion](https://github.com/courses-ionio/sw/discussions/1328) | 10/10  |
+| 4 | [Κατάσκευη Βιβλίου](#παραδοτέο-4) |[Discussion](https://github.com/courses-ionio/sw/discussions/1389) | 10/10 |
+| 5 | [Συμμετοχικό περιεχόμενο Α1 & A2](#παραδοτέο-5) |[Discussion](https://github.com/courses-ionio/sw/discussions/1450)| 10/10 |
+| 6 | [Static Blob](#παραδοτέο-6) | [Discussion](https://github.com/courses-ionio/sw/discussions/1495) | 10/10 |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) |[Discussion](https://github.com/courses-ionio/sw/discussions/1541) | 10/10  |
+| 8 | [Pollen](#παραδοτέο-8) |[Discussion](https://github.com/courses-ionio/sw/discussions/1542) | 10/10 |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) |[Discussion](https://github.com/courses-ionio/sw/discussions/1543) | 10/10 |
+| 10 | [Τελική αναφορά*](#παραδοτέο-10) |[Discussion](https://github.com/courses-ionio/sw/discussions/1544) | 10/10  |
 | 10.1 | [Σχολιαστμός](#παραδοτέο-101) |  |  |
 
 
