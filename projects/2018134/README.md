@@ -25,3 +25,22 @@
 <p>Για την άσκηση γραμμής εντολών με systemd εγκατέστησα τα Arch Linux λόγω προυπάρχουσας επαφής με το λειτουργικό. Στο terminal του Arch χρησιμοποίησα την εντολή neofetch. Παραθέτω από κάτω το asciinema link.</p>
 
 [ `Asciinema` ](https://asciinema.org/a/hVAZUYTbYICto9XH1HVytiK7y)
+
+# Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α1 + Α2
+<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να προσθέσουμε δύο νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του βιβλίου του μαθήματος, ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συναδιάζονται με τις εικόνες. 
+ Παρακάτω παρουσιάζονται οι περιγραφές μου για :</p>
+
+- [digitizer.md](https://github.com/xristinasp/_gallery/blob/master/digitizer.md)
+- [3d-printer.md](https://github.com/xristinasp/_gallery/blob/master/3d-printer.md)
+<p>Και οι αντίστοιχες εικόνες:</p>
+
+- [digitizer.png](https://github.com/xristinasp/images/blob/master/digitizer.png)
+- [digitizer-thumb.jpg](https://github.com/xristinasp/images/blob/master/digitizer-thumb.jpg)
+- [3d printer.jpg](https://github.com/xristinasp/images/blob/master/3d%20printer.jpg)
+- [3d printer.gif](https://github.com/xristinasp/images/blob/master/3d%20printer.gif)
+
+
+<p>Παρακάτω φαίνεται το link από το neltify:</p>
+
+- [My site](https://xristinasp.netlify.app/gallery/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
