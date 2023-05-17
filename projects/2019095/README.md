@@ -11,6 +11,23 @@
 |Angeloth1|Member|Angelos Thomos|P2019095|[Profile](https://github.com/angeloth1)|
 |KonstantinosTourtsakis|Member|Konstantinos Tourtsakis|P2019140|[Profile](https://github.com/konstantinostourtsakis)|
 
+# helping hand 🫴
+
+Όπως σε κάθω άλλο παραγωγικό περιβάλλον έτσι και εδώ η συνεργασία και η επικοινωνία με τους συναδέλφους μας αποτελεί το Α και το Ω. 
+
+Εδώ μπορείτε την δραστηριότητά μου στο discussions του μαθήματος :
+  - [artix](https://github.com/courses-ionio/sw/discussions/1151)
+  - [Τι να εγκαταστήσω](https://github.com/courses-ionio/sw/discussions/1162)
+  - [Κριτήρια βαθμολόγησης](https://github.com/courses-ionio/sw/discussions/1149)
+  - [Τελική παρουσίαση με μπόνους](https://github.com/courses-ionio/sw/discussions/1486)
+  - [Τα MX Linux είναι αποδεκτά](https://github.com/courses-ionio/sw/discussions/1237)
+  - [Καταγραφή κανόνων συνεργασίας στους ομαδικούς οργανισμούς](https://github.com/courses-ionio/sw/discussions/1234)
+  - [forks συμμετοχικού περιεχομένου από προηγούμενο μάθημα](https://github.com/courses-ionio/sw/discussions/1377)
+  - [Ερωτηση για τη 2 και 3 Εβδομάδα](https://github.com/courses-ionio/sw/discussions/1270)
+  - [Θα υπάρξει μείωση του βαθμού από την εγκατάσταση non-systemd συστήματος σε Virtual Machine?](https://github.com/courses-ionio/sw/discussions/1166)
+ 
+Υπάρχει βέβαια και άλλη δραστηριότητα από εμένα στα discussions στην κατηγορία show and tell όπου βρήσκετε στο παρακάτω πίνακα.
+
 # My work
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
