@@ -126,7 +126,7 @@
 
 * edpuzzle profile: p18kara4 P2018171
 * Το δικό μου pull request: [perikarananou](https://github.com/courses-ionio/sw/pull/1704#issue-1699178927)
-* Σχόλια σε pull request συναδέλφων: [NickLithari](https://github.com/courses-ionio/sw/pull/1625#issuecomment-1549333554), [odysseasEko](https://github.com/courses-ionio/sw/pull/1640#issuecomment-15514048)
+* Σχόλια σε pull request συναδέλφων: [NickLithari](https://github.com/courses-ionio/sw/pull/1625#issuecomment-1549333554), [odysseasEko](https://github.com/courses-ionio/sw/pull/1640#issuecomment-1551404802)
 * Δικά μου Q&A: [Τελική παρουσίαση](https://github.com/courses-ionio/sw/discussions/1610#discussion-5144264), [Mx linux](https://github.com/courses-ionio/sw/discussions/1237#discussion-4881249)
 
 
