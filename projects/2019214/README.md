@@ -202,3 +202,17 @@ H εγκατάσταση των Void Linux έγινε με την βοήθεια
 | --- | ---  |
 | [Pull request #1686](https://github.com/courses-ionio/sw/pull/1686) | [voltmaister](https://github.com/voltmaister) |
 | [Pull request #1704](https://github.com/courses-ionio/sw/pull/1704) | [perikarananou](https://github.com/perikarananou) |
+
+## Εβδομαδιαία βίντεο κουίζ (edpuzzle)
+| **Βίντεο κουίζ** | **Ολοκλήρωση** | 
+| --- | --- | 
+| Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series	| ✅ |
+| Ted Nelson -- Computers for Cynics | ❎ |
+| Alan Kay - Could Computing Be Simpler Than It Seems To Be? | ✅ |
+| Bret Victor - The Future of Programming |	✅ |
+| Alan Kay - Programming Languages & Programming (2013)	| ✅ |
+| Alan Kay Turing Lecture with dynamic content | ✅ |
+| Alan Kay - Programming and Scaling | ✅ |
+| Extracting Energy from the Turing Tarpit | 	✅ |
+| Back to the Future of Software Development 4/23/2003 (VPRI 785) | ✅ |
+| VCF East 2019 -- Brian Kernighan interviews Ken Thompson | ✅ |
