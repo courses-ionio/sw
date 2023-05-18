@@ -64,6 +64,20 @@
 | --- | --- | --- | --- |
 | Εικόνα | [COBOL](https://drexion-pibook.netlify.app/gallery/cobol/) | [Markdown](https://github.com/Drexion/_gallery/blob/master/cobol.md) | [Image](https://github.com/Drexion/images/blob/master/cobol.jpg) |
 | Εικόνα | [A-0 System](https://drexion-pibook.netlify.app/gallery/a-0-system/) | [Markdown](https://github.com/Drexion/_gallery/blob/master/a-0-system.md) | [Image](https://github.com/Drexion/images/blob/master/a-0-system.jpg) |
-| Χρονολόγιο | [DEC](https://drexion-pibook.netlify.app/timeline/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_timeline/programming.md) | - |
-| Slideshow | [Operating Systems](https://drexion-pibook.netlify.app/slides/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_slides/programming.md) | - |
+| Χρονολόγιο | [Programming](https://drexion-pibook.netlify.app/timeline/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_timeline/programming.md) | - |
+| Slideshow | [Programming](https://drexion-pibook.netlify.app/slides/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_slides/programming.md) | - |
+
+## Παραδοτέο 6
+
+Θα γίνει αργότερα
+
+## Παραδοτέο 7
+
+Σε αυτό το παραδοτέο έγινε προσθήκη ενός case study στην ιστοσελίδα του βιβλίου. Επέλεξα να αναλύσω την περίπτωση του COBOL.
+
+| case-study | includes | netlify |
+| --- | --- | --- |
+| [cobol.md](https://github.com/Drexion/site/blob/master/_case-study/cobol.md) | [cs-cobol.md](https://github.com/Drexion/site/blob/master/_includes/cs-cobol.md) | [Netlify](https://drexion-pibook.netlify.app/case-study/cobol/) |
+
+
 
