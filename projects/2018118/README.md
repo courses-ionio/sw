@@ -79,5 +79,17 @@
 | --- | --- | --- |
 | [cobol.md](https://github.com/Drexion/site/blob/master/_case-study/cobol.md) | [cs-cobol.md](https://github.com/Drexion/site/blob/master/_includes/cs-cobol.md) | [Netlify](https://drexion-pibook.netlify.app/case-study/cobol/) |
 
+## Παραδοτέο 8
+
+Ίσως γίνει αργότερα
+
+## Παραδοτέο 9
+
+Σε αυτό το παραδοτέο, λόγω του ότι αναφερόμαστε και στα προηγούμενα παραδοτέο για την γλώσσ COBOL, είναι φυσικό επόμενο να αναφερθώ στην δημιουργώ του, την Grace Hopper.
+
+| Site Link | Markdown | Extra |
+| --- | --- | --- |
+| [Netlify](https://drexion-pibook.netlify.app/biography/grace-hopper/) | [grace-hopper.md](https://github.com/Drexion/site/blob/master/_biography/grace-hopper.md) | [Content](https://github.com/Drexion/site/blob/master/_includes/bio-hopper.md) |
+
 
 
