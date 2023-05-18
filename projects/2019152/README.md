@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: Παναγιωταράκης Νίκος
 ### ΑΜ: Π2019152 / Mail: p19pana@ionio.gr
 ### GitHub: [Main Profile](https://github.com/Tarakhs) / [Υποστηρικτικό Υλικό](https://github.com/Tarakhs/HCISupp)
+### EDPuzzle: Nikos Panagiotarakis P2019152
 ### Οργανισμός: [Paneksypnes Diepafes](https://github.com/PaneksypnesDiepafes)
 
 ### Πίνακας Παραδοτέων
@@ -212,3 +213,21 @@ Book Compilation Script: [Pollen](https://github.com/Tarakhs/kallipos/blob/maste
 Τα παραδοτέα 4 & 8 μου φάνηκαν αρκετά ενδιαφέρον σαν σύνολο, κυρίως γιατί δεν είχε τύχει να ασχοληθώ με τις απαιτούμενες τεχνολογίες (lua, LaTeX, pandoc) οπότε μετά από λίγη έρευνα θεωρώ πως απέκτησα ένα σχετικά ικανοποιητικό επίπεδο διαχείρισής τους, γράφοντας και ένα απλό bash script για την συγκόλληση και συγγραφή του βιβλίου σε PDF. Από εκεί και πέρα και συγκεκριμένα στο 8, και πάλι έμαθα να μετατρέπω το βιβλίο σε HTML μορφή μέσω Pollen, ωστόσο στην πορεία συνηδητοποίησα πως δεν είναι ακριβώς αυτή η χρήση του εργαλείου, αλλά βοηθάει στο να μετατρέπεις text αρχεία σε μια hostable live μορφή η οποία τρέχει σε server. Άρα, θεωρώ πως θα μπορούσα να ασχοληθώ λίγο παραπάνω και να κάνω migrate όλο το βιβλίο σε ένα ingestible format για το pollen. Ωστόσo αντικειμενικά μιλώντας, αυτό το εγχείρημα είναι αρκετά χρονοβόρο και πόσο μάλλον ανιαρό, και έφτασα στο συμπέρασμα πως έτσι και αλλιώς η ουσία του μαθήματος δεν είναι η εκτεταμένη χειροκίνητη εργασία, παρά η ανακάλυψη τρόπων αποφυγής της.
 
 Τέλος, για τα παραδοτέα 5, 7, 9, η δυσκολία με την οποία βρέθηκα αντιμέτωπος ήταν η συζήτηση με την ομάδα γύρω από την προσπάθεια να δημιουργήσουμε συνδεδεμένες προσθήκες, και προφανώς το ομαδικό workflow μέσω pull request σε κοινό repository για την δημιουργία ενός κοινού site. Προσπάθησα να συμβαδίσω τα αντικείμενα των προσθήκων μου με τις όσες γνώσεις πάρθηκαν από τα video quiz, καθώς και μέσα από τις συζητήσεις που έγιναν στις συναντήσεις του μαθήματος.
+
+## Links Σχολιασμών
+
+| Σχόλιο | Περιγραφή |
+| --- | --- |
+| [Link](https://github.com/courses-ionio/sw/pull/1726#issuecomment-1552919321) | Τελική Αναφορά |
+| [Link](https://github.com/courses-ionio/sw/pull/1712#issuecomment-1552938296) | Τελική Αναφορά |
+| [Link](https://github.com/courses-ionio/sw/pull/1701#issuecomment-1552961557) | Τελική Αναφορά |
+
+## Pull Requests
+
+| PR | Περιγραφή |
+| --- | --- |
+| [Link](https://github.com/PaneksypnesDiepafes/images/pull/1) | Προσθήκη Εικόνων |
+| [Link](https://github.com/PaneksypnesDiepafes/_gallery/pull/1) | Προσθήκη Markdown Εικόνων |
+| [Link](https://github.com/PaneksypnesDiepafes/site/pull/1) | Προσθήκη Χρονολογίου, Slideshow, Case Study, Βιογραφίας |
+| [Link](https://github.com/PaneksypnesDiepafes/kallipos-notes/pull/7) | Προσθήκη Contribution Βιβλίου |
+| [Link](https://github.com/PaneksypnesDiepafes/cookbook/pull/4) | Προσθήκη Section Guide Οργανισμού |
