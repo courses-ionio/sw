@@ -55,3 +55,15 @@
 ## Παραδοτέο 4
 
 Δεν έχω ομάδα για την κατασκευή βιβλίου, επομένως για την ώρα θα προχωρήσω στα επόμενα.
+
+## Παραδοτέο 5
+
+Ζητήθηκε η προσθήκη δύο νέων εικόνων στο online βιβλίο του μαθήματος, καθώς και η ενσωμάτωσή τους σε νέα slideshow και χρονολόγια.
+
+| Προσθήκη | Site Link | Markdown | Extra |
+| --- | --- | --- | --- |
+| Εικόνα | [COBOL](https://drexion-pibook.netlify.app/gallery/cobol/) | [Markdown](https://github.com/Drexion/_gallery/blob/master/cobol.md) | [Image](https://github.com/Drexion/images/blob/master/cobol.jpg) |
+| Εικόνα | [A-0 System](https://drexion-pibook.netlify.app/gallery/a-0-system/) | [Markdown](https://github.com/Drexion/_gallery/blob/master/a-0-system.md) | [Image](https://github.com/Drexion/images/blob/master/a-0-system.jpg) |
+| Χρονολόγιο | [DEC](https://drexion-pibook.netlify.app/timeline/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_timeline/programming.md) | - |
+| Slideshow | [Operating Systems](https://drexion-pibook.netlify.app/slides/programming/) | [Markdown](https://github.com/Drexion/site/blob/master/_slides/programming.md) | - |
+
