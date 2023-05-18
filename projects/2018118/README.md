@@ -22,3 +22,20 @@
 
 ## 2ο Παραδοτέο 
 
+Για τo δεύτερο παραδοτέο, ανατέθηκε μια άσκηση γραμμής εντολών, η οποία περιλαμβάνει την χρηση systemd. Το σενάριο που επέλεξα χρησιμοποιεί την εντολή notify-send για την αποστολή διαφορετικών τύπων ειδοποιήσεων με διαφορετικά επίπεδα κρισιμότητας. Όταν εκτελείτε, θα εκτελέσει μια σειρά εντολών notify-send για την αποστολή ειδοποιήσεων στο σύστημα
+
+[asciinema](https://asciinema.org/a/bSKyHrC8zuF1yOn9lLLP5G2mh)
+
+Παρακάτω βλέπετε και τα μηνύματα που δημιουργήθηκαν:
+
+<p align="center">
+    <img src="https://github.com/Drexion/SWContent/blob/main/P2.1.png" width="700" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/Drexion/SWContent/blob/main/P2.2.png" width="700" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/Drexion/SWContent/blob/main/P2.3.png" width="700" />
+</p>
