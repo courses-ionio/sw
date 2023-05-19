@@ -25,8 +25,6 @@
 | [9](#9-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | συμμετοχικό περιεχόμενο B2 | [Discussion link](https://github.com/courses-ionio/sw/discussions/1627) | Πρόσθεσα στο site την βιογραφία του James Park, ιδρυτή της Fitbit, μιας και ήταν ένας από τους λίγους γνωστούς ανθρώπους που σχετίζονται και με την πληροφορική αλλά και με την άσκηση-γυμναστική (μέσω fitness app development). **Βαθμός αυτοαξιολόγησης: 10/10** |
 | [10](#10-%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | Τελική αναφορά* | [Discussion link](https://github.com/courses-ionio/sw/discussions/1683) | Συμπεράσματα μετά την ολοκλήρωση των παραδοτέων. |
 | Τελική Παρουσίαση | [Σχόλια κ. Βραχάτη](#%CF%83%CF%87%CF%8C%CE%BB%CE%B9%CE%B1-%CE%BA-%CE%B2%CF%81%CE%B1%CF%87%CE%AC%CF%84%CE%B7) | | |
-| Ομαδικότητα - Σχόλια | [Τα σχόλιά μου](#%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1---%CF%83%CF%87%CF%8C%CE%BB%CE%B9%CE%B1) | | |
-
 
 
 ## 1. Εισαγωγή
