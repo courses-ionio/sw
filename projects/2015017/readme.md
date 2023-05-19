@@ -3,6 +3,7 @@
 ## Τριαντάφυλλος Καραδήμος
 ## 2015017
 ## Προσωπικό Netlify: [2015017.netlify.app](https://2015017.netlify.app)
+## Orgnanization: [GENESIS](https://github.com/Genesis-The-Beginning)
 <br>
 <br>
 
@@ -109,7 +110,7 @@ Markdown αρχεία στο αποθετήριο: [text-editors.md](https://git
 
 ![image](https://github.com/p15kara/random/blob/main/hejlsberg.png)
 
-Βιογραφία στο προσωπικό Netlify: [Επεξεργαστές Κειμένου](https://2015017.netlify.app/biography/anders-hejlsberg) <br>
+Βιογραφία στο προσωπικό Netlify: [Anders Hejlsberg](https://2015017.netlify.app/biography/anders-hejlsberg) <br>
 Markdown αρχεία στο αποθετήριο: [anders-hejlsberg.md](https://github.com/p15kara/site/blob/master/_biography/anders-hejlsberg.md) - [bio-hejlsberg.md](https://github.com/p15kara/site/blob/master/_includes/bio-hejlsberg.md) <br>
 
 # Επίλογος
@@ -119,3 +120,14 @@ Markdown αρχεία στο αποθετήριο: [anders-hejlsberg.md](https:/
 Με ετίμηση,
 Τριαντάφυλλος Καραδήμος
 Π2015017
+
+
+## Ομαδικότητα
+Παρακάτω σύνδεσμοι προς σχόλια σε αιτήματα ενσωμάτωσης συμφοιτητών μου.
+| Links |
+| ----- |
+| - [1669#](https://github.com/courses-ionio/sw/pull/1669#issuecomment-1554675325) |
+| - [1675#](https://github.com/courses-ionio/sw/pull/1675#issuecomment-1554669339) |
+| - [1649#](https://github.com/courses-ionio/sw/pull/1649#issuecomment-1554692113) |
+| - [1665#](https://github.com/courses-ionio/sw/pull/1665#issuecomment-1554700404) |
+| - [1666#](https://github.com/courses-ionio/sw/pull/1666#issuecomment-1554704178) |
