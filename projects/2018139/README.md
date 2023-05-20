@@ -12,7 +12,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 | --- | --- | --- | --- |
 | [1]() | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1173) |Ολοκλήρωση με επιτυχία καθώς επιτεύχθηκαν οι στόχο.|
 | [2]() | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1353) |Ολοκληρώθηκε επιτυχώς |
-| [3] | Γραμμή εντολών (no systemd) | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1381) |Ολοκληρωθηκε επιτυχώς|
+| [3]() | Γραμμή εντολών (no systemd) | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1381) |Ολοκληρωθηκε επιτυχώς|
 | [4]() | Κατασκευή του βιβλίου Α2 (συνεργατικά) | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1404) |Ολοκληρώθηκε επιτυχώς |
 | [5]() | Συμμετοχικό περιεχόμενο A1 + A2 | [Συζήτηση]() |Ολοκληρώθηκε επιτυχώς|
 | [6]() | Γραμμή εντολών (custom static blog generator) | [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1606) |Ολοκληρώθηκε επιτυχώς|
