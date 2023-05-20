@@ -3,8 +3,8 @@
 ##Ελένη Νουβάκη - p17nouv@ionio.gr - Π2017079
 **********************************************
 Επέλεξα να εγκαταστήσω τη διανομή [Arch Linux](https://archlinux.org/) σε εικονική μηχανή VMWare με την οποία είχα εξοικειωθεί και από αρκετά άλλα μαθήματα. Κατά την εγκατάσταση αντιμετώπισα κάποια προβλήματα αφού την πρώτη φορά παρουσίαση exception "pacstrap failed" και την δεύτερη φορά δεν δεχόταν το username και password που είχα ορίσει !!! Την τρίτη φορά (αρκετά πιο minimalist) κατάφερα να έχω το arch linux, να συνδεθώ με το username και password που όρισα και να εγκαταστήσω το [neofetch](https://archlinux.org/packages/extra/any/neofetch/) και [asciinema](https://asciinema.org) (απαραίτητα για την παρουσίαση αποτελεσμάτων στα παραδοτέα).
-[![asciicast](https://asciinema.org/a/586087.svg)](https://asciinema.org/a/586087)
-
+<p align="center"> [![asciicast](https://asciinema.org/a/586087.svg)](https://asciinema.org/a/586087)
+</p>
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[λινκ εισαγωγής](https://github.com/courses-ionio/sw/discussions/1232) | Αυτήν την εβδομάδα έκανα το 1ο βιντεο κουίζ(απαντώντας και στις 4 ερωτήσεις), έγινα μέλος σε ομάδα και ανέβασα την εισαγωγή στις συζητήσεις(discussions)|
