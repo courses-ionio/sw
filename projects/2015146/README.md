@@ -12,16 +12,16 @@ GitHub Link: https://github.com/deadoralive1908
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/sw/discussions/1553 | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |https://github.com/courses-ionio/sw/discussions/1554 | |
-| 3 | Γραμμή εντολών (no systemd) |https://github.com/courses-ionio/sw/discussions/1555 | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1556 | |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |https://github.com/courses-ionio/sw/discussions/1557 | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1558 | |
-| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1559 | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1560 | |
-| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/1561 | |
-| 10 | Τελική αναφορά* |https://github.com/courses-ionio/sw/discussions/1562 | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/sw/discussions/1553 | Έγραψα την εισαγωγή του μαθήματος με προσωπικούς στόχους που είχα θέση κατα την αρχή του εξαμήνου |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |https://github.com/courses-ionio/sw/discussions/1554 | Είχα ήδη εγκατεστημένα τα Arch Linux από προηγούμενο μάθημα επομένως πρόβαλα απλά ένα neofetch και έγραψα μερικά πράγματα σχετικά με το τι είναι το systemd |
+| 3 | Γραμμή εντολών (no systemd) |https://github.com/courses-ionio/sw/discussions/1555 | Η εγκατάσταση του Artix Linux ήταν μια εύκολη διαδικασία μιας και περιλαμβάνουν Graphical Installer |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1556 | Για την εγκατάσταση του βιβλίου χρησιμοποιήσα το make-latex.sh και πρόσθεσα σχόλιο σε κάτι που μου φαίνεται ενδιαφέρον δηλαδή στα αρχεία των υπολογιστών  |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |https://github.com/courses-ionio/sw/discussions/1557 | Για το συμμετοχικό περιεχόμενο έκανα προσθήκες σχετικά με τα Arch Linux και την γλώσσα προγραμματισμού C#|
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1558 | Χρησιμοποιώντας το bashblog κατασκεύασα ένα blog σχετικά με τα video games |
+| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1559 | Για το συμμετοχικό περιεχόμενο Β1 παραδώθηκε μελέτη περίπτωσης σχετικά με την C# |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1560 | Η κατασκευή του βιβλίου έγινε χρησιμοποιώντας το makepollen.sh σε συνδιασμό με το figure-pollen.lua  |
+| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/1561 | Για το συμμετοχικό περιεχόμενο Β2 παραδώθηκε η βιογραφία του Anders Hejlsberg |
+| 10 | Τελική αναφορά* |https://github.com/courses-ionio/sw/discussions/1562 | Μετά το τέλος του μαθήματος έγινε η συγγραφή της τελικής αναφοράς σαν σύνοψη ό,τι έμαθα κατά την διάρκεια του μαθήματος |
 
 
 # Εισαγωγή
@@ -75,6 +75,11 @@ GitHub Link: https://github.com/deadoralive1908
 ![cs csharp](https://user-images.githubusercontent.com/72549484/230723777-9fd8528a-147f-4c6d-a4ce-7fca2903d990.png)
 
 files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_includes/cs-csharp.md), [csharp.md](https://github.com/deadoralive1908/site/blob/master/_case-study/csharp.md)
+
+# Κατασκευή Βιβλίου
+Σε αυτό το παραδοτέο μετατράπηκε το βιβλίο του μαθήματος σε μορφή pollen μέσω του [makepollen.sh](https://github.com/deadoralive1908/kallipos/blob/master/makepollen.sh) 
+
+Μπορείτε να δείτε το βιβλίο [εδώ]()
 
 # Βιογραφία
 Σε αυτό το παραδοτέο πραγματοποιήθηκε έρευνα σχετικά με την βιογραφία του Anders Hejlsberg δημιουργού της C#, Turbo Pascal κτλ. Μπορείτε το δείτε [εδώ](https://stalwart-torte-ffe59a.netlify.app//biography/anders-hejlsberg/)
