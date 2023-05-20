@@ -42,5 +42,12 @@
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
-- [My site](https://xristinasp.netlify.app/gallery/)
-- [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
+- [My site]()
+
+
+# Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
+<p> Στο συγκεκριμένο παραδοτέο κληθήκαμε να προσθέσουμε μια βιογραφία στο περιεχόμενο της ιστοσελίδας του βιβλίου. Παρακάτω παρατίθεται η βιογραφία του Charles Hull.</p>
+
+- [charles-hull.md](https://github.com/xristinasp/site/blob/master/_biography/charles-hull.md)
+- [bio-hull.md](https://github.com/xristinasp/site/blob/master/_includes/bio-hull.md)
+- [My site]()
