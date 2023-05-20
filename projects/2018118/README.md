@@ -11,7 +11,7 @@
 | 3 | Γραμμή εντολών (no systemd) | [Συζήτηση 3](https://github.com/courses-ionio/sw/discussions/1749)| |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | [Συζήτηση 5](https://github.com/courses-ionio/sw/discussions/1750) | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | [Συζήτηση 6](| |
 | 7 | συμμετοχικό περιεχόμενο B1 | [Συζήτηση 7](https://github.com/courses-ionio/sw/discussions/1751) | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 |[Συζήτηση 9](https://github.com/courses-ionio/sw/discussions/1752)| |
@@ -69,7 +69,10 @@
 
 ## Παραδοτέο 6
 
-Θα γίνει αργότερα
+Σε αυτό το παραδοτέο, χρησιμοποίησα το bash blog για να δημιουργήσω το blog. Κατασκεύασα μέσω html μερικά ενδεικτικά άρθρα για να αναδείξω την ορθή λειτουργία του blog. Αποφάσισα να γράψω 2 λόγια για την COBOL και το σύστημα Α-0 μιας και αποτελούν την θεματολογία της εργασίας μου.
+
+[Blog](https://drexion.github.io/myblog/)
+[Repository](https://github.com/Drexion/myblog)
 
 ## Παραδοτέο 7
 
