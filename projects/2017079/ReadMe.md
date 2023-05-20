@@ -2,25 +2,29 @@
 **********************************************
 ##Ελένη Νουβάκη - p17nouv@ionio.gr - Π2017079
 **********************************************
-Επέλεξα να εγκαταστήσω τη διανομή [Arch Linux](https://archlinux.org/) σε εικονική μηχανή VMWare με την οποία είχα εξοικειωθεί και από αρκετά άλλα μαθήματα. Κατά την εγκατάσταση αντιμετώπισα κάποια προβλήματα αφού την πρώτη φορά παρουσίαση exception "pacstrap failed" και την δεύτερη φορά δεν δεχόταν το username και password που είχα ορίσει !!! Την τρίτη φορά (αρκετά πιο minimalist) κατάφερα να έχω το arch linux, να συνδεθώ με το username και password που όρισα και να εγκαταστήσω το [neofetch](https://archlinux.org/packages/extra/any/neofetch/) και [asciinema](https://asciinema.org) (απαραίτητα για την παρουσίαση αποτελεσμάτων στα παραδοτέα).
-<p align="center"> [![asciicast](https://asciinema.org/a/586087.svg)](https://asciinema.org/a/586087)
-</p>
+Η ομάδα μου : [Genesis](https://github.com/Genesis-The-Beginning) <br>
+[To προφίλ μου](https://github.com/p17nouv) <br>
+[Η αναφορά μου](https://github.com/p17nouv/sw/tree/2017079/projects/P2017079) <br>
+
+
+
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[λινκ εισαγωγής](https://github.com/courses-ionio/sw/discussions/1232) | Αυτήν την εβδομάδα έκανα το 1ο βιντεο κουίζ(απαντώντας και στις 4 ερωτήσεις), έγινα μέλος σε ομάδα και ανέβασα την εισαγωγή στις συζητήσεις(discussions)|
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
-| 3 | Γραμμή εντολών (no systemd) | | |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
-| 5 | [Συμμετοχικό περιεχόμενο A1 + A2](https://epidrome.github.io/teaching/social/){:target="_blank" rel="noopener"} | | |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
-| 9 | συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Τελική αναφορά* | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[λινκ εισαγωγής](https://github.com/courses-ionio/sw/discussions/1232) |<ul><li>- [x] Ολοκληρώθηκε </li><li>- [x] Εμπρόθεσμα</li></ul>|
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 3 | Γραμμή εντολών (no systemd) | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 5 | [Συμμετοχικό περιεχόμενο A1 + A2](https://epidrome.github.io/teaching/social/) | ||<ul><li>- [] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 7 | συμμετοχικό περιεχόμενο B1 | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 9 | συμμετοχικό περιεχόμενο B2 | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
+| 10 | Τελική αναφορά* | |<ul><li>- [ ] Ολοκληρώθηκε </li><li>- [ ] Εμπρόθεσμα</li></ul>|
 
 ##Παραδοτέο 1ο - Εισαγωγή
 Με την συμμετοχή μου στο μάθημα "Τεχνολογία λογισμοκού" στοχεύω να εμπλουτίσω τις γνώσεις μου πάνω σε γλώσσες προγραμματισμού υψηλού επιπέδου και με την εξοικείωση της πλατφόρμας github, η οποία ευνοεί την συγγραφή κώδικα με συνεργάτες. Στην συνέχεια, μέσω του μαθήματος θα μάθω να συνεργάζομαι σε ομάδα πολλών ατόμων, πράγμα ευνοϊκό για την πορεία μου στην αγορά εργασίας, καθώς στις μεγάλες εταιρείες τα προγράμματα δημιουργούνται συνήθως από ομάδα προγραμματιστών. Συνοψίζοντας, ο στόχος μου με την περάτωση αυτού του μαθήματος είναι να αποκτήσω αρκετά προσόντα για μία θέση εργασίας σε εταιρεία προγραμματισμού. <br>
 
-Η ομάδα μου : [Genesis](https://github.com/Genesis-The-Beginning) <br>
-[To προφίλ μου](https://github.com/p17nouv) <br>
-[Η αναφορά μου](https://github.com/p17nouv/sw/tree/2017079/projects/P2017079) <br>
+##Παραδοτέο 2ο - Άσκηση Γραμμής Εντολών(systemd)
+Επέλεξα να εγκαταστήσω τη διανομή [Arch Linux](https://archlinux.org/) σε εικονική μηχανή VMWare με την οποία είχα εξοικειωθεί και από αρκετά άλλα μαθήματα. Κατά την εγκατάσταση αντιμετώπισα κάποια προβλήματα αφού την πρώτη φορά παρουσίαση exception "pacstrap failed" και την δεύτερη φορά δεν δεχόταν το username και password που είχα ορίσει !!! Την τρίτη φορά (αρκετά πιο minimalist) κατάφερα να έχω το arch linux, να συνδεθώ με το username και password που όρισα και να εγκαταστήσω το [neofetch](https://archlinux.org/packages/extra/any/neofetch/) και [asciinema](https://asciinema.org) (απαραίτητα για την παρουσίαση αποτελεσμάτων στα παραδοτέα).
+
+[![asciicast](https://asciinema.org/a/586087.svg)](https://asciinema.org/a/586111)
