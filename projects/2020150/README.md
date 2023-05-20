@@ -1,4 +1,5 @@
 
+
 ### ΟΝΟΜΑΤΕΠΩΝΥΜΟ: Αθανάσιος Καλαμάτας
 
 ### ΑΜ: Π2020150
@@ -36,7 +37,7 @@
 Από τα software επιλογές διάλεξα το `bash blog`, το οποίο επιτρέπει την δημιουργία ενός blog σε html μόνο με την χρήση ενός `.sh` αρχείου. Παρακάτω παρουσιάζω την διαδικασία στο terminal, εικόνα του τελικού blog και link στο τροποποιημένο .sh αρχείο με τα στοιχεία μου.
 
 ### [Asciinema](https://asciinema.org/a/cDQWIpG1WPTPDyT1XbnvCMZxU)
-### [Bb.sh config](https://github.com/thanosks/sw/blob/2020150/projects/configs/bb.sh)
+### [Bb.sh config](https://github.com/thanosks/Configs/blob/main/bb.sh)
 
 ![2023-03-19_19-55](https://user-images.githubusercontent.com/72318224/226203781-5c3cd789-9236-4cec-83aa-6f49473cb374.png)
 
