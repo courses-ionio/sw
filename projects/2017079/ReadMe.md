@@ -27,4 +27,4 @@
 ##Παραδοτέο 2ο - Άσκηση Γραμμής Εντολών(systemd)
 Επέλεξα να εγκαταστήσω τη διανομή [Arch Linux](https://archlinux.org/) σε εικονική μηχανή VMWare με την οποία είχα εξοικειωθεί και από αρκετά άλλα μαθήματα. Κατά την εγκατάσταση αντιμετώπισα κάποια προβλήματα αφού την πρώτη φορά παρουσίαση exception "pacstrap failed" και την δεύτερη φορά δεν δεχόταν το username και password που είχα ορίσει !!! Την τρίτη φορά (αρκετά πιο minimalist) κατάφερα να έχω το arch linux, να συνδεθώ με το username και password που όρισα και να εγκαταστήσω το [neofetch](https://archlinux.org/packages/extra/any/neofetch/) και [asciinema](https://asciinema.org) (απαραίτητα για την παρουσίαση αποτελεσμάτων στα παραδοτέα).
 
-[![asciicast](https://asciinema.org/a/586111.svg)](https://asciinema.org/a/586111)
+[![asciicast](https://asciinema.org/a/586113.svg)](https://asciinema.org/a/586113)
