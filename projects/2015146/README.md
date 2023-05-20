@@ -79,7 +79,10 @@ files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_inclu
 # Κατασκευή Βιβλίου
 Σε αυτό το παραδοτέο μετατράπηκε το βιβλίο του μαθήματος σε μορφή pollen μέσω του [makepollen.sh](https://github.com/deadoralive1908/kallipos/blob/master/makepollen.sh) 
 
-Μπορείτε να δείτε το βιβλίο [εδώ]()
+![Screenshot 2023-05-20 at 13 14 11](https://github.com/deadoralive1908/sw/assets/72549484/ae01779c-5b3d-494f-9bf3-457a9aa7fadd)
+
+
+Μπορείτε να δείτε το βιβλίο [εδώ](https://deadoralive1908.github.io/kallipos/)
 
 # Βιογραφία
 Σε αυτό το παραδοτέο πραγματοποιήθηκε έρευνα σχετικά με την βιογραφία του Anders Hejlsberg δημιουργού της C#, Turbo Pascal κτλ. Μπορείτε το δείτε [εδώ](https://stalwart-torte-ffe59a.netlify.app//biography/anders-hejlsberg/)
