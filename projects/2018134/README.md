@@ -11,7 +11,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[`Παραδοτέο 3`]() |  Πραγματοποίησα το 3ο παραδοτέο εγκαθιστόντας τα MX linux (systemd free λογισμικό).|
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[`Παραδοτέο 4`]() | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[`Παραδοτέο 5`]() |  Πραγματοποίησα το 5ο παραδοτέο προσθέτοντας 2 εικόνες, ένα χρονολόγιο και ένα σετ διαφανειών στην ιστοσελίδα του βιβλίου. |
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[`Παραδοτέο 6`]() | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[`Παραδοτέο 6`]() |  Πραγματοποίησα το 6ο παραδοτέο δημιουργώντας ενα απλό blog με 3 post στα MX linux με την χρήση της εντολής pandoc. |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[`Παραδοτέο 7`]() |  Πραγματοποίησα το 7ο παραδοτέο προσθέτοντας μια μελέτη περίπτωσης για τον πρώτο στερεολιθογράφο στην ιστοσελίδα του βιβλίου.  |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |[`Παραδοτέο 8`]() | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[`Παραδοτέο 9`]() |  Πραγματοποίησα το 9ο παραδοτέο προσθέτοντας την βιογραφία του Charles Hull στην ιστοσελίδα του βιβλίου. |
@@ -48,6 +48,15 @@
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
 - [My site]()
+
+# Παραδοτέο 6: Γραμμή εντολών (no systemd, custom static blog generator)
+<p> Στο συγκεριμένο παραδοτέο δημιούργησα ένα απλό blog με 3 posts στα MX Linux με την χρήση της pandoc. Παραθέτω παρακάτω screenshot απο την διαδικασία.</p>
+
+- [Κώδικας στο Terminal](https://github.com/xristinasp/images-for-commit/blob/main/code%20terminal.png)
+- [Post σε markdown syntax](https://github.com/xristinasp/images-for-commit/blob/main/post%20markdown%20synatx.png)
+- [Post σε html (pandoc)](https://github.com/xristinasp/images-for-commit/blob/main/post%20html.png)
+- [Κώδικας html body](https://github.com/xristinasp/images-for-commit/blob/main/html%20body.png)
+- [Ιστοσελίδα blog σε html](https://github.com/xristinasp/images-for-commit/blob/main/blog.png)
 
 # Παραδοτέο 7: Συμμετοχικό περιεχόμενο Β1
 <p>Στο συγκεκριμένο παραδοτέο κληθήκαμε να προσθέσουμε μια μελέτη περίπτωσης στο περιεχόμενο της ιστοσελίδας του βιβλίου. Παρακάτω παρατίθεται η μελέτη περίπτωσης του SLA-1, του πρώτου στερεολιθογράφου (3D printer).</p>
