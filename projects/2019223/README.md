@@ -96,6 +96,7 @@
 
 # Σχόλια σε αναφορές
 [Σχόλιο 1](https://github.com/courses-ionio/sw/pull/1712#issuecomment-1556186584)
+[Σχόλιο 2](https://github.com/courses-ionio/sw/pull/1662#issuecomment-1556188675)
 
 # Βίντεο Κουίζ
 |Βίντεο Κουίζ|Ολοκλήρωση|
