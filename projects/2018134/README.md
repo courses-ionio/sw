@@ -47,7 +47,8 @@
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
-- [My site]()
+- [My site 3D printer](https://xristinasp.netlify.app/gallery/3d-printer/)
+- [My site digitizer](https://xristinasp.netlify.app/gallery/digitizer/)
 
 # Παραδοτέο 6: Γραμμή εντολών (no systemd, custom static blog generator)
 <p> Στο συγκεριμένο παραδοτέο δημιούργησα ένα απλό blog με 3 posts στα MX Linux με την χρήση της pandoc. Παραθέτω παρακάτω screenshot απο την διαδικασία.</p>
@@ -63,11 +64,14 @@
 
 - [sla-1.md](https://github.com/xristinasp/site/blob/master/_case-study/sla-1.md)
 - [cs-sla-1.md](https://github.com/xristinasp/site/blob/master/_includes/cs-sla-1.md)
-- [My site]()
+- [My site](https://xristinasp.netlify.app/case-study/sla-1/)
 
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
 <p> Στο συγκεκριμένο παραδοτέο κληθήκαμε να προσθέσουμε μια βιογραφία στο περιεχόμενο της ιστοσελίδας του βιβλίου. Παρακάτω παρατίθεται η βιογραφία του Charles Hull.</p>
 
 - [charles-hull.md](https://github.com/xristinasp/site/blob/master/_biography/charles-hull.md)
 - [bio-hull.md](https://github.com/xristinasp/site/blob/master/_includes/bio-hull.md)
-- [My site]()
+- [My site](https://xristinasp.netlify.app/biography/charles-hull/)
+
+# Παραδοτέο 10: Τελική αναφορά
+<p>Μέσα απο τα παραδοτέα και τη συνεχή αναζήτηση στο διαδίκτυο για την σωστή εκπόνησή τους και την επίλυση προβλημάτων, κατανόησα πλήρως το περιεχόμενο του μαθήματος. Έμαθα για τις διαφορές συστημάτων με και χωρίς systemd, να χειρίζομαι το terminal των Linux για πολλές και διαφορετικές λειτουργίες (blog generator, pandoc, git clone, κλπ) καθώς πληροφορίες για την διάδραδη ανθρώπου υπολογιστή μέσω του συμμετοχικού περιεχόμενου.</p>
