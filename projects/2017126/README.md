@@ -106,3 +106,8 @@ Blog: https://nikosbout.github.io/
 [Σχόλιο](https://github.com/courses-ionio/sw/pull/1733#issuecomment-1546691339)
 
 [Σχόλιο](https://github.com/courses-ionio/sw/pull/1698#issuecomment-1546691890)
+
+## Edpuzzle video quiz
+
+First name : p17bout@ionio
+Last name : 2017126
