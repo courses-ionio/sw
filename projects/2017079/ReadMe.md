@@ -27,6 +27,7 @@
 ##Παραδοτέο 2ο - Άσκηση Γραμμής Εντολών(systemd) <br>
 Επέλεξα να εγκαταστήσω τη διανομή [Arch Linux](https://archlinux.org/) (με systemd) σε εικονική μηχανή VMWare με την οποία είχα εξοικειωθεί και από αρκετά άλλα μαθήματα. Κατά την εγκατάσταση αντιμετώπισα κάποια προβλήματα αφού κατά την 1η μου προσπάθεια παρουσίασε exception "pacstrap failed" και την 2η δεν δεχόταν το username και password που είχα ορίσει !!! Την 3η φορά (αρκετά πιο minimalist) κατάφερα να έχω το arch linux, να συνδεθώ με το username και password που όρισα και να εγκαταστήσω το [neofetch](https://archlinux.org/packages/extra/any/neofetch/) και [asciinema](https://asciinema.org) (απαραίτητα για την παρουσίαση αποτελεσμάτων στα παραδοτέα). <br>
 
-[![asciicast](https://asciinema.org/a/586113.svg)](https://asciinema.org/a/586113)<br>
+[![asciicast](https://asciinema.org/a/586113.svg)](https://asciinema.org/a/586113)
 
 Έπειτα εγκατέστησα τον [Window Manager i3](https://wiki.archlinux.org/title/i3) για να εμφανιζονται ειδοποιήσεις από το [ntfy](https://github.com/dschep/ntfy) το οποίο ρύθμισα στο bashrc ως shell integration. Οι ειδοποιήσεις αυτές (αναδυόμενα παράθυρα) εμφανίζονται  όταν ολοκληρώνονται χρονοβόρες διαδικασίες (διάρκειας πάνω από 10 sec). Χρειάστηκε να εγκαταστήσω το πακέτο [notification-daemon](https://wiki.archlinux.org/title/Desktop_notifications) και να δημιουργήσω ένα D-BUS service. Ακολουθώντας τις οδηγίες που βρήκα [στη διεύθυνση](https://wiki.archlinux.org/title/Desktop_notifications#Notification_servers) κατάφερα αυτό που φαίνεται στην παρακάτω εικόνα:
+<p align="center"><img src="https://drive.google.com/uc?id=1RSjSnuxU-7euNxAOqfEs3mqCDrJ6OTth"></p>
