@@ -26,9 +26,7 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
  
  ## 2o ΠΑΡΑΔΟΤΕΟ: Γραμμή εντολών (systemd)
 Σε αυτό το σκέλος της εργασίας καλούμαστε να ολοκληρώσουμε μια άσκηση γραμμής εντολών. Πιο συγκεκριμένα επέλεξα να χρησιμοποιήσω την εφαρμογή του telegram και μέσω του ntfy να στέλνω ειδοποιήσεις στο κινητό μου σχετικά με τον καιρό της πόλης μου. Αρχικά έκανα install το ntfy  στο σύστημα linux, στην συνέχεια κατέβασα στο κινητό μου την εφαρμογή του telegram. Μέσω telegram δημιούργησα ένα bot και χρησιμοποίησα το token που μου έδωσε ώστε να εξασφαλίσω την εποικινωνία. Στην συνέχεια βρήκα έναν κώδικα σε python [ Εδώ ](polis.py) σχετικά με την διεργασία που ήθελα εγώ να εκτελεί. Στην συνέχεια θα παρουσιάσω δύο scrennshots τα οποία σχετίζονται με τις ειδοποιήσεις που έρχονται στο κινητό αλλά και μία μικρή συνομιλία με το bot του τύπου "hi"
-<p><img src="TempNotification.JPEG" width="150"/>
-<img src="BotChat.JPEG" width="150"/>
-</p>
+
 
 - [asciinema neofetch](https://asciinema.org/a/o4XS6TphLhfJjSjCEi3hnc77g)
 
@@ -52,7 +50,6 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 - [ΑΡΧΕΙΟ_LUA](https://github.com/p18stef/kallipos/blob/master/arduinomemory.lua)
 - [BOOK.TEX](https://github.com/p18stef/kallipos/blob/master/book/book.tex)
 
-![BOOK_SCREEN](https://user-images.githubusercontent.com/115227021/225736296-bbf4b048-08ea-48f8-98ed-d70ea7e238c1.jpg)
 
 ## 5ο ΠΑΡΑΔΟΤΕΟ: Συμμετοχικό περιεχόμενο Α1+Α2
 
