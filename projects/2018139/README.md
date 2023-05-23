@@ -32,6 +32,10 @@ Organization: [AwayFromKeyboardd](https://github.com/AwayFromKeyboardd)
 
 - [asciinema telegram](https://asciinema.org/a/TPSk9GpfopDdQi5kPnKySd7dO)
 
+- [BotChat](https://github.com/p18stef/images/blob/master/BotChat.jpg)
+
+- [TempNotif](https://github.com/p18stef/images/blob/master/TempNotification.jpg)
+
 Σε αυτά τα δύο links βλέπουμε την εκτέλεση μιας απλής εντολής τύπου warm up και μία γραμμής εντολών τύπου systemd με την λειτουργία του python script.
 
 ## 3o ΠΑΡΑΔΟΤΕΟ: Γραμμή εντολών (no systemd)
