@@ -31,3 +31,15 @@
 
 Έπειτα εγκατέστησα τον [Window Manager i3](https://wiki.archlinux.org/title/i3) για να εμφανιζονται ειδοποιήσεις από το [ntfy](https://github.com/dschep/ntfy) το οποίο ρύθμισα στο bashrc ως shell integration. Οι ειδοποιήσεις αυτές (αναδυόμενα παράθυρα) εμφανίζονται  όταν ολοκληρώνονται χρονοβόρες διαδικασίες (διάρκειας πάνω από 10 sec). Χρειάστηκε να εγκαταστήσω το πακέτο [notification-daemon](https://wiki.archlinux.org/title/Desktop_notifications) και να δημιουργήσω ένα D-BUS service. Ακολουθώντας τις οδηγίες που βρήκα [στη διεύθυνση](https://wiki.archlinux.org/title/Desktop_notifications#Notification_servers) κατάφερα αυτό που φαίνεται στην παρακάτω εικόνα:
 <p align="center"><img src="https://drive.google.com/uc?id=1RSjSnuxU-7euNxAOqfEs3mqCDrJ6OTth"></p>
+
+##Παραδοτέο 3ο - Άσκηση Γραμμής Εντολών (systemd free) <br>
+Επειδή στις οδηγίες αναφερόταν το Kiss linux, αποφάσισα να εγκαταστήσω αυτό. Χρειάστηκα τρεις μέρες αναζήτησης, δοκιμών, compile, reboots αλλά τελεικά κατάφερα να έχω μια διανομή του [Kiss Linux](https://kisslinux.org/) σε VMWare, κυρίως από τις οδηγίες που βρήκα από ένα [video στο youtube](https://www.youtube.com/watch?v=QCjjFqC-Ve8) (εύχομαι να το είχα βρει από την πρώτη στιγμή)... Τα προβλήματα που αντιμετώπισα αφορούσαν τα εξής:
+* Νομίζω πως αρχικά μπέρδεψα τα 32bit με τα 64bit - η διανομή με την οποία ξεκίνησα το κατέβασμα και το compile ήταν 64bit. Μάλλον έκανα compile το grub σε 32bit !! Δεν ξεκινούσε όταν έκανα boot
+* Προσπάθησα να τα κάνω όλα 32bit αλλά δεν δούλεψε !!
+* Ρύθμισα το kernel και τα flags του compile σε 86-64, άλλαξα το optimization από 2 σε s και ξαναφτιαξα το kernel... Τότε εμφανίστηκε "GRUB Loading" και τέλος
+* Στην επόμενη δοκιμή εμφανίστηκαν περισσότερα διαγνωστικά μηνύματα, αλλά μου έβγαζε kernel panic !!!
+* Αφού βρήκα το προαναφερόμενο video στο youtube και ακολουθώντας τις οδηγίες ρύθμισης των modules που έπρεπε να υπάρχουν στο kernel για το δικό μου hardware, κατάφερα να ξεκινήσει το Kiss Linux σε 1 ΔΕΥΤΕΡΟΛΕΠΤΟ !! Η χαρά μου ήταν απερίγραπτη...
+
+[![asciicast](https://asciinema.org/a/586867.svg)](https://asciinema.org/a/586867)
+
+Ρύθμισα το prompt ώστε να εμφανίζεται ο ΑΜ μου και το current path.
