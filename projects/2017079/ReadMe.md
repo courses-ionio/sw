@@ -31,7 +31,9 @@
 
 Έπειτα εγκατέστησα τον [Window Manager i3](https://wiki.archlinux.org/title/i3) για να εμφανιζονται ειδοποιήσεις από το [ntfy](https://github.com/dschep/ntfy) το οποίο ρύθμισα στο bashrc ως shell integration. Οι ειδοποιήσεις αυτές (αναδυόμενα παράθυρα) εμφανίζονται  όταν ολοκληρώνονται χρονοβόρες διαδικασίες (διάρκειας πάνω από 10 sec). Χρειάστηκε να εγκαταστήσω το πακέτο [notification-daemon](https://wiki.archlinux.org/title/Desktop_notifications) και να δημιουργήσω ένα D-BUS service. Ακολουθώντας τις οδηγίες που βρήκα [στη διεύθυνση](https://wiki.archlinux.org/title/Desktop_notifications#Notification_servers) κατάφερα αυτό που φαίνεται στην παρακάτω εικόνα:
 <p align="center"><img src="https://drive.google.com/uc?id=1RSjSnuxU-7euNxAOqfEs3mqCDrJ6OTth"></p>
+
 - - - -
+
 ##**Παραδοτέο 3ο** - Άσκηση Γραμμής Εντολών (systemd free) <br>
 Επειδή στις οδηγίες αναφερόταν το Kiss linux, αποφάσισα να εγκαταστήσω αυτό. Χρειάστηκα τρεις μέρες αναζήτησης, δοκιμών, compile, reboots αλλά τελεικά κατάφερα να έχω μια διανομή του [Kiss Linux](https://kisslinux.org/) σε VMWare, κυρίως από τις οδηγίες που βρήκα από ένα [video στο youtube](https://www.youtube.com/watch?v=QCjjFqC-Ve8) (εύχομαι να το είχα βρει από την πρώτη στιγμή)... Τα προβλήματα που αντιμετώπισα αφορούσαν τα εξής: <br>
 - Νομίζω πως αρχικά μπέρδεψα τα 32bit με τα 64bit - η διανομή με την οποία ξεκίνησα το κατέβασμα και το compile ήταν 64bit. Μάλλον έκανα compile το grub σε 32bit !! Δεν ξεκινούσε όταν έκανα boot <br>
