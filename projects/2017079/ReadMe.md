@@ -43,7 +43,7 @@
 
 [![asciicast](https://asciinema.org/a/586867.svg)](https://asciinema.org/a/586867)
 
-- Έκανα clone το Community repo και εγκατέστησα τα: **vim**, **sshd** (για να μπορώ να συνδέομαι με putty), **asciinema**, **neofetch** (η κάθε εγκατάσταση γίνεται με την εντολή
+- Έκανα clone το [Community repo](https://github.com/kiss-community/community) και εγκατέστησα τα: **vim**, **sshd** (για να μπορώ να συνδέομαι με putty), **asciinema**, **neofetch** (η κάθε εγκατάσταση γίνεται με την εντολή)
 > kiss -b πρόγραμμα
 - Ρύθμισα το prompt ώστε να εμφανίζεται ο ΑΜ μου και το current path.
 
