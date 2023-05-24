@@ -46,3 +46,5 @@
 [![asciicast](https://asciinema.org/a/586867.svg)](https://asciinema.org/a/586867)
 
 Ρύθμισα το prompt ώστε να εμφανίζεται ο ΑΜ μου και το current path.
+
+[![asciicast](https://asciinema.org/a/586923.svg)](https://asciinema.org/a/586923)
