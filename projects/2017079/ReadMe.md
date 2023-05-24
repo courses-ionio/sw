@@ -40,11 +40,13 @@
 - Προσπάθησα να τα κάνω όλα 32bit αλλά δεν δούλεψε !! <br>
 - Ρύθμισα το kernel και τα flags του compile σε 86-64, άλλαξα το optimization από 2 σε s και ξαναφτιαξα το kernel... Τότε εμφανίστηκε "GRUB Loading" και τέλος <br>
 - Στην επόμενη δοκιμή εμφανίστηκαν περισσότερα διαγνωστικά μηνύματα, αλλά μου έβγαζε kernel panic !!! <br>
-- Αφού βρήκα το προαναφερόμενο video στο youtube και ακολουθώντας τις οδηγίες ρύθμισης των modules που έπρεπε να υπάρχουν στο kernel για το δικό μου hardware, κατάφερα να ξεκινήσει το Kiss Linux σε **1 ΔΕΥΤΕΡΟΛΕΠΤΟ** !! Η χαρά μου ήταν απερίγραπτη... <br>
+- Αφού βρήκα το προαναφερόμενο video στο youtube και ακολουθώντας τις οδηγίες ρύθμισης των modules που έπρεπε να υπάρχουν στο kernel για το δικό μου hardware (όπως επίσης και άλλες κρίσιμες εγκαταστάσεις που δεν ανέφεραν οι οδηγίες π.χ. εγκατάσταση python), κατάφερα να ξεκινήσει το Kiss Linux σε **1 ΔΕΥΤΕΡΟΛΕΠΤΟ** !! Η χαρά μου ήταν απερίγραπτη... <br>
 <p align="center"><img src="https://drive.google.com/uc?id=1bAcHkkzdKRYeuCek7_211kvmnu-m4BQr"></p>
 
 [![asciicast](https://asciinema.org/a/586867.svg)](https://asciinema.org/a/586867)
 
-Ρύθμισα το prompt ώστε να εμφανίζεται ο ΑΜ μου και το current path.
+- Έκανα clone το Community repo και εγκατέστησα τα: **vim**, **sshd** (για να μπορώ να συνδέομαι με putty), **asciinema**, **neofetch** (η κάθε εγκατάσταση γίνεται με την εντολή
+> kiss -b πρόγραμμα
+- Ρύθμισα το prompt ώστε να εμφανίζεται ο ΑΜ μου και το current path.
 
 [![asciicast](https://asciinema.org/a/586923.svg)](https://asciinema.org/a/586923)
