@@ -151,4 +151,8 @@ Link to content image: https://drive.google.com/drive/folders/1K10DSL46_Uz7PoUsv
 <a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/5">Συνάντηση ομάδας: 8η Εβδομάδα</a> <br />
 <a href="https://github.com/lapis-lazuli-ore-block/discussions/discussions/6">Συνάντηση ομάδας: 9η & 10η Εβδομάδα</a> <br />
 <a href="https://github.com/lapis-lazuli-ore-block/Main/tree/P2018084">Repository στον οργανισμό της ομάδας</a>
+ 
+ ## Προφορική παρουσίαση προόδου
+Η τελική παρουσίαση με τον Κ. Βραχάτη ολοκληρώθηκε. Πραγματοποιήθηκε με τον Κ. Βραχάτη συγκεκριμένα, αφού αντιμετώπισα οικονομικούς περιορισμούς που εμπόδισαν τη φυσική μου παρουσία στην Κέρκυρα τις ήμέρες εξέτασης, όπως προανέφερα σε παλιό QnA. Η μόνη ανατροφοδότηση του καθηγητή αφορούσε την απουσία συζήτησης για την εργασία 8, την οποία δυστυχώς δεν μπόρεσα να ολοκληρώσω εντός του δεδομένου χρονικού πλαισίου. <br />
+ [Συζήτηση](https://github.com/courses-ionio/sw/discussions/1761)
 
