@@ -104,4 +104,12 @@
 
 [Github Pages](https://p2019sarakatsanis.github.io/kallipos/)
 
+## Συμμετοχικό περιεχόμενο B2
+
+![paradoteo-9-1](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/5143e0f2-ebed-482a-b737-b3f164e7b404) ![paradoteo-9-2](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/66ef880c-464b-4995-895a-57221ddfe3f4)
+
+![paradoteo-9-3](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/51dfec70-887a-4acc-a2b0-e8821a3353be) ![paradoteo-9-out](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/c69c0127-80ec-4854-bc18-076c90f54593)
+
+
+
  
