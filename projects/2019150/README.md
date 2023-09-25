@@ -77,6 +77,7 @@
     
  <img src="https://user-images.githubusercontent.com/72516045/229491757-94935194-afec-4f92-9ecf-f92532983b1c.png"/> <img src="https://user-images.githubusercontent.com/72516045/229492002-014f4bd4-ba25-47de-a819-3bcf70154cdf.png" width="800"/> 
 
+<br><br>
 ## Γραμμή εντολών (no systemd, custom static blog generator)
 
 Το 6ο παραδοτέο αφορούσε την δημιουργία ενός blog με την χρήση κάποιου static blog generator. Εγώ χρησιμοποιήσα το bashblog που αποτελεί ένα script σε bash το οποίο σου επιτρέπει να δημιουργήσεις το δικό σου blog τρέχωντας απλά το πρόγραμμα αφού βέβαια έχεις κάνει export τον editor που θα χρησιμοποιήσεις. Μπορείς να παραμετροποιήσεις το αρχείο bb.sh για να αλλάξεις τα στοιχεία του blog όπως το όνομα του blog, το email του owner του blog, settings για τα analytics κτλ Αφού διαλέξεις να κάνεις ένα post δημιουργούνται τα αρχεία που απαρτίζουν το blog όπως το index.html, main.css κτλ.
@@ -87,6 +88,7 @@
 
 [Github Pages](https://github.com/P2019SARAKATSANIS/myblog)
 
+<br><br>
 <h2><span id="συμμετοχικό περιεχόμενο B1">(7) συμμετοχικό περιεχόμενο B1</span></h2>
 
 Για το έβδομο παραδοτέο έπρεπε να προσθέσουμε μια μελέτη περίπτωσης που θα σχετίζονταν με τις προσθήκες μας του Α μέρους στο βιβλίο του καθηγητή. Αρχικά έλεγξα τις ήδη υπάρχον μελέτες περίπτωσης στο [βιβλίο](https://pibook.epidro.me/) (δεν κατάφερα να ελέγξω τι έκανε η ομάδα μου διότι η επικοινωνία και συνεργασία κόπηκε καθώς οι περισσότεροι αποφάσησαν αν μην συνεχίσουν με το μάθημα και αναγκάστηκα να συνεχίσω μόνος μου γιατί δεν βρήκα άλλη ομάδα). Στην συνέχεια αποφάσισα να προσθέσω την μελέτη περίπτωσης για το OpenAI API το οποίο είναι ένα εργαλείο βασισμένο στο chat gpt το οποίο μας προσθέτει τις εφαρμογές της τεχνητής νοημοσύνης σε διάφορες βασικές εφαρμογές ενός λογισμικού όπως το terminal και το excel. 
@@ -95,12 +97,26 @@
 
 Από τη μία πλευρά, αυτή η επιλογή μπορεί να επιτρέψει σε πολλούς να μην ανησυχούν για την απόκτηση εξειδικευμένων γνώσεων σχετικά με τη χρήση του υπολογιστή, αλλά από την άλλη πλευρά, πρέπει να θυμόμαστε ότι το OpenAI API απλά μας βοηθάει. Είναι ένα εργαλείο που μας δίνει τη δυνατότητα να μάθουμε περισσότερα για τη λειτουργία των συστημάτων που χρησιμοποιούμε και να βελτιώσουμε τις ικανότητές μας, ενώ παράλληλα διατηρούμε πάντα τη δυνατότητα να εκτελούμε τις εργασίες μας μόνοι μας.
 
-    
+[Το site μου](https://p2019sarakatsanis-paradotreo-7.netlify.app)
+(Η πρόσθεση του site στο netlify έγινε με τον ίδιο τρόπο που έγινε και στο παραδοτέο 5. Δηλαδή χρησιμοποιίοντας τις εντολες: `git clone`, `git rm` ,`git submodule add`, `git add .`, `git commit -m "comment"`, `git push` και `git pull`)
+
+<br><br>    
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72516045/232026339-1a90090c-25d5-43f3-83b5-acba1f28e845.png" width="450"/> <img src="https://user-images.githubusercontent.com/72516045/232026299-cae58683-2d83-4767-8b73-d558c3b8d87a.png" width="450"/>  <img src="https://user-images.githubusercontent.com/72516045/232026274-879d906f-758c-43cb-a24c-7776417f4d05.png" width="250"/>  
 </p>
 
+<br><br>
+**Προσθέσεις Αρχείων**
 
+Αρχικά, μέσα στον φάκελο [`_biography`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_biography) του `site` δημιούργησα ένα αρχείο με όνομα [`nick-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_biography/nick-cammarata.md)
+
+Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_includes/bio-cammarata.md)
+
+Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-9) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-9/bio-cammarata.md).
+
+Για αυτό το παραδοτέο χρειάστηκε να προστεθούν επίσης, εικονες. Οι εικόνες που πρόσθεσα στον φάκελο [`images`](https://github.com/P2019SARAKATSANIS/images/tree/paradoteo-9), ονομάζονται [`nick-cammarata.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata.png) και [`nick-cammarata-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata-thumb.png) αντίστοιχα (αυτή η εικόνα χρησιμοποιήθηκε ως εξώφυλλο και αρχή της βιογραφίας) και [`uploadrobots.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots.png) με την thumb εικόνα [`uploadrobots-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots-thumb.png)
+
+<br><br>
 **Τα προβλήματα που αντιμετώπισα** 
 
 Κάποια από τα αρχεία στο fork μου ήταν αλοιωμμένα και μέχρι να κατανολήσω το τι σμβαίνει και να λύσω το πρόβλημα μου πήρε αρκετή ώρα. Αυτό ίσως να συνέβει (χωρίς να θέλω να κατηγορίσω κάποιον) γιατί έκανα fork το site, το extras, και το images από το fork της ομάδας μου που κάποοι από τους συμφοιτητές της μου έκαναν μία προσπάθεια για αυτό το παραδοτέο, όπως και για το Β2 στις αρχές των μαθημάτων και οι προσπάθειες αυτές οδήγησαν σε αλλοίωση των αρχείων που μετά εγω έκανα fork χωρίς να γνωρίζω. Οι αλλοιώσεις των αρχείων δεν ήταν απλά προσθέσεις αρχείων αλλά και διαγραφή σημαντικών αρχείων για την λειτουργεία της ιστοσελίδας. Έτσι για να γίνουν τα παραδοτέα Β1 αλλά και Β2 ήταν απαραίτητο να εντοπίσω το πρόβληα, να βρω τι λείπει και να το διορθώσω ώστε να καταφέρω να εμφανίσω τις προσθέσεις μου στο netlify. 
@@ -114,11 +130,24 @@
 
 [Github Pages](https://p2019sarakatsanis.github.io/kallipos/)
 
+<br><br>
 ## Συμμετοχικό περιεχόμενο B2
 
 Για το ένατο παραδοτέο έπρεπε να προσθέσουμε μια βιογραφία που θα σχετίζονταν με τις προσθήκες μας του Α μέρους και την μελέτη περίπτωσης Β2 στο βιβλίο του καθηγητή. Αφού λοιπόν έλεγξα τις ήδη υπάρχον βιογραφίες στο [βιβλίο](https://pibook.epidro.me/) και τα (δεν κατάφερα να ελέγξω τι έκανε η ομάδα μου διότι η επικοινωνία και συνεργασία κόπηκε καθώς οι περισσότεροι αποφάσησαν αν μην συνεχίσουν με το μάθημα και αναγκάστηκα να συνεχίσω μόνος μου γιατί δεν βρήκα άλλη ομάδα). Στην συνέχεια αποφάσισα να προσθέσω την βιογραφία του Nickl Cammarata ο οποίος συνδέεται άμεσα με την OpenAI βοήθησε κατά την ανάτυξη των βάσεων του chat gpt από το οποίο βασίστηκε το OpenAI API. Η επιλογή αυτής της βιογραφίας, έγινε γιατί αναφερόμαστε σε έναν άνθρωπο που έχει βοηθήσει στην δημιουργεία εργαλείων που θα αλλοιώσουν τον τρόπο δομής και εμπειρίας των λειτουργικών συστημάτων και γενικότερα του λογισμικού στο μέλλον.
-<br>
-  
+
+[Το site μου](https://p2019sarakatsanis-paradotreo-9.netlify.app)
+(Η πρόσθεση του site στο netlify έγινε με τον ίδιο τρόπο που έγινε και στο παραδοτέο 5. Δηλαδή χρησιμοποιίοντας τις εντολες: `git clone`, `git rm` ,`git submodule add`, `git add .`, `git commit -m "comment"`, `git push` και `git pull`)
+
+<br><br>
+**Εδώ βλέπουμε τα αποτελέσματα του ένατου παραδοτέου**
+
+![paradoteo-9-1](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/5143e0f2-ebed-482a-b737-b3f164e7b404) ![paradoteo-9-2](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/66ef880c-464b-4995-895a-57221ddfe3f4)
+
+![paradoteo-9-3](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/51dfec70-887a-4acc-a2b0-e8821a3353be) ![paradoteo-9-out](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/c69c0127-80ec-4854-bc18-076c90f54593)
+
+<br><br>
+**Προσθέσεις Αρχείων**
+
 Αρχικά, μέσα στον φάκελο [`_biography`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_biography) του `site` δημιούργησα ένα αρχείο με όνομα [`nick-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_biography/nick-cammarata.md)
 
 Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_includes/bio-cammarata.md)
@@ -126,12 +155,6 @@
 Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-9) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-9/bio-cammarata.md).
 
 Για αυτό το παραδοτέο χρειάστηκε να προστεθούν επίσης, εικονες. Οι εικόνες που πρόσθεσα στον φάκελο [`images`](https://github.com/P2019SARAKATSANIS/images/tree/paradoteo-9), ονομάζονται [`nick-cammarata.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata.png) και [`nick-cammarata-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata-thumb.png) αντίστοιχα (αυτή η εικόνα χρησιμοποιήθηκε ως εξώφυλλο και αρχή της βιογραφίας) και [`uploadrobots.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots.png) με την thumb εικόνα [`uploadrobots-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots-thumb.png)
-
-Εδώ βλέπουμε τα αποτελέσματα του ένατου παραδοτέου 
-
-![paradoteo-9-1](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/5143e0f2-ebed-482a-b737-b3f164e7b404) ![paradoteo-9-2](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/66ef880c-464b-4995-895a-57221ddfe3f4)
-
-![paradoteo-9-3](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/51dfec70-887a-4acc-a2b0-e8821a3353be) ![paradoteo-9-out](https://github.com/P2019SARAKATSANIS/sw/assets/72516045/c69c0127-80ec-4854-bc18-076c90f54593)
 
 
 
