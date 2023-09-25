@@ -7,7 +7,7 @@
   
 | Εβδομάδα | [Παραδοτέα](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | ---- | ---- | ---- | ---- |
-| 1 | <a href="#Εισαγωγή και προσδοκίες από το μάθημα"><span class="toctext">Εισαγωγή και προσδοκίες από το μάθημα</span></a> |[Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1206) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md , έκανα την εισαγωγή μου και την πρόσθεσα στα discussions και έγινα μέλος της ομάδας.  |
+| 1 | Εισαγωγή και προσδοκίες από το μάθημα |[Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1206) | Αυτή την εβδομάδα έκανα το εβδομαδιαίο βίντεο, fork το sw, δημιούργησα την αναφορά μου sw/project/2019150/read.md , έκανα την εισαγωγή μου και την πρόσθεσα στα discussions και έγινα μέλος της ομάδας.  |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας μου | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1352) | Αυτή την εβδομάδα έκανα το 2ο παραδοτέο χρησιμοποιόντας λειτουργικό σύστημα Arch Linux 2023.03. 01 x86_64. |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1352) |  |
 | 4 | Κατασκευή Βιβλίου Α2 | [Link στο Discussions](https://github.com/courses-ionio/sw/discussions/1590) | Για την τέταρτη εβδομάδα, έκανα κατασκευή του βιβλιού σε μορφή pdf χρησιμοποιόντας το χρησιμοποιώντας το make-latex.sh σε συνδιασμό με το φίλτρο contribution.lua. |
