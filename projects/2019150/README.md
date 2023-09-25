@@ -115,9 +115,9 @@
 <br><br>
 **Προσθέσεις Αρχείων**
 
-Αρχικά, μέσα στον φάκελο [`_case_study`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_case-study/) του `site` δημιούργησα ένα αρχείο με όνομα [`openaiapi.md.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_case-study/openaiapi.md/)
+Αρχικά, μέσα στον φάκελο [`_case_study`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_case-study/) του [`site`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7) δημιούργησα ένα αρχείο με όνομα [`openaiapi.md.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_case-study/openaiapi.md/)
 
-Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`cs-openaiapi.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_includes/cs-openaiapi.md)
+Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_includes) του [`site`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7) δημιούργησα ένα αρχείο με όνομα [`cs-openaiapi.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_includes/cs-openaiapi.md)
 
 Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-7) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_includes) ένα αρχείο με όνομα [`cs-openaiapi.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-7/cs-openaiapi.md).
 
@@ -156,9 +156,9 @@
 <br><br>
 **Προσθέσεις Αρχείων**
 
-Αρχικά, μέσα στον φάκελο [`_biography`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_biography) του `site` δημιούργησα ένα αρχείο με όνομα [`nick-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_biography/nick-cammarata.md)
+Αρχικά, μέσα στον φάκελο [`_biography`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_biography) του [`site`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9) δημιούργησα ένα αρχείο με όνομα [`nick-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_biography/nick-cammarata.md)
 
-Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_includes/bio-cammarata.md)
+Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) του [`site`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9) δημιούργησα ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_includes/bio-cammarata.md)
 
 Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-9) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-9/bio-cammarata.md).
 
