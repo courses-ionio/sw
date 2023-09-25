@@ -115,13 +115,13 @@
 <br><br>
 **Προσθέσεις Αρχείων**
 
-Αρχικά, μέσα στον φάκελο [`_biography`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_biography) του `site` δημιούργησα ένα αρχείο με όνομα [`nick-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_biography/nick-cammarata.md)
+Αρχικά, μέσα στον φάκελο [`_case_study`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_case-study/) του `site` δημιούργησα ένα αρχείο με όνομα [`openaiapi.md.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_case-study/openaiapi.md/)
 
-Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-9/_includes/bio-cammarata.md)
+Στην συνέχεια στον φάκελο [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_includes) του `site` δημιούργησα ένα αρχείο με όνομα [`cs-openaiapi.md`](https://github.com/P2019SARAKATSANIS/site/blob/paradoteo-7/_includes/cs-openaiapi.md)
 
-Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-9) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-9/_includes) ένα αρχείο με όνομα [`bio-cammarata.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-9/bio-cammarata.md).
+Τέλος, δημιούργησα στο [`extras`](https://github.com/P2019SARAKATSANIS/extras/tree/paradoteo-7) του φακέλου [`includes`](https://github.com/P2019SARAKATSANIS/site/tree/paradoteo-7/_includes) ένα αρχείο με όνομα [`cs-openaiapi.md`](https://github.com/P2019SARAKATSANIS/extras/blob/paradoteo-7/cs-openaiapi.md).
 
-Για αυτό το παραδοτέο χρειάστηκε να προστεθούν επίσης, εικονες. Οι εικόνες που πρόσθεσα στον φάκελο [`images`](https://github.com/P2019SARAKATSANIS/images/tree/paradoteo-9), ονομάζονται [`nick-cammarata.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata.png) και [`nick-cammarata-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/nick-cammarata-thumb.png) αντίστοιχα (αυτή η εικόνα χρησιμοποιήθηκε ως εξώφυλλο και αρχή της βιογραφίας) και [`uploadrobots.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots.png) με την thumb εικόνα [`uploadrobots-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-9/uploadrobots-thumb.png)
+Για αυτό το παραδοτέο χρειάστηκε να προστεθούν επίσης, εικονες. Οι εικόνες που πρόσθεσα στον φάκελο [`images`](https://github.com/P2019SARAKATSANIS/images/tree/paradoteo-7), ονομάζονται [`openai-api.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/openai-api.png) και [`openai-api-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/openai-api-thumb.png) αντίστοιχα (αυτή η εικόνα χρησιμοποιήθηκε ως εξώφυλλο και αρχή της βιογραφίας), [`termatikoapi.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/termatikoapi.png) με την thumb εικόνα [`termatikoapi-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/termatikoapi-thumb.png) και τέλος, [`termatikoparadeigma2.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/termatikoparadeigma2.png) με την thumb εικόνα [`termatikoparadeigma2-thumb.png`](https://github.com/P2019SARAKATSANIS/images/blob/paradoteo-7/termatikoparadeigma2-thumb.png)
 
 <br><br>
 **Τα προβλήματα που αντιμετώπισα** 
