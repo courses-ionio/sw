@@ -1,8 +1,8 @@
 
 # <h1 align="center">:computer: Τεχνολογία Λογισμικού :desktop_computer:</h1> 
-<h3> Α.Μ.: Π2019150
+ Α.Μ.: Π2019150
 <br> Ονωματεπόνυμο: Χαράλαμπος Σαρακατσάνης<br>
-<h3>
+
   
 | Εβδομάδα | [Παραδοτέα](https://courses-ionio.github.io/help/deliverables/) | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | ---- | ---- | ---- | ---- |
