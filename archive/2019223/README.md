@@ -1,176 +1,116 @@
 # Τεχνολογία Λογισμικού
-### Πετρούλα Στυλιανού 
-### ΑΜ: Π2019223
-#### [Github profile](https://github.com/PetroulaStylianou)
+### Πετρούλα Στυλιανού Π2019223
+#### [Github profile](https://github.com/PetroulaStylianou) 
+#### [Η ομάδα μου](https://github.com/IonianUniversity2019)
 
 
 | Εβδομάδα | Παραδοτέα| [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"></span> <span class="toctext">Εισαγωγή</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/96" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία εισαγωγής και αναφοράς των στόχων μου.|
-| 2 | <li><a href="#Βιογραφικό"></span> <span class="toctext">Βιογραφικό</span></a> | <i><a href="https://github.com/courses-ionio/help/discussions/217" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου και επιτυχής δημιουργία βιογραφικού με templete που μας είχαν δοθεί και προσθήκη των στοιχείων μου. Δημιουργία ομάδας IonianUniversity2019.|
-| 3 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a>  | | Δημιουργία issue σύμφωνα με τις οδηγίες του συγκεκριμένου παραδοτέου, εκτέλεση των αλλαγών μετά από το green light. Δεν ολοκληρώθηκε.|
-| 4 | <li><a href="#Άσκηση γραμμής εντολών 1"></span> <span class="toctext">Άσκηση γραμμής εντολών 1</span></a>| <i><a href="https://github.com/courses-ionio/help/discussions/366" title="Discussions">Discussions</a></i> | Εγκατάσταση λογισμικού Void Linux (χωρίς systemd) και εκτέλεση της άσκησης, χρήση asciinema. |
-| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1+A2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | Ανάρτηση δύο εικόνων και προσθήκη στο images_ και _gallery_. Δεν ολοκληρώθηκε.|
-| 6 |  <li><a href="#Άσκηση γραμμής εντολών 2"></span> <span class="toctext">Άσκηση γραμμής εντολών 2</span></a>| | Εκτέλεση άσκησης γραμμής εντολών και χρήση του asciinema.|
-| 7 | βιογραφικό | | |
-| 8 | <li><a href="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span> <span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | Δεν υλοποιήθηκε το παραδοτέο.|
-| 9 | <li><a href="#Άσκηση γραμμής εντολών 3"></span> <span class="toctext">Άσκηση γραμμής εντολών 3</span></a> | |Εκτέλεση άσκησης γραμμής εντολών και χρήση του asciinema. |
-| 10 | <li><a href="#Συμμετοχικό περιεχόμενο B1+B2"></span> <span class="toctext">Συμμετοχικό περιεχόμενο B1+B2</span></a> | | Δημιουργία μίας βιογραφίας για τους δημιουργούς του λογισμικού MSC από το 5ο παραδοτέο. Δεν έγινε προσθήκη στο netlify.|
-| 11 | Άσκηση γραμμής εντολών | | |
-| 12 | <li><a href="#Τελική αναφορά*"></span> <span class="toctext">Τελική αναφορά*</span></a> | | Μία μικρή αναφορά και ανάλυση από το συνολικό αποτέλεσμα της εργασίας μου. |
-| # | <li><a href="#Βίντεο Quiz"></span> <span class="toctext">Βίντεο Quiz</span></a> | | Ολοκλήρωση και των 12 βίντεο quiz. |
+| 1 | Εισαγωγή| <i><a href="https://github.com/courses-ionio/sw/discussions/1170" title="Discussions">Discussions</a></i> | Εμπρόθεσμη παράδοση παραδοτέου με επιτυχή δημιουργία ομάδας, εισαγωγής και αναφοράς των στόχων μου.|
+| 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας| <i><a href="https://github.com/courses-ionio/sw/discussions/1243" title="Discussions">Discussions</a></i> | Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Kali Linux και του Asciinema για ολοκλήρωση της άσκησης.|
+| 3 | Γραμμή εντολών (no systemd) |  <i><a href="https://github.com/courses-ionio/sw/discussions/1329" title="Discussions">Discussions</a></i>|Εμπρόθεσμη ολοκλήρωση παραδοτέου. Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά)|<i><a href="https://github.com/courses-ionio/sw/discussions/1373" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο. |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 |<i><a href="https://github.com/courses-ionio/sw/discussions/1400" title="Discussions">Discussions</a></i> |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο. |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator)| <i><a href="https://github.com/courses-ionio/sw/discussions/1523">Discussions</a></i> |Δεν ολοκληρώθηκε.|
+| 7 | Συμμετοχικό περιεχόμενο B1| <i><a href="https://github.com/courses-ionio/sw/discussions/1524">Discussions</a></i>  |Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο.  | 
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | Δεν ολοκληρώθηκε.|
+| 9 | Συμμετοχικό περιεχόμενο B2| <i><a href="https://github.com/courses-ionio/sw/discussions/1531">Discussions</a></i>|Εμπρόθεσμη παράδοση παραδοτέου. Έγιναν οι απαραίτητες αλλαγές αλλά δεν κατάφερα να τα περάσω στο βιβλίο.|
+| 10 | Τελική αναφορά*|  <i><a href="https://github.com/courses-ionio/sw/discussions/1654">Discussions</a></i>||
+| 11 | Βίντεο Κουίζ| ||
 
 
+# Εισαγωγή 
 
-# Εισαγωγή
+Μέσω του μαθήματος Τεχνολογία Λογισμικού αναδεικνύονται τα ζητήματα σχεδιασμού, διαχείρισης ελέγχου και διοίκησης λογισμικού που προκύπτουν κατά την ανάπτυξη έργων λογισμικού.  Ο στόχος μου είναι η εξέλιξη μου μέσα από τις εβδομαδιαίες εργασίες και τα video quiz που θα βοηθήσουν να βελτιωθώ και να αποκτήσω γνώσεις πάνω σε εργαλεία που ίσως χρειαστούν στο μέλλον. Ταυτόχρονα, το κομμάτι της ομαδικότητας θα βοηθήσει σε μελλοντικές συνεργασίες που μπορεί να προκύψουν σε κάποια δουλειά. Ελπίζω, στο τέλος του εξαμήνου και με την ολοκλήρωση του μαθήματος να έχω εκπληρώσει τους στόχους μου.
 
-Μέσο του μαθήματος Τεχνολογία Λογισμικού αναδεικνύονται τα ζητήματα σχεδιασμού, διαχείρισης ελέγχου και διοίκησης λογισμικού που προκύπτουν κατά την ανάπτυξη έργων λογισμικού.  Ο στόχος μου είναι η εξέλιξη μου μέσα από τις εβδομαδιαίες εργασίες και τα video quiz που θα βοηθήσουν να βελτιωθώ και να αποκτήσω γνώσεις πάνω σε εργαλεία που ίσως χρειαστούν στο μέλλον. Ταυτόχρονα, το κομμάτι της ομαδικότητας θα βοηθήσει σε μελλοντικές συνεργασίες που μπορεί να προκύψουν σε κάποια δουλειά. Ελπίζω, στο τέλος του εξαμήνου και με την ολοκλήρωση του μαθήματος να έχω εκπληρώσει τους στόχους μου.
+# Άσκηση Γραμμής Εντολών 
 
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών. Η άσκηση που επέλεξα να κάνω είναι η άσκηση performance monitoring από τις ασκήσεις software. Σε αυτή την άσκηση έπρεπε να δούμε τις επιδόσεις της python που έχουμε στο λογισμικό και να της οπτικοποιήσουμε με χρώματα ή γραμμές για να φανεί η διαδικασία. 
+Η άσκηση πραγματοποιήθηκε σε λογισμικό kali linux.
 
-# Βιογραφικό
+Εγκατέστησα το hyperfine με την εντολή <kbd>xbps-install -S hyperfine</kbd>.
 
-Η διαδικασία που ακολούθησα για την δημιουργία του online βιογραφικού ήταν αρχικά να αφαιρέσω το ήδη υπάρχον gh-pages για να μπορέσω να φτιάξω το δικό μου. Στη συνέχεια έκανα κάποιες μικρές αλλάγες στα στοιχεία μου.
+- Για εκτέλεση αναφοράς χρησιμοποίησα την εντολή <kbd>hyperfine ‘sleep 0.3’</kbd>
 
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/mZMrqhgn/2022-05-20-7-05-54.png"height=500 width=600>
-<p/><br> 
+- Για αυτόματο καθορισμό αριθμού εκτελέσεων κάθε εντολής από προεπιλογή και εκτέλεση 10 εκτελέσεις συγκριτικής αξιολόγησης, χρησιμοποίησα την εντολή <kbd>hyperfine —runs 5 ’sleep 0.3’</kbd>
 
-[Βιογραφικό](https://petroulastylianou.github.io/online-cv/)
+- Για έλεγχο μεγέθους βήματος, χρησιμοποίησα την εντολή <kbd>hyperfine —parameter-scan delay 0.3 0.7 -D 0.2 ‘sleep {delay}’</kbd>
 
+[Asciinema](https://asciinema.org/a/561732)
 
-# Άσκηση γραμμής εντολών 1
-## Create a cli app for your favorite site
+# Άσκηση Γραμμής Εντολών 
 
-Για πρώτη άσκηση γραμμής εντολών επέλεξα την δημιουργία μίας εφαρμογής cli για τον αγαπημένο μου ιστότοπο. Αρχικά, εγκατέστησα το <kbd>pip</kbd> με την εντολή <kbd>$ pip install -U click</kbd> και στην συνέχεια δημιούργησα ένα αρχείο python με όνομα Hello.py. Τέλος, στο τερματικό κάλεσα με την εντολή <kbd>$ python hello.py --count=3</kbd> το αρχείο που είχα δημιουργήσει.
+Στο τρίτο παραδοτέο μας ζητήθηκε η εγκατάσταση ενός λογισμικού χωρίς systemd. Για το σκοπό αυτό επέλεξα την χρήση του void linux με το οποίο πραγματοποίησα την άσκηση γραμμής εντολών που εκτέλεσα και στο προηγούμενο παραδοτέο.
 
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/476425)
+[Asciinema](https://asciinema.org/a/561001)
 
-# Άσκηση γραμμής εντολών 2
+# Κατασκευή βιβλίου Α2
 
-### Check the weather
+Στο παραδοτέο αυτό αποφάσισα να ασχοληθώ με την προσθήκη μιας παραγράφου στο κεφάλαιο 8 του βιβλίου σας. Το κομμάτι παραγράφου που πρόσθεσα αφορά τον υπολογιστή Xerox Alto.
 
-Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών <kbd>wttr.in</kbd>.
+Σύνδεσμοι:
 
-
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/495558)
-
-
-# Άσκηση γραμμής εντολών 3
-
-### Set-up the main dependencies and demonstrate your base system
-
-Η τρίτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
-
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/MT4Kw6YL/2022-05-25-3-49-38.png"height=500 width=700>
-<p/><br> 
-
-* Σύνδεσμος για: [asciinema](https://asciinema.org/a/PLGAuw0fiVpoC6eXAyfTCyo1P)
-
-
-# Αίτημα ενσωμάτωσης στην ιστοσελίδα 1
-
-Στο αίτημα ενσωμάτωσης στην ιστοσελίδα άνοιξα, ένα issue στο οποίο αναφέρω ότι θα πραγματοποιήσω τις αλλαγές του καθηγητή στο μάθημα Αναγνώριση Προτύπων στο ΣΤ΄εξάμηνο. Η αλλαγές θα είναι η αντικατάσταση του προηγούμενου διδάσκοντα με τον καινούργιο και θα προστεθούν όλα τα απαραίτητα στοιχεία του.
-
-[Το issue μου](https://github.com/ioniodi/sitegr/issues/271)
-
-Οι αλλαγές που έγιναν:
-[Αλλαγή ονόματος,](https://github.com/PetroulaStylianou/all_collections/blob/master/_courses/pattern-recognition.md)
-[Προσθήκη στοιχείων καθηγητή](https://github.com/PetroulaStylianou/all_collections/blob/master/_people/vlamos.md) 
-
-
-# Αίτημα ενσωμάτωσης στην ιστοσελίδα 2
-
-Στο δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα άνοιξα, ένα issue στο οποίο αναφέρω ότι θα προσθέσω το μάθημα "Δίκτυα" στην καθηγήτρια Ελένη Χριστοπούλου. Η αλλαγές που πραγματοποιήθηκαν είναι η προσθήκη της καθηγήτριας Ελένης Χριστοπούλου στο μάθημα Δίκτυα.  
-
-
-[Το issue μου](https://github.com/ioniodi/sitegr/issues/406)
+- [media.md](https://github.com/PetroulaStylianou/kallipos/blob/master/P2019223/media.md)
+- [media.lua](https://github.com/PetroulaStylianou/kallipos/blob/master/media.lua)
+- [make-latex.sh](https://github.com/PetroulaStylianou/kallipos/blob/master/make-latex.sh)
+- [asciinema](https://asciinema.org/a/j48D7EjFyDWH2ndL43GFfHpVi)
 
 
 # Συμμετοχικό περιεχόμενο A1+A2
 
-Πρώτη εργασία για συμμετοχικό περιεχόμενο αποφάσισα να κάνω για δύο λογισμικά, το MSC και το Ansys.
+Πρώτη εργασία για συμμετοχικό περιεχόμενο Α1+Α2 αποφάσισα να κάνω για την γλώσσα προγραμματισμού Javascript και για το λογισμικό OpenBsd.
 
-## Λογισμικό (MSC)
-[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/MSC.png)
-[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/MSC-%20thumb%20.png)
+## Συμμετοχικό περιεχόμενο A1
+|gallery | images|
+| --- | --- | 
+|[JavaScript.md](https://github.com/PetroulaStylianou/_gallery/blob/master/JavaScript.md)|[JavaSxcript](https://github.com/PetroulaStylianou/images_/blob/master/JavaScript.png) / [JavaSxcript-thumb](https://github.com/PetroulaStylianou/images_/blob/master/JavaScript-%20thumb.png)
+|[OpenBsd.md](https://github.com/PetroulaStylianou/_gallery/blob/master/OpenBsb.md)|[OpenBsd](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd.png) / [OpenBsd-thumb](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd-%20thumb.png)
 
+## Συμμετοχικό περιεχόμενο A2
+|timeline| slides|
+| --- | --- | 
+|[Programming](https://github.com/PetroulaStylianou/site/blob/master/_timeline/programming.md)|[programming](https://github.com/PetroulaStylianou/site/blob/master/_slides/programming.md)
+|[Systems](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)|[archetypes](https://github.com/PetroulaStylianou/site/blob/master/_slides/archetypes.md)
 
-[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/MSC.md)
+# Συμμετοχικό περιεχόμενο Β1
 
-[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
+Σε αυτό το παραδοτέο μας ζητήθηκε μία νέα έρευνα με παρόμοια περίπτωση με τις θεματικές που διαλέξαμε στο 5ο παραδοτέο. Γι' αυτό, επέλεξα να ασχοληθώ με το λογισμικό OpenBsd και να ψάξω περισσότερες λεπτομέρειες.
 
-[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
+|_case-study| _includes|images|
+| --- | --- | --- |
+|[OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_case-study/OpenBsd.md)|[cs- OpenBsd](https://github.com/PetroulaStylianou/site/blob/master/_includes/cs-%20OpenBsd.md)| [OpenBsd](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd.png) / [OpenBsd-thumb](https://github.com/PetroulaStylianou/images_/blob/master/OpenBsd-%20thumb.png)|
 
+# Συμμετοχικό περιεχόμενο Β2
 
-## Λογισμικό (Anasys)
-[1η εικόνα,](https://github.com/PetroulaStylianou/images_/blob/master/Ansys.jpeg)
-[2η εικόνα](https://github.com/PetroulaStylianou/images_/blob/master/Ansys-%20thumb%20.jpeg)
+Στο συγκεκριμένο παραδοτέο εν συνεχεία του συμμετοχικού περιεχομένου Β1, ζητήθηκε η δημιουργία μιας βιογραφίας. Γιαυτό τον λόγο αποφάσισα να ασχοληθώ με την βιογραφία του δημιουργού του OpenBsd, theo de Raadt.
 
-[Πληροφορίες εικόνας](https://github.com/PetroulaStylianou/_gallery_/blob/master/Ansys.md)
+|_biography|images|
+| --- | --- |
+|[Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/Theo%20de%20Raadt.md)/[bio-Theo de Raadt.md](https://github.com/PetroulaStylianou/site/blob/master/_biography/bio-Theo%20de%20Raadt.md)| [Theo de Raadt](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt%20.jpeg) / [Theo de Raadt-thumb](https://github.com/PetroulaStylianou/images_/blob/master/Theo%20de%20Raadt-thumb.jpeg)|
 
-[Σετ Διαφανειών](https://github.com/PetroulaStylianou/site/blob/master/_slides/visualization.md)
+# Τελική αναφορά
 
-[Χρονολόγιο](https://github.com/PetroulaStylianou/site/blob/master/_timeline/systems.md)
+Φτάνοντας στο τέλος του εξαμήνου και ολοκληρώνοντας την αναφορά της εργασίας μου, θα ήθελα να αναφέρω τις γνώσεις και τις εμπειρίες που κέρδισα από το συγκεκριμένο μάθημα. Όπως είχα αναφέρει και στους στόχους μου, η τεχνολογία λογισμικού κατάφερε να με εξοπλίσει με τις κατάλληλες δεξιότητες πάνω στα λειτουργικά συστήματα. Ειδικότερα έκανα χρήση των συστημάτων Kali και Void Linux, συστήματα με και χωρίς systemd και αρκετά άγνωστα σε εμένα, με τα οποία πέτυχα να ολοκληρώσω τις ασκήσεις γραμμής εντολών που απαιτούνταν. Επιπλέον, μέσα από τα εβδομαδιαία κουίζ κατανόησα καλύτερα τον τρόπο με τον οποίο δουλεύουν τα λειτουργικά συστήματα και την επίδραση που έχουν στην καθημερινή και κοινωνική ζωή. Όσον αφορά την ομαδικότητα εν μέρει επιτεύχθηκε, καθώς υπήρχε επικοινωνία με τους συμφοιτητές μου μέσω των discussions, με τον σχολιασμό παραδοτέων.
 
+Η εξέταση μου πραγματοποιήθηκε από τον κ. Αριστείδη Βραχάτη ο οποίος μου επισήμαινε κάποιες αλλαγές που έπρεπε να γίνουν στην αναφορά, όπως είναι η βελτίωση της αυτοαξιολόγησης. Απαιτούνταν πιο λεπτομερής περιγραφή στο συγκεκριμένο κομμάτι. Επίσης, μου επισήμαινε ότι είναι σημαντικό να προστεθούν οι αλλαγές στο βιβλίο κάτι το οποίο τελικά δεν κατάφερα να υλοποιήσω. 
 
-# Συμμετοχικό περιεχόμενο B1+B2
+# Σχόλια σε αναφορές
+- [Σχόλιο 1](https://github.com/courses-ionio/sw/pull/1712#issuecomment-1556186584)
+- [Σχόλιο 2](https://github.com/courses-ionio/sw/pull/1662#issuecomment-1556188675)
 
-Στο δεύτερο συμμετοχικό περιεχόμενο Β1+Β2 μας ζητήθηκε ένα βιογραφικό και μια μελέτη περίπτωσης. Εγώ επέλεξα να ασχοληθώ με το λογισμικό MSC software σαν μελέτη περίπτωσης και με τους δημιουργούς αυτού του λογισμικού, Richard H. MacNeal, Robert Schwendler σαν βιογραφικό. Οι τροποποιήσεις έγιναν στο _case-study και _biography.
-
-[Μελέτη Περίπτωσης](https://github.com/PetroulaStylianou/site/blob/master/_case-study/MSC.md)
-
-[Βιογραφικό](https://github.com/PetroulaStylianou/site/blob/master/_biography/MSC.md)
-
-
-# Τελική αναφορά*
-
-### 1ο παραδοτέο: Εισαγωγή 
-
-Σε αυτό το παραδοτέο έγραψα τους στόχους που θα ήθελα να εκπληρώσω μέσα από το μάθημα Τεχνολογία Λογισμικού.
-
-### 2ο παραδοτέο: Βιογραφικό
-
-Στο 2ο παραδοτέο έφτιαξα το βιογραφικό μου μέσω της ιστοσελίδας Jekyll.
-
-### 3o παραδοτέο: Αίτημα ενσωμάτωσης στην ιστοσελίδα
-
-Στο συγκεκριμένο παραδοτέο παρατήρησα ότι ο καθηγητής στο μάθημα Αναγνώρισης προτύπων έπρεπε να αλλάξει. Έτσι άνοιξα ένα issue με βάση της οδηγίες και στην συνέχεια προσπάθησα να κάνω τις αλλαγές.
-
-### 4ο παραδοτέο: Άσκηση γραμμής εντολών
-
-Στο 4ο παραδοτέο διάλεξα μια γραμμή εντολών που ζητούσε την δημιουργία μίας εφαρμοφής cli για τον αγαπημένο μου ιστότοπο.
-
-### 5ο παραδοτέο: Συμμετοχικό περιεχόμενο A1+A2
-
-Σε αυτό το παραδοτέο έγινε εισαγωγή εικόνων από δύο λογισμικά στο pibook και ότι άλλο απαιτούταν για την ολοκλήρωση του.
-
-### 6ο παραδοτέο: Άσκηση γραμμής εντολών
-
-Η άσκηση αυτή είχε να κάνει με την ενημέρωση του καιρού.
-
-### 9ο παραδοτέο: Άσκηση γραμμής εντολών
-
-Στην τρίτη άσκηση γραμμής εντολών μου ζητήθηκε πρόσβαση στα αρχεία του υπολογιστή μου.
-
-### 10ο παραδοτέο: Συμμετοχικό περιεχόμενο B1+B2
-
-Έγινε εισαγωγή ενός βιογραφικού σχετικά με τους δημιουργούς των λογισμικών που είχα ασχοληθεί στο Συμμετοχικό περιεχόμενο Α1+Α2.
-
-
-### Βίντεο Quiz
-
-Έγινε ολοκλήρωση σχεδόν όλων των ερωτήσεων από τα Βίντεο Quiz.
-
-
-
-
-
-
-
-
+# Βίντεο Κουίζ
+|Βίντεο Κουίζ|Ολοκλήρωση|
+| --- | --- |
+|Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series|✔️|
+|Ted Nelson -- Computers for Cynics|✔️|
+|Alan Kay - Could Computing Be Simpler Than It Seems To Be?|✔️|
+|Bret Victor - The Future of Programming|✔️|
+|Alan Kay - Programming Languages & Programming (2013)|✔️|
+|Alan Kay Turing Lecture with dynamic content|✔️|
+|Alan Kay - Programming and Scaling|✔️|
+|Extracting Energy from the Turing Tarpit|✔️|
+|Back to the Future of Software Development 4/23/2003 (VPRI 785)|✔️|
+|VCF East 2019 -- Brian Kernighan interviews Ken Thompson|✔️|
 
 
 

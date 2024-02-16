@@ -1,184 +1,96 @@
-# Κωνσταντίνος Μεταξάς
-## AM: Π2015146
-###  επί πτυχίο
+# Τεχνολογία Λογισμικού 
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+
+Ονοματεπώνυμο: Κωνσταντίνος Μεταξάς
+
+Αριθμός Μητρώου: Π2015146
+
+GitHub Link: https://github.com/deadoralive1908
+
+Οργανισμός: 
+
+
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής], αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Link of discussion](https://github.com/courses-ionio/help/discussions/146) | 
-| 2 | [βιογραφικό και δημιουργία ομάδας](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#2ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/758) | | |
-| 3 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#3ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/783) | | |
-| 4 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#4ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/785) | https://github.com/courses-ionio/help/discussions/752 | |
-| 5 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#5ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/786) | | |
-| 6 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#6ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/787) | | |
-| 7 | [βιογραφικό](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#7ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/788) | | |
-| 8 | [Αίτημα ενσωμάτωσης στην ιστοσελίδα](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#8ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/789) | | |
-| 9 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#9ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/790) | | |
-| 10 | [συμμετοχικό περιεχόμενο B1+B2](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#10ο-παραδοτέο) |[Link of discussion](https://github.com/courses-ionio/help/discussions/791) | | |
-| 11 | [Άσκηση γραμμής εντολών](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#11ο-παραδοτέο) | [Link of discussion](https://github.com/courses-ionio/help/discussions/792) | | |
-| 12 | [Τελική αναφορά](https://github.com/deadoralive1908/sw/tree/2015146/projects/2015146#12ο-παραδοτέο)| [Link of discussion](https://github.com/courses-ionio/help/discussions/793) | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/sw/discussions/1553 | Έγραψα την εισαγωγή του μαθήματος με προσωπικούς στόχους που είχα θέση κατα την αρχή του εξαμήνου |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |https://github.com/courses-ionio/sw/discussions/1554 | Είχα ήδη εγκατεστημένα τα Arch Linux από προηγούμενο μάθημα επομένως πρόβαλα απλά ένα neofetch και έγραψα μερικά πράγματα σχετικά με το τι είναι το systemd |
+| 3 | Γραμμή εντολών (no systemd) |https://github.com/courses-ionio/sw/discussions/1555 | Η εγκατάσταση του Artix Linux ήταν μια εύκολη διαδικασία μιας και περιλαμβάνουν Graphical Installer |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1556 | Για την εγκατάσταση του βιβλίου χρησιμοποιήσα το make-latex.sh και πρόσθεσα σχόλιο σε κάτι που μου φαίνεται ενδιαφέρον δηλαδή στα αρχεία των υπολογιστών  |
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |https://github.com/courses-ionio/sw/discussions/1557 | Για το συμμετοχικό περιεχόμενο έκανα προσθήκες σχετικά με τα Arch Linux και την γλώσσα προγραμματισμού C#|
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |https://github.com/courses-ionio/sw/discussions/1558 | Χρησιμοποιώντας το bashblog κατασκεύασα ένα blog σχετικά με τα video games |
+| 7 | συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/sw/discussions/1559 | Για το συμμετοχικό περιεχόμενο Β1 παραδώθηκε μελέτη περίπτωσης σχετικά με την C# |
+| 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) |https://github.com/courses-ionio/sw/discussions/1560 | Η κατασκευή του βιβλίου έγινε χρησιμοποιώντας το makepollen.sh σε συνδιασμό με το figure-pollen.lua  |
+| 9 | συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/sw/discussions/1561 | Για το συμμετοχικό περιεχόμενο Β2 παραδώθηκε η βιογραφία του Anders Hejlsberg |
+| 10 | Τελική αναφορά* |https://github.com/courses-ionio/sw/discussions/1562 | Μετά το τέλος του μαθήματος έγινε η συγγραφή της τελικής αναφοράς σαν σύνοψη ό,τι έμαθα κατά την διάρκεια του μαθήματος |
 
-## 1ο παραδοτέο 
 
-Στόχος μου για το μάθημα Τεχνολογίες Λογισμικού είναι γνωρίσω καλύτερα το github σαν πλατφόρμα και σαν εργαλείο, να πειραματιστώ με αυτό και να μάθω τι έχει να μου προσφέρει αυτός ο τομέας της πληροφορικής όσο σαν γενικές γνώσεις αλλά και για τον επαγγελματικό τομέα.
-To git και το github είναι ευρέως διαδεδομένα συστήματα στο χώρο της πληροφορικής και συγκεκριμένα σε εταιρίες που απασχολούν προγραμματιστές και κίνουνται γύρω από το λογισμικό είτε εφαρμογές ιστοσελίδων. Έτσι μου φαίνονται δύο πολύ χρήσιμα εργαλεία και μου φάνηκε ενδιαφέρον το πως χρησιμοποιούνται και το πόσο πολύ μπορεί να διευκολύνουν την εργασία κάποιου που ασχολείται με κώδικα εφόσον τα γνωρίσει.
-Επίσης κάτι άλλο που μου προσέφερε το μάθημα είναι να δω το πως συνεργάζονται διάφορα άτομα σε μια ομάδα για την επίτευξη του τελικού στόχου της εργασίας όπως θα συνέβαινε και σε μια εταιρία λογισμικού/πληροφορικής.
-Όσον αφορά το κόμματι με τη γραμμή εντολών δεν μου είχε κεντρίσει πάρα πολύ το ενδιαφέρον, όμως μετέπειτα με τη τριβή και με τον πειραματισμό κατανοήσα κάποια πράγματα και φυσικά το πως μπορούν να βοηθήσουν κάποιον που ενασχολείται κυρίως με υπολογιστές. Υπάρχουν εντολές, ακόμα και scripts τα οποία εμπεριέχουν τις εντολές αυτές που μπορούν να αυτοματοποιήσουν κάποιες καθημερινές εργασίες ενός προγραμματιστή αλλά συντελεί και στην ταχύτερη επιτέλεση κάποιων εργασιών. Έτσι, χρησιμοποιώντας και εγώ με τη σειρά μου τις εντολές αυτές για τους σκοπούς αυτού του μαθήματος γνώρισα να επιτελώ κάποιες βασικές εργασίες αλλά και κάποιες από τις πτυχές των λειτουργικών συστημάτων Linux.
-Εν τέλει το κομμάτι της εργασίας με την γραμμή εντολών μου φάνηκε το πιο ενδιαφέρον και έπειτα και η συγγραφή και υλοποίηση του βιογραφικού, το οποίο θα μπορούσα να το χρησιμοποιήσω φυσικά και για την αρχή της επαγγελματικής μου πορείας ως μέσω για κάποιες συνεντεύξεις ή αίτηση μεταπτυχιακού για τη συνέχιση των σπουδών μου.
+# Εισαγωγή
+Από το μάθημα τεχνολογία λογισμικού αποσκοπώ να μάθω πως να οργανώνω το σύστημα μου στις προσωπικές μου ανάγκες ανάπτυξης λογισμικού, να μελετήσω λογισμικά, τον τρόπο οργάνωσης και διαχείρησης τους μέσα από σελίδες όπως το Github που σου προσφέρει αρκετή γνώση για τον τρόπο λειτουργίας των προγραμμάτων αφού σου παρέχει τον ίδιο τον κώδικα της υλοποιήσης των εφαρμογών. Τέλος μέσα από την εγκατάσταση και μελέτης διανομών Linux που open source και δωρεάν σε αφήνουν να παραμετροποιήσεις το σύστημα σου στο έπακτρο αναφορικά με τις ανάγκες σου.
 
+# Γραμμή Εντολών
+Για το δεύτερο παραδοτέο πρόβαλα τα χαρακτηριστικά του συστήματος μου, μέσω της εντολής neofetch. Το λειτουργικό σύστημα που χρησιμοποιήσα είναι τα Arch linux που έχω ήδη εγκατεστημένα σαν δεύτερο σύστημα κατά την διάρκεια των μαθημάτων του μαθήματος Επικοινωνία Ανθρώπου και Υπολογιστή. Επιπλέον εκτώς από την προβολή των χαρακτηριστικών του systemd συστήματος έκανα μελέτη πάνω στο τι είναι το systemd και ποιός ο στόχος του.
 
-## 2ο παραδοτέο 
+[![asciicast](https://asciinema.org/a/IInkQ3vuGTwPty3eLNXcMOocH.svg)](https://asciinema.org/a/IInkQ3vuGTwPty3eLNXcMOocH)
 
-Όσον αφορά το 2ο κομμάτι της εργασίας για τη συγγραφή του βιογραφικού προτίμησα να ανεβάσω το βιογραφικό χρησιμοποιώντας το gihub pages ως host, καθώς μου άρεσε η τριβή και η διεπαφή γενικότερα της ιστοσελίδας/εργαλείου του GitHub και θα ήθελα έτσι να δω και αυτό το κομμάτι.
-Οι αρχικές οδηγίες για την κατασκευή του βιογραφικού βρίσκονται σε link που αναγράφεται παρακάτω. Μετέπειτα ασχολήθηκα ώστε να προσθέσω και δικά μου features/υλοποιήσεις πάνω σε αυτό κυρίως για το αισθητικό κομμάτι. Οι αλλαγές αυτές πραγματοποιήθηκαν μέσω του αρχείου "_config.yml"
+Το systemd είναι μια σουίτα λογισμικού που παρέχει πίνακα από system components για τα λειτουργικά συστήματα Linux. Τα Arch linux ξεκινήσαν να χρησιμοποιούν το systemd το 2012. Πιο συγκεκριμένα ο πρωτεύον στόχος του systemd είναι να ενοποιήσει το service configuration και την συμπεριφορά του συστήματος. Ουσιαστικά θα μπορούσαμε να πούμε πως το systemd είναι ένα init το οποίο χρησιμοποιείται για να κάνει bootstrap το user space και να μανατζάρει τις διεργασίες του χρήστη (user processes).
 
-Τέλος, για την ενσωμάτωση του βιογραφικού μου στο webring της ομάδας έκανα pull request ανεβάζοντας το link του βιογραφικού ώστε να εμφανιστεί στο netlify που γίνεται host η ιστοσελίδα του οργανισμού/ομάδας μας. Ακόμα, συνείσφερα στην ομάδα κάνοντας κάποιες διορθώσεις και τροποποιήσεις για το τελικό αποτέλεσμα της εμφάνισης του webring. Πιο συγκεκριμένα έγινε τροποποίηση στο αρχείο _variables.scss όπου βρίσκονται οι βασικές ιδιότητες για την εμφάνιση της ιστοσελίδας. Τροποποιήθηκαν οι μετταβλητές για το χρώμα του σώματος/φόντου της σελίδας αλλά και το font-style και weight.
+# Γραμμή Εντολών (no systemd)
+Για το τρίτο παραδοτέο έκανα εγκατάσταση της διανομής Artix Linux σε Virtual Machine με σκοπό να μελετήσω τον τρόπο λειτουργίας ενός συστήματος το οποίο δεν διαθέτει systemd. Το συγκεκριμένο σύστημα χρησιμοποιεί το OpenRC μία εναλλακτική του systemd. Το κυρίως μέρος του OpenRC είναι υπεύθυνο για την διαχείρη των εξαρτήσεων (Dependencies) και του init script parsing. To OpenRC δουλεύει σκανάρωντας τα runlevels, χτίζοντας ένα dependency graph και τότε ξεκινάει τα απαραίτητα service scripts.
 
+[![asciicast](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf.svg)](https://asciinema.org/a/0fM98nZo4RHUJH7HRxZgHkaSf)
 
-Σύνδεσμοι:
+# Κατασκευή Βιβλίου σε μορφή PDF
+Για το τέταρτο παραδοτέο έκανα μετατροπές στο [make-latex.sh](https://github.com/deadoralive1908/kallipos/blob/master/make-latex.sh) και πρόσθεσα [σχόλιο(comment.md)](https://github.com/deadoralive1908/kallipos/blob/master/comment/comment.md) με τον δικό μου τρόπο μορφοποιήσης μέσω του [contribution.lua](https://github.com/deadoralive1908/kallipos/blob/master/contribution.lua)
+Το σχόλιο έγινε στο ch08.txt.
 
-Template που χρησιμοποιήθηκε ως βάση: https://github.com/deadoralive1908/konstantinos-cv-jekyll-theme
+![kallipos](https://user-images.githubusercontent.com/72549484/226208054-3c46ef9f-cdae-47b0-923c-ae6995cea5b3.png)
 
-Link από github repository βιογραφικού: https://github.com/deadoralive1908/cv
+[Παραπομπή](https://en.wikipedia.org/wiki/Computer_file)
 
-Τελικό link βιογραφικού στο github pages: https://deadoralive1908.github.io/konstantinos-cv-jekyll-theme/
+# Συμμετοχικό Περιεχόμενο Α1 + Α2
+Για το συμμετοχικό περιεχόμενο πρόσθεσα στην ιστοσελίδα την γλώσσα προγραμματισμού C# και το λειτουργικό σύστημα Arch Linux.
+| Netlify | files |
+|---|---|
+|[C#](https://stalwart-torte-ffe59a.netlify.app/gallery/csharp/) | [csharp.md](https://github.com/deadoralive1908/_gallery/blob/49e1d7b5054e77ed673feff10db88423aa0241bc/csharp.md) |
+|[Arch Linux](https://stalwart-torte-ffe59a.netlify.app/gallery/archlinux/) | [archlinux.md](https://github.com/deadoralive1908/_gallery/blob/49e1d7b5054e77ed673feff10db88423aa0241bc/archlinux.md) |
+|[Χρονολόγιο](https://stalwart-torte-ffe59a.netlify.app//timeline/programming/) | [programming.md](https://github.com/deadoralive1908/site/blob/master/_timeline/programming.md) |
+|[Διαφάνειες method](https://stalwart-torte-ffe59a.netlify.app//slides/method/) | [method.md](https://github.com/deadoralive1908/site/blob/master/_slides/method.md)|
+|[Χρονολόγιο systems](https://stalwart-torte-ffe59a.netlify.app//timeline/systems) [systems.md](https://github.com/deadoralive1908/site/blob/master/_timeline/systems.md) | [csharp.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/csharp.jpg) |
+| | [archlinux.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux.jpg) |
+| | [csharp-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/csharp-thumb.jpg) |
+| | [archlinux-thumb.jpg](https://github.com/deadoralive1908/images/blob/3e380ede41114a9f9a415c5056d595b742fa83c3/archlinux-thumb.jpg) |
 
-#### Το organization της ομάδας μας: https://github.com/StudentFossils
-#### Το webring της ομάδας μας: https://student-fossils.netlify.app/ 
-#### Το repository του webring της ομάδας μας: https://github.com/StudentFossils/webring
+# Custom Static Blog Generator
+Για αυτό το παραδοτέο χρησιμοποιήθηκε το bashblog προκειμένου να δημιουργηθεί ένα blog σχετικά με τα video games και ένα post σχετικά με το online videogame League of Legends. Το blog έγινε host στο Github Pages και μπορείτε να το δείτε [εδώ](https://deadoralive1908.github.io/myblog/).
 
+![lol blog](https://user-images.githubusercontent.com/72549484/230723672-0617666e-e2af-4ea4-8082-423cda0871b9.png)
 
-## 3ο παραδοτέο 
 
-Το 3ο παραδοτέο αφορά αίτημα ενσωμάτωσης στην επίσημη ιστοσελίδα του τμήματος του πανεπιστημίου ή/και στον οδηγό σπουδών του τμήματος. To issue το οποίο εργαστήκαμε ως ομάδα ήταν η προσθήκη της καθηγήτριας Άννα Σωτηροπούλου στο προσωπικό του τμήματος (συγκριμένα στην βαθμίδα ΕΔΙΠ).
 
-Για τον σκοπό αυτό έγινε fork το αποθετήριο sitegr αλλά και all_collections. Προστέθηκαν και ενημερώθηκαν αρχεία και στα 2 αποθετήρια και τέλος έγινε deploy το site μέσω netlify.
+[Myblog repository](https://github.com/deadoralive1908/myblog)
 
-Να αναφέρουμε πως παρόλο που δεν υπήρχε χρόνος για την αποδοχή του αιτήματος η ομάδα μου και γω προχωρήσαμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
+# Μελέτη Περίπτωσης
+Για αυτό το παραδοτέο υλοποιήθηκε μελέτη περίπτωσης σχετικά με την γλώσσα προγραμματισμού C#. Μπορείτε να δείτε την μελέτη περίπτωσης [εδώ](https://stalwart-torte-ffe59a.netlify.app//case-study/csharp/).
 
-Στο review του pull request παρατηρήθηκε ένα μικρό λάθος στη διαδρομή της εικόνας για το βιογραφικό της καθηγήτριας και έτσι επενέβησα με ένα σχόλιο ώστε να διορθωθεί, διαφορετικά θα φαινόταν η φωτογραφία broken.
+![cs csharp](https://user-images.githubusercontent.com/72549484/230723777-9fd8528a-147f-4c6d-a4ce-7fca2903d990.png)
 
-- Link Netlify: https://arse21-ionian-uni.netlify.app/people/asotir 
-- Link issue: https://github.com/ioniodi/sitegr/issues/410 
-- Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411
-- Pull request - Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68
+files: [cs-csharp.md](https://github.com/deadoralive1908/site/blob/master/_includes/cs-csharp.md), [csharp.md](https://github.com/deadoralive1908/site/blob/master/_case-study/csharp.md)
 
+# Κατασκευή Βιβλίου
+Σε αυτό το παραδοτέο μετατράπηκε το βιβλίο του μαθήματος σε μορφή pollen μέσω του [makepollen.sh](https://github.com/deadoralive1908/kallipos/blob/master/makepollen.sh) 
 
-## 4ο παραδοτέο 
+![Screenshot 2023-05-20 at 13 14 11](https://github.com/deadoralive1908/sw/assets/72549484/ae01779c-5b3d-494f-9bf3-457a9aa7fadd)
 
-Όσον αφορά το παρών παραδοτέο, στην επιλογή με το ποια λειτουργικά θα ασχοληθώ επέλεξα το funtoo και το kiss, τα οποία εν γενεί δεν περιλαμβάνουν systemd. Στην προσπάθεια να κατανοησώ πως λειτουργούν και ποια η χρησιμότητα τους - ξεκινώντας φυσικά με την εγκατάσταση τους - εκτέλεσα διάφορες εντολές οι οποίες βρίσκονται στον φάκελο με τα screenshots του Funtoo (https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/funtoo) και Κiss (https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/kiss). Η επιλογή αυτών των συστημάτων έγινε λόγω του ότι υπήρχε αρκετά σαφής τεκμηρίωση ως προς τα βήματα εγκατάστασης, αλλά και μέσω έρευνας κατανόησα το πόσο αγαπητά είναι το συγκεκριμένα σύστήματα στη Linux κοινότητα και το μέγεθος υποστήριξης που έχουν.
-Βέβαια το τελευταίο σημείο δεν διαψεύσθηκε και έπειτα την εμπειρία που είχα με την ενασχόληση με τα συγκεκριμένα λειτουργικά για τους σκοπούς του παρόντος παραδοτέου αφού η εγκατάσταση κινήθηκε πολύ ομαλά ακολουθώντας τα βήματα εγκατάστασης από την επίσημη ιστοσελίδα των δύο αυτών συστημάτων.
 
-- Funtoo Linux OS
+Μπορείτε να δείτε το βιβλίο [εδώ](https://deadoralive1908.github.io/kallipos/)
 
-Ξεκινώντας με το funtoo το οποίο είναι βασισμένο και μία μετεξέλιξη του αντίστοιχου συστήματος gentoo. Με αιχμαλώτισε ιδιαιτέρως η "wolfpack" φιλοσοφία που υπάρχει πίσω από την κοινότητα τους καθώς την μελετούσα. Είναι εμπνευσμένο και εξυπηρετεί αυτήν την φιλοσοφία καθώς εκφράζει το πόσο όμοια είναι η εμπειρία χρήσης ανάμεσα σε κάθε χρήστη αλλά και το πως πρέπει να εργαστεί η ομάδα ώστε να ενισχυθεί η εμπειρία χρήσης ανάμεσα σε όλα τα μέλη ώστε να είναι ευχάριστη αλλά και εύχρηστη. 
-Η εγκατάσταση του λειτουργικού επιλέχθηκε να γίνει σε VM χρησιμοποιώντας το Virtual Box.
+# Βιογραφία
+Σε αυτό το παραδοτέο πραγματοποιήθηκε έρευνα σχετικά με την βιογραφία του Anders Hejlsberg δημιουργού της C#, Turbo Pascal κτλ. Μπορείτε το δείτε [εδώ](https://stalwart-torte-ffe59a.netlify.app//biography/anders-hejlsberg/)
 
-- KISS Linux OS
+![Βιογραφία Anders Hejlsberg](https://user-images.githubusercontent.com/72549484/230724135-78dd3495-145e-4405-88c7-9079487cec89.png)
 
-Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο αναφέρω και παραπάνω - είναι το KISS το οποίο μου κέντρισε το ενδιαφέρον λόγω της απλότητας, συντηρισιμότητας αλλά και της ευχρηστίας που προσφέρει. Είναι ενα distribution το οποίο εγκαταστείς μια φορά στην αρχή και έπειτα συντηρείται και ενημερώνεται μέσω των updates.
+files: [anders-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_biography/anders-hejlsberg.md), [bio-hejlsberg.md](https://github.com/deadoralive1908/site/blob/master/_includes/bio-hejlsberg.md)
 
-Όσον αφορά το systemd και τα συστήματα τα οποία το συμπεριλαμβάνουν ή το χρησιμοποιούν υπάρχει διαμάχη για το αν θα έπρεπε να υπάρχει ή όχι και αν προσφέρει  κάποια χρησιμότητα ή προκαλεί περισσότερα θέματα/προβλήματα.
-Οι άνθρωποι που είναι εναντίον του systemd υποστηρίζουν πως είναι υπερβολικά περίπλοκο  και πως παραβιάζει κάποια από τις βασικές αρχές και φιλοσοφία των Unix συστημάτων. Σκοπός του είναι να ενοποιεί την ρύθμιση διαφόρων παραμέτρων συστήματος σε διαφορετικά Linux distributions και να υπάρχει όμοια συμπεριφορά ανάμεσα σε αυτά.
-Όσον αφορά το systemctrl είναι μια εντολή η οποία χρησιμοποιείται για την διαχειριση και τον έλεγχο του systemd συστήματος και διαχειριστή υπηρεσιών (service manager) ώστε να ελέγχεται η κατάσταση των διαφόρων υπηρεσιών στο υπάρχων σύστημα. Είναι ένας πίνακας ελέγχου για την αρχικοποίηση συστημάτος systemd ώστε να αρχικοποιεί στοιχεία αφότου ο πυρήνας (kernel) του Linux συστήματος έχει αρχικοποιηθεί.
-Το systemd έχει υιοθετηθεί πλέον από τα περισσότερα δημοφιλή Linux συστήματα υποστηριζόμενα από πολλούς προγραμματιστές και εταιρίες.
+# Τελική Αναφορά 
+Από το μάθημα τεχνολογία λογισμικού μέσω τόσο των ασκήσεων, βίντεο κουίζ αποκτήθηκαν γνώσεις σχετικά με τον τρόπο με τον οποίο οργανώνεται και συντηρείται το λογισμικό. Συγκεκριμένα από το github που αποτελεί το περιβάλλον του μαθήματος ήρθα σε επαφή με διάφορα λογισμικά και είδα έμπρακτα τον τρόπο συντήρησης και οργάνωσης του λογισμικού μέσω των commit που γίνονται σε διάφορα projects. Επιπρόσθετα μέσω των ασκήσεων ήρθα σε επαφή με διάφορα λειτουργικά συστήματα τύπου unix που αποτελούν την βάση πολλών συστημάτων κάνοντας με να κατανοήσω πλήρως τι είναι τα dependencies και πως το κάθε σύστημα τα διαχειρίζεται. 
 
-Το σύστημα init είναι η πρώτη διαδικασία μετά την έναρξη του πυρήνα Linux στη διαδικασία εκκίνησης για την προετοιμασία διαφόρων υπηρεσιών διαχείρισης συσκευών, καταγραφής και δικτύωσης. Γνωστοί και ως δαίμονες (daemons).
-Τεχνικά, το systemd έλυσε πολλά ζητήματα που έκαναν τις διανομές Linux πιο αξιόπιστες στη χρήση σε επιτραπέζιους υπολογιστές και μαζικές διαμορφώσεις διακομιστών.
-Έτσι, είναι ασφαλές να πούμε ότι πολλοί πιστεύουν ότι προορίζεται να γίνει η διαδικασία εκκίνησης αξιόπιστη και γρήγορη με την ικανότητα να αρχικοποιούνται τα πράγματα παράλληλα.
-Ωστόσο, υπάρχουν άλλοι χρήστες που απεχθάνονται την συμπερίληψή του στις σύγχρονες διανομές Linux. Ως εκ τούτου, απαιτούνται διανομές Linux χωρίς systemd.
-
-
-## 5ο παραδοτέο 
-
-Συμμετοχικό περιεχόμενο Α1 και Α2
-
-|  Περιγραφή  | Repository Link | Image Link | Netlify Link |
-| --- | --- | --- | --- |
-| Twiggy Mac | [twiggy_mac.md](https://github.com/deadoralive1908/_gallery/blob/master/twiggy_mac.md) | [Image](https://github.com/deadoralive1908/images/blob/5955a2048e4ec69e69cb5e69f5bd823c16dd5dbf/twiggy_mac_thumbnail.jpeg) | [Twiggy Mac](https://kmetax-pibook.netlify.app/gallery/twiggy_mac)
-| Sun Solaris 10 | [solaris.md](https://github.com/deadoralive1908/_gallery/blob/master/solaris.md) | [Image](https://github.com/deadoralive1908/images/blob/5955a2048e4ec69e69cb5e69f5bd823c16dd5dbf/solaris10_thumbnail.jpeg) | [Sun Solaris 10](https://kmetax-pibook.netlify.app/gallery/twiggy_mac) | |
-
-
-- Χρονολόγιο: https://kmetax-pibook.netlify.app/timeline
-- Διαφάνειες: https://kmetax-pibook.netlify.app/slides
-
-
-## 6ο παραδοτέο 
-
-Για του σκοπούς αυτού του παραδοτέου αναζήτησα ένα άλλο linux distribution ονομαζόμενο Linux Void όπου πραγματοποιήθηκε η εγκατάσταση με τη βοήθεια του γραφικού περιβάλλοντος και εκτέλεσα κάποιες εντολές που έχουν να κάνουν με την αρχικοποίηση συστήματος και για άσκηση χρησιμοποίησα την εντολή τον έλεγχο του καιρού "curl wttr.in".
-
-Link Asciinema (Weather Check): https://asciinema.org/a/24HOGIGbBHEfXjMGLYtRpENfe
-
-Φωτογραφικό υλικό από εγκαταστάσεις (Link αποθετηρίου/repository): 
-https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/linux-void
-
-
-## 7ο παραδοτέο 
-
-Στο συγκεκριμένο παραδοτέου πραγματοποιήθηκε η υλοποίηση του ζητούμενου που είναι η μετατροπή του online βιογραφικού μας μέσω του εργαλείου Latex.
-Αρχικά δημιουργήθηκε ο φάκελος "pdf" ώστε το αρχείο που θα εξάγει το εργαλείο να μπορεί να αποθηκευθεί εκεί.
-Έπειτα εκτελέσθηκε η εντολή "pandoc https://deadoralive1908.github.io/konstantinos-cv-jekyll-theme/ -o cv.tex -s" για την εξαγωγή του αρχείου .tex και τέλος έγινε η χρήση εντολής pdflatex για την μετατροπή στο τελικό pdf.
-
-Asciinema Link: https://asciinema.org/a/fBm7phrAVoLAeXQQfXgJI2uxh
-Τελικό CV έπειτα από την εξαγωγή μέσω LaTex: https://github.com/deadoralive1908/konstantinos-cv-jekyll-theme/commit/4d449b2c1c3aead01c254ae1e6f1666895a25cdb#diff-3fa3c101524910f6cd6936a6d00cb421460e16dc89cfe840ff24fc64a8126ffd
-
-
-## 8ο παραδοτέο 
-
-Για το ζητούμενο του παραδοτέου αυτού πραγματοποιήθηκε ένα δεύτερο αίτημα ενσωμάτωσης στην ιστοσελίδα του τμήματος του πανεπιστημίου μας. Έτσι ανοίχθηκε  ένα νέο issue το οποίο αφορά την προσθήκη μιας νέας ανακοίνωσης στο τμήμα ανακοινώσεων πανεπιστημίου. 
-
-Η προσθήκη που έγινε αφορά το open call για το ιόνιο animation festival (https://ionio.gr/gr/news/24635/). 
-
-Προστέθηκε νέο αρχείο στο φάκελο posts του αποθετηρίου "all_collections" όπως φαίνεται και στο αίτημα ενσωμάττωσης ένα από τα παρακάτω links (4).
-
-Αν και μπορεί η ομάδα μου να έφτασε στο βήμα για την αποδοχή του αιτήματος ενσωμάτωσης από κάποιον αξιολογητή, θεωρήσαμε όμως ορθό να προχωρήσουμε στην υλοποίηση έτσι ώστε να αναδείξουμε την συνεργατικότητα που υπήρχε για τους σκοπούς του παραδοτέου.
-
-
-- Link Netlify: https://arse21-ionian-uni.netlify.app/posts/2022/08/23/open_call_ioanian_festival/ (1)
-- Link issue: https://github.com/ioniodi/sitegr/issues/413 (2)
-- Pull request Link (Αποθετήριο sitegr): https://github.com/ioniodi/sitegr/pull/411 (3)
-- Pull request Link (Αποθετήριο all_collections): https://github.com/ioniodi/all_collections/pull/68 (4)
-
-
-
-## 9ο παραδοτέο 
-
-Σε αυτό το παραδοτέο έγινε χρήση και πειραματισμός της εντολής "time" με σκοπό benchmarking κάποιων php script αρχείων. Στον ειδικό φακέλο του αποθετηρίου που δημιούργησα τοποθέτησα τα scripts που χρησιμοποιήθηκαν για τα tests.
-Τα αποτελέσματα των ελέγχων benchmarking διαφαίνονται στο παρακάτω asciinema link.
-
-Άλλες εντολές που χρησιμοποιήθηκαν για την εγκατάσταση της php μέσω cli:
-
-- sudo apt install php
-- php file.php
-- sudo apt install apache2 libapache2-mod-php
-
-Αρχεία PHP: https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/php-benchmarking/php-files
-Asciinema Link: https://asciinema.org/connect/a15c1784-91c6-441f-901e-bf57bbaaaadb
-
-
-## 10ο παραδοτέο 
-
-Συμμετοχικό περιεχόμενο Β1 και Β2:
-
-|  Περιγραφή  | Repository Link | Image Link | Netlify Link |
-| --- | --- | --- | --- |
-| Apple | [apple.md](https://github.com/deadoralive1908/site/blob/master/_case-study/apple.md) | [Image](https://github.com/deadoralive1908/images/blob/master/apple.png) | [Apple](https://pibook.epidro.me/case-study/apple/)
-| Steve Jobs | [steve_jobs.md](https://github.com/deadoralive1908/site/blob/master/_biography/steve_jobs.md) | [Image](https://github.com/deadoralive1908/images/blob/master/steve_jobs.jpg) | [Steve Jobs](https://pibook.epidro.me/timeline/steve_jobs/) | |
-
-
-- Χρονολόγιο: https://kmetax-pibook.netlify.app/timeline
-- Διαφάνειες: https://kmetax-pibook.netlify.app/slides
-
-
-## 11ο παραδοτέο 
-
-Στο τελευταίο παραδοτέο που αφορά ασκήσεις με γραμμή εντολών επέλεξα να πειραματιστώ με το spreadsheet calculator.
-
-Εντολές που εκτελέσθηκαν:
-- sudo apt-get install sc
-- sc
-
-Βοηθητική εξωτερική πηγή: https://www.maketecheasier.com/linux-command-line-spreadsheets/
-
-## 12ο παραδοτέο 
-
-Ολοκληρώνοντας την εργασία θα ήθελα σε αυτό το κομμάτι να παραθέσω τους μελλοντικούς μου στόχους βάσει όλων αυτών των δεξιοτήτων και πληροφοριών που αποκόμισα. Μέσω του μαθήματος και των επιμέρους εργασιών κατανόησα τι με ενδιαφέρει περισσότερο ανάμεσα από όλα αυτά που εργάστηκα. Έτσι με αυτά τα εφόδιο μπορώ να πορευθώ ξεκινώντας μία νέα εργασία στο κλάδο της πληροφορικής και παράλληλα θα μπορούσα να συνεχίσω τις σπουδές μου με κάποια online σεμινάρια/εκπαιδεύσεις ή/και part-time μεταπτυχιακό έτσι ώστε να ενισχυθούν οι γνώσεις και οι δεξιότητες μου και να μπορέσω να τις χρησιμοποιήσω και στην εργασία μου.
