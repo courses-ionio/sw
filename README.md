@@ -38,6 +38,7 @@
 **Μέθοδος διδασκαλίας:** Συνεργασία, ασκήσεις, εργασία.
 
 * Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.4 Εργαλεία και Τεχνικές, κεφ8 τεχνολογία
+* [Βιβλίο μαθήματος](https://repository.kallipos.gr/handle/11419/10224?&locale=el)
 
 **Κριτήρια βαθμολογίας:**  20% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 20% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 30% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 10% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 20% [συμμετοχή στην τάξη](https://epidrome.github.io/teaching/classroom/) + 10% [προαιρετικό bonus](https://epidrome.github.io/teaching/bonus/)
 
