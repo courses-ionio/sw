@@ -44,17 +44,17 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 Τα δεδομένα της εφαρμογής βασίζονται πάνω σε όλες τις ερωτοαπαντήσεις του alan kay που βρίσκονται στο κεντρικό του [profile στο Quora](https://www.quora.com/profile/Alan-Kay-11). Η ανάκτηση τους χρείαστηκε να γίνει χειροκίνητα καθώς παρουσιάστηκαν αρκέτες δυσκολίες με διάφορα εργαλεία web scraping που δοκιμάστηκαν. Ωστόσο, παρότι τα προβλήματα αυτά, τα δεδομένα αποθηκεύτηκαν σε ένα csv αρχείο της μορφής:
 
 
-| id | questions | answers | 
+| | questions | answers | 
 |----------|----------|----------|
-|0| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde... |
-|1|Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
+|1| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde... |
+|2|Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
 |...|...|...|
-|689 | Who was specifically responsible for the inven... | Mr Rao has a good slant on this, in particular...|
-|690 | Why isn't Alan Kay's FoNC (Fundamentals of New... | I can't answer the question directly, but I ca...|
+|690 | Who was specifically responsible for the inven... | Mr Rao has a good slant on this, in particular...|
+|691 | Why isn't Alan Kay's FoNC (Fundamentals of New... | I can't answer the question directly, but I ca...|
 
 (691 rows × 2 columns)
 
-Όπου οποιοσδήποτε χρήστης στο github έχει πρόσβαση στο συγκεκριμένο αρχείο csv καθώς είναι ανεβασμένο σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.csv]().
+Όπου οποιοσδήποτε χρήστης στο github έχει πρόσβαση στο συγκεκριμένο αρχείο csv καθώς είναι ανεβασμένο σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.csv](https://github.com/nkanagno/alan-kay-chatbot/blob/main/data/quora_q%26a_alan_kay.csv).
 
 
 
