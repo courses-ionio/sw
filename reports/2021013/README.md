@@ -43,16 +43,18 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 ### Ανάκτηση και προεπεξεργασία δεδομένων
 Τα δεδομένα της εφαρμογής βασίζονται πάνω σε πολλές ερωτοαπαντήσεις του alan kay που βρίσκονται στο κεντρικό του [profile στο Quora](https://www.quora.com/profile/Alan-Kay-11). Η ανάκτηση τους χρείαστηκε να γίνει χειροκίνητα καθώς παρουσιάστηκαν αρκέτες δυσκολίες με διάφορα εργαλεία web scraping που δοκιμάστηκαν. Ωστόσο, παρότι τα προβλήματα αυτά τα δεδομένα αποθηκεύτηκαν σε ένα csv αρχείο της μορφής:
 
+(691 rows × 2 columns)
+| id | questions | answers | 
+|----------|----------|----------|
+|0| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde... |
+|1|Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
+|2| Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
 
-| questions | answers | 
-|----------|----------|
-| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde... |
-| Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
-| Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
-| What are your thoughts on a future where code ...	  | First, it’s worth noting that the “syntax reco...|
-|...|...|
-| Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
-| What are your thoughts on a future where code ...	  | First, it’s worth noting that the “syntax reco...|
+|...|...|...|
+|689| Who was specifically responsible for the inven...	  | Mr Rao has a good slant on this, in particular...|
+|690| Why isn't Alan Kay's FoNC (Fundamentals of New...	  | I can't answer the question directly, but I ca...|
+
+
 
 
 
