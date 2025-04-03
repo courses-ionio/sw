@@ -219,4 +219,25 @@ client = OpenAI(api_key=openai_key)
         answer = response.choices[0].message.content
         return answer
     ```
-
+### FastAPI 
+Προκειμένου να ακούει σε post requests έφτιαξα και ένα ξεχωριστό server API που τρέχει locally. Το API αυτό φτιάχτηκε μέσω της βιβλιοθήκης `FastAPI()`, όπου ο server τρέχει στο router `/ask/alan_kay` και λαμβάνει σε post request την ερώτηση του χρήστη. Αφου την δεχτεί μέσω του cors, κάνει retrieve τα πιο σχετικά chunks και τα δίνει μαζί με την ερώτηση στην συνάρτηση που θα κάνει generate την τελική απάντηση του Alan kay που στέλνεται πίσω ως response.
+```
+app = FastAPI()
+class QuestionRequest(BaseModel):
+    question: str
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins (or specify frontend URL)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all methods
+    allow_headers=["*"],  # Allow all headers
+)
+@app.post("/ask/alan_kay")
+async def ask_question(request: QuestionRequest):
+    chunks = retrieve_documents(request.question)
+    print(chunks)
+    response = generate_response(request.question, chunks)
+    return {"answer": response}
+```
+### Ανάπτυξη User Interface μέσω streamlit
