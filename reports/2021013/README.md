@@ -48,7 +48,6 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 |----------|----------|----------|
 |0| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde... |
 |1|Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
-|2| Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
 |...|...|...|
 |689 | Who was specifically responsible for the inven... | Mr Rao has a good slant on this, in particular...|
 |690 | Why isn't Alan Kay's FoNC (Fundamentals of New... | I can't answer the question directly, but I ca...|
