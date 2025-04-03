@@ -52,6 +52,7 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 |...|...|...|
 |689 | Who was specifically responsible for the inven... | Mr Rao has a good slant on this, in particular...|
 |690 | Why isn't Alan Kay's FoNC (Fundamentals of New... | I can't answer the question directly, but I ca...|
+
 (691 rows × 2 columns)
 
 
