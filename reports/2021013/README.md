@@ -74,7 +74,7 @@ Alan's kay Answer:  "I don’t feel I completely understand this question (or pe
 
 Παρομοίως με απο πάνω όλες οι χρήστες του github έχει πρόσβαση σε αυτό το αρχείο txt γιατί βρίσκεται σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.txt](https://github.com/nkanagno/alan-kay-chatbot/blob/main/data/alan_kay_knowledge/quora_q%26a_alan_kay.txt).
 
-### Δημιουργία Embeddings και vector database
+<h3 id="Vector_db"> Δημιουργία Embeddings και vector database</h3>
 Σε πρακτικό επίπεδο, όσον αφορά την δημιούργια των embeddings οι κύριες βιβλιοθήκες της python που χρησιμοποιήθηκαν είναι της openai και της chromadb. Η openai χρειάστηκε για την επαφή με τα μοντέλα τεχνιτής νοημοσύνης όπως το `gpt-3.5` για το text generation API και το `text-embedding-3-small` το οποίο φτιάχνει τα embeddings για την vector database. Η chromadb χρειάστηκε για την δημιουργία της vector database και την διαχείριση της embedding function της openai. Συγκεκριμένα, παρακάτω φαίνεται η αρχικοποίηση του api και της vector database:
 
 ```
@@ -155,4 +155,4 @@ client = OpenAI(api_key=openai_key)
 όλες οι παραπάνω συναρτήσεις βρίσκονται μέσα στο αρχείο [`process_data.ipynb`](https://github.com/nkanagno/alan-kay-chatbot/blob/main/process_data.ipynb). 
 
 ### Τεχνική RAG στην πράξη
-Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση η 
+Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db).
