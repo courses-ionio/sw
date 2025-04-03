@@ -155,4 +155,17 @@ client = OpenAI(api_key=openai_key)
 όλες οι παραπάνω συναρτήσεις βρίσκονται μέσα στο αρχείο [`process_data.ipynb`](https://github.com/nkanagno/alan-kay-chatbot/blob/main/process_data.ipynb). 
 
 ### Τεχνική RAG στην πράξη
-Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db).
+Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db). Έπειτα, το κάθε στάδιο χωρίστηκε σε μία ξεχωριστή συνάρτηση:
+- retrieve_documents: όπου με βάση την ερώτηση του χρήστη  
+  ```
+  def retrieve_documents(question, n_results=4):
+    # query_embedding = get_openai_embedding(question)
+    results = collection.query(query_texts=question, n_results=n_results)
+
+    relevant_chunks = [doc for sublist in results["documents"] for doc in sublist]
+
+    return relevant_chunks
+  ```
+
+
+
