@@ -58,6 +58,7 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 
 ### Προεπεξεργασία δεδομένων
 Λόγο το ότι η τεχνική RAG εφαρμόζεται πιο αποδοτικά σε αρχεία κειμένου χρειάστηκε να μεταφερθούν αυτές οι ερωτοαπαντήσεις σε ένα αρχείο txt. Η διαδικασία αυτή πραγματοποιήθηκε μέσω python με τον παρακάτω κώδικα:
+
 ```
 with open("./data/alan_kay_knowledge/quora_q&a_alan_kay.txt", "w") as f:
     for index,row in df.iterrows():
@@ -94,7 +95,8 @@ client = OpenAI(api_key=openai_key)
 
 Στο επόμενο στάδιο έγινε η ανάπτυξη 4ων συναρτήσεων:
 
- - Η πρώτη είναι η `load_documents_from_directory()` όπου λαμβάνει ως παράμετρο ένα directory path και διαβάζει τα ονόματα όλων των txt αρχείων που είναι μέσα. Τα αρχεία αυτά αποθηκεύονται και επιστρέφονται σε μία object list που ονομάζεται documents όπου για κάθε document (txt αρχείο) δημιουργείται ένα αντικείμενο που δέχεται το όνομα του αρχείου και το εσωτερικό του κείμενο. 
+ - Η πρώτη είναι η `load_documents_from_directory()` όπου λαμβάνει ως παράμετρο ένα directory path και διαβάζει τα ονόματα όλων των txt αρχείων που είναι μέσα. Τα αρχεία αυτά αποθηκεύονται και επιστρέφονται σε μία object list που ονομάζεται documents όπου για κάθε document (txt αρχείο) δημιουργείται ένα αντικείμενο που δέχεται το όνομα του αρχείου και το εσωτερικό του κείμενο.
+   
     ```
     def load_documents_from_directory(directory_path):
         # print("==== Loading documents from directory ====")
@@ -107,6 +109,7 @@ client = OpenAI(api_key=openai_key)
     ```
 
  - Η δεύτερη είναι η `split_text()`. Ως παραμέτρους εισόδου δέχεται μία μεταβλητή text, το μέγεθος των chunks στο οποίο θα γίνει ο διαχωρισμός, και το chunk_overlap το οποίο παίρνει και ένα μέρος από το προηγούμενο chunk. Ουσιαστικά χωρίζει το text ανά χίλιους χαρακτήρες προσθέτωντας επιπλέον και τους 20 προηγούμενους χαρακτήρες για να μην χαθεί κάποια σημαντική πληροφορία. Επιστρέφοντας τα chunks του στο τέλος.
+   
     ```
     def split_text(text,chunk_size=1000,chunk_overlap=20):
         chunks = []
@@ -119,6 +122,7 @@ client = OpenAI(api_key=openai_key)
     ```
 
 - H συνάρτηση `get_openai_embedding()` παίρνει ένα κείμενο και μέσω της embedding function της openai που ορίστηκε πιο πάνω το μετατρέπει σε ένα δίανυσμα αριθμητικό με την χρήση του μοντέλου `text-embedding-3-small`.
+  
     ```
       def get_openai_embedding(text):
         response = client.embeddings.create(input=text, model="text-embedding-3-small")
@@ -128,6 +132,7 @@ client = OpenAI(api_key=openai_key)
     ```
 
 - H τέταρτη συνάρτηση και η πιο σημαντική είναι η `split_text_and_generate_embeddings()`. Με λίγα λόγια φορτώνει όλα τα αρχεία txt που βρίσκονται στο path `./data/alan_kay_knowledge/`, σε αυτή την περίπτωση υπάρχει μόνο ένα το `quora_q&a_alan_kay.txt`. Στη συνέχεια, το διαχωρίζει σε chunks και τα τοποθετεί σε μία object λίστα για μετέπειτα χρήση. Μετά το κάθε chunk το μετατρέπει σε embedding και τέλος το εισάγει στην vector database.
+  
     ```
     def split_text_and_generate_embeddings():
         directory_path = "./data/alan_kay_knowledge/"
@@ -157,6 +162,7 @@ client = OpenAI(api_key=openai_key)
 ### Τεχνική RAG στην πράξη
 Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db). Έπειτα, το κάθε στάδιο χωρίστηκε σε μία ξεχωριστή συνάρτηση:
  - Η retrieve_documents δέχεται την ερώτηση του χρήστη και κάνει query στο vector db collection επιστρέφοντας πίσω τα 4 πιο σχετικά chunks με την ερώτηση.
+   
       ```
           def retrieve_documents(question, n_results=4):
             # query_embedding = get_openai_embedding(question)
@@ -167,6 +173,7 @@ client = OpenAI(api_key=openai_key)
             return relevant_chunks
       ```
  - Η augmented_prompt δέχεται την αρχική ερώτηση του χρήστη και τα πιο σχετικά chunks, τα μορφοποιεί έτσι ώστε να τα διαβάζει το ai (context) και τα ενώνει σε ένα prompt με ορισμένες οδηγίες.
+   
     ```
     def augmented_prompt(question, relevant_chunks):
         context = "\n\n".join(relevant_chunks)
@@ -189,6 +196,7 @@ client = OpenAI(api_key=openai_key)
 όσον αφορά το prompt προκειμένου να συμπεριφέρεται σαν τον Alan Kay του δίνονται οδηγίες ότι είναι ένας πρωτοπόρος και έμπειρος επιστήμονας στον τομέα της πληροφορικής όπου απαντάει ερωτήσεις από μία συνέντευξη που του κάνουν μετά από ένα ted talk. Τονίζεται να μιλάει με έναν ήρεμο και χαλαρό τόνο αλλά πάντα επαγγελματικό, απαντώντας με αυτοπεποίθηση την κάθε ερώτηση. Τέλος, του εξηγείται να μιλάει σαν άνθρωπός και όχι σαν ai για να φαίνονται πιο αληθινές οι απαντήσεις του.
 
  - Τέλος με την generate_response χρησιμοποιώντας τον client της openai που όρισα με το API, απόκτησα πρόσβαση στο μοντέλο τεχνητής νοημοσύνης `gpt-3.5-turbo`. Στη συνέχεια, ορίζοντας το augmented_prompt και την αρχική ερώτηση του χρήστη, γίνεται generate η τελική απάντηση και επιστρέφεται πίσω.
+   
     ```
     def generate_response(question, relevant_chunks):
     
