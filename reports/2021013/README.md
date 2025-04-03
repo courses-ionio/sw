@@ -21,7 +21,7 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA-13)
 
 
 
-## Retrieval Augmented Generation - RAG
+## Retrieval Augmented Generation (RAG)
 Η τεχνική `RAG` περιλαμβάνει 3 στάδια (`Retrieval` -> `Augmented` -> `Generation`).
 
 To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μία ερώτηση και λαμβάνει τα πιο σχετικά κομμάτια κειμένου που είναι αποθηκευμένα στην vector database. Μετά το `Augmented` όπου δίνονται αυτά τα κομμάτια ως context μαζί με την αρχική ερώτηση του χρήστη στο AI όπου έχει λάβει και ορισμένες οδηγίες. Τέλος είναι τo `Generation` όπου με βάση το context που του έχει δωθεί ως βαση γνώσης, το AI απαντάει πάνω στην αρχική ερώτηση του χρήστη κανόντας generate την τελική απάντηση.
