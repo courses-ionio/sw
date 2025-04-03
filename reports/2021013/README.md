@@ -44,9 +44,17 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 Τα δεδομένα της εφαρμογής βασίζονται πάνω σε πολλές ερωτοαπαντήσεις του alan kay που βρίσκονται στο κεντρικό του [profile στο Quora](https://www.quora.com/profile/Alan-Kay-11). Η ανάκτηση τους χρείαστηκε να γίνει χειροκίνητα καθώς παρουσιάστηκαν αρκέτες δυσκολίες με διάφορα εργαλεία web scraping που δοκιμάστηκαν. Ωστόσο, παρότι τα προβλήματα αυτά τα δεδομένα αποθηκεύτηκαν σε ένα csv αρχείο της μορφής:
 
 
-|||
----
-|||
+| questions | answers | 
+|----------|----------|
+| Computer scientist Edsger W. Dijkstra said tha...	  | I’ll start by saying that I don’t clearly unde...
+ |
+| Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U...
+|
+| Is programming learned inductively or deductiv...	   | "I don’t feel I completely understand this qu...
+   |
+| What are your thoughts on a future where code ...	  | First, it’s worth noting that the “syntax reco...
+  |
+
 
 
 
