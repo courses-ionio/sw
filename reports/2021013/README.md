@@ -64,4 +64,20 @@ with open("./data/alan_kay_knowledge/quora_q&a_alan_kay.txt", "w") as f:
         f.write(f"Interview's Question: { row['questions']}\n")
         f.write(f"Alan's kay Answer: {row['answers']}\n\n\n")
 ```
-όπου για κάθε γραμμή του πίνακα 
+όπου για κάθε γραμμή του πίνακα γράφετε σε ένα αρχείο κειμένου txt, σε αυτή την μορφή:
+
+```
+Interview's Question: Is programming learned inductively or deductively?
+Alan's kay Answer:  "I don’t feel I completely understand this question (or perhaps don't understand the intention ...”"
+```
+ώστε να μπορεί να αναγνωρίζει το AI την ερώτηση που τέθηκε και ύστερα την απάντηση που δώθηκε από τον alan kay.
+
+Παρομοίως με απο πάνω όλες οι χρήστες του github έχει πρόσβαση σε αυτό το αρχείο txt γιατί βρίσκεται σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.txt](https://github.com/nkanagno/alan-kay-chatbot/blob/main/data/alan_kay_knowledge/quora_q%26a_alan_kay.txt).
+
+
+
+### Δημιουργία Embeddings και vector database
+Σε πρακτικό επίπεδο, όσον αφορά την δημιούργια των embeddings έγινε χρήση των παρακάτω 
+
+
+
