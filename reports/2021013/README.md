@@ -95,65 +95,64 @@ client = OpenAI(api_key=openai_key)
 Στο επόμενο στάδιο έγινε η ανάπτυξη 4ων συναρτήσεων:
 
  - Η πρώτη είναι η `load_documents_from_directory()` όπου λαμβάνει ως παράμετρο ένα directory path και διαβάζει τα ονόματα όλων των txt αρχείων που είναι μέσα. Τα αρχεία αυτά αποθηκεύονται και επιστρέφονται σε μία object list που ονομάζεται documents όπου για κάθε document (txt αρχείο) δημιουργείται ένα αντικείμενο που δέχεται το όνομα του αρχείου και το εσωτερικό του κείμενο. 
-```
-def load_documents_from_directory(directory_path):
-    # print("==== Loading documents from directory ====")
-    documents = []
-    for filename in os.listdir(directory_path):
-        if filename.endswith(".txt"):
-            with open(os.path.join(directory_path,filename), "r", encoding="utf-8") as file:
-                documents.append({"id": filename, "text": file.read()})
-    return documents
-```
+    ```
+    def load_documents_from_directory(directory_path):
+        # print("==== Loading documents from directory ====")
+        documents = []
+        for filename in os.listdir(directory_path):
+            if filename.endswith(".txt"):
+                with open(os.path.join(directory_path,filename), "r", encoding="utf-8") as file:
+                    documents.append({"id": filename, "text": file.read()})
+        return documents
+    ```
 
  - Η δεύτερη είναι η `split_text()`. Ως παραμέτρους εισόδου δέχεται μία μεταβλητή text, το μέγεθος των chunks στο οποίο θα γίνει ο διαχωρισμός, και το chunk_overlap το οποίο παίρνει και ένα μέρος από το προηγούμενο chunk. Ουσιαστικά χωρίζει το text ανά χίλιους χαρακτήρες προσθέτωντας επιπλέον και τους 20 προηγούμενους χαρακτήρες για να μην χαθεί κάποια σημαντική πληροφορία. Επιστρέφοντας τα chunks του στο τέλος.
-```
-def split_text(text,chunk_size=1000,chunk_overlap=20):
-    chunks = []
-    start = 0
-    while start < len(text):
-        end = start + chunk_size
-        chunks.append(text[start:end])
-        start = end - chunk_overlap
-    return chunks
-```
+    ```
+    def split_text(text,chunk_size=1000,chunk_overlap=20):
+        chunks = []
+        start = 0
+        while start < len(text):
+            end = start + chunk_size
+            chunks.append(text[start:end])
+            start = end - chunk_overlap
+        return chunks
+    ```
  - Η δεύτερη είναι η `split_text()`. Ως παραμέτρους εισόδου δέχεται μία μεταβλητή text, το μέγεθος των chunks στο οποίο θα γίνει ο διαχωρισμός, και το chunk_overlap το οποίο παίρνει και ένα μέρος από το προηγούμενο chunk. Ουσιαστικά χωρίζει το text ανά χίλιους χαρακτήρες προσθέτωντας επιπλέον και τους 20 προηγούμενους χαρακτήρες για να μην χαθεί καμία σημαντική πληροφορία.
 
 - H συνάρτηση `get_openai_embedding()` παίρνει ένα κείμενο και μέσω της embedding function της openai που ορίστηκε πιο πάνω το μετατρέπει σε ένα δίανυσμα αριθμητικό με την χρήση του μοντέλου `text-embedding-3-small`.
-```
-  def get_openai_embedding(text):
-    response = client.embeddings.create(input=text, model="text-embedding-3-small")
-    embedding = response.data[0].embedding
-    print("==== Generating embeddings... ====")
-    return embedding
-```
+    ```
+      def get_openai_embedding(text):
+        response = client.embeddings.create(input=text, model="text-embedding-3-small")
+        embedding = response.data[0].embedding
+        print("==== Generating embeddings... ====")
+        return embedding
+    ```
 
 - H τέταρτη συνάρτηση και η πιο σημαντική είναι η `split_text_and_generate_embeddings()`. Με λίγα λόγια φορτώνει όλα τα αρχεία txt που βρίσκονται στο path `./data/alan_kay_knowledge/`, σε αυτή την περίπτωση υπάρχει μόνο ένα το `quora_q&a_alan_kay.txt`. Στη συνέχεια, το διαχωρίζει σε chunks και τα τοποθετεί σε μία object λίστα για μετέπειτα χρήση. Μετά το κάθε chunk το μετατρέπει σε embedding και τέλος το εισάγει στην vector database.
-- 
-```
-def split_text_and_generate_embeddings():
-    directory_path = "./data/alan_kay_knowledge/"
-    documents = load_documents_from_directory(directory_path)
-    print(f"loaded {len(documents)} files")
-
-    chunked_documents = []
-    for doc in documents:
-        chunks = split_text(doc['text'])
-        # print(f"== Splitting docs into chunks ==")
-        for i, chunk in enumerate(chunks):
-            chunked_documents.append({"id": f"{doc['id']}_chunk{i+1}", "text": chunk})
-            
-    print(len(chunked_documents))
-
-    for doc in chunked_documents:
-        print("==== Generating embeddings... ====")
-        doc["embedding"] = get_openai_embedding(doc["text"])
+    ```
+    def split_text_and_generate_embeddings():
+        directory_path = "./data/alan_kay_knowledge/"
+        documents = load_documents_from_directory(directory_path)
+        print(f"loaded {len(documents)} files")
     
-
-    for doc in chunked_documents:
-        print("==== inserting chunks into db;; ====")
-        collection.upsert(ids=[doc["id"]], documents=[doc["text"]],embeddings=[doc['embedding']])
-```
+        chunked_documents = []
+        for doc in documents:
+            chunks = split_text(doc['text'])
+            # print(f"== Splitting docs into chunks ==")
+            for i, chunk in enumerate(chunks):
+                chunked_documents.append({"id": f"{doc['id']}_chunk{i+1}", "text": chunk})
+                
+        print(len(chunked_documents))
+    
+        for doc in chunked_documents:
+            print("==== Generating embeddings... ====")
+            doc["embedding"] = get_openai_embedding(doc["text"])
+        
+    
+        for doc in chunked_documents:
+            print("==== inserting chunks into db;; ====")
+            collection.upsert(ids=[doc["id"]], documents=[doc["text"]],embeddings=[doc['embedding']])
+    ```
 όλες οι παραπάνω συναρτήσεις βρίσκονται μέσα στο αρχείο [`process_data.ipynb`](https://github.com/nkanagno/alan-kay-chatbot/blob/main/process_data.ipynb). 
 
 
