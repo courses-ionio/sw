@@ -156,16 +156,59 @@ client = OpenAI(api_key=openai_key)
 
 ### Τεχνική RAG στην πράξη
 Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db). Έπειτα, το κάθε στάδιο χωρίστηκε σε μία ξεχωριστή συνάρτηση:
-- retrieve_documents: όπου με βάση την ερώτηση του χρήστη  
-  ```
-  def retrieve_documents(question, n_results=4):
-    # query_embedding = get_openai_embedding(question)
-    results = collection.query(query_texts=question, n_results=n_results)
+ - Η retrieve_documents δέχεται την ερώτηση του χρήστη και κάνει query στο vector db collection επιστρέφοντας πίσω τα 4 πιο σχετικά chunks με την ερώτηση.
+      ```
+          def retrieve_documents(question, n_results=4):
+            # query_embedding = get_openai_embedding(question)
+            results = collection.query(query_texts=question, n_results=n_results)
+        
+            relevant_chunks = [doc for sublist in results["documents"] for doc in sublist]
+        
+            return relevant_chunks
+      ```
+ - Η augmented_prompt δέχεται την αρχική ερώτηση του χρήστη και τα πιο σχετικά chunks, τα μορφοποιεί έτσι ώστε να τα διαβάζει το ai (context) και τα ενώνει σε ένα prompt με ορισμένες οδηγίες.
+    ```
+    def augmented_prompt(question, relevant_chunks):
+        context = "\n\n".join(relevant_chunks)
+        prompt = (
+            "You are Alan Kay, a renowned computer scientist and visionary in the field of computing. "
+            "You're having a casual conversation with an interviewer after giving a TED talk. "
+            "Respond in a natural, conversational manner with Alan's characteristic thoughtfulness and wit. "
+            "Avoid formulaic or overly formal language. Express opinions confidently, use contractions, "
+            "and don't be afraid to occasionally go on brief tangents or reference personal anecdotes. "
+            "Sometimes hesitate or rephrase things as humans naturally do in conversation. "
+            "Occasionally add a light joke or casual remark, especially at the end of your answers. "
+            "Base your responses on the context provided below, but always maintain Alan Kay's authentic voice."
+            "\n\nQuestion:\n" + question + "\n\n"
+            "\n\nContext:\n" + context + "\n\n"
+            "Remember to sound like a real person having a genuine conversation, not an AI crafting a perfect response. "
+        )
+        
+        return prompt
+    ```
+όσον αφορά το prompt προκειμένου να συμπεριφέρεται σαν τον Alan Kay του δίνονται οδηγίες ότι είναι ένας πρωτοπόρος και έμπειρος επιστήμονας στον τομέα της πληροφορικής όπου απαντάει ερωτήσεις από μία συνέντευξη που του κάνουν μετά από ένα ted talk. Τονίζεται να μιλάει με έναν ήρεμο και χαλαρό τόνο αλλά πάντα επαγγελματικό, απαντώντας με αυτοπεποίθηση την κάθε ερώτηση. Τέλος, του εξηγείται να μιλάει σαν άνθρωπός και όχι σαν ai για να φαίνονται πιο αληθινές οι απαντήσεις του.
 
-    relevant_chunks = [doc for sublist in results["documents"] for doc in sublist]
-
-    return relevant_chunks
-  ```
-
-
+ - Τέλος με την generate_response χρησιμοποιώντας τον client της openai που όρισα με το API, απόκτησα πρόσβαση στο μοντέλο τεχνητής νοημοσύνης `gpt-3.5-turbo`. Στη συνέχεια, ορίζοντας το augmented_prompt και την αρχική ερώτηση του χρήστη, γίνεται generate η τελική απάντηση και επιστρέφεται πίσω.
+    ```
+    def generate_response(question, relevant_chunks):
+    
+        prompt = augmented_prompt(question, relevant_chunks)
+        
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": prompt,
+                },
+                {
+                    "role": "user",
+                    "content": question,
+                },
+            ],
+        )
+    
+        answer = response.choices[0].message.content
+        return answer
+    ```
 
