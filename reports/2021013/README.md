@@ -50,6 +50,9 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 | Was one byte ever less than eight bits in the ...	  | When I started “programming as a job” in the U... |
 | Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
 | What are your thoughts on a future where code ...	  | First, it’s worth noting that the “syntax reco...|
+|...|...|
+| Is programming learned inductively or deductiv...	  | "I don’t feel I completely understand this qu... |
+| What are your thoughts on a future where code ...	  | First, it’s worth noting that the “syntax reco...|
 
 
 
