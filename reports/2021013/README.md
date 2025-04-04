@@ -288,6 +288,7 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 ```
 ## Σύντομη Παρουσίαση Εφαρμογής
 
+https://github.com/user-attachments/assets/5704f932-ef8d-4ad0-bc09-3735acac124c
 
 
 ## Διαδικασία Εκτέλεσης της Εφαρμογής
