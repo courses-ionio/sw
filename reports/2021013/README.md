@@ -221,6 +221,7 @@ client = OpenAI(api_key=openai_key)
     ```
 <h3 id="Fast_API">FastApi </h3>
 Προκειμένου να ακούει σε post requests έφτιαξα και ένα ξεχωριστό server API που τρέχει locally. Το API αυτό φτιάχτηκε μέσω της βιβλιοθήκης `FastAPI()`, όπου ο server τρέχει στο router `/ask/alan_kay` και λαμβάνει σε post request την ερώτηση του χρήστη. Αφου την δεχτεί μέσω του cors, κάνει retrieve τα πιο σχετικά chunks και τα δίνει μαζί με την ερώτηση στην συνάρτηση που θα κάνει generate την τελική απάντηση του Alan kay που στέλνεται πίσω ως response.
+
 ```
 app = FastAPI()
 class QuestionRequest(BaseModel):
@@ -242,11 +243,14 @@ async def ask_question(request: QuestionRequest):
 ```
 ### Ανάπτυξη User Interface μέσω streamlit
 Αφότου δημιουργήθηκε ένα ξεχωριστό server api που επιστρέφει την απάντηση του alan kay, αναπτύχθηκε ένα chatbot για να μπορούν οι χρήστες να επικοινωνούν πιο εύκολα με τον alan kay. Η διαδικάσια αυτή έγινε μέσω της βιβλιοθήκης της python, streamlit. Ως πρώτο βήμα αρχικοποιήθηκε μία λίστα που δέχεται αντικείμενα που περιέχει τα μυνήματα που στέλνει ο χρήστης μαζί και τις απαντήσεις του alan kay:
+
 ```
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 ```
+
 Έπειτα, εμφανίζεται το κάθε μύνημα που έχει αποθηκευτεί μέσα σε αυτήν ως ιστορικό μυνημάτων. Το κάθε μύνημα έχει 2 ρόλους, το ένα είναι του χρήστη, και το δεύτερο είναι του assistant ή αλλιώς του alan kay. Πριν γραφτεί το μήνυμα του, συμπεριέχεται και μία εικόνα του alan kay ως avatar, για να είναι πιο πειστικό στον χρήστη ότι μιλάει σε εκείνον.
+
 ```
 for message in st.session_state.chat_history:
     if message["role"] == 'assistant':
@@ -256,6 +260,7 @@ for message in st.session_state.chat_history:
         with st.chat_message("user"):
             st.write(message['message'])
 ```
+
 Για να γραφτεί νέο μύνημα αρχικά φτιάχτηκε ένα chat input streamlit component που δέχεται την ερώτηση του χρήστη. Σε αυτήν την ερώτηση της δίνεται ο ρόλος user και γράφετε πάνω στο ui, προστιθοντάς το και στην chat_history λίστα. Έπειτα, για το μύνημα με ρόλο assistant (alan kay ) γίνεται αρχικά post request στο API που δημιουργήθηκε [εδώ](#Fast_API), και μέχρι να απαντήσει δίνει ένα μύνημα ότι ο alan kay γράφει. Αφότου του επιστραφεί η απάντηση τότε χωρίζεται ανά γράμμα, και ανά ένα πολύ μικρό χρονικο διάστημα τότε γράφεται πάνω στο chat το κάθε γράμμα για να δώσει την ψευδαίσθηση ότι γράφει την απάντηση του με πληκτρολόγιο όπως είναι το chatgpt της openai. Τέλος και αυτό το μύνημα αποθηκεύεται στο chat history. 
 
 ```
