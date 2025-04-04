@@ -219,7 +219,7 @@ client = OpenAI(api_key=openai_key)
         answer = response.choices[0].message.content
         return answer
     ```
-### FastAPI 
+<h3 id="FastAPI">FastApi </h3>
 Προκειμένου να ακούει σε post requests έφτιαξα και ένα ξεχωριστό server API που τρέχει locally. Το API αυτό φτιάχτηκε μέσω της βιβλιοθήκης `FastAPI()`, όπου ο server τρέχει στο router `/ask/alan_kay` και λαμβάνει σε post request την ερώτηση του χρήστη. Αφου την δεχτεί μέσω του cors, κάνει retrieve τα πιο σχετικά chunks και τα δίνει μαζί με την ερώτηση στην συνάρτηση που θα κάνει generate την τελική απάντηση του Alan kay που στέλνεται πίσω ως response.
 ```
 app = FastAPI()
@@ -256,6 +256,28 @@ for message in st.session_state.chat_history:
         with st.chat_message("user"):
             st.write(message['message'])
 ```
+Για να γραφτεί νέο μύνημα αρχικά φτιάχτηκε ένα chat input streamlit component που δέχεται την ερώτηση του χρήστη. Σε αυτήν την ερώτηση της δίνεται ο ρόλος user και γράφετε πάνω στο ui, προστιθοντάς το και στην chat_history λίστα. Έπειτα, για το μύνημα με ρόλο assistant (alan kay ) γίνεται αρχικά post request στο API που δημιουργήθηκε [εδώ](#FastAPI), και μέχρι να απαντήσει δίνει ένα μύνημα ότι ο alan kay γράφει. Αφότου του επιστραφεί η απάντηση τότε χωρίζεται ανά γράμμα, και ανά ένα πολύ μικρό χρονικο διάστημα τότε γράφεται πάνω στο chat το κάθε γράμμα για να δώσει την ψευδαίσθηση ότι γράφει την απάντηση του με πληκτρολόγιο όπως είναι το chatgpt της openai. Τέλος και αυτό το μύνημα αποθηκεύεται στο chat history. 
 
 ```
+if user_input := st.chat_input("Ask me anything...", key="user_input"):
+    user_message = {"role": "user", "message": user_input}
+    st.session_state.chat_history.append(user_message)
+    with st.chat_message("user"):
+        st.markdown(user_input)
+    with st.chat_message("assistant", avatar=ALAN_KAY_PROFILE_IMG):
+        status_text = st.empty()
+        status_text.markdown("Alan Kay is typing...")
+        assistant_response = API_response(API_URL,user_input)
+        message_placeholder = st.empty()
+        status_text.empty()
+        full_response = ""
+        for chunk in assistant_response.split():
+            full_response += chunk + " "
+            time.sleep(0.05)
+            message_placeholder.markdown(full_response + "▌")
+            
+        message_placeholder.markdown(full_response,unsafe_allow_html=True)
+        
+    chatbot_message = {"role": "assistant", "message": assistant_response}
+    st.session_state.chat_history.append(chatbot_message)
 ```
