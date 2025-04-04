@@ -286,3 +286,55 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
     chatbot_message = {"role": "assistant", "message": assistant_response}
     st.session_state.chat_history.append(chatbot_message)
 ```
+## Σύντομη Παρουσίαση Εφαρμογής
+
+
+
+## Διαδικασία Εκτέλεσης της Εφαρμογής
+Για να τρέξει κάποιος χρήστης την συγκεκριμένη εφαρμογή, θα πρέπει πρώτα να ρυθμίσει ένα Python περιβάλλον, να αποκτήσει το προσωπικό του OpenAI API, και έπειτα να τρέξει την streamlit εφαρμογή μέσω του terminal μαζί με το server api.
+### Ρύθμιση της python
+Αρχικά πρέπει να τρέξει την παρακάτω εντολή για την δημιουργία του περιβάλλοντος
+```
+python -m venv myenv
+```
+και να το ενεργοποιήσει μέσω
+```
+source myenv/bin/activate
+```
+για Linux/Mac χρήστες ή
+```
+myenv\Scripts\activate
+```
+για window χρήστες.
+
+Μετά την ενεργοποίηση του, χρειάζεται να γίνει εγκατάσταση όλων των απαιτήσεων που βρίσκονται στο [requirements.txt](https://github.com/nkanagno/alan-kay-chatbot/blob/main/requirements.txt) (python 3.10.0 προτεινόμενη έκδοση) με την παρακάτω εντολή:
+```
+pip install -r requirements.txt
+```
+
+### Δημιουργία προσωπικού OpenAi api κλειδιού
+
+Για την δημιουργία νέου OpenAI API κλειδιού, θα πρέπει να μεταβεί ο χρήστης στην κύρια ιστοσελίδα της [OpenAI](https://platform.openai.com/).
+
+Αφότου το αποκτήσει, θα χρειαστεί να το θέση σε ένα `.env` αρχείο με τον εξής τρόπο:
+```
+OPENAI_API_KEY=your_api_key_here
+```
+
+### Server Custom API 
+Η παρακάτω εντολή τρέχει τον server του custom api για να μπορεί το chatbot να στέλνει post requests και να δέχεται τα κατάλληλα responses:
+```
+uvicorn API:app --reload
+```
+
+### webapp.py
+To alan kay chatbot ή αλλιώς η κύρια εφαρμογή βρίσκεται σε ένα αρχείο με όνομα `webapp.py` και για να τρέξει χρειάζεται η παρακάτω εντολή να εκτελεστεί στο terminal:
+```
+streamlit run webapp.py
+```
+
+## Τεστ εφαρμογής και αποτελέσματα:
+
+## Συμπεράσματα εφαρμογής
+
+# Συμπεράσμα μαθήματος
