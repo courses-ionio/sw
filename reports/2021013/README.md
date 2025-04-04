@@ -241,3 +241,21 @@ async def ask_question(request: QuestionRequest):
     return {"answer": response}
 ```
 ### Ανάπτυξη User Interface μέσω streamlit
+Αφότου δημιουργήθηκε ένα ξεχωριστό server api που επιστρέφει την απάντηση του alan kay, αναπτύχθηκε ένα chatbot για να μπορούν οι χρήστες να επικοινωνούν πιο εύκολα με τον alan kay. Η διαδικάσια αυτή έγινε μέσω της βιβλιοθήκης της python, streamlit. Ως πρώτο βήμα αρχικοποιήθηκε μία λίστα που δέχεται αντικείμενα που περιέχει τα μυνήματα που στέλνει ο χρήστης μαζί και τις απαντήσεις του alan kay:
+```
+if 'chat_history' not in st.session_state:
+    st.session_state.chat_history = []
+```
+Έπειτα, εμφανίζεται το κάθε μύνημα που έχει αποθηκευτεί μέσα σε αυτήν ως ιστορικό μυνημάτων. Το κάθε μύνημα έχει 2 ρόλους, το ένα είναι του χρήστη, και το δεύτερο είναι του assistant ή αλλιώς του alan kay. Πριν γραφτεί το μήνυμα του, συμπεριέχεται και μία εικόνα του alan kay ως avatar, για να είναι πιο πειστικό στον χρήστη ότι μιλάει σε εκείνον.
+```
+for message in st.session_state.chat_history:
+    if message["role"] == 'assistant':
+        with st.chat_message("assistant", avatar=ALAN_KAY_PROFILE_IMG):
+            st.write(message['message'])
+    else:
+        with st.chat_message("user"):
+            st.write(message['message'])
+```
+
+```
+```
