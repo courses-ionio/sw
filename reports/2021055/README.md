@@ -131,6 +131,6 @@
 
 Προτεινόμενη λύση: Ενσωμάτωση ενός while βρόχου ελέγχου που θα ελέγχει την είσοδο του χρήστη μέχρι να δοθεί έγκυρη απάντηση (yes ή no). Παρόμοια λογική μπορεί να χρησιμοποιηθεί σε οποιοδήποτε σημείο απαιτείται διαδραστική επιλογή.
 
-Αποθετήριο της εργασίας: [yaml-LLM-translator-cli](https://github.com/Axileaszervos/yaml-LLM-translator-cli)
+## Αποθετήριο της εργασίας: [yaml-LLM-translator-cli](https://github.com/Axileaszervos/yaml-LLM-translator-cli)
 
 
