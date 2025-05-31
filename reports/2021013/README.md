@@ -337,8 +337,10 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
     st.session_state.chat_history.append(chatbot_message)
 ```
 
-## Τεστ εφαρμογής και αποτελέσματα:
+## Μελλοντική δουλειά
+Εκτός από τις ερωτοαπαντήσεις του στο quora, ο alan kay έχει μεταφέρει τις γνώσεις του σε διάφορες συνεδριάσεις που βρίσκονται τώρα στο youtube.
+Ένα παράδειγμα είναι το συγκεκριμένο βίντεο με τίτλο [
+Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) 
 
-## Συμπεράσματα εφαρμογής
 
 # Συμπεράσμα μαθήματος
