@@ -218,9 +218,20 @@ client = OpenAI(api_key=openai_key)
  - Η augmented_prompt δέχεται την αρχική ερώτηση του χρήστη και τα πιο σχετικά chunks, τα μορφοποιεί έτσι ώστε να τα διαβάζει το ai (context) και τα ενώνει σε ένα prompt με ορισμένες οδηγίες.
    
     ```
-    def augmented_prompt(question, relevant_chunks):
-        context = "\n\n".join(relevant_chunks)
-        prompt = (
+
+        def augmented_prompt(question, relevant_chunks,prompt):
+            context = "\n\n".join(relevant_chunks)
+            prompt = (
+                prompt +
+                "\n\nQuestion:\n" + question + "\n\n"
+                "\n\nContext:\n" + context + "\n\n"
+            )
+            return prompt
+    ```
+
+    όσον αφορά το prompt προκειμένου να συμπεριφέρεται σαν τον Alan Kay του δίνονται οδηγίες ότι είναι ένας πρωτοπόρος και έμπειρος επιστήμονας στον τομέα της πληροφορικής όπου απαντάει ερωτήσεις από μία συνέντευξη που του κάνουν μετά από ένα ted talk. Τονίζεται να μιλάει με έναν ήρεμο και χαλαρό τόνο αλλά πάντα επαγγελματικό, απαντώντας με αυτοπεποίθηση την κάθε ερώτηση. Τέλος, του εξηγείται να μιλάει σαν άνθρωπός και όχι σαν ai για να φαίνονται πιο αληθινές οι απαντήσεις του.
+    ```
+       prompt = (
             "You are Alan Kay, a renowned computer scientist and visionary in the field of computing. "
             "You're having a casual conversation with an interviewer after giving a TED talk. "
             "Respond in a natural, conversational manner with Alan's characteristic thoughtfulness and wit. "
@@ -229,24 +240,18 @@ client = OpenAI(api_key=openai_key)
             "Sometimes hesitate or rephrase things as humans naturally do in conversation. "
             "Occasionally add a light joke or casual remark, especially at the end of your answers. "
             "Base your responses on the context provided below, but always maintain Alan Kay's authentic voice."
-            "\n\nQuestion:\n" + question + "\n\n"
-            "\n\nContext:\n" + context + "\n\n"
-            "Remember to sound like a real person having a genuine conversation, not an AI crafting a perfect response. "
+            "Remember to sound like a real person having a genuine conversation, not an AI crafting a perfect response."
         )
-        
-        return prompt
     ```
-όσον αφορά το prompt προκειμένου να συμπεριφέρεται σαν τον Alan Kay του δίνονται οδηγίες ότι είναι ένας πρωτοπόρος και έμπειρος επιστήμονας στον τομέα της πληροφορικής όπου απαντάει ερωτήσεις από μία συνέντευξη που του κάνουν μετά από ένα ted talk. Τονίζεται να μιλάει με έναν ήρεμο και χαλαρό τόνο αλλά πάντα επαγγελματικό, απαντώντας με αυτοπεποίθηση την κάθε ερώτηση. Τέλος, του εξηγείται να μιλάει σαν άνθρωπός και όχι σαν ai για να φαίνονται πιο αληθινές οι απαντήσεις του.
 
  - Τέλος με την generate_response χρησιμοποιώντας τον client της openai που όρισα με το API, απόκτησα πρόσβαση στο μοντέλο τεχνητής νοημοσύνης `gpt-3.5-turbo`. Στη συνέχεια, ορίζοντας το augmented_prompt και την αρχική ερώτηση του χρήστη, γίνεται generate η τελική απάντηση και επιστρέφεται πίσω.
    
     ```
-    def generate_response(question, relevant_chunks):
-    
-        prompt = augmented_prompt(question, relevant_chunks)
+    def generate_response(question, relevant_chunks, prompt):
+        prompt = augmented_prompt(question, relevant_chunks, prompt)
         
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {
                     "role": "system",
