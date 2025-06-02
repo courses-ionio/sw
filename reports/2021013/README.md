@@ -17,7 +17,7 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA-13)
 # Alan kay chatbot τεχνιτής νοημοσύνης - Απαλλακτική Εργασία
 
 ## Περίληψη
-Κατά την διάρκεια του μαθήματος, πραγματοποιήθηκε η ανάπτυξη ενός AI chatbot προσωποποιεί έναν custom χαρακτήρα της επιλογής του χρήστη αλλά επικεντρώνεται κυρίως στον χαρακτήρα του Alan kay, ένος σπουδαίου και πρωτοπόρου επιστήμονα στον κόσμο της τεχνολογίας. Έχοντας στην διάθεση μου τις πιο πρόσφατες τεχνολογίες τεχνητής νοημοσύνης όπως εξελιγμένα εργαλεία της OpenAi, η υλοποίηση αυτού του project μπόρεσε και ήταν εφικτή. Σημαντικά εργαλεία της OpenAi αποτέλεσαν το API, embedding μοντέλα τεχνητής νοημοσύνης και μία vector database. Η ένωση των παραπάνω εργαλειών, έκαναν εφικτή την υλοποίηση της προχωρημένου επιπέδου τεχνικής που είναι υπεύθυνη για την όλη ανάπτυξη της συγκεκριμένης εφαρμογής, και ονομάζεται Retrieval Augmented Generation ή αλλιώς RAG. Η τεχνική αυτή επιτρέπει την ανάπτυξη εξελιγμένων ΑΙ chatbots τα οποία είναι εκπαιδευμένα και απαντούν ερωτήσεις χρηστών πάνω σε ειδικά δεδομένα που είναι αποθηκευμένα σε μορφή αρχείου κειμένου όπως PDF, txt, markdown κλπ. Σε αυτή την περίπτωση οι γνώσεις του Alan kay chatbot βασίζονται σε δεδομένα ερωτοαπαντήσεων του Alan Kay, που βρίσκονται στο κεντρικό profile του στο QUORA και η επεξεργάσια τους έγινε μέσω της γλώσσας προγραμματισμού, Python. Τέλος, το μεγαλύτερο μέρος της εφαρμογής έγινε μέσω Python με τις πιο σημαντικές βιβλιοθήκες να είναι η streamlit για το User Ιnterface, η pandas για την επεξεργασία των δεδομένων, η OpenAi για το RAG και την FastApi για να ακούει σε post requests να επιστρέφει την απάντηση του Alan Kay.
+Κατά την διάρκεια του μαθήματος, πραγματοποιήθηκε η ανάπτυξη ενός AI chatbot προσωποποιεί έναν custom χαρακτήρα της επιλογής του χρήστη αλλά επικεντρώνεται κυρίως στον χαρακτήρα του Alan kay, ένος σπουδαίου και πρωτοπόρου επιστήμονα στον κόσμο της τεχνολογίας. Έχοντας στην διάθεση μου τις πιο πρόσφατες τεχνολογίες τεχνητής νοημοσύνης όπως εξελιγμένα εργαλεία της OpenAi, η υλοποίηση αυτού του project μπόρεσε και ήταν εφικτή. Σημαντικά εργαλεία της OpenAi αποτέλεσαν το API, embedding μοντέλα τεχνητής νοημοσύνης και μία vector database. Η ένωση των παραπάνω εργαλειών, έκαναν εφικτή την υλοποίηση της προχωρημένου επιπέδου τεχνικής που είναι υπεύθυνη για την όλη ανάπτυξη της συγκεκριμένης εφαρμογής, και ονομάζεται Retrieval Augmented Generation ή αλλιώς RAG. Η τεχνική αυτή επιτρέπει την ανάπτυξη εξελιγμένων ΑΙ chatbots τα οποία είναι εκπαιδευμένα και απαντούν ερωτήσεις χρηστών πάνω σε ειδικά δεδομένα που είναι αποθηκευμένα σε μορφή αρχείου κειμένου όπως PDF, txt, markdown κλπ. Σε αυτή την περίπτωση οι γνώσεις του Alan kay chatbot βασίζονται σε δεδομένα ερωτοαπαντήσεων του Alan Kay, που βρίσκονται στο κεντρικό profile του στο QUORA και η επεξεργάσια τους έγινε μέσω της γλώσσας προγραμματισμού, Python. Τέλος, το μεγαλύτερο μέρος της εφαρμογής έγινε μέσω Python με τις πιο σημαντικές βιβλιοθήκες να είναι η streamlit για το User Ιnterface, η pandas για την επεξεργασία των δεδομένων και η OpenAi για το RAG.
 
 ## Εισαγωγή
 
@@ -62,7 +62,7 @@ myenv\Scripts\activate
 ```
 για window χρήστες.
 
-Μετά την ενεργοποίηση του, χρειάζεται να γίνει εγκατάσταση όλων των απαιτήσεων που βρίσκονται στο [requirements.txt](https://github.com/nkanagno/alan-kay-chatbot/blob/main/requirements.txt) (python 3.10.0 προτεινόμενη έκδοση) με την παρακάτω εντολή:
+Μετά την ενεργοποίηση του, χρειάζεται να γίνει εγκατάσταση όλων των απαιτήσεων που βρίσκονται στο [requirements.txt](https://github.com/nkanagno/custom-character-AI-chatbot/blob/main/requirements.txt) (python 3.10.0 προτεινόμενη έκδοση) με την παρακάτω εντολή:
 ```
 pip install -r requirements.txt
 ```
@@ -97,7 +97,7 @@ streamlit run webapp.py
 
 (691 rows × 2 columns)
 
-Όπου οποιοσδήποτε χρήστης στο github έχει πρόσβαση στο συγκεκριμένο αρχείο csv καθώς είναι ανεβασμένο σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.csv](https://github.com/nkanagno/alan-kay-chatbot/blob/main/data/quora_q%26a_alan_kay.csv).
+Όπου οποιοσδήποτε χρήστης στο github έχει πρόσβαση στο συγκεκριμένο αρχείο csv καθώς είναι ανεβασμένο σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.csv](https://github.com/nkanagno/custom-character-AI-chatbot/blob/main/data/quora_q%26a_alan_kay.csv).
 
 ### Προεπεξεργασία δεδομένων
 Λόγο το ότι η τεχνική RAG εφαρμόζεται πιο αποδοτικά σε αρχεία κειμένου χρειάστηκε να μεταφερθούν αυτές οι ερωτοαπαντήσεις σε ένα αρχείο txt. Η διαδικασία αυτή πραγματοποιήθηκε μέσω python με τον παρακάτω κώδικα:
@@ -116,7 +116,7 @@ Alan's kay Answer:  "I don’t feel I completely understand this question (or pe
 ```
 ώστε να μπορεί να αναγνωρίζει το AI την ερώτηση που τέθηκε και ύστερα την απάντηση που δώθηκε από τον alan kay.
 
-Παρομοίως με απο πάνω όλες οι χρήστες του github έχει πρόσβαση σε αυτό το αρχείο txt γιατί βρίσκεται σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.txt](https://github.com/nkanagno/alan-kay-chatbot/blob/main/data/alan_kay_knowledge/quora_q%26a_alan_kay.txt).
+Παρομοίως με απο πάνω όλες οι χρήστες του github έχει πρόσβαση σε αυτό το αρχείο txt γιατί βρίσκεται σε δήμοσιο αποθετήριο [quora_q&a_alan_kay.txt](https://github.com/nkanagno/custom-character-AI-chatbot/blob/main/data/alan_kay_knowledge/quora_q%26a_alan_kay.txt).
 
 <h3 id="Vector_db"> Δημιουργία Embeddings και vector database</h3>
 Σε πρακτικό επίπεδο, όσον αφορά την δημιούργια των embeddings οι κύριες βιβλιοθήκες της python που χρησιμοποιήθηκαν είναι της openai και της chromadb. Η openai χρειάστηκε για την επαφή με τα μοντέλα τεχνιτής νοημοσύνης όπως το `gpt-3.5` για το text generation API και το `text-embedding-3-small` το οποίο φτιάχνει τα embeddings για την vector database. Η chromadb χρειάστηκε για την δημιουργία της vector database και την διαχείριση της embedding function της openai. Συγκεκριμένα, παρακάτω φαίνεται η αρχικοποίηση του api και της vector database:
@@ -200,7 +200,7 @@ client = OpenAI(api_key=openai_key)
             print("==== inserting chunks into db;; ====")
             collection.upsert(ids=[doc["id"]], documents=[doc["text"]],embeddings=[doc['embedding']])
     ```
-όλες οι παραπάνω συναρτήσεις βρίσκονται μέσα στο αρχείο [`process_data.ipynb`](https://github.com/nkanagno/alan-kay-chatbot/blob/main/process_data.ipynb). 
+όλες οι παραπάνω συναρτήσεις βρίσκονται μέσα στο αρχείο [`process_data.ipynb`](https://github.com/nkanagno/custom-character-AI-chatbot/blob/main/process_data.ipynb). 
 
 ### Τεχνική RAG στην πράξη
 Για να εφαρμοστεί η τεχική αυτή χρειάστηκε να γίνει ξάνα η αρχικοποίηση της vector database όπως έγινε [εδώ](#Vector_db). Έπειτα, το κάθε στάδιο χωρίστηκε σε μία ξεχωριστή συνάρτηση:
@@ -264,6 +264,28 @@ client = OpenAI(api_key=openai_key)
     ```
 
 ### Ανάπτυξη User Interface μέσω streamlit
+Η εφαρμογή εμπεριέχει 2 tabs το ένα είναι το character creation και το δεύτερο είναι το chatbot στο οποίο ο χρήστης επικοινωνεί με τον χαρακτήρα αυτόν. Τα tabs δημιουργήθηκαν με το component του streamlit `option_menu` όπως φαίνεται παρακάτω:
+```
+tabs = ["Character creation"]
+if os.path.isdir("./data/chroma_persistent_storage"):
+    tabs = ["Character creation", "Chatbot"]
+icons = ["bi-box-arrow-in-right"] + ["person-fill"]
+
+selected_tab = option_menu(
+    menu_title="Select a tab",
+    options=tabs,
+    default_index=0,
+    icons=icons,
+    orientation="horizontal",
+)
+```
+όπου αν η vector database υπάρχει μόνο τότε εμφανίζει το tab με το chatbot αλλιώς μόνο το character creation.
+#### Custom character creation tab:
+Αρχικά δημιουργήθηκε η βάση [characters.db](https://github.com/nkanagno/custom-character-AI-chatbot/blob/main/characters.db) με τις παρακάτω στήλες στον πίνακα:
+
+<img width="203" alt="characters.db image" src="https://github.com/user-attachments/assets/c93dee21-00de-477d-ac7e-c240e0edfb66" />
+
+#### Chatbot tab:
 Αφότου δημιουργήθηκε ένα ξεχωριστό server api που επιστρέφει την απάντηση του alan kay, αναπτύχθηκε ένα chatbot για να μπορούν οι χρήστες να επικοινωνούν πιο εύκολα με τον alan kay. Η διαδικάσια αυτή έγινε μέσω της βιβλιοθήκης της python, streamlit. Ως πρώτο βήμα αρχικοποιήθηκε μία λίστα που δέχεται αντικείμενα που περιέχει τα μυνήματα που στέλνει ο χρήστης μαζί και τις απαντήσεις του alan kay:
 
 ```
