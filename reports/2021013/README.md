@@ -285,6 +285,84 @@ selected_tab = option_menu(
 
 <img width="203" alt="characters.db image" src="https://github.com/user-attachments/assets/c93dee21-00de-477d-ac7e-c240e0edfb66" />
 
+όπου μέσω μιας φόρμας ο χρήστης μπορεί να δημιουργήσει τον custom χαρακτήρα του, με πιο σημαντικά πεδία να είναι τα text_data που είναι το περιεχόμενο της βάσης γνώσης του χαρακτήρα, και το prompt το οποίο μπορεί να το αλλάξει όπως ακριβώς επιθυμεί και δημιουργήθηκε με τον παρακάτω κώδικα:
+```
+onn = sqlite3.connect('characters.db', check_same_thread=False)  # allow Streamlit threads
+c = conn.cursor()
+c.execute("SELECT name, prompt, text_data, image, description FROM characters ORDER BY id DESC LIMIT 1")
+row = c.fetchone()
+ALAN_KAY_PROFILE_IMG = None
+if row and row[3]:
+    try:
+        ALAN_KAY_PROFILE_IMG = Image.open(io.BytesIO(row[3]))
+    except Exception as e:
+        st.error(f"❌ Failed to load profile image: {e}")
+
+if selected_tab == "Character creation":
+    st.title("🧠 Create Your Own Character Chatbot")
+    c.execute("SELECT name, prompt, text_data, image, description FROM characters ORDER BY id DESC LIMIT 1")
+    saved_character = c.fetchone()
+    default_name = saved_character[0] if saved_character else ""
+    default_prompt = saved_character[1] if saved_character else ""
+    default_description = saved_character[4] if saved_character else ""
+    
+    
+    # --- FORM ---
+    with st.form("character_form"):
+        name = st.text_input("Character Name", value=default_name)
+        prompt = st.text_area("System Prompt (personality, tone, etc.)", value=default_prompt)
+        text_file = st.file_uploader("Upload .txt file for knowledge base", type=["txt"])
+        image_file = st.file_uploader("Upload Profile Image (JPG/PNG)", type=["jpg", "png"])
+        description = st.text_area("Description", value=default_description)
+
+        if saved_character:
+            st.markdown("📝 Using last saved files unless new ones are uploaded.")
+
+        submitted = st.form_submit_button("💾 Save Character")
+        if submitted:
+            text_data = text_file.read().decode("utf-8") if text_file else saved_character[2]
+            image_bytes = image_file.read() if image_file else saved_character[3]
+            if not (name and prompt and text_data and image_bytes):
+                st.error("⚠️ Please complete all fields before saving.")
+            else:
+                c.execute("DELETE FROM characters")
+                conn.commit()
+                c.execute(
+                    "INSERT INTO characters (name, prompt, text_data, image, description) VALUES (?, ?, ?, ?, ?)",
+                    (name, prompt, text_data, image_bytes, description)
+                )
+                conn.commit()
+                st.success(f"✅ Character '{name}' saved successfully!")
+
+```
+όπου περιέχει τα αποθηκευμένα χαρακτηριστηκά του προηγούμενου χαρακτήρα ως default values με την εικόνα να είναι σε μορφή bytes και αν γίνει νεό submit γίνεται ανάλογη ανανέωση στη βάση.
+
+Έπειτα για να αποφευχθεί οποιοδήποτε λάθος αν υπάρχουν δεδομένα στη βάση τότε εμφανίζονται όλα κάτω από την φόρμα, όπου για τα text_data δείχνει τους πρώτους 300 χαρακτήρες.
+```
+
+    c.execute("SELECT name, prompt, text_data, image, description FROM characters ORDER BY id DESC LIMIT 1")
+    row = c.fetchone()
+    if row:
+        st.subheader(f"Character: {row[0]}")
+        st.markdown(f"**Prompt:** {row[1]}")
+        st.markdown("**Sample from text data (first 300 chars):**")
+        st.code(row[2][:300] + "..." if len(row[2]) > 300 else row[2])
+        st.markdown("**Profile Image:**")
+        image = Image.open(io.BytesIO(row[3]))
+        st.image(image, width=150)
+        st.markdown(f"**Description:** {row[4]}")
+    else:
+        st.info("No character saved yet.")
+```
+και τέλος για να μπορέσει το ai να μπορέσει να γίνει αυτός ο χαρακτήρας, ο χρήστης πατάει το κουμπί `Feed the chat with your uploaded text data` όπου εκτελεί την συνάρτηση `create_embeddings()`:
+```
+    st.write("## Press the button to create your character chatbot")
+    create_embeddings_button = st.button("Feed the chat with your uploaded text data")
+    if create_embeddings_button:
+        create_embeddings()
+```
+που με την σειρά της, με λίγα λόγια σβήνει την παλιά vector database και ανανεώνει τα embeddings με τα νέα text_data του χρήστη.
+
 #### Chatbot tab:
 Αφότου δημιουργήθηκε ένα ξεχωριστό server api που επιστρέφει την απάντηση του alan kay, αναπτύχθηκε ένα chatbot για να μπορούν οι χρήστες να επικοινωνούν πιο εύκολα με τον alan kay. Η διαδικάσια αυτή έγινε μέσω της βιβλιοθήκης της python, streamlit. Ως πρώτο βήμα αρχικοποιήθηκε μία λίστα που δέχεται αντικείμενα που περιέχει τα μυνήματα που στέλνει ο χρήστης μαζί και τις απαντήσεις του alan kay:
 
