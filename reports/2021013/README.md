@@ -41,7 +41,10 @@ To πρώτο είναι το `Retrieval` που ο χρήστης κάνει μ
 Ο Άλαν Κέι (γεννημένος στις 17 Μαΐου 1940) είναι ένας από τους πιο κορυφαίους Αμερικάνους επιστήμονες της πληροφορικής, γνωστός για το σημαντικό του έργο στον αντικειμενοστραφή προγραμματισμό και στο σχεδιασμό γραφικών περιβαλλόντων με παράθυρα (GUI). Όσο εργαζόταν στο ερευνητικό κέντρο Xerox PARC, ήταν υπεύθυνος για την ανάπτυξη της πρώτης σύγχρονης επιφάνειας εργασίας με παράθυρα για υπολογιστές. Εκεί, ήταν επίσης βασικός δημιουργός της γλώσσας προγραμματισμού Smalltalk, μιας από τις πρώτες αντικειμενοστραφείς γλώσσες, την οποία σχεδίασε σε μεγάλο βαθμό ο ίδιος. Μάλιστα, ο ίδιος εισήγαγε τον όρο "αντικειμενοστραφής". Έχει τιμηθεί με πολλές διακρίσεις και είναι μέλος σημαντικών επιστημονικών και τεχνολογικών ιδρυμάτων. Στη συγκεκριμένη εφαρμογή έχουμε πάρει τα δεδομένα από το quora με τις ερωτοαπαντήσεις του, ως βάση γνώσεις για το chatbot.
 
 ## Σύντομη Παρουσίαση Εφαρμογής
+### Create Custom character tab
+https://github.com/user-attachments/assets/124c1526-77bd-40a2-bc4d-5aa012123393
 
+### chatbot tab
 https://github.com/user-attachments/assets/5704f932-ef8d-4ad0-bc09-3735acac124c
 
 
@@ -424,42 +427,43 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 ```
 
-Έπειτα, εμφανίζεται το κάθε μύνημα που έχει αποθηκευτεί μέσα σε αυτήν ως ιστορικό μυνημάτων. Το κάθε μύνημα έχει 2 ρόλους, το ένα είναι του χρήστη, και το δεύτερο είναι του assistant ή αλλιώς του alan kay. Πριν γραφτεί το μήνυμα του, συμπεριέχεται και μία εικόνα του alan kay ως avatar, για να είναι πιο πειστικό στον χρήστη ότι μιλάει σε εκείνον.
+Έπειτα, εμφανίζεται το κάθε μύνημα που έχει αποθηκευτεί μέσα σε αυτήν ως ιστορικό μυνημάτων. Το κάθε μύνημα έχει 2 ρόλους, το ένα είναι του χρήστη, και το δεύτερο είναι του assistant ή αλλιώς του χαρακτήρα του χρήστη (πχ alan kay). Πριν γραφτεί το μήνυμα του, συμπεριέχεται και μία εικόνα του χαρακτήρα του χρήστη (πχ alan kay) ως avatar, για να είναι πιο πειστικό στον χρήστη ότι μιλάει σε εκείνον.
 
 ```
-for message in st.session_state.chat_history:
-    if message["role"] == 'assistant':
-        with st.chat_message("assistant", avatar=ALAN_KAY_PROFILE_IMG):
-            st.write(message['message'])
-    else:
-        with st.chat_message("user"):
-            st.write(message['message'])
+    for message in st.session_state.chat_history:
+        if message["role"] == 'assistant':
+            with st.chat_message("assistant", avatar=CUSTOM_CHARACTER_PROFILE_IMG):
+                st.write(message['message'])
+        else:
+            with st.chat_message("user"):
+                st.write(message['message'])
 ```
 
-Για να γραφτεί νέο μύνημα αρχικά φτιάχτηκε ένα chat input streamlit component που δέχεται την ερώτηση του χρήστη. Σε αυτήν την ερώτηση της δίνεται ο ρόλος user και γράφετε πάνω στο ui, προστιθοντάς το και στην chat_history λίστα. Έπειτα, για το μύνημα με ρόλο assistant (alan kay) γίνεται αρχικά post request στο API που δημιουργήθηκε [εδώ](#Fast_API), και μέχρι να απαντήσει δίνει ένα μύνημα ότι ο alan kay γράφει. Αφότου του επιστραφεί η απάντηση τότε χωρίζεται ανά γράμμα, και ανά ένα πολύ μικρό χρονικο διάστημα τότε γράφεται πάνω στο chat το κάθε γράμμα για να δώσει την ψευδαίσθηση ότι γράφει την απάντηση του με πληκτρολόγιο όπως είναι το chatgpt της openai. Τέλος και αυτό το μύνημα αποθηκεύεται στο chat history. 
+Για να γραφτεί νέο μύνημα αρχικά φτιάχτηκε ένα chat input streamlit component που δέχεται την ερώτηση του χρήστη. Σε αυτήν την ερώτηση της δίνεται ο ρόλος user και γράφετε πάνω στο ui, προστιθοντάς το και στην chat_history λίστα. Έπειτα, για το μύνημα με ρόλο assistant (alan kay) γίνονται αρχικά retrieved, τα relevant chunks μαζί με το τελικό response, και μέχρι να απαντήσει δείχνει ένα μύνημα ότι ο χαρακτήρας με το όνομα του γράφει. Αφότου του επιστραφεί η απάντηση τότε χωρίζεται ανά γράμμα, και ανά ένα πολύ μικρό χρονικο διάστημα τότε γράφεται πάνω στο chat το κάθε γράμμα για να δώσει την ψευδαίσθηση ότι γράφει την απάντηση του με πληκτρολόγιο όπως είναι το chatgpt της openai. Τέλος και αυτό το μύνημα αποθηκεύεται στο chat history. 
 
 ```
 if user_input := st.chat_input("Ask me anything...", key="user_input"):
-    user_message = {"role": "user", "message": user_input}
-    st.session_state.chat_history.append(user_message)
-    with st.chat_message("user"):
-        st.markdown(user_input)
-    with st.chat_message("assistant", avatar=ALAN_KAY_PROFILE_IMG):
-        status_text = st.empty()
-        status_text.markdown("Alan Kay is typing...")
-        assistant_response = API_response(API_URL,user_input)
-        message_placeholder = st.empty()
-        status_text.empty()
-        full_response = ""
-        for chunk in assistant_response.split():
-            full_response += chunk + " "
-            time.sleep(0.05)
-            message_placeholder.markdown(full_response + "▌")
+        user_message = {"role": "user", "message": user_input}
+        st.session_state.chat_history.append(user_message)
+        with st.chat_message("user"):
+            st.markdown(user_input)
+        with st.chat_message("assistant", avatar=CUSTOM_CHARACTER_PROFILE_IMG):
+            status_text = st.empty()
+            status_text.markdown(row[0] + " is typing...")
+            chunks = retrieve_documents(user_input)
+            assistant_response = generate_response(user_input, chunks, row[1])
+            message_placeholder = st.empty()
+            status_text.empty()
+            full_response = ""
+            for chunk in assistant_response.split():
+                full_response += chunk + " "
+                time.sleep(0.05)
+                message_placeholder.markdown(full_response + "▌")
             
-        message_placeholder.markdown(full_response,unsafe_allow_html=True)
-        
-    chatbot_message = {"role": "assistant", "message": assistant_response}
-    st.session_state.chat_history.append(chatbot_message)
+            message_placeholder.markdown(full_response,unsafe_allow_html=True)
+            
+        chatbot_message = {"role": "assistant", "message": assistant_response}
+        st.session_state.chat_history.append(chatbot_message)
 ```
 
 ## Μελλοντική δουλειά
