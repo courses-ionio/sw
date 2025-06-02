@@ -472,3 +472,5 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 Ένα παράδειγμα, είναι το συγκεκριμένο βίντεο με τίτλο [
 Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) όπου περιέχει την ομιλία του alan kay στο συνέδριο OOPSLA το 1997 μοιράζοντας τις απόψεις του πάνω στο συγκριμένο θέμα. Επιπροσθέτως, στο youtube περιέχονται πολλές ακόμα σημαντικές ομιλίες του οι οποίες θα μπορούσαν να χρησιμοποιηθούν ως βάση γνώσης για το AI chat bot. Προκειμένου να γίνει αυτή η υλοποίηση θα πρέπει να μετατραπουν οι ομιλίες αυτές σε μορφή mp4 και ύστερα να αναπτυχθεί το transcript τους σε μορφή vtt μέσω AI εργαλεία όπως το [gladia](https://www.gladia.io/) και το [pyannote](https://www.pyannote.ai/). Για κάθε vtt θα πρέπει να γίνει μεταφορά του περιεχομένου σε ένα μεγάλο txt αρχείο που θα περιέχει όλες τις ομιλίες μαζεμένες. Τέλος, θα χρειαστεί να γίνει αναφόρτωση του αρχείου αυτού στο create custom character form και να πατηθεί το κουμπί `feed the chat with your uploaded text data`.
 
+## Παραδοτέα μαθήματος:
+
