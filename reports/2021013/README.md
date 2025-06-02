@@ -362,7 +362,55 @@ if selected_tab == "Character creation":
         create_embeddings()
 ```
 που με την σειρά της, με λίγα λόγια σβήνει την παλιά vector database και ανανεώνει τα embeddings με τα νέα text_data του χρήστη.
+```
 
+def create_embeddings():
+    import tempfile
+    chroma_path = "./data/chroma_persistent_storage"
+
+    # Check if Chroma storage is missing or corrupted
+    if not os.path.exists(os.path.join(chroma_path, "chroma.sqlite3")):
+        st.warning("🔁 Bootstrapping Chroma persistent directory...")
+        temp_client = chromadb.Client()
+        temp_client.get_or_create_collection("bootstrap")
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = os.path.abspath(tmp)
+            shutil.copytree(temp_client._system._persist_directory, chroma_path, dirs_exist_ok=True)
+
+    openai_ef = embedding_functions.OpenAIEmbeddingFunction(
+        api_key=openai_key,
+        model_name="text-embedding-3-small",
+    )
+    chroma_client = chromadb.PersistentClient(path=chroma_path)
+    collection_name = "document_qa_collection"
+
+    try:
+        chroma_client.delete_collection(name=collection_name)
+    except:
+        pass
+
+    # Recreate collection with embedding function
+    collection = chroma_client.get_or_create_collection(
+        name=collection_name,
+        embedding_function=openai_ef
+    )
+
+    data = row[2]
+    chunks = split_text(data)
+    # print(f"== Splitting docs into chunks ==")
+    text_chunks = []
+    for i, chunk in enumerate(chunks):
+        text_chunks.append({"id": f"chunk{i+1}", "text": chunk})
+ 
+    for chunk in text_chunks:
+        st.write("==== Generating embeddings... ====")
+        chunk["embedding"] = get_openai_embedding(chunk["text"])
+    
+    for chunk in text_chunks:
+        st.write("==== inserting chunks into db;; ====")
+        collection.upsert(ids=[chunk["id"]], documents=[chunk["text"]],embeddings=[chunk['embedding']])
+
+```
 #### Chatbot tab:
 Αφότου δημιουργήθηκε ένα ξεχωριστό server api που επιστρέφει την απάντηση του alan kay, αναπτύχθηκε ένα chatbot για να μπορούν οι χρήστες να επικοινωνούν πιο εύκολα με τον alan kay. Η διαδικάσια αυτή έγινε μέσω της βιβλιοθήκης της python, streamlit. Ως πρώτο βήμα αρχικοποιήθηκε μία λίστα που δέχεται αντικείμενα που περιέχει τα μυνήματα που στέλνει ο χρήστης μαζί και τις απαντήσεις του alan kay:
 
