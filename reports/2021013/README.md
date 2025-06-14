@@ -478,47 +478,57 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 4.  "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
 5.  "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
 
-## Alan Kay Chatbot vs Chat-gpt
+## Alan Kay Chatbot vs ChatGPT
 
 ### Ερώτηση 1: "what is object oriented programming?"
 
-Alan Kay Chatbot Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+Alan Kay Chatbot:
+```
+```
 
-Chat gpt Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+ChatGPT:
+```
+```
 
 ### Ερώτηση 2: "how is SmallTalk different to modern OOP systems, such as Java and C++?"
 
-Alan Kay Chatbot Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+Alan Kay Chatbot:
+```
+```
 
-Chat gpt Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+ChatGPT:
+```
+```
 
 ### Ερώτηση 3: "which is the relationship between the operating system and the programming language?"
 
-Alan Kay Chatbot Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+Alan Kay Chatbot:
+```
+```
 
-Chat gpt Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+ChatGPT:
+```
+```
 
 ### Ερώτηση 4: "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
 
-Alan Kay Chatbot Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+Alan Kay Chatbot:
+```
+```
 
-Chat gpt Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+ChatGPT:
+```
+```
 
 ### Ερώτηση 5: "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
 
-Alan Kay Chatbot Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+Alan Kay Chatbot:
+```
+```
 
-Chat gpt Απάντηση:
-```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+ChatGPT:
+```
+```
 
 
 ## Συμπέρασματα
