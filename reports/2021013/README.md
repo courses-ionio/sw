@@ -544,3 +544,10 @@ Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://ww
 - [Πρόταση ιδέας απαλλακτικής εργασίας](https://github.com/courses-ionio/sw/discussions/1795)
 - [mid term progress report](https://github.com/courses-ionio/sw/discussions/1798)
 - [final term progress report](https://github.com/courses-ionio/sw/discussions/1802)
+
+## Βιβλιογραφία:
+- [RAG wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+- [RAG Fundamentals and Advanced Techniques](https://www.youtube.com/watch?v=ea2W8IogX80)
+- [Streamlit documentation](https://docs.streamlit.io/)
+- [Alan kay quora profile](https://www.quora.com/profile/Alan-Kay-11)
+- [Application](https://custom-character-ai-chatbot.onrender.com/)
