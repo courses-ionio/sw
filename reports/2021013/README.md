@@ -467,6 +467,61 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
         st.session_state.chat_history.append(chatbot_message)
 ```
 
+## Πειραματικό Στάδιο
+
+Για να αξιολογηθεί η αποτελεσματικότητα της εφαρμογής RAG έγινε σύγκριση με το ChatGPT. Πιο συγκεκριμένα, πραγματοποιήθηκε ένα πείραμα χρησιμοποιώντας πέντε συγκεκριμένες ερωτήσεις. Οι ίδιες ερωτήσεις δώθηκαν τόσο στην εφαρμογή (χρησιμοποιώντας τη βάση γνώσης του Alan Kay) όσο και στο ChatGPT. Για το ChatGPT, ανεβάστηκε το αρχείο με τις απαντήσεις του Alan Kay ως context και χρησιμοποίηθηκε το ίδιο αρχικό prompt.
+
+Οι ερωτήσεις που χρησιμοποιήθηκαν είναι οι εξής:
+1.  "what is object oriented programming?"
+2.  "how is SmallTalk different to modern OOP systems, such as Java and C++?"
+3.  "which is the relationship between the operating system and the programming language?"
+4.  "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
+5.  "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
+## Απαντήσεις εφαρμογή RAG (Alan Kay Chatbot) vs Chat-gpt
+
+### Ερώτηση 1: "what is object oriented programming?"
+
+Alan Kay Chatbot Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+
+Chat gpt Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+
+### Ερώτηση 2: "how is SmallTalk different to modern OOP systems, such as Java and C++?"
+
+Alan Kay Chatbot Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+
+Chat gpt Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+
+### Ερώτηση 3: "which is the relationship between the operating system and the programming language?"
+
+Alan Kay Chatbot Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+
+Chat gpt Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+
+### Ερώτηση 4: "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
+
+Alan Kay Chatbot Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+
+Chat gpt Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+
+### Ερώτηση 5: "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
+
+Alan Kay Chatbot Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από την εφαρμογή σας]```
+
+Chat gpt Απάντηση:
+```[Εδώ θα τοποθετήσετε την απάντηση από το ChatGPT]```
+
+
+## Συμπέρασματα
+
 ## Μελλοντική δουλειά
 Εκτός από τις ερωτοαπαντήσεις του στο quora, ο alan kay έχει μεταφέρει τις γνώσεις του σε διάφορες συνεδριάσεις που βρίσκονται τώρα στο youtube.
 Ένα παράδειγμα, είναι το συγκεκριμένο βίντεο με τίτλο [
