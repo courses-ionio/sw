@@ -469,7 +469,7 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 
 ## Πειραματικό Στάδιο
 
-Για να αξιολογηθεί η αποτελεσματικότητα της εφαρμογής RAG έγινε σύγκριση με το ChatGPT. Πιο συγκεκριμένα, πραγματοποιήθηκε ένα πείραμα χρησιμοποιώντας πέντε συγκεκριμένες ερωτήσεις. Οι ίδιες ερωτήσεις δώθηκαν τόσο στην εφαρμογή (χρησιμοποιώντας τη βάση γνώσης του Alan Kay) όσο και στο ChatGPT. Για το ChatGPT, ανεβάστηκε το αρχείο με τις απαντήσεις του Alan Kay ως context και χρησιμοποίηθηκε το ίδιο αρχικό prompt.
+Για να αξιολογηθεί η αποτελεσματικότητα της εφαρμογής RAG έγινε σύγκριση με το ChatGPT. Πιο συγκεκριμένα, πραγματοποιήθηκε ένα πείραμα χρησιμοποιώντας 5 συγκεκριμένες ερωτήσεις. Οι ίδιες ερωτήσεις δώθηκαν τόσο στην εφαρμογή (χρησιμοποιώντας τη βάση γνώσης του Alan Kay) όσο και στο ChatGPT. Για το ChatGPT, ανεβάστηκε το αρχείο με τις απαντήσεις του Alan Kay ως context και χρησιμοποίηθηκε το ίδιο αρχικό prompt.
 
 Οι ερωτήσεις που χρησιμοποιήθηκαν είναι οι εξής:
 1.  "what is object oriented programming?"
@@ -477,7 +477,8 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 3.  "which is the relationship between the operating system and the programming language?"
 4.  "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
 5.  "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
-## Απαντήσεις εφαρμογή RAG (Alan Kay Chatbot) vs Chat-gpt
+
+## Alan Kay Chatbot vs Chat-gpt
 
 ### Ερώτηση 1: "what is object oriented programming?"
 
