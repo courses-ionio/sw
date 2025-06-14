@@ -484,7 +484,7 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 
 ## Alan Kay Chatbot vs ChatGPT
 
-### Ερώτηση 1: "what is object oriented programming?"
+### Ερώτηση 1: `what is object oriented programming?`
 
 `Alan Kay Chatbot:`
 Object-oriented programming, or OOP as it's often called, is an approach to software design where you model your program based on objects. These objects can be thought of as self-contained units that hold data and the methods to process that data. The idea is to organize software design around data, or more accurately, around "objects," rather than functions and logic. The core principles of OOP are encapsulation, inheritance, and polymorphism. Encapsulation is all about bundling data with the methods that operate on that data, providing a kind of protective shield that keeps the data safe from outside interference and misuse. Inheritance allows one class to inherit the attributes and methods of another class, which promotes code reuse. Polymorphism gives objects the ability to be processed in different ways depending on their data type or class. One of my favorite analogies for explaining OOP is to think of it like a biological system. Just as cells build tissues, tissues build organs, and organs build systems, objects can be combined to form larger software structures. What's interesting is how the concept of objects isn't just limited to programming—it's a perspective on design and problem-solving that can be applied in many areas. So, in OOP, you're essentially programming by arranging interactions among these objects, like actors in a play, each knowing their lines and roles.
@@ -492,7 +492,7 @@ Object-oriented programming, or OOP as it's often called, is an approach to soft
 `ChatGPT:`
 
 
-### Ερώτηση 2: "how is SmallTalk different to modern OOP systems, such as Java and C++?"
+### Ερώτηση 2: `how is SmallTalk different to modern OOP systems, such as Java and C++?`
 
 `Alan Kay Chatbot:`
 Well, that's a great question. I suppose one way to look at it is that Smalltalk, at its core, is more pure in its object-oriented approach. In Smalltalk, everything is an object—right down to things like numbers and classes themselves. That was quite a radical idea back in the day and still sets it apart in a way. When you consider languages like Java and C++, they were heavily influenced by the need for efficiency and the constraints of their time, leading to certain compromises. For example, C++ incorporates both object-oriented features and the ability to work directly with system-level programming. It's like a Swiss Army knife, offering a variety of paradigms within one language. Java, while more architecturally pure than C++, still incorporates primitive types that aren't objects, which is a bit of a departure from the "everything is an object" philosophy. Smalltalk was really built around this idea of live objects and interaction. The development environment itself was very dynamic, almost like a personal computing experience—an extension of the user. You could interact with the system live, without the usual edit-compile-test-debug cycle. Meanwhile, in Java or C++, you're typically in a more linear, segmented cycle of development. So, to put it simply, Smalltalk is like having a conversation with the computer, whereas in Java or C++, it's more like filling out a form and waiting in line for a response. They all have their places, but it's their fundamental philosophy and approach to how we interact with computers that really sets them apart.
@@ -501,7 +501,7 @@ Well, that's a great question. I suppose one way to look at it is that Smalltalk
 `ChatGPT:`
 
 
-### Ερώτηση 3: "which is the relationship between the operating system and the programming language?"
+### Ερώτηση 3: `which is the relationship between the operating system and the programming language?`
 
 `Alan Kay Chatbot:`
 Ha, that's a good one! You've hit on an interesting relationship here. An operating system (OS) and a programming language are like two sides of the same coin in the world of computing. The OS is the underlying software that manages hardware resources and provides services for computer programs. It's sort of like the stage crew at a theater performance, making sure everything runs smoothly behind the scenes. On the other hand, a programming language is the medium through which we express instructions and build applications—think of it as the script used by the actors. When you write a program, you're essentially writing a play for the computer to perform, and the operating system helps make sure the right acts come together on time. Different languages interact with the OS in varied ways, depending on their nature. For example, systems programming languages like C are closely aligned with the operating system because they can access system calls directly. Higher-level languages might rely more on abstraction, letting you work without diving into the nitty-gritty details of the OS. Interestingly, the two can even blend at times; Lisp machines back in the day ran directly in Lisp, showing how a language can transcend and even subsume traditional OS roles. It’s a rich, multifaceted relationship, and one that’s influenced the evolution of both operating systems and languages over the years.
@@ -509,7 +509,7 @@ Ha, that's a good one! You've hit on an interesting relationship here. An operat
 `ChatGPT:`
 
 
-### Ερώτηση 4: "what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?"
+### Ερώτηση 4: `what is the benefit of having a separate programming languages for the end user to the implementation of the operating system like most modern operating systems do?`
 
 `Alan Kay Chatbot:`
 Well, having separate programming languages for different layers in a system, like the end user versus the operating system, is quite practical. It’s a bit like having different tools for different jobs. Each layer has its own set of needs and complexities that are best served by specialized tools. Operating systems, for example, require a language that can interact closely with hardware and manage resources efficiently. That's why they're often written in languages like C, which are powerful, efficient, and offer low-level access to system components. On the other hand, end-user applications benefit from languages that prioritize ease of use and rapid development. Think of Python or JavaScript—these languages let developers focus more on building features without getting bogged down in the nitty-gritty of memory management or other system-level concerns. So, it’s largely about choosing the right tool for the job. This separation allows developers to work more effectively within their respective domains, leveraging the strengths of different languages to create more robust and user-friendly systems. It’s a bit like using different dialects to solve varied linguistic challenges—except we don’t have dictionaries for all the languages of computer science, at least not yet!
@@ -518,7 +518,7 @@ Well, having separate programming languages for different layers in a system, li
 `ChatGPT:`
 
 
-### Ερώτηση 5: "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
+### Ερώτηση 5: `are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?`
 
 `Alan Kay Chatbot:`
 Well, tightly integrated systems like Lisp, Smalltalk, Squeak, and Pharo certainly have their advantages—things like uniformity, flexibility, and the so-called "turtles all the way down" approach can make them a pleasure to work with. However, like most things in computing, there are trade-offs to consider. One potential downside is that they often require a mindset shift for folks who are used to more traditional languages and development environments. The idea of everything being live and changeable can be a bit overwhelming at first. It also means that debugging and understanding a system might require deeper insight into how everything is connected. Another aspect is integration with existing systems or collaborating with other tools and languages. Because these environments are so self-contained and often quite different from mainstream languages, bringing in external libraries or interfacing with other systems can sometimes be more challenging. And, of course, with everything being so tightly integrated, there's the argument that it might not be as easy to swap out parts or try different components without disrupting the whole. But then again, that’s part of the beauty of these systems—they invite you to see computation as a unified whole! Overall, it's about choosing the right tool for the task at hand, and sometimes these integrated systems are just the thing you need to open your mind to new ways of thinking about programming.
