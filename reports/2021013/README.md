@@ -4,9 +4,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
 
-## Github repo και link εφαρμογής σε δημόσιο σύνδεσμο:
-- https://github.com/nkanagno/custom-character-AI-chatbot/
-- https://custom-character-ai-chatbot.onrender.com/
+## Σημαντικοί συνδέσμοι:
+- [Application online link](https://custom-character-ai-chatbot.onrender.com/)
+- [Github Repo](https://github.com/nkanagno/custom-character-AI-chatbot/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Alan kay quora profile](https://www.quora.com/profile/Alan-Kay-11)
+- [RAG wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+- [RAG Fundamentals and Advanced Techniques](https://www.youtube.com/watch?v=ea2W8IogX80)
 
 # Εισαγωγή Μαθήματος και Αρχική Στόχοι (Προχωρημένα Θέματα Τεχνολογίας Λογισμικού)
 Μέσω του μαθήματος Προχωρημένα Θέματα Τεχνολογίας Λογισμικού, το οποίο δίνει βάση σε προχωρημένες διαδικασίες ανάπτυξης λογισμικού καθώς και σε εργαλεία που χρησιμοποιούνται σε αυτού του είδους διαδικασίες, ευελπιστώ να εξελίξω τον τρόπο σκέψης μου όσον αφορά την σχεδίαση και την ανάπτυξη λογισμικού μαθένοντας περισσότερα εργαλεία και τρόπους ανάπτυξης λογισμικού από αυτά/ους που ήδη γνωρίζω. 
@@ -544,10 +548,3 @@ Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://ww
 - [Πρόταση ιδέας απαλλακτικής εργασίας](https://github.com/courses-ionio/sw/discussions/1795)
 - [mid term progress report](https://github.com/courses-ionio/sw/discussions/1798)
 - [final term progress report](https://github.com/courses-ionio/sw/discussions/1802)
-
-## Βιβλιογραφία:
-- [RAG wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-- [RAG Fundamentals and Advanced Techniques](https://www.youtube.com/watch?v=ea2W8IogX80)
-- [Streamlit documentation](https://docs.streamlit.io/)
-- [Alan kay quora profile](https://www.quora.com/profile/Alan-Kay-11)
-- [Application](https://custom-character-ai-chatbot.onrender.com/)
