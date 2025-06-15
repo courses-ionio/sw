@@ -483,7 +483,7 @@ if user_input := st.chat_input("Ask me anything...", key="user_input"):
 5.  "are there any disadvantages in tightly integrated computer systems like Lisp, SmallTalk, Squeak, and Pharo?"
 
 ### Alan kay chatbot vs ChatGPT `Questions - Answers`:
- - https://github.com/nkanagno/custom-character-AI-chatbot/discussions/1
+ - [Alan kay chatbot vs ChatGPT discussion](https://github.com/nkanagno/custom-character-AI-chatbot/discussions/1)
 
 ## Συμπέρασματα
 Μέσα από το πειραματικό στάδιο που υλοποιήθηκε μπορεί κανείς να συμπεράνει ότι και τα δύο μοντέλα απαντάνε με παρόμοιο ύφος και λίγο επιπρόσθετο humor που πλησιάζει του alan kay. Επίσης, φαίνεται πως ξεκινάνε και τα δύο με κοινές λέξεις όπως το 'well' και το 'Ah', οι οποίες δεν είναι κάτι που ο alan kay φαίνεται να χρησιμοποιεί στις απαντήσεις του. Πιο συγκεκριμένα, το Chatgpt δίνει μεγαλύτερες απαντήσεις, με περισσότερο humor, με επιπρόσθετα emotes και με πιο χιουμοριστικό - ειρωνικό ύφος δείχνοντας ότι προσπαθεί υπερβολικά πολύ να πλησιάσει τον χαρακτήρα του alan kay. Απο την άλλη μεριά, το alan kay chatbot φαίνεται να απαντάει με πιο σοβαρό και 
